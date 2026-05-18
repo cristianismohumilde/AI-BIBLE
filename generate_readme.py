@@ -31,6 +31,7 @@ MANUSCRIPTS = [
     ("TR",               "TR",               "✝️", "Textus Receptus (TR)",        "Grego Koiné",                   ""),
     ("BYZ",              "BYZ",              "✝️", "Texto Bizantino (BYZ)",       "Grego Koiné",                   ""),
     ("SBLGNT",           "SBLGNT",           "✝️", "Texto Crítico (SBLGNT)",      "Grego Koiné",                   ""),
+    ("VUL",              "VUL",              "🏛️", "Vulgata Latina",              "Latim",                         ""),
 ]
 
 ANCIENT_VERSIONS = [
@@ -69,12 +70,24 @@ STUDY_LABELS = {
     "morphhb_sample_genesis.xml":       "MorphHB (Morfologia Hebraica)",
     "cal_aramaic_utils.js":             "CAL Aramaic Utils",
     "coptic_reference.txt":             "Copta — Referência",
+    "lsj_greek.xml":                    "LSJ Greek Lexicon",
+    "lewis_short_latin.xml":            "Lewis & Short Latin",
+    "dillmann_geez.pdf":                "Dillmann Ge'ez Lexicon",
+    "crum_coptic.pdf":                  "W.E. Crum Coptic Dictionary",
+    "brockelmann_syriac.pdf":           "Brockelmann Lexicon Syriacum",
+    "bedrossian_armenian.pdf":          "Bedrossian Armenian Dictionary",
+    "vulgata_latina.txt":               "Vulgata Latina (Texto Bruto)",
 }
 
 # ─────────────────────────────────────────────────────────
 # Funções utilitárias
 # ─────────────────────────────────────────────────────────
 def count_json_recursive(path):
+    # Tratamento especial para Vulgata (1189 capítulos) que ainda está em .txt
+    if "VUL" in path and "output" not in path:
+        if os.path.exists(os.path.join(path, "vulgata_latina.txt")):
+            return 1189
+        
     if not os.path.isdir(path):
         return 0
     total = 0
@@ -207,6 +220,13 @@ def main():
     days       = int(hours_left // 24)
     hours      = int(hours_left % 24)
     eta_str    = f"~{days}d {hours}h" if all_out < all_data else "Concluido!"
+    
+    # Estimativa de custo (Oracle Cloud A10 custa aprox. $1.50/hora)
+    # Mas como o usuário mencionou $300 para 22 dias, isso dá $13.60/dia ou $0.56/hora.
+    # Vamos usar $0.60/h como base para o cálculo de custo da GPU preemptible ou similar.
+    custo_hora = 1.00 # Estimativa genérica em dólar
+    custo_total = int(hours_left * custo_hora)
+    custo_str = f"~${custo_total} USD" if all_out < all_data else "$0"
 
     # Linha de fase automática
     phase2_status = ("Em andamento" if all_out > 0 else "Aguardando") + f" — {all_out:,}/{all_data:,} caps ({pct:.1f}%)"
@@ -232,7 +252,8 @@ com transliteração acadêmica incluída.
 |---|---|
 | Capítulos fonte disponíveis | **{all_data:,}** |
 | Capítulos traduzidos | **{all_out:,}** ({pct:.1f}%) |
-| ETA estimado | **{eta_str}** |
+| ETA estimado de processamento | **{eta_str}** |
+| Custo estimado restante (Oracle GPU) | **{custo_str}** |
 | Velocidade (com Double-Pass) | ~15 caps/hora |
 | Última atualização | {now} |
 
