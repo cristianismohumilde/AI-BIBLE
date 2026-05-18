@@ -250,6 +250,26 @@ def download_missing_study():
         # Robertson Greek Grammar
         ("https://www.gutenberg.org/cache/epub/44606/pg44606.txt",
          f"{gram_dir}/robertson_greek_grammar.txt", "Robertson Greek Grammar"),
+        
+        # --- NOVOS LÉXICOS AVANÇADOS ---
+        # LSJ (Liddell-Scott-Jones)
+        ("https://raw.githubusercontent.com/PerseusDL/lexica/master/CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng1.xml",
+         f"{lex_dir}/lsj_greek.xml", "LSJ Greek Lexicon"),
+        # Lewis & Short (Latim)
+        ("https://raw.githubusercontent.com/PerseusDL/lexica/master/CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng1.xml",
+         f"{lex_dir}/lewis_short_latin.xml", "Lewis & Short Latin"),
+        # Dillmann (Ge'ez) - PDF via Archive.org
+        ("https://archive.org/download/LexiconLinguaeAethiopicae/LexiconLinguaeAethiopicae.pdf",
+         f"{lex_dir}/dillmann_geez.pdf", "Dillmann Lexicon Linguae Aethiopicae"),
+        # W.E. Crum (Copta) - PDF via Archive.org
+        ("https://archive.org/download/ACopticDictionary/Crum-ACopticDictionary.pdf",
+         f"{lex_dir}/crum_coptic.pdf", "W.E. Crum Coptic Dictionary"),
+        # Brockelmann (Siríaco) - PDF via Archive.org
+        ("https://archive.org/download/lexiconsyriacum00broc/lexiconsyriacum00broc.pdf",
+         f"{lex_dir}/brockelmann_syriac.pdf", "Brockelmann Lexicon Syriacum"),
+        # Bedrossian (Armênio Clássico) - PDF via Archive.org
+        ("https://archive.org/download/NewDictionaryArmenianEnglish/BedrossianNewDictionaryArmenianEnglish.pdf",
+         f"{lex_dir}/bedrossian_armenian.pdf", "Bedrossian Armenian Dictionary"),
     ]
 
     for url, path, label in items:
@@ -281,11 +301,40 @@ def download_missing_study():
     print("  INDEX.json atualizado.")
 
 
+def download_vulgata():
+    """Baixa a Vulgata Clementina."""
+    print("\n" + "="*60)
+    print("VUL - VULGATA LATINA")
+    print("="*60)
+    out_dir = "data/VUL"
+    os.makedirs(out_dir, exist_ok=True)
+    
+    # Vamos baixar a Vulgata Clementina do repositório público
+    vul_url = "https://raw.githubusercontent.com/clementinedotsearch/clementine-vulgate-xml/master/clementine.xml"
+    out_path = f"{out_dir}/vulgata_clementine.xml"
+    
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 1024:
+        print(f"  [JA EXISTE] Vulgata Latina ({os.path.getsize(out_path)//1024} KB)")
+        return
+        
+    print("  Baixando Vulgata Latina...")
+    try:
+        r = requests.get(vul_url, timeout=60)
+        if r.status_code == 200:
+            with open(out_path, "wb") as f: f.write(r.content)
+            print(f"    OK: Vulgata Latina salva em {out_dir}/vulgata_clementine.xml")
+        else:
+            print(f"    Erro: HTTP {r.status_code}")
+    except Exception as e:
+        print(f"    Erro ao baixar Vulgata: {e}")
+
+
 if __name__ == "__main__":
     print("="*60)
     print("BAIXANDO SBLGNT, BYZ E MATERIAIS DE ESTUDO")
     print("="*60)
     download_sblgnt()
     download_byz()
+    download_vulgata()
     download_missing_study()
     print("\nCONCLUIDO!")
