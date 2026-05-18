@@ -1,0 +1,67 @@
+============================================================
+BAIXANDO SBLGNT, BYZ E MATERIAIS DE ESTUDO
+============================================================
+
+============================================================
+SBLGNT - TEXTO CRITICO GREGO
+============================================================
+  bible-api.com nao tem SBLGNT.
+  Baixando SBLGNT raw (LogosBible/SBLGNT GitHub)...
+  Tentando morphgnt (mesmo texto base do SBLGNT com morfologia)...
+  SBLGNT/morphgnt: 0 capitulos salvos em data/SBLGNT/
+
+============================================================
+BYZ - TEXTO BIZANTINO (Majority Text)
+============================================================
+  Matthew: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B01___Matthew_Byzantine_Parsed.txt
+  Mark: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B02___Mark_Byzantine_Parsed.txt
+  Luke: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B03___Luke_Byzantine_Parsed.txt
+  John: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B04___John_Byzantine_Parsed.txt
+  Acts: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B05___Acts_Byzantine_Parsed.txt
+  Romans: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B06___Romans_Byzantine_Parsed.txt
+  1Corinthians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B07___1Corinthians_Byzantine_Parsed.txt
+  2Corinthians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B08___2Corinthians_Byzantine_Parsed.txt
+  Galatians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B09___Galatians_Byzantine_Parsed.txt
+  Ephesians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B10___Ephesians_Byzantine_Parsed.txt
+  Philippians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B11___Philippians_Byzantine_Parsed.txt
+  Colossians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B12___Colossians_Byzantine_Parsed.txt
+  1Thessalonians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B13___1Thessalonians_Byzantine_Parsed.txt
+  2Thessalonians: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B14___2Thessalonians_Byzantine_Parsed.txt
+  1Timothy: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B15___1Timothy_Byzantine_Parsed.txt
+  2Timothy: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B16___2Timothy_Byzantine_Parsed.txt
+  Titus: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B17___Titus_Byzantine_Parsed.txt
+  Philemon: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B18___Philemon_Byzantine_Parsed.txt
+  Hebrews: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B19___Hebrews_Byzantine_Parsed.txt
+  James: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B20___James_Byzantine_Parsed.txt
+  1Peter: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B21___1Peter_Byzantine_Parsed.txt
+  2Peter: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B22___2Peter_Byzantine_Parsed.txt
+  1John: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B23___1John_Byzantine_Parsed.txt
+  2John: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B24___2John_Byzantine_Parsed.txt
+  3John: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B25___3John_Byzantine_Parsed.txt
+  Jude: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B26___Jude_Byzantine_Parsed.txt
+  Revelation: HTTP 404 - https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed/B27___Revelation_Byzantine_Parsed.txt
+  BYZ: 0 capitulos salvos em data/BYZ/
+
+============================================================
+MATERIAIS DE ESTUDO - Fontes Corrigidas
+============================================================
+  Baixando Strong's Hebrew...
+    HTTP 404: https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.json
+  Baixando Strong's Greek...
+    HTTP 404: https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.json
+  [JA EXISTE] BDB Hebraico (2843 KB)
+  [JA EXISTE] Hebrew Strong Enhanced (2684 KB)
+  Baixando Abbott-Smith Greek...
+    HTTP 404: https://raw.githubusercontent.com/translatable-exegetical-tools/Abbott-Smith/master/AS.csv
+  Baixando Sedra Syriac Roots...
+    HTTP 404: https://raw.githubusercontent.com/peshitta/sedra-db/master/sedra/ROOTS.TXT
+  Baixando Sedra Syriac Lexemes...
+    HTTP 404: https://raw.githubusercontent.com/peshitta/sedra-db/master/sedra/LEXEMES.TXT
+  Baixando Gesenius Hebrew Grammar...
+    OK: Gesenius Hebrew Grammar (83 KB)
+  Baixando Noldeke Syriac Grammar...
+    OK: Noldeke Syriac Grammar (576 KB)
+  [JA EXISTE] Robertson Greek Grammar (70 KB)
+  INDEX.json atualizado.
+
+CONCLUIDO!

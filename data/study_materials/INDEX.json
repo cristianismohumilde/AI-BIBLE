@@ -1,0 +1,24 @@
+{
+  "lexicons": {
+    "brown_driver_briggs.xml": {
+      "size_kb": 2843
+    },
+    "hebrew_strong_enhanced.xml": {
+      "size_kb": 2684
+    },
+    "jastrow_dictionary.txt": {
+      "size_kb": 253
+    }
+  },
+  "grammars": {
+    "gesenius_hebrew_grammar.txt": {
+      "size_kb": 83
+    },
+    "noldeke_syriac_grammar.txt": {
+      "size_kb": 576
+    },
+    "robertson_greek_grammar.txt": {
+      "size_kb": 70
+    }
+  }
+}

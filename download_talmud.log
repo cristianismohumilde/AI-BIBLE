@@ -1,0 +1,143 @@
+
+============================================================
+📚 BAIXANDO TRATADOS DO TALMUD BAVLI (Sefaria)
+============================================================
+Tratados já existentes: {'Shabbat', 'Sanhedrin', 'Berakhot'}
+Tratados a baixar: 34
+  Baixando Eruvin (Eruvin)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Eruvin.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Eruvin.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Eruvin.json'
+  Baixando Pesachim (Pesachim)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Pesachim.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Pesachim.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Pesachim.json'
+  Baixando Yoma (Yoma)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Yoma.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Yoma.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Yoma.json'
+  Baixando Sukkah (Sukkah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Sukkah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Sukkah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Sukkah.json'
+  Baixando Beitzah (Beitzah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Beitzah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Beitzah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Beitzah.json'
+  Baixando Rosh_Hashanah (Rosh Hashanah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Rosh_Hashanah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Rosh_Hashanah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Rosh_Hashanah.json'
+  Baixando Taanit (Taanit)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Taanit.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Taanit.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Taanit.json'
+  Baixando Megillah (Megillah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Megillah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Megillah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Megillah.json'
+  Baixando Moed_Katan (Moed Katan)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Moed_Katan.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Moed_Katan.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Moed_Katan.json'
+  Baixando Chagigah (Chagigah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Chagigah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Chagigah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Chagigah.json'
+  Baixando Yevamot (Yevamot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Yevamot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Yevamot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Yevamot.json'
+  Baixando Ketubot (Ketubot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Ketubot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Ketubot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Ketubot.json'
+  Baixando Nedarim (Nedarim)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Nedarim.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Nedarim.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Nedarim.json'
+  Baixando Nazir (Nazir)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Nazir.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Nazir.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Nazir.json'
+  Baixando Sotah (Sotah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Sotah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Sotah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Sotah.json'
+  Baixando Gittin (Gittin)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Gittin.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Gittin.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Gittin.json'
+  Baixando Kiddushin (Kiddushin)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Kiddushin.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Kiddushin.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Kiddushin.json'
+  Baixando Bava_Kamma (Bava Kamma)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Kamma.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Kamma.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Kamma.json'
+  Baixando Bava_Metzia (Bava Metzia)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Metzia.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Metzia.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Metzia.json'
+  Baixando Bava_Batra (Bava Batra)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Batra.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Batra.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Bava_Batra.json'
+  Baixando Makkot (Makkot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Makkot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Makkot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Makkot.json'
+  Baixando Shevuot (Shevuot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Shevuot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Shevuot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Shevuot.json'
+  Baixando Avodah_Zarah (Avodah Zarah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Avodah_Zarah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Avodah_Zarah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Avodah_Zarah.json'
+  Baixando Horayot (Horayot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Horayot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Horayot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Horayot.json'
+  Baixando Zevachim (Zevachim)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Zevachim.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Zevachim.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Zevachim.json'
+  Baixando Menachot (Menachot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Menachot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Menachot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Menachot.json'
+  Baixando Chullin (Chullin)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Chullin.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Chullin.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Chullin.json'
+  Baixando Bekhorot (Bekhorot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Bekhorot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Bekhorot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Bekhorot.json'
+  Baixando Arakhin (Arakhin)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Arakhin.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Arakhin.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Arakhin.json'
+  Baixando Temurah (Temurah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Temurah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Temurah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Temurah.json'
+  Baixando Keritot (Keritot)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Keritot.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Keritot.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Keritot.json'
+  Baixando Meilah (Meilah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Meilah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Meilah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Meilah.json'
+  Baixando Tamid (Tamid)...
+  Baixando Niddah (Niddah)...
+    Tentativa 1 falhou: [Errno 13] Permission denied: 'data/Talmud/Niddah.json'
+    Tentativa 2 falhou: [Errno 13] Permission denied: 'data/Talmud/Niddah.json'
+    Tentativa 3 falhou: [Errno 13] Permission denied: 'data/Talmud/Niddah.json'
+
+  Concluido: 0/34 tratados baixados.
+  Falharam: ['Eruvin', 'Pesachim', 'Yoma', 'Sukkah', 'Beitzah', 'Rosh_Hashanah', 'Taanit', 'Megillah', 'Moed_Katan', 'Chagigah', 'Yevamot', 'Ketubot', 'Nedarim', 'Nazir', 'Sotah', 'Gittin', 'Kiddushin', 'Bava_Kamma', 'Bava_Metzia', 'Bava_Batra', 'Makkot', 'Shevuot', 'Avodah_Zarah', 'Horayot', 'Zevachim', 'Menachot', 'Chullin', 'Bekhorot', 'Arakhin', 'Temurah', 'Keritot', 'Meilah', 'Tamid', 'Niddah']
+  Total de tratados em data/Talmud/: 3

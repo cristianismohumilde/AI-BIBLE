@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  vllm:
+    image: ai-bible-translator:gpu
+    container_name: ai-bible-vllm
+    command: bash -lc "source .venv/bin/activate && vllm --model /models/current --host 0.0.0.0 --port 8080"
+    volumes:
+      - ../../:/workspace:rw
+      - ./models:/models:rw
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    runtime: nvidia
+    stdin_open: true
+    tty: true
+
+  translator:
+    image: ai-bible-translator:gpu
+    container_name: ai-bible-translator
+    depends_on:
+      - vllm
+    command: bash -lc "source .venv/bin/activate && python translate_bible.py --endpoint http://vllm:8080"
+    volumes:
+      - ../../:/workspace:rw
+    environment:
+      - VLLM_ENDPOINT=http://vllm:8080
+    stdin_open: true
+    tty: true

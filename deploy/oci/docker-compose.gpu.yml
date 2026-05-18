@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  translator:
+    build:
+      context: ../..
+      dockerfile: deploy/oci/Dockerfile.gpu
+    image: ai-bible-translator:gpu
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ..:/workspace:rw
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
+    stdin_open: true
+    tty: true
