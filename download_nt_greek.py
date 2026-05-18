@@ -13,7 +13,7 @@ BYZ: via arquivo completo do repositorio byztxt no GitHub
 
 import os, json, requests, time, re
 
-BASE = os.path.expanduser("~/AI-BIBLE")
+BASE = os.path.dirname(os.path.abspath(__file__))
 os.chdir(BASE)
 
 NT_BOOKS_CHAPTERS = [
@@ -147,44 +147,24 @@ def download_byz():
 
     existing = {f for f in os.listdir(out_dir) if f.endswith(".json")}
 
-    # byztxt no GitHub tem arquivos por livro em formato tabular
-    byztxt_base = "https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/source/CCAT"
+    byztxt_base = "https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/csv-unicode/ccat/no-variants"
 
-    # Formato disponivel: arquivos .txt com referencia e texto
     byz_books = [
-        ("01_MAT.TXT","Matthew",28),
-        ("02_MAR.TXT","Mark",16),
-        ("03_LUK.TXT","Luke",24),
-        ("04_JOH.TXT","John",21),
-        ("05_ACT.TXT","Acts",28),
-        ("06_ROM.TXT","Romans",16),
-        ("07_1CO.TXT","1Corinthians",16),
-        ("08_2CO.TXT","2Corinthians",13),
-        ("09_GAL.TXT","Galatians",6),
-        ("10_EPH.TXT","Ephesians",6),
-        ("11_PHP.TXT","Philippians",4),
-        ("12_COL.TXT","Colossians",4),
-        ("13_1TH.TXT","1Thessalonians",5),
-        ("14_2TH.TXT","2Thessalonians",3),
-        ("15_1TI.TXT","1Timothy",6),
-        ("16_2TI.TXT","2Timothy",4),
-        ("17_TIT.TXT","Titus",3),
-        ("18_PHM.TXT","Philemon",1),
-        ("19_HEB.TXT","Hebrews",13),
-        ("20_JAM.TXT","James",5),
-        ("21_1PE.TXT","1Peter",5),
-        ("22_2PE.TXT","2Peter",3),
-        ("23_1JO.TXT","1John",5),
-        ("24_2JO.TXT","2John",1),
-        ("25_3JO.TXT","3John",1),
-        ("26_JUD.TXT","Jude",1),
-        ("27_REV.TXT","Revelation",22),
+        ("MAT","Matthew",28), ("MAR","Mark",16), ("LUK","Luke",24), ("JOH","John",21),
+        ("ACT","Acts",28), ("ROM","Romans",16), ("1CO","1Corinthians",16), ("2CO","2Corinthians",13),
+        ("GAL","Galatians",6), ("EPH","Ephesians",6), ("PHP","Philippians",4), ("COL","Colossians",4),
+        ("1TH","1Thessalonians",5), ("2TH","2Thessalonians",3), ("1TI","1Timothy",6), ("2TI","2Timothy",4),
+        ("TIT","Titus",3), ("PHM","Philemon",1), ("HEB","Hebrews",13), ("JAM","James",5),
+        ("1PE","1Peter",5), ("2PE","2Peter",3), ("1JO","1John",5), ("2JO","2John",1),
+        ("3JO","3John",1), ("JUD","Jude",1), ("REV","Revelation",22),
     ]
 
     saved = 0
+    import csv
+
     for filename, book, chapters in byz_books:
-        url = f"{byztxt_base}/{filename}"
-        raw_path = f"{out_dir}/{book}_raw.txt"
+        url = f"{byztxt_base}/{filename}.csv"
+        raw_path = f"{out_dir}/{book}_raw.csv"
 
         if not os.path.exists(raw_path) or os.path.getsize(raw_path) < 100:
             try:
@@ -200,29 +180,23 @@ def download_byz():
                 continue
             time.sleep(0.3)
 
-        # Parse: cada linha tem referencia e forma da palavra
-        # Formato tipico: MAT 1:1 BBBBCCCVVV word ...
         if os.path.exists(raw_path) and os.path.getsize(raw_path) > 100:
             chapters_data = {}
-            with open(raw_path, encoding="utf-8", errors="replace") as f:
-                for line in f:
-                    line = line.strip()
-                    if not line or line.startswith("#"): continue
-                    parts = line.split()
-                    if len(parts) < 2: continue
-                    # Tenta encontrar referencia no formato XXX 1:1 ou 1:1
-                    ref_match = re.search(r'(\d+):(\d+)', line)
-                    if ref_match:
-                        ch = int(ref_match.group(1))
-                        vv = int(ref_match.group(2))
-                        # Pega a ultima coluna como a palavra grega
-                        word = parts[-1] if parts else ""
-                        if ch not in chapters_data:
-                            chapters_data[ch] = {}
-                        if vv not in chapters_data[ch]:
-                            chapters_data[ch][vv] = []
-                        if word and re.search(r'[\u0370-\u03ff\u1f00-\u1fff]', word):
-                            chapters_data[ch][vv].append(word)
+            with open(raw_path, "r", encoding="utf-8", errors="replace") as f:
+                reader = csv.reader(f)
+                header = next(reader, None)
+                for row in reader:
+                    if len(row) >= 3:
+                        try:
+                            ch = int(row[0])
+                            vv = int(row[1])
+                            text = row[2].strip()
+                            if ch not in chapters_data:
+                                chapters_data[ch] = {}
+                            if text:
+                                chapters_data[ch][vv] = text
+                        except ValueError:
+                            continue
 
             for ch, verses in chapters_data.items():
                 out_path = f"{out_dir}/{book}_{ch}.json"
@@ -230,9 +204,7 @@ def download_byz():
                     saved += 1; continue
                 verse_list = []
                 for vv in sorted(verses.keys()):
-                    text = " ".join(verses[vv])
-                    if text.strip():
-                        verse_list.append({"verse": vv, "text": text})
+                    verse_list.append({"verse": vv, "text": verses[vv]})
                 if verse_list:
                     with open(out_path, "w", encoding="utf-8") as f:
                         json.dump(verse_list, f, ensure_ascii=False, indent=2)
@@ -278,6 +250,26 @@ def download_missing_study():
         # Robertson Greek Grammar
         ("https://www.gutenberg.org/cache/epub/44606/pg44606.txt",
          f"{gram_dir}/robertson_greek_grammar.txt", "Robertson Greek Grammar"),
+        
+        # --- NOVOS LÉXICOS AVANÇADOS ---
+        # LSJ (Liddell-Scott-Jones)
+        ("https://raw.githubusercontent.com/PerseusDL/lexica/master/CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng1.xml",
+         f"{lex_dir}/lsj_greek.xml", "LSJ Greek Lexicon"),
+        # Lewis & Short (Latim)
+        ("https://raw.githubusercontent.com/PerseusDL/lexica/master/CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng1.xml",
+         f"{lex_dir}/lewis_short_latin.xml", "Lewis & Short Latin"),
+        # Dillmann (Ge'ez) - PDF via Archive.org
+        ("https://archive.org/download/LexiconLinguaeAethiopicae/LexiconLinguaeAethiopicae.pdf",
+         f"{lex_dir}/dillmann_geez.pdf", "Dillmann Lexicon Linguae Aethiopicae"),
+        # W.E. Crum (Copta) - PDF via Archive.org
+        ("https://archive.org/download/ACopticDictionary/Crum-ACopticDictionary.pdf",
+         f"{lex_dir}/crum_coptic.pdf", "W.E. Crum Coptic Dictionary"),
+        # Brockelmann (Siríaco) - PDF via Archive.org
+        ("https://archive.org/download/lexiconsyriacum00broc/lexiconsyriacum00broc.pdf",
+         f"{lex_dir}/brockelmann_syriac.pdf", "Brockelmann Lexicon Syriacum"),
+        # Bedrossian (Armênio Clássico) - PDF via Archive.org
+        ("https://archive.org/download/NewDictionaryArmenianEnglish/BedrossianNewDictionaryArmenianEnglish.pdf",
+         f"{lex_dir}/bedrossian_armenian.pdf", "Bedrossian Armenian Dictionary"),
     ]
 
     for url, path, label in items:
@@ -309,11 +301,40 @@ def download_missing_study():
     print("  INDEX.json atualizado.")
 
 
+def download_vulgata():
+    """Baixa a Vulgata Clementina."""
+    print("\n" + "="*60)
+    print("VUL - VULGATA LATINA")
+    print("="*60)
+    out_dir = "data/VUL"
+    os.makedirs(out_dir, exist_ok=True)
+    
+    # Vamos baixar a Vulgata do Projeto Gutenberg
+    vul_url = "https://www.gutenberg.org/cache/epub/8276/pg8276.txt"
+    out_path = f"{out_dir}/vulgata_latina.txt"
+    
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 1024:
+        print(f"  [JA EXISTE] Vulgata Latina ({os.path.getsize(out_path)//1024} KB)")
+        return
+        
+    print("  Baixando Vulgata Latina...")
+    try:
+        r = requests.get(vul_url, timeout=60)
+        if r.status_code == 200:
+            with open(out_path, "wb") as f: f.write(r.content)
+            print(f"    OK: Vulgata Latina salva em {out_path}")
+        else:
+            print(f"    Erro: HTTP {r.status_code}")
+    except Exception as e:
+        print(f"    Erro ao baixar Vulgata: {e}")
+
+
 if __name__ == "__main__":
     print("="*60)
     print("BAIXANDO SBLGNT, BYZ E MATERIAIS DE ESTUDO")
     print("="*60)
     download_sblgnt()
     download_byz()
+    download_vulgata()
     download_missing_study()
     print("\nCONCLUIDO!")

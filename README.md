@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-18 23:48 UTC**
+> **README gerado automaticamente em: 2026-05-18 23:36 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -13,11 +13,12 @@ com transliteração acadêmica incluída.
 
 | Métrica | Valor |
 |---|---|
-| Capítulos fonte disponíveis | **4,475** |
-| Capítulos traduzidos | **64** (1.4%) |
-| ETA estimado | **~12d 6h** |
+| Capítulos fonte disponíveis | **5,924** |
+| Capítulos traduzidos | **46** (0.8%) |
+| ETA estimado de processamento | **~16d 7h** |
+| Custo estimado restante (Oracle GPU) | **~$391 USD** |
 | Velocidade (com Double-Pass) | ~15 caps/hora |
-| Última atualização | 2026-05-18 23:48 UTC |
+| Última atualização | 2026-05-18 23:36 UTC |
 
 ---
 
@@ -30,8 +31,9 @@ com transliteração acadêmica incluída.
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
 | ✝️ Textus Receptus (TR) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏛️ Vulgata Latina | Latim | 1,189 caps | 0 traduzidos | ⏳ Aguardando tradução |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
@@ -69,17 +71,20 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 
 | Status | Material | Arquivo | Tamanho |
 |:---:|:---|:---|---:|
-| ✅ Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
-| ✅ Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
-| ✅ Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
-| ✅ Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
-| ✅ Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
-| ✅ Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
-| ✅ A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
-| ❌ INDEX.json | `INDEX.json` | 0 KB |
-| ✅ Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
-| ✅ Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
+| ✅ | Brockelmann Lexicon Syriacum | `brockelmann_syriac.pdf` | 58,196 KB |
+| ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
+| ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
+| ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
+| ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
+| ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
+| ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
+| ✅ | INDEX.json | `INDEX.json` | 1 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
 
 ---
 
@@ -92,7 +97,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 64/4,475 caps (1.4%))
+### 🚀 Fase 2 — Tradução (Em andamento — 46/5,924 caps (0.8%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 

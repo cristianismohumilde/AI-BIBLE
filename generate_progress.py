@@ -23,6 +23,7 @@ COLLECTION_LABELS = {
     "TR":              ("✝️ Textus Receptus (TR)",        "Grego Koiné"),
     "BYZ":             ("✝️ Texto Bizantino (BYZ)",       "Grego Koiné"),
     "SBLGNT":          ("✝️ Texto Crítico (SBLGNT)",      "Grego Koiné"),
+    "VUL":             ("🏛️ Vulgata Latina",              "Latim"),
     "Talmud":          ("📚 Talmud Bavli",               "Hebraico Mishnaico / Aramaico"),
     "Targum_Onkelos":  ("📜 Targum Onkelos",             "Aramaico Antigo"),
     "Peshitta_Syriac": ("📖 Peshitta Siríaca",           "Siríaco Clássico"),
@@ -57,6 +58,9 @@ def count_data_files(collection):
     percorre recursivamente. Para arquivos planos na pasta raiz, conta direto.
     """
     data_path = os.path.join(DATA_DIR, collection)
+    if collection == "VUL" and os.path.exists(os.path.join(data_path, "vulgata_latina.txt")):
+        return 1189
+        
     if not os.path.isdir(data_path):
         return 0
     # Conta todos os .json recursivamente
@@ -117,6 +121,10 @@ def main():
     days = int(hours_remaining // 24)
     hours = int(hours_remaining % 24)
     eta_str = f"~{days}d {hours}h" if remaining > 0 else "🎉 Concluído!"
+    
+    # Custo (assumindo ~$1.00 USD/hora na cloud)
+    custo_total = int(hours_remaining * 1.00)
+    custo_str = f"~${custo_total} USD" if remaining > 0 else "$0"
 
     md = f"""# 📊 PROGRESS — AI-BIBLE Translation Status
 
@@ -131,6 +139,7 @@ def main():
 
 **{total_output:,}** de **{total_data:,}** capítulos traduzidos.
 **ETA estimado:** {eta_str}
+**Custo Computacional Restante:** {custo_str}
 
 ---
 

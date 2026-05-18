@@ -1,0 +1,20 @@
+[Unit]
+Description=AI-BIBLE Translation Engine (Qwen 32B)
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=ubuntu
+# Substitua o diretório abaixo pelo caminho real onde o repositório está clonado na VM
+WorkingDirectory=/home/ubuntu/AI-BIBLE
+# Comando que roda o tradutor
+ExecStart=/usr/bin/python3 translate_bible.py
+# Redireciona o output para um log persistente
+StandardOutput=append:/home/ubuntu/AI-BIBLE/translation_service.log
+StandardError=append:/home/ubuntu/AI-BIBLE/translation_service.log
+
+[Install]
+WantedBy=multi-user.target

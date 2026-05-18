@@ -1,5 +1,8 @@
 {
   "lexicons": {
+    "brockelmann_syriac.pdf": {
+      "size_kb": 58196
+    },
     "brown_driver_briggs.xml": {
       "size_kb": 2843
     },
@@ -9,11 +12,17 @@
     "jastrow_dictionary.txt": {
       "size_kb": 253
     },
+    "lewis_short_latin.xml": {
+      "size_kb": 75438
+    },
+    "lsj_greek.xml": {
+      "size_kb": 41917
+    },
     "strongs_greek.json": {
-      "size_kb": 1172
+      "size_kb": 1178
     },
     "strongs_hebrew.json": {
-      "size_kb": 1956
+      "size_kb": 1964
     }
   },
   "grammars": {

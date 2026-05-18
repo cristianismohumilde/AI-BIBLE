@@ -1,16 +1,17 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-18 23:48 UTC**
+> Gerado automaticamente em: **2026-05-18 23:27 UTC**
 > Velocidade estimada: ~15 capítulos/hora com Double-Pass Review ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`░░░░░░░░░░░░░░░░░░░░` 1.4%
+`░░░░░░░░░░░░░░░░░░░░` 0.8%
 
-**64** de **4,475** capítulos traduzidos.
-**ETA estimado:** ~12d 6h
+**46** de **5,924** capítulos traduzidos.
+**ETA estimado:** ~16d 7h
+**Custo Computacional Restante:** ~$391 USD
 
 ---
 
@@ -23,8 +24,9 @@
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | ✝️ Textus Receptus (TR) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 🏛️ Vulgata Latina | Latim | 1,189 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 36 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📜 Targum Onkelos | Aramaico Antigo | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
