@@ -1,136 +1,178 @@
-# AI-BIBLE: Tradução Ultra-Precisa de Manuscritos Originais (v2026)
+# AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-Este projeto utiliza o estado da arte em IA (Maio de 2026) rodando localmente em instâncias **Oracle Cloud (GPU NVIDIA A10 ou ARM64 A1)** para traduzir manuscritos originais da Bíblia diretamente para o Português e Inglês.
+> **README gerado automaticamente em: 2026-05-18 22:38 UTC**
+> Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
-## 🚀 Diferencial: Multi-Fonte & Fidelidade Histórica
-Diferente de tradutores comuns, este sistema processa múltiplas famílias de manuscritos para oferecer uma visão comparativa profunda:
-
-### Antigo Testamento (Hebraico/Grego)
-- **Códice Aleppo (M)**: A maior autoridade da tradição Massorética.
-- **Códice Leningrado (WLC)**: O texto base da maioria das bíblias hebraicas.
-- **Septuaginta (LXX)**: A tradução grega clássica do AT usada pelos apóstolos.
-- **Manuscritos do Mar Morto (DSS)**: Fragmentos dos textos bíblicos mais antigos já encontrados.
-
-### Novo Testamento (Grego)
-- **Texto Bizantino (RP2018)**: Representa a maioria dos manuscritos históricos.
-- **Textus Receptus (TR)**: A base das traduções clássicas da Reforma.
-- **Texto Crítico (SBLGNT)**: Focado nos manuscritos mais antigos (Papiros, Sinaítico).
-## 🎯 Precisão Científica e Filológica da Tradução por IA
-
-Diferente de tradutores comuns ou modelos generativos genéricos que cometem deslizes exegéticos, a pipeline de tradução do **AI-BIBLE** opera sob um protocolo acadêmico rígido de **Duplo-Passo (Double-Pass Critique)**:
-
-1. **Passo 1: Tradução Filológica Primária**: O modelo traduz o texto focando na equivalência formal e na fidelidade morfológica à língua antiga original (Hebraico, Grego, Aramaico ou Siríaco).
-2. **Passo 2: Revisão Crítica Acadêmica (Peer Review por IA)**: Um segundo agente de IA assume o papel de um revisor filológico e teológico de elite. Ele confronta a tradução primária com o texto manuscrito original para verificar:
-   - **Rigor Gramatical Absoluto**: Garantia de que termos no plural ou dual sejam preservados com precisão gramatical matemática (como traduzir **`הַשָּׁמַ֖יִם` (Hashamayim)** no plural exato como **"céus"** em vez de "céu" no singular, evitando deslizes comuns).
-   - **Fidelidade Histórico-Teológica**: Exegese precisa de preposições, verbos e substantivos no contexto cultural da época.
-   - **Solenidade Linguística**: O português resultante é solene, formal e imponente, mantendo a grandiosidade estilística e teológica das Escrituras.
-
-## 📂 Estrutura de Saída
-Os resultados são arquivos **JSON** por capítulo, prontos para uso em sites estáticos:
-- `output/[FONTE]/[LIVRO]_[CAPITULO].json`
-
-## 🛠️ Stack Tecnológica (Maio 2026)
-- **IA**: **Qwen 2.5 (32B)** - Modelo de altíssima precisão rodando localmente no Ollama com aceleração de GPU.
-- **Servidor Ativo (Alemanha)**: **`VM.GPU.A10.1`** (15 cores OCPU, 240 GB de RAM, 1x NVIDIA A10 com 24GB de VRAM).
-- **Ambiente Local**: Docker & Docker Compose com **NVIDIA Container Toolkit** integrado.
-- **Linguagem**: Python 3.13 / Go (para pipelines escaláveis).
-
-## ⚙️ Como usar
-
-1.  **Subir a infraestrutura**:
-    ```bash
-    docker compose up -d --build
-    ```
-
-2.  **Baixar os manuscritos**:
-    ```bash
-    docker compose exec translator python download_manuscripts.py
-    ```
-
-3.  **Iniciar a tradução**:
-    ```bash
-    docker compose exec translator python translate_bible.py
-    ```
-
-## 🗺️ Roadmap de Expansão & Novas Fontes
-
-Estamos expandindo o escopo do projeto para ir além do cânon tradicional, integrando:
-1. **Integração Integral com o Sefaria**: Tradução completa dos textos e comentários do portal acadêmico Sefaria diretamente para o Português do Brasil.
-2. **Textos Apócrifos e Pseudoepígrafos**:
-   - **Antigo Testamento**: Livro de Enoque, Jubileus, Testamento dos Doze Patriarcas, Tobias, Judite, Sabedoria de Salomão, Eclesiástico (Sirácida), Baruque e os livros de Macabeus.
-   - **Novo Testamento**: Evangelho de Tomé, Evangelho de Hebreus, Atos de Paulo, Epístola de Barnabé, Pastor de Hermas, Didaquê e outros escritos patrísticos primitivos.
-3. **Idiomas Históricos Multilíngues**:
-   - **Aramaico**: Targum Onkelos, Targum Pseudo-Jonathan e porções aramaicas do Tanakh.
-   - **Siríaco**: A Peshitta (Antigo e Novo Testamento em Siríaco clássico).
-   - **Ge'ez (Etiópico clássico)**: Manuscritos etiopes contendo o cânon ortodoxo etíope completo (incluindo Enoque e Jubileus que só sobreviveram integralmente nesta língua).
-   - **Armênio**: A clássica versão armênia antiga (conhecida como a "Rainha das Versões" pela sua elegância filológica).
-
-O download dessas novas coleções será feito diretamente pela nossa instância virtual na nuvem, aproveitando a conexão gigabit de alta velocidade para indexação e tradução em lote!
-
-## 📜 Licença e Direitos Autorais
-
-### Código-Fonte (Software)
-O código-fonte deste projeto está licenciado sob a **[Licença MIT](LICENSE)**. Esta é a licença de código aberto mais permissiva e amplamente utilizada, permitindo que você use, copie, modifique, mescle, publique, distribua, sublicencie e/ou venda cópias do software para quaisquer fins (comerciais ou pessoais), exigindo apenas que o aviso de direitos autorais seja mantido.
-
-### Textos e Manuscritos Bíblicos (Atuais & Planejados)
-Diferente das traduções modernas protegidas por copyright restritivo (como NVI, ARA, NVT), as fontes primárias do nosso projeto estão em **Domínio Público** ou sob licenças de uso acadêmico livre:
-
-*   **Antigo Testamento (Hebraico, Aramaico e Grego)**:
-    *   **Códice de Leningrado (WLC)**: O manuscrito massorético completo mais antigo (Domínio Público).
-    *   **Códice de Aleppo (Aleppo)**: Versão massorética de alta autoridade histórica (Domínio Público, via Sefaria).
-    *   **Septuaginta (LXX)**: Tradução grega do AT do século III a.C. (Domínio Público).
-    *   **Manuscritos do Mar Morto (DSS)**: Fragmentos sectários e bíblicos de Qumran (Domínio Público, via Sefaria).
-    *   **Targum Onkelos & Pseudo-Jonathan (Aramaico)**: Traduções e paráfrases aramaicas antigas do Pentateuco (Domínio Público).
-*   **Novo Testamento (Grego Koiné)**:
-    *   **Textus Receptus (TR)**: O texto grego compilado por Erasmo, usado nas traduções da Reforma (Domínio Público).
-    *   **Texto Majoritário/Bizantino (BYZ / RP2018)**: Representação da maioria dos manuscritos históricos sobreviventes (Domínio Público).
-    *   **Texto Crítico (SBLGNT)**: Edição acadêmica moderna baseada nos manuscritos mais antigos (Licenciado abertamente pela *Society of Biblical Literature* para livre uso).
-*   **Outras Versões Multilíngues de Alta Antiguidade**:
-    *   **Peshitta Siríaca (Siríaco clássico)**: Manuscrito histórico siríaco (Domínio Público).
-    *   **Cânon Ortodoxo Etíope (Ge'ez)**: Incluindo Livro de Enoque e Jubileus completos (Domínio Público).
-    *   **Versão Clássica Armênia (Armênio Antigo)**: Conhecida filologicamente como a "Rainha das Versões" (Domínio Público).
+Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
+para traduzir manuscritos originais da Bíblia e textos rabínicos diretamente para o **Português do Brasil**,
+com transliteração acadêmica incluída.
 
 ---
 
-### 📚 Materiais de Estudo Bíblico (Léxicos, Comentários & Gramáticas)
-Para equipar o ecossistema open-source com o melhor aparato crítico, estamos integrando e traduzindo sistematicamente para o Português:
+## 📊 Status Geral
 
-1.  **Léxicos (Dicionários de Idiomas Originais)**:
-    *   **Strong's Greek Lexicon**: Léxico grego com códigos de concordância correspondentes (Domínio Público).
-    *   **Strong's Hebrew Lexicon**: Léxico hebraico e aramaico correspondente (Domínio Público).
-    *   **Brown-Driver-Briggs (BDB)**: O mais respeitado dicionário acadêmico de Hebraico Bíblico (Domínio Público).
-    *   **Thayer's Greek-English Lexicon**: Dicionário clássico de Grego do Novo Testamento (Domínio Público).
-2.  **Comentários Teológicos & Históricos Clássicos**:
-    *   **Matthew Henry's Commentary on the Whole Bible**: O mais famoso comentário expositivo devocional (Domínio Público).
-    *   **Albert Barnes' Notes on the Whole Bible**: Notas exegéticas e explicativas profundas versículo a versículo (Domínio Público).
-    *   **The Pulpit Commentary**: Uma das maiores enciclopédias de homilética e exegese já criadas (Domínio Público).
-3.  **Gramáticas de Idiomas Bíblicos**:
-    *   **Gesenius' Hebrew Grammar**: A gramática de hebraico clássica de referência acadêmica (Domínio Público).
-    *   **Gramáticas de Grego Koiné Clássicas**: ex: A.T. Robertson (Domínio Público).
+| Métrica | Valor |
+|---|---|
+| Capítulos fonte disponíveis | **4,215** |
+| Capítulos traduzidos | **39** (0.9%) |
+| ETA estimado | **~11d 14h** |
+| Velocidade (com Double-Pass) | ~15 caps/hora |
+| Última atualização | 2026-05-18 22:38 UTC |
 
 ---
 
-### ⚖️ Análise Legal & Distribuição Open Source (100% Livre de Copyright!)
-Muitas pessoas se perguntam: **Este material pode ficar exposto publicamente no nosso repositório Open Source do GitHub?**
+## 📜 Manuscritos — Antigo e Novo Testamento
 
-**A resposta é SIM, 100% SEGURO!** Por três motivos legais sólidos:
-1.  **As Obras Originais Estão em Domínio Público**: Todas as fontes primárias (Códices antigos) e os materiais de apoio (Strong, BDB, Thayer, Matthew Henry, Barnes, Gesenius) foram criados e publicados há mais de 100 anos. Pela lei de direitos autorais internacional (e a Lei 9.610/98 brasileira, que estipula o domínio público 70 anos após a morte do autor), **o direito autoral comercial dessas obras expirou**. Elas pertencem à humanidade!
-2.  **A Tradução é de Nossa Autoria (IA)**: A tradução para o Português do Brasil é gerada através do nosso pipeline privado com a IA Qwen 2.5 32B. Como criadores e operadores deste pipeline, você possui total direito sobre a distribuição dos textos gerados.
-3.  **Licença Aberta (MIT)**: Todo o código, dados estruturados e textos traduzidos estão protegidos e distribuídos sob a **Licença MIT**, permitindo que qualquer desenvolvedor, igreja, pesquisador ou ministério utilize os dados livremente para criar aplicativos, sites ou estudos sem pagar royalties ou sofrer processos de grandes editoras.
+| Manuscrito | Idioma | Fonte | Traduzido | Status |
+|:---|:---|---:|---:|:---|
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 39 traduzidos | 🚀 Em andamento (4%) |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+
+## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
+
+| Texto | Idioma | Fonte | Traduzido | Status |
+|:---|:---|---:|---:|:---|
+| 📜 Targum Onkelos | Aramaico Antigo | 5 | 0 | ⏳ Aguardando tradução |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 1 | 0 | ⏳ Aguardando tradução |
+| 🔤 Copta Saídico | Copta Saídico | 1 | 0 | ⏳ Aguardando tradução |
+| 🏔️ Armênio Oriental | Armênio Clássico | 1 | 0 | ⏳ Aguardando tradução |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 1 | 0 | ⏳ Aguardando tradução |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 36 tratados | 0 traduzidos | ⏳ Aguardando tradução |
 
 ---
 
-### 📊 Estimativa de Tamanho do Banco de Dados no Final
-Mesmo com esse volume colossal de materiais e manuscritos, arquivos de texto JSON são **extremamente otimizados**. Veja a projeção final de tamanho do repositório:
+## 🎯 Pipeline de Tradução — 4 Passos Acadêmicos
 
-| Categoria | Descrição | Tamanho Estimado |
-| :--- | :--- | :--- |
-| **Manuscritos de Texto** | Bíblia Completa + Apócrifos × 8 Versões Originais (JSON) | ~100 MB |
-| **Léxicos e Dicionários** | Dicionário Strong Grego/Hebraico + BDB + Thayer (JSON) | ~40 MB |
-| **Comentários Bíblicos** | Comentários Expositivos de Gênesis a Apocalipse (JSON) | ~350 MB |
-| **Gramáticas Históricas** | Gesenius + Gramáticas de Grego e Siríaco | ~30 MB |
-| **Total Projetado** | **Ecossistema Teológico Completo e Traduzido** | **~520 MB (0.52 GB)** |
+### Passo 1 — Tradução Filológica (Anti-Alucinação)
+O modelo **Qwen 2.5 32B** traduz sem receber exemplos no prompt,
+evitando que a IA "lembre" e alucine nomes ou narrativas fora do contexto do versículo.
 
-*Isso significa que todo o ecossistema caberá perfeitamente no GitHub, baixando em menos de 10 segundos em qualquer conexão moderna!*
+### Passo 2 — Revisão Crítica (Double-Pass Review)
+Segunda chamada ao mesmo modelo como *revisor filológico*:
+verifica número gramatical (plural/singular), conjugações e qualidade literária.
 
-**Vantagem principal:** Você pode utilizar as traduções finais geradas por nossa IA de forma totalmente livre em sites, aplicativos, estudos e projetos para a sua comunidade, sem medo de infringir direitos autorais (copyright) de terceiros!
+### Passo 3 — Pós-Processamento Regex (Failsafe Determinístico)
+Regex Python higieniza qualquer metalinguagem da IA antes de salvar o JSON.
+
+### Passo 4 — Transliteração Acadêmica (após Fase 2)
+Script `transliterate.py` adiciona `"transliteration"` a cada versículo
+seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para Siríaco, Copta e Ge'ez.
+
+---
+
+## 📚 Materiais de Estudo Disponíveis
+
+| Status | Material | Arquivo | Tamanho |
+|:---:|:---|:---|---:|
+| ✅ Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
+| ✅ Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
+| ✅ Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
+| ✅ Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
+| ✅ Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
+| ✅ A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
+| ❌ INDEX.json | `INDEX.json` | 0 KB |
+| ✅ Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
+| ✅ Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
+
+---
+
+## 🗺️ Roadmap
+
+### ✅ Fase 1 — Download (Concluída)
+- Manuscritos bíblicos principais: WLC, Aleppo, LXX, DSS, TR, BYZ, SBLGNT
+- Versões antigas: Peshitta, Copta, Armênio, Targum Onkelos
+- Talmud piloto + download de tratados extras em andamento
+- Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
+- Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
+
+### 🚀 Fase 2 — Tradução (Em andamento — 39/4,215 caps (0.9%))
+- GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
+- Double-Pass Review + Filtro Regex ativos
+
+### ⏳ Fase 3 — Transliteração (após Fase 2)
+- Script: `transliterate.py` — roda após conclusão da tradução
+- Impacto: +50% do tempo de GPU (3ª chamada por versículo)
+
+### 🗺️ Fase 4 — Expansão Futura
+- Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
+- Mishná completa + comentários clássicos traduzidos
+- Interface web com busca e comparação lado a lado
+
+---
+
+## 📂 Estrutura do Repositório
+
+```
+AI-BIBLE/
+├── data/                     # Manuscritos originais (fonte)
+│   ├── Aleppo/               # Hebraico Massorético (Códice de Aleppo)
+│   ├── WLC/                  # Hebraico Massorético (Texto de Leningrado)
+│   ├── LXX/                  # Grego Clássico (Septuaginta)
+│   ├── DSS/                  # Manuscritos do Mar Morto
+│   ├── TR/                   # Grego Koiné (Textus Receptus)
+│   ├── BYZ/                  # Grego Koiné (Texto Bizantino)
+│   ├── Talmud/               # Talmud Bavli (tratados JSON)
+│   ├── Geez/                 # Ge'ez / Etiópico Clássico
+│   ├── ancient_versions/     # Aramaico, Siríaco, Copta, Armênio
+│   └── study_materials/      # Léxicos, gramáticas, concordâncias
+│       ├── lexicons/
+│       └── grammars/
+├── output/                   # Traduções geradas (auto-sync da VM)
+│   └── <COLEÇÃO>/<LIVRO>_<CAP>.json
+├── translate_bible.py        # Motor de tradução GPU (roda na VM)
+├── transliterate.py          # Transliteração acadêmica (pós-tradução)
+├── generate_readme.py        # Gera este README automaticamente
+├── generate_progress.py      # Gera PROGRESS.md automaticamente
+├── sync_and_push.py          # VM → Local → GitHub (a cada 5 min)
+├── download_manuscripts.py   # Download manuscritos principais
+├── download_extras.py        # Download BYZ + léxicos extras
+├── download_talmud_extra.py  # Download tratados Talmud completo
+├── download_study_extra.py   # Download léxicos, gramáticas
+├── convert_geez.py           # Converte SWORD Ge'ez → JSON
+├── check_sources.py          # Diagnóstico de fontes disponíveis
+├── index.html                # Interface web de leitura (sem servidor)
+├── README.md                 # Este arquivo (auto-gerado)
+├── PROGRESS.md               # Progresso em tempo real (auto-gerado)
+└── TASKS.md                  # Lista de tarefas e notas para continuidade
+```
+
+### Formato de cada versículo traduzido
+
+```json
+{
+  "verse": 1,
+  "original": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים",
+  "transliteration": "Bə-rē-šîṯ bārāʾ ʾĔlōhîm",
+  "translation": "No princípio, criou Deus..."
+}
+```
+
+---
+
+## 🛠️ Stack Tecnológica
+
+| Componente | Tecnologia |
+|---|---|
+| Modelo de IA | Qwen 2.5 32B |
+| Servidor | Oracle Cloud VM.GPU.A10.1 (NVIDIA A10 24GB VRAM) |
+| Inferência | Ollama (servidor local LLM) |
+| Linguagem | Python 3.13 |
+| Sincronização | SCP + Git + GitHub |
+| Frontend | HTML5 + Vanilla JS (zero servidor) |
+
+---
+
+## 📜 Licença
+
+| Conteúdo | Licença |
+|---|---|
+| Código-fonte | MIT |
+| Manuscritos fonte | Domínio Público / CC BY |
+| Talmud (Sefaria) | CC BY-NC |
+| Materiais de estudo (Gesenius, Robertson, etc.) | Domínio Público |
+| **Traduções PT-BR geradas** | **CC BY 4.0** |
