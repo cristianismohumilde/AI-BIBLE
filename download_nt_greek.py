@@ -309,9 +309,9 @@ def download_vulgata():
     out_dir = "data/VUL"
     os.makedirs(out_dir, exist_ok=True)
     
-    # Vamos baixar a Vulgata Clementina do repositório público
-    vul_url = "https://raw.githubusercontent.com/clementinedotsearch/clementine-vulgate-xml/master/clementine.xml"
-    out_path = f"{out_dir}/vulgata_clementine.xml"
+    # Vamos baixar a Vulgata do Projeto Gutenberg
+    vul_url = "https://www.gutenberg.org/cache/epub/8276/pg8276.txt"
+    out_path = f"{out_dir}/vulgata_latina.txt"
     
     if os.path.exists(out_path) and os.path.getsize(out_path) > 1024:
         print(f"  [JA EXISTE] Vulgata Latina ({os.path.getsize(out_path)//1024} KB)")
@@ -322,7 +322,7 @@ def download_vulgata():
         r = requests.get(vul_url, timeout=60)
         if r.status_code == 200:
             with open(out_path, "wb") as f: f.write(r.content)
-            print(f"    OK: Vulgata Latina salva em {out_dir}/vulgata_clementine.xml")
+            print(f"    OK: Vulgata Latina salva em {out_path}")
         else:
             print(f"    Erro: HTTP {r.status_code}")
     except Exception as e:
