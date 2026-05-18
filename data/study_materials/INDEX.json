@@ -8,6 +8,12 @@
     },
     "jastrow_dictionary.txt": {
       "size_kb": 253
+    },
+    "strongs_greek.json": {
+      "size_kb": 1172
+    },
+    "strongs_hebrew.json": {
+      "size_kb": 1956
     }
   },
   "grammars": {

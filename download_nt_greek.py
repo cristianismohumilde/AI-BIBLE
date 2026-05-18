@@ -74,18 +74,18 @@ def download_sblgnt():
     morphgnt_base = "https://raw.githubusercontent.com/morphgnt/sblgnt/master"
     # Os arquivos tem formato: 01-Matthew.txt, etc.
     morphgnt_books = [
-        ("01-Matthew","Matthew",28), ("02-Mark","Mark",16), ("03-Luke","Luke",24),
-        ("04-John","John",21), ("05-Acts","Acts",28), ("06-Romans","Romans",16),
-        ("07-1Corinthians","1Corinthians",16), ("08-2Corinthians","2Corinthians",13),
-        ("09-Galatians","Galatians",6), ("10-Ephesians","Ephesians",6),
-        ("11-Philippians","Philippians",4), ("12-Colossians","Colossians",4),
-        ("13-1Thessalonians","1Thessalonians",5), ("14-2Thessalonians","2Thessalonians",3),
-        ("15-1Timothy","1Timothy",6), ("16-2Timothy","2Timothy",4),
-        ("17-Titus","Titus",3), ("18-Philemon","Philemon",1),
-        ("19-Hebrews","Hebrews",13), ("20-James","James",5),
-        ("21-1Peter","1Peter",5), ("22-2Peter","2Peter",3),
-        ("23-1John","1John",5), ("24-2John","2John",1),
-        ("25-3John","3John",1), ("26-Jude","Jude",1), ("27-Revelation","Revelation",22),
+        ("61-Mt-morphgnt","Matthew",28), ("62-Mk-morphgnt","Mark",16), ("63-Lk-morphgnt","Luke",24),
+        ("64-Jn-morphgnt","John",21), ("65-Ac-morphgnt","Acts",28), ("66-Ro-morphgnt","Romans",16),
+        ("67-1Co-morphgnt","1Corinthians",16), ("68-2Co-morphgnt","2Corinthians",13),
+        ("69-Ga-morphgnt","Galatians",6), ("70-Eph-morphgnt","Ephesians",6),
+        ("71-Php-morphgnt","Philippians",4), ("72-Col-morphgnt","Colossians",4),
+        ("73-1Th-morphgnt","1Thessalonians",5), ("74-2Th-morphgnt","2Thessalonians",3),
+        ("75-1Ti-morphgnt","1Timothy",6), ("76-2Ti-morphgnt","2Timothy",4),
+        ("77-Tit-morphgnt","Titus",3), ("78-Phm-morphgnt","Philemon",1),
+        ("79-Heb-morphgnt","Hebrews",13), ("80-Jas-morphgnt","James",5),
+        ("81-1Pe-morphgnt","1Peter",5), ("82-2Pe-morphgnt","2Peter",3),
+        ("83-1Jn-morphgnt","1John",5), ("84-2Jn-morphgnt","2John",1),
+        ("85-3Jn-morphgnt","3John",1), ("86-Jud-morphgnt","Jude",1), ("87-Re-morphgnt","Revelation",22),
     ]
 
     saved = 0
@@ -148,37 +148,37 @@ def download_byz():
     existing = {f for f in os.listdir(out_dir) if f.endswith(".json")}
 
     # byztxt no GitHub tem arquivos por livro em formato tabular
-    byztxt_base = "https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/parsed"
+    byztxt_base = "https://raw.githubusercontent.com/byztxt/byzantine-majority-text/master/source/CCAT"
 
     # Formato disponivel: arquivos .txt com referencia e texto
     byz_books = [
-        ("B01___Matthew_Byzantine_Parsed.txt","Matthew",28),
-        ("B02___Mark_Byzantine_Parsed.txt","Mark",16),
-        ("B03___Luke_Byzantine_Parsed.txt","Luke",24),
-        ("B04___John_Byzantine_Parsed.txt","John",21),
-        ("B05___Acts_Byzantine_Parsed.txt","Acts",28),
-        ("B06___Romans_Byzantine_Parsed.txt","Romans",16),
-        ("B07___1Corinthians_Byzantine_Parsed.txt","1Corinthians",16),
-        ("B08___2Corinthians_Byzantine_Parsed.txt","2Corinthians",13),
-        ("B09___Galatians_Byzantine_Parsed.txt","Galatians",6),
-        ("B10___Ephesians_Byzantine_Parsed.txt","Ephesians",6),
-        ("B11___Philippians_Byzantine_Parsed.txt","Philippians",4),
-        ("B12___Colossians_Byzantine_Parsed.txt","Colossians",4),
-        ("B13___1Thessalonians_Byzantine_Parsed.txt","1Thessalonians",5),
-        ("B14___2Thessalonians_Byzantine_Parsed.txt","2Thessalonians",3),
-        ("B15___1Timothy_Byzantine_Parsed.txt","1Timothy",6),
-        ("B16___2Timothy_Byzantine_Parsed.txt","2Timothy",4),
-        ("B17___Titus_Byzantine_Parsed.txt","Titus",3),
-        ("B18___Philemon_Byzantine_Parsed.txt","Philemon",1),
-        ("B19___Hebrews_Byzantine_Parsed.txt","Hebrews",13),
-        ("B20___James_Byzantine_Parsed.txt","James",5),
-        ("B21___1Peter_Byzantine_Parsed.txt","1Peter",5),
-        ("B22___2Peter_Byzantine_Parsed.txt","2Peter",3),
-        ("B23___1John_Byzantine_Parsed.txt","1John",5),
-        ("B24___2John_Byzantine_Parsed.txt","2John",1),
-        ("B25___3John_Byzantine_Parsed.txt","3John",1),
-        ("B26___Jude_Byzantine_Parsed.txt","Jude",1),
-        ("B27___Revelation_Byzantine_Parsed.txt","Revelation",22),
+        ("01_MAT.TXT","Matthew",28),
+        ("02_MAR.TXT","Mark",16),
+        ("03_LUK.TXT","Luke",24),
+        ("04_JOH.TXT","John",21),
+        ("05_ACT.TXT","Acts",28),
+        ("06_ROM.TXT","Romans",16),
+        ("07_1CO.TXT","1Corinthians",16),
+        ("08_2CO.TXT","2Corinthians",13),
+        ("09_GAL.TXT","Galatians",6),
+        ("10_EPH.TXT","Ephesians",6),
+        ("11_PHP.TXT","Philippians",4),
+        ("12_COL.TXT","Colossians",4),
+        ("13_1TH.TXT","1Thessalonians",5),
+        ("14_2TH.TXT","2Thessalonians",3),
+        ("15_1TI.TXT","1Timothy",6),
+        ("16_2TI.TXT","2Timothy",4),
+        ("17_TIT.TXT","Titus",3),
+        ("18_PHM.TXT","Philemon",1),
+        ("19_HEB.TXT","Hebrews",13),
+        ("20_JAM.TXT","James",5),
+        ("21_1PE.TXT","1Peter",5),
+        ("22_2PE.TXT","2Peter",3),
+        ("23_1JO.TXT","1John",5),
+        ("24_2JO.TXT","2John",1),
+        ("25_3JO.TXT","3John",1),
+        ("26_JUD.TXT","Jude",1),
+        ("27_REV.TXT","Revelation",22),
     ]
 
     saved = 0
@@ -254,23 +254,21 @@ def download_missing_study():
 
     items = [
         # Strong's via openscriptures (URLs corretas)
-        ("https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.json",
+        ("https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.js",
          f"{lex_dir}/strongs_hebrew.json", "Strong's Hebrew"),
-        ("https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.json",
+        ("https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.js",
          f"{lex_dir}/strongs_greek.json", "Strong's Greek"),
         # BDB via openscriptures HebrewLexicon
         ("https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/BrownDriverBriggs.xml",
          f"{lex_dir}/brown_driver_briggs.xml", "BDB Hebraico"),
         ("https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/HebrewStrong.xml",
          f"{lex_dir}/hebrew_strong_enhanced.xml", "Hebrew Strong Enhanced"),
-        # Abbott-Smith via translatable-exegetical-tools
-        ("https://raw.githubusercontent.com/translatable-exegetical-tools/Abbott-Smith/master/AS.csv",
-         f"{lex_dir}/abbott_smith_greek.csv", "Abbott-Smith Greek"),
-        # Sedra Siríaco - repositório correto
-        ("https://raw.githubusercontent.com/peshitta/sedra-db/master/sedra/ROOTS.TXT",
-         f"{lex_dir}/syriac_roots.txt", "Sedra Syriac Roots"),
-        ("https://raw.githubusercontent.com/peshitta/sedra-db/master/sedra/LEXEMES.TXT",
-         f"{lex_dir}/syriac_lexemes.txt", "Sedra Syriac Lexemes"),
+        # Abbott-Smith via unicode repos
+        ("https://raw.githubusercontent.com/morphgnt/abbott-smith/master/abbott-smith.tei.xml",
+         f"{lex_dir}/abbott_smith_greek.xml", "Abbott-Smith Greek"),
+        # Sedra Siríaco - repositório correto (agora no peshitta.org raw?)
+        # Trocando sedra temporariamente por Jastrow que ja existe
+
         # Gesenius - Gutenberg URL correta
         ("https://www.gutenberg.org/cache/epub/17029/pg17029.txt",
          f"{gram_dir}/gesenius_hebrew_grammar.txt", "Gesenius Hebrew Grammar"),
