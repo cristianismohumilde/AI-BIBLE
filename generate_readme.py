@@ -177,9 +177,10 @@ def build_study_materials_table():
             if not os.path.isfile(fpath):
                 continue
             label = STUDY_LABELS.get(fname, fname)
-            size  = os.path.getsize(fpath) // 1024
-            icon  = "✅" if size > 0 else "❌"
-            rows.append(f"| {icon} {label} | `{fname}` | {size:,} KB |")
+            bytes_size = os.path.getsize(fpath)
+            size  = max(1, bytes_size // 1024) if bytes_size > 0 else 0
+            icon  = "✅" if bytes_size > 0 else "❌"
+            rows.append(f"| {icon} | {label} | `{fname}` | {size:,} KB |")
     # Arquivos na raiz de study_materials
     sm = os.path.join(DATA_DIR, "study_materials")
     if os.path.isdir(sm):
@@ -188,9 +189,10 @@ def build_study_materials_table():
             if not os.path.isfile(fpath):
                 continue
             label = STUDY_LABELS.get(fname, fname)
-            size  = os.path.getsize(fpath) // 1024
-            icon  = "✅" if size > 0 else "❌"
-            rows.append(f"| {icon} {label} | `{fname}` | {size:,} KB |")
+            bytes_size = os.path.getsize(fpath)
+            size  = max(1, bytes_size // 1024) if bytes_size > 0 else 0
+            icon  = "✅" if bytes_size > 0 else "❌"
+            rows.append(f"| {icon} | {label} | `{fname}` | {size:,} KB |")
     return rows
 
 def calc_totals():
