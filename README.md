@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-18 23:53 UTC**
+> **README gerado automaticamente em: 2026-05-18 23:58 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,11 +14,11 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **5,924** |
-| Capítulos traduzidos | **65** (1.1%) |
+| Capítulos traduzidos | **66** (1.1%) |
 | ETA estimado de processamento | **~16d 6h** |
 | Custo estimado restante (Oracle GPU) | **~$390 USD** |
 | Velocidade (com Double-Pass) | ~15 caps/hora |
-| Última atualização | 2026-05-18 23:53 UTC |
+| Última atualização | 2026-05-18 23:58 UTC |
 
 ---
 
@@ -26,7 +26,7 @@ com transliteração acadêmica incluída.
 
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 65 traduzidos | 🚀 Em andamento (7%) |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 66 traduzidos | 🚀 Em andamento (7%) |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
@@ -97,7 +97,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 65/5,924 caps (1.1%))
+### 🚀 Fase 2 — Tradução (Em andamento — 66/5,924 caps (1.1%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
