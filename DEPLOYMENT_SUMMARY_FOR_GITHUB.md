@@ -40,7 +40,9 @@ O projeto agora integra uma visão filológica e teológica ainda mais ambiciosa
 *Nota: Os downloads dessas coleções são realizados diretamente pela VM de Frankfurt (largura de banda de rede de 24 Gbps), economizando largura de banda local.*
 
 ## ⚙️ Status Rápido dos Serviços
-A tradução e os containers de inferência estão operando em segundo plano. O tradutor está traduzindo ativamente sob o processo acadêmico de revisão em duas etapas (**Double-Pass Review**)!
+A tradução está operando em segundo plano sob a **Estratégia Híbrida de Tradução**:
+- **Single-Pass (Ativo por Padrão)**: Velocidade máxima de tradução (1 capítulo a cada 15-30 segundos) no script principal `translate_bible.py` para economia massiva de créditos Oracle.
+- **Double-Pass Pós-Processado**: Autocrítica filológica de alta precisão executada sob demanda através do script `review_existing_translations.py` com foco exclusivo nas coleções e livros mais complexos do corpus (Septuaginta, Aramaico, Talmud, Salmos, Isaías etc.) após o término das traduções.
 
 ---
 *Status: Infraestrutura de GPU configurada com sucesso e 100% operacional!*

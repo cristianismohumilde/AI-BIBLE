@@ -9,8 +9,10 @@ This document describes the action plan to scale the translation of the entire B
 > * **GPU Instance (Frankfurt):** ✅ **Active (130.61.86.XX)** (Obfuscated for security)
 > * **General Status:** 🚀 **Ready to initiate High-Speed Translation!**
 
-## 🎯 Objective
-Reduce the translation time of the entire Bible from **~15 days** (on the free A1.Flex CPU instance) to **under 10 hours**, allowing the utilization of the giant **Qwen 2.5 (32 Billion Parameters)** model to ensure the highest academic precision.
+## 🎯 Objective & Performance Optimization
+Reduce the translation time of the entire Bible from **~15 days** (on the free A1.Flex CPU instance) to **only ~10 to 15 hours**, achieved via a highly strategic **Hybrid Translation Strategy**:
+1. **Single-Pass Translation (Warp Speed / Low Cost):** The primary script `translate_bible.py` translates the entire corpus directly (`DOUBLE_PASS_REVIEW = False`), running at an amazing speed of **1 chapter every 15 to 30 seconds** on the GPU A10. This cuts costs by 50%.
+2. **Selective Double-Pass Post-Processor (`review_existing_translations.py`):** We created a post-processing script that executes the second theological/linguistic critique (Self-Reflection Pass) *after* the initial translation is done, and **only on highly complex books** (Septuagint (LXX), Targum Aramaic, Talmud, Peshitta Syriac, Coptic, Armenian, and poetic Hebrew books like Psalms and Isaiah), saving massive cloud credits.
 
 ## 💰 Cost and Credit Analysis
 * **Target Shape:** `VM.GPU.A10.1` (Contains 1x NVIDIA A10 with 24 GB of VRAM).

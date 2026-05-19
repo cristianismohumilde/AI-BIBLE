@@ -38,11 +38,9 @@ The project now integrates an even more ambitious philological and theological v
 *Note: The downloads of these collections will be performed directly by the Frankfurt VM (24 Gbps network bandwidth), saving local bandwidth.*
 
 ## ⚙️ Container Quick Status
-The inference and translation containers are launched via:
-```bash
-sudo docker compose up -d --build
-```
-The VM is fully operational and active in the background, utilizing a double-pass academic self-reflection review process!
+The inference and translation services are active in the background under the **Hybrid Translation Strategy**:
+- **Single-Pass (Active by Default)**: High-speed translation (15-30s per chapter) running continuously in the background to minimize faturamento/API costs.
+- **Double-Pass Post-Processor**: High-precision academic and theological critique executed on-demand via the script `review_existing_translations.py`, focusing strictly on highly complex books and collections (Septuagint, Aramaic, Talmud, Psalms, Isaiah etc.) after the main translations complete.
 
 ---
 *Status: GPU Infrastructure successfully configured and 100% operational!*

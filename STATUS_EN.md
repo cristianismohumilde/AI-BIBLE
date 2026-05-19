@@ -25,19 +25,20 @@ This file documents exactly where the project stands as of **May 18, 2026** (Suc
    - Planned the download and full translation of the entire **Sefaria** platform into Brazilian Portuguese.
    - **Downloaded Strong's Lexicon**: Downloaded the complete Strong's Greek & Hebrew Concordance (~14,000 entries) under `data/study_materials/strongs.json` using `download_study_materials.py` direct on the VM.
 
-5. **Advanced Translation Pipeline (Double-Pass Self-Reflection)**:
-   - Implemented a two-step verified translation pipeline (`DOUBLE_PASS_REVIEW = True` in `translate_bible.py`).
-   - Translates first (Pass 1 - Draft), then runs a strict academic/theological critic review (Pass 2 - Self-Reflection) to correct grammatical number slips (like "céus" vs "céu") and linguistic accuracy before saving.
-   - Successfully verified and tested on DSS, Aleppo, and WLC Genesis 1.
+5. **Hybrid Translation Strategy (Single-Pass + Targeted Double-Pass Later)**:
+   - **Single-Pass Active by Default (`DOUBLE_PASS_REVIEW = False`)**: The VM translates all manuscripts, books, versions, and study materials in a high-speed single pass (approx. 15-30 seconds per chapter), saving nearly 50% of the API credit budget and drastically accelerating the workflow.
+   - **Targeted Double-Pass Post-Processor (`review_existing_translations.py`)**: A dedicated script was created to perform the theological and linguistic review (Pass 2 - Self-Correction) after the main translation is completed. The script intelligently filters and focuses CPU/GPU time only on high-complexity or low-resource ancient documents (such as Septuagint (LXX), Targum Aramaic, Talmud, Peshitta Syriac, Coptic, Armenian, and poetic Hebrew books like Psalms and Isaiah), optimizing both costs and GPU efficiency.
+
+## 📈 Current Translation Progress:
+- **Aleppo Codex**: Actively translating! Currently at **Chapter 30 of 2 Chronicles**!
+- **Total on GitHub**: **112 chapters** fully translated and consolidated!
+- **Aleppo Codex Progress**: **12.0% Completed**!
+- **Estimated ETA**: Reduced to ~**8 days** total under the Single-Pass strategy.
 
 ## 🚧 What we are doing next:
-
-1. **Acquire Additional Study Materials**:
-   - Write scripts to download Brown-Driver-Briggs (BDB) Hebrew Lexicon, Thayer Greek Lexicon, and classic Bible commentaries (Matthew Henry, Albert Barnes, Pulpit Commentary).
-2. **Execute Full Scale Translations**:
-   - Run the translation pipeline in background for the complete manuscript corpus (WLC, LXX, Aleppo, DSS, BYZ, TR, SBLGNT).
-3. **Establish Database Integrations**:
-   - Prepare the structured output folder and integrate into the main project.
+1. **Complete Full-Scale Single-Pass**: Run the high-speed translation pipeline in background for the complete manuscript corpus (Aleppo, WLC, LXX, DSS, etc.).
+2. **Execute Targeted Review Pass**: Run `review_existing_translations.py` on complex and poetic books using the remaining Oracle Cloud credit.
+3. **Establish Database Integrations**: Prepare the structured output folder and integrate into the main project.
 
 ---
 *Signed: Antigravity (Your AI Coding Assistant)*

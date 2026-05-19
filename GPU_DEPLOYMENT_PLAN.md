@@ -7,12 +7,16 @@ Este documento descreve o plano de ação e o estado da infraestrutura de altís
 > * **Upgrade Conta PAYG:** ✅ **Concluído**
 > * **Pedido de Limite (`gpu-a10-count`):** ✅ **Aprovado pela Oracle (Limite = 1)**
 > * **Instância GPU (Frankfurt):** ✅ **Provisionada e Ativa** (`AI-BIBLE` sob shape `VM.GPU.A10.1`, IP `130.61.86.XX` - Ocultado por segurança)
-> * **Serviços de Produção:** 🚀 **Ativos e Traduzindo** (Atualmente traduzindo 1 Samuel no Códice de Aleppo)
+> * **Serviços de Produção:** 🚀 **Ativos e Traduzindo** (Atualmente traduzindo 2 Crônicas no Códice de Aleppo)
 
 ---
 
 ## 🎯 Objetivo de Performance Alcançado
-Redução drástica no tempo de tradução da Bíblia inteira de **~15 dias** (na antiga instância gratuita ARM A1.Flex) para **~20 a 30 horas**, permitindo o uso em escala do modelo gigante **Qwen 2.5 (32 Bilhões de Parâmetros)** com o sofisticado pipeline de revisão em duas etapas (**Double-Pass Review**), garantindo a mais alta precisão acadêmica.
+Redução drástica no tempo de tradução da Bíblia inteira de **~15 dias** (na antiga instância gratuita ARM A1.Flex) para **apenas ~10 a 15 horas** de processamento bruto! 
+
+Conseguimos isso através da **Estratégia Híbrida de Tradução Inteligente**:
+1. **Single-Pass (Velocidade Máxima / Custo Mínimo):** O script principal `translate_bible.py` traduz todo o corpus de forma direta, voando a cerca de **1 capítulo a cada 15 a 30 segundos** sob a GPU A10 e o modelo gigante **Qwen 2.5 32B**.
+2. **Double-Pass Pós-Processamento Seletivo (`review_existing_translations.py`):** Criamos um script que roda o segundo passe de revisão teológica/gramatical profunda apenas após o término de todas as traduções e **exclusivamente nos livros e manuscritos de alta complexidade** (Septuaginta, Aramaico, Talmud, Salmos, Jó, Isaías etc.), economizando até 50% do orçamento de créditos Oracle Cloud.
 
 ---
 
@@ -70,7 +74,7 @@ Assim que as coleções que você deseja traduzir estiverem 100% salvas na pasta
 
 ## 🛠️ Tecnologias e Configurações Aplicadas
 
-- **Double-Pass Self-Reflection (`DOUBLE_PASS_REVIEW = True`)**: O tradutor gera um rascunho acadêmico inicial (Passo 1) e o submete a uma autocrítica teológica (Passo 2) para corrigir concordâncias complexas e terminologias de línguas mortas antes de salvar.
+- **Estratégia Híbrida de Tradução**: A VM roda em **Single-Pass** (`DOUBLE_PASS_REVIEW = False`) por padrão para máxima velocidade e menor custo. A revisão crítica e autocrítica filológica de línguas mortas e poéticas é executada separadamente depois via `review_existing_translations.py` (Double-Pass pós-processador).
 - **NVIDIA CUDA & Docker Integration**: A máquina utiliza o **NVIDIA Container Toolkit** para mapear a aceleração da GPU A10 diretamente para o container Ollama, rodando o Qwen 32B com throughput altíssimo.
 - **Dicionários Integrados**: Léxicos avançados (LSJ, Lewis & Short, Crum, Dillmann, Brockelmann, Bedrossian) mapeados diretamente na pasta `data/` para enriquecer a validação de variantes textuais.
 

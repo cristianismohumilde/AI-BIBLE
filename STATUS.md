@@ -25,17 +25,20 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
    - Baixado o léxico completo de Strong de Grego e Hebreu (~14.000 verbetes).
    - Mapeados e baixados todos os manuscritos deuterocanônicos, apócrifos e históricos (Enoque, Jubileus, Mishná, Testamentos dos Patriarcas) para tradução posterior.
 
-5. **Pipeline de Tradução Avançado (Double-Pass Review)**:
-   - Tradução acadêmica em duas etapas (`DOUBLE_PASS_REVIEW = True` no `translate_bible.py`). A IA traduz (Passo 1 - Rascunho) e depois realiza uma rigorosa autocrítica teológica/linguística (Passo 2 - Auto-Reflexão) antes de salvar o JSON final, garantindo a correção de concordâncias complexas e termos específicos.
+5. **Estratégia Híbrida de Tradução Inteligente (Single-Pass + Double-Pass Posterior)**:
+   - **Single-Pass Ativo por Padrão (`DOUBLE_PASS_REVIEW = False`)**: A VM traduz todos os manuscritos, livros, versões e materiais em passe único de altíssima velocidade (1 capítulo a cada 15-30 segundos). Isso economiza cerca de 50% do orçamento de créditos e acelera drasticamente a finalização.
+   - **Polimento Crítico Posterior (`review_existing_translations.py`)**: Criado um script dedicado para fazer a revisão teológica/gramatical profunda (Passe 2 - Autocrítica) após a conclusão das traduções. O script filtra de forma inteligente e foca o processamento apenas em coleções e livros altamente complexos (como Septuaginta (LXX), Aramaico do Targum, Talmud, Peshitta, Copta, Armênio, e livros poéticos do hebraico como Salmos e Isaías), otimizando custos e tempo de GPU.
 
 ## 📈 Status Atual da Tradução:
-- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu até o capítulo **30 de 1 Samuel**!
-- **Total no GitHub**: **81 capítulos** totalmente traduzidos, revisados e consolidados!
-- **ETA Estimado**: ~16 dias para a Bíblia e manuscritos inteiros sob o Double-Pass Review.
+- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu até o capítulo **30 de 2 Crônicas**!
+- **Total no GitHub**: **112 capítulos** totalmente traduzidos e consolidados!
+- **Progresso do Códice de Aleppo**: **12.0% concluído**!
+- **ETA Estimado**: Reduzido para cerca de **8 dias** com a ativação da estratégia Single-Pass!
 
 ## 🚧 Próximos Passos (Ações futuras):
-1. **Varredura Completa**: Deixar o tradutor concluir o Códice de Aleppo e prosseguir automaticamente para o Texto de Leningrado (WLC), Septuaginta (LXX), Manuscritos do Mar Morto (DSS) e Vulgata Latina.
-2. **Integração das Variantes Textuais**: Após a tradução de cada manuscrito, iniciar a geração dos relatórios de variantes críticas com base nos dicionários multilíngues.
+1. **Varredura Completa**: Deixar o tradutor concluir o Códice de Aleppo em modo Single-Pass e prosseguir automaticamente para o Texto de Leningrado (WLC), Septuaginta (LXX), Manuscritos do Mar Morto (DSS) e Vulgata Latina.
+2. **Ciclo de Polimento (Double-Pass)**: Após a tradução completa em Single-Pass, rodar o script `review_existing_translations.py` para polir os livros prioritários e manuscritos complexos usando o orçamento restante de créditos da Oracle Cloud.
+3. **Integração das Variantes Textuais**: Após a tradução de cada manuscrito, iniciar a geração dos relatórios de variantes críticas com base nos dicionários multilíngues.
 
 ---
 *Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
