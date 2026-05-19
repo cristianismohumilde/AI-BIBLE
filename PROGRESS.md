@@ -1,16 +1,16 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-19 15:09 UTC**
+> Gerado automaticamente em: **2026-05-19 15:14 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`███░░░░░░░░░░░░░░░░░` 17.3%
+`███░░░░░░░░░░░░░░░░░` 17.5%
 
-**453** de **2,613** capítulos traduzidos.
-**ETA estimado:** ~3d 11h
+**456** de **2,613** capítulos traduzidos.
+**ETA estimado:** ~3d 10h
 **Custo Computacional Restante:** ~$124 USD
 
 ---
@@ -19,7 +19,7 @@
 
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 453 | `█████████░░░░░░░░░░░` 48.8% | 🚀 Em andamento |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 456 | `█████████░░░░░░░░░░░` 49.1% | 🚀 Em andamento |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
