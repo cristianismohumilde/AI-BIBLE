@@ -1,0 +1,117 @@
+[
+  {
+    "verse": 1,
+    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "translation": "E o Senhor falou a Moisés, dizendo:"
+  },
+  {
+    "verse": 2,
+    "original": "צַ֤ו אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הָעֹלָ֑ה הִ֣וא הָעֹלָ֡ה עַל֩ <small>מ</small>וֹקְדָ֨הֿ<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי תימן מוֹקְדָ֨הֿ במ״ם רגילה)</i> עַל־הַמִּזְבֵּ֤חַ כׇּל־הַלַּ֙יְלָה֙ עַד־הַבֹּ֔קֶר וְאֵ֥שׁ הַמִּזְבֵּ֖חַ תּ֥וּקַד בּֽוֹ׃",
+    "translation": "Manda a Aarão e aos seus filhos, dizendo: Esta é a lei do holocausto: o holocausto está sobre a parte incandescente do altar todo o dia e até à manhã; e o fogo do altar deve ser mantido nele."
+  },
+  {
+    "verse": 3,
+    "original": "וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד וּמִֽכְנְסֵי־בַד֮ יִלְבַּ֣שׁ עַל־בְּשָׂרוֹ֒ וְהֵרִ֣ים אֶת־הַדֶּ֗שֶׁן אֲשֶׁ֨ר תֹּאכַ֥ל הָאֵ֛שׁ אֶת־הָעֹלָ֖ה עַל־הַמִּזְבֵּ֑חַ וְשָׂמ֕וֹ אֵ֖צֶל הַמִּזְבֵּֽחַ׃",
+    "translation": "E o sacerdote vestirá a túnica de linho e calças de linho sobre sua carne, e levará fora o carvão resultante da queima da oferta holocausto sobre o altar, colocando-o ao lado do altar."
+  },
+  {
+    "verse": 4,
+    "original": "וּפָשַׁט֙ אֶת־בְּגָדָ֔יו וְלָבַ֖שׁ בְּגָדִ֣ים אֲחֵרִ֑ים וְהוֹצִ֤יא אֶת־הַדֶּ֙שֶׁן֙ אֶל־מִח֣וּץ לַֽמַּחֲנֶ֔ה אֶל־מָק֖וֹם טָהֽוֹר׃",
+    "translation": "E despirá sua veste e vestirá outras roupas, e lançará o cinzeiro fora do arraial, a um lugar puro."
+  },
+  {
+    "verse": 5,
+    "original": "וְהָאֵ֨שׁ עַל־הַמִּזְבֵּ֤חַ תּֽוּקַד־בּוֹ֙ לֹ֣א תִכְבֶּ֔ה וּבִעֵ֨ר עָלֶ֧יהָ הַכֹּהֵ֛ן עֵצִ֖ים בַּבֹּ֣קֶר בַּבֹּ֑קֶר וְעָרַ֤ךְ עָלֶ֙יהָ֙ הָֽעֹלָ֔ה וְהִקְטִ֥יר עָלֶ֖יהָ חֶלְבֵ֥י הַשְּׁלָמִֽים׃",
+    "translation": "E a fogueira sobre o altar deve arder nele sem cessar; e cada manhã, de manhã em manhã, o sacerdote queimará lenha nela, disporá sobre ela a oferta pelo pecado, e queimará sobre ela os holocaustos e as gorduras das ofertas pacíficas."
+  },
+  {
+    "verse": 6,
+    "original": "אֵ֗שׁ תָּמִ֛יד תּוּקַ֥ד עַל־הַמִּזְבֵּ֖חַ לֹ֥א תִכְבֶּֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "translation": "Fogo continuamente arderá sobre o altar, não se apagará."
+  },
+  {
+    "verse": 7,
+    "original": "וְזֹ֥את תּוֹרַ֖ת הַמִּנְחָ֑ה הַקְרֵ֨ב אֹתָ֤הּ בְּנֵֽי־אַהֲרֹן֙ לִפְנֵ֣י יְהֹוָ֔ה אֶל־פְּנֵ֖י הַמִּזְבֵּֽחַ׃",
+    "translation": "E esta é a lei da oferta de cereal: os filhos de Arão a oferecerão perante o Senhor, diante do altar."
+  },
+  {
+    "verse": 8,
+    "original": "וְהֵרִ֨ים מִמֶּ֜נּוּ בְּקֻמְצ֗וֹ מִסֹּ֤לֶת הַמִּנְחָה֙ וּמִשַּׁמְנָ֔הּ וְאֵת֙ כׇּל־הַלְּבֹנָ֔ה אֲשֶׁ֖ר עַל־הַמִּנְחָ֑ה וְהִקְטִ֣יר הַמִּזְבֵּ֗חַ רֵ֧יחַ נִיחֹ֛חַ אַזְכָּרָתָ֖הּ לַיהֹוָֽה׃",
+    "translation": "E ergueu dele um punhado da oferta de cereal, das finas flor-de-azeites e todo o incenso que estava sobre a oferta, e queimou no altar como aroma suave, uma recordação para o Senhor."
+  },
+  {
+    "verse": 9,
+    "original": "וְהַנּוֹתֶ֣רֶת מִמֶּ֔נָּה יֹאכְל֖וּ אַהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּמָק֣וֹם קָדֹ֔שׁ בַּחֲצַ֥ר אֹֽהֶל־מוֹעֵ֖ד יֹאכְלֽוּהָ׃",
+    "translation": "E o remanescente dela comerão Arão e seus filhos; em pães ázimos será comido no lugar santo, na couraça da Tenda do Encontro o comerão."
+  },
+  {
+    "verse": 10,
+    "original": "לֹ֤א תֵאָפֶה֙ חָמֵ֔ץ חֶלְקָ֛ם נָתַ֥תִּי אֹתָ֖הּ מֵאִשָּׁ֑י קֹ֤דֶשׁ קׇֽדָשִׁים֙ הִ֔וא כַּחַטָּ֖את וְכָאָשָֽׁם׃",
+    "translation": "Não se encherá de fermento; a sua porção dei eu dela da tribo de Efraim, é santíssima como a oferta pelo pecado e como a oferta de restituição."
+  },
+  {
+    "verse": 11,
+    "original": "כׇּל־זָכָ֞ר בִּבְנֵ֤י אַהֲרֹן֙ יֹֽאכְלֶ֔נָּה חׇק־עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם מֵאִשֵּׁ֖י יְהֹוָ֑ה כֹּ֛ל אֲשֶׁר־יִגַּ֥ע בָּהֶ֖ם יִקְדָּֽשׁ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "translation": "Todo macho dentre os filhos de Arão comerá dela; é estatuto eterno para as vossas gerações, dos holocaustos e ofertas pacíficas do Senhor. Todo aquele que nelas tocar será santificado."
+  },
+  {
+    "verse": 12,
+    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "translation": "E o Senhor falou a Moisés, dizendo:"
+  },
+  {
+    "verse": 13,
+    "original": "זֶ֡ה קׇרְבַּן֩ אַהֲרֹ֨ן וּבָנָ֜יו אֲשֶׁר־יַקְרִ֣יבוּ לַֽיהֹוָ֗ה בְּיוֹם֙ הִמָּשַׁ֣ח אֹת֔וֹ עֲשִׂירִ֨ת הָאֵפָ֥ה סֹ֛לֶת מִנְחָ֖ה תָּמִ֑יד מַחֲצִיתָ֣הּ בַּבֹּ֔קֶר וּמַחֲצִיתָ֖הּ בָּעָֽרֶב׃",
+    "translation": "Este é o sacrifício de Aarão e seus filhos, que eles oferecerão ao Senhor no dia da sua consagração: uma oferta contínua de flor de farinha, a décima parte do efa; metade dela pela manhã e metade à tarde."
+  },
+  {
+    "verse": 14,
+    "original": "עַֽל־מַחֲבַ֗ת בַּשֶּׁ֛מֶן תֵּעָשֶׂ֖ה מֻרְבֶּ֣כֶת תְּבִיאֶ֑נָּה תֻּפִינֵי֙ מִנְחַ֣ת פִּתִּ֔ים תַּקְרִ֥יב רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+    "translation": "Sobre a tigela de azeite será feita uma oferta mista; tu as trarás, pães fritos da oferta de manjares, oferecendo aroma agradável ao Senhor."
+  },
+  {
+    "verse": 15,
+    "original": "וְהַכֹּהֵ֨ן הַמָּשִׁ֧יחַ תַּחְתָּ֛יו מִבָּנָ֖יו יַעֲשֶׂ֣ה אֹתָ֑הּ חׇק־עוֹלָ֕ם לַיהֹוָ֖ה כָּלִ֥יל תׇּקְטָֽר׃",
+    "translation": "E o sacerdote ungido em seu lugar, dentre seus filhos, a fará; estatuto eterno para o Senhor, inteiramente será queimada."
+  },
+  {
+    "verse": 16,
+    "original": "וְכׇל־מִנְחַ֥ת כֹּהֵ֛ן כָּלִ֥יל תִּהְיֶ֖ה לֹ֥א תֵאָכֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "translation": "E toda oferta de cereal do sacerdote será inteiramente queimada; não se comerá dela."
+  },
+  {
+    "verse": 17,
+    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "translation": "E o Senhor falou a Moisés, dizendo:"
+  },
+  {
+    "verse": 18,
+    "original": "דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הַֽחַטָּ֑את בִּמְק֡וֹם אֲשֶׁר֩ תִּשָּׁחֵ֨ט הָעֹלָ֜ה תִּשָּׁחֵ֤ט הַֽחַטָּאת֙ לִפְנֵ֣י יְהֹוָ֔ה קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+    "translation": "Fala a Arão e aos seus filhos, dizendo: Esta é a lei do pecado. No lugar onde se imola a oferta pelo pecado, na presença do Senhor, será imolada; é santíssima."
+  },
+  {
+    "verse": 19,
+    "original": "הַכֹּהֵ֛ן הַֽמְחַטֵּ֥א אֹתָ֖הּ יֹאכְלֶ֑נָּה בְּמָק֤וֹם קָדֹשׁ֙ תֵּֽאָכֵ֔ל בַּחֲצַ֖ר אֹ֥הֶל מוֹעֵֽד׃",
+    "translation": "O sacerdote que fizer expiação por ela comerá isso; no lugar santíssimo será comido, na couraça da Tenda do Encontro."
+  },
+  {
+    "verse": 20,
+    "original": "כֹּ֛ל אֲשֶׁר־יִגַּ֥ע בִּבְשָׂרָ֖הּ יִקְדָּ֑שׁ וַאֲשֶׁ֨ר יִזֶּ֤ה מִדָּמָהּ֙ עַל־הַבֶּ֔גֶד אֲשֶׁר֙ יִזֶּ֣ה עָלֶ֔יהָ תְּכַבֵּ֖ס בְּמָק֥וֹם קָדֹֽשׁ׃",
+    "translation": "Todo aquele que tocasse em sua carne se santificaria, e o que derramasse seu sangue sobre a roupa, aquela sobre a qual for derramado será lavada no lugar santo."
+  },
+  {
+    "verse": 21,
+    "original": "וּכְלִי־חֶ֛רֶשׂ אֲשֶׁ֥ר תְּבֻשַּׁל־בּ֖וֹ יִשָּׁבֵ֑ר וְאִם־בִּכְלִ֤י נְחֹ֙שֶׁת֙ בֻּשָּׁ֔לָה וּמֹרַ֥ק וְשֻׁטַּ֖ף בַּמָּֽיִם׃",
+    "translation": "E todo vaso de barro no qual for cozido se quebrará; mas se for cozido em um vaso de cobre, será removida e esfregada com água."
+  },
+  {
+    "verse": 22,
+    "original": "כׇּל־זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכַ֣ל אֹתָ֑הּ קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+    "translation": "Todo macho entre os sacerdotes a comerá; é santíssima."
+  },
+  {
+    "verse": 23,
+    "original": "וְכׇל־חַטָּ֡את אֲשֶׁר֩ יוּבָ֨א מִדָּמָ֜הּ אֶל־אֹ֧הֶל מוֹעֵ֛ד לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ לֹ֣א תֵאָכֵ֑ל בָּאֵ֖שׁ תִּשָּׂרֵֽף׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "translation": "E toda oferta pelo pecado que for trazida do seu sangue para o tendal da congregação, para fazer expiação no santuário, não se comerá; com fogo será consumida."
+  }
+]
