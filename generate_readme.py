@@ -20,7 +20,13 @@ DATA_DIR   = "data"
 OUTPUT_DIR = "output"
 
 # === BUDGET LIMIT SCOPES ($300 USD) ===
-SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+# Controla quais manuscritos são EXIBIDOS como disponíveis no README
+# (não afeta translate_bible.py que tem seu próprio SKIP_MANUSCRIPTS)
+SKIP_MANUSCRIPTS = {"Talmud"}
+
+# Manuscritos que estão baixados mas com tradução pausada por orçamento
+# Usados para exibir contagem real de caps sem mostrar "Aguardando download"
+DOWNLOADED_BUT_PAUSED = {"WLC", "DSS", "SBLGNT", "TR", "BYZ", "VUL"}
 ALLOWED_NT_BOOKS = {
     "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
     "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
@@ -110,13 +116,12 @@ STUDY_LABELS = {
 # Funções utilitárias
 # ─────────────────────────────────────────────────────────
 def count_json_recursive(path):
-    # Tratamento especial para Vulgata (1189 capítulos) que ainda está em .txt
+    # Tratamento especial para Vulgata (arquivo .txt único)
     if "VUL" in path and "output" not in path:
-        if "VUL" in SKIP_MANUSCRIPTS:
-            return 0
         if os.path.exists(os.path.join(path, "vulgata_latina.txt")):
-            return 1189
-        
+            return 1  # 1 arquivo disponível
+        return 0
+
     if not os.path.isdir(path):
         return 0
     total = 0
@@ -124,10 +129,10 @@ def count_json_recursive(path):
     parts = os.path.normpath(path).split(os.sep)
     if len(parts) >= 2:
         collection_name = parts[1]
-        
+
     if collection_name in SKIP_MANUSCRIPTS:
         return 0
-        
+
     for root, _, files in os.walk(path):
         for f in files:
             if f.endswith(".json"):
@@ -137,6 +142,31 @@ def count_json_recursive(path):
                     if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
                     if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
                 total += 1
+    return total
+
+def count_json_paused(path, collection_name):
+    """Conta arquivos JSON de manuscritos baixados mas com tradução pausada."""
+    # Vulgata é arquivo .txt único
+    if collection_name == "VUL":
+        return 1 if os.path.exists(os.path.join(path, "vulgata_latina.txt")) else 0
+    if not os.path.isdir(path):
+        return 0
+    total = 0
+    for root, _, files in os.walk(path):
+        for f in files:
+            if not f.endswith(".json") or "_raw" in f:
+                continue
+            parts_f = os.path.normpath(os.path.join(root, f)).split(os.sep)
+            # Estrutura plana (BYZ, SBLGNT): data/BYZ/Acts_1.json → book = "Acts"
+            # Estrutura em subpastas (WLC, DSS, TR): data/WLC/Acts/1.json → book = "Acts"
+            if parts_f[-2] == collection_name:
+                # Arquivo plano: extrai o livro do nome do arquivo (ex: Acts_1.json → Acts)
+                book = f.rsplit("_", 1)[0]
+            else:
+                book = parts_f[-2]
+            if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
+            if collection_name == "SBLGNT" and book not in ALLOWED_NT_BOOKS: continue
+            total += 1
     return total
 
 def count_json_flat(path):
@@ -168,13 +198,23 @@ def build_manuscripts_table():
     total_out  = 0
 
     for key_d, key_o, emoji, name, lang, note in MANUSCRIPTS:
-        d = count_json_recursive(os.path.join(DATA_DIR, key_d))
         o = count_json_recursive(os.path.join(OUTPUT_DIR, key_o))
+        # Manuscritos pausados: conta caps reais mas status é "Aguardando tradução"
+        if key_d in DOWNLOADED_BUT_PAUSED:
+            d = count_json_paused(os.path.join(DATA_DIR, key_d), key_d)
+            status = "⏳ Aguardando tradução"
+        else:
+            d = count_json_recursive(os.path.join(DATA_DIR, key_d))
+            status = status_icon(d, o)
         total_data += d
         total_out  += o
         note_col = f" *{note}*" if note else ""
-        status = status_icon(d, o)
-        rows.append(f"| {emoji} {name} | {lang} | {d:,} caps | {o:,} traduzidos | {status}{note_col} |")
+        # Vulgata está em arquivo .txt único
+        if key_d == "VUL":
+            fonte_label = f"{d} arquivo" if d == 1 else f"{d:,} caps"
+        else:
+            fonte_label = f"{d:,} caps"
+        rows.append(f"| {emoji} {name} | {lang} | {fonte_label} | {o:,} traduzidos | {status}{note_col} |")
 
     return rows, total_data, total_out
 
