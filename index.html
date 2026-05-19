@@ -1115,7 +1115,12 @@
          * @param {string} chapter
          */
         function updateUrlHash(manuscript, book, chapter) {
-            window.location.hash = `/${manuscript}/${book}/${chapter}`;
+            // Usa replaceState para atualizar a URL sem disparar o evento hashchange
+            // (evita loop: loadChapterData → updateUrlHash → hashchange → handleUrlHash → loadChapterData)
+            const newHash = `#/${manuscript}/${book}/${chapter}`;
+            if (window.location.hash !== newHash) {
+                history.replaceState(null, "", newHash);
+            }
         }
 
         /**
@@ -1323,7 +1328,7 @@
                 });
                 if (pages.length > 0) {
                     SELECT_CHAPTER.selectedIndex = 0;
-                    SELECT_CHAPTER.dispatchEvent(new Event("change"));
+                    loadChapterData();
                 }
                 return;
             }
@@ -1338,7 +1343,7 @@
 
             if (maxChapters > 0) {
                 SELECT_CHAPTER.selectedIndex = 0;
-                SELECT_CHAPTER.dispatchEvent(new Event("change"));
+                loadChapterData();
             }
         }
 
