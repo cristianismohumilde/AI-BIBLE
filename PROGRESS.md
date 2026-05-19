@@ -1,17 +1,17 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-19 04:54 UTC**
+> Gerado automaticamente em: **2026-05-19 04:59 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`░░░░░░░░░░░░░░░░░░░░` 1.6%
+`░░░░░░░░░░░░░░░░░░░░` 1.4%
 
-**165** de **10,626** capítulos traduzidos.
-**ETA estimado:** ~16d 18h
-**Custo Computacional Restante:** ~$603 USD
+**168** de **11,815** capítulos traduzidos.
+**ETA estimado:** ~18d 15h
+**Custo Computacional Restante:** ~$671 USD
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 165 | `███░░░░░░░░░░░░░░░░░` 17.8% | 🚀 Em andamento |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 168 | `███░░░░░░░░░░░░░░░░░` 18.1% | 🚀 Em andamento |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
@@ -32,6 +32,7 @@
 | 🔤 Versão Copta Saídica | Copta Saídico | 1,512 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏔️ Versão Armênia Oriental | Armênio Clássico | 1,189 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 661 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 🇪🇹 Versão Ge'ez (Etíope) | Ge'ez (Etíope Clássico) | 1,189 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 
 ---
 

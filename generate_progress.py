@@ -29,6 +29,7 @@ COLLECTION_LABELS = {
     "Coptic_Sahidic":  ("🔤 Versão Copta Saídica",       "Copta Saídico"),
     "Armenian_Eastern":("🏔️ Versão Armênia Oriental",    "Armênio Clássico"),
     "Talmud":          ("📚 Talmud Bavli",               "Hebraico Mishnaico / Aramaico"),
+    "Geez":            ("🇪🇹 Versão Ge'ez (Etíope)",      "Ge'ez (Etíope Clássico)"),
 }
 
 
@@ -60,6 +61,12 @@ def count_data_files(collection):
     if collection == "VUL":
         if os.path.exists(os.path.join(DATA_DIR, "VUL", "vulgata_latina.txt")):
             return 1189
+
+    if collection == "Geez":
+        geez_dir = os.path.join(DATA_DIR, "ancient_versions", "geez_extracted")
+        if os.path.isdir(geez_dir):
+            return sum(1 for f in os.listdir(geez_dir) if f.endswith(".json"))
+        return 0
 
     ancient_map = {
         "Peshitta_Syriac": "peshitta_syriac.json",

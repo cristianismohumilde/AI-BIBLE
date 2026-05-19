@@ -209,12 +209,13 @@ def sorting_key(filepath):
     chapter_name = os.path.splitext(chapter_file)[0]
     
     try:
-        # Extrair números de capítulo ou daf para ordenação correta
-        # Ex: "1", "12a", etc.
         num_part = "".join(c for c in chapter_name if c.isdigit())
-        chapter_num = int(num_part) if num_part else chapter_name
-    except ValueError:
-        chapter_num = chapter_name
+        if num_part:
+            chapter_num = (0, int(num_part))
+        else:
+            chapter_num = (1, chapter_name)
+    except Exception:
+        chapter_num = (1, chapter_name)
         
     return (category, book, chapter_num)
 
@@ -237,7 +238,8 @@ def main():
         "Peshitta_Syriac": "Siríaco Antigo (Peshitta)",
         "Coptic_Sahidic": "Copta Saídico",
         "Armenian_Eastern": "Armênio Oriental Antigo",
-        "Talmud": "Hebraico Mishnaico e Aramaico Talmúdico"
+        "Talmud": "Hebraico Mishnaico e Aramaico Talmúdico",
+        "Geez": "Ge'ez (Etíope Clássico)"
     }
 
     print("Iniciando varredura de manuscritos para tradução...")
@@ -366,6 +368,46 @@ def main():
                                 with open(output_file, "w", encoding="utf-8") as f:
                                     json.dump(translated_verses, f, ensure_ascii=False, indent=2)
                                 print(f"✅ [{trans_key}] {book_name} {ch_num} traduzido!")
+
+            # 2.3 Ge'ez (Classical Ethiopic)
+            elif "geez_extracted" in parts:
+                source_language = language_map["Geez"]
+                book_name = file.replace(".json", "")
+                
+                if "_" in book_name:
+                    book_title, ch_num = book_name.rsplit("_", 1)
+                else:
+                    book_title, ch_num = book_name, "1"
+                
+                output_dir = "output/Geez"
+                output_file = f"{output_dir}/{book_title}_{ch_num}.json"
+                
+                if os.path.exists(output_file):
+                    continue
+                    
+                print(f"\n🚀 [Ge'ez] Traduzindo {book_title} {ch_num}...")
+                
+                with open(input_file, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                
+                verse_list = []
+                if isinstance(data, dict) and "text" in data:
+                    for item in data["text"]:
+                        if item.strip():
+                            parts_item = item.split(" ", 1)
+                            if len(parts_item) == 2:
+                                v_num, v_text = parts_item
+                            else:
+                                v_num, v_text = "1", item
+                            verse_list.append((v_num.strip(), v_text.strip()))
+                
+                translated_verses = translate_verses_parallel(verse_list, source_language)
+                    
+                if translated_verses:
+                    os.makedirs(output_dir, exist_ok=True)
+                    with open(output_file, "w", encoding="utf-8") as f:
+                        json.dump(translated_verses, f, ensure_ascii=False, indent=2)
+                    print(f"✅ [Ge'ez] {book_title} {ch_num} traduzido!")
 
         # --- CASO 3: Manuscritos Bíblicos normais (WLC, Aleppo, LXX, DSS, SBLGNT, etc.) ---
         else:
