@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scriptura AI — Tradução Bíblica Multilíngue por IA</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Design Tokens & Variáveis (Aesthetics Premium Obsidian) */
+        :root {
+            --bg-obsidian: #0b0f19;
+            --bg-card: rgba(19, 26, 44, 0.7);
+            --bg-card-hover: rgba(26, 36, 60, 0.9);
+            --border-glow: rgba(20, 184, 166, 0.15);
+            --border-glow-active: rgba(251, 191, 36, 0.4);
+            
+            --color-teal: #14b8a6;
+            --color-emerald: #10b981;
+            --color-gold: #fbbf24;
+            --color-text-primary: #f3f4f6;
+            --color-text-secondary: #9ca3af;
+            --color-text-muted: #6b7280;
+            
+            --font-display: 'Outfit', sans-serif;
+            --font-body: 'Inter', sans-serif;
+            --font-hebrew: 'Cardo', serif;
+            --font-greek: 'Cardo', serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-obsidian);
+            color: var(--color-text-primary);
+            font-family: var(--font-body);
+            min-height: 100vh;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Fundo com efeito gradiente Aurora */
+        body::before {
+            content: '';
+            position: absolute;
+            top: -200px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 600px;
+            background: radial-gradient(circle, rgba(20, 184, 166, 0.08) 0%, rgba(16, 185, 129, 0.03) 50%, rgba(11, 15, 25, 0) 100%);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        header {
+            background: rgba(11, 15, 25, 0.8);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border-glow);
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--color-teal), var(--color-emerald));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-display);
+            font-weight: 800;
+            font-size: 1.25rem;
+            color: var(--bg-obsidian);
+            box-shadow: 0 0 20px rgba(20, 184, 166, 0.3);
+        }
+
+        .logo-text h1 {
+            font-family: var(--font-display);
+            font-size: 1.25rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #ffffff, #d1d5db);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .logo-text span {
+            font-size: 0.75rem;
+            color: var(--color-teal);
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .live-status {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--color-emerald);
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--color-emerald);
+            border-radius: 50%;
+            animation: pulse 1.8s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(0.9); opacity: 0.6; }
+            50% { transform: scale(1.2); opacity: 1; box-shadow: 0 0 10px var(--color-emerald); }
+            100% { transform: scale(0.9); opacity: 0.6; }
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 2rem;
+            max-width: 1600px;
+            margin: 0 auto;
+            width: 100%;
+            gap: 2rem;
+        }
+
+        /* Painel de Controle (Seletores) */
+        .controls-panel {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: 16px;
+            padding: 1.5rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.25rem;
+            backdrop-filter: blur(8px);
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .control-group label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--color-text-secondary);
+            font-weight: 600;
+        }
+
+        .control-group select {
+            background: rgba(11, 15, 25, 0.6);
+            border: 1px solid var(--border-glow);
+            color: var(--color-text-primary);
+            padding: 0.75rem;
+            border-radius: 8px;
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            cursor: pointer;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .control-group select:focus {
+            border-color: var(--color-teal);
+            box-shadow: 0 0 10px rgba(20, 184, 166, 0.15);
+        }
+
+        /* Conteiner da Bíblia */
+        .bible-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .chapter-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 1rem;
+        }
+
+        .chapter-title h2 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .chapter-title p {
+            color: var(--color-text-secondary);
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        /* Grid de Versículos */
+        .verses-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .verse-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: 12px;
+            padding: 1.5rem;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .verse-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--border-glow-active);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .verse-num {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            background: rgba(20, 184, 166, 0.1);
+            color: var(--color-teal);
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 0.25rem 0.5rem;
+            border-radius: 6px;
+            font-family: var(--font-display);
+        }
+
+        .text-original-container {
+            border-left: 2px dashed rgba(20, 184, 166, 0.2);
+            padding-left: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            direction: rtl; /* Alinhamento Hebraico da direita para a esquerda */
+        }
+
+        .text-original {
+            font-family: var(--font-hebrew);
+            font-size: 1.65rem;
+            line-height: 2.2rem;
+            color: var(--color-gold);
+            text-shadow: 0 0 1px rgba(251, 191, 36, 0.1);
+            word-spacing: 4px;
+        }
+
+        .text-translation-container {
+            padding-right: 1.5rem;
+            padding-left: 2rem; /* Espaço para o número do versículo */
+            display: flex;
+            align-items: center;
+        }
+
+        .text-translation {
+            font-family: var(--font-body);
+            font-size: 1.1rem;
+            line-height: 1.75rem;
+            color: var(--color-text-primary);
+            font-weight: 400;
+        }
+
+        /* Estado Vazio (Ainda não traduzido) */
+        .empty-state {
+            background: var(--bg-card);
+            border: 1px dashed var(--border-glow);
+            border-radius: 16px;
+            padding: 4rem 2rem;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 1.5rem;
+            backdrop-filter: blur(8px);
+        }
+
+        .empty-icon {
+            font-size: 3rem;
+            color: var(--color-text-muted);
+            animation: float 4s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+
+        .empty-state h3 {
+            font-family: var(--font-display);
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .empty-state p {
+            color: var(--color-text-secondary);
+            max-width: 500px;
+            font-size: 0.95rem;
+            line-height: 1.5rem;
+        }
+
+        footer {
+            border-top: 1px solid var(--border-glow);
+            padding: 2rem;
+            text-align: center;
+            color: var(--color-text-muted);
+            font-size: 0.85rem;
+            background: rgba(11, 15, 25, 0.9);
+            margin-top: auto;
+        }
+
+        footer a {
+            color: var(--color-teal);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsividade para Telas Menores */
+        @media (max-width: 768px) {
+            .verse-card {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+                padding-top: 2.5rem;
+            }
+
+            .text-original-container {
+                border-left: none;
+                border-bottom: 1px dashed rgba(20, 184, 166, 0.2);
+                padding-left: 0;
+                padding-bottom: 1rem;
+                justify-content: flex-start;
+            }
+
+            .text-translation-container {
+                padding-right: 0;
+                padding-left: 0;
+            }
+
+            main {
+                padding: 1rem;
+            }
+
+            .controls-panel {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <div class="logo-icon">S</div>
+            <div class="logo-text">
+                <h1>Scriptura AI</h1>
+                <span>Manuscritos Originais</span>
+            </div>
+        </div>
+        
+        <div class="live-status">
+            <div class="pulse-dot"></div>
+            <span>GPU Frankfurt Ativa</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Painel de Controle de Navegação -->
+        <section class="controls-panel">
+            <div class="control-group">
+                <label for="select-manuscript">Manuscrito Fonte</label>
+                <select id="select-manuscript">
+                    <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
+                    <option value="WLC">Texto de Leningrado (WLC)</option>
+                    <option value="LXX">Septuaginta (LXX - Grego)</option>
+                    <option value="DSS">Mar Morto (DSS)</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label for="select-book">Livro</label>
+                <select id="select-book">
+                    <!-- Dinâmico via JS -->
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label for="select-chapter">Capítulo</label>
+                <select id="select-chapter">
+                    <!-- Dinâmico via JS -->
+                </select>
+            </div>
+        </section>
+
+        <!-- Área de Exibição das Escrituras -->
+        <section class="bible-container">
+            <div class="chapter-header">
+                <div class="chapter-title">
+                    <h2 id="display-title">Selecione uma passagem</h2>
+                    <p id="display-subtitle">Visualização interlinear e em tempo real dos versículos traduzidos.</p>
+                </div>
+            </div>
+
+            <div class="verses-list" id="verses-list">
+                <!-- Preenchido dinamicamente pelo JavaScript -->
+            </div>
+            
+            <!-- Estado Vazio / Carregando -->
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-icon">📖</div>
+                <h3 id="empty-title">Ainda não traduzido pela GPU</h3>
+                <p id="empty-message">Este capítulo está na fila de processamento na Oracle Cloud em Frankfurt. Ele aparecerá automaticamente aqui assim que o tradutor terminar a tradução e fizer o push para o GitHub (ciclo de 5 minutos).</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido com fé e tecnologia por <a href="https://github.com/cristianismohumilde" target="_blank">Cristianismo Humilde</a> e Antigravity. Todos os direitos reservados © 2026.</p>
+    </footer>
+
+    <script>
+        // Mapeamento de livros e capítulos disponíveis no Códice de Aleppo
+        // Este mapa será atualizado para refletir o que está sendo traduzido de fato
+        const BIBLE_STRUCTURE = {
+            "Aleppo": {
+                "Genesis": 50,
+                "1_Samuel": 31,
+                "2_Samuel": 24,
+                "1_Kings": 22,
+                "2_Kings": 25,
+                "1_Chronicles": 29,
+                "2_Chronicles": 36
+            },
+            "WLC": {
+                "Genesis": 50
+            },
+            "LXX": {
+                "Genesis": 50
+            },
+            "DSS": {
+                "Genesis": 50
+            }
+        };
+
+        const SELECT_MANUSCRIPT = document.getElementById("select-manuscript");
+        const SELECT_BOOK = document.getElementById("select-book");
+        const SELECT_CHAPTER = document.getElementById("select-chapter");
+        const VERSES_LIST = document.getElementById("verses-list");
+        const EMPTY_STATE = document.getElementById("empty-state");
+        const DISPLAY_TITLE = document.getElementById("display-title");
+        const DISPLAY_SUBTITLE = document.getElementById("display-subtitle");
+
+        // Inicializa o seletor de Livros com base no manuscrito padrão (Aleppo)
+        function updateBookSelector(manuscript) {
+            SELECT_BOOK.innerHTML = "";
+            const books = Object.keys(BIBLE_STRUCTURE[manuscript] || {});
+            
+            books.forEach(book => {
+                const option = document.createElement("option");
+                option.value = book;
+                option.textContent = book.replace("_", " ");
+                SELECT_BOOK.appendChild(option);
+            });
+
+            if(books.length > 0) {
+                // Seleciona o último livro em Aleppo por padrão, que é onde a tradução está mais ativa
+                if (manuscript === "Aleppo") {
+                    SELECT_BOOK.value = "2_Kings";
+                } else {
+                    SELECT_BOOK.selectedIndex = 0;
+                }
+                updateChapterSelector(manuscript, SELECT_BOOK.value);
+            }
+        }
+
+        // Inicializa o seletor de Capítulos
+        function updateChapterSelector(manuscript, book) {
+            SELECT_CHAPTER.innerHTML = "";
+            const maxChapters = BIBLE_STRUCTURE[manuscript][book] || 0;
+            
+            for (let i = 1; i <= maxChapters; i++) {
+                const option = document.createElement("option");
+                option.value = i;
+                option.textContent = `Capítulo ${i}`;
+                SELECT_CHAPTER.appendChild(option);
+            }
+
+            if(maxChapters > 0) {
+                // Seleciona o primeiro capítulo por padrão
+                SELECT_CHAPTER.selectedIndex = 0;
+                loadChapterData();
+            }
+        }
+
+        // Função principal para buscar o arquivo JSON de tradução em tempo real
+        async function loadChapterData() {
+            const manuscript = SELECT_MANUSCRIPT.value;
+            const book = SELECT_BOOK.value;
+            const chapter = SELECT_CHAPTER.value;
+
+            if (!manuscript || !book || !chapter) return;
+
+            DISPLAY_TITLE.textContent = `${book.replace("_", " ")} ${chapter}`;
+            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${manuscript === 'LXX' ? 'Grego' : 'Hebraico'}`;
+            
+            VERSES_LIST.innerHTML = "";
+            EMPTY_STATE.style.display = "none";
+
+            // Caminho para o JSON de tradução relativo ao diretório raiz do site
+            const jsonPath = `output/${manuscript}/${book}_${chapter}.json`;
+
+            try {
+                const response = await fetch(jsonPath);
+                
+                if (!response.ok) {
+                    throw new Error("Arquivo não encontrado.");
+                }
+
+                const verses = await response.json();
+                
+                if (verses && verses.length > 0) {
+                    verses.forEach((verse, idx) => {
+                        const verseCard = document.createElement("div");
+                        verseCard.className = "verse-card";
+                        
+                        const verseNum = verse.verse || (idx + 1);
+                        
+                        verseCard.innerHTML = `
+                            <span class="verse-num">${verseNum}</span>
+                            <div class="text-translation-container">
+                                <p class="text-translation">${verse.translation || ""}</p>
+                            </div>
+                            <div class="text-original-container">
+                                <p class="text-original">${verse.original || ""}</p>
+                            </div>
+                        `;
+                        VERSES_LIST.appendChild(verseCard);
+                    });
+                } else {
+                    showEmptyState();
+                }
+
+            } catch (error) {
+                console.warn(`Capítulo ${book} ${chapter} não disponível ainda:`, error);
+                showEmptyState();
+            }
+        }
+
+        function showEmptyState() {
+            VERSES_LIST.innerHTML = "";
+            EMPTY_STATE.style.display = "flex";
+        }
+
+        // Event Listeners
+        SELECT_MANUSCRIPT.addEventListener("change", () => updateBookSelector(SELECT_MANUSCRIPT.value));
+        SELECT_BOOK.addEventListener("change", () => updateChapterSelector(SELECT_MANUSCRIPT.value, SELECT_BOOK.value));
+        SELECT_CHAPTER.addEventListener("change", loadChapterData);
+
+        // Inicialização
+        window.addEventListener("DOMContentLoaded", () => {
+            updateBookSelector(SELECT_MANUSCRIPT.value);
+        });
+    </script>
+</body>
+</html>
