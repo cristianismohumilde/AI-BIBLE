@@ -5,7 +5,7 @@ import requests
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 MODEL_NAME = "qwen2.5:32b"
 
-DOUBLE_PASS_REVIEW = True
+DOUBLE_PASS_REVIEW = False
 
 import re
 
