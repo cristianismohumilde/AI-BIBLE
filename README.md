@@ -28,13 +28,13 @@ com transliteração acadêmica incluída.
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 649 traduzidos | 🚀 Em andamento (70%) |
-| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
-| ✝️ Textus Receptus (TR) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| 🏛️ Vulgata Latina | Latim | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 1135 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏛️ Vulgata Latina | Latim | 1 arquivo | 0 traduzidos | ⏳ Aguardando tradução |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
