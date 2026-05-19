@@ -12,7 +12,7 @@ MAX_WORKERS = 3
 DOUBLE_PASS_REVIEW = True
 
 # === BUDGET LIMIT SCOPES ($300 USD) ===
-SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+SKIP_MANUSCRIPTS = {"WLC", "SBLGNT", "TR", "Talmud", "VUL"}
 ALLOWED_NT_BOOKS = {
     "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
     "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
@@ -234,24 +234,33 @@ def sorting_key(filepath):
     parts = os.path.normpath(filepath).split(os.sep)
     category = parts[1] if len(parts) > 1 else ""
     book = parts[2] if len(parts) > 2 else ""
-    chapter_file = parts[3] if len(parts) > 3 else ""
-    chapter_name = os.path.splitext(chapter_file)[0]
     
-    # Prioridade de tradução personalizada solicitada pelo usuário
+    filename = os.path.basename(filepath).lower()
+    
+    # Prioridade de tradução personalizada solicitada pelo usuário + TRANSLATION_QUEUE.md
     priority = 99
     if category == "Aleppo":
         priority = 1
-    elif category == "ancient_versions":
-        if "geez_extracted" in parts:
-            priority = 2
-        elif "coptic" in filepath:
-            priority = 3
-        elif "armenian" in filepath:
-            priority = 4
-        else:
-            priority = 5
-    else:
+    elif category == "LXX":
+        priority = 2
+    elif category == "ancient_versions" and "geez_extracted" in parts:
+        priority = 3
+    elif category == "DSS":
+        priority = 4
+    elif category == "ancient_versions" and "targum_onkelos" in filename:
+        priority = 5
+    elif category == "BYZ":
         priority = 6
+    elif category == "ancient_versions" and "peshitta" in filename:
+        priority = 7
+    elif category == "ancient_versions" and "coptic" in filename:
+        priority = 8
+    elif category == "ancient_versions" and "armenian" in filename:
+        priority = 9
+    else:
+        priority = 10
+        
+    chapter_name = os.path.splitext(os.path.basename(filepath))[0]
         
     try:
         num_part = "".join(c for c in chapter_name if c.isdigit())
