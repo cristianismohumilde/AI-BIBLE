@@ -29,7 +29,11 @@ TEXTS = [
     ("Livro dos Jubileus", "https://archive.org/download/bookofjubileesor00char/bookofjubileesor00char.pdf", "jubilees_charles_edition.pdf"),
     ("Didaquê (O Ensino dos Doze)", "https://archive.org/download/didachetexttrans00alle/didachetexttrans00alle.pdf", "didache_greek.pdf"),
     ("Testamento dos Doze Patriarcas", "https://archive.org/download/testamentsoftwel00char/testamentsoftwel00char.pdf", "testaments_twelve_patriarchs.pdf"),
-    ("Mishná (Berakhot - Piloto Sefaria API)", "https://www.sefaria.org/api/texts/Mishnah_Berakhot.1?context=0", "mishnah_berakhot.json")
+    ("Prayer of Manasseh", "https://www.sefaria.org/api/texts/Prayer_of_Manasseh?context=0", "prayer_of_manasseh.json"),
+    ("Psalm 151", "https://www.sefaria.org/api/texts/Psalm_151?context=0", "psalm_151.json"),
+    ("3/4 Maccabees + 4 Esdras (Charles vol. II)", "https://archive.org/stream/apocryphapseudep02char/apocryphapseudep02char_djvu.txt", "charles_apocrypha_vol2_djvu.txt"),
+    ("4 Esdras (fallback Gutenberg)", "https://www.gutenberg.org/cache/epub/2435/pg2435.txt", "4_esdras_gutenberg.txt"),
+    ("Mishná (Berakhot - Sefaria API)", "https://www.sefaria.org/api/texts/Mishnah_Berakhot.1?context=0", "mishnah_berakhot.json")
 ]
 
 def download_all():

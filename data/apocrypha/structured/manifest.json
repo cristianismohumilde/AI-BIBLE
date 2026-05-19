@@ -1,0 +1,16 @@
+[
+  {
+    "source": "prayer_of_manasseh.json",
+    "book": "Prayer_of_Manasseh",
+    "chapter": 1,
+    "verse_count": 15,
+    "output": "data/apocrypha/structured/Prayer_of_Manasseh/1.json"
+  },
+  {
+    "source": "psalm_151.json",
+    "book": "Psalm_151",
+    "chapter": 1,
+    "verse_count": 10,
+    "output": "data/apocrypha/structured/Psalm_151/1.json"
+  }
+]

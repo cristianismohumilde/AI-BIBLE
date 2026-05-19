@@ -44,7 +44,7 @@ com transliteração acadêmica incluída.
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ✅ Fonte localizada; tradução aguardando |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 traduzidas | ❌ Pausado (Orçamento) |
 
 ---
@@ -107,7 +107,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Impacto: +50% do tempo de GPU (3ª chamada por versículo)
 
 ### 🗺️ Fase 4 — Expansão Futura
-- Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
+- Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê, 3/4 Macabeus, Salmo 151 e Oração de Manassés
 - Mishná completa + comentários clássicos traduzidos
 - Interface web com busca e comparação lado a lado
 

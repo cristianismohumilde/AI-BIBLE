@@ -21,6 +21,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 * **Verificação de Qualidade (avaliação provisória)**: Alta qualidade filológica — o Códice de Aleppo é historicamente considerado das mais confiáveis testemunhas massoréticas. Entretanto, atenção: o códice sofreu perdas e lacunas documentadas (partes foram danificadas/ausentes ao longo da história). Portanto:
     - Recomendação imediata: comparar automaticamente com o `WLC` (Códice de Leningrado) para preencher lacunas e validar variantes textuais.
     - Ação pendente: realizar verificação filológica formal para documentar exatamente qual edição/versão foi usada (e se existem conversões/normalizações aplicadas pelo Sefaria que impactem a forma do texto).
+* **Comparação automatizada Aleppo × WLC**: o relatório `reports/aleppo_wlc_comparison.md` já foi gerado. Ele aponta principalmente diferenças ortográficas / massoréticas, com algumas diferenças de contagem por capítulo que ainda precisam de revisão humana antes de qualquer merge automático.
 
 
 ### 1.0 Septuaginta (LXX) — *Seleção Priorizada: Isaías, Salmos e Deuterocanônicos*
@@ -29,6 +30,12 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Link de Download**: [LXX via Sefaria API](https://www.sefaria.org/api/texts/Septuagint?lang=grc) ou diretamente [LXX Rahlfs-Hanhart Edition](https://www.academic-bible.com/en/online/sep/)
 *   **Verificação de Qualidade**: **Excelente para Seleção Priorizada**. Texto crítico baseado nos manuscritos mais antigos (P.Oxy, Papiro Fouad, Códice Sinaítico). A edição Rahlfs-Hanhart é a referência acadêmica internacional.
 *   **Nota Importante**: A tradução será limitada à seleção priorizada (Isaías, Salmos, Deuterocanônicos) até disponibilização de novo orçamento.
+
+### 1.0b Deuterocanônicos ortodoxos já presentes / confirmados
+* **3 Macabeus** e **4 Macabeus** já existem em `data/LXX/3_Maccabees/` e `data/LXX/4_Maccabees/`.
+* **Salmo 151** já está presente em `data/LXX/Psalms/151.json`.
+* **Oração de Manassés** foi confirmada como texto disponível via Sefaria (`https://www.sefaria.org/api/texts/Prayer_of_Manasseh`).
+* **4 Esdras** ainda precisa de consolidação em fonte latina da Vulgata; foi localizada apenas uma fallback pública em inglês/domínio público para referência e comparação.
 
 ### 1.1 Livro de Enoque (1 Enoch) — *Ge'ez Clássico (Etiópico Antigo)*
 *   **Descrição**: O texto integral do Livro de Enoque que sobreviveu inteiramente apenas na língua litúrgica clássica da Etiópia (Ge'ez Clássico).
@@ -43,14 +50,11 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Verificação de Qualidade**: **Alta Equivalência Exegética** (em Amárico Moderno). Embora escrito em Amárico Moderno (língua viva), representa com precisão a recepção teológica da tradição ortodoxa etíope.
 *   **⚠️ Nota para Priorização**: Esta fonte está em Amárico, não em Ge'ez Clássico puro. Para conformidade com a seleção priorizada que exige Ge'ez genuíno, buscar fontes alternativas em Ge'ez Clássico.
 
-### 1.2b Novo Testamento em Ge'ez Clássico Puro — *(Pesquisa Necessária)*
+### 1.2b Novo Testamento em Ge'ez Clássico Puro — *Disponível no repositório*
 *   **Descrição**: Versão do Novo Testamento em Ge'ez Clássico genuíno, distinto do Amárico moderno.
-*   **Fontes Potenciais**: 
-    *   [SWORD Project / Crosswire Bible Society](https://www.crosswire.org/sword/modules/) — Procurar por módulos "Ethio" em Ge'ez puro
-    *   [Digital Library of Classic Arabic and Islamic Texts / Ge'ez Collections](https://dlcait.org)
-    *   [Wycliffe Bible Translators Archive](https://www.wycliffe.org) — Coleções de Ge'ez histórico
-*   **Verificação de Qualidade**: **Pendente** — Requer verificação se existe edição crítica confiável em Ge'ez genuíno (não Amárico).
-*   **Status**: 🔍 *Pesquisa ativa necessária antes da tradução*.
+*   **Fonte**: extração já presente em `data/ancient_versions/geez_extracted/`, com livros e capítulos em Ge'ez (script etíope), incluindo Mateus, Marcos, Lucas, João e o restante do NT.
+*   **Validação rápida**: o arquivo de amostra `Mateus 1` foi conferido e contém texto em Ge'ez clássico, não em Amárico.
+*   **Status**: ✅ *Fonte localizada e pronta para uso na sequência priorizada*.
 
 ### 1.3 Targum Onkelos — *Aramaico Antigo (Torá)*
 *   **Descrição**: A tradução/paráfrase aramaica oficial da Torá samaritana e rabínica.
