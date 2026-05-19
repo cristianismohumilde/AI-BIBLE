@@ -208,6 +208,22 @@ def sorting_key(filepath):
     chapter_file = parts[3] if len(parts) > 3 else ""
     chapter_name = os.path.splitext(chapter_file)[0]
     
+    # Prioridade de tradução personalizada solicitada pelo usuário
+    priority = 99
+    if category == "Aleppo":
+        priority = 1
+    elif category == "ancient_versions":
+        if "geez_extracted" in parts:
+            priority = 2
+        elif "coptic" in filepath:
+            priority = 3
+        elif "armenian" in filepath:
+            priority = 4
+        else:
+            priority = 5
+    else:
+        priority = 6
+        
     try:
         num_part = "".join(c for c in chapter_name if c.isdigit())
         if num_part:
@@ -217,7 +233,7 @@ def sorting_key(filepath):
     except Exception:
         chapter_num = (1, chapter_name)
         
-    return (category, book, chapter_num)
+    return (priority, category, book, chapter_num)
 
 def main():
     data_dir = "data"

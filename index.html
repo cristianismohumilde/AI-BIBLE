@@ -485,6 +485,69 @@
             line-height: 1.5rem;
         }
 
+        /* Banner de Tradução Pendente */
+        .pending-translation-banner {
+            display: flex;
+            align-items: center;
+            background: rgba(245, 158, 11, 0.08);
+            border: 1px solid rgba(245, 158, 11, 0.25);
+            color: var(--color-gold);
+            padding: 1rem 1.25rem;
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+            line-height: 1.4rem;
+            backdrop-filter: blur(8px);
+            font-family: var(--font-body);
+        }
+        .pending-translation-banner svg {
+            width: 20px;
+            height: 20px;
+            flex-shrink: 0;
+            margin-right: 0.75rem;
+        }
+
+        /* Badge de Tradução Pendente */
+        .translation-pending-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(245, 158, 11, 0.06);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+            color: var(--color-gold);
+            font-size: 0.8rem;
+            font-weight: 500;
+            padding: 0.35rem 0.75rem;
+            border-radius: 6px;
+            font-family: var(--font-display);
+        }
+
+        /* Ponto Pulsante */
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--color-gold);
+            border-radius: 50%;
+            display: inline-block;
+            box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.7);
+            animation: pulse-gold 2s infinite;
+        }
+
+        @keyframes pulse-gold {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.7);
+            }
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 6px rgba(251, 191, 36, 0);
+            }
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(251, 191, 36, 0);
+            }
+        }
+
         /* Tooltip de cópia */
         .verse-card {
             cursor: pointer;
@@ -607,6 +670,12 @@
                     <option value="SBLGNT">Texto Crítico (SBLGNT - Grego)</option>
                     <option value="TR">Textus Receptus (TR - Grego)</option>
                     <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
+                    <option value="Geez">Ge'ez (Etiópico)</option>
+                    <option value="Coptic_Sahidic">Copta Saídico</option>
+                    <option value="Armenian_Eastern">Armênio Oriental</option>
+                    <option value="Peshitta_Syriac">Peshitta Siríaca (Siríaco)</option>
+                    <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
+                    <option value="Talmud">Talmud Bavli</option>
                 </select>
             </div>
             
@@ -703,6 +772,110 @@
             "3_John": 1, "Jude": 1, "Revelation": 22
         };
 
+        const FULL_BIBLE_STRUCTURE = {
+            ...TANAKH_STRUCTURE,
+            ...NT_STRUCTURE
+        };
+
+        const GEEZ_STRUCTURE = {
+            "ኦሪት ዘፍጥረት": 50, "ኦሪት ዘጸአት": 40, "ኦሪት ዘሌዋውያን": 27, "ኦሪት ዘኍልቍ": 36, "ኦሪት ዘዳግም": 34,
+            "መጽሐፈ ኢያሱ ወልደ ነዌ": 24, "መጽሐፈ መሣፍንት": 21, "መጽሐፈ ሩት": 4, "መጽሐፈ ሳሙኤል ቀዳማዊ": 31, "መጽሐፈ ሳሙኤል ካል": 24,
+            "መጽሐፈ ነገሥት ቀዳማዊ።": 22, "መጽሐፈ ነገሥት ካልዕ።": 25, "መጽሐፈ ዜና መዋዕል ቀዳማዊ።": 29, "መጽሐፈ ዜና መዋዕል ካልዕ።": 36,
+            "መጽሐፈ ዕዝራ።": 10, "መጽሐፈ ነህምያ።": 13, "መጽሐፈ አስቴር።": 10, "መጽሐፈ ኢዮብ።": 42, "መዝሙረ ዳዊት": 150,
+            "መጽሐፈ ምሳሌ": 31, "መጽሐፈ መክብብ": 12, "መኃልየ መኃልይ ዘሰሎሞን": 8, "ትንቢተ ኢሳይያስ": 66, "ትንቢተ ኤርምያስ": 52,
+            "ሰቆቃው ኤርምያስ": 5, "ትንቢተ ሕዝቅኤል": 48, "ትንቢተ ዳንኤል": 12, "ትንቢተ ሆሴዕ": 14, "ትንቢተ ኢዮኤል": 3,
+            "ትንቢተ አሞጽ": 9, "ትንቢተ አብድዩ": 1, "ትንቢተ ዮናስ": 4, "ትንቢተ ሚክያስ": 7, "ትንቢተ ናሆም": 3,
+            "ትንቢተ ዕንባቆም": 3, "ትንቢተ ሶፎንያስ": 3, "ትንቢተ ሐጌ": 2, "ትንቢተ ዘካርያስ": 14, "ትንቢተ ሚልክያ": 4,
+            "የማቴዎስ ወንጌል": 28, "የማርቆስ ወንጌል": 16, "የሉቃስ ወንጌል": 24, "የዮሐንስ ወንጌል": 21, "የሐዋርያት ሥራ": 28,
+            "ወደ ሮሜ ሰዎች": 16, "1ኛ ወደ ቆሮንቶስ ሰዎች": 16, "2ኛ ወደ ቆሮንቶስ ሰዎች": 13, "ወደ ገላትያ ሰዎች": 6,
+            "ወደ ኤፌሶን ሰዎች": 6, "ወደ ፊልጵስዩስ ሰዎች": 4, "ወደ ቆላስይስ ሰዎች": 4, "1ኛ ወደ ተሰሎንቄ ሰዎች": 5,
+            "2ኛ ወደ ተሰሎንቄ ሰዎች": 3, "1ኛ ወደ ጢሞቴዎስ": 6, "2ኛ ወደ ጢሞቴዎስ": 4, "ወደ ቲቶ": 3,
+            "ወደ ፊልሞና": 1, "ወደ ዕብራውያን": 13, "የያዕቆብ መልእክት": 5, "1ኛ የጴጥሮስ መልእክት": 5,
+            "2ኛ የጴጥሮስ መልእክት": 3, "1ኛ የዮሐንስ መልእክት": 5, "2ዮሐ": 1, "3ኛ የዮሐንስ መልእክት": 1,
+            "የይሁዳ መልእክት": 1, "የዮሐንስ ራእይ": 22
+        };
+
+        const TALMUD_STRUCTURE = {
+            "Berakhot": 64,
+            "Sanhedrin": 113,
+            "Shabbat": 157
+        };
+
+        const TALMUD_PAGES = {
+            "Berakhot": ["3a", "3b", "4a", "4b", "5a", "5b", "6a", "6b", "7a", "7b", "8a", "8b", "9a", "9b", "10a", "10b", "11a", "11b", "12a", "12b", "13a", "13b", "14a", "14b", "15a", "15b", "16a", "16b", "17a", "17b", "18a", "18b", "19a", "19b", "20a", "20b", "21a", "21b", "22a", "22b", "23a", "23b", "24a", "24b", "25a", "25b", "26a", "26b", "27a", "27b", "28a", "28b", "29a", "29b", "30a", "30b", "31a", "31b", "32a", "32b", "33a", "33b", "34a", "34b", "35a", "35b", "36a", "36b", "37a", "37b", "38a", "38b", "39a", "39b", "40a", "40b", "41a", "41b", "42a", "42b", "43a", "43b", "44a", "44b", "45a", "45b", "46a", "46b", "47a", "47b", "48a", "48b", "49a", "49b", "50a", "50b", "51a", "51b", "52a", "52b", "53a", "53b", "54a", "54b", "55a", "55b", "56a", "56b", "57a", "57b", "58a", "58b", "59a", "59b", "60a", "60b", "61a", "61b", "62a", "62b", "63a", "63b", "64a", "64b", "65a"],
+            "Sanhedrin": ["3a", "3b", "4a", "4b", "5a", "5b", "6a", "6b", "7a", "7b", "8a", "8b", "9a", "9b", "10a", "10b", "11a", "11b", "12a", "12b", "13a", "13b", "14a", "14b", "15a", "15b", "16a", "16b", "17a", "17b", "18a", "18b", "19a", "19b", "20a", "20b", "21a", "21b", "22a", "22b", "23a", "23b", "24a", "24b", "25a", "25b", "26a", "26b", "27a", "27b", "28a", "28b", "29a", "29b", "30a", "30b", "31a", "31b", "32a", "32b", "33a", "33b", "34a", "34b", "35a", "35b", "36a", "36b", "37a", "37b", "38a", "38b", "39a", "39b", "40a", "40b", "41a", "41b", "42a", "42b", "43a", "43b", "44a", "44b", "45a", "45b", "46a", "46b", "47a", "47b", "48a", "48b", "49a", "49b", "50a", "50b", "51a", "51b", "52a", "52b", "53a", "53b", "54a", "54b", "55a", "55b", "56a", "56b", "57a", "57b", "58a", "58b", "59a", "59b", "60a", "60b", "61a", "61b", "62a", "62b", "63a", "63b", "64a", "64b", "65a", "65b", "66a", "66b", "67a", "67b", "68a", "68b", "69a", "69b", "70a", "70b", "71a", "71b", "72a", "72b", "73a", "73b", "74a", "74b", "75a", "75b", "76a", "76b", "77a", "77b", "78a", "78b", "79a", "79b", "80a", "80b", "81a", "81b", "82a", "82b", "83a", "83b", "84a", "84b", "85a", "85b", "86a", "86b", "87a", "87b", "88a", "88b", "89a", "89b", "90a", "90b", "91a", "91b", "92a", "92b", "93a", "93b", "94a", "94b", "95a", "95b", "96a", "96b", "97a", "97b", "98a", "98b", "99a", "99b", "100a", "100b", "101a", "101b", "102a", "102b", "103a", "103b", "104a", "104b", "105a", "105b", "106a", "106b", "107a", "107b", "108a", "108b", "109a", "109b", "110a", "110b", "111a", "111b", "112a", "112b", "113a", "113b", "114a", "114b"],
+            "Shabbat": ["3a", "3b", "4a", "4b", "5a", "5b", "6a", "6b", "7a", "7b", "8a", "8b", "9a", "9b", "10a", "10b", "11a", "11b", "12a", "12b", "13a", "13b", "14a", "14b", "15a", "15b", "16a", "16b", "17a", "17b", "18a", "18b", "19a", "19b", "20a", "20b", "21a", "21b", "22a", "22b", "23a", "23b", "24a", "24b", "25a", "25b", "26a", "26b", "27a", "27b", "28a", "28b", "29a", "29b", "30a", "30b", "31a", "31b", "32a", "32b", "33a", "33b", "34a", "34b", "35a", "35b", "36a", "36b", "37a", "37b", "38a", "38b", "39a", "39b", "40a", "40b", "41a", "41b", "42a", "42b", "43a", "43b", "44a", "44b", "45a", "45b", "46a", "46b", "47a", "47b", "48a", "48b", "49a", "49b", "50a", "50b", "51a", "51b", "52a", "52b", "53a", "53b", "54a", "54b", "55a", "55b", "56a", "56b", "57a", "57b", "58a", "58b", "59a", "59b", "60a", "60b", "61a", "61b", "62a", "62b", "63a", "63b", "64a", "64b", "65a", "65b", "66a", "66b", "67a", "67b", "68a", "68b", "69a", "69b", "70a", "70b", "71a", "71b", "72a", "72b", "73a", "73b", "74a", "74b", "75a", "75b", "76a", "76b", "77a", "77b", "78a", "78b", "79a", "79b", "80a", "80b", "81a", "81b", "82a", "82b", "83a", "83b", "84a", "84b", "85a", "85b", "86a", "86b", "87a", "87b", "88a", "88b", "89a", "89b", "90a", "90b", "91a", "91b", "92a", "92b", "93a", "93b", "94a", "94b", "95a", "95b", "96a", "96b", "97a", "97b", "98a", "98b", "99a", "99b", "100a", "100b", "101a", "101b", "102a", "102b", "103a", "103b", "104a", "104b", "105a", "105b", "106a", "106b", "107a", "107b", "108a", "108b", "109a", "109b", "110a", "110b", "111a", "111b", "112a", "112b", "113a", "113b", "114a", "114b", "115a", "115b", "116a", "116b", "117a", "117b", "118a", "118b", "119a", "119b", "120a", "120b", "121a", "121b", "122a", "122b", "123a", "123b", "124a", "124b", "125a", "125b", "126a", "126b", "127a", "127b", "128a", "128b", "129a", "129b", "130a", "130b", "131a", "131b", "132a", "132b", "133a", "133b", "134a", "134b", "135a", "135b", "136a", "136b", "137a", "137b", "138a", "138b", "139a", "139b", "140a", "140b", "141a", "141b", "142a", "142b", "143a", "143b", "144a", "144b", "145a", "145b", "146a", "146b", "147a", "147b", "148a", "148b", "149a", "149b", "150a", "150b", "151a", "151b", "152a", "152b", "153a", "153b", "154a", "154b", "155a", "155b", "156a", "156b", "157a", "157b", "158a", "158b"]
+        };
+
+        const GEEZ_BOOK_MAP = {
+            "ኦሪት ዘፍጥረት": "Gênesis",
+            "ኦሪት ዘጸአት": "Êxodo",
+            "ኦሪት ዘሌዋውያን": "Levítico",
+            "ኦሪት ዘኍልቍ": "Números",
+            "ኦሪት ዘዳግም": "Deuteronômio",
+            "መጽሐፈ ኢያሱ ወልደ ነዌ": "Josué",
+            "መጽሐፈ መሣፍንት": "Juízes",
+            "መጽሐፈ ሩት": "Rute",
+            "መጽሐፈ ሳሙኤል ቀዳማዊ": "1 Samuel",
+            "መጽሐፈ ሳሙኤል ካል": "2 Samuel",
+            "መጽሐፈ ነገሥት ቀዳማዊ።": "1 Reis",
+            "መጽሐፈ ነገሥት ካልዕ።": "2 Reis",
+            "መጽሐፈ ዜና መዋዕል ቀዳማዊ።": "1 Crônicas",
+            "መጽሐፈ ዜና መዋዕል ካልዕ።": "2 Crônicas",
+            "መጽሐፈ ዕዝራ።": "Esdras",
+            "መጽሐፈ ነህምያ።": "Neemias",
+            "መጽሐፈ አስቴር።": "Ester",
+            "መጽሐፈ ኢዮብ።": "Jó",
+            "መዝሙረ ዳዊት": "Salmos",
+            "መጽሐፈ ምሳሌ": "Provérbios",
+            "መጽሐፈ መክብብ": "Eclesiastes",
+            "መኃልየ መኃልይ ዘሰሎሞን": "Cântico dos Cânticos",
+            "ትንቢተ ኢሳይያስ": "Isaías",
+            "ትንቢተ ኤርምያስ": "Jeremias",
+            "ሰቆቃው ኤርምያስ": "Lamentações",
+            "ትንቢተ ሕዝቅኤል": "Ezequiel",
+            "ትንቢተ ዳንኤል": "Daniel",
+            "ትንቢተ ሆሴዕ": "Oséias",
+            "ትንቢተ ኢዮኤል": "Joel",
+            "ትንቢተ አሞጽ": "Amós",
+            "ትንቢተ አብድዩ": "Obadias",
+            "ትንቢተ ዮናስ": "Jonas",
+            "ትንቢተ ሚክያስ": "Miquéias",
+            "ትንቢተ ናሆም": "Naum",
+            "ትንቢተ ዕንባቆም": "Habacuque",
+            "ትንቢተ ሶፎንያስ": "Sofonias",
+            "ትንቢተ ሐጌ": "Ageu",
+            "ትንቢተ ዘካርያስ": "Zacarias",
+            "ትንቢተ ሚልክያ": "Malaquias",
+            "የማቴዎስ ወንጌል": "Mateus",
+            "የማርቆስ ወንጌል": "Marcos",
+            "የሉቃስ ወንጌል": "Lucas",
+            "የዮሐንስ ወንጌል": "João",
+            "የሐዋርያት ሥራ": "Atos",
+            "ወደ ሮሜ ሰዎች": "Romanos",
+            "1ኛ ወደ ቆሮንቶስ ሰዎች": "1 Coríntios",
+            "2ኛ ወደ ቆሮንቶስ ሰዎች": "2 Coríntios",
+            "ወደ ገላትያ ሰዎች": "Gálatas",
+            "ወደ ኤፌሶን ሰዎች": "Efésios",
+            "ወደ ፊልጵስዩስ ሰዎች": "Filipenses",
+            "ወደ ቆላስይስ ሰዎች": "Colossenses",
+            "1ኛ ወደ ተሰሎንቄ ሰዎች": "1 Tessalonicenses",
+            "2ኛ ወደ ተሰሎንቄ ሰዎች": "2 Tessalonicenses",
+            "1ኛ ወደ ጢሞቴዎስ": "1 Timóteo",
+            "2ኛ ወደ ጢሞቴዎስ": "2 Timóteo",
+            "ወደ ቲቶ": "Tito",
+            "ወደ ፊልሞና": "Filemom",
+            "ወደ ዕብራውያን": "Hebreus",
+            "የያዕቆብ መልእክት": "Tiago",
+            "1ኛ የጴጥሮስ መልእክት": "1 Pedro",
+            "2ኛ የጴጥሮስ መልእክት": "2 Pedro",
+            "1ኛ የዮሐንስ መልእክት": "1 João",
+            "2ዮሐ": "2 João",
+            "3ኛ የዮሐንስ መልእክት": "3 João",
+            "የይሁዳ መልእክት": "Judas",
+            "የዮሐንስ ራእይ": "Apocalipse"
+        };
+
         const BIBLE_STRUCTURE = {
             "Aleppo": TANAKH_STRUCTURE,
             "WLC": TANAKH_STRUCTURE,
@@ -710,7 +883,15 @@
             "LXX": LXX_STRUCTURE,
             "SBLGNT": NT_STRUCTURE,
             "TR": NT_STRUCTURE,
-            "BYZ": NT_STRUCTURE
+            "BYZ": NT_STRUCTURE,
+            "Geez": GEEZ_STRUCTURE,
+            "Coptic_Sahidic": NT_STRUCTURE,
+            "Armenian_Eastern": FULL_BIBLE_STRUCTURE,
+            "Peshitta_Syriac": FULL_BIBLE_STRUCTURE,
+            "Targum_Onkelos": {
+                "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36, "Deuteronomy": 34
+            },
+            "Talmud": TALMUD_STRUCTURE
         };
 
         const SELECT_MANUSCRIPT = document.getElementById("select-manuscript");
@@ -727,7 +908,10 @@
         const COPY_TOAST        = document.getElementById("copy-toast");
 
         // Formata o nome do livro removendo underscores
-        function formatBook(book) {
+        function formatBook(book, manuscript) {
+            if (manuscript === "Geez" && GEEZ_BOOK_MAP[book]) {
+                return `${GEEZ_BOOK_MAP[book]} (${book})`;
+            }
             return book.replace(/_/g, " ");
         }
 
@@ -762,7 +946,7 @@
             books.forEach(book => {
                 const option = document.createElement("option");
                 option.value = book;
-                option.textContent = formatBook(book);
+                option.textContent = formatBook(book, manuscript);
                 SELECT_BOOK.appendChild(option);
             });
 
@@ -779,8 +963,23 @@
         // Inicializa o seletor de Capítulos
         function updateChapterSelector(manuscript, book) {
             SELECT_CHAPTER.innerHTML = "";
-            const maxChapters = BIBLE_STRUCTURE[manuscript][book] || 0;
+            
+            if (manuscript === "Talmud") {
+                const pages = TALMUD_PAGES[book] || [];
+                pages.forEach(page => {
+                    const option = document.createElement("option");
+                    option.value = page;
+                    option.textContent = `Daf ${page}`;
+                    SELECT_CHAPTER.appendChild(option);
+                });
+                if (pages.length > 0) {
+                    SELECT_CHAPTER.selectedIndex = 0;
+                    loadChapterData();
+                }
+                return;
+            }
 
+            const maxChapters = BIBLE_STRUCTURE[manuscript][book] || 0;
             for (let i = 1; i <= maxChapters; i++) {
                 const option = document.createElement("option");
                 option.value = i;
@@ -794,6 +993,140 @@
             }
         }
 
+        // Busca o texto original a partir da pasta data/ caso a tradução não exista
+        async function fetchOriginalOnly(manuscript, book, chapter) {
+            let verses = [];
+            try {
+                if (manuscript === "Talmud") {
+                    const r = await fetch(`data/Talmud/${book}.json`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        if (data && data.text) {
+                            for (let i = 0; i < data.text.length; i++) {
+                                const dafNum = Math.floor(i / 2) + 2;
+                                const dafSide = (i % 2 === 0) ? 'a' : 'b';
+                                const dafName = `${dafNum}${dafSide}`;
+                                if (dafName === chapter) {
+                                    const page = data.text[i];
+                                    if (page && Array.isArray(page)) {
+                                        page.forEach((p, idx) => {
+                                            if (p && typeof p === 'string') {
+                                                verses.push({
+                                                    verse: idx + 1,
+                                                    original: p,
+                                                    translation: null
+                                                });
+                                            }
+                                        });
+                                    }
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                } else if (manuscript === "Geez") {
+                    const r = await fetch(`data/ancient_versions/geez_extracted/${book}_${chapter}.json`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        if (data && data.text) {
+                            data.text.forEach(item => {
+                                if (item.trim()) {
+                                    const parts = item.split(" ", 2);
+                                    let vNum = "1", vText = item;
+                                    if (parts.length === 2 && !isNaN(parseInt(parts[0]))) {
+                                        vNum = parts[0];
+                                        vText = parts[1];
+                                    }
+                                    verses.push({
+                                        verse: vNum.trim(),
+                                        original: vText.trim(),
+                                        translation: null
+                                    });
+                                }
+                            });
+                        }
+                    }
+                } else if (manuscript === "Targum_Onkelos") {
+                    const r = await fetch(`data/ancient_versions/targum_onkelos_${book.toLowerCase()}.json`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        const chIdx = parseInt(chapter) - 1;
+                        if (data && data.text && data.text[chIdx]) {
+                            data.text[chIdx].forEach((vText, idx) => {
+                                if (vText) {
+                                    verses.push({
+                                        verse: idx + 1,
+                                        original: vText,
+                                        translation: null
+                                    });
+                                }
+                            });
+                        }
+                    }
+                } else if (["Peshitta_Syriac", "Coptic_Sahidic", "Armenian_Eastern"].includes(manuscript)) {
+                    let filename = "";
+                    if (manuscript === "Peshitta_Syriac") filename = "peshitta_syriac.json";
+                    else if (manuscript === "Coptic_Sahidic") filename = "coptic_sahidic.json";
+                    else if (manuscript === "Armenian_Eastern") filename = "armenian_eastern.json";
+                    
+                    const r = await fetch(`data/ancient_versions/${filename}`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        if (data && data.books) {
+                            const foundBook = data.books.find(b => b.name === book);
+                            if (foundBook && foundBook.chapters) {
+                                const foundCh = foundBook.chapters.find(c => parseInt(c.chapter) === parseInt(chapter));
+                                if (foundCh && foundCh.verses) {
+                                    foundCh.verses.forEach(v => {
+                                        verses.push({
+                                            verse: v.verse,
+                                            original: v.text,
+                                            translation: null
+                                        });
+                                    });
+                                }
+                            }
+                        }
+                    }
+                } else {
+                    // Manuscritos bíblicos padrão
+                    const r = await fetch(`data/${manuscript}/${book}/${chapter}.json`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        if (Array.isArray(data)) {
+                            data.forEach(item => {
+                                const verseNum = item.verse || item.pk || "1";
+                                const originalText = item.text || "";
+                                if (originalText) {
+                                    verses.push({
+                                        verse: verseNum,
+                                        original: originalText,
+                                        translation: null
+                                    });
+                                }
+                            });
+                        } else if (typeof data === 'object') {
+                            const list = data.he || data.text || [];
+                            if (Array.isArray(list)) {
+                                list.forEach((vText, idx) => {
+                                    if (vText) {
+                                        verses.push({
+                                            verse: idx + 1,
+                                            original: vText,
+                                            translation: null
+                                        });
+                                    }
+                                });
+                            }
+                        }
+                    }
+                }
+            } catch (err) {
+                console.error("Erro ao carregar manuscrito original:", err);
+            }
+            return verses;
+        }
+
         // Função principal — busca o JSON de tradução em tempo real
         async function loadChapterData() {
             const manuscript = SELECT_MANUSCRIPT.value;
@@ -803,9 +1136,25 @@
             if (!manuscript || !book || !chapter) return;
 
             // Atualiza UI
-            DISPLAY_TITLE.textContent = `${formatBook(book)} ${chapter}`;
-            const isGreek = ['LXX', 'SBLGNT', 'TR', 'BYZ'].includes(manuscript);
-            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${isGreek ? 'Grego' : 'Hebraico'}`;
+            DISPLAY_TITLE.textContent = manuscript === "Talmud" ? `Tratado ${formatBook(book, manuscript)} Daf ${chapter}` : `${formatBook(book, manuscript)} ${chapter}`;
+            
+            let langName = "Hebraico";
+            if (['LXX', 'SBLGNT', 'TR', 'BYZ'].includes(manuscript)) {
+                langName = "Grego";
+            } else if (manuscript === "Geez") {
+                langName = "Ge'ez (Etiópico)";
+            } else if (manuscript === "Coptic_Sahidic") {
+                langName = "Copta Saídico";
+            } else if (manuscript === "Armenian_Eastern") {
+                langName = "Armênio Oriental";
+            } else if (manuscript === "Peshitta_Syriac") {
+                langName = "Siríaco Clássico";
+            } else if (manuscript === "Targum_Onkelos") {
+                langName = "Aramaico Antigo";
+            } else if (manuscript === "Talmud") {
+                langName = "Hebraico / Aramaico Talmúdico";
+            }
+            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${langName}`;
 
             VERSES_LIST.innerHTML = "";
             EMPTY_STATE.style.display  = "none";
@@ -816,16 +1165,41 @@
             const jsonPath = `output/${manuscript}/${book}_${chapter}.json`;
 
             try {
-                const response = await fetch(jsonPath);
-                if (!response.ok) throw new Error("Arquivo não encontrado.");
+                let verses;
+                let isTranslationPending = false;
 
-                const verses = await response.json();
+                const response = await fetch(jsonPath);
+                if (response.ok) {
+                    verses = await response.json();
+                } else {
+                    // Se a tradução não existir, tenta carregar o original diretamente
+                    verses = await fetchOriginalOnly(manuscript, book, chapter);
+                    if (verses && verses.length > 0) {
+                        isTranslationPending = true;
+                    } else {
+                        throw new Error("Arquivo não encontrado.");
+                    }
+                }
+
                 LOADING_SPINNER.style.display = "none";
 
                 if (verses && verses.length > 0) {
                     // Exibe badge com total de versículos
                     VERSE_COUNT_BADGE.textContent = `${verses.length} versículos`;
                     VERSE_COUNT_BADGE.style.display = "inline-block";
+
+                    // Adiciona banner amigável de tradução pendente
+                    if (isTranslationPending) {
+                        const pendingBanner = document.createElement("div");
+                        pendingBanner.className = "pending-translation-banner";
+                        pendingBanner.innerHTML = `
+                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                            <span>Este capítulo ainda não possui tradução em português. Exibindo texto no idioma original abaixo. A tradução automática por IA será efetuada em breve pelo pipeline.</span>
+                        `;
+                        VERSES_LIST.appendChild(pendingBanner);
+                    }
 
                     verses.forEach((verse, idx) => {
                         const verseNum = verse.verse || (idx + 1);
@@ -837,10 +1211,23 @@
                         const verseCard = document.createElement("div");
                         verseCard.className = "verse-card";
                         verseCard.title = "Clique para copiar o versículo";
+
+                        let translationContentHtml;
+                        if (translationText) {
+                            translationContentHtml = `<p class="text-translation">${translationText}</p>`;
+                        } else {
+                            translationContentHtml = `
+                                <div class="translation-pending-badge">
+                                    <span class="pulse-dot"></span>
+                                    Tradução pendente (em fila de IA)
+                                </div>
+                            `;
+                        }
+
                         verseCard.innerHTML = `
                             <span class="verse-num">${verseNum}</span>
                             <div class="text-translation-container">
-                                <p class="text-translation">${translationText}</p>
+                                ${translationContentHtml}
                             </div>
                             <div class="text-original-container">
                                 <p class="text-original">${originalHtml}</p>
@@ -850,7 +1237,9 @@
                         // Copia o versículo ao clicar
                         verseCard.addEventListener("click", () => {
                             const cleanOriginal = stripHtml(originalHtml);
-                            const textToCopy = `${formatBook(book)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}\n\n[Português] ${translationText}`;
+                            const textToCopy = translationText
+                                ? `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}\n\n[Português] ${translationText}`
+                                : `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}\n\n[Português] (Tradução pendente)`;
                             navigator.clipboard.writeText(textToCopy).then(showCopyToast).catch(() => {});
                         });
 
