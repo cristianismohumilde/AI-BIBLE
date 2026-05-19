@@ -1,0 +1,112 @@
+[
+  {
+    "verse": 1,
+    "original": "וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כׇּל־הַֽחַיָּה֙ וְאֶת־כׇּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה וַיַּעֲבֵ֨ר אֱלֹהִ֥ים ר֙וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם׃",
+    "translation": "E Deus se lembrou de Noé e de toda a vivente, de todos os animais que estavam com ele na arca, e fez passar o Espírito sobre a terra, e as águas baixaram."
+  },
+  {
+    "verse": 2,
+    "original": "וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם׃",
+    "translation": "E fecharam as fontes do abismo e as trancas dos céus, e contiveram a chuva dos céus."
+  },
+  {
+    "verse": 3,
+    "original": "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+    "translation": "E as águas retrocederam da terra, recuando e diminuindo; e as águas se esgotaram ao cabo de cem e cinquenta dias."
+  },
+  {
+    "verse": 4,
+    "original": "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃",
+    "translation": "E a arca repousou no sétimo mês, no dia sete e vinte do mês, sobre os montes de Ararãt.\n\nObservação: O texto original em hebraico menciona \"no dia dezessete\" e não \"sete e vinte\". Assim, a tradução corrigida é:\n\nE a arca repousou no sétimo mês, no dia dezessete do mês, sobre os montes de Ararãt."
+  },
+  {
+    "verse": 5,
+    "original": "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃",
+    "translation": "E as águas foram recuando até ao décimo mês; no décimo, no primeiro do mês, apareceram os cumes das montanhas."
+  },
+  {
+    "verse": 6,
+    "original": "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים י֑וֹם וַיִּפְתַּ֣ח נֹ֔חַ אֶת־חַלּ֥וֹן הַתֵּבָ֖ה אֲשֶׁ֥ר עָשָֽׂה׃",
+    "translation": "E sucedeu que, ao cabo de quarenta dias, Noé abriu a janela da arca que havia feito."
+  },
+  {
+    "verse": 7,
+    "original": "וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+    "translation": "E ele lançou o corvo, e saiu voando para fora, indo e voltando, até que se secaram as águas sobre a face da terra."
+  },
+  {
+    "verse": 8,
+    "original": "וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+    "translation": "E ele lançou a pomba dele para ver se as águas haviam diminuído da face da terra."
+  },
+  {
+    "verse": 9,
+    "original": "וְלֹֽא־מָצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שׇׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה כִּי־מַ֖יִם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה׃",
+    "translation": "E a pomba não encontrou repouso para o descanso de seu pé, e voltou a ele à arca, pois água cobria toda a face da terra; então ele estendeu sua mão e tomou-a e trouxe-a a ele à arca."
+  },
+  {
+    "verse": 10,
+    "original": "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה׃",
+    "translation": "E passaram mais sete dias, e de novo enviou a pomba da arca."
+  },
+  {
+    "verse": 11,
+    "original": "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+    "translation": "E a pomba veio até ele ao anoitecer, e eis que havia na sua boca um ramo de oliveira recém-arrancado; assim Noé soube que as águas haviam baixado da face da terra."
+  },
+  {
+    "verse": 12,
+    "original": "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹֽא־יָסְפָ֥ה שׁוּב־אֵלָ֖יו עֽוֹד׃",
+    "translation": "E ele esperou outros sete dias, e enviou a pomba; mas ela não voltou mais para ele."
+  },
+  {
+    "verse": 13,
+    "original": "וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ וַיָּ֤סַר נֹ֙חַ֙ אֶת־מִכְסֵ֣ה הַתֵּבָ֔ה וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃",
+    "translation": "E foi no seiscentos e primeiro ano, no primeiro mês, no primeiro dia do mês, que as águas se retiraram da face da terra; e Noé removeu a cobertura da abertura da arca, e olhou, e eis que a superfície da terra estava seca."
+  },
+  {
+    "verse": 14,
+    "original": "וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ יָבְשָׁ֖ה הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "translation": "E no segundo mês, no dia vinte e sete, a terra se secou."
+  },
+  {
+    "verse": 15,
+    "original": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃",
+    "translation": "E Deus falou a Noé dizendo:"
+  },
+  {
+    "verse": 16,
+    "original": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+    "translation": "Sai da arca, tu, tua esposa, teus filhos e as mulheres de teus filhos contigo."
+  },
+  {
+    "verse": 17,
+    "original": "כׇּל־הַחַיָּ֨ה אֲשֶֽׁר־אִתְּךָ֜ מִכׇּל־בָּשָׂ֗ר בָּע֧וֹף וּבַבְּהֵמָ֛ה וּבְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הוצא)</span> <span class=\"mam-kq-q\">[הַיְצֵ֣א]</span></span> אִתָּ֑ךְ וְשָֽׁרְצ֣וּ בָאָ֔רֶץ וּפָר֥וּ וְרָב֖וּ עַל־הָאָֽרֶץ׃",
+    "translation": "Todas as criaturas que estão contigo de toda a carne, nas aves, nos animais e em todos os répteis que se arrastam sobre a terra, os quais saíram com ti, proliferarão na terra; multiplicai-vos e aumentai-vos sobre a terra."
+  },
+  {
+    "verse": 18,
+    "original": "וַיֵּ֖צֵא־נֹ֑חַ וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־בָנָ֖יו אִתּֽוֹ׃",
+    "translation": "E Noé saiu, com seus filhos, sua mulher e as mulheres de seus filhos consigo."
+  },
+  {
+    "verse": 19,
+    "original": "כׇּל־הַֽחַיָּ֗ה כׇּל־הָרֶ֙מֶשׂ֙ וְכׇל־הָע֔וֹף כֹּ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ לְמִשְׁפְּחֹ֣תֵיהֶ֔ם יָצְא֖וּ מִן־הַתֵּבָֽה׃",
+    "translation": "Todas as feras, todos os répteis e todas as aves, tudo o que rasteja sobre a terra, segundo suas famílias, saíram da arca."
+  },
+  {
+    "verse": 20,
+    "original": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל&thinsp;<b>׀</b> הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+    "translation": "E Noé edificou um altar ao Senhor, e tomou de todos os animais puros e de todas as aves puras, e ofereceu holocaustos no altar."
+  },
+  {
+    "verse": 21,
+    "original": "וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃",
+    "translation": "E o Senhor percebeu o aroma apaziguador, e disse o Senhor em seu coração: \"Não hei de amaldiçoar mais a terra por causa do homem, porque desde jovem o desejo do seu coração é perverso; não hei de castigar mais todo ser vivo como fiz.\""
+  },
+  {
+    "verse": 22,
+    "original": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+    "translation": "E ainda por todos os dias da terra, semente e colheita, frio e calor, verão e inverno, dia e noite não cessarão."
+  }
+]
