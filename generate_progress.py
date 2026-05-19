@@ -137,22 +137,21 @@ def main():
 
     overall_bar = progress_bar(total_output, total_data)
 
-    # Estimativa de tempo restante (baseado em 19.000 versículos/dia = ~19000 capítulos/24h mas estimamos por capítulo)
+    # Estimativa de tempo restante (Nova velocidade com 3 workers concorrentes em GPU A10: 26 capítulos por hora)
     remaining = total_data - total_output
-    # Velocidade aproximada: 15 capítulos por hora (sem dados reais, usamos estimativa conservadora)
-    hours_remaining = remaining / 15 if remaining > 0 else 0
+    hours_remaining = remaining / 26 if remaining > 0 else 0
     days = int(hours_remaining // 24)
     hours = int(hours_remaining % 24)
     eta_str = f"~{days}d {hours}h" if remaining > 0 else "🎉 Concluído!"
     
-    # Custo (assumindo ~$1.00 USD/hora na cloud)
-    custo_total = int(hours_remaining * 1.00)
+    # Custo real da instância VM.GPU.A10.1 (aprox. $1.50 por hora)
+    custo_total = int(hours_remaining * 1.50)
     custo_str = f"~${custo_total} USD" if remaining > 0 else "$0"
 
     md = f"""# 📊 PROGRESS — AI-BIBLE Translation Status
 
 > Gerado automaticamente em: **{now}**
-> Velocidade estimada: ~15 capítulos/hora com Double-Pass Review ativo.
+> Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 

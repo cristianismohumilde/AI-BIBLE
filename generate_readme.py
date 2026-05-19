@@ -218,15 +218,14 @@ def main():
     all_data, all_out = calc_totals()
     pct = (all_out / all_data * 100) if all_data else 0
 
-    hours_left = max(0, (all_data - all_out) / 15)
+    # Nova velocidade com 3 workers concorrentes em GPU A10: 26 capítulos por hora
+    hours_left = max(0, (all_data - all_out) / 26)
     days       = int(hours_left // 24)
     hours      = int(hours_left % 24)
     eta_str    = f"~{days}d {hours}h" if all_out < all_data else "Concluido!"
     
-    # Estimativa de custo (Oracle Cloud A10 custa aprox. $1.50/hora)
-    # Mas como o usuário mencionou $300 para 22 dias, isso dá $13.60/dia ou $0.56/hora.
-    # Vamos usar $0.60/h como base para o cálculo de custo da GPU preemptible ou similar.
-    custo_hora = 1.00 # Estimativa genérica em dólar
+    # Custo real da instância VM.GPU.A10.1 (aprox. $1.50 por hora)
+    custo_hora = 1.50
     custo_total = int(hours_left * custo_hora)
     custo_str = f"~${custo_total} USD" if all_out < all_data else "$0"
 
@@ -256,7 +255,7 @@ com transliteração acadêmica incluída.
 | Capítulos traduzidos | **{all_out:,}** ({pct:.1f}%) |
 | ETA estimado de processamento | **{eta_str}** |
 | Custo estimado restante (Oracle GPU) | **{custo_str}** |
-| Velocidade (com Double-Pass) | ~15 caps/hora |
+| Velocidade (com Double-Pass) | ~26 caps/hora |
 | Última atualização | {now} |
 
 ---
