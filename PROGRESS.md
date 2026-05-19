@@ -1,15 +1,15 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-19 16:15 UTC**
+> Gerado automaticamente em: **2026-05-19 16:20 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`███░░░░░░░░░░░░░░░░░` 18.7%
+`███░░░░░░░░░░░░░░░░░` 18.8%
 
-**489** de **2,613** capítulos traduzidos.
+**491** de **2,613** capítulos traduzidos.
 **ETA estimado:** ~3d 9h
 **Custo Computacional Restante:** ~$122 USD
 
@@ -19,7 +19,7 @@
 
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 489 | `██████████░░░░░░░░░░` 52.7% | 🚀 Em andamento |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 491 | `██████████░░░░░░░░░░` 52.9% | 🚀 Em andamento |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
@@ -43,12 +43,6 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Testamento dos Doze Patriarcas** (Grego Antigo)
 - **Mishná: Berakhot** (Sefaria API)
 *(A Didaquê está programada para download)*
-
-## ✅ Validações recentes
-* **Ge'ez clássico NT**: já existe em `data/ancient_versions/geez_extracted/` e foi conferido em amostra (`Mateus 1`).
-* **LXX deuterocanônicos**: `3_Maccabees`, `4_Maccabees`, `Psalms/151.json` e `Odes/` já estão presentes na coleção.
-* **Oração de Manassés**: fonte pública confirmada via Sefaria.
-* **4 Esdras**: ainda aguarda uma fonte latina da Vulgata; há fallback público em inglês para comparação.
 
 ---
 
