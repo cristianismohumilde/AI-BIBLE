@@ -1,20 +1,24 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > 💰 **Crédito Oracle Cloud Disponibilizado**: **$300 USD** (~R$ 1.500) — Recurso que foi fornecido para este projeto.
 > Gerado automaticamente em: **2026-05-19 13:49 UTC**
 =======
 > Gerado automaticamente em: **2026-05-19 14:59 UTC**
 >>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
+=======
+> Gerado automaticamente em: **2026-05-19 15:04 UTC**
+>>>>>>> origin/main
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`███░░░░░░░░░░░░░░░░░` 17.1%
+`███░░░░░░░░░░░░░░░░░` 17.3%
 
-**448** de **2,613** capítulos traduzidos.
+**451** de **2,613** capítulos traduzidos.
 **ETA estimado:** ~3d 11h
 **Custo Computacional Restante:** ~$124 USD
 
@@ -42,7 +46,7 @@
 =======
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 448 | `█████████░░░░░░░░░░░` 48.3% | 🚀 Em andamento |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 451 | `█████████░░░░░░░░░░░` 48.6% | 🚀 Em andamento |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |

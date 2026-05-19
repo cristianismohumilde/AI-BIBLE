@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-19 14:59 UTC**
+> **README gerado automaticamente em: 2026-05-19 15:04 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -23,13 +23,13 @@ com transliteração acadêmica incluída.
 | ETA estimado de processamento | **~3d 12h** |
 =======
 | Capítulos fonte disponíveis | **2,613** |
-| Capítulos traduzidos | **448** (17.1%) |
+| Capítulos traduzidos | **451** (17.3%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$124 USD** |
 | ETA estimado de processamento | **~3d 11h** |
 >>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-19 14:59 UTC |
+| Última atualização | 2026-05-19 15:04 UTC |
 
 ---
 
@@ -65,7 +65,7 @@ com transliteração acadêmica incluída.
 =======
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 448 traduzidos | 🚀 Em andamento (48%) |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 451 traduzidos | 🚀 Em andamento (49%) |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
@@ -138,6 +138,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 🚀 Fase 2 — Tradução Priorizada ($300 USD)
 **Sequência de priorização (após conclusão do Códice de Aleppo):**
 
@@ -159,6 +160,9 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Talmud Bavli — Hebraico/Aramaico rabínico
 =======
 ### 🚀 Fase 2 — Tradução (Em andamento — 448/2,613 caps (17.1%))
+=======
+### 🚀 Fase 2 — Tradução (Em andamento — 451/2,613 caps (17.3%))
+>>>>>>> origin/main
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 >>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
