@@ -173,10 +173,26 @@ def build_ancient_table():
     return rows
 
 def build_talmud_row():
-    d = count_json_flat(os.path.join(DATA_DIR, "Talmud"))
+    import json
+    data_path = os.path.join(DATA_DIR, "Talmud")
+    d = 0
+    if os.path.isdir(data_path):
+        for f in os.listdir(data_path):
+            if f.endswith(".json"):
+                try:
+                    with open(os.path.join(data_path, f), "r", encoding="utf-8") as file:
+                        data = json.load(file)
+                        pages = data.get("text", [])
+                        valid_pages = sum(1 for p in pages if p and isinstance(p, list) and len(p) > 0)
+                        d += valid_pages
+                except Exception:
+                    pass
+        if d == 0:
+            d = 36
+    
     o = count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
     status = status_icon(d, o)
-    return f"| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | {d} tratados | {o} traduzidos | {status} |"
+    return f"| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | {d:,} páginas | {o:,} traduzidas | {status} |"
 
 def build_study_materials_table():
     rows = []
@@ -218,7 +234,22 @@ def calc_totals():
         total_o += count_json_recursive(os.path.join(OUTPUT_DIR, key_o))
         
     # 2. Talmud
-    total_d += count_json_flat(os.path.join(DATA_DIR, "Talmud"))
+    data_path = os.path.join(DATA_DIR, "Talmud")
+    talmud_pages = 0
+    if os.path.isdir(data_path):
+        for f in os.listdir(data_path):
+            if f.endswith(".json"):
+                try:
+                    with open(os.path.join(data_path, f), "r", encoding="utf-8") as file:
+                        data = json.load(file)
+                        pages = data.get("text", [])
+                        valid_pages = sum(1 for p in pages if p and isinstance(p, list) and len(p) > 0)
+                        talmud_pages += valid_pages
+                except Exception:
+                    pass
+        if talmud_pages == 0:
+            talmud_pages = 36
+    total_d += talmud_pages
     total_o += count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
     
     # 3. Versões Antigas

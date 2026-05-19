@@ -93,6 +93,23 @@ def count_data_files(collection):
             return total_ch if total_ch > 0 else 187
         return 0
 
+    if collection == "Talmud":
+        data_path = os.path.join(DATA_DIR, "Talmud")
+        if not os.path.isdir(data_path):
+            return 0
+        total_pages = 0
+        for f in os.listdir(data_path):
+            if f.endswith(".json"):
+                try:
+                    with open(os.path.join(data_path, f), "r", encoding="utf-8") as file:
+                        data = json.load(file)
+                        pages = data.get("text", [])
+                        valid_pages = sum(1 for p in pages if p and isinstance(p, list) and len(p) > 0)
+                        total_pages += valid_pages
+                except Exception:
+                    pass
+        return total_pages if total_pages > 0 else 36
+
     data_path = os.path.join(DATA_DIR, collection)
     if not os.path.isdir(data_path):
         return 0
