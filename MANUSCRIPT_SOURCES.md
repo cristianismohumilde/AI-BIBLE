@@ -35,7 +35,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 * **3 Macabeus** e **4 Macabeus** já existem em `data/LXX/3_Maccabees/` e `data/LXX/4_Maccabees/`.
 * **Salmo 151** já está presente em `data/LXX/Psalms/151.json`.
 * **Oração de Manassés** foi confirmada como texto disponível via Sefaria (`https://www.sefaria.org/api/texts/Prayer_of_Manasseh`).
-* **4 Esdras** ainda precisa de consolidação em fonte latina da Vulgata; foi localizada apenas uma fallback pública em inglês/domínio público para referência e comparação.
+* **4 Esdras** já tem uma fonte latina pública localizada na Vulgata.org (`https://vulgate.org/ot/4esdras_1.htm` até `https://vulgate.org/ot/4esdras_16.htm`); o fallback público em inglês do Gutenberg permanece apenas para comparação.
 
 ### 1.1 Livro de Enoque (1 Enoch) — *Ge'ez Clássico (Etiópico Antigo)*
 *   **Descrição**: O texto integral do Livro de Enoque que sobreviveu inteiramente apenas na língua litúrgica clássica da Etiópia (Ge'ez Clássico).

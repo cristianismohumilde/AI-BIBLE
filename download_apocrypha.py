@@ -13,7 +13,9 @@ Livros incluídos:
 """
 
 import os
+import re
 import time
+import html
 import requests
 import json
 
@@ -35,6 +37,47 @@ TEXTS = [
     ("4 Esdras (fallback Gutenberg)", "https://www.gutenberg.org/cache/epub/2435/pg2435.txt", "4_esdras_gutenberg.txt"),
     ("Mishná (Berakhot - Sefaria API)", "https://www.sefaria.org/api/texts/Mishnah_Berakhot.1?context=0", "mishnah_berakhot.json")
 ]
+
+VULGATE_4_ESDRAS_URL = "https://vulgate.org/ot/4esdras_{chapter}.htm"
+VULGATE_4_ESDRAS_PATTERN = re.compile(
+    r'<tr><td valign=top><SUP class="Vulgate">(?P<verse>\d+)</SUP></td>\s*<td><span class="Latin">\s*(?P<text>.*?)\s*</span>',
+    re.S,
+)
+
+
+def download_4_esdras_vulgate():
+    out_path = os.path.join(APOCRYPHA_DIR, "4_esdras_vulgate.json")
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 1024:
+        print("  [JA EXISTE] 4 Esdras (Vulgata Latina) -> 4_esdras_vulgate.json")
+        return
+
+    print("  Baixando 4 Esdras (Vulgata Latina)...")
+    chapters = []
+    for chapter in range(1, 17):
+        url = VULGATE_4_ESDRAS_URL.format(chapter=chapter)
+        try:
+            r = requests.get(url, timeout=120)
+            if r.status_code != 200:
+                print(f"    Erro HTTP {r.status_code} no capitulo {chapter}")
+                continue
+
+            matches = VULGATE_4_ESDRAS_PATTERN.findall(r.text)
+            verses = []
+            for verse, verse_text in matches:
+                cleaned = re.sub(r"<.*?>", " ", verse_text)
+                cleaned = html.unescape(re.sub(r"\s+", " ", cleaned).strip())
+                if cleaned:
+                    verses.append({"verse": int(verse), "text": cleaned})
+
+            chapters.append({"chapter": chapter, "verses": verses})
+            print(f"    OK: capitulo {chapter} ({len(verses)} versos)")
+        except Exception as e:
+            print(f"    Falha no capitulo {chapter}: {e}")
+        time.sleep(1)
+
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(chapters, f, ensure_ascii=False, indent=2)
+    print(f"    OK: 4_esdras_vulgate.json ({len(chapters)} capitulos)")
 
 def download_all():
     print("\n" + "="*60)
@@ -59,6 +102,8 @@ def download_all():
         except Exception as e:
             print(f"    Falha na conexão: {e}")
         time.sleep(1)
+
+    download_4_esdras_vulgate()
         
     print("\nCONCLUIDO! Arquivos salvos em data/apocrypha/")
 

@@ -44,6 +44,11 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Mishná: Berakhot** (Sefaria API)
 *(A Didaquê está programada para download)*
 
+## ✅ Validações recentes
+* **Ge'ez clássico NT**: já existe em `data/ancient_versions/geez_extracted/` e foi conferido em amostra (`Mateus 1`).
+* **LXX deuterocanônicos**: `3_Maccabees`, `4_Maccabees`, `Psalms/151.json` e `Odes/` já estão presentes na coleção.
+* **Oração de Manassés**: fonte pública confirmada via Sefaria.
+* **4 Esdras**: fonte latina da Vulgata.org localizada e pronta para download automatizado; o fallback público em inglês fica apenas para comparação.
 ---
 
 ## 🔄 Como atualizar este arquivo

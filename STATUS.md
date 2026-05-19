@@ -66,7 +66,7 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 **Validações recentes**:
 - O NT em Ge'ez clássico já foi localizado em `data/ancient_versions/geez_extracted/`.
 - A coleção LXX já contém 3/4 Macabeus, Salmo 151 e Odes; Oração de Manassés foi confirmada como fonte pública em Sefaria.
-- 4 Esdras ainda precisa de uma fonte latina específica para ficar alinhado ao pedido original.
+- 4 Esdras já tem uma fonte latina específica na Vulgata.org; o fallback em inglês continua disponível apenas para comparação.
 
 Orçamento estimado restante: **~$130 USD** (dentro da margem de $300).
 
