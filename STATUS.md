@@ -1,5 +1,7 @@
 # Status do Projeto: IA-BIBLE (Ponto de Restauração — Fase GPU Frankfurt ATIVA)
 
+> 💰 **Crédito Oracle Cloud Disponibilizado**: **$300 USD** (~R$ 1.500) — Recurso que foi fornecido para este projeto. Após esgotamento, as traduções dos textos restantes serão pausadas até disponibilização de novo orçamento.
+
 Este arquivo serve para documentar exatamente onde o projeto está em **18 de Maio de 2026** (Sucesso na ativação da GPU em Frankfurt e automação dos serviços).
 
 ## ✅ O que já está pronto e funcional:
@@ -41,9 +43,27 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 - **Custo Estimado Restante**: Apenas **~$130 USD** (Perfeitamente dentro da margem segura de $300 da Oracle).
 - **ETA Estimado**: **~3 dias e 12 horas** para concluir todos os textos prioritários!
 
-## 🚧 Próximos Passos (Ações futuras):
-1. **Varredura Completa do Novo Escopo**: Deixar o tradutor concluir o Códice de Aleppo e prosseguir automaticamente para a Septuaginta (limitada aos deuterocanônicos, Isaias e Salmos), Ge'ez (Novo Testamento e deuterocanônicos específicos), Targum Onkelos, e as versões de Peshitta, Copta, Armênio e Bizantino (apenas o Novo Testamento).
-2. **Download dos Restantes do Ge'ez**: Baixar os textos em Ge'ez do Livro de Enoque e Jubileus para inclusão no fluxo.
+## 🚧 Próximos Passos (Sequência de Tradução Priorizada)
+
+**Após conclusão do Códice de Aleppo**, o tradutor prosseguirá automaticamente nesta ordem:
+
+1. **Septuaginta Selecionada** (Grego) — Apenas Isaías, Salmos e Deuterocanônicos
+2. **Ge'ez Selecionado** (Ge'ez Clássico Puro) — Deuterocanônicos + Novo Testamento (procurar em Ge'ez genuíno, não Amárico)
+3. **Manuscritos do Mar Morto** (Hebraico/Aramaico) — Tradução apenas do inglês (não há transcrição hebraica confiável)
+4. **Targum Onkelos** (Aramaico) — Torá completa
+5. **Texto Bizantino NT** (Grego) — Apenas Novo Testamento
+6. **Peshitta Siríaca NT** (Siríaco) — Apenas Novo Testamento (verificar qualidade da fonte)
+7. **Copta Sahídica NT** (Copta) — Apenas Novo Testamento
+8. **Armênio Oriental NT** (Armênio) — Apenas Novo Testamento
+
+**Textos Pausados (Fora dos Recursos)** até novo orçamento:
+- Texto de Leningrado (WLC)
+- Textus Receptus (TR)
+- Texto Crítico (SBLGNT)
+- Vulgata Latina
+- Talmud Bavli
+
+Orçamento estimado restante: **~$130 USD** (dentro da margem de $300).
 
 ---
 *Assinado com orgulho: Antigravity (Sua IA de programação parceira)*

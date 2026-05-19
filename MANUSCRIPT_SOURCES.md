@@ -2,9 +2,24 @@
 
 Este documento fornece as fontes digitais oficiais, o histórico de download e a verificação acadêmica de integridade de todos os manuscritos e bases de estudo antigos incorporados ao projeto **AI-BIBLE**.
 
+> 📌 **Nota sobre Escopo Priorizado ($300 USD)**: De acordo com a sequência de tradução atualizada, apenas as seguintes coleções serão traduzidas no período de recursos disponíveis (após Aleppo):
+> 1. **Septuaginta** (Seleção: Isaías, Salmos, Deuterocanônicos)
+> 2. **Ge'ez** (Seleção: Deuterocanônicos + Novo Testamento em Ge'ez Puro)
+> 3. **Manuscritos do Mar Morto** (Tradução apenas do inglês)
+> 4. **Targum Onkelos**, **Texto Bizantino NT**, **Peshitta NT**, **Copta NT**, **Armênio NT**
+> 
+> Textos pausados até novo orçamento: Leningrado (WLC), Textus Receptus, SBLGNT, Vulgata Latina, Talmud Bavli.
+
 ---
 
 ## 1. Manuscritos e Versões Bíblicas Antigas
+
+### 1.0 Septuaginta (LXX) — *Seleção Priorizada: Isaías, Salmos e Deuterocanônicos*
+*   **Descrição**: Tradução grega do Antigo Testamento hebraico, realizada entre os séculos III-II a.C. pela comunidade judaica de Alexandria. A seleção atual prioriza os livros de Isaías, Salmos e todos os deuterocanônicos (Sabedoria, Sirácida, Baruc, Carta de Jeremias, 1-2 Macabeus, adições a Daniel e Ester).
+*   **Fonte**: [Septuaginta Digital Project / Antinoopolis Papyri Collections](https://www.academia.edu/community/septuaginta-research)
+*   **Link de Download**: [LXX via Sefaria API](https://www.sefaria.org/api/texts/Septuagint?lang=grc) ou diretamente [LXX Rahlfs-Hanhart Edition](https://www.academic-bible.com/en/online/sep/)
+*   **Verificação de Qualidade**: **Excelente para Seleção Priorizada**. Texto crítico baseado nos manuscritos mais antigos (P.Oxy, Papiro Fouad, Códice Sinaítico). A edição Rahlfs-Hanhart é a referência acadêmica internacional.
+*   **Nota Importante**: A tradução será limitada à seleção priorizada (Isaías, Salmos, Deuterocanônicos) até disponibilização de novo orçamento.
 
 ### 1.1 Livro de Enoque (1 Enoch) — *Ge'ez Clássico (Etiópico Antigo)*
 *   **Descrição**: O texto integral do Livro de Enoque que sobreviveu inteiramente apenas na língua litúrgica clássica da Etiópia (Ge'ez Clássico).
@@ -16,7 +31,17 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Descrição**: O texto litúrgico contemporâneo do Novo Testamento usado pela Igreja Ortodoxa Tewahedo da Etiópia.
 *   **Fonte**: [Repository Ethiopic Bible Data - biniama](https://github.com/biniama/ethiopic-bible-data)
 *   **Link de Download**: [biniama/ethiopic-bible-data/data/new-testament/](https://github.com/biniama/ethiopic-bible-data/tree/main/data/new-testament)
-*   **Verificação de Qualidade**: **Alta Equivalência Exegética**. Embora escrito em Amárico Moderno (língua viva), representa com precisão a recepção teológica da tradição ortodoxa etíope.
+*   **Verificação de Qualidade**: **Alta Equivalência Exegética** (em Amárico Moderno). Embora escrito em Amárico Moderno (língua viva), representa com precisão a recepção teológica da tradição ortodoxa etíope.
+*   **⚠️ Nota para Priorização**: Esta fonte está em Amárico, não em Ge'ez Clássico puro. Para conformidade com a seleção priorizada que exige Ge'ez genuíno, buscar fontes alternativas em Ge'ez Clássico.
+
+### 1.2b Novo Testamento em Ge'ez Clássico Puro — *(Pesquisa Necessária)*
+*   **Descrição**: Versão do Novo Testamento em Ge'ez Clássico genuíno, distinto do Amárico moderno.
+*   **Fontes Potenciais**: 
+    *   [SWORD Project / Crosswire Bible Society](https://www.crosswire.org/sword/modules/) — Procurar por módulos "Ethio" em Ge'ez puro
+    *   [Digital Library of Classic Arabic and Islamic Texts / Ge'ez Collections](https://dlcait.org)
+    *   [Wycliffe Bible Translators Archive](https://www.wycliffe.org) — Coleções de Ge'ez histórico
+*   **Verificação de Qualidade**: **Pendente** — Requer verificação se existe edição crítica confiável em Ge'ez genuíno (não Amárico).
+*   **Status**: 🔍 *Pesquisa ativa necessária antes da tradução*.
 
 ### 1.3 Targum Onkelos — *Aramaico Antigo (Torá)*
 *   **Descrição**: A tradução/paráfrase aramaica oficial da Torá samaritana e rabínica.
@@ -33,7 +58,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Descrição**: A versão padrão e oficial da Bíblia siríaca clássica.
 *   **Fonte**: [Scrollmapper Bible Databases](https://github.com/scrollmapper/bible_databases)
 *   **Link de Download**: [Peshitta.json](https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/json/Peshitta.json)
-*   **Verificação de Qualidade**: **Excelente**. Texto siríaco clássico de alta fidelidade acadêmica.
+*   **Verificação de Qualidade**: **Excelente para NT**. Texto siríaco clássico de alta fidelidade acadêmica. ⚠️ **Nota**: A fonte contém apenas o Novo Testamento; o Antigo Testamento Siríaco (Peshitta OT) requer fonte alternativa ou será traduzido apenas a partir do NT conforme priorização atual.
 
 ### 1.5 Copta Sahídico — *Copta Clássico (Novo Testamento)*
 *   **Descrição**: O principal dialeto antigo do Egito cristão (Copta Sahídico).

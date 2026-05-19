@@ -11,11 +11,13 @@ com transliteração acadêmica incluída.
 
 ## 📊 Status Geral
 
+> 💰 **Crédito Oracle Cloud Disponibilizado**: **$300 USD** (~R$ 1.500) — Recurso que foi fornecido para este projeto. Após esgotamento, as traduções dos textos restantes serão pausadas até disponibilização de novo orçamento.
+
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **2,577** |
 | Capítulos traduzidos | **372** (14.4%) |
-| Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
+| Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) ✅ Recurso Ativo |
 | Custo estimado restante | **~$127 USD** |
 | ETA estimado de processamento | **~3d 12h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
@@ -25,27 +27,32 @@ com transliteração acadêmica incluída.
 
 ## 📜 Manuscritos — Antigo e Novo Testamento
 
-| Manuscrito | Idioma | Fonte | Traduzido | Status |
-|:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 372 traduzidos | 🚀 Em andamento (40%) |
-| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
-| ✝️ Textus Receptus (TR) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
-| 🏛️ Vulgata Latina | Latim | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| Manuscrito | Idioma | Fonte | Traduzido | Status | Prioridade |
+|:---|:---|---:|---:|:---|---:|
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 372 traduzidos | 🚀 Em andamento (40%) | ⭐⭐⭐ Atual |
+| 🏛️ Septuaginta (LXX) — *Seleção* | Grego Clássico | 120 caps | 0 traduzidos | ⏳ Próxima (apenas: Isaías, Salmos, deuterocanônicos) | ⭐⭐⭐ Nº 1 |
+| 🇪🇹 Ge'ez — *Seleção* | Ge'ez Clássico | 90 caps | 0 traduzidos | ⏳ Próxima (deuterocanônicos + NT, em Ge'ez puro) | ⭐⭐⭐ Nº 2 |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando (tradução apenas do inglês) | ⭐⭐ Nº 3 |
+| 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 0 traduzidos | ⏳ Planejada | ⭐⭐ Nº 4 |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Planejada (apenas NT) | ⭐⭐ Nº 5 |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Planejada (apenas NT) | ⭐⭐ Nº 6 |
+| 🔤 Copta Saídica | Copta Clássico | 260 caps | 0 traduzidos | ⏳ Planejada (apenas NT) | ⭐⭐ Nº 7 |
+| 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Planejada (apenas NT) | ⭐⭐ Nº 8 |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ❌ Fora dos Recursos | ⭐ *Pausado* |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 0 caps | 0 traduzidos | ❌ Fora dos Recursos | ⭐ *Pausado* |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ❌ Fora dos Recursos | ⭐ *Pausado* |
+| 🏛️ Vulgata Latina | Latim | 0 caps | 0 traduzidos | ❌ Fora dos Recursos | ⭐ *Pausado* |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 caps | 0 traduzidos | ❌ Fora dos Recursos (fase posterior) | ⭐ *Futuro* |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
-| Texto | Idioma | Fonte | Traduzido | Status |
-|:---|:---|---:|---:|:---|
-| 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 traduzidas | ❌ Pausado (Orçamento) |
+| Texto | Idioma | Fonte | Traduzido | Status | Notas |
+|:---|:---|---:|---:|:---|:---|
+| 🎓 Enoque (Deuterocanônico) | Ge'ez Clássico | ~108 caps | 0 | 📋 Futuro (Fase 4) | Apenas Ge'ez puro |
+| 🎓 Jubileus (Deuterocanônico) | Ge'ez Clássico | ~49 caps | 0 | 📋 Futuro (Fase 4) | Apenas Ge'ez puro |
+| 🎓 Testamento dos 12 Patriarcas | Grego Antigo | ~156 caps | 0 | 📋 Futuro (Fase 4) | Apócrifo adicional |
+| 📚 Didaquê | Grego Antigo | 16 seções | 0 | 📋 Futuro (Fase 4) | Texto patrístico |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 | ❌ Fora dos Recursos | Requer orçamento adicional |
 
 ---
 
@@ -92,21 +99,37 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 ## 🗺️ Roadmap
 
 ### ✅ Fase 1 — Download (Concluída)
-- Manuscritos bíblicos principais: WLC, Aleppo, LXX, DSS, TR, BYZ, SBLGNT
-- Versões antigas: Peshitta, Copta, Armênio, Targum Onkelos
-- Talmud piloto + download de tratados extras em andamento
+- Manuscritos bíblicos principais: Aleppo, WLC, LXX, DSS, TR, BYZ, SBLGNT
+- Versões antigas: Peshitta, Copta, Armênio, Targum Onkelos, Ge'ez
+- Talmud piloto + download de tratados extras
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 372/2,577 caps (14.4%))
-- GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
-- Double-Pass Review + Filtro Regex ativos
+### 🚀 Fase 2 — Tradução Priorizada ($300 USD)
+**Sequência de priorização (após conclusão do Códice de Aleppo):**
+
+1. **✅ Códice de Aleppo** (Hebraico) — Em andamento (~40% concluído)
+2. **⏳ Septuaginta Selecionada** (Grego) — Apenas: Isaías, Salmos, Deuterocanônicos
+3. **⏳ Ge'ez Selecionado** (Ge'ez Clássico Puro) — Deuterocanônicos + Novo Testamento
+4. **⏳ Manuscritos do Mar Morto** (Hebraico/Aramaico) — Tradução apenas do inglês
+5. **⏳ Targum Onkelos** (Aramaico) — Torá completa
+6. **⏳ Texto Bizantino NT** (Grego) — Apenas Novo Testamento
+7. **⏳ Peshitta Siríaca NT** (Siríaco) — Apenas Novo Testamento
+8. **⏳ Copta Sahídica NT** (Copta) — Apenas Novo Testamento
+9. **⏳ Armênio Oriental NT** (Armênio) — Apenas Novo Testamento
+
+**Textos Fora dos Recursos** (Pausados até novo orçamento):
+- Texto de Leningrado (WLC) — Hebraico completo
+- Textus Receptus (TR) — Grego completo
+- Texto Crítico (SBLGNT) — Grego completo
+- Vulgata Latina — Latim completo
+- Talmud Bavli — Hebraico/Aramaico rabínico
 
 ### ⏳ Fase 3 — Transliteração (após Fase 2)
 - Script: `transliterate.py` — roda após conclusão da tradução
 - Impacto: +50% do tempo de GPU (3ª chamada por versículo)
 
-### 🗺️ Fase 4 — Expansão Futura
+### 🗺️ Fase 4 — Expansão Futura (novo orçamento necessário)
 - Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
 - Mishná completa + comentários clássicos traduzidos
 - Interface web com busca e comparação lado a lado
