@@ -27,6 +27,9 @@ def run(cmd):
 def cycle():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+    # 0. Sincroniza com as alterações remotas (evita rejeição de push se fizermos commits locais)
+    run("git pull origin main --no-edit -X theirs")
+
     # 1. Gera arquivos de progresso
     run("python3 generate_progress.py")
     run("python3 generate_readme.py")

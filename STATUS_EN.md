@@ -10,7 +10,7 @@ This file documents exactly where the project stands as of **May 18, 2026** (Suc
 
 2. **GPU Provisioning (Frankfurt)**:
    - **Active Instance**: `AI-BIBLE` running on shape **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x NVIDIA A10 24GB VRAM).
-   - **Public IP**: `130.61.86.70`
+   - **Public IP**: `130.61.86.XX` (Obfuscated for security)
    - **Operating System**: Ubuntu 22.04 LTS.
    - **SSH Key**: `frank-private.key` configured and working perfectly.
 

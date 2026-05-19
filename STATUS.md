@@ -6,7 +6,7 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 
 1. **Infraestrutura GPU Ativa (Frankfurt)**:
    - **Instância Ativa**: `AI-BIBLE` rodando sob o shape robusto **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x GPU NVIDIA A10 de 24GB VRAM).
-   - **IP Público**: `130.61.86.70`
+   - **IP Público**: `130.61.86.XX` (Ocultado por segurança)
    - **Sistema Operacional**: Ubuntu 22.04 LTS.
    - **Segurança de Acesso**: Chave SSH `frank-private.key` configurada e validada.
 

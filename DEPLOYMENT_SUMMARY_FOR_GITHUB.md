@@ -9,7 +9,7 @@ Resumo executivo do status de implantação e escalonamento para GPU na nuvem de
 
 *   **Instância Ativa**: `AI-BIBLE` em **Frankfurt (Alemanha Central)**.
 *   **Shape**: `VM.GPU.A10.1` (15 núcleos OCPU, 240 GB RAM, 1x GPU NVIDIA A10 com 24GB de VRAM).
-*   **IP Público**: `130.61.86.70`
+*   **IP Público**: `130.61.86.XX` (Ocultado por segurança)
 *   **SO**: Ubuntu 22.04 LTS.
 *   **Drivers NVIDIA**: ✅ Instalados e ativos (Driver 535.288.01, CUDA 12.2).
 *   **Docker & Docker Compose**: ✅ Instalados e configurados com o **NVIDIA Container Toolkit** para aceleração nativa de hardware em containers.

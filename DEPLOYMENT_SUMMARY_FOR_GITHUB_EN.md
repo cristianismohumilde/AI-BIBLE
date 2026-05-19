@@ -9,7 +9,7 @@ Executive summary of the deployment and GPU scaling status (Frankfurt).
 
 *   **Active Instance**: `AI-BIBLE` in **Frankfurt (Germany Central)**.
 *   **Shape**: `VM.GPU.A10.1` (15 OCPU cores, 240 GB RAM, 1x NVIDIA A10 with 24GB VRAM).
-*   **Public IP**: `130.61.86.70`
+*   **Public IP**: `130.61.86.XX` (Obfuscated for security)
 *   **OS**: Ubuntu 22.04 LTS.
 *   **NVIDIA Drivers**: ✅ Installed and active (Driver 535.288.01, CUDA 12.2).
 *   **Docker & Docker Compose**: ✅ Installed and configured with **NVIDIA Container Toolkit** for containerized GPU acceleration.

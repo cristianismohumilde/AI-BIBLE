@@ -6,7 +6,7 @@ Este documento descreve o plano de ação e o estado da infraestrutura de altís
 > ### 📊 Status Atual do Escalonamento:
 > * **Upgrade Conta PAYG:** ✅ **Concluído**
 > * **Pedido de Limite (`gpu-a10-count`):** ✅ **Aprovado pela Oracle (Limite = 1)**
-> * **Instância GPU (Frankfurt):** ✅ **Provisionada e Ativa** (`AI-BIBLE` sob shape `VM.GPU.A10.1`, IP `130.61.86.70`)
+> * **Instância GPU (Frankfurt):** ✅ **Provisionada e Ativa** (`AI-BIBLE` sob shape `VM.GPU.A10.1`, IP `130.61.86.XX` - Ocultado por segurança)
 > * **Serviços de Produção:** 🚀 **Ativos e Traduzindo** (Atualmente traduzindo 1 Samuel no Códice de Aleppo)
 
 ---
