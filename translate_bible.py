@@ -1,11 +1,13 @@
 import os
 import json
 import requests
+from concurrent.futures import ThreadPoolExecutor
 
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 MODEL_NAME = "qwen2.5:32b"
+MAX_WORKERS = 3
 
-DOUBLE_PASS_REVIEW = False
+DOUBLE_PASS_REVIEW = True
 
 import re
 
@@ -152,6 +154,53 @@ def review_translation(original_text, draft_translation, source_language, target
     
     return draft_translation
 
+def process_single_verse(original_text, verse_num, source_language):
+    translated = translate_text(original_text, source_language)
+    if DOUBLE_PASS_REVIEW and translated:
+        translated = review_translation(original_text, translated, source_language)
+    return {
+        "verse": verse_num,
+        "original": original_text,
+        "translation": translated
+    }
+
+def translate_verses_parallel(verse_list, source_language):
+    results = []
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(process_single_verse, text, num, source_language): num
+            for num, text in verse_list
+        }
+        for future in futures:
+            num = futures[future]
+            try:
+                res = future.result()
+                if res:
+                    results.append(res)
+                    print(f"   -> Versículo {num} concluído!", end="\r")
+            except Exception as e:
+                print(f"\nErro ao traduzir versículo {num}: {e}")
+                
+    def get_sort_key(item):
+        v = item.get("verse")
+        if isinstance(v, int):
+            return (0, v)
+        try:
+            return (0, int(v))
+        except (ValueError, TypeError):
+            # Para strings do tipo "12a" no Talmud
+            num_part = "".join(c for c in str(v) if c.isdigit())
+            suffix = "".join(c for c in str(v) if not c.isdigit())
+            if num_part:
+                return (0, int(num_part), suffix)
+            return (1, str(v))
+            
+    results.sort(key=get_sort_key)
+    return results
+
+
+
 def sorting_key(filepath):
     parts = os.path.normpath(filepath).split(os.sep)
     category = parts[1] if len(parts) > 1 else ""
@@ -231,21 +280,12 @@ def main():
                         continue
                         
                     print(f"\n🚀 [Talmud] Traduzindo {book} Daf {daf_name}...")
-                    translated_verses = []
-                    
+                    verse_list = []
                     for i, paragraph in enumerate(page):
-                        if not paragraph or not isinstance(paragraph, str):
-                            continue
-                        para_num = i + 1
-                        print(f"  -> Parágrafo {para_num}...", end="\r")
-                        translated = translate_text(paragraph, source_language)
-                        if DOUBLE_PASS_REVIEW and translated:
-                            translated = review_translation(paragraph, translated, source_language)
-                        translated_verses.append({
-                            "verse": para_num,
-                            "original": paragraph,
-                            "translation": translated
-                        })
+                        if paragraph and isinstance(paragraph, str):
+                            verse_list.append((i + 1, paragraph))
+                    
+                    translated_verses = translate_verses_parallel(verse_list, source_language)
                         
                     if translated_verses:
                         os.makedirs(output_dir, exist_ok=True)
@@ -277,21 +317,12 @@ def main():
                             continue
                             
                         print(f"\n🚀 [Targum Onkelos] Traduzindo {book} {ch_num}...")
-                        translated_verses = []
-                        
+                        verse_list = []
                         for i, verse in enumerate(chapter):
-                            if not verse or not isinstance(verse, str):
-                                continue
-                            verse_num = i + 1
-                            print(f"  -> Versículo {verse_num}...", end="\r")
-                            translated = translate_text(verse, source_language)
-                            if DOUBLE_PASS_REVIEW and translated:
-                                translated = review_translation(verse, translated, source_language)
-                            translated_verses.append({
-                                "verse": verse_num,
-                                "original": verse,
-                                "translation": translated
-                            })
+                            if verse and isinstance(verse, str):
+                                verse_list.append((i + 1, verse))
+                        
+                        translated_verses = translate_verses_parallel(verse_list, source_language)
                             
                         if translated_verses:
                             os.makedirs(output_dir, exist_ok=True)
@@ -321,22 +352,14 @@ def main():
                                 continue
                                 
                             print(f"\n🚀 [{trans_key}] Traduzindo {book_name} {ch_num}...")
-                            translated_verses = []
-                            
+                            verse_list = []
                             for v_dict in verses:
                                 verse_num = v_dict.get("verse", 1)
                                 verse_text = v_dict.get("text", "")
-                                if not verse_text:
-                                    continue
-                                print(f"  -> Versículo {verse_num}...", end="\r")
-                                translated = translate_text(verse_text, source_language)
-                                if DOUBLE_PASS_REVIEW and translated:
-                                    translated = review_translation(verse_text, translated, source_language)
-                                translated_verses.append({
-                                    "verse": verse_num,
-                                    "original": verse_text,
-                                    "translation": translated
-                                })
+                                if verse_text:
+                                    verse_list.append((verse_num, verse_text))
+                            
+                            translated_verses = translate_verses_parallel(verse_list, source_language)
                                 
                             if translated_verses:
                                 os.makedirs(output_dir, exist_ok=True)
@@ -366,37 +389,22 @@ def main():
             with open(input_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            translated_verses = []
-
+            verse_list = []
             if isinstance(data, list):
                 for item in data:
                     verse_num = item.get("verse") or item.get("pk") or "1"
                     original_text = item.get("text", "")
                     if original_text:
-                        print(f"  -> Versículo {verse_num}...", end="\r")
-                        translated = translate_text(original_text, source_language)
-                        if DOUBLE_PASS_REVIEW and translated:
-                            translated = review_translation(original_text, translated, source_language)
-                        translated_verses.append({
-                            "verse": verse_num,
-                            "original": original_text,
-                            "translation": translated
-                        })
+                        verse_list.append((verse_num, original_text))
             elif isinstance(data, dict):
                 verses = data.get("he") or data.get("text") or []
                 if isinstance(verses, list):
                     for i, original_text in enumerate(verses):
                         verse_num = i + 1
                         if original_text:
-                            print(f"  -> Versículo {verse_num}...", end="\r")
-                            translated = translate_text(original_text, source_language)
-                            if DOUBLE_PASS_REVIEW and translated:
-                                translated = review_translation(original_text, translated, source_language)
-                            translated_verses.append({
-                                "verse": verse_num,
-                                "original": original_text,
-                                "translation": translated
-                            })
+                            verse_list.append((verse_num, original_text))
+
+            translated_verses = translate_verses_parallel(verse_list, source_language)
 
             if translated_verses:
                 os.makedirs(output_dir, exist_ok=True)
