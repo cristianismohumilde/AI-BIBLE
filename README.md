@@ -1,5 +1,10 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
+> [!IMPORTANT]
+> ### 🌐 ACOMPANHE EM TEMPO REAL (SITE LIVE)!
+> **Nós construímos um leitor interlinear premium que é atualizado em tempo real direto da GPU!**
+> 👉 **[Acesse o Portal Scriptura AI](https://cristianismohumilde.github.io/AI-BIBLE/)**
+
 > **README gerado automaticamente em: 2026-05-19 02:54 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 

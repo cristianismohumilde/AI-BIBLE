@@ -29,11 +29,15 @@ This file documents exactly where the project stands as of **May 18, 2026** (Suc
    - **Single-Pass Active by Default (`DOUBLE_PASS_REVIEW = False`)**: The VM translates all manuscripts, books, versions, and study materials in a high-speed single pass (approx. 15-30 seconds per chapter), saving nearly 50% of the API credit budget and drastically accelerating the workflow.
    - **Targeted Double-Pass Post-Processor (`review_existing_translations.py`)**: A dedicated script was created to perform the theological and linguistic review (Pass 2 - Self-Correction) after the main translation is completed. The script intelligently filters and focuses CPU/GPU time only on high-complexity or low-resource ancient documents (such as Septuagint (LXX), Targum Aramaic, Talmud, Peshitta Syriac, Coptic, Armenian, and poetic Hebrew books like Psalms and Isaiah), optimizing both costs and GPU efficiency.
 
+6. **Real-Time Interlinear Web App (`index.html`)**:
+   - Created and deployed a premium static (JAMstack) portal directly in the repository root, hosted 100% for free via **GitHub Pages**.
+   - The site displays right-to-left original Hebrew (in *Cardo* font) side-by-side with the Portuguese translation, fetching JSON outputs dynamically as the GPU pushes new files, allowing anyone to watch the translation process in real-time!
+
 ## 📈 Current Translation Progress:
-- **Aleppo Codex**: Actively translating! Currently at **Chapter 30 of 2 Chronicles**!
-- **Total on GitHub**: **112 chapters** fully translated and consolidated!
-- **Aleppo Codex Progress**: **12.0% Completed**!
-- **Estimated ETA**: Reduced to ~**8 days** total under the Single-Pass strategy.
+- **Aleppo Codex**: Actively translating! Currently at **Chapter 5 of 2 Kings**!
+- **Total on GitHub**: **123 chapters** fully translated and consolidated!
+- **Aleppo Codex Progress**: **13.3% Completed**!
+- **Estimated ETA**: Reduced to ~**4 to 5 days** total under the Single-Pass strategy.
 
 ## 🚧 What we are doing next:
 1. **Complete Full-Scale Single-Pass**: Run the high-speed translation pipeline in background for the complete manuscript corpus (Aleppo, WLC, LXX, DSS, etc.).
