@@ -1,7 +1,7 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-19 04:24 UTC**
-> Velocidade estimada: ~15 capítulos/hora com Double-Pass Review ativo.
+> Gerado automaticamente em: **2026-05-19 04:27 UTC**
+> Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
@@ -10,8 +10,8 @@
 `░░░░░░░░░░░░░░░░░░░░` 2.6%
 
 **156** de **5,932** capítulos traduzidos.
-**ETA estimado:** ~16d 1h
-**Custo Computacional Restante:** ~$385 USD
+**ETA estimado:** ~9d 6h
+**Custo Computacional Restante:** ~$333 USD
 
 ---
 
