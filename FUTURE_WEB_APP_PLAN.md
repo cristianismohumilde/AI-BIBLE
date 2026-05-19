@@ -1,22 +1,23 @@
 # Plano de Desenvolvimento do Web App: Scriptura AI (ou Biblia Antiqua / Codex.ai)
 
-Este documento apresenta a proposta arquitetônica e de design para o futuro website open-source **Scriptura AI** (sugestões de nomes alternativos: *Biblia Antiqua*, *Codex.ai*, *Archion*), que servirá como o portal oficial para a biblioteca teológica mais avançada e precisa do mundo, baseada nos manuscritos originais traduzidos por nossa IA para o português.
+Este documento apresenta a proposta de arquitetura **Serverless Estática (JAMstack)** para o futuro website open-source **Scriptura AI** (sugestões de nomes alternativos: *Biblia Antiqua*, *Codex.ai*, *Archion*). Este portal servirá como a biblioteca teológica mais avançada e precisa do mundo, baseada nos manuscritos originais traduzidos por nossa IA para o português, operando com **Custo Zero Permanente** e **Escala Infinita**.
 
 ---
 
-## 💰 Custos de Hospedagem: 100% GRATUITO (Always Free)
+## 💰 Custos de Hospedagem: 100% GRATUITO E ETERNO (Zero Custos)
 
-Uma das maiores vantagens da nossa arquitetura de software de alta performance (Go + PostgreSQL + HTMX) é que **manter o website e a base de dados terá um custo de exatamente $0,00 (Zero dólares)!** 
+A grande revolução do projeto é a transição para uma **Arquitetura Baseada em Arquivos Estáticos (Backendless / JAMstack)**. Isso significa que **manter o website e a base de dados terá um custo fixo de exatamente $0,00 (Zero dólares) por mês!**
 
-Não é necessário pagar servidores caros. A estrutura será hospedada na camada **Always Free** (Sempre Gratuita) da Oracle Cloud e protegida por CDN gratuita:
-1. **Máquina Virtual Oracle A1 (Sempre Gratuita)**: A Oracle fornece gratuitamente máquinas virtuais ARM de até **4 CPUs Ampere e 24 GB de RAM**, com 200 GB de armazenamento em disco. Um executável compilado em **Go** consome cerca de apenas 15 MB de RAM e tem uma velocidade inacreditável. Essa máquina gratuita pode processar facilmente milhões de requisições mensais!
-2. **Cloudflare CDN (Camada Gratuita)**: Como os textos bíblicos e comentários são dados estáticos (não mudam em tempo real), a Cloudflare fará o cache completo de 98% das páginas de leitura em seus servidores globais de borda. O tráfego nem chegará a sobrecarregar nossa máquina virtual, garantindo velocidade de carregamento instantânea (sub-100ms), proteção contra ataques DDoS e custo zero!
+Não há necessidade de manter servidores ativos na nuvem 24 horas por dia:
+1. **Hospedagem em CDN Global (GitHub Pages / Cloudflare Pages / Vercel)**: O site inteiro é composto por arquivos estáticos de HTML, CSS, JS e os arquivos JSON de tradução. Essas plataformas fornecem hospedagem 100% gratuita, protegida contra DDoS e com largura de banda ilimitada.
+2. **Escala Infinita**: Se o site receber 1 milhão de usuários simultâneos, ele não ficará lento e não cairá, pois não há um servidor central para sobrecarregar. As CDNs globais servem os arquivos estáticos de servidores localizados a poucos quilômetros de cada usuário.
+3. **Imutabilidade pós-GPU**: Uma vez concluídas todas as traduções pela GPU em Frankfurt, a instância da Oracle Cloud poderá ser **deletada para sempre**. O site público continuará no ar de forma eterna e sem custos!
 
 ---
 
 ## 🎨 Conceito Visual e Estética Premium
 
-O site deve causar um impacto visual extraordinário (*Wow Factor*) desde a primeira tela, utilizando as melhores práticas de design web moderno:
+O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a primeira tela, utilizando as melhores práticas de design web moderno:
 * **Tema Principal**: Modo Escuro Obsidiana (`#0B0F19`) profundo com gradientes e detalhes brilhantes em tons de **Teal Aurora**, **Verde Esmeralda** e **Ouro Celestial** (`#D4AF37`) para denotar a realeza e o caráter histórico dos textos.
 * **Tipografia Acadêmica**: Fontes modernas e elegantes (como *Outfit* ou *Playfair Display* para títulos, e *Inter* para o corpo de texto). Fontes especializadas para textos originais (*Ezra SIL* para o hebraico e *Cardo* para o grego) garantindo uma leitura perfeita.
 * **Efeitos de Vidro (Glassmorphism)**: Containers semi-transparentes com desfoque de fundo (*backdrop-blur*) para uma sensação premium e limpa.
@@ -29,37 +30,45 @@ O site deve causar um impacto visual extraordinário (*Wow Factor*) desde a prim
 ### 1. Motor de Leitura Interlinear Dinâmico
 Uma interface revolucionária de leitura lado a lado (manuscrito original vs. traduções):
 * **Fidelidade à Palavra**: O estudante pode ver o hebraico ou grego original lado a lado com a nossa tradução para o português e inglês.
-* **Hover de Strong Integrado**: Ao passar o mouse ou clicar em uma palavra em hebraico/grego, um pop-up elegante exibe instantaneamente o significado do Dicionário de Strong, a pronúncia transliterada e a análise gramatical.
+* **Hover de Strong Integrado**: Ao passar o mouse ou clicar em uma palavra em hebraico/grego, um pop-up elegante exibe instantaneamente o significado do Dicionário de Strong, a pronúncia transliterada e a análise gramatical (carregado sob demanda a partir do arquivo JSON do dicionário).
 
-### 2. Painel Lateral de Exegese Avançada
+### 2. Gaveta de Exegese Avançada
 Ao clicar em qualquer versículo, uma gaveta lateral deslizante se abre revelando:
 * **Crítica Textual**: Comparação direta das variantes do mesmo versículo entre o **Códice de Aleppo**, o **Manuscrito de Leningrado (WLC)** e os **Manuscritos do Mar Morto (DSS)**.
 * **Comentários Clássicos Traduzidos**: Exibição dos comentários de Rashi, Ramban e Matthew Henry traduzidos com precisão pela nossa IA.
-* **Referências Cruzadas Dinâmicas**: Visualização gráfica e navegável das conexões do TSK (Treasury of Scripture Knowledge).
 
-### 3. Busca Semântica Teológica
-Um mecanismo de busca inteligente alimentado por IA e estruturado por tópicos (usando o Índice de Nave):
-* Permite pesquisar conceitos teológicos complexos (ex: "Aliança", "Redenção") e obter instantaneamente todos os versículos, comentários e artigos relacionados.
+### 3. Busca Rápida e Concordâncias Estáticas
+* Permite pesquisar instantaneamente termos exatos, números de Strong ou versículos através de um indexador estático leve executado inteiramente no navegador do usuário.
 
 ---
 
-## 💻 Arquitetura de Software e Stack Recomendada
+## 💻 Arquitetura Serverless Estática (JAMstack)
 
-Para garantir velocidade na escala de sub-milissegundos, consumo mínimo de recursos na nuvem e facilidade de manutenção por ser open-source, sugerimos uma stack moderna de alta performance:
+Para garantir velocidade de carregamento instantânea (sub-10ms), segurança absoluta contra invasões e custo zero de hospedagem, o projeto adotará a seguinte stack moderna:
 
 ```mermaid
 graph TD
-    User([Usuário]) -->|HTTP/WebSockets| CDN[Cloudflare / CDN]
-    CDN -->|Load Balancer| Backend[Backend em Go / Fiber]
-    Backend -->|Queries Rápidas| DB[(PostgreSQL + pgvector)]
-    Backend -->|Cache de Versículos| Redis[(Redis Cache)]
-    Backend -->|Renderização de UI| HTMX[HTMX / Alpine.js]
+    User([Usuário]) -->|Carrega o Site em 5ms| CDN[CDN Global / Cloudflare Pages]
+    CDN -->|Entrega HTML/JS Estático| Browser[Navegador do Usuário]
+    Browser -->|Fetch sob demanda do Capítulo ~15KB| JSONs[(Pasta de Traduções / JSONs no GitHub)]
+    Browser -->|Consulta local instantânea| Strongs[(strongs.json estático)]
+    Browser -->|Busca local ultra-rápida| Index[(Pagefind / Índice Estático)]
 ```
 
-### 1. Backend: Go (Golang) + Fiber ou Gin
-* **Por que Go?** O Go é incrivelmente rápido, compila em um único executável binário, consome apenas alguns megabytes de RAM e gerencia milhares de requisições simultâneas sem esforço.
-* **Banco de Dados**: **PostgreSQL** com a extensão `pgvector` para buscas semânticas vetoriais baseadas em IA sobre o conteúdo dos comentários.
+### 1. Banco de Dados Baseado em Arquivos (JSONs no Git)
+* **Como funciona?** Os arquivos que a sua GPU já gera na pasta `output/` (ex: `output/Aleppo/2_Chronicles_34.json`) funcionam diretamente como o banco de dados. 
+* O navegador do usuário faz um `fetch()` HTTP direto para o caminho do arquivo JSON correspondente ao capítulo desejado. Não há queries SQL no servidor.
 
-### 2. Frontend: HTMX + Alpine.js + TailwindCSS
-* **Por que esta abordagem (REST-first)?** Reduz a complexidade de frameworks gigantes (como React/Next.js) permitindo interações dinâmicas ultravelozes em tempo real diretamente a partir do HTML fornecido pelo backend em Go.
-* Excelente para SEO e indexação de páginas de versículos nos mecanismos de busca do Google.
+### 2. Pré-Renderização e SEO Impecável
+* **Como indexar no Google?** Usamos um gerador estático leve (ou um script em Python de 50 linhas rodado localmente/CI-CD) que lê os arquivos JSON e gera arquivos HTML semânticos pré-renderizados para cada capítulo da Bíblia.
+* Quando o robô do Google acessa o site, ele lê HTML estático puro e limpo, garantindo indexação impecável de todos os 31.000 versículos nas pesquisas de busca orgânica.
+
+### 3. Busca Local de Altíssima Performance (Pagefind ou MiniSearch)
+* **Como fazer buscas sem banco de dados ativo?** Durante o build do site (executado automaticamente via GitHub Actions a cada push), o utilitário **Pagefind** varre todos os capítulos em frações de segundo e gera um índice de busca estático e fracionado.
+* Quando um usuário digita na busca, o navegador dele baixa apenas os pedaços relevantes do índice (~2KB) e executa a pesquisa localmente de forma instantânea.
+
+### 4. Opcional: Busca Semântica Vetorial via API Híbrida
+* Se você desejar buscas avançadas por conceito com IA ("Conexão entre o sacrifício de Isaac e a crucificação"), podemos manter o site 100% estático e integrar chamadas diretas de API para a camada gratuita do **Supabase** ou **Pinecone**. O banco vetorial fica na nuvem gratuita de terceiros e o site continua hospedado sem custos!
+
+---
+*Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
