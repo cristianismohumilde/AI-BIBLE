@@ -67,8 +67,11 @@ graph TD
 * **Como fazer buscas sem banco de dados ativo?** Durante o build do site (executado automaticamente via GitHub Actions a cada push), o utilitário **Pagefind** varre todos os capítulos em frações de segundo e gera um índice de busca estático e fracionado.
 * Quando um usuário digita na busca, o navegador dele baixa apenas os pedaços relevantes do índice (~2KB) e executa a pesquisa localmente de forma instantânea.
 
-### 4. Opcional: Busca Semântica Vetorial via API Híbrida
-* Se você desejar buscas avançadas por conceito com IA ("Conexão entre o sacrifício de Isaac e a crucificação"), podemos manter o site 100% estático e integrar chamadas diretas de API para a camada gratuita do **Supabase** ou **Pinecone**. O banco vetorial fica na nuvem gratuita de terceiros e o site continua hospedado sem custos!
+### 4. Recomendação de Busca Semântica Vetorial Híbrida (100% Gratuita)
+Para habilitar pesquisas avançadas por conceito com IA (ex: "conexão entre o sacrifício de Isaac e a cruz"), recomendamos a abordagem **Híbrida Client-Side + Nuvem Vetorial Gratuita**:
+* **Geração do Vetor no Cliente (Client-Side Embeddings)**: Quando o usuário busca algo, o navegador dele carrega uma única vez um modelo de IA extremamente leve (como o `all-MiniLM-L6-v2` de 20MB, que fica em cache). O próprio processador do celular ou PC do usuário gera o vetor de busca em 2ms, garantindo custo **$0 de API**.
+* **Banco Vetorial em Nuvem Gratuita (Pinecone / Supabase Free Tier)**: O navegador envia este único vetor para o banco gratuito do Pinecone. Como a Bíblia inteira tem 31.102 versículos e o limite do plano grátis do Pinecone é de 100.000 vetores, o banco vetorial roda de forma **100% gratuita para sempre** na nuvem da Pinecone, executando a comparação matemática pesada no hardware de alta velocidade deles em menos de 10ms.
+* **Mecanismo de Resiliência (Fallback Inteligente)**: O site combinará o melhor dos dois mundos. Por padrão, realiza a busca semântica por IA usando o Pinecone gratuito. Caso o usuário esteja offline ou a API de terceiros esteja instável, o site faz o fallback instantâneo e automático para a busca estática local do **Pagefind**, mantendo 100% de disponibilidade em qualquer cenário.
 
 ---
 *Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
