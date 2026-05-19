@@ -24,11 +24,11 @@ COLLECTION_LABELS = {
     "BYZ":             ("✝️ Texto Bizantino (BYZ)",       "Grego Koiné"),
     "SBLGNT":          ("✝️ Texto Crítico (SBLGNT)",      "Grego Koiné"),
     "VUL":             ("🏛️ Vulgata Latina",              "Latim"),
-    "Talmud":          ("📚 Talmud Bavli",               "Hebraico Mishnaico / Aramaico"),
     "Targum_Onkelos":  ("📜 Targum Onkelos",             "Aramaico Antigo"),
     "Peshitta_Syriac": ("📖 Peshitta Siríaca",           "Siríaco Clássico"),
     "Coptic_Sahidic":  ("🔤 Versão Copta Saídica",       "Copta Saídico"),
     "Armenian_Eastern":("🏔️ Versão Armênia Oriental",    "Armênio Clássico"),
+    "Talmud":          ("📚 Talmud Bavli",               "Hebraico Mishnaico / Aramaico"),
 }
 
 
@@ -148,6 +148,16 @@ def main():
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
 | :--- | :--- | ---: | ---: | :--- | :--- |
 {chr(10).join(rows)}
+
+---
+
+## 📜 Manuscritos Apócrifos e Históricos (Fase 4)
+Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/` aguardando expansão do projeto:
+- **Livro de Enoque** (Edição Crítica de R.H. Charles)
+- **Livro dos Jubileus** (Etiópico Clássico)
+- **Testamento dos Doze Patriarcas** (Grego Antigo)
+- **Mishná: Berakhot** (Sefaria API)
+*(A Didaquê está programada para download)*
 
 ---
 
