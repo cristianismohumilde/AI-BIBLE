@@ -1,23 +1,28 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
+<<<<<<< HEAD
 > 💰 **Crédito Oracle Cloud Disponibilizado**: **$300 USD** (~R$ 1.500) — Recurso que foi fornecido para este projeto.
 > Gerado automaticamente em: **2026-05-19 13:49 UTC**
+=======
+> Gerado automaticamente em: **2026-05-19 14:59 UTC**
+>>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`██░░░░░░░░░░░░░░░░░░` 14.4%
+`███░░░░░░░░░░░░░░░░░` 17.1%
 
-**372** de **2,577** capítulos traduzidos.
-**ETA estimado:** ~3d 12h
-**Custo Computacional Restante:** ~$127 USD
+**448** de **2,613** capítulos traduzidos.
+**ETA estimado:** ~3d 11h
+**Custo Computacional Restante:** ~$124 USD
 
 ---
 
 ## 📋 Detalhamento por Coleção
 
+<<<<<<< HEAD
 | Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status | Prioridade |
 | :--- | :--- | ---: | ---: | :--- | :--- | :--- |
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 372 | `████████░░░░░░░░░░░░` 40.1% | 🚀 Em andamento | ⭐⭐⭐ Atual |
@@ -34,6 +39,24 @@
 | ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ | ❌ Fora dos Recursos | ⭐ *Pausado* |
 | 🏛️ Vulgata Latina | Latim | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ | ❌ Fora dos Recursos | ⭐ *Pausado* |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ | ❌ Fora dos Recursos | ⭐ *Futuro* |
+=======
+| Coleção | Idioma Original | Capítulos Fonte | Traduzidos | Progresso | Status |
+| :--- | :--- | ---: | ---: | :--- | :--- |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 448 | `█████████░░░░░░░░░░░` 48.3% | 🚀 Em andamento |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 422 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| 🏛️ Vulgata Latina | Latim | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| 📜 Targum Onkelos | Aramaico Antigo | 187 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 🔤 Versão Copta Saídica | Copta Saídico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| 🇪🇹 Versão Ge'ez (Etíope) | Ge'ez (Etíope Clássico) | 296 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+>>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 
 ---
 

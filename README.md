@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-19 14:02 UTC**
+> **README gerado automaticamente em: 2026-05-19 14:59 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -15,18 +15,27 @@ com transliteração acadêmica incluída.
 
 | Métrica | Valor |
 |---|---|
+<<<<<<< HEAD
 | Capítulos fonte disponíveis | **2,577** |
 | Capítulos traduzidos | **372** (14.4%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) ✅ Recurso Ativo |
 | Custo estimado restante | **~$127 USD** |
 | ETA estimado de processamento | **~3d 12h** |
+=======
+| Capítulos fonte disponíveis | **2,613** |
+| Capítulos traduzidos | **448** (17.1%) |
+| Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
+| Custo estimado restante | **~$124 USD** |
+| ETA estimado de processamento | **~3d 11h** |
+>>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-19 14:02 UTC |
+| Última atualização | 2026-05-19 14:59 UTC |
 
 ---
 
 ## 📜 Manuscritos — Antigo e Novo Testamento
 
+<<<<<<< HEAD
 | Manuscrito | Idioma | Fonte | Traduzido | Status | Prioridade |
 |:---|:---|---:|---:|:---|---:|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 372 traduzidos | 🚀 Em andamento (40%) | ⭐⭐⭐ Atual |
@@ -53,6 +62,29 @@ com transliteração acadêmica incluída.
 | 🎓 Testamento dos 12 Patriarcas | Grego Antigo | ~156 caps | 0 | 📋 Futuro (Fase 4) | Apócrifo adicional |
 | 📚 Didaquê | Grego Antigo | 16 seções | 0 | 📋 Futuro (Fase 4) | Texto patrístico |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 | ❌ Fora dos Recursos | Requer orçamento adicional |
+=======
+| Manuscrito | Idioma | Fonte | Traduzido | Status |
+|:---|:---|---:|---:|:---|
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 448 traduzidos | 🚀 Em andamento (48%) |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| 🏛️ Vulgata Latina | Latim | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+
+## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
+
+| Texto | Idioma | Fonte | Traduzido | Status |
+|:---|:---|---:|---:|:---|
+| 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 traduzidas | ❌ Pausado (Orçamento) |
+>>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 
 ---
 
@@ -83,16 +115,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
 
 ---
 
@@ -105,6 +137,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
+<<<<<<< HEAD
 ### 🚀 Fase 2 — Tradução Priorizada ($300 USD)
 **Sequência de priorização (após conclusão do Códice de Aleppo):**
 
@@ -124,6 +157,11 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Texto Crítico (SBLGNT) — Grego completo
 - Vulgata Latina — Latim completo
 - Talmud Bavli — Hebraico/Aramaico rabínico
+=======
+### 🚀 Fase 2 — Tradução (Em andamento — 448/2,613 caps (17.1%))
+- GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
+- Double-Pass Review + Filtro Regex ativos
+>>>>>>> a1952e276e53e959b18cedc7d94e19d9cee2283f
 
 ### ⏳ Fase 3 — Transliteração (após Fase 2)
 - Script: `transliterate.py` — roda após conclusão da tradução
