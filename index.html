@@ -412,9 +412,12 @@
                 <label for="select-manuscript">Manuscrito Fonte</label>
                 <select id="select-manuscript">
                     <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
-                    <option value="WLC">Texto de Leningrado (WLC)</option>
+                    <option value="WLC">Texto de Leningrado (WLC - Hebraico)</option>
+                    <option value="DSS">Mar Morto (DSS - Hebraico/Aramaico)</option>
                     <option value="LXX">Septuaginta (LXX - Grego)</option>
-                    <option value="DSS">Mar Morto (DSS)</option>
+                    <option value="SBLGNT">Texto Crítico (SBLGNT - Grego)</option>
+                    <option value="TR">Textus Receptus (TR - Grego)</option>
+                    <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
                 </select>
             </div>
             
@@ -460,27 +463,43 @@
     </footer>
 
     <script>
-        // Mapeamento de livros e capítulos disponíveis no Códice de Aleppo
-        // Este mapa será atualizado para refletir o que está sendo traduzido de fato
+        // Estrutura completa e canônica de todos os livros e capítulos para todas as coleções do projeto
+        const TANAKH_STRUCTURE = {
+            "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36, "Deuteronomy": 34,
+            "Joshua": 24, "Judges": 21, "Ruth": 4, "1_Samuel": 31, "2_Samuel": 24,
+            "1_Kings": 22, "2_Kings": 25, "1_Chronicles": 29, "2_Chronicles": 36,
+            "Ezra": 10, "Nehemiah": 13, "Esther": 10, "Job": 42, "Psalms": 150,
+            "Proverbs": 31, "Ecclesiastes": 12, "Song_of_Solomon": 8, "Isaiah": 66,
+            "Jeremiah": 52, "Lamentations": 5, "Ezekiel": 48, "Daniel": 12,
+            "Hosea": 14, "Joel": 3, "Amos": 9, "Obadiah": 1, "Jonah": 4,
+            "Micah": 7, "Nahum": 3, "Habakkuk": 3, "Zephaniah": 3, "Haggai": 2,
+            "Zechariah": 14, "Malachi": 4
+        };
+
+        const LXX_STRUCTURE = {
+            ...TANAKH_STRUCTURE,
+            "Tobit": 14, "Judith": 16, "Wisdom_of_Solomon": 19, "Sirach": 51, "Baruch": 6,
+            "1_Maccabees": 16, "2_Maccabees": 15, "3_Maccabees": 7, "4_Maccabees": 18,
+            "1_Esdras": 9
+        };
+
+        const NT_STRUCTURE = {
+            "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21, "Acts": 28, "Romans": 16,
+            "1_Corinthians": 16, "2_Corinthians": 13, "Galatians": 6, "Ephesians": 6,
+            "Philippians": 4, "Colossians": 4, "1_Thessalonians": 5, "2_Thessalonians": 3,
+            "1_Timothy": 6, "2_Timothy": 4, "Titus": 3, "Philemon": 1, "Hebrews": 13,
+            "James": 5, "1_Peter": 5, "2_Peter": 3, "1_John": 5, "2_John": 1,
+            "3_John": 1, "Jude": 1, "Revelation": 22
+        };
+
         const BIBLE_STRUCTURE = {
-            "Aleppo": {
-                "Genesis": 50,
-                "1_Samuel": 31,
-                "2_Samuel": 24,
-                "1_Kings": 22,
-                "2_Kings": 25,
-                "1_Chronicles": 29,
-                "2_Chronicles": 36
-            },
-            "WLC": {
-                "Genesis": 50
-            },
-            "LXX": {
-                "Genesis": 50
-            },
-            "DSS": {
-                "Genesis": 50
-            }
+            "Aleppo": TANAKH_STRUCTURE,
+            "WLC": TANAKH_STRUCTURE,
+            "DSS": TANAKH_STRUCTURE,
+            "LXX": LXX_STRUCTURE,
+            "SBLGNT": NT_STRUCTURE,
+            "TR": NT_STRUCTURE,
+            "BYZ": NT_STRUCTURE
         };
 
         const SELECT_MANUSCRIPT = document.getElementById("select-manuscript");
@@ -542,7 +561,8 @@
             if (!manuscript || !book || !chapter) return;
 
             DISPLAY_TITLE.textContent = `${book.replace("_", " ")} ${chapter}`;
-            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${manuscript === 'LXX' ? 'Grego' : 'Hebraico'}`;
+            const isGreek = ['LXX', 'SBLGNT', 'TR', 'BYZ'].includes(manuscript);
+            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${isGreek ? 'Grego' : 'Hebraico'}`;
             
             VERSES_LIST.innerHTML = "";
             EMPTY_STATE.style.display = "none";
