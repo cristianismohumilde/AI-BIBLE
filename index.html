@@ -1743,40 +1743,14 @@
          * Extrai dados de progresso via regex e atualiza UI
          * Executado a cada 5 minutos (ciclo de autopush do VM em Frankfurt)
          * 
-         * 🎯 MELHORIA SUGERIDA: Implementar WebSocket ou Server-Sent Events (SSE)
-         *    para atualizações em tempo real em vez de polling a cada 5 min
+         * ℹ️ NOTA: O polling a cada 5 minutos está perfeitamente sincronizado com:
+         *    1. GPU traduzindo no Oracle Cloud (Frankfurt)
+         *    2. VM autopush sincronizando output/ a cada 5 min
+         *    3. GitHub atualizando PROGRESS.md automaticamente
+         *    
+         *    Este ciclo é otimizado e não requer WebSocket/SSE real-time.
+         *    Melhor evitar sobrecarga de rede e economia de recursos.
          */
-        async function loadProgress() {
-            try {
-                const r = await fetch("PROGRESS.md?t=" + Date.now());
-                if (!r.ok) return;
-                const text = await r.text();
-
-                // Extrai porcentagem geral (ex: "2.1%")
-                const pctMatch  = text.match(/([0-9]+\.?[0-9]*)%/);
-                const capsMatch = text.match(/\*\*(\d[\d,]+)\*\*\s+de\s+\*\*(\d[\d,]+)\*\*/);
-                const etaMatch  = text.match(/ETA estimado[^:]*:\s*\*\*([^*]+)\*\*/);
-
-                if (pctMatch) {
-                    const pct = parseFloat(pctMatch[1]);
-                    document.getElementById("progress-pct").textContent = pct.toFixed(1) + "%";
-                    setTimeout(() => {
-                        document.getElementById("progress-fill").style.width = pct + "%";
-                    }, 300);
-                }
-                if (capsMatch) {
-                    const done  = capsMatch[1];
-                    const total = capsMatch[2];
-                    document.getElementById("progress-detail").textContent =
-                        `${done} de ${total} capítulos traduzidos`;
-                }
-                if (etaMatch) {
-                    document.getElementById("progress-eta").textContent =
-                        "⏱ ETA: " + etaMatch[1].trim();
-                }
-            } catch(e) { /* silencioso */ }
-        }
-
         async function loadProgress() {
             try {
                 // Adiciona timestamp para evitar cache (bypass)
