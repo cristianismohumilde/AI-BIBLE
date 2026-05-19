@@ -1141,7 +1141,7 @@
                     
                     setTimeout(() => {
                         SELECT_CHAPTER.value = chapter;
-                        loadChapterData();
+                        SELECT_CHAPTER.dispatchEvent(new Event("change"));
                     }, 100);
                 }, 100);
             }
@@ -1323,7 +1323,7 @@
                 });
                 if (pages.length > 0) {
                     SELECT_CHAPTER.selectedIndex = 0;
-                    loadChapterData();
+                    SELECT_CHAPTER.dispatchEvent(new Event("change"));
                 }
                 return;
             }
@@ -1338,7 +1338,7 @@
 
             if (maxChapters > 0) {
                 SELECT_CHAPTER.selectedIndex = 0;
-                loadChapterData();
+                SELECT_CHAPTER.dispatchEvent(new Event("change"));
             }
         }
 
@@ -1816,13 +1816,13 @@
                     updateBookSelector(savedSession.manuscript);
                     
                     setTimeout(() => {
-                        if (SELECT_BOOK.value = savedSession.book, BIBLE_STRUCTURE[savedSession.manuscript][savedSession.book]) {
+                        if (BIBLE_STRUCTURE[savedSession.manuscript][savedSession.book]) {
                             SELECT_BOOK.value = savedSession.book;
                             updateChapterSelector(savedSession.manuscript, savedSession.book);
                             
                             setTimeout(() => {
                                 SELECT_CHAPTER.value = savedSession.chapter;
-                                loadChapterData();
+                                SELECT_CHAPTER.dispatchEvent(new Event("change"));
                             }, 100);
                         } else {
                             // Se sessão salva não é válida, carrega padrão
