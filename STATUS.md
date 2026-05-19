@@ -1,30 +1,41 @@
-# Status do Projeto: IA-BIBLE (Ponto de Restauração - Fase GPU)
+# Status do Projeto: IA-BIBLE (Ponto de Restauração — Fase GPU Frankfurt ATIVA)
 
-Este arquivo serve para documentar exatamente onde o projeto parou em **17/05/2026** (Transição para Escalonamento GPU).
+Este arquivo serve para documentar exatamente onde o projeto está em **18 de Maio de 2026** (Sucesso na ativação da GPU em Frankfurt e automação dos serviços).
 
-## ✅ O que já está pronto:
-1. **Ambiente de Testes (ARM64)**:
-   - Configurado e funcional na instância A1.Flex (4 OCPUs, 24GB RAM, 100GB HD).
-   - Containers Docker (`bible-ollama` e `bible-translator`) construídos e validados.
-   - Scripts de download e tradução finalizados com resiliência total.
-   - Banco de manuscritos JSON baixado com sucesso na pasta `data/`.
-2. **Preparação para Escalonamento GPU**:
-   - Conta atualizada com sucesso para **Pay As You Go (PAYG)**, garantindo acesso à solicitação de limites e preservação dos US$ 300 de créditos.
-   - **Solicitação de Limite Enviada**: Ticket de suporte enviado com sucesso para a Oracle Cloud em 17/05/2026 solicitando o limite de `1` para o recurso `gpu-a10-count` (VM.GPU.A10.1) na região `sa-saopaulo-1-AD-1`.
+## ✅ O que já está pronto e funcional:
 
-## 🚧 O que falta fazer (Aguardando Aprovação do Limite):
-1. **Aprovação do Limite**: Aguardar o e-mail da Oracle autorizando a cota `gpu-a10-count = 1` no painel.
-2. **Provisionamento GPU**: Criar a nova instância Compute `VM.GPU.A10.1` (NVIDIA A10, 24GB VRAM) com Canonical Ubuntu 22.04 e 100GB de volume de boot.
-3. **Clonar e Iniciar Infraestrutura**:
-   - Clonar o repositório na nova GPU.
-   - Executar o `docker compose up -d --build` (o Docker utilizará a aceleração GPU da NVIDIA).
-4. **Executar Tradução**:
-   - Puxar o modelo gigante de 32B: `docker compose exec ollama ollama pull qwen2.5:32b`
-   - Rodar o tradutor em background usando `tmux` para rodar ultra rápido (~10 horas para a Bíblia inteira).
-5. **Salvar Dados e Destruir a GPU**: Baixar a pasta `output/` gerada via `scp` e deletar a instância GPU imediatamente para zerar as cobranças.
+1. **Infraestrutura GPU Ativa (Frankfurt)**:
+   - **Instância Ativa**: `AI-BIBLE` rodando sob o shape robusto **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x GPU NVIDIA A10 de 24GB VRAM).
+   - **IP Público**: `130.61.86.70`
+   - **Sistema Operacional**: Ubuntu 22.04 LTS.
+   - **Segurança de Acesso**: Chave SSH `frank-private.key` configurada e validada.
 
-## 💡 Como retomar:
-Assim que o e-mail de aprovação do limite chegar, acesse o painel da Oracle Cloud, vá em instâncias e crie a máquina com o shape `VM.GPU.A10.1` seguindo o [GPU_DEPLOYMENT_PLAN.md](file:///c:/Users/venelouis/Desktop/REPOS/AI-BIBLE/GPU_DEPLOYMENT_PLAN.md).
+2. **Configuração Automatizada (NVIDIA + Docker)**:
+   - Repositório local e manuscritos fontes (`data/`) submetidos com sucesso para a VM.
+   - Drivers NVIDIA e CUDA instalados e validados via `nvidia-smi` (Driver 535.288.01, CUDA 12.2).
+   - Docker & Docker Compose integrados perfeitamente com o **NVIDIA Container Toolkit** para aceleração total de hardware 32B.
+
+3. **Serviços de Background Imortais**:
+   - **Serviço do Tradutor (`translate_bible.service`)**: Configurado como serviço nativo do sistema (`systemd`). Roda em segundo plano sob o usuário seguro `ubuntu`, com reinício automático garantido caso falte luz, RAM ou GPU.
+   - **Serviço de Sincronização (`vm_autopush.py`)**: Ativo em segundo plano (`nohup`), compilando o progresso automaticamente e empurrando-o de 5 em 5 minutos para o GitHub.
+   - **Destrave de Permissões**: Resolvidos todos os cadeados de leitura/escrita antigos gerados por execuções do root na pasta `output/` e nos logs.
+
+4. **Escopo Expandido e Dicionários**:
+   - Baixados todos os léxicos acadêmicos primários solicitados (LSJ para Grego, Lewis & Short para Latim da Vulgata, Crum para Copta, Dillmann para Ge'ez/Etíope, Brockelmann para Siríaco e Bedrossian para Armênio Clássico) na pasta `data/`.
+   - Baixado o léxico completo de Strong de Grego e Hebreu (~14.000 verbetes).
+   - Mapeados e baixados todos os manuscritos deuterocanônicos, apócrifos e históricos (Enoque, Jubileus, Mishná, Testamentos dos Patriarcas) para tradução posterior.
+
+5. **Pipeline de Tradução Avançado (Double-Pass Review)**:
+   - Tradução acadêmica em duas etapas (`DOUBLE_PASS_REVIEW = True` no `translate_bible.py`). A IA traduz (Passo 1 - Rascunho) e depois realiza uma rigorosa autocrítica teológica/linguística (Passo 2 - Auto-Reflexão) antes de salvar o JSON final, garantindo a correção de concordâncias complexas e termos específicos.
+
+## 📈 Status Atual da Tradução:
+- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu até o capítulo **30 de 1 Samuel**!
+- **Total no GitHub**: **81 capítulos** totalmente traduzidos, revisados e consolidados!
+- **ETA Estimado**: ~16 dias para a Bíblia e manuscritos inteiros sob o Double-Pass Review.
+
+## 🚧 Próximos Passos (Ações futuras):
+1. **Varredura Completa**: Deixar o tradutor concluir o Códice de Aleppo e prosseguir automaticamente para o Texto de Leningrado (WLC), Septuaginta (LXX), Manuscritos do Mar Morto (DSS) e Vulgata Latina.
+2. **Integração das Variantes Textuais**: Após a tradução de cada manuscrito, iniciar a geração dos relatórios de variantes críticas com base nos dicionários multilíngues.
 
 ---
-*Assinado: Antigravity (Sua IA de programação)*
+*Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
