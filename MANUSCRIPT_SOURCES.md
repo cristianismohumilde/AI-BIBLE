@@ -14,6 +14,15 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 
 ## 1. Manuscritos e Versões Bíblicas Antigas
 
+### 0.0 Códice de Aleppo (Uso atual e avaliação)
+* **Descrição**: Códice massorético medieval reconhecido como uma das testemunhas mais importantes do texto hebraico massorético.
+* **Fonte usada no projeto**: Download via **Sefaria API** utilizando o módulo identificado como *"Aleppo"* (parâmetro `version="Miqra according to the Masorah"`). O script `download_manuscripts.py` automatiza essa captura.
+    - Endpoint: `https://www.sefaria.org/api/texts/{Book}.{Chapter}?vhe=Miqra%20according%20to%20the%20Masorah`
+* **Verificação de Qualidade (avaliação provisória)**: Alta qualidade filológica — o Códice de Aleppo é historicamente considerado das mais confiáveis testemunhas massoréticas. Entretanto, atenção: o códice sofreu perdas e lacunas documentadas (partes foram danificadas/ausentes ao longo da história). Portanto:
+    - Recomendação imediata: comparar automaticamente com o `WLC` (Códice de Leningrado) para preencher lacunas e validar variantes textuais.
+    - Ação pendente: realizar verificação filológica formal para documentar exatamente qual edição/versão foi usada (e se existem conversões/normalizações aplicadas pelo Sefaria que impactem a forma do texto).
+
+
 ### 1.0 Septuaginta (LXX) — *Seleção Priorizada: Isaías, Salmos e Deuterocanônicos*
 *   **Descrição**: Tradução grega do Antigo Testamento hebraico, realizada entre os séculos III-II a.C. pela comunidade judaica de Alexandria. A seleção atual prioriza os livros de Isaías, Salmos e todos os deuterocanônicos (Sabedoria, Sirácida, Baruc, Carta de Jeremias, 1-2 Macabeus, adições a Daniel e Ester).
 *   **Fonte**: [Septuaginta Digital Project / Antinoopolis Papyri Collections](https://www.academia.edu/community/septuaginta-research)
