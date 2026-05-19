@@ -27,51 +27,80 @@ O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a pr
 
 ## 🛠️ Recursos Core do Web App
 
-### 1. Motor de Leitura Interlinear Dinâmico
-Uma interface revolucionária de leitura lado a lado (manuscrito original vs. traduções):
-* **Fidelidade à Palavra**: O estudante pode ver o hebraico ou grego original lado a lado com a nossa tradução para o português e inglês.
-* **Hover de Strong Integrado**: Ao passar o mouse ou clicar em uma palavra em hebraico/grego, um pop-up elegante exibe instantaneamente o significado do Dicionário de Strong, a pronúncia transliterada e a análise gramatical (carregado sob demanda a partir do arquivo JSON do dicionário).
+### ✅ Fase 1 — Implementado (index.html no repositório)
 
-### 2. Gaveta de Exegese Avançada
-Ao clicar em qualquer versículo, uma gaveta lateral deslizante se abre revelando:
-* **Crítica Textual**: Comparação direta das variantes do mesmo versículo entre o **Códice de Aleppo**, o **Manuscrito de Leningrado (WLC)** e os **Manuscritos do Mar Morto (DSS)**.
-* **Comentários Clássicos Traduzidos**: Exibição dos comentários de Rashi, Ramban e Matthew Henry traduzidos com precisão pela nossa IA.
+| Feature | Status | Descrição |
+|:---|:---:|:---|
+| Motor Interlinear Dinâmico | ✅ | Exibe hebraico/grego (RTL, fonte *Cardo*, cor Ouro) ao lado da tradução em PT |
+| Seletores Dinâmicos | ✅ | Manuscrito → Livro → Capítulo, todos os 39+9+27 livros mapeados canônicamente |
+| Busca Rápida por Versículo | ✅ | Campo de busca filtra versículos do capítulo carregado em tempo real (client-side) |
+| Navegação por Setas (← →) | ✅ | Botões e atalhos de teclado para navegar entre capítulos |
+| Barra de Progresso Live | ✅ | Lê `PROGRESS.md` e exibe % traduzido, capítulos e ETA — atualiza a cada 5 min |
+| Spinner de Carregamento | ✅ | Animação de loading ao buscar o JSON do capítulo |
+| Contador de Versículos | ✅ | Badge dourado com total de versículos do capítulo carregado |
+| Copiar Versículo | ✅ | Clique em qualquer versículo copia original + português para a área de transferência |
+| Estado "Na Fila" | ✅ | Capítulos ainda não traduzidos exibem cartão elegante explicando que a GPU está processando |
+| SEO e Open Graph | ✅ | Meta description, og:title, og:description e theme-color implementados |
+| Suporte a Manuscritos | ✅ | Aleppo, WLC, DSS, LXX (+apócrifos), SBLGNT, TR, BYZ |
+| Hospedagem Gratuita | ✅ | GitHub Pages — 100% gratuito, CDN global, zero servidores |
 
-### 3. Busca Rápida e Concordâncias Estáticas
-* Permite pesquisar instantaneamente termos exatos, números de Strong ou versículos através de um indexador estático leve executado inteiramente no navegador do usuário.
+---
+
+### 🚀 Fase 2 — Próximas Implementações
+
+#### 1. Hover de Strong Integrado
+- Ao passar o mouse sobre qualquer palavra hebraica ou grega, exibir um tooltip elegante com:
+  - Definição do **Dicionário de Strong** (carregada do `data/study_materials/strongs_hebrew.json` ou `strongs_greek.json`)
+  - Pronúncia transliterada (ex: *yir·ū·šā·lā·yim*)
+  - Número de Strong (H3389 / G2419)
+- **Como implementar:** O texto original precisará ter as palavras envoltas em `<span data-strong="H3389">` pelo pipeline de tradução. O site carrega os JSONs de Strong uma vez e faz lookup local.
+
+#### 2. Gaveta de Exegese (Exegesis Drawer)
+- Clique em qualquer versículo → painel lateral desliza da direita mostrando:
+  - **Crítica Textual**: comparação do versículo entre Aleppo, WLC e DSS lado a lado
+  - **Comentários Clássicos** traduzidos por IA (Rashi, Ramban, Matthew Henry)
+  - **Referências Cruzadas** (do arquivo `cross_references.tsv`)
+
+#### 3. Busca Semântica Vetorial por IA (100% Gratuita)
+- Arquitetura Híbrida recomendada:
+  - **Client-Side Embeddings** (`all-MiniLM-L6-v2`, 20MB, fica em cache): o dispositivo do usuário gera o vetor de busca localmente em 2ms — **$0 de custo de API**.
+  - **Banco Vetorial Gratuito** (Pinecone Free Tier — 100k vetores): recebe o vetor e retorna os 5 versículos semanticamente mais próximos em <10ms — **$0 de custo de banco**.
+  - **Fallback automático** para Pagefind se offline ou API instável.
+
+#### 4. Geração de Índice Estático (SEO para Google)
+- Script Python (rodado via GitHub Actions a cada push) que:
+  - Lê todos os JSONs de `output/`
+  - Gera arquivos `html/Aleppo/Genesis_1.html`, etc. com HTML semântico pré-renderizado
+  - O Google indexa cada um dos 31.000+ versículos individualmente
 
 ---
 
 ## 💻 Arquitetura Serverless Estática (JAMstack)
 
-Para garantir velocidade de carregamento instantânea (sub-10ms), segurança absoluta contra invasões e custo zero de hospedagem, o projeto adotará a seguinte stack moderna:
+Para garantir velocidade de carregamento instantânea (sub-10ms), segurança absoluta contra invasões e custo zero de hospedagem, o projeto adota a seguinte stack moderna:
 
 ```mermaid
 graph TD
     User([Usuário]) -->|Carrega o Site em 5ms| CDN[CDN Global / Cloudflare Pages]
     CDN -->|Entrega HTML/JS Estático| Browser[Navegador do Usuário]
-    Browser -->|Fetch sob demanda do Capítulo ~15KB| JSONs[(Pasta de Traduções / JSONs no GitHub)]
-    Browser -->|Consulta local instantânea| Strongs[(strongs.json estático)]
+    Browser -->|Fetch sob demanda do Capítulo ~15KB| JSONs[(output/ JSONs no GitHub)]
+    Browser -->|Fetch periódico| PROGRESS[(PROGRESS.md → Barra de Progresso)]
+    Browser -->|Consulta local instantânea| Strongs[(strongs_hebrew.json / strongs_greek.json)]
     Browser -->|Busca local ultra-rápida| Index[(Pagefind / Índice Estático)]
 ```
 
 ### 1. Banco de Dados Baseado em Arquivos (JSONs no Git)
-* **Como funciona?** Os arquivos que a sua GPU já gera na pasta `output/` (ex: `output/Aleppo/2_Chronicles_34.json`) funcionam diretamente como o banco de dados. 
+* Os arquivos gerados pela GPU na pasta `output/` (ex: `output/Aleppo/2_Chronicles_34.json`) funcionam diretamente como o banco de dados.
 * O navegador do usuário faz um `fetch()` HTTP direto para o caminho do arquivo JSON correspondente ao capítulo desejado. Não há queries SQL no servidor.
 
-### 2. Pré-Renderização e SEO Impecável
-* **Como indexar no Google?** Usamos um gerador estático leve (ou um script em Python de 50 linhas rodado localmente/CI-CD) que lê os arquivos JSON e gera arquivos HTML semânticos pré-renderizados para cada capítulo da Bíblia.
-* Quando o robô do Google acessa o site, ele lê HTML estático puro e limpo, garantindo indexação impecável de todos os 31.000 versículos nas pesquisas de busca orgânica.
+### 2. Pré-Renderização e SEO Impecável (Fase 2)
+* Gerador estático Python lê os JSONs e produz HTML semântico pré-renderizado para cada capítulo, garantindo indexação orgânica perfeita no Google para todos os 31.000+ versículos.
 
-### 3. Busca Local de Altíssima Performance (Pagefind ou MiniSearch)
-* **Como fazer buscas sem banco de dados ativo?** Durante o build do site (executado automaticamente via GitHub Actions a cada push), o utilitário **Pagefind** varre todos os capítulos em frações de segundo e gera um índice de busca estático e fracionado.
-* Quando um usuário digita na busca, o navegador dele baixa apenas os pedaços relevantes do índice (~2KB) e executa a pesquisa localmente de forma instantânea.
+### 3. Busca Local de Altíssima Performance (Pagefind)
+* Durante o deploy (via GitHub Actions), **Pagefind** gera um índice estático fracionado. O usuário baixa apenas os fragmentos relevantes (~2KB) e a pesquisa roda localmente em microssegundos.
 
-### 4. Recomendação de Busca Semântica Vetorial Híbrida (100% Gratuita)
-Para habilitar pesquisas avançadas por conceito com IA (ex: "conexão entre o sacrifício de Isaac e a cruz"), recomendamos a abordagem **Híbrida Client-Side + Nuvem Vetorial Gratuita**:
-* **Geração do Vetor no Cliente (Client-Side Embeddings)**: Quando o usuário busca algo, o navegador dele carrega uma única vez um modelo de IA extremamente leve (como o `all-MiniLM-L6-v2` de 20MB, que fica em cache). O próprio processador do celular ou PC do usuário gera o vetor de busca em 2ms, garantindo custo **$0 de API**.
-* **Banco Vetorial em Nuvem Gratuita (Pinecone / Supabase Free Tier)**: O navegador envia este único vetor para o banco gratuito do Pinecone. Como a Bíblia inteira tem 31.102 versículos e o limite do plano grátis do Pinecone é de 100.000 vetores, o banco vetorial roda de forma **100% gratuita para sempre** na nuvem da Pinecone, executando a comparação matemática pesada no hardware de alta velocidade deles em menos de 10ms.
-* **Mecanismo de Resiliência (Fallback Inteligente)**: O site combinará o melhor dos dois mundos. Por padrão, realiza a busca semântica por IA usando o Pinecone gratuito. Caso o usuário esteja offline ou a API de terceiros esteja instável, o site faz o fallback instantâneo e automático para a busca estática local do **Pagefind**, mantendo 100% de disponibilidade em qualquer cenário.
+### 4. Busca Semântica Híbrida (100% Gratuita)
+* **Client-Side Embeddings + Pinecone Free Tier**: o dispositivo do usuário gera o vetor ($0 de API) → Pinecone retorna resultados semânticos em <10ms ($0 de banco) → fallback automático para Pagefind se offline.
 
 ---
 *Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
