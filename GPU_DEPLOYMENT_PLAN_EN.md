@@ -6,8 +6,7 @@ This document describes the action plan to scale the translation of the entire B
 > ### 📊 Current Scaling Status:
 > * **PAYG Account Upgrade:** ✅ **Completed**
 > * **Service Limit Request (`gpu-a10-count`):** ✅ **Approved (05/18/2026)**
-> * **GPU Instance (Frankfurt):** ✅ **Active (130.61.86.70)**
-> * **Drivers and Docker Installation:** ✅ **Installed and Validated**
+> * **GPU Instance (Frankfurt):** ✅ **Active (130.61.86.XX)** (Obfuscated for security)
 > * **General Status:** 🚀 **Ready to initiate High-Speed Translation!**
 
 ## 🎯 Objective

@@ -1,75 +1,46 @@
-# AI-BIBLE — Deploy & Test Summary (Oracle Cloud)
+# AI-BIBLE — Resumo de Implantação e Testes (Oracle Cloud)
 
-Resumo conciso para subir no GitHub e escolher a rota amanhã.
+Resumo executivo do status de implantação e escalonamento para GPU na nuvem de Frankfurt.
 
 **Propósito**
-- Documentar o que foi implementado para executar o pipeline de tradução em uma instância GPU na Oracle Cloud (self‑host) e as opções de Marketplace/OCI GenAI.
+- Documentar a arquitetura ativa de tradução da IA-BIBLE na nuvem e o status atual da infraestrutura.
 
-**O que foi adicionado**
-- `deploy/oci/Dockerfile.gpu` — imagem base com CUDA e libs de inferência.
-- `deploy/oci/docker-compose.gpu.yml` — compose para container translator GPU.
-- `deploy/oci/docker-compose.vllm.yml` — inicia `vLLM` (inference server) + `translator` (cliente).
-- `deploy/oci/setup_gpu.sh` — script de inicialização (venv + libs).
-- `deploy/oci/download_and_quantize.py` e `deploy/oci/quantize_model.sh` — helpers para baixar modelos HF e instrução de quantização 4‑bit.
-- `deploy/oci/README.md` — instruções rápidas de execução.
-- `deploy/oci/OCI_MARKETPLACE_CHECKLIST.md` — como validar ofertas faturadas via OCI.
-- Atualizei `GPU_DEPLOYMENT_PLAN.md` com observações sobre créditos OCI, quantização/offload e recomendações.
+## 🚀 Status da Infraestrutura (18/05/2026)
 
-Links rápidos (arquivos gerados)
-- [deploy/oci/Dockerfile.gpu](deploy/oci/Dockerfile.gpu)
-- [deploy/oci/docker-compose.gpu.yml](deploy/oci/docker-compose.gpu.yml)
-- [deploy/oci/docker-compose.vllm.yml](deploy/oci/docker-compose.vllm.yml)
-- [deploy/oci/setup_gpu.sh](deploy/oci/setup_gpu.sh)
-- [deploy/oci/download_and_quantize.py](deploy/oci/download_and_quantize.py)
-- [deploy/oci/quantize_model.sh](deploy/oci/quantize_model.sh)
-- [deploy/oci/README.md](deploy/oci/README.md)
-- [GPU_DEPLOYMENT_PLAN.md](GPU_DEPLOYMENT_PLAN.md)
+*   **Instância Ativa**: `AI-BIBLE` em **Frankfurt (Alemanha Central)**.
+*   **Shape**: `VM.GPU.A10.1` (15 núcleos OCPU, 240 GB RAM, 1x GPU NVIDIA A10 com 24GB de VRAM).
+*   **IP Público**: `130.61.86.XX` (Ocultado por segurança)
+*   **SO**: Ubuntu 22.04 LTS.
+*   **Drivers NVIDIA**: ✅ Instalados e ativos (Driver 535.288.01, CUDA 12.2).
+*   **Docker & Docker Compose**: ✅ Instalados e configurados com o **NVIDIA Container Toolkit** para aceleração nativa de hardware em containers.
 
-Quick start (assumindo instância `VM.GPU.A10.1` e acesso SSH)
+## 📂 O que foi implantado e configurado na VM
+- `deploy/oci/setup_vm_deps.sh` — script automatizado que configurou todos os drivers NVIDIA, CUDA, Docker e Container Toolkit na VM limpa em tempo recorde (~6 minutos).
+- `docker-compose.yml` (atualizado) — configurado para permitir que o Ollama utilize a aceleração nativa da GPU.
+- Código do repositório extraído em `~/AI-BIBLE` na VM com todas as dependências e manuscritos prontos.
+- **Serviço de Produção Imortal**: Configurado o serviço de sistema `translate_bible.service` rodando em segundo plano (`systemd`) para garantir execução ininterrupta.
+- **Serviço de Auto-Envio**: Configurado o script `vm_autopush.py` para sincronizar e atualizar o progresso no GitHub automaticamente a cada 5 minutos.
 
-```bash
-# build and run vLLM + translator
-cd deploy/oci
-docker compose -f docker-compose.vllm.yml up -d --build
+## 🗺️ Mapa de Expansão (Novo Escopo)
+O projeto agora integra uma visão filológica e teológica ainda mais ambiciosa:
+1.  **Integração Completa da Sefaria**: Download e tradução de toda a base de dados do portal Sefaria diretamente para o português brasileiro.
+2.  **Apócrifos e Deuterocanônicos**:
+    - *Antigo Testamento*: Enoque, Jubileus, Tobias, Judite, Sabedoria, Eclesiástico, Baruque, Macabeus.
+    - *Novo Testamento*: Evangelho de Tomé, Epístola aos Hebreus, Epístola de Barnabé, Didaqué, Pastor de Hermas.
+3.  **Idiomas Antigos Adicionais**:
+    - Porções e Targums em **Aramaico**.
+    - Peshitta em **Siríaco**.
+    - Cânon Ortodoxo Completo em **Ge'ez (Etíope Clássico)**.
+    - Manuscritos clássicos em **Armênio Clássico**.
+4.  **Materiais de Estudo Integrados**:
+    - Dicionários/Léxicos (Grego/Hebraico de Strong, Brown-Driver-Briggs, Thayer).
+    - Comentários bíblicos clássicos (Matthew Henry, Albert Barnes, Pulpit Commentary).
+    - Gramáticas históricas (Gesenius, Robertson).
 
-# or: build minimal GPU image
-docker compose -f docker-compose.gpu.yml build
-docker compose -f docker-compose.gpu.yml up -d
+*Nota: Os downloads dessas coleções são realizados diretamente pela VM de Frankfurt (largura de banda de rede de 24 Gbps), economizando largura de banda local.*
 
-# prepare model locally (download hint)
-./quantize_model.sh <hf-repo-id> ./models/<name>
+## ⚙️ Status Rápido dos Serviços
+A tradução e os containers de inferência estão operando em segundo plano. O tradutor está traduzindo ativamente sob o processo acadêmico de revisão em duas etapas (**Double-Pass Review**)!
 
-# run translator directly (example)
-docker compose -f docker-compose.vllm.yml exec translator python translate_bible.py --endpoint http://vllm:8080
-```
-
-Estimativa de tempo e custo (aprox.)
-- Provisionamento + build: 1–3 horas.
-- Download modelo: 5 min–3 horas (depende do tamanho e região).
-- Quantização 4‑bit na GPU: 10 min–2 horas.
-- Tradução de todo o corpus (Bíblia + deuterocanônicos + patrística):
-  - 13B quantizado em A10.1: ~12–36 horas.
-  - 30–70B com offload em A10.1: ~8–24 horas.
-- Custo A10.1 (≈US$1.50–2.00/h): proj.: US$12–72 para runs descritos acima. Seus ~US$300 cobrem amplamente o protótipo e testes.
-
-Decisões a tomar amanhã (checklist)
-- Escolher modelo para teste inicial (sugestões: `Llama-3-13b`, `Mistral-7B`, `meta-llama/Llama-2-13b`, `facebook/nllb-200-3.3B`).
-- Confirmar rota: (A) Self‑host com quantização/offload (usa créditos OCI) ou (B) Marketplace/OCI GenAI (se houver oferta faturada via OCI).
-- Confirmar que os créditos OCI estão ativos e identificar região para menor latência/custo.
-- Rodar teste curto (1 capítulo) e avaliar qualidade; ajustar modelo/FT se necessário.
-
-Próximos passos que posso executar (só pedir)
-- Atualizar `translate_bible.py` para apontar por padrão para `vLLM` endpoint e executar um teste curto de throughput.
-- Gerar script automático para baixar + quantizar um modelo escolhido e colocar em `/models`.
-- Ajudar a lançar a instância OCI (com `oci` CLI) e executar os comandos de build/run.
-
-Como subir para o GitHub (comandos)
-
-```bash
-git add .
-git commit -m "Add OCI GPU deploy helpers and vLLM compose + docs"
-git push origin main
-```
-
-Observação final
-- Tudo está documentado em `deploy/oci/README.md` e o plano geral em `GPU_DEPLOYMENT_PLAN.md`. Quando acordar me diga o modelo que quer testar e eu preparo a quantização automática e atualizo `translate_bible.py` para o endpoint `vLLM`.
+---
+*Status: Infraestrutura de GPU configurada com sucesso e 100% operacional!*
