@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-19 16:30 UTC**
+> **README gerado automaticamente em: 2026-05-19 16:35 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **2,613** |
-| Capítulos traduzidos | **496** (19.0%) |
+| Capítulos traduzidos | **499** (19.1%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$122 USD** |
+| Custo estimado restante | **~$121 USD** |
 | ETA estimado de processamento | **~3d 9h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-19 16:30 UTC |
+| Última atualização | 2026-05-19 16:35 UTC |
 
 ---
 
@@ -27,7 +27,7 @@ com transliteração acadêmica incluída.
 
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 496 traduzidos | 🚀 Em andamento (53%) |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 499 traduzidos | 🚀 Em andamento (54%) |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
@@ -98,7 +98,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 496/2,613 caps (19.0%))
+### 🚀 Fase 2 — Tradução (Em andamento — 499/2,613 caps (19.1%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
