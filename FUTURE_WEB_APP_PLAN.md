@@ -44,6 +44,19 @@ O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a pr
 | Suporte a Manuscritos | ✅ | Aleppo, WLC, DSS, LXX (+apócrifos), SBLGNT, TR, BYZ |
 | Hospedagem Gratuita | ✅ | GitHub Pages — 100% gratuito, CDN global, zero servidores |
 
+### Atualizações recentes (implementadas no `index.html`)
+
+- Cache localStorage para JSONs carregados (melhora tempo de carregamento e reduz fetches repetidos)
+- Debounce na busca de capítulo (200ms) para melhor performance em capítulos longos
+- Deep-linking via hash URL (`#/Manuscrito/Livro/Capítulo`) para compartilhamento direto
+- Toggle de tema escuro/claro com persistência em localStorage
+- Histórico local dos últimos 10 capítulos lidos e recuperação de sessão ao recarregar
+- Melhorias de acessibilidade: ARIA labels, navegação por teclado (Enter/Space no toggle, ←/→ e PageUp/PageDown)
+
+> Nota sobre o polling de 5 minutos: O polling periódico para `PROGRESS.md` está intencionalmente definido para 5 minutos e está sincronizado com o pipeline da GPU (Frankfurt) e a rotina de autopush da VM. Não recomendamos migrar para WebSocket/SSE por enquanto, para evitar sobrecarga e preservar o ciclo de tradução existente.
+
+> Observação pendente: **Avaliação da fonte do Códice Aleppo** — ainda é necessário documentar a qualidade exata da edição/fonte que estamos usando (bom / ruim / lacunas). Recomendamos uma verificação filológica da fonte Aleppo para anexar ao `MANUSCRIPT_SOURCES.md`.
+
 ---
 
 ### 🚀 Fase 2 — Próximas Implementações

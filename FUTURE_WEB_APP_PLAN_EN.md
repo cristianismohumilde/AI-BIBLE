@@ -40,7 +40,18 @@ Clicking on any verse slides open a detailed right-hand panel showing:
 ### 3. High-Performance Static Search
 * Enables users to search for specific terms, Strong's numbers, or verses instantly through a lightweight static index executed entirely in the user's browser.
 
----
+### Recent updates (implemented in `index.html`)
+
+- LocalStorage cache for loaded JSONs (reduces repeated fetches and speeds up repeat visits)
+- Debounced in-chapter search (200ms) for better performance on long chapters
+- Hash deep-linking (`#/Manuscript/Book/Chapter`) for direct sharing of passages
+- Dark/Light theme toggle persisted in LocalStorage
+- Local history of last 10 read chapters and session recovery on reload
+- Accessibility improvements: ARIA labels, keyboard navigation (Enter/Space for toggle, ←/→ and PageUp/PageDown)
+
+> Note on 5-minute polling: The periodic fetch for `PROGRESS.md` is intentionally set to 5 minutes and synchronized with the GPU pipeline (Frankfurt) and the VM autopush routine. We do not recommend switching to WebSocket/SSE at this stage to avoid interfering with the translation pipeline.
+
+> Pending item: **Evaluation of the Aleppo Codex source** — we still need a filological check and documentation of the exact Aleppo edition/source quality (good / poor / lacunae). This should be added to `MANUSCRIPT_SOURCES.md`.
 
 ## 💻 Serverless Static Architecture (JAMstack)
 
