@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-19 14:49 UTC**
+> **README gerado automaticamente em: 2026-05-19 14:02 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -13,12 +13,13 @@ com transliteração acadêmica incluída.
 
 | Métrica | Valor |
 |---|---|
-| Capítulos fonte disponíveis | **11,815** |
-| Capítulos traduzidos | **443** (3.7%) |
-| ETA estimado de processamento | **~18d 5h** |
-| Custo estimado restante (Oracle GPU) | **~$656 USD** |
+| Capítulos fonte disponíveis | **2,577** |
+| Capítulos traduzidos | **372** (14.4%) |
+| Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
+| Custo estimado restante | **~$127 USD** |
+| ETA estimado de processamento | **~3d 12h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-19 14:49 UTC |
+| Última atualização | 2026-05-19 14:02 UTC |
 
 ---
 
@@ -26,25 +27,25 @@ com transliteração acadêmica incluída.
 
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 443 traduzidos | 🚀 Em andamento (48%) |
-| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 1,135 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
-| ✝️ Textus Receptus (TR) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🏛️ Vulgata Latina | Latim | 1,189 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 372 traduzidos | 🚀 Em andamento (40%) |
+| 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
+| ✝️ Textus Receptus (TR) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| ✝️ Texto Crítico (SBLGNT) | Grego Koiné | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
+| 🏛️ Vulgata Latina | Latim | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
 | Texto | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 📖 Peshitta Siríaca | Siríaco Clássico | 1,189 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🔤 Copta Saídico | Copta Saídico | 1,512 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🏔️ Armênio Oriental | Armênio Clássico | 1,189 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 1,189 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 661 páginas | 0 traduzidas | ⏳ Aguardando tradução |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 traduzidas | ❌ Pausado (Orçamento) |
 
 ---
 
@@ -75,16 +76,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
 
 ---
 
@@ -97,7 +98,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 443/11,815 caps (3.7%))
+### 🚀 Fase 2 — Tradução (Em andamento — 372/2,577 caps (14.4%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 

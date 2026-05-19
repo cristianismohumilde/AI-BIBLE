@@ -19,6 +19,33 @@ from datetime import datetime, timezone
 DATA_DIR   = "data"
 OUTPUT_DIR = "output"
 
+# === BUDGET LIMIT SCOPES ($300 USD) ===
+SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+ALLOWED_NT_BOOKS = {
+    "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
+    "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
+    "1Thessalonians", "2Thessalonians", "1Timothy", "2Timothy", "Titus", "Philemon", 
+    "Hebrews", "James", "1Peter", "2Peter", "1John", "2John", "3John", "Jude", "Revelation",
+    "1_Corinthians", "2_Corinthians", "1_Thessalonians", "2_Thessalonians", "1_Timothy", "2_Timothy", 
+    "1_Peter", "2_Peter", "1_John", "2_John", "3_John", 
+    "I Corinthians", "II Corinthians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy", 
+    "I Peter", "II Peter", "I John", "II John", "III John", "Revelation of John"
+}
+ALLOWED_LXX_BOOKS = {
+    "Isaiah", "Psalms", "1_Maccabees", "2_Maccabees", "3_Maccabees", "4_Maccabees", 
+    "Baruch", "Bel_and_Dragon", "Judith", "Odes", "Psalms_of_Solomon", "Sirach", 
+    "Susanna", "Tobit", "Wisdom_of_Solomon", "1_Esdras"
+}
+ALLOWED_GEEZ_BOOKS = {
+    "የማቴዎስ ወንጌል", "የማርቆስ ወንጌል", "የሉቃስ ወንጌል", "የዮሐንስ ወንጌል", "የሐዋርያት ሥራ", 
+    "ወደ ሮሜ ሰዎች", "1ኛ ወደ ቆሮንቶስ ሰዎች", "2ኛ ወደ ቆሮንቶስ ሰዎች", "ወደ ገላትያ ሰዎች", "ወደ ኤፌሶን ሰዎች", 
+    "ወደ ፊልጵስዩስ ሰዎች", "ወደ ቆላስይስ ሰዎች", "1ኛ ወደ ተሰሎንቄ ሰዎች", "2ኛ ወደ ተሰሎንቄ ሰዎች", 
+    "1ኛ ወደ ጢሞቴዎስ", "2ኛ ወደ ጢሞቴዎስ", "ወደ ቲቶ", "ወደ ፊልሞና", "ወደ ዕብራውያን", "የያዕቆብ መልእክት", 
+    "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
+    "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
+}
+# =======================================
+
 # ─────────────────────────────────────────────────────────
 # Configuração das coleções
 # ─────────────────────────────────────────────────────────
@@ -85,14 +112,31 @@ STUDY_LABELS = {
 def count_json_recursive(path):
     # Tratamento especial para Vulgata (1189 capítulos) que ainda está em .txt
     if "VUL" in path and "output" not in path:
+        if "VUL" in SKIP_MANUSCRIPTS:
+            return 0
         if os.path.exists(os.path.join(path, "vulgata_latina.txt")):
             return 1189
         
     if not os.path.isdir(path):
         return 0
     total = 0
+    collection_name = None
+    parts = os.path.normpath(path).split(os.sep)
+    if len(parts) >= 2:
+        collection_name = parts[1]
+        
+    if collection_name in SKIP_MANUSCRIPTS:
+        return 0
+        
     for root, _, files in os.walk(path):
-        total += sum(1 for f in files if f.endswith(".json"))
+        for f in files:
+            if f.endswith(".json"):
+                parts_f = os.path.normpath(os.path.join(root, f)).split(os.sep)
+                if len(parts_f) >= 3:
+                    book = parts_f[-2] if not parts_f[-2] == collection_name else parts_f[-1].replace('.json', '')
+                    if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
+                    if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
+                total += 1
     return total
 
 def count_json_flat(path):
@@ -142,7 +186,12 @@ def build_ancient_table():
         d = 0
         if "geez" in subkey:
             if os.path.isdir(av_path):
-                d = count_json_recursive(av_path)
+                for f in os.listdir(av_path):
+                    if f.endswith(".json"):
+                        book_name = f.replace(".json", "")
+                        book_title = book_name.rsplit("_", 1)[0] if "_" in book_name else book_name
+                        if book_title in ALLOWED_GEEZ_BOOKS:
+                            d += 1
         elif "targum" in subkey:
             av_dir = os.path.join(DATA_DIR, "ancient_versions")
             if os.path.isdir(av_dir):
@@ -162,9 +211,9 @@ def build_ancient_table():
                 try:
                     with open(fpath, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                        d = sum(len(b.get("chapters", [])) for b in data.get("books", []))
+                        d = sum(len(b.get("chapters", [])) for b in data.get("books", []) if b.get("name") in ALLOWED_NT_BOOKS)
                 except Exception:
-                    d = 1189 if "coptic" not in subkey else 1512
+                    d = 260
 
         o = count_json_recursive(os.path.join(OUTPUT_DIR, key_o))
         status = status_icon(d, o)
@@ -176,6 +225,11 @@ def build_talmud_row():
     import json
     data_path = os.path.join(DATA_DIR, "Talmud")
     d = 0
+    if "Talmud" in SKIP_MANUSCRIPTS:
+        o = count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
+        status = status_icon(0, o)
+        return f"| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | {o:,} traduzidas | ❌ Pausado (Orçamento) |"
+        
     if os.path.isdir(data_path):
         for f in os.listdir(data_path):
             if f.endswith(".json"):
@@ -247,7 +301,9 @@ def calc_totals():
                         talmud_pages += valid_pages
                 except Exception:
                     pass
-        if talmud_pages == 0:
+        if "Talmud" in SKIP_MANUSCRIPTS:
+            talmud_pages = 0
+        elif talmud_pages == 0:
             talmud_pages = 36
     total_d += talmud_pages
     total_o += count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
@@ -258,7 +314,12 @@ def calc_totals():
         d = 0
         if "geez" in subkey:
             if os.path.isdir(av_path):
-                d = count_json_recursive(av_path)
+                for f in os.listdir(av_path):
+                    if f.endswith(".json"):
+                        book_name = f.replace(".json", "")
+                        book_title = book_name.rsplit("_", 1)[0] if "_" in book_name else book_name
+                        if book_title in ALLOWED_GEEZ_BOOKS:
+                            d += 1
         elif "targum" in subkey:
             av_dir = os.path.join(DATA_DIR, "ancient_versions")
             if os.path.isdir(av_dir):
@@ -278,9 +339,9 @@ def calc_totals():
                 try:
                     with open(fpath, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                        d = sum(len(b.get("chapters", [])) for b in data.get("books", []))
+                        d = sum(len(b.get("chapters", [])) for b in data.get("books", []) if b.get("name") in ALLOWED_NT_BOOKS)
                 except Exception:
-                    d = 1189 if "coptic" not in subkey else 1512
+                    d = 260
         total_d += d
         total_o += count_json_recursive(os.path.join(OUTPUT_DIR, key_o))
         
@@ -335,8 +396,9 @@ com transliteração acadêmica incluída.
 |---|---|
 | Capítulos fonte disponíveis | **{all_data:,}** |
 | Capítulos traduzidos | **{all_out:,}** ({pct:.1f}%) |
+| Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
+| Custo estimado restante | **{custo_str}** |
 | ETA estimado de processamento | **{eta_str}** |
-| Custo estimado restante (Oracle GPU) | **{custo_str}** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
 | Última atualização | {now} |
 

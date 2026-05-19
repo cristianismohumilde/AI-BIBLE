@@ -15,6 +15,33 @@ from datetime import datetime, timezone
 DATA_DIR = "data"
 OUTPUT_DIR = "output"
 
+# === BUDGET LIMIT SCOPES ($300 USD) ===
+SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+ALLOWED_NT_BOOKS = {
+    "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
+    "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
+    "1Thessalonians", "2Thessalonians", "1Timothy", "2Timothy", "Titus", "Philemon", 
+    "Hebrews", "James", "1Peter", "2Peter", "1John", "2John", "3John", "Jude", "Revelation",
+    "1_Corinthians", "2_Corinthians", "1_Thessalonians", "2_Thessalonians", "1_Timothy", "2_Timothy", 
+    "1_Peter", "2_Peter", "1_John", "2_John", "3_John", 
+    "I Corinthians", "II Corinthians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy", 
+    "I Peter", "II Peter", "I John", "II John", "III John", "Revelation of John"
+}
+ALLOWED_LXX_BOOKS = {
+    "Isaiah", "Psalms", "1_Maccabees", "2_Maccabees", "3_Maccabees", "4_Maccabees", 
+    "Baruch", "Bel_and_Dragon", "Judith", "Odes", "Psalms_of_Solomon", "Sirach", 
+    "Susanna", "Tobit", "Wisdom_of_Solomon", "1_Esdras"
+}
+ALLOWED_GEEZ_BOOKS = {
+    "የማቴዎስ ወንጌል", "የማርቆስ ወንጌል", "የሉቃስ ወንጌል", "የዮሐንስ ወንጌል", "የሐዋርያት ሥራ", 
+    "ወደ ሮሜ ሰዎች", "1ኛ ወደ ቆሮንቶስ ሰዎች", "2ኛ ወደ ቆሮንቶስ ሰዎች", "ወደ ገላትያ ሰዎች", "ወደ ኤፌሶን ሰዎች", 
+    "ወደ ፊልጵስዩስ ሰዎች", "ወደ ቆላስይስ ሰዎች", "1ኛ ወደ ተሰሎንቄ ሰዎች", "2ኛ ወደ ተሰሎንቄ ሰዎች", 
+    "1ኛ ወደ ጢሞቴዎስ", "2ኛ ወደ ጢሞቴዎስ", "ወደ ቲቶ", "ወደ ፊልሞና", "ወደ ዕብራውያን", "የያዕቆብ መልእክት", 
+    "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
+    "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
+}
+# =======================================
+
 COLLECTION_LABELS = {
     "Aleppo":          ("📜 Códice de Aleppo",          "Hebraico Massorético Antigo"),
     "WLC":             ("📜 Texto de Leningrado (WLC)",  "Hebraico Massorético"),
@@ -33,14 +60,21 @@ COLLECTION_LABELS = {
 }
 
 
-def count_files_recursive(directory):
-    """Conta recursivamente todos os arquivos .json em um diretório."""
+def count_files_recursive(directory, collection_name=None):
+    """Conta recursivamente todos os arquivos .json em um diretório, respeitando os limites."""
+    if collection_name in SKIP_MANUSCRIPTS:
+        return 0
     if not os.path.isdir(directory):
         return 0
     count = 0
     for root, dirs, files in os.walk(directory):
         for f in files:
             if f.endswith(".json"):
+                parts = os.path.normpath(os.path.join(root, f)).split(os.sep)
+                if len(parts) >= 3:
+                    book = parts[-2] if not parts[-2] == collection_name else parts[-1].replace('.json', '')
+                    if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
+                    if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
                 count += 1
     return count
 
@@ -59,13 +93,22 @@ def count_data_files(collection):
     Para as versões antigas compactadas em arquivos únicos, abre os JSONs e conta dinamicamente os capítulos.
     """
     if collection == "VUL":
+        if collection in SKIP_MANUSCRIPTS:
+            return 0
         if os.path.exists(os.path.join(DATA_DIR, "VUL", "vulgata_latina.txt")):
             return 1189
 
     if collection == "Geez":
         geez_dir = os.path.join(DATA_DIR, "ancient_versions", "geez_extracted")
         if os.path.isdir(geez_dir):
-            return sum(1 for f in os.listdir(geez_dir) if f.endswith(".json"))
+            count = 0
+            for f in os.listdir(geez_dir):
+                if f.endswith(".json"):
+                    book_name = f.replace(".json", "")
+                    book_title = book_name.rsplit("_", 1)[0] if "_" in book_name else book_name
+                    if book_title in ALLOWED_GEEZ_BOOKS:
+                        count += 1
+            return count
         return 0
 
     ancient_map = {
@@ -80,9 +123,9 @@ def count_data_files(collection):
             try:
                 with open(fpath, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    return sum(len(b.get("chapters", [])) for b in data.get("books", []))
+                    return sum(len(b.get("chapters", [])) for b in data.get("books", []) if b.get("name") in ALLOWED_NT_BOOKS)
             except Exception:
-                return 1189 if "coptic" not in collection else 1512
+                return 260
         return 0
 
     if collection == "Targum_Onkelos":
@@ -115,18 +158,15 @@ def count_data_files(collection):
                         total_pages += valid_pages
                 except Exception:
                     pass
+        if collection in SKIP_MANUSCRIPTS:
+            return 0
         return total_pages if total_pages > 0 else 36
 
     data_path = os.path.join(DATA_DIR, collection)
     if not os.path.isdir(data_path):
         return 0
     # Conta todos os .json recursivamente
-    total = 0
-    for root, dirs, files in os.walk(data_path):
-        for f in files:
-            if f.endswith(".json"):
-                total += 1
-    return total
+    return count_files_recursive(data_path, collection)
 
 
 def progress_bar(done, total, width=20):

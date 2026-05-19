@@ -7,7 +7,36 @@ OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 MODEL_NAME = "qwen2.5:32b"
 MAX_WORKERS = 3
 
+MAX_WORKERS = 3
+
 DOUBLE_PASS_REVIEW = True
+
+# === BUDGET LIMIT SCOPES ($300 USD) ===
+SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+ALLOWED_NT_BOOKS = {
+    "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
+    "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
+    "1Thessalonians", "2Thessalonians", "1Timothy", "2Timothy", "Titus", "Philemon", 
+    "Hebrews", "James", "1Peter", "2Peter", "1John", "2John", "3John", "Jude", "Revelation",
+    "1_Corinthians", "2_Corinthians", "1_Thessalonians", "2_Thessalonians", "1_Timothy", "2_Timothy", 
+    "1_Peter", "2_Peter", "1_John", "2_John", "3_John", 
+    "I Corinthians", "II Corinthians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy", 
+    "I Peter", "II Peter", "I John", "II John", "III John", "Revelation of John"
+}
+ALLOWED_LXX_BOOKS = {
+    "Isaiah", "Psalms", "1_Maccabees", "2_Maccabees", "3_Maccabees", "4_Maccabees", 
+    "Baruch", "Bel_and_Dragon", "Judith", "Odes", "Psalms_of_Solomon", "Sirach", 
+    "Susanna", "Tobit", "Wisdom_of_Solomon", "1_Esdras"
+}
+ALLOWED_GEEZ_BOOKS = {
+    "የማቴዎስ ወንጌል", "የማርቆስ ወንጌል", "የሉቃስ ወንጌል", "የዮሐንስ ወንጌል", "የሐዋርያት ሥራ", 
+    "ወደ ሮሜ ሰዎች", "1ኛ ወደ ቆሮንቶስ ሰዎች", "2ኛ ወደ ቆሮንቶስ ሰዎች", "ወደ ገላትያ ሰዎች", "ወደ ኤፌሶን ሰዎች", 
+    "ወደ ፊልጵስዩስ ሰዎች", "ወደ ቆላስይስ ሰዎች", "1ኛ ወደ ተሰሎንቄ ሰዎች", "2ኛ ወደ ተሰሎንቄ ሰዎች", 
+    "1ኛ ወደ ጢሞቴዎስ", "2ኛ ወደ ጢሞቴዎስ", "ወደ ቲቶ", "ወደ ፊልሞና", "ወደ ዕብራውያን", "የያዕቆብ መልእክት", 
+    "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
+    "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
+}
+# =======================================
 
 import re
 
@@ -275,6 +304,8 @@ def main():
 
         # --- CASO 1: Talmud ---
         if "Talmud" in parts:
+            if "Talmud" in SKIP_MANUSCRIPTS:
+                continue
             book = os.path.splitext(file)[0]
             source_language = language_map["Talmud"]
             
@@ -359,6 +390,8 @@ def main():
                 if isinstance(data, dict) and "books" in data:
                     for book_dict in data["books"]:
                         book_name = book_dict.get("name", "Unknown")
+                        if book_name not in ALLOWED_NT_BOOKS:
+                            continue
                         for ch_dict in book_dict.get("chapters", []):
                             ch_num = ch_dict.get("chapter", 1)
                             verses = ch_dict.get("verses", [])
@@ -394,6 +427,9 @@ def main():
                     book_title, ch_num = book_name.rsplit("_", 1)
                 else:
                     book_title, ch_num = book_name, "1"
+                    
+                if book_title not in ALLOWED_GEEZ_BOOKS:
+                    continue
                 
                 output_dir = "output/Geez"
                 output_file = f"{output_dir}/{book_title}_{ch_num}.json"
@@ -433,6 +469,13 @@ def main():
             translation = parts[1]
             book = parts[2]
             chapter_name = os.path.splitext(file)[0]
+
+            if translation in SKIP_MANUSCRIPTS:
+                continue
+            if translation == "LXX" and book not in ALLOWED_LXX_BOOKS:
+                continue
+            if translation == "BYZ" and book not in ALLOWED_NT_BOOKS:
+                continue
 
             source_language = language_map.get(translation, "Idiomas Originais")
             

@@ -4,7 +4,7 @@ check_sources.py — Verifica status dos manuscritos e materiais de estudo baixa
 """
 import os, json
 
-DATA_DIR = "/home/ubuntu/AI-BIBLE/data"
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 def check_json(path, label):
     if not os.path.exists(path):
@@ -12,7 +12,7 @@ def check_json(path, label):
         return
     size = os.path.getsize(path) / 1024
     try:
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             d = json.load(f)
         if isinstance(d, dict):
             keys = list(d.keys())[:4]
@@ -34,20 +34,20 @@ print("\n========================================")
 print("VERIFICAÇÃO DOS MANUSCRITOS POR IDIOMA")
 print("========================================")
 
-print("\n📜 ARAMAICO (Targum Onkelos):")
+print("\n[ARAMAICO] (Targum Onkelos):")
 for book in ["genesis","exodus","leviticus","numbers","deuteronomy"]:
     check_json(f"{DATA_DIR}/ancient_versions/targum_onkelos_{book}.json", f"Targum {book.capitalize()}")
 
-print("\n📖 SIRÍACO (Peshitta):")
+print("\n[SIRIACO] (Peshitta):")
 check_json(f"{DATA_DIR}/ancient_versions/peshitta_syriac.json", "Peshitta NT+AT completo")
 
-print("\n🔤 COPTA (Saídico):")
-check_json(f"{DATA_DIR}/ancient_versions/coptic_sahidic.json", "Copta Saídico completo")
+print("\n[COPTA] (Saidico):")
+check_json(f"{DATA_DIR}/ancient_versions/coptic_sahidic.json", "Copta Saidico completo")
 
-print("\n🏔️ ARMÊNIO ORIENTAL:")
-check_json(f"{DATA_DIR}/ancient_versions/armenian_eastern.json", "Armênio Oriental completo")
+print("\n[ARMENIO] ORIENTAL:")
+check_json(f"{DATA_DIR}/ancient_versions/armenian_eastern.json", "Armenio Oriental completo")
 
-print("\n🇪🇹 GE'EZ (Etiópico):")
+print("\n[GE'EZ] (Etiope):")
 geez_dir = f"{DATA_DIR}/ancient_versions/geez_extracted"
 if os.path.isdir(geez_dir):
     files = []
@@ -55,13 +55,18 @@ if os.path.isdir(geez_dir):
         for f in fs:
             files.append(os.path.join(root,f))
     print(f"  [INFO] Pasta geez_extracted/ presente com {len(files)} arquivos")
-    for f in files:
+    for f in files[:10]: # limit print to first 10 files
         sz = os.path.getsize(f)/1024
-        print(f"    {os.path.basename(f)} ({sz:.0f} KB)")
+        try:
+            print(f"    {os.path.basename(f)} ({sz:.0f} KB)")
+        except UnicodeEncodeError:
+            print(f"    [Ge'ez Book File] ({sz:.0f} KB)")
+    if len(files) > 10:
+        print(f"    ... and {len(files) - 10} more files.")
 else:
     print("  [FALTANDO] Ge'ez não encontrado!")
 
-print("\n📚 MATERIAIS DE ESTUDO:")
+print("\n[MATERIAIS DE ESTUDO]:")
 sm = f"{DATA_DIR}/study_materials"
 if os.path.isdir(sm):
     for root, dirs, files in os.walk(sm):
@@ -72,7 +77,7 @@ if os.path.isdir(sm):
 else:
     print("  [FALTANDO] Pasta study_materials não encontrada")
 
-print("\n📚 TALMUD (Sefaria):")
+print("\n[TALMUD] (Sefaria):")
 talmud_dir = f"{DATA_DIR}/Talmud"
 if os.path.isdir(talmud_dir):
     for f in sorted(os.listdir(talmud_dir)):

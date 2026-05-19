@@ -34,14 +34,16 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
    - Criado e implantado um portal estático premium (JAMstack) no raiz do repositório, hospedado gratuitamente via **GitHub Pages**.
    - O site exibe os textos em hebraico alinhados à direita (RTL em fonte *Cardo*) lado a lado com a tradução em português, carregando os dados dinamicamente dos JSONs à medida que a GPU faz o push, com barra de progresso live e busca inteligente integradas.
 
-## 📈 Status Atual da Tradução:
-- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu até **2 Samuel 2**!
-- **Total no GitHub**: **140+ capítulos** totalmente traduzidos e consolidados!
-- **ETA Estimado**: Reduzido para cerca de **~2 a 3 dias** graças à paralelização de 3 vias na GPU A10!
+## 📈 Status Atual da Tradução (Escopo Ajustado para Limite de Budget $300):
+- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu **1 Crônicas**, **1 Reis** e **1 Samuel**!
+- **Total do Escopo Prioritário**: **2.577 capítulos** alvo (Foco nos textos mais raros e no Novo Testamento devido à limitação de orçamento).
+- **Textos "Fora dos Recursos" (Pausados por Limite Orçamentário)**: WLC, Texto Crítico SBLGNT, Textus Receptus, Manuscritos do Mar Morto (ausência de transcrição hebraica confiável no momento), Vulgata Latina e Talmud Bavli.
+- **Custo Estimado Restante**: Apenas **~$130 USD** (Perfeitamente dentro da margem segura de $300 da Oracle).
+- **ETA Estimado**: **~3 dias e 12 horas** para concluir todos os textos prioritários!
 
 ## 🚧 Próximos Passos (Ações futuras):
-1. **Varredura Completa**: Deixar o tradutor concluir o Códice de Aleppo e prosseguir automaticamente para o Texto de Leningrado (WLC), Septuaginta (LXX), Manuscritos do Mar Morto (DSS) e Vulgata Latina.
-2. **Integração das Variantes Textuais**: Após a tradução de cada manuscrito, iniciar a geração dos relatórios de variantes críticas com base nos dicionários multilíngues.
+1. **Varredura Completa do Novo Escopo**: Deixar o tradutor concluir o Códice de Aleppo e prosseguir automaticamente para a Septuaginta (limitada aos deuterocanônicos, Isaias e Salmos), Ge'ez (Novo Testamento e deuterocanônicos específicos), Targum Onkelos, e as versões de Peshitta, Copta, Armênio e Bizantino (apenas o Novo Testamento).
+2. **Download dos Restantes do Ge'ez**: Baixar os textos em Ge'ez do Livro de Enoque e Jubileus para inclusão no fluxo.
 
 ---
 *Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
