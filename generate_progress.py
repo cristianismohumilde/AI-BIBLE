@@ -57,10 +57,33 @@ def count_data_files(collection):
     Para coleções com livros em sub-pastas (WLC, LXX, Aleppo etc.),
     percorre recursivamente. Para arquivos planos na pasta raiz, conta direto.
     """
+    if collection == "VUL":
+        if os.path.exists(os.path.join(DATA_DIR, "VUL", "vulgata_latina.txt")):
+            return 1189
+
+    # Mapeamento para as Versões Antigas em data/ancient_versions/
+    ancient_map = {
+        "Targum_Onkelos": "targum_onkelos_genesis",
+        "Peshitta_Syriac": "peshitta_syriac",
+        "Coptic_Sahidic": "coptic_sahidic",
+        "Armenian_Eastern": "armenian_eastern"
+    }
+
+    if collection in ancient_map:
+        subkey = ancient_map[collection]
+        av_path = os.path.join(DATA_DIR, "ancient_versions", subkey)
+        if os.path.isdir(av_path):
+            total = count_files_recursive(av_path)
+            return total if total > 0 else (1 if os.path.exists(av_path) else 0)
+        else:
+            candidates = [av_path + ".json", av_path]
+            found = any(os.path.exists(c) and os.path.getsize(c) > 512 for c in candidates)
+            if collection == "Targum_Onkelos":
+                av_dir = os.path.join(DATA_DIR, "ancient_versions")
+                return sum(1 for f in os.listdir(av_dir) if f.startswith("targum_onkelos") and f.endswith(".json")) if os.path.isdir(av_dir) else 0
+            return 1 if found else 0
+
     data_path = os.path.join(DATA_DIR, collection)
-    if collection == "VUL" and os.path.exists(os.path.join(data_path, "vulgata_latina.txt")):
-        return 1189
-        
     if not os.path.isdir(data_path):
         return 0
     # Conta todos os .json recursivamente
