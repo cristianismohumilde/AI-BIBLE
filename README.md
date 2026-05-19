@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-19 14:02 UTC**
+> **README gerado automaticamente em: 2026-05-19 14:54 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -13,13 +13,13 @@ com transliteração acadêmica incluída.
 
 | Métrica | Valor |
 |---|---|
-| Capítulos fonte disponíveis | **2,577** |
-| Capítulos traduzidos | **372** (14.4%) |
+| Capítulos fonte disponíveis | **2,613** |
+| Capítulos traduzidos | **446** (17.1%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$127 USD** |
-| ETA estimado de processamento | **~3d 12h** |
+| Custo estimado restante | **~$125 USD** |
+| ETA estimado de processamento | **~3d 11h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-19 14:02 UTC |
+| Última atualização | 2026-05-19 14:54 UTC |
 
 ---
 
@@ -27,7 +27,7 @@ com transliteração acadêmica incluída.
 
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 372 traduzidos | 🚀 Em andamento (40%) |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 446 traduzidos | 🚀 Em andamento (48%) |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 0 caps | 0 traduzidos | ⚙️ Aguardando download |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 0 caps | 0 traduzidos | ⚙️ Aguardando download *Reconstrução acadêmica* |
@@ -44,7 +44,7 @@ com transliteração acadêmica incluída.
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | 0 traduzidas | ❌ Pausado (Orçamento) |
 
 ---
@@ -76,16 +76,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
 
 ---
 
@@ -98,7 +98,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 372/2,577 caps (14.4%))
+### 🚀 Fase 2 — Tradução (Em andamento — 446/2,613 caps (17.1%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
