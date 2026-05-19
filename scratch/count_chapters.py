@@ -12,5 +12,14 @@ for f in files:
             books = data.get("books", [])
             total_chapters = sum(len(b.get("chapters", [])) for b in books)
             print(f"{f}: {len(books)} books, {total_chapters} chapters")
-    else:
-        print(f"{f} not found")
+
+targum_chapters = 0
+for f in sorted(os.listdir(data_dir)):
+    if f.startswith("targum_onkelos") and f.endswith(".json"):
+        fpath = os.path.join(data_dir, f)
+        with open(fpath, "r", encoding="utf-8") as file:
+            data = json.load(file)
+            chapters = data.get("text", [])
+            targum_chapters += len(chapters)
+            print(f"{f}: {len(chapters)} chapters")
+print(f"Total Targum: {targum_chapters} chapters")
