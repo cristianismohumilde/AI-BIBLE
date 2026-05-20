@@ -49,7 +49,8 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 
 1. **Septuaginta Selecionada** (Grego) — Apenas Isaías, Salmos e Deuterocanônicos
 2. **Ge'ez Selecionado** (Ge'ez Clássico Puro) — Deuterocanônicos + Novo Testamento. Fonte já localizada em `data/ancient_versions/geez_extracted/` (Ge'ez clássico genuíno; **não** Amárico).
-3. **Manuscritos do Mar Morto (DSS)** — Hebraico / Aramaico: **transcrições fiéis e morfológicas dos manuscritos e fragmentos** (ex.: 1Qisaa, 1QS, 1QM, 1QHa, 11Q19, CD) foram localizadas e baixadas para `data/DSS/` e `data/ancient_versions/` conforme descrito em `MANUSCRIPT_SOURCES.md`.  Observação operacional: até que uma verificação filológica completa valide essas transcrições, a pipeline continuará gerando traduções iniciais a partir das edições críticas em inglês (fallback), migrando para traduções diretas do hebraico/aramaico somente após revisão humana/automatizada das transcrições.
+3. **Manuscritos do Mar Morto (DSS)** — Hebraico / Aramaico: **transcrições fiéis e morfológicas dos manuscritos e fragmentos** (ex.: 1Qisaa, 1QS, 1QM, 1QHa, 11Q19, CD) foram localizadas e baixadas para `data/DSS/` e `data/ancient_versions/` conforme descrito em `MANUSCRIPT_SOURCES.md`.
+   * **Nota de Uso**: Estas transcrições **substituem completamente** o fallback anterior em inglês que vinha sendo usado (baixado da API do Sefaria). A pipeline agora pode produzir traduções diretamente a partir das transcrições hebraicas/aramáicas; recomenda-se, ainda assim, revisão filológica pós-processual para garantir integridade de formatos e normalizações antes de publicação final.
 4. **Targum Onkelos** (Aramaico) — Torá completa
 5. **Texto Bizantino NT** (Grego) — Apenas Novo Testamento
 6. **Peshitta Siríaca NT** (Siríaco) — Apenas Novo Testamento (verificar qualidade da fonte)

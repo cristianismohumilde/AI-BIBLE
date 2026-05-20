@@ -52,7 +52,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
         - Link: [yonatanlou/QumranDataset no Hugging Face](https://huggingface.co/datasets/yonatanlou/QumranDataset)
         - Arquivo principal: [dss_chunk_size_100_overlap_15.csv](https://huggingface.co/datasets/yonatanlou/QumranDataset/resolve/main/dss_chunk_size_100_overlap_15.csv)
 *   **Verificação de Qualidade**: **Excepcional (Grau Crítico/Acadêmico)**. Mantém a ortografia autêntica do Período do Segundo Templo (ex: `כיa` ao invés de `כי`, `לוא` ao invés de `לא`, `יעקוב` ao invés de `יעקב`), o que é fundamental para a exegese e para uma tradução sem filtros ou modernizações anacrônicas.
-*   **Nota de Uso**: Fornece transcrições diretas e morfológicas dos fragmentos; **não substitui automaticamente** o fallback anterior em inglês. Recomendamos comparar, validar e revisar as transcrições hebraicas/aramáicas antes de substituir o pipeline que atualmente usa edições críticas em inglês como fonte inicial de tradução.
+*   **Nota de Uso**: Substitui completamente o fallback anterior em inglês baixado da API do Sefaria (que estava em inglês devido ao Sefaria não hospedar a transcrição hebraica do DSS sob a licença pública).
 
 
 ### 1.2 REMOVIDO — Novo Testamento Etíope (Amárico Moderno)
