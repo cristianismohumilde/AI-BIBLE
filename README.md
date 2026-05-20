@@ -71,16 +71,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
 
 ---
 
@@ -103,6 +103,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 
 ### 🗺️ Fase 4 — Expansão Futura
 - Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
+- **4 Esdras (Vulgata)** — já baixado em `data/apocrypha/4_esdras_vulgate.json`
 - Mishná completa + comentários clássicos traduzidos
 - Interface web com busca e comparação lado a lado
 

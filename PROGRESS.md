@@ -36,6 +36,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Livro de Enoque** (Edição Crítica de R.H. Charles)
 - **Livro dos Jubileus** (Etiópico Clássico)
 - **Testamento dos Doze Patriarcas** (Grego Antigo)
+- **4 Esdras (Vulgata)** (já estruturado em JSON)
 - **Mishná: Berakhot** (Sefaria API)
 *(A Didaquê está programada para download)*
 

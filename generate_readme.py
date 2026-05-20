@@ -59,7 +59,7 @@ MANUSCRIPTS = [
     # (chave_data, chave_output, emoji, nome_display, idioma, nota)
     ("Aleppo",           "Aleppo",           "📜", "Códice de Aleppo",           "Hebraico Massorético Antigo",   ""),
     ("LXX",              "LXX",              "🏛️", "Septuaginta (LXX)",           "Grego Clássico",                ""),
-    ("DSS",              "DSS",              "🪨", "Manuscritos do Mar Morto",   "Hebraico/Aramaico Antigo",      "Reconstrução acadêmica"),
+    ("DSS",              "DSS",              "🪨", "Manuscritos do Mar Morto",   "Hebraico/Aramaico Antigo",      ""),
     ("BYZ",              "BYZ",              "✝️", "Texto Bizantino (BYZ)",       "Grego Koiné",                   ""),
 ]
 
@@ -418,6 +418,15 @@ com transliteração acadêmica incluída.
 |:---|:---|---:|---:|:---|
 {av_table}
 
+## 📚 Outros Textos — Fora do Orçamento Atual
+
+| Texto | Idioma | Fonte | Status |
+|:---|:---|---:|:---|
+| 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | 37 tratados | ❌ Sem orçamento |
+| 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 caps | ❌ Sem orçamento |
+| 🏛️ Textus Receptus (TR) | Grego Koiné | 260 caps | ❌ Sem orçamento |
+| 🔬 SBLGNT | Grego Koiné Crítico | 260 caps | ❌ Sem orçamento |
+
 ---
 
 ## 🎯 Pipeline de Tradução — 4 Passos Acadêmicos
@@ -466,6 +475,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 
 ### 🗺️ Fase 4 — Expansão Futura
 - Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
+- **4 Esdras (Vulgata)** — já baixado em `data/apocrypha/4_esdras_vulgate.json`
 - Mishná completa + comentários clássicos traduzidos
 - Interface web com busca e comparação lado a lado
 

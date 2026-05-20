@@ -206,6 +206,12 @@ def main():
             f"| {label} | {lang} | {data_count:,} | {out_count:,} | {bar} | {status} |"
         )
 
+    # Adicionar itens sem orçamento ao final da tabela para transparência completa
+    rows.append("| 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | — | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |")
+    rows.append("| 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |")
+    rows.append("| 🏛️ Textus Receptus (TR) | Grego Koiné | 260 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |")
+    rows.append("| 🔬 SBLGNT | Grego Koiné Crítico | 260 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |")
+
     overall_bar = progress_bar(total_output, total_data)
 
     # Estimativa de tempo restante (Nova velocidade com 3 workers concorrentes em GPU A10: 26 capítulos por hora)
@@ -249,6 +255,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Livro de Enoque** (Edição Crítica de R.H. Charles)
 - **Livro dos Jubileus** (Etiópico Clássico)
 - **Testamento dos Doze Patriarcas** (Grego Antigo)
+- **4 Esdras (Vulgata)** (já estruturado em JSON)
 - **Mishná: Berakhot** (Sefaria API)
 *(A Didaquê está programada para download)*
 
