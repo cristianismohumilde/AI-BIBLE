@@ -5,7 +5,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 > 📌 **Nota sobre Escopo Priorizado ($300 USD)**: De acordo com a sequência de tradução atualizada, apenas as seguintes coleções serão traduzidas no período de recursos disponíveis (após Aleppo):
 > 1. **Septuaginta** (Seleção: Isaías, Salmos, Deuterocanônicos)
 > 2. **Ge'ez** (Seleção: Deuterocanônicos + Novo Testamento em Ge'ez Puro)
-> 3. **Manuscritos do Mar Morto** (Tradução apenas do inglês)
+> 3. **Manuscritos do Mar Morto** (Tradução direta do original em Hebraico/Aramaico de Qumran)
 > 4. **Targum Onkelos**, **Texto Bizantino NT**, **Peshitta NT**, **Copta NT**, **Armênio NT**
 > 
 > Textos pausados até novo orçamento: Leningrado (WLC), Textus Receptus, SBLGNT, Vulgata Latina, Talmud Bavli.
@@ -42,6 +42,18 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Fonte**: [Repository Dead Sea Scrolls - enchantedcostumes-debug](https://github.com/enchantedcostumes-debug/dead-sea-scrolls)
 *   **Link de Download**: [enoch_geez_text.json](https://raw.githubusercontent.com/enchantedcostumes-debug/dead-sea-scrolls/master/data/enoch_geez_text.json)
 *   **Verificação de Qualidade**: **Excelente (Grau Museológico)**. Apresenta o caractere litúrgico clássico de dois pontos verticais (`፡`) para separação de palavras antigos.
+
+### 1.1b Manuscritos do Mar Morto (DSS) — *Hebraico e Aramaico Antigo de Qumran (Original)*
+*   **Descrição**: Transcrições fiéis e morfológicas diretas dos manuscritos e fragmentos originais em Hebraico e Aramaico de Qumran (incluindo o Grande Rolo de Isaías `1Qisaa`, a Regra da Comunidade `1QS`, o Rolo da Guerra `1QM`, os Hinos de Ação de Graças `1QHa`, o Rolo do Templo `11Q19`, o Documento de Damasco `CD`, etc.).
+*   **Fontes Principais**:
+    *   **ETCBC/dss Repository**: Banco de dados morfológico oficial baseado nas transcrições fundamentais de *Martin Abegg*, mantido pelo *Eep Talstra Centre for Bible and Computer* no GitHub.
+        - Link: [ETCBC/dss no GitHub](https://github.com/ETCBC/dss)
+    *   **yonatanlou/QumranDataset (Hugging Face)**: Versão estruturada e consolidada de altíssima qualidade do corpus de Qumran contendo todas as transcrições limpas em hebraico/aramaico em formato CSV simples, ideal para uso e integração imediata.
+        - Link: [yonatanlou/QumranDataset no Hugging Face](https://huggingface.co/datasets/yonatanlou/QumranDataset)
+        - Arquivo principal: [dss_chunk_size_100_overlap_15.csv](https://huggingface.co/datasets/yonatanlou/QumranDataset/resolve/main/dss_chunk_size_100_overlap_15.csv)
+*   **Verificação de Qualidade**: **Excepcional (Grau Crítico/Acadêmico)**. Mantém a ortografia autêntica do Período do Segundo Templo (ex: `כיa` ao invés de `כי`, `לוא` ao invés de `לא`, `יעקוב` ao invés de `יעקב`), o que é fundamental para a exegese e para uma tradução sem filtros ou modernizações anacrônicas.
+*   **Nota de Uso**: Substitui completamente o fallback anterior em inglês baixado da API do Sefaria (que estava em inglês devido ao Sefaria não hospedar a transcrição hebraica do DSS sob a licença pública).
+
 
 ### 1.2 Novo Testamento Etíope — *Amárico Moderno (Haile Selassie 1954)*
 *   **Descrição**: O texto litúrgico contemporâneo do Novo Testamento usado pela Igreja Ortodoxa Tewahedo da Etiópia.

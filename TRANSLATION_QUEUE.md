@@ -6,7 +6,7 @@ Este arquivo lista a ordem priorizada de tradução e o status atual das fontes 
 |---:|---|---|---|
 | 1 | Septuaginta (LXX) — Isaías, Salmos, Deuterocanônicos | Present | [data/LXX](data/LXX)
 | 2 | Ge'ez (Ge'ez clássico) — Deuterocanônicos + NT | Present | [data/ancient_versions/geez_extracted](data/ancient_versions/geez_extracted)
-| 3 | Manuscritos do Mar Morto (DSS) — tradução do inglês | Present (verificar cobertura) | [data/DSS](data/DSS)
+| 3 | Manuscritos do Mar Morto (DSS) — tradução direta do original (Hebraico/Aramaico) | Present (verificar cobertura) | [data/DSS](data/DSS)
 | 4 | Targum Onkelos (Torá) | Present | [data/ancient_versions/targum_onkelos_genesis.json](data/ancient_versions/targum_onkelos_genesis.json)
 | 5 | Texto Bizantino (BYZ) — NT | Present | [data/BYZ](data/BYZ)
 | 6 | Peshitta Siríaca — NT | Present | [data/ancient_versions/peshitta_syriac.json](data/ancient_versions/peshitta_syriac.json)
