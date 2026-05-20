@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-20 20:03 UTC**
+> **README gerado automaticamente em: 2026-05-20 20:08 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,768** |
-| Capítulos traduzidos | **1,330** (35.3%) |
+| Capítulos traduzidos | **1,333** (35.4%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$140 USD** |
 | ETA estimado de processamento | **~3d 21h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-20 20:03 UTC |
+| Última atualização | 2026-05-20 20:08 UTC |
 
 ---
 
@@ -40,7 +40,7 @@ com transliteração acadêmica incluída.
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
-| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 13 traduzidos | 🚀 Em andamento (4%) |
+| 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 16 traduzidos | 🚀 Em andamento (5%) |
 
 ## 📚 Outros Textos — Fora do Orçamento Atual
 
@@ -102,7 +102,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 1,330/3,768 caps (35.3%))
+### 🚀 Fase 2 — Tradução (Em andamento — 1,333/3,768 caps (35.4%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
