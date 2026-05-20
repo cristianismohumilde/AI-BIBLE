@@ -41,7 +41,7 @@ O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a pr
 | Copiar Versículo | ✅ | Clique em qualquer versículo copia original + português para a área de transferência |
 | Estado "Na Fila" | ✅ | Capítulos ainda não traduzidos exibem cartão elegante explicando que a GPU está processando |
 | SEO e Open Graph | ✅ | Meta description, og:title, og:description e theme-color implementados |
-| Suporte a Manuscritos | ✅ | Aleppo, WLC, DSS, LXX (+apócrifos), SBLGNT, TR, BYZ |
+| Suporte a Manuscritos | ✅ | Aleppo, DSS, LXX (+apócrifos), BYZ, Ge'ez, Copta, Armênio, Peshitta, Targum |
 | Hospedagem Gratuita | ✅ | GitHub Pages — 100% gratuito, CDN global, zero servidores |
 
 ### Atualizações recentes (implementadas no `index.html`)
@@ -68,7 +68,7 @@ O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a pr
 
 #### 2. Gaveta de Exegese (Exegesis Drawer)
 - Clique em qualquer versículo → painel lateral desliza da direita mostrando:
-  - **Crítica Textual**: comparação do versículo entre Aleppo, WLC e DSS lado a lado
+  - **Crítica Textual**: comparação do versículo entre Aleppo e DSS lado a lado
   - **Comentários Clássicos** traduzidos por IA (Rashi, Ramban, Matthew Henry)
   - **Referências Cruzadas** (do arquivo `cross_references.tsv`)
 
