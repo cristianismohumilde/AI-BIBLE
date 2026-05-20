@@ -779,6 +779,7 @@
                 <select id="select-manuscript" aria-label="Selecione o manuscrito bíblico fonte">
                     <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
                     <option value="LXX">Septuaginta (LXX - Grego)</option>
+                    <option value="DSS">Manuscritos do Mar Morto (DSS)</option>
                     <option value="Geez">Ge'ez (Etiópico)</option>
                     <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
                     <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
@@ -1004,13 +1005,16 @@
         const BIBLE_STRUCTURE = {
             "Aleppo": TANAKH_STRUCTURE,
             "LXX": LXX_STRUCTURE,
+            "DSS": {
+                "Isaiah": 66, "Habakkuk": 3
+            },
             "BYZ": NT_STRUCTURE,
             "Geez": GEEZ_STRUCTURE,
             "Coptic_Sahidic": NT_STRUCTURE,
             "Armenian_Eastern": NT_STRUCTURE,
             "Peshitta_Syriac": NT_STRUCTURE,
             "Targum_Onkelos": {
-                "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36, "Deuteronomy": 34
+                "Genesis": 50
             }
         };
 
@@ -1613,6 +1617,8 @@
                 langName = "Armênio Oriental";
             } else if (manuscript === "Peshitta_Syriac") {
                 langName = "Siríaco Clássico";
+            } else if (manuscript === "DSS") {
+                langName = "Hebraico / Aramaico Antigo";
             } else if (manuscript === "Targum_Onkelos") {
                 langName = "Aramaico Antigo";
             } else if (manuscript === "Talmud") {
