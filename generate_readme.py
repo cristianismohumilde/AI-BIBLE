@@ -138,8 +138,16 @@ def count_json_recursive(path):
             if f.endswith(".json"):
                 parts_f = os.path.normpath(os.path.join(root, f)).split(os.sep)
                 if len(parts_f) >= 3:
-                    book = parts_f[-2] if not parts_f[-2] == collection_name else parts_f[-1].replace('.json', '')
-                    if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
+                    # Se o arquivo estiver em output/<COLLECTION>/Livro_cap.json (estrutura plana),
+                    # extrai o nome do livro antes do '_' para comparação com ALLOWED_* sets.
+                    if parts_f[-2] == collection_name:
+                        book = parts_f[-1].replace('.json', '')
+                        if "_" in book:
+                            book = book.rsplit("_", 1)[0]
+                    else:
+                        book = parts_f[-2]
+                    if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS:
+                        continue
                     if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
                 total += 1
     return total
