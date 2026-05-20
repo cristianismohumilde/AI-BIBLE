@@ -16,21 +16,33 @@
     <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
     <style>
-        /* Design Tokens & Variáveis (Aesthetics Premium Obsidian) */
+        /* ============================================================
+         * DESIGN TOKENS — Modo Escuro (padrão: Obsidian Premium)
+         * ============================================================ */
         :root {
             --bg-obsidian: #0b0f19;
             --bg-card: rgba(19, 26, 44, 0.7);
             --bg-card-hover: rgba(26, 36, 60, 0.9);
+            --bg-header: rgba(11, 15, 25, 0.85);
+            --bg-footer: rgba(11, 15, 25, 0.95);
+            --bg-input: rgba(11, 15, 25, 0.6);
+            --bg-aurora: rgba(20, 184, 166, 0.08);
+
             --border-glow: rgba(20, 184, 166, 0.15);
             --border-glow-active: rgba(251, 191, 36, 0.4);
-            
+            --border-divider: rgba(255, 255, 255, 0.05);
+
             --color-teal: #14b8a6;
             --color-emerald: #10b981;
             --color-gold: #fbbf24;
             --color-text-primary: #f3f4f6;
             --color-text-secondary: #9ca3af;
             --color-text-muted: #6b7280;
-            
+
+            --shadow-card-hover: 0 4px 20px rgba(0, 0, 0, 0.25);
+            --shadow-logo: 0 0 20px rgba(20, 184, 166, 0.3);
+            --progress-track-bg: rgba(255, 255, 255, 0.05);
+
             --font-display: 'Outfit', sans-serif;
             --font-body: 'Inter', sans-serif;
             --font-hebrew: 'Cardo', serif;
@@ -42,16 +54,43 @@
             color-scheme: dark;
         }
 
-        /* Modo Claro */
+        /* ============================================================
+         * DESIGN TOKENS — Modo Claro (Parchment Light)
+         * Paleta inspirada em pergaminho e manuscritos iluminados:
+         * fundo creme suave, acentos teal/esmeralda preservados,
+         * texto dourado mais escuro para contraste adequado (WCAG AA).
+         * ============================================================ */
         body.light-mode {
-            --bg-obsidian: #f9fafb;
-            --bg-card: rgba(243, 244, 246, 0.8);
-            --bg-card-hover: rgba(229, 231, 235, 0.9);
-            --border-glow: rgba(20, 184, 166, 0.2);
-            --border-glow-active: rgba(251, 191, 36, 0.5);
-            --color-text-primary: #111827;
-            --color-text-secondary: #4b5563;
-            --color-text-muted: #9ca3af;
+            /* Fundos: creme suave em vez de branco puro — menos cansativo */
+            --bg-obsidian: #f5f0e8;
+            --bg-card: rgba(255, 252, 245, 0.92);
+            --bg-card-hover: rgba(255, 248, 235, 0.98);
+            --bg-header: rgba(250, 246, 238, 0.92);
+            --bg-footer: rgba(245, 240, 232, 0.98);
+            --bg-input: rgba(255, 252, 245, 0.9);
+            --bg-aurora: rgba(20, 184, 166, 0.06);
+
+            /* Bordas: teal mais visível no fundo claro */
+            --border-glow: rgba(20, 184, 166, 0.3);
+            --border-glow-active: rgba(180, 120, 0, 0.45);
+            --border-divider: rgba(0, 0, 0, 0.07);
+
+            /* Cores de acento: teal e esmeralda ligeiramente mais escuros para contraste */
+            --color-teal: #0d9488;
+            --color-emerald: #059669;
+            /* Dourado mais escuro para texto legível em fundo claro (WCAG AA) */
+            --color-gold: #92650a;
+
+            /* Texto */
+            --color-text-primary: #1c1917;
+            --color-text-secondary: #44403c;
+            --color-text-muted: #78716c;
+
+            /* Sombras mais suaves no modo claro */
+            --shadow-card-hover: 0 4px 20px rgba(0, 0, 0, 0.08);
+            --shadow-logo: 0 0 16px rgba(13, 148, 136, 0.25);
+            --progress-track-bg: rgba(0, 0, 0, 0.07);
+
             color-scheme: light;
         }
 
@@ -71,7 +110,7 @@
             flex-direction: column;
         }
 
-        /* Fundo com efeito gradiente Aurora */
+        /* Fundo com efeito gradiente Aurora — intensidade ajustada por tema */
         body::before {
             content: '';
             position: absolute;
@@ -80,13 +119,13 @@
             transform: translateX(-50%);
             width: 80%;
             height: 600px;
-            background: radial-gradient(circle, rgba(20, 184, 166, 0.08) 0%, rgba(16, 185, 129, 0.03) 50%, rgba(11, 15, 25, 0) 100%);
+            background: radial-gradient(circle, var(--bg-aurora) 0%, rgba(16, 185, 129, 0.02) 50%, transparent 100%);
             z-index: -1;
             pointer-events: none;
         }
 
         header {
-            background: rgba(11, 15, 25, 0.8);
+            background: var(--bg-header);
             backdrop-filter: blur(12px);
             -webkit-backdrop-filter: blur(12px);
             border-bottom: 1px solid var(--border-glow);
@@ -116,15 +155,16 @@
             font-family: var(--font-display);
             font-weight: 800;
             font-size: 1.25rem;
-            color: var(--bg-obsidian);
-            box-shadow: 0 0 20px rgba(20, 184, 166, 0.3);
+            color: #fff;
+            box-shadow: var(--shadow-logo);
         }
 
         .logo-text h1 {
             font-family: var(--font-display);
             font-size: 1.25rem;
             font-weight: 700;
-            background: linear-gradient(to right, #ffffff, #d1d5db);
+            /* Gradiente adaptado por tema via JS (classe light-mode no body) */
+            background: linear-gradient(to right, var(--color-text-primary), var(--color-text-secondary));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -224,8 +264,9 @@
             font-weight: 600;
         }
 
+        /* Selects — fundo usa variável para adaptar ao tema */
         .control-group select {
-            background: rgba(11, 15, 25, 0.6);
+            background: var(--bg-input);
             border: 1px solid var(--border-glow);
             color: var(--color-text-primary);
             padding: 0.75rem;
@@ -242,9 +283,9 @@
             box-shadow: 0 0 10px rgba(20, 184, 166, 0.15);
         }
 
-        /* Campo de Busca */
+        /* Campo de Busca — fundo usa variável para adaptar ao tema */
         .search-input {
-            background: rgba(11, 15, 25, 0.6);
+            background: var(--bg-input);
             border: 1px solid var(--border-glow);
             color: var(--color-text-primary);
             padding: 0.75rem 1rem 0.75rem 2.5rem;
@@ -305,10 +346,11 @@
             font-family: var(--font-display);
             font-size: 1rem;
         }
+        /* Trilha da barra de progresso — usa variável para adaptar ao tema */
         .progress-track {
             width: 100%;
             height: 6px;
-            background: rgba(255,255,255,0.05);
+            background: var(--progress-track-bg);
             border-radius: 9999px;
             overflow: hidden;
         }
@@ -328,11 +370,12 @@
             gap: 1.5rem;
         }
 
+        /* Divisor do cabeçalho do capítulo — usa variável para adaptar ao tema */
         .chapter-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid var(--border-divider);
             padding-bottom: 1rem;
         }
 
@@ -373,7 +416,7 @@
             background: var(--bg-card-hover);
             border-color: var(--border-glow-active);
             transform: translateY(-2px);
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            box-shadow: var(--shadow-card-hover);
         }
 
         .verse-num {
@@ -621,7 +664,7 @@
             text-align: center;
             color: var(--color-text-muted);
             font-size: 0.85rem;
-            background: rgba(11, 15, 25, 0.9);
+            background: var(--bg-footer);
             margin-top: auto;
         }
 
@@ -1200,11 +1243,25 @@
 
         /**
          * SEÇÃO 2.8: SISTEMA DE TEMA ESCURO/CLARO
-         * Armazena preferência em localStorage
+         * Paleta escura: Obsidian Premium (#0b0f19)
+         * Paleta clara: Parchment Light (#f5f0e8) — inspirada em pergaminho
+         * Preferência persistida em localStorage ("scripturaAI_theme": "light"|"dark")
+         * Fallback: respeita prefers-color-scheme do sistema operacional
+         * Meta theme-color atualizada dinamicamente para browsers mobile
          */
 
         /**
-         * Carrega preferência de tema do localStorage ou sistema
+         * Aplica a cor correta ao meta theme-color (barra do browser mobile)
+         * @param {boolean} isLight - true para modo claro, false para escuro
+         */
+        function applyMetaThemeColor(isLight) {
+            const metaTheme = document.querySelector('meta[name="theme-color"]');
+            if (metaTheme) metaTheme.content = isLight ? "#f5f0e8" : "#0b0f19";
+        }
+
+        /**
+         * Carrega preferência de tema do localStorage ou do sistema operacional
+         * e aplica na inicialização (antes do primeiro render visível).
          */
         function loadThemePreference() {
             try {
@@ -1212,29 +1269,35 @@
                 if (saved === "light") {
                     document.body.classList.add("light-mode");
                     THEME_TOGGLE.textContent = "☀️";
+                    applyMetaThemeColor(true);
                 } else if (saved === "dark") {
                     document.body.classList.remove("light-mode");
                     THEME_TOGGLE.textContent = "🌙";
+                    applyMetaThemeColor(false);
                 } else {
-                    // Respeita preferência do sistema operacional
+                    // Nenhuma preferência salva — respeita prefers-color-scheme do sistema
                     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
                     if (!prefersDark) {
                         document.body.classList.add("light-mode");
                         THEME_TOGGLE.textContent = "☀️";
+                        applyMetaThemeColor(true);
                     }
                 }
             } catch (e) {
-                // Silencioso
+                // Silencioso — localStorage pode estar indisponível
             }
         }
 
         /**
-         * Toggle entre modo escuro e claro
+         * Alterna entre modo escuro e claro, persiste a preferência
+         * e atualiza o meta theme-color para o browser mobile.
          */
         function toggleTheme() {
             const isLightMode = document.body.classList.toggle("light-mode");
             const theme = isLightMode ? "light" : "dark";
             THEME_TOGGLE.textContent = isLightMode ? "☀️" : "🌙";
+            // Atualiza a meta theme-color para a barra do browser mobile
+            applyMetaThemeColor(isLightMode);
             try {
                 localStorage.setItem("scripturaAI_theme", theme);
             } catch (e) {
