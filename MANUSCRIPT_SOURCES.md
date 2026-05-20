@@ -55,12 +55,11 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Nota de Uso**: Substitui completamente o fallback anterior em inglês baixado da API do Sefaria (que estava em inglês devido ao Sefaria não hospedar a transcrição hebraica do DSS sob a licença pública).
 
 
-### 1.2 Novo Testamento Etíope — *Amárico Moderno (Haile Selassie 1954)*
-*   **Descrição**: O texto litúrgico contemporâneo do Novo Testamento usado pela Igreja Ortodoxa Tewahedo da Etiópia.
-*   **Fonte**: [Repository Ethiopic Bible Data - biniama](https://github.com/biniama/ethiopic-bible-data)
-*   **Link de Download**: [biniama/ethiopic-bible-data/data/new-testament/](https://github.com/biniama/ethiopic-bible-data/tree/main/data/new-testament)
-*   **Verificação de Qualidade**: **Alta Equivalência Exegética** (em Amárico Moderno). Embora escrito em Amárico Moderno (língua viva), representa com precisão a recepção teológica da tradição ortodoxa etíope.
-*   **⚠️ Nota para Priorização**: Esta fonte está em Amárico, não em Ge'ez Clássico puro. Para conformidade com a seleção priorizada que exige Ge'ez genuíno, buscar fontes alternativas em Ge'ez Clássico.
+### 1.2 REMOVIDO — Novo Testamento Etíope (Amárico Moderno)
+
+*   **Status**: REMOVIDO do conjunto de fontes a serem utilizadas neste projeto. Não iremos utilizar o Novo Testamento em Amárico Moderno (Haile Selassie 1954).
+*   **Motivo**: Exige-se **Ge'ez Clássico** puro para a sequência priorizada de traduções; o material em Amárico moderno não atende ao critério filológico definido.
+*   **Observação**: Eventuais scripts de verificação ou utilitários que mencionem repositórios alternativos (ex.: `biniama/ethiopic-bible-data`) foram mantidos como referência, mas **não** serão usados para geração de traduções.
 
 ### 1.2b Novo Testamento em Ge'ez Clássico Puro — *Disponível no repositório*
 *   **Descrição**: Versão do Novo Testamento em Ge'ez Clássico genuíno, distinto do Amárico moderno.
