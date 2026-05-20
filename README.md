@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-20 02:45 UTC**
+> **README gerado automaticamente em: 2026-05-20 02:50 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **4,990** |
-| Capítulos traduzidos | **822** (16.5%) |
+| Capítulos traduzidos | **826** (16.6%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$240 USD** |
 | ETA estimado de processamento | **~6d 16h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-20 02:45 UTC |
+| Última atualização | 2026-05-20 02:50 UTC |
 
 ---
 
@@ -27,7 +27,7 @@ com transliteração acadêmica incluída.
 
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
-| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 822 traduzidos | 🚀 Em andamento (89%) |
+| 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 826 traduzidos | 🚀 Em andamento (89%) |
 | 📜 Texto de Leningrado (WLC) | Hebraico Massorético | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 422 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
@@ -98,7 +98,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 822/4,990 caps (16.5%))
+### 🚀 Fase 2 — Tradução (Em andamento — 826/4,990 caps (16.6%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
