@@ -3699,4 +3699,9 @@ Iniciando varredura de manuscritos para tradução...
    -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!✅ [LXX] Tobit 9 traduzido e salvo!
 
 🚀 [LXX] Traduzindo Tobit 10 (Grego Antigo (Septuaginta))...
-   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!Erro ao conectar com o Ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)
+Erro ao conectar com o Ollama para revisão: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)
+   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!   -> Versículo 11 concluído!   -> Versículo 12 concluído!   -> Versículo 13 concluído!   -> Versículo 14 concluído!✅ [LXX] Tobit 10 traduzido e salvo!
+
+🚀 [LXX] Traduzindo Tobit 11 (Grego Antigo (Septuaginta))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!   -> Versículo 11 concluído!   -> Versículo 12 concluído!   -> Versículo 13 concluído!   -> Versículo 14 concluído!   -> Versículo 15 concluído!
