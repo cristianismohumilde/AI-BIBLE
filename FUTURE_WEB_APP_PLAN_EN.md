@@ -51,8 +51,6 @@ Clicking on any verse slides open a detailed right-hand panel showing:
 
 > Note on 5-minute polling: The periodic fetch for `PROGRESS.md` is intentionally set to 5 minutes and synchronized with the GPU pipeline (Frankfurt) and the VM autopush routine. We do not recommend switching to WebSocket/SSE at this stage to avoid interfering with the translation pipeline.
 
-> Pending item: **Evaluation of the Aleppo Codex source** — we still need a filological check and documentation of the exact Aleppo edition/source quality (good / poor / lacunae). This should be added to `MANUSCRIPT_SOURCES.md`.
-
 ## 💻 Serverless Static Architecture (JAMstack)
 
 To guarantee instant page load speeds (<10ms), absolute security against hacking, and zero hosting fees, the project will implement the following modern stack:
@@ -85,4 +83,3 @@ To enable advanced AI-based searches by concept (e.g., "connection between Abrah
 * **Resilient Fallback Mechanism**: The site combines the best of both worlds. By default, it queries the free Pinecone database for semantic search. If the user is offline or the third-party API is unreachable, the search bar automatically falls back to the fully local, offline **Pagefind** index, guaranteeing 100% uptime in any scenario.
 
 ---
-*Signed: Antigravity (Your AI Coding Assistant)*

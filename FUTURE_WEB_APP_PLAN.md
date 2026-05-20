@@ -55,8 +55,6 @@ O site deve entregar um impacto visual extraordinário (*Wow Factor*) desde a pr
 
 > Nota sobre o polling de 5 minutos: O polling periódico para `PROGRESS.md` está intencionalmente definido para 5 minutos e está sincronizado com o pipeline da GPU (Frankfurt) e a rotina de autopush da VM. Não recomendamos migrar para WebSocket/SSE por enquanto, para evitar sobrecarga e preservar o ciclo de tradução existente.
 
-> Observação pendente: **Avaliação da fonte do Códice Aleppo** — ainda é necessário documentar a qualidade exata da edição/fonte que estamos usando (bom / ruim / lacunas). Recomendamos uma verificação filológica da fonte Aleppo para anexar ao `MANUSCRIPT_SOURCES.md`.
-
 ---
 
 ### 🚀 Fase 2 — Próximas Implementações
@@ -116,4 +114,3 @@ graph TD
 * **Client-Side Embeddings + Pinecone Free Tier**: o dispositivo do usuário gera o vetor ($0 de API) → Pinecone retorna resultados semânticos em <10ms ($0 de banco) → fallback automático para Pagefind se offline.
 
 ---
-*Assinado com orgulho: Antigravity (Sua IA de programação parceira)*
