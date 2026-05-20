@@ -33,8 +33,8 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 
 ### 1.0b Deuterocanônicos ortodoxos já presentes / confirmados
 * **3 Macabeus** e **4 Macabeus** já existem em `data/LXX/3_Maccabees/` e `data/LXX/4_Maccabees/`.
-* **Salmo 151** já está presente em `data/LXX/Psalms/151.json`.
-* **Oração de Manassés** foi confirmada como texto disponível via Sefaria (`https://www.sefaria.org/api/texts/Prayer_of_Manasseh`).
+* **Salmo 151** já está presente em `data/LXX/Psalms/151.json` — [Link de Download Sefaria API](https://www.sefaria.org/api/texts/Psalm_151?context=0).
+* **Oração de Manassés** foi confirmada como texto disponível via Sefaria — [Link de Download Sefaria API](https://www.sefaria.org/api/texts/Prayer_of_Manasseh?context=0).
 * **4 Esdras** já tem uma fonte latina pública localizada na Vulgata.org (`https://vulgate.org/ot/4esdras_1.htm` até `https://vulgate.org/ot/4esdras_16.htm`); o fallback público em inglês do Gutenberg permanece apenas para comparação.
 
 ### 1.1 Livro de Enoque (1 Enoch) — *Ge'ez Clássico (Etiópico Antigo)*
@@ -53,6 +53,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 ### 1.2b Novo Testamento em Ge'ez Clássico Puro — *Disponível no repositório*
 *   **Descrição**: Versão do Novo Testamento em Ge'ez Clássico genuíno, distinto do Amárico moderno.
 *   **Fonte**: extração já presente em `data/ancient_versions/geez_extracted/`, com livros e capítulos em Ge'ez (script etíope), incluindo Mateus, Marcos, Lucas, João e o restante do NT.
+*   **Link de Download da Fonte Primária**: [Geez.zip (Scrollmapper)](https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources_backup/gez/Geez/Geez.zip)
 *   **Validação rápida**: o arquivo de amostra `Mateus 1` foi conferido e contém texto em Ge'ez clássico, não em Amárico.
 *   **Status**: ✅ *Fonte localizada e pronta para uso na sequência priorizada*.
 
@@ -85,6 +86,17 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Link de Download**: [ArmEastern.json](https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/json/ArmEastern.json)
 *   **Verificação de Qualidade**: **Excelente**. Ideal para verificar a recepção patrística oriental dos manuscritos.
 
+### 1.7 Apócrifos, Pseudepígrafos e Textos Históricos (Fase 4)
+*   **Descrição**: Textos históricos e apócrifos adicionados para estudo exegético e histórico profundo.
+*   **Links de Download**:
+    *   **Livro de Enoque (Tradução em Inglês por R.H. Charles)**: [Project Gutenberg](https://www.gutenberg.org/cache/epub/43125/pg43125.txt)
+    *   **Livro dos Jubileus**: [Archive.org PDF](https://archive.org/download/bookofjubileesor00char/bookofjubileesor00char.pdf)
+    *   **Testamento dos Doze Patriarcas**: [Archive.org PDF](https://archive.org/download/testamentsoftwel00char/testamentsoftwel00char.pdf)
+    *   **Didaquê (O Ensino dos Doze)**: [Archive.org PDF](https://archive.org/download/didachetexttrans00alle/didachetexttrans00alle.pdf)
+    *   **Mishná (Tratado Berakhot - Sefaria API)**: [Sefaria API](https://www.sefaria.org/api/texts/Mishnah_Berakhot.1?context=0)
+    *   **3/4 Macabeus + 4 Esdras (Charles Vol. II)**: [Archive.org Text](https://archive.org/stream/apocryphapseudep02char/apocryphapseudep02char_djvu.txt)
+    *   **4 Esdras (Fallback Gutenberg)**: [Project Gutenberg](https://www.gutenberg.org/cache/epub/2435/pg2435.txt)
+
 ---
 
 ## 2. Textos Críticos e Tradicionais (Novo Testamento Grego)
@@ -98,7 +110,7 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 ### 2.2 BYZ (Texto Bizantino / Majoritário)
 *   **Descrição**: Texto que reflete a vasta maioria dos manuscritos gregos sobreviventes.
 *   **Fonte**: [Bolls.life Bible API](https://bolls.life)
-*   **Link de Download**: `https://bolls.life/get-text/BYZP/{Book}/{Chapter}/`
+*   **Link de Download**: `https://bolls.life/get-text/BYZP/{Book}/{Chapter}/` (Alternativo: `BYZ`)
 *   **Verificação de Qualidade**: **Excelente**. Essencial para análise comparativa em crítica textual.
 
 ---
@@ -118,6 +130,13 @@ Este documento fornece as fontes digitais oficiais, o histórico de download e a
 *   **Strong's Hebrew Lexicon**: [strongs-hebrew-dictionary.json](https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.json) (OpenScriptures)
 *   **Strong's Greek Lexicon**: [strongs-greek-dictionary.json](https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.json) (OpenScriptures)
 *   **Brown-Driver-Briggs (BDB) Hebrew Lexicon**: [BrownDriverBriggs.xml](https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/BrownDriverBriggs.xml)
+*   **Abbott-Smith Greek Lexicon**: [AS.csv](https://raw.githubusercontent.com/translatable-exegetical-tools/Abbott-Smith/master/AS.csv)
+*   **SEDRA Syriac Lexicon Roots**: [ROOTS.TXT](https://raw.githubusercontent.com/peshitta/sedra-parse/master/sedra/ROOTS.TXT)
+*   **SEDRA Syriac Lexicon Lexemes**: [LEXEMES.TXT](https://raw.githubusercontent.com/peshitta/sedra-parse/master/sedra/LEXEMES.TXT)
+*   **SEDRA Syriac Lexicon Words**: [WORDS.TXT](https://raw.githubusercontent.com/peshitta/sedra-parse/master/sedra/WORDS.TXT)
 *   **Gramática de Gesenius (Hebraico)**: [gesenius_hebrew_grammar.txt](https://www.gutenberg.org/files/17029/17029-0.txt) (Project Gutenberg)
+*   **Gramática de Gesenius (Hebraico - Link Extra)**: [gesenius_hebrew_grammar_ext.txt](https://www.gutenberg.org/files/17337/17337-0.txt) (Project Gutenberg)
 *   **Gramática de Robertson (Grego)**: [robertson_greek_grammar.txt](https://www.gutenberg.org/files/44606/44606-0.txt) (Project Gutenberg)
+*   **Bible Treasury**: [bible_treasury.txt](https://www.gutenberg.org/files/8437/8437.txt) (Project Gutenberg)
 *   **Dicionário de Jastrow (Aramaico)**: [jastrow_sefaria.json](https://raw.githubusercontent.com/sefaria/Sefaria-Data/master/sources/Jastrow/jastrow_dict.json) (Sefaria Data)
+*   **Cruzamento de Referências Bíblicas (Cross References - OpenBible)**: [cross-references.zip](https://a.openbible.info/data/cross-references.zip)
