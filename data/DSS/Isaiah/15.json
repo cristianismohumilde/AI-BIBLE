@@ -13,7 +13,17 @@
     "<span class=\"poetry indentAll\">Ah, the cry has compassed</span><br><span class=\"poetry indentAll\">The country of Moab:</span><br><span class=\"poetry indentAll\">All the way to Eglaim her wailing,</span><br><span class=\"poetry indentAll\">Even at Beer-elim her wailing!</span>",
     "<span class=\"poetry indentAll\">Ah, the waters of Dimon are full of blood</span><sup class=\"footnote-marker\">c</sup><i class=\"footnote\"><b>blood </b>Emendation yields “tears.”</i> <br><span class=\"poetry indentAll\">For I pour added [water] on Dimon;</span><br><span class=\"poetry indentAll\">I drench</span><sup class=\"footnote-marker\">d</sup><i class=\"footnote\"><b>drench </b>Cf. 16.9.</i> it—for Moab’s refugees—<br><span class=\"poetry indentAll\">With soil</span><sup class=\"footnote-marker\">e</sup><i class=\"footnote\"><b>soil </b>Emendation yields “tears”; cf. Ugaritic <i>ʼdmʻt</i>.</i> for its remnant."
   ],
-  "he": [],
+  "he": [
+    "משא מואב כי בלילה שודד עיר מואב ונדמה כי בלילה שודד עיר מואב נדמה",
+    "עלה הבית ודיבון הבאמות לבכי על נבו ועל מידבה מואב יליל בכול ראושו קרחה וכל זקן גרועה",
+    "בחוצותיה חגורו שק על גגותיה וברחובתיה כלה יהיליל וירד בבכי",
+    "ותזעק חשבון ואלעלה עד יהצ נשמע קולם על כן חלצי מואב יריעו נפשו ירע לו",
+    "לבי למואב יזעק ברחוה עד צעור עגלת שלישיה כי מעלה הלוחות בבכי יעלה בו כי דרך חורונים זעקת שברי ערו כי",
+    "מי נמרים משמות יהיו כי יבש חציר כלה דשא ירק לא היה",
+    "על כן יתרה עשה ופקדתם על נחל הערבים ישאום",
+    "ערבי תישאום כי הקיפה הזעקה את גבול מואב עד אגלים יללתה ובאר אילים יללתה",
+    "כי מי דימון מלאו דם כי אשית על דימון נוספות לפליטת מואב אריה ולשארית אדמה"
+  ],
   "versions": [
     {
       "status": "locked",

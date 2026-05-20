@@ -21,7 +21,25 @@
     "<span class=\"poetry indentAll\">My beloved is mine</span><br><span class=\"poetry indentAll\">And I am his</span><br><span class=\"poetry indentAll\">Who browses among the lilies.</span>",
     "<span class=\"poetry indentAll\">When the day blows gently<sup class=\"footnote-marker\">d</sup><i class=\"footnote\"><b>blows gently </b>Emendation yields “declines”; cf. <a class=\"refLink\" data-ref=\"Jeremiah 6:4\" href=\"Jeremiah.6.4\">Jer. 6.4</a>.</i> </span><br><span class=\"poetry indentAll\">And the shadows flee,<sup class=\"footnote-marker\">e</sup><i class=\"footnote\"><b>flee </b>Septuagint reads “lengthen”; cf. <a class=\"refLink\" data-ref=\"Jeremiah 6:4\" href=\"Jeremiah.6.4\">Jer. 6.4</a>.</i> </span><br><span class=\"poetry indentAll\">Set out, my beloved,</span><br><span class=\"poetry indentAll\">Swift as a gazelle</span><br><span class=\"poetry indentAll\">Or a young stag,</span><br><span class=\"poetry indentAll\">For the hills of spices!<sup class=\"footnote-marker\">f</sup><i class=\"footnote\"><b>spices </b>Heb. <i>bather</i>, of uncertain meaning; <a class=\"refLink\" data-ref=\"Song of Songs 8:14\" href=\"Song_of_Songs.8.14\">8.14</a> reads <i>besamim</i> “spices.”</i> </span>"
   ],
-  "he": [],
+  "he": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "אחר כתלנו משגיח מן החלנות מציץ",
+    "מן החרכים ענה דודי ואמר לי קומי לך רעיתי יפתי ולכי לך",
+    "כי הנה הסתו עבר הגשם חלף הלך לו",
+    "הנה עת הנצנים נראו בארץ עת הזמיר הגיע וקל התור נשמע בארצנו",
+    "הנה התנאה חנטה פגיה והגפנים סמדר נתנו ריח קומי לך רעיתי יפתי ולכי לך",
+    "יונתי בחגוי הסלע בסתר המדלגה הראני את מראיך השמעיני את שמעך כי קלך ערב ומראיך נאוה",
+    "אחזו לנו שועלים קטנים מחבלים כרמים וכרמינו סמדר",
+    "דודי לי ואני לו הרועה בשושנים",
+    "עד שיפוח היום ונסו הטללים סוב דמה לך דודי לצבי על הררי בתר"
+  ],
   "versions": [
     {
       "status": "locked",

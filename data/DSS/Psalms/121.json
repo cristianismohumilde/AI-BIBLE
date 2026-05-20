@@ -12,7 +12,16 @@
     "<span class=\"poetry indentAll\">G<small>OD</small> will guard you from all harm,</span><br><span class=\"poetry indentAllDouble\">and will guard your life.</span>",
     "<span class=\"poetry indentAll\">G<small>OD</small> will guard your going and coming</span><br><span class=\"poetry indentAllDouble\">now and forever.</span>"
   ],
-  "he": [],
+  "he": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "השמש לוא יככה וירח בלילה",
+    "יהוה ישומרכה מכול רע ישמור את נפשכה ישמור",
+    "צאתכה ובואכה מעתה"
+  ],
   "versions": [
     {
       "status": "locked",

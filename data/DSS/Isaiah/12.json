@@ -10,7 +10,14 @@
     "<span class=\"poetry indentAll\">Hymn </span> G<small>OD</small>,<br><span class=\"poetry indentAll\">Who has done gloriously;</span><br><span class=\"poetry indentAll\">Let this be made known</span><br><span class=\"poetry indentAll\">In all the world!</span>",
     "<span class=\"poetry indentAll\">Oh, shout for joy,</span><br><span class=\"poetry indentAll\">You who dwell in Zion!</span><br><span class=\"poetry indentAll\">For great in your midst</span><br><span class=\"poetry indentAll\">Is the Holy One of Israel.”</span><br>"
   ],
-  "he": [],
+  "he": [
+    "ואמרת ביום ההוא אודך יהוה כי אנפת בי ישב אפכה ותנחמני",
+    "הנה אל אל ישועתי אבטח ולוא אפחד כיא עוזי וזמרתיה יהוה היהא לי לישועה",
+    "ושאבתמה מים בששון ממעיני הישועה",
+    "ואמרתם ביום ההוא הודו ליהוה קראו בשמו הודיעו בעמים עלילתיו הזכירו כי נשגב שמו",
+    "בעמים הזכירו כי נשגב שמו זמרו יהוה כי גאות עשה מודעת זאת",
+    "בכול הארץ צהלי ורני בת יושבת ציון כיא גדול בקרבך קדוש ישראל"
+  ],
   "versions": [
     {
       "status": "locked",

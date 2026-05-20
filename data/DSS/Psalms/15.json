@@ -9,7 +9,13 @@
     "<span class=\"poetry indentAllDouble\">for whom someone contemptible is abhorrent,</span><br><span class=\"poetry indentAllDouble\">but who honors those who fear G<small>OD</small>;</span><br><span class=\"poetry indentAllDouble\">who keeps an oath even when it hurts;</span>",
     "<span class=\"poetry indentAllDouble\">who has never lent money at interest,</span><br><span class=\"poetry indentAllDouble\">or accepted a bribe against the innocent.</span><br><span class=\"poetry indentAll\">One who acts thus shall never be shaken.</span>"
   ],
-  "he": [],
+  "he": [
+    "יגור באהלך מי ישכן בהר קדשך",
+    "הולך תמים ופעל צדק ודבר אמת בלבבו",
+    "לא עשה לרעהו רעה וחרפה לא נשא על קרבו נבזה בעיניו נמאס ואת יראי יהוה יכבד נשבע להרע ולא ימר כספו לא נתן בנשך",
+    "",
+    ""
+  ],
   "versions": [
     {
       "status": "locked",

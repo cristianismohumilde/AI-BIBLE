@@ -9,7 +9,13 @@
     "<span class=\"poetry indentAll\">Like arrows in the hand of a warrior</span><br><span class=\"poetry indentAllDouble\">are sons born to a man in his youth.</span>",
     "<span class=\"poetry indentAll\">Happy is the man who fills his quiver with them;</span><br><span class=\"poetry indentAllDouble\">they shall not be put to shame</span><br><span class=\"poetry indentAllDouble\">when they contend with the enemy in the gate.</span>"
   ],
-  "he": [],
+  "he": [
+    "לא יבנה בית שוא עמלו בוניו בו אם יהוה לא ישמר עיר שוא שקד שומר",
+    "שוא לכם משכימי קום מאחרי שבת אכלי לחם העצבים כן יתן לידידו שנא",
+    "הנה נחלת יהוה בנים שכר פרי הבטן",
+    "כחצים ביד גבור כן בני הנעורים",
+    "אשרי הגבר אשר מלא את אשפתו מהם"
+  ],
   "versions": [
     {
       "status": "locked",

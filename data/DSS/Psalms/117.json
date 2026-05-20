@@ -6,7 +6,10 @@
     "<span class=\"poetry indentAll\">Praise G<small>OD</small>, all you nations;</span><br><span class=\"poetry indentAllDouble\">extol [God], all you peoples,</span>",
     "<span class=\"poetry indentAllDouble\">for great is this steadfast love toward us;</span><br><span class=\"poetry indentAllDouble\"> G<small>OD</small>’s faithfulness endures forever.</span><br><span class=\"poetry indentAllDouble\">Hallelujah.</span>"
   ],
-  "he": [],
+  "he": [
+    "",
+    "גבורי כח עשי דבריו לשמע בקול דבריו ברכו יהוה כל צבאיו משרתיו עשי רצונו זרח בחשך אור לישרים חנון ורחום וצדיק טוב איש חונן ומלוה הללויה"
+  ],
   "versions": [
     {
       "status": "locked",
