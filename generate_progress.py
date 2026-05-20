@@ -16,7 +16,7 @@ DATA_DIR = "data"
 OUTPUT_DIR = "output"
 
 # === BUDGET LIMIT SCOPES ($300 USD) ===
-SKIP_MANUSCRIPTS = {"WLC", "DSS", "SBLGNT", "TR", "Talmud", "VUL"}
+SKIP_MANUSCRIPTS = {"WLC", "SBLGNT", "TR", "Talmud", "VUL"}
 ALLOWED_NT_BOOKS = {
     "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
     "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
@@ -44,18 +44,13 @@ ALLOWED_GEEZ_BOOKS = {
 
 COLLECTION_LABELS = {
     "Aleppo":          ("📜 Códice de Aleppo",          "Hebraico Massorético Antigo"),
-    "WLC":             ("📜 Texto de Leningrado (WLC)",  "Hebraico Massorético"),
     "LXX":             ("🏛️ Septuaginta (LXX)",          "Grego Clássico"),
     "DSS":             ("🪨 Manuscritos do Mar Morto",   "Hebraico/Aramaico Antigo"),
-    "TR":              ("✝️ Textus Receptus (TR)",        "Grego Koiné"),
     "BYZ":             ("✝️ Texto Bizantino (BYZ)",       "Grego Koiné"),
-    "SBLGNT":          ("✝️ Texto Crítico (SBLGNT)",      "Grego Koiné"),
-    "VUL":             ("🏛️ Vulgata Latina",              "Latim"),
     "Targum_Onkelos":  ("📜 Targum Onkelos",             "Aramaico Antigo"),
     "Peshitta_Syriac": ("📖 Peshitta Siríaca",           "Siríaco Clássico"),
     "Coptic_Sahidic":  ("🔤 Versão Copta Saídica",       "Copta Saídico"),
     "Armenian_Eastern":("🏔️ Versão Armênia Oriental",    "Armênio Clássico"),
-    "Talmud":          ("📚 Talmud Bavli",               "Hebraico Mishnaico / Aramaico"),
     "Geez":            ("🇪🇹 Versão Ge'ez (Etíope)",      "Ge'ez (Etíope Clássico)"),
 }
 
@@ -73,6 +68,8 @@ def count_files_recursive(directory, collection_name=None):
                 parts = os.path.normpath(os.path.join(root, f)).split(os.sep)
                 if len(parts) >= 3:
                     book = parts[-2] if not parts[-2] == collection_name else parts[-1].replace('.json', '')
+                    if "_" in book and collection_name in ["BYZ", "SBLGNT", "Geez"]:
+                        book = book.rsplit("_", 1)[0]
                     if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
                     if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
                 count += 1

@@ -26,7 +26,7 @@ SKIP_MANUSCRIPTS = {"Talmud"}
 
 # Manuscritos que estão baixados mas com tradução pausada por orçamento
 # Usados para exibir contagem real de caps sem mostrar "Aguardando download"
-DOWNLOADED_BUT_PAUSED = {"WLC", "DSS", "SBLGNT", "TR", "BYZ", "VUL"}
+DOWNLOADED_BUT_PAUSED = {"WLC", "SBLGNT", "TR", "VUL"}
 ALLOWED_NT_BOOKS = {
     "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
     "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
@@ -58,13 +58,9 @@ ALLOWED_GEEZ_BOOKS = {
 MANUSCRIPTS = [
     # (chave_data, chave_output, emoji, nome_display, idioma, nota)
     ("Aleppo",           "Aleppo",           "📜", "Códice de Aleppo",           "Hebraico Massorético Antigo",   ""),
-    ("WLC",              "WLC",              "📜", "Texto de Leningrado (WLC)",  "Hebraico Massorético",          ""),
     ("LXX",              "LXX",              "🏛️", "Septuaginta (LXX)",           "Grego Clássico",                ""),
     ("DSS",              "DSS",              "🪨", "Manuscritos do Mar Morto",   "Hebraico/Aramaico Antigo",      "Reconstrução acadêmica"),
-    ("TR",               "TR",               "✝️", "Textus Receptus (TR)",        "Grego Koiné",                   ""),
     ("BYZ",              "BYZ",              "✝️", "Texto Bizantino (BYZ)",       "Grego Koiné",                   ""),
-    ("SBLGNT",           "SBLGNT",           "✝️", "Texto Crítico (SBLGNT)",      "Grego Koiné",                   ""),
-    ("VUL",              "VUL",              "🏛️", "Vulgata Latina",              "Latim",                         ""),
 ]
 
 ANCIENT_VERSIONS = [
@@ -270,31 +266,7 @@ def build_ancient_table():
     return rows
 
 def build_talmud_row():
-    import json
-    data_path = os.path.join(DATA_DIR, "Talmud")
-    d = 0
-    if "Talmud" in SKIP_MANUSCRIPTS:
-        o = count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
-        status = status_icon(0, o)
-        return f"| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | 0 páginas | {o:,} traduzidas | ❌ Pausado (Orçamento) |"
-        
-    if os.path.isdir(data_path):
-        for f in os.listdir(data_path):
-            if f.endswith(".json"):
-                try:
-                    with open(os.path.join(data_path, f), "r", encoding="utf-8") as file:
-                        data = json.load(file)
-                        pages = data.get("text", [])
-                        valid_pages = sum(1 for p in pages if p and isinstance(p, list) and len(p) > 0)
-                        d += valid_pages
-                except Exception:
-                    pass
-        if d == 0:
-            d = 36
-    
-    o = count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
-    status = status_icon(d, o)
-    return f"| 📚 Talmud Bavli | Hebraico Mishnaico / Aramaico | {d:,} páginas | {o:,} traduzidas | {status} |"
+    return ""
 
 def build_study_materials_table():
     rows = []
@@ -335,26 +307,8 @@ def calc_totals():
         total_d += count_json_recursive(os.path.join(DATA_DIR, key_d))
         total_o += count_json_recursive(os.path.join(OUTPUT_DIR, key_o))
         
-    # 2. Talmud
-    data_path = os.path.join(DATA_DIR, "Talmud")
+    # 2. Talmud (Removido do cálculo para não poluir os totais reais)
     talmud_pages = 0
-    if os.path.isdir(data_path):
-        for f in os.listdir(data_path):
-            if f.endswith(".json"):
-                try:
-                    with open(os.path.join(data_path, f), "r", encoding="utf-8") as file:
-                        data = json.load(file)
-                        pages = data.get("text", [])
-                        valid_pages = sum(1 for p in pages if p and isinstance(p, list) and len(p) > 0)
-                        talmud_pages += valid_pages
-                except Exception:
-                    pass
-        if "Talmud" in SKIP_MANUSCRIPTS:
-            talmud_pages = 0
-        elif talmud_pages == 0:
-            talmud_pages = 36
-    total_d += talmud_pages
-    total_o += count_json_flat(os.path.join(OUTPUT_DIR, "Talmud"))
     
     # 3. Versões Antigas
     for subkey, key_o, emoji, name, lang in ANCIENT_VERSIONS:
@@ -463,7 +417,6 @@ com transliteração acadêmica incluída.
 | Texto | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 {av_table}
-{talmud_r}
 
 ---
 
