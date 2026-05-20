@@ -29,7 +29,7 @@ com transliteração acadêmica incluída.
 |:---|:---|---:|---:|:---|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 242 traduzidos | 🚀 Em andamento (62%) |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
@@ -41,6 +41,15 @@ com transliteração acadêmica incluída.
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ⏳ Aguardando tradução |
+
+## 📚 Outros Textos — Fora do Orçamento Atual
+
+| Texto | Idioma | Fonte | Status |
+|:---|:---|---:|:---|
+| 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | 37 tratados | ❌ Sem orçamento |
+| 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 caps | ❌ Sem orçamento |
+| 🏛️ Textus Receptus (TR) | Grego Koiné | 260 caps | ❌ Sem orçamento |
+| 🔬 SBLGNT | Grego Koiné Crítico | 260 caps | ❌ Sem orçamento |
 
 ---
 

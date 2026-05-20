@@ -28,6 +28,10 @@
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🇪🇹 Versão Ge'ez (Etíope) | Ge'ez (Etíope Clássico) | 296 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | — | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
+| 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
+| 🏛️ Textus Receptus (TR) | Grego Koiné | 260 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
+| 🔬 SBLGNT | Grego Koiné Crítico | 260 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
 
 ---
 
