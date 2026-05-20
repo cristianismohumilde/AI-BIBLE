@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-20 15:31 UTC**
+> **README gerado automaticamente em: 2026-05-20 15:36 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,768** |
-| Capítulos traduzidos | **1,192** (31.6%) |
+| Capítulos traduzidos | **1,197** (31.8%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$148 USD** |
-| ETA estimado de processamento | **~4d 3h** |
+| ETA estimado de processamento | **~4d 2h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-20 15:31 UTC |
+| Última atualização | 2026-05-20 15:36 UTC |
 
 ---
 
@@ -28,8 +28,8 @@ com transliteração acadêmica incluída.
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 264 traduzidos | 🚀 Em andamento (68%) |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 269 traduzidos | 🚀 Em andamento (69%) |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
@@ -41,15 +41,6 @@ com transliteração acadêmica incluída.
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 0 traduzidos | ⏳ Aguardando tradução |
-
-## 📚 Outros Textos — Fora do Orçamento Atual
-
-| Texto | Idioma | Fonte | Status |
-|:---|:---|---:|:---|
-| 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | 37 tratados | ❌ Sem orçamento |
-| 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 caps | ❌ Sem orçamento |
-| 🏛️ Textus Receptus (TR) | Grego Koiné | 260 caps | ❌ Sem orçamento |
-| 🔬 SBLGNT | Grego Koiné Crítico | 260 caps | ❌ Sem orçamento |
 
 ---
 
@@ -102,7 +93,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 1,192/3,768 caps (31.6%))
+### 🚀 Fase 2 — Tradução (Em andamento — 1,197/3,768 caps (31.8%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
