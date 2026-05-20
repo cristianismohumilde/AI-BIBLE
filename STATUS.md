@@ -39,7 +39,7 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 ## 📈 Status Atual da Tradução (Escopo Ajustado para Limite de Budget $300):
 - **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu **1 Crônicas**, **1 Reis** e **1 Samuel**!
 - **Total do Escopo Prioritário**: **2.577 capítulos** alvo (Foco nos textos mais raros e no Novo Testamento devido à limitação de orçamento).
-- **Textos "Fora dos Recursos" (Pausados por Limite Orçamentário)**: WLC, Texto Crítico SBLGNT, Textus Receptus, Manuscritos do Mar Morto (ausência de transcrição hebraica confiável no momento), Vulgata Latina e Talmud Bavli.
+- **Textos "Fora dos Recursos" (Pausados por Limite Orçamentário)**: WLC, Texto Crítico SBLGNT, Textus Receptus, Vulgata Latina e Talmud Bavli.
 - **Custo Estimado Restante**: Apenas **~$130 USD** (Perfeitamente dentro da margem segura de $300 da Oracle).
 - **ETA Estimado**: **~3 dias e 12 horas** para concluir todos os textos prioritários!
 
@@ -48,8 +48,8 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
 **Após conclusão do Códice de Aleppo**, o tradutor prosseguirá automaticamente nesta ordem:
 
 1. **Septuaginta Selecionada** (Grego) — Apenas Isaías, Salmos e Deuterocanônicos
-2. **Ge'ez Selecionado** (Ge'ez Clássico Puro) — Deuterocanônicos + Novo Testamento (procurar em Ge'ez genuíno, não Amárico)
-3. **Manuscritos do Mar Morto** (Hebraico/Aramaico) — Tradução apenas do inglês (não há transcrição hebraica confiável)
+2. **Ge'ez Selecionado** (Ge'ez Clássico Puro) — Deuterocanônicos + Novo Testamento. Fonte já localizada em `data/ancient_versions/geez_extracted/` (Ge'ez clássico genuíno; **não** Amárico).
+3. **Manuscritos do Mar Morto (DSS)** — Hebraico / Aramaico: **transcrições fiéis e morfológicas dos manuscritos e fragmentos** (ex.: 1Qisaa, 1QS, 1QM, 1QHa, 11Q19, CD) foram localizadas e baixadas para `data/DSS/` e `data/ancient_versions/` conforme descrito em `MANUSCRIPT_SOURCES.md`.  Observação operacional: até que uma verificação filológica completa valide essas transcrições, a pipeline continuará gerando traduções iniciais a partir das edições críticas em inglês (fallback), migrando para traduções diretas do hebraico/aramaico somente após revisão humana/automatizada das transcrições.
 4. **Targum Onkelos** (Aramaico) — Torá completa
 5. **Texto Bizantino NT** (Grego) — Apenas Novo Testamento
 6. **Peshitta Siríaca NT** (Siríaco) — Apenas Novo Testamento (verificar qualidade da fonte)
