@@ -100,6 +100,7 @@
             padding: 0;
         }
 
+        /* Layout base — flex coluna para o footer sempre ficar no rodapé */
         body {
             background-color: var(--bg-obsidian);
             color: var(--color-text-primary);
@@ -124,6 +125,7 @@
             pointer-events: none;
         }
 
+        /* Header fixo no topo com glassmorphism (backdrop-filter blur) */
         header {
             background: var(--bg-header);
             backdrop-filter: blur(12px);
@@ -144,6 +146,7 @@
             gap: 0.75rem;
         }
 
+        /* Ícone "S" do logo — gradiente teal→esmeralda, texto sempre branco para contraste */
         .logo-icon {
             width: 40px;
             height: 40px;
@@ -177,6 +180,7 @@
             text-transform: uppercase;
         }
 
+        /* Indicador "GPU Frankfurt Ativa" — pill verde com borda sutil */
         .live-status {
             display: flex;
             align-items: center;
@@ -213,6 +217,7 @@
             transform: scale(1.05);
         }
 
+        /* Ponto verde pulsante ao lado do status da GPU */
         .pulse-dot {
             width: 8px;
             height: 8px;
@@ -227,6 +232,7 @@
             100% { transform: scale(0.9); opacity: 0.6; }
         }
 
+        /* Área principal — centralizada, largura máxima 1600px, gap entre seções */
         main {
             flex: 1;
             display: flex;
@@ -256,6 +262,7 @@
             gap: 0.5rem;
         }
 
+        /* Labels dos selects — uppercase pequeno, estilo de formulário acadêmico */
         .control-group label {
             font-size: 0.75rem;
             text-transform: uppercase;
@@ -314,6 +321,7 @@
             font-size: 0.9rem;
         }
         .verse-card.hidden { display: none; }
+        /* Highlight de busca — fundo dourado translúcido sobre o texto encontrado */
         mark {
             background: rgba(251, 191, 36, 0.25);
             color: var(--color-gold);
@@ -354,6 +362,7 @@
             border-radius: 9999px;
             overflow: hidden;
         }
+        /* Linha de preenchimento da barra de progresso — animação suave de 1.2s */
         .progress-fill {
             height: 100%;
             background: linear-gradient(to right, var(--color-teal), var(--color-emerald));
@@ -379,6 +388,7 @@
             padding-bottom: 1rem;
         }
 
+        /* Título e subtítulo do capítulo atual */
         .chapter-title h2 {
             font-family: var(--font-display);
             font-size: 2rem;
@@ -399,6 +409,8 @@
             gap: 1rem;
         }
 
+        /* Card de versículo — grid 2 colunas: tradução PT-BR | texto original RTL
+         * cursor: pointer indica que o clique copia o versículo para o clipboard */
         .verse-card {
             background: var(--bg-card);
             border: 1px solid var(--border-glow);
@@ -410,6 +422,7 @@
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
+            cursor: pointer;
         }
 
         .verse-card:hover {
@@ -419,6 +432,7 @@
             box-shadow: var(--shadow-card-hover);
         }
 
+        /* Número do versículo — badge absoluto no canto superior esquerdo do card */
         .verse-num {
             position: absolute;
             top: 1rem;
@@ -432,6 +446,7 @@
             font-family: var(--font-display);
         }
 
+        /* Coluna do texto original — direção RTL para Hebraico/Aramaico/Siríaco */
         .text-original-container {
             border-left: 2px dashed rgba(20, 184, 166, 0.2);
             padding-left: 1.5rem;
@@ -441,6 +456,7 @@
             direction: rtl; /* Alinhamento Hebraico da direita para a esquerda */
         }
 
+        /* Texto original — fonte Cardo (serif acadêmica), dourado, tamanho generoso para diacríticos */
         .text-original {
             font-family: var(--font-hebrew);
             font-size: 1.65rem;
@@ -450,6 +466,7 @@
             word-spacing: 4px;
         }
 
+        /* Coluna da tradução PT-BR — padding-left extra para não sobrepor o badge do versículo */
         .text-translation-container {
             padding-right: 1.5rem;
             padding-left: 2rem; /* Espaço para o número do versículo */
@@ -472,6 +489,7 @@
             gap: 0.75rem;
         }
 
+        /* Botões ← → de navegação entre capítulos */
         .nav-btn {
             background: rgba(20, 184, 166, 0.08);
             border: 1px solid var(--border-glow);
@@ -495,6 +513,7 @@
             cursor: not-allowed;
         }
 
+        /* Badge "X versículos" ou "X resultados" exibido ao lado dos botões de nav */
         .verse-count-badge {
             background: rgba(251, 191, 36, 0.08);
             border: 1px solid rgba(251, 191, 36, 0.2);
@@ -518,6 +537,7 @@
             color: var(--color-text-secondary);
         }
 
+        /* Anel giratório do spinner — borda teal no topo, resto translúcido */
         .spinner-ring {
             width: 44px;
             height: 44px;
@@ -544,6 +564,7 @@
             backdrop-filter: blur(8px);
         }
 
+        /* Ícone flutuante do estado vazio — animação sutil de levitação */
         .empty-icon {
             font-size: 3rem;
             color: var(--color-text-muted);
@@ -584,6 +605,7 @@
             backdrop-filter: blur(8px);
             font-family: var(--font-body);
         }
+        /* SVG de aviso dentro do banner de tradução pendente */
         .pending-translation-banner svg {
             width: 20px;
             height: 20px;
@@ -606,7 +628,7 @@
             font-family: var(--font-display);
         }
 
-        /* Ponto Pulsante */
+        /* Ponto dourado pulsante dentro do badge de tradução pendente */
         .pulse-dot-gold {
             width: 8px;
             height: 8px;
@@ -632,10 +654,8 @@
             }
         }
 
-        /* Tooltip de cópia */
-        .verse-card {
-            cursor: pointer;
-        }
+        /* Toast de confirmação de cópia — aparece no rodapé centralizado por 2s
+         * Cor do texto sempre #0b0f19 (escuro) pois o fundo teal é sempre o mesmo nos dois temas */
         .copy-toast {
             position: fixed;
             bottom: 2rem;
@@ -678,7 +698,11 @@
             text-decoration: underline;
         }
 
-        /* Responsividade para Telas Menores */
+        /* ============================================================
+         * RESPONSIVIDADE — Telas menores que 768px (mobile/tablet)
+         * Cards passam para coluna única, paddings reduzidos,
+         * separador do original muda de borda-esquerda para borda-inferior
+         * ============================================================ */
         @media (max-width: 768px) {
             .verse-card {
                 grid-template-columns: 1fr;
@@ -847,7 +871,7 @@
          * 3. Exibição interlinear: Texto Original (RTL) ↔ Tradução PT-BR
          * 4. Busca rápida dentro do capítulo com highlighting
          * 5. Navegação via setas do teclado ou botões (← →)
-         * 6. Cópia de versículos em 2 clicks com toast de confirmação
+         * 6. Cópia de versículos em 1 clique com toast de confirmação
          * 7. Monitoramento de progresso da GPU (atualização a cada 5 min)
          * 8. Estados de carregamento: Spinner, Empty State, Pending Badge
          * 
