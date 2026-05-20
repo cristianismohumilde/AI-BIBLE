@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-20 15:05 UTC**
+> **README gerado automaticamente em: 2026-05-20 15:06 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,768** |
-| Capítulos traduzidos | **1,170** (31.1%) |
+| Capítulos traduzidos | **1,175** (31.2%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$149 USD** |
 | ETA estimado de processamento | **~4d 3h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-20 15:05 UTC |
+| Última atualização | 2026-05-20 15:06 UTC |
 
 ---
 
@@ -28,7 +28,7 @@ com transliteração acadêmica incluída.
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 242 traduzidos | 🚀 Em andamento (62%) |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 247 traduzidos | 🚀 Em andamento (63%) |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 
@@ -71,16 +71,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
 
 ---
 
@@ -93,7 +93,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 1,170/3,768 caps (31.1%))
+### 🚀 Fase 2 — Tradução (Em andamento — 1,175/3,768 caps (31.2%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
