@@ -88,13 +88,22 @@ def clean_translation_response(text):
         
     return cleaned_text.strip()
 
-def translate_text(text, source_language, target_language="Português"):
+def translate_text(text, source_language, target_language="Português", book=None, chapter=None, verse=None):
     lxx_instruction = ""
+    context_intro = ""
+    if book and chapter and verse:
+        clean_book = str(book).replace('_', ' ')
+        context_intro = f"Este texto pertence ao livro '{clean_book}', capítulo '{chapter}', versículo '{verse}'.\n"
+
     if "septuaginta" in source_language.lower() or "lxx" in source_language.lower():
         lxx_instruction = (
-            "ATENÇÃO FILOLÓGICA: O texto grego pode estar lematizado (com verbos no infinitivo ou presente da 1ª pessoa do singular do dicionário, e substantivos na forma nominativa padrão). "
-            "NÃO faça uma tradução mecânica ou literal desses termos lematizados. Use sua memória teológica e filológica profunda da Septuaginta (LXX/Rahlfs) para reconstruir mentalmente o significado original do versículo em grego flexionado (histórico). "
-            "Traduza os verbos com base em seu real sentido conjugado no contexto do relato histórico (geralmente na 3ª pessoa do pretérito, ex: 'aconteceu', 'sacrificaram', 'celebraram' em vez de 'sou', 'ofereço', 'levo'). "
+            f"O texto fornecido pertence ao livro '{str(book).replace('_', ' ')}', capítulo '{chapter}', versículo '{verse}' da Septuaginta (LXX).\n"
+            "ATENÇÃO FILOLÓGICA CRÍTICA:\n"
+            "1. O texto grego está totalmente lematizado (com verbos no infinitivo ou presente da 1ª pessoa do singular do dicionário, e substantivos na forma nominativa padrão).\n"
+            "2. NÃO faça uma tradução mecânica ou literal desses lemas! Use seu conhecimento teológico e filológico avançado da Septuaginta (LXX/Rahlfs) para identificar qual é o versículo real correspondente a esta referência histórica.\n"
+            "3. Traduza os nomes próprios e termos corretamente de acordo com a narrativa bíblica padrão (ex: 'ιωσίας' é o rei Josias, não 'Jesus' nem 'Josué'; 'χελκιας' é Helquias, não 'Caolho'; 'ραούμος' é Rathumus/Reum, não 'Antíoco'; 'σαμσαῖος' é Semellius/Samsai, não 'Simão').\n"
+            "4. Conjugue os verbos corretamente no tempo narrativo histórico correspondente (geralmente no pretérito perfeito/imperfeito do indicativo na 3ª pessoa, ex: 'Josias celebrou a Páscoa', 'sacrificaram', 'ergueram', em vez de verbos na primeira pessoa como 'levo', 'ofereço').\n"
+            "5. Certifique-se de que os números de animais e valores sejam traduzidos com exatidão matemática (ex: 'δισχίλιοι ἑξακόσιοι' é 2.600, não 260; 'τριακόσιοι' é 300, não 30; 'τρὶς χίλιοι' ou 'τρισχίλιοι' é 3.000, não 300).\n"
         )
     elif "targum" in source_language.lower():
         lxx_instruction = (
@@ -114,8 +123,9 @@ def translate_text(text, source_language, target_language="Português"):
 
     prompt = (
         f"Traduza o seguinte texto antigo ({source_language}) para o {target_language} "
-        f"com extrema precisão teológica, rigor exegético e beleza literária. "
-        f"{lxx_instruction}"
+        f"com extrema precisão teológica, rigor exegético e beleza literária.\n\n"
+        f"{context_intro}"
+        f"{lxx_instruction}\n"
         f"Importante: Forneça APENAS o texto final traduzido em português. NÃO adicione introduções, explicações, notas de rodapé, notas de tradutor, aspas ou saudações (como 'Eis a tradução' ou 'Aqui está'). "
         f"Comece a responder diretamente com o primeiro caractere do texto traduzido:\n\n{text}"
     )
@@ -138,11 +148,17 @@ def translate_text(text, source_language, target_language="Português"):
     
     return None
 
-def review_translation(original_text, draft_translation, source_language, target_language="Português"):
+def review_translation(original_text, draft_translation, source_language, target_language="Português", book=None, chapter=None, verse=None):
     lxx_instruction = ""
+    context_intro = ""
+    if book and chapter and verse:
+        clean_book = str(book).replace('_', ' ')
+        context_intro = f"O versículo em análise é '{clean_book}', capítulo '{chapter}', versículo '{verse}'.\n"
+
     if "septuaginta" in source_language.lower() or "lxx" in source_language.lower():
         lxx_instruction = (
-            "4. Verifique se o rascunho cometeu o erro de traduzir termos lematizados literalmente (como verbos na 1ª pessoa 'levo', 'ofereço' ou o pronome 'sou eu' a partir do grego lematizado). Se sim, corrija-o imediatamente para a terceira pessoa narrativa histórica do versículo real da Septuaginta.\n"
+            "4. Verifique se o rascunho cometeu o erro grave de traduzir termos lematizados literalmente (como verbos na 1ª pessoa do singular 'levo', 'ofereço', ou nomes próprios errados como traduzir 'ιωσίας' (Josias) como 'Jesus' ou 'Josué', 'χελκιας' como 'Caolho', 'ραούμος' como 'Antíoco'). Se sim, corrija-os imediatamente para os nomes próprios e conjugações corretas do relato bíblico histórico real desse versículo.\n"
+            "5. Verifique se as quantidades numéricas estão traduzidas com exatidão matemática.\n"
         )
     elif "targum" in source_language.lower():
         lxx_instruction = (
@@ -155,6 +171,7 @@ def review_translation(original_text, draft_translation, source_language, target
 
     prompt = (
         f"Você é um revisor filológico e teológico de elite de línguas bíblicas antigas e textos rabínicos.\n\n"
+        f"{context_intro}"
         f"Texto Original ({source_language}):\n{original_text}\n\n"
         f"Rascunho de Tradução para o {target_language}:\n{draft_translation}\n\n"
         f"Analise o rascunho com extremo rigor acadêmico. Verifique se:\n"
@@ -183,22 +200,22 @@ def review_translation(original_text, draft_translation, source_language, target
     
     return draft_translation
 
-def process_single_verse(original_text, verse_num, source_language):
-    translated = translate_text(original_text, source_language)
+def process_single_verse(original_text, verse_num, source_language, book=None, chapter=None):
+    translated = translate_text(original_text, source_language, book=book, chapter=chapter, verse=verse_num)
     if DOUBLE_PASS_REVIEW and translated:
-        translated = review_translation(original_text, translated, source_language)
+        translated = review_translation(original_text, translated, source_language, book=book, chapter=chapter, verse=verse_num)
     return {
         "verse": verse_num,
         "original": original_text,
         "translation": translated
     }
 
-def translate_verses_parallel(verse_list, source_language):
+def translate_verses_parallel(verse_list, source_language, book=None, chapter=None):
     results = []
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {
-            executor.submit(process_single_verse, text, num, source_language): num
+            executor.submit(process_single_verse, text, num, source_language, book, chapter): num
             for num, text in verse_list
         }
         for future in futures:
@@ -210,7 +227,7 @@ def translate_verses_parallel(verse_list, source_language):
                     print(f"   -> Versículo {num} concluído!", end="\r")
             except Exception as e:
                 print(f"\nErro ao traduzir versículo {num}: {e}")
-                
+
     def get_sort_key(item):
         v = item.get("verse")
         if isinstance(v, int):
@@ -224,7 +241,7 @@ def translate_verses_parallel(verse_list, source_language):
             if num_part:
                 return (0, int(num_part), suffix)
             return (1, str(v))
-            
+
     results.sort(key=get_sort_key)
     return results
 
@@ -343,7 +360,7 @@ def main():
                         if paragraph and isinstance(paragraph, str):
                             verse_list.append((i + 1, paragraph))
                     
-                    translated_verses = translate_verses_parallel(verse_list, source_language)
+                    translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=daf_name)
                         
                     if translated_verses:
                         os.makedirs(output_dir, exist_ok=True)
@@ -380,7 +397,7 @@ def main():
                             if verse and isinstance(verse, str):
                                 verse_list.append((i + 1, verse))
                         
-                        translated_verses = translate_verses_parallel(verse_list, source_language)
+                        translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=ch_num)
                             
                         if translated_verses:
                             os.makedirs(output_dir, exist_ok=True)
@@ -419,7 +436,7 @@ def main():
                                 if verse_text:
                                     verse_list.append((verse_num, verse_text))
                             
-                            translated_verses = translate_verses_parallel(verse_list, source_language)
+                            translated_verses = translate_verses_parallel(verse_list, source_language, book=book_name, chapter=ch_num)
                                 
                             if translated_verses:
                                 os.makedirs(output_dir, exist_ok=True)
@@ -462,7 +479,7 @@ def main():
                                 v_num, v_text = "1", item
                             verse_list.append((v_num.strip(), v_text.strip()))
                 
-                translated_verses = translate_verses_parallel(verse_list, source_language)
+                translated_verses = translate_verses_parallel(verse_list, source_language, book=book_title, chapter=ch_num)
                     
                 if translated_verses:
                     os.makedirs(output_dir, exist_ok=True)
@@ -514,7 +531,7 @@ def main():
                         if original_text:
                             verse_list.append((verse_num, original_text))
 
-            translated_verses = translate_verses_parallel(verse_list, source_language)
+            translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=chapter_name)
 
             if translated_verses:
                 os.makedirs(output_dir, exist_ok=True)
