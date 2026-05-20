@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-20 15:46 UTC**
+> **README gerado automaticamente em: 2026-05-20 15:51 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,768** |
-| Capítulos traduzidos | **1,198** (31.8%) |
+| Capítulos traduzidos | **1,203** (31.9%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$148 USD** |
+| Custo estimado restante | **~$147 USD** |
 | ETA estimado de processamento | **~4d 2h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-20 15:46 UTC |
+| Última atualização | 2026-05-20 15:51 UTC |
 
 ---
 
@@ -28,7 +28,7 @@ com transliteração acadêmica incluída.
 | Manuscrito | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
-| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 270 traduzidos | 🚀 Em andamento (69%) |
+| 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 275 traduzidos | 🚀 Em andamento (71%) |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 928 caps | 0 traduzidos | ⏳ Aguardando tradução *Reconstrução acadêmica* |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 
@@ -93,7 +93,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 1,198/3,768 caps (31.8%))
+### 🚀 Fase 2 — Tradução (Em andamento — 1,203/3,768 caps (31.9%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
