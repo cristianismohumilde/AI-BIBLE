@@ -1095,6 +1095,10 @@
          * SEÇÃO 2.6: SISTEMA DE DEEP-LINKING (URL)
          * Permite compartilhamento direto de passagens via URL hash
          * Ex: https://ai-bible.app/#/Aleppo/1_Kings/22
+         *
+         * ATENÇÃO: updateUrlHash usa history.replaceState (não window.location.hash)
+         * para evitar disparar o evento hashchange e causar loop de navegação.
+         * O evento hashchange só é disparado por navegação externa (ex: link compartilhado).
          */
 
         /**
@@ -1109,7 +1113,9 @@
         }
 
         /**
-         * Atualiza URL hash sem recarregar a página
+         * Atualiza o hash da URL sem recarregar a página e sem disparar hashchange.
+         * Usa history.replaceState em vez de window.location.hash para evitar o loop:
+         *   loadChapterData → updateUrlHash → hashchange → handleUrlHash → loadChapterData
          * @param {string} manuscript
          * @param {string} book
          * @param {string} chapter
@@ -1124,8 +1130,12 @@
         }
 
         /**
-         * Processa URL hash para navegar para passagem específica
+         * Processa URL hash para navegar para passagem específica ao carregar a página
+         * ou ao receber um link compartilhado.
          * Ex: /#/Aleppo/1_Kings/22 → seleciona Aleppo, 1_Kings, capítulo 22
+         *
+         * Usa setTimeout em cascata (2×100ms) para aguardar o DOM atualizar os
+         * selects antes de definir os valores e carregar o capítulo.
          */
         function handleUrlHash() {
             const hash = window.location.hash.slice(1); // Remove #
@@ -1154,13 +1164,17 @@
 
         /**
          * SEÇÃO 2.7: SISTEMA DE DEBOUNCE PARA BUSCA
-         * Evita excesso de reflow/repaint durante digitação em capítulos grandes
+         * Evita excesso de reflow/repaint durante digitação em capítulos grandes.
+         * A busca só executa após 200ms sem nova digitação (SEARCH_DEBOUNCE_MS).
          */
         let searchTimeoutId = null;
         const SEARCH_DEBOUNCE_MS = 200; // ms para aguardar antes de filtrar
 
         /**
-         * Versão com debounce da função de busca
+         * Filtra os cards de versículos pelo texto digitado na busca.
+         * Atualiza o badge de contagem para mostrar resultados encontrados.
+         * Chamada com debounce de 200ms via VERSE_SEARCH input event,
+         * ou imediatamente ao pressionar Enter.
          */
         function performSearch() {
             const query = VERSE_SEARCH.value.trim().toLowerCase();
@@ -1310,8 +1324,10 @@
         }
 
         /**
-         * Popula o seletor de Capítulos baseado no livro e manuscrito escolhidos
-         * Trata o Talmud especialmente (usa "Daf" em vez de capítulos tradicionais)
+         * Popula o seletor de Capítulos baseado no livro e manuscrito escolhidos.
+         * Trata o Talmud especialmente (usa "Daf" em vez de capítulos tradicionais).
+         * Ao final, chama loadChapterData() diretamente para carregar o primeiro capítulo.
+         * Não usa dispatchEvent("change") para evitar dupla chamada com o event listener.
          * @param {string} manuscript - Tipo de manuscrito selecionado
          * @param {string} book - Livro selecionado
          */
@@ -1498,17 +1514,22 @@
          * 
          * Este é o coração da aplicação. Coordena:
          * 1. Validação das seleções (manuscrito, livro, capítulo)
-         * 2. Atualização da UI (título, subtítulo)
+         * 2. Atualização da UI (título, subtítulo, spinner)
          * 3. Fetch do JSON traduzido do output/
          * 4. Fallback para texto original se tradução não existe
-         * 5. Renderização de cards de versículos com eventos
+         * 5. Renderização de cards de versículos com eventos de cópia
          * 6. Estados de loading/empty/success
          * 
          * FLUXO DE FETCH:
-         *   1. Tenta cache (localStorage + VERSES_CACHE)
+         *   1. Tenta cache em memória (VERSES_CACHE) e localStorage
          *   2. Tenta: output/{MANUSCRIPT}/{BOOK}_{CHAPTER}.json
-         *   3. Se falha: chama fetchOriginalOnly() para tentar original
+         *   3. Se falha: chama fetchOriginalOnly() para carregar texto original de data/
          *   4. Se ambos falham: showEmptyState()
+         * 
+         * CHAMADA:
+         *   - Diretamente por updateChapterSelector() ao popular o select
+         *   - Pelo event listener de SELECT_CHAPTER "change" (troca manual pelo usuário)
+         *   - Pelos botões BTN_PREV / BTN_NEXT ao navegar entre capítulos
          */
         async function loadChapterData() {
             const manuscript = SELECT_MANUSCRIPT.value;
@@ -1661,16 +1682,25 @@
 
         /**
          * SEÇÃO 7: EVENT LISTENERS
-         * Configuração de todos os eventos de interação do usuário
+         * Configuração de todos os eventos de interação do usuário.
+         *
+         * FLUXO DE NAVEGAÇÃO (cascata):
+         *   SELECT_MANUSCRIPT change → updateBookSelector()
+         *     → updateChapterSelector() → loadChapterData()
+         *   SELECT_BOOK change → updateChapterSelector() → loadChapterData()
+         *   SELECT_CHAPTER change → loadChapterData()  (troca manual pelo usuário)
+         *   BTN_PREV / BTN_NEXT click → selectedIndex±1 → loadChapterData()
+         *   Teclado ←→ / PageUp/Down → simula clique nos botões
          */
 
-        // Troca de manuscrito → recarrega lista de livros
+        // Troca de manuscrito → recarrega lista de livros (que por sua vez recarrega capítulos e versículos)
         SELECT_MANUSCRIPT.addEventListener("change", () => updateBookSelector(SELECT_MANUSCRIPT.value));
         
-        // Troca de livro → recarrega lista de capítulos
+        // Troca de livro → recarrega lista de capítulos (que por sua vez carrega o primeiro capítulo)
         SELECT_BOOK.addEventListener("change", () => updateChapterSelector(SELECT_MANUSCRIPT.value, SELECT_BOOK.value));
         
-        // Troca de capítulo → carrega dados do capítulo
+        // Troca manual de capítulo pelo usuário → carrega dados do capítulo
+        // Nota: quando a troca é feita por updateChapterSelector(), loadChapterData() é chamado diretamente
         SELECT_CHAPTER.addEventListener("change", loadChapterData);
 
         // Navegação para capítulo anterior
@@ -1689,9 +1719,8 @@
             }
         });
 
-        // Navegação por teclado: seta esquerda (←) e seta direita (→)
-        // Também adiciona suporte a Page Up/Page Down para capítulos
-        // Desativado quando o usuário está em um input/select (para não conflitar com digitação)
+        // Navegação por teclado: ← / → navegam entre capítulos, PageUp/PageDown também
+        // Desativado quando o foco está em um input ou select (para não conflitar com digitação)
         document.addEventListener("keydown", (e) => {
             if (e.target.tagName === "SELECT" || e.target.tagName === "INPUT") return;
             
@@ -1717,8 +1746,10 @@
         /**
          * SEÇÃO 8: BUSCA RÁPIDA DENTRO DO CAPÍTULO
          * 
-         * Realiza busca com debounce (aguarda 200ms após digitação)
-         * para melhor performance em capítulos com muitos versículos
+         * Filtra os cards de versículos pelo texto digitado.
+         * Usa debounce de 200ms para não executar a cada tecla pressionada.
+         * Pressionar Enter executa a busca imediatamente sem aguardar o debounce.
+         * A busca é limpa automaticamente ao trocar de livro ou capítulo.
          */
         VERSE_SEARCH.addEventListener("input", () => {
             clearTimeout(searchTimeoutId);
@@ -1738,27 +1769,27 @@
             }
         });
 
-        // Listener para URL hash (deep-linking)
+        // Listener para URL hash — só dispara ao navegar por link externo/compartilhado
+        // (navegação interna usa history.replaceState e não dispara este evento)
         window.addEventListener("hashchange", handleUrlHash);
 
         /**
          * SEÇÃO 9: MONITORAMENTO DE PROGRESSO EM TEMPO REAL
          * 
-         * Lê o arquivo PROGRESS.md gerado automaticamente pela GPU
-         * Extrai dados de progresso via regex e atualiza UI
-         * Executado a cada 5 minutos (ciclo de autopush do VM em Frankfurt)
+         * Lê o arquivo PROGRESS.md gerado automaticamente pela GPU e atualiza
+         * o banner de progresso na UI (percentual, capítulos traduzidos, ETA).
+         * Executado na inicialização e repetido a cada 5 minutos.
          * 
-         * ℹ️ NOTA: O polling a cada 5 minutos está perfeitamente sincronizado com:
+         * ℹ️ O polling de 5 minutos está sincronizado com o ciclo do pipeline:
          *    1. GPU traduzindo no Oracle Cloud (Frankfurt)
-         *    2. VM autopush sincronizando output/ a cada 5 min
-         *    3. GitHub atualizando PROGRESS.md automaticamente
+         *    2. VM autopush sincronizando output/ + PROGRESS.md a cada 5 min
+         *    3. GitHub Pages servindo os arquivos atualizados
          *    
-         *    Este ciclo é otimizado e não requer WebSocket/SSE real-time.
-         *    Melhor evitar sobrecarga de rede e economia de recursos.
+         * WebSocket/SSE não são necessários — o ciclo de 5 min é suficiente.
          */
         async function loadProgress() {
             try {
-                // Adiciona timestamp para evitar cache (bypass)
+                // Adiciona ?t=timestamp para forçar bypass do cache do browser
                 const r = await fetch("PROGRESS.md?t=" + Date.now());
                 if (!r.ok) return;
                 const text = await r.text();
@@ -1803,8 +1834,13 @@
         /**
          * SEÇÃO 10: INICIALIZAÇÃO
          * 
-         * Executado quando o DOM está pronto
-         * Inicializa UI com dados padrão e inicia polling de progresso
+         * Executado quando o DOM está pronto (DOMContentLoaded).
+         * Ordem de inicialização:
+         *   1. Carrega preferência de tema (escuro/claro)
+         *   2. Se há URL hash → handleUrlHash() navega para a passagem
+         *   3. Senão, tenta restaurar sessão anterior do localStorage
+         *   4. Senão, carrega estado padrão (Aleppo → 2 Reis → cap. 1)
+         *   5. Inicia polling de progresso (imediato + a cada 5 min)
          */
         window.addEventListener("DOMContentLoaded", () => {
             // Carrega preferência de tema (escuro/claro) do localStorage
@@ -1826,16 +1862,17 @@
                             updateChapterSelector(savedSession.manuscript, savedSession.book);
                             
                             setTimeout(() => {
+                                // Restaura o capítulo salvo e dispara o evento para carregar os versículos
                                 SELECT_CHAPTER.value = savedSession.chapter;
                                 SELECT_CHAPTER.dispatchEvent(new Event("change"));
                             }, 100);
                         } else {
-                            // Se sessão salva não é válida, carrega padrão
+                            // Livro da sessão salva não existe neste manuscrito — carrega padrão
                             updateBookSelector(SELECT_MANUSCRIPT.value);
                         }
                     }, 100);
                 } else {
-                    // Popula o seletor de livros com base no manuscrito padrão (Aleppo)
+                    // Nenhuma sessão salva — carrega estado padrão (Aleppo → 2 Reis → cap. 1)
                     updateBookSelector(SELECT_MANUSCRIPT.value);
                 }
             }
@@ -1850,37 +1887,37 @@
 
         /**
          * ============================================================================
-         * SUGESTÕES DE MELHORIAS IMPLEMENTADAS
+         * MELHORIAS IMPLEMENTADAS
          * ============================================================================
          * 
+         * ✅ CORREÇÕES DE BUG:
+         *    - updateUrlHash usa history.replaceState (não window.location.hash)
+         *      para evitar loop: loadChapterData → hashchange → handleUrlHash → loadChapterData
+         *    - updateChapterSelector chama loadChapterData() diretamente (não dispatchEvent)
+         *      para evitar dupla chamada com o event listener de SELECT_CHAPTER
+         *    - Restauração de sessão: if com operador vírgula corrigido para atribuição explícita
+         * 
          * ✅ PERFORMANCE:
-         *    - Debounce implementado na busca (200ms)
-         *    - Cache com localStorage para JSONs já carregados (~2MB)
-         *    - Preparação para virtualização (estrutura pronta)
+         *    - Debounce de 200ms na busca (evita reflow a cada tecla)
+         *    - Cache em memória (VERSES_CACHE) + localStorage (~2MB) para capítulos já visitados
          * 
          * ✅ FUNCIONALIDADES:
-         *    - URL deep-linking: https://ai-bible.app/#/Aleppo/1_Kings/22
+         *    - URL deep-linking: /#/Aleppo/1_Kings/22 (compartilhável)
          *    - Modo escuro / claro com toggle e persistência em localStorage
-         *    - Histórico de capítulos lidos recentemente (últimos 10)
-         *    - Recuperação de sessão anterior ao recarregar página
+         *    - Histórico dos últimos 10 capítulos lidos (localStorage)
+         *    - Restauração de sessão anterior ao recarregar a página
+         *    - Cópia de versículo com 1 clique (original + tradução) com toast de confirmação
          * 
          * ✅ ACESSIBILIDADE:
-         *    - ARIA labels em todos os inputs
-         *    - Navegação por teclado melhorada (←→ e Page Up/Down)
+         *    - ARIA labels em todos os inputs e selects
+         *    - Navegação por teclado: ←→ e PageUp/PageDown entre capítulos
          *    - THEME_TOGGLE acessível por Enter e Space
-         *    - Suporte a modo escuro preferido do sistema operacional
-         * 
-         * ⏭️ REAL-TIME (NÃO IMPLEMENTADO - Sistema de 5 min está otimizado):
-         *    - O polling de 5 minutos está sincronizado com:
-         *      1. GPU da Oracle Cloud (Frankfurt) processando traduções
-         *      2. VM autopush sincronizando output/ a cada 5 min
-         *      3. GitHub recebendomudanças e regenerando PROGRESS.md
-         *    - WebSocket/SSE não é necessário pois o ciclo está bem definido
+         *    - Respeita prefers-color-scheme do sistema operacional
          * 
          * 🎯 PRÓXIMAS MELHORIAS (Futuro):
-         *    - Virtualização de cards (100+ versículos)
+         *    - Virtualização de cards para capítulos com 100+ versículos
          *    - Compartilhamento com QR Code
-         *    - Suporta a comparação de 2+ manuscritos lado a lado
+         *    - Comparação de 2+ manuscritos lado a lado
          *    - Sitemap dinâmico para SEO
          *    - Notificações push quando novo capítulo fica pronto
          * 
