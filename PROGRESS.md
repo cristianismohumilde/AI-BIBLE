@@ -9,7 +9,7 @@
 
 `████████░░░░░░░░░░░░` 42.9%
 
-**1,641** de **3,826** capítulos traduzidos.
+**1,642** de **3,826** capítulos traduzidos.
 **ETA estimado:** ~3d 12h
 **Custo Computacional Restante:** ~$126 USD
 
@@ -24,7 +24,7 @@
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 986 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
-| 📜 Targum Onkelos | Aramaico Antigo | 187 | 28 | `██░░░░░░░░░░░░░░░░░░` 15.0% | 🚀 Em andamento |
+| 📜 Targum Onkelos | Aramaico Antigo | 187 | 29 | `███░░░░░░░░░░░░░░░░░` 15.5% | 🚀 Em andamento |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
