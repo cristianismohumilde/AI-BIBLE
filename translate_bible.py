@@ -36,6 +36,11 @@ ALLOWED_GEEZ_BOOKS = {
     "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
     "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
 }
+# Targum Onkelos: apenas Gênesis por enquanto (enquanto correções DSS são finalizadas)
+ALLOWED_TARGUM_BOOKS = {"Genesis"}
+# DSS: apenas textos com transcrição hebraica confiável disponível
+# (1QS, 1QM, 1QH ainda precisam ser baixados do ETCBC; os arquivos atuais estão em inglês)
+ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk"}
 # =======================================
 
 import re
@@ -119,6 +124,14 @@ def translate_text(text, source_language, target_language="Português", book=Non
         lxx_instruction = (
             "ATENÇÃO FILOLÓGICA: Este é o texto do Talmud (Mishna/Gemara). "
             "Traduza com extremo rigor acadêmico, preservando a estrutura de debate dialético e os termos jurídicos e exegéticos rabínicos."
+        )
+    elif "manuscritos do mar morto" in source_language.lower() or "dss" in source_language.lower():
+        lxx_instruction = (
+            "ATENÇÃO FILOLÓGICA CRÍTICA: Este é um texto dos Manuscritos do Mar Morto (DSS) em Hebraico e Aramaico de Qumran (Período do Segundo Templo, séc. III a.C. – I d.C.).\n"
+            "1. O texto pode usar ortografia arcaica de Qumran (ex: 'לוא' em vez de 'לא', 'יעקוב' em vez de 'יעקב', 'כיא' em vez de 'כי'). Estas são formas autênticas, não erros — preserve o sentido original sem modernizar.\n"
+            "2. Nomes próprios devem ser transliterados conforme a tradição bíblica portuguesa padrão (ex: Isaías, não 'Yeshayahu').\n"
+            "3. Preserve a solenidade litúrgica e o paralelismo poético característico da poesia hebraica (especialmente nos Hinos e Salmos).\n"
+            "4. Onde houver lacunas ou fragmentos incompletos no texto original (indicados por colchetes [...] ou espaços), indique com reticências ou nota mínima sem especular sobre o conteúdo perdido."
         )
 
     prompt = (
@@ -256,26 +269,31 @@ def sorting_key(filepath):
     
     # Prioridade de tradução personalizada solicitada pelo usuário + TRANSLATION_QUEUE.md
     priority = 99
-    if category == "Aleppo":
-        priority = 1
-    elif category == "LXX":
+    # === ORDEM DE TRADUÇÃO ATUAL (atualizada em 21/05/2026) ===
+    # Targum Onkelos (Genesis) está em #1 enquanto correções nos DSS são finalizadas.
+    # Após baixar 1QS, 1QM, 1QH do ETCBC, o DSS voltará a prioridade 4.
+    if category == "ancient_versions" and "targum_onkelos_genesis" in filename:
+        priority = 1  # 🥇 Primeiro: Targum Onkelos — Gênesis
+    elif category == "Aleppo":
         priority = 2
-    elif category == "ancient_versions" and "geez_extracted" in parts:
+    elif category == "LXX":
         priority = 3
-    elif category == "DSS":
+    elif category == "ancient_versions" and "geez_extracted" in parts:
         priority = 4
+    elif category == "DSS":
+        priority = 5  # filtrado por ALLOWED_DSS_BOOKS (Isaiah + Habakkuk apenas)
     elif category == "ancient_versions" and "targum_onkelos" in filename:
-        priority = 5
+        priority = 6  # restante do Targum (Exodus, Leviticus, Numbers, Deuteronomy)
     elif category == "BYZ":
-        priority = 6
-    elif category == "ancient_versions" and "peshitta" in filename:
         priority = 7
-    elif category == "ancient_versions" and "coptic" in filename:
+    elif category == "ancient_versions" and "peshitta" in filename:
         priority = 8
-    elif category == "ancient_versions" and "armenian" in filename:
+    elif category == "ancient_versions" and "coptic" in filename:
         priority = 9
-    else:
+    elif category == "ancient_versions" and "armenian" in filename:
         priority = 10
+    else:
+        priority = 11
         
     chapter_name = os.path.splitext(os.path.basename(filepath))[0]
         
@@ -373,6 +391,8 @@ def main():
             # 2.1 Targum Onkelos
             if file.startswith("targum_onkelos_"):
                 book = file.replace("targum_onkelos_", "").replace(".json", "").capitalize()
+                if book not in ALLOWED_TARGUM_BOOKS:
+                    continue
                 source_language = language_map["Targum_Onkelos"]
                 
                 with open(input_file, "r", encoding="utf-8") as f:
@@ -502,6 +522,8 @@ def main():
                 continue
             if translation == "BYZ" and book not in ALLOWED_NT_BOOKS:
                 continue
+            if translation == "DSS" and book not in ALLOWED_DSS_BOOKS:
+                continue  # evita traduzir os 928 arquivos em inglês; aguarda download do ETCBC (1QS, 1QM, 1QH)
 
             source_language = language_map.get(translation, "Idiomas Originais")
             
