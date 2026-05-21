@@ -27,8 +27,11 @@ def run(cmd):
 def cycle():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # 0. Sincroniza com as alterações remotas (evita rejeição de push se fizermos commits locais)
-    run("git pull origin main --no-edit -X theirs")
+    # 0. Sincroniza com as alterações remotas
+    out, ok = run("git pull origin main --no-edit -X theirs")
+    if ok and "translate_bible.py" in out:
+        print(f"[{now}] translate_bible.py foi atualizado remotamente! Reiniciando o serviço...")
+        run("sudo systemctl restart translate_bible")
 
     # 1. Gera arquivos de progresso
     run("python3 generate_progress.py")
