@@ -7,7 +7,11 @@
     "<span class=\"poetry indentAll\">Lift your hands toward the sanctuary</span><br><span class=\"poetry indentAllDouble\">and bless G<small>OD</small>.</span>",
     "<span class=\"poetry indentAll\">May G<small>OD</small>,</span><br><span class=\"poetry indentAllDouble\">maker of heaven and earth,</span><br><span class=\"poetry indentAllDouble\">bless you from Zion.</span>"
   ],
-  "he": [],
+  "he": [
+    "",
+    "אנכי אשמח ביהוה כאשר יתמו חוטאים מארץ ורשעים עוד אינם ברכי",
+    "נפשי"
+  ],
   "versions": [
     {
       "status": "locked",

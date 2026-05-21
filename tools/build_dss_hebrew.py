@@ -296,14 +296,35 @@ def main():
         clean_chunk = strip_hebrew_diacritics(chunk_text)
         chunk_words = clean_chunk.split()
         
-        # Score each reference verse
+        # Build an inverted index for quick scoring
+        inverted_index = {}
+        for idx, (_, _, _, v_words, _) in enumerate(ref_verses):
+            for vw in v_words:
+                if vw not in inverted_index:
+                    inverted_index[vw] = []
+                inverted_index[vw].append(idx)
+                if len(vw) > 2:
+                    ckey = frozenset(vw) - {'א', 'י', 'ו', 'ה'}
+                    if ckey not in inverted_index:
+                        inverted_index[ckey] = []
+                    inverted_index[ckey].append(idx)
+                    
+        # Score each reference verse using the inverted index
+        scores = {}
+        for qw in chunk_words:
+            matched_verses = set()
+            if qw in inverted_index:
+                matched_verses.update(inverted_index[qw])
+            if len(qw) > 2:
+                ckey = frozenset(qw) - {'א', 'י', 'ו', 'ה'}
+                if ckey in inverted_index:
+                    matched_verses.update(inverted_index[ckey])
+            for idx in matched_verses:
+                scores[idx] = scores.get(idx, 0) + 1
+                
         best_ref_idx = -1
         best_score = -1
-        for idx, (b, ch, v_num, v_words, _) in enumerate(ref_verses):
-            score = 0
-            for qw in chunk_words:
-                if any(word_similarity(qw, vw) > 0.7 for vw in v_words):
-                    score += 1
+        for idx, score in scores.items():
             if score > best_score:
                 best_score = score
                 best_ref_idx = idx

@@ -284,7 +284,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 python generate_progress.py
 ```
 
-O arquivo é atualizado automaticamente pelo `sync_and_push.py` a cada ciclo de sincronização.
+O arquivo é atualizado automaticamente pelo `vm_autopush.py` a cada ciclo de sincronização.
 
 ---
 
@@ -332,14 +332,45 @@ Cada versículo dentro do arquivo JSON tem o formato:
     dss_out = count_output_files("DSS")
     dss_status = get_queue_status(dss_out, dss_data, active=False)
 
-    targum_rest_total = max(0, count_data_files("Targum_Onkelos") - targum_gen_total)
-    targum_rest_out = max(0, count_output_files("Targum_Onkelos") - targum_gen_out)
-    targum_rest_status = get_queue_status(targum_rest_out, targum_rest_total)
-
     byz_status = get_queue_status(count_output_files("BYZ"), count_data_files("BYZ"))
     peshitta_status = get_queue_status(count_output_files("Peshitta_Syriac"), count_data_files("Peshitta_Syriac"))
     coptic_status = get_queue_status(count_output_files("Coptic_Sahidic"), count_data_files("Coptic_Sahidic"))
     armenian_status = get_queue_status(count_output_files("Armenian_Eastern"), count_data_files("Armenian_Eastern"))
+
+    # === STATUS DE TRANSLITERAÇÃO (Fase Final) ===
+    # Conta versículos com campo 'transliteration' nos arquivos de output
+    def count_transliterated(collection):
+        col_dir = os.path.join(OUTPUT_DIR, collection)
+        if not os.path.isdir(col_dir):
+            return 0, 0
+        done = 0
+        total = 0
+        for fname in os.listdir(col_dir):
+            if not fname.endswith(".json"):
+                continue
+            try:
+                with open(os.path.join(col_dir, fname), "r", encoding="utf-8") as f:
+                    verses = json.load(f)
+                if isinstance(verses, list) and verses:
+                    total += 1
+                    if all("transliteration" in v and v["transliteration"] for v in verses):
+                        done += 1
+            except Exception:
+                pass
+        return done, total
+
+    translit_collections = ["Aleppo", "LXX", "DSS", "BYZ", "Targum_Onkelos", "Peshitta_Syriac", "Coptic_Sahidic", "Armenian_Eastern", "Geez"]
+    translit_done_total = sum(count_transliterated(c)[0] for c in translit_collections)
+    translit_all_total  = sum(count_transliterated(c)[1] for c in translit_collections)
+
+    if translit_all_total == 0:
+        translit_status = "**⏳ Aguardando conclusão das traduções**"
+    elif translit_done_total >= translit_all_total:
+        translit_status = "**✅ 100% Transliterado**"
+    elif translit_done_total > 0:
+        translit_status = f"**🔤 Transliterando ({translit_done_total}/{translit_all_total} arquivos)**"
+    else:
+        translit_status = "**⏳ Aguardando conclusão das traduções**"
 
     queue_md = f"""# 📋 Fila de Tradução Ativa — AI-BIBLE (Fase GPU Frankfurt)
 
@@ -358,11 +389,27 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | {geez_status} | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
 | **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | {targum_gen_status} | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
 | **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | {dss_status} | `data/DSS/` | Apenas Isaías e Habakkuk alinhados com o Hebraico original. |
-| **3** | **Targum Onkelos (Restante)** | Aramaico Antigo | {targum_rest_status} | `data/ancient_versions/` | Restante da Torá aramaica. |
-| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | {byz_status} | `data/BYZ/` | Apenas Novo Testamento. |
-| **5** | **Peshitta Siríaca** | Siríaco Clássico | {peshitta_status} | `data/ancient_versions/` | Novo Testamento Siríaco. |
-| **6** | **Copta Saídico** | Copta Saídico | {coptic_status} | `data/ancient_versions/` | Novo Testamento Copta. |
-| **7** | **Armênio Oriental** | Armênio Clássico | {armenian_status} | `data/ancient_versions/` | Novo Testamento Armênio. |
+| **3** | **Texto Bizantino (BYZ)** | Grego Koiné | {byz_status} | `data/BYZ/` | Apenas Novo Testamento. |
+| **4** | **Peshitta Siríaca** | Siríaco Clássico | {peshitta_status} | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **5** | **Copta Saídico** | Copta Saídico | {coptic_status} | `data/ancient_versions/` | Novo Testamento Copta. |
+| **6** | **Armênio Oriental** | Armênio Clássico | {armenian_status} | `data/ancient_versions/` | Novo Testamento Armênio. |
+
+---
+
+## 🔤 Fase de Transliteração (Pós-Tradução)
+
+Após a conclusão de todas as traduções, os 3 workers da VM executarão `transliterate.py` automaticamente para adicionar a transliteração acadêmica a cada versículo de todos os manuscritos. A chave `"transliteration"` será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`.
+
+| Sistema | Coleções | Status |
+| :--- | :--- | :---: |
+| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | {translit_status} |
+| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | {translit_status} |
+| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | {translit_status} |
+| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | {translit_status} |
+| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | {translit_status} |
+| ISO 9985 Armênio | Armenian Eastern | {translit_status} |
+
+**Progresso geral:** {translit_done_total}/{translit_all_total} arquivos transliterados.
 
 ---
 
@@ -373,13 +420,15 @@ As seguintes fontes estão desativadas no tradutor e não gastam orçamento até
 - **Textus Receptus (TR)** — *Grego Koiné*
 - **Vulgata Latina (VUL)** — *Latim Clássico*
 - **Talmud Bavli** — *Hebraico Mishnaico e Aramaico Talmúdico*
+- **Targum Onkelos (Êxodo → Deuteronômio)** — *Aramaico Antigo — 137 caps restantes após Gênesis*
 
 ---
 
 ## 🔄 Dinâmica da Sincronização
 1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
 2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
-3. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
+3. Após **todas** as traduções concluírem, `transliterate.py` é acionado automaticamente com 3 workers paralelos.
+4. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
 """
 
     with open("TRANSLATION_QUEUE.md", "w", encoding="utf-8") as f:

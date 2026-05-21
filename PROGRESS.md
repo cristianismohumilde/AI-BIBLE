@@ -52,7 +52,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 python generate_progress.py
 ```
 
-O arquivo é atualizado automaticamente pelo `sync_and_push.py` a cada ciclo de sincronização.
+O arquivo é atualizado automaticamente pelo `vm_autopush.py` a cada ciclo de sincronização.
 
 ---
 
