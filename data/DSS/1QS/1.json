@@ -1,0 +1,55 @@
+{
+  "ref": "1QS 1",
+  "heRef": "1QS עמוד 1",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "לְהַשְׂכִּיל אֶת בְּנֵי אוֹר",
+    "וּלְאַהֲבָה אֶת כָּל אֲשֶׁר בָּחַר בָּם",
+    "וּלְשִׂנֹּאת כָּל אֲשֶׁר מָאַס בּוֹ",
+    "לְהִרְחִיק מִכָּל רָע וּלְדָבְקָה בְּכָל מַעֲשֵׂה טוֹב",
+    "לַעֲשׂוֹת אֱמֶת וּצְדָקָה וּמִשְׁפָּט בָּאָרֶץ",
+    "וְלָלֶכֶת לֹא עוֹד בִּשְׁרִירוּת לֵב אָשֵׁם",
+    "וְעֵינֵי זְנוּנִים לַעֲשׂוֹת כָּל הָרָע",
+    "וּלְהַבִיא כָּל הַנִּדְבִים לַעֲשׂוֹת גְּזֵרַת אֵל",
+    "לְיַחַד בִּבְרִית הַחֶסֶד",
+    "וְלִהְיוֹת יַחַד בַּעֲצַת הָאֵל",
+    "וְלָלֶכֶת תָּמִים לְפָנָיו",
+    "כֹּל אֲשֶׁר צִוָּה לְמוֹעֲדֵי עֵדוּתוֹ",
+    "וְלֶאֱהֹב כָּל אֲשֶׁר בָּחַר וְלִשְׂנֹא כָּל אֲשֶׁר מָאַס",
+    "לְהִרְחִיק מִכָּל רָע וְלִדְבֹּק בְּכָל מַעֲשֵׂה טוֹב"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    14
+  ],
+  "length": 14,
+  "heTitle": "1QS",
+  "titleVariants": [
+    "1QS"
+  ],
+  "heTitleVariants": [
+    "1QS"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QS",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    1
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

@@ -1,0 +1,51 @@
+{
+  "ref": "1QS 9",
+  "heRef": "1QS עמוד 9",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "כְּבוֹא הַדָּבָר הַזֶּה לְיִשְׂרָאֵל",
+    "לְמוֹסַד קֹדֶשׁ לְאַהֲרוֹן",
+    "לְיַחַד קֹדֶשׁ קֳדָשִׁים",
+    "וּלְבֵית הָאֱמֶת בְּיִשְׂרָאֵל",
+    "הַהֹלְכִים בְּתָמִים",
+    "אַל יִשְׁתַּמֵּשׁ בְּהוֹן הָאַנְשֵׁי הַעֲוֶל",
+    "אֲשֶׁר לֹא הֵסִירוּ מֵעָלָיו עֹל פֶּשַׁע",
+    "אֵלֶּה יִהְיוּ לְמִשְׁפַּט יַחַד",
+    "לַכַּפֵּר בַּעֲד כָּל חַטֹּאת",
+    "וְלָקֵץ כָּל חֶסֶד לְפָנָיו"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    10
+  ],
+  "length": 10,
+  "heTitle": "1QS",
+  "titleVariants": [
+    "1QS"
+  ],
+  "heTitleVariants": [
+    "1QS"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QS",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    9
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

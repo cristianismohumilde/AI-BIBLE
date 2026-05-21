@@ -1,0 +1,51 @@
+{
+  "ref": "1QS 6",
+  "heRef": "1QS עמוד 6",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "וְכֵן יַעֲשׂוּ לְכָל שָׁנָה וְשָׁנָה",
+    "כֹּל הַבָּאִים בִּבְרִית",
+    "יָסֹרּוּ לִפְנֵי הַכֹּהֵן הָרֹאשׁ",
+    "וְלִפְנֵי אַנְשֵׁי בְרִיתוֹ",
+    "וְיִשְׂאוּ עַל רֹאשָׁם כָּל תּוֹעֲבֹת",
+    "וְכָל קְלָלוֹת בְּרִית הַתּוֹרָה הַזֹּאת",
+    "וְיִשְׁמְעוּ כָּל הַמִּצְווֹת",
+    "אֲשֶׁר יְצַוֵּם לְכָל מַעֲשֵׂה טוֹב",
+    "וְכֵן יַעֲשׂוּ כֵּן יֹאמְרוּ אָמֵן",
+    "כָּל הַיָּמִים אֲשֶׁר יְהַלְּכוּ בָּהֶם"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    10
+  ],
+  "length": 10,
+  "heTitle": "1QS",
+  "titleVariants": [
+    "1QS"
+  ],
+  "heTitleVariants": [
+    "1QS"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QS",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    6
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

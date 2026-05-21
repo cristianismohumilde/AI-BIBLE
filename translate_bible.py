@@ -40,7 +40,7 @@ ALLOWED_GEEZ_BOOKS = {
 ALLOWED_TARGUM_BOOKS = {"Genesis"}
 # DSS: apenas textos com transcrição hebraica confiável disponível
 # (1QS, 1QM, 1QH ainda precisam ser baixados do ETCBC; os arquivos atuais estão em inglês)
-ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk"}
+ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk", "1QS", "1QM", "1QH", "11Q19", "CD"}
 # =======================================
 
 import re
@@ -270,8 +270,14 @@ def sorting_key(filepath):
     # Prioridade de tradução personalizada solicitada pelo usuário + TRANSLATION_QUEUE.md
     priority = 99
     # === ORDEM DE TRADUÇÃO ATUAL (atualizada em 21/05/2026) ===
-    # Targum Onkelos (Genesis) está em #1 enquanto correções nos DSS são finalizadas.
-    # Após baixar 1QS, 1QM, 1QH do ETCBC, o DSS voltará a prioridade 4.
+    # 1: Targum Onkelos — Gênesis
+    # 2: Aleppo Codex (concluído)
+    # 3: LXX (concluído)
+    # 4: Ge'ez (concluído)
+    # 5: DSS — 5 rolos prioritários (1QIsa-a, 1QpHab, 1QS, 1QM, 1QH)
+    # 6: Apócrifos (4 Esdras / Vulgata e outros)
+    # 7: Targum Onkelos — restante da Torá
+    # 8: BYZ, Peshitta, Copta, Armênio
     if category == "ancient_versions" and "targum_onkelos_genesis" in filename:
         priority = 1  # 🥇 Primeiro: Targum Onkelos — Gênesis
     elif category == "Aleppo":
@@ -281,19 +287,21 @@ def sorting_key(filepath):
     elif category == "ancient_versions" and "geez_extracted" in parts:
         priority = 4
     elif category == "DSS":
-        priority = 5  # filtrado por ALLOWED_DSS_BOOKS (Isaiah + Habakkuk apenas)
+        priority = 5  # filtrado por ALLOWED_DSS_BOOKS (1QIsa-a, 1QpHab, 1QS, 1QM, 1QH)
+    elif category == "apocrypha" and filename.endswith(".json"):
+        priority = 6  # 4 Esdras (Vulgata), Oração de Manassés, etc.
     elif category == "ancient_versions" and "targum_onkelos" in filename:
-        priority = 6  # restante do Targum (Exodus, Leviticus, Numbers, Deuteronomy)
+        priority = 7  # restante do Targum (Exodus, Leviticus, Numbers, Deuteronomy)
     elif category == "BYZ":
-        priority = 7
-    elif category == "ancient_versions" and "peshitta" in filename:
         priority = 8
-    elif category == "ancient_versions" and "coptic" in filename:
+    elif category == "ancient_versions" and "peshitta" in filename:
         priority = 9
-    elif category == "ancient_versions" and "armenian" in filename:
+    elif category == "ancient_versions" and "coptic" in filename:
         priority = 10
-    else:
+    elif category == "ancient_versions" and "armenian" in filename:
         priority = 11
+    else:
+        priority = 12
         
     chapter_name = os.path.splitext(os.path.basename(filepath))[0]
         
@@ -328,7 +336,16 @@ def main():
         "Coptic_Sahidic": "Copta Saídico",
         "Armenian_Eastern": "Armênio Oriental Antigo",
         "Talmud": "Hebraico Mishnaico e Aramaico Talmúdico",
-        "Geez": "Ge'ez (Etíope Clássico)"
+        "Geez": "Ge'ez (Etíope Clássico)",
+        "apocrypha": "Latim Clássico (Vulgata / Apócrifos)",
+    }
+
+    # Apócrifos estruturados com suporte de tradução
+    # Formato: {filename: (book_name, source_language_override)}
+    APOCRYPHA_BOOKS = {
+        "4_esdras_vulgate.json": ("4 Esdras", "Latim Clássico (Vulgata)"),
+        "prayer_of_manasseh.json": ("Oração de Manassés", "Grego Antigo (Apócrifos)"),
+        "psalm_151.json": ("Salmo 151", "Hebraico Antigo (DSS)"),
     }
 
     print("Iniciando varredura de manuscritos para tradução...")
@@ -346,8 +363,48 @@ def main():
         parts = os.path.normpath(input_file).split(os.sep)
         file = os.path.basename(input_file)
 
+        # --- CASO 1.5: Apócrifos estruturados (4 Esdras Vulgata, etc.) ---
+        if "apocrypha" in parts and file in APOCRYPHA_BOOKS:
+            book_name, source_language = APOCRYPHA_BOOKS[file]
+            with open(input_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            if not isinstance(data, list):
+                continue  # formato inesperado
+
+            for chapter_dict in data:
+                ch_num = chapter_dict.get("chapter", 1)
+                verses = chapter_dict.get("verses", [])
+                if not verses:
+                    continue
+
+                output_dir = "output/Apocrypha"
+                safe_book = book_name.replace(" ", "_")
+                output_file = f"{output_dir}/{safe_book}_{ch_num}.json"
+
+                if os.path.exists(output_file):
+                    continue
+
+                print(f"\n🚀 [Apócrifos] Traduzindo {book_name} {ch_num}...")
+                verse_list = []
+                for v in verses:
+                    verse_num = v.get("verse", 1)
+                    verse_text = v.get("text", "")
+                    if verse_text:
+                        verse_list.append((verse_num, verse_text))
+
+                translated_verses = translate_verses_parallel(
+                    verse_list, source_language, book=book_name, chapter=ch_num
+                )
+
+                if translated_verses:
+                    os.makedirs(output_dir, exist_ok=True)
+                    with open(output_file, "w", encoding="utf-8") as f:
+                        json.dump(translated_verses, f, ensure_ascii=False, indent=2)
+                    print(f"✅ [Apócrifos] {book_name} {ch_num} traduzido!")
+
         # --- CASO 1: Talmud ---
-        if "Talmud" in parts:
+        elif "Talmud" in parts:
             if "Talmud" in SKIP_MANUSCRIPTS:
                 continue
             book = os.path.splitext(file)[0]

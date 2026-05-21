@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-21 06:18 UTC**
+> Gerado dinamicamente em: **2026-05-21 06:23 UTC**
 
 ---
 
@@ -14,13 +14,28 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **✅ 100% Traduzido** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
 | **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
 | **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **🚀 Traduzindo (28/50 caps)** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
-| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **⏳ Aguardando Fila** | `data/DSS/` | Apenas Isaías e Habakkuk alinhados com o Hebraico original. |
-| **3** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
-| **4** | **Peshitta Siríaca** | Siríaco Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Siríaco. |
-| **5** | **Copta Saídico** | Copta Saídico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Copta. |
-| **6** | **Armênio Oriental** | Armênio Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Armênio. |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **⏳ Aguardando Fila** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
+| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **⏳ Aguardando Fila** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
+| **5** | **Peshitta Siríaca** | Siríaco Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **6** | **Copta Saídico** | Copta Saídico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Copta. |
+| **7** | **Armênio Oriental** | Armênio Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Armênio. |
 
 ---
+
+## 🪨 Seleção Estratégica — Manuscritos do Mar Morto (DSS)
+
+Em vez de traduzir os ~928 fragmentos (maioria incompleta), priorizamos os 5 textos de maior impacto acadêmico e curiosidade para o público português:
+
+| Prioridade | Texto | Sigla | Por que é importante |
+|---:|---|---|---|
+| 1 | **Rolo de Isaías Completo** | 1QIsa-a | Único livro bíblico completo nos DSS — 1.000 anos mais antigo que o Texto Massorético |
+| 2 | **Regra da Comunidade** | 1QS | Estatuto da seita de Qumran — contexto essencial para entender o NT e o judaísmo do séc. I |
+| 3 | **Comentário de Habacuque** | 1QpHab | Primeiro comentário bíblico da história — aplicação profética ao tempo dos essênios |
+| 4 | **Rolo de Guerra** | 1QM | Texto apocalíptico — paralelos diretos com o Apocalipse de João |
+| 5 | **Hinos de Ação de Graças** | 1QH | Poesia mística — paralelos com os Salmos, atribuídos ao fundador de Qumran |
+
+> **Total estimado:** ~80–100 capítulos em vez de 928 — alta viabilidade dentro do orçamento.
 
 ## 🔤 Fase de Transliteração (Pós-Tradução)
 
@@ -47,6 +62,7 @@ As seguintes fontes estão desativadas no tradutor e não gastam orçamento até
 - **Vulgata Latina (VUL)** — *Latim Clássico*
 - **Talmud Bavli** — *Hebraico Mishnaico e Aramaico Talmúdico*
 - **Targum Onkelos (Êxodo → Deuteronômio)** — *Aramaico Antigo — 137 caps restantes após Gênesis*
+- **DSS (Textos Bíblicos Menores)** — *Gênesis, Salmos, Samuel, etc. (Pausados para focar nos 5 Rolos Principais)*
 
 ---
 

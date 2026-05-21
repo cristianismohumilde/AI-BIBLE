@@ -1,0 +1,51 @@
+{
+  "ref": "1QM 10",
+  "heRef": "1QM עמוד 10",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "וְאַתָּה אֵל יִשְׂרָאֵל",
+    "לְמַלֵּא יַד בְּנֵי חוֹסֵי",
+    "בְּבֵית אֲחִיהֶם",
+    "שָׂם אֱמֶת בִּלְבָבֶךָ",
+    "וּמִשְׁפָּטִים אֱמֶת",
+    "לְהַצְדִּיק אֶת דָּמֵי בְנֵי אוֹר",
+    "בְּנֵי רֹאשׁ בְּנֵי בֶלַע",
+    "מָה גָּדוֹל כּוֹחֲךָ",
+    "אֱמֶת מוֹשַׁל עוֹלָמִים",
+    "אַתָּה לְבַדְּךָ מֶלֶךְ"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    10
+  ],
+  "length": 10,
+  "heTitle": "1QM",
+  "titleVariants": [
+    "1QM"
+  ],
+  "heTitleVariants": [
+    "1QM"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QM",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    10
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

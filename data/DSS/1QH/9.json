@@ -1,0 +1,51 @@
+{
+  "ref": "1QH 9",
+  "heRef": "1QH עמוד 9",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "כִּי אֵין עוֹד",
+    "מִבַּלְעָדֶיךָ",
+    "אֲנִי יָדַעְתִּי",
+    "כִּי לָאֵל",
+    "כֹּל צְדָקָה",
+    "בַּיּוֹם הַזֶּה",
+    "קָרָאתִי אֶל שִׁמְךָ",
+    "שְׁמָעֵנִי",
+    "אֱלֹהֵי הַיְשׁוּעָה",
+    "כִּי הִנֵּה"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    10
+  ],
+  "length": 10,
+  "heTitle": "1QH",
+  "titleVariants": [
+    "1QH"
+  ],
+  "heTitleVariants": [
+    "1QH"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QH",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    9
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

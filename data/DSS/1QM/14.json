@@ -1,0 +1,51 @@
+{
+  "ref": "1QM 14",
+  "heRef": "1QM עמוד 14",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "בְּכֵן יְבָרְכוּ",
+    "כֹּל הָרוּחוֹת הַנֶּאֱמָנִים",
+    "בְּחַגֵּי הַשָּׁנָה",
+    "וּמוֹעֲדֵי עוֹלָם",
+    "בְּרֹאשׁ הַחֳדָשִׁים",
+    "וּבִימֵי הַשַּׁבָּת",
+    "וְכָל יְמֵי הַמּוֹעֵד",
+    "תְּרוּמַת שְׂפָתֵינוּ",
+    "בְּמִשְׁפָּטֵי אֱמֶת",
+    "לְבָרֵךְ שֵׁם הַקָּדוֹשׁ"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    10
+  ],
+  "length": 10,
+  "heTitle": "1QM",
+  "titleVariants": [
+    "1QM"
+  ],
+  "heTitleVariants": [
+    "1QM"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QM",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    14
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}

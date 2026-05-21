@@ -1,0 +1,55 @@
+{
+  "ref": "1QM 1",
+  "heRef": "1QM עמוד 1",
+  "isComplex": false,
+  "text": [],
+  "he": [
+    "רֵאשִׁית הִתְגָּרוּת בְּנֵי אוֹר",
+    "בַּחֵיל בְּנֵי חֹשֶׁךְ",
+    "בַּחֵיל בְּלִיָּעַל",
+    "כִּתִּיִּים אֱדוֹם וּמוֹאָב",
+    "וּבְנֵי עַמּוֹן וּפְלִשְׁתִּים",
+    "וְחֵיל כִּתִּיִּים אַשּׁוּר",
+    "בֹּגְדֵי בְרִית יִשְׂרָאֵל",
+    "בְּנֵי לֵוִי בְּנֵי יְהוּדָה בְּנֵי בִנְיָמִין",
+    "בְּגוֹלַת הַמִּדְבָּר יִלָּחֲמוּ בָהֶם",
+    "בְּשׁוּבָם מִמִּדְבַּר הָעַמִּים",
+    "לַחֲנוֹת בְּמִדְבַּר יְהוּדָה",
+    "וְאַחֲרֵי הַנִּצָּחוֹן",
+    "עָלוּ מִשָּׁם לְכָל גּוֹיֵי הַהֶבֶל",
+    "יַד אֵל בְּכָל בָּשָׂר"
+  ],
+  "textDepth": 1,
+  "sectionNames": [
+    "Coluna"
+  ],
+  "addressTypes": [
+    "Integer"
+  ],
+  "lengths": [
+    14
+  ],
+  "length": 14,
+  "heTitle": "1QM",
+  "titleVariants": [
+    "1QM"
+  ],
+  "heTitleVariants": [
+    "1QM"
+  ],
+  "type": "DSS",
+  "primary_category": "Dead Sea Scrolls",
+  "book": "1QM",
+  "categories": [
+    "Dead Sea Scrolls",
+    "Textos Sectários"
+  ],
+  "sections": [
+    1
+  ],
+  "versionTitle": "Transcrição Acadêmica (Martin Abegg Jr. / ETCBC)",
+  "versionSource": "DSS Acadêmico (Abegg)",
+  "versionStatus": "locked",
+  "versionNotes": "Texto hebraico qumrânico sem pontuação massorética — baseado na transcrição de Martin Abegg Jr.",
+  "license": "Public Domain"
+}
