@@ -308,7 +308,84 @@ Cada versículo dentro do arquivo JSON tem o formato:
     with open("PROGRESS.md", "w", encoding="utf-8") as f:
         f.write(md)
 
-    safe_msg = f"PROGRESS.md gerado! ({total_output}/{total_data} capitulos traduzidos, ETA: {eta_str})"
+    # === GERAÇÃO DINÂMICA DE TRANSLATION_QUEUE.md ===
+    targum_onkelos_dir = os.path.join(OUTPUT_DIR, "Targum_Onkelos")
+    targum_gen_out = sum(1 for f in os.listdir(targum_onkelos_dir) if f.startswith("Genesis_") and f.endswith(".json")) if os.path.isdir(targum_onkelos_dir) else 0
+    targum_gen_total = 50
+
+    def get_queue_status(out, total, active=False):
+        if total == 0:
+            return "**⏳ Sem dados**"
+        if out >= total:
+            return "**✅ 100% Traduzido**"
+        if out > 0 or active:
+            return f"**🚀 Traduzindo ({out}/{total} caps)**"
+        return "**⏳ Aguardando Fila**"
+
+    aleppo_status = get_queue_status(count_output_files("Aleppo"), count_data_files("Aleppo"))
+    lxx_status = get_queue_status(count_output_files("LXX"), count_data_files("LXX"))
+    geez_status = get_queue_status(count_output_files("Geez"), count_data_files("Geez"))
+
+    targum_gen_status = f"**🚀 Traduzindo ({targum_gen_out}/{targum_gen_total} caps)**" if targum_gen_out < targum_gen_total else "**✅ 100% Traduzido**"
+    
+    dss_data = count_data_files("DSS")
+    dss_out = count_output_files("DSS")
+    dss_status = get_queue_status(dss_out, dss_data, active=False)
+
+    targum_rest_total = max(0, count_data_files("Targum_Onkelos") - targum_gen_total)
+    targum_rest_out = max(0, count_output_files("Targum_Onkelos") - targum_gen_out)
+    targum_rest_status = get_queue_status(targum_rest_out, targum_rest_total)
+
+    byz_status = get_queue_status(count_output_files("BYZ"), count_data_files("BYZ"))
+    peshitta_status = get_queue_status(count_output_files("Peshitta_Syriac"), count_data_files("Peshitta_Syriac"))
+    coptic_status = get_queue_status(count_output_files("Coptic_Sahidic"), count_data_files("Coptic_Sahidic"))
+    armenian_status = get_queue_status(count_output_files("Armenian_Eastern"), count_data_files("Armenian_Eastern"))
+
+    queue_md = f"""# 📋 Fila de Tradução Ativa — AI-BIBLE (Fase GPU Frankfurt)
+
+Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
+
+> Gerado dinamicamente em: **{now}**
+
+---
+
+## 🏆 Status Atual das Coleções
+
+| Prioridade | Fonte | Idioma Original | Status Real | Localização | Observações |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **—** | Códice de Aleppo | Hebraico Massorético | {aleppo_status} | `output/Aleppo/` | Concluído com sucesso na GPU A10. |
+| **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | {lxx_status} | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
+| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | {geez_status} | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
+| **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | {targum_gen_status} | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | {dss_status} | `data/DSS/` | Apenas Isaías e Habakkuk alinhados com o Hebraico original. |
+| **3** | **Targum Onkelos (Restante)** | Aramaico Antigo | {targum_rest_status} | `data/ancient_versions/` | Restante da Torá aramaica. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | {byz_status} | `data/BYZ/` | Apenas Novo Testamento. |
+| **5** | **Peshitta Siríaca** | Siríaco Clássico | {peshitta_status} | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **6** | **Copta Saídico** | Copta Saídico | {coptic_status} | `data/ancient_versions/` | Novo Testamento Copta. |
+| **7** | **Armênio Oriental** | Armênio Clássico | {armenian_status} | `data/ancient_versions/` | Novo Testamento Armênio. |
+
+---
+
+## 🚫 Coleções Pausadas (Fora dos Recursos - Limite $300 USD)
+As seguintes fontes estão desativadas no tradutor e não gastam orçamento até liberação de novos créditos:
+- **WLC** (Códice de Leningrado) — *Hebraico Massorético*
+- **SBLGNT** — *Grego Koiné Crítico*
+- **Textus Receptus (TR)** — *Grego Koiné*
+- **Vulgata Latina (VUL)** — *Latim Clássico*
+- **Talmud Bavli** — *Hebraico Mishnaico e Aramaico Talmúdico*
+
+---
+
+## 🔄 Dinâmica da Sincronização
+1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
+2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
+3. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
+"""
+
+    with open("TRANSLATION_QUEUE.md", "w", encoding="utf-8") as f:
+        f.write(queue_md)
+
+    safe_msg = f"PROGRESS.md e TRANSLATION_QUEUE.md gerados! ({total_output}/{total_data} capitulos traduzidos, ETA: {eta_str})"
     try:
         print(f"OK: {safe_msg}")
     except UnicodeEncodeError:

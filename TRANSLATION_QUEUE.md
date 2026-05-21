@@ -1,74 +1,39 @@
-# Translation Queue — Fontes Priorizadas
+# 📋 Fila de Tradução Ativa — AI-BIBLE (Fase GPU Frankfurt)
 
-Este arquivo lista a ordem priorizada de tradução e o status atual das fontes no repositório.
+Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-## 🚀 Fila Ativa de Tradução
-
-| Ordem | Fonte | Seleção | Status | Localização |
-|---:|---|---|---|---|
-| 1 | **Septuaginta (LXX)** | Isaías, Salmos, Deuterocanônicos, 1 Esdras | 🚀 Em andamento | [data/LXX](data/LXX) |
-| 2 | **Ge'ez (Etiópico)** | NT completo + Enoque + Jubileus | ⏳ Aguardando | [data/ancient_versions/geez_extracted](data/ancient_versions/geez_extracted) |
-| 3 | **Manuscritos do Mar Morto (DSS)** | Seleção estratégica (ver abaixo) | ⏳ Aguardando | [data/DSS](data/DSS) |
-| 4 | **Targum Onkelos** | Apenas Gênesis (50 caps) | ⏳ Aguardando | [data/ancient_versions/targum_onkelos_genesis.json](data/ancient_versions/targum_onkelos_genesis.json) |
-| 5 | **Texto Bizantino (BYZ)** | NT completo | ⏳ Aguardando | [data/BYZ](data/BYZ) |
-| 6 | **Peshitta Siríaca** | NT completo | ⏳ Aguardando | [data/ancient_versions/peshitta_syriac.json](data/ancient_versions/peshitta_syriac.json) |
-| 7 | **Copta Saídico** | NT completo | ⏳ Aguardando | [data/ancient_versions/coptic_sahidic.json](data/ancient_versions/coptic_sahidic.json) |
-| 8 | **Armênio Oriental** | NT completo | ⏳ Aguardando | [data/ancient_versions/armenian_eastern.json](data/ancient_versions/armenian_eastern.json) |
+> Gerado dinamicamente em: **2026-05-21 05:25 UTC**
 
 ---
 
-## 🪨 Seleção Estratégica — Manuscritos do Mar Morto (DSS)
+## 🏆 Status Atual das Coleções
 
-Em vez de traduzir os ~928 fragmentos (maioria incompleta), priorizamos os 5 textos de maior impacto acadêmico e curiosidade para o público português:
-
-| Prioridade | Texto | Sigla | Por que é importante |
-|---:|---|---|---|
-| 1 | **Rolo de Isaías Completo** | 1QIsa-a | Único livro bíblico completo nos DSS — 1.000 anos mais antigo que o Texto Massorético |
-| 2 | **Regra da Comunidade** | 1QS | Estatuto da seita de Qumran — contexto essencial para entender o NT e o judaísmo do séc. I |
-| 3 | **Comentário de Habacuque** | 1QpHab | Primeiro comentário bíblico da história — aplicação profética ao tempo dos essênios |
-| 4 | **Rolo de Guerra** | 1QM | Texto apocalíptico — paralelos diretos com o Apocalipse de João |
-| 5 | **Hinos de Ação de Graças** | 1QH | Poesia mística — paralelos com os Salmos, atribuídos ao fundador de Qumran |
-
-> **Total estimado:** ~80–100 capítulos em vez de 928 — alta viabilidade dentro do orçamento.
-
----
-
-## 📜 Seleção Estratégica — Targum Onkelos
-
-O Targum Onkelos cobre a Torá inteira (Gênesis–Deuteronômio, 187 caps). Priorizamos:
-
-- **Apenas Gênesis (50 caps)** — o mais estudado, onde a interpretação aramaica difere mais do hebraico (criação, patriarcas, ciclo de José). Máximo impacto com mínimo custo.
-- Êxodo poderá ser incluído se sobrar orçamento após Gênesis.
+| Prioridade | Fonte | Idioma Original | Status Real | Localização | Observações |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **—** | Códice de Aleppo | Hebraico Massorético | **✅ 100% Traduzido** | `output/Aleppo/` | Concluído com sucesso na GPU A10. |
+| **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **✅ 100% Traduzido** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
+| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
+| **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **🚀 Traduzindo (2/50 caps)** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **⏳ Aguardando Fila** | `data/DSS/` | Apenas Isaías e Habakkuk alinhados com o Hebraico original. |
+| **3** | **Targum Onkelos (Restante)** | Aramaico Antigo | **⏳ Aguardando Fila** | `data/ancient_versions/` | Restante da Torá aramaica. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
+| **5** | **Peshitta Siríaca** | Siríaco Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **6** | **Copta Saídico** | Copta Saídico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Copta. |
+| **7** | **Armênio Oriental** | Armênio Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Armênio. |
 
 ---
 
-## 📖 Apócrifos — Já Baixados, Fase 4
-
-| Texto | Arquivo | Status |
-|---|---|---|
-| 4 Esdras (Vulgata Latina) | `data/apocrypha/4_esdras_vulgate.json` | ✅ Baixado — aguarda inclusão na fila |
-| Livro de Enoque | `data/apocrypha/enoch_charles_edition.txt` | ✅ Baixado — Fase 4 |
-| Livro dos Jubileus | `data/apocrypha/jubilees_charles_edition.pdf` | ✅ Baixado — Fase 4 |
-| Testamento dos Doze Patriarcas | `data/apocrypha/testaments_twelve_patriarchs.pdf` | ✅ Baixado — Fase 4 |
-| Oração de Manassés | `data/apocrypha/structured/Prayer_of_Manasseh/1.json` | ✅ Baixado — Fase 4 |
-| Salmo 151 | `data/apocrypha/structured/Psalm_151/1.json` | ✅ Baixado — Fase 4 |
-| Mishná: Berakhot | `data/apocrypha/mishnah_berakhot.json` | ✅ Baixado — Fase 4 |
+## 🚫 Coleções Pausadas (Fora dos Recursos - Limite $300 USD)
+As seguintes fontes estão desativadas no tradutor e não gastam orçamento até liberação de novos créditos:
+- **WLC** (Códice de Leningrado) — *Hebraico Massorético*
+- **SBLGNT** — *Grego Koiné Crítico*
+- **Textus Receptus (TR)** — *Grego Koiné*
+- **Vulgata Latina (VUL)** — *Latim Clássico*
+- **Talmud Bavli** — *Hebraico Mishnaico e Aramaico Talmúdico*
 
 ---
 
-## ❌ Fora do Orçamento Atual
-
-| Texto | Razão |
-|---|---|
-| Talmud Bavli (37 tratados) | Custo excessivo — texto vastíssimo |
-| WLC (Texto de Leningrado) | Redundante com Aleppo (mesmo texto hebraico massorético) |
-| Textus Receptus (TR) | Redundante com BYZ para fins acadêmicos |
-| SBLGNT | Redundante com BYZ para fins de público geral |
-
----
-
-## Observações Técnicas
-
-- Para cada item com `⏳ Aguardando`, a tradução começa automaticamente após a LXX concluir.
-- Os DSS requerem lógica especial no `translate_bible.py` para identificar os 5 textos selecionados pelos seus rótulos (1QIsa-a, 1QS, 1QpHab, 1QM, 1QH).
-- O 4 Esdras da Vulgata está em formato JSON por capítulo — pronto para tradução quando entrar na fila.
+## 🔄 Dinâmica da Sincronização
+1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
+2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
+3. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
