@@ -12,7 +12,7 @@ MAX_WORKERS = 3
 DOUBLE_PASS_REVIEW = True
 
 # === BUDGET LIMIT SCOPES ($300 USD) ===
-SKIP_MANUSCRIPTS = {"WLC", "SBLGNT", "TR", "Talmud", "VUL"}
+SKIP_MANUSCRIPTS = {"WLC", "SBLGNT", "TR", "Talmud", "VUL", "Aleppo", "LXX", "Geez"}
 ALLOWED_NT_BOOKS = {
     "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
     "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
