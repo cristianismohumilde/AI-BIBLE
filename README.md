@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-21 18:05 UTC**
+> **README gerado automaticamente em: 2026-05-21 18:10 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,826** |
-| Capítulos traduzidos | **1,955** (51.1%) |
+| Capítulos traduzidos | **1,958** (51.2%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$107 USD** |
 | ETA estimado de processamento | **~2d 23h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-21 18:05 UTC |
+| Última atualização | 2026-05-21 18:10 UTC |
 
 ---
 
@@ -37,7 +37,7 @@ com transliteração acadêmica incluída.
 | Texto | Idioma | Fonte | Traduzido | Status |
 |:---|:---|---:|---:|:---|
 | 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 50 traduzidos | 🚀 Em andamento (27%) |
-| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 223 traduzidos | 🚀 Em andamento (86%) |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 226 traduzidos | 🚀 Em andamento (87%) |
 | 🔤 Copta Saídico | Copta Saídico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 296 traduzidos | ✅ Completo |
@@ -102,7 +102,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 1,955/3,826 caps (51.1%))
+### 🚀 Fase 2 — Tradução (Em andamento — 1,958/3,826 caps (51.2%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
