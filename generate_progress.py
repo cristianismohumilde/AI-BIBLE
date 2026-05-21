@@ -57,6 +57,7 @@ ALLOWED_GEEZ_BOOKS = {
     "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
     "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
 }
+ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk", "1QS", "1QM", "1QH", "11Q19", "CD"}
 # =======================================
 
 COLLECTION_LABELS = {
@@ -90,6 +91,7 @@ def count_files_recursive(directory, collection_name=None):
                         book = book.rsplit("_", 1)[0]
                     if collection_name == "LXX" and book not in ALLOWED_LXX_BOOKS: continue
                     if collection_name == "BYZ" and book not in ALLOWED_NT_BOOKS: continue
+                    if collection_name == "DSS" and book not in ALLOWED_DSS_BOOKS: continue
                 count += 1
     return count
 
@@ -176,6 +178,13 @@ def count_data_files(collection):
         if collection in SKIP_MANUSCRIPTS:
             return 0
         return total_pages if total_pages > 0 else 36
+
+    if collection == "Apocrypha":
+        apocrypha_books = {"4_esdras_vulgate.json": 16, "prayer_of_manasseh.json": 1, "psalm_151.json": 1}
+        return sum(
+            v for k, v in apocrypha_books.items()
+            if os.path.exists(os.path.join(DATA_DIR, "apocrypha", k))
+        )
 
     data_path = os.path.join(DATA_DIR, collection)
     if not os.path.isdir(data_path):

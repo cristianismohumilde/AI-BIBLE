@@ -7,11 +7,11 @@
 
 ## 📈 Progresso Geral
 
-`████████░░░░░░░░░░░░` 43.0%
+`██████████░░░░░░░░░░` 55.0%
 
-**1,646** de **3,826** capítulos traduzidos.
-**ETA estimado:** ~3d 11h
-**Custo Computacional Restante:** ~$125 USD
+**1,641** de **2,985** capítulos traduzidos.
+**ETA estimado:** ~2d 3h
+**Custo Computacional Restante:** ~$77 USD
 
 ---
 
@@ -21,10 +21,10 @@
 | :--- | :--- | ---: | ---: | :--- | :--- |
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 928 | `████████████████████` 100.0% | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 | 389 | `████████████████████` 100.0% | ✅ Completo |
-| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 986 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
-| 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ (sem dados) | ❌ Sem dados |
+| 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 127 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 18 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
-| 📜 Targum Onkelos | Aramaico Antigo | 187 | 33 | `███░░░░░░░░░░░░░░░░░` 17.6% | 🚀 Em andamento |
+| 📜 Targum Onkelos | Aramaico Antigo | 187 | 28 | `██░░░░░░░░░░░░░░░░░░` 15.0% | 🚀 Em andamento |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |

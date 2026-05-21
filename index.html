@@ -780,6 +780,7 @@
                     <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
                     <option value="LXX">Septuaginta (LXX - Grego)</option>
                     <option value="DSS">Manuscritos do Mar Morto (DSS)</option>
+                    <option value="Apocrypha">Apócrifos (4 Esdras / VUL)</option>
                     <option value="Geez">Ge'ez (Etiópico)</option>
                     <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
                     <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
@@ -1002,11 +1003,22 @@
             "መጽሐፈ ኩፋሌ": "Jubileus"
         };
 
+        const DSS_BOOK_MAP = {
+            "Isaiah": "Rolo de Isaías Completo (1QIsa-a)",
+            "Habakkuk": "Comentário de Habacuque (1QpHab)",
+            "1QS": "Regra da Comunidade (1QS)",
+            "1QM": "Rolo de Guerra (1QM)",
+            "1QH": "Hinos de Ação de Graças (1QH)"
+        };
+
         const BIBLE_STRUCTURE = {
             "Aleppo": TANAKH_STRUCTURE,
             "LXX": LXX_STRUCTURE,
             "DSS": {
-                "Isaiah": 66, "Habakkuk": 3
+                "Isaiah": 66, "Habakkuk": 3, "1QS": 11, "1QM": 19, "1QH": 28
+            },
+            "Apocrypha": {
+                "4_Esdras": 16, "Oração_de_Manassés": 1, "Salmo_151": 1
             },
             "BYZ": NT_STRUCTURE,
             "Geez": GEEZ_STRUCTURE,
@@ -1321,6 +1333,9 @@
             if (manuscript === "Geez" && GEEZ_BOOK_MAP[book]) {
                 return `${GEEZ_BOOK_MAP[book]} (${book})`;
             }
+            if (manuscript === "DSS" && DSS_BOOK_MAP[book]) {
+                return DSS_BOOK_MAP[book];
+            }
             return book.replace(/_/g, " ");
         }
 
@@ -1510,6 +1525,44 @@
                             });
                         }
                     }
+                } else if (manuscript === "Apocrypha") {
+                    let filename = "";
+                    if (book === "4_Esdras") filename = "4_esdras_vulgate.json";
+                    else if (book === "Oração_de_Manassés") filename = "prayer_of_manasseh.json";
+                    else if (book === "Salmo_151") filename = "psalm_151.json";
+
+                    if (filename) {
+                        const r = await fetch(`data/apocrypha/${filename}`);
+                        if (r.ok) {
+                            const data = await r.json();
+                            if (book === "4_Esdras") {
+                                const foundCh = data.find(c => parseInt(c.chapter) === parseInt(chapter));
+                                if (foundCh && foundCh.verses) {
+                                    foundCh.verses.forEach(v => {
+                                        verses.push({
+                                            verse: v.verse,
+                                            original: v.text,
+                                            translation: null
+                                        });
+                                    });
+                                }
+                            } else {
+                                // Sefaria JSON format: { "he": [...], "text": [...] }
+                                const list = data.he || data.text || [];
+                                if (Array.isArray(list)) {
+                                    list.forEach((vText, idx) => {
+                                        if (vText) {
+                                            verses.push({
+                                                verse: idx + 1,
+                                                original: vText,
+                                                translation: null
+                                            });
+                                        }
+                                    });
+                                }
+                            }
+                        }
+                    }
                 } else if (["Peshitta_Syriac", "Coptic_Sahidic", "Armenian_Eastern"].includes(manuscript)) {
                     let filename = "";
                     if (manuscript === "Peshitta_Syriac") filename = "peshitta_syriac.json";
@@ -1623,6 +1676,8 @@
                 langName = "Aramaico Antigo";
             } else if (manuscript === "Talmud") {
                 langName = "Hebraico / Aramaico Talmúdico";
+            } else if (manuscript === "Apocrypha") {
+                langName = "Latim / Grego (Apócrifos)";
             }
             DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${langName}`;
 
