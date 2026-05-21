@@ -1,15 +1,15 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-21 12:36 UTC**
+> Gerado automaticamente em: **2026-05-21 12:41 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`████████████░░░░░░░░` 60.2%
+`████████████░░░░░░░░` 60.3%
 
-**1,797** de **2,985** capítulos traduzidos.
+**1,799** de **2,985** capítulos traduzidos.
 **ETA estimado:** ~1d 21h
 **Custo Computacional Restante:** ~$68 USD
 
@@ -25,7 +25,7 @@
 | 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 18 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📜 Targum Onkelos | Aramaico Antigo | 187 | 50 | `█████░░░░░░░░░░░░░░░` 26.7% | 🚀 Em andamento |
-| 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 65 | `█████░░░░░░░░░░░░░░░` 25.0% | 🚀 Em andamento |
+| 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 67 | `█████░░░░░░░░░░░░░░░` 25.8% | 🚀 Em andamento |
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 🇪🇹 Versão Ge'ez (Etíope) | Ge'ez (Etíope Clássico) | 296 | 296 | `████████████████████` 100.0% | ✅ Completo |
