@@ -471,7 +471,10 @@
             padding-right: 1.5rem;
             padding-left: 2rem; /* Espaço para o número do versículo */
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
+            gap: 0.5rem;
         }
 
         .text-translation {
@@ -480,6 +483,20 @@
             line-height: 1.75rem;
             color: var(--color-text-primary);
             font-weight: 400;
+        }
+
+        /* Transliteração acadêmica — estilo itálico com borda teal sutil à esquerda */
+        .text-transliteration {
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            line-height: 1.45rem;
+            color: var(--color-text-secondary);
+            font-style: italic;
+            border-left: 2px solid var(--border-glow);
+            padding-left: 0.75rem;
+            margin-top: 0.25rem;
+            width: 100%;
+            word-break: break-word;
         }
 
         /* Navegação de Capítulo */
@@ -1747,21 +1764,26 @@
                         // Usa innerHTML para renderizar corretamente os caracteres e diacríticos hebraicos
                         const originalHtml = verse.original || "";
                         const translationText = verse.translation || "";
+                        const translitText = verse.transliteration || "";
 
                         const verseCard = document.createElement("div");
                         verseCard.className = "verse-card";
                         verseCard.title = "Clique para copiar o versículo";
 
-                        let translationContentHtml;
+                        let translationContentHtml = "";
                         if (translationText) {
-                            translationContentHtml = `<p class="text-translation">${translationText}</p>`;
+                            translationContentHtml += `<p class="text-translation">${translationText}</p>`;
                         } else {
-                            translationContentHtml = `
+                            translationContentHtml += `
                                 <div class="translation-pending-badge">
                                     <span class="pulse-dot-gold"></span>
                                     Tradução pendente (em fila de IA)
                                 </div>
                             `;
+                        }
+
+                        if (translitText) {
+                            translationContentHtml += `<p class="text-transliteration" lang="en-Latn">${translitText}</p>`;
                         }
 
                         verseCard.innerHTML = `
@@ -1777,9 +1799,18 @@
                         // Copia o versículo ao clicar
                         verseCard.addEventListener("click", () => {
                             const cleanOriginal = stripHtml(originalHtml);
-                            const textToCopy = translationText
-                                ? `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}\n\n[Português] ${translationText}`
-                                : `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}\n\n[Português] (Tradução pendente)`;
+                            let textToCopy = `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}`;
+                            
+                            if (translitText) {
+                                textToCopy += `\n\n[Transliteração] ${translitText}`;
+                            }
+                            
+                            if (translationText) {
+                                textToCopy += `\n\n[Português] ${translationText}`;
+                            } else {
+                                textToCopy += `\n\n[Português] (Tradução pendente)`;
+                            }
+                            
                             navigator.clipboard.writeText(textToCopy).then(showCopyToast).catch(() => {});
                         });
 
