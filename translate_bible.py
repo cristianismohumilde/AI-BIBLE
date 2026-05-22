@@ -621,6 +621,63 @@ def main():
 
         # --- CASO 3: Manuscritos Bíblicos normais (WLC, Aleppo, LXX, DSS, SBLGNT, etc.) ---
         else:
+            # Suporte a estrutura plana: data/BYZ/Book_Chapter.json (len(parts) == 3)
+            if len(parts) == 3:
+                translation = parts[1]
+                filename_base = os.path.splitext(file)[0]  # ex: "1Corinthians_1"
+
+                if translation in SKIP_MANUSCRIPTS:
+                    continue
+
+                # Extrai book e chapter do nome do arquivo (ex: "1Corinthians_1" -> book="1Corinthians", chapter="1")
+                if "_" in filename_base:
+                    last_underscore = filename_base.rfind("_")
+                    book = filename_base[:last_underscore]
+                    chapter_name = filename_base[last_underscore + 1:]
+                else:
+                    book = filename_base
+                    chapter_name = "1"
+
+                if translation == "BYZ" and book not in ALLOWED_NT_BOOKS:
+                    continue
+
+                source_language = language_map.get(translation, "Idiomas Originais")
+                output_dir = f"output/{translation}"
+                output_file = f"{output_dir}/{book}_{chapter_name}.json"
+
+                if os.path.exists(output_file):
+                    continue
+
+                print(f"\n🚀 [{translation}] Traduzindo {book} {chapter_name} ({source_language})...")
+
+                data = load_json_file(input_file)
+                if data is None:
+                    continue
+
+                verse_list = []
+                if isinstance(data, list):
+                    for item in data:
+                        verse_num = item.get("verse") or item.get("pk") or "1"
+                        original_text = item.get("text", "")
+                        if original_text:
+                            verse_list.append((verse_num, original_text))
+                elif isinstance(data, dict):
+                    verses = data.get("he") or data.get("text") or []
+                    if isinstance(verses, list):
+                        for i, original_text in enumerate(verses):
+                            if original_text:
+                                verse_list.append((i + 1, original_text))
+
+                translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=chapter_name)
+                translated_verses = add_transliteration_to_verses(translated_verses, translation)
+
+                if translated_verses:
+                    os.makedirs(output_dir, exist_ok=True)
+                    with open(output_file, "w", encoding="utf-8") as f:
+                        json.dump(translated_verses, f, ensure_ascii=False, indent=2)
+                    print(f"✅ [{translation}] {book} {chapter_name} traduzido e salvo!")
+                continue
+
             if len(parts) < 4:
                 continue
 
