@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-22 10:29 UTC**
+> Gerado dinamicamente em: **2026-05-22 10:34 UTC**
 
 ---
 
@@ -14,7 +14,7 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **✅ 100% Traduzido** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
 | **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
 | **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **✅ 100% Traduzido** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
-| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **🚀 Traduzindo (115/127 caps)** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **🚀 Traduzindo (117/127 caps)** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
 | **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **⏳ Aguardando Fila** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
 | **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
 | **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
@@ -50,7 +50,7 @@ Após a conclusão de todas as traduções, os 3 workers da VM executarão `tran
 | Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **⏳ Aguardando conclusão das traduções** |
 | ISO 9985 Armênio | Armenian Eastern | **⏳ Aguardando conclusão das traduções** |
 
-**Progresso geral:** 0/2387 arquivos transliterados.
+**Progresso geral:** 0/2389 arquivos transliterados.
 
 ---
 
