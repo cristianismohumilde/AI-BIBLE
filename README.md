@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-22 01:24 UTC**
+> **README gerado automaticamente em: 2026-05-22 01:29 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,826** |
-| Capítulos traduzidos | **2,109** (55.1%) |
+| Capítulos traduzidos | **2,111** (55.2%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$99 USD** |
-| ETA estimado de processamento | **~2d 18h** |
+| Custo estimado restante | **~$98 USD** |
+| ETA estimado de processamento | **~2d 17h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-22 01:24 UTC |
+| Última atualização | 2026-05-22 01:29 UTC |
 
 ---
 
@@ -38,7 +38,7 @@ com transliteração acadêmica incluída.
 |:---|:---|---:|---:|:---|
 | 📜 Targum Onkelos | Aramaico Antigo | 187 caps | 50 traduzidos | 🚀 Em andamento (27%) |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 caps | 260 traduzidos | ✅ Completo |
-| 🔤 Copta Saídico | Copta Saídico | 260 caps | 117 traduzidos | 🚀 Em andamento (45%) |
+| 🔤 Copta Saídico | Copta Saídico | 260 caps | 119 traduzidos | 🚀 Em andamento (46%) |
 | 🏔️ Armênio Oriental | Armênio Clássico | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
 | 🇪🇹 Ge'ez (Etiópico) | Ge'ez Clássico | 296 caps | 296 traduzidos | ✅ Completo |
 
@@ -102,7 +102,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 2,109/3,826 caps (55.1%))
+### 🚀 Fase 2 — Tradução (Em andamento — 2,111/3,826 caps (55.2%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
