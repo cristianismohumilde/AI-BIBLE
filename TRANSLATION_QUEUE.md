@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-22 00:03 UTC**
+> Gerado dinamicamente em: **2026-05-22 00:08 UTC**
 
 ---
 
@@ -18,7 +18,7 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **⏳ Aguardando Fila** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
 | **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
 | **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
-| **6** | **Copta Saídico** | Copta Saídico | **🚀 Traduzindo (92/260 caps)** | `data/ancient_versions/` | Novo Testamento Copta. |
+| **6** | **Copta Saídico** | Copta Saídico | **🚀 Traduzindo (93/260 caps)** | `data/ancient_versions/` | Novo Testamento Copta. |
 | **7** | **Armênio Oriental** | Armênio Clássico | **⏳ Aguardando Fila** | `data/ancient_versions/` | Novo Testamento Armênio. |
 
 ---
@@ -50,7 +50,7 @@ Após a conclusão de todas as traduções, os 3 workers da VM executarão `tran
 | Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **⏳ Aguardando conclusão das traduções** |
 | ISO 9985 Armênio | Armenian Eastern | **⏳ Aguardando conclusão das traduções** |
 
-**Progresso geral:** 0/2084 arquivos transliterados.
+**Progresso geral:** 0/2085 arquivos transliterados.
 
 ---
 
