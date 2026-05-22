@@ -1,15 +1,15 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-22 06:21 UTC**
+> Gerado automaticamente em: **2026-05-22 06:27 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
 
 ## 📈 Progresso Geral
 
-`███████████████░░░░░` 75.8%
+`███████████████░░░░░` 75.9%
 
-**2,263** de **2,985** capítulos traduzidos.
+**2,265** de **2,985** capítulos traduzidos.
 **ETA estimado:** ~1d 3h
 **Custo Computacional Restante:** ~$41 USD
 
@@ -27,7 +27,7 @@
 | 📜 Targum Onkelos | Aramaico Antigo | 187 | 50 | `█████░░░░░░░░░░░░░░░` 26.7% | 🚀 Em andamento |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 260 | `████████████████████` 100.0% | ✅ Completo |
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 260 | `████████████████████` 100.0% | ✅ Completo |
-| 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 11 | `░░░░░░░░░░░░░░░░░░░░` 4.2% | 🚀 Em andamento |
+| 🏔️ Versão Armênia Oriental | Armênio Clássico | 260 | 13 | `█░░░░░░░░░░░░░░░░░░░` 5.0% | 🚀 Em andamento |
 | 🇪🇹 Versão Ge'ez (Etíope) | Ge'ez (Etíope Clássico) | 296 | 296 | `████████████████████` 100.0% | ✅ Completo |
 | 📖 Talmud Bavli | Aramaico / Hebraico Rabínico | — | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
 | 📜 WLC (Texto de Leningrado) | Hebraico Massorético | 929 | — | `░░░░░░░░░░░░░░░░░░░░` — | ❌ Sem orçamento |
