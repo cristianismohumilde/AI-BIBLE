@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-22 23:23 UTC**
+> **README gerado automaticamente em: 2026-05-22 23:28 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -14,12 +14,12 @@ com transliteração acadêmica incluída.
 | Métrica | Valor |
 |---|---|
 | Capítulos fonte disponíveis | **3,826** |
-| Capítulos traduzidos | **2,408** (62.9%) |
+| Capítulos traduzidos | **2,409** (63.0%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
 | Custo estimado restante | **~$81 USD** |
 | ETA estimado de processamento | **~2d 6h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-22 23:23 UTC |
+| Última atualização | 2026-05-22 23:28 UTC |
 
 ---
 
@@ -30,7 +30,7 @@ com transliteração acadêmica incluída.
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 389 traduzidos | ✅ Completo |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 986 caps | 127 traduzidos | 🚀 Em andamento (13%) |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 9 traduzidos | 🚀 Em andamento (3%) |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 10 traduzidos | 🚀 Em andamento (4%) |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
@@ -102,7 +102,7 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 2,408/3,826 caps (62.9%))
+### 🚀 Fase 2 — Tradução (Em andamento — 2,409/3,826 caps (63.0%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
 
