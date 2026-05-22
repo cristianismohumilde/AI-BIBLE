@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-22 17:25 UTC**
+> **README atualizado em: 2026-05-22 17:35 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -13,13 +13,13 @@ com transliteração acadêmica incluída.
 
 | Métrica | Valor |
 |---|---|
-| Capítulos fonte disponíveis | **3,826** |
-| Capítulos traduzidos | **2,399** (62.7%) |
+| Capítulos fonte disponíveis | **2,985** (escopo ativo) |
+| Capítulos traduzidos | **2,415** (80.9%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$82 USD** |
-| ETA estimado de processamento | **~2d 6h** |
+| Custo estimado restante | **~$32 USD** |
+| ETA estimado de processamento | **~21h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-22 17:25 UTC |
+| Última atualização | 2026-05-22 17:35 UTC |
 
 ---
 
@@ -30,7 +30,7 @@ com transliteração acadêmica incluída.
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 389 traduzidos | ✅ Completo |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 986 caps | 127 traduzidos | 🚀 Em andamento (13%) |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | 🚀 Em andamento (0%) |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
@@ -102,17 +102,19 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Léxicos (Strong's Hebrew+Greek, BDB, Abbott-Smith, Jastrow, Sedra, Dillmann)
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
-### 🚀 Fase 2 — Tradução (Em andamento — 2,399/3,826 caps (62.7%))
+### 🚀 Fase 2 — Tradução (Em andamento — 2,415/2,985 caps (80.9%))
 - GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
 - Double-Pass Review + Filtro Regex ativos
+- Concluídos: Aleppo, LXX, DSS, Ge'ez, Peshitta, Copta ✅
+- Em andamento: BYZ (0%), Armênio (34%), Apócrifos 4 Esdras (89%), Targum (27%)
 
-### ⏳ Fase 3 — Transliteração (após Fase 2)
-- Script: `transliterate.py` — roda após conclusão da tradução
-- Impacto: +50% do tempo de GPU (3ª chamada por versículo)
+### 🔄 Fase 3 — Transliteração (Rodando em paralelo)
+- Script: `transliterate.py` — já ativo em background na VM
+- Novos capítulos já saem com `"transliteration"` embutida em tempo real
 
 ### 🗺️ Fase 4 — Expansão Futura
 - Enoque, Jubileus, Testamento dos Doze Patriarcas, Didaquê
-- **4 Esdras (Vulgata)** — já baixado em `data/apocrypha/4_esdras_vulgate.json`
+- **4 Esdras (Vulgata)** — 16/18 capítulos traduzidos, 2 restantes 🚀
 - Mishná completa + comentários clássicos traduzidos
 - Interface web com busca e comparação lado a lado
 

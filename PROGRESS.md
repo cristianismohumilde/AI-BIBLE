@@ -1,6 +1,6 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-22 17:25 UTC**
+> Gerado automaticamente em: **2026-05-22 17:32 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
@@ -23,7 +23,7 @@
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 | 389 | `████████████████████` 100.0% | ✅ Completo |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 127 | 127 | `████████████████████` 100.0% | ✅ Completo |
 | 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 18 | 16 | `█████████████████░░░` 88.9% | 🚀 Em andamento |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | 🚀 Em andamento |
 | 📜 Targum Onkelos | Aramaico Antigo | 187 | 50 | `█████░░░░░░░░░░░░░░░` 26.7% | 🚀 Em andamento |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 260 | `████████████████████` 100.0% | ✅ Completo |
 | 🔤 Versão Copta Saídica | Copta Saídico | 260 | 260 | `████████████████████` 100.0% | ✅ Completo |
@@ -42,7 +42,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Livro dos Jubileus** (Etiópico Clássico)
 - **Testamento dos Doze Patriarcas** (Grego Antigo)
 - **4 Esdras (Vulgata)** (já estruturado em JSON)
-- **Mishná: Berakhot** (Sefaria API)
+- **Mishná: Berakhot** (Sefaria API — formato incompatível, aguardando extração do texto hebraico)
 *(A Didaquê está programada para download)*
 
 ---
