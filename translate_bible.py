@@ -45,6 +45,51 @@ ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk", "1QS", "1QM", "1QH", "11Q19", "CD"}
 
 import re
 
+try:
+    from transliterate import transliterate_verse
+except ImportError:
+    transliterate_verse = None
+
+def load_json_file(filepath):
+    """Carrega arquivos JSON de forma segura sem quebrar o pipeline em caso de arquivos vazios/corrompidos."""
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"\n⚠️ [ERRO] Falha ao decodificar JSON em '{filepath}' (arquivo corrompido ou vazio): {e}")
+        return None
+    except Exception as e:
+        print(f"\n⚠️ [ERRO] Falha ao ler arquivo '{filepath}': {e}")
+        return None
+
+def add_transliteration_to_verses(verses, collection):
+    """Adiciona transliteração em tempo real para os versículos recém-traduzidos."""
+    if not transliterate_verse or not verses:
+        return verses
+    print(f"   🔤 Gerando transliterações em tempo real ({collection})...")
+    for v in verses:
+        original = v.get("original", "")
+        if original:
+            try:
+                translit = transliterate_verse(original, collection)
+                if translit:
+                    v["transliteration"] = translit
+            except Exception as e:
+                print(f"   ⚠️ Erro ao transliterar versículo: {e}")
+    
+    # Reordena de forma bonita: verse -> original -> transliteration -> translation
+    reordered = []
+    for v in verses:
+        entry = {"verse": v.get("verse")}
+        if "original" in v:
+            entry["original"] = v["original"]
+        if "transliteration" in v:
+            entry["transliteration"] = v["transliteration"]
+        if "translation" in v:
+            entry["translation"] = v["translation"]
+        reordered.append(entry)
+    return reordered
+
 def clean_translation_response(text):
     if not text:
         return text
@@ -366,8 +411,9 @@ def main():
         # --- CASO 1.5: Apócrifos estruturados (4 Esdras Vulgata, etc.) ---
         if "apocrypha" in parts and file in APOCRYPHA_BOOKS:
             book_name, source_language = APOCRYPHA_BOOKS[file]
-            with open(input_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
+            data = load_json_file(input_file)
+            if data is None:
+                continue
 
             if not isinstance(data, list):
                 continue  # formato inesperado
@@ -396,6 +442,7 @@ def main():
                 translated_verses = translate_verses_parallel(
                     verse_list, source_language, book=book_name, chapter=ch_num
                 )
+                translated_verses = add_transliteration_to_verses(translated_verses, "Apocrypha")
 
                 if translated_verses:
                     os.makedirs(output_dir, exist_ok=True)
@@ -409,9 +456,10 @@ def main():
                 continue
             book = os.path.splitext(file)[0]
             source_language = language_map["Talmud"]
-            
-            with open(input_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
+
+            data = load_json_file(input_file)
+            if data is None:
+                continue
 
             if isinstance(data, dict) and "text" in data:
                 pages = data["text"]
@@ -436,7 +484,8 @@ def main():
                             verse_list.append((i + 1, paragraph))
                     
                     translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=daf_name)
-                        
+                    translated_verses = add_transliteration_to_verses(translated_verses, "Talmud")
+
                     if translated_verses:
                         os.makedirs(output_dir, exist_ok=True)
                         with open(output_file, "w", encoding="utf-8") as f:
@@ -451,9 +500,10 @@ def main():
                 if book not in ALLOWED_TARGUM_BOOKS:
                     continue
                 source_language = language_map["Targum_Onkelos"]
-                
-                with open(input_file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+
+                data = load_json_file(input_file)
+                if data is None:
+                    continue
                     
                 if isinstance(data, dict) and "text" in data:
                     chapters = data["text"]
@@ -475,7 +525,8 @@ def main():
                                 verse_list.append((i + 1, verse))
                         
                         translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=ch_num)
-                            
+                        translated_verses = add_transliteration_to_verses(translated_verses, "Targum_Onkelos")
+
                         if translated_verses:
                             os.makedirs(output_dir, exist_ok=True)
                             with open(output_file, "w", encoding="utf-8") as f:
@@ -486,9 +537,10 @@ def main():
             elif file in ["peshitta_syriac.json", "coptic_sahidic.json", "armenian_eastern.json"]:
                 trans_key = "Peshitta_Syriac" if "peshitta" in file else ("Coptic_Sahidic" if "coptic" in file else "Armenian_Eastern")
                 source_language = language_map[trans_key]
-                
-                with open(input_file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+
+                data = load_json_file(input_file)
+                if data is None:
+                    continue
                     
                 if isinstance(data, dict) and "books" in data:
                     for book_dict in data["books"]:
@@ -514,7 +566,8 @@ def main():
                                     verse_list.append((verse_num, verse_text))
                             
                             translated_verses = translate_verses_parallel(verse_list, source_language, book=book_name, chapter=ch_num)
-                                
+                            translated_verses = add_transliteration_to_verses(translated_verses, trans_key)
+
                             if translated_verses:
                                 os.makedirs(output_dir, exist_ok=True)
                                 with open(output_file, "w", encoding="utf-8") as f:
@@ -525,26 +578,27 @@ def main():
             elif "geez_extracted" in parts:
                 source_language = language_map["Geez"]
                 book_name = file.replace(".json", "")
-                
+
                 if "_" in book_name:
                     book_title, ch_num = book_name.rsplit("_", 1)
                 else:
                     book_title, ch_num = book_name, "1"
-                    
+
                 if book_title not in ALLOWED_GEEZ_BOOKS:
                     continue
-                
+
                 output_dir = "output/Geez"
                 output_file = f"{output_dir}/{book_title}_{ch_num}.json"
-                
+
                 if os.path.exists(output_file):
                     continue
-                    
+
                 print(f"\n🚀 [Ge'ez] Traduzindo {book_title} {ch_num}...")
-                
-                with open(input_file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                
+
+                data = load_json_file(input_file)
+                if data is None:
+                    continue
+
                 verse_list = []
                 if isinstance(data, dict) and "text" in data:
                     for item in data["text"]:
@@ -555,9 +609,10 @@ def main():
                             else:
                                 v_num, v_text = "1", item
                             verse_list.append((v_num.strip(), v_text.strip()))
-                
+
                 translated_verses = translate_verses_parallel(verse_list, source_language, book=book_title, chapter=ch_num)
-                    
+                translated_verses = add_transliteration_to_verses(translated_verses, "Geez")
+
                 if translated_verses:
                     os.makedirs(output_dir, exist_ok=True)
                     with open(output_file, "w", encoding="utf-8") as f:
@@ -592,8 +647,9 @@ def main():
 
             print(f"\n🚀 [{translation}] Traduzindo {book} {chapter_name} ({source_language})...")
 
-            with open(input_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
+            data = load_json_file(input_file)
+            if data is None:
+                continue
 
             verse_list = []
             if isinstance(data, list):
@@ -611,6 +667,7 @@ def main():
                             verse_list.append((verse_num, original_text))
 
             translated_verses = translate_verses_parallel(verse_list, source_language, book=book, chapter=chapter_name)
+            translated_verses = add_transliteration_to_verses(translated_verses, translation)
 
             if translated_verses:
                 os.makedirs(output_dir, exist_ok=True)

@@ -3,10 +3,12 @@
 vm_autopush.py
 ==============
 Roda na VM Oracle Cloud. A cada 5 minutos:
-  1. Gera PROGRESS.md e README.md atualizados
-  2. Faz git add + commit + push de tudo que mudou
-  3. Se translate_bible.py foi atualizado remotamente, reinicia o serviço
-  4. Se todas as traduções concluíram, aciona transliterate.py automaticamente
+  1. Faz git pull das alterações remotas
+  2. Se translate_bible.py foi atualizado remotamente, reinicia o serviço
+  3. Se vm_autopush.py foi atualizado remotamente, reinicia a si mesmo
+  4. Garante que transliterate.py está rodando em background (catch-up contínuo)
+  5. Gera PROGRESS.md e README.md atualizados
+  6. Faz git add + commit + push de tudo que mudou
 
 Uso: nohup python3 vm_autopush.py > autopush.log 2>&1 &
 """
@@ -14,6 +16,7 @@ Uso: nohup python3 vm_autopush.py > autopush.log 2>&1 &
 import subprocess
 import time
 import os
+import sys
 from datetime import datetime
 
 REPO = "/home/ubuntu/AI-BIBLE"
@@ -26,53 +29,55 @@ def run(cmd):
     return r.stdout.strip(), r.returncode == 0
 
 
-def all_translations_done():
-    """Verifica se todas as coleções ativas terminaram de traduzir."""
+def is_transliterate_running():
+    """Verifica se transliterate.py está rodando em background."""
     try:
-        # Importa as funções de contagem do generate_progress
-        import sys
-        sys.path.insert(0, REPO)
-        import importlib.util
-        spec = importlib.util.spec_from_file_location("gp", os.path.join(REPO, "generate_progress.py"))
-        gp = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(gp)
-
-        # Coleções ativas na fila (excluindo as pausadas)
-        active_collections = ["Targum_Onkelos", "DSS", "BYZ", "Peshitta_Syriac", "Coptic_Sahidic", "Armenian_Eastern"]
-        for col in active_collections:
-            data = gp.count_data_files(col)
-            out  = gp.count_output_files(col)
-            if data > 0 and out < data:
-                return False
-        return True
-    except Exception as e:
-        print(f"  [translit-check] Erro ao verificar conclusão: {e}")
+        result = subprocess.run(
+            ["pgrep", "-f", "transliterate.py"],
+            capture_output=True, text=True
+        )
+        return result.returncode == 0
+    except Exception:
         return False
 
 
 def maybe_start_transliteration():
-    """Aciona transliterate.py se todas as traduções terminaram e ele ainda não foi iniciado."""
-    if os.path.exists(TRANSLIT_FLAG):
-        return  # Já foi acionado antes
-
-    if not all_translations_done():
-        return  # Ainda há traduções pendentes
+    """
+    Garante que transliterate.py está rodando em background para catch-up contínuo.
+    Roda mesmo que as traduções não estejam 100% concluídas — processa arquivos já prontos.
+    """
+    if is_transliterate_running():
+        return  # Já está rodando
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{now}] ✅ Todas as traduções concluídas! Iniciando Fase de Transliteração...")
 
-    # Cria flag para não re-acionar
+    # Verifica se há alguma coleção com output já traduzido
+    has_output = False
+    try:
+        for d in os.listdir(OUTPUT_DIR):
+            col_path = os.path.join(OUTPUT_DIR, d)
+            if os.path.isdir(col_path) and any(f.endswith(".json") for f in os.listdir(col_path)):
+                has_output = True
+                break
+    except Exception:
+        pass
+
+    if not has_output:
+        return  # Ainda não há nada para transliterar
+
+    print(f"[{now}] 🔤 Iniciando transliterate.py em background (catch-up)...")
+
+    # Cria/atualiza flag de controle
     with open(TRANSLIT_FLAG, "w") as f:
         f.write(f"iniciado em {now}")
 
-    # Inicia transliterate.py em background (sem bloquear o autopush)
     subprocess.Popen(
-        ["python3", "transliterate.py"],
+        [sys.executable, "transliterate.py"],
         cwd=REPO,
         stdout=open(os.path.join(REPO, "transliterate.log"), "a"),
         stderr=subprocess.STDOUT
     )
-    print(f"[{now}] 🔤 transliterate.py iniciado em background. Log: transliterate.log")
+    print(f"[{now}] 🔤 transliterate.py iniciado. Log: transliterate.log")
 
 
 def cycle():
@@ -80,24 +85,35 @@ def cycle():
 
     # 0. Sincroniza com as alterações remotas
     out, ok = run("git pull origin main --no-edit -X theirs")
-    if ok and "translate_bible.py" in out:
-        print(f"[{now}] translate_bible.py foi atualizado remotamente! Reiniciando o serviço...")
-        run("sudo systemctl restart translate_bible")
+
+    if ok and out:
+        # Reinicia serviço de tradução se translate_bible.py foi atualizado
+        if "translate_bible.py" in out:
+            print(f"[{now}] translate_bible.py atualizado remotamente! Reiniciando serviço...")
+            run("sudo systemctl restart translate_bible")
+
+        # Auto-reload: reinicia vm_autopush.py se ele próprio foi atualizado
+        if "vm_autopush.py" in out:
+            print(f"[{now}] vm_autopush.py atualizado remotamente! Reiniciando autopush...")
+            # Flush logs e reinicia o processo atual com o novo código
+            sys.stdout.flush()
+            sys.stderr.flush()
+            os.execv(sys.executable, [sys.executable, os.path.join(REPO, "vm_autopush.py")])
 
     # 1. Gera arquivos de progresso
     run("python3 generate_progress.py")
     run("python3 generate_readme.py")
 
-    # 2. Verifica se deve iniciar transliteração
+    # 2. Garante que transliterate.py está rodando em background
     maybe_start_transliteration()
 
     # 3. Adiciona tudo
     run("git add -A")
 
-    # 4. Verifica se ha mudancas
+    # 4. Verifica se há mudanças
     status, _ = run("git status --porcelain")
     if not status:
-        print(f"[{now}] Sem alteracoes. Aguardando...")
+        print(f"[{now}] Sem alterações. Aguardando...")
         return
 
     n = len(status.splitlines())
@@ -118,7 +134,7 @@ def cycle():
 def main():
     print("=" * 50)
     print("VM AutoPush ativo — ciclos de 5 minutos")
-    print(f"Repositorio: {REPO}")
+    print(f"Repositório: {REPO}")
     print("=" * 50)
 
     while True:
