@@ -63,19 +63,9 @@ def load_json_file(filepath):
         return None
 
 def add_transliteration_to_verses(verses, collection):
-    """Adiciona transliteração em tempo real para os versículos recém-traduzidos."""
-    if not transliterate_verse or not verses:
-        return verses
-    print(f"   🔤 Gerando transliterações em tempo real ({collection})...")
-    for v in verses:
-        original = v.get("original", "")
-        if original:
-            try:
-                translit = transliterate_verse(original, collection)
-                if translit:
-                    v["transliteration"] = translit
-            except Exception as e:
-                print(f"   ⚠️ Erro ao transliterar versículo: {e}")
+    """Adiciona transliteração em tempo real para os versículos recém-traduzidos. (DESABILITADO PARA POUPAR CPU)"""
+    return verses
+
     
     # Reordena de forma bonita: verse -> original -> transliteration -> translation
     reordered = []
