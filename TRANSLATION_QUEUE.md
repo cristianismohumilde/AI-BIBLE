@@ -2,32 +2,24 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Atualizado manualmente em: **2026-05-22 17:31 UTC**
+> Gerado dinamicamente em: **2026-05-22 17:35 UTC**
 
 ---
 
 ## 🏆 Status Atual das Coleções
 
-| Prioridade | Fonte | Idioma Original | Capítulos | Status Real | Observações |
-| :---: | :--- | :--- | :---: | :---: | :--- |
-| **—** | Códice de Aleppo | Hebraico Massorético | 928/928 | **✅ 100% Concluído** | `output/Aleppo/` |
-| **—** | Septuaginta (LXX) | Grego Clássico | 389/389 | **✅ 100% Concluído** | `output/LXX/` |
-| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | 296/296 | **✅ 100% Concluído** | `output/Geez/` |
-| **—** | Manuscritos do Mar Morto (DSS) | Hebraico/Aramaico Qumran | 127/127 | **✅ 100% Concluído** | `output/DSS/` |
-| **—** | Peshitta Siríaca | Siríaco Clássico | 260/260 | **✅ 100% Concluído** | `output/Peshitta_Syriac/` |
-| **—** | Versão Copta Saídica | Copta Saídico | 260/260 | **✅ 100% Concluído** | `output/Coptic_Sahidic/` |
-| **1** | **Apócrifos (4 Esdras / VUL)** | Latim Clássico (Vulgata) | 16/18 | **🚀 88.9% — Em andamento** | 2 capítulos restantes |
-| **2** | **Texto Bizantino (BYZ)** | Grego Koiné | 0/260 | **🚀 Iniciado agora** | Traduzindo a partir de 1Coríntios 1 |
-| **3** | **Armênio Oriental** | Armênio Clássico | 89/260 | **🚀 34.2% — Em andamento** | 171 capítulos restantes |
-| **4** | **Targum Onkelos** | Aramaico Antigo | 50/187 | **🚀 26.7% — Em andamento** | Apenas Gênesis (50 caps). Êxodo–Deuteronômio pausado. |
-
----
-
-## 📊 Progresso Geral
-
-`████████████████░░░░` **80.9%** — 2.415 de 2.985 capítulos traduzidos
-
-**ETA estimado:** ~21 horas restantes ao ritmo atual (~26 cap/hora com Double-Pass)
+| Prioridade | Fonte | Idioma Original | Status Real | Localização | Observações |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **—** | Códice de Aleppo | Hebraico Massorético | **✅ 100% Traduzido** | `output/Aleppo/` | Concluído com sucesso na GPU A10. |
+| **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **✅ 100% Traduzido** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
+| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
+| **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **✅ 100% Traduzido** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **✅ 100% Traduzido** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
+| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **🚀 Traduzindo (16/18 caps)** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
+| **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **6** | **Copta Saídico** | Copta Saídico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Copta. |
+| **7** | **Armênio Oriental** | Armênio Clássico | **🚀 Traduzindo (89/260 caps)** | `data/ancient_versions/` | Novo Testamento Armênio. |
 
 ---
 
@@ -43,44 +35,39 @@ Em vez de traduzir os ~928 fragmentos (maioria incompleta), priorizamos os 5 tex
 | 4 | **Rolo de Guerra** | 1QM | Texto apocalíptico — paralelos diretos com o Apocalipse de João |
 | 5 | **Hinos de Ação de Graças** | 1QH | Poesia mística — paralelos com os Salmos, atribuídos ao fundador de Qumran |
 
-> **Total traduzido:** 127 capítulos dos 5 rolos prioritários ✅
+> **Total estimado:** ~80–100 capítulos em vez de 928 — alta viabilidade dentro do orçamento.
 
----
+## 🔤 Fase de Transliteração (Pós-Tradução)
 
-## 🔤 Fase de Transliteração (Em Paralelo)
-
-A transliteração está rodando **em paralelo às traduções** via `transliterate.py` em background. Processa os arquivos já traduzidos à medida que ficam prontos.
+Após a conclusão de todas as traduções, os 3 workers da VM executarão `transliterate.py` automaticamente para adicionar a transliteração acadêmica a cada versículo de todos os manuscritos. A chave `"transliteration"` será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`.
 
 | Sistema | Coleções | Status |
 | :--- | :--- | :---: |
-| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **🔄 Rodando em background** |
-| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **🔄 Rodando em background** |
-| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **🔄 Rodando em background** |
-| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **🔄 Rodando em background** |
-| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **🔄 Rodando em background** |
-| ISO 9985 Armênio | Armenian Eastern | **🔄 Rodando em background** |
+| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **⏳ Aguardando conclusão das traduções** |
+| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **⏳ Aguardando conclusão das traduções** |
+| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **⏳ Aguardando conclusão das traduções** |
+| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **⏳ Aguardando conclusão das traduções** |
+| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **⏳ Aguardando conclusão das traduções** |
+| ISO 9985 Armênio | Armenian Eastern | **⏳ Aguardando conclusão das traduções** |
 
-> Novos capítulos traduzidos já saem com a chave `"transliteration"` embutida diretamente (`add_transliteration_to_verses` em tempo real).
+**Progresso geral:** 0/2399 arquivos transliterados.
 
 ---
 
-## 🚫 Coleções Pausadas (Fora do Orçamento — Limite $300 USD)
-
-As seguintes fontes estão desativadas no tradutor (`SKIP_MANUSCRIPTS`) e não consomem processamento:
-
+## 🚫 Coleções Pausadas (Fora dos Recursos - Limite $300 USD)
+As seguintes fontes estão desativadas no tradutor e não gastam orçamento até liberação de novos créditos:
 - **WLC** (Códice de Leningrado) — *Hebraico Massorético*
 - **SBLGNT** — *Grego Koiné Crítico*
 - **Textus Receptus (TR)** — *Grego Koiné*
 - **Vulgata Latina (VUL)** — *Latim Clássico*
 - **Talmud Bavli** — *Hebraico Mishnaico e Aramaico Talmúdico*
-- **Targum Onkelos (Êxodo → Deuteronômio)** — *137 caps restantes após Gênesis*
-- **DSS (textos bíblicos menores)** — *Gênesis, Salmos, Samuel, etc. — pausados para focar nos 5 Rolos Principais*
+- **Targum Onkelos (Êxodo → Deuteronômio)** — *Aramaico Antigo — 137 caps restantes após Gênesis*
+- **DSS (Textos Bíblicos Menores)** — *Gênesis, Salmos, Samuel, etc. (Pausados para focar nos 5 Rolos Principais)*
 
 ---
 
 ## 🔄 Dinâmica da Sincronização
-
-1. O tradutor da VM (`translate_bible.service`) consome a fila com **3 workers paralelos** (Double-Pass Review ativo).
-2. `vm_autopush.py` sincroniza via `git pull/push` a cada **5 minutos** e garante que `transliterate.py` está rodando.
-3. Transliterações são geradas **em tempo real** para novos capítulos e em **catch-up** para os já traduzidos.
-4. Os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são regenerados automaticamente a cada ciclo.
+1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
+2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
+3. Após **todas** as traduções concluírem, `transliterate.py` é acionado automaticamente com 3 workers paralelos.
+4. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.

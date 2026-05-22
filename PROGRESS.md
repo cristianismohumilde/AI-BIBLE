@@ -1,6 +1,6 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-22 17:32 UTC**
+> Gerado automaticamente em: **2026-05-22 17:35 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
@@ -42,7 +42,7 @@ Os seguintes textos já estão baixados e preservados na pasta `data/apocrypha/`
 - **Livro dos Jubileus** (Etiópico Clássico)
 - **Testamento dos Doze Patriarcas** (Grego Antigo)
 - **4 Esdras (Vulgata)** (já estruturado em JSON)
-- **Mishná: Berakhot** (Sefaria API — formato incompatível, aguardando extração do texto hebraico)
+- **Mishná: Berakhot** (Sefaria API)
 *(A Didaquê está programada para download)*
 
 ---
