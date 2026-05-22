@@ -30,7 +30,7 @@ com transliteração acadêmica incluída.
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 caps | 928 traduzidos | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 caps | 389 traduzidos | ✅ Completo |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 986 caps | 127 traduzidos | 🚀 Em andamento (13%) |
-| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | ⏳ Aguardando tradução |
+| ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 caps | 0 traduzidos | 🚀 Em andamento (0%) |
 
 ## 📖 Versões Antigas (Aramaico, Siríaco, Copta, Armênio, Ge'ez)
 
