@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-22 10:44 UTC**
+> Gerado dinamicamente em: **2026-05-22 10:49 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
 | **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **✅ 100% Traduzido** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
 | **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **✅ 100% Traduzido** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
-| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **🚀 Traduzindo (1/18 caps)** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
+| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **🚀 Traduzindo (3/18 caps)** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
 | **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **⏳ Aguardando Fila** | `data/BYZ/` | Apenas Novo Testamento. |
 | **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
 | **6** | **Copta Saídico** | Copta Saídico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Copta. |
