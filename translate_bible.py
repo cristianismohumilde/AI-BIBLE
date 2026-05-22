@@ -14,33 +14,13 @@ DOUBLE_PASS_REVIEW = True
 # === BUDGET LIMIT SCOPES ($300 USD) ===
 SKIP_MANUSCRIPTS = {"WLC", "SBLGNT", "TR", "Talmud", "VUL", "Aleppo", "LXX", "Geez"}
 ALLOWED_NT_BOOKS = {
-    "Matthew", "Mark", "Luke", "John", "Acts", "Romans", 
-    "1Corinthians", "2Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", 
-    "1Thessalonians", "2Thessalonians", "1Timothy", "2Timothy", "Titus", "Philemon", 
-    "Hebrews", "James", "1Peter", "2Peter", "1John", "2John", "3John", "Jude", "Revelation",
-    "1_Corinthians", "2_Corinthians", "1_Thessalonians", "2_Thessalonians", "1_Timothy", "2_Timothy", 
-    "1_Peter", "2_Peter", "1_John", "2_John", "3_John", 
-    "I Corinthians", "II Corinthians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy", 
-    "I Peter", "II Peter", "I John", "II John", "III John", "Revelation of John"
+    "1Corinthians", "1_Corinthians", "I Corinthians", 
+    "Revelation", "Revelation of John"
 }
-ALLOWED_LXX_BOOKS = {
-    "Isaiah", "Psalms", "1_Maccabees", "2_Maccabees", "3_Maccabees", "4_Maccabees", 
-    "Baruch", "Bel_and_Dragon", "Judith", "Odes", "Psalms_of_Solomon", "Sirach", 
-    "Susanna", "Tobit", "Wisdom_of_Solomon", "1_Esdras"
-}
-ALLOWED_GEEZ_BOOKS = {
-    "የማቴዎስ ወንጌል", "የማርቆስ ወንጌል", "የሉቃስ ወንጌል", "የዮሐንስ ወንጌል", "የሐዋርያት ሥራ", 
-    "ወደ ሮሜ ሰዎች", "1ኛ ወደ ቆሮንቶስ ሰዎች", "2ኛ ወደ ቆሮንቶስ ሰዎች", "ወደ ገላትያ ሰዎች", "ወደ ኤፌሶን ሰዎች", 
-    "ወደ ፊልጵስዩስ ሰዎች", "ወደ ቆላስይስ ሰዎች", "1ኛ ወደ ተሰሎንቄ ሰዎች", "2ኛ ወደ ተሰሎንቄ ሰዎች", 
-    "1ኛ ወደ ጢሞቴዎስ", "2ኛ ወደ ጢሞቴዎስ", "ወደ ቲቶ", "ወደ ፊልሞና", "ወደ ዕብራውያን", "የያዕቆብ መልእክት", 
-    "1ኛ የጴጥሮስ መልእክት", "2ኛ የጴጥሮስ መልእክት", "1ኛ የዮሐንስ መልእክት", "2ዮሐ", "3ኛ የዮሐንስ መልእክት", 
-    "የይሁዳ መልእክት", "የዮሐንስ ራእይ", "መጽሐፈ ሄኖክ", "መጽሐፈ ኩፋሌ"
-}
-# Targum Onkelos: apenas Gênesis por enquanto (enquanto correções DSS são finalizadas)
-ALLOWED_TARGUM_BOOKS = {"Genesis"}
-# DSS: apenas textos com transcrição hebraica confiável disponível
-# (1QS, 1QM, 1QH ainda precisam ser baixados do ETCBC; os arquivos atuais estão em inglês)
-ALLOWED_DSS_BOOKS = {"Isaiah", "Habakkuk", "1QS", "1QM", "1QH", "11Q19", "CD"}
+ALLOWED_LXX_BOOKS = set()
+ALLOWED_GEEZ_BOOKS = set()
+ALLOWED_TARGUM_BOOKS = set()
+ALLOWED_DSS_BOOKS = set()
 # =======================================
 
 import re
