@@ -1357,6 +1357,50 @@
         }
 
         /**
+         * Mapeia o identificador interno do livro para o nome do arquivo/objeto
+         * esperado pela respectiva coleção no backend.
+         * @param {string} manuscript - Tipo de manuscrito (ex: "Coptic_Sahidic", "BYZ")
+         * @param {string} book - Identificador interno do livro (ex: "1_Corinthians")
+         * @returns {string} Nome do livro esperado no arquivo JSON
+         */
+        function getManuscriptBookName(manuscript, book) {
+            if (["Coptic_Sahidic", "Peshitta_Syriac", "Armenian_Eastern"].includes(manuscript)) {
+                const romanMap = {
+                    "1_Corinthians": "I Corinthians",
+                    "2_Corinthians": "II Corinthians",
+                    "1_Thessalonians": "I Thessalonians",
+                    "2_Thessalonians": "II Thessalonians",
+                    "1_Timothy": "I Timothy",
+                    "2_Timothy": "II Timothy",
+                    "1_Peter": "I Peter",
+                    "2_Peter": "II Peter",
+                    "1_John": "I John",
+                    "2_John": "II John",
+                    "3_John": "III John",
+                    "Revelation": "Revelation of John"
+                };
+                return romanMap[book] || book;
+            }
+            if (manuscript === "BYZ") {
+                const byzMap = {
+                    "1_Corinthians": "1Corinthians",
+                    "2_Corinthians": "2Corinthians",
+                    "1_Thessalonians": "1Thessalonians",
+                    "2_Thessalonians": "2Thessalonians",
+                    "1_Timothy": "1Timothy",
+                    "2_Timothy": "2Timothy",
+                    "1_Peter": "1Peter",
+                    "2_Peter": "2Peter",
+                    "1_John": "1John",
+                    "2_John": "2John",
+                    "3_John": "3John"
+                };
+                return byzMap[book] || book;
+            }
+            return book;
+        }
+
+        /**
          * Remove tags HTML do texto para limpeza (para cópia em texto puro)
          * @param {string} html - HTML com possíveis tags
          * @returns {string} Texto limpo sem HTML
@@ -1590,7 +1634,8 @@
                     if (r.ok) {
                         const data = await r.json();
                         if (data && data.books) {
-                            const foundBook = data.books.find(b => b.name === book);
+                            const mappedBook = getManuscriptBookName(manuscript, book);
+                            const foundBook = data.books.find(b => b.name === mappedBook);
                             if (foundBook && foundBook.chapters) {
                                 const foundCh = foundBook.chapters.find(c => parseInt(c.chapter) === parseInt(chapter));
                                 if (foundCh && foundCh.verses) {
@@ -1603,6 +1648,25 @@
                                     });
                                 }
                             }
+                        }
+                    }
+                } else if (manuscript === "BYZ") {
+                    const mappedBook = getManuscriptBookName(manuscript, book);
+                    const r = await fetch(`data/BYZ/${mappedBook}_${chapter}.json`);
+                    if (r.ok) {
+                        const data = await r.json();
+                        if (Array.isArray(data)) {
+                            data.forEach(item => {
+                                const verseNum = item.verse || item.pk || "1";
+                                const originalText = item.text || "";
+                                if (originalText) {
+                                    verses.push({
+                                        verse: verseNum,
+                                        original: originalText,
+                                        translation: null
+                                    });
+                                }
+                            });
                         }
                     }
                 } else {
@@ -1704,7 +1768,8 @@
             VERSE_COUNT_BADGE.style.display = "none";
             updateNavButtons();
 
-            const jsonPath = `output/${manuscript}/${book}_${chapter}.json`;
+            const mappedBook = getManuscriptBookName(manuscript, book);
+            const jsonPath = `output/${manuscript}/${mappedBook}_${chapter}.json`;
             const cacheKey = `${manuscript}/${book}/${chapter}`;
 
             try {
