@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-22 20:24 UTC**
+> Gerado dinamicamente em: **2026-05-22 20:27 UTC**
 
 ---
 
@@ -10,16 +10,16 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 
 | Prioridade | Fonte | Idioma Original | Status Real | Localização | Observações |
 | :---: | :--- | :--- | :---: | :--- | :--- |
-| **—** | Códice de Aleppo | Hebraico Massorético | **✅ 100% Traduzido** | `output/Aleppo/` | Concluído com sucesso na GPU A10. |
-| **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **✅ 100% Traduzido** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
-| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **✅ 100% Traduzido** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
-| **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **✅ 100% Traduzido** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
-| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **✅ 100% Traduzido** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
-| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **🚀 Traduzindo (16/18 caps)** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
-| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **🚀 Traduzindo (4/260 caps)** | `data/BYZ/` | Apenas Novo Testamento. |
-| **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
-| **6** | **Copta Saídico** | Copta Saídico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Copta. |
-| **7** | **Armênio Oriental** | Armênio Clássico | **🚀 Traduzindo (89/260 caps)** | `data/ancient_versions/` | Novo Testamento Armênio. |
+| **—** | Códice de Aleppo | Hebraico Massorético | **⏳ Sem dados** | `output/Aleppo/` | Concluído com sucesso na GPU A10. |
+| **—** | Septuaginta (LXX) | Grego Clássico (Seleção) | **⏳ Sem dados** | `output/LXX/` | Seleção prioritária de Isaías, Salmos e Deuterocanônicos. |
+| **—** | Ge'ez Clássico | Ge'ez (Etíope Clássico) | **⏳ Sem dados** | `output/Geez/` | Deuterocanônicos e Novo Testamento em Ge'ez Puro. |
+| **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | ❌ Sem orçamento (Pausado) | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
+| **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | ❌ Sem orçamento (Pausado) | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
+| **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | ❌ Sem orçamento | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | 🚀 Finalizando últimos livros... | `data/BYZ/` | Apenas Novo Testamento. |
+| **5** | **Peshitta Siríaca** | Siríaco Clássico | ❌ Sem orçamento (Pausado) | `data/ancient_versions/` | Novo Testamento Siríaco. |
+| **6** | **Copta Saídico** | Copta Saídico | ❌ Sem orçamento (Pausado) | `data/ancient_versions/` | Novo Testamento Copta. |
+| **7** | **Armênio Oriental** | Armênio Clássico | 🚀 Finalizando últimos livros... | `data/ancient_versions/` | Novo Testamento Armênio. |
 
 ---
 
