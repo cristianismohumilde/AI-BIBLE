@@ -7195,4 +7195,72 @@ Erro ao conectar com o Ollama para revisão: HTTPConnectionPool(host='localhost'
 🚀 [apocrypha] Traduzindo structured manifest (Idiomas Originais)...
 
 🚀 [sefaria] Traduzindo commentaries Genesis_1 (Idiomas Originais)...
-   -> Versículo 1 concluído!
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!✅ [sefaria] commentaries Genesis_1 traduzido e salvo!
+
+🚀 [study_materials] Traduzindo lexicons strongs_greek (Idiomas Originais)...
+Traceback (most recent call last):
+  File "/home/ubuntu/AI-BIBLE/translate_bible.py", line 565, in <module>
+    print(f"✅ [Ge'ez] {book_title} {ch_num} traduzido!")
+  File "/home/ubuntu/AI-BIBLE/translate_bible.py", line 539, in main
+    
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Iniciando varredura de manuscritos para tradução...
+
+🚀 [DSS] Traduzindo 1QH 1 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 1 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 2 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 2 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 3 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 3 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 4 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 4 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 5 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 5 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 6 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 6 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 7 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 7 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 8 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 8 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 9 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 9 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 10 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 10 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 11 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 11 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 12 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 12 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 13 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 13 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 14 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 14 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 15 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 15 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 16 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!   -> Versículo 9 concluído!   -> Versículo 10 concluído!✅ [DSS] 1QH 16 traduzido e salvo!
+
+🚀 [DSS] Traduzindo 1QH 17 (Hebraico e Aramaico Antigo (Manuscritos do Mar Morto))...
+   -> Versículo 1 concluído!   -> Versículo 2 concluído!   -> Versículo 3 concluído!   -> Versículo 4 concluído!   -> Versículo 5 concluído!   -> Versículo 6 concluído!   -> Versículo 7 concluído!   -> Versículo 8 concluído!
