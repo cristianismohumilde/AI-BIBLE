@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-22 19:38 UTC**
+> Gerado dinamicamente em: **2026-05-22 19:43 UTC**
 
 ---
 
@@ -16,7 +16,7 @@ Este arquivo documenta a priorização oficial da fila de tradução para a Fase
 | **1** | **Targum Onkelos (Gênesis)** | Aramaico Antigo | **✅ 100% Traduzido** | `output/Targum_Onkelos/` | Rodando ativamente na VM (Gênesis priorizado). |
 | **2** | **Manuscritos do Mar Morto (DSS)** | Hebraico/Aramaico de Qumran | **✅ 100% Traduzido** | `data/DSS/` | 5 rolos prioritários: 1QIsa-a, 1QpHab, 1QS, 1QM, 1QH. |
 | **3** | **Apócrifos — 4 Esdras (Vulgata)** | Latim Clássico | **🚀 Traduzindo (16/18 caps)** | `data/apocrypha/` | 16 capítulos. Já estruturado em JSON. |
-| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **🚀 Traduzindo (2/260 caps)** | `data/BYZ/` | Apenas Novo Testamento. |
+| **4** | **Texto Bizantino (BYZ)** | Grego Koiné | **🚀 Traduzindo (3/260 caps)** | `data/BYZ/` | Apenas Novo Testamento. |
 | **5** | **Peshitta Siríaca** | Siríaco Clássico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Siríaco. |
 | **6** | **Copta Saídico** | Copta Saídico | **✅ 100% Traduzido** | `data/ancient_versions/` | Novo Testamento Copta. |
 | **7** | **Armênio Oriental** | Armênio Clássico | **🚀 Traduzindo (89/260 caps)** | `data/ancient_versions/` | Novo Testamento Armênio. |
@@ -43,14 +43,14 @@ Após a conclusão de todas as traduções, os 3 workers da VM executarão `tran
 
 | Sistema | Coleções | Status |
 | :--- | :--- | :---: |
-| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **🔤 Transliterando (2/2401 arquivos)** |
-| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **🔤 Transliterando (2/2401 arquivos)** |
-| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **🔤 Transliterando (2/2401 arquivos)** |
-| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **🔤 Transliterando (2/2401 arquivos)** |
-| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **🔤 Transliterando (2/2401 arquivos)** |
-| ISO 9985 Armênio | Armenian Eastern | **🔤 Transliterando (2/2401 arquivos)** |
+| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **🔤 Transliterando (3/2402 arquivos)** |
+| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **🔤 Transliterando (3/2402 arquivos)** |
+| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **🔤 Transliterando (3/2402 arquivos)** |
+| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **🔤 Transliterando (3/2402 arquivos)** |
+| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **🔤 Transliterando (3/2402 arquivos)** |
+| ISO 9985 Armênio | Armenian Eastern | **🔤 Transliterando (3/2402 arquivos)** |
 
-**Progresso geral:** 2/2401 arquivos transliterados.
+**Progresso geral:** 3/2402 arquivos transliterados.
 
 ---
 
