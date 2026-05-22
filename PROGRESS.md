@@ -1,6 +1,6 @@
 # 📊 PROGRESS — AI-BIBLE Translation Status
 
-> Gerado automaticamente em: **2026-05-22 11:39 UTC**
+> Gerado automaticamente em: **2026-05-22 11:44 UTC**
 > Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
 
 ---
@@ -9,7 +9,7 @@
 
 `████████████████░░░░` 80.9%
 
-**2,414** de **2,985** capítulos traduzidos.
+**2,415** de **2,985** capítulos traduzidos.
 **ETA estimado:** ~0d 21h
 **Custo Computacional Restante:** ~$32 USD
 
@@ -22,7 +22,7 @@
 | 📜 Códice de Aleppo | Hebraico Massorético Antigo | 928 | 928 | `████████████████████` 100.0% | ✅ Completo |
 | 🏛️ Septuaginta (LXX) | Grego Clássico | 389 | 389 | `████████████████████` 100.0% | ✅ Completo |
 | 🪨 Manuscritos do Mar Morto | Hebraico/Aramaico Antigo | 127 | 127 | `████████████████████` 100.0% | ✅ Completo |
-| 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 18 | 15 | `████████████████░░░░` 83.3% | 🚀 Em andamento |
+| 📜 Apócrifos (4 Esdras / VUL) | Latim Clássico (Vulgata) | 18 | 16 | `█████████████████░░░` 88.9% | 🚀 Em andamento |
 | ✝️ Texto Bizantino (BYZ) | Grego Koiné | 260 | 0 | `░░░░░░░░░░░░░░░░░░░░` 0.0% | ⏳ Aguardando |
 | 📜 Targum Onkelos | Aramaico Antigo | 187 | 50 | `█████░░░░░░░░░░░░░░░` 26.7% | 🚀 Em andamento |
 | 📖 Peshitta Siríaca | Siríaco Clássico | 260 | 260 | `████████████████████` 100.0% | ✅ Completo |
