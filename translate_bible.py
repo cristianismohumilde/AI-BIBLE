@@ -393,6 +393,14 @@ def main():
         "psalm_151.json": ("Salmo 151", "Hebraico Antigo (DSS)"),
     }
 
+    # Arquivos a pular na varredura (formato incompatível, metadados, ou textos já cobertos por outras coleções)
+    SKIP_FILES = {
+        "mishnah_berakhot.json",   # dump de metadados da API Sefaria, não é texto traduzível
+        "manifest.json",           # arquivo de manifesto estrutural
+        "strongs_greek.json",      # arquivo vazio/corrompido
+        "strongs_hebrew.json",     # arquivo vazio/corrompido
+    }
+
     print("Iniciando varredura de manuscritos para tradução...")
 
     all_files = []
@@ -407,6 +415,10 @@ def main():
     for input_file in all_files:
         parts = os.path.normpath(input_file).split(os.sep)
         file = os.path.basename(input_file)
+
+        # Pula arquivos com formato incompatível ou corrompidos
+        if file in SKIP_FILES:
+            continue
 
         # --- CASO 1.5: Apócrifos estruturados (4 Esdras Vulgata, etc.) ---
         if "apocrypha" in parts and file in APOCRYPHA_BOOKS:
