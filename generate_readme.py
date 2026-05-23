@@ -500,17 +500,16 @@ AI-BIBLE/
 │       └── grammars/
 ├── output/                   # Traduções geradas (auto-sync da VM)
 │   └── <COLEÇÃO>/<LIVRO>_<CAP>.json
+├── scripts/                  # Scripts utilitários e de manutenção
+│   ├── downloads/            # Scripts de download de dados
+│   ├── tests/                # Scripts de teste de integração
+│   └── utils/                # Conversores e utilitários diversos
 ├── translate_bible.py        # Motor de tradução GPU (roda na VM)
 ├── transliterate.py          # Transliteração acadêmica (pós-tradução)
 ├── generate_readme.py        # Gera este README automaticamente
 ├── generate_progress.py      # Gera PROGRESS.md automaticamente
 ├── sync_and_push.py          # VM → Local → GitHub (a cada 5 min)
-├── download_manuscripts.py   # Download manuscritos principais
-├── download_extras.py        # Download BYZ + léxicos extras
-├── download_talmud_extra.py  # Download tratados Talmud completo
-├── download_study_extra.py   # Download léxicos, gramáticas
-├── convert_geez.py           # Converte SWORD Ge'ez → JSON
-├── check_sources.py          # Diagnóstico de fontes disponíveis
+├── vm_autopush.py            # Script auxiliar de push
 ├── index.html                # Interface web de leitura (sem servidor)
 ├── README.md                 # Este arquivo (auto-gerado)
 ├── PROGRESS.md               # Progresso em tempo real (auto-gerado)
