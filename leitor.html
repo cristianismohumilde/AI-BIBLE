@@ -496,6 +496,34 @@
             text-align: right;
         }
 
+        /* Botão de Áudio (Ouvir) */
+        .audio-player-mini {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(20, 184, 166, 0.1);
+            border: 1px solid rgba(20, 184, 166, 0.25);
+            color: var(--color-teal);
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            flex-shrink: 0;
+            margin-left: 1rem;
+        }
+
+        .audio-player-mini:hover {
+            background: rgba(20, 184, 166, 0.2);
+            border-color: var(--color-teal);
+            transform: scale(1.05);
+        }
+
+        .audio-player-mini svg {
+            width: 16px;
+            height: 16px;
+        }
+
         /* Navegação de Capítulo */
         .chapter-nav {
             display: flex;
@@ -2047,7 +2075,19 @@
                             `;
                         }
 
-                        let originalContentHtml = `<p class="text-original">${originalHtml}</p>`;
+                        let originalContentHtml = `
+                            <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+                                <div style="flex: 1;">
+                                    <p class="text-original">${originalHtml}</p>
+                                </div>
+                                <button class="audio-player-mini play-original-btn" title="Ouvir original">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                        `;
                         if (translitText) {
                             originalContentHtml += `<p class="text-transliteration" lang="en-Latn">${translitText}</p>`;
                         }
@@ -2080,6 +2120,15 @@
                             navigator.clipboard.writeText(textToCopy).then(showCopyToast).catch(() => {});
                         });
 
+                        // Evento do botão de áudio
+                        const playBtn = verseCard.querySelector(".play-original-btn");
+                        if (playBtn) {
+                            playBtn.addEventListener("click", (e) => {
+                                e.stopPropagation(); // Evita copiar o versículo
+                                handleSpeak(originalHtml, manuscript);
+                            });
+                        }
+
                         // Evento para abrir gaveta de exegese ao clicar no número do versículo
                         const numBadge = verseCard.querySelector(".verse-num");
                         numBadge.style.cursor = "pointer";
@@ -2100,6 +2149,127 @@
                 showEmptyState();
             }
         }
+
+        // ============================================================
+        // SISTEMA DE REPRODUÇÃO DE ÁUDIO (AZURE TTS)
+        // ============================================================
+        const AZURE_KEY = "CHAVE_AQUI"; // TODO: Inserir a chave da API Azure aqui
+        const AZURE_REGION = "eastus";
+
+        const handleSpeak = async (text, manuscriptCode) => {
+            if (!text) return;
+            const cleanText = text.replace(/<[^>]+>/g, '').replace(/[\u0591-\u05C7]/g, '').trim().slice(0, 5000);
+
+            const manuscriptToLang = {
+                'Aleppo': 'hebrew',
+                'B19A': 'hebrew',
+                'LXX': 'greek',
+                'Byzantine': 'greek',
+                'Targum': 'aramaic',
+                'Vulgate': 'latin',
+                'Peshitta': 'syriac',
+                'Geez': 'geez',
+                'Coptic': 'coptic',
+                'Armenian': 'armenian'
+            };
+
+            const langCode = manuscriptToLang[manuscriptCode] || 'hebrew';
+
+            const voiceMap = {
+                hebrew: { locale: 'he-IL', name: 'he-IL-AvriNeural' },
+                greek: { locale: 'el-GR', name: 'el-GR-NestorasNeural' },
+                latin: { locale: 'it-IT', name: 'it-IT-ElsaNeural' },
+                pt: { locale: 'pt-BR', name: 'pt-BR-FranciscaNeural' },
+                aramaic: { locale: 'he-IL', name: 'he-IL-AvriNeural' },
+                syriac: { locale: 'he-IL', name: 'he-IL-AvriNeural' },
+                geez: { locale: 'am-ET', name: 'am-ET-AmehaNeural' },
+                armenian: { locale: 'hy-AM', name: 'hy-AM-AnahitNeural' },
+                coptic: { locale: 'el-GR', name: 'el-GR-AthinaNeural' }
+            };
+
+            const transliterateSyriac = (t) => {
+                const sToH = {
+                    '\u0710':'\u05D0','\u0712':'\u05D1','\u0713':'\u05D2','\u0715':'\u05D3','\u0717':'\u05D4',
+                    '\u0718':'\u05D5','\u0719':'\u05D6','\u071A':'\u05D7','\u071B':'\u05D8','\u071D':'\u05D9',
+                    '\u071F':'\u05DB','\u0720':'\u05DC','\u0721':'\u05DE','\u0722':'\u05E0','\u0723':'\u05E1',
+                    '\u0725':'\u05E2','\u0726':'\u05E4','\u0728':'\u05E6','\u0729':'\u05E7','\u072A':'\u05E8',
+                    '\u072B':'\u05E9','\u072C':'\u05EA'
+                };
+                return t.split('').map(c => sToH[c] || c).join('');
+            };
+
+            const transliterateCoptic = (t) => {
+                const cToG = {
+                    'ⲁ':'α','ⲃ':'β','ⲅ':'γ','ⲇ':'δ','ⲉ':'ε','ⲍ':'ζ','eta':'η','ⲑ':'θ','ⲓ':'ι','ⲕ':'κ','ⲗ':'λ','ⲙ':'μ','ⲛ':'ν','ⲝ':'ξ','ⲟ':'ο','ⲡ':'π','ⲣ':'ρ','ⲥ':'σ','ⲧ':'τ','ⲩ':'υ','ⲫ':'φ','ⲭ':'χ','ⲯ':'ψ','ⲱ':'ω',
+                    'ϣ':'sh','ϥ':'f','ϧ':'kh','ϩ':'h','ϫ':'dj','ϭ':'ch','ϯ':'ti','ⲏ':'η','ⲑ':'θ'
+                };
+                return t.toLowerCase().split('').map(c => cToG[c] || c).join('');
+            };
+
+            let finalText = cleanText;
+            if (langCode === 'syriac') finalText = transliterateSyriac(finalText);
+            else if (langCode === 'coptic') finalText = transliterateCoptic(finalText);
+
+            const config = voiceMap[langCode] || voiceMap.hebrew;
+
+            const showToast = (msg) => {
+                let toast = document.getElementById('audio-toast');
+                if (!toast) {
+                    toast = document.createElement('div');
+                    toast.id = 'audio-toast';
+                    toast.style = "position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:rgba(0,0,0,0.9); color:#00ebff; padding:8px 16px; border-radius:20px; z-index:9999; font-size:12px; font-family:monospace; pointer-events:none; border:1px solid #00ebff; transition: opacity 0.3s;";
+                    document.body.appendChild(toast);
+                }
+                toast.textContent = msg;
+                toast.style.opacity = '1';
+                setTimeout(() => { toast.style.opacity = '0'; }, 3000);
+            };
+
+            if (window._currentAudio) {
+                window._currentAudio.pause();
+                window._currentAudio = null;
+            }
+
+            if (AZURE_KEY && AZURE_KEY !== "CHAVE_AQUI") {
+                showToast("AZURE NEURAL TTS...");
+                try {
+                    const ssml = `<speak version='1.0' xml:lang='${config.locale}'><voice xml:lang='${config.locale}' xml:gender='Female' name='${config.name}'>${finalText}</voice></speak>`;
+                    const response = await fetch(`https://${AZURE_REGION}.tts.speech.microsoft.com/cognitiveservices/v1`, {
+                        method: 'POST',
+                        headers: {
+                            'Ocp-Apim-Subscription-Key': AZURE_KEY,
+                            'Content-Type': 'application/ssml+xml',
+                            'X-Microsoft-OutputFormat': 'audio-16khz-128kbitrate-mono-mp3',
+                            'User-Agent': 'ScripturaAI'
+                        },
+                        body: ssml
+                    });
+                    if (response.ok) {
+                        const blob = await response.blob();
+                        const url = URL.createObjectURL(blob);
+                        const audio = new Audio(url);
+                        window._currentAudio = audio;
+                        audio.play();
+                        return;
+                    }
+                } catch(e) { console.error("Azure TTS Error", e); }
+            }
+
+            showToast("TRYING GOOGLE CLOUD...");
+            const freeUrl = `https://www.google.com/logos/fnbx/tts/tts?device=mobile&language=${config.locale.split('-')[0]}&text=${encodeURIComponent(finalText)}`;
+            const audio = new Audio(freeUrl);
+            window._currentAudio = audio;
+            audio.play().catch(() => {
+                showToast("FAIL: USING SYSTEM VOICE");
+                if (window.speechSynthesis) {
+                    window.speechSynthesis.cancel();
+                    const utterance = new SpeechSynthesisUtterance(finalText);
+                    utterance.lang = config.locale;
+                    utterance.rate = 0.8;
+                    window.speechSynthesis.speak(utterance);
+                }
+            });
+        };
 
         function showEmptyState() {
             VERSES_LIST.innerHTML = "";
