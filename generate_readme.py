@@ -384,7 +384,6 @@ def main():
     readme = f"""# AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
 > **README gerado automaticamente em: {now}**
-> Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utilizou o estado da arte em IA (rodando em **Oracle Cloud GPU NVIDIA A10**)
 para traduzir manuscritos originais da Bíblia e textos rabínicos diretamente para o **Português do Brasil**,
@@ -392,7 +391,29 @@ com transliteração acadêmica incluída.
 
 ---
 
-## 📊 Status Geral
+## 📚 Central de Documentação (Hub)
+
+A documentação detalhada do projeto foi organizada em categorias. Explore os links abaixo:
+
+### 📈 Progresso e Status
+- [Monitoramento Detalhado de Progresso (Ao Vivo)](docs/PROGRESS.md)
+- [Fila de Tradução](docs/TRANSLATION_QUEUE.md)
+- [Status Histórico do Projeto (Offline)](docs/STATUS.md) | [EN](docs/STATUS_EN.md)
+
+### 🏗️ Infraestrutura e Deploy
+- [Resumo de Deploy (GitHub)](docs/DEPLOYMENT_SUMMARY_FOR_GITHUB.md) | [EN](docs/DEPLOYMENT_SUMMARY_FOR_GITHUB_EN.md)
+- [Plano de Deploy da GPU (Frankfurt)](docs/GPU_DEPLOYMENT_PLAN.md) | [EN](docs/GPU_DEPLOYMENT_PLAN_EN.md)
+
+### 🔮 Futuro e Expansão
+- [Plano do Futuro Web App Interativo](docs/FUTURE_WEB_APP_PLAN.md) | [EN](docs/FUTURE_WEB_APP_PLAN_EN.md)
+
+### 📜 Fontes e Aspectos Legais
+- [Fontes dos Manuscritos Utilizados](docs/MANUSCRIPT_SOURCES.md)
+- [Análise Legal e Direitos Autorais](docs/LEGAL_ANALYSIS.md) | [EN](docs/LEGAL_ANALYSIS_EN.md)
+
+---
+
+## 📊 Status Geral de Tradução
 
 | Métrica | Valor |
 |---|---|

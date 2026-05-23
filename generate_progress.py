@@ -289,7 +289,7 @@ Cada versículo dentro do arquivo JSON tem o formato:
 ```
 """
 
-    with open("PROGRESS.md", "w", encoding="utf-8") as f:
+    with open("docs/PROGRESS.md", "w", encoding="utf-8") as f:
         f.write(md)
 
     # === GERAÇÃO DINÂMICA DE TRANSLATION_QUEUE.md ===
@@ -444,7 +444,7 @@ As seguintes fontes estão desativadas no tradutor e não gastam orçamento até
 4. A VM encontra-se offline e a sincronização automática foi encerrada.
 """
 
-    with open("TRANSLATION_QUEUE.md", "w", encoding="utf-8") as f:
+    with open("docs/TRANSLATION_QUEUE.md", "w", encoding="utf-8") as f:
         f.write(queue_md)
 
     safe_msg = f"PROGRESS.md e TRANSLATION_QUEUE.md gerados! ({total_output}/{total_data} capitulos traduzidos, ETA: {eta_str})"
