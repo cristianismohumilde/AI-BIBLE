@@ -444,9 +444,11 @@
             border-left: 2px dashed rgba(20, 184, 166, 0.2);
             padding-left: 1.5rem;
             display: flex;
-            align-items: center;
-            justify-content: flex-end;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
             direction: rtl; /* Alinhamento Hebraico da direita para a esquerda */
+            gap: 0.5rem;
         }
 
         /* Texto original — fonte Cardo (serif acadêmica), dourado, tamanho generoso para diacríticos */
@@ -478,18 +480,20 @@
             font-weight: 400;
         }
 
-        /* Transliteração acadêmica — estilo itálico com borda teal sutil à esquerda */
+        /* Transliteração acadêmica — estilo itálico com borda teal sutil à esquerda (agora na direita devido ao RTL) */
         .text-transliteration {
             font-family: var(--font-body);
             font-size: 0.95rem;
             line-height: 1.45rem;
             color: var(--color-text-secondary);
             font-style: italic;
-            border-left: 2px solid var(--border-glow);
-            padding-left: 0.75rem;
+            border-right: 2px solid var(--border-glow);
+            padding-right: 0.75rem;
             margin-top: 0.25rem;
             width: 100%;
             word-break: break-word;
+            direction: ltr;
+            text-align: right;
         }
 
         /* Navegação de Capítulo */
@@ -1929,7 +1933,7 @@
 
             const mappedBook = getManuscriptBookName(manuscript, book);
             const jsonPath = `output/${manuscript}/${mappedBook}_${chapter}.json`;
-            const cacheKey = `v2/${manuscript}/${book}/${chapter}`;
+            const cacheKey = `v3/${manuscript}/${book}/${chapter}`;
 
             try {
                 let verses;
@@ -2006,8 +2010,9 @@
                             `;
                         }
 
+                        let originalContentHtml = `<p class="text-original">${originalHtml}</p>`;
                         if (translitText) {
-                            translationContentHtml += `<p class="text-transliteration" lang="en-Latn">${translitText}</p>`;
+                            originalContentHtml += `<p class="text-transliteration" lang="en-Latn">${translitText}</p>`;
                         }
 
                         verseCard.innerHTML = `
@@ -2016,7 +2021,7 @@
                                 ${translationContentHtml}
                             </div>
                             <div class="text-original-container">
-                                <p class="text-original">${originalHtml}</p>
+                                ${originalContentHtml}
                             </div>
                         `;
 
