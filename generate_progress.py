@@ -13,21 +13,7 @@ import json
 from datetime import datetime, timezone
 import subprocess
 
-# === BOOTSTRAP AUTO-RESTART SYSTEMD SERVICE ===
-# Como o usuário não tem a chave SSH em mãos agora, usamos este script (chamado a cada 5m pela VM)
-# para disparar um reinício único do serviço `translate_bible` e aplicar as novas prioridades do Targum.
-FLAG_FILE = "restart_triggered.flag"
-if not os.path.exists(FLAG_FILE):
-    try:
-        # Cria o arquivo de flag primeiro para evitar loops
-        with open(FLAG_FILE, "w") as f:
-            f.write(f"triggered at {datetime.now(timezone.utc)}")
-        # Executa o comando de reinício
-        subprocess.run("sudo systemctl restart translate_bible", shell=True)
-        print("BOOTSTRAP: Serviço translate_bible reiniciado com sucesso!")
-    except Exception as e:
-        print(f"BOOTSTRAP ERRO: {e}")
-# ===============================================
+# Bootstrapping do serviço removido (VM Offline)
 
 DATA_DIR = "data"
 OUTPUT_DIR = "output"
@@ -237,13 +223,13 @@ def main():
     overall_bar = progress_bar(total_output, total_data)
 
     # Estimativa de tempo restante zera, pois vamos encerrar
-    eta_str = "🛑 Encerrando operações"
-    custo_str = "$0 (Operação Finalizando)"
+    eta_str = "🛑 Operações Encerradas (VM Offline)"
+    custo_str = "$0 (Servidor Desligado)"
 
     md = f"""# 📊 PROGRESS — AI-BIBLE Translation Status
 
 > Gerado automaticamente em: **{now}**
-> Velocidade estimada: ~26 capítulos/hora com Double-Pass Review concorrente ativo.
+> O servidor de tradução via GPU (Frankfurt) encontra-se agora offline.
 
 ---
 
@@ -383,9 +369,9 @@ Cada versículo dentro do arquivo JSON tem o formato:
     else:
         translit_status = "**⏳ Aguardando conclusão das traduções**"
 
-    queue_md = f"""# 📋 Fila de Tradução Ativa — AI-BIBLE (Fase GPU Frankfurt)
+    queue_md = f"""# 📋 Fila de Tradução — AI-BIBLE (Operações Encerradas)
 
-Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
+Este arquivo documenta o status final da fila de tradução. A VM em Frankfurt foi encerrada e o processamento está offline.
 
 > Gerado dinamicamente em: **{now}**
 
@@ -424,7 +410,7 @@ Em vez de traduzir os ~928 fragmentos (maioria incompleta), priorizamos os 5 tex
 
 ## 🔤 Fase de Transliteração (Pós-Tradução)
 
-Após a conclusão de todas as traduções, os 3 workers da VM executarão `transliterate.py` automaticamente para adicionar a transliteração acadêmica a cada versículo de todos os manuscritos. A chave `"transliteration"` será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`.
+A chave `"transliteration"` foi/será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`. (Processamento offline).
 
 | Sistema | Coleções | Status |
 | :--- | :--- | :---: |
@@ -452,10 +438,10 @@ As seguintes fontes estão desativadas no tradutor e não gastam orçamento até
 ---
 
 ## 🔄 Dinâmica da Sincronização
-1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
+1. O tradutor da VM consumia esta fila de forma sequencial com base no arquivo `translate_bible.py`.
 2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
-3. Após **todas** as traduções concluírem, `transliterate.py` é acionado automaticamente com 3 workers paralelos.
-4. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
+3. A execução da transliteração foi consolidada nos arquivos finais.
+4. A VM encontra-se offline e a sincronização automática foi encerrada.
 """
 
     with open("TRANSLATION_QUEUE.md", "w", encoding="utf-8") as f:

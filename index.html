@@ -180,18 +180,18 @@
             text-transform: uppercase;
         }
 
-        /* Indicador "GPU Frankfurt Ativa" — pill verde com borda sutil */
-        .live-status {
+        /* Indicador "Processamento Finalizado" — pill neutro */
+        .offline-status {
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            background: rgba(16, 185, 129, 0.1);
-            border: 1px solid rgba(16, 185, 129, 0.2);
+            background: rgba(107, 114, 128, 0.1);
+            border: 1px solid rgba(107, 114, 128, 0.2);
             padding: 0.5rem 1rem;
             border-radius: 9999px;
             font-size: 0.85rem;
             font-weight: 500;
-            color: var(--color-emerald);
+            color: var(--color-text-muted);
         }
 
         /* Botão de Modo Escuro/Claro */
@@ -217,19 +217,12 @@
             transform: scale(1.05);
         }
 
-        /* Ponto verde pulsante ao lado do status da GPU */
-        .pulse-dot {
+        /* Ponto cinza ao lado do status */
+        .offline-dot {
             width: 8px;
             height: 8px;
-            background-color: var(--color-emerald);
+            background-color: var(--color-text-muted);
             border-radius: 50%;
-            animation: pulse 1.8s infinite;
-        }
-
-        @keyframes pulse {
-            0% { transform: scale(0.9); opacity: 0.6; }
-            50% { transform: scale(1.2); opacity: 1; box-shadow: 0 0 10px var(--color-emerald); }
-            100% { transform: scale(0.9); opacity: 0.6; }
         }
 
         /* Área principal — centralizada, largura máxima 1600px, gap entre seções */
@@ -762,9 +755,9 @@
         </div>
         
         <div style="display: flex; align-items: center; gap: 1rem;">
-            <div class="live-status">
-                <div class="pulse-dot"></div>
-                <span>GPU Frankfurt Ativa</span>
+            <div class="offline-status">
+                <div class="offline-dot"></div>
+                <span>Processamento Concluído</span>
             </div>
             <!-- Botão de Toggle Tema Escuro/Claro -->
             <button class="theme-toggle-btn" id="theme-toggle" title="Alternar modo escuro/claro" aria-label="Alternar modo escuro/claro">
@@ -777,7 +770,7 @@
         <!-- Banner de Progresso Live da GPU -->
         <section class="progress-banner" id="progress-banner" aria-label="Progresso da tradução">
             <div class="progress-header">
-                <span><strong>Progresso da Tradução</strong> — GPU Frankfurt Ativa</span>
+                <span><strong>Progresso da Tradução</strong> — Servidor Offline</span>
                 <span class="progress-pct" id="progress-pct">…</span>
             </div>
             <div class="progress-track">

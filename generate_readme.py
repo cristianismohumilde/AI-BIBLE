@@ -367,12 +367,12 @@ def main():
     hours_left = max(0, (all_data - all_out) / 26)
     days       = int(hours_left // 24)
     hours      = int(hours_left % 24)
-    eta_str    = f"~{days}d {hours}h" if all_out < all_data else "Concluido!"
+    eta_str    = "🛑 Operações Encerradas (VM Offline)"
     
     # Custo real da instância VM.GPU.A10.1 (aprox. $1.50 por hora)
     custo_hora = 1.50
     custo_total = int(hours_left * custo_hora)
-    custo_str = f"~${custo_total} USD" if all_out < all_data else "$0"
+    custo_str = "$0 (Servidor Desligado)"
 
     # Linha de fase automática
     phase2_status = ("Em andamento" if all_out > 0 else "Aguardando") + f" — {all_out:,}/{all_data:,} caps ({pct:.1f}%)"
@@ -386,7 +386,7 @@ def main():
 > **README gerado automaticamente em: {now}**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
-Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
+Este projeto utilizou o estado da arte em IA (rodando em **Oracle Cloud GPU NVIDIA A10**)
 para traduzir manuscritos originais da Bíblia e textos rabínicos diretamente para o **Português do Brasil**,
 com transliteração acadêmica incluída.
 
@@ -466,8 +466,8 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
 ### 🚀 Fase 2 — Tradução ({phase2_status})
-- GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
-- Double-Pass Review + Filtro Regex ativos
+- Processamento via GPU concluído / pausado (Servidor Offline).
+- Double-Pass Review + Filtro Regex aplicados nas traduções.
 
 ### ⏳ Fase 3 — Transliteração (após Fase 2)
 - Script: `transliterate.py` — roda após conclusão da tradução
@@ -535,7 +535,7 @@ AI-BIBLE/
 | Componente | Tecnologia |
 |---|---|
 | Modelo de IA | Qwen 2.5 32B |
-| Servidor | Oracle Cloud VM.GPU.A10.1 (NVIDIA A10 24GB VRAM) |
+| Servidor | Processamento Encerrado (Anteriormente Oracle Cloud VM.GPU.A10.1) |
 | Inferência | Ollama (servidor local LLM) |
 | Linguagem | Python 3.13 |
 | Sincronização | SCP + Git + GitHub |

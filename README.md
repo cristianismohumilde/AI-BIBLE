@@ -1,9 +1,9 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-22 22:22 UTC**
+> **README gerado automaticamente em: 2026-05-23 17:38 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
-Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
+Este projeto utilizou o estado da arte em IA (rodando em **Oracle Cloud GPU NVIDIA A10**)
 para traduzir manuscritos originais da Bíblia e textos rabínicos diretamente para o **Português do Brasil**,
 com transliteração acadêmica incluída.
 
@@ -16,10 +16,10 @@ com transliteração acadêmica incluída.
 | Capítulos fonte disponíveis | **3,826** |
 | Capítulos traduzidos | **2,406** (62.9%) |
 | Orçamento Disponível (Oracle GPU) | **$300 USD** (~R$ 1.500) |
-| Custo estimado restante | **~$81 USD** |
-| ETA estimado de processamento | **~2d 6h** |
+| Custo estimado restante | **$0 (Servidor Desligado)** |
+| ETA estimado de processamento | **🛑 Operações Encerradas (VM Offline)** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-22 22:22 UTC |
+| Última atualização | 2026-05-23 17:38 UTC |
 
 ---
 
@@ -80,16 +80,16 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 | ✅ | Brown-Driver-Briggs (BDB) | `brown_driver_briggs.xml` | 2,843 KB |
 | ✅ | Strong+BDB Integrado | `hebrew_strong_enhanced.xml` | 2,684 KB |
 | ✅ | Jastrow (Aramaico Talmúdico) | `jastrow_dictionary.txt` | 253 KB |
-| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,438 KB |
-| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 41,917 KB |
-| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,172 KB |
-| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,956 KB |
+| ✅ | Lewis & Short Latin | `lewis_short_latin.xml` | 75,489 KB |
+| ✅ | LSJ Greek Lexicon | `lsj_greek.xml` | 42,588 KB |
+| ✅ | Strong's Greek Lexicon | `strongs_greek.json` | 1,178 KB |
+| ✅ | Strong's Hebrew Lexicon | `strongs_hebrew.json` | 1,964 KB |
 | ✅ | Gesenius' Hebrew Grammar | `gesenius_hebrew_grammar.txt` | 83 KB |
 | ✅ | Nöldeke Syriac Grammar | `noldeke_syriac_grammar.txt` | 576 KB |
 | ✅ | A.T. Robertson Greek Grammar | `robertson_greek_grammar.txt` | 70 KB |
 | ✅ | INDEX.json | `INDEX.json` | 1 KB |
-| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,106 KB |
-| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,811 KB |
+| ✅ | Referências Cruzadas (340k) | `cross_references.tsv` | 8,443 KB |
+| ✅ | Strong's Concordance (legado) | `strongs.json` | 3,909 KB |
 
 ---
 
@@ -103,8 +103,8 @@ seguindo padrões SBL para Hebraico/Grego/Aramaico e sistemas específicos para 
 - Gramáticas (Gesenius, Robertson, Nöldeke) e Referências Cruzadas
 
 ### 🚀 Fase 2 — Tradução (Em andamento — 2,406/3,826 caps (62.9%))
-- GPU NVIDIA A10 traduzindo ininterruptamente (24/7)
-- Double-Pass Review + Filtro Regex ativos
+- Processamento via GPU concluído / pausado (Servidor Offline).
+- Double-Pass Review + Filtro Regex aplicados nas traduções.
 
 ### ⏳ Fase 3 — Transliteração (após Fase 2)
 - Script: `transliterate.py` — roda após conclusão da tradução
@@ -172,7 +172,7 @@ AI-BIBLE/
 | Componente | Tecnologia |
 |---|---|
 | Modelo de IA | Qwen 2.5 32B |
-| Servidor | Oracle Cloud VM.GPU.A10.1 (NVIDIA A10 24GB VRAM) |
+| Servidor | Processamento Encerrado (Anteriormente Oracle Cloud VM.GPU.A10.1) |
 | Inferência | Ollama (servidor local LLM) |
 | Linguagem | Python 3.13 |
 | Sincronização | SCP + Git + GitHub |

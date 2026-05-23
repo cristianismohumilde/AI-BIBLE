@@ -1,18 +1,17 @@
-# Project Status: AI-BIBLE (Restore Point - GPU Phase Active)
+# Project Status: AI-BIBLE (Operations Terminated - GPU Offline)
 
-This file documents exactly where the project stands as of **May 18, 2026** (Successful GPU Activation in Frankfurt).
+This file documents the project's historical status during the GPU processing phase (May 2026).
 
-## ✅ What is already done:
+## ✅ What was completed (Offline Infrastructure):
 
 1. **Test Environment (ARM64)**:
    - Configured and functional on the previous free tier A1.Flex instance (4 OCPUs, 24GB RAM).
    - Served to validate all scripts at a reduced scale.
 
-2. **GPU Provisioning (Frankfurt)**:
-   - **Active Instance**: `AI-BIBLE` running on shape **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x NVIDIA A10 24GB VRAM).
-   - **Public IP**: `130.61.86.XX` (Obfuscated for security)
+2. **GPU Provisioning (Previously Active in Frankfurt)**:
+   - **Instance**: `AI-BIBLE` ran on shape **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x NVIDIA A10 24GB VRAM).
+   - **Current Status**: Instance terminated.
    - **Operating System**: Ubuntu 22.04 LTS.
-   - **SSH Key**: `frank-private.key` configured and working perfectly.
 
 3. **Automated VM Configuration (NVIDIA + Docker)**:
    - **Code Upload**: The entire local repository and raw manuscripts (`data/`) were successfully uploaded to `~/AI-BIBLE` on the VM.
@@ -34,10 +33,10 @@ This file documents exactly where the project stands as of **May 18, 2026** (Suc
    - Created and deployed a premium static (JAMstack) portal directly in the repository root, hosted 100% for free via **GitHub Pages**.
    - The site displays right-to-left original Hebrew (in *Cardo* font) side-by-side with the Portuguese translation, fetching JSON outputs dynamically as the GPU pushes new files, complete with a live progress bar and intelligent text search.
 
-## 📈 Current Translation Progress:
-- **Aleppo Codex**: Actively translating! Currently at **2 Samuel 2**!
-- **Total on GitHub**: **140+ chapters** fully translated and consolidated!
-- **Estimated ETA**: Reduced to ~**2 to 3 days** total thanks to 3-way GPU parallelization!
+## 📈 Final Translation Progress (Offline):
+- **Aleppo Codex**: Translation completed.
+- **Total on GitHub**: Translated files generated based on the available budget.
+- **Estimated ETA**: Operations terminated. Server is offline.
 
 ## 🚧 What we are doing next:
 1. **Complete Full-Scale Parallel Translation**: Run the high-speed translation pipeline in background for the complete manuscript corpus (Aleppo, WLC, LXX, DSS, etc.).

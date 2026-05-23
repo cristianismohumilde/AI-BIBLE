@@ -1,8 +1,8 @@
-# 📋 Fila de Tradução Ativa — AI-BIBLE (Fase GPU Frankfurt)
+# 📋 Fila de Tradução — AI-BIBLE (Operações Encerradas)
 
-Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
+Este arquivo documenta o status final da fila de tradução. A VM em Frankfurt foi encerrada e o processamento está offline.
 
-> Gerado dinamicamente em: **2026-05-22 22:22 UTC**
+> Gerado dinamicamente em: **2026-05-23 17:38 UTC**
 
 ---
 
@@ -39,7 +39,7 @@ Em vez de traduzir os ~928 fragmentos (maioria incompleta), priorizamos os 5 tex
 
 ## 🔤 Fase de Transliteração (Pós-Tradução)
 
-Após a conclusão de todas as traduções, os 3 workers da VM executarão `transliterate.py` automaticamente para adicionar a transliteração acadêmica a cada versículo de todos os manuscritos. A chave `"transliteration"` será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`.
+A chave `"transliteration"` foi/será inserida nos arquivos JSON de `output/` ao lado de `"original"` e `"translation"`. (Processamento offline).
 
 | Sistema | Coleções | Status |
 | :--- | :--- | :---: |
@@ -67,7 +67,7 @@ As seguintes fontes estão desativadas no tradutor e não gastam orçamento até
 ---
 
 ## 🔄 Dinâmica da Sincronização
-1. O tradutor da VM consome esta fila de forma sequencial com base no arquivo `translate_bible.py`.
+1. O tradutor da VM consumia esta fila de forma sequencial com base no arquivo `translate_bible.py`.
 2. As pastas marcadas como `✅ 100% Traduzido` estão bloqueadas no código (`SKIP_MANUSCRIPTS`) e não consomem processamento.
-3. Após **todas** as traduções concluírem, `transliterate.py` é acionado automaticamente com 3 workers paralelos.
-4. À medida que novos capítulos são salvos em `output/`, os arquivos `PROGRESS.md` e `TRANSLATION_QUEUE.md` são atualizados a cada 5 minutos pelo serviço automático da VM.
+3. A execução da transliteração foi consolidada nos arquivos finais.
+4. A VM encontra-se offline e a sincronização automática foi encerrada.

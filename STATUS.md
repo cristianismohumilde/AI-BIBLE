@@ -1,16 +1,15 @@
-# Status do Projeto: IA-BIBLE (Ponto de Restauração — Fase GPU Frankfurt ATIVA)
+# Status do Projeto: IA-BIBLE (Operações Encerradas — VM Frankfurt Offline)
 
-> 💰 **Crédito Oracle Cloud Disponibilizado**: **$300 USD** (~R$ 1.500) — Recurso que foi fornecido para este projeto. Após esgotamento, as traduções dos textos restantes serão pausadas até disponibilização de novo orçamento.
+> 💰 **Crédito Oracle Cloud Utilizado**: As traduções via GPU foram executadas utilizando os recursos provisionados na Oracle Cloud. As operações da VM foram encerradas e o processamento encontra-se offline.
 
-Este arquivo serve para documentar exatamente onde o projeto está em **18 de Maio de 2026** (Sucesso na ativação da GPU em Frankfurt e automação dos serviços).
+Este arquivo serve para documentar o histórico do projeto e os recursos que estiveram ativos durante a fase de processamento intenso.
 
-## ✅ O que já está pronto e funcional:
+## ✅ O que foi concluído (Infraestrutura Offline):
 
-1. **Infraestrutura GPU Ativa (Frankfurt)**:
-   - **Instância Ativa**: `AI-BIBLE` rodando sob o shape robusto **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x GPU NVIDIA A10 de 24GB VRAM).
-   - **IP Público**: `130.61.86.XX` (Ocultado por segurança)
+1. **Infraestrutura GPU (Anteriormente Ativa em Frankfurt)**:
+   - **Instância**: `AI-BIBLE` rodou sob o shape **`VM.GPU.A10.1`** (15 OCPUs, 240 GB RAM, 1x GPU NVIDIA A10 de 24GB VRAM).
+   - **Status Atual**: Instância encerrada.
    - **Sistema Operacional**: Ubuntu 22.04 LTS.
-   - **Segurança de Acesso**: Chave SSH `frank-private.key` configurada e validada.
 
 2. **Configuração Automatizada (NVIDIA + Docker)**:
    - Repositório local e manuscritos fontes (`data/`) submetidos com sucesso para a VM.
@@ -36,12 +35,12 @@ Este arquivo serve para documentar exatamente onde o projeto está em **18 de Ma
    - Criado e implantado um portal estático premium (JAMstack) no raiz do repositório, hospedado gratuitamente via **GitHub Pages**.
    - O site exibe os textos em hebraico alinhados à direita (RTL em fonte *Cardo*) lado a lado com a tradução em português, carregando os dados dinamicamente dos JSONs à medida que a GPU faz o push, com barra de progresso live e busca inteligente integradas.
 
-## 📈 Status Atual da Tradução (Escopo Ajustado para Limite de Budget $300):
-- **Códice de Aleppo**: Sendo traduzido ativamente! O tradutor está voando baixo e já concluiu **1 Crônicas**, **1 Reis** e **1 Samuel**!
-- **Total do Escopo Prioritário**: **2.577 capítulos** alvo (Foco nos textos mais raros e no Novo Testamento devido à limitação de orçamento).
-- **Textos "Fora dos Recursos" (Pausados por Limite Orçamentário)**: WLC, Texto Crítico SBLGNT, Textus Receptus, Vulgata Latina e Talmud Bavli.
-- **Custo Estimado Restante**: Apenas **~$130 USD** (Perfeitamente dentro da margem segura de $300 da Oracle).
-- **ETA Estimado**: **~3 dias e 12 horas** para concluir todos os textos prioritários!
+## 📈 Status Atual da Tradução (Processamento Offline):
+- **Códice de Aleppo**: Tradução concluída.
+- **Total do Escopo Prioritário**: Concluídos os capítulos dentro do orçamento disponível.
+- **Textos "Fora dos Recursos"**: WLC, Texto Crítico SBLGNT, Textus Receptus, Vulgata Latina e Talmud Bavli.
+- **Custo Estimado Restante**: Operação Encerrada.
+- **ETA Estimado**: Processamento offline.
 
 ## 🚧 Próximos Passos (Sequência de Tradução Priorizada)
 
