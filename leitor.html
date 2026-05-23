@@ -741,6 +741,151 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        /* ============================================================
+         * GAVETA DE EXEGESE E STRONGS
+         * ============================================================ */
+        
+        .strong-tooltip {
+            position: fixed;
+            z-index: 1000;
+            background: var(--bg-card-hover);
+            border: 1px solid var(--border-glow-active);
+            color: var(--color-text-primary);
+            padding: 1rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            max-width: 300px;
+            pointer-events: none;
+            backdrop-filter: blur(10px);
+            font-family: var(--font-body);
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+
+        .strong-tooltip.show { opacity: 1; }
+        .strong-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border-divider); padding-bottom: 0.5rem;}
+        .strong-id { font-weight: 700; color: var(--color-teal); font-family: var(--font-display); }
+        .strong-pron { font-style: italic; color: var(--color-gold); font-size: 0.9rem; }
+        .strong-def { font-size: 0.95rem; line-height: 1.4; }
+
+        span[data-strong] {
+            border-bottom: 1px dotted var(--color-teal);
+            cursor: help;
+            transition: color 0.2s;
+            position: relative;
+        }
+        span[data-strong]:hover {
+            color: var(--color-teal);
+            background: rgba(20, 184, 166, 0.1);
+        }
+
+        .exegesis-drawer {
+            position: fixed;
+            top: 0;
+            right: -450px;
+            width: 450px;
+            height: 100vh;
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border-left: 1px solid var(--border-glow);
+            box-shadow: -10px 0 30px rgba(0,0,0,0.5);
+            z-index: 200;
+            display: flex;
+            flex-direction: column;
+            transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow: hidden;
+        }
+
+        .exegesis-drawer.open { right: 0; }
+
+        .drawer-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border-divider);
+            background: rgba(0,0,0,0.2);
+        }
+
+        .drawer-header h3 { font-family: var(--font-display); font-size: 1.25rem; }
+        
+        #close-drawer {
+            background: none;
+            border: none;
+            color: var(--color-text-muted);
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        #close-drawer:hover { color: var(--color-teal); }
+
+        .drawer-tabs {
+            display: flex;
+            border-bottom: 1px solid var(--border-divider);
+        }
+
+        .drawer-tab {
+            flex: 1;
+            background: none;
+            border: none;
+            padding: 1rem 0;
+            color: var(--color-text-muted);
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-transform: uppercase;
+            transition: all 0.2s;
+            border-bottom: 2px solid transparent;
+        }
+
+        .drawer-tab.active {
+            color: var(--color-teal);
+            border-bottom-color: var(--color-teal);
+            background: rgba(20, 184, 166, 0.05);
+        }
+
+        .drawer-content {
+            padding: 1.5rem;
+            overflow-y: auto;
+            flex: 1;
+        }
+
+        .drawer-pane { display: none; }
+        .drawer-pane.active { display: block; }
+
+        .drawer-placeholder {
+            color: var(--color-text-muted);
+            font-style: italic;
+            text-align: center;
+            margin-top: 2rem;
+            font-size: 0.95rem;
+        }
+
+        .crossref-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .crossref-item {
+            background: rgba(255,255,255,0.03);
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 3px solid var(--color-teal);
+        }
+        .crossref-link {
+            color: var(--color-teal);
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            .exegesis-drawer { width: 100%; right: -100%; }
+        }
     </style>
 </head>
 <body>
@@ -847,6 +992,34 @@
         <!-- Toast de cópia -->
         <div class="copy-toast" id="copy-toast">✓ Versículo copiado!</div>
     </main>
+
+    <!-- Tooltip de Strong -->
+    <div id="strong-tooltip" class="strong-tooltip" style="display: none;" aria-live="polite"></div>
+
+    <!-- Gaveta de Exegese -->
+    <aside id="exegesis-drawer" class="exegesis-drawer" aria-hidden="true">
+        <div class="drawer-header">
+            <h3 id="drawer-title">Gaveta de Exegese</h3>
+            <button id="close-drawer" aria-label="Fechar Gaveta">&times;</button>
+        </div>
+        <div class="drawer-tabs">
+            <button class="drawer-tab active" data-target="drawer-critical">Crítica Textual</button>
+            <button class="drawer-tab" data-target="drawer-commentary">Comentários Clássicos</button>
+            <button class="drawer-tab" data-target="drawer-crossref">Referências</button>
+        </div>
+        <div class="drawer-content">
+            <div id="drawer-critical" class="drawer-pane active">
+                <p class="drawer-placeholder">Comparação com Manuscritos do Mar Morto (DSS) indisponível para este versículo.</p>
+            </div>
+            <div id="drawer-commentary" class="drawer-pane">
+                <p class="drawer-placeholder">Processando comentários exegéticos em tempo real via IA... (Em breve)</p>
+            </div>
+            <div id="drawer-crossref" class="drawer-pane">
+                <p class="drawer-placeholder" id="crossref-placeholder">Carregando referências cruzadas...</p>
+                <ul id="crossref-list" class="crossref-list"></ul>
+            </div>
+        </div>
+    </aside>
 
     <footer>
         <p>Desenvolvido com fé e tecnologia por <a href="https://github.com/cristianismohumilde" target="_blank">Cristianismo Humilde</a> e Antigravity. Todos os direitos reservados © 2026.</p>
@@ -1838,7 +2011,7 @@
                         }
 
                         verseCard.innerHTML = `
-                            <span class="verse-num">${verseNum}</span>
+                            <span class="verse-num" title="Clique para abrir a Gaveta de Exegese">${verseNum}</span>
                             <div class="text-translation-container">
                                 ${translationContentHtml}
                             </div>
@@ -1863,6 +2036,14 @@
                             }
                             
                             navigator.clipboard.writeText(textToCopy).then(showCopyToast).catch(() => {});
+                        });
+
+                        // Evento para abrir gaveta de exegese ao clicar no número do versículo
+                        const numBadge = verseCard.querySelector(".verse-num");
+                        numBadge.style.cursor = "pointer";
+                        numBadge.addEventListener("click", (e) => {
+                            e.stopPropagation(); // Evita copiar ao abrir a gaveta
+                            openDrawer(manuscript, book, chapter, verseNum);
                         });
 
                         VERSES_LIST.appendChild(verseCard);
@@ -2125,6 +2306,136 @@
          * 
          * ============================================================================
          */
+
+        /**
+         * SEÇÃO 11: DICIONÁRIO STRONG & GAVETA DE EXEGESE
+         */
+        const STRONG_TOOLTIP = document.getElementById("strong-tooltip");
+        const EXEGESIS_DRAWER = document.getElementById("exegesis-drawer");
+        let strongsDb = null;
+        let crossRefDb = null;
+
+        async function loadStrongsDb() {
+            if (strongsDb) return;
+            try {
+                const res = await fetch("data/study_materials/strongs.json");
+                if (res.ok) {
+                    const data = await res.json();
+                    strongsDb = {};
+                    data.forEach(item => strongsDb[item.number] = item);
+                }
+            } catch(e) { console.warn("Strongs DB not found."); }
+        }
+
+        async function loadCrossRefs() {
+            if (crossRefDb) return;
+            try {
+                const res = await fetch("data/study_materials/cross_references.tsv");
+                if (res.ok) {
+                    const text = await res.text();
+                    crossRefDb = text.split("\n");
+                }
+            } catch(e) { console.warn("CrossRefs DB not found."); }
+        }
+
+        window.addEventListener("DOMContentLoaded", () => {
+            loadStrongsDb();
+            loadCrossRefs();
+        });
+
+        // Hover logic para Strongs
+        document.addEventListener("mouseover", (e) => {
+            const el = e.target.closest("span[data-strong]");
+            if (!el) return;
+            
+            const strongId = el.getAttribute("data-strong");
+            if (strongsDb && strongsDb[strongId]) {
+                const entry = strongsDb[strongId];
+                const lemma = entry.lemma || "";
+                const pron = entry.pronounce || entry.xlit || "";
+                const def = entry.description || "Sem definição.";
+
+                STRONG_TOOLTIP.innerHTML = `
+                    <div class="strong-header">
+                        <span class="strong-id">${strongId}</span>
+                        <span class="strong-pron">${pron}</span>
+                    </div>
+                    <div style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--color-gold); font-family: var(--font-hebrew)">${lemma}</div>
+                    <div class="strong-def">${def}</div>
+                `;
+                
+                STRONG_TOOLTIP.style.display = "block";
+                
+                const rect = el.getBoundingClientRect();
+                let top = rect.bottom + 10;
+                let left = rect.left;
+                
+                if (top + 150 > window.innerHeight) top = rect.top - 150;
+                if (left + 300 > window.innerWidth) left = window.innerWidth - 310;
+                
+                STRONG_TOOLTIP.style.top = top + "px";
+                STRONG_TOOLTIP.style.left = left + "px";
+                
+                void STRONG_TOOLTIP.offsetWidth; // Force reflow
+                STRONG_TOOLTIP.classList.add("show");
+            }
+        });
+
+        document.addEventListener("mouseout", (e) => {
+            if (e.target.closest("span[data-strong]")) {
+                STRONG_TOOLTIP.classList.remove("show");
+                setTimeout(() => { 
+                    if (!STRONG_TOOLTIP.classList.contains("show")) STRONG_TOOLTIP.style.display = "none"; 
+                }, 200);
+            }
+        });
+
+        // Gaveta de Exegese
+        function openDrawer(manuscript, book, chapter, verse) {
+            EXEGESIS_DRAWER.classList.add("open");
+            document.getElementById("drawer-title").textContent = `Exegese: ${formatBook(book, manuscript)} ${chapter}:${verse}`;
+            
+            const crList = document.getElementById("crossref-list");
+            const crPlaceholder = document.getElementById("crossref-placeholder");
+            crList.innerHTML = "";
+            
+            if (crossRefDb) {
+                const query = `${book.replace("_", " ")} ${chapter}:${verse}`;
+                // Pesquisa muito simples no TSV
+                const matches = crossRefDb.filter(line => line.toLowerCase().includes(query.toLowerCase())).slice(0, 10);
+                
+                if (matches.length > 0) {
+                    matches.forEach(m => {
+                        const parts = m.split("\\t");
+                        const li = document.createElement("li");
+                        li.className = "crossref-item";
+                        // Mostra o início do match se for TSV simples
+                        li.innerHTML = `<span class="crossref-link">${parts[0] || m}</span><div style="margin-top: 0.5rem; font-size: 0.9rem; color: var(--color-text-secondary)">${parts[1] || ''}</div>`;
+                        crList.appendChild(li);
+                    });
+                    crPlaceholder.style.display = "none";
+                } else {
+                    crPlaceholder.textContent = "Nenhuma referência encontrada.";
+                    crPlaceholder.style.display = "block";
+                }
+            } else {
+                crPlaceholder.textContent = "Banco de referências não carregado.";
+                crPlaceholder.style.display = "block";
+            }
+        }
+
+        document.getElementById("close-drawer").addEventListener("click", () => {
+            EXEGESIS_DRAWER.classList.remove("open");
+        });
+
+        document.querySelectorAll(".drawer-tab").forEach(tab => {
+            tab.addEventListener("click", () => {
+                document.querySelectorAll(".drawer-tab").forEach(t => t.classList.remove("active"));
+                document.querySelectorAll(".drawer-pane").forEach(p => p.classList.remove("active"));
+                tab.classList.add("active");
+                document.getElementById(tab.getAttribute("data-target")).classList.add("active");
+            });
+        });
     </script>
 </body>
 </html>
