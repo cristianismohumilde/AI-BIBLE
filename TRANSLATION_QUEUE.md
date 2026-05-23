@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-23 02:22 UTC**
+> Gerado dinamicamente em: **2026-05-23 02:27 UTC**
 
 ---
 
@@ -43,14 +43,14 @@ Após a conclusão de todas as traduções, os 3 workers da VM executarão `tran
 
 | Sistema | Coleções | Status |
 | :--- | :--- | :---: |
-| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **🔤 Transliterando (3/2415 arquivos)** |
-| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **🔤 Transliterando (3/2415 arquivos)** |
-| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **🔤 Transliterando (3/2415 arquivos)** |
-| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **🔤 Transliterando (3/2415 arquivos)** |
-| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **🔤 Transliterando (3/2415 arquivos)** |
-| ISO 9985 Armênio | Armenian Eastern | **🔤 Transliterando (3/2415 arquivos)** |
+| SBL Hebraico (ā, ē, ō, š, ṣ, ṭ, ḥ, ʿ, ʾ) | Aleppo, DSS, Targum Onkelos | **🔤 Transliterando (3/2416 arquivos)** |
+| SBL Grego Koiné (ex: Κύριος → Kyrios) | LXX, BYZ | **🔤 Transliterando (3/2416 arquivos)** |
+| CAL Aramaico (ex: Sedra/CAL) | Targum Onkelos, Peshitta Siríaca | **🔤 Transliterando (3/2416 arquivos)** |
+| Etíope padrão (ex: አምላክ → ʾAmlāk) | Ge'ez | **🔤 Transliterando (3/2416 arquivos)** |
+| Copta acadêmico (ex: ⲡⲛⲉⲩⲙⲁ → pneuma) | Coptic Sahidic | **🔤 Transliterando (3/2416 arquivos)** |
+| ISO 9985 Armênio | Armenian Eastern | **🔤 Transliterando (3/2416 arquivos)** |
 
-**Progresso geral:** 3/2415 arquivos transliterados.
+**Progresso geral:** 3/2416 arquivos transliterados.
 
 ---
 
