@@ -2,11 +2,7 @@
 
 Este arquivo documenta o status final da fila de tradução. A VM em Frankfurt foi encerrada e o processamento está offline.
 
-<<<<<<< HEAD
-> Gerado dinamicamente em: **2026-05-23 17:38 UTC**
-=======
-> Gerado dinamicamente em: **2026-05-23 02:27 UTC**
->>>>>>> 539ec19bcd5d1c3e674ea0205b7aba4b60d1cf5a
+> Gerado dinamicamente em: **2026-05-23 18:16 UTC**
 
 ---
 
