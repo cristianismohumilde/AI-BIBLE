@@ -2,7 +2,7 @@
 
 Este arquivo documenta a priorização oficial da fila de tradução para a Fase GPU, detalhando o status real e atualizado de cada manuscrito/versão antiga.
 
-> Gerado dinamicamente em: **2026-05-23 00:14 UTC**
+> Gerado dinamicamente em: **2026-05-23 00:19 UTC**
 
 ---
 
