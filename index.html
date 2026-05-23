@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scriptura AI — O Portal dos Manuscritos Antigos</title>
-    <meta name="description" content="Tradução Bíblica Multilíngue por IA. Entre no portal para ler manuscritos originais.">
+    <meta name="description" content="A principal e maior fonte de traduções interlineares de manuscritos antigos da Bíblia e textos rabínicos (Hebraico, Grego, Aramaico) totalmente geradas pela mais avançada Inteligência Artificial diretamente para o Português.">
+    <meta name="keywords" content="manuscritos antigos gerados por ia, tradução bíblica ia, manuscritos hebraicos inteligência artificial, textos originais bíblia ia, scriptura ai, códice de aleppo, septuaginta ia">
     <meta name="theme-color" content="#0b0f19">
     
     <!-- Google Fonts -->
@@ -65,10 +66,20 @@
             pointer-events: none;
         }
 
-        /* O Card Glassmorphism principal */
-        .hero-card {
+        /* Wrapper para a animação de flutuação, separando do efeito 3D do mouse */
+        .float-wrapper {
             position: relative;
             z-index: 10;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            animation: float-card 6s ease-in-out infinite, fade-in 1.5s ease-out forwards;
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        /* O Card Glassmorphism principal (agora com tilt 3D) */
+        .hero-card {
             background: rgba(19, 26, 44, 0.4);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
@@ -79,9 +90,8 @@
             max-width: 600px;
             width: 90%;
             box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), inset 0 0 0 1px rgba(255, 255, 255, 0.05);
-            animation: float-card 6s ease-in-out infinite, fade-in 1.5s ease-out forwards;
-            opacity: 0;
-            transform: translateY(20px);
+            transform-style: preserve-3d;
+            transition: transform 0.1s ease-out;
         }
 
         @keyframes float-card {
@@ -223,19 +233,21 @@
     <canvas id="bg-canvas"></canvas>
     <div class="overlay"></div>
 
-    <main class="hero-card">
-        <div class="logo-icon">S</div>
-        <h1>Scriptura AI</h1>
-        <p>A mais avançada rede de inteligência artificial traduzindo <span>מגילות</span> e <span>Χειρόγραφα</span> originais diretamente para o seu idioma.</p>
-        
-        <a href="leitor.html" class="enter-btn">
-            Explorar Manuscritos
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                <line x1="5" y1="12" x2="19" y2="12"></line>
-                <polyline points="12 5 19 12 12 19"></polyline>
-            </svg>
-        </a>
-    </main>
+    <div class="float-wrapper">
+        <main class="hero-card">
+            <div class="logo-icon">S</div>
+            <h1>Scriptura AI</h1>
+            <p>A mais avançada rede de inteligência artificial traduzindo <span>מגילות</span> (Rolos Antigos) e <span>Χειρόγραφα</span> (Manuscritos) originais diretamente para o seu idioma.</p>
+            
+            <a href="leitor.html" class="enter-btn">
+                Explorar Manuscritos
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </a>
+        </main>
+    </div>
 
     <script>
         /**
@@ -257,22 +269,40 @@
             'α','β','γ','δ','ε','ζ','η','θ','ι','κ','λ','μ','ν','ξ','ο','π','ρ','σ','τ','υ','φ','χ','ψ','ω'
         ];
 
-        // Rastreamento do mouse
+        // Rastreamento do mouse e Efeito 3D
         const mouse = {
             x: null,
             y: null,
             radius: 150 // Raio de atração/interação das linhas
         };
 
+        const heroCard = document.querySelector('.hero-card');
+
         window.addEventListener('mousemove', (event) => {
+            // Atualiza para o Canvas
             mouse.x = event.x;
             mouse.y = event.y;
+
+            // Efeito 3D Tilt no Card
+            if (heroCard) {
+                // Suaviza a transição durante o movimento constante
+                heroCard.style.transition = 'transform 0.1s ease-out';
+                const xAxis = (window.innerWidth / 2 - event.pageX) / 25;
+                const yAxis = (window.innerHeight / 2 - event.pageY) / 25;
+                heroCard.style.transform = `perspective(1000px) rotateY(${xAxis}deg) rotateX(${yAxis}deg)`;
+            }
         });
 
         // Quando o mouse sai da tela
         window.addEventListener('mouseout', () => {
             mouse.x = undefined;
             mouse.y = undefined;
+
+            if (heroCard) {
+                // Retorna ao centro de forma suave
+                heroCard.style.transition = 'transform 0.5s ease-out';
+                heroCard.style.transform = `perspective(1000px) rotateY(0deg) rotateX(0deg)`;
+            }
         });
 
         function resize() {
@@ -294,8 +324,8 @@
                 this.vx = (Math.random() - 0.5) * 0.5;
                 this.vy = (Math.random() - 0.5) * 0.5;
                 
-                // 15% de chance de ser uma letra antiga (efeito Matrix) em vez de ponto
-                this.isLetter = Math.random() < 0.15;
+                // 40% de chance de ser uma letra antiga (efeito Matrix) em vez de ponto
+                this.isLetter = Math.random() < 0.40;
                 this.char = this.isLetter ? ancientChars[Math.floor(Math.random() * ancientChars.length)] : '';
                 this.fontSize = Math.random() * 12 + 10; // 10 a 22px
                 
@@ -336,8 +366,8 @@
 
         function init() {
             particles = [];
-            // Número de partículas escalonado pela área da tela para não poluir telas pequenas
-            const numParticles = Math.floor((width * height) / 12000);
+            // Aumentando ligeiramente a densidade de partículas para mais letras visíveis
+            const numParticles = Math.floor((width * height) / 9000);
             
             for (let i = 0; i < numParticles; i++) {
                 particles.push(new Particle());
