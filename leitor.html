@@ -755,10 +755,7 @@
         </div>
         
         <div style="display: flex; align-items: center; gap: 1rem;">
-            <div class="offline-status">
-                <div class="offline-dot"></div>
-                <span>Processamento Concluído</span>
-            </div>
+
             <!-- Botão de Toggle Tema Escuro/Claro -->
             <button class="theme-toggle-btn" id="theme-toggle" title="Alternar modo escuro/claro" aria-label="Alternar modo escuro/claro">
                 🌙
@@ -767,20 +764,6 @@
     </header>
 
     <main>
-        <!-- Banner de Progresso Live da GPU -->
-        <section class="progress-banner" id="progress-banner" aria-label="Progresso da tradução">
-            <div class="progress-header">
-                <span><strong>Progresso da Tradução</strong> — Servidor Offline</span>
-                <span class="progress-pct" id="progress-pct">…</span>
-            </div>
-            <div class="progress-track">
-                <div class="progress-fill" id="progress-fill"></div>
-            </div>
-            <div class="progress-header" style="font-size:0.78rem;">
-                <span id="progress-detail">Carregando estatísticas…</span>
-                <span id="progress-eta"></span>
-            </div>
-        </section>
 
         <!-- Painel de Controle de Navegação -->
         <section class="controls-panel" aria-label="Controles de navegação">
@@ -1773,7 +1756,7 @@
 
             const mappedBook = getManuscriptBookName(manuscript, book);
             const jsonPath = `output/${manuscript}/${mappedBook}_${chapter}.json`;
-            const cacheKey = `${manuscript}/${book}/${chapter}`;
+            const cacheKey = `v2/${manuscript}/${book}/${chapter}`;
 
             try {
                 let verses;
@@ -2098,12 +2081,10 @@
                 }
             }
             
-            // Carrega progresso inicial da GPU
-            loadProgress();
+            // loadProgress(); // Função removida
             
             // Atualiza progresso a cada 5 minutos (ciclo de sincronização da VM em Frankfurt)
-            // ⚠️ NÃO ALTERAR: Este intervalo está sincronizado com o pipeline de tradução
-            setInterval(loadProgress, 5 * 60 * 1000);
+            // setInterval(loadProgress, 5 * 60 * 1000); // Removido pois o servidor offline terminou
         });
 
         /**
