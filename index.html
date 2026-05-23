@@ -3,12 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scriptura AI — Tradução Bíblica Multilíngue por IA</title>
-    <meta name="description" content="Leitor interlinear de manuscritos bíblicos originais (Hebraico, Grego, Aramaico) traduzidos por IA diretamente para o Português do Brasil. Actualizado em tempo real.">
+    <title>Scriptura AI — O Portal dos Manuscritos Antigos</title>
+    <meta name="description" content="Tradução Bíblica Multilíngue por IA. Entre no portal para ler manuscritos originais.">
     <meta name="theme-color" content="#0b0f19">
-    <meta property="og:title" content="Scriptura AI — Leitor Interlinear de Manuscritos Originais">
-    <meta property="og:description" content="Acompanhe em tempo real a tradução de todos os manuscritos bíblicos originais para o Português, gerada por IA acadêmica.">
-    <meta property="og:type" content="website">
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,82 +13,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
     <style>
-        /* ============================================================
-         * DESIGN TOKENS — Modo Escuro (padrão: Obsidian Premium)
-         * ============================================================ */
         :root {
             --bg-obsidian: #0b0f19;
-            --bg-card: rgba(19, 26, 44, 0.7);
-            --bg-card-hover: rgba(26, 36, 60, 0.9);
-            --bg-header: rgba(11, 15, 25, 0.85);
-            --bg-footer: rgba(11, 15, 25, 0.95);
-            --bg-input: rgba(11, 15, 25, 0.6);
-            --bg-aurora: rgba(20, 184, 166, 0.08);
-
-            --border-glow: rgba(20, 184, 166, 0.15);
-            --border-glow-active: rgba(251, 191, 36, 0.4);
-            --border-divider: rgba(255, 255, 255, 0.05);
-
             --color-teal: #14b8a6;
             --color-emerald: #10b981;
             --color-gold: #fbbf24;
-            --color-text-primary: #f3f4f6;
-            --color-text-secondary: #9ca3af;
-            --color-text-muted: #6b7280;
-
-            --shadow-card-hover: 0 4px 20px rgba(0, 0, 0, 0.25);
-            --shadow-logo: 0 0 20px rgba(20, 184, 166, 0.3);
-            --progress-track-bg: rgba(255, 255, 255, 0.05);
-
             --font-display: 'Outfit', sans-serif;
             --font-body: 'Inter', sans-serif;
-            --font-hebrew: 'Cardo', serif;
-            --font-greek: 'Cardo', serif;
-        }
-
-        /* Modo Escuro (padrão) */
-        body {
-            color-scheme: dark;
-        }
-
-        /* ============================================================
-         * DESIGN TOKENS — Modo Claro (Parchment Light)
-         * Paleta inspirada em pergaminho e manuscritos iluminados:
-         * fundo creme suave, acentos teal/esmeralda preservados,
-         * texto dourado mais escuro para contraste adequado (WCAG AA).
-         * ============================================================ */
-        body.light-mode {
-            /* Fundos: creme suave em vez de branco puro — menos cansativo */
-            --bg-obsidian: #f5f0e8;
-            --bg-card: rgba(255, 252, 245, 0.92);
-            --bg-card-hover: rgba(255, 248, 235, 0.98);
-            --bg-header: rgba(250, 246, 238, 0.92);
-            --bg-footer: rgba(245, 240, 232, 0.98);
-            --bg-input: rgba(255, 252, 245, 0.9);
-            --bg-aurora: rgba(20, 184, 166, 0.06);
-
-            /* Bordas: teal mais visível no fundo claro */
-            --border-glow: rgba(20, 184, 166, 0.3);
-            --border-glow-active: rgba(180, 120, 0, 0.45);
-            --border-divider: rgba(0, 0, 0, 0.07);
-
-            /* Cores de acento: teal e esmeralda ligeiramente mais escuros para contraste */
-            --color-teal: #0d9488;
-            --color-emerald: #059669;
-            /* Dourado mais escuro para texto legível em fundo claro (WCAG AA) */
-            --color-gold: #92650a;
-
-            /* Texto */
-            --color-text-primary: #1c1917;
-            --color-text-secondary: #44403c;
-            --color-text-muted: #78716c;
-
-            /* Sombras mais suaves no modo claro */
-            --shadow-card-hover: 0 4px 20px rgba(0, 0, 0, 0.08);
-            --shadow-logo: 0 0 16px rgba(13, 148, 136, 0.25);
-            --progress-track-bg: rgba(0, 0, 0, 0.07);
-
-            color-scheme: light;
+            --font-ancient: 'Cardo', serif;
         }
 
         * {
@@ -100,2050 +29,387 @@
             padding: 0;
         }
 
-        /* Layout base — flex coluna para o footer sempre ficar no rodapé */
         body {
             background-color: var(--bg-obsidian);
-            color: var(--color-text-primary);
+            color: #f3f4f6;
             font-family: var(--font-body);
-            min-height: 100vh;
-            overflow-x: hidden;
+            overflow: hidden; /* Oculta a rolagem para imersão total */
+            height: 100vh;
+            width: 100vw;
             display: flex;
-            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
         }
 
-        /* Fundo com efeito gradiente Aurora — intensidade ajustada por tema */
-        body::before {
-            content: '';
+        /* O Canvas ocupa toda a tela e fica ao fundo */
+        #bg-canvas {
             position: absolute;
-            top: -200px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80%;
-            height: 600px;
-            background: radial-gradient(circle, var(--bg-aurora) 0%, rgba(16, 185, 129, 0.02) 50%, transparent 100%);
-            z-index: -1;
-            pointer-events: none;
-        }
-
-        /* Header fixo no topo com glassmorphism (backdrop-filter blur) */
-        header {
-            background: var(--bg-header);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border-bottom: 1px solid var(--border-glow);
-            padding: 1rem 2rem;
-            position: sticky;
             top: 0;
-            z-index: 100;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .logo-container {
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
-        }
-
-        /* Ícone "S" do logo — gradiente teal→esmeralda, texto sempre branco para contraste */
-        .logo-icon {
-            width: 40px;
-            height: 40px;
-            background: linear-gradient(135deg, var(--color-teal), var(--color-emerald));
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: var(--font-display);
-            font-weight: 800;
-            font-size: 1.25rem;
-            color: #fff;
-            box-shadow: var(--shadow-logo);
-        }
-
-        .logo-text h1 {
-            font-family: var(--font-display);
-            font-size: 1.25rem;
-            font-weight: 700;
-            /* Gradiente adaptado por tema via JS (classe light-mode no body) */
-            background: linear-gradient(to right, var(--color-text-primary), var(--color-text-secondary));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .logo-text span {
-            font-size: 0.75rem;
-            color: var(--color-teal);
-            font-weight: 600;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-        }
-
-        /* Indicador "Processamento Finalizado" — pill neutro */
-        .offline-status {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            background: rgba(107, 114, 128, 0.1);
-            border: 1px solid rgba(107, 114, 128, 0.2);
-            padding: 0.5rem 1rem;
-            border-radius: 9999px;
-            font-size: 0.85rem;
-            font-weight: 500;
-            color: var(--color-text-muted);
-        }
-
-        /* Botão de Modo Escuro/Claro */
-        .theme-toggle-btn {
-            background: rgba(20, 184, 166, 0.08);
-            border: 1px solid var(--border-glow);
-            color: var(--color-teal);
-            width: 40px;
-            height: 40px;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 1.2rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-            margin-left: 1rem;
-        }
-
-        .theme-toggle-btn:hover {
-            background: rgba(20, 184, 166, 0.18);
-            border-color: var(--color-teal);
-            transform: scale(1.05);
-        }
-
-        /* Ponto cinza ao lado do status */
-        .offline-dot {
-            width: 8px;
-            height: 8px;
-            background-color: var(--color-text-muted);
-            border-radius: 50%;
-        }
-
-        /* Área principal — centralizada, largura máxima 1600px, gap entre seções */
-        main {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            padding: 2rem;
-            max-width: 1600px;
-            margin: 0 auto;
+            left: 0;
             width: 100%;
-            gap: 2rem;
-        }
-
-        /* Painel de Controle (Seletores) */
-        .controls-panel {
-            background: var(--bg-card);
-            border: 1px solid var(--border-glow);
-            border-radius: 16px;
-            padding: 1.5rem;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.25rem;
-            backdrop-filter: blur(8px);
-        }
-
-        .control-group {
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-        }
-
-        /* Labels dos selects — uppercase pequeno, estilo de formulário acadêmico */
-        .control-group label {
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--color-text-secondary);
-            font-weight: 600;
-        }
-
-        /* Selects — fundo usa variável para adaptar ao tema */
-        .control-group select {
-            background: var(--bg-input);
-            border: 1px solid var(--border-glow);
-            color: var(--color-text-primary);
-            padding: 0.75rem;
-            border-radius: 8px;
-            font-family: var(--font-body);
-            font-size: 0.95rem;
-            cursor: pointer;
-            outline: none;
-            transition: all 0.3s ease;
-        }
-
-        .control-group select:focus {
-            border-color: var(--color-teal);
-            box-shadow: 0 0 10px rgba(20, 184, 166, 0.15);
-        }
-
-        /* Campo de Busca — fundo usa variável para adaptar ao tema */
-        .search-input {
-            background: var(--bg-input);
-            border: 1px solid var(--border-glow);
-            color: var(--color-text-primary);
-            padding: 0.75rem 1rem 0.75rem 2.5rem;
-            border-radius: 8px;
-            font-family: var(--font-body);
-            font-size: 0.95rem;
-            outline: none;
-            transition: all 0.3s ease;
-            width: 100%;
-        }
-        .search-input:focus {
-            border-color: var(--color-teal);
-            box-shadow: 0 0 10px rgba(20, 184, 166, 0.15);
-        }
-        .search-input::placeholder { color: var(--color-text-muted); }
-        .search-wrapper {
-            position: relative;
-            display: flex;
-            align-items: center;
-        }
-        .search-icon {
-            position: absolute;
-            left: 0.75rem;
-            color: var(--color-text-muted);
-            pointer-events: none;
-            font-size: 0.9rem;
-        }
-        .verse-card.hidden { display: none; }
-        /* Highlight de busca — fundo dourado translúcido sobre o texto encontrado */
-        mark {
-            background: rgba(251, 191, 36, 0.25);
-            color: var(--color-gold);
-            border-radius: 3px;
-            padding: 0 2px;
-        }
-
-        /* Banner de Progresso Live */
-        .progress-banner {
-            background: var(--bg-card);
-            border: 1px solid var(--border-glow);
-            border-radius: 16px;
-            padding: 1.25rem 1.5rem;
-            backdrop-filter: blur(8px);
-            display: flex;
-            flex-direction: column;
-            gap: 0.75rem;
-        }
-        .progress-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.85rem;
-            color: var(--color-text-secondary);
-        }
-        .progress-header strong { color: var(--color-text-primary); font-family: var(--font-display); }
-        .progress-header .progress-pct {
-            color: var(--color-teal);
-            font-weight: 700;
-            font-family: var(--font-display);
-            font-size: 1rem;
-        }
-        /* Trilha da barra de progresso — usa variável para adaptar ao tema */
-        .progress-track {
-            width: 100%;
-            height: 6px;
-            background: var(--progress-track-bg);
-            border-radius: 9999px;
-            overflow: hidden;
-        }
-        /* Linha de preenchimento da barra de progresso — animação suave de 1.2s */
-        .progress-fill {
             height: 100%;
-            background: linear-gradient(to right, var(--color-teal), var(--color-emerald));
-            border-radius: 9999px;
-            width: 0%;
-            transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
-            box-shadow: 0 0 8px rgba(20, 184, 166, 0.4);
+            z-index: 1;
+            pointer-events: auto; /* Para detectar o mouse */
         }
 
-        /* Conteiner da Bíblia */
-        .bible-container {
-            display: flex;
-            flex-direction: column;
-            gap: 1.5rem;
-        }
-
-        /* Divisor do cabeçalho do capítulo — usa variável para adaptar ao tema */
-        .chapter-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-bottom: 1px solid var(--border-divider);
-            padding-bottom: 1rem;
-        }
-
-        /* Título e subtítulo do capítulo atual */
-        .chapter-title h2 {
-            font-family: var(--font-display);
-            font-size: 2rem;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-        }
-
-        .chapter-title p {
-            color: var(--color-text-secondary);
-            font-size: 0.9rem;
-            margin-top: 0.25rem;
-        }
-
-        /* Grid de Versículos */
-        .verses-list {
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        /* Card de versículo — grid 2 colunas: tradução PT-BR | texto original RTL
-         * cursor: pointer indica que o clique copia o versículo para o clipboard */
-        .verse-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-glow);
-            border-radius: 12px;
-            padding: 1.5rem;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 2rem;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            position: relative;
-            overflow: hidden;
-            cursor: pointer;
-        }
-
-        .verse-card:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--border-glow-active);
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-card-hover);
-        }
-
-        /* Número do versículo — badge absoluto no canto superior esquerdo do card */
-        .verse-num {
+        /* Overlay escurecido para garantir legibilidade */
+        .overlay {
             position: absolute;
-            top: 1rem;
-            left: 1rem;
-            background: rgba(20, 184, 166, 0.1);
-            color: var(--color-teal);
-            font-size: 0.75rem;
-            font-weight: 700;
-            padding: 0.25rem 0.5rem;
-            border-radius: 6px;
-            font-family: var(--font-display);
-        }
-
-        /* Coluna do texto original — direção RTL para Hebraico/Aramaico/Siríaco */
-        .text-original-container {
-            border-left: 2px dashed rgba(20, 184, 166, 0.2);
-            padding-left: 1.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: flex-end;
-            direction: rtl; /* Alinhamento Hebraico da direita para a esquerda */
-        }
-
-        /* Texto original — fonte Cardo (serif acadêmica), dourado, tamanho generoso para diacríticos */
-        .text-original {
-            font-family: var(--font-hebrew);
-            font-size: 1.65rem;
-            line-height: 2.2rem;
-            color: var(--color-gold);
-            text-shadow: 0 0 1px rgba(251, 191, 36, 0.1);
-            word-spacing: 4px;
-        }
-
-        /* Coluna da tradução PT-BR — padding-left extra para não sobrepor o badge do versículo */
-        .text-translation-container {
-            padding-right: 1.5rem;
-            padding-left: 2rem; /* Espaço para o número do versículo */
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            justify-content: center;
-            gap: 0.5rem;
-        }
-
-        .text-translation {
-            font-family: var(--font-body);
-            font-size: 1.1rem;
-            line-height: 1.75rem;
-            color: var(--color-text-primary);
-            font-weight: 400;
-        }
-
-        /* Transliteração acadêmica — estilo itálico com borda teal sutil à esquerda */
-        .text-transliteration {
-            font-family: var(--font-body);
-            font-size: 0.95rem;
-            line-height: 1.45rem;
-            color: var(--color-text-secondary);
-            font-style: italic;
-            border-left: 2px solid var(--border-glow);
-            padding-left: 0.75rem;
-            margin-top: 0.25rem;
+            top: 0;
+            left: 0;
             width: 100%;
-            word-break: break-word;
+            height: 100%;
+            background: radial-gradient(circle at center, transparent 0%, var(--bg-obsidian) 100%);
+            z-index: 2;
+            pointer-events: none;
         }
 
-        /* Navegação de Capítulo */
-        .chapter-nav {
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
-        }
-
-        /* Botões ← → de navegação entre capítulos */
-        .nav-btn {
-            background: rgba(20, 184, 166, 0.08);
-            border: 1px solid var(--border-glow);
-            color: var(--color-teal);
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 1.1rem;
-            transition: all 0.2s ease;
-            font-family: var(--font-body);
-        }
-
-        .nav-btn:hover:not(:disabled) {
-            background: rgba(20, 184, 166, 0.18);
-            border-color: var(--color-teal);
-            transform: scale(1.05);
-        }
-
-        .nav-btn:disabled {
-            opacity: 0.25;
-            cursor: not-allowed;
-        }
-
-        /* Badge "X versículos" ou "X resultados" exibido ao lado dos botões de nav */
-        .verse-count-badge {
-            background: rgba(251, 191, 36, 0.08);
-            border: 1px solid rgba(251, 191, 36, 0.2);
-            color: var(--color-gold);
-            font-size: 0.78rem;
-            font-weight: 600;
-            padding: 0.35rem 0.75rem;
-            border-radius: 9999px;
-            font-family: var(--font-display);
-            white-space: nowrap;
-        }
-
-        /* Spinner de Carregamento */
-        .loading-spinner {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 1rem;
-            padding: 4rem 2rem;
-            color: var(--color-text-secondary);
-        }
-
-        /* Anel giratório do spinner — borda teal no topo, resto translúcido */
-        .spinner-ring {
-            width: 44px;
-            height: 44px;
-            border: 3px solid rgba(20, 184, 166, 0.15);
-            border-top-color: var(--color-teal);
-            border-radius: 50%;
-            animation: spin 0.8s linear infinite;
-        }
-
-        @keyframes spin { to { transform: rotate(360deg); } }
-
-        /* Estado Vazio (Ainda não traduzido) */
-        .empty-state {
-            background: var(--bg-card);
-            border: 1px dashed var(--border-glow);
-            border-radius: 16px;
-            padding: 4rem 2rem;
+        /* O Card Glassmorphism principal */
+        .hero-card {
+            position: relative;
+            z-index: 10;
+            background: rgba(19, 26, 44, 0.4);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(20, 184, 166, 0.2);
+            border-radius: 24px;
+            padding: 4rem 3rem;
             text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 1.5rem;
-            backdrop-filter: blur(8px);
+            max-width: 600px;
+            width: 90%;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+            animation: float-card 6s ease-in-out infinite, fade-in 1.5s ease-out forwards;
+            opacity: 0;
+            transform: translateY(20px);
         }
 
-        /* Ícone flutuante do estado vazio — animação sutil de levitação */
-        .empty-icon {
-            font-size: 3rem;
-            color: var(--color-text-muted);
-            animation: float 4s ease-in-out infinite;
-        }
-
-        @keyframes float {
+        @keyframes float-card {
             0% { transform: translateY(0px); }
             50% { transform: translateY(-10px); }
             100% { transform: translateY(0px); }
         }
 
-        .empty-state h3 {
-            font-family: var(--font-display);
-            font-size: 1.5rem;
-            font-weight: 600;
+        @keyframes fade-in {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
-        .empty-state p {
-            color: var(--color-text-secondary);
-            max-width: 500px;
-            font-size: 0.95rem;
-            line-height: 1.5rem;
-        }
-
-        /* Banner de Tradução Pendente */
-        .pending-translation-banner {
+        /* Logo Ícone */
+        .logo-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, var(--color-teal), var(--color-emerald));
+            border-radius: 24px;
             display: flex;
             align-items: center;
-            background: rgba(245, 158, 11, 0.08);
-            border: 1px solid rgba(245, 158, 11, 0.25);
-            color: var(--color-gold);
-            padding: 1rem 1.25rem;
-            border-radius: 12px;
-            margin-bottom: 1.5rem;
-            font-size: 0.95rem;
-            line-height: 1.4rem;
-            backdrop-filter: blur(8px);
-            font-family: var(--font-body);
-        }
-        /* SVG de aviso dentro do banner de tradução pendente */
-        .pending-translation-banner svg {
-            width: 20px;
-            height: 20px;
-            flex-shrink: 0;
-            margin-right: 0.75rem;
+            justify-content: center;
+            font-family: var(--font-display);
+            font-weight: 800;
+            font-size: 2.5rem;
+            color: #fff;
+            margin: 0 auto 1.5rem auto;
+            box-shadow: 0 0 30px rgba(20, 184, 166, 0.4);
+            transform: rotate(-5deg);
+            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        /* Badge de Tradução Pendente */
-        .translation-pending-badge {
+        .hero-card:hover .logo-icon {
+            transform: rotate(0deg) scale(1.05);
+            box-shadow: 0 0 40px rgba(20, 184, 166, 0.6);
+        }
+
+        /* Títulos */
+        .hero-card h1 {
+            font-family: var(--font-display);
+            font-size: 3rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #f3f4f6, #9ca3af);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .hero-card p {
+            color: #9ca3af;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 2.5rem;
+        }
+
+        /* Destaques dourados no texto */
+        .hero-card p span {
+            color: var(--color-gold);
+            font-family: var(--font-ancient);
+            font-style: italic;
+            font-size: 1.25rem;
+        }
+
+        /* Botão Interativo Premium */
+        .enter-btn {
             display: inline-flex;
             align-items: center;
-            gap: 0.5rem;
-            background: rgba(245, 158, 11, 0.06);
-            border: 1px solid rgba(245, 158, 11, 0.2);
-            color: var(--color-gold);
-            font-size: 0.8rem;
-            font-weight: 500;
-            padding: 0.35rem 0.75rem;
-            border-radius: 6px;
-            font-family: var(--font-display);
-        }
-
-        /* Ponto dourado pulsante dentro do badge de tradução pendente */
-        .pulse-dot-gold {
-            width: 8px;
-            height: 8px;
-            background-color: var(--color-gold);
-            border-radius: 50%;
-            display: inline-block;
-            box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.7);
-            animation: pulse-gold 2s infinite;
-        }
-
-        @keyframes pulse-gold {
-            0% {
-                transform: scale(0.95);
-                box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.7);
-            }
-            70% {
-                transform: scale(1);
-                box-shadow: 0 0 0 6px rgba(251, 191, 36, 0);
-            }
-            100% {
-                transform: scale(0.95);
-                box-shadow: 0 0 0 0 rgba(251, 191, 36, 0);
-            }
-        }
-
-        /* Toast de confirmação de cópia — aparece no rodapé centralizado por 2s
-         * Cor do texto sempre #0b0f19 (escuro) pois o fundo teal é sempre o mesmo nos dois temas */
-        .copy-toast {
-            position: fixed;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%) translateY(20px);
-            background: rgba(20, 184, 166, 0.95);
-            color: #0b0f19;
-            font-weight: 600;
-            font-family: var(--font-display);
-            font-size: 0.9rem;
-            padding: 0.6rem 1.5rem;
-            border-radius: 9999px;
-            opacity: 0;
-            transition: all 0.3s ease;
-            z-index: 9999;
-            pointer-events: none;
-        }
-        .copy-toast.show {
-            opacity: 1;
-            transform: translateX(-50%) translateY(0);
-        }
-
-        footer {
-            border-top: 1px solid var(--border-glow);
-            padding: 2rem;
-            text-align: center;
-            color: var(--color-text-muted);
-            font-size: 0.85rem;
-            background: var(--bg-footer);
-            margin-top: auto;
-        }
-
-        footer a {
-            color: var(--color-teal);
+            justify-content: center;
+            gap: 0.75rem;
+            background: linear-gradient(135deg, var(--color-teal), var(--color-emerald));
+            color: #fff;
             text-decoration: none;
-            font-weight: 500;
+            font-family: var(--font-display);
+            font-weight: 700;
+            font-size: 1.1rem;
+            padding: 1rem 2.5rem;
+            border-radius: 9999px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 10px 20px rgba(20, 184, 166, 0.3);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
         }
 
-        footer a:hover {
-            text-decoration: underline;
+        /* Efeito de brilho passando no botão */
+        .enter-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 50%;
+            height: 100%;
+            background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transform: skewX(-25deg);
+            transition: left 0.5s;
         }
 
-        /* ============================================================
-         * RESPONSIVIDADE — Telas menores que 768px (mobile/tablet)
-         * Cards passam para coluna única, paddings reduzidos,
-         * separador do original muda de borda-esquerda para borda-inferior
-         * ============================================================ */
-        @media (max-width: 768px) {
-            .verse-card {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-                padding-top: 2.5rem;
-            }
+        .enter-btn:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 15px 30px rgba(20, 184, 166, 0.4);
+        }
 
-            .text-original-container {
-                border-left: none;
-                border-bottom: 1px dashed rgba(20, 184, 166, 0.2);
-                padding-left: 0;
-                padding-bottom: 1rem;
-                justify-content: flex-start;
-            }
+        .enter-btn:hover::before {
+            left: 200%;
+            transition: left 0.7s ease-in-out;
+        }
 
-            .text-translation-container {
-                padding-right: 0;
-                padding-left: 0;
-            }
+        .enter-btn svg {
+            width: 20px;
+            height: 20px;
+            transition: transform 0.3s ease;
+        }
 
-            main {
-                padding: 1rem;
-            }
+        .enter-btn:hover svg {
+            transform: translateX(4px);
+        }
 
-            .controls-panel {
-                grid-template-columns: 1fr;
+        /* Estilos adicionais responsivos */
+        @media (max-width: 600px) {
+            .hero-card {
+                padding: 3rem 1.5rem;
+            }
+            .hero-card h1 {
+                font-size: 2.25rem;
+            }
+            .logo-icon {
+                width: 64px;
+                height: 64px;
+                font-size: 2rem;
             }
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <div class="logo-container">
-            <div class="logo-icon">S</div>
-            <div class="logo-text">
-                <h1>Scriptura AI</h1>
-                <span>Manuscritos Originais</span>
-            </div>
-        </div>
+    <canvas id="bg-canvas"></canvas>
+    <div class="overlay"></div>
+
+    <main class="hero-card">
+        <div class="logo-icon">S</div>
+        <h1>Scriptura AI</h1>
+        <p>A mais avançada rede de inteligência artificial traduzindo <span>מגילות</span> e <span>Χειρόγραφα</span> originais diretamente para o seu idioma.</p>
         
-        <div style="display: flex; align-items: center; gap: 1rem;">
-            <div class="offline-status">
-                <div class="offline-dot"></div>
-                <span>Processamento Concluído</span>
-            </div>
-            <!-- Botão de Toggle Tema Escuro/Claro -->
-            <button class="theme-toggle-btn" id="theme-toggle" title="Alternar modo escuro/claro" aria-label="Alternar modo escuro/claro">
-                🌙
-            </button>
-        </div>
-    </header>
-
-    <main>
-        <!-- Banner de Progresso Live da GPU -->
-        <section class="progress-banner" id="progress-banner" aria-label="Progresso da tradução">
-            <div class="progress-header">
-                <span><strong>Progresso da Tradução</strong> — Servidor Offline</span>
-                <span class="progress-pct" id="progress-pct">…</span>
-            </div>
-            <div class="progress-track">
-                <div class="progress-fill" id="progress-fill"></div>
-            </div>
-            <div class="progress-header" style="font-size:0.78rem;">
-                <span id="progress-detail">Carregando estatísticas…</span>
-                <span id="progress-eta"></span>
-            </div>
-        </section>
-
-        <!-- Painel de Controle de Navegação -->
-        <section class="controls-panel" aria-label="Controles de navegação">
-            <div class="control-group">
-                <label for="select-manuscript">Manuscrito Fonte</label>
-                <select id="select-manuscript" aria-label="Selecione o manuscrito bíblico fonte">
-                    <optgroup label="Antigo Testamento">
-                        <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
-                        <option value="DSS">Manuscritos do Mar Morto (DSS)</option>
-                        <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
-                    </optgroup>
-                    <optgroup label="Novo Testamento">
-                        <option value="Peshitta_Syriac">Peshitta Siríaca (Siríaco)</option>
-                        <option value="Coptic_Sahidic">Copta Saídico</option>
-                        <option value="Armenian_Eastern">Armênio Oriental</option>
-                        <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
-                    </optgroup>
-                    <optgroup label="Deuterocanônicos e Textos Antigos">
-                        <option value="LXX">Septuaginta (LXX - Grego)</option>
-                        <option value="Geez">Ge'ez (Etiópico)</option>
-                        <option value="Apocrypha">Apócrifos (4 Esdras / VUL)</option>
-                    </optgroup>
-                </select>
-            </div>
-            
-            <div class="control-group">
-                <label for="select-book">Livro</label>
-                <select id="select-book" aria-label="Selecione o livro">
-                    <!-- Dinâmico via JS -->
-                </select>
-            </div>
-            
-            <div class="control-group">
-                <label for="select-chapter">Capítulo</label>
-                <select id="select-chapter" aria-label="Selecione o capítulo">
-                    <!-- Dinâmico via JS -->
-                </select>
-            </div>
-
-            <div class="control-group">
-                <label for="verse-search">Buscar no Capítulo</label>
-                <div class="search-wrapper">
-                    <span class="search-icon">🔍</span>
-                    <input type="search" id="verse-search" class="search-input" placeholder="Buscar palavra ou versículo…" autocomplete="off" aria-label="Buscar versículos no capítulo atual">
-                </div>
-            </div>
-        </section>
-
-        <!-- Área de Exibição das Escrituras -->
-        <section class="bible-container">
-            <div class="chapter-header">
-                <div class="chapter-title">
-                    <h2 id="display-title">Selecione uma passagem</h2>
-                    <p id="display-subtitle">Visualização interlinear e em tempo real dos versículos traduzidos.</p>
-                </div>
-                <div class="chapter-nav">
-                    <span class="verse-count-badge" id="verse-count-badge" style="display:none;"></span>
-                    <button class="nav-btn" id="btn-prev" title="Capítulo Anterior" disabled>&#8592;</button>
-                    <button class="nav-btn" id="btn-next" title="Próximo Capítulo" disabled>&#8594;</button>
-                </div>
-            </div>
-
-            <!-- Spinner de carregamento -->
-            <div class="loading-spinner" id="loading-spinner" style="display:none;">
-                <div class="spinner-ring"></div>
-                <span>Carregando manuscrito...</span>
-            </div>
-
-            <div class="verses-list" id="verses-list">
-                <!-- Preenchido dinamicamente pelo JavaScript -->
-            </div>
-            
-            <!-- Estado Vazio / Ainda não traduzido -->
-            <div class="empty-state" id="empty-state" style="display: none;">
-                <div class="empty-icon">📖</div>
-                <h3 id="empty-title">Ainda não traduzido pela GPU</h3>
-                <p id="empty-message">Este capítulo está na fila de processamento na Oracle Cloud em Frankfurt. Ele aparecerá automaticamente aqui assim que o tradutor terminar a tradução e fizer o push para o GitHub (ciclo de 5 minutos).</p>
-            </div>
-        </section>
-
-        <!-- Toast de cópia -->
-        <div class="copy-toast" id="copy-toast">✓ Versículo copiado!</div>
+        <a href="leitor.html" class="enter-btn">
+            Explorar Manuscritos
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="5" y1="12" x2="19" y2="12"></line>
+                <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+        </a>
     </main>
-
-    <footer>
-        <p>Desenvolvido com fé e tecnologia por <a href="https://github.com/cristianismohumilde" target="_blank">Cristianismo Humilde</a> e Antigravity. Todos os direitos reservados © 2026.</p>
-    </footer>
 
     <script>
         /**
          * ============================================================================
-         * SCRIPTURA AI — Motor de Renderização de Manuscritos Bíblicos em Tempo Real
-         * ============================================================================
-         * 
-         * Este script gerencia a interface de visualização e navegação de todos os
-         * manuscritos bíblicos traduzidos em tempo real pelo pipeline de IA (Oracle Cloud).
-         * 
-         * FUNCIONALIDADES PRINCIPAIS:
-         * 1. Seletores dinâmicos de Manuscrito → Livro → Capítulo
-         * 2. Carregamento em tempo real de JSONs traduzidos via fetch()
-         * 3. Exibição interlinear: Texto Original (RTL) ↔ Tradução PT-BR
-         * 4. Busca rápida dentro do capítulo com highlighting
-         * 5. Navegação via setas do teclado ou botões (← →)
-         * 6. Cópia de versículos em 1 clique com toast de confirmação
-         * 7. Monitoramento de progresso da GPU (atualização a cada 5 min)
-         * 8. Estados de carregamento: Spinner, Empty State, Pending Badge
-         * 
-         * ESTRUTURA DE DADOS:
-         * - Cada manuscrito tem sua estrutura de livros/capítulos definida abaixo
-         * - JSONs são procurados em: output/{MANUSCRIPT}/{BOOK}_{CHAPTER}.json
-         * - Fallback: Se arquivo não existe, tenta carregar original de data/
-         * 
+         * HTML-IN-CANVAS API: O MISTO PERFEITO
+         * Efeito: Poeira de Estrelas + Conexões Neurais + Letras Antigas Caindo
          * ============================================================================
          */
-
-        /**
-         * SEÇÃO 1: ESTRUTURAS CANÔNICAS DE LIVROS E CAPÍTULOS
-         * Define a quantidade de capítulos para cada livro de cada manuscrito
-         */
-
-        // Estrutura do Antigo Testamento Hebraico (TANAKH Massorético)
-        const TANAKH_STRUCTURE = {
-            "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36, "Deuteronomy": 34,
-            "Joshua": 24, "Judges": 21, "Ruth": 4, "1_Samuel": 31, "2_Samuel": 24,
-            "1_Kings": 22, "2_Kings": 25, "1_Chronicles": 29, "2_Chronicles": 36,
-            "Ezra": 10, "Nehemiah": 13, "Esther": 10, "Job": 42, "Psalms": 150,
-            "Proverbs": 31, "Ecclesiastes": 12, "Song_of_Solomon": 8, "Isaiah": 66,
-            "Jeremiah": 52, "Lamentations": 5, "Ezekiel": 48, "Daniel": 12,
-            "Hosea": 14, "Joel": 3, "Amos": 9, "Obadiah": 1, "Jonah": 4,
-            "Micah": 7, "Nahum": 3, "Habakkuk": 3, "Zephaniah": 3, "Haggai": 2,
-            "Zechariah": 14, "Malachi": 4
-        };
-
-        const LXX_STRUCTURE = {
-            "Isaiah": 66, "Psalms": 150,
-            "Tobit": 14, "Judith": 16, "Wisdom_of_Solomon": 19, "Sirach": 51, "Baruch": 6,
-            "1_Maccabees": 16, "2_Maccabees": 15, "3_Maccabees": 7, "4_Maccabees": 18,
-            "1_Esdras": 9, "Bel_and_Dragon": 1, "Odes": 14, "Psalms_of_Solomon": 18, "Susanna": 1
-        };
-
-        // Estrutura do Novo Testamento Grego (válida para SBLGNT, TR, BYZ, NT de várias versões antigas)
-        const NT_STRUCTURE = {
-            "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21, "Acts": 28, "Romans": 16,
-            "1_Corinthians": 16, "2_Corinthians": 13, "Galatians": 6, "Ephesians": 6,
-            "Philippians": 4, "Colossians": 4, "1_Thessalonians": 5, "2_Thessalonians": 3,
-            "1_Timothy": 6, "2_Timothy": 4, "Titus": 3, "Philemon": 1, "Hebrews": 13,
-            "James": 5, "1_Peter": 5, "2_Peter": 3, "1_John": 5, "2_John": 1,
-            "3_John": 1, "Jude": 1, "Revelation": 22
-        };
-
-        const FULL_BIBLE_STRUCTURE = {
-            ...TANAKH_STRUCTURE,
-            ...NT_STRUCTURE
-        };
-
-        const GEEZ_STRUCTURE = {
-            "የማቴዎስ ወንጌል": 28, "የማርቆስ ወንጌል": 16, "የሉቃስ ወንጌል": 24, "የዮሐንስ ወንጌል": 21, "የሐዋርያት ሥራ": 28,
-            "ወደ ሮሜ ሰዎች": 16, "1ኛ ወደ ቆሮንቶስ ሰዎች": 16, "2ኛ ወደ ቆሮንቶስ ሰዎች": 13, "ወደ ገላትያ ሰዎች": 6,
-            "ወደ ኤፌሶን ሰዎች": 6, "ወደ ፊልጵስዩስ ሰዎች": 4, "ወደ ቆላስይስ ሰዎች": 4, "1ኛ ወደ ተሰሎንቄ ሰዎች": 5,
-            "2ኛ ወደ ተሰሎንቄ ሰዎች": 3, "1ኛ ወደ ጢሞቴዎስ": 6, "2ኛ ወደ ጢሞቴዎስ": 4, "ወደ ቲቶ": 3,
-            "ወደ ፊልሞና": 1, "ወደ ዕብራውያን": 13, "የያዕቆብ መልእክት": 5, "1ኛ የጴጥሮስ መልእክት": 5,
-            "2ኛ የጴጥሮስ መልእክት": 3, "1ኛ የዮሐንስ መልእክት": 5, "2ዮሐ": 1, "3ኛ የዮሐንስ መልእክት": 1,
-            "የይሁዳ መልእክት": 1, "የዮሐንስ ራእይ": 22, "መጽሐፈ ሄኖክ": 108, "መጽሐፈ ኩፋሌ": 50
-        };
-
-
-
-        const GEEZ_BOOK_MAP = {
-            "ኦሪት ዘፍጥረት": "Gênesis",
-            "ኦሪት ዘጸአት": "Êxodo",
-            "ኦሪት ዘሌዋውያን": "Levítico",
-            "ኦሪት ዘኍልቍ": "Números",
-            "ኦሪት ዘዳግም": "Deuteronômio",
-            "መጽሐፈ ኢያሱ ወልደ ነዌ": "Josué",
-            "መጽሐፈ መሣፍንት": "Juízes",
-            "መጽሐፈ ሩት": "Rute",
-            "መጽሐፈ ሳሙኤል ቀዳማዊ": "1 Samuel",
-            "መጽሐፈ ሳሙኤል ካል": "2 Samuel",
-            "መጽሐፈ ነገሥት ቀዳማዊ።": "1 Reis",
-            "መጽሐፈ ነገሥት ካልዕ።": "2 Reis",
-            "መጽሐፈ ዜና መዋዕል ቀዳማዊ።": "1 Crônicas",
-            "መጽሐፈ ዜና መዋዕል ካልዕ።": "2 Crônicas",
-            "መጽሐፈ ዕዝራ።": "Esdras",
-            "መጽሐፈ ነህምያ።": "Neemias",
-            "መጽሐፈ አስቴር።": "Ester",
-            "መጽሐፈ ኢዮብ።": "Jó",
-            "መዝሙረ ዳዊት": "Salmos",
-            "መጽሐፈ ምሳሌ": "Provérbios",
-            "መጽሐፈ መክብብ": "Eclesiastes",
-            "መኃልየ መኃልይ ዘሰሎሞን": "Cântico dos Cânticos",
-            "ትንቢተ ኢሳይያስ": "Isaías",
-            "ትንቢተ ኤርምያስ": "Jeremias",
-            "ሰቆቃው ኤርምያስ": "Lamentações",
-            "ትንቢተ ሕዝቅኤል": "Ezequiel",
-            "ትንቢተ ዳንኤል": "Daniel",
-            "ትንቢተ ሆሴዕ": "Oséias",
-            "ትንቢተ ኢዮኤል": "Joel",
-            "ትንቢተ አሞጽ": "Amós",
-            "ትንቢተ አብድዩ": "Obadias",
-            "ትንቢተ ዮናስ": "Jonas",
-            "ትንቢተ ሚክያስ": "Miquéias",
-            "ትንቢተ ናሆም": "Naum",
-            "ትንቢተ ዕንባቆም": "Habacuque",
-            "ትንቢተ ሶፎንያስ": "Sofonias",
-            "ትንቢተ ሐጌ": "Ageu",
-            "ትንቢተ ዘካርያስ": "Zacarias",
-            "ትንቢተ ሚልክያ": "Malaquias",
-            "የማቴዎስ ወንጌል": "Mateus",
-            "የማርቆስ ወንጌል": "Marcos",
-            "የሉቃስ ወንጌል": "Lucas",
-            "የዮሐንስ ወንጌል": "João",
-            "የሐዋርያት ሥራ": "Atos",
-            "ወደ ሮሜ ሰዎች": "Romanos",
-            "1ኛ ወደ ቆሮንቶስ ሰዎች": "1 Coríntios",
-            "2ኛ ወደ ቆሮንቶስ ሰዎች": "2 Coríntios",
-            "ወደ ገላትያ ሰዎች": "Gálatas",
-            "ወደ ኤፌሶን ሰዎች": "Efésios",
-            "ወደ ፊልጵስዩስ ሰዎች": "Filipenses",
-            "ወደ ቆላስይስ ሰዎች": "Colossenses",
-            "1ኛ ወደ ተሰሎንቄ ሰዎች": "1 Tessalonicenses",
-            "2ኛ ወደ ተሰሎንቄ ሰዎች": "2 Tessalonicenses",
-            "1ኛ ወደ ጢሞቴዎስ": "1 Timóteo",
-            "2ኛ ወደ ጢሞቴዎስ": "2 Timóteo",
-            "ወደ ቲቶ": "Tito",
-            "ወደ ፊልሞና": "Filemom",
-            "ወደ ዕብራውያን": "Hebreus",
-            "የያዕቆብ መልእክት": "Tiago",
-            "1ኛ የጴጥሮስ መልእክት": "1 Pedro",
-            "2ኛ የጴጥሮስ መልእክት": "2 Pedro",
-            "1ኛ የዮሐንስ መልእክት": "1 João",
-            "2ዮሐ": "2 João",
-            "3ኛ የዮሐንስ መልእክት": "3 João",
-            "የይሁዳ መልእክት": "Judas",
-            "የዮሐንስ ራእይ": "Apocalipse",
-            "መጽሐፈ ሄኖክ": "Enoque",
-            "መጽሐፈ ኩፋሌ": "Jubileus"
-        };
-
-        const DSS_BOOK_MAP = {
-            "Isaiah": "Rolo de Isaías Completo (1QIsa-a)",
-            "Habakkuk": "Comentário de Habacuque (1QpHab)",
-            "1QS": "Regra da Comunidade (1QS)",
-            "1QM": "Rolo de Guerra (1QM)",
-            "1QH": "Hinos de Ação de Graças (1QH)"
-        };
-
-        const BIBLE_STRUCTURE = {
-            "Aleppo": TANAKH_STRUCTURE,
-            "LXX": LXX_STRUCTURE,
-            "DSS": {
-                "Isaiah": 66, "Habakkuk": 3, "1QS": 11, "1QM": 19, "1QH": 28
-            },
-            "Apocrypha": {
-                "4_Esdras": 16
-            },
-            "BYZ": {
-                "1_Corinthians": 16, "Revelation": 22
-            },
-            "Geez": GEEZ_STRUCTURE,
-            "Coptic_Sahidic": NT_STRUCTURE,
-            "Armenian_Eastern": {
-                "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21
-            },
-            "Peshitta_Syriac": NT_STRUCTURE,
-            "Targum_Onkelos": {
-                "Genesis": 50
-            }
-        };
-
-        /**
-         * SEÇÃO 2: REFERÊNCIAS AO DOM
-         * Cache de elementos da interface para melhor performance
-         */
-        const SELECT_MANUSCRIPT = document.getElementById("select-manuscript");
-        const SELECT_BOOK       = document.getElementById("select-book");
-        const SELECT_CHAPTER    = document.getElementById("select-chapter");
-        const VERSES_LIST       = document.getElementById("verses-list");
-        const EMPTY_STATE       = document.getElementById("empty-state");
-        const LOADING_SPINNER   = document.getElementById("loading-spinner");
-        const DISPLAY_TITLE     = document.getElementById("display-title");
-        const DISPLAY_SUBTITLE  = document.getElementById("display-subtitle");
-        const VERSE_COUNT_BADGE = document.getElementById("verse-count-badge");
-        const BTN_PREV          = document.getElementById("btn-prev");
-        const BTN_NEXT          = document.getElementById("btn-next");
-        const COPY_TOAST        = document.getElementById("copy-toast");
-        const THEME_TOGGLE      = document.getElementById("theme-toggle");
-        const VERSE_SEARCH      = document.getElementById("verse-search");
-
-        /**
-         * SEÇÃO 2.5: UTILITÁRIOS DE STORAGE & CACHE
-         * Sistema de cache com localStorage para melhor performance
-         */
-
-        // Cache de JSONs já carregados para evitar refetch
-        const VERSES_CACHE = {};
-
-        // Máximo de histórico de capítulos para armazenar
-        const MAX_HISTORY_LENGTH = 10;
-
-        /**
-         * Armazena seleção atual no localStorage para recuperação após reload
-         * @param {string} manuscript
-         * @param {string} book
-         * @param {string} chapter
-         */
-        function saveSessionState(manuscript, book, chapter) {
-            try {
-                localStorage.setItem("scripturaAI_session", JSON.stringify({
-                    manuscript, book, chapter,
-                    timestamp: Date.now()
-                }));
-            } catch (e) {
-                // localStorage pode estar indisponível em alguns navegadores
-            }
-        }
-
-        /**
-         * Recupera sessão anterior do localStorage
-         * @returns {Object|null} { manuscript, book, chapter } ou null
-         */
-        function loadSessionState() {
-            try {
-                const saved = localStorage.getItem("scripturaAI_session");
-                return saved ? JSON.parse(saved) : null;
-            } catch (e) {
-                return null;
-            }
-        }
-
-        /**
-         * Adiciona ao histórico de capítulos lidos recentemente
-         * @param {string} manuscript
-         * @param {string} book
-         * @param {string} chapter
-         */
-        function addToHistory(manuscript, book, chapter) {
-            try {
-                let history = JSON.parse(localStorage.getItem("scripturaAI_history") || "[]");
-                const entry = { manuscript, book, chapter, timestamp: Date.now() };
-                // Remove duplicatas (mesmo capítulo)
-                history = history.filter(h => !(h.manuscript === manuscript && h.book === book && h.chapter === chapter));
-                // Adiciona novo no início
-                history.unshift(entry);
-                // Limita ao máximo
-                history = history.slice(0, MAX_HISTORY_LENGTH);
-                localStorage.setItem("scripturaAI_history", JSON.stringify(history));
-            } catch (e) {
-                // Silencioso
-            }
-        }
-
-        /**
-         * Armazena JSON de capítulo em cache para próximas visitas
-         * @param {string} key - "manuscript/book/chapter"
-         * @param {Array} data - Array de versículos
-         */
-        function cacheChapterData(key, data) {
-            try {
-                VERSES_CACHE[key] = data;
-                // Também armazenar em localStorage (até 5MB)
-                const cacheStore = JSON.parse(localStorage.getItem("scripturaAI_cache") || "{}");
-                cacheStore[key] = data;
-                // Limpar cache se ficar muito grande
-                if (JSON.stringify(cacheStore).length > 2000000) { // ~2MB
-                    delete cacheStore[Object.keys(cacheStore)[0]];
-                }
-                localStorage.setItem("scripturaAI_cache", JSON.stringify(cacheStore));
-            } catch (e) {
-                // Silencioso — localStorage pode estar cheio
-            }
-        }
-
-        /**
-         * Recupera JSON de capítulo do cache
-         * @param {string} key - "manuscript/book/chapter"
-         * @returns {Array|null} Array de versículos ou null
-         */
-        function getCachedChapterData(key) {
-            try {
-                if (VERSES_CACHE[key]) return VERSES_CACHE[key];
-                const cacheStore = JSON.parse(localStorage.getItem("scripturaAI_cache") || "{}");
-                return cacheStore[key] || null;
-            } catch (e) {
-                return null;
-            }
-        }
-
-        /**
-         * SEÇÃO 2.6: SISTEMA DE DEEP-LINKING (URL)
-         * Permite compartilhamento direto de passagens via URL hash
-         * Ex: https://ai-bible.app/#/Aleppo/1_Kings/22
-         *
-         * ATENÇÃO: updateUrlHash usa history.replaceState (não window.location.hash)
-         * para evitar disparar o evento hashchange e causar loop de navegação.
-         * O evento hashchange só é disparado por navegação externa (ex: link compartilhado).
-         */
-
-        /**
-         * Gera URL com hash para compartilhamento
-         * @param {string} manuscript
-         * @param {string} book
-         * @param {string} chapter
-         * @returns {string} URL completa com hash
-         */
-        function generateShareUrl(manuscript, book, chapter) {
-            return `${window.location.origin}${window.location.pathname}#/${manuscript}/${book}/${chapter}`;
-        }
-
-        /**
-         * Atualiza o hash da URL sem recarregar a página e sem disparar hashchange.
-         * Usa history.replaceState em vez de window.location.hash para evitar o loop:
-         *   loadChapterData → updateUrlHash → hashchange → handleUrlHash → loadChapterData
-         * @param {string} manuscript
-         * @param {string} book
-         * @param {string} chapter
-         */
-        function updateUrlHash(manuscript, book, chapter) {
-            // Usa replaceState para atualizar a URL sem disparar o evento hashchange
-            // (evita loop: loadChapterData → updateUrlHash → hashchange → handleUrlHash → loadChapterData)
-            const newHash = `#/${manuscript}/${book}/${chapter}`;
-            if (window.location.hash !== newHash) {
-                history.replaceState(null, "", newHash);
-            }
-        }
-
-        /**
-         * Processa URL hash para navegar para passagem específica ao carregar a página
-         * ou ao receber um link compartilhado.
-         * Ex: /#/Aleppo/1_Kings/22 → seleciona Aleppo, 1_Kings, capítulo 22
-         *
-         * Usa setTimeout em cascata (2×100ms) para aguardar o DOM atualizar os
-         * selects antes de definir os valores e carregar o capítulo.
-         */
-        function handleUrlHash() {
-            const hash = window.location.hash.slice(1); // Remove #
-            if (!hash || !hash.startsWith("/")) return;
-
-            const parts = hash.split("/").filter(p => p);
-            if (parts.length !== 3) return;
-
-            const [manuscript, book, chapter] = parts;
-
-            if (BIBLE_STRUCTURE[manuscript] && BIBLE_STRUCTURE[manuscript][book]) {
-                SELECT_MANUSCRIPT.value = manuscript;
-                updateBookSelector(manuscript);
-                
-                setTimeout(() => {
-                    SELECT_BOOK.value = book;
-                    updateChapterSelector(manuscript, book);
-                    
-                    setTimeout(() => {
-                        SELECT_CHAPTER.value = chapter;
-                        SELECT_CHAPTER.dispatchEvent(new Event("change"));
-                    }, 100);
-                }, 100);
-            }
-        }
-
-        /**
-         * SEÇÃO 2.7: SISTEMA DE DEBOUNCE PARA BUSCA
-         * Evita excesso de reflow/repaint durante digitação em capítulos grandes.
-         * A busca só executa após 200ms sem nova digitação (SEARCH_DEBOUNCE_MS).
-         */
-        let searchTimeoutId = null;
-        const SEARCH_DEBOUNCE_MS = 200; // ms para aguardar antes de filtrar
-
-        /**
-         * Filtra os cards de versículos pelo texto digitado na busca.
-         * Atualiza o badge de contagem para mostrar resultados encontrados.
-         * Chamada com debounce de 200ms via VERSE_SEARCH input event,
-         * ou imediatamente ao pressionar Enter.
-         */
-        function performSearch() {
-            const query = VERSE_SEARCH.value.trim().toLowerCase();
-            const cards = VERSES_LIST.querySelectorAll(".verse-card");
-            let found = 0;
-            
-            cards.forEach(card => {
-                const text = card.textContent.toLowerCase();
-                if (!query || text.includes(query)) {
-                    card.classList.remove("hidden");
-                    found++;
-                } else {
-                    card.classList.add("hidden");
-                }
-            });
-            
-            if (query && VERSE_COUNT_BADGE.style.display !== "none") {
-                VERSE_COUNT_BADGE.textContent = `${found} resultado${found !== 1 ? 's' : ''}`;
-            } else if (!query) {
-                VERSE_COUNT_BADGE.textContent = `${cards.length} versículos`;
-            }
-        }
-
-        /**
-         * SEÇÃO 2.8: SISTEMA DE TEMA ESCURO/CLARO
-         * Paleta escura: Obsidian Premium (#0b0f19)
-         * Paleta clara: Parchment Light (#f5f0e8) — inspirada em pergaminho
-         * Preferência persistida em localStorage ("scripturaAI_theme": "light"|"dark")
-         * Fallback: respeita prefers-color-scheme do sistema operacional
-         * Meta theme-color atualizada dinamicamente para browsers mobile
-         */
-
-        /**
-         * Aplica a cor correta ao meta theme-color (barra do browser mobile)
-         * @param {boolean} isLight - true para modo claro, false para escuro
-         */
-        function applyMetaThemeColor(isLight) {
-            const metaTheme = document.querySelector('meta[name="theme-color"]');
-            if (metaTheme) metaTheme.content = isLight ? "#f5f0e8" : "#0b0f19";
-        }
-
-        /**
-         * Carrega preferência de tema do localStorage ou do sistema operacional
-         * e aplica na inicialização (antes do primeiro render visível).
-         */
-        function loadThemePreference() {
-            try {
-                const saved = localStorage.getItem("scripturaAI_theme");
-                if (saved === "light") {
-                    document.body.classList.add("light-mode");
-                    THEME_TOGGLE.textContent = "☀️";
-                    applyMetaThemeColor(true);
-                } else if (saved === "dark") {
-                    document.body.classList.remove("light-mode");
-                    THEME_TOGGLE.textContent = "🌙";
-                    applyMetaThemeColor(false);
-                } else {
-                    // Nenhuma preferência salva — respeita prefers-color-scheme do sistema
-                    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-                    if (!prefersDark) {
-                        document.body.classList.add("light-mode");
-                        THEME_TOGGLE.textContent = "☀️";
-                        applyMetaThemeColor(true);
-                    }
-                }
-            } catch (e) {
-                // Silencioso — localStorage pode estar indisponível
-            }
-        }
-
-        /**
-         * Alterna entre modo escuro e claro, persiste a preferência
-         * e atualiza o meta theme-color para o browser mobile.
-         */
-        function toggleTheme() {
-            const isLightMode = document.body.classList.toggle("light-mode");
-            const theme = isLightMode ? "light" : "dark";
-            THEME_TOGGLE.textContent = isLightMode ? "☀️" : "🌙";
-            // Atualiza a meta theme-color para a barra do browser mobile
-            applyMetaThemeColor(isLightMode);
-            try {
-                localStorage.setItem("scripturaAI_theme", theme);
-            } catch (e) {
-                // Silencioso
-            }
-        }
-
-        /**
-         * SEÇÃO 3: FUNÇÕES UTILITÁRIAS
-         */
-
-        /**
-         * Formata o nome do livro para exibição na interface
-         * @param {string} book - Nome do livro (ex: "1_Samuel")
-         * @param {string} manuscript - Tipo de manuscrito (ex: "Geez")
-         * @returns {string} Nome formatado (ex: "1 Samuel" ou "መጽሐፈ ሳሙኤል ቀዳማዊ")
-         */
-        function formatBook(book, manuscript) {
-            if (manuscript === "Geez" && GEEZ_BOOK_MAP[book]) {
-                return `${GEEZ_BOOK_MAP[book]} (${book})`;
-            }
-            if (manuscript === "DSS" && DSS_BOOK_MAP[book]) {
-                return DSS_BOOK_MAP[book];
-            }
-            return book.replace(/_/g, " ");
-        }
-
-        /**
-         * Mapeia o identificador interno do livro para o nome do arquivo/objeto
-         * esperado pela respectiva coleção no backend.
-         * @param {string} manuscript - Tipo de manuscrito (ex: "Coptic_Sahidic", "BYZ")
-         * @param {string} book - Identificador interno do livro (ex: "1_Corinthians")
-         * @returns {string} Nome do livro esperado no arquivo JSON
-         */
-        function getManuscriptBookName(manuscript, book) {
-            if (["Coptic_Sahidic", "Peshitta_Syriac", "Armenian_Eastern"].includes(manuscript)) {
-                const romanMap = {
-                    "1_Corinthians": "I Corinthians",
-                    "2_Corinthians": "II Corinthians",
-                    "1_Thessalonians": "I Thessalonians",
-                    "2_Thessalonians": "II Thessalonians",
-                    "1_Timothy": "I Timothy",
-                    "2_Timothy": "II Timothy",
-                    "1_Peter": "I Peter",
-                    "2_Peter": "II Peter",
-                    "1_John": "I John",
-                    "2_John": "II John",
-                    "3_John": "III John",
-                    "Revelation": "Revelation of John"
-                };
-                return romanMap[book] || book;
-            }
-            if (manuscript === "BYZ") {
-                const byzMap = {
-                    "1_Corinthians": "1Corinthians",
-                    "2_Corinthians": "2Corinthians",
-                    "1_Thessalonians": "1Thessalonians",
-                    "2_Thessalonians": "2Thessalonians",
-                    "1_Timothy": "1Timothy",
-                    "2_Timothy": "2Timothy",
-                    "1_Peter": "1Peter",
-                    "2_Peter": "2Peter",
-                    "1_John": "1John",
-                    "2_John": "2John",
-                    "3_John": "3John"
-                };
-                return byzMap[book] || book;
-            }
-            return book;
-        }
-
-        /**
-         * Remove tags HTML do texto para limpeza (para cópia em texto puro)
-         * @param {string} html - HTML com possíveis tags
-         * @returns {string} Texto limpo sem HTML
-         */
-        function stripHtml(html) {
-            const tmp = document.createElement("div");
-            tmp.innerHTML = html;
-            return tmp.textContent || tmp.innerText || "";
-        }
-
-        /**
-         * Atualiza o estado (habilitado/desabilitado) dos botões de navegação
-         * Desabilita BTN_PREV se está no primeiro capítulo
-         * Desabilita BTN_NEXT se está no último capítulo
-         */
-        function updateNavButtons() {
-            const currentIdx = SELECT_CHAPTER.selectedIndex;
-            const total      = SELECT_CHAPTER.options.length;
-            BTN_PREV.disabled = currentIdx <= 0;
-            BTN_NEXT.disabled = currentIdx >= total - 1;
-        }
-
-        /**
-         * Exibe toast de confirmação quando versículo é copiado para clipboard
-         * Desaparece automaticamente após 2 segundos
-         */
-        let toastTimer = null;
-        function showCopyToast() {
-            COPY_TOAST.classList.add("show");
-            clearTimeout(toastTimer);
-            toastTimer = setTimeout(() => COPY_TOAST.classList.remove("show"), 2000);
-        }
-
-        /**
-         * SEÇÃO 4: SELETORES DINÂMICOS
-         * Essas funções preenchem os dropdowns de forma cascata
-         */
-
-        /**
-         * Popula o seletor de Livros baseado no manuscrito escolhido
-         * @param {string} manuscript - Tipo de manuscrito selecionado
-         */
-        function updateBookSelector(manuscript) {
-            SELECT_BOOK.innerHTML = "";
-            const books = Object.keys(BIBLE_STRUCTURE[manuscript] || {});
-
-            books.forEach(book => {
-                const option = document.createElement("option");
-                option.value = book;
-                option.textContent = formatBook(book, manuscript);
-                SELECT_BOOK.appendChild(option);
-            });
-
-            if (books.length > 0) {
-                if (manuscript === "Aleppo") {
-                    SELECT_BOOK.value = "2_Kings";
-                } else {
-                    SELECT_BOOK.selectedIndex = 0;
-                }
-                updateChapterSelector(manuscript, SELECT_BOOK.value);
-            }
-        }
-
-        /**
-         * Popula o seletor de Capítulos baseado no livro e manuscrito escolhidos.
-         * Trata o Talmud especialmente (usa "Daf" em vez de capítulos tradicionais).
-         * Ao final, chama loadChapterData() diretamente para carregar o primeiro capítulo.
-         * Não usa dispatchEvent("change") para evitar dupla chamada com o event listener.
-         * @param {string} manuscript - Tipo de manuscrito selecionado
-         * @param {string} book - Livro selecionado
-         */
-        function updateChapterSelector(manuscript, book) {
-            SELECT_CHAPTER.innerHTML = "";
-            
-            if (manuscript === "Talmud") {
-                const pages = TALMUD_PAGES[book] || [];
-                pages.forEach(page => {
-                    const option = document.createElement("option");
-                    option.value = page;
-                    option.textContent = `Daf ${page}`;
-                    SELECT_CHAPTER.appendChild(option);
-                });
-                if (pages.length > 0) {
-                    SELECT_CHAPTER.selectedIndex = 0;
-                    loadChapterData();
-                }
-                return;
-            }
-
-            const maxChapters = BIBLE_STRUCTURE[manuscript][book] || 0;
-            for (let i = 1; i <= maxChapters; i++) {
-                const option = document.createElement("option");
-                option.value = i;
-                option.textContent = `Capítulo ${i}`;
-                SELECT_CHAPTER.appendChild(option);
-            }
-
-            if (maxChapters > 0) {
-                SELECT_CHAPTER.selectedIndex = 0;
-                loadChapterData();
-            }
-        }
-
-        /**
-         * SEÇÃO 5: CARREGAMENTO DE DADOS ORIGINAIS (FALLBACK)
-         * 
-         * Se a tradução (output/{MANUSCRIPT}/{BOOK}_{CHAPTER}.json) não existe,
-         * esta função tenta carregar o texto original em seus formatos nativos
-         * a partir da pasta data/ para exibição ao usuário
-         * 
-         * @param {string} manuscript - Tipo de manuscrito
-         * @param {string} book - Nome do livro
-         * @param {string} chapter - Número do capítulo (ou Daf para Talmud)
-         * @returns {Promise<Array>} Array de versículos com estrutura:
-         *   { verse: number|string, original: string, translation: null }
-         */
-        async function fetchOriginalOnly(manuscript, book, chapter) {
-            let verses = [];
-            try {
-                if (manuscript === "Talmud") {
-                    const r = await fetch(`data/Talmud/${book}.json`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        if (data && data.text) {
-                            for (let i = 0; i < data.text.length; i++) {
-                                const dafNum = Math.floor(i / 2) + 2;
-                                const dafSide = (i % 2 === 0) ? 'a' : 'b';
-                                const dafName = `${dafNum}${dafSide}`;
-                                if (dafName === chapter) {
-                                    const page = data.text[i];
-                                    if (page && Array.isArray(page)) {
-                                        page.forEach((p, idx) => {
-                                            if (p && typeof p === 'string') {
-                                                verses.push({
-                                                    verse: idx + 1,
-                                                    original: p,
-                                                    translation: null
-                                                });
-                                            }
-                                        });
-                                    }
-                                    break;
-                                }
-                            }
-                        }
-                    }
-                } else if (manuscript === "Geez") {
-                    const r = await fetch(`data/ancient_versions/geez_extracted/${book}_${chapter}.json`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        if (data && data.text) {
-                            data.text.forEach(item => {
-                                if (item.trim()) {
-                                    const parts = item.split(" ", 2);
-                                    let vNum = "1", vText = item;
-                                    if (parts.length === 2 && !isNaN(parseInt(parts[0]))) {
-                                        vNum = parts[0];
-                                        vText = parts[1];
-                                    }
-                                    verses.push({
-                                        verse: vNum.trim(),
-                                        original: vText.trim(),
-                                        translation: null
-                                    });
-                                }
-                            });
-                        }
-                    }
-                } else if (manuscript === "Targum_Onkelos") {
-                    const r = await fetch(`data/ancient_versions/targum_onkelos_${book.toLowerCase()}.json`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        const chIdx = parseInt(chapter) - 1;
-                        if (data && data.text && data.text[chIdx]) {
-                            data.text[chIdx].forEach((vText, idx) => {
-                                if (vText) {
-                                    verses.push({
-                                        verse: idx + 1,
-                                        original: vText,
-                                        translation: null
-                                    });
-                                }
-                            });
-                        }
-                    }
-                } else if (manuscript === "Apocrypha") {
-                    let filename = "";
-                    if (book === "4_Esdras") filename = "4_esdras_vulgate.json";
-                    else if (book === "Oração_de_Manassés") filename = "prayer_of_manasseh.json";
-                    else if (book === "Salmo_151") filename = "psalm_151.json";
-
-                    if (filename) {
-                        const r = await fetch(`data/apocrypha/${filename}`);
-                        if (r.ok) {
-                            const data = await r.json();
-                            if (book === "4_Esdras") {
-                                const foundCh = data.find(c => parseInt(c.chapter) === parseInt(chapter));
-                                if (foundCh && foundCh.verses) {
-                                    foundCh.verses.forEach(v => {
-                                        verses.push({
-                                            verse: v.verse,
-                                            original: v.text,
-                                            translation: null
-                                        });
-                                    });
-                                }
-                            } else {
-                                // Sefaria JSON format: { "he": [...], "text": [...] }
-                                const list = data.he || data.text || [];
-                                if (Array.isArray(list)) {
-                                    list.forEach((vText, idx) => {
-                                        if (vText) {
-                                            verses.push({
-                                                verse: idx + 1,
-                                                original: vText,
-                                                translation: null
-                                            });
-                                        }
-                                    });
-                                }
-                            }
-                        }
-                    }
-                } else if (["Peshitta_Syriac", "Coptic_Sahidic", "Armenian_Eastern"].includes(manuscript)) {
-                    let filename = "";
-                    if (manuscript === "Peshitta_Syriac") filename = "peshitta_syriac.json";
-                    else if (manuscript === "Coptic_Sahidic") filename = "coptic_sahidic.json";
-                    else if (manuscript === "Armenian_Eastern") filename = "armenian_eastern.json";
-                    
-                    const r = await fetch(`data/ancient_versions/${filename}`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        if (data && data.books) {
-                            const mappedBook = getManuscriptBookName(manuscript, book);
-                            const foundBook = data.books.find(b => b.name === mappedBook);
-                            if (foundBook && foundBook.chapters) {
-                                const foundCh = foundBook.chapters.find(c => parseInt(c.chapter) === parseInt(chapter));
-                                if (foundCh && foundCh.verses) {
-                                    foundCh.verses.forEach(v => {
-                                        verses.push({
-                                            verse: v.verse,
-                                            original: v.text,
-                                            translation: null
-                                        });
-                                    });
-                                }
-                            }
-                        }
-                    }
-                } else if (manuscript === "BYZ") {
-                    const mappedBook = getManuscriptBookName(manuscript, book);
-                    const r = await fetch(`data/BYZ/${mappedBook}_${chapter}.json`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        if (Array.isArray(data)) {
-                            data.forEach(item => {
-                                const verseNum = item.verse || item.pk || "1";
-                                const originalText = item.text || "";
-                                if (originalText) {
-                                    verses.push({
-                                        verse: verseNum,
-                                        original: originalText,
-                                        translation: null
-                                    });
-                                }
-                            });
-                        }
-                    }
-                } else {
-                    // Manuscritos bíblicos padrão
-                    const r = await fetch(`data/${manuscript}/${book}/${chapter}.json`);
-                    if (r.ok) {
-                        const data = await r.json();
-                        if (Array.isArray(data)) {
-                            data.forEach(item => {
-                                const verseNum = item.verse || item.pk || "1";
-                                const originalText = item.text || "";
-                                if (originalText) {
-                                    verses.push({
-                                        verse: verseNum,
-                                        original: originalText,
-                                        translation: null
-                                    });
-                                }
-                            });
-                        } else if (typeof data === 'object') {
-                            const list = data.he || data.text || [];
-                            if (Array.isArray(list)) {
-                                list.forEach((vText, idx) => {
-                                    if (vText) {
-                                        verses.push({
-                                            verse: idx + 1,
-                                            original: vText,
-                                            translation: null
-                                        });
-                                    }
-                                });
-                            }
-                        }
-                    }
-                }
-            } catch (err) {
-                console.error("Erro ao carregar manuscrito original:", err);
-            }
-            return verses;
-        }
-
-        /**
-         * SEÇÃO 6: FUNÇÃO PRINCIPAL — CARREGAMENTO E RENDERIZAÇÃO DE CAPÍTULO
-         * 
-         * Este é o coração da aplicação. Coordena:
-         * 1. Validação das seleções (manuscrito, livro, capítulo)
-         * 2. Atualização da UI (título, subtítulo, spinner)
-         * 3. Fetch do JSON traduzido do output/
-         * 4. Fallback para texto original se tradução não existe
-         * 5. Renderização de cards de versículos com eventos de cópia
-         * 6. Estados de loading/empty/success
-         * 
-         * FLUXO DE FETCH:
-         *   1. Tenta cache em memória (VERSES_CACHE) e localStorage
-         *   2. Tenta: output/{MANUSCRIPT}/{BOOK}_{CHAPTER}.json
-         *   3. Se falha: chama fetchOriginalOnly() para carregar texto original de data/
-         *   4. Se ambos falham: showEmptyState()
-         * 
-         * CHAMADA:
-         *   - Diretamente por updateChapterSelector() ao popular o select
-         *   - Pelo event listener de SELECT_CHAPTER "change" (troca manual pelo usuário)
-         *   - Pelos botões BTN_PREV / BTN_NEXT ao navegar entre capítulos
-         */
-        async function loadChapterData() {
-            const manuscript = SELECT_MANUSCRIPT.value;
-            const book       = SELECT_BOOK.value;
-            const chapter    = SELECT_CHAPTER.value;
-
-            if (!manuscript || !book || !chapter) return;
-
-            // Atualiza UI
-            DISPLAY_TITLE.textContent = manuscript === "Talmud" ? `Tratado ${formatBook(book, manuscript)} Daf ${chapter}` : `${formatBook(book, manuscript)} ${chapter}`;
-            
-            let langName = "Hebraico";
-            if (['LXX', 'SBLGNT', 'TR', 'BYZ'].includes(manuscript)) {
-                langName = "Grego";
-            } else if (manuscript === "Geez") {
-                langName = "Ge'ez (Etiópico)";
-            } else if (manuscript === "Coptic_Sahidic") {
-                langName = "Copta Saídico";
-            } else if (manuscript === "Armenian_Eastern") {
-                langName = "Armênio Oriental";
-            } else if (manuscript === "Peshitta_Syriac") {
-                langName = "Siríaco Clássico";
-            } else if (manuscript === "DSS") {
-                langName = "Hebraico / Aramaico Antigo";
-            } else if (manuscript === "Targum_Onkelos") {
-                langName = "Aramaico Antigo";
-            } else if (manuscript === "Talmud") {
-                langName = "Hebraico / Aramaico Talmúdico";
-            } else if (manuscript === "Apocrypha") {
-                langName = "Latim / Grego (Apócrifos)";
-            }
-            DISPLAY_SUBTITLE.textContent = `Manuscrito: ${manuscript} | Idioma Original: ${langName}`;
-
-            VERSES_LIST.innerHTML = "";
-            EMPTY_STATE.style.display  = "none";
-            LOADING_SPINNER.style.display = "flex";
-            VERSE_COUNT_BADGE.style.display = "none";
-            updateNavButtons();
-
-            const mappedBook = getManuscriptBookName(manuscript, book);
-            const jsonPath = `output/${manuscript}/${mappedBook}_${chapter}.json`;
-            const cacheKey = `${manuscript}/${book}/${chapter}`;
-
-            try {
-                let verses;
-                let isTranslationPending = false;
-
-                // Tenta carregar do cache primeiro
-                const cachedData = getCachedChapterData(cacheKey);
-                if (cachedData) {
-                    verses = cachedData;
-                } else {
-                    // Se não está em cache, faz fetch da rede
-                    const response = await fetch(jsonPath);
-                    if (response.ok) {
-                        verses = await response.json();
-                        // Armazena em cache para próxima vez
-                        cacheChapterData(cacheKey, verses);
-                    } else {
-                        // Se a tradução não existir, tenta carregar o original diretamente
-                        verses = await fetchOriginalOnly(manuscript, book, chapter);
-                        if (verses && verses.length > 0) {
-                            isTranslationPending = true;
-                        } else {
-                            throw new Error("Arquivo não encontrado.");
-                        }
-                    }
-                }
-
-                // Salva estado atual para recuperação em reload
-                saveSessionState(manuscript, book, chapter);
-                addToHistory(manuscript, book, chapter);
-                updateUrlHash(manuscript, book, chapter);
-
-                LOADING_SPINNER.style.display = "none";
-
-                if (verses && verses.length > 0) {
-                    // Exibe badge com total de versículos
-                    VERSE_COUNT_BADGE.textContent = `${verses.length} versículos`;
-                    VERSE_COUNT_BADGE.style.display = "inline-block";
-
-                    // Adiciona banner amigável de tradução pendente
-                    if (isTranslationPending) {
-                        const pendingBanner = document.createElement("div");
-                        pendingBanner.className = "pending-translation-banner";
-                        pendingBanner.innerHTML = `
-                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                            <span>Este capítulo ainda não possui tradução em português. Exibindo texto no idioma original abaixo. A tradução automática por IA será efetuada em breve pelo pipeline.</span>
-                        `;
-                        VERSES_LIST.appendChild(pendingBanner);
-                    }
-
-                    verses.forEach((verse, idx) => {
-                        const verseNum = verse.verse || (idx + 1);
-
-                        // Usa innerHTML para renderizar corretamente os caracteres e diacríticos hebraicos
-                        const originalHtml = verse.original || "";
-                        const translationText = verse.translation || "";
-                        const translitText = verse.transliteration || "";
-
-                        const verseCard = document.createElement("div");
-                        verseCard.className = "verse-card";
-                        verseCard.title = "Clique para copiar o versículo";
-
-                        let translationContentHtml = "";
-                        if (translationText) {
-                            translationContentHtml += `<p class="text-translation">${translationText}</p>`;
-                        } else {
-                            translationContentHtml += `
-                                <div class="translation-pending-badge">
-                                    <span class="pulse-dot-gold"></span>
-                                    Tradução pendente (em fila de IA)
-                                </div>
-                            `;
-                        }
-
-                        if (translitText) {
-                            translationContentHtml += `<p class="text-transliteration" lang="en-Latn">${translitText}</p>`;
-                        }
-
-                        verseCard.innerHTML = `
-                            <span class="verse-num">${verseNum}</span>
-                            <div class="text-translation-container">
-                                ${translationContentHtml}
-                            </div>
-                            <div class="text-original-container">
-                                <p class="text-original">${originalHtml}</p>
-                            </div>
-                        `;
-
-                        // Copia o versículo ao clicar
-                        verseCard.addEventListener("click", () => {
-                            const cleanOriginal = stripHtml(originalHtml);
-                            let textToCopy = `${formatBook(book, manuscript)} ${chapter}:${verseNum}\n\n[Original] ${cleanOriginal}`;
-                            
-                            if (translitText) {
-                                textToCopy += `\n\n[Transliteração] ${translitText}`;
-                            }
-                            
-                            if (translationText) {
-                                textToCopy += `\n\n[Português] ${translationText}`;
-                            } else {
-                                textToCopy += `\n\n[Português] (Tradução pendente)`;
-                            }
-                            
-                            navigator.clipboard.writeText(textToCopy).then(showCopyToast).catch(() => {});
-                        });
-
-                        VERSES_LIST.appendChild(verseCard);
-                    });
-                } else {
-                    showEmptyState();
-                }
-
-            } catch (error) {
-                LOADING_SPINNER.style.display = "none";
-                console.warn(`Capítulo ${book} ${chapter} não disponível ainda:`, error);
-                showEmptyState();
-            }
-        }
-
-        function showEmptyState() {
-            VERSES_LIST.innerHTML = "";
-            VERSE_COUNT_BADGE.style.display = "none";
-            EMPTY_STATE.style.display = "flex";
-        }
-
-        /**
-         * SEÇÃO 7: EVENT LISTENERS
-         * Configuração de todos os eventos de interação do usuário.
-         *
-         * FLUXO DE NAVEGAÇÃO (cascata):
-         *   SELECT_MANUSCRIPT change → updateBookSelector()
-         *     → updateChapterSelector() → loadChapterData()
-         *   SELECT_BOOK change → updateChapterSelector() → loadChapterData()
-         *   SELECT_CHAPTER change → loadChapterData()  (troca manual pelo usuário)
-         *   BTN_PREV / BTN_NEXT click → selectedIndex±1 → loadChapterData()
-         *   Teclado ←→ / PageUp/Down → simula clique nos botões
-         */
-
-        // Troca de manuscrito → recarrega lista de livros (que por sua vez recarrega capítulos e versículos)
-        SELECT_MANUSCRIPT.addEventListener("change", () => updateBookSelector(SELECT_MANUSCRIPT.value));
+        const canvas = document.getElementById('bg-canvas');
+        const ctx = canvas.getContext('2d');
+
+        let width, height;
+        let particles = [];
         
-        // Troca de livro → recarrega lista de capítulos (que por sua vez carrega o primeiro capítulo)
-        SELECT_BOOK.addEventListener("change", () => updateChapterSelector(SELECT_MANUSCRIPT.value, SELECT_BOOK.value));
-        
-        // Troca manual de capítulo pelo usuário → carrega dados do capítulo
-        // Nota: quando a troca é feita por updateChapterSelector(), loadChapterData() é chamado diretamente
-        SELECT_CHAPTER.addEventListener("change", loadChapterData);
+        // Caracteres Hebraicos (Alef-bet) e Gregos (Alfa-omega)
+        const ancientChars = [
+            'א','ב','ג','ד','ה','ו','ז','ח','ט','י','כ','ל','מ','נ','ס','ע','פ','צ','ק','ר','ש','ת',
+            'Α','Β','Γ','Δ','Ε','Ζ','Η','Θ','Ι','Κ','Λ','Μ','Ν','Ξ','Ο','Π','Ρ','Σ','Τ','Υ','Φ','Χ','Ψ','Ω',
+            'α','β','γ','δ','ε','ζ','η','θ','ι','κ','λ','μ','ν','ξ','ο','π','ρ','σ','τ','υ','φ','χ','ψ','ω'
+        ];
 
-        // Navegação para capítulo anterior
-        BTN_PREV.addEventListener("click", () => {
-            if (SELECT_CHAPTER.selectedIndex > 0) {
-                SELECT_CHAPTER.selectedIndex--;
-                loadChapterData();
-            }
+        // Rastreamento do mouse
+        const mouse = {
+            x: null,
+            y: null,
+            radius: 150 // Raio de atração/interação das linhas
+        };
+
+        window.addEventListener('mousemove', (event) => {
+            mouse.x = event.x;
+            mouse.y = event.y;
         });
 
-        // Navegação para próximo capítulo
-        BTN_NEXT.addEventListener("click", () => {
-            if (SELECT_CHAPTER.selectedIndex < SELECT_CHAPTER.options.length - 1) {
-                SELECT_CHAPTER.selectedIndex++;
-                loadChapterData();
-            }
+        // Quando o mouse sai da tela
+        window.addEventListener('mouseout', () => {
+            mouse.x = undefined;
+            mouse.y = undefined;
         });
 
-        // Navegação por teclado: ← / → navegam entre capítulos, PageUp/PageDown também
-        // Desativado quando o foco está em um input ou select (para não conflitar com digitação)
-        document.addEventListener("keydown", (e) => {
-            if (e.target.tagName === "SELECT" || e.target.tagName === "INPUT") return;
-            
-            if ((e.key === "ArrowLeft" || e.key === "PageUp") && !BTN_PREV.disabled) {
-                e.preventDefault();
-                BTN_PREV.click();
-            }
-            if ((e.key === "ArrowRight" || e.key === "PageDown") && !BTN_NEXT.disabled) {
-                e.preventDefault();
-                BTN_NEXT.click();
-            }
-        });
+        function resize() {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            canvas.width = width;
+            canvas.height = height;
+            init();
+        }
 
-        // Toggle de tema escuro/claro
-        THEME_TOGGLE.addEventListener("click", toggleTheme);
-        THEME_TOGGLE.addEventListener("keydown", (e) => {
-            if (e.key === "Enter" || e.key === " ") {
-                e.preventDefault();
-                toggleTheme();
-            }
-        });
+        window.addEventListener('resize', resize);
 
-        /**
-         * SEÇÃO 8: BUSCA RÁPIDA DENTRO DO CAPÍTULO
-         * 
-         * Filtra os cards de versículos pelo texto digitado.
-         * Usa debounce de 200ms para não executar a cada tecla pressionada.
-         * Pressionar Enter executa a busca imediatamente sem aguardar o debounce.
-         * A busca é limpa automaticamente ao trocar de livro ou capítulo.
-         */
-        VERSE_SEARCH.addEventListener("input", () => {
-            clearTimeout(searchTimeoutId);
-            searchTimeoutId = setTimeout(performSearch, SEARCH_DEBOUNCE_MS);
-        });
-
-        // Limpa busca automaticamente ao trocar capítulo/livro
-        SELECT_CHAPTER.addEventListener("change", () => { VERSE_SEARCH.value = ""; });
-        SELECT_BOOK.addEventListener("change",    () => { VERSE_SEARCH.value = ""; });
-
-        // Pressionar Enter na busca executa busca imediata (sem debounce)
-        VERSE_SEARCH.addEventListener("keydown", (e) => {
-            if (e.key === "Enter") {
-                e.preventDefault();
-                clearTimeout(searchTimeoutId);
-                performSearch();
-            }
-        });
-
-        // Listener para URL hash — só dispara ao navegar por link externo/compartilhado
-        // (navegação interna usa history.replaceState e não dispara este evento)
-        window.addEventListener("hashchange", handleUrlHash);
-
-        /**
-         * SEÇÃO 9: MONITORAMENTO DE PROGRESSO EM TEMPO REAL
-         * 
-         * Lê o arquivo PROGRESS.md gerado automaticamente pela GPU e atualiza
-         * o banner de progresso na UI (percentual, capítulos traduzidos, ETA).
-         * Executado na inicialização e repetido a cada 5 minutos.
-         * 
-         * ℹ️ O polling de 5 minutos está sincronizado com o ciclo do pipeline:
-         *    1. GPU traduzindo no Oracle Cloud (Frankfurt)
-         *    2. VM autopush sincronizando output/ + PROGRESS.md a cada 5 min
-         *    3. GitHub Pages servindo os arquivos atualizados
-         *    
-         * WebSocket/SSE não são necessários — o ciclo de 5 min é suficiente.
-         */
-        async function loadProgress() {
-            try {
-                // Adiciona ?t=timestamp para forçar bypass do cache do browser
-                const r = await fetch("PROGRESS.md?t=" + Date.now());
-                if (!r.ok) return;
-                const text = await r.text();
-
-                // Regex para extrair porcentagem geral (ex: "14.4%")
-                const pctMatch  = text.match(/([0-9]+\.?[0-9]*)%/);
+        class Particle {
+            constructor() {
+                this.x = Math.random() * width;
+                this.y = Math.random() * height;
+                this.size = Math.random() * 2 + 0.5; // Tamanho do ponto neural
+                // Velocidade de movimento lento e fluido
+                this.vx = (Math.random() - 0.5) * 0.5;
+                this.vy = (Math.random() - 0.5) * 0.5;
                 
-                // Regex para extrair capítulos traduzidos e total (ex: "372 de 2,577")
-                const capsMatch = text.match(/\*\*(\d[\d,]+)\*\*\s+de\s+\*\*(\d[\d,]+)\*\*/);
+                // 15% de chance de ser uma letra antiga (efeito Matrix) em vez de ponto
+                this.isLetter = Math.random() < 0.15;
+                this.char = this.isLetter ? ancientChars[Math.floor(Math.random() * ancientChars.length)] : '';
+                this.fontSize = Math.random() * 12 + 10; // 10 a 22px
                 
-                // Regex para extrair ETA (ex: "~3d 12h")
-                const etaMatch  = text.match(/ETA estimado[^:]*:\s*\*\*([^*]+)\*\*/);
-
-                // Atualiza percentual com animação suave
-                if (pctMatch) {
-                    const pct = parseFloat(pctMatch[1]);
-                    document.getElementById("progress-pct").textContent = pct.toFixed(1) + "%";
-                    setTimeout(() => {
-                        document.getElementById("progress-fill").style.width = pct + "%";
-                    }, 300);
+                // Se for letra, cai suavemente para baixo (gravidade fraca)
+                if (this.isLetter) {
+                    this.vy = Math.random() * 0.6 + 0.2;
+                    this.vx = (Math.random() - 0.5) * 0.2;
                 }
-                
-                // Atualiza detalhe de capítulos
-                if (capsMatch) {
-                    const done  = capsMatch[1];
-                    const total = capsMatch[2];
-                    document.getElementById("progress-detail").textContent =
-                        `${done} de ${total} capítulos traduzidos`;
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+
+                // Reaparecer do outro lado da tela para criar um loop infinito
+                if (this.x < 0) this.x = width;
+                if (this.x > width) this.x = 0;
+                if (this.y < 0) this.y = height;
+                if (this.y > height) this.y = 0;
+            }
+
+            draw() {
+                if (this.isLetter) {
+                    ctx.font = `${this.fontSize}px 'Cardo', serif`;
+                    // Dourado para as letras com um pouco de transparência
+                    ctx.fillStyle = `rgba(251, 191, 36, ${this.size / 5 + 0.1})`;
+                    ctx.textAlign = 'center';
+                    ctx.fillText(this.char, this.x, this.y);
+                } else {
+                    ctx.beginPath();
+                    ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                    // Teal/Esmeralda para as partículas neurais
+                    ctx.fillStyle = `rgba(20, 184, 166, ${this.size / 3})`;
+                    ctx.fill();
                 }
-                
-                // Atualiza ETA
-                if (etaMatch) {
-                    document.getElementById("progress-eta").textContent =
-                        "⏱ ETA: " + etaMatch[1].trim();
-                }
-            } catch(e) {
-                // Silencioso — se PROGRESS.md não está disponível, continua normalmente
-                // (útil para desenvolvimento offline)
             }
         }
 
-        /**
-         * SEÇÃO 10: INICIALIZAÇÃO
-         * 
-         * Executado quando o DOM está pronto (DOMContentLoaded).
-         * Ordem de inicialização:
-         *   1. Carrega preferência de tema (escuro/claro)
-         *   2. Se há URL hash → handleUrlHash() navega para a passagem
-         *   3. Senão, tenta restaurar sessão anterior do localStorage
-         *   4. Senão, carrega estado padrão (Aleppo → 2 Reis → cap. 1)
-         *   5. Inicia polling de progresso (imediato + a cada 5 min)
-         */
-        window.addEventListener("DOMContentLoaded", () => {
-            // Carrega preferência de tema (escuro/claro) do localStorage
-            loadThemePreference();
+        function init() {
+            particles = [];
+            // Número de partículas escalonado pela área da tela para não poluir telas pequenas
+            const numParticles = Math.floor((width * height) / 12000);
             
-            // Processa deep-linking se houver URL hash
-            if (window.location.hash && window.location.hash.startsWith("#/")) {
-                handleUrlHash();
-            } else {
-                // Se não há deep-link, tenta recuperar sessão anterior
-                const savedSession = loadSessionState();
-                if (savedSession && BIBLE_STRUCTURE[savedSession.manuscript]) {
-                    SELECT_MANUSCRIPT.value = savedSession.manuscript;
-                    updateBookSelector(savedSession.manuscript);
-                    
-                    setTimeout(() => {
-                        if (BIBLE_STRUCTURE[savedSession.manuscript][savedSession.book]) {
-                            SELECT_BOOK.value = savedSession.book;
-                            updateChapterSelector(savedSession.manuscript, savedSession.book);
-                            
-                            setTimeout(() => {
-                                // Restaura o capítulo salvo e dispara o evento para carregar os versículos
-                                SELECT_CHAPTER.value = savedSession.chapter;
-                                SELECT_CHAPTER.dispatchEvent(new Event("change"));
-                            }, 100);
-                        } else {
-                            // Livro da sessão salva não existe neste manuscrito — carrega padrão
-                            updateBookSelector(SELECT_MANUSCRIPT.value);
+            for (let i = 0; i < numParticles; i++) {
+                particles.push(new Particle());
+            }
+        }
+
+        function connect() {
+            let opacityValue = 1;
+            // Verifica a distância entre cada partícula
+            for (let a = 0; a < particles.length; a++) {
+                for (let b = a; b < particles.length; b++) {
+                    const dx = particles[a].x - particles[b].x;
+                    const dy = particles[a].y - particles[b].y;
+                    const distance = Math.sqrt(dx * dx + dy * dy);
+
+                    // Conexão apenas entre as mais próximas (formando constelações/redes)
+                    if (distance < 100) {
+                        // Linha mais visível se a distância for menor
+                        opacityValue = 1 - (distance / 100);
+                        ctx.strokeStyle = `rgba(20, 184, 166, ${opacityValue * 0.25})`;
+                        ctx.lineWidth = 0.5;
+                        ctx.beginPath();
+                        ctx.moveTo(particles[a].x, particles[a].y);
+                        ctx.lineTo(particles[b].x, particles[b].y);
+                        ctx.stroke();
+                    }
+                }
+
+                // Efeito do Mouse: Conecta as partículas ao mouse se estiverem próximas
+                if (mouse.x && mouse.y) {
+                    const dx = particles[a].x - mouse.x;
+                    const dy = particles[a].y - mouse.y;
+                    const distance = Math.sqrt(dx * dx + dy * dy);
+
+                    if (distance < mouse.radius) {
+                        opacityValue = 1 - (distance / mouse.radius);
+                        // Conexão dourada com o mouse (simbolizando o usuário interagindo com o sagrado)
+                        ctx.strokeStyle = `rgba(251, 191, 36, ${opacityValue * 0.3})`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath();
+                        ctx.moveTo(particles[a].x, particles[a].y);
+                        ctx.lineTo(mouse.x, mouse.y);
+                        ctx.stroke();
+                        
+                        // Leve atração das partículas em direção ao mouse
+                        // Apenas para as que não são letras (as letras só caem)
+                        if (!particles[a].isLetter) {
+                            particles[a].x -= dx * 0.005;
+                            particles[a].y -= dy * 0.005;
                         }
-                    }, 100);
-                } else {
-                    // Nenhuma sessão salva — carrega estado padrão (Aleppo → 2 Reis → cap. 1)
-                    updateBookSelector(SELECT_MANUSCRIPT.value);
+                    }
                 }
             }
-            
-            // Carrega progresso inicial da GPU
-            loadProgress();
-            
-            // Atualiza progresso a cada 5 minutos (ciclo de sincronização da VM em Frankfurt)
-            // ⚠️ NÃO ALTERAR: Este intervalo está sincronizado com o pipeline de tradução
-            setInterval(loadProgress, 5 * 60 * 1000);
-        });
+        }
 
-        /**
-         * ============================================================================
-         * MELHORIAS IMPLEMENTADAS
-         * ============================================================================
-         * 
-         * ✅ CORREÇÕES DE BUG:
-         *    - updateUrlHash usa history.replaceState (não window.location.hash)
-         *      para evitar loop: loadChapterData → hashchange → handleUrlHash → loadChapterData
-         *    - updateChapterSelector chama loadChapterData() diretamente (não dispatchEvent)
-         *      para evitar dupla chamada com o event listener de SELECT_CHAPTER
-         *    - Restauração de sessão: if com operador vírgula corrigido para atribuição explícita
-         * 
-         * ✅ PERFORMANCE:
-         *    - Debounce de 200ms na busca (evita reflow a cada tecla)
-         *    - Cache em memória (VERSES_CACHE) + localStorage (~2MB) para capítulos já visitados
-         * 
-         * ✅ FUNCIONALIDADES:
-         *    - URL deep-linking: /#/Aleppo/1_Kings/22 (compartilhável)
-         *    - Modo escuro / claro com toggle e persistência em localStorage
-         *    - Histórico dos últimos 10 capítulos lidos (localStorage)
-         *    - Restauração de sessão anterior ao recarregar a página
-         *    - Cópia de versículo com 1 clique (original + tradução) com toast de confirmação
-         * 
-         * ✅ ACESSIBILIDADE:
-         *    - ARIA labels em todos os inputs e selects
-         *    - Navegação por teclado: ←→ e PageUp/PageDown entre capítulos
-         *    - THEME_TOGGLE acessível por Enter e Space
-         *    - Respeita prefers-color-scheme do sistema operacional
-         * 
-         * 🎯 PRÓXIMAS MELHORIAS (Futuro):
-         *    - Virtualização de cards para capítulos com 100+ versículos
-         *    - Compartilhamento com QR Code
-         *    - Comparação de 2+ manuscritos lado a lado
-         *    - Sitemap dinâmico para SEO
-         *    - Notificações push quando novo capítulo fica pronto
-         * 
-         * ============================================================================
-         */
+        function animate() {
+            requestAnimationFrame(animate);
+            // Limpa a tela frame a frame
+            ctx.clearRect(0, 0, width, height);
+
+            for (let i = 0; i < particles.length; i++) {
+                particles[i].update();
+                particles[i].draw();
+            }
+            
+            // Desenha as teias de rede neural / constelações
+            connect();
+        }
+
+        // Boot da Animação
+        resize();
+        animate();
     </script>
 </body>
 </html>
