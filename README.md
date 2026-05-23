@@ -1,6 +1,6 @@
 # AI-BIBLE — Tradução Ultra-Precisa de Manuscritos Originais
 
-> **README gerado automaticamente em: 2026-05-23 01:05 UTC**
+> **README gerado automaticamente em: 2026-05-23 01:11 UTC**
 > Veja [PROGRESS.md](PROGRESS.md) para monitoramento detalhado em tempo real.
 
 Este projeto utiliza o estado da arte em IA rodando em **Oracle Cloud GPU (NVIDIA A10)**
@@ -19,7 +19,7 @@ com transliteração acadêmica incluída.
 | Custo estimado restante | **~$81 USD** |
 | ETA estimado de processamento | **~2d 6h** |
 | Velocidade (com Double-Pass) | ~26 caps/hora |
-| Última atualização | 2026-05-23 01:05 UTC |
+| Última atualização | 2026-05-23 01:11 UTC |
 
 ---
 
