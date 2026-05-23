@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֗ים נִצָּ֥ב בַּעֲדַת־אֵ֑ל בְּקֶ֖רֶב אֱלֹהִ֣ים יִשְׁפֹּֽט׃",
+    "original": "<span data-strong=\"H4210\">מִזְמ֗וֹר</span> <span data-strong=\"H623\">לְאָ֫סָ֥ף</span> <span data-strong=\"H430\">אֱֽלֹהִ֗ים</span> <span data-strong=\"H5324\">נִצָּ֥ב</span> <span data-strong=\"H5712\">בַּעֲדַת</span>־<span data-strong=\"H410\">אֵ֑ל</span> <span data-strong=\"H7130\">בְּקֶ֖רֶב</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H8199\">יִשְׁפֹּֽט׃</span>",
     "transliteration": "mizemvor le'asaf 'elohiym nitsav va'adat-'el vekerev 'elohiym yishefot.",
     "translation": "Salmo de Asafe: Deus está em pé na assembleia divina; no meio dos juízes, Ele julgará."
   },
   {
     "verse": 2,
-    "original": "עַד־מָתַ֥י תִּשְׁפְּטוּ־עָ֑וֶל וּפְנֵ֥י רְ֝שָׁעִ֗ים תִּשְׂאוּ־סֶֽלָה׃",
+    "original": "<span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4970\">מָתַ֥י</span> <span data-strong=\"H8199\">תִּשְׁפְּטוּ</span>־<span data-strong=\"H5766\">עָ֑וֶל</span> <span data-strong=\"H6440\">וּפְנֵ֥י</span> <span data-strong=\"H7563\">רְ֝שָׁעִ֗ים</span> <span data-strong=\"H5375\">תִּשְׂאוּ</span>־<span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "'ad-matay tishefetv-'avel vfeney resha'iym tise'v-selah.",
     "translation": "Até quando julgareis a injustiça e favorecereis os rostos dos perversos? Selá."
   },
   {
     "verse": 3,
-    "original": "שִׁפְטוּ־דַ֥ל וְיָת֑וֹם עָנִ֖י וָרָ֣שׁ הַצְדִּֽיקוּ׃",
+    "original": "<span data-strong=\"H8199\">שִׁפְטוּ</span>־<span data-strong=\"H1800\">דַ֥ל</span> <span data-strong=\"H3490\">וְיָת֑וֹם</span> <span data-strong=\"H6041\">עָנִ֖י</span> <span data-strong=\"H7326\">וָרָ֣שׁ</span> <span data-strong=\"H6663\">הַצְדִּֽיקוּ׃</span>",
     "transliteration": "shifetv-dal veyatvom 'aniy varash hatsediykv.",
     "translation": "Julgai o pobre e o órfão, defendei o necessitado e o indigente."
   },
   {
     "verse": 4,
-    "original": "פַּלְּטוּ־דַ֥ל וְאֶבְי֑וֹן מִיַּ֖ד רְשָׁעִ֣ים הַצִּֽילוּ׃",
+    "original": "<span data-strong=\"H6403\">פַּלְּטוּ</span>־<span data-strong=\"H1800\">דַ֥ל</span> <span data-strong=\"H34\">וְאֶבְי֑וֹן</span> <span data-strong=\"H3027\">מִיַּ֖ד</span> <span data-strong=\"H7563\">רְשָׁעִ֣ים</span> <span data-strong=\"H5337\">הַצִּֽילוּ׃</span>",
     "transliteration": "faletv-dal ve'eveyvon miyad resha'iym hatsiylv.",
     "translation": "Liberai o pobre e o necessitado; livrai-os da mão dos malfeitores."
   },
   {
     "verse": 5,
-    "original": "לֹ֤א יָדְע֨וּ&thinsp;<b>׀</b> וְלֹ֥א יָבִ֗ינוּ בַּחֲשֵׁכָ֥ה יִתְהַלָּ֑כוּ יִ֝מּ֗וֹטוּ כׇּל־מ֥וֹסְדֵי אָֽרֶץ׃",
+    "original": "<span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H3045\">יָדְע֨וּ&thinsp;<b>׀</b></span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H995\">יָבִ֗ינוּ</span> <span data-strong=\"H2825\">בַּחֲשֵׁכָ֥ה</span> <span data-strong=\"H1980\">יִתְהַלָּ֑כוּ</span> <span data-strong=\"H4131\">יִ֝מּ֗וֹטוּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4144\">מ֥וֹסְדֵי</span> <span data-strong=\"H776\">אָֽרֶץ׃</span>",
     "transliteration": "lo' yade'v&thinsp;<b>|</b> velo' yaviynv vahashekhah yitehalakhv yimvotv khol-mvosedey 'arets.",
     "translation": "Não souberam, nem entenderam; vaguearão em trevas; serão abatidos todos os fundamentos da terra."
   },
   {
     "verse": 6,
-    "original": "אֲֽנִי־אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם וּבְנֵ֖י עֶלְי֣וֹן כֻּלְּכֶֽם׃",
+    "original": "<span data-strong=\"H589\">אֲֽנִי</span>־<span data-strong=\"H559\">אָ֭מַרְתִּי</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H859\">אַתֶּ֑ם</span> <span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H5945\">עֶלְי֣וֹן</span> <span data-strong=\"H3641\">כֻּלְּכֶֽם׃</span>",
     "transliteration": "'aniy-'amaretiy 'elohiym 'atem vveney 'eleyvon khulekhem.",
     "translation": "Disse eu: Deuses sois vós, e filhos do Altíssimo sois todos vós."
   },
   {
     "verse": 7,
-    "original": "אָ֭כֵן כְּאָדָ֣ם תְּמוּת֑וּן וּכְאַחַ֖ד הַשָּׂרִ֣ים תִּפֹּֽלוּ׃",
+    "original": "<span data-strong=\"H403\">אָ֭כֵן</span> <span data-strong=\"H120\">כְּאָדָ֣ם</span> <span data-strong=\"H4993\">תְּמוּת֑וּן</span> <span data-strong=\"H259\">וּכְאַחַ֖ד</span> <span data-strong=\"H8269\">הַשָּׂרִ֣ים</span> <span data-strong=\"H5307\">תִּפֹּֽלוּ׃</span>",
     "transliteration": "'akhen khe'adam temvtvn vkhe'ahad hasariym tifolv.",
     "translation": "Certamente como os homens vós morrereis, e como um dos príncipes caireis."
   },

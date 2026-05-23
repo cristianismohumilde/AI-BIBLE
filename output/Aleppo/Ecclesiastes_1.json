@@ -1,31 +1,31 @@
 [
   {
     "verse": 1,
-    "original": "דִּבְרֵי֙ קֹהֶ֣לֶת בֶּן־דָּוִ֔ד מֶ֖לֶךְ בִּירוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1697\">דִּבְרֵי֙</span> <span data-strong=\"H6953\">קֹהֶ֣לֶת</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H4428\">מֶ֖לֶךְ</span> <span data-strong=\"H3389\">בִּירוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "diverey kohelet ven-david melekhe viyrvshalaim.",
     "translation": "Palavras do Eclesiaste, filho de Davi, rei em Jerusalém."
   },
   {
     "verse": 2,
-    "original": "הֲבֵ֤ל הֲבָלִים֙ אָמַ֣ר קֹהֶ֔לֶת הֲבֵ֥ל הֲבָלִ֖ים הַכֹּ֥ל הָֽבֶל׃",
+    "original": "<span data-strong=\"H1892\">הֲבֵ֤ל</span> <span data-strong=\"H1892\">הֲבָלִים֙</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H6953\">קֹהֶ֔לֶת</span> <span data-strong=\"H1892\">הֲבֵ֥ל</span> <span data-strong=\"H1892\">הֲבָלִ֖ים</span> <span data-strong=\"H3605\">הַכֹּ֥ל</span> <span data-strong=\"H1892\">הָֽבֶל׃</span>",
     "transliteration": "havel havaliym 'amar kohelet havel havaliym hakhol havel.",
     "translation": "Vaidade das vaidades, disse o Eclesiaste; vaidade das vaidades, tudo é vaidade."
   },
   {
     "verse": 3,
-    "original": "מַה־יִּתְר֖וֹן לָֽאָדָ֑ם בְּכׇ֨ל־עֲמָל֔וֹ שֶֽׁיַּעֲמֹ֖ל תַּ֥חַת הַשָּֽׁמֶשׁ׃",
+    "original": "<span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3504\">יִּתְר֖וֹן</span> <span data-strong=\"H120\">לָֽאָדָ֑ם</span> <span data-strong=\"H3605\">בְּכׇ֨ל</span>־<span data-strong=\"H2050\">עֲמָל֔וֹ</span> <span data-strong=\"H5998\">שֶֽׁיַּעֲמֹ֖ל</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H8121\">הַשָּֽׁמֶשׁ׃</span>",
     "transliteration": "mah-yitervon la'adam vekhol-'amalvo sheya'amol tahat hashamesh.",
     "translation": "Qual é a vantagem do homem em todo o seu trabalho que ele faz debaixo do sol?"
   },
   {
     "verse": 4,
-    "original": "דּ֤וֹר הֹלֵךְ֙ וְד֣וֹר בָּ֔א וְהָאָ֖רֶץ לְעוֹלָ֥ם עֹמָֽדֶת׃",
+    "original": "<span data-strong=\"H1755\">דּ֤וֹר</span> <span data-strong=\"H1980\">הֹלֵךְ֙</span> <span data-strong=\"H1755\">וְד֣וֹר</span> <span data-strong=\"H935\">בָּ֔א</span> <span data-strong=\"H776\">וְהָאָ֖רֶץ</span> <span data-strong=\"H5769\">לְעוֹלָ֥ם</span> <span data-strong=\"H5975\">עֹמָֽדֶת׃</span>",
     "transliteration": "dvor holekhe vedvor va' veha'arets le'volam 'omadet.",
     "translation": "Geração vai e geração vem, mas a terra permanece eternamente."
   },
   {
     "verse": 5,
-    "original": "וְזָרַ֥ח הַשֶּׁ֖מֶשׁ וּבָ֣א הַשָּׁ֑מֶשׁ וְאֶ֨ל־מְקוֹמ֔וֹ שׁוֹאֵ֛ף זוֹרֵ֥חַֽ ה֖וּא שָֽׁם׃",
+    "original": "<span data-strong=\"H2224\">וְזָרַ֥ח</span> <span data-strong=\"H8121\">הַשֶּׁ֖מֶשׁ</span> <span data-strong=\"H935\">וּבָ֣א</span> <span data-strong=\"H8121\">הַשָּׁ֑מֶשׁ</span> <span data-strong=\"H413\">וְאֶ֨ל</span>־<span data-strong=\"H2050\">מְקוֹמ֔וֹ</span> <span data-strong=\"H7602\">שׁוֹאֵ֛ף</span> <span data-strong=\"H2224\">זוֹרֵ֥חַֽ</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H8033\">שָֽׁם׃</span>",
     "transliteration": "vezarah hashemesh vva' hashamesh ve'el-mekvomvo shvo'ef zvoreha hv' sham.",
     "translation": "E o sol nascerá e por ele virá e ao seu lugar se apressará, suspirando a nascer ali."
   },
@@ -37,25 +37,25 @@
   },
   {
     "verse": 7,
-    "original": "כׇּל־הַנְּחָלִים֙ הֹלְכִ֣ים אֶל־הַיָּ֔ם וְהַיָּ֖ם אֵינֶ֣נּוּ מָלֵ֑א אֶל־מְק֗וֹם שֶׁ֤הַנְּחָלִים֙ הֹֽלְכִ֔ים שָׁ֛ם הֵ֥ם שָׁבִ֖ים לָלָֽכֶת׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5158\">הַנְּחָלִים֙</span> <span data-strong=\"H1980\">הֹלְכִ֣ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3220\">הַיָּ֔ם</span> <span data-strong=\"H3220\">וְהַיָּ֖ם</span> <span data-strong=\"H5105\">אֵינֶ֣נּוּ</span> <span data-strong=\"H4392\">מָלֵ֑א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4725\">מְק֗וֹם</span> <span data-strong=\"H5158\">שֶׁ֤הַנְּחָלִים֙</span> <span data-strong=\"H1980\">הֹֽלְכִ֔ים</span> <span data-strong=\"H8033\">שָׁ֛ם</span> <span data-strong=\"H1992\">הֵ֥ם</span> <span data-strong=\"H7725\">שָׁבִ֖ים</span> <span data-strong=\"H1980\">לָלָֽכֶת׃</span>",
     "transliteration": "khol-hanehaliym holekhiym 'el-hayam vehayam 'eynenv male' 'el-mekvom shehanehaliym holekhiym sham hem shaviym lalakhet.",
     "translation": "Todos os rios fluem para o mar, mas o mar nunca se enche. Para o lugar onde os rios fluem, lá eles retornam a correr."
   },
   {
     "verse": 8,
-    "original": "כׇּל־הַדְּבָרִ֣ים יְגֵעִ֔ים לֹא־יוּכַ֥ל אִ֖ישׁ לְדַבֵּ֑ר לֹא־תִשְׂבַּ֥ע עַ֙יִן֙ לִרְא֔וֹת וְלֹא־תִמָּלֵ֥א אֹ֖זֶן מִשְּׁמֹֽעַ׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֣ים</span> <span data-strong=\"H3023\">יְגֵעִ֔ים</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">יוּכַ֥ל</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H1696\">לְדַבֵּ֑ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7646\">תִשְׂבַּ֥ע</span> <span data-strong=\"H5869\">עַ֙יִן֙</span> <span data-strong=\"H7200\">לִרְא֔וֹת</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H4390\">תִמָּלֵ֥א</span> <span data-strong=\"H241\">אֹ֖זֶן</span> <span data-strong=\"H8085\">מִשְּׁמֹֽעַ׃</span>",
     "transliteration": "khol-hadevariym yege'iym lo'-yvkhal 'iysh ledaver lo'-tiseva' 'ayin lire'vot velo'-timale' 'ozen mishemo'a.",
     "translation": "Todas as coisas se cansam; ninguém pode falar; olho não se sacia de ver, nem ouvido se fartará de ouvir."
   },
   {
     "verse": 9,
-    "original": "מַה־שֶּֽׁהָיָה֙ ה֣וּא שֶׁיִּהְיֶ֔ה וּמַה־שֶּׁנַּֽעֲשָׂ֔ה ה֖וּא שֶׁיֵּעָשֶׂ֑ה וְאֵ֥ין כׇּל־חָדָ֖שׁ תַּ֥חַת הַשָּֽׁמֶשׁ׃",
+    "original": "<span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H1961\">שֶּֽׁהָיָה֙</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H1961\">שֶׁיִּהְיֶ֔ה</span> <span data-strong=\"H4100\">וּמַה</span>־<span data-strong=\"H6213\">שֶּׁנַּֽעֲשָׂ֔ה</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H6213\">שֶׁיֵּעָשֶׂ֑ה</span> <span data-strong=\"H369\">וְאֵ֥ין</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2319\">חָדָ֖שׁ</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H8121\">הַשָּֽׁמֶשׁ׃</span>",
     "transliteration": "mah-shehayah hv' sheyiheyeh vmah-shena'asah hv' sheye'aseh ve'eyn khol-hadash tahat hashamesh.",
     "translation": "O que foi, será; o que já se fez, novamente se fará. Não há nada de novo sob o sol."
   },
   {
     "verse": 10,
-    "original": "יֵ֥שׁ דָּבָ֛ר שֶׁיֹּאמַ֥ר רְאֵה־זֶ֖ה חָדָ֣שׁ ה֑וּא כְּבָר֙ הָיָ֣ה לְעֹֽלָמִ֔ים אֲשֶׁ֥ר הָיָ֖ה מִלְּפָנֵֽנוּ׃",
+    "original": "<span data-strong=\"H3426\">יֵ֥שׁ</span> <span data-strong=\"H1697\">דָּבָ֛ר</span> <span data-strong=\"H559\">שֶׁיֹּאמַ֥ר</span> <span data-strong=\"H7200\">רְאֵה</span>־<span data-strong=\"H2088\">זֶ֖ה</span> <span data-strong=\"H2319\">חָדָ֣שׁ</span> <span data-strong=\"H1931\">ה֑וּא</span> <span data-strong=\"H3528\">כְּבָר֙</span> <span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H5769\">לְעֹֽלָמִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1961\">הָיָ֖ה</span> <span data-strong=\"H5105\">מִלְּפָנֵֽנוּ׃</span>",
     "transliteration": "yesh davar sheyo'mar re'eh-zeh hadash hv' khevar hayah le'olamiym 'asher hayah milefanenv.",
     "translation": "Há algo de que se pode dizer: Eis aqui o novo; já havia em tempos antigos o que viria depois."
   },
@@ -67,43 +67,43 @@
   },
   {
     "verse": 12,
-    "original": "אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H6953\">קֹהֶ֗לֶת</span> <span data-strong=\"H1961\">הָיִ֥יתִי</span> <span data-strong=\"H4428\">מֶ֛לֶךְ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3389\">בִּירוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "'aniy kohelet hayiytiy melekhe 'al-yisera'el viyrvshalaim.",
     "translation": "Eu sou o Coletor, foi-me dado ser rei sobre Israel em Jerusalém."
   },
   {
     "verse": 13,
-    "original": "וְנָתַ֣תִּי אֶת־לִבִּ֗י לִדְר֤וֹשׁ וְלָתוּר֙ בַּֽחׇכְמָ֔ה עַ֛ל כׇּל־אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם ה֣וּא&thinsp;<b>׀</b> עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַ֣תִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">לִבִּ֗י</span> <span data-strong=\"H1875\">לִדְר֤וֹשׁ</span> <span data-strong=\"H8446\">וְלָתוּר֙</span> <span data-strong=\"H2451\">בַּֽחׇכְמָ֔ה</span> <span data-strong=\"H5921\">עַ֛ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">נַעֲשָׂ֖ה</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H8064\">הַשָּׁמָ֑יִם</span> <span data-strong=\"H1931\">ה֣וּא&thinsp;<b>׀</b></span> <span data-strong=\"H6045\">עִנְיַ֣ן</span> <span data-strong=\"H7451\">רָ֗ע</span> <span data-strong=\"H5414\">נָתַ֧ן</span> <span data-strong=\"H430\">אֱלֹהִ֛ים</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H120\">הָאָדָ֖ם</span> <span data-strong=\"H6031\">לַעֲנ֥וֹת</span> <span data-strong=\"H2050\">בּֽוֹ׃</span>",
     "transliteration": "venatatiy 'et-liviy lidervosh velatvr vahokhemah 'al khol-'asher na'asah tahat hashamayim hv'&thinsp;<b>|</b> 'ineyan ra' natan 'elohiym liveney ha'adam la'anvot vvo.",
     "translation": "E dei meu coração para buscar e investigar a sabedoria sobre tudo o que se faz debaixo dos céus. Eis um empenho árduo, que Deus concedeu aos filhos dos homens com o propósito de exercitar-se nele."
   },
   {
     "verse": 14,
-    "original": "רָאִ֙יתִי֙ אֶת־כׇּל־הַֽמַּעֲשִׂ֔ים שֶֽׁנַּעֲשׂ֖וּ תַּ֣חַת הַשָּׁ֑מֶשׁ וְהִנֵּ֥ה הַכֹּ֛ל הֶ֖בֶל וּרְע֥וּת רֽוּחַ׃",
+    "original": "<span data-strong=\"H7200\">רָאִ֙יתִי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4639\">הַֽמַּעֲשִׂ֔ים</span> <span data-strong=\"H6213\">שֶֽׁנַּעֲשׂ֖וּ</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H8121\">הַשָּׁ֑מֶשׁ</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H3605\">הַכֹּ֛ל</span> <span data-strong=\"H1892\">הֶ֖בֶל</span> <span data-strong=\"H7469\">וּרְע֥וּת</span> <span data-strong=\"H7307\">רֽוּחַ׃</span>",
     "transliteration": "ra'iytiy 'et-khol-hama'asiym shena'asv tahat hashamesh vehineh hakhol hevel vre'vt rvha.",
     "translation": "Vi todos os atos que se fazem debaixo do sol, e eis que tudo é vaidade e perseguição do vento."
   },
   {
     "verse": 15,
-    "original": "מְעֻוָּ֖ת לֹא־יוּכַ֣ל לִתְקֹ֑ן וְחֶסְר֖וֹן לֹא־יוּכַ֥ל לְהִמָּנֽוֹת׃",
+    "original": "<span data-strong=\"H5791\">מְעֻוָּ֖ת</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">יוּכַ֣ל</span> <span data-strong=\"H8626\">לִתְקֹ֑ן</span> <span data-strong=\"H2642\">וְחֶסְר֖וֹן</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">יוּכַ֥ל</span> <span data-strong=\"H4487\">לְהִמָּנֽוֹת׃</span>",
     "transliteration": "me'uvat lo'-yvkhal litekon veheservon lo'-yvkhal lehimanvot.",
     "translation": "Viciado não pode ser corrigido, e o que falta não pode ser suprido."
   },
   {
     "verse": 16,
-    "original": "דִּבַּ֨רְתִּי אֲנִ֤י עִם־לִבִּי֙ לֵאמֹ֔ר אֲנִ֗י הִנֵּ֨ה הִגְדַּ֤לְתִּי וְהוֹסַ֙פְתִּי֙ חׇכְמָ֔ה עַ֛ל כׇּל־אֲשֶׁר־הָיָ֥ה לְפָנַ֖י עַל־יְרוּשָׁלָ֑͏ִם וְלִבִּ֛י רָאָ֥ה הַרְבֵּ֖ה חׇכְמָ֥ה וָדָֽעַת׃",
+    "original": "<span data-strong=\"H1696\">דִּבַּ֨רְתִּי</span> <span data-strong=\"H589\">אֲנִ֤י</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2967\">לִבִּי֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H589\">אֲנִ֗י</span> <span data-strong=\"H2009\">הִנֵּ֨ה</span> <span data-strong=\"H1431\">הִגְדַּ֤לְתִּי</span> <span data-strong=\"H3254\">וְהוֹסַ֙פְתִּי֙</span> <span data-strong=\"H2451\">חׇכְמָ֔ה</span> <span data-strong=\"H5921\">עַ֛ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1961\">הָיָ֥ה</span> <span data-strong=\"H2967\">לְפָנַ֖י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3389\">יְרוּשָׁלָ֑͏ִם</span> <span data-strong=\"H2967\">וְלִבִּ֛י</span> <span data-strong=\"H7200\">רָאָ֥ה</span> <span data-strong=\"H7235\">הַרְבֵּ֖ה</span> <span data-strong=\"H2451\">חׇכְמָ֥ה</span> <span data-strong=\"H1847\">וָדָֽעַת׃</span>",
     "transliteration": "divaretiy 'aniy 'im-liviy le'mor 'aniy hineh higedaletiy vehvosafetiy hokhemah 'al khol-'asher-hayah lefanay 'al-yervshalaim veliviy ra'ah hareveh hokhemah vada'at.",
     "translation": "Falei com meu coração, dizendo: Eu, eis que cresci em sabedoria além de todos que foram antes de mim em Jerusalém; e meu coração viu muita sabedoria e conhecimento."
   },
   {
     "verse": 17,
-    "original": "וָאֶתְּנָ֤ה לִבִּי֙ לָדַ֣עַת חׇכְמָ֔ה וְדַ֥עַת הוֹלֵלֹ֖ת וְשִׂכְל֑וּת יָדַ֕עְתִּי שֶׁגַּם־זֶ֥ה ה֖וּא רַעְי֥וֹן רֽוּחַ׃",
+    "original": "<span data-strong=\"H1886\">וָאֶתְּנָ֤ה</span> <span data-strong=\"H2967\">לִבִּי֙</span> <span data-strong=\"H3045\">לָדַ֣עַת</span> <span data-strong=\"H2451\">חׇכְמָ֔ה</span> <span data-strong=\"H3045\">וְדַ֥עַת</span> <span data-strong=\"H1947\">הוֹלֵלֹ֖ת</span> <span data-strong=\"H5531\">וְשִׂכְל֑וּת</span> <span data-strong=\"H3045\">יָדַ֕עְתִּי</span> <span data-strong=\"H1571\">שֶׁגַּם</span>־<span data-strong=\"H2088\">זֶ֥ה</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H7475\">רַעְי֥וֹן</span> <span data-strong=\"H7307\">רֽוּחַ׃</span>",
     "transliteration": "va'etenah liviy lada'at hokhemah veda'at hvolelot vesikhelvt yada'etiy shegam-zeh hv' ra'eyvon rvha.",
     "translation": "E dei o meu coração para conhecer a sabedoria, e o saber dos loucos e das insensatezas; então percebi que também isso é esforço vaidoso da alma."
   },
   {
     "verse": 18,
-    "original": "כִּ֛י בְּרֹ֥ב חׇכְמָ֖ה רׇב־כָּ֑עַס וְיוֹסִ֥יף דַּ֖עַת יוֹסִ֥יף מַכְאֽוֹב׃",
+    "original": "<span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H7230\">בְּרֹ֥ב</span> <span data-strong=\"H2451\">חׇכְמָ֖ה</span> <span data-strong=\"H7230\">רׇב</span>־<span data-strong=\"H3708\">כָּ֑עַס</span> <span data-strong=\"H3254\">וְיוֹסִ֥יף</span> <span data-strong=\"H1847\">דַּ֖עַת</span> <span data-strong=\"H3254\">יוֹסִ֥יף</span> <span data-strong=\"H4341\">מַכְאֽוֹב׃</span>",
     "transliteration": "khiy verov hokhemah rov-kha'as veyvosiyf da'at yvosiyf makhe'vov.",
     "translation": "Pois com muita sabedoria aumenta a angústia, e quem acrescenta conhecimento acrescenta dor."
   }

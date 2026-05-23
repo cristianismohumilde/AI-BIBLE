@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "בִּשְׁנַ֛ת שְׁמוֹנֶ֥ה עֶשְׂרֵ֖ה לַמֶּ֣לֶךְ יָרׇבְעָ֑ם וַיִּמְלֹ֥ךְ אֲבִיָּ֖ה עַל־יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֛ת</span> <span data-strong=\"H8083\">שְׁמוֹנֶ֥ה</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H4428\">לַמֶּ֣לֶךְ</span> <span data-strong=\"H3379\">יָרׇבְעָ֑ם</span> <span data-strong=\"H4427\">וַיִּמְלֹ֥ךְ</span> <span data-strong=\"H29\">אֲבִיָּ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "vishenat shemvoneh 'esereh lamelekhe yarove'am vayimelokhe 'aviyah 'al-yehvdah.",
     "translation": "No ano décimo oitavo de Jeroboão, rei de Israel, Abias reinou sobre Judá."
   },
   {
     "verse": 2,
-    "original": "שָׁל֣וֹשׁ שָׁנִ֗ים מָלַךְ֙ בִּיר֣וּשָׁלַ֔͏ִם וְשֵׁ֣ם אִמּ֔וֹ מִיכָיָ֥הוּ בַת־אוּרִיאֵ֖ל מִן־גִּבְעָ֑ה וּמִלְחָמָ֥ה הָֽיְתָ֛ה בֵּ֥ין אֲבִיָּ֖ה וּבֵ֥ין יָרׇבְעָֽם׃",
+    "original": "<span data-strong=\"H7969\">שָׁל֣וֹשׁ</span> <span data-strong=\"H8141\">שָׁנִ֗ים</span> <span data-strong=\"H4427\">מָלַךְ֙</span> <span data-strong=\"H3389\">בִּיר֣וּשָׁלַ֔͏ִם</span> <span data-strong=\"H8034\">וְשֵׁ֣ם</span> <span data-strong=\"H2050\">אִמּ֔וֹ</span> <span data-strong=\"H4322\">מִיכָיָ֥הוּ</span> <span data-strong=\"H1323\">בַת</span>־<span data-strong=\"H222\">אוּרִיאֵ֖ל</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H1390\">גִּבְעָ֑ה</span> <span data-strong=\"H4421\">וּמִלְחָמָ֥ה</span> <span data-strong=\"H1961\">הָֽיְתָ֛ה</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H29\">אֲבִיָּ֖ה</span> <span data-strong=\"H996\">וּבֵ֥ין</span> <span data-strong=\"H3379\">יָרׇבְעָֽם׃</span>",
     "transliteration": "shalvosh shaniym malakhe viyrvshalaim veshem 'imvo miykhayahv vat-'vriy'el min-give'ah vmilehamah hayetah veyn 'aviyah vveyn yarove'am.",
     "translation": "Três anos reinou em Jerusalém, e o nome de sua mãe foi Micaia, filha de Uriel, de Gibeá. E houve guerra entre Abias e Jeroboão."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "וַיָּ֣קׇם אֲבִיָּ֗ה מֵעַל֙ לְהַ֣ר צְמָרַ֔יִם אֲשֶׁ֖ר בְּהַ֣ר אֶפְרָ֑יִם וַיֹּ֕אמֶר שְׁמָע֖וּנִי יָרׇבְעָ֥ם וְכׇל־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H6965\">וַיָּ֣קׇם</span> <span data-strong=\"H29\">אֲבִיָּ֗ה</span> <span data-strong=\"H5921\">מֵעַל֙</span> <span data-strong=\"H2022\">לְהַ֣ר</span> <span data-strong=\"H6787\">צְמָרַ֔יִם</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H2022\">בְּהַ֣ר</span> <span data-strong=\"H669\">אֶפְרָ֑יִם</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H5204\">שְׁמָע֖וּנִי</span> <span data-strong=\"H3379\">יָרׇבְעָ֥ם</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayakom 'aviyah me'al lehar tsemarayim 'asher vehar 'eferayim vayo'mer shema'vniy yarove'am vekhol-yisera'el.",
     "translation": "E Abias se levantou do alto de Har Tsamaraim, que está em Efraim, e disse: Ouvi-me, Robão e todo Israel."
   },
@@ -31,19 +31,19 @@
   },
   {
     "verse": 6,
-    "original": "וַיָּ֙קׇם֙ יָרׇבְעָ֣ם בֶּן־נְבָ֔ט עֶ֖בֶד שְׁלֹמֹ֣ה בֶן־דָּוִ֑יד וַיִּמְרֹ֖ד עַל־אֲדֹנָֽיו׃",
+    "original": "<span data-strong=\"H6965\">וַיָּ֙קׇם֙</span> <span data-strong=\"H3379\">יָרׇבְעָ֣ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5028\">נְבָ֔ט</span> <span data-strong=\"H5650\">עֶ֖בֶד</span> <span data-strong=\"H8010\">שְׁלֹמֹ֣ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H1732\">דָּוִ֑יד</span> <span data-strong=\"H4775\">וַיִּמְרֹ֖ד</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">אֲדֹנָֽיו׃</span>",
     "transliteration": "vayakom yarove'am ven-nevat 'eved shelomoh ven-daviyd vayimerod 'al-'adonayv.",
     "translation": "E Jeroboão, filho de Nebat, servo de Salomão, filho de Davi, levantou-se e rebelou-se contra seu senhor."
   },
   {
     "verse": 7,
-    "original": "וַיִּקָּבְצ֣וּ עָלָ֗יו אֲנָשִׁ֤ים רֵקִים֙ בְּנֵ֣י בְלִיַּ֔עַל וַיִּֽתְאַמְּצ֖וּ עַל־רְחַבְעָ֣ם בֶּן־שְׁלֹמֹ֑ה וּרְחַבְעָ֗ם הָ֤יָֽה נַ֙עַר֙ וְרַךְ־לֵבָ֔ב וְלֹ֥א הִתְחַזַּ֖ק לִפְנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H6908\">וַיִּקָּבְצ֣וּ</span> <span data-strong=\"H2050\">עָלָ֗יו</span> <span data-strong=\"H376\">אֲנָשִׁ֤ים</span> <span data-strong=\"H7386\">רֵקִים֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1100\">בְלִיַּ֔עַל</span> <span data-strong=\"H553\">וַיִּֽתְאַמְּצ֖וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7346\">רְחַבְעָ֣ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8010\">שְׁלֹמֹ֑ה</span> <span data-strong=\"H7346\">וּרְחַבְעָ֗ם</span> <span data-strong=\"H1961\">הָ֤יָֽה</span> <span data-strong=\"H5288\">נַ֙עַר֙</span> <span data-strong=\"H7390\">וְרַךְ</span>־<span data-strong=\"H3824\">לֵבָ֔ב</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H2388\">הִתְחַזַּ֖ק</span> <span data-strong=\"H3963\">לִפְנֵיהֶֽם׃</span>",
     "transliteration": "vayikavetsv 'alayv 'anashiym rekiym veney veliya'al vayite'ametsv 'al-rehave'am ven-shelomoh vrehave'am hayah na'ar verakhe-levav velo' hitehazak lifeneyhem.",
     "translation": "E reuniram-se contra ele homens vazios, filhos de Belial, e fortaleceram-se contra Roboão, filho de Salomão. E Roboão era um jovem e de coração terno, e não se firmou perante eles."
   },
   {
     "verse": 8,
-    "original": "וְעַתָּ֣ה&thinsp;<b>׀</b> אַתֶּ֣ם אֹמְרִ֗ים לְהִתְחַזֵּק֙ לִפְנֵי֙ מַמְלֶ֣כֶת יְהֹוָ֔ה בְּיַ֖ד בְּנֵ֣י דָוִ֑יד וְאַתֶּם֙ הָמ֣וֹן רָ֔ב וְעִמָּכֶם֙ עֶגְלֵ֣י זָהָ֔ב אֲשֶׁ֨ר עָשָׂ֥ה לָכֶ֛ם יָרׇבְעָ֖ם לֵאלֹהִֽים׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H859\">אַתֶּ֣ם</span> <span data-strong=\"H559\">אֹמְרִ֗ים</span> <span data-strong=\"H2388\">לְהִתְחַזֵּק֙</span> <span data-strong=\"H6440\">לִפְנֵי֙</span> <span data-strong=\"H4467\">מַמְלֶ֣כֶת</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3027\">בְּיַ֖ד</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1732\">דָוִ֑יד</span> <span data-strong=\"H859\">וְאַתֶּם֙</span> <span data-strong=\"H1995\">הָמ֣וֹן</span> <span data-strong=\"H7227\">רָ֔ב</span> <span data-strong=\"H3641\">וְעִמָּכֶם֙</span> <span data-strong=\"H5695\">עֶגְלֵ֣י</span> <span data-strong=\"H2091\">זָהָ֔ב</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6213\">עָשָׂ֥ה</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H3379\">יָרׇבְעָ֖ם</span> <span data-strong=\"H430\">לֵאלֹהִֽים׃</span>",
     "transliteration": "ve'atah&thinsp;<b>|</b> 'atem 'omeriym lehitehazek lifeney mamelekhet yehovah veyad veney daviyd ve'atem hamvon rav ve'imakhem 'egeley zahav 'asher 'asah lakhem yarove'am le'lohiym.",
     "translation": "E agora vós dizeis: “Fortalecei-vos diante do reino de Jeová, na mão dos filhos de Davi”, e sois multidão numerosa, e com vós estão os bezerros de ouro que Jeroboão vos fez como deuses."
   },
@@ -55,13 +55,13 @@
   },
   {
     "verse": 10,
-    "original": "וַאֲנַ֛חְנוּ יְהֹוָ֥ה אֱלֹהֵ֖ינוּ וְלֹ֣א עֲזַבְנֻ֑הוּ וְכֹ֨הֲנִ֜ים מְשָׁרְתִ֤ים לַֽיהֹוָה֙ בְּנֵ֣י אַהֲרֹ֔ן וְהַלְוִיִּ֖ם בַּמְלָֽאכֶת׃",
+    "original": "<span data-strong=\"H587\">וַאֲנַ֛חְנוּ</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H5105\">אֱלֹהֵ֖ינוּ</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H1930\">עֲזַבְנֻ֑הוּ</span> <span data-strong=\"H3548\">וְכֹ֨הֲנִ֜ים</span> <span data-strong=\"H8334\">מְשָׁרְתִ֤ים</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H175\">אַהֲרֹ֔ן</span> <span data-strong=\"H3881\">וְהַלְוִיִּ֖ם</span> <span data-strong=\"H4399\">בַּמְלָֽאכֶת׃</span>",
     "transliteration": "va'anahenv yehovah 'eloheynv velo' 'azavenuhv vekhohaniym mesharetiym layhovah veney 'aharon vehaleviyim vamela'khet.",
     "translation": "E nós, Senhor nosso Deus, não o abandonamos, e sacerdotes ministram ao Senhor, filhos de Arão, e os levitas na sua obra."
   },
   {
     "verse": 11,
-    "original": "וּמַקְטִרִ֣ים לַיהֹוָ֡ה עֹל֣וֹת בַּבֹּֽקֶר־בַּבֹּ֣קֶר וּבָעֶֽרֶב־בָּעֶ֣רֶב וּקְטֹֽרֶת־סַמִּים֩ וּמַעֲרֶ֨כֶת לֶ֜חֶם עַל־הַשֻּׁלְחָ֣ן הַטָּה֗וֹר וּמְנוֹרַ֨ת הַזָּהָ֤ב וְנֵרֹתֶ֙יהָ֙ לְבָעֵר֙ בָּעֶ֣רֶב בָּעֶ֔רֶב כִּֽי־שֹׁמְרִ֣ים אֲנַ֔חְנוּ אֶת־מִשְׁמֶ֖רֶת יְהֹוָ֣ה אֱלֹהֵ֑ינוּ וְאַתֶּ֖ם עֲזַבְתֶּ֥ם אֹתֽוֹ׃",
+    "original": "<span data-strong=\"H6999\">וּמַקְטִרִ֣ים</span> <span data-strong=\"H3068\">לַיהֹוָ֡ה</span> <span data-strong=\"H5930\">עֹל֣וֹת</span> <span data-strong=\"H1242\">בַּבֹּֽקֶר</span>־<span data-strong=\"H1242\">בַּבֹּ֣קֶר</span> <span data-strong=\"H6153\">וּבָעֶֽרֶב</span>־<span data-strong=\"H6153\">בָּעֶ֣רֶב</span> <span data-strong=\"H7004\">וּקְטֹֽרֶת</span>־<span data-strong=\"H5561\">סַמִּים֩</span> <span data-strong=\"H4635\">וּמַעֲרֶ֨כֶת</span> <span data-strong=\"H3899\">לֶ֜חֶם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7979\">הַשֻּׁלְחָ֣ן</span> <span data-strong=\"H2889\">הַטָּה֗וֹר</span> <span data-strong=\"H4501\">וּמְנוֹרַ֨ת</span> <span data-strong=\"H2091\">הַזָּהָ֤ב</span> <span data-strong=\"H1886\">וְנֵרֹתֶ֙יהָ֙</span> <span data-strong=\"H1197\">לְבָעֵר֙</span> <span data-strong=\"H6153\">בָּעֶ֣רֶב</span> <span data-strong=\"H6153\">בָּעֶ֔רֶב</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H8104\">שֹׁמְרִ֣ים</span> <span data-strong=\"H587\">אֲנַ֔חְנוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4931\">מִשְׁמֶ֖רֶת</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H5105\">אֱלֹהֵ֑ינוּ</span> <span data-strong=\"H859\">וְאַתֶּ֖ם</span> <span data-strong=\"H5800\">עֲזַבְתֶּ֥ם</span> <span data-strong=\"H2050\">אֹתֽוֹ׃</span>",
     "transliteration": "vmaketiriym layhovah 'olvot vavoker-vavoker vva'erev-va'erev vketoret-samiym vma'arekhet lehem 'al-hashulehan hatahvor vmenvorat hazahav veneroteyha leva'er va'erev va'erev khiy-shomeriym 'anahenv 'et-mishemeret yehovah 'eloheynv ve'atem 'azavetem 'otvo.",
     "translation": "E queimam ao Senhor as ofertas contínuas, pela manhã e à noite; e a oferta de incenso aromático, e o pão da disposição sobre a mesa pura; e a menora de ouro puro e suas velas para acender à tarde, à tarde, pois nós somos os que guardamos a guarda do Senhor nosso Deus, mas vocês o abandonaram."
   },
@@ -73,7 +73,7 @@
   },
   {
     "verse": 13,
-    "original": "וְיָרׇבְעָ֗ם הֵסֵב֙ אֶת־הַמַּאְרָ֔ב לָב֖וֹא מֵאַחֲרֵיהֶ֑ם וַיִּֽהְיוּ֙ לִפְנֵ֣י יְהוּדָ֔ה וְהַמַּאְרָ֖ב מֵאַחֲרֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3379\">וְיָרׇבְעָ֗ם</span> <span data-strong=\"H5437\">הֵסֵב֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3993\">הַמַּאְרָ֔ב</span> <span data-strong=\"H935\">לָב֖וֹא</span> <span data-strong=\"H3963\">מֵאַחֲרֵיהֶ֑ם</span> <span data-strong=\"H1961\">וַיִּֽהְיוּ֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H3993\">וְהַמַּאְרָ֖ב</span> <span data-strong=\"H3963\">מֵאַחֲרֵיהֶֽם׃</span>",
     "transliteration": "veyarove'am hesev 'et-hama'erav lavvo' me'ahareyhem vayiheyv lifeney yehvdah vehama'erav me'ahareyhem.",
     "translation": "E Roboão virou a emboscada para que viessem por trás deles, e eles se encontraram diante de Judá, com a emboscada por detrás deles."
   },
@@ -85,25 +85,25 @@
   },
   {
     "verse": 15,
-    "original": "וַיָּרִ֖יעוּ אִ֣ישׁ יְהוּדָ֑ה וַיְהִ֗י בְּהָרִ֙יעַ֙ אִ֣ישׁ יְהוּדָ֔ה וְהָאֱלֹהִ֗ים נָגַ֤ף אֶת־יָֽרׇבְעָם֙ וְכׇל־יִשְׂרָאֵ֔ל לִפְנֵ֥י אֲבִיָּ֖ה וִיהוּדָֽה׃",
+    "original": "<span data-strong=\"H7321\">וַיָּרִ֖יעוּ</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H1961\">וַיְהִ֗י</span> <span data-strong=\"H7321\">בְּהָרִ֙יעַ֙</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H430\">וְהָאֱלֹהִ֗ים</span> <span data-strong=\"H5062\">נָגַ֤ף</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3379\">יָֽרׇבְעָם֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H29\">אֲבִיָּ֖ה</span> <span data-strong=\"H3063\">וִיהוּדָֽה׃</span>",
     "transliteration": "vayariy'v 'iysh yehvdah vayehiy vehariy'a 'iysh yehvdah veha'elohiym nagaf 'et-yarove'am vekhol-yisera'el lifeney 'aviyah viyhvdah.",
     "translation": "E rugiu o homem de Judá, e sucedeu que no rugir do homem de Judá, Deus feriu a Jeroboão e todo Israel diante de Abias e de Judá."
   },
   {
     "verse": 16,
-    "original": "וַיָּנ֥וּסוּ בְנֵֽי־יִשְׂרָאֵ֖ל מִפְּנֵ֣י יְהוּדָ֑ה וַיִּתְּנֵ֥ם אֱלֹהִ֖ים בְּיָדָֽם׃",
+    "original": "<span data-strong=\"H5127\">וַיָּנ֥וּסוּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H6440\">מִפְּנֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H3963\">וַיִּתְּנֵ֥ם</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H3963\">בְּיָדָֽם׃</span>",
     "transliteration": "vayanvsv veney-yisera'el mifeney yehvdah vayitenem 'elohiym veyadam.",
     "translation": "E os filhos de Israel fugiram da frente de Judá, e Deus os entregou em suas mãos."
   },
   {
     "verse": 17,
-    "original": "וַיַּכּ֥וּ בָהֶ֛ם אֲבִיָּ֥ה וְעַמּ֖וֹ מַכָּ֣ה רַבָּ֑ה וַיִּפְּל֤וּ חֲלָלִים֙ מִיִּשְׂרָאֵ֔ל חֲמֵשׁ־מֵא֥וֹת אֶ֖לֶף אִ֥ישׁ בָּחֽוּר׃",
+    "original": "<span data-strong=\"H5221\">וַיַּכּ֥וּ</span> <span data-strong=\"H3963\">בָהֶ֛ם</span> <span data-strong=\"H29\">אֲבִיָּ֥ה</span> <span data-strong=\"H2050\">וְעַמּ֖וֹ</span> <span data-strong=\"H4347\">מַכָּ֣ה</span> <span data-strong=\"H7227\">רַבָּ֑ה</span> <span data-strong=\"H5307\">וַיִּפְּל֤וּ</span> <span data-strong=\"H2491\">חֲלָלִים֙</span> <span data-strong=\"H3478\">מִיִּשְׂרָאֵ֔ל</span> <span data-strong=\"H2568\">חֲמֵשׁ</span>־<span data-strong=\"H3967\">מֵא֥וֹת</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H977\">בָּחֽוּר׃</span>",
     "transliteration": "vayakhv vahem 'aviyah ve'amvo makhah ravah vayifelv halaliym miyisera'el hamesh-me'vot 'elef 'iysh vahvr.",
     "translation": "E Abias e seu povo os feriram severamente, caíram mortos de Israel cinco mil homens valentes."
   },
   {
     "verse": 18,
-    "original": "וַיִּכָּנְע֥וּ בְנֵי־יִשְׂרָאֵ֖ל בָּעֵ֣ת הַהִ֑יא וַיֶּֽאֶמְצוּ֙ בְּנֵ֣י יְהוּדָ֔ה כִּ֣י נִשְׁעֲנ֔וּ עַל־יְהֹוָ֖ה אֱלֹהֵ֥י אֲבוֹתֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3665\">וַיִּכָּנְע֥וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H6256\">בָּעֵ֣ת</span> <span data-strong=\"H1931\">הַהִ֑יא</span> <span data-strong=\"H553\">וַיֶּֽאֶמְצוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H8172\">נִשְׁעֲנ֔וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H3963\">אֲבוֹתֵיהֶֽם׃</span>",
     "transliteration": "vayikhane'v veney-yisera'el va'et hahiy' vaye'emetsv veney yehvdah khiy nishe'anv 'al-yehovah 'elohey 'avvoteyhem.",
     "translation": "E os filhos de Israel se curvaram naquela ocasião, e os filhos de Judá se apegaram, pois confiavam no Senhor, Deus de seus antepassados."
   },
@@ -121,13 +121,13 @@
   },
   {
     "verse": 21,
-    "original": "וַיִּתְחַזֵּ֣ק אֲבִיָּ֔הוּ וַיִּ֨שָּׂא־ל֔וֹ נָשִׁ֖ים אַרְבַּ֣ע עֶשְׂרֵ֑ה וַיּ֗וֹלֶד עֶשְׂרִ֤ים וּשְׁנַ֙יִם֙ בָּנִ֔ים וְשֵׁ֥שׁ עֶשְׂרֵ֖ה בָּנֽוֹת׃",
+    "original": "<span data-strong=\"H2388\">וַיִּתְחַזֵּ֣ק</span> <span data-strong=\"H29\">אֲבִיָּ֔הוּ</span> <span data-strong=\"H5375\">וַיִּ֨שָּׂא</span>־<span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H802\">נָשִׁ֖ים</span> <span data-strong=\"H702\">אַרְבַּ֣ע</span> <span data-strong=\"H6240\">עֶשְׂרֵ֑ה</span> <span data-strong=\"H3205\">וַיּ֗וֹלֶד</span> <span data-strong=\"H6242\">עֶשְׂרִ֤ים</span> <span data-strong=\"H8147\">וּשְׁנַ֙יִם֙</span> <span data-strong=\"H1121\">בָּנִ֔ים</span> <span data-strong=\"H8337\">וְשֵׁ֥שׁ</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H1323\">בָּנֽוֹת׃</span>",
     "transliteration": "vayitehazek 'aviyahv vayisa'-lvo nashiym 'areva' 'esereh vayvoled 'eseriym vshenayim vaniym veshesh 'esereh vanvot.",
     "translation": "E Abia fortaleceu-se e tomou para si quatorze mulheres, e gerou vinte e dois filhos e doze filhas."
   },
   {
     "verse": 22,
-    "original": "וְיֶ֙תֶר֙ דִּבְרֵ֣י אֲבִיָּ֔ה וּדְרָכָ֖יו וּדְבָרָ֑יו כְּתוּבִ֕ים בְּמִדְרַ֖שׁ הַנָּבִ֥יא עִדּֽוֹ׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֙תֶר֙</span> <span data-strong=\"H1697\">דִּבְרֵ֣י</span> <span data-strong=\"H29\">אֲבִיָּ֔ה</span> <span data-strong=\"H2050\">וּדְרָכָ֖יו</span> <span data-strong=\"H2050\">וּדְבָרָ֑יו</span> <span data-strong=\"H3789\">כְּתוּבִ֕ים</span> <span data-strong=\"H4097\">בְּמִדְרַ֖שׁ</span> <span data-strong=\"H5030\">הַנָּבִ֥יא</span> <span data-strong=\"H5714\">עִדּֽוֹ׃</span>",
     "transliteration": "veyeter diverey 'aviyah vderakhayv vdevarayv khetvviym vemiderash hanaviy' 'idvo.",
     "translation": "E as demais palavras de Abias e seus caminhos e suas ações estão escritas no Midrash do profeta Ido."
   },

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "ה֣וֹי הַיֹּרְדִ֤ים מִצְרַ֙יִם֙ לְעֶזְרָ֔ה עַל־סוּסִ֖ים יִשָּׁעֵ֑נוּ וַיִּבְטְח֨וּ עַל־רֶ֜כֶב כִּ֣י רָ֗ב וְעַ֤ל פָּרָשִׁים֙ כִּֽי־עָצְמ֣וּ מְאֹ֔ד וְלֹ֤א שָׁעוּ֙ עַל־קְד֣וֹשׁ יִשְׂרָאֵ֔ל וְאֶת־יְהֹוָ֖ה לֹ֥א דָרָֽשׁוּ׃",
+    "original": "<span data-strong=\"H1945\">ה֣וֹי</span> <span data-strong=\"H3381\">הַיֹּרְדִ֤ים</span> <span data-strong=\"H4714\">מִצְרַ֙יִם֙</span> <span data-strong=\"H5833\">לְעֶזְרָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5483\">סוּסִ֖ים</span> <span data-strong=\"H8172\">יִשָּׁעֵ֑נוּ</span> <span data-strong=\"H982\">וַיִּבְטְח֨וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7393\">רֶ֜כֶב</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H7227\">רָ֗ב</span> <span data-strong=\"H5921\">וְעַ֤ל</span> <span data-strong=\"H6571\">פָּרָשִׁים֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6105\">עָצְמ֣וּ</span> <span data-strong=\"H3966\">מְאֹ֔ד</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H8159\">שָׁעוּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6918\">קְד֣וֹשׁ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1875\">דָרָֽשׁוּ׃</span>",
     "transliteration": "hvoy hayorediym mitserayim le'ezerah 'al-svsiym yisha'env vayivetehv 'al-rekhev khiy rav ve'al farashiym khiy-'atsemv me'od velo' sha'v 'al-kedvosh yisera'el ve'et-yehovah lo' darashv.",
     "translation": "Ai de vós, que desceis ao Egito em busca de auxílio, confiando em cavalos para a salvação! E na multidão dos carros e no vigor dos cavaleiros achais proteção, porém não buscastes o Santo de Israel, nem questionastes Yahweh."
   },
   {
     "verse": 2,
-    "original": "וְגַם־ה֤וּא חָכָם֙ וַיָּ֣בֵא רָ֔ע וְאֶת־דְּבָרָ֖יו לֹ֣א הֵסִ֑יר וְקָם֙ עַל־בֵּ֣ית מְרֵעִ֔ים וְעַל־עֶזְרַ֖ת פֹּ֥עֲלֵי אָֽוֶן׃",
+    "original": "<span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H1931\">ה֤וּא</span> <span data-strong=\"H2450\">חָכָם֙</span> <span data-strong=\"H935\">וַיָּ֣בֵא</span> <span data-strong=\"H7451\">רָ֔ע</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">דְּבָרָ֖יו</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5493\">הֵסִ֑יר</span> <span data-strong=\"H6965\">וְקָם֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H7489\">מְרֵעִ֔ים</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H5833\">עֶזְרַ֖ת</span> <span data-strong=\"H6466\">פֹּ֥עֲלֵי</span> <span data-strong=\"H205\">אָֽוֶן׃</span>",
     "transliteration": "vegam-hv' hakham vayave' ra' ve'et-devarayv lo' hesiyr vekam 'al-veyt mere'iym ve'al-'ezerat fo'aley 'aven.",
     "translation": "E ele também era sábio e trouxe a adversidade, nem retirou suas palavras; ergueu-se contra a casa dos perversos e sobre o auxílio dos operadores de iniquidade."
   },
@@ -25,25 +25,25 @@
   },
   {
     "verse": 5,
-    "original": "כְּצִפֳּרִ֣ים עָפ֔וֹת כֵּ֗ן יָגֵ֛ן יְהֹוָ֥ה צְבָא֖וֹת עַל־יְרוּשָׁלָ֑͏ִם גָּנ֥וֹן וְהִצִּ֖יל פָּסֹ֥חַ וְהִמְלִֽיט׃",
+    "original": "<span data-strong=\"H6833\">כְּצִפֳּרִ֣ים</span> <span data-strong=\"H5774\">עָפ֔וֹת</span> <span data-strong=\"H3651\">כֵּ֗ן</span> <span data-strong=\"H1598\">יָגֵ֛ן</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H6635\">צְבָא֖וֹת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3389\">יְרוּשָׁלָ֑͏ִם</span> <span data-strong=\"H1598\">גָּנ֥וֹן</span> <span data-strong=\"H5337\">וְהִצִּ֖יל</span> <span data-strong=\"H6452\">פָּסֹ֥חַ</span> <span data-strong=\"H4422\">וְהִמְלִֽיט׃</span>",
     "transliteration": "khetsiforiym 'afvot khen yagen yehovah tseva'vot 'al-yervshalaim ganvon vehitsiyl fasoha vehimeliyt.",
     "translation": "Como pombas voam, assim guardará o Senhor dos Exércitos a Jerusalém; salvando e livrando, passando por alto e resgatando."
   },
   {
     "verse": 6,
-    "original": "שׁ֗וּבוּ לַאֲשֶׁ֛ר הֶעְמִ֥יקוּ סָרָ֖ה בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H7725\">שׁ֗וּבוּ</span> <span data-strong=\"H834\">לַאֲשֶׁ֛ר</span> <span data-strong=\"H6009\">הֶעְמִ֥יקוּ</span> <span data-strong=\"H5627\">סָרָ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "shvvv la'asher he'emiykv sarah veney yisera'el.",
     "translation": "Voltem à vossa rebeldia em que vos aprofundastes, ó filhos de Israel."
   },
   {
     "verse": 7,
-    "original": "כִּ֚י בַּיּ֣וֹם הַה֔וּא יִמְאָס֗וּן אִ֚ישׁ אֱלִילֵ֣י כַסְפּ֔וֹ וֶאֱלִילֵ֖י זְהָב֑וֹ אֲשֶׁ֨ר עָשׂ֥וּ לָכֶ֛ם יְדֵיכֶ֖ם חֵֽטְא׃",
+    "original": "<span data-strong=\"H3588\">כִּ֚י</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֔וּא</span> <span data-strong=\"H4993\">יִמְאָס֗וּן</span> <span data-strong=\"H376\">אִ֚ישׁ</span> <span data-strong=\"H457\">אֱלִילֵ֣י</span> <span data-strong=\"H2050\">כַסְפּ֔וֹ</span> <span data-strong=\"H457\">וֶאֱלִילֵ֖י</span> <span data-strong=\"H2050\">זְהָב֑וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6213\">עָשׂ֥וּ</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H3641\">יְדֵיכֶ֖ם</span> <span data-strong=\"H2399\">חֵֽטְא׃</span>",
     "transliteration": "khiy vayvom hahv' yime'asvn 'iysh 'eliyley khasefvo ve'eliyley zehavvo 'asher 'asv lakhem yedeykhem hete'.",
     "translation": "Pois nesse dia rejeitarão cada um os ídolos de sua prata e os ídolos de seu ouro, que as vossas mãos fizeram como transgressão."
   },
   {
     "verse": 8,
-    "original": "וְנָפַ֤ל אַשּׁוּר֙ בְּחֶ֣רֶב לֹא־אִ֔ישׁ וְחֶ֥רֶב לֹא־אָדָ֖ם תֹּאכְלֶ֑נּוּ וְנָ֥ס לוֹ֙ מִפְּנֵי־חֶ֔רֶב וּבַחוּרָ֖יו לָמַ֥ס יִהְיֽוּ׃",
+    "original": "<span data-strong=\"H5307\">וְנָפַ֤ל</span> <span data-strong=\"H804\">אַשּׁוּר֙</span> <span data-strong=\"H2719\">בְּחֶ֣רֶב</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H376\">אִ֔ישׁ</span> <span data-strong=\"H2719\">וְחֶ֥רֶב</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H120\">אָדָ֖ם</span> <span data-strong=\"H5105\">תֹּאכְלֶ֑נּוּ</span> <span data-strong=\"H5127\">וְנָ֥ס</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H6440\">מִפְּנֵי</span>־<span data-strong=\"H2719\">חֶ֔רֶב</span> <span data-strong=\"H2050\">וּבַחוּרָ֖יו</span> <span data-strong=\"H4522\">לָמַ֥ס</span> <span data-strong=\"H1961\">יִהְיֽוּ׃</span>",
     "transliteration": "venafal 'ashvr veherev lo'-'iysh veherev lo'-'adam to'khelenv venas lvo mifeney-herev vvahvrayv lamas yiheyv.",
     "translation": "E cairá Assur à espada, não de homem; e a espada, não de mortal, o consumirá. E dele fugirão diante da espada, e seus jovens serão escravizados."
   },

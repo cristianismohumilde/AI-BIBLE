@@ -1,73 +1,73 @@
 [
   {
     "verse": 1,
-    "original": "וַיַּ֥עַן אֱלִיה֗וּ וַיֹּאמַֽר׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֥עַן</span> <span data-strong=\"H453\">אֱלִיה֗וּ</span> <span data-strong=\"H559\">וַיֹּאמַֽר׃</span>",
     "transliteration": "vaya'an 'eliyhv vayo'mar.",
     "translation": "E respondeu Eliú e disse:"
   },
   {
     "verse": 2,
-    "original": "הֲ֭זֹאת חָשַׁ֣בְתָּ לְמִשְׁפָּ֑ט אָ֝מַ֗רְתָּ צִדְקִ֥י מֵאֵֽל׃",
+    "original": "<span data-strong=\"H2063\">הֲ֭זֹאת</span> <span data-strong=\"H2803\">חָשַׁ֣בְתָּ</span> <span data-strong=\"H4941\">לְמִשְׁפָּ֑ט</span> <span data-strong=\"H559\">אָ֝מַ֗רְתָּ</span> <span data-strong=\"H2967\">צִדְקִ֥י</span> <span data-strong=\"H410\">מֵאֵֽל׃</span>",
     "transliteration": "hazo't hashaveta lemishefat 'amareta tsidekiy me'el.",
     "translation": "Acaso pensaste isto seria justiça? Disseste: \"Minha retidão é de Deus.\""
   },
   {
     "verse": 3,
-    "original": "כִּֽי־תֹ֭אמַר מַה־יִּסְכׇּן־לָ֑ךְ מָה־אֹ֝עִ֗יל מֵחַטָּאתִֽי׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H559\">תֹ֭אמַר</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H5532\">יִּסְכׇּן</span>־<span data-strong=\"H3509\">לָ֑ךְ</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H3276\">אֹ֝עִ֗יל</span> <span data-strong=\"H2967\">מֵחַטָּאתִֽי׃</span>",
     "transliteration": "khiy-to'mar mah-yisekhon-lakhe mah-'o'iyl mehata'tiy.",
     "translation": "Porque dirás: Que me aproveitará, que lucrarei com o meu pecado?"
   },
   {
     "verse": 4,
-    "original": "אֲ֭נִי אֲשִֽׁיבְךָ֣ מִלִּ֑ין וְֽאֶת־רֵעֶ֥יךָ עִמָּֽךְ׃",
+    "original": "<span data-strong=\"H589\">אֲ֭נִי</span> <span data-strong=\"H3509\">אֲשִֽׁיבְךָ֣</span> <span data-strong=\"H4405\">מִלִּ֑ין</span> <span data-strong=\"H853\">וְֽאֶת</span>־<span data-strong=\"H3509\">רֵעֶ֥יךָ</span> <span data-strong=\"H3509\">עִמָּֽךְ׃</span>",
     "transliteration": "'aniy 'ashiyvekha miliyn ve'et-re'eykha 'imakhe.",
     "translation": "Eu te farei voltar de Lín, e com você seu amigo."
   },
   {
     "verse": 5,
-    "original": "הַבֵּ֣ט שָׁמַ֣יִם וּרְאֵ֑ה וְשׁ֥וּר שְׁ֝חָקִ֗ים גָּבְה֥וּ מִמֶּֽךָּ׃",
+    "original": "<span data-strong=\"H5027\">הַבֵּ֣ט</span> <span data-strong=\"H8064\">שָׁמַ֣יִם</span> <span data-strong=\"H7200\">וּרְאֵ֑ה</span> <span data-strong=\"H7789\">וְשׁ֥וּר</span> <span data-strong=\"H7834\">שְׁ֝חָקִ֗ים</span> <span data-strong=\"H1361\">גָּבְה֥וּ</span> <span data-strong=\"H3509\">מִמֶּֽךָּ׃</span>",
     "transliteration": "havet shamayim vre'eh veshvr shehakiym gavehv mimekha.",
     "translation": "Olha para os céus e observa; presta atenção às alturas, são mais altos do que tu."
   },
   {
     "verse": 6,
-    "original": "אִם־חָ֭טָאתָ מַה־תִּפְעׇל־בּ֑וֹ וְרַבּ֥וּ פְ֝שָׁעֶ֗יךָ מַה־תַּֽעֲשֶׂה־לּֽוֹ׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2398\">חָ֭טָאתָ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H6466\">תִּפְעׇל</span>־<span data-strong=\"H2050\">בּ֑וֹ</span> <span data-strong=\"H7231\">וְרַבּ֥וּ</span> <span data-strong=\"H3509\">פְ֝שָׁעֶ֗יךָ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H6213\">תַּֽעֲשֶׂה</span>־<span data-strong=\"H2050\">לּֽוֹ׃</span>",
     "transliteration": "'im-hata'ta mah-tife'ol-vvo veravv fesha'eykha mah-ta'aseh-lvo.",
     "translation": "Se pecaste, que farás com ele? E se teus pecados se multiplicarem, que lhe farás?"
   },
   {
     "verse": 7,
-    "original": "אִם־צָ֭דַקְתָּ מַה־תִּתֶּן־ל֑וֹ א֥וֹ מַה־מִּיָּדְךָ֥ יִקָּֽח׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H6663\">צָ֭דַקְתָּ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H5414\">תִּתֶּן</span>־<span data-strong=\"H2050\">ל֑וֹ</span> <span data-strong=\"H176\">א֥וֹ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3509\">מִּיָּדְךָ֥</span> <span data-strong=\"H3947\">יִקָּֽח׃</span>",
     "transliteration": "'im-tsadaketa mah-titen-lvo 'vo mah-miyadekha yikah.",
     "translation": "Se fores justo, que darás a ele? Ou que receberá da tua mão?"
   },
   {
     "verse": 8,
-    "original": "לְאִישׁ־כָּמ֥וֹךָ רִשְׁעֶ֑ךָ וּלְבֶן־אָ֝דָ֗ם צִדְקָתֶֽךָ׃",
+    "original": "<span data-strong=\"H376\">לְאִישׁ</span>־<span data-strong=\"H3509\">כָּמ֥וֹךָ</span> <span data-strong=\"H3509\">רִשְׁעֶ֑ךָ</span> <span data-strong=\"H1121\">וּלְבֶן</span>־<span data-strong=\"H120\">אָ֝דָ֗ם</span> <span data-strong=\"H3509\">צִדְקָתֶֽךָ׃</span>",
     "transliteration": "le'iysh-khamvokha rishe'ekha vleven-'adam tsidekatekha.",
     "translation": "Para um homem como tu, tua maldade; e para o filho do homem, tua justiça."
   },
   {
     "verse": 9,
-    "original": "מֵ֭רֹב עֲשׁוּקִ֣ים יַזְעִ֑יקוּ יְשַׁוְּע֖וּ מִזְּר֣וֹעַ רַבִּֽים׃",
+    "original": "<span data-strong=\"H7230\">מֵ֭רֹב</span> <span data-strong=\"H6217\">עֲשׁוּקִ֣ים</span> <span data-strong=\"H2199\">יַזְעִ֑יקוּ</span> <span data-strong=\"H7768\">יְשַׁוְּע֖וּ</span> <span data-strong=\"H2220\">מִזְּר֣וֹעַ</span> <span data-strong=\"H7227\">רַבִּֽים׃</span>",
     "transliteration": "merov 'ashvkiym yaze'iykv yeshave'v mizervo'a raviym.",
     "translation": "De muitas angústias clamarão; de múltiplas tribulações invocarão auxílio."
   },
   {
     "verse": 10,
-    "original": "וְֽלֹא־אָמַ֗ר אַ֭יֵּה אֱל֣וֹהַּ עֹשָׂ֑י נֹתֵ֖ן זְמִר֣וֹת בַּלָּֽיְלָה׃",
+    "original": "<span data-strong=\"H3808\">וְֽלֹא</span>־<span data-strong=\"H559\">אָמַ֗ר</span> <span data-strong=\"H346\">אַ֭יֵּה</span> <span data-strong=\"H433\">אֱל֣וֹהַּ</span> <span data-strong=\"H2967\">עֹשָׂ֑י</span> <span data-strong=\"H5414\">נֹתֵ֖ן</span> <span data-strong=\"H2158\">זְמִר֣וֹת</span> <span data-strong=\"H3915\">בַּלָּֽיְלָה׃</span>",
     "transliteration": "velo'-'amar 'ayeh 'elvoha 'osay noten zemirvot valayelah.",
     "translation": "E não disse: Onde está o Deus que me faz cantar, que dá canções na noite?"
   },
   {
     "verse": 11,
-    "original": "מַ֭לְּפֵנוּ מִבַּהֲמ֣וֹת אָ֑רֶץ וּמֵע֖וֹף הַשָּׁמַ֣יִם יְחַכְּמֵֽנוּ׃",
+    "original": "<span data-strong=\"H5105\">מַ֭לְּפֵנוּ</span> <span data-strong=\"H929\">מִבַּהֲמ֣וֹת</span> <span data-strong=\"H776\">אָ֑רֶץ</span> <span data-strong=\"H5775\">וּמֵע֖וֹף</span> <span data-strong=\"H8064\">הַשָּׁמַ֣יִם</span> <span data-strong=\"H5105\">יְחַכְּמֵֽנוּ׃</span>",
     "transliteration": "malefenv mivahamvot 'arets vme'vof hashamayim yehakhemenv.",
     "translation": "Das bestas da terra nos ensinarão, e do voo dos céus nos sábereis."
   },
   {
     "verse": 12,
-    "original": "שָׁ֣ם יִ֭צְעֲקוּ וְלֹ֣א יַעֲנֶ֑ה מִ֝פְּנֵ֗י גְּא֣וֹן רָעִֽים׃",
+    "original": "<span data-strong=\"H8033\">שָׁ֣ם</span> <span data-strong=\"H6817\">יִ֭צְעֲקוּ</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H6030\">יַעֲנֶ֑ה</span> <span data-strong=\"H6440\">מִ֝פְּנֵ֗י</span> <span data-strong=\"H1347\">גְּא֣וֹן</span> <span data-strong=\"H7451\">רָעִֽים׃</span>",
     "transliteration": "sham yitse'akv velo' ya'aneh mifeney ge'von ra'iym.",
     "translation": "Aí clamam, e não há quem responda, por causa da soberba dos malvados."
   },
@@ -79,13 +79,13 @@
   },
   {
     "verse": 14,
-    "original": "אַ֣ף כִּֽי־תֹ֭אמַר לֹ֣א תְשׁוּרֶ֑נּוּ דִּ֥ין לְ֝פָנָ֗יו וּתְח֥וֹלֵֽל לֽוֹ׃",
+    "original": "<span data-strong=\"H637\">אַ֣ף</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H559\">תֹ֭אמַר</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">תְשׁוּרֶ֑נּוּ</span> <span data-strong=\"H1779\">דִּ֥ין</span> <span data-strong=\"H2050\">לְ֝פָנָ֗יו</span> <span data-strong=\"H2342\">וּתְח֥וֹלֵֽל</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "'af khiy-to'mar lo' teshvrenv diyn lefanayv vtehvolel lvo.",
     "translation": "Mesmo que tu digas: “Não o abandonarei”, julgamento está diante dele, e conceberás para ele."
   },
   {
     "verse": 15,
-    "original": "וְעַתָּ֗ה כִּי־אַ֭יִן פָּקַ֣ד אַפּ֑וֹ וְלֹֽא־יָדַ֖ע בַּפַּ֣שׁ מְאֹֽד׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֗ה</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H369\">אַ֭יִן</span> <span data-strong=\"H6485\">פָּקַ֣ד</span> <span data-strong=\"H2050\">אַפּ֑וֹ</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H3045\">יָדַ֖ע</span> <span data-strong=\"H6580\">בַּפַּ֣שׁ</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "ve'atah khiy-'ayin fakad 'afvo velo'-yada' vafash me'od.",
     "translation": "E agora, porque sua ira não é observada, e no tumulto grande ele não tem conhecimento."
   },

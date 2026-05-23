@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "אֵל־נְקָמ֥וֹת יְהֹוָ֑ה אֵ֖ל נְקָמ֣וֹת הוֹפִֽיעַ׃",
+    "original": "<span data-strong=\"H410\">אֵל</span>־<span data-strong=\"H5360\">נְקָמ֥וֹת</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H410\">אֵ֖ל</span> <span data-strong=\"H5360\">נְקָמ֣וֹת</span> <span data-strong=\"H3313\">הוֹפִֽיעַ׃</span>",
     "transliteration": "'el-nekamvot yehovah 'el nekamvot hvofiy'a.",
     "translation": "Deus de vinganças é o Senhor, Deus de vinganças manifestou-se."
   },
   {
     "verse": 2,
-    "original": "הִ֭נָּשֵׂא שֹׁפֵ֣ט הָאָ֑רֶץ הָשֵׁ֥ב גְּ֝מ֗וּל עַל־גֵּאִֽים׃",
+    "original": "<span data-strong=\"H5375\">הִ֭נָּשֵׂא</span> <span data-strong=\"H8199\">שֹׁפֵ֣ט</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H7725\">הָשֵׁ֥ב</span> <span data-strong=\"H1576\">גְּ֝מ֗וּל</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1343\">גֵּאִֽים׃</span>",
     "transliteration": "hinase' shofet ha'arets hashev gemvl 'al-ge'iym.",
     "translation": "Eis levantado o juiz da terra, que retribui a recompensa aos soberbos."
   },
@@ -19,115 +19,115 @@
   },
   {
     "verse": 4,
-    "original": "יַבִּ֣יעוּ יְדַבְּר֣וּ עָתָ֑ק יִ֝תְאַמְּר֗וּ כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃",
+    "original": "<span data-strong=\"H5042\">יַבִּ֣יעוּ</span> <span data-strong=\"H1696\">יְדַבְּר֣וּ</span> <span data-strong=\"H6277\">עָתָ֑ק</span> <span data-strong=\"H559\">יִ֝תְאַמְּר֗וּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6466\">פֹּ֥עֲלֵי</span> <span data-strong=\"H205\">אָֽוֶן׃</span>",
     "transliteration": "yaviy'v yedaverv 'atak yite'amerv khol-fo'aley 'aven.",
     "translation": "Jorrarão, falarão velhacaria, proferirão todos os operadores de iniqüidade."
   },
   {
     "verse": 5,
-    "original": "עַמְּךָ֣ יְהֹוָ֣ה יְדַכְּא֑וּ וְֽנַחֲלָתְךָ֥ יְעַנּֽוּ׃",
+    "original": "<span data-strong=\"H3509\">עַמְּךָ֣</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H1792\">יְדַכְּא֑וּ</span> <span data-strong=\"H3509\">וְֽנַחֲלָתְךָ֥</span> <span data-strong=\"H6031\">יְעַנּֽוּ׃</span>",
     "transliteration": "'amekha yehovah yedakhe'v venahalatekha ye'anv.",
     "translation": "Teu povo, Senhor, esmagas, e tua herança humilhas."
   },
   {
     "verse": 6,
-    "original": "אַלְמָנָ֣ה וְגֵ֣ר יַהֲרֹ֑גוּ וִ֖יתוֹמִ֣ים יְרַצֵּֽחוּ׃",
+    "original": "<span data-strong=\"H490\">אַלְמָנָ֣ה</span> <span data-strong=\"H1616\">וְגֵ֣ר</span> <span data-strong=\"H2026\">יַהֲרֹ֑גוּ</span> <span data-strong=\"H3490\">וִ֖יתוֹמִ֣ים</span> <span data-strong=\"H7523\">יְרַצֵּֽחוּ׃</span>",
     "transliteration": "'alemanah veger yaharogv viytvomiym yeratsehv.",
     "translation": "A viúva e o estrangeiro ele matará, e órfãos ele ferirá."
   },
   {
     "verse": 7,
-    "original": "וַ֭יֹּ֣אמְרוּ לֹ֣א יִרְאֶה־יָּ֑הּ וְלֹא־יָ֝בִ֗ין אֱלֹהֵ֥י יַעֲקֹֽב׃",
+    "original": "<span data-strong=\"H559\">וַ֭יֹּ֣אמְרוּ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H7200\">יִרְאֶה</span>־<span data-strong=\"H3050\">יָּ֑הּ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H995\">יָ֝בִ֗ין</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H3290\">יַעֲקֹֽב׃</span>",
     "transliteration": "vayo'merv lo' yire'eh-yah velo'-yaviyn 'elohey ya'akov.",
     "translation": "E disseram: Não o vê o Senhor? E não entende Deus de Jacó?"
   },
   {
     "verse": 8,
-    "original": "בִּ֭ינוּ בֹּעֲרִ֣ים בָּעָ֑ם וּ֝כְסִילִ֗ים מָתַ֥י תַּשְׂכִּֽילוּ׃",
+    "original": "<span data-strong=\"H995\">בִּ֭ינוּ</span> <span data-strong=\"H1197\">בֹּעֲרִ֣ים</span> <span data-strong=\"H5971\">בָּעָ֑ם</span> <span data-strong=\"H3684\">וּ֝כְסִילִ֗ים</span> <span data-strong=\"H4970\">מָתַ֥י</span> <span data-strong=\"H7919\">תַּשְׂכִּֽילוּ׃</span>",
     "transliteration": "viynv vo'ariym va'am vkhesiyliym matay tasekhiylv.",
     "translation": "Entendei, ó ardentes de coração, entre o povo; e quando se tornarão sensatas as tolas?"
   },
   {
     "verse": 9,
-    "original": "הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם־יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט׃",
+    "original": "<span data-strong=\"H5193\">הֲנֹ֣טַֽע</span> <span data-strong=\"H241\">אֹ֭זֶן</span> <span data-strong=\"H3808\">הֲלֹ֣א</span> <span data-strong=\"H8085\">יִשְׁמָ֑ע</span> <span data-strong=\"H518\">אִֽם</span>־<span data-strong=\"H3335\">יֹ֥צֵֽר</span> <span data-strong=\"H5869\">עַ֝֗יִן</span> <span data-strong=\"H3808\">הֲלֹ֣א</span> <span data-strong=\"H5027\">יַבִּֽיט׃</span>",
     "transliteration": "hanota' 'ozen halo' yishema' 'im-yotser 'ayin halo' yaviyt.",
     "translation": "Ouviu a orelha, acaso não ouvirá? Formou o olho, porventura não observará?"
   },
   {
     "verse": 10,
-    "original": "הֲיֹסֵ֣ר גּ֭וֹיִם הֲלֹ֣א יוֹכִ֑יחַ הַֽמְלַמֵּ֖ד אָדָ֣ם דָּֽעַת׃",
+    "original": "<span data-strong=\"H3256\">הֲיֹסֵ֣ר</span> <span data-strong=\"H1471\">גּ֭וֹיִם</span> <span data-strong=\"H3808\">הֲלֹ֣א</span> <span data-strong=\"H3198\">יוֹכִ֑יחַ</span> <span data-strong=\"H3925\">הַֽמְלַמֵּ֖ד</span> <span data-strong=\"H120\">אָדָ֣ם</span> <span data-strong=\"H1847\">דָּֽעַת׃</span>",
     "transliteration": "hayoser gvoyim halo' yvokhiyha hamelamed 'adam da'at.",
     "translation": "Acaso não julga as nações aquele que é mais numeroso? Acaso não ensina o homem a ciência?"
   },
   {
     "verse": 11,
-    "original": "יְֽהֹוָ֗ה יֹ֭דֵעַ מַחְשְׁב֣וֹת אָדָ֑ם כִּי־הֵ֥מָּה הָֽבֶל׃",
+    "original": "<span data-strong=\"H3068\">יְֽהֹוָ֗ה</span> <span data-strong=\"H3045\">יֹ֭דֵעַ</span> <span data-strong=\"H4284\">מַחְשְׁב֣וֹת</span> <span data-strong=\"H120\">אָדָ֑ם</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1992\">הֵ֥מָּה</span> <span data-strong=\"H1892\">הָֽבֶל׃</span>",
     "transliteration": "yehovah yode'a maheshevvot 'adam khiy-hemah havel.",
     "translation": "O Senhor conhece os intentos do homem, pois eles são vaidade."
   },
   {
     "verse": 12,
-    "original": "אַשְׁרֵ֤י&thinsp;<b>׀</b> הַגֶּ֣בֶר אֲשֶׁר־תְּיַסְּרֶ֣נּוּ יָּ֑הּ וּֽמִתּוֹרָתְךָ֥ תְלַמְּדֶֽנּוּ׃",
+    "original": "<span data-strong=\"H835\">אַשְׁרֵ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H1397\">הַגֶּ֣בֶר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5105\">תְּיַסְּרֶ֣נּוּ</span> <span data-strong=\"H3050\">יָּ֑הּ</span> <span data-strong=\"H3509\">וּֽמִתּוֹרָתְךָ֥</span> <span data-strong=\"H5105\">תְלַמְּדֶֽנּוּ׃</span>",
     "transliteration": "'asherey&thinsp;<b>|</b> hagever 'asher-teyaserenv yah vmitvoratekha telamedenv.",
     "translation": "Bem-aventurado o homem a quem o Senhor corrige, e pela tua lei te instruis."
   },
   {
     "verse": 13,
-    "original": "לְהַשְׁקִ֣יט ל֭וֹ מִ֣ימֵי רָ֑ע עַ֤ד יִכָּרֶ֖ה לָרָשָׁ֣ע שָֽׁחַת׃",
+    "original": "<span data-strong=\"H8252\">לְהַשְׁקִ֣יט</span> <span data-strong=\"H2050\">ל֭וֹ</span> <span data-strong=\"H3117\">מִ֣ימֵי</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H5704\">עַ֤ד</span> <span data-strong=\"H3738\">יִכָּרֶ֖ה</span> <span data-strong=\"H7563\">לָרָשָׁ֣ע</span> <span data-strong=\"H7845\">שָֽׁחַת׃</span>",
     "transliteration": "lehashekiyt lvo miymey ra' 'ad yikhareh larasha' shahat.",
     "translation": "Para acalmá-lo das águas do mal, até que o abismo venha a ser cova para o ímpio."
   },
   {
     "verse": 14,
-    "original": "כִּ֤י&thinsp;<b>׀</b> לֹא־יִטֹּ֣שׁ יְהֹוָ֣ה עַמּ֑וֹ וְ֝נַחֲלָת֗וֹ לֹ֣א יַעֲזֹֽב׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5203\">יִטֹּ֣שׁ</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H2050\">עַמּ֑וֹ</span> <span data-strong=\"H2050\">וְ֝נַחֲלָת֗וֹ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5800\">יַעֲזֹֽב׃</span>",
     "transliteration": "khiy&thinsp;<b>|</b> lo'-yitosh yehovah 'amvo venahalatvo lo' ya'azov.",
     "translation": "Pois o Senhor não desampará sua gente, nem abandonará a herança dele."
   },
   {
     "verse": 15,
-    "original": "כִּֽי־עַד־צֶ֭דֶק יָשׁ֣וּב מִשְׁפָּ֑ט וְ֝אַחֲרָ֗יו כׇּל־יִשְׁרֵי־לֵֽב׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H6664\">צֶ֭דֶק</span> <span data-strong=\"H7725\">יָשׁ֣וּב</span> <span data-strong=\"H4941\">מִשְׁפָּ֑ט</span> <span data-strong=\"H2050\">וְ֝אַחֲרָ֗יו</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3477\">יִשְׁרֵי</span>־<span data-strong=\"H3820\">לֵֽב׃</span>",
     "transliteration": "khiy-'ad-tsedek yashvv mishefat ve'aharayv khol-yisherey-lev.",
     "translation": "Pois a retidão voltará com justiça, e após ela todos os de coração íntegro."
   },
   {
     "verse": 16,
-    "original": "מִֽי־יָק֣וּם לִ֭י עִם־מְרֵעִ֑ים מִי־יִתְיַצֵּ֥ב לִ֝֗י עִם־פֹּ֥עֲלֵי אָֽוֶן׃",
+    "original": "<span data-strong=\"H4310\">מִֽי</span>־<span data-strong=\"H6965\">יָק֣וּם</span> <span data-strong=\"H2967\">לִ֭י</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H7489\">מְרֵעִ֑ים</span> <span data-strong=\"H4310\">מִי</span>־<span data-strong=\"H3320\">יִתְיַצֵּ֥ב</span> <span data-strong=\"H2967\">לִ֝֗י</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H6466\">פֹּ֥עֲלֵי</span> <span data-strong=\"H205\">אָֽוֶן׃</span>",
     "transliteration": "miy-yakvm liy 'im-mere'iym miy-yiteyatsev liy 'im-fo'aley 'aven.",
     "translation": "Quem me levantará contra os malfeitores? Quem se firmará comigo contra os operadores da iniquidade?"
   },
   {
     "verse": 17,
-    "original": "לוּלֵ֣י יְ֭הֹוָה עֶזְרָ֣תָה לִּ֑י כִּמְעַ֓ט&thinsp;<b>׀</b> שָׁכְנָ֖ה דוּמָ֣ה נַפְשִֽׁי׃",
+    "original": "<span data-strong=\"H3884\">לוּלֵ֣י</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H1886\">עֶזְרָ֣תָה</span> <span data-strong=\"H2967\">לִּ֑י</span> <span data-strong=\"H4592\">כִּמְעַ֓ט&thinsp;<b>׀</b></span> <span data-strong=\"H7931\">שָׁכְנָ֖ה</span> <span data-strong=\"H1745\">דוּמָ֣ה</span> <span data-strong=\"H2967\">נַפְשִֽׁי׃</span>",
     "transliteration": "lvley yehovah 'ezeratah liy khime'at&thinsp;<b>|</b> shakhenah dvmah nafeshiy.",
     "translation": "Se o Senhor não fosse minha ajuda, logo habitaria o silêncio minha alma."
   },
   {
     "verse": 18,
-    "original": "אִם־אָ֭מַרְתִּי מָ֣טָה רַגְלִ֑י חַסְדְּךָ֥ יְ֝הֹוָ֗ה יִסְעָדֵֽנִי׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H559\">אָ֭מַרְתִּי</span> <span data-strong=\"H4131\">מָ֣טָה</span> <span data-strong=\"H2967\">רַגְלִ֑י</span> <span data-strong=\"H3509\">חַסְדְּךָ֥</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H5204\">יִסְעָדֵֽנִי׃</span>",
     "transliteration": "'im-'amaretiy matah rageliy hasedekha yehovah yise'adeniy.",
     "translation": "Se disse que meu pé vacilou, a tua misericórdia, Senhor, me sustentará."
   },
   {
     "verse": 19,
-    "original": "בְּרֹ֣ב שַׂרְעַפַּ֣י בְּקִרְבִּ֑י תַּ֝נְחוּמֶ֗יךָ יְֽשַׁעַשְׁע֥וּ נַפְשִֽׁי׃",
+    "original": "<span data-strong=\"H7230\">בְּרֹ֣ב</span> <span data-strong=\"H2967\">שַׂרְעַפַּ֣י</span> <span data-strong=\"H2967\">בְּקִרְבִּ֑י</span> <span data-strong=\"H3509\">תַּ֝נְחוּמֶ֗יךָ</span> <span data-strong=\"H8173\">יְֽשַׁעַשְׁע֥וּ</span> <span data-strong=\"H2967\">נַפְשִֽׁי׃</span>",
     "transliteration": "verov sare'afay vekireviy tanehvmeykha yesha'ashe'v nafeshiy.",
     "translation": "Na multidão de tormentos em meu interior, tuas consolações alegram minha alma."
   },
   {
     "verse": 20,
-    "original": "הַֽ֭יְחׇבְרְךָ כִּסֵּ֣א הַוּ֑וֹת יֹצֵ֖ר עָמָ֣ל עֲלֵי־חֹֽק׃",
+    "original": "<span data-strong=\"H3509\">הַֽ֭יְחׇבְרְךָ</span> <span data-strong=\"H3678\">כִּסֵּ֣א</span> <span data-strong=\"H1942\">הַוּ֑וֹת</span> <span data-strong=\"H3335\">יֹצֵ֖ר</span> <span data-strong=\"H5999\">עָמָ֣ל</span> <span data-strong=\"H5921\">עֲלֵי</span>־<span data-strong=\"H2706\">חֹֽק׃</span>",
     "transliteration": "hayehoverekha khise' havvot yotser 'amal 'aley-hok.",
     "translation": "Teu amigo é trono de vaidades, formando trabalhos sobre a lei."
   },
   {
     "verse": 21,
-    "original": "יָ֭גוֹדּוּ עַל־נֶ֣פֶשׁ צַדִּ֑יק וְדָ֖ם נָקִ֣י יַרְשִֽׁיעוּ׃",
+    "original": "<span data-strong=\"H1413\">יָ֭גוֹדּוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5315\">נֶ֣פֶשׁ</span> <span data-strong=\"H6662\">צַדִּ֑יק</span> <span data-strong=\"H1818\">וְדָ֖ם</span> <span data-strong=\"H5355\">נָקִ֣י</span> <span data-strong=\"H7561\">יַרְשִֽׁיעוּ׃</span>",
     "transliteration": "yagvodv 'al-nefesh tsadiyk vedam nakiy yareshiy'v.",
     "translation": "Devoram a alma do justo e declaram inocente o sangue do íntegro."
   },
   {
     "verse": 22,
-    "original": "וַיְהִ֬י יְהֹוָ֣ה לִ֣י לְמִשְׂגָּ֑ב וֵ֝אלֹהַ֗י לְצ֣וּר מַחְסִֽי׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֬י</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H2967\">לִ֣י</span> <span data-strong=\"H4869\">לְמִשְׂגָּ֑ב</span> <span data-strong=\"H2967\">וֵ֝אלֹהַ֗י</span> <span data-strong=\"H6697\">לְצ֣וּר</span> <span data-strong=\"H2967\">מַחְסִֽי׃</span>",
     "transliteration": "vayehiy yehovah liy lemisegav ve'lohay letsvr mahesiy.",
     "translation": "E o Senhor foi para mim um refúgio, e meu Deus, uma rocha de salvação."
   },

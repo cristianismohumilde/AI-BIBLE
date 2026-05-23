@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֣חַ עַל־שֹׁ֭שַׁנִּים לִבְנֵי־קֹ֑רַח מַ֝שְׂכִּ֗יל שִׁ֣יר יְדִידֹֽת׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֣חַ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7799\">שֹׁ֭שַׁנִּים</span> <span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H7141\">קֹ֑רַח</span> <span data-strong=\"H4905\">מַ֝שְׂכִּ֗יל</span> <span data-strong=\"H7892\">שִׁ֣יר</span> <span data-strong=\"H3039\">יְדִידֹֽת׃</span>",
     "transliteration": "lamenatseha 'al-shoshaniym liveney-korah masekhiyl shiyr yediydot.",
     "translation": "Para o músico chefe sobre lírios, para os filhos de Corá, uma meditação, um cântico de amizade."
   },
   {
     "verse": 2,
-    "original": "רָ֘חַ֤שׁ לִבִּ֨י&thinsp;<b>׀</b> דָּ֘בָ֤ר ט֗וֹב אֹמֵ֣ר אָ֭נִי מַעֲשַׂ֣י לְמֶ֑לֶךְ לְ֝שׁוֹנִ֗י עֵ֤ט&thinsp;<b>׀</b> סוֹפֵ֬ר מָהִֽיר׃",
+    "original": "<span data-strong=\"H7370\">רָ֘חַ֤שׁ</span> <span data-strong=\"H2967\">לִבִּ֨י&thinsp;<b>׀</b></span> <span data-strong=\"H1697\">דָּ֘בָ֤ר</span> <span data-strong=\"H2896\">ט֗וֹב</span> <span data-strong=\"H559\">אֹמֵ֣ר</span> <span data-strong=\"H589\">אָ֭נִי</span> <span data-strong=\"H2967\">מַעֲשַׂ֣י</span> <span data-strong=\"H4428\">לְמֶ֑לֶךְ</span> <span data-strong=\"H2967\">לְ֝שׁוֹנִ֗י</span> <span data-strong=\"H5842\">עֵ֤ט&thinsp;<b>׀</b></span> <span data-strong=\"H5608\">סוֹפֵ֬ר</span> <span data-strong=\"H4106\">מָהִֽיר׃</span>",
     "transliteration": "rahash liviy&thinsp;<b>|</b> davar tvov 'omer 'aniy ma'asay lemelekhe leshvoniy 'et&thinsp;<b>|</b> svofer mahiyr.",
     "translation": "Meu coração declama, uma palavra boa eu digo; minhas obras anuncio ao rei. Minha língua é pena de escriba ágil."
   },
   {
     "verse": 3,
-    "original": "יׇפְיָפִ֡יתָ מִבְּנֵ֬י אָדָ֗ם ה֣וּצַק חֵ֭ן בְּשִׂפְתוֹתֶ֑יךָ עַל־כֵּ֤ן בֵּרַכְךָ֖ אֱלֹהִ֣ים לְעוֹלָֽם׃",
+    "original": "<span data-strong=\"H3302\">יׇפְיָפִ֡יתָ</span> <span data-strong=\"H1121\">מִבְּנֵ֬י</span> <span data-strong=\"H120\">אָדָ֗ם</span> <span data-strong=\"H3332\">ה֣וּצַק</span> <span data-strong=\"H2580\">חֵ֭ן</span> <span data-strong=\"H3509\">בְּשִׂפְתוֹתֶ֑יךָ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֤ן</span> <span data-strong=\"H3509\">בֵּרַכְךָ֖</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H5769\">לְעוֹלָֽם׃</span>",
     "transliteration": "yofeyafiyta miveney 'adam hvtsak hen vesifetvoteykha 'al-khen verakhekha 'elohiym le'volam.",
     "translation": "Formosa entre os filhos dos homens, a graciosidade repousa em teus lábios; por isso, Deus te abençoará para sempre."
   },
   {
     "verse": 4,
-    "original": "חֲגֽוֹר־חַרְבְּךָ֣ עַל־יָרֵ֣ךְ גִּבּ֑וֹר ה֝וֹדְךָ֗ וַהֲדָרֶֽךָ׃",
+    "original": "<span data-strong=\"H2296\">חֲגֽוֹר</span>־<span data-strong=\"H3509\">חַרְבְּךָ֣</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3409\">יָרֵ֣ךְ</span> <span data-strong=\"H1368\">גִּבּ֑וֹר</span> <span data-strong=\"H3509\">ה֝וֹדְךָ֗</span> <span data-strong=\"H3509\">וַהֲדָרֶֽךָ׃</span>",
     "transliteration": "hagvor-harevekha 'al-yarekhe givvor hvodekha vahadarekha.",
     "translation": "Cinge tua espada sobre a coxa, ó valente; glória e esplendor."
   },
   {
     "verse": 5,
-    "original": "וַהֲדָ֬רְךָ֨&thinsp;<b>׀</b> צְלַ֬ח רְכַ֗ב עַֽל־דְּבַר־אֱ֭מֶת וְעַנְוָה־צֶ֑דֶק וְתוֹרְךָ֖ נוֹרָא֣וֹת יְמִינֶֽךָ׃",
+    "original": "<span data-strong=\"H3509\">וַהֲדָ֬רְךָ֨&thinsp;<b>׀</b></span> <span data-strong=\"H6743\">צְלַ֬ח</span> <span data-strong=\"H7392\">רְכַ֗ב</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H571\">אֱ֭מֶת</span> <span data-strong=\"H6038\">וְעַנְוָה</span>־<span data-strong=\"H6664\">צֶ֑דֶק</span> <span data-strong=\"H3509\">וְתוֹרְךָ֖</span> <span data-strong=\"H3372\">נוֹרָא֣וֹת</span> <span data-strong=\"H3509\">יְמִינֶֽךָ׃</span>",
     "transliteration": "vahadarekha&thinsp;<b>|</b> tselah rekhav 'al-devar-'emet ve'anevah-tsedek vetvorekha nvora'vot yemiynekha.",
     "translation": "E tua majestade triunfa, montado em verdade, e a mansidão da justiça te acompanha; e o poder de tuas direitas é formidável."
   },
   {
     "verse": 6,
-    "original": "חִצֶּ֗יךָ שְׁנ֫וּנִ֥ים עַ֭מִּים תַּחְתֶּ֣יךָ יִפְּל֑וּ בְּ֝לֵ֗ב אוֹיְבֵ֥י הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H3509\">חִצֶּ֗יךָ</span> <span data-strong=\"H8150\">שְׁנ֫וּנִ֥ים</span> <span data-strong=\"H5971\">עַ֭מִּים</span> <span data-strong=\"H3509\">תַּחְתֶּ֣יךָ</span> <span data-strong=\"H5307\">יִפְּל֑וּ</span> <span data-strong=\"H3820\">בְּ֝לֵ֗ב</span> <span data-strong=\"H341\">אוֹיְבֵ֥י</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "hitseykha shenvniym 'amiym taheteykha yifelv velev 'voyevey hamelekhe.",
     "translation": "Tus saetas são aguçadas; povos caem abaixo de ti; no coração dos inimigos do rei."
   },
   {
     "verse": 7,
-    "original": "כִּסְאֲךָ֣ אֱ֭לֹהִים עוֹלָ֣ם וָעֶ֑ד שֵׁ֥בֶט מִ֝ישֹׁ֗ר שֵׁ֣בֶט מַלְכוּתֶֽךָ׃",
+    "original": "<span data-strong=\"H3509\">כִּסְאֲךָ֣</span> <span data-strong=\"H430\">אֱ֭לֹהִים</span> <span data-strong=\"H5769\">עוֹלָ֣ם</span> <span data-strong=\"H5703\">וָעֶ֑ד</span> <span data-strong=\"H7626\">שֵׁ֥בֶט</span> <span data-strong=\"H4334\">מִ֝ישֹׁ֗ר</span> <span data-strong=\"H7626\">שֵׁ֣בֶט</span> <span data-strong=\"H3509\">מַלְכוּתֶֽךָ׃</span>",
     "transliteration": "khise'akha 'elohiym 'volam va'ed shevet miyshor shevet malekhvtekha.",
     "translation": "Teu trono, ó Deus, é eterno e sempiterno; cetro de justiça é o cetro do teu reino."
   },
@@ -49,55 +49,55 @@
   },
   {
     "verse": 9,
-    "original": "מֹר־וַאֲהָל֣וֹת קְ֭צִיעוֹת כׇּל־בִּגְדֹתֶ֑יךָ מִֽן־הֵ֥יכְלֵי שֵׁ֝֗ן מִנִּ֥י שִׂמְּחֽוּךָ׃",
+    "original": "<span data-strong=\"H4753\">מֹר</span>־<span data-strong=\"H174\">וַאֲהָל֣וֹת</span> <span data-strong=\"H7102\">קְ֭צִיעוֹת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3509\">בִּגְדֹתֶ֑יךָ</span> <span data-strong=\"H4480\">מִֽן</span>־<span data-strong=\"H1964\">הֵ֥יכְלֵי</span> <span data-strong=\"H8127\">שֵׁ֝֗ן</span> <span data-strong=\"H4482\">מִנִּ֥י</span> <span data-strong=\"H3509\">שִׂמְּחֽוּךָ׃</span>",
     "transliteration": "mor-va'ahalvot ketsiy'vot khol-vigedoteykha min-heykheley shen miniy simehvkha.",
     "translation": "Myrrh e aloes misturados com todos os teus vestidos, dos palácios de cedro exala a alegria do teu ser.\n\n(Myrrh e aloes misturados com todos os teus vestidos, dos palácios de cedro exala-se a alegria do teu ser.)"
   },
   {
     "verse": 10,
-    "original": "בְּנ֣וֹת מְ֭לָכִים בְּיִקְּרוֹתֶ֑יךָ נִצְּבָ֥ה שֵׁגַ֥ל לִ֝ימִינְךָ֗ בְּכֶ֣תֶם אוֹפִֽיר׃",
+    "original": "<span data-strong=\"H1323\">בְּנ֣וֹת</span> <span data-strong=\"H4428\">מְ֭לָכִים</span> <span data-strong=\"H3509\">בְּיִקְּרוֹתֶ֑יךָ</span> <span data-strong=\"H5324\">נִצְּבָ֥ה</span> <span data-strong=\"H7694\">שֵׁגַ֥ל</span> <span data-strong=\"H3509\">לִ֝ימִינְךָ֗</span> <span data-strong=\"H3800\">בְּכֶ֣תֶם</span> <span data-strong=\"H211\">אוֹפִֽיר׃</span>",
     "transliteration": "venvot melakhiym veyikervoteykha nitsevah shegal liymiynekha vekhetem 'vofiyr.",
     "translation": "Filhas de reis se encontram entre teus ornamentos, a rainha está à tua direita, em traje de bordados de Ofir."
   },
   {
     "verse": 11,
-    "original": "שִׁמְעִי־בַ֣ת וּ֭רְאִי וְהַטִּ֣י אׇזְנֵ֑ךְ וְשִׁכְחִ֥י עַ֝מֵּ֗ךְ וּבֵ֥ית אָבִֽיךְ׃",
+    "original": "<span data-strong=\"H8085\">שִׁמְעִי</span>־<span data-strong=\"H1323\">בַ֣ת</span> <span data-strong=\"H7200\">וּ֭רְאִי</span> <span data-strong=\"H5186\">וְהַטִּ֣י</span> <span data-strong=\"H3509\">אׇזְנֵ֑ךְ</span> <span data-strong=\"H7911\">וְשִׁכְחִ֥י</span> <span data-strong=\"H3509\">עַ֝מֵּ֗ךְ</span> <span data-strong=\"H1004\">וּבֵ֥ית</span> <span data-strong=\"H3509\">אָבִֽיךְ׃</span>",
     "transliteration": "shime'iy-vat vre'iy vehatiy 'ozenekhe veshikhehiy 'amekhe vveyt 'aviykhe.",
     "translation": "Ouve-me, filha, e atende; inclina a tua orelha e esquece o teu povo e a casa do teu pai."
   },
   {
     "verse": 12,
-    "original": "וְיִתְאָ֣ו הַמֶּ֣לֶךְ יׇפְיֵ֑ךְ כִּי־ה֥וּא אֲ֝דֹנַ֗יִךְ וְהִשְׁתַּֽחֲוִי־לֽוֹ׃",
+    "original": "<span data-strong=\"H183\">וְיִתְאָ֣ו</span> <span data-strong=\"H4428\">הַמֶּ֣לֶךְ</span> <span data-strong=\"H3509\">יׇפְיֵ֑ךְ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H3509\">אֲ֝דֹנַ֗יִךְ</span> <span data-strong=\"H7812\">וְהִשְׁתַּֽחֲוִי</span>־<span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "veyite'av hamelekhe yofeyekhe khiy-hv' 'adonayikhe vehishetahaviy-lvo.",
     "translation": "E o rei desejará a tua formosura, pois ele é teu Senhor, e a Ele prestarás culto."
   },
   {
     "verse": 13,
-    "original": "וּבַֽת־צֹ֨ר&thinsp;<b>׀</b> בְּ֭מִנְחָה פָּנַ֥יִךְ יְחַלּ֗וּ עֲשִׁ֣ירֵי עָֽם׃",
+    "original": "<span data-strong=\"H1323\">וּבַֽת</span>־<span data-strong=\"H6865\">צֹ֨ר&thinsp;<b>׀</b></span> <span data-strong=\"H4503\">בְּ֭מִנְחָה</span> <span data-strong=\"H3509\">פָּנַ֥יִךְ</span> <span data-strong=\"H2470\">יְחַלּ֗וּ</span> <span data-strong=\"H6223\">עֲשִׁ֣ירֵי</span> <span data-strong=\"H5971\">עָֽם׃</span>",
     "transliteration": "vvat-tsor&thinsp;<b>|</b> veminehah fanayikhe yehalv 'ashiyrey 'am.",
     "translation": "E em Tiro, com a oferenda da tarde, eles te procurarão, ó rica nação."
   },
   {
     "verse": 14,
-    "original": "כׇּל־כְּבוּדָּ֣ה בַת־מֶ֣לֶךְ פְּנִ֑ימָה מִֽמִּשְׁבְּצ֖וֹת זָהָ֣ב לְבוּשָֽׁהּ׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3520\">כְּבוּדָּ֣ה</span> <span data-strong=\"H1323\">בַת</span>־<span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H6441\">פְּנִ֑ימָה</span> <span data-strong=\"H4865\">מִֽמִּשְׁבְּצ֖וֹת</span> <span data-strong=\"H2091\">זָהָ֣ב</span> <span data-strong=\"H1886\">לְבוּשָֽׁהּ׃</span>",
     "transliteration": "khol-khevvdah vat-melekhe feniymah mimishevetsvot zahav levvshah.",
     "translation": "Toda a glória da filha do rei está no interior; de tecidos de ouro são suas vestes."
   },
   {
     "verse": 15,
-    "original": "לִרְקָמוֹת֮ תּוּבַ֢ל לַ֫מֶּ֥לֶךְ בְּתוּל֣וֹת אַ֭חֲרֶיהָ רֵעוֹתֶ֑יהָ מ֖וּבָא֣וֹת לָֽךְ׃",
+    "original": "<span data-strong=\"H7553\">לִרְקָמוֹת֮</span> <span data-strong=\"H2986\">תּוּבַ֢ל</span> <span data-strong=\"H4428\">לַ֫מֶּ֥לֶךְ</span> <span data-strong=\"H1330\">בְּתוּל֣וֹת</span> <span data-strong=\"H1886\">אַ֭חֲרֶיהָ</span> <span data-strong=\"H1886\">רֵעוֹתֶ֑יהָ</span> <span data-strong=\"H935\">מ֖וּבָא֣וֹת</span> <span data-strong=\"H3509\">לָֽךְ׃</span>",
     "transliteration": "lirekamvot tvval lamelekhe vetvlvot 'ahareyha re'voteyha mvva'vot lakhe.",
     "translation": "Para as tapeçarias será trazida a rainha, após ela suas companheiras, sendo conduzidas até ti."
   },
   {
     "verse": 16,
-    "original": "תּ֭וּבַלְנָה בִּשְׂמָחֹ֣ת וָגִ֑יל תְּ֝בֹאֶ֗ינָה בְּהֵ֣יכַל מֶֽלֶךְ׃",
+    "original": "<span data-strong=\"H2986\">תּ֭וּבַלְנָה</span> <span data-strong=\"H8057\">בִּשְׂמָחֹ֣ת</span> <span data-strong=\"H1524\">וָגִ֑יל</span> <span data-strong=\"H935\">תְּ֝בֹאֶ֗ינָה</span> <span data-strong=\"H1964\">בְּהֵ֣יכַל</span> <span data-strong=\"H4428\">מֶֽלֶךְ׃</span>",
     "transliteration": "tvvalenah visemahot vagiyl tevo'eynah veheykhal melekhe.",
     "translation": "Entrareis com alegrias e regozijo, sereis introduzidas no palácio do Rei."
   },
   {
     "verse": 17,
-    "original": "תַּ֣חַת אֲ֭בֹתֶיךָ יִהְי֣וּ בָנֶ֑יךָ תְּשִׁיתֵ֥מוֹ לְ֝שָׂרִ֗ים בְּכׇל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H3509\">אֲ֭בֹתֶיךָ</span> <span data-strong=\"H1961\">יִהְי֣וּ</span> <span data-strong=\"H3509\">בָנֶ֑יךָ</span> <span data-strong=\"H3963\">תְּשִׁיתֵ֥מוֹ</span> <span data-strong=\"H8269\">לְ֝שָׂרִ֗ים</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "tahat 'avoteykha yiheyv vaneykha teshiytemvo lesariym vekhol-ha'arets.",
     "translation": "Em vez de teus pais, serão teus filhos; os constituirás príncipes em toda a terra."
   },

@@ -1,115 +1,115 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "זֹ֤את תִּֽהְיֶה֙ תּוֹרַ֣ת הַמְּצֹרָ֔ע בְּי֖וֹם טׇהֳרָת֑וֹ וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃",
+    "original": "<span data-strong=\"H2063\">זֹ֤את</span> <span data-strong=\"H1961\">תִּֽהְיֶה֙</span> <span data-strong=\"H8451\">תּוֹרַ֣ת</span> <span data-strong=\"H6879\">הַמְּצֹרָ֔ע</span> <span data-strong=\"H3117\">בְּי֖וֹם</span> <span data-strong=\"H2050\">טׇהֳרָת֑וֹ</span> <span data-strong=\"H935\">וְהוּבָ֖א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3548\">הַכֹּהֵֽן׃</span>",
     "transliteration": "zo't tiheyeh tvorat hametsora' veyvom tohoratvo vehvva' 'el-hakhohen.",
     "translation": "Esta será a lei do leproso no dia da sua purificação, e ele será levado ao sacerdote."
   },
   {
     "verse": 3,
-    "original": "וְיָצָא֙ הַכֹּהֵ֔ן אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נִרְפָּ֥א נֶֽגַע־הַצָּרַ֖עַת מִן־הַצָּרֽוּעַ׃",
+    "original": "<span data-strong=\"H3318\">וְיָצָא֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֖וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶ֑ה</span> <span data-strong=\"H7200\">וְרָאָה֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H2009\">וְהִנֵּ֛ה</span> <span data-strong=\"H7495\">נִרְפָּ֥א</span> <span data-strong=\"H5061\">נֶֽגַע</span>־<span data-strong=\"H6883\">הַצָּרַ֖עַת</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6879\">הַצָּרֽוּעַ׃</span>",
     "transliteration": "veyatsa' hakhohen 'el-mihvts lamahaneh vera'ah hakhohen vehineh nirefa' nega'-hatsara'at min-hatsarv'a.",
     "translation": "E saiu o sacerdote para fora do arraial, e o sacerdote olhou e eis que se curou a lepra do leproso."
   },
   {
     "verse": 4,
-    "original": "וְצִוָּה֙ הַכֹּהֵ֔ן וְלָקַ֧ח לַמִּטַּהֵ֛ר שְׁתֵּֽי־צִפֳּרִ֥ים חַיּ֖וֹת טְהֹר֑וֹת וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃",
+    "original": "<span data-strong=\"H6680\">וְצִוָּה֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H3947\">וְלָקַ֧ח</span> <span data-strong=\"H2891\">לַמִּטַּהֵ֛ר</span> <span data-strong=\"H8147\">שְׁתֵּֽי</span>־<span data-strong=\"H6833\">צִפֳּרִ֥ים</span> <span data-strong=\"H2416\">חַיּ֖וֹת</span> <span data-strong=\"H2889\">טְהֹר֑וֹת</span> <span data-strong=\"H6086\">וְעֵ֣ץ</span> <span data-strong=\"H730\">אֶ֔רֶז</span> <span data-strong=\"H8144\">וּשְׁנִ֥י</span> <span data-strong=\"H8438\">תוֹלַ֖עַת</span> <span data-strong=\"H231\">וְאֵזֹֽב׃</span>",
     "transliteration": "vetsivah hakhohen velakah lamitaher shetey-tsiforiym hayvot tehorvot ve'ets 'erez vsheniy tvola'at ve'ezov.",
     "translation": "E ordenará o sacerdote que tomará para o purificado duas aves vivas e puros, um cedro, uma lã cardinalis e hissopo.\n\nCorreção:\nE ordenará o sacerdote que tomará para o purificado duas aves vivas e puras, um ramo de cedro, uma lã carmesim e hissopo."
   },
   {
     "verse": 5,
-    "original": "וְצִוָּה֙ הַכֹּהֵ֔ן וְשָׁחַ֖ט אֶת־הַצִּפּ֣וֹר הָאֶחָ֑ת אֶל־כְּלִי־חֶ֖רֶשׂ עַל־מַ֥יִם חַיִּֽים׃",
+    "original": "<span data-strong=\"H6680\">וְצִוָּה֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H7819\">וְשָׁחַ֖ט</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6833\">הַצִּפּ֣וֹר</span> <span data-strong=\"H259\">הָאֶחָ֑ת</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3627\">כְּלִי</span>־<span data-strong=\"H2789\">חֶ֖רֶשׂ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4325\">מַ֥יִם</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "vetsivah hakhohen veshahat 'et-hatsifvor ha'ehat 'el-kheliy-heres 'al-mayim hayiym.",
     "translation": "E o sacerdote ordenará, e degolará a pomba sobre vaso de barro por cima de águas vivas."
   },
   {
     "verse": 6,
-    "original": "אֶת־הַצִּפֹּ֤ר הַֽחַיָּה֙ יִקַּ֣ח אֹתָ֔הּ וְאֶת־עֵ֥ץ הָאֶ֛רֶז וְאֶת־שְׁנִ֥י הַתּוֹלַ֖עַת וְאֶת־הָאֵזֹ֑ב וְטָבַ֨ל אוֹתָ֜ם וְאֵ֣ת&thinsp;<b>׀</b> הַצִּפֹּ֣ר הַֽחַיָּ֗ה בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה עַ֖ל הַמַּ֥יִם הַֽחַיִּֽים׃",
+    "original": "<span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6833\">הַצִּפֹּ֤ר</span> <span data-strong=\"H2416\">הַֽחַיָּה֙</span> <span data-strong=\"H3947\">יִקַּ֣ח</span> <span data-strong=\"H1886\">אֹתָ֔הּ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H6086\">עֵ֥ץ</span> <span data-strong=\"H730\">הָאֶ֛רֶז</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H8144\">שְׁנִ֥י</span> <span data-strong=\"H8438\">הַתּוֹלַ֖עַת</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H231\">הָאֵזֹ֑ב</span> <span data-strong=\"H2881\">וְטָבַ֨ל</span> <span data-strong=\"H3963\">אוֹתָ֜ם</span> <span data-strong=\"H853\">וְאֵ֣ת&thinsp;<b>׀</b></span> <span data-strong=\"H6833\">הַצִּפֹּ֣ר</span> <span data-strong=\"H2416\">הַֽחַיָּ֗ה</span> <span data-strong=\"H1818\">בְּדַם֙</span> <span data-strong=\"H6833\">הַצִּפֹּ֣ר</span> <span data-strong=\"H7819\">הַשְּׁחֻטָ֔ה</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H4325\">הַמַּ֥יִם</span> <span data-strong=\"H2416\">הַֽחַיִּֽים׃</span>",
     "transliteration": "'et-hatsifor hahayah yikah 'otah ve'et-'ets ha'erez ve'et-sheniy hatvola'at ve'et-ha'ezov vetaval 'votam ve'et&thinsp;<b>|</b> hatsifor hahayah vedam hatsifor hashehutah 'al hamayim hahayiym.",
     "translation": "E a ave viva ele tomará, e o cedro, e a lã cardinal, e o hissopo; e as ungirá com, e com a ave viva no sangue da ave morta sobre as águas viventes."
   },
   {
     "verse": 7,
-    "original": "וְהִזָּ֗ה עַ֧ל הַמִּטַּהֵ֛ר מִן־הַצָּרַ֖עַת שֶׁ֣בַע פְּעָמִ֑ים וְטִ֣הֲר֔וֹ וְשִׁלַּ֛ח אֶת־הַצִּפֹּ֥ר הַֽחַיָּ֖ה עַל־פְּנֵ֥י הַשָּׂדֶֽה׃",
+    "original": "<span data-strong=\"H5137\">וְהִזָּ֗ה</span> <span data-strong=\"H5921\">עַ֧ל</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֛ר</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6883\">הַצָּרַ֖עַת</span> <span data-strong=\"H7651\">שֶׁ֣בַע</span> <span data-strong=\"H6471\">פְּעָמִ֑ים</span> <span data-strong=\"H2050\">וְטִ֣הֲר֔וֹ</span> <span data-strong=\"H7971\">וְשִׁלַּ֛ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6833\">הַצִּפֹּ֥ר</span> <span data-strong=\"H2416\">הַֽחַיָּ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6440\">פְּנֵ֥י</span> <span data-strong=\"H7704\">הַשָּׂדֶֽה׃</span>",
     "transliteration": "vehizah 'al hamitaher min-hatsara'at sheva' fe'amiym vetiharvo veshilah 'et-hatsifor hahayah 'al-feney hasadeh.",
     "translation": "E ele derramará sete vezes sobre a pessoa que está sendo purgada da lepra, e será purificado; soltará a pomba viva no campo."
   },
   {
     "verse": 8,
-    "original": "וְכִבֶּס֩ הַמִּטַּהֵ֨ר אֶת־בְּגָדָ֜יו וְגִלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ וְרָחַ֤ץ בַּמַּ֙יִם֙ וְטָהֵ֔ר וְאַחַ֖ר יָב֣וֹא אֶל־הַֽמַּחֲנֶ֑ה וְיָשַׁ֛ב מִח֥וּץ לְאׇהֳל֖וֹ שִׁבְעַ֥ת יָמִֽים׃",
+    "original": "<span data-strong=\"H3526\">וְכִבֶּס֩</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֨ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בְּגָדָ֜יו</span> <span data-strong=\"H1548\">וְגִלַּ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">שְׂעָר֗וֹ</span> <span data-strong=\"H7364\">וְרָחַ֤ץ</span> <span data-strong=\"H4325\">בַּמַּ֙יִם֙</span> <span data-strong=\"H2891\">וְטָהֵ֔ר</span> <span data-strong=\"H310\">וְאַחַ֖ר</span> <span data-strong=\"H935\">יָב֣וֹא</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֶ֑ה</span> <span data-strong=\"H3427\">וְיָשַׁ֛ב</span> <span data-strong=\"H2351\">מִח֥וּץ</span> <span data-strong=\"H2050\">לְאׇהֳל֖וֹ</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִֽים׃</span>",
     "transliteration": "vekhives hamitaher 'et-vegadayv vegilah 'et-khol-se'arvo verahats vamayim vetaher ve'ahar yavvo' 'el-hamahaneh veyashav mihvts le'oholvo shive'at yamiym.",
     "translation": "E lavará suas vestes, e se barbeará todo seu cabelo, e se purgará nas águas, ficando puro; depois entrará no acampamento, e permanecerá fora de sua tenda sete dias."
   },
   {
     "verse": 9,
-    "original": "וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י יְגַלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ אֶת־רֹאשׁ֤וֹ וְאֶת־זְקָנוֹ֙ וְאֵת֙ גַּבֹּ֣ת עֵינָ֔יו וְאֶת־כׇּל־שְׂעָר֖וֹ יְגַלֵּ֑חַ וְכִבֶּ֣ס אֶת־בְּגָדָ֗יו וְרָחַ֧ץ אֶת־בְּשָׂר֛וֹ בַּמַּ֖יִם וְטָהֵֽר׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָה֩</span> <span data-strong=\"H3117\">בַיּ֨וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֜י</span> <span data-strong=\"H1548\">יְגַלַּ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">שְׂעָר֗וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">רֹאשׁ֤וֹ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">זְקָנוֹ֙</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H1354\">גַּבֹּ֣ת</span> <span data-strong=\"H2050\">עֵינָ֔יו</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">שְׂעָר֖וֹ</span> <span data-strong=\"H1548\">יְגַלֵּ֑חַ</span> <span data-strong=\"H3526\">וְכִבֶּ֣ס</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בְּגָדָ֗יו</span> <span data-strong=\"H7364\">וְרָחַ֧ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בְּשָׂר֛וֹ</span> <span data-strong=\"H4325\">בַּמַּ֖יִם</span> <span data-strong=\"H2891\">וְטָהֵֽר׃</span>",
     "transliteration": "vehayah vayvom hasheviy'iy yegalah 'et-khol-se'arvo 'et-ro'shvo ve'et-zekanvo ve'et gavot 'eynayv ve'et-khol-se'arvo yegaleha vekhives 'et-vegadayv verahats 'et-vesarvo vamayim vetaher.",
     "translation": "E no sétimo dia ele se barbeará toda a sua pelos, os da cabeça e do queixo e as sobrancelhas e todos os seus cabelos ele se barbeará, e lavará suas vestes e se banhará em água e será puro.\n\nCorreção:\nE no sétimo dia ele se barbeará todo o seu pelo, o da cabeça e do queixo e as sobrancelhas e todo o seu cabelo ele se barbeará, e lavará suas vestes e se banhará na água e será puro."
   },
   {
     "verse": 10,
-    "original": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יִקַּ֤ח שְׁנֵֽי־כְבָשִׂים֙ תְּמִימִ֔ם וְכַבְשָׂ֥ה אַחַ֛ת בַּת־שְׁנָתָ֖הּ תְּמִימָ֑ה וּשְׁלֹשָׁ֣ה עֶשְׂרֹנִ֗ים סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן וְלֹ֥ג אֶחָ֖ד שָֽׁמֶן׃",
+    "original": "<span data-strong=\"H3117\">וּבַיּ֣וֹם</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֗י</span> <span data-strong=\"H3947\">יִקַּ֤ח</span> <span data-strong=\"H8147\">שְׁנֵֽי</span>־<span data-strong=\"H3532\">כְבָשִׂים֙</span> <span data-strong=\"H8549\">תְּמִימִ֔ם</span> <span data-strong=\"H3535\">וְכַבְשָׂ֥ה</span> <span data-strong=\"H259\">אַחַ֛ת</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H1886\">שְׁנָתָ֖הּ</span> <span data-strong=\"H8549\">תְּמִימָ֑ה</span> <span data-strong=\"H7969\">וּשְׁלֹשָׁ֣ה</span> <span data-strong=\"H6241\">עֶשְׂרֹנִ֗ים</span> <span data-strong=\"H5560\">סֹ֤לֶת</span> <span data-strong=\"H4503\">מִנְחָה֙</span> <span data-strong=\"H1101\">בְּלוּלָ֣ה</span> <span data-strong=\"H8081\">בַשֶּׁ֔מֶן</span> <span data-strong=\"H3849\">וְלֹ֥ג</span> <span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H8081\">שָֽׁמֶן׃</span>",
     "transliteration": "vvayvom hashemiyniy yikah sheney-khevasiym temiymim vekhavesah 'ahat vat-shenatah temiymah vsheloshah 'eseroniym solet minehah velvlah vashemen velog 'ehad shamen.",
     "translation": "E no oitavo dia, tomará dois cordeiros perfeitos e uma cabra de um ano, também perfeita; e três décimos de efa de farinha como oferta de cereal misturada com azeite e um decilitro de azeite."
   },
   {
     "verse": 11,
-    "original": "וְהֶעֱמִ֞יד הַכֹּהֵ֣ן הַֽמְטַהֵ֗ר אֵ֛ת הָאִ֥ישׁ הַמִּטַּהֵ֖ר וְאֹתָ֑ם לִפְנֵ֣י יְהֹוָ֔ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+    "original": "<span data-strong=\"H5975\">וְהֶעֱמִ֞יד</span> <span data-strong=\"H3548\">הַכֹּהֵ֣ן</span> <span data-strong=\"H2891\">הַֽמְטַהֵ֗ר</span> <span data-strong=\"H853\">אֵ֛ת</span> <span data-strong=\"H376\">הָאִ֥ישׁ</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֖ר</span> <span data-strong=\"H3963\">וְאֹתָ֑ם</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H6607\">פֶּ֖תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵֽד׃</span>",
     "transliteration": "vehe'emiyd hakhohen hametaher 'et ha'iysh hamitaher ve'otam lifeney yehovah fetah 'ohel mvo'ed.",
     "translation": "E o sacerdote purificador colocará diante do Senhor, à entrada da tenda do encontro, aquele que deve ser purificado e esses objetos."
   },
   {
     "verse": 12,
-    "original": "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַכֶּ֣בֶשׂ הָאֶחָ֗ד וְהִקְרִ֥יב אֹת֛וֹ לְאָשָׁ֖ם וְאֶת־לֹ֣ג הַשָּׁ֑מֶן וְהֵנִ֥יף אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֨ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֜ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3532\">הַכֶּ֣בֶשׂ</span> <span data-strong=\"H259\">הָאֶחָ֗ד</span> <span data-strong=\"H7126\">וְהִקְרִ֥יב</span> <span data-strong=\"H2050\">אֹת֛וֹ</span> <span data-strong=\"H817\">לְאָשָׁ֖ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3849\">לֹ֣ג</span> <span data-strong=\"H8081\">הַשָּׁ֑מֶן</span> <span data-strong=\"H5130\">וְהֵנִ֥יף</span> <span data-strong=\"H3963\">אֹתָ֛ם</span> <span data-strong=\"H8573\">תְּנוּפָ֖ה</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "velakah hakhohen 'et-hakheves ha'ehad vehikeriyv 'otvo le'asham ve'et-log hashamen veheniyf 'otam tenvfah lifeney yehovah.",
     "translation": "E o sacerdote tomará o cordeiro e o oferecerá em sacrifício de expiação, e o log de azeite, e os elevará em oferta de elevação perante Jehovah."
   },
   {
     "verse": 13,
-    "original": "וְשָׁחַ֣ט אֶת־הַכֶּ֗בֶשׂ בִּ֠מְק֠וֹם אֲשֶׁ֨ר יִשְׁחַ֧ט אֶת־הַֽחַטָּ֛את וְאֶת־הָעֹלָ֖ה בִּמְק֣וֹם הַקֹּ֑דֶשׁ כִּ֡י כַּ֠חַטָּ֠את הָאָשָׁ֥ם הוּא֙ לַכֹּהֵ֔ן קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+    "original": "<span data-strong=\"H7819\">וְשָׁחַ֣ט</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3532\">הַכֶּ֗בֶשׂ</span> <span data-strong=\"H4725\">בִּ֠מְק֠וֹם</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H7819\">יִשְׁחַ֧ט</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2403\">הַֽחַטָּ֛את</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H5930\">הָעֹלָ֖ה</span> <span data-strong=\"H4725\">בִּמְק֣וֹם</span> <span data-strong=\"H6944\">הַקֹּ֑דֶשׁ</span> <span data-strong=\"H3588\">כִּ֡י</span> <span data-strong=\"H2403\">כַּ֠חַטָּ֠את</span> <span data-strong=\"H817\">הָאָשָׁ֥ם</span> <span data-strong=\"H1931\">הוּא֙</span> <span data-strong=\"H3548\">לַכֹּהֵ֔ן</span> <span data-strong=\"H6944\">קֹ֥דֶשׁ</span> <span data-strong=\"H6944\">קׇֽדָשִׁ֖ים</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "veshahat 'et-hakheves vimekvom 'asher yishehat 'et-hahata't ve'et-ha'olah vimekvom hakodesh khiy khahata't ha'asham hv' lakhohen kodesh kodashiym hv'.",
     "translation": "E ele imolará o cordeiro no lugar onde imola a oferta pelo pecado e a oferta holocautério, no local santo; porque como a oferta pelo pecado é a oferta da culpa para o sacerdote, santíssima ela é."
   },
   {
     "verse": 14,
-    "original": "וְלָקַ֣ח הַכֹּהֵן֮ מִדַּ֣ם הָאָשָׁם֒ וְנָתַן֙ הַכֹּהֵ֔ן עַל־תְּנ֛וּךְ אֹ֥זֶן הַמִּטַּהֵ֖ר הַיְמָנִ֑ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֣ח</span> <span data-strong=\"H3548\">הַכֹּהֵן֮</span> <span data-strong=\"H1818\">מִדַּ֣ם</span> <span data-strong=\"H817\">הָאָשָׁם֒</span> <span data-strong=\"H5414\">וְנָתַן֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8571\">תְּנ֛וּךְ</span> <span data-strong=\"H241\">אֹ֥זֶן</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֖ר</span> <span data-strong=\"H3233\">הַיְמָנִ֑ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֤הֶן</span> <span data-strong=\"H2050\">יָדוֹ֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֥הֶן</span> <span data-strong=\"H2050\">רַגְל֖וֹ</span> <span data-strong=\"H3233\">הַיְמָנִֽית׃</span>",
     "transliteration": "velakah hakhohen midam ha'asham venatan hakhohen 'al-tenvkhe 'ozen hamitaher hayemaniyt ve'al-vohen yadvo hayemaniyt ve'al-vohen ragelvo hayemaniyt.",
     "translation": "E o sacerdote tomará do sangue da oferta pelo pecado e porá sobre a ponta da orelha direita daquele que se purifica, sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito."
   },
   {
     "verse": 15,
-    "original": "וְלָקַ֥ח הַכֹּהֵ֖ן מִלֹּ֣ג הַשָּׁ֑מֶן וְיָצַ֛ק עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֥ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H3849\">מִלֹּ֣ג</span> <span data-strong=\"H8081\">הַשָּׁ֑מֶן</span> <span data-strong=\"H3332\">וְיָצַ֛ק</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3709\">כַּ֥ף</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H8042\">הַשְּׂמָאלִֽית׃</span>",
     "transliteration": "velakah hakhohen milog hashamen veyatsak 'al-khaf hakhohen hasema'liyt.",
     "translation": "E o sacerdote tomará do log de óleo e derramará na palma da mão esquerda do sacerdote."
   },
   {
     "verse": 16,
-    "original": "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית וְהִזָּ֨ה מִן־הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H2881\">וְטָבַ֤ל</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אֶצְבָּע֣וֹ</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֕מֶן</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כַּפּ֖וֹ</span> <span data-strong=\"H8042\">הַשְּׂמָאלִ֑ית</span> <span data-strong=\"H5137\">וְהִזָּ֨ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֧מֶן</span> <span data-strong=\"H2050\">בְּאֶצְבָּע֛וֹ</span> <span data-strong=\"H7651\">שֶׁ֥בַע</span> <span data-strong=\"H6471\">פְּעָמִ֖ים</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vetaval hakhohen 'et-'etseva'vo hayemaniyt min-hashemen 'asher 'al-khafvo hasema'liyt vehizah min-hashemen ve'etseva'vo sheva' fe'amiym lifeney yehovah.",
     "translation": "E o sacerdote mergulhará o dedo do meio da sua mão direita no azeite que está na sua mão esquerda, e aspergirá com o dedo sete vezes diante do Senhor."
   },
   {
     "verse": 17,
-    "original": "וּמִיֶּ֨תֶר הַשֶּׁ֜מֶן אֲשֶׁ֣ר עַל־כַּפּ֗וֹ יִתֵּ֤ן הַכֹּהֵן֙ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית עַ֖ל דַּ֥ם הָאָשָֽׁם׃",
+    "original": "<span data-strong=\"H3499\">וּמִיֶּ֨תֶר</span> <span data-strong=\"H8081\">הַשֶּׁ֜מֶן</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כַּפּ֗וֹ</span> <span data-strong=\"H5414\">יִתֵּ֤ן</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8571\">תְּנ֞וּךְ</span> <span data-strong=\"H241\">אֹ֤זֶן</span> <span data-strong=\"H2891\">הַמִּטַּהֵר֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֤הֶן</span> <span data-strong=\"H2050\">יָדוֹ֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֥הֶן</span> <span data-strong=\"H2050\">רַגְל֖וֹ</span> <span data-strong=\"H3233\">הַיְמָנִ֑ית</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H1818\">דַּ֥ם</span> <span data-strong=\"H817\">הָאָשָֽׁם׃</span>",
     "transliteration": "vmiyeter hashemen 'asher 'al-khafvo yiten hakhohen 'al-tenvkhe 'ozen hamitaher hayemaniyt ve'al-vohen yadvo hayemaniyt ve'al-vohen ragelvo hayemaniyt 'al dam ha'asham.",
     "translation": "E do óleo remanescente que estiver em sua mão, o sacerdote colocará sobre a extremidade da orelha direita do purgado, e sobre o polegar de sua mão direita, e sobre o dedo grande de seu pé direito; junto ao lugar do sangue do asilado."
   },
   {
     "verse": 18,
-    "original": "וְהַנּוֹתָ֗ר בַּשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3498\">וְהַנּוֹתָ֗ר</span> <span data-strong=\"H8081\">בַּשֶּׁ֙מֶן֙</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3709\">כַּ֣ף</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H5414\">יִתֵּ֖ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֑ר</span> <span data-strong=\"H3722\">וְכִפֶּ֥ר</span> <span data-strong=\"H2050\">עָלָ֛יו</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vehanvotar vashemen 'asher 'al-khaf hakhohen yiten 'al-ro'sh hamitaher vekhifer 'alayv hakhohen lifeney yehovah.",
     "translation": "E o que sobrar do óleo com que o sacerdote untou a cabeça daquele que se purifica, porá sobre a cabeça dele; e o sacerdote fará propiciação por ele diante do Senhor."
   },
   {
     "verse": 19,
-    "original": "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־הַ֣חַטָּ֔את וְכִפֶּ֕ר עַל־הַמִּטַּהֵ֖ר מִטֻּמְאָת֑וֹ וְאַחַ֖ר יִשְׁחַ֥ט אֶת־הָעֹלָֽה׃",
+    "original": "<span data-strong=\"H6213\">וְעָשָׂ֤ה</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2403\">הַ֣חַטָּ֔את</span> <span data-strong=\"H3722\">וְכִפֶּ֕ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2891\">הַמִּטַּהֵ֖ר</span> <span data-strong=\"H2050\">מִטֻּמְאָת֑וֹ</span> <span data-strong=\"H310\">וְאַחַ֖ר</span> <span data-strong=\"H7819\">יִשְׁחַ֥ט</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5930\">הָעֹלָֽה׃</span>",
     "transliteration": "ve'asah hakhohen 'et-hahata't vekhifer 'al-hamitaher mitume'atvo ve'ahar yishehat 'et-ha'olah.",
     "translation": "E o sacerdote fará a oferta pelo pecado, e purgará aquele que se purifica da sua impureza; depois imolará a oferta ao holocausto."
   },
@@ -121,67 +121,67 @@
   },
   {
     "verse": 21,
-    "original": "וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒ וְ֠לָקַ֠ח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1800\">דַּ֣ל</span> <span data-strong=\"H1931\">ה֗וּא</span> <span data-strong=\"H369\">וְאֵ֣ין</span> <span data-strong=\"H2050\">יָדוֹ֮</span> <span data-strong=\"H5381\">מַשֶּׂ֒גֶת֒</span> <span data-strong=\"H3947\">וְ֠לָקַ֠ח</span> <span data-strong=\"H3532\">כֶּ֣בֶשׂ</span> <span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H817\">אָשָׁ֛ם</span> <span data-strong=\"H8573\">לִתְנוּפָ֖ה</span> <span data-strong=\"H3722\">לְכַפֵּ֣ר</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H6241\">וְעִשָּׂר֨וֹן</span> <span data-strong=\"H5560\">סֹ֜לֶת</span> <span data-strong=\"H259\">אֶחָ֨ד</span> <span data-strong=\"H1101\">בָּל֥וּל</span> <span data-strong=\"H8081\">בַּשֶּׁ֛מֶן</span> <span data-strong=\"H4503\">לְמִנְחָ֖ה</span> <span data-strong=\"H3849\">וְלֹ֥ג</span> <span data-strong=\"H8081\">שָֽׁמֶן׃</span>",
     "transliteration": "ve'im-dal hv' ve'eyn yadvo maseget velakah kheves 'ehad 'asham litenvfah lekhafer 'alayv ve'isarvon solet 'ehad valvl vashemen leminehah velog shamen.",
     "translation": "E se for pobre e sua mão não alcançar, então tomará um cordeiro como asila por oferta de ofertação para expiação sobre ele; e uma décima parte de efa de flor de farinha amassada com azeite, como oferta, e um log de azeite."
   },
   {
     "verse": 22,
-    "original": "וּשְׁתֵּ֣י תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֲשֶׁ֥ר תַּשִּׂ֖יג יָד֑וֹ וְהָיָ֤ה אֶחָד֙ חַטָּ֔את וְהָאֶחָ֖ד עֹלָֽה׃",
+    "original": "<span data-strong=\"H8147\">וּשְׁתֵּ֣י</span> <span data-strong=\"H8449\">תֹרִ֗ים</span> <span data-strong=\"H176\">א֤וֹ</span> <span data-strong=\"H8147\">שְׁנֵי֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3123\">יוֹנָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5381\">תַּשִּׂ֖יג</span> <span data-strong=\"H2050\">יָד֑וֹ</span> <span data-strong=\"H1961\">וְהָיָ֤ה</span> <span data-strong=\"H259\">אֶחָד֙</span> <span data-strong=\"H2403\">חַטָּ֔את</span> <span data-strong=\"H259\">וְהָאֶחָ֖ד</span> <span data-strong=\"H5930\">עֹלָֽה׃</span>",
     "transliteration": "vshetey toriym 'vo sheney veney yvonah 'asher tasiyg yadvo vehayah 'ehad hata't veha'ehad 'olah.",
     "translation": "E duas pombas ou dois filhos de corvo, segundo o que a sua mão alcançar; e um será oferta pelo pecado, e o outro holocausto."
   },
   {
     "verse": 23,
-    "original": "וְהֵבִ֨יא אֹתָ֜ם בַּיּ֧וֹם הַשְּׁמִינִ֛י לְטׇהֳרָת֖וֹ אֶל־הַכֹּהֵ֑ן אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H935\">וְהֵבִ֨יא</span> <span data-strong=\"H3963\">אֹתָ֜ם</span> <span data-strong=\"H3117\">בַּיּ֧וֹם</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֛י</span> <span data-strong=\"H2050\">לְטׇהֳרָת֖וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֥תַח</span> <span data-strong=\"H168\">אֹֽהֶל</span>־<span data-strong=\"H4150\">מוֹעֵ֖ד</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "veheviy' 'otam vayvom hashemiyniy letohoratvo 'el-hakhohen 'el-fetah 'ohel-mvo'ed lifeney yehovah.",
     "translation": "E os trará no dia oitavo, para a purificação dele, ao sacerdote, à porta da tenda do encontro, perante o Senhor."
   },
   {
     "verse": 24,
-    "original": "וְלָקַ֧ח הַכֹּהֵ֛ן אֶת־כֶּ֥בֶשׂ הָאָשָׁ֖ם וְאֶת־לֹ֣ג הַשָּׁ֑מֶן וְהֵנִ֨יף אֹתָ֧ם הַכֹּהֵ֛ן תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֧ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3532\">כֶּ֥בֶשׂ</span> <span data-strong=\"H817\">הָאָשָׁ֖ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3849\">לֹ֣ג</span> <span data-strong=\"H8081\">הַשָּׁ֑מֶן</span> <span data-strong=\"H5130\">וְהֵנִ֨יף</span> <span data-strong=\"H3963\">אֹתָ֧ם</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H8573\">תְּנוּפָ֖ה</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "velakah hakhohen 'et-kheves ha'asham ve'et-log hashamen veheniyf 'otam hakhohen tenvfah lifeney yehovah.",
     "translation": "E o sacerdote tomará o cordeiro do sacrifício pacífico e o log de azeite, e o sacerdote os agitará em oferta de elevação perante o Senhor."
   },
   {
     "verse": 25,
-    "original": "וְשָׁחַט֮ אֶת־כֶּ֣בֶשׂ הָֽאָשָׁם֒ וְלָקַ֤ח הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם וְנָתַ֛ן עַל־תְּנ֥וּךְ אֹֽזֶן־הַמִּטַּהֵ֖ר הַיְמָנִ֑ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+    "original": "<span data-strong=\"H7819\">וְשָׁחַט֮</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3532\">כֶּ֣בֶשׂ</span> <span data-strong=\"H817\">הָֽאָשָׁם֒</span> <span data-strong=\"H3947\">וְלָקַ֤ח</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H1818\">מִדַּ֣ם</span> <span data-strong=\"H817\">הָֽאָשָׁ֔ם</span> <span data-strong=\"H5414\">וְנָתַ֛ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8571\">תְּנ֥וּךְ</span> <span data-strong=\"H241\">אֹֽזֶן</span>־<span data-strong=\"H2891\">הַמִּטַּהֵ֖ר</span> <span data-strong=\"H3233\">הַיְמָנִ֑ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֤הֶן</span> <span data-strong=\"H2050\">יָדוֹ֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֥הֶן</span> <span data-strong=\"H2050\">רַגְל֖וֹ</span> <span data-strong=\"H3233\">הַיְמָנִֽית׃</span>",
     "transliteration": "veshahat 'et-kheves ha'asham velakah hakhohen midam ha'asham venatan 'al-tenvkhe 'ozen-hamitaher hayemaniyt ve'al-vohen yadvo hayemaniyt ve'al-vohen ragelvo hayemaniyt.",
     "translation": "E imolará o cordeiro do pecado, e o sacerdote tomará do sangue do cordeiro do pecado e porá sobre a ponta da orelha direita daquele que se purifica, e sobre a extremidade da mão direita, e sobre a extremidade do pé direito."
   },
   {
     "verse": 26,
-    "original": "וּמִן־הַשֶּׁ֖מֶן יִצֹ֣ק הַכֹּהֵ֑ן עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
+    "original": "<span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֖מֶן</span> <span data-strong=\"H3332\">יִצֹ֣ק</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3709\">כַּ֥ף</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H8042\">הַשְּׂמָאלִֽית׃</span>",
     "transliteration": "vmin-hashemen yitsok hakhohen 'al-khaf hakhohen hasema'liyt.",
     "translation": "E o sacerdote derramará do azeite sobre a palma esquerda do sacerdote."
   },
   {
     "verse": 27,
-    "original": "וְהִזָּ֤ה הַכֹּהֵן֙ בְּאֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H5137\">וְהִזָּ֤ה</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H2050\">בְּאֶצְבָּע֣וֹ</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֕מֶן</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כַּפּ֖וֹ</span> <span data-strong=\"H8042\">הַשְּׂמָאלִ֑ית</span> <span data-strong=\"H7651\">שֶׁ֥בַע</span> <span data-strong=\"H6471\">פְּעָמִ֖ים</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vehizah hakhohen ve'etseva'vo hayemaniyt min-hashemen 'asher 'al-khafvo hasema'liyt sheva' fe'amiym lifeney yehovah.",
     "translation": "E o sacerdote untará com o dedo da sua mão direita, diante do Senhor, sete vezes, com o azeite que está na sua mão esquerda."
   },
   {
     "verse": 28,
-    "original": "וְנָתַ֨ן הַכֹּהֵ֜ן מִן־הַשֶּׁ֣מֶן&thinsp;<b>׀</b> אֲשֶׁ֣ר עַל־כַּפּ֗וֹ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית עַל־מְק֖וֹם דַּ֥ם הָאָשָֽׁם׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַ֨ן</span> <span data-strong=\"H3548\">הַכֹּהֵ֜ן</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֣מֶן&thinsp;<b>׀</b></span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כַּפּ֗וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8571\">תְּנ֞וּךְ</span> <span data-strong=\"H241\">אֹ֤זֶן</span> <span data-strong=\"H2891\">הַמִּטַּהֵר֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֤הֶן</span> <span data-strong=\"H2050\">יָדוֹ֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H931\">בֹּ֥הֶן</span> <span data-strong=\"H2050\">רַגְל֖וֹ</span> <span data-strong=\"H3233\">הַיְמָנִ֑ית</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4725\">מְק֖וֹם</span> <span data-strong=\"H1818\">דַּ֥ם</span> <span data-strong=\"H817\">הָאָשָֽׁם׃</span>",
     "transliteration": "venatan hakhohen min-hashemen&thinsp;<b>|</b> 'asher 'al-khafvo 'al-tenvkhe 'ozen hamitaher hayemaniyt ve'al-vohen yadvo hayemaniyt ve'al-vohen ragelvo hayemaniyt 'al-mekvom dam ha'asham.",
     "translation": "E o sacerdote tomará do óleo que está sobre as suas mãos, e o porá na extremidade da orelha direita daquele que se purifica, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito, no lugar do sangue do sacrifício pelo pecado."
   },
   {
     "verse": 29,
-    "original": "וְהַנּוֹתָ֗ר מִן־הַשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר לְכַפֵּ֥ר עָלָ֖יו לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3498\">וְהַנּוֹתָ֗ר</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8081\">הַשֶּׁ֙מֶן֙</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3709\">כַּ֣ף</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H5414\">יִתֵּ֖ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֑ר</span> <span data-strong=\"H3722\">לְכַפֵּ֥ר</span> <span data-strong=\"H2050\">עָלָ֖יו</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vehanvotar min-hashemen 'asher 'al-khaf hakhohen yiten 'al-ro'sh hamitaher lekhafer 'alayv lifeney yehovah.",
     "translation": "E o que restar do óleo que estiver na mão do sacerdote, ele colocará sobre a cabeça daquele que se purifica, para fazer expiação por ele perante o Senhor."
   },
   {
     "verse": 30,
-    "original": "וְעָשָׂ֤ה אֶת־הָֽאֶחָד֙ מִן־הַתֹּרִ֔ים א֖וֹ מִן־בְּנֵ֣י הַיּוֹנָ֑ה מֵאֲשֶׁ֥ר תַּשִּׂ֖יג יָדֽוֹ׃",
+    "original": "<span data-strong=\"H6213\">וְעָשָׂ֤ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H259\">הָֽאֶחָד֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8449\">הַתֹּרִ֔ים</span> <span data-strong=\"H176\">א֖וֹ</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3123\">הַיּוֹנָ֑ה</span> <span data-strong=\"H834\">מֵאֲשֶׁ֥ר</span> <span data-strong=\"H5381\">תַּשִּׂ֖יג</span> <span data-strong=\"H2050\">יָדֽוֹ׃</span>",
     "transliteration": "ve'asah 'et-ha'ehad min-hatoriym 'vo min-veney hayvonah me'asher tasiyg yadvo.",
     "translation": "E fará um dos pombos, ou uma das filhas da pomba, segundo que a sua mão alcançar."
   },
   {
     "verse": 31,
-    "original": "אֵ֣ת אֲשֶׁר־תַּשִּׂ֞יג יָד֗וֹ אֶת־הָאֶחָ֥ד חַטָּ֛את וְאֶת־הָאֶחָ֥ד עֹלָ֖ה עַל־הַמִּנְחָ֑ה וְכִפֶּ֧ר הַכֹּהֵ֛ן עַ֥ל הַמִּטַּהֵ֖ר לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5381\">תַּשִּׂ֞יג</span> <span data-strong=\"H2050\">יָד֗וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H259\">הָאֶחָ֥ד</span> <span data-strong=\"H2403\">חַטָּ֛את</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H259\">הָאֶחָ֥ד</span> <span data-strong=\"H5930\">עֹלָ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4503\">הַמִּנְחָ֑ה</span> <span data-strong=\"H3722\">וְכִפֶּ֧ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H5921\">עַ֥ל</span> <span data-strong=\"H2891\">הַמִּטַּהֵ֖ר</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "'et 'asher-tasiyg yadvo 'et-ha'ehad hata't ve'et-ha'ehad 'olah 'al-haminehah vekhifer hakhohen 'al hamitaher lifeney yehovah.",
     "translation": "O qual tocar com a mão, um por pecado e outro por holocausto junto à oferta de cereal; e o sacerdote fará expiação pelo purgado perante Jehovah."
   },
@@ -193,145 +193,145 @@
   },
   {
     "verse": 33,
-    "original": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H413\">וְאֶֽל</span>־<span data-strong=\"H175\">אַהֲרֹ֖ן</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh ve'el-'aharon le'mor.",
     "translation": "E o Senhor falou a Moisés e a Aarão, dizendo:"
   },
   {
     "verse": 34,
-    "original": "כִּ֤י תָבֹ֙אוּ֙ אֶל־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֥ר אֲנִ֛י נֹתֵ֥ן לָכֶ֖ם לַאֲחֻזָּ֑ה וְנָתַתִּי֙ נֶ֣גַע צָרַ֔עַת בְּבֵ֖ית אֶ֥רֶץ אֲחֻזַּתְכֶֽם׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H935\">תָבֹ֙אוּ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H3667\">כְּנַ֔עַן</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H589\">אֲנִ֛י</span> <span data-strong=\"H5414\">נֹתֵ֥ן</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H272\">לַאֲחֻזָּ֑ה</span> <span data-strong=\"H5414\">וְנָתַתִּי֙</span> <span data-strong=\"H5061\">נֶ֣גַע</span> <span data-strong=\"H6883\">צָרַ֔עַת</span> <span data-strong=\"H1004\">בְּבֵ֖ית</span> <span data-strong=\"H776\">אֶ֥רֶץ</span> <span data-strong=\"H3641\">אֲחֻזַּתְכֶֽם׃</span>",
     "transliteration": "khiy tavo'v 'el-'erets khena'an 'asher 'aniy noten lakhem la'ahuzah venatatiy nega' tsara'at veveyt 'erets 'ahuzatekhem.",
     "translation": "Porque, quando entrardes na terra de Canaã, que eu vos dou em possessão, farei nascer a lepra nos vossos edifícios, na terra da vossa posse."
   },
   {
     "verse": 35,
-    "original": "וּבָא֙ אֲשֶׁר־ל֣וֹ הַבַּ֔יִת וְהִגִּ֥יד לַכֹּהֵ֖ן לֵאמֹ֑ר כְּנֶ֕גַע נִרְאָ֥ה לִ֖י בַּבָּֽיִת׃",
+    "original": "<span data-strong=\"H935\">וּבָא֙</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">ל֣וֹ</span> <span data-strong=\"H1004\">הַבַּ֔יִת</span> <span data-strong=\"H5046\">וְהִגִּ֥יד</span> <span data-strong=\"H3548\">לַכֹּהֵ֖ן</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H5061\">כְּנֶ֕גַע</span> <span data-strong=\"H7200\">נִרְאָ֥ה</span> <span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H1004\">בַּבָּֽיִת׃</span>",
     "transliteration": "vva' 'asher-lvo havayit vehigiyd lakhohen le'mor khenega' nire'ah liy vavayit.",
     "translation": "E veio o possuidor da casa e declarou ao sacerdote, dizendo: Apareceu-me uma mancha na casa."
   },
   {
     "verse": 36,
-    "original": "וְצִוָּ֨ה הַכֹּהֵ֜ן וּפִנּ֣וּ אֶת־הַבַּ֗יִת בְּטֶ֨רֶם יָבֹ֤א הַכֹּהֵן֙ לִרְא֣וֹת אֶת־הַנֶּ֔גַע וְלֹ֥א יִטְמָ֖א כׇּל־אֲשֶׁ֣ר בַּבָּ֑יִת וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן לִרְא֥וֹת אֶת־הַבָּֽיִת׃",
+    "original": "<span data-strong=\"H6680\">וְצִוָּ֨ה</span> <span data-strong=\"H3548\">הַכֹּהֵ֜ן</span> <span data-strong=\"H6437\">וּפִנּ֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֗יִת</span> <span data-strong=\"H2962\">בְּטֶ֨רֶם</span> <span data-strong=\"H935\">יָבֹ֤א</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H7200\">לִרְא֣וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5061\">הַנֶּ֔גַע</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H2930\">יִטְמָ֖א</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1004\">בַּבָּ֑יִת</span> <span data-strong=\"H310\">וְאַ֥חַר</span> <span data-strong=\"H3651\">כֵּ֛ן</span> <span data-strong=\"H935\">יָבֹ֥א</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H7200\">לִרְא֥וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבָּֽיִת׃</span>",
     "transliteration": "vetsivah hakhohen vfinv 'et-havayit veterem yavo' hakhohen lire'vot 'et-hanega' velo' yitema' khol-'asher vavayit ve'ahar khen yavo' hakhohen lire'vot 'et-havayit.",
     "translation": "E ordenará o sacerdote que esvaziem a casa antes de ele entrar para ver a mancha, para que nada no interior se contamine; depois disso entrará o sacerdote para examinar a casa."
   },
   {
     "verse": 37,
-    "original": "וְרָאָ֣ה אֶת־הַנֶּ֗גַע וְהִנֵּ֤ה הַנֶּ֙גַע֙ בְּקִירֹ֣ת הַבַּ֔יִת שְׁקַֽעֲרוּרֹת֙ יְרַקְרַקֹּ֔ת א֖וֹ אֲדַמְדַּמֹּ֑ת וּמַרְאֵיהֶ֥ן שָׁפָ֖ל מִן־הַקִּֽיר׃",
+    "original": "<span data-strong=\"H7200\">וְרָאָ֣ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5061\">הַנֶּ֗גַע</span> <span data-strong=\"H2009\">וְהִנֵּ֤ה</span> <span data-strong=\"H5061\">הַנֶּ֙גַע֙</span> <span data-strong=\"H7023\">בְּקִירֹ֣ת</span> <span data-strong=\"H1004\">הַבַּ֔יִת</span> <span data-strong=\"H8258\">שְׁקַֽעֲרוּרֹת֙</span> <span data-strong=\"H3422\">יְרַקְרַקֹּ֔ת</span> <span data-strong=\"H176\">א֖וֹ</span> <span data-strong=\"H125\">אֲדַמְדַּמֹּ֑ת</span> <span data-strong=\"H2004\">וּמַרְאֵיהֶ֥ן</span> <span data-strong=\"H8217\">שָׁפָ֖ל</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H7023\">הַקִּֽיר׃</span>",
     "transliteration": "vera'ah 'et-hanega' vehineh hanega' vekiyrot havayit sheka'arvrot yerakerakot 'vo 'adamedamot vmare'eyhen shafal min-hakiyr.",
     "translation": "E viu o azar e eis que o azar estava nas paredes da casa, manchas de cor esverdeada ou avermelhada, e sua aparência era inferior à parede.\n\nNota: A revisão detectou necessidade de ajuste na tradução para melhor adequação ao contexto hebraico antigo e à formalidade teológica requerida. No entanto, a solicitação especifica que, em caso de imprecisão, deve ser fornecido apenas o texto final corrigido sem explicações adicionais.\n\nE viu o azar e eis que o azar estava nas paredes da casa, manchas esverdeadas ou avermelhadas, e sua aparência era inferior à parede."
   },
   {
     "verse": 38,
-    "original": "וְיָצָ֧א הַכֹּהֵ֛ן מִן־הַבַּ֖יִת אֶל־פֶּ֣תַח הַבָּ֑יִת וְהִסְגִּ֥יר אֶת־הַבַּ֖יִת שִׁבְעַ֥ת יָמִֽים׃",
+    "original": "<span data-strong=\"H3318\">וְיָצָ֧א</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֣תַח</span> <span data-strong=\"H1004\">הַבָּ֑יִת</span> <span data-strong=\"H5462\">וְהִסְגִּ֥יר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִֽים׃</span>",
     "transliteration": "veyatsa' hakhohen min-havayit 'el-fetah havayit vehisegiyr 'et-havayit shive'at yamiym.",
     "translation": "E saiu o sacerdote da casa até à porta da casa, e fechou a casa sete dias."
   },
   {
     "verse": 39,
-    "original": "וְשָׁ֥ב הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בְּקִירֹ֥ת הַבָּֽיִת׃",
+    "original": "<span data-strong=\"H7725\">וְשָׁ֥ב</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֑י</span> <span data-strong=\"H7200\">וְרָאָ֕ה</span> <span data-strong=\"H2009\">וְהִנֵּ֛ה</span> <span data-strong=\"H6581\">פָּשָׂ֥ה</span> <span data-strong=\"H5061\">הַנֶּ֖גַע</span> <span data-strong=\"H7023\">בְּקִירֹ֥ת</span> <span data-strong=\"H1004\">הַבָּֽיִת׃</span>",
     "transliteration": "veshav hakhohen vayvom hasheviy'iy vera'ah vehineh fasah hanega' vekiyrot havayit.",
     "translation": "E o sacerdote voltará no sétimo dia e examinará, e eis que a praga se espalhou pelas paredes da casa."
   },
   {
     "verse": 40,
-    "original": "וְצִוָּה֙ הַכֹּהֵ֔ן וְחִלְּצוּ֙ אֶת־הָ֣אֲבָנִ֔ים אֲשֶׁ֥ר בָּהֵ֖ן הַנָּ֑גַע וְהִשְׁלִ֤יכוּ אֶתְהֶן֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+    "original": "<span data-strong=\"H6680\">וְצִוָּה֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H2502\">וְחִלְּצוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H68\">הָ֣אֲבָנִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2004\">בָּהֵ֖ן</span> <span data-strong=\"H5061\">הַנָּ֑גַע</span> <span data-strong=\"H7993\">וְהִשְׁלִ֤יכוּ</span> <span data-strong=\"H2004\">אֶתְהֶן֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֣וּץ</span> <span data-strong=\"H5892\">לָעִ֔יר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4725\">מָק֖וֹם</span> <span data-strong=\"H2931\">טָמֵֽא׃</span>",
     "transliteration": "vetsivah hakhohen vehiletsv 'et-ha'avaniym 'asher vahen hanaga' vehisheliykhv 'etehen 'el-mihvts la'iyr 'el-makvom tame'.",
     "translation": "E o sacerdote ordenará que se retirem as pedras nas quais está o lúgubre sinal, e lançá-las-ão fora da cidade, a um lugar impuro."
   },
   {
     "verse": 41,
-    "original": "וְאֶת־הַבַּ֛יִת יַקְצִ֥עַ מִבַּ֖יִת סָבִ֑יב וְשָׁפְכ֗וּ אֶת־הֶֽעָפָר֙ אֲשֶׁ֣ר הִקְצ֔וּ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1004\">הַבַּ֛יִת</span> <span data-strong=\"H7106\">יַקְצִ֥עַ</span> <span data-strong=\"H1004\">מִבַּ֖יִת</span> <span data-strong=\"H5439\">סָבִ֑יב</span> <span data-strong=\"H8210\">וְשָׁפְכ֗וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6083\">הֶֽעָפָר֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7096\">הִקְצ֔וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֣וּץ</span> <span data-strong=\"H5892\">לָעִ֔יר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4725\">מָק֖וֹם</span> <span data-strong=\"H2931\">טָמֵֽא׃</span>",
     "transliteration": "ve'et-havayit yaketsi'a mivayit saviyv veshafekhv 'et-he'afar 'asher hiketsv 'el-mihvts la'iyr 'el-makvom tame'.",
     "translation": "E a casa será cercada de forma meticulosa ao redor, e o entulho que for separado será derramado para fora da cidade, a um lugar impuro."
   },
   {
     "verse": 42,
-    "original": "וְלָקְחוּ֙ אֲבָנִ֣ים אֲחֵר֔וֹת וְהֵבִ֖יאוּ אֶל־תַּ֣חַת הָאֲבָנִ֑ים וְעָפָ֥ר אַחֵ֛ר יִקַּ֖ח וְטָ֥ח אֶת־הַבָּֽיִת׃",
+    "original": "<span data-strong=\"H3947\">וְלָקְחוּ֙</span> <span data-strong=\"H68\">אֲבָנִ֣ים</span> <span data-strong=\"H312\">אֲחֵר֔וֹת</span> <span data-strong=\"H935\">וְהֵבִ֖יאוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H68\">הָאֲבָנִ֑ים</span> <span data-strong=\"H6083\">וְעָפָ֥ר</span> <span data-strong=\"H312\">אַחֵ֛ר</span> <span data-strong=\"H3947\">יִקַּ֖ח</span> <span data-strong=\"H2902\">וְטָ֥ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבָּֽיִת׃</span>",
     "transliteration": "velakehv 'avaniym 'ahervot veheviy'v 'el-tahat ha'avaniym ve'afar 'aher yikah vetah 'et-havayit.",
     "translation": "E tomarão outras pedras e as trarão em lugar das pedras, e levarão outro pó e passarão sobre a casa."
   },
   {
     "verse": 43,
-    "original": "וְאִם־יָשׁ֤וּב הַנֶּ֙גַע֙ וּפָרַ֣ח בַּבַּ֔יִת אַחַ֖ר חִלֵּ֣ץ אֶת־הָאֲבָנִ֑ים וְאַחֲרֵ֛י הִקְצ֥וֹת אֶת־הַבַּ֖יִת וְאַחֲרֵ֥י הִטּֽוֹחַ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H7725\">יָשׁ֤וּב</span> <span data-strong=\"H5061\">הַנֶּ֙גַע֙</span> <span data-strong=\"H6524\">וּפָרַ֣ח</span> <span data-strong=\"H1004\">בַּבַּ֔יִת</span> <span data-strong=\"H310\">אַחַ֖ר</span> <span data-strong=\"H2502\">חִלֵּ֣ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H68\">הָאֲבָנִ֑ים</span> <span data-strong=\"H310\">וְאַחֲרֵ֛י</span> <span data-strong=\"H7096\">הִקְצ֥וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H310\">וְאַחֲרֵ֥י</span> <span data-strong=\"H2902\">הִטּֽוֹחַ׃</span>",
     "transliteration": "ve'im-yashvv hanega' vfarah vavayit 'ahar hilets 'et-ha'avaniym ve'aharey hiketsvot 'et-havayit ve'aharey hitvoha.",
     "translation": "E se o negão retornar e florescer na casa, depois de ter removido as pedras, e depois de esfregado a casa, e depois de calada a casa."
   },
   {
     "verse": 44,
-    "original": "וּבָא֙ הַכֹּהֵ֔ן וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בַּבָּ֑יִת צָרַ֨עַת מַמְאֶ֥רֶת הִ֛וא בַּבַּ֖יִת טָמֵ֥א הֽוּא׃",
+    "original": "<span data-strong=\"H935\">וּבָא֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H7200\">וְרָאָ֕ה</span> <span data-strong=\"H2009\">וְהִנֵּ֛ה</span> <span data-strong=\"H6581\">פָּשָׂ֥ה</span> <span data-strong=\"H5061\">הַנֶּ֖גַע</span> <span data-strong=\"H1004\">בַּבָּ֑יִת</span> <span data-strong=\"H6883\">צָרַ֨עַת</span> <span data-strong=\"H3992\">מַמְאֶ֥רֶת</span> <span data-strong=\"H1931\">הִ֛וא</span> <span data-strong=\"H1004\">בַּבַּ֖יִת</span> <span data-strong=\"H2931\">טָמֵ֥א</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "vva' hakhohen vera'ah vehineh fasah hanega' vavayit tsara'at mame'eret hiv' vavayit tame' hv'.",
     "translation": "E o sacerdote entrará e observará, e eis que a mancha se alastrou na casa; é contágio de lepra na casa; está impura."
   },
   {
     "verse": 45,
-    "original": "וְנָתַ֣ץ אֶת־הַבַּ֗יִת אֶת־אֲבָנָיו֙ וְאֶת־עֵצָ֔יו וְאֵ֖ת כׇּל־עֲפַ֣ר הַבָּ֑יִת וְהוֹצִיא֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+    "original": "<span data-strong=\"H5422\">וְנָתַ֣ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֗יִת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אֲבָנָיו֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">עֵצָ֔יו</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6083\">עֲפַ֣ר</span> <span data-strong=\"H1004\">הַבָּ֑יִת</span> <span data-strong=\"H3318\">וְהוֹצִיא֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֣וּץ</span> <span data-strong=\"H5892\">לָעִ֔יר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4725\">מָק֖וֹם</span> <span data-strong=\"H2931\">טָמֵֽא׃</span>",
     "transliteration": "venatats 'et-havayit 'et-'avanayv ve'et-'etsayv ve'et khol-'afar havayit vehvotsiy' 'el-mihvts la'iyr 'el-makvom tame'.",
     "translation": "E derribará a casa, as suas pedras e os seus madeiros, e todo o pó da casa, e os lançará fora da cidade, a um lugar imundo."
   },
   {
     "verse": 46,
-    "original": "וְהַבָּא֙ אֶל־הַבַּ֔יִת כׇּל־יְמֵ֖י הִסְגִּ֣יר אֹת֑וֹ יִטְמָ֖א עַד־הָעָֽרֶב׃",
+    "original": "<span data-strong=\"H935\">וְהַבָּא֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1004\">הַבַּ֔יִת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵ֖י</span> <span data-strong=\"H5462\">הִסְגִּ֣יר</span> <span data-strong=\"H2050\">אֹת֑וֹ</span> <span data-strong=\"H2930\">יִטְמָ֖א</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H6153\">הָעָֽרֶב׃</span>",
     "transliteration": "vehava' 'el-havayit khol-yemey hisegiyr 'otvo yitema' 'ad-ha'arev.",
     "translation": "E quem entrar na casa, todos os dias que estiver em isolamento, se contaminará até o anoitecer."
   },
   {
     "verse": 47,
-    "original": "וְהַשֹּׁכֵ֣ב בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָ֑יו וְהָאֹכֵ֣ל בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָֽיו׃",
+    "original": "<span data-strong=\"H7901\">וְהַשֹּׁכֵ֣ב</span> <span data-strong=\"H1004\">בַּבַּ֔יִת</span> <span data-strong=\"H3526\">יְכַבֵּ֖ס</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בְּגָדָ֑יו</span> <span data-strong=\"H398\">וְהָאֹכֵ֣ל</span> <span data-strong=\"H1004\">בַּבַּ֔יִת</span> <span data-strong=\"H3526\">יְכַבֵּ֖ס</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בְּגָדָֽיו׃</span>",
     "transliteration": "vehashokhev vavayit yekhaves 'et-vegadayv veha'okhel vavayit yekhaves 'et-vegadayv.",
     "translation": "E o que dorme na casa lavará suas vestes, e o que come na casa lavará suas vestes."
   },
   {
     "verse": 48,
-    "original": "וְאִם־בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־הַבָּ֑יִת וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H935\">בֹּ֨א</span> <span data-strong=\"H935\">יָבֹ֜א</span> <span data-strong=\"H3548\">הַכֹּהֵ֗ן</span> <span data-strong=\"H7200\">וְרָאָה֙</span> <span data-strong=\"H2009\">וְ֠הִנֵּ֠ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H6581\">פָשָׂ֤ה</span> <span data-strong=\"H5061\">הַנֶּ֙גַע֙</span> <span data-strong=\"H1004\">בַּבַּ֔יִת</span> <span data-strong=\"H310\">אַחֲרֵ֖י</span> <span data-strong=\"H2902\">הִטֹּ֣חַ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבָּ֑יִת</span> <span data-strong=\"H2891\">וְטִהַ֤ר</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֔יִת</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H7495\">נִרְפָּ֖א</span> <span data-strong=\"H5061\">הַנָּֽגַע׃</span>",
     "transliteration": "ve'im-vo' yavo' hakhohen vera'ah vehineh lo'-fasah hanega' vavayit 'aharey hitoha 'et-havayit vetihar hakhohen 'et-havayit khiy nirefa' hanaga'.",
     "translation": "E se o sacerdote entrar e vir que a lepra não se alastrou na casa após o revestimento das paredes, o sacerdote declarará pura a casa, pois a lepra foi sarada."
   },
   {
     "verse": 49,
-    "original": "וְלָקַ֛ח לְחַטֵּ֥א אֶת־הַבַּ֖יִת שְׁתֵּ֣י צִפֳּרִ֑ים וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֛ח</span> <span data-strong=\"H2398\">לְחַטֵּ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H8147\">שְׁתֵּ֣י</span> <span data-strong=\"H6833\">צִפֳּרִ֑ים</span> <span data-strong=\"H6086\">וְעֵ֣ץ</span> <span data-strong=\"H730\">אֶ֔רֶז</span> <span data-strong=\"H8144\">וּשְׁנִ֥י</span> <span data-strong=\"H8438\">תוֹלַ֖עַת</span> <span data-strong=\"H231\">וְאֵזֹֽב׃</span>",
     "transliteration": "velakah lehate' 'et-havayit shetey tsiforiym ve'ets 'erez vsheniy tvola'at ve'ezov.",
     "translation": "E tomará para o que cometeu a impureza da casa, duas aves vivas, e madeira de cedro, e lã escarlate e erva-hortelã."
   },
   {
     "verse": 50,
-    "original": "וְשָׁחַ֖ט אֶת־הַצִּפֹּ֣ר הָאֶחָ֑ת אֶל־כְּלִי־חֶ֖רֶשׂ עַל־מַ֥יִם חַיִּֽים׃",
+    "original": "<span data-strong=\"H7819\">וְשָׁחַ֖ט</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6833\">הַצִּפֹּ֣ר</span> <span data-strong=\"H259\">הָאֶחָ֑ת</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3627\">כְּלִי</span>־<span data-strong=\"H2789\">חֶ֖רֶשׂ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4325\">מַ֥יִם</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "veshahat 'et-hatsifor ha'ehat 'el-kheliy-heres 'al-mayim hayiym.",
     "translation": "E imolará a pomba sobre vaso de barro por cima de águas viventes."
   },
   {
     "verse": 51,
-    "original": "וְלָקַ֣ח אֶת־עֵֽץ־הָ֠אֶ֠רֶז וְאֶת־הָ֨אֵזֹ֜ב וְאֵ֣ת&thinsp;<b>׀</b> שְׁנִ֣י הַתּוֹלַ֗עַת וְאֵת֮ הַצִּפֹּ֣ר הַֽחַיָּה֒ וְטָבַ֣ל אֹתָ֗ם בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחוּטָ֔ה וּבַמַּ֖יִם הַֽחַיִּ֑ים וְהִזָּ֥ה אֶל־הַבַּ֖יִת שֶׁ֥בַע פְּעָמִֽים׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6086\">עֵֽץ</span>־<span data-strong=\"H730\">הָ֠אֶ֠רֶז</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H231\">הָ֨אֵזֹ֜ב</span> <span data-strong=\"H853\">וְאֵ֣ת&thinsp;<b>׀</b></span> <span data-strong=\"H8144\">שְׁנִ֣י</span> <span data-strong=\"H8438\">הַתּוֹלַ֗עַת</span> <span data-strong=\"H853\">וְאֵת֮</span> <span data-strong=\"H6833\">הַצִּפֹּ֣ר</span> <span data-strong=\"H2416\">הַֽחַיָּה֒</span> <span data-strong=\"H2881\">וְטָבַ֣ל</span> <span data-strong=\"H3963\">אֹתָ֗ם</span> <span data-strong=\"H1818\">בְּדַם֙</span> <span data-strong=\"H6833\">הַצִּפֹּ֣ר</span> <span data-strong=\"H7819\">הַשְּׁחוּטָ֔ה</span> <span data-strong=\"H4325\">וּבַמַּ֖יִם</span> <span data-strong=\"H2416\">הַֽחַיִּ֑ים</span> <span data-strong=\"H5137\">וְהִזָּ֥ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H7651\">שֶׁ֥בַע</span> <span data-strong=\"H6471\">פְּעָמִֽים׃</span>",
     "transliteration": "velakah 'et-'ets-ha'erez ve'et-ha'ezov ve'et&thinsp;<b>|</b> sheniy hatvola'at ve'et hatsifor hahayah vetaval 'otam vedam hatsifor hashehvtah vvamayim hahayiym vehizah 'el-havayit sheva' fe'amiym.",
     "translation": "E tomará o cedro e o hissopo e a escarlate e a ave viva e os imergirá no sangue da ave morta e nas águas vivas e aspergirá sobre a casa sete vezes."
   },
   {
     "verse": 52,
-    "original": "וְחִטֵּ֣א אֶת־הַבַּ֔יִת בְּדַם֙ הַצִּפּ֔וֹר וּבַמַּ֖יִם הַֽחַיִּ֑ים וּבַצִּפֹּ֣ר הַחַיָּ֗ה וּבְעֵ֥ץ הָאֶ֛רֶז וּבָאֵזֹ֖ב וּבִשְׁנִ֥י הַתּוֹלָֽעַת׃",
+    "original": "<span data-strong=\"H2398\">וְחִטֵּ֣א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֔יִת</span> <span data-strong=\"H1818\">בְּדַם֙</span> <span data-strong=\"H6833\">הַצִּפּ֔וֹר</span> <span data-strong=\"H4325\">וּבַמַּ֖יִם</span> <span data-strong=\"H2416\">הַֽחַיִּ֑ים</span> <span data-strong=\"H6833\">וּבַצִּפֹּ֣ר</span> <span data-strong=\"H2416\">הַחַיָּ֗ה</span> <span data-strong=\"H6086\">וּבְעֵ֥ץ</span> <span data-strong=\"H730\">הָאֶ֛רֶז</span> <span data-strong=\"H231\">וּבָאֵזֹ֖ב</span> <span data-strong=\"H8144\">וּבִשְׁנִ֥י</span> <span data-strong=\"H8438\">הַתּוֹלָֽעַת׃</span>",
     "transliteration": "vehite' 'et-havayit vedam hatsifvor vvamayim hahayiym vvatsifor hahayah vve'ets ha'erez vva'ezov vvisheniy hatvola'at.",
     "translation": "E purge a casa com o sangue da pomba e com as águas vivas, com a pomba viva, com a madeira de cedro, com o hissopo e com a lã vermelha."
   },
   {
     "verse": 53,
-    "original": "וְשִׁלַּ֞ח אֶת־הַצִּפֹּ֧ר הַֽחַיָּ֛ה אֶל־מִח֥וּץ לָעִ֖יר אֶל־פְּנֵ֣י הַשָּׂדֶ֑ה וְכִפֶּ֥ר עַל־הַבַּ֖יִת וְטָהֵֽר׃",
+    "original": "<span data-strong=\"H7971\">וְשִׁלַּ֞ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6833\">הַצִּפֹּ֧ר</span> <span data-strong=\"H2416\">הַֽחַיָּ֛ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֥וּץ</span> <span data-strong=\"H5892\">לָעִ֖יר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6440\">פְּנֵ֣י</span> <span data-strong=\"H7704\">הַשָּׂדֶ֑ה</span> <span data-strong=\"H3722\">וְכִפֶּ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H2891\">וְטָהֵֽר׃</span>",
     "transliteration": "veshilah 'et-hatsifor hahayah 'el-mihvts la'iyr 'el-feney hasadeh vekhifer 'al-havayit vetaher.",
     "translation": "E deixará voar a ave viva fora da cidade, diante do campo, e fará expiação pela casa, purificando-a."
   },
   {
     "verse": 54,
-    "original": "זֹ֖את הַתּוֹרָ֑ה לְכׇל־נֶ֥גַע הַצָּרַ֖עַת וְלַנָּֽתֶק׃",
+    "original": "<span data-strong=\"H2063\">זֹ֖את</span> <span data-strong=\"H8451\">הַתּוֹרָ֑ה</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H5061\">נֶ֥גַע</span> <span data-strong=\"H6883\">הַצָּרַ֖עַת</span> <span data-strong=\"H5424\">וְלַנָּֽתֶק׃</span>",
     "transliteration": "zo't hatvorah lekhol-nega' hatsara'at velanatek.",
     "translation": "Esta é a lei para todo o azedar da lepra e para a escorrência.\n\nCorreção:\nEsta é a lei para toda a lepra e para qualquer secreção."
   },
   {
     "verse": 55,
-    "original": "וּלְצָרַ֥עַת הַבֶּ֖גֶד וְלַבָּֽיִת׃",
+    "original": "<span data-strong=\"H6883\">וּלְצָרַ֥עַת</span> <span data-strong=\"H899\">הַבֶּ֖גֶד</span> <span data-strong=\"H1004\">וְלַבָּֽיִת׃</span>",
     "transliteration": "vletsara'at haveged velavayit.",
     "translation": "E para a lepra do manto e da casa."
   },
   {
     "verse": 56,
-    "original": "וְלַשְׂאֵ֥ת וְלַסַּפַּ֖חַת וְלַבֶּהָֽרֶת׃",
+    "original": "<span data-strong=\"H7613\">וְלַשְׂאֵ֥ת</span> <span data-strong=\"H5597\">וְלַסַּפַּ֖חַת</span> <span data-strong=\"H934\">וְלַבֶּהָֽרֶת׃</span>",
     "transliteration": "velase'et velasafahat velaveharet.",
     "translation": "E para a asa, e para a saliência, e para o bulbo."
   },

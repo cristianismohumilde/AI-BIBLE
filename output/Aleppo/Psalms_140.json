@@ -1,55 +1,55 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֗חַ</span> <span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "lamenatseha mizemvor ledavid.",
     "translation": "Ao encantador, um salmo de Davi."
   },
   {
     "verse": 2,
-    "original": "חַלְּצֵ֣נִי יְ֭הֹוָה מֵאָדָ֣ם רָ֑ע מֵאִ֖ישׁ חֲמָסִ֣ים תִּנְצְרֵֽנִי׃",
+    "original": "<span data-strong=\"H5204\">חַלְּצֵ֣נִי</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H120\">מֵאָדָ֣ם</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H376\">מֵאִ֖ישׁ</span> <span data-strong=\"H2555\">חֲמָסִ֣ים</span> <span data-strong=\"H5204\">תִּנְצְרֵֽנִי׃</span>",
     "transliteration": "haletseniy yehovah me'adam ra' me'iysh hamasiym tinetsereniy.",
     "translation": "Livra-me, Senhor, do homem maligno; guarda-me do ímpio."
   },
   {
     "verse": 3,
-    "original": "אֲשֶׁ֤ר חָשְׁב֣וּ רָע֣וֹת בְּלֵ֑ב כׇּל־י֝֗וֹם יָג֥וּרוּ מִלְחָמֽוֹת׃",
+    "original": "<span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H2803\">חָשְׁב֣וּ</span> <span data-strong=\"H7451\">רָע֣וֹת</span> <span data-strong=\"H3820\">בְּלֵ֑ב</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">י֝֗וֹם</span> <span data-strong=\"H1481\">יָג֥וּרוּ</span> <span data-strong=\"H4421\">מִלְחָמֽוֹת׃</span>",
     "transliteration": "'asher hashevv ra'vot velev khol-yvom yagvrv milehamvot.",
     "translation": "que conceberam males no coração, todo dia se preparam para guerras."
   },
   {
     "verse": 4,
-    "original": "שָׁ֥נְנ֣וּ לְשׁוֹנָם֮ כְּֽמוֹ־נָ֫חָ֥שׁ חֲמַ֥ת עַכְשׁ֑וּב תַּ֖חַת שְׂפָתֵ֣ימוֹ סֶֽלָה׃",
+    "original": "<span data-strong=\"H8150\">שָׁ֥נְנ֣וּ</span> <span data-strong=\"H3963\">לְשׁוֹנָם֮</span> <span data-strong=\"H3644\">כְּֽמוֹ</span>־<span data-strong=\"H5175\">נָ֫חָ֥שׁ</span> <span data-strong=\"H2534\">חֲמַ֥ת</span> <span data-strong=\"H5919\">עַכְשׁ֑וּב</span> <span data-strong=\"H8478\">תַּ֖חַת</span> <span data-strong=\"H3963\">שְׂפָתֵ֣ימוֹ</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "shanenv leshvonam khemvo-nahash hamat 'akheshvv tahat sefateymvo selah.",
     "translation": "Amaram suas línguas como serpente venenosa, sob seus lábios, selá."
   },
   {
     "verse": 5,
-    "original": "שׇׁמְרֵ֤נִי יְהֹוָ֨ה&thinsp;<b>׀</b> מִ֘ידֵ֤י רָשָׁ֗ע מֵאִ֣ישׁ חֲמָסִ֣ים תִּנְצְרֵ֑נִי אֲשֶׁ֥ר חָ֝שְׁב֗וּ לִדְח֥וֹת פְּעָמָֽי׃",
+    "original": "<span data-strong=\"H5204\">שׇׁמְרֵ֤נִי</span> <span data-strong=\"H3068\">יְהֹוָ֨ה&thinsp;<b>׀</b></span> <span data-strong=\"H3027\">מִ֘ידֵ֤י</span> <span data-strong=\"H7563\">רָשָׁ֗ע</span> <span data-strong=\"H376\">מֵאִ֣ישׁ</span> <span data-strong=\"H2555\">חֲמָסִ֣ים</span> <span data-strong=\"H5204\">תִּנְצְרֵ֑נִי</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2803\">חָ֝שְׁב֗וּ</span> <span data-strong=\"H1760\">לִדְח֥וֹת</span> <span data-strong=\"H2967\">פְּעָמָֽי׃</span>",
     "transliteration": "shomereniy yehovah&thinsp;<b>|</b> miydey rasha' me'iysh hamasiym tinetsereniy 'asher hashevv lidehvot fe'amay.",
     "translation": "Guarda-me, Senhor, dos ímpios; livra-me do homem violento que planeja me fazer tropeçar."
   },
   {
     "verse": 6,
-    "original": "טָ֥מְנֽוּ־גֵאִ֨ים&thinsp;<b>׀</b> פַּ֡ח לִ֗י וַחֲבָלִ֗ים פָּ֣רְשׂוּ רֶ֭שֶׁת לְיַד־מַעְגָּ֑ל מֹקְשִׁ֖ים שָׁתוּ־לִ֣י סֶֽלָה׃",
+    "original": "<span data-strong=\"H2934\">טָ֥מְנֽוּ</span>־<span data-strong=\"H1343\">גֵאִ֨ים&thinsp;<b>׀</b></span> <span data-strong=\"H6341\">פַּ֡ח</span> <span data-strong=\"H2967\">לִ֗י</span> <span data-strong=\"H2256\">וַחֲבָלִ֗ים</span> <span data-strong=\"H6566\">פָּ֣רְשׂוּ</span> <span data-strong=\"H7568\">רֶ֭שֶׁת</span> <span data-strong=\"H3027\">לְיַד</span>־<span data-strong=\"H4570\">מַעְגָּ֑ל</span> <span data-strong=\"H4170\">מֹקְשִׁ֖ים</span> <span data-strong=\"H7896\">שָׁתוּ</span>־<span data-strong=\"H2967\">לִ֣י</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "tamenv-ge'iym&thinsp;<b>|</b> fah liy vahavaliym faresv reshet leyad-ma'egal mokeshiym shatv-liy selah.",
     "translation": "Os ímpios esconderam laços para mim, e as cordas estenderam uma rede junto à roda; armaram ciladas para mim. Selá."
   },
   {
     "verse": 7,
-    "original": "אָמַ֣רְתִּי לַ֭יהֹוָה אֵ֣לִי אָ֑תָּה הַאֲזִ֥ינָה יְ֝הֹוָ֗ה ק֣וֹל תַּחֲנוּנָֽי׃",
+    "original": "<span data-strong=\"H559\">אָמַ֣רְתִּי</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H2967\">אֵ֣לִי</span> <span data-strong=\"H859\">אָ֑תָּה</span> <span data-strong=\"H1886\">הַאֲזִ֥ינָה</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H6963\">ק֣וֹל</span> <span data-strong=\"H2967\">תַּחֲנוּנָֽי׃</span>",
     "transliteration": "'amaretiy layhovah 'eliy 'atah ha'aziynah yehovah kvol tahanvnay.",
     "translation": "Disse ao Senhor: tu és meu Deus; ouve, ó Senhor, a voz das minhas súplicas."
   },
   {
     "verse": 8,
-    "original": "יֱהֹוִ֣ה אֲ֭דֹנָי עֹ֣ז יְשׁוּעָתִ֑י סַכֹּ֥תָה לְ֝רֹאשִׁ֗י בְּי֣וֹם נָֽשֶׁק׃",
+    "original": "<span data-strong=\"H3069\">יֱהֹוִ֣ה</span> <span data-strong=\"H2967\">אֲ֭דֹנָי</span> <span data-strong=\"H5797\">עֹ֣ז</span> <span data-strong=\"H2967\">יְשׁוּעָתִ֑י</span> <span data-strong=\"H5526\">סַכֹּ֥תָה</span> <span data-strong=\"H2967\">לְ֝רֹאשִׁ֗י</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H5402\">נָֽשֶׁק׃</span>",
     "transliteration": "yehovih 'adonay 'oz yeshv'atiy sakhotah lero'shiy veyvom nashek.",
     "translation": "Senhor, o SENHOR, é a força da minha salvação; Ele cobriu a minha cabeça no dia do conflito."
   },
   {
     "verse": 9,
-    "original": "אַל־תִּתֵּ֣ן יְ֭הֹוָה מַאֲוַיֵּ֣י רָשָׁ֑ע זְמָמ֥וֹ אַל־תָּ֝פֵ֗ק יָר֥וּמוּ סֶֽלָה׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5414\">תִּתֵּ֣ן</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3970\">מַאֲוַיֵּ֣י</span> <span data-strong=\"H7563\">רָשָׁ֑ע</span> <span data-strong=\"H2050\">זְמָמ֥וֹ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H6329\">תָּ֝פֵ֗ק</span> <span data-strong=\"H7311\">יָר֥וּמוּ</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "'al-titen yehovah ma'avayey rasha' zemamvo 'al-tafek yarvmv selah.",
     "translation": "Não concedas, Senhor, os desejos dos ímpios; não permitas que suas malvadas intenções prosperem, subam, selah."
   },
@@ -67,7 +67,7 @@
   },
   {
     "verse": 12,
-    "original": "אִ֥ישׁ לָשׁוֹן֮ בַּל־יִכּ֢וֹן בָּ֫אָ֥רֶץ אִישׁ־חָמָ֥ס רָ֑ע יְ֝צוּדֶ֗נּוּ לְמַדְחֵפֹֽת׃",
+    "original": "<span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H3956\">לָשׁוֹן֮</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H3559\">יִכּ֢וֹן</span> <span data-strong=\"H776\">בָּ֫אָ֥רֶץ</span> <span data-strong=\"H376\">אִישׁ</span>־<span data-strong=\"H2555\">חָמָ֥ס</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H5105\">יְ֝צוּדֶ֗נּוּ</span> <span data-strong=\"H4073\">לְמַדְחֵפֹֽת׃</span>",
     "transliteration": "'iysh lashvon val-yikhvon va'arets 'iysh-hamas ra' yetsvdenv lemadehefot.",
     "translation": "Homem de língua falsa não existirá na terra; homem violento e malicioso será caçado para cativeiro."
   },

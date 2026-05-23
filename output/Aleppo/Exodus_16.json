@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַיִּסְעוּ֙ מֵֽאֵילִ֔ם וַיָּבֹ֜אוּ כׇּל־עֲדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ אֶל־מִדְבַּר־סִ֔ין אֲשֶׁ֥ר בֵּין־אֵילִ֖ם וּבֵ֣ין סִינָ֑י בַּחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י לְצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסְעוּ֙</span> <span data-strong=\"H362\">מֵֽאֵילִ֔ם</span> <span data-strong=\"H935\">וַיָּבֹ֜אוּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5712\">עֲדַ֤ת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4057\">מִדְבַּר</span>־<span data-strong=\"H5512\">סִ֔ין</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H996\">בֵּין</span>־<span data-strong=\"H362\">אֵילִ֖ם</span> <span data-strong=\"H996\">וּבֵ֣ין</span> <span data-strong=\"H5514\">סִינָ֑י</span> <span data-strong=\"H2568\">בַּחֲמִשָּׁ֨ה</span> <span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H3117\">יוֹם֙</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H8145\">הַשֵּׁנִ֔י</span> <span data-strong=\"H3963\">לְצֵאתָ֖ם</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "vayise'v me'eylim vayavo'v khol-'adat veney-yisera'el 'el-midevar-siyn 'asher veyn-'eylim vveyn siynay vahamishah 'asar yvom lahodesh hasheniy letse'tam me'erets mitserayim.",
     "translation": "Partiram de Elim e toda a congregação dos filhos de Israel chegou ao Deserto de Sin, que está entre Elim e Sinai; foi no quinze do segundo mês após saírem da terra do Egito."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן־הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר־י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם־לֹֽא׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H2967\">הִנְנִ֨י</span> <span data-strong=\"H4305\">מַמְטִ֥יר</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H3899\">לֶ֖חֶם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8064\">הַשָּׁמָ֑יִם</span> <span data-strong=\"H3318\">וְיָצָ֨א</span> <span data-strong=\"H5971\">הָעָ֤ם</span> <span data-strong=\"H3950\">וְלָֽקְטוּ֙</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3117\">י֣וֹם</span> <span data-strong=\"H2050\">בְּיוֹמ֔וֹ</span> <span data-strong=\"H4616\">לְמַ֧עַן</span> <span data-strong=\"H5105\">אֲנַסֶּ֛נּוּ</span> <span data-strong=\"H1980\">הֲיֵלֵ֥ךְ</span> <span data-strong=\"H2967\">בְּתוֹרָתִ֖י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3808\">לֹֽא׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh hineniy mametiyr lakhem lehem min-hashamayim veyatsa' ha'am velaketv devar-yvom veyvomvo lema'an 'anasenv hayelekhe vetvoratiy 'im-lo'.",
     "translation": "E disse o Senhor a Moisés: Eis que eu farei chover pão dos céus, e o povo sairá e colherá porção diária em cada dia, para que Eu possa provar neles se andarão conforme a Minha Torá ou não."
   },
@@ -31,7 +31,7 @@
   },
   {
     "verse": 6,
-    "original": "וַיֹּ֤אמֶר מֹשֶׁה֙ וְאַהֲרֹ֔ן אֶֽל־כׇּל־בְּנֵ֖י יִשְׂרָאֵ֑ל עֶ֕רֶב וִֽידַעְתֶּ֕ם כִּ֧י יְהֹוָ֛ה הוֹצִ֥יא אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H175\">וְאַהֲרֹ֔ן</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1121\">בְּנֵ֖י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H6153\">עֶ֕רֶב</span> <span data-strong=\"H3045\">וִֽידַעְתֶּ֕ם</span> <span data-strong=\"H3588\">כִּ֧י</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3318\">הוֹצִ֥יא</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "vayo'mer mosheh ve'aharon 'el-khol-veney yisera'el 'erev viyda'etem khiy yehovah hvotsiy' 'etekhem me'erets mitserayim.",
     "translation": "E Moisés e Aarão falaram a todos os filhos de Israel: \"À tarde, saberéis que o Senhor vos tirou da terra do Egito.\""
   },
@@ -43,13 +43,13 @@
   },
   {
     "verse": 8,
-    "original": "וַיֹּ֣אמֶר מֹשֶׁ֗ה בְּתֵ֣ת יְהֹוָה֩ לָכֶ֨ם בָּעֶ֜רֶב בָּשָׂ֣ר לֶאֱכֹ֗ל וְלֶ֤חֶם בַּבֹּ֙קֶר֙ לִשְׂבֹּ֔עַ בִּשְׁמֹ֤עַ יְהֹוָה֙ אֶת־תְּלֻנֹּ֣תֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם מַלִּינִ֖ם עָלָ֑יו וְנַ֣חְנוּ מָ֔ה לֹא־עָלֵ֥ינוּ תְלֻנֹּתֵיכֶ֖ם כִּ֥י עַל־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H5414\">בְּתֵ֣ת</span> <span data-strong=\"H3068\">יְהֹוָה֩</span> <span data-strong=\"H3641\">לָכֶ֨ם</span> <span data-strong=\"H6153\">בָּעֶ֜רֶב</span> <span data-strong=\"H1320\">בָּשָׂ֣ר</span> <span data-strong=\"H398\">לֶאֱכֹ֗ל</span> <span data-strong=\"H3899\">וְלֶ֤חֶם</span> <span data-strong=\"H1242\">בַּבֹּ֙קֶר֙</span> <span data-strong=\"H7646\">לִשְׂבֹּ֔עַ</span> <span data-strong=\"H8085\">בִּשְׁמֹ֤עַ</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3641\">תְּלֻנֹּ֣תֵיכֶ֔ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H859\">אַתֶּ֥ם</span> <span data-strong=\"H3885\">מַלִּינִ֖ם</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H5168\">וְנַ֣חְנוּ</span> <span data-strong=\"H4100\">מָ֔ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5105\">עָלֵ֥ינוּ</span> <span data-strong=\"H3641\">תְלֻנֹּתֵיכֶ֖ם</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayo'mer mosheh vetet yehovah lakhem va'erev vasar le'ekhol velehem vavoker lisevo'a vishemo'a yehovah 'et-telunoteykhem 'asher-'atem maliynim 'alayv venahenv mah lo'-'aleynv telunoteykhem khiy 'al-yehovah.",
     "translation": "E Moisés disse: \"Quando o Senhor vos der à noite carne para comer e pela manhã pão em abundância, pois ouviu o Senhor as vossas queixas por quais vociferastes contra ele; nós, que somos? Não são a Deus que pertencem as vossas queixas?\""
   },
   {
     "verse": 9,
-    "original": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל־אַהֲרֹ֔ן אֱמֹ֗ר אֶֽל־כׇּל־עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל קִרְב֖וּ לִפְנֵ֣י יְהֹוָ֑ה כִּ֣י שָׁמַ֔ע אֵ֖ת תְּלֻנֹּתֵיכֶֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H175\">אַהֲרֹ֔ן</span> <span data-strong=\"H559\">אֱמֹ֗ר</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5712\">עֲדַת֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H7126\">קִרְב֖וּ</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H8085\">שָׁמַ֔ע</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H3641\">תְּלֻנֹּתֵיכֶֽם׃</span>",
     "transliteration": "vayo'mer mosheh 'el-'aharon 'emor 'el-khol-'adat veney yisera'el kirevv lifeney yehovah khiy shama' 'et telunoteykhem.",
     "translation": "E Moisés disse a Arão: Dize a toda a congregação dos filhos de Israel: Cheguem-se perante o Senhor, pois ele ouviu as vossas queixas."
   },
@@ -61,97 +61,97 @@
   },
   {
     "verse": 11,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 12,
-    "original": "שָׁמַ֗עְתִּי אֶת־תְּלוּנֹּת֮ בְּנֵ֣י יִשְׂרָאֵל֒ דַּבֵּ֨ר אֲלֵהֶ֜ם לֵאמֹ֗ר בֵּ֤ין הָֽעַרְבַּ֙יִם֙ תֹּאכְל֣וּ בָשָׂ֔ר וּבַבֹּ֖קֶר תִּשְׂבְּעוּ־לָ֑חֶם וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+    "original": "<span data-strong=\"H8085\">שָׁמַ֗עְתִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8519\">תְּלוּנֹּת֮</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֒</span> <span data-strong=\"H1696\">דַּבֵּ֨ר</span> <span data-strong=\"H3963\">אֲלֵהֶ֜ם</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H996\">בֵּ֤ין</span> <span data-strong=\"H6153\">הָֽעַרְבַּ֙יִם֙</span> <span data-strong=\"H398\">תֹּאכְל֣וּ</span> <span data-strong=\"H1320\">בָשָׂ֔ר</span> <span data-strong=\"H1242\">וּבַבֹּ֖קֶר</span> <span data-strong=\"H7646\">תִּשְׂבְּעוּ</span>־<span data-strong=\"H3899\">לָ֑חֶם</span> <span data-strong=\"H3045\">וִֽידַעְתֶּ֕ם</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶֽם׃</span>",
     "transliteration": "shama'etiy 'et-telvnot veney yisera'el daver 'alehem le'mor veyn ha'arevayim to'khelv vasar vvavoker tiseve'v-lahem viyda'etem khiy 'aniy yehovah 'eloheykhem.",
     "translation": "Ouvi as queixas dos filhos de Israel; fala-lhes assim: No meio da tarde comerão carne e pela manhã se fartarão de pão, e então saberão que eu sou o Senhor, vosso Deus."
   },
   {
     "verse": 13,
-    "original": "וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת־הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י</span> <span data-strong=\"H6153\">בָעֶ֔רֶב</span> <span data-strong=\"H5927\">וַתַּ֣עַל</span> <span data-strong=\"H7958\">הַשְּׂלָ֔ו</span> <span data-strong=\"H3680\">וַתְּכַ֖ס</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֶ֑ה</span> <span data-strong=\"H1242\">וּבַבֹּ֗קֶר</span> <span data-strong=\"H1961\">הָֽיְתָה֙</span> <span data-strong=\"H7902\">שִׁכְבַ֣ת</span> <span data-strong=\"H2919\">הַטַּ֔ל</span> <span data-strong=\"H5439\">סָבִ֖יב</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶֽה׃</span>",
     "transliteration": "vayehiy va'erev vata'al haselav vatekhas 'et-hamahaneh vvavoker hayetah shikhevat hatal saviyv lamahaneh.",
     "translation": "E foi à tarde, e subiu a névoa sobre o acampamento, e pela manhã se tornou uma camada de orvalho ao redor do acampamento."
   },
   {
     "verse": 14,
-    "original": "וַתַּ֖עַל שִׁכְבַ֣ת הַטָּ֑ל וְהִנֵּ֞ה עַל־פְּנֵ֤י הַמִּדְבָּר֙ דַּ֣ק מְחֻסְפָּ֔ס דַּ֥ק כַּכְּפֹ֖ר עַל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H5927\">וַתַּ֖עַל</span> <span data-strong=\"H7902\">שִׁכְבַ֣ת</span> <span data-strong=\"H2919\">הַטָּ֑ל</span> <span data-strong=\"H2009\">וְהִנֵּ֞ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6440\">פְּנֵ֤י</span> <span data-strong=\"H4057\">הַמִּדְבָּר֙</span> <span data-strong=\"H1851\">דַּ֣ק</span> <span data-strong=\"H2636\">מְחֻסְפָּ֔ס</span> <span data-strong=\"H1851\">דַּ֥ק</span> <span data-strong=\"H3713\">כַּכְּפֹ֖ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "vata'al shikhevat hatal vehineh 'al-feney hamidevar dak mehusefas dak khakhefor 'al-ha'arets.",
     "translation": "Subiu a camada da orvalho, e eis que sobre o rosto do deserto estava uma fina casca, fina como pó espalhado sobre a terra."
   },
   {
     "verse": 15,
-    "original": "וַיִּרְא֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל־אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א יָדְע֖וּ מַה־ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה לָכֶ֖ם לְאׇכְלָֽה׃",
+    "original": "<span data-strong=\"H7200\">וַיִּרְא֣וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H559\">וַיֹּ֨אמְר֜וּ</span> <span data-strong=\"H376\">אִ֤ישׁ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">אָחִיו֙</span> <span data-strong=\"H4478\">מָ֣ן</span> <span data-strong=\"H1931\">ה֔וּא</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3045\">יָדְע֖וּ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H1931\">ה֑וּא</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H3963\">אֲלֵהֶ֔ם</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H3899\">הַלֶּ֔חֶם</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H5414\">נָתַ֧ן</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H402\">לְאׇכְלָֽה׃</span>",
     "transliteration": "vayire'v veney-yisera'el vayo'merv 'iysh 'el-'ahiyv man hv' khiy lo' yade'v mah-hv' vayo'mer mosheh 'alehem hv' halehem 'asher natan yehovah lakhem le'okhelah.",
     "translation": "E os filhos de Israel viram e disseram, cada um ao seu irmão: \"O que é isto?\", pois não sabiam o que era. Então Moisés lhes disse: \"Esta é a comida que o Senhor vos tem dado para comer.\""
   },
   {
     "verse": 16,
-    "original": "זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהֹוָ֔ה לִקְט֣וּ מִמֶּ֔נּוּ אִ֖ישׁ לְפִ֣י אׇכְל֑וֹ עֹ֣מֶר לַגֻּלְגֹּ֗לֶת מִסְפַּר֙ נַפְשֹׁ֣תֵיכֶ֔ם אִ֛ישׁ לַאֲשֶׁ֥ר בְּאׇהֳל֖וֹ תִּקָּֽחוּ׃",
+    "original": "<span data-strong=\"H2088\">זֶ֤ה</span> <span data-strong=\"H1697\">הַדָּבָר֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6680\">צִוָּ֣ה</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3950\">לִקְט֣וּ</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H6310\">לְפִ֣י</span> <span data-strong=\"H2050\">אׇכְל֑וֹ</span> <span data-strong=\"H6016\">עֹ֣מֶר</span> <span data-strong=\"H1538\">לַגֻּלְגֹּ֗לֶת</span> <span data-strong=\"H4557\">מִסְפַּר֙</span> <span data-strong=\"H3641\">נַפְשֹׁ֣תֵיכֶ֔ם</span> <span data-strong=\"H376\">אִ֛ישׁ</span> <span data-strong=\"H834\">לַאֲשֶׁ֥ר</span> <span data-strong=\"H2050\">בְּאׇהֳל֖וֹ</span> <span data-strong=\"H3947\">תִּקָּֽחוּ׃</span>",
     "transliteration": "zeh hadavar 'asher tsivah yehovah liketv mimenv 'iysh lefiy 'okhelvo 'omer lagulegolet misefar nafeshoteykhem 'iysh la'asher ve'oholvo tikahv.",
     "translation": "Esta é a palavra que o Senhor ordenou: cada um colha dela conforme seu consumo; um omer por cabeça, segundo a contagem das almas dele; cada um deve levar para aqueles em sua tenda."
   },
   {
     "verse": 17,
-    "original": "וַיַּעֲשׂוּ־כֵ֖ן בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיִּלְקְט֔וּ הַמַּרְבֶּ֖ה וְהַמַּמְעִֽיט׃",
+    "original": "<span data-strong=\"H6213\">וַיַּעֲשׂוּ</span>־<span data-strong=\"H3651\">כֵ֖ן</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H3950\">וַֽיִּלְקְט֔וּ</span> <span data-strong=\"H7235\">הַמַּרְבֶּ֖ה</span> <span data-strong=\"H4591\">וְהַמַּמְעִֽיט׃</span>",
     "transliteration": "vaya'asv-khen veney yisera'el vayileketv hamareveh vehamame'iyt.",
     "translation": "E assim fizeram os filhos de Israel, e ajuntaram o que muito produziu e o que pouco produziu."
   },
   {
     "verse": 18,
-    "original": "וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א הֶחְסִ֑יר אִ֥ישׁ לְפִֽי־אׇכְל֖וֹ לָקָֽטוּ׃",
+    "original": "<span data-strong=\"H4058\">וַיָּמֹ֣דּוּ</span> <span data-strong=\"H6016\">בָעֹ֔מֶר</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H5736\">הֶעְדִּיף֙</span> <span data-strong=\"H7235\">הַמַּרְבֶּ֔ה</span> <span data-strong=\"H4591\">וְהַמַּמְעִ֖יט</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H2637\">הֶחְסִ֑יר</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H6310\">לְפִֽי</span>־<span data-strong=\"H2050\">אׇכְל֖וֹ</span> <span data-strong=\"H3950\">לָקָֽטוּ׃</span>",
     "transliteration": "vayamodv va'omer velo' he'ediyf hamareveh vehamame'iyt lo' hehesiyr 'iysh lefiy-'okhelvo lakatv.",
     "translation": "E mediram com o ômer, e não havia sobra ao que trouxe muito, nem falta ao que trouxe pouco; cada um conforme sua necessidade ceifou."
   },
   {
     "verse": 19,
-    "original": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֲלֵהֶ֑ם אִ֕ישׁ אַל־יוֹתֵ֥ר מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H3963\">אֲלֵהֶ֑ם</span> <span data-strong=\"H376\">אִ֕ישׁ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3498\">יוֹתֵ֥ר</span> <span data-strong=\"H5105\">מִמֶּ֖נּוּ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1242\">בֹּֽקֶר׃</span>",
     "transliteration": "vayo'mer mosheh 'alehem 'iysh 'al-yvoter mimenv 'ad-voker.",
     "translation": "E Moisés lhes disse: Nenhum homem deixe sobrar dele até a manhã."
   },
   {
     "verse": 20,
-    "original": "וְלֹא־שָׁמְע֣וּ אֶל־מֹשֶׁ֗ה וַיּוֹתִ֨רוּ אֲנָשִׁ֤ים מִמֶּ֙נּוּ֙ עַד־בֹּ֔קֶר וַיָּ֥רֻם תּוֹלָעִ֖ים וַיִּבְאַ֑שׁ וַיִּקְצֹ֥ף עֲלֵהֶ֖ם מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H8085\">שָׁמְע֣וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H3498\">וַיּוֹתִ֨רוּ</span> <span data-strong=\"H376\">אֲנָשִׁ֤ים</span> <span data-strong=\"H5105\">מִמֶּ֙נּוּ֙</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1242\">בֹּ֔קֶר</span> <span data-strong=\"H7426\">וַיָּ֥רֻם</span> <span data-strong=\"H8438\">תּוֹלָעִ֖ים</span> <span data-strong=\"H887\">וַיִּבְאַ֑שׁ</span> <span data-strong=\"H7107\">וַיִּקְצֹ֥ף</span> <span data-strong=\"H3963\">עֲלֵהֶ֖ם</span> <span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "velo'-shame'v 'el-mosheh vayvotirv 'anashiym mimenv 'ad-voker vayarum tvola'iym vayive'ash vayiketsof 'alehem mosheh.",
     "translation": "E eles não ouviram a Moisés, e sobraram dele até à manhã; brotou gafanhotos nele e ele se corrompeu. E Moisés se indignou com eles.\n\nCorreção necessária:\n\nE eles não ouviram a Moisés, e sobraram dele até pela manhã; proliferaram vermes nele e ele se corrompeu. E Moisés se indignou com eles."
   },
   {
     "verse": 21,
-    "original": "וַיִּלְקְט֤וּ אֹתוֹ֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אׇכְל֑וֹ וְחַ֥ם הַשֶּׁ֖מֶשׁ וְנָמָֽס׃",
+    "original": "<span data-strong=\"H3950\">וַיִּלְקְט֤וּ</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H1242\">בַּבֹּ֣קֶר</span> <span data-strong=\"H1242\">בַּבֹּ֔קֶר</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H6310\">כְּפִ֣י</span> <span data-strong=\"H2050\">אׇכְל֑וֹ</span> <span data-strong=\"H2552\">וְחַ֥ם</span> <span data-strong=\"H8121\">הַשֶּׁ֖מֶשׁ</span> <span data-strong=\"H4549\">וְנָמָֽס׃</span>",
     "transliteration": "vayileketv 'otvo vavoker vavoker 'iysh khefiy 'okhelvo veham hashemesh venamas.",
     "translation": "E recolhiam-no de manhã em cada manhã, cada um conforme sua refeição; e quando o sol se elevava, derretia-se."
   },
   {
     "verse": 22,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַשִּׁשִּׁ֗י לָֽקְט֥וּ לֶ֙חֶם֙ מִשְׁנֶ֔ה שְׁנֵ֥י הָעֹ֖מֶר לָאֶחָ֑ד וַיָּבֹ֙אוּ֙ כׇּל־נְשִׂיאֵ֣י הָֽעֵדָ֔ה וַיַּגִּ֖ידוּ לְמֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H8345\">הַשִּׁשִּׁ֗י</span> <span data-strong=\"H3950\">לָֽקְט֥וּ</span> <span data-strong=\"H3899\">לֶ֙חֶם֙</span> <span data-strong=\"H4932\">מִשְׁנֶ֔ה</span> <span data-strong=\"H8147\">שְׁנֵ֥י</span> <span data-strong=\"H6016\">הָעֹ֖מֶר</span> <span data-strong=\"H259\">לָאֶחָ֑ד</span> <span data-strong=\"H935\">וַיָּבֹ֙אוּ֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5387\">נְשִׂיאֵ֣י</span> <span data-strong=\"H5712\">הָֽעֵדָ֔ה</span> <span data-strong=\"H5046\">וַיַּגִּ֖ידוּ</span> <span data-strong=\"H4872\">לְמֹשֶֽׁה׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> vayvom hashishiy laketv lehem misheneh sheney ha'omer la'ehad vayavo'v khol-nesiy'ey ha'edah vayagiydv lemosheh.",
     "translation": "E foi no dia sexto que recolheram o dobro de pão, dois ômeros por cada um, e todos os príncipes da assembleia vieram e o anunciaram a Moisés."
   },
   {
     "verse": 23,
-    "original": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם ה֚וּא אֲשֶׁ֣ר דִּבֶּ֣ר יְהֹוָ֔ה שַׁבָּת֧וֹן שַׁבַּת־קֹ֛דֶשׁ לַֽיהֹוָ֖ה מָחָ֑ר אֵ֣ת אֲשֶׁר־תֹּאפ֞וּ אֵפ֗וּ וְאֵ֤ת אֲשֶֽׁר־תְּבַשְּׁלוּ֙ בַּשֵּׁ֔לוּ וְאֵת֙ כׇּל־הָ֣עֹדֵ֔ף הַנִּ֧יחוּ לָכֶ֛ם לְמִשְׁמֶ֖רֶת עַד־הַבֹּֽקֶר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3963\">אֲלֵהֶ֗ם</span> <span data-strong=\"H1931\">ה֚וּא</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1696\">דִּבֶּ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H7677\">שַׁבָּת֧וֹן</span> <span data-strong=\"H7676\">שַׁבַּת</span>־<span data-strong=\"H6944\">קֹ֛דֶשׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H4279\">מָחָ֑ר</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H644\">תֹּאפ֞וּ</span> <span data-strong=\"H644\">אֵפ֗וּ</span> <span data-strong=\"H853\">וְאֵ֤ת</span> <span data-strong=\"H834\">אֲשֶֽׁר</span>־<span data-strong=\"H1310\">תְּבַשְּׁלוּ֙</span> <span data-strong=\"H1310\">בַּשֵּׁ֔לוּ</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5736\">הָ֣עֹדֵ֔ף</span> <span data-strong=\"H5117\">הַנִּ֧יחוּ</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H4931\">לְמִשְׁמֶ֖רֶת</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1242\">הַבֹּֽקֶר׃</span>",
     "transliteration": "vayo'mer 'alehem hv' 'asher diver yehovah shavatvon shavat-kodesh layhovah mahar 'et 'asher-to'fv 'efv ve'et 'asher-tevashelv vashelv ve'et khol-ha'odef haniyhv lakhem lemishemeret 'ad-havoker.",
     "translation": "E disse-lhes: Este é o que falou o Senhor: Sábado de repouso, santo sábado ao Senhor, amanhã. Cozam quanto puderem cozinhar e assem quanto puderem assar; quanto sobrar, guardem-no para a manhã seguinte."
   },
   {
     "verse": 24,
-    "original": "וַיַּנִּ֤יחוּ אֹתוֹ֙ עַד־הַבֹּ֔קֶר כַּאֲשֶׁ֖ר צִוָּ֣ה מֹשֶׁ֑ה וְלֹ֣א הִבְאִ֔ישׁ וְרִמָּ֖ה לֹא־הָ֥יְתָה בּֽוֹ׃",
+    "original": "<span data-strong=\"H5117\">וַיַּנִּ֤יחוּ</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1242\">הַבֹּ֔קֶר</span> <span data-strong=\"H834\">כַּאֲשֶׁ֖ר</span> <span data-strong=\"H6680\">צִוָּ֣ה</span> <span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H887\">הִבְאִ֔ישׁ</span> <span data-strong=\"H7415\">וְרִמָּ֖ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H1961\">הָ֥יְתָה</span> <span data-strong=\"H2050\">בּֽוֹ׃</span>",
     "transliteration": "vayaniyhv 'otvo 'ad-havoker kha'asher tsivah mosheh velo' hive'iysh verimah lo'-hayetah vvo.",
     "translation": "E o deixaram até a manhã, conforme Moisés ordenara, e ele não se corrompeu nem houve verme nele."
   },
   {
     "verse": 25,
-    "original": "וַיֹּ֤אמֶר מֹשֶׁה֙ אִכְלֻ֣הוּ הַיּ֔וֹם כִּֽי־שַׁבָּ֥ת הַיּ֖וֹם לַיהֹוָ֑ה הַיּ֕וֹם לֹ֥א תִמְצָאֻ֖הוּ בַּשָּׂדֶֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H1930\">אִכְלֻ֣הוּ</span> <span data-strong=\"H3117\">הַיּ֔וֹם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7676\">שַׁבָּ֥ת</span> <span data-strong=\"H3117\">הַיּ֖וֹם</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H3117\">הַיּ֕וֹם</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1930\">תִמְצָאֻ֖הוּ</span> <span data-strong=\"H7704\">בַּשָּׂדֶֽה׃</span>",
     "transliteration": "vayo'mer mosheh 'ikheluhv hayvom khiy-shavat hayvom layhovah hayvom lo' timetsa'uhv vasadeh.",
     "translation": "Moisés disse: Comê-lo-ão hoje, pois hoje é o sábado do Senhor; não o encontrarão no campo."
   },
   {
     "verse": 26,
-    "original": "שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ וּבַיּ֧וֹם הַשְּׁבִיעִ֛י שַׁבָּ֖ת לֹ֥א יִֽהְיֶה־בּֽוֹ׃",
+    "original": "<span data-strong=\"H8337\">שֵׁ֥שֶׁת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H1930\">תִּלְקְטֻ֑הוּ</span> <span data-strong=\"H3117\">וּבַיּ֧וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֛י</span> <span data-strong=\"H7676\">שַׁבָּ֖ת</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H2050\">בּֽוֹ׃</span>",
     "transliteration": "sheshet yamiym tileketuhv vvayvom hasheviy'iy shavat lo' yiheyeh-vvo.",
     "translation": "Seis dias recolhê-lo-ão, mas no sétimo dia haverá sábado; nesse não haverá."
   },
@@ -163,49 +163,49 @@
   },
   {
     "verse": 28,
-    "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה עַד־אָ֙נָה֙ מֵֽאַנְתֶּ֔ם לִשְׁמֹ֥ר מִצְוֺתַ֖י וְתוֹרֹתָֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H575\">אָ֙נָה֙</span> <span data-strong=\"H3985\">מֵֽאַנְתֶּ֔ם</span> <span data-strong=\"H8104\">לִשְׁמֹ֥ר</span> <span data-strong=\"H2967\">מִצְוֺתַ֖י</span> <span data-strong=\"H2967\">וְתוֹרֹתָֽי׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh 'ad-'anah me'anetem lishemor mitsevotay vetvorotay.",
     "translation": "E disse o Senhor a Moisés: Até quando vos recusais a guardar meus mandamentos e leis?"
   },
   {
     "verse": 29,
-    "original": "רְא֗וּ כִּֽי־יְהֹוָה֮ נָתַ֣ן לָכֶ֣ם הַשַּׁבָּת֒ עַל־כֵּ֠ן ה֣וּא נֹתֵ֥ן לָכֶ֛ם בַּיּ֥וֹם הַשִּׁשִּׁ֖י לֶ֣חֶם יוֹמָ֑יִם שְׁב֣וּ&thinsp;<b>׀</b> אִ֣ישׁ תַּחְתָּ֗יו אַל־יֵ֥צֵא אִ֛ישׁ מִמְּקֹמ֖וֹ בַּיּ֥וֹם הַשְּׁבִיעִֽי׃",
+    "original": "<span data-strong=\"H7200\">רְא֗וּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3068\">יְהֹוָה֮</span> <span data-strong=\"H5414\">נָתַ֣ן</span> <span data-strong=\"H3641\">לָכֶ֣ם</span> <span data-strong=\"H7676\">הַשַּׁבָּת֒</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֠ן</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H5414\">נֹתֵ֥ן</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H8345\">הַשִּׁשִּׁ֖י</span> <span data-strong=\"H3899\">לֶ֣חֶם</span> <span data-strong=\"H3117\">יוֹמָ֑יִם</span> <span data-strong=\"H3427\">שְׁב֣וּ&thinsp;<b>׀</b></span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H2050\">תַּחְתָּ֗יו</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3318\">יֵ֥צֵא</span> <span data-strong=\"H376\">אִ֛ישׁ</span> <span data-strong=\"H2050\">מִמְּקֹמ֖וֹ</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִֽי׃</span>",
     "transliteration": "re'v khiy-yehovah natan lakhem hashavat 'al-khen hv' noten lakhem vayvom hashishiy lehem yvomayim shevv&thinsp;<b>|</b> 'iysh tahetayv 'al-yetse' 'iysh mimekomvo vayvom hasheviy'iy.",
     "translation": "Vede, pois o Senhor vos deu o sábado; portanto no dia sexto ele vos dará pão para dois dias. Permanecei cada um em vossa morada e nenhum homem saia do seu lugar no sétimo dia."
   },
   {
     "verse": 30,
-    "original": "וַיִּשְׁבְּת֥וּ הָעָ֖ם בַּיּ֥וֹם הַשְּׁבִעִֽי׃",
+    "original": "<span data-strong=\"H7673\">וַיִּשְׁבְּת֥וּ</span> <span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִעִֽי׃</span>",
     "transliteration": "vayishevetv ha'am vayvom hashevi'iy.",
     "translation": "E o povo se aquietou no sétimo dia."
   },
   {
     "verse": 31,
-    "original": "וַיִּקְרְא֧וּ בֵֽית־יִשְׂרָאֵ֛ל אֶת־שְׁמ֖וֹ מָ֑ן וְה֗וּא כְּזֶ֤רַע גַּד֙ לָבָ֔ן וְטַעְמ֖וֹ כְּצַפִּיחִ֥ת בִּדְבָֽשׁ׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרְא֧וּ</span> <span data-strong=\"H1004\">בֵֽית</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">שְׁמ֖וֹ</span> <span data-strong=\"H4478\">מָ֑ן</span> <span data-strong=\"H1931\">וְה֗וּא</span> <span data-strong=\"H2233\">כְּזֶ֤רַע</span> <span data-strong=\"H1407\">גַּד֙</span> <span data-strong=\"H3836\">לָבָ֔ן</span> <span data-strong=\"H2050\">וְטַעְמ֖וֹ</span> <span data-strong=\"H6838\">כְּצַפִּיחִ֥ת</span> <span data-strong=\"H1706\">בִּדְבָֽשׁ׃</span>",
     "transliteration": "vayikere'v veyt-yisera'el 'et-shemvo man vehv' khezera' gad lavan veta'emvo khetsafiyhit videvash.",
     "translation": "E a casa de Israel chamou seu nome Mâna, e era como semente de gergelim branca, e seu sabor era como o de biscoito em mel."
   },
   {
     "verse": 32,
-    "original": "וַיֹּ֣אמֶר מֹשֶׁ֗ה זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהֹוָ֔ה מְלֹ֤א הָעֹ֙מֶר֙ מִמֶּ֔נּוּ לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶ֑ם לְמַ֣עַן&thinsp;<b>׀</b> יִרְא֣וּ אֶת־הַלֶּ֗חֶם אֲשֶׁ֨ר הֶאֱכַ֤לְתִּי אֶתְכֶם֙ בַּמִּדְבָּ֔ר בְּהוֹצִיאִ֥י אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H2088\">זֶ֤ה</span> <span data-strong=\"H1697\">הַדָּבָר֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6680\">צִוָּ֣ה</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H4393\">מְלֹ֤א</span> <span data-strong=\"H6016\">הָעֹ֙מֶר֙</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H4931\">לְמִשְׁמֶ֖רֶת</span> <span data-strong=\"H3641\">לְדֹרֹתֵיכֶ֑ם</span> <span data-strong=\"H4616\">לְמַ֣עַן&thinsp;<b>׀</b></span> <span data-strong=\"H7200\">יִרְא֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3899\">הַלֶּ֗חֶם</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H398\">הֶאֱכַ֤לְתִּי</span> <span data-strong=\"H3641\">אֶתְכֶם֙</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֔ר</span> <span data-strong=\"H5204\">בְּהוֹצִיאִ֥י</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "vayo'mer mosheh zeh hadavar 'asher tsivah yehovah melo' ha'omer mimenv lemishemeret ledoroteykhem lema'an&thinsp;<b>|</b> yire'v 'et-halehem 'asher he'ekhaletiy 'etekhem vamidevar vehvotsiy'iy 'etekhem me'erets mitserayim.",
     "translation": "E Moisés disse: \"Esta é a ordem que o Senhor deu: Encha-se um ômer dele para guardar como relicário para vossas gerações, para que vejam o pão com que os alimei no deserto ao tirá-los da terra do Egito.\""
   },
   {
     "verse": 33,
-    "original": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן־שָׁ֥מָּה מְלֹֽא־הָעֹ֖מֶר מָ֑ן וְהַנַּ֤ח אֹתוֹ֙ לִפְנֵ֣י יְהֹוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֜ה</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H175\">אַהֲרֹ֗ן</span> <span data-strong=\"H3947\">קַ֚ח</span> <span data-strong=\"H6803\">צִנְצֶ֣נֶת</span> <span data-strong=\"H259\">אַחַ֔ת</span> <span data-strong=\"H5414\">וְתֶן</span>־<span data-strong=\"H1886\">שָׁ֥מָּה</span> <span data-strong=\"H4393\">מְלֹֽא</span>־<span data-strong=\"H6016\">הָעֹ֖מֶר</span> <span data-strong=\"H4478\">מָ֑ן</span> <span data-strong=\"H5117\">וְהַנַּ֤ח</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H4931\">לְמִשְׁמֶ֖רֶת</span> <span data-strong=\"H3641\">לְדֹרֹתֵיכֶֽם׃</span>",
     "transliteration": "vayo'mer mosheh 'el-'aharon kah tsinetsenet 'ahat veten-shamah melo'-ha'omer man vehanah 'otvo lifeney yehovah lemishemeret ledoroteykhem.",
     "translation": "E Moisés disse a Arão: Toma uma taça e coloca nela um omer de maná, e deposita-o diante do Senhor para ser guardado por vossas gerações."
   },
   {
     "verse": 34,
-    "original": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה וַיַּנִּיחֵ֧הוּ אַהֲרֹ֛ן לִפְנֵ֥י הָעֵדֻ֖ת לְמִשְׁמָֽרֶת׃",
+    "original": "<span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H1930\">וַיַּנִּיחֵ֧הוּ</span> <span data-strong=\"H175\">אַהֲרֹ֛ן</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H5715\">הָעֵדֻ֖ת</span> <span data-strong=\"H4931\">לְמִשְׁמָֽרֶת׃</span>",
     "transliteration": "kha'asher tsivah yehovah 'el-mosheh vayaniyhehv 'aharon lifeney ha'edut lemishemaret.",
     "translation": "Como ordenou o Senhor a Moisés, Arão o deixou diante do testemunho para guarda."
   },
   {
     "verse": 35,
-    "original": "וּבְנֵ֣י יִשְׂרָאֵ֗ל אָֽכְל֤וּ אֶת־הַמָּן֙ אַרְבָּעִ֣ים שָׁנָ֔ה עַד־בֹּאָ֖ם אֶל־אֶ֣רֶץ נוֹשָׁ֑בֶת אֶת־הַמָּן֙ אָֽכְל֔וּ עַד־בֹּאָ֕ם אֶל־קְצֵ֖ה אֶ֥רֶץ כְּנָֽעַן׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H398\">אָֽכְל֤וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4478\">הַמָּן֙</span> <span data-strong=\"H705\">אַרְבָּעִ֣ים</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3963\">בֹּאָ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H3427\">נוֹשָׁ֑בֶת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4478\">הַמָּן֙</span> <span data-strong=\"H398\">אָֽכְל֔וּ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3963\">בֹּאָ֕ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7097\">קְצֵ֖ה</span> <span data-strong=\"H776\">אֶ֥רֶץ</span> <span data-strong=\"H3667\">כְּנָֽעַן׃</span>",
     "transliteration": "vveney yisera'el 'akhelv 'et-haman 'areva'iym shanah 'ad-vo'am 'el-'erets nvoshavet 'et-haman 'akhelv 'ad-vo'am 'el-ketseh 'erets khena'an.",
     "translation": "E os filhos de Israel comeram o maná quarenta anos, até que chegaram à terra habitada. Comeram o maná até que chegaram ao limite da terra de Canaã."
   },

@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "לַ֭מְנַצֵּחַ עַל־שׁוּשַׁ֣ן עֵד֑וּת מִכְתָּ֖ם לְדָוִ֣ד לְלַמֵּֽד׃",
+    "original": "<span data-strong=\"H5329\">לַ֭מְנַצֵּחַ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7799\">שׁוּשַׁ֣ן</span> <span data-strong=\"H5715\">עֵד֑וּת</span> <span data-strong=\"H4387\">מִכְתָּ֖ם</span> <span data-strong=\"H1732\">לְדָוִ֣ד</span> <span data-strong=\"H3925\">לְלַמֵּֽד׃</span>",
     "transliteration": "lamenatseha 'al-shvshan 'edvt mikhetam ledavid lelamed.",
     "translation": "Para o maestro sobre a flauta de testemunho, poema de Davi para ensinar:"
   },
@@ -13,25 +13,25 @@
   },
   {
     "verse": 3,
-    "original": "אֱ֭לֹהִים זְנַחְתָּ֣נוּ פְרַצְתָּ֑נוּ אָ֝נַ֗פְתָּ תְּשׁ֣וֹבֵֽב לָֽנוּ׃",
+    "original": "<span data-strong=\"H430\">אֱ֭לֹהִים</span> <span data-strong=\"H5105\">זְנַחְתָּ֣נוּ</span> <span data-strong=\"H5105\">פְרַצְתָּ֑נוּ</span> <span data-strong=\"H599\">אָ֝נַ֗פְתָּ</span> <span data-strong=\"H7725\">תְּשׁ֣וֹבֵֽב</span> <span data-strong=\"H5105\">לָֽנוּ׃</span>",
     "transliteration": "'elohiym zenahetanv feratsetanv 'anafeta teshvovev lanv.",
     "translation": "Deus nos rejeitou, nos despedaçou; Ele se irou e recuou de nós."
   },
   {
     "verse": 4,
-    "original": "הִרְעַ֣שְׁתָּה אֶ֣רֶץ פְּצַמְתָּ֑הּ רְפָ֖ה שְׁבָרֶ֣יהָ כִי־מָֽטָה׃",
+    "original": "<span data-strong=\"H7493\">הִרְעַ֣שְׁתָּה</span> <span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H1886\">פְּצַמְתָּ֑הּ</span> <span data-strong=\"H1886\">רְפָ֖ה</span> <span data-strong=\"H1886\">שְׁבָרֶ֣יהָ</span> <span data-strong=\"H3588\">כִי</span>־<span data-strong=\"H4131\">מָֽטָה׃</span>",
     "transliteration": "hire'ashetah 'erets fetsametah refah shevareyha khiy-matah.",
     "translation": "Tremeu a terra, desfez-se; franzeu-se o mundo, vacilou; pois moveu-se de sua base."
   },
   {
     "verse": 5,
-    "original": "הִרְאִ֣יתָ עַמְּךָ֣ קָשָׁ֑ה הִ֝שְׁקִיתָ֗נוּ יַ֣יִן תַּרְעֵלָֽה׃",
+    "original": "<span data-strong=\"H7200\">הִרְאִ֣יתָ</span> <span data-strong=\"H3509\">עַמְּךָ֣</span> <span data-strong=\"H7186\">קָשָׁ֑ה</span> <span data-strong=\"H5105\">הִ֝שְׁקִיתָ֗נוּ</span> <span data-strong=\"H3196\">יַ֣יִן</span> <span data-strong=\"H8653\">תַּרְעֵלָֽה׃</span>",
     "transliteration": "hire'iyta 'amekha kashah hishekiytanv yayin tare'elah.",
     "translation": "Mostraste o teu povo obstinado, e nos fizeste beber vinho revoltoso."
   },
   {
     "verse": 6,
-    "original": "נָ֘תַ֤תָּה לִּירֵאֶ֣יךָ נֵּ֭ס לְהִתְנוֹסֵ֑ס מִ֝פְּנֵ֗י קֹ֣שֶׁט סֶֽלָה׃",
+    "original": "<span data-strong=\"H5414\">נָ֘תַ֤תָּה</span> <span data-strong=\"H3509\">לִּירֵאֶ֣יךָ</span> <span data-strong=\"H5251\">נֵּ֭ס</span> <span data-strong=\"H5264\">לְהִתְנוֹסֵ֑ס</span> <span data-strong=\"H6440\">מִ֝פְּנֵ֗י</span> <span data-strong=\"H7189\">קֹ֣שֶׁט</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "natatah liyre'eykha nes lehitenvoses mifeney koshet selah.",
     "translation": "Dáste um sinal aos que te temem para escaparem da face do que atira a seta, selá."
   },
@@ -43,37 +43,37 @@
   },
   {
     "verse": 8,
-    "original": "אֱלֹהִ֤ים&thinsp;<b>׀</b> דִּבֶּ֥ר בְּקׇדְשׁ֗וֹ אֶ֫עְלֹ֥זָה אֲחַלְּקָ֥ה שְׁכֶ֑ם וְעֵ֖מֶק סֻכּ֣וֹת אֲמַדֵּֽד׃",
+    "original": "<span data-strong=\"H430\">אֱלֹהִ֤ים&thinsp;<b>׀</b></span> <span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H2050\">בְּקׇדְשׁ֗וֹ</span> <span data-strong=\"H5937\">אֶ֫עְלֹ֥זָה</span> <span data-strong=\"H2505\">אֲחַלְּקָ֥ה</span> <span data-strong=\"H7927\">שְׁכֶ֑ם</span> <span data-strong=\"H6010\">וְעֵ֖מֶק</span> <span data-strong=\"H5523\">סֻכּ֣וֹת</span> <span data-strong=\"H4058\">אֲמַדֵּֽד׃</span>",
     "transliteration": "'elohiym&thinsp;<b>|</b> diver vekodeshvo 'e'elozah 'ahalekah shekhem ve'emek sukhvot 'amaded.",
     "translation": "Deus falou no seu santo: esquadrinharei e medirei Siquem; eu medirei o Vale de Siquem."
   },
   {
     "verse": 9,
-    "original": "לִ֤י גִלְעָ֨ד&thinsp;<b>׀</b> וְלִ֬י מְנַשֶּׁ֗ה וְ֭אֶפְרַיִם מָע֣וֹז רֹאשִׁ֑י יְ֝הוּדָ֗ה מְחֹֽקְקִֽי׃",
+    "original": "<span data-strong=\"H2967\">לִ֤י</span> <span data-strong=\"H1568\">גִלְעָ֨ד&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">וְלִ֬י</span> <span data-strong=\"H4519\">מְנַשֶּׁ֗ה</span> <span data-strong=\"H669\">וְ֭אֶפְרַיִם</span> <span data-strong=\"H4581\">מָע֣וֹז</span> <span data-strong=\"H2967\">רֹאשִׁ֑י</span> <span data-strong=\"H3063\">יְ֝הוּדָ֗ה</span> <span data-strong=\"H2967\">מְחֹֽקְקִֽי׃</span>",
     "transliteration": "liy gile'ad&thinsp;<b>|</b> veliy menasheh ve'eferayim ma'voz ro'shiy yehvdah mehokekiy.",
     "translation": "Giléade é meu, e Manassés também; Efraim é a fortaleza da minha cabeça; Judá, a lei da minha cabeça."
   },
   {
     "verse": 10,
-    "original": "מוֹאָ֤ב&thinsp;<b>׀</b> סִ֬יר רַחְצִ֗י עַל־אֱ֭דוֹם אַשְׁלִ֣יךְ נַעֲלִ֑י עָ֝לַ֗י פְּלֶ֣שֶׁת הִתְרוֹעָֽעִי׃",
+    "original": "<span data-strong=\"H4124\">מוֹאָ֤ב&thinsp;<b>׀</b></span> <span data-strong=\"H5518\">סִ֬יר</span> <span data-strong=\"H2967\">רַחְצִ֗י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H123\">אֱ֭דוֹם</span> <span data-strong=\"H7993\">אַשְׁלִ֣יךְ</span> <span data-strong=\"H2967\">נַעֲלִ֑י</span> <span data-strong=\"H2967\">עָ֝לַ֗י</span> <span data-strong=\"H6429\">פְּלֶ֣שֶׁת</span> <span data-strong=\"H7321\">הִתְרוֹעָֽעִי׃</span>",
     "transliteration": "mvo'av&thinsp;<b>|</b> siyr rahetsiy 'al-'edvom 'asheliykhe na'aliy 'alay feleshet hitervo'a'iy.",
     "translation": "Moabe é um jarro de lodo, sobre Edom lançarei minha sandália; a ti, Filisteia, clamo: \"Atende!\""
   },
   {
     "verse": 11,
-    "original": "מִ֣י יֹ֭בִלֵנִי עִ֣יר מָצ֑וֹר מִ֖י נָחַ֣נִי עַד־אֱדֽוֹם׃",
+    "original": "<span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H5204\">יֹ֭בִלֵנִי</span> <span data-strong=\"H5892\">עִ֣יר</span> <span data-strong=\"H4692\">מָצ֑וֹר</span> <span data-strong=\"H4310\">מִ֖י</span> <span data-strong=\"H5204\">נָחַ֣נִי</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H123\">אֱדֽוֹם׃</span>",
     "transliteration": "miy yovileniy 'iyr matsvor miy nahaniy 'ad-'edvom.",
     "translation": "Quem me levará à cidade fortificada? Quem me guiará até Edom?"
   },
   {
     "verse": 12,
-    "original": "הֲלֹֽא־אַתָּ֣ה אֱלֹהִ֣ים זְנַחְתָּ֑נוּ וְֽלֹא־תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאוֹתֵֽינוּ׃",
+    "original": "<span data-strong=\"H3808\">הֲלֹֽא</span>־<span data-strong=\"H859\">אַתָּ֣ה</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H5105\">זְנַחְתָּ֑נוּ</span> <span data-strong=\"H3808\">וְֽלֹא</span>־<span data-strong=\"H3318\">תֵצֵ֥א</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H5105\">בְּצִבְאוֹתֵֽינוּ׃</span>",
     "transliteration": "halo'-'atah 'elohiym zenahetanv velo'-tetse' 'elohiym vetsive'voteynv.",
     "translation": "Não somos nós, ó Deus, que foste tu nos rejeitaste? E não saiu Deus conosco em nossas hordas?"
   },
   {
     "verse": 13,
-    "original": "הָֽבָה־לָּ֣נוּ עֶזְרָ֣ת מִצָּ֑ר וְ֝שָׁ֗וְא תְּשׁוּעַ֥ת אָדָֽם׃",
+    "original": "<span data-strong=\"H1886\">הָֽבָה</span>־<span data-strong=\"H5105\">לָּ֣נוּ</span> <span data-strong=\"H5833\">עֶזְרָ֣ת</span> <span data-strong=\"H6862\">מִצָּ֑ר</span> <span data-strong=\"H7723\">וְ֝שָׁ֗וְא</span> <span data-strong=\"H8668\">תְּשׁוּעַ֥ת</span> <span data-strong=\"H120\">אָדָֽם׃</span>",
     "transliteration": "havah-lanv 'ezerat mitsar veshave' teshv'at 'adam.",
     "translation": "Dá-nos auxílio na angústia, pois vã é a salvação do homem."
   },

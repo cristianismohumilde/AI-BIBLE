@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2967\">אֵלַ֥י</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E foi a palavra do Senhor para mim, dizendo:"
   },
   {
     "verse": 2,
-    "original": "בֶּן־אָדָ֕ם שִׂ֥ים פָּנֶ֖יךָ אֶל־בְּנֵ֣י עַמּ֑וֹן וְהִנָּבֵ֖א עֲלֵיהֶֽם׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H120\">אָדָ֕ם</span> <span data-strong=\"H7760\">שִׂ֥ים</span> <span data-strong=\"H3509\">פָּנֶ֖יךָ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5983\">עַמּ֑וֹן</span> <span data-strong=\"H5012\">וְהִנָּבֵ֖א</span> <span data-strong=\"H3963\">עֲלֵיהֶֽם׃</span>",
     "transliteration": "ven-'adam siym faneykha 'el-veney 'amvon vehinave' 'aleyhem.",
     "translation": "Filho do homem, dirige tua face para os filhos de Amom e profetiza sobre eles."
   },
   {
     "verse": 3,
-    "original": "וְאָֽמַרְתָּ֙ לִבְנֵ֣י עַמּ֔וֹן שִׁמְע֖וּ דְּבַר־אֲדֹנָ֣י יֱהֹוִ֑ה כֹּה־אָמַ֣ר אֲדֹנָ֣י יֱהֹוִ֡ה יַ֩עַן֩ אׇמְרֵ֨ךְ הֶאָ֜ח אֶל־מִקְדָּשִׁ֣י כִי־נִחָ֗ל וְאֶל־אַדְמַ֤ת יִשְׂרָאֵל֙ כִּ֣י נָשַׁ֔מָּה וְאֶל־בֵּ֣ית יְהוּדָ֔ה כִּ֥י הָלְכ֖וּ בַּגּוֹלָֽה׃",
+    "original": "<span data-strong=\"H559\">וְאָֽמַרְתָּ֙</span> <span data-strong=\"H1121\">לִבְנֵ֣י</span> <span data-strong=\"H5983\">עַמּ֔וֹן</span> <span data-strong=\"H8085\">שִׁמְע֖וּ</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֑ה</span> <span data-strong=\"H3541\">כֹּה</span>־<span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֡ה</span> <span data-strong=\"H3282\">יַ֩עַן֩</span> <span data-strong=\"H3509\">אׇמְרֵ֨ךְ</span> <span data-strong=\"H1889\">הֶאָ֜ח</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2967\">מִקְדָּשִׁ֣י</span> <span data-strong=\"H3588\">כִי</span>־<span data-strong=\"H2490\">נִחָ֗ל</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H127\">אַדְמַ֤ת</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H8074\">נָשַׁ֔מָּה</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H1980\">הָלְכ֖וּ</span> <span data-strong=\"H1473\">בַּגּוֹלָֽה׃</span>",
     "transliteration": "ve'amareta liveney 'amvon shime'v devar-'adonay yehovih khoh-'amar 'adonay yehovih ya'an 'omerekhe he'ah 'el-mikedashiy khiy-nihal ve'el-'ademat yisera'el khiy nashamah ve'el-veyt yehvdah khiy halekhv vagvolah.",
     "translation": "E dirás aos filhos de Amom: Ouvi a palavra do Senhor Yavé! Assim diz o Senhor Yavé: Porquanto vós disseis, Eu hei de possuir seu santuário por herança, e sua terra de Israel será minha por espolio, e da casa de Judá direis que estão em dispersão."
   },
   {
     "verse": 4,
-    "original": "לָכֵ֡ן הִנְנִי֩ נֹתְנָ֨ךְ לִבְנֵי־קֶ֜דֶם לְמוֹרָשָׁ֗ה וְיִשְּׁב֤וּ טִירֽוֹתֵיהֶם֙ בָּ֔ךְ וְנָ֥תְנוּ בָ֖ךְ מִשְׁכְּנֵיהֶ֑ם הֵ֚מָּה יֹאכְל֣וּ פִרְיֵ֔ךְ וְהֵ֖מָּה יִשְׁתּ֥וּ חֲלָבֵֽךְ׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֡ן</span> <span data-strong=\"H2967\">הִנְנִי֩</span> <span data-strong=\"H3509\">נֹתְנָ֨ךְ</span> <span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H6924\">קֶ֜דֶם</span> <span data-strong=\"H4181\">לְמוֹרָשָׁ֗ה</span> <span data-strong=\"H3427\">וְיִשְּׁב֤וּ</span> <span data-strong=\"H3963\">טִירֽוֹתֵיהֶם֙</span> <span data-strong=\"H3509\">בָּ֔ךְ</span> <span data-strong=\"H5414\">וְנָ֥תְנוּ</span> <span data-strong=\"H3509\">בָ֖ךְ</span> <span data-strong=\"H3963\">מִשְׁכְּנֵיהֶ֑ם</span> <span data-strong=\"H1992\">הֵ֚מָּה</span> <span data-strong=\"H398\">יֹאכְל֣וּ</span> <span data-strong=\"H3509\">פִרְיֵ֔ךְ</span> <span data-strong=\"H1992\">וְהֵ֖מָּה</span> <span data-strong=\"H8354\">יִשְׁתּ֥וּ</span> <span data-strong=\"H3509\">חֲלָבֵֽךְ׃</span>",
     "transliteration": "lakhen hineniy notenakhe liveney-kedem lemvorashah veyishevv tiyrvoteyhem vakhe venatenv vakhe mishekheneyhem hemah yo'khelv fireyekhe vehemah yishetv halavekhe.",
     "translation": "Portanto, eis que te entrego às mãos dos filhos do oriente como herança; eles habitarão as tuas fortalezas e estabelecerão aí os seus lares. Eles comerão o teu fruto e beberão o teu leite."
   },
@@ -31,7 +31,7 @@
   },
   {
     "verse": 6,
-    "original": "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה יַ֚עַן מַחְאֲךָ֣ יָ֔ד וְרַקְעֲךָ֖ בְּרָ֑גֶל וַתִּשְׂמַ֤ח בְּכׇל־שָֽׁאטְךָ֙ בְּנֶ֔פֶשׁ אֶל־אַדְמַ֖ת יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3541\">כֹ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H3282\">יַ֚עַן</span> <span data-strong=\"H3509\">מַחְאֲךָ֣</span> <span data-strong=\"H3027\">יָ֔ד</span> <span data-strong=\"H3509\">וְרַקְעֲךָ֖</span> <span data-strong=\"H7272\">בְּרָ֑גֶל</span> <span data-strong=\"H8055\">וַתִּשְׂמַ֤ח</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3509\">שָֽׁאטְךָ֙</span> <span data-strong=\"H5315\">בְּנֶ֔פֶשׁ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H127\">אַדְמַ֖ת</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "khiy khoh 'amar 'adonay yehovih ya'an mahe'akha yad verake'akha veragel vatisemah vekhol-sha'tekha venefesh 'el-'ademat yisera'el.",
     "translation": "Pois assim diz o Senhor, o Senhor: Porque pisaste com os pés e destruíste com a palma da mão, e te rejublaste com toda a malícia do teu ser contra a terra de Israel."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה יַ֗עַן אֲמֹ֤ר מוֹאָב֙ וְשֵׂעִ֔יר הִנֵּ֥ה כְּכׇֽל־הַגּוֹיִ֖ם בֵּ֥ית יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֥ה</span> <span data-strong=\"H559\">אָמַ֖ר</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֑ה</span> <span data-strong=\"H3282\">יַ֗עַן</span> <span data-strong=\"H559\">אֲמֹ֤ר</span> <span data-strong=\"H4124\">מוֹאָב֙</span> <span data-strong=\"H8165\">וְשֵׂעִ֔יר</span> <span data-strong=\"H2009\">הִנֵּ֥ה</span> <span data-strong=\"H3605\">כְּכׇֽל</span>־<span data-strong=\"H1471\">הַגּוֹיִ֖ם</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "khoh 'amar 'adonay yehovih ya'an 'amor mvo'av vese'iyr hineh khekhol-hagvoyim veyt yehvdah.",
     "translation": "Assim diz o Senhor, o Senhor: Porque dizeis de Moabe e de Seir: Eis que sereis como todas as nações, ó casa de Judá."
   },
@@ -55,7 +55,7 @@
   },
   {
     "verse": 10,
-    "original": "לִבְנֵי־קֶ֙דֶם֙ עַל־בְּנֵ֣י עַמּ֔וֹן וּנְתַתִּ֖יהָ לְמוֹרָשָׁ֑ה לְמַ֛עַן לֹא־תִזָּכֵ֥ר בְּנֵֽי־עַמּ֖וֹן בַּגּוֹיִֽם׃",
+    "original": "<span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H6924\">קֶ֙דֶם֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5983\">עַמּ֔וֹן</span> <span data-strong=\"H1886\">וּנְתַתִּ֖יהָ</span> <span data-strong=\"H4181\">לְמוֹרָשָׁ֑ה</span> <span data-strong=\"H4616\">לְמַ֛עַן</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H2142\">תִזָּכֵ֥ר</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H5983\">עַמּ֖וֹן</span> <span data-strong=\"H1471\">בַּגּוֹיִֽם׃</span>",
     "transliteration": "liveney-kedem 'al-veney 'amvon vnetatiyha lemvorashah lema'an lo'-tizakher veney-'amvon vagvoyim.",
     "translation": "Eis sobre os filhos de Amom; e eu a darei em herança; para que não se lembrem os filhos de Amom entre as nações."
   },
@@ -67,31 +67,31 @@
   },
   {
     "verse": 12,
-    "original": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה יַ֣עַן עֲשׂ֥וֹת אֱד֛וֹם בִּנְקֹ֥ם נָקָ֖ם לְבֵ֣ית יְהוּדָ֑ה וַיֶּאְשְׁמ֥וּ אָשׁ֖וֹם וְנִקְּמ֥וּ בָהֶֽם׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H3282\">יַ֣עַן</span> <span data-strong=\"H6213\">עֲשׂ֥וֹת</span> <span data-strong=\"H123\">אֱד֛וֹם</span> <span data-strong=\"H5358\">בִּנְקֹ֥ם</span> <span data-strong=\"H5359\">נָקָ֖ם</span> <span data-strong=\"H1004\">לְבֵ֣ית</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H816\">וַיֶּאְשְׁמ֥וּ</span> <span data-strong=\"H816\">אָשׁ֖וֹם</span> <span data-strong=\"H5358\">וְנִקְּמ֥וּ</span> <span data-strong=\"H3963\">בָהֶֽם׃</span>",
     "transliteration": "khoh 'amar 'adonay yehovih ya'an 'asvot 'edvom vinekom nakam leveyt yehvdah vaye'eshemv 'ashvom venikemv vahem.",
     "translation": "Assim diz o Senhor, o Senhor: Por causa de Edom ter tomado vingança contra a casa de Judá, ele será culpado e receberá sua punição neles."
   },
   {
     "verse": 13,
-    "original": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְנָטִ֤תִי יָדִי֙ עַל־אֱד֔וֹם וְהִכְרַתִּ֥י מִמֶּ֖נָּה אָדָ֣ם וּבְהֵמָ֑ה וּנְתַתִּ֤יהָ חׇרְבָּה֙ מִתֵּימָ֔ן וּדְדָ֖נֶה בַּחֶ֥רֶב יִפֹּֽלוּ׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֗ן</span> <span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H5186\">וְנָטִ֤תִי</span> <span data-strong=\"H2967\">יָדִי֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H123\">אֱד֔וֹם</span> <span data-strong=\"H3772\">וְהִכְרַתִּ֥י</span> <span data-strong=\"H5089\">מִמֶּ֖נָּה</span> <span data-strong=\"H120\">אָדָ֣ם</span> <span data-strong=\"H929\">וּבְהֵמָ֑ה</span> <span data-strong=\"H1886\">וּנְתַתִּ֤יהָ</span> <span data-strong=\"H2723\">חׇרְבָּה֙</span> <span data-strong=\"H8487\">מִתֵּימָ֔ן</span> <span data-strong=\"H1886\">וּדְדָ֖נֶה</span> <span data-strong=\"H2719\">בַּחֶ֥רֶב</span> <span data-strong=\"H5307\">יִפֹּֽלוּ׃</span>",
     "transliteration": "lakhen khoh 'amar 'adonay yehovih venatitiy yadiy 'al-'edvom vehikheratiy mimenah 'adam vvehemah vnetatiyha horevah miteyman vdedaneh vaherev yifolv.",
     "translation": "Portanto, assim diz o Senhor Deus: Estenderei minha mão contra Edom e exterminarei dela homem e animal; farei dela um deserto, de Timna para baixo, e Dedã cairá à espada."
   },
   {
     "verse": 14,
-    "original": "וְנָתַתִּ֨י אֶת־נִקְמָתִ֜י בֶּאֱד֗וֹם בְּיַד֙ עַמִּ֣י יִשְׂרָאֵ֔ל וְעָשׂ֣וּ בֶאֱד֔וֹם כְּאַפִּ֖י וְכַחֲמָתִ֑י וְיָֽדְעוּ֙ אֶת־נִקְמָתִ֔י נְאֻ֖ם אֲדֹנָ֥י יֱהֹוִֽה׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַתִּ֨י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">נִקְמָתִ֜י</span> <span data-strong=\"H123\">בֶּאֱד֗וֹם</span> <span data-strong=\"H3027\">בְּיַד֙</span> <span data-strong=\"H2967\">עַמִּ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H6213\">וְעָשׂ֣וּ</span> <span data-strong=\"H123\">בֶאֱד֔וֹם</span> <span data-strong=\"H2967\">כְּאַפִּ֖י</span> <span data-strong=\"H2967\">וְכַחֲמָתִ֑י</span> <span data-strong=\"H3045\">וְיָֽדְעוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">נִקְמָתִ֔י</span> <span data-strong=\"H5002\">נְאֻ֖ם</span> <span data-strong=\"H2967\">אֲדֹנָ֥י</span> <span data-strong=\"H3069\">יֱהֹוִֽה׃</span>",
     "transliteration": "venatatiy 'et-nikematiy ve'edvom veyad 'amiy yisera'el ve'asv ve'edvom khe'afiy vekhahamatiy veyade'v 'et-nikematiy ne'um 'adonay yehovih.",
     "translation": "E darei minha vingança em Edom pela mão do meu povo Israel, e farão com Edom conforme a minha ira e o meu zelo; e conhecerão minha vingança, diz o Senhor Deus."
   },
   {
     "verse": 15,
-    "original": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה יַ֛עַן עֲשׂ֥וֹת פְּלִשְׁתִּ֖ים בִּנְקָמָ֑ה וַיִּנָּקְמ֤וּ נָקָם֙ בִּשְׁאָ֣ט בְּנֶ֔פֶשׁ לְמַשְׁחִ֖ית אֵיבַ֥ת עוֹלָֽם׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H3282\">יַ֛עַן</span> <span data-strong=\"H6213\">עֲשׂ֥וֹת</span> <span data-strong=\"H6430\">פְּלִשְׁתִּ֖ים</span> <span data-strong=\"H5360\">בִּנְקָמָ֑ה</span> <span data-strong=\"H5358\">וַיִּנָּקְמ֤וּ</span> <span data-strong=\"H5359\">נָקָם֙</span> <span data-strong=\"H7589\">בִּשְׁאָ֣ט</span> <span data-strong=\"H5315\">בְּנֶ֔פֶשׁ</span> <span data-strong=\"H4889\">לְמַשְׁחִ֖ית</span> <span data-strong=\"H342\">אֵיבַ֥ת</span> <span data-strong=\"H5769\">עוֹלָֽם׃</span>",
     "transliteration": "khoh 'amar 'adonay yehovih ya'an 'asvot felishetiym vinekamah vayinakemv nakam vishe'at venefesh lemashehiyt 'eyvat 'volam.",
     "translation": "Assim diz o Senhor, o Senhor: Porque os filisteus agiram com vingança e de fato se vingaram com despeito em seu coração para destruir um inimigo eterno."
   },
   {
     "verse": 16,
-    "original": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה הִנְנִ֨י נוֹטֶ֤ה יָדִי֙ עַל־פְּלִשְׁתִּ֔ים וְהִכְרַתִּ֖י אֶת־כְּרֵתִ֑ים וְהַ֣אֲבַדְתִּ֔י אֶת־שְׁאֵרִ֖ית ח֥וֹף הַיָּֽם׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֗ן</span> <span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H2967\">הִנְנִ֨י</span> <span data-strong=\"H5186\">נוֹטֶ֤ה</span> <span data-strong=\"H2967\">יָדִי֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6430\">פְּלִשְׁתִּ֔ים</span> <span data-strong=\"H3772\">וְהִכְרַתִּ֖י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3774\">כְּרֵתִ֑ים</span> <span data-strong=\"H6\">וְהַ֣אֲבַדְתִּ֔י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7611\">שְׁאֵרִ֖ית</span> <span data-strong=\"H2348\">ח֥וֹף</span> <span data-strong=\"H3220\">הַיָּֽם׃</span>",
     "transliteration": "lakhen khoh 'amar 'adonay yehovih hineniy nvoteh yadiy 'al-felishetiym vehikheratiy 'et-kheretiym veha'avadetiy 'et-she'eriyt hvof hayam.",
     "translation": "Portanto, assim diz o Senhor Deus: Eis que estendo minha mão contra os filisteus, e cortarei os quereteus e farei perecer a remença do litoral do mar."
   },

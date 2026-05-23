@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַשְּׁלִישִׁ֗י וַתִּלְבַּ֤שׁ אֶסְתֵּר֙ מַלְכ֔וּת וַֽתַּעֲמֹ֞ד בַּחֲצַ֤ר בֵּית־הַמֶּ֙לֶךְ֙ הַפְּנִימִ֔ית נֹ֖כַח בֵּ֣ית הַמֶּ֑לֶךְ וְ֠הַמֶּ֠לֶךְ יוֹשֵׁ֞ב עַל־כִּסֵּ֤א מַלְכוּתוֹ֙ בְּבֵ֣ית הַמַּלְכ֔וּת נֹ֖כַח פֶּ֥תַח הַבָּֽיִת׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֗י</span> <span data-strong=\"H3847\">וַתִּלְבַּ֤שׁ</span> <span data-strong=\"H635\">אֶסְתֵּר֙</span> <span data-strong=\"H4438\">מַלְכ֔וּת</span> <span data-strong=\"H5975\">וַֽתַּעֲמֹ֞ד</span> <span data-strong=\"H2691\">בַּחֲצַ֤ר</span> <span data-strong=\"H1004\">בֵּית</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H6442\">הַפְּנִימִ֔ית</span> <span data-strong=\"H5227\">נֹ֖כַח</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H4428\">וְ֠הַמֶּ֠לֶךְ</span> <span data-strong=\"H3427\">יוֹשֵׁ֞ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3678\">כִּסֵּ֤א</span> <span data-strong=\"H2050\">מַלְכוּתוֹ֙</span> <span data-strong=\"H1004\">בְּבֵ֣ית</span> <span data-strong=\"H4438\">הַמַּלְכ֔וּת</span> <span data-strong=\"H5227\">נֹ֖כַח</span> <span data-strong=\"H6607\">פֶּ֥תַח</span> <span data-strong=\"H1004\">הַבָּֽיִת׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> vayvom hasheliyshiy vatilevash 'eseter malekhvt vata'amod vahatsar veyt-hamelekhe hafeniymiyt nokhah veyt hamelekhe vehamelekhe yvoshev 'al-khise' malekhvtvo veveyt hamalekhvt nokhah fetah havayit.",
     "translation": "E foi no terceiro dia que Ester se vestiu com sua majestade real e tomou posição na colunata interior do palácio real, diante da sala do trono; e o rei estava sentado sobre seu trono real, na casa do reino, defronte à porta da casa."
   },
@@ -13,67 +13,67 @@
   },
   {
     "verse": 3,
-    "original": "וַיֹּ֤אמֶר לָהּ֙ הַמֶּ֔לֶךְ מַה־לָּ֖ךְ אֶסְתֵּ֣ר הַמַּלְכָּ֑ה וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְיִנָּ֥תֵֽן לָֽךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H1886\">לָהּ֙</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3509\">לָּ֖ךְ</span> <span data-strong=\"H635\">אֶסְתֵּ֣ר</span> <span data-strong=\"H4436\">הַמַּלְכָּ֑ה</span> <span data-strong=\"H4100\">וּמַה</span>־<span data-strong=\"H3509\">בַּקָּשָׁתֵ֛ךְ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H2677\">חֲצִ֥י</span> <span data-strong=\"H4438\">הַמַּלְכ֖וּת</span> <span data-strong=\"H5414\">וְיִנָּ֥תֵֽן</span> <span data-strong=\"H3509\">לָֽךְ׃</span>",
     "transliteration": "vayo'mer lah hamelekhe mah-lakhe 'eseter hamalekhah vmah-vakashatekhe 'ad-hatsiy hamalekhvt veyinaten lakhe.",
     "translation": "E disse-lhe o rei: Que te agrada, Esther, rainha? E qual é o teu pedido, até metade do reino, e será concedido-te."
   },
   {
     "verse": 4,
-    "original": "וַתֹּ֣אמֶר אֶסְתֵּ֔ר אִם־עַל־הַמֶּ֖לֶךְ ט֑וֹב יָב֨וֹא הַמֶּ֤לֶךְ וְהָמָן֙ הַיּ֔וֹם אֶל־הַמִּשְׁתֶּ֖ה אֲשֶׁר־עָשִׂ֥יתִי לֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֣אמֶר</span> <span data-strong=\"H635\">אֶסְתֵּ֔ר</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4428\">הַמֶּ֖לֶךְ</span> <span data-strong=\"H2896\">ט֑וֹב</span> <span data-strong=\"H935\">יָב֨וֹא</span> <span data-strong=\"H4428\">הַמֶּ֤לֶךְ</span> <span data-strong=\"H2001\">וְהָמָן֙</span> <span data-strong=\"H3117\">הַיּ֔וֹם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4960\">הַמִּשְׁתֶּ֖ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשִׂ֥יתִי</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vato'mer 'eseter 'im-'al-hamelekhe tvov yavvo' hamelekhe vehaman hayvom 'el-hamisheteh 'asher-'asiytiy lvo.",
     "translation": "Ester disse: Se ao rei apraz, venha o rei e Haman hoje ao banquete que preparei para ele."
   },
   {
     "verse": 5,
-    "original": "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ מַהֲרוּ֙ אֶת־הָמָ֔ן לַעֲשׂ֖וֹת אֶת־דְּבַ֣ר אֶסְתֵּ֑ר וַיָּבֹ֤א הַמֶּ֙לֶךְ֙ וְהָמָ֔ן אֶל־הַמִּשְׁתֶּ֖ה אֲשֶׁר־עָשְׂתָ֥ה אֶסְתֵּֽר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H4116\">מַהֲרוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2001\">הָמָ֔ן</span> <span data-strong=\"H6213\">לַעֲשׂ֖וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דְּבַ֣ר</span> <span data-strong=\"H635\">אֶסְתֵּ֑ר</span> <span data-strong=\"H935\">וַיָּבֹ֤א</span> <span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H2001\">וְהָמָ֔ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4960\">הַמִּשְׁתֶּ֖ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשְׂתָ֥ה</span> <span data-strong=\"H635\">אֶסְתֵּֽר׃</span>",
     "transliteration": "vayo'mer hamelekhe maharv 'et-haman la'asvot 'et-devar 'eseter vayavo' hamelekhe vehaman 'el-hamisheteh 'asher-'asetah 'eseter.",
     "translation": "E o rei disse: Apressem-se, Hamã, para fazer o que Ester pede. Então, o rei e Hamã chegaram ao banquete que Ester preparara."
   },
   {
     "verse": 6,
-    "original": "וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לְאֶסְתֵּר֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־שְּׁאֵלָתֵ֖ךְ וְיִנָּ֣תֵֽן לָ֑ךְ וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְתֵעָֽשׂ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H4428\">הַמֶּ֤לֶךְ</span> <span data-strong=\"H635\">לְאֶסְתֵּר֙</span> <span data-strong=\"H4960\">בְּמִשְׁתֵּ֣ה</span> <span data-strong=\"H3196\">הַיַּ֔יִן</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3509\">שְּׁאֵלָתֵ֖ךְ</span> <span data-strong=\"H5414\">וְיִנָּ֣תֵֽן</span> <span data-strong=\"H3509\">לָ֑ךְ</span> <span data-strong=\"H4100\">וּמַה</span>־<span data-strong=\"H3509\">בַּקָּשָׁתֵ֛ךְ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H2677\">חֲצִ֥י</span> <span data-strong=\"H4438\">הַמַּלְכ֖וּת</span> <span data-strong=\"H6213\">וְתֵעָֽשׂ׃</span>",
     "transliteration": "vayo'mer hamelekhe le'eseter vemisheteh hayayin mah-she'elatekhe veyinaten lakhe vmah-vakashatekhe 'ad-hatsiy hamalekhvt vete'as.",
     "translation": "E disse o rei a Ester no banquete do vinho: Qual é o teu pedido e será dado; qual a tua solicitação, até metade do reino, e será feito."
   },
   {
     "verse": 7,
-    "original": "וַתַּ֥עַן אֶסְתֵּ֖ר וַתֹּאמַ֑ר שְׁאֵלָתִ֖י וּבַקָּשָׁתִֽי׃",
+    "original": "<span data-strong=\"H6030\">וַתַּ֥עַן</span> <span data-strong=\"H635\">אֶסְתֵּ֖ר</span> <span data-strong=\"H559\">וַתֹּאמַ֑ר</span> <span data-strong=\"H2967\">שְׁאֵלָתִ֖י</span> <span data-strong=\"H2967\">וּבַקָּשָׁתִֽי׃</span>",
     "transliteration": "vata'an 'eseter vato'mar she'elatiy vvakashatiy.",
     "translation": "E respondeu Ester e disse: A minha petição e a minha solicitação."
   },
   {
     "verse": 8,
-    "original": "אִם־מָצָ֨אתִי חֵ֜ן בְּעֵינֵ֣י הַמֶּ֗לֶךְ וְאִם־עַל־הַמֶּ֙לֶךְ֙ ט֔וֹב לָתֵת֙ אֶת־שְׁאֵ֣לָתִ֔י וְלַעֲשׂ֖וֹת אֶת־בַּקָּשָׁתִ֑י יָב֧וֹא הַמֶּ֣לֶךְ וְהָמָ֗ן אֶל־הַמִּשְׁתֶּה֙ אֲשֶׁ֣ר אֶֽעֱשֶׂ֣ה לָהֶ֔ם וּמָחָ֥ר אֶֽעֱשֶׂ֖ה כִּדְבַ֥ר הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H4672\">מָצָ֨אתִי</span> <span data-strong=\"H2580\">חֵ֜ן</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H4428\">הַמֶּ֗לֶךְ</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H2896\">ט֔וֹב</span> <span data-strong=\"H5414\">לָתֵת֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">שְׁאֵ֣לָתִ֔י</span> <span data-strong=\"H6213\">וְלַעֲשׂ֖וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בַּקָּשָׁתִ֑י</span> <span data-strong=\"H935\">יָב֧וֹא</span> <span data-strong=\"H4428\">הַמֶּ֣לֶךְ</span> <span data-strong=\"H2001\">וְהָמָ֗ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4960\">הַמִּשְׁתֶּה֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">אֶֽעֱשֶׂ֣ה</span> <span data-strong=\"H3963\">לָהֶ֔ם</span> <span data-strong=\"H4279\">וּמָחָ֥ר</span> <span data-strong=\"H6213\">אֶֽעֱשֶׂ֖ה</span> <span data-strong=\"H1697\">כִּדְבַ֥ר</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "'im-matsa'tiy hen ve'eyney hamelekhe ve'im-'al-hamelekhe tvov latet 'et-she'elatiy vela'asvot 'et-vakashatiy yavvo' hamelekhe vehaman 'el-hamisheteh 'asher 'e'eseh lahem vmahar 'e'eseh khidevar hamelekhe.",
     "translation": "Se achei graça aos olhos do rei, e se ao rei apraz conceder-me o que peço e fazer o que lhe solicito, venha o rei, com Hamã, à festa que eu prepararei para eles; e amanhã farei conforme a vontade do rei."
   },
   {
     "verse": 9,
-    "original": "וַיֵּצֵ֤א הָמָן֙ בַּיּ֣וֹם הַה֔וּא שָׂמֵ֖חַ וְט֣וֹב לֵ֑ב וְכִרְאוֹת֩ הָמָ֨ן אֶֽת־מׇרְדֳּכַ֜י בְּשַׁ֣עַר הַמֶּ֗לֶךְ וְלֹא־קָם֙ וְלֹא־זָ֣ע מִמֶּ֔נּוּ וַיִּמָּלֵ֥א הָמָ֛ן עַֽל־מׇרְדֳּכַ֖י חֵמָֽה׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֤א</span> <span data-strong=\"H2001\">הָמָן֙</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֔וּא</span> <span data-strong=\"H8056\">שָׂמֵ֖חַ</span> <span data-strong=\"H2896\">וְט֣וֹב</span> <span data-strong=\"H3820\">לֵ֑ב</span> <span data-strong=\"H7200\">וְכִרְאוֹת֩</span> <span data-strong=\"H2001\">הָמָ֨ן</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H4782\">מׇרְדֳּכַ֜י</span> <span data-strong=\"H8179\">בְּשַׁ֣עַר</span> <span data-strong=\"H4428\">הַמֶּ֗לֶךְ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H6965\">קָם֙</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H2111\">זָ֣ע</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H4390\">וַיִּמָּלֵ֥א</span> <span data-strong=\"H2001\">הָמָ֛ן</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H4782\">מׇרְדֳּכַ֖י</span> <span data-strong=\"H2534\">חֵמָֽה׃</span>",
     "transliteration": "vayetse' haman vayvom hahv' sameha vetvov lev vekhire'vot haman 'et-moredokhay vesha'ar hamelekhe velo'-kam velo'-za' mimenv vayimale' haman 'al-moredokhay hemah.",
     "translation": "E saiu Haman naquele dia alegre e de bom ânimo; porém, ao ver Mardoqueu na porta do rei, e que este não se levantava nem lhe fazia reverência, encheu-se Haman de ira contra Mardoqueu."
   },
   {
     "verse": 10,
-    "original": "וַיִּתְאַפַּ֣ק הָמָ֔ן וַיָּב֖וֹא אֶל־בֵּית֑וֹ וַיִּשְׁלַ֛ח וַיָּבֵ֥א אֶת־אֹהֲבָ֖יו וְאֶת־זֶ֥רֶשׁ אִשְׁתּֽוֹ׃",
+    "original": "<span data-strong=\"H662\">וַיִּתְאַפַּ֣ק</span> <span data-strong=\"H2001\">הָמָ֔ן</span> <span data-strong=\"H935\">וַיָּב֖וֹא</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">בֵּית֑וֹ</span> <span data-strong=\"H7971\">וַיִּשְׁלַ֛ח</span> <span data-strong=\"H935\">וַיָּבֵ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אֹהֲבָ֖יו</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2238\">זֶ֥רֶשׁ</span> <span data-strong=\"H2050\">אִשְׁתּֽוֹ׃</span>",
     "transliteration": "vayite'afak haman vayavvo' 'el-veytvo vayishelah vayave' 'et-'ohavayv ve'et-zeresh 'ishetvo.",
     "translation": "E Haman se conteve e entrou para sua casa; ali enviou e trouxe seus amigos e Zeres, sua esposa."
   },
   {
     "verse": 11,
-    "original": "וַיְסַפֵּ֨ר לָהֶ֥ם הָמָ֛ן אֶת־כְּב֥וֹד עׇשְׁר֖וֹ וְרֹ֣ב בָּנָ֑יו וְאֵת֩ כׇּל־אֲשֶׁ֨ר גִּדְּל֤וֹ הַמֶּ֙לֶךְ֙ וְאֵ֣ת אֲשֶׁ֣ר נִשְּׂא֔וֹ עַל־הַשָּׂרִ֖ים וְעַבְדֵ֥י הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H5608\">וַיְסַפֵּ֨ר</span> <span data-strong=\"H3963\">לָהֶ֥ם</span> <span data-strong=\"H2001\">הָמָ֛ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3519\">כְּב֥וֹד</span> <span data-strong=\"H2050\">עׇשְׁר֖וֹ</span> <span data-strong=\"H7230\">וְרֹ֣ב</span> <span data-strong=\"H2050\">בָּנָ֑יו</span> <span data-strong=\"H853\">וְאֵת֩</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H2050\">גִּדְּל֤וֹ</span> <span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H853\">וְאֵ֣ת</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H2050\">נִשְּׂא֔וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8269\">הַשָּׂרִ֖ים</span> <span data-strong=\"H5650\">וְעַבְדֵ֥י</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayesafer lahem haman 'et-khevvod 'oshervo verov vanayv ve'et khol-'asher gidelvo hamelekhe ve'et 'asher nise'vo 'al-hasariym ve'avedey hamelekhe.",
     "translation": "E Hamã lhes contou a glória de sua riqueza e a multidão de seus filhos, bem como tudo quanto o rei havia engrandecido nele e elevado sobre os príncipes e servos do rei."
   },
   {
     "verse": 12,
-    "original": "וַיֹּ֘אמֶר֮ הָמָן֒ אַ֣ף לֹא־הֵבִ֩יאָה֩ אֶסְתֵּ֨ר הַמַּלְכָּ֧ה עִם־הַמֶּ֛לֶךְ אֶל־הַמִּשְׁתֶּ֥ה אֲשֶׁר־עָשָׂ֖תָה כִּ֣י אִם־אוֹתִ֑י וְגַם־לְמָחָ֛ר אֲנִ֥י קָֽרוּא־לָ֖הּ עִם־הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֘אמֶר֮</span> <span data-strong=\"H2001\">הָמָן֒</span> <span data-strong=\"H637\">אַ֣ף</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H935\">הֵבִ֩יאָה֩</span> <span data-strong=\"H635\">אֶסְתֵּ֨ר</span> <span data-strong=\"H4436\">הַמַּלְכָּ֧ה</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H4428\">הַמֶּ֛לֶךְ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4960\">הַמִּשְׁתֶּ֥ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשָׂ֖תָה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2967\">אוֹתִ֑י</span> <span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H4279\">לְמָחָ֛ר</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H7121\">קָֽרוּא</span>־<span data-strong=\"H1886\">לָ֖הּ</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayo'mer haman 'af lo'-heviy'ah 'eseter hamalekhah 'im-hamelekhe 'el-hamisheteh 'asher-'asatah khiy 'im-'votiy vegam-lemahar 'aniy karv'-lah 'im-hamelekhe.",
     "translation": "E Hamã disse: Nem a rainha Ester trouxe com o rei para o banquete que preparou senão a mim; e amanhã também sou chamado por ela com o rei."
   },
   {
     "verse": 13,
-    "original": "וְכׇל־זֶ֕ה אֵינֶ֥נּוּ שֹׁוֶ֖ה לִ֑י בְּכׇל־עֵ֗ת אֲשֶׁ֨ר אֲנִ֤י רֹאֶה֙ אֶת־מׇרְדֳּכַ֣י הַיְּהוּדִ֔י יוֹשֵׁ֖ב בְּשַׁ֥עַר הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2088\">זֶ֕ה</span> <span data-strong=\"H5105\">אֵינֶ֥נּוּ</span> <span data-strong=\"H7737\">שֹׁוֶ֖ה</span> <span data-strong=\"H2967\">לִ֑י</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H6256\">עֵ֗ת</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H589\">אֲנִ֤י</span> <span data-strong=\"H7200\">רֹאֶה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4782\">מׇרְדֳּכַ֣י</span> <span data-strong=\"H3064\">הַיְּהוּדִ֔י</span> <span data-strong=\"H3427\">יוֹשֵׁ֖ב</span> <span data-strong=\"H8179\">בְּשַׁ֥עַר</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vekhol-zeh 'eynenv shoveh liy vekhol-'et 'asher 'aniy ro'eh 'et-moredokhay hayehvdiy yvoshev vesha'ar hamelekhe.",
     "translation": "E tudo isso não me é de valor algum; toda vez que vejo Mardoqueu, o judeu, sentado à porta do rei."
   },

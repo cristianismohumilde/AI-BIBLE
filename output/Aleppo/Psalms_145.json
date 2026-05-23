@@ -1,31 +1,31 @@
 [
   {
     "verse": 1,
-    "original": "תְּהִלָּ֗ה לְדָ֫וִ֥ד אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרְכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃",
+    "original": "<span data-strong=\"H8416\">תְּהִלָּ֗ה</span> <span data-strong=\"H1732\">לְדָ֫וִ֥ד</span> <span data-strong=\"H3509\">אֲרוֹמִמְךָ֣</span> <span data-strong=\"H2967\">אֱלוֹהַ֣י</span> <span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H1288\">וַאֲבָרְכָ֥ה</span> <span data-strong=\"H3509\">שִׁ֝מְךָ֗</span> <span data-strong=\"H5769\">לְעוֹלָ֥ם</span> <span data-strong=\"H5703\">וָעֶֽד׃</span>",
     "transliteration": "tehilah ledavid 'arvomimekha 'elvohay hamelekhe va'avarekhah shimekha le'volam va'ed.",
     "translation": "Hino a Davi. Exalto-te, meu Deus, o Rei, e abençoo o teu nome por toda a eternidade."
   },
   {
     "verse": 2,
-    "original": "בְּכׇל־י֥וֹם אֲבָרְכֶ֑ךָּ וַאֲהַלְלָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃",
+    "original": "<span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3117\">י֥וֹם</span> <span data-strong=\"H3509\">אֲבָרְכֶ֑ךָּ</span> <span data-strong=\"H1984\">וַאֲהַלְלָ֥ה</span> <span data-strong=\"H3509\">שִׁ֝מְךָ֗</span> <span data-strong=\"H5769\">לְעוֹלָ֥ם</span> <span data-strong=\"H5703\">וָעֶֽד׃</span>",
     "transliteration": "vekhol-yvom 'avarekhekha va'ahalelah shimekha le'volam va'ed.",
     "translation": "Todo dia te abençoarei e louvarei o Teu nome eternamente."
   },
   {
     "verse": 3,
-    "original": "גָּ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד וְ֝לִגְדֻלָּת֗וֹ אֵ֣ין חֵֽקֶר׃",
+    "original": "<span data-strong=\"H1419\">גָּ֘ד֤וֹל</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H1984\">וּמְהֻלָּ֣ל</span> <span data-strong=\"H3966\">מְאֹ֑ד</span> <span data-strong=\"H2050\">וְ֝לִגְדֻלָּת֗וֹ</span> <span data-strong=\"H369\">אֵ֣ין</span> <span data-strong=\"H2714\">חֵֽקֶר׃</span>",
     "transliteration": "gadvol yehovah vmehulal me'od veligedulatvo 'eyn heker.",
     "translation": "Grande é o Senhor e mui louvado; e sua grandeza não tem comparação."
   },
   {
     "verse": 4,
-    "original": "דּ֣וֹר לְ֭דוֹר יְשַׁבַּ֣ח מַעֲשֶׂ֑יךָ וּגְב֖וּרֹתֶ֣יךָ יַגִּֽידוּ׃",
+    "original": "<span data-strong=\"H1755\">דּ֣וֹר</span> <span data-strong=\"H1755\">לְ֭דוֹר</span> <span data-strong=\"H7623\">יְשַׁבַּ֣ח</span> <span data-strong=\"H3509\">מַעֲשֶׂ֑יךָ</span> <span data-strong=\"H3509\">וּגְב֖וּרֹתֶ֣יךָ</span> <span data-strong=\"H5046\">יַגִּֽידוּ׃</span>",
     "transliteration": "dvor ledvor yeshavah ma'aseykha vgevvroteykha yagiydv.",
     "translation": "Geração após geração louvará teus feitos, e tuas grandezas declararão."
   },
   {
     "verse": 5,
-    "original": "הֲ֭דַר כְּב֣וֹד הוֹדֶ֑ךָ וְדִבְרֵ֖י נִפְלְאֹתֶ֣יךָ אָשִֽׂיחָה׃",
+    "original": "<span data-strong=\"H1926\">הֲ֭דַר</span> <span data-strong=\"H3519\">כְּב֣וֹד</span> <span data-strong=\"H3509\">הוֹדֶ֑ךָ</span> <span data-strong=\"H1697\">וְדִבְרֵ֖י</span> <span data-strong=\"H3509\">נִפְלְאֹתֶ֣יךָ</span> <span data-strong=\"H7878\">אָשִֽׂיחָה׃</span>",
     "transliteration": "hadar khevvod hvodekha vediverey nifele'oteykha 'asiyhah.",
     "translation": "Esplendor da glória de tua majestade, e das maravilhas que fizeste eu meditarei."
   },
@@ -37,85 +37,85 @@
   },
   {
     "verse": 7,
-    "original": "זֵ֣כֶר רַב־טוּבְךָ֣ יַבִּ֑יעוּ וְצִדְקָתְךָ֥ יְרַנֵּֽנוּ׃",
+    "original": "<span data-strong=\"H2143\">זֵ֣כֶר</span> <span data-strong=\"H7227\">רַב</span>־<span data-strong=\"H3509\">טוּבְךָ֣</span> <span data-strong=\"H5042\">יַבִּ֑יעוּ</span> <span data-strong=\"H3509\">וְצִדְקָתְךָ֥</span> <span data-strong=\"H7442\">יְרַנֵּֽנוּ׃</span>",
     "transliteration": "zekher rav-tvvekha yaviy'v vetsidekatekha yeranenv.",
     "translation": "Lembrança da tua grande bondade jorrará, e a tua justiça fará cantar."
   },
   {
     "verse": 8,
-    "original": "חַנּ֣וּן וְרַח֣וּם יְהֹוָ֑ה אֶ֥רֶךְ אַ֝פַּ֗יִם וּגְדׇל־חָֽסֶד׃",
+    "original": "<span data-strong=\"H2587\">חַנּ֣וּן</span> <span data-strong=\"H7349\">וְרַח֣וּם</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H750\">אֶ֥רֶךְ</span> <span data-strong=\"H639\">אַ֝פַּ֗יִם</span> <span data-strong=\"H1419\">וּגְדׇל</span>־<span data-strong=\"H2617\">חָֽסֶד׃</span>",
     "transliteration": "hanvn verahvm yehovah 'erekhe 'afayim vgedol-hased.",
     "translation": "Misericordioso e compassivo é o Senhor, tardio em ira e grande em fidelidade."
   },
   {
     "verse": 9,
-    "original": "טוֹב־יְהֹוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל־כׇּל־מַעֲשָֽׂיו׃",
+    "original": "<span data-strong=\"H2896\">טוֹב</span>־<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3605\">לַכֹּ֑ל</span> <span data-strong=\"H2050\">וְ֝רַחֲמָ֗יו</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">מַעֲשָֽׂיו׃</span>",
     "transliteration": "tvov-yehovah lakhol verahamayv 'al-khol-ma'asayv.",
     "translation": "Bom é o Senhor para todos, e seus compassivos afetos sobre toda sua obra."
   },
   {
     "verse": 10,
-    "original": "יוֹד֣וּךָ יְ֭הֹוָה כׇּל־מַעֲשֶׂ֑יךָ וַ֝חֲסִידֶ֗יךָ יְבָרְכֽוּכָה׃",
+    "original": "<span data-strong=\"H3509\">יוֹד֣וּךָ</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3509\">מַעֲשֶׂ֑יךָ</span> <span data-strong=\"H3509\">וַ֝חֲסִידֶ֗יךָ</span> <span data-strong=\"H3509\">יְבָרְכֽוּכָה׃</span>",
     "transliteration": "yvodvkha yehovah khol-ma'aseykha vahasiydeykha yevarekhvkhah.",
     "translation": "Te louvarão, Senhor, todos os teus atos, e os teus santos te bendizerão."
   },
   {
     "verse": 11,
-    "original": "כְּב֣וֹד מַלְכוּתְךָ֣ יֹאמֵ֑רוּ וּגְבוּרָתְךָ֥ יְדַבֵּֽרוּ׃",
+    "original": "<span data-strong=\"H3519\">כְּב֣וֹד</span> <span data-strong=\"H3509\">מַלְכוּתְךָ֣</span> <span data-strong=\"H559\">יֹאמֵ֑רוּ</span> <span data-strong=\"H3509\">וּגְבוּרָתְךָ֥</span> <span data-strong=\"H1696\">יְדַבֵּֽרוּ׃</span>",
     "transliteration": "khevvod malekhvtekha yo'merv vgevvratekha yedaverv.",
     "translation": "A glória de tua majestade dirão, e de teu poder falarão."
   },
   {
     "verse": 12,
-    "original": "לְהוֹדִ֤יעַ&thinsp;<b>׀</b> לִבְנֵ֣י הָ֭אָדָם גְּבוּרֹתָ֑יו וּ֝כְב֗וֹד הֲדַ֣ר מַלְכוּתֽוֹ׃",
+    "original": "<span data-strong=\"H3045\">לְהוֹדִ֤יעַ&thinsp;<b>׀</b></span> <span data-strong=\"H1121\">לִבְנֵ֣י</span> <span data-strong=\"H120\">הָ֭אָדָם</span> <span data-strong=\"H2050\">גְּבוּרֹתָ֑יו</span> <span data-strong=\"H3519\">וּ֝כְב֗וֹד</span> <span data-strong=\"H1926\">הֲדַ֣ר</span> <span data-strong=\"H2050\">מַלְכוּתֽוֹ׃</span>",
     "transliteration": "lehvodiy'a&thinsp;<b>|</b> liveney ha'adam gevvrotayv vkhevvod hadar malekhvtvo.",
     "translation": "Para mostrar aos filhos dos homens suas grandes obras, e a glória do esplendor de seu reino."
   },
   {
     "verse": 13,
-    "original": "מַֽלְכוּתְךָ֗ מַלְכ֥וּת כׇּל־עֹלָמִ֑ים וּ֝מֶֽמְשַׁלְתְּךָ֗ בְּכׇל־דּ֥וֹר וָדֹֽר׃",
+    "original": "<span data-strong=\"H3509\">מַֽלְכוּתְךָ֗</span> <span data-strong=\"H4438\">מַלְכ֥וּת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5769\">עֹלָמִ֑ים</span> <span data-strong=\"H3509\">וּ֝מֶֽמְשַׁלְתְּךָ֗</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H1755\">דּ֥וֹר</span> <span data-strong=\"H1755\">וָדֹֽר׃</span>",
     "transliteration": "malekhvtekha malekhvt khol-'olamiym vmemeshaletekha vekhol-dvor vador.",
     "translation": "Seu reino é o reino de todos os séculos, e Seu domínio em toda geração e geração."
   },
   {
     "verse": 14,
-    "original": "סוֹמֵ֣ךְ יְ֭הֹוָה לְכׇל־הַנֹּפְלִ֑ים וְ֝זוֹקֵ֗ף לְכׇל־הַכְּפוּפִֽים׃",
+    "original": "<span data-strong=\"H5564\">סוֹמֵ֣ךְ</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H5307\">הַנֹּפְלִ֑ים</span> <span data-strong=\"H2210\">וְ֝זוֹקֵ֗ף</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H3721\">הַכְּפוּפִֽים׃</span>",
     "transliteration": "svomekhe yehovah lekhol-hanofeliym vezvokef lekhol-hakhefvfiym.",
     "translation": "O Senhor sustenta todos os que caem e ergue todos os que estão curvados."
   },
   {
     "verse": 15,
-    "original": "עֵֽינֵי־כֹ֭ל אֵלֶ֣יךָ יְשַׂבֵּ֑רוּ וְאַתָּ֤ה נֽוֹתֵן־לָהֶ֖ם אֶת־אׇכְלָ֣ם בְּעִתּֽוֹ׃",
+    "original": "<span data-strong=\"H5869\">עֵֽינֵי</span>־<span data-strong=\"H3605\">כֹ֭ל</span> <span data-strong=\"H3509\">אֵלֶ֣יךָ</span> <span data-strong=\"H7663\">יְשַׂבֵּ֑רוּ</span> <span data-strong=\"H859\">וְאַתָּ֤ה</span> <span data-strong=\"H5414\">נֽוֹתֵן</span>־<span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">אׇכְלָ֣ם</span> <span data-strong=\"H2050\">בְּעִתּֽוֹ׃</span>",
     "transliteration": "'eyney-khol 'eleykha yesaverv ve'atah nvoten-lahem 'et-'okhelam ve'itvo.",
     "translation": "Todos os olhos te esperam, e tu lhes dás o seu alimento no seu tempo."
   },
   {
     "verse": 16,
-    "original": "פּוֹתֵ֥חַ אֶת־יָדֶ֑ךָ וּמַשְׂבִּ֖יעַ לְכׇל־חַ֣י רָצֽוֹן׃",
+    "original": "<span data-strong=\"H6605\">פּוֹתֵ֥חַ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">יָדֶ֑ךָ</span> <span data-strong=\"H7646\">וּמַשְׂבִּ֖יעַ</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H2416\">חַ֣י</span> <span data-strong=\"H7522\">רָצֽוֹן׃</span>",
     "transliteration": "fvoteha 'et-yadekha vmaseviy'a lekhol-hay ratsvon.",
     "translation": "Abre tua mão e satisfazes a todo ser vivo."
   },
   {
     "verse": 17,
-    "original": "צַדִּ֣יק יְ֭הֹוָה בְּכׇל־דְּרָכָ֑יו וְ֝חָסִ֗יד בְּכׇל־מַעֲשָֽׂיו׃",
+    "original": "<span data-strong=\"H6662\">צַדִּ֣יק</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H2050\">דְּרָכָ֑יו</span> <span data-strong=\"H2623\">וְ֝חָסִ֗יד</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H2050\">מַעֲשָֽׂיו׃</span>",
     "transliteration": "tsadiyk yehovah vekhol-derakhayv vehasiyd vekhol-ma'asayv.",
     "translation": "Justo é o Senhor em todos os Seus caminhos, e fiel em toda a Sua obra."
   },
   {
     "verse": 18,
-    "original": "קָר֣וֹב יְ֭הֹוָה לְכׇל־קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת׃",
+    "original": "<span data-strong=\"H7138\">קָר֣וֹב</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H2050\">קֹרְאָ֑יו</span> <span data-strong=\"H3605\">לְכֹ֤ל</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H1930\">יִקְרָאֻ֣הוּ</span> <span data-strong=\"H571\">בֶאֱמֶֽת׃</span>",
     "transliteration": "karvov yehovah lekhol-kore'ayv lekhol 'asher yikera'uhv ve'emet.",
     "translation": "O Senhor está próximo de todos os que O invocam, de todos quantos O invocam com sinceridade."
   },
   {
     "verse": 19,
-    "original": "רְצוֹן־יְרֵאָ֥יו יַעֲשֶׂ֑ה וְֽאֶת־שַׁוְעָתָ֥ם יִ֝שְׁמַ֗ע וְיוֹשִׁיעֵֽם׃",
+    "original": "<span data-strong=\"H7522\">רְצוֹן</span>־<span data-strong=\"H2050\">יְרֵאָ֥יו</span> <span data-strong=\"H6213\">יַעֲשֶׂ֑ה</span> <span data-strong=\"H853\">וְֽאֶת</span>־<span data-strong=\"H3963\">שַׁוְעָתָ֥ם</span> <span data-strong=\"H8085\">יִ֝שְׁמַ֗ע</span> <span data-strong=\"H3963\">וְיוֹשִׁיעֵֽם׃</span>",
     "transliteration": "retsvon-yere'ayv ya'aseh ve'et-shave'atam yishema' veyvoshiy'em.",
     "translation": "O desejo dos que o temem ele realiza, e aos seus clamores presta ouvidos, livrando-os."
   },
   {
     "verse": 20,
-    "original": "שׁוֹמֵ֣ר יְ֭הֹוָה אֶת־כׇּל־אֹהֲבָ֑יו וְאֵ֖ת כׇּל־הָרְשָׁעִ֣ים יַשְׁמִֽיד׃",
+    "original": "<span data-strong=\"H8104\">שׁוֹמֵ֣ר</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">אֹהֲבָ֑יו</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7563\">הָרְשָׁעִ֣ים</span> <span data-strong=\"H8045\">יַשְׁמִֽיד׃</span>",
     "transliteration": "shvomer yehovah 'et-khol-'ohavayv ve'et khol-haresha'iym yashemiyd.",
     "translation": "O Senhor guarda todos os que o amam, mas destruirá todos os ímpios."
   },

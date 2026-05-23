@@ -1,55 +1,55 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "עֲשֵׂ֣ה לְךָ֗ שְׁתֵּי֙ חֲצֽוֹצְרֹ֣ת כֶּ֔סֶף מִקְשָׁ֖ה תַּעֲשֶׂ֣ה אֹתָ֑ם וְהָי֤וּ לְךָ֙ לְמִקְרָ֣א הָֽעֵדָ֔ה וּלְמַסַּ֖ע אֶת־הַֽמַּחֲנֽוֹת׃",
+    "original": "<span data-strong=\"H6213\">עֲשֵׂ֣ה</span> <span data-strong=\"H3509\">לְךָ֗</span> <span data-strong=\"H8147\">שְׁתֵּי֙</span> <span data-strong=\"H2689\">חֲצֽוֹצְרֹ֣ת</span> <span data-strong=\"H3701\">כֶּ֔סֶף</span> <span data-strong=\"H4749\">מִקְשָׁ֖ה</span> <span data-strong=\"H6213\">תַּעֲשֶׂ֣ה</span> <span data-strong=\"H3963\">אֹתָ֑ם</span> <span data-strong=\"H1961\">וְהָי֤וּ</span> <span data-strong=\"H3509\">לְךָ֙</span> <span data-strong=\"H4744\">לְמִקְרָ֣א</span> <span data-strong=\"H5712\">הָֽעֵדָ֔ה</span> <span data-strong=\"H4550\">וּלְמַסַּ֖ע</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֽוֹת׃</span>",
     "transliteration": "'aseh lekha shetey hatsvotserot khesef mikeshah ta'aseh 'otam vehayv lekha lemikera' ha'edah vlemasa' 'et-hamahanvot.",
     "translation": "Faze para ti duas trombetas de prata; as farás batendo-as, e servirão para convocar a congregação e para fazer marchar os acampamentos."
   },
   {
     "verse": 3,
-    "original": "וְתָקְע֖וּ בָּהֵ֑ן וְנֽוֹעֲד֤וּ אֵלֶ֙יךָ֙ כׇּל־הָ֣עֵדָ֔ה אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+    "original": "<span data-strong=\"H8628\">וְתָקְע֖וּ</span> <span data-strong=\"H2004\">בָּהֵ֑ן</span> <span data-strong=\"H3259\">וְנֽוֹעֲד֤וּ</span> <span data-strong=\"H3509\">אֵלֶ֙יךָ֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5712\">הָ֣עֵדָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֖תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵֽד׃</span>",
     "transliteration": "vetake'v vahen venvo'adv 'eleykha khol-ha'edah 'el-fetah 'ohel mvo'ed.",
     "translation": "E tocareis neles, e toda a congregação se ajuntará à porta da tenda do encontro."
   },
   {
     "verse": 4,
-    "original": "וְאִם־בְּאַחַ֖ת יִתְקָ֑עוּ וְנוֹעֲד֤וּ אֵלֶ֙יךָ֙ הַנְּשִׂיאִ֔ים רָאשֵׁ֖י אַלְפֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H259\">בְּאַחַ֖ת</span> <span data-strong=\"H8628\">יִתְקָ֑עוּ</span> <span data-strong=\"H3259\">וְנוֹעֲד֤וּ</span> <span data-strong=\"H3509\">אֵלֶ֙יךָ֙</span> <span data-strong=\"H5387\">הַנְּשִׂיאִ֔ים</span> <span data-strong=\"H7218\">רָאשֵׁ֖י</span> <span data-strong=\"H505\">אַלְפֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "ve'im-ve'ahat yiteka'v venvo'adv 'eleykha hanesiy'iym ra'shey 'alefey yisera'el.",
     "translation": "E se tocarem uma vez, comparecerão a ti os príncipes, cabeças dos milhares de Israel."
   },
   {
     "verse": 5,
-    "original": "וּתְקַעְתֶּ֖ם תְּרוּעָ֑ה וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים קֵֽדְמָה׃",
+    "original": "<span data-strong=\"H8628\">וּתְקַעְתֶּ֖ם</span> <span data-strong=\"H8643\">תְּרוּעָ֑ה</span> <span data-strong=\"H5265\">וְנָֽסְעוּ֙</span> <span data-strong=\"H4264\">הַֽמַּחֲנ֔וֹת</span> <span data-strong=\"H2583\">הַחֹנִ֖ים</span> <span data-strong=\"H1886\">קֵֽדְמָה׃</span>",
     "transliteration": "vteka'etem terv'ah venase'v hamahanvot hahoniym kedemah.",
     "translation": "E tocareis a trombeta com alarido, e acampamentos que se acamparam para o lado oriental se moverão."
   },
   {
     "verse": 6,
-    "original": "וּתְקַעְתֶּ֤ם תְּרוּעָה֙ שֵׁנִ֔ית וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים תֵּימָ֑נָה תְּרוּעָ֥ה יִתְקְע֖וּ לְמַסְעֵיהֶֽם׃",
+    "original": "<span data-strong=\"H8628\">וּתְקַעְתֶּ֤ם</span> <span data-strong=\"H8643\">תְּרוּעָה֙</span> <span data-strong=\"H8145\">שֵׁנִ֔ית</span> <span data-strong=\"H5265\">וְנָֽסְעוּ֙</span> <span data-strong=\"H4264\">הַֽמַּחֲנ֔וֹת</span> <span data-strong=\"H2583\">הַחֹנִ֖ים</span> <span data-strong=\"H1886\">תֵּימָ֑נָה</span> <span data-strong=\"H8643\">תְּרוּעָ֥ה</span> <span data-strong=\"H8628\">יִתְקְע֖וּ</span> <span data-strong=\"H3963\">לְמַסְעֵיהֶֽם׃</span>",
     "transliteration": "vteka'etem terv'ah sheniyt venase'v hamahanvot hahoniym teymanah terv'ah yiteke'v lemase'eyhem.",
     "translation": "E tocareis uma segunda trombeta de aviso, e os acampamentos que estão ao sul se moverão; tocando-se a trombeta sairão para a jornada."
   },
   {
     "verse": 7,
-    "original": "וּבְהַקְהִ֖יל אֶת־הַקָּהָ֑ל תִּתְקְע֖וּ וְלֹ֥א תָרִֽיעוּ׃",
+    "original": "<span data-strong=\"H6950\">וּבְהַקְהִ֖יל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6951\">הַקָּהָ֑ל</span> <span data-strong=\"H8628\">תִּתְקְע֖וּ</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H7321\">תָרִֽיעוּ׃</span>",
     "transliteration": "vvehakehiyl 'et-hakahal titeke'v velo' tariy'v.",
     "translation": "E quando congregardes a congregação, tocareis e não fareis estridor."
   },
   {
     "verse": 8,
-    "original": "וּבְנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים יִתְקְע֖וּ בַּחֲצֹֽצְר֑וֹת וְהָי֥וּ לָכֶ֛ם לְחֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֤י</span> <span data-strong=\"H175\">אַהֲרֹן֙</span> <span data-strong=\"H3548\">הַכֹּ֣הֲנִ֔ים</span> <span data-strong=\"H8628\">יִתְקְע֖וּ</span> <span data-strong=\"H2689\">בַּחֲצֹֽצְר֑וֹת</span> <span data-strong=\"H1961\">וְהָי֥וּ</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H2708\">לְחֻקַּ֥ת</span> <span data-strong=\"H5769\">עוֹלָ֖ם</span> <span data-strong=\"H3641\">לְדֹרֹתֵיכֶֽם׃</span>",
     "transliteration": "vveney 'aharon hakhohaniym yiteke'v vahatsotservot vehayv lakhem lehukat 'volam ledoroteykhem.",
     "translation": "E os filhos de Arão, o sacerdote, tocarão as trombetas; e isso será para vós um estatuto eterno por gerações."
   },
   {
     "verse": 9,
-    "original": "וְכִֽי־תָבֹ֨אוּ מִלְחָמָ֜ה בְּאַרְצְכֶ֗ם עַל־הַצַּר֙ הַצֹּרֵ֣ר אֶתְכֶ֔ם וַהֲרֵעֹתֶ֖ם בַּחֲצֹצְרֹ֑ת וְנִזְכַּרְתֶּ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וְנוֹשַׁעְתֶּ֖ם מֵאֹיְבֵיכֶֽם׃",
+    "original": "<span data-strong=\"H3588\">וְכִֽי</span>־<span data-strong=\"H935\">תָבֹ֨אוּ</span> <span data-strong=\"H4421\">מִלְחָמָ֜ה</span> <span data-strong=\"H3641\">בְּאַרְצְכֶ֗ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6862\">הַצַּר֙</span> <span data-strong=\"H6887\">הַצֹּרֵ֣ר</span> <span data-strong=\"H3641\">אֶתְכֶ֔ם</span> <span data-strong=\"H7321\">וַהֲרֵעֹתֶ֖ם</span> <span data-strong=\"H2689\">בַּחֲצֹצְרֹ֑ת</span> <span data-strong=\"H2142\">וְנִזְכַּרְתֶּ֗ם</span> <span data-strong=\"H6440\">לִפְנֵי֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3641\">אֱלֹֽהֵיכֶ֔ם</span> <span data-strong=\"H3467\">וְנוֹשַׁעְתֶּ֖ם</span> <span data-strong=\"H3641\">מֵאֹיְבֵיכֶֽם׃</span>",
     "transliteration": "vekhiy-tavo'v milehamah ve'aretsekhem 'al-hatsar hatsorer 'etekhem vahare'otem vahatsotserot venizekharetem lifeney yehovah 'eloheykhem venvosha'etem me'oyeveykhem.",
     "translation": "E quando entrardes em guerra na vossa terra contra o adversário que vos ameaça, e tocaredes alarma com as trombetas, sereis lembrados diante do Senhor Deus vosso, e sereis salvos dos vossos inimigos."
   },
@@ -61,49 +61,49 @@
   },
   {
     "verse": 11,
-    "original": "וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֞י</span> <span data-strong=\"H8141\">בַּשָּׁנָ֧ה</span> <span data-strong=\"H8145\">הַשֵּׁנִ֛ית</span> <span data-strong=\"H2320\">בַּחֹ֥דֶשׁ</span> <span data-strong=\"H8145\">הַשֵּׁנִ֖י</span> <span data-strong=\"H6242\">בְּעֶשְׂרִ֣ים</span> <span data-strong=\"H2320\">בַּחֹ֑דֶשׁ</span> <span data-strong=\"H5927\">נַעֲלָה֙</span> <span data-strong=\"H6051\">הֶֽעָנָ֔ן</span> <span data-strong=\"H5921\">מֵעַ֖ל</span> <span data-strong=\"H4908\">מִשְׁכַּ֥ן</span> <span data-strong=\"H5715\">הָעֵדֻֽת׃</span>",
     "transliteration": "vayehiy vashanah hasheniyt vahodesh hasheniy ve'eseriym vahodesh na'alah he'anan me'al mishekhan ha'edut.",
     "translation": "E aconteceu no segundo ano, no segundo mês, no vinte do mês, que a nuvem se levantou do tabernáculo do testemunho."
   },
   {
     "verse": 12,
-    "original": "וַיִּסְע֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסְע֧וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H3963\">לְמַסְעֵיהֶ֖ם</span> <span data-strong=\"H4057\">מִמִּדְבַּ֣ר</span> <span data-strong=\"H5514\">סִינָ֑י</span> <span data-strong=\"H7931\">וַיִּשְׁכֹּ֥ן</span> <span data-strong=\"H6051\">הֶעָנָ֖ן</span> <span data-strong=\"H4057\">בְּמִדְבַּ֥ר</span> <span data-strong=\"H6290\">פָּארָֽן׃</span>",
     "transliteration": "vayise'v veney-yisera'el lemase'eyhem mimidevar siynay vayishekhon he'anan vemidevar fa'ran.",
     "translation": "E os filhos de Israel partiram em suas jornadas do deserto de Sinai, e a nuvem assentou-se no deserto de Parã."
   },
   {
     "verse": 13,
-    "original": "וַיִּסְע֖וּ בָּרִאשֹׁנָ֑ה עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסְע֖וּ</span> <span data-strong=\"H7223\">בָּרִאשֹׁנָ֑ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֥י</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3027\">בְּיַד</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayise'v vari'shonah 'al-fiy yehovah veyad-mosheh.",
     "translation": "E partiram primeiramente, conforme a palavra do Senhor, pela mão de Moisés."
   },
   {
     "verse": 14,
-    "original": "וַיִּסַּ֞ע דֶּ֣גֶל מַחֲנֵ֧ה בְנֵֽי־יְהוּדָ֛ה בָּרִאשֹׁנָ֖ה לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסַּ֞ע</span> <span data-strong=\"H1714\">דֶּ֣גֶל</span> <span data-strong=\"H4264\">מַחֲנֵ֧ה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3063\">יְהוּדָ֛ה</span> <span data-strong=\"H7223\">בָּרִאשֹׁנָ֖ה</span> <span data-strong=\"H3963\">לְצִבְאֹתָ֑ם</span> <span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H2050\">צְבָא֔וֹ</span> <span data-strong=\"H5177\">נַחְשׁ֖וֹן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5992\">עַמִּינָדָֽב׃</span>",
     "transliteration": "vayisa' degel mahaneh veney-yehvdah vari'shonah letsive'otam ve'al-tseva'vo naheshvon ven-'amiynadav.",
     "translation": "E o estandarte do acampamento de Benjamim partiu em primeiro lugar, segundo as suas hostes; e sobre a sua hoste estava Nachsôn, filho de Aminadabe.\n\nCorreção:\nE o estandarte do acampamento de Judá partiu em primeiro lugar, conforme suas hostes; e sobre a sua hoste estava Nachsôn, filho de Amiúde."
   },
   {
     "verse": 15,
-    "original": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י יִשָּׂשכָ֑ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+    "original": "<span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H6635\">צְבָ֔א</span> <span data-strong=\"H4294\">מַטֵּ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3485\">יִשָּׂשכָ֑ר</span> <span data-strong=\"H5417\">נְתַנְאֵ֖ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6686\">צוּעָֽר׃</span>",
     "transliteration": "ve'al-tseva' mateh veney yisaskhar netane'el ven-tsv'ar.",
     "translation": "E sobre o exército da tribo de Issacar, Netanãel, filho de Zuá."
   },
   {
     "verse": 16,
-    "original": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+    "original": "<span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H6635\">צְבָ֔א</span> <span data-strong=\"H4294\">מַטֵּ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H2074\">זְבוּלֻ֑ן</span> <span data-strong=\"H446\">אֱלִיאָ֖ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2497\">חֵלֹֽן׃</span>",
     "transliteration": "ve'al-tseva' mateh veney zevvlun 'eliy'av ven-helon.",
     "translation": "E sobre o exército da tribo de Zebulom, Eleabe, filho de Helão."
   },
   {
     "verse": 17,
-    "original": "וְהוּרַ֖ד הַמִּשְׁכָּ֑ן וְנָסְע֤וּ בְנֵֽי־גֵרְשׁוֹן֙ וּבְנֵ֣י מְרָרִ֔י נֹשְׂאֵ֖י הַמִּשְׁכָּֽן׃",
+    "original": "<span data-strong=\"H3381\">וְהוּרַ֖ד</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֑ן</span> <span data-strong=\"H5265\">וְנָסְע֤וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H1647\">גֵרְשׁוֹן֙</span> <span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H4847\">מְרָרִ֔י</span> <span data-strong=\"H5375\">נֹשְׂאֵ֖י</span> <span data-strong=\"H4908\">הַמִּשְׁכָּֽן׃</span>",
     "transliteration": "vehvrad hamishekhan venase'v veney-gereshvon vveney merariy nose'ey hamishekhan.",
     "translation": "E será levado o Tabernáculo, e os filhos de Gérson e os filhos de Merari, que carregam as partes do Tabernáculo, partirão."
   },
   {
     "verse": 18,
-    "original": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה רְאוּבֵ֖ן לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+    "original": "<span data-strong=\"H5265\">וְנָסַ֗ע</span> <span data-strong=\"H1714\">דֶּ֛גֶל</span> <span data-strong=\"H4264\">מַחֲנֵ֥ה</span> <span data-strong=\"H7205\">רְאוּבֵ֖ן</span> <span data-strong=\"H3963\">לְצִבְאֹתָ֑ם</span> <span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H2050\">צְבָא֔וֹ</span> <span data-strong=\"H468\">אֱלִיצ֖וּר</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H7707\">שְׁדֵיאֽוּר׃</span>",
     "transliteration": "venasa' degel mahaneh re'vven letsive'otam ve'al-tseva'vo 'eliytsvr ven-shedey'vr.",
     "translation": "E partiu o estandarte do acampamento de Rúben segundo suas tropas; e o chefe sobre sua tropa foi Eliçur, filho de Shedeur."
   },
@@ -115,19 +115,19 @@
   },
   {
     "verse": 20,
-    "original": "וְעַל־צְבָ֖א מַטֵּ֣ה בְנֵי־גָ֑ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+    "original": "<span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H6635\">צְבָ֖א</span> <span data-strong=\"H4294\">מַטֵּ֣ה</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H1410\">גָ֑ד</span> <span data-strong=\"H460\">אֶלְיָסָ֖ף</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1845\">דְּעוּאֵֽל׃</span>",
     "transliteration": "ve'al-tseva' mateh veney-gad 'eleyasaf ven-de'v'el.",
     "translation": "E sobre o exército da tribo dos filhos de Gade, Eliassafe filho de Duela."
   },
   {
     "verse": 21,
-    "original": "וְנָסְעוּ֙ הַקְּהָתִ֔ים נֹשְׂאֵ֖י הַמִּקְדָּ֑שׁ וְהֵקִ֥ימוּ אֶת־הַמִּשְׁכָּ֖ן עַד־בֹּאָֽם׃",
+    "original": "<span data-strong=\"H5265\">וְנָסְעוּ֙</span> <span data-strong=\"H6956\">הַקְּהָתִ֔ים</span> <span data-strong=\"H5375\">נֹשְׂאֵ֖י</span> <span data-strong=\"H4720\">הַמִּקְדָּ֑שׁ</span> <span data-strong=\"H6965\">וְהֵקִ֥ימוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4908\">הַמִּשְׁכָּ֖ן</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3963\">בֹּאָֽם׃</span>",
     "transliteration": "venase'v hakehatiym nose'ey hamikedash vehekiymv 'et-hamishekhan 'ad-vo'am.",
     "translation": "E os quenezi, que carregam o santuário, partirão; e eles erguerão a tenda do encontro até sua chegada."
   },
   {
     "verse": 22,
-    "original": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה בְנֵֽי־אֶפְרַ֖יִם לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+    "original": "<span data-strong=\"H5265\">וְנָסַ֗ע</span> <span data-strong=\"H1714\">דֶּ֛גֶל</span> <span data-strong=\"H4264\">מַחֲנֵ֥ה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H669\">אֶפְרַ֖יִם</span> <span data-strong=\"H3963\">לְצִבְאֹתָ֑ם</span> <span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H2050\">צְבָא֔וֹ</span> <span data-strong=\"H476\">אֱלִישָׁמָ֖ע</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5989\">עַמִּיהֽוּד׃</span>",
     "transliteration": "venasa' degel mahaneh veney-'eferayim letsive'otam ve'al-tseva'vo 'eliyshama' ven-'amiyhvd.",
     "translation": "E partirá o estandarte do acampamento de Efraim por suas divisões, e sobre sua divisão está Eleazar, filho de Amihud."
   },
@@ -139,25 +139,25 @@
   },
   {
     "verse": 24,
-    "original": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעוֹנִֽי׃",
+    "original": "<span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H6635\">צְבָ֔א</span> <span data-strong=\"H4294\">מַטֵּ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1144\">בִנְיָמִ֑ן</span> <span data-strong=\"H27\">אֲבִידָ֖ן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1441\">גִּדְעוֹנִֽי׃</span>",
     "transliteration": "ve'al-tseva' mateh veney vineyamin 'aviydan ven-gide'voniy.",
     "translation": "E sobre o exército, a vara dos filhos de Benjamin, Abidan, filho de Gideoni."
   },
   {
     "verse": 25,
-    "original": "וְנָסַ֗ע דֶּ֚גֶל מַחֲנֵ֣ה בְנֵי־דָ֔ן מְאַסֵּ֥ף לְכׇל־הַֽמַּחֲנֹ֖ת לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃",
+    "original": "<span data-strong=\"H5265\">וְנָסַ֗ע</span> <span data-strong=\"H1714\">דֶּ֚גֶל</span> <span data-strong=\"H4264\">מַחֲנֵ֣ה</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H1835\">דָ֔ן</span> <span data-strong=\"H622\">מְאַסֵּ֥ף</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֹ֖ת</span> <span data-strong=\"H3963\">לְצִבְאֹתָ֑ם</span> <span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H2050\">צְבָא֔וֹ</span> <span data-strong=\"H295\">אֲחִיעֶ֖זֶר</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5996\">עַמִּישַׁדָּֽי׃</span>",
     "transliteration": "venasa' degel mahaneh veney-dan me'asef lekhol-hamahanot letsive'otam ve'al-tseva'vo 'ahiy'ezer ven-'amiyshaday.",
     "translation": "E partiu o estandarte do acampamento dos filhos de Dã, que se ajunta com todos os acampamentos conforme suas tropas; e sobre sua tropa estava Aqueiaser filho de Amisaddai."
   },
   {
     "verse": 26,
-    "original": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י אָשֵׁ֑ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+    "original": "<span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H6635\">צְבָ֔א</span> <span data-strong=\"H4294\">מַטֵּ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H836\">אָשֵׁ֑ר</span> <span data-strong=\"H6295\">פַּגְעִיאֵ֖ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5918\">עׇכְרָֽן׃</span>",
     "transliteration": "ve'al-tseva' mateh veney 'asher fage'iy'el ven-'okheran.",
     "translation": "E sobre o exército dos filhos de Aser, PagIEL, filho de Acrã."
   },
   {
     "verse": 27,
-    "original": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י נַפְתָּלִ֑י אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+    "original": "<span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H6635\">צְבָ֔א</span> <span data-strong=\"H4294\">מַטֵּ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5321\">נַפְתָּלִ֑י</span> <span data-strong=\"H299\">אֲחִירַ֖ע</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5881\">עֵינָֽן׃</span>",
     "transliteration": "ve'al-tseva' mateh veney nafetaliy 'ahiyra' ven-'eynan.",
     "translation": "E sobre o exército da tribo de Naphtali, Ahira, filho de Enã."
   },
@@ -169,31 +169,31 @@
   },
   {
     "verse": 29,
-    "original": "וַיֹּ֣אמֶר מֹשֶׁ֗ה לְ֠חֹבָ֠ב בֶּן־רְעוּאֵ֣ל הַמִּדְיָנִי֮ חֹתֵ֣ן מֹשֶׁה֒ נֹסְעִ֣ים&thinsp;<b>׀</b> אֲנַ֗חְנוּ אֶל־הַמָּקוֹם֙ אֲשֶׁ֣ר אָמַ֣ר יְהֹוָ֔ה אֹת֖וֹ אֶתֵּ֣ן לָכֶ֑ם לְכָ֤ה אִתָּ֙נוּ֙ וְהֵטַ֣בְנוּ לָ֔ךְ כִּֽי־יְהֹוָ֥ה דִּבֶּר־ט֖וֹב עַל־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H2246\">לְ֠חֹבָ֠ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H7467\">רְעוּאֵ֣ל</span> <span data-strong=\"H4084\">הַמִּדְיָנִי֮</span> <span data-strong=\"H2859\">חֹתֵ֣ן</span> <span data-strong=\"H4872\">מֹשֶׁה֒</span> <span data-strong=\"H5265\">נֹסְעִ֣ים&thinsp;<b>׀</b></span> <span data-strong=\"H587\">אֲנַ֗חְנוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4725\">הַמָּקוֹם֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H2050\">אֹת֖וֹ</span> <span data-strong=\"H5414\">אֶתֵּ֣ן</span> <span data-strong=\"H3641\">לָכֶ֑ם</span> <span data-strong=\"H1886\">לְכָ֤ה</span> <span data-strong=\"H5105\">אִתָּ֙נוּ֙</span> <span data-strong=\"H3190\">וְהֵטַ֣בְנוּ</span> <span data-strong=\"H3509\">לָ֔ךְ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H1696\">דִּבֶּר</span>־<span data-strong=\"H2896\">ט֖וֹב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayo'mer mosheh lehovav ven-re'v'el hamideyaniy hoten mosheh nose'iym&thinsp;<b>|</b> 'anahenv 'el-hamakvom 'asher 'amar yehovah 'otvo 'eten lakhem lekhah 'itanv vehetavenv lakhe khiy-yehovah diver-tvov 'al-yisera'el.",
     "translation": "E Moisés disse a Hobáb, filho de Reuel o midianita, seu sogro: Nós partimos para o lugar que o Senhor prometeu dar a vós. Vem conosco e faremos contigo o bem; pois o Senhor falou o bem sobre Israel."
   },
   {
     "verse": 30,
-    "original": "וַיֹּ֥אמֶר אֵלָ֖יו לֹ֣א אֵלֵ֑ךְ כִּ֧י אִם־אֶל־אַרְצִ֛י וְאֶל־מוֹלַדְתִּ֖י אֵלֵֽךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H1980\">אֵלֵ֑ךְ</span> <span data-strong=\"H3588\">כִּ֧י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2967\">אַרְצִ֛י</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H2967\">מוֹלַדְתִּ֖י</span> <span data-strong=\"H1980\">אֵלֵֽךְ׃</span>",
     "transliteration": "vayo'mer 'elayv lo' 'elekhe khiy 'im-'el-'aretsiy ve'el-mvoladetiy 'elekhe.",
     "translation": "E disse-lhe: Não vou, pois só à minha terra e à minha parentela irei."
   },
   {
     "verse": 31,
-    "original": "וַיֹּ֕אמֶר אַל־נָ֖א תַּעֲזֹ֣ב אֹתָ֑נוּ כִּ֣י&thinsp;<b>׀</b> עַל־כֵּ֣ן יָדַ֗עְתָּ חֲנֹתֵ֙נוּ֙ בַּמִּדְבָּ֔ר וְהָיִ֥יתָ לָּ֖נוּ לְעֵינָֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H4994\">נָ֖א</span> <span data-strong=\"H5800\">תַּעֲזֹ֣ב</span> <span data-strong=\"H5105\">אֹתָ֑נוּ</span> <span data-strong=\"H3588\">כִּ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֣ן</span> <span data-strong=\"H3045\">יָדַ֗עְתָּ</span> <span data-strong=\"H5105\">חֲנֹתֵ֙נוּ֙</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֔ר</span> <span data-strong=\"H1961\">וְהָיִ֥יתָ</span> <span data-strong=\"H5105\">לָּ֖נוּ</span> <span data-strong=\"H5869\">לְעֵינָֽיִם׃</span>",
     "transliteration": "vayo'mer 'al-na' ta'azov 'otanv khiy&thinsp;<b>|</b> 'al-khen yada'eta hanotenv vamidevar vehayiyta lanv le'eynayim.",
     "translation": "E disse: Não nos deixes, pois por isso conhecemos que acampamos no deserto e serás para nós por olhos."
   },
   {
     "verse": 32,
-    "original": "וְהָיָ֖ה כִּי־תֵלֵ֣ךְ עִמָּ֑נוּ וְהָיָ֣ה&thinsp;<b>׀</b> הַטּ֣וֹב הַה֗וּא אֲשֶׁ֨ר יֵיטִ֧יב יְהֹוָ֛ה עִמָּ֖נוּ וְהֵטַ֥בְנוּ לָֽךְ׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֖ה</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1980\">תֵלֵ֣ךְ</span> <span data-strong=\"H5105\">עִמָּ֑נוּ</span> <span data-strong=\"H1961\">וְהָיָ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H2896\">הַטּ֣וֹב</span> <span data-strong=\"H1931\">הַה֗וּא</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H3190\">יֵיטִ֧יב</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H5105\">עִמָּ֖נוּ</span> <span data-strong=\"H3190\">וְהֵטַ֥בְנוּ</span> <span data-strong=\"H3509\">לָֽךְ׃</span>",
     "transliteration": "vehayah khiy-telekhe 'imanv vehayah&thinsp;<b>|</b> hatvov hahv' 'asher yeytiyv yehovah 'imanv vehetavenv lakhe.",
     "translation": "E será que, se fores conosco, então o bem que o Senhor fizer connosco nós faremos contigo."
   },
   {
     "verse": 33,
-    "original": "וַיִּסְעוּ֙ מֵהַ֣ר יְהֹוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲר֨וֹן בְּרִית־יְהֹוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסְעוּ֙</span> <span data-strong=\"H2022\">מֵהַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H1870\">דֶּ֖רֶךְ</span> <span data-strong=\"H7969\">שְׁלֹ֣שֶׁת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H727\">וַאֲר֨וֹן</span> <span data-strong=\"H1285\">בְּרִית</span>־<span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H5265\">נֹסֵ֣עַ</span> <span data-strong=\"H3963\">לִפְנֵיהֶ֗ם</span> <span data-strong=\"H1870\">דֶּ֚רֶךְ</span> <span data-strong=\"H7969\">שְׁלֹ֣שֶׁת</span> <span data-strong=\"H3117\">יָמִ֔ים</span> <span data-strong=\"H8446\">לָת֥וּר</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H4496\">מְנוּחָֽה׃</span>",
     "transliteration": "vayise'v mehar yehovah derekhe sheloshet yamiym va'arvon veriyt-yehovah nose'a lifeneyhem derekhe sheloshet yamiym latvr lahem menvhah.",
     "translation": "E partiram do monte do Senhor, caminhando três dias; e a arca da aliança do Senhor ia adiante deles durante esses três dias, buscando-lhes um lugar de repouso."
   },

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "מִזְמ֥וֹר לְתוֹדָ֑ה הָרִ֥יעוּ לַ֝יהֹוָ֗ה כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H8426\">לְתוֹדָ֑ה</span> <span data-strong=\"H7321\">הָרִ֥יעוּ</span> <span data-strong=\"H3068\">לַ֝יהֹוָ֗ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "mizemvor letvodah hariy'v layhovah khol-ha'arets.",
     "translation": "Cântico de louvor. Soai para o Senhor, toda a terra."
   },
   {
     "verse": 2,
-    "original": "עִבְד֣וּ אֶת־יְהֹוָ֣ה בְּשִׂמְחָ֑ה בֹּ֥אוּ לְ֝פָנָ֗יו בִּרְנָנָֽה׃",
+    "original": "<span data-strong=\"H5647\">עִבְד֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H8057\">בְּשִׂמְחָ֑ה</span> <span data-strong=\"H935\">בֹּ֥אוּ</span> <span data-strong=\"H2050\">לְ֝פָנָ֗יו</span> <span data-strong=\"H7445\">בִּרְנָנָֽה׃</span>",
     "transliteration": "'ivedv 'et-yehovah vesimehah vo'v lefanayv virenanah.",
     "translation": "Servirão ao Senhor com alegria; virão diante dele em cânticos."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "בֹּ֤אוּ שְׁעָרָ֨יו&thinsp;<b>׀</b> בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הוֹדוּ־ל֝֗וֹ בָּרְכ֥וּ שְׁמֽוֹ׃",
+    "original": "<span data-strong=\"H935\">בֹּ֤אוּ</span> <span data-strong=\"H2050\">שְׁעָרָ֨יו&thinsp;<b>׀</b></span> <span data-strong=\"H8426\">בְּתוֹדָ֗ה</span> <span data-strong=\"H2050\">חֲצֵרֹתָ֥יו</span> <span data-strong=\"H8416\">בִּתְהִלָּ֑ה</span> <span data-strong=\"H3034\">הוֹדוּ</span>־<span data-strong=\"H2050\">ל֝֗וֹ</span> <span data-strong=\"H1288\">בָּרְכ֥וּ</span> <span data-strong=\"H2050\">שְׁמֽוֹ׃</span>",
     "transliteration": "vo'v she'arayv&thinsp;<b>|</b> vetvodah hatserotayv vitehilah hvodv-lvo varekhv shemvo.",
     "translation": "Entrai em seus portões com ação de graças, em suas cortes com louvor; louvai-o, bendizei o seu nome."
   },

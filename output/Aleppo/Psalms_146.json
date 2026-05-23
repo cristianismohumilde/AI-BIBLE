@@ -1,55 +1,55 @@
 [
   {
     "verse": 1,
-    "original": "הַֽלְלוּ־יָ֡הּ הַֽלְלִ֥י נַ֝פְשִׁ֗י אֶת־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H1984\">הַֽלְלוּ</span>־<span data-strong=\"H3050\">יָ֡הּ</span> <span data-strong=\"H1984\">הַֽלְלִ֥י</span> <span data-strong=\"H2967\">נַ֝פְשִׁ֗י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "halelv-yah haleliy nafeshiy 'et-yehovah.",
     "translation": "Aleluia, louvai ao Senhor, ó minha alma, louva o Senhor."
   },
   {
     "verse": 2,
-    "original": "אֲהַלְלָ֣ה יְהֹוָ֣ה בְּחַיָּ֑י אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃",
+    "original": "<span data-strong=\"H1984\">אֲהַלְלָ֣ה</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H2967\">בְּחַיָּ֑י</span> <span data-strong=\"H2167\">אֲזַמְּרָ֖ה</span> <span data-strong=\"H2967\">לֵאלֹהַ֣י</span> <span data-strong=\"H2967\">בְּעוֹדִֽי׃</span>",
     "transliteration": "'ahalelah yehovah vehayay 'azamerah le'lohay ve'vodiy.",
     "translation": "Louvar-ei ao Senhor com minha vida, cantarei a meu Deus enquanto viver."
   },
   {
     "verse": 3,
-    "original": "אַל־תִּבְטְח֥וּ בִנְדִיבִ֑ים בְּבֶן־אָדָ֓ם&thinsp;<b>׀</b> שֶׁ֤אֵ֖ין ל֥וֹ תְשׁוּעָֽה׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H982\">תִּבְטְח֥וּ</span> <span data-strong=\"H5081\">בִנְדִיבִ֑ים</span> <span data-strong=\"H1121\">בְּבֶן</span>־<span data-strong=\"H120\">אָדָ֓ם&thinsp;<b>׀</b></span> <span data-strong=\"H369\">שֶׁ֤אֵ֖ין</span> <span data-strong=\"H2050\">ל֥וֹ</span> <span data-strong=\"H8668\">תְשׁוּעָֽה׃</span>",
     "transliteration": "'al-tivetehv vinediyviym veven-'adam&thinsp;<b>|</b> she'eyn lvo teshv'ah.",
     "translation": "Não confiem nos generosos, no filho do homem que não tem salvação."
   },
   {
     "verse": 4,
-    "original": "תֵּצֵ֣א ר֭וּחוֹ יָשֻׁ֣ב לְאַדְמָת֑וֹ בַּיּ֥וֹם הַ֝ה֗וּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו׃",
+    "original": "<span data-strong=\"H3318\">תֵּצֵ֣א</span> <span data-strong=\"H2050\">ר֭וּחוֹ</span> <span data-strong=\"H7725\">יָשֻׁ֣ב</span> <span data-strong=\"H2050\">לְאַדְמָת֑וֹ</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H1931\">הַ֝ה֗וּא</span> <span data-strong=\"H6\">אָבְד֥וּ</span> <span data-strong=\"H2050\">עֶשְׁתֹּנֹתָֽיו׃</span>",
     "transliteration": "tetse' rvhvo yashuv le'adematvo vayvom hahv' 'avedv 'eshetonotayv.",
     "translation": "Sai seu espírito; retorna à sua terra; naquele dia perecem as suas cogitações."
   },
   {
     "verse": 5,
-    "original": "אַשְׁרֵ֗י שֶׁ֤אֵ֣ל יַעֲקֹ֣ב בְּעֶזְר֑וֹ שִׂ֝בְר֗וֹ עַל־יְהֹוָ֥ה אֱלֹהָֽיו׃",
+    "original": "<span data-strong=\"H835\">אַשְׁרֵ֗י</span> <span data-strong=\"H410\">שֶׁ֤אֵ֣ל</span> <span data-strong=\"H3290\">יַעֲקֹ֣ב</span> <span data-strong=\"H2050\">בְּעֶזְר֑וֹ</span> <span data-strong=\"H2050\">שִׂ֝בְר֗וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H2050\">אֱלֹהָֽיו׃</span>",
     "transliteration": "'asherey she'el ya'akov ve'ezervo sivervo 'al-yehovah 'elohayv.",
     "translation": "Bem-aventurado aquele que ajuda a Jacó, cuja confiança está no Senhor, seu Deus."
   },
   {
     "verse": 6,
-    "original": "עֹשֶׂ֤ה&thinsp;<b>׀</b> שָׁ֘מַ֤יִם וָאָ֗רֶץ אֶת־הַיָּ֥ם וְאֶת־כׇּל־אֲשֶׁר־בָּ֑ם הַשֹּׁמֵ֖ר אֱמֶ֣ת לְעוֹלָֽם׃",
+    "original": "<span data-strong=\"H6213\">עֹשֶׂ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H8064\">שָׁ֘מַ֤יִם</span> <span data-strong=\"H776\">וָאָ֗רֶץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3220\">הַיָּ֥ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3963\">בָּ֑ם</span> <span data-strong=\"H8104\">הַשֹּׁמֵ֖ר</span> <span data-strong=\"H571\">אֱמֶ֣ת</span> <span data-strong=\"H5769\">לְעוֹלָֽם׃</span>",
     "transliteration": "'oseh&thinsp;<b>|</b> shamayim va'arets 'et-hayam ve'et-khol-'asher-vam hashomer 'emet le'volam.",
     "translation": "Fazendo os céus e a terra, o mar e tudo que neles há, que guarda a fidelidade para sempre."
   },
   {
     "verse": 7,
-    "original": "עֹשֶׂ֤ה מִשְׁפָּ֨ט&thinsp;<b>׀</b> לָעֲשׁוּקִ֗ים נֹתֵ֣ן לֶ֭חֶם לָרְעֵבִ֑ים יְ֝הֹוָ֗ה מַתִּ֥יר אֲסוּרִֽים׃",
+    "original": "<span data-strong=\"H6213\">עֹשֶׂ֤ה</span> <span data-strong=\"H4941\">מִשְׁפָּ֨ט&thinsp;<b>׀</b></span> <span data-strong=\"H6231\">לָעֲשׁוּקִ֗ים</span> <span data-strong=\"H5414\">נֹתֵ֣ן</span> <span data-strong=\"H3899\">לֶ֭חֶם</span> <span data-strong=\"H7457\">לָרְעֵבִ֑ים</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H5425\">מַתִּ֥יר</span> <span data-strong=\"H631\">אֲסוּרִֽים׃</span>",
     "transliteration": "'oseh mishefat&thinsp;<b>|</b> la'ashvkiym noten lehem lare'eviym yehovah matiyr 'asvriym.",
     "translation": "Fazendo justiça aos oprimidos, dando pão aos famintos, Jehovah liberta os presos."
   },
   {
     "verse": 8,
-    "original": "יְהֹוָ֤ה&thinsp;<b>׀</b> פֹּ֘קֵ֤חַ עִוְרִ֗ים יְ֭הֹוָה זֹקֵ֣ף כְּפוּפִ֑ים יְ֝הֹוָ֗ה אֹהֵ֥ב צַדִּיקִֽים׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H6491\">פֹּ֘קֵ֤חַ</span> <span data-strong=\"H5787\">עִוְרִ֗ים</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H2210\">זֹקֵ֣ף</span> <span data-strong=\"H3721\">כְּפוּפִ֑ים</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H157\">אֹהֵ֥ב</span> <span data-strong=\"H6662\">צַדִּיקִֽים׃</span>",
     "transliteration": "yehovah&thinsp;<b>|</b> fokeha 'iveriym yehovah zokef khefvfiym yehovah 'ohev tsadiykiym.",
     "translation": "Javé&thinsp;<b>׀</b> abre os olhos dos cegos, Javé ergue os curvados, Javé ama os justos."
   },
   {
     "verse": 9,
-    "original": "יְהֹוָ֤ה&thinsp;<b>׀</b> שֹׁ֘מֵ֤ר אֶת־גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H8104\">שֹׁ֘מֵ֤ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1616\">גֵּרִ֗ים</span> <span data-strong=\"H3490\">יָת֣וֹם</span> <span data-strong=\"H490\">וְאַלְמָנָ֣ה</span> <span data-strong=\"H5749\">יְעוֹדֵ֑ד</span> <span data-strong=\"H1870\">וְדֶ֖רֶךְ</span> <span data-strong=\"H7563\">רְשָׁעִ֣ים</span> <span data-strong=\"H5791\">יְעַוֵּֽת׃</span>",
     "transliteration": "yehovah&thinsp;<b>|</b> shomer 'et-geriym yatvom ve'alemanah ye'voded vederekhe resha'iym ye'avet.",
     "translation": "Javé guarda o estrangeiro, socorre órfãos e viúvas, mas os caminhos dos ímpios desvia."
   },

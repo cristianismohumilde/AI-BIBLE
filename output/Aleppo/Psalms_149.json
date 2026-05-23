@@ -7,31 +7,31 @@
   },
   {
     "verse": 2,
-    "original": "יִשְׂמַ֣ח יִשְׂרָאֵ֣ל בְּעֹשָׂ֑יו בְּנֵֽי־צִ֝יּ֗וֹן יָגִ֥ילוּ בְמַלְכָּֽם׃",
+    "original": "<span data-strong=\"H8055\">יִשְׂמַ֣ח</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֣ל</span> <span data-strong=\"H2050\">בְּעֹשָׂ֑יו</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H6726\">צִ֝יּ֗וֹן</span> <span data-strong=\"H1523\">יָגִ֥ילוּ</span> <span data-strong=\"H3963\">בְמַלְכָּֽם׃</span>",
     "transliteration": "yisemah yisera'el ve'osayv veney-tsiyvon yagiylv vemalekham.",
     "translation": "Israel se alegrará no seu fazedor; os filhos de Sião exultarão em seu rei."
   },
   {
     "verse": 3,
-    "original": "יְהַלְל֣וּ שְׁמ֣וֹ בְמָח֑וֹל בְּתֹ֥ף וְ֝כִנּ֗וֹר יְזַמְּרוּ־לֽוֹ׃",
+    "original": "<span data-strong=\"H1984\">יְהַלְל֣וּ</span> <span data-strong=\"H2050\">שְׁמ֣וֹ</span> <span data-strong=\"H4234\">בְמָח֑וֹל</span> <span data-strong=\"H8596\">בְּתֹ֥ף</span> <span data-strong=\"H3658\">וְ֝כִנּ֗וֹר</span> <span data-strong=\"H2167\">יְזַמְּרוּ</span>־<span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "yehalelv shemvo vemahvol vetof vekhinvor yezamerv-lvo.",
     "translation": "Louvarão seu nome com danças, ao som do alaúde e da harpa lhe cantarão."
   },
   {
     "verse": 4,
-    "original": "כִּֽי־רוֹצֶ֣ה יְהֹוָ֣ה בְּעַמּ֑וֹ יְפָאֵ֥ר עֲ֝נָוִ֗ים בִּישׁוּעָֽה׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7521\">רוֹצֶ֣ה</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H2050\">בְּעַמּ֑וֹ</span> <span data-strong=\"H6286\">יְפָאֵ֥ר</span> <span data-strong=\"H6035\">עֲ֝נָוִ֗ים</span> <span data-strong=\"H3444\">בִּישׁוּעָֽה׃</span>",
     "transliteration": "khiy-rvotseh yehovah ve'amvo yefa'er 'anaviym viyshv'ah.",
     "translation": "Pois o Senhor ama seu povo, enobrecendo os humildes com salvação."
   },
   {
     "verse": 5,
-    "original": "יַעְלְז֣וּ חֲסִידִ֣ים בְּכָב֑וֹד יְ֝רַנְּנ֗וּ עַל־מִשְׁכְּבוֹתָֽם׃",
+    "original": "<span data-strong=\"H5937\">יַעְלְז֣וּ</span> <span data-strong=\"H2623\">חֲסִידִ֣ים</span> <span data-strong=\"H3519\">בְּכָב֑וֹד</span> <span data-strong=\"H7442\">יְ֝רַנְּנ֗וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">מִשְׁכְּבוֹתָֽם׃</span>",
     "transliteration": "ya'elezv hasiydiym vekhavvod yeranenv 'al-mishekhevvotam.",
     "translation": "Os piedosos brilharão na glória, exultarão sobre seus leitos."
   },
   {
     "verse": 6,
-    "original": "רוֹמְמ֣וֹת אֵ֭ל בִּגְרוֹנָ֑ם וְחֶ֖רֶב פִּיפִיּ֣וֹת בְּיָדָֽם׃",
+    "original": "<span data-strong=\"H7318\">רוֹמְמ֣וֹת</span> <span data-strong=\"H410\">אֵ֭ל</span> <span data-strong=\"H3963\">בִּגְרוֹנָ֑ם</span> <span data-strong=\"H2719\">וְחֶ֖רֶב</span> <span data-strong=\"H6374\">פִּיפִיּ֣וֹת</span> <span data-strong=\"H3963\">בְּיָדָֽם׃</span>",
     "transliteration": "rvomemvot 'el vigervonam veherev fiyfiyvot veyadam.",
     "translation": "Alta está Deus em suas gargantas, e espadas afiadas em suas mãos."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "לֶאְסֹ֣ר מַלְכֵיהֶ֣ם בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל׃",
+    "original": "<span data-strong=\"H631\">לֶאְסֹ֣ר</span> <span data-strong=\"H3963\">מַלְכֵיהֶ֣ם</span> <span data-strong=\"H2131\">בְּזִקִּ֑ים</span> <span data-strong=\"H3963\">וְ֝נִכְבְּדֵיהֶ֗ם</span> <span data-strong=\"H3525\">בְּכַבְלֵ֥י</span> <span data-strong=\"H1270\">בַרְזֶֽל׃</span>",
     "transliteration": "le'esor malekheyhem vezikiym venikhevedeyhem vekhaveley varezel.",
     "translation": "Para amarrar seus reis com grilhões e seus nobres com cadeias de ferro."
   },

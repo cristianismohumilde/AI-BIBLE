@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "בֵּאדַ֛יִן דָּרְיָ֥וֶשׁ מַלְכָּ֖א שָׂ֣ם טְעֵ֑ם וּבַקַּ֣רוּ&thinsp;<b>׀</b> בְּבֵ֣ית סִפְרַיָּ֗א דִּ֧י גִנְזַיָּ֛א מְהַחֲתִ֥ין תַּמָּ֖ה בְּבָבֶֽל׃",
+    "original": "<span data-strong=\"H116\">בֵּאדַ֛יִן</span> <span data-strong=\"H1868\">דָּרְיָ֥וֶשׁ</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H7761\">שָׂ֣ם</span> <span data-strong=\"H2942\">טְעֵ֑ם</span> <span data-strong=\"H1240\">וּבַקַּ֣רוּ&thinsp;<b>׀</b></span> <span data-strong=\"H1005\">בְּבֵ֣ית</span> <span data-strong=\"H1\">סִפְרַיָּ֗א</span> <span data-strong=\"H1768\">דִּ֧י</span> <span data-strong=\"H1\">גִנְזַיָּ֛א</span> <span data-strong=\"H5182\">מְהַחֲתִ֥ין</span> <span data-strong=\"H8536\">תַּמָּ֖ה</span> <span data-strong=\"H895\">בְּבָבֶֽל׃</span>",
     "transliteration": "ve'dayin dareyavesh malekha' sam te'em vvakarv&thinsp;<b>|</b> veveyt siferaya' diy ginezaya' mehahatiyn tamah vevavel.",
     "translation": "Então Dario, o rei, deu ordem e fizeram busca no depósito dos arquivos em Babilônia, onde se guardavam os tesouros."
   },
@@ -13,7 +13,7 @@
   },
   {
     "verse": 3,
-    "original": "בִּשְׁנַ֨ת חֲדָ֜ה לְכ֣וֹרֶשׁ מַלְכָּ֗א כּ֣וֹרֶשׁ מַלְכָּא֮ שָׂ֣ם טְעֵם֒ בֵּית־אֱלָהָ֤א בִֽירוּשְׁלֶם֙ בַּיְתָ֣א יִתְבְּנֵ֔א אֲתַר֙ דִּֽי־דָבְחִ֣ין דִּבְחִ֔ין וְאֻשּׁ֖וֹהִי מְסֽוֹבְלִ֑ין רוּמֵהּ֙ אַמִּ֣ין שִׁתִּ֔ין פְּתָיֵ֖הּ אַמִּ֥ין שִׁתִּֽין׃",
+    "original": "<span data-strong=\"H8140\">בִּשְׁנַ֨ת</span> <span data-strong=\"H2298\">חֲדָ֜ה</span> <span data-strong=\"H3567\">לְכ֣וֹרֶשׁ</span> <span data-strong=\"H1\">מַלְכָּ֗א</span> <span data-strong=\"H3567\">כּ֣וֹרֶשׁ</span> <span data-strong=\"H1\">מַלְכָּא֮</span> <span data-strong=\"H7761\">שָׂ֣ם</span> <span data-strong=\"H2942\">טְעֵם֒</span> <span data-strong=\"H1005\">בֵּית</span>־<span data-strong=\"H1\">אֱלָהָ֤א</span> <span data-strong=\"H3390\">בִֽירוּשְׁלֶם֙</span> <span data-strong=\"H1\">בַּיְתָ֣א</span> <span data-strong=\"H1124\">יִתְבְּנֵ֔א</span> <span data-strong=\"H870\">אֲתַר֙</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H1684\">דָבְחִ֣ין</span> <span data-strong=\"H1685\">דִּבְחִ֔ין</span> <span data-strong=\"H1958\">וְאֻשּׁ֖וֹהִי</span> <span data-strong=\"H5446\">מְסֽוֹבְלִ֑ין</span> <span data-strong=\"H1886\">רוּמֵהּ֙</span> <span data-strong=\"H521\">אַמִּ֣ין</span> <span data-strong=\"H8361\">שִׁתִּ֔ין</span> <span data-strong=\"H1886\">פְּתָיֵ֖הּ</span> <span data-strong=\"H521\">אַמִּ֥ין</span> <span data-strong=\"H8361\">שִׁתִּֽין׃</span>",
     "transliteration": "vishenat hadah lekhvoresh malekha' khvoresh malekha' sam te'em veyt-'elaha' viyrvshelem vayeta' yitevene' 'atar diy-davehiyn divehiyn ve'ushvohiy mesvoveliyn rvmeh 'amiyn shitiyn fetayeh 'amiyn shitiyn.",
     "translation": "No ano primeiro de Ciro, rei, Ciro, o rei, ordenou erguer a casa do Deus em Jerusalém: lugar onde se ajuntaram e se ajuntarão, altura de sessenta côvados, largura de sessenta côvados."
   },
@@ -31,19 +31,19 @@
   },
   {
     "verse": 6,
-    "original": "כְּעַ֡ן תַּ֠תְּנַ֠י פַּחַ֨ת עֲבַֽר־נַהֲרָ֜ה שְׁתַ֤ר בּוֹזְנַי֙ וּכְנָוָ֣תְה֔וֹן אֲפַ֨רְסְכָיֵ֔א דִּ֖י בַּעֲבַ֣ר נַהֲרָ֑ה רַחִיקִ֥ין הֲו֖וֹ מִן־תַּמָּֽה׃",
+    "original": "<span data-strong=\"H3705\">כְּעַ֡ן</span> <span data-strong=\"H8674\">תַּ֠תְּנַ֠י</span> <span data-strong=\"H6347\">פַּחַ֨ת</span> <span data-strong=\"H5675\">עֲבַֽר</span>־<span data-strong=\"H1\">נַהֲרָ֜ה</span> <span data-strong=\"H8370\">שְׁתַ֤ר</span> <span data-strong=\"H8370\">בּוֹזְנַי֙</span> <span data-strong=\"H1952\">וּכְנָוָ֣תְה֔וֹן</span> <span data-strong=\"H1\">אֲפַ֨רְסְכָיֵ֔א</span> <span data-strong=\"H1768\">דִּ֖י</span> <span data-strong=\"H5675\">בַּעֲבַ֣ר</span> <span data-strong=\"H1886\">נַהֲרָ֑ה</span> <span data-strong=\"H7352\">רַחִיקִ֥ין</span> <span data-strong=\"H1934\">הֲו֖וֹ</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H8536\">תַּמָּֽה׃</span>",
     "transliteration": "khe'an tatenay fahat 'avar-naharah shetar vvozenay vkhenavatehvon 'afaresekhaye' diy va'avar naharah rahiykiyn havvo min-tamah.",
     "translation": "Então Tatnai, governador da Trans-eufratéia, Busznai e seus companheiros, os homens de Aspenaia que estão além do rio, distantes deles, responderam dizendo:"
   },
   {
     "verse": 7,
-    "original": "שְׁבֻ֕קוּ לַעֲבִידַ֖ת בֵּית־אֱלָהָ֣א דֵ֑ךְ פַּחַ֤ת יְהוּדָיֵא֙ וּלְשָׂבֵ֣י יְהוּדָיֵ֔א בֵּית־אֱלָהָ֥א דֵ֖ךְ יִבְנ֥וֹן עַל־אַתְרֵֽהּ׃",
+    "original": "<span data-strong=\"H7662\">שְׁבֻ֕קוּ</span> <span data-strong=\"H5673\">לַעֲבִידַ֖ת</span> <span data-strong=\"H1005\">בֵּית</span>־<span data-strong=\"H1\">אֱלָהָ֣א</span> <span data-strong=\"H1791\">דֵ֑ךְ</span> <span data-strong=\"H6347\">פַּחַ֤ת</span> <span data-strong=\"H1\">יְהוּדָיֵא֙</span> <span data-strong=\"H7868\">וּלְשָׂבֵ֣י</span> <span data-strong=\"H1\">יְהוּדָיֵ֔א</span> <span data-strong=\"H1005\">בֵּית</span>־<span data-strong=\"H1\">אֱלָהָ֥א</span> <span data-strong=\"H1791\">דֵ֖ךְ</span> <span data-strong=\"H1124\">יִבְנ֥וֹן</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H1886\">אַתְרֵֽהּ׃</span>",
     "transliteration": "shevukv la'aviydat veyt-'elaha' dekhe fahat yehvdaye' vlesavey yehvdaye' veyt-'elaha' dekhe yivenvon 'al-'atereh.",
     "translation": "Servirão à edificação da casa do Deus dele; o governador dos judeus e os líderes dos judeus construirão a casa do Deus dele no seu lugar."
   },
   {
     "verse": 8,
-    "original": "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ לְמָ֣א דִֽי־תַֽעַבְד֗וּן עִם־שָׂבֵ֤י יְהוּדָיֵא֙ אִלֵּ֔ךְ לְמִבְנֵ֖א בֵּית־אֱלָהָ֣א דֵ֑ךְ וּמִנִּכְסֵ֣י מַלְכָּ֗א דִּ֚י מִדַּת֙ עֲבַ֣ר נַהֲרָ֔ה אׇסְפַּ֗רְנָא נִפְקְתָ֛א תֶּהֱוֵ֧א מִֽתְיַהֲבָ֛א לְגֻבְרַיָּ֥א אִלֵּ֖ךְ דִּי־לָ֥א לְבַטָּלָֽא׃",
+    "original": "<span data-strong=\"H2967\">וּמִנִּי֮</span> <span data-strong=\"H7761\">שִׂ֣ים</span> <span data-strong=\"H2942\">טְעֵם֒</span> <span data-strong=\"H4101\">לְמָ֣א</span> <span data-strong=\"H1768\">דִֽי</span>־<span data-strong=\"H5648\">תַֽעַבְד֗וּן</span> <span data-strong=\"H5974\">עִם</span>־<span data-strong=\"H7868\">שָׂבֵ֤י</span> <span data-strong=\"H1\">יְהוּדָיֵא֙</span> <span data-strong=\"H479\">אִלֵּ֔ךְ</span> <span data-strong=\"H1124\">לְמִבְנֵ֖א</span> <span data-strong=\"H1005\">בֵּית</span>־<span data-strong=\"H1\">אֱלָהָ֣א</span> <span data-strong=\"H1791\">דֵ֑ךְ</span> <span data-strong=\"H5232\">וּמִנִּכְסֵ֣י</span> <span data-strong=\"H1\">מַלְכָּ֗א</span> <span data-strong=\"H1768\">דִּ֚י</span> <span data-strong=\"H4061\">מִדַּת֙</span> <span data-strong=\"H5675\">עֲבַ֣ר</span> <span data-strong=\"H1\">נַהֲרָ֔ה</span> <span data-strong=\"H629\">אׇסְפַּ֗רְנָא</span> <span data-strong=\"H1\">נִפְקְתָ֛א</span> <span data-strong=\"H1934\">תֶּהֱוֵ֧א</span> <span data-strong=\"H3052\">מִֽתְיַהֲבָ֛א</span> <span data-strong=\"H1\">לְגֻבְרַיָּ֥א</span> <span data-strong=\"H479\">אִלֵּ֖ךְ</span> <span data-strong=\"H1768\">דִּי</span>־<span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H989\">לְבַטָּלָֽא׃</span>",
     "transliteration": "vminiy siym te'em lema' diy-ta'avedvn 'im-savey yehvdaye' 'ilekhe lemivene' veyt-'elaha' dekhe vminikhesey malekha' diy midat 'avar naharah 'osefarena' nifeketa' teheve' miteyahava' leguveraya' 'ilekhe diy-la' levatala'.",
     "translation": "E da minha parte, determinai que se dê prazer aos judeus em relação à construção do templo de Deus. E dos tesouros do rei que estiverem além do rio, seja despensa de ouro e prata, bem como madeira e pedra, levada a eles sem demora."
   },
@@ -55,13 +55,13 @@
   },
   {
     "verse": 10,
-    "original": "דִּֽי־לֶהֱוֺ֧ן מְהַקְרְבִ֛ין נִיחוֹחִ֖ין לֶאֱלָ֣הּ שְׁמַיָּ֑א וּמְצַלַּ֕יִן לְחַיֵּ֥י מַלְכָּ֖א וּבְנֽוֹהִי׃",
+    "original": "<span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H1934\">לֶהֱוֺ֧ן</span> <span data-strong=\"H7127\">מְהַקְרְבִ֛ין</span> <span data-strong=\"H5208\">נִיחוֹחִ֖ין</span> <span data-strong=\"H426\">לֶאֱלָ֣הּ</span> <span data-strong=\"H1\">שְׁמַיָּ֑א</span> <span data-strong=\"H6739\">וּמְצַלַּ֕יִן</span> <span data-strong=\"H2417\">לְחַיֵּ֥י</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H1958\">וּבְנֽוֹהִי׃</span>",
     "transliteration": "diy-lehevon mehakereviyn niyhvohiyn le'elah shemaya' vmetsalayin lehayey malekha' vvenvohiy.",
     "translation": "que eram para oferecer sacrifícios agradáveis ao Deus dos céus e para pedir vida pelo rei e por seus filhos."
   },
   {
     "verse": 11,
-    "original": "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ דִּ֣י כׇל־אֱנָ֗שׁ דִּ֤י יְהַשְׁנֵא֙ פִּתְגָמָ֣א דְנָ֔ה יִתְנְסַ֥ח אָע֙ מִן־בַּיְתֵ֔הּ וּזְקִ֖יף יִתְמְחֵ֣א עֲלֹ֑הִי וּבַיְתֵ֛הּ נְוָל֥וּ יִתְעֲבֵ֖ד עַל־דְּנָֽה׃",
+    "original": "<span data-strong=\"H2967\">וּמִנִּי֮</span> <span data-strong=\"H7761\">שִׂ֣ים</span> <span data-strong=\"H2942\">טְעֵם֒</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H3606\">כׇל</span>־<span data-strong=\"H606\">אֱנָ֗שׁ</span> <span data-strong=\"H1768\">דִּ֤י</span> <span data-strong=\"H8133\">יְהַשְׁנֵא֙</span> <span data-strong=\"H1\">פִּתְגָמָ֣א</span> <span data-strong=\"H1836\">דְנָ֔ה</span> <span data-strong=\"H5256\">יִתְנְסַ֥ח</span> <span data-strong=\"H636\">אָע֙</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1886\">בַּיְתֵ֔הּ</span> <span data-strong=\"H2211\">וּזְקִ֖יף</span> <span data-strong=\"H4223\">יִתְמְחֵ֣א</span> <span data-strong=\"H1958\">עֲלֹ֑הִי</span> <span data-strong=\"H1886\">וּבַיְתֵ֛הּ</span> <span data-strong=\"H5122\">נְוָל֥וּ</span> <span data-strong=\"H5648\">יִתְעֲבֵ֖ד</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H1836\">דְּנָֽה׃</span>",
     "transliteration": "vminiy siym te'em diy khol-'enash diy yehashene' fitegama' denah yitenesah 'a' min-vayeteh vzekiyf yitemehe' 'alohiy vvayeteh nevalv yite'aved 'al-denah.",
     "translation": "E, dentre o número, ponho sabor: toda alma que desrespeitar a palavra desta será extirpada de sua casa; e um madeiro lhe será cravado, sobre ele; e sua casa será transformada em abominação, por causa disto."
   },
@@ -73,7 +73,7 @@
   },
   {
     "verse": 13,
-    "original": "אֱ֠דַ֠יִן תַּתְּנַ֞י פַּחַ֧ת עֲבַֽר־נַהֲרָ֛ה שְׁתַ֥ר בּוֹזְנַ֖י וּכְנָוָתְה֑וֹן לׇקֳבֵ֗ל דִּֽי־שְׁלַ֞ח דָּרְיָ֧וֶשׁ מַלְכָּ֛א כְּנֵ֖מָא אׇסְפַּ֥רְנָא עֲבַֽדוּ׃",
+    "original": "<span data-strong=\"H116\">אֱ֠דַ֠יִן</span> <span data-strong=\"H8674\">תַּתְּנַ֞י</span> <span data-strong=\"H6347\">פַּחַ֧ת</span> <span data-strong=\"H5675\">עֲבַֽר</span>־<span data-strong=\"H1\">נַהֲרָ֛ה</span> <span data-strong=\"H8370\">שְׁתַ֥ר</span> <span data-strong=\"H8370\">בּוֹזְנַ֖י</span> <span data-strong=\"H1952\">וּכְנָוָתְה֑וֹן</span> <span data-strong=\"H6903\">לׇקֳבֵ֗ל</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H7972\">שְׁלַ֞ח</span> <span data-strong=\"H1868\">דָּרְיָ֧וֶשׁ</span> <span data-strong=\"H1\">מַלְכָּ֛א</span> <span data-strong=\"H3660\">כְּנֵ֖מָא</span> <span data-strong=\"H629\">אׇסְפַּ֥רְנָא</span> <span data-strong=\"H5648\">עֲבַֽדוּ׃</span>",
     "transliteration": "'edayin tatenay fahat 'avar-naharah shetar vvozenay vkhenavatehvon lokovel diy-shelah dareyavesh malekha' khenema' 'osefarena' 'avadv.",
     "translation": "Então Datã, governador da Trans-Eufrates, apresentou a carta de Buzã e seus companheiros para receberem, porque Dario o rei enviou por intermédio de Asfena seu servo."
   },
@@ -91,7 +91,7 @@
   },
   {
     "verse": 16,
-    "original": "וַעֲבַ֣דוּ בְנֵֽי־יִ֠שְׂרָאֵ֠ל כָּהֲנַיָּ֨א וְלֵוָיֵ֜א וּשְׁאָ֣ר בְּנֵי־גָלוּתָ֗א חֲנֻכַּ֛ת בֵּית־אֱלָהָ֥א דְנָ֖ה בְּחֶדְוָֽה׃",
+    "original": "<span data-strong=\"H5648\">וַעֲבַ֣דוּ</span> <span data-strong=\"H1123\">בְנֵֽי</span>־<span data-strong=\"H3479\">יִ֠שְׂרָאֵ֠ל</span> <span data-strong=\"H1\">כָּהֲנַיָּ֨א</span> <span data-strong=\"H1\">וְלֵוָיֵ֜א</span> <span data-strong=\"H7606\">וּשְׁאָ֣ר</span> <span data-strong=\"H1123\">בְּנֵי</span>־<span data-strong=\"H1\">גָלוּתָ֗א</span> <span data-strong=\"H2597\">חֲנֻכַּ֛ת</span> <span data-strong=\"H1005\">בֵּית</span>־<span data-strong=\"H1\">אֱלָהָ֥א</span> <span data-strong=\"H1836\">דְנָ֖ה</span> <span data-strong=\"H2305\">בְּחֶדְוָֽה׃</span>",
     "transliteration": "va'avadv veney-yisera'el khahanaya' velevaye' vshe'ar veney-galvta' hanukhat veyt-'elaha' denah vehedevah.",
     "translation": "E os filhos de Israel, os sacerdotes e os levitas, e o resto dos filhos do exílio, fizeram a dedicação da Casa de Deus com alegria."
   },
@@ -109,19 +109,19 @@
   },
   {
     "verse": 19,
-    "original": "וַיַּעֲשׂ֥וּ בְנֵי־הַגּוֹלָ֖ה אֶת־הַפָּ֑סַח בְּאַרְבָּעָ֥ה עָשָׂ֖ר לַחֹ֥דֶשׁ הָרִאשֽׁוֹן׃",
+    "original": "<span data-strong=\"H6213\">וַיַּעֲשׂ֥וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H1473\">הַגּוֹלָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6453\">הַפָּ֑סַח</span> <span data-strong=\"H702\">בְּאַרְבָּעָ֥ה</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H2320\">לַחֹ֥דֶשׁ</span> <span data-strong=\"H7223\">הָרִאשֽׁוֹן׃</span>",
     "transliteration": "vaya'asv veney-hagvolah 'et-hafasah ve'areva'ah 'asar lahodesh hari'shvon.",
     "translation": "E os filhos do exílio fizeram o Pascal, no dia catorze do primeiro mês."
   },
   {
     "verse": 20,
-    "original": "כִּ֣י הִֽטַּהֲר֞וּ הַכֹּהֲנִ֧ים וְהַלְוִיִּ֛ם כְּאֶחָ֖ד כֻּלָּ֣ם טְהוֹרִ֑ים וַיִּשְׁחֲט֤וּ הַפֶּ֙סַח֙ לְכׇל־בְּנֵ֣י הַגּוֹלָ֔ה וְלַאֲחֵיהֶ֥ם הַכֹּהֲנִ֖ים וְלָהֶֽם׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H2891\">הִֽטַּהֲר֞וּ</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֧ים</span> <span data-strong=\"H3881\">וְהַלְוִיִּ֛ם</span> <span data-strong=\"H259\">כְּאֶחָ֖ד</span> <span data-strong=\"H3963\">כֻּלָּ֣ם</span> <span data-strong=\"H2889\">טְהוֹרִ֑ים</span> <span data-strong=\"H7819\">וַיִּשְׁחֲט֤וּ</span> <span data-strong=\"H6453\">הַפֶּ֙סַח֙</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1473\">הַגּוֹלָ֔ה</span> <span data-strong=\"H3963\">וְלַאֲחֵיהֶ֥ם</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֖ים</span> <span data-strong=\"H3963\">וְלָהֶֽם׃</span>",
     "transliteration": "khiy hitaharv hakhohaniym vehaleviyim khe'ehad khulam tehvoriym vayishehatv hafesah lekhol-veney hagvolah vela'aheyhem hakhohaniym velahem.",
     "translation": "Porque os sacerdotes e os levitas se purificaram unicamente, todos eles eram puros. E imolaram o Pascal para toda a comunidade do exílio e também para seus irmãos, os sacerdotes, e por eles."
   },
   {
     "verse": 21,
-    "original": "וַיֹּאכְל֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל הַשָּׁבִים֙ מֵֽהַגּוֹלָ֔ה וְכֹ֗ל הַנִּבְדָּ֛ל מִטֻּמְאַ֥ת גּוֹיֵֽ־הָאָ֖רֶץ אֲלֵהֶ֑ם לִדְרֹ֕שׁ לַֽיהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H398\">וַיֹּאכְל֣וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H7725\">הַשָּׁבִים֙</span> <span data-strong=\"H1473\">מֵֽהַגּוֹלָ֔ה</span> <span data-strong=\"H3605\">וְכֹ֗ל</span> <span data-strong=\"H914\">הַנִּבְדָּ֛ל</span> <span data-strong=\"H2932\">מִטֻּמְאַ֥ת</span> <span data-strong=\"H1471\">גּוֹיֵֽ</span>־<span data-strong=\"H776\">הָאָ֖רֶץ</span> <span data-strong=\"H3963\">אֲלֵהֶ֑ם</span> <span data-strong=\"H1875\">לִדְרֹ֕שׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayo'khelv veney-yisera'el hashaviym mehagvolah vekhol hanivedal mitume'at gvoye-ha'arets 'alehem liderosh layhovah 'elohey yisera'el.",
     "translation": "E comeram os filhos de Israel, os que voltavam do cativeiro, e todos os separados da imundícia da nação da terra a eles para buscar ao Senhor Deus de Israel."
   },

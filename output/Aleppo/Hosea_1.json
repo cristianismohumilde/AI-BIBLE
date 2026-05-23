@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "דְּבַר־יְהֹוָ֣ה&thinsp;<b>׀</b> אֲשֶׁ֣ר הָיָ֗ה אֶל־הוֹשֵׁ֙עַ֙ בֶּן־בְּאֵרִ֔י בִּימֵ֨י עֻזִּיָּ֥ה יוֹתָ֛ם אָחָ֥ז יְחִזְקִיָּ֖ה מַלְכֵ֣י יְהוּדָ֑ה וּבִימֵ֛י יָרׇבְעָ֥ם בֶּן־יוֹאָ֖שׁ מֶ֥לֶךְ יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1961\">הָיָ֗ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1954\">הוֹשֵׁ֙עַ֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H882\">בְּאֵרִ֔י</span> <span data-strong=\"H3117\">בִּימֵ֨י</span> <span data-strong=\"H5818\">עֻזִּיָּ֥ה</span> <span data-strong=\"H3147\">יוֹתָ֛ם</span> <span data-strong=\"H271\">אָחָ֥ז</span> <span data-strong=\"H3169\">יְחִזְקִיָּ֖ה</span> <span data-strong=\"H4428\">מַלְכֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H3117\">וּבִימֵ֛י</span> <span data-strong=\"H3379\">יָרׇבְעָ֥ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3101\">יוֹאָ֖שׁ</span> <span data-strong=\"H4428\">מֶ֥לֶךְ</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "devar-yehovah&thinsp;<b>|</b> 'asher hayah 'el-hvoshe'a ven-ve'eriy viymey 'uziyah yvotam 'ahaz yehizekiyah malekhey yehvdah vviymey yarove'am ven-yvo'ash melekhe yisera'el.",
     "translation": "Palavra do Senhor que veio a Hosé, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel."
   },
   {
     "verse": 2,
-    "original": "תְּחִלַּ֥ת דִּבֶּר־יְהֹוָ֖ה בְּהוֹשֵׁ֑עַ&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־הוֹשֵׁ֗עַ לֵ֣ךְ קַח־לְךָ֞ אֵ֤שֶׁת זְנוּנִים֙ וְיַלְדֵ֣י זְנוּנִ֔ים כִּֽי־זָנֹ֤ה תִזְנֶה֙ הָאָ֔רֶץ מֵאַחֲרֵ֖י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H8462\">תְּחִלַּ֥ת</span> <span data-strong=\"H1696\">דִּבֶּר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H1954\">בְּהוֹשֵׁ֑עַ&nbsp;<span</span> <span data-strong=\"H559\">class=\"mam-spi-pe\">{פ}</span><br>וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1954\">הוֹשֵׁ֗עַ</span> <span data-strong=\"H1980\">לֵ֣ךְ</span> <span data-strong=\"H3947\">קַח</span>־<span data-strong=\"H3509\">לְךָ֞</span> <span data-strong=\"H802\">אֵ֤שֶׁת</span> <span data-strong=\"H2183\">זְנוּנִים֙</span> <span data-strong=\"H3206\">וְיַלְדֵ֣י</span> <span data-strong=\"H2183\">זְנוּנִ֔ים</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2181\">זָנֹ֤ה</span> <span data-strong=\"H2181\">תִזְנֶה֙</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H310\">מֵאַחֲרֵ֖י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "tehilat diver-yehovah vehvoshe'a&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>vayo'mer yehovah 'el-hvoshe'a lekhe kah-lekha 'eshet zenvniym veyaledey zenvniym khiy-zanoh tizeneh ha'arets me'aharey yehovah.",
     "translation": "Início da palavra do Senhor por intermédio de Hosé;&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>e disse o Senhor a Hosé: Vai, toma para ti uma mulher de prostituição e filhos de prostituição; pois a terra se corrompeu, traindo o Senhor."
   },
   {
     "verse": 3,
-    "original": "וַיֵּ֙לֶךְ֙ וַיִּקַּ֔ח אֶת־גֹּ֖מֶר בַּת־דִּבְלָ֑יִם וַתַּ֥הַר וַתֵּלֶד־ל֖וֹ בֵּֽן׃",
+    "original": "<span data-strong=\"H1980\">וַיֵּ֙לֶךְ֙</span> <span data-strong=\"H3947\">וַיִּקַּ֔ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1586\">גֹּ֖מֶר</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H1691\">דִּבְלָ֑יִם</span> <span data-strong=\"H2029\">וַתַּ֥הַר</span> <span data-strong=\"H3205\">וַתֵּלֶד</span>־<span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H1121\">בֵּֽן׃</span>",
     "transliteration": "vayelekhe vayikah 'et-gomer vat-divelayim vatahar vateled-lvo ven.",
     "translation": "E ele foi e tomou Gomer, filha de Diblaim; ela concebeu e lhe deu um filho."
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלָ֔יו קְרָ֥א שְׁמ֖וֹ יִזְרְעֶ֑אל כִּי־ע֣וֹד מְעַ֗ט וּפָ֨קַדְתִּ֜י אֶת־דְּמֵ֤י יִזְרְעֶאל֙ עַל־בֵּ֣ית יֵה֔וּא וְהִ֨שְׁבַּתִּ֔י מַמְלְכ֖וּת בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H2050\">אֵלָ֔יו</span> <span data-strong=\"H7121\">קְרָ֥א</span> <span data-strong=\"H2050\">שְׁמ֖וֹ</span> <span data-strong=\"H3157\">יִזְרְעֶ֑אל</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H5750\">ע֣וֹד</span> <span data-strong=\"H4592\">מְעַ֗ט</span> <span data-strong=\"H6485\">וּפָ֨קַדְתִּ֜י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1818\">דְּמֵ֤י</span> <span data-strong=\"H3157\">יִזְרְעֶאל֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3058\">יֵה֔וּא</span> <span data-strong=\"H7673\">וְהִ֨שְׁבַּתִּ֔י</span> <span data-strong=\"H4468\">מַמְלְכ֖וּת</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayo'mer yehovah 'elayv kera' shemvo yizere'e'l khiy-'vod me'at vfakadetiy 'et-demey yizere'e'l 'al-veyt yehv' vehishevatiy mamelekhvt veyt yisera'el.",
     "translation": "E disse o Senhor a ele: Chama-o de Jezreel, pois ainda um pouco e punirei sobre a casa de Jeú os crimes cometidos em Jezreel, e farei cessar o reino da casa de Israel."
   },
   {
     "verse": 5,
-    "original": "וְהָיָ֖ה בַּיּ֣וֹם הַה֑וּא וְשָֽׁבַרְתִּי֙ אֶת־קֶ֣שֶׁת יִשְׂרָאֵ֔ל בְּעֵ֖מֶק יִזְרְעֶֽאל׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֖ה</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֑וּא</span> <span data-strong=\"H7665\">וְשָֽׁבַרְתִּי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7198\">קֶ֣שֶׁת</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H6010\">בְּעֵ֖מֶק</span> <span data-strong=\"H3157\">יִזְרְעֶֽאל׃</span>",
     "transliteration": "vehayah vayvom hahv' veshavaretiy 'et-keshet yisera'el ve'emek yizere'e'l.",
     "translation": "E acontecerá naquele dia que romperei o arco de Israel no Vale de Jizreel."
   },
   {
     "verse": 6,
-    "original": "וַתַּ֤הַר עוֹד֙ וַתֵּ֣לֶד בַּ֔ת וַיֹּ֣אמֶר ל֔וֹ קְרָ֥א שְׁמָ֖הּ לֹ֣א רֻחָ֑מָה כִּי֩ לֹ֨א אוֹסִ֜יף ע֗וֹד אֲרַחֵם֙ אֶת־בֵּ֣ית יִשְׂרָאֵ֔ל כִּֽי־נָשֹׂ֥א אֶשָּׂ֖א לָהֶֽם׃",
+    "original": "<span data-strong=\"H2029\">וַתַּ֤הַר</span> <span data-strong=\"H5750\">עוֹד֙</span> <span data-strong=\"H3205\">וַתֵּ֣לֶד</span> <span data-strong=\"H1323\">בַּ֔ת</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H7121\">קְרָ֥א</span> <span data-strong=\"H1886\">שְׁמָ֖הּ</span> <span data-strong=\"H3819\">לֹ֣א</span> <span data-strong=\"H3819\">רֻחָ֑מָה</span> <span data-strong=\"H3588\">כִּי֩</span> <span data-strong=\"H3808\">לֹ֨א</span> <span data-strong=\"H3254\">אוֹסִ֜יף</span> <span data-strong=\"H5750\">ע֗וֹד</span> <span data-strong=\"H7355\">אֲרַחֵם֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5375\">נָשֹׂ֥א</span> <span data-strong=\"H5375\">אֶשָּׂ֖א</span> <span data-strong=\"H3963\">לָהֶֽם׃</span>",
     "transliteration": "vatahar 'vod vateled vat vayo'mer lvo kera' shemah lo' ruhamah khiy lo' 'vosiyf 'vod 'arahem 'et-veyt yisera'el khiy-naso' 'esa' lahem.",
     "translation": "E concebeu novamente e deu à luz uma filha. E ele disse: Chame seu nome Lo-Ruxama, pois não voltarei a ter misericórdia da casa de Israel; eu os tratarei com extrema severidade."
   },
   {
     "verse": 7,
-    "original": "וְאֶת־בֵּ֤ית יְהוּדָה֙ אֲרַחֵ֔ם וְהוֹשַׁעְתִּ֖ים בַּיהֹוָ֣ה אֱלֹהֵיהֶ֑ם וְלֹ֣א אוֹשִׁיעֵ֗ם בְּקֶ֤שֶׁת וּבְחֶ֙רֶב֙ וּבְמִלְחָמָ֔ה בְּסוּסִ֖ים וּבְפָרָשִֽׁים׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1004\">בֵּ֤ית</span> <span data-strong=\"H3063\">יְהוּדָה֙</span> <span data-strong=\"H7355\">אֲרַחֵ֔ם</span> <span data-strong=\"H3963\">וְהוֹשַׁעְתִּ֖ים</span> <span data-strong=\"H3068\">בַּיהֹוָ֣ה</span> <span data-strong=\"H3963\">אֱלֹהֵיהֶ֑ם</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3963\">אוֹשִׁיעֵ֗ם</span> <span data-strong=\"H7198\">בְּקֶ֤שֶׁת</span> <span data-strong=\"H2719\">וּבְחֶ֙רֶב֙</span> <span data-strong=\"H4421\">וּבְמִלְחָמָ֔ה</span> <span data-strong=\"H5483\">בְּסוּסִ֖ים</span> <span data-strong=\"H6571\">וּבְפָרָשִֽׁים׃</span>",
     "transliteration": "ve'et-veyt yehvdah 'arahem vehvosha'etiym vayhovah 'eloheyhem velo' 'voshiy'em vekeshet vveherev vvemilehamah vesvsiym vvefarashiym.",
     "translation": "E sobre a casa de Judá, eu me compadecerei e os salvarei no Senhor, o seu Deus; não os salvarei pela flecha, nem pela espada, nem pela guerra, nem pelos cavalos, nem pelos cavaleiros."
   },
   {
     "verse": 8,
-    "original": "וַתִּגְמֹ֖ל אֶת־לֹ֣א רֻחָ֑מָה וַתַּ֖הַר וַתֵּ֥לֶד בֵּֽן׃",
+    "original": "<span data-strong=\"H1580\">וַתִּגְמֹ֖ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3819\">לֹ֣א</span> <span data-strong=\"H3819\">רֻחָ֑מָה</span> <span data-strong=\"H2029\">וַתַּ֖הַר</span> <span data-strong=\"H3205\">וַתֵּ֥לֶד</span> <span data-strong=\"H1121\">בֵּֽן׃</span>",
     "transliteration": "vatigemol 'et-lo' ruhamah vatahar vateled ven.",
     "translation": "E ela lhe deu à luz Lo-Ruhamá, e concebeu novamente e deu à luz um filho."
   },

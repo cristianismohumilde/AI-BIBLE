@@ -1,31 +1,31 @@
 [
   {
     "verse": 1,
-    "original": "מִקֵּ֥ץ שֶֽׁבַע־שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃",
+    "original": "<span data-strong=\"H7093\">מִקֵּ֥ץ</span> <span data-strong=\"H7651\">שֶֽׁבַע</span>־<span data-strong=\"H8141\">שָׁנִ֖ים</span> <span data-strong=\"H6213\">תַּעֲשֶׂ֥ה</span> <span data-strong=\"H8059\">שְׁמִטָּֽה׃</span>",
     "transliteration": "mikets sheva'-shaniym ta'aseh shemitah.",
     "translation": "Ao fim de sete anos, farás uma remissão."
   },
   {
     "verse": 2,
-    "original": "וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כׇּל־בַּ֙עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ לֹֽא־יִגֹּ֤שׂ אֶת־רֵעֵ֙הוּ֙ וְאֶת־אָחִ֔יו כִּֽי־קָרָ֥א שְׁמִטָּ֖ה לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H2088\">וְזֶה֮</span> <span data-strong=\"H1697\">דְּבַ֣ר</span> <span data-strong=\"H8059\">הַשְּׁמִטָּה֒</span> <span data-strong=\"H8058\">שָׁמ֗וֹט</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1167\">בַּ֙עַל֙</span> <span data-strong=\"H4874\">מַשֵּׁ֣ה</span> <span data-strong=\"H2050\">יָד֔וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5378\">יַשֶּׁ֖ה</span> <span data-strong=\"H1930\">בְּרֵעֵ֑הוּ</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H5065\">יִגֹּ֤שׂ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1930\">רֵעֵ֙הוּ֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">אָחִ֔יו</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7121\">קָרָ֥א</span> <span data-strong=\"H8059\">שְׁמִטָּ֖ה</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "vezeh devar hashemitah shamvot khol-va'al masheh yadvo 'asher yasheh vere'ehv lo'-yigos 'et-re'ehv ve'et-'ahiyv khiy-kara' shemitah layhovah.",
     "translation": "E esta é a palavra do ano sabático, em que se anulam todas as dívidas; todo credor perdoará o que seu próximo lhe deve. Não exija de seu próximo ou irmão o pagamento, pois este nome é chamado ano sabático ao Senhor."
   },
   {
     "verse": 3,
-    "original": "אֶת־הַנׇּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ׃",
+    "original": "<span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5237\">הַנׇּכְרִ֖י</span> <span data-strong=\"H5065\">תִּגֹּ֑שׂ</span> <span data-strong=\"H834\">וַאֲשֶׁ֨ר</span> <span data-strong=\"H1961\">יִהְיֶ֥ה</span> <span data-strong=\"H3509\">לְךָ֛</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H3509\">אָחִ֖יךָ</span> <span data-strong=\"H8058\">תַּשְׁמֵ֥ט</span> <span data-strong=\"H3509\">יָדֶֽךָ׃</span>",
     "transliteration": "'et-hanokheriy tigos va'asher yiheyeh lekha 'et-'ahiykha tashemet yadekha.",
     "translation": "Ao estrangeiro emprestarás dinheiro com juros, mas ao teu irmão não cobrarás juro algum."
   },
   {
     "verse": 4,
-    "original": "אֶ֕פֶס כִּ֛י לֹ֥א יִֽהְיֶה־בְּךָ֖ אֶבְי֑וֹן כִּֽי־בָרֵ֤ךְ יְבָֽרֶכְךָ֙ יְהֹוָ֔ה בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹֽתֵן־לְךָ֥ נַחֲלָ֖ה לְרִשְׁתָּֽהּ׃",
+    "original": "<span data-strong=\"H657\">אֶ֕פֶס</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H3509\">בְּךָ֖</span> <span data-strong=\"H34\">אֶבְי֑וֹן</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1288\">בָרֵ֤ךְ</span> <span data-strong=\"H3509\">יְבָֽרֶכְךָ֙</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H776\">בָּאָ֕רֶץ</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H5414\">נֹֽתֵן</span>־<span data-strong=\"H3509\">לְךָ֥</span> <span data-strong=\"H5159\">נַחֲלָ֖ה</span> <span data-strong=\"H1886\">לְרִשְׁתָּֽהּ׃</span>",
     "transliteration": "'efes khiy lo' yiheyeh-vekha 'eveyvon khiy-varekhe yevarekhekha yehovah va'arets 'asher yehovah 'eloheykha noten-lekha nahalah lerishetah.",
     "translation": "Eis que não haverá pobre em ti, pois o Senhor te abençoará na terra que o Senhor Deus teu dará por herança para a possuíres."
   },
   {
     "verse": 5,
-    "original": "רַ֚ק אִם־שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֣ה אֱלֹהֶ֑יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃",
+    "original": "<span data-strong=\"H7535\">רַ֚ק</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H8085\">שָׁמ֣וֹעַ</span> <span data-strong=\"H8085\">תִּשְׁמַ֔ע</span> <span data-strong=\"H6963\">בְּק֖וֹל</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑יךָ</span> <span data-strong=\"H8104\">לִשְׁמֹ֤ר</span> <span data-strong=\"H6213\">לַעֲשׂוֹת֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4687\">הַמִּצְוָ֣ה</span> <span data-strong=\"H2063\">הַזֹּ֔את</span> <span data-strong=\"H834\">אֲשֶׁ֛ר</span> <span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H3509\">מְצַוְּךָ֖</span> <span data-strong=\"H3117\">הַיּֽוֹם׃</span>",
     "transliteration": "rak 'im-shamvo'a tishema' vekvol yehovah 'eloheykha lishemor la'asvot 'et-khol-hamitsevah hazo't 'asher 'anokhiy metsavekha hayvom.",
     "translation": "Somente se ouvires com atenção à voz do Senhor, teu Deus, para guardares e cumprires toda esta ordem que eu hoje te ordeno."
   },
@@ -37,25 +37,25 @@
   },
   {
     "verse": 7,
-    "original": "כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֙יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת־לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">יִהְיֶה֩</span> <span data-strong=\"H3509\">בְךָ֨</span> <span data-strong=\"H34\">אֶבְי֜וֹן</span> <span data-strong=\"H259\">מֵאַחַ֤ד</span> <span data-strong=\"H3509\">אַחֶ֙יךָ֙</span> <span data-strong=\"H259\">בְּאַחַ֣ד</span> <span data-strong=\"H3509\">שְׁעָרֶ֔יךָ</span> <span data-strong=\"H3509\">בְּאַ֨רְצְךָ֔</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֖יךָ</span> <span data-strong=\"H5414\">נֹתֵ֣ן</span> <span data-strong=\"H3509\">לָ֑ךְ</span> <span data-strong=\"H3808\">לֹ֧א</span> <span data-strong=\"H553\">תְאַמֵּ֣ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">לְבָבְךָ֗</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H7092\">תִקְפֹּץ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">יָ֣דְךָ֔</span> <span data-strong=\"H3509\">מֵאָחִ֖יךָ</span> <span data-strong=\"H34\">הָאֶבְיֽוֹן׃</span>",
     "transliteration": "khiy-yiheyeh vekha 'eveyvon me'ahad 'aheykha ve'ahad she'areykha ve'aretsekha 'asher-yehovah 'eloheykha noten lakhe lo' te'amets 'et-levavekha velo' tikefots 'et-yadekha me'ahiykha ha'eveyvon.",
     "translation": "Porque se houver em ti um necessitado dentre teus irmãos, em alguma das tuas portas, na terra que o Senhor teu Deus te dá, não endurecerás o teu coração e nem apertarás a tua mão do teu irmão necessitado."
   },
   {
     "verse": 8,
-    "original": "כִּֽי־פָתֹ֧חַ תִּפְתַּ֛ח אֶת־יָדְךָ֖ ל֑וֹ וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר יֶחְסַ֖ר לֽוֹ׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6605\">פָתֹ֧חַ</span> <span data-strong=\"H6605\">תִּפְתַּ֛ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">יָדְךָ֖</span> <span data-strong=\"H2050\">ל֑וֹ</span> <span data-strong=\"H5670\">וְהַעֲבֵט֙</span> <span data-strong=\"H5105\">תַּעֲבִיטֶ֔נּוּ</span> <span data-strong=\"H1767\">דֵּ֚י</span> <span data-strong=\"H2050\">מַחְסֹר֔וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2637\">יֶחְסַ֖ר</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "khiy-fatoha tifetah 'et-yadekha lvo veha'avet ta'aviytenv dey mahesorvo 'asher yehesar lvo.",
     "translation": "Pois abrirás a tua mão para ele e porás à sua medida o que lhe falta, conforme a sua necessidade."
   },
   {
     "verse": 9,
-    "original": "הִשָּׁ֣מֶר לְךָ֡ פֶּן־יִהְיֶ֣ה דָבָר֩ עִם־לְבָבְךָ֨ בְלִיַּ֜עַל לֵאמֹ֗ר קָֽרְבָ֣ה שְׁנַֽת־הַשֶּׁ֘בַע֮ שְׁנַ֣ת הַשְּׁמִטָּה֒ וְרָעָ֣ה עֵֽינְךָ֗ בְּאָחִ֙יךָ֙ הָֽאֶבְי֔וֹן וְלֹ֥א תִתֵּ֖ן ל֑וֹ וְקָרָ֤א עָלֶ֙יךָ֙ אֶל־יְהֹוָ֔ה וְהָיָ֥ה בְךָ֖ חֵֽטְא׃",
+    "original": "<span data-strong=\"H8104\">הִשָּׁ֣מֶר</span> <span data-strong=\"H3509\">לְךָ֡</span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H1961\">יִהְיֶ֣ה</span> <span data-strong=\"H1697\">דָבָר֩</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H3509\">לְבָבְךָ֨</span> <span data-strong=\"H1100\">בְלִיַּ֜עַל</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H7126\">קָֽרְבָ֣ה</span> <span data-strong=\"H8141\">שְׁנַֽת</span>־<span data-strong=\"H7651\">הַשֶּׁ֘בַע֮</span> <span data-strong=\"H8141\">שְׁנַ֣ת</span> <span data-strong=\"H8059\">הַשְּׁמִטָּה֒</span> <span data-strong=\"H7489\">וְרָעָ֣ה</span> <span data-strong=\"H3509\">עֵֽינְךָ֗</span> <span data-strong=\"H3509\">בְּאָחִ֙יךָ֙</span> <span data-strong=\"H34\">הָֽאֶבְי֔וֹן</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H5414\">תִתֵּ֖ן</span> <span data-strong=\"H2050\">ל֑וֹ</span> <span data-strong=\"H7121\">וְקָרָ֤א</span> <span data-strong=\"H3509\">עָלֶ֙יךָ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H1961\">וְהָיָ֥ה</span> <span data-strong=\"H3509\">בְךָ֖</span> <span data-strong=\"H2399\">חֵֽטְא׃</span>",
     "transliteration": "hishamer lekha fen-yiheyeh davar 'im-levavekha veliya'al le'mor karevah shenat-hasheva' shenat hashemitah vera'ah 'eynekha ve'ahiykha ha'eveyvon velo' titen lvo vekara' 'aleykha 'el-yehovah vehayah vekha hete'.",
     "translation": "Guarda-te, para que não haja um mau pensamento no teu coração, dizendo: Aproximou-se o ano sétimo, o ano da remissão, e a vista do teu olho se tornará má em relação ao teu irmão pobre, e tu não darás a ele; então ele clamará contra ti ao Senhor, e haverá em ti pecado."
   },
   {
     "verse": 10,
-    "original": "נָת֤וֹן תִּתֵּן֙ ל֔וֹ וְלֹא־יֵרַ֥ע לְבָבְךָ֖ בְּתִתְּךָ֣ ל֑וֹ כִּ֞י בִּגְלַ֣ל&thinsp;<b>׀</b> הַדָּבָ֣ר הַזֶּ֗ה יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇֽל־מַעֲשֶׂ֔ךָ וּבְכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃",
+    "original": "<span data-strong=\"H5414\">נָת֤וֹן</span> <span data-strong=\"H5414\">תִּתֵּן֙</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H7489\">יֵרַ֥ע</span> <span data-strong=\"H3509\">לְבָבְךָ֖</span> <span data-strong=\"H3509\">בְּתִתְּךָ֣</span> <span data-strong=\"H2050\">ל֑וֹ</span> <span data-strong=\"H3588\">כִּ֞י</span> <span data-strong=\"H1558\">בִּגְלַ֣ל&thinsp;<b>׀</b></span> <span data-strong=\"H1697\">הַדָּבָ֣ר</span> <span data-strong=\"H2088\">הַזֶּ֗ה</span> <span data-strong=\"H3509\">יְבָרֶכְךָ֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H3605\">בְּכׇֽל</span>־<span data-strong=\"H3509\">מַעֲשֶׂ֔ךָ</span> <span data-strong=\"H3605\">וּבְכֹ֖ל</span> <span data-strong=\"H4916\">מִשְׁלַ֥ח</span> <span data-strong=\"H3509\">יָדֶֽךָ׃</span>",
     "transliteration": "natvon titen lvo velo'-yera' levavekha vetitekha lvo khiy vigelal&thinsp;<b>|</b> hadavar hazeh yevarekhekha yehovah 'eloheykha vekhol-ma'asekha vvekhol mishelah yadekha.",
     "translation": "Darás a ele, e não se entristecerá o teu coração na tua dádiva; pois por causa disso o Senhor, o teu Deus, te abençoará em toda a tua obra e em todas as tuas empreitadas."
   },
@@ -67,37 +67,37 @@
   },
   {
     "verse": 12,
-    "original": "כִּֽי־יִמָּכֵ֨ר לְךָ֜ אָחִ֣יךָ הָֽעִבְרִ֗י א֚וֹ הָֽעִבְרִיָּ֔ה וַעֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבַשָּׁנָה֙ הַשְּׁבִיעִ֔ת תְּשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵעִמָּֽךְ׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H4376\">יִמָּכֵ֨ר</span> <span data-strong=\"H3509\">לְךָ֜</span> <span data-strong=\"H3509\">אָחִ֣יךָ</span> <span data-strong=\"H5680\">הָֽעִבְרִ֗י</span> <span data-strong=\"H176\">א֚וֹ</span> <span data-strong=\"H5680\">הָֽעִבְרִיָּ֔ה</span> <span data-strong=\"H3509\">וַעֲבָֽדְךָ֖</span> <span data-strong=\"H8337\">שֵׁ֣שׁ</span> <span data-strong=\"H8141\">שָׁנִ֑ים</span> <span data-strong=\"H8141\">וּבַשָּׁנָה֙</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔ת</span> <span data-strong=\"H5105\">תְּשַׁלְּחֶ֥נּוּ</span> <span data-strong=\"H2670\">חׇפְשִׁ֖י</span> <span data-strong=\"H3509\">מֵעִמָּֽךְ׃</span>",
     "transliteration": "khiy-yimakher lekha 'ahiykha ha'iveriy 'vo ha'iveriyah va'avadekha shesh shaniym vvashanah hasheviy'it teshalehenv hofeshiy me'imakhe.",
     "translation": "Porque se teu irmão hebreu, ou tua irmã hebraia, for vendido a ti e servir-te seis anos, na sétima ano o enviarás embora livre de tua casa."
   },
   {
     "verse": 13,
-    "original": "וְכִֽי־תְשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם׃",
+    "original": "<span data-strong=\"H3588\">וְכִֽי</span>־<span data-strong=\"H5105\">תְשַׁלְּחֶ֥נּוּ</span> <span data-strong=\"H2670\">חׇפְשִׁ֖י</span> <span data-strong=\"H3509\">מֵֽעִמָּ֑ךְ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H5105\">תְשַׁלְּחֶ֖נּוּ</span> <span data-strong=\"H7387\">רֵיקָֽם׃</span>",
     "transliteration": "vekhiy-teshalehenv hofeshiy me'imakhe lo' teshalehenv reykam.",
     "translation": "E quando o enviarás embora livre dele, não o mandarás de mãos vazias."
   },
   {
     "verse": 14,
-    "original": "הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגׇּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ תִּתֶּן־לֽוֹ׃",
+    "original": "<span data-strong=\"H6059\">הַעֲנֵ֤יק</span> <span data-strong=\"H6059\">תַּעֲנִיק֙</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H3509\">מִצֹּ֣אנְךָ֔</span> <span data-strong=\"H3509\">וּמִֽגׇּרְנְךָ֖</span> <span data-strong=\"H3509\">וּמִיִּקְבֶ֑ךָ</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">בֵּרַכְךָ֛</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֖יךָ</span> <span data-strong=\"H5414\">תִּתֶּן</span>־<span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "ha'aneyk ta'aniyk lvo mitso'nekha vmigorenekha vmiyikevekha 'asher verakhekha yehovah 'eloheykha titen-lvo.",
     "translation": "Dá-lhe do excedente do teu rebanho, e da tua adega, e do teu tanque, com que o Senhor, o teu Deus, te abençoou, dá-las-ás a ele."
   },
   {
     "verse": 15,
-    "original": "וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַֽיִּפְדְּךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ עַל־כֵּ֞ן אָנֹכִ֧י מְצַוְּךָ֛ אֶת־הַדָּבָ֥ר הַזֶּ֖ה הַיּֽוֹם׃",
+    "original": "<span data-strong=\"H2142\">וְזָכַרְתָּ֗</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5650\">עֶ֤בֶד</span> <span data-strong=\"H1961\">הָיִ֙יתָ֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרַ֔יִם</span> <span data-strong=\"H3509\">וַֽיִּפְדְּךָ֖</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑יךָ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֞ן</span> <span data-strong=\"H595\">אָנֹכִ֧י</span> <span data-strong=\"H3509\">מְצַוְּךָ֛</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">הַדָּבָ֥ר</span> <span data-strong=\"H2088\">הַזֶּ֖ה</span> <span data-strong=\"H3117\">הַיּֽוֹם׃</span>",
     "transliteration": "vezakhareta khiy 'eved hayiyta ve'erets mitserayim vayifedekha yehovah 'eloheykha 'al-khen 'anokhiy metsavekha 'et-hadavar hazeh hayvom.",
     "translation": "E tu lembrarás que foste servo na terra do Egito, e o Senhor teu Deus te redimiu; por isso te ordeno guardar este mandamento hoje."
   },
   {
     "verse": 16,
-    "original": "וְהָיָה֙ כִּֽי־יֹאמַ֣ר אֵלֶ֔יךָ לֹ֥א אֵצֵ֖א מֵעִמָּ֑ךְ כִּ֤י אֲהֵֽבְךָ֙ וְאֶת־בֵּיתֶ֔ךָ כִּי־ט֥וֹב ל֖וֹ עִמָּֽךְ׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָה֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H559\">יֹאמַ֣ר</span> <span data-strong=\"H3509\">אֵלֶ֔יךָ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3318\">אֵצֵ֖א</span> <span data-strong=\"H3509\">מֵעִמָּ֑ךְ</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H3509\">אֲהֵֽבְךָ֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3509\">בֵּיתֶ֔ךָ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H2895\">ט֥וֹב</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H3509\">עִמָּֽךְ׃</span>",
     "transliteration": "vehayah khiy-yo'mar 'eleykha lo' 'etse' me'imakhe khiy 'ahevekha ve'et-veytekha khiy-tvov lvo 'imakhe.",
     "translation": "E será que, se ele te disser: Não sairei de junto de ti, pois eu te amo e teu lar amo; é melhor para ele estar contigo."
   },
   {
     "verse": 17,
-    "original": "וְלָקַחְתָּ֣ אֶת־הַמַּרְצֵ֗עַ וְנָתַתָּ֤ה בְאׇזְנוֹ֙ וּבַדֶּ֔לֶת וְהָיָ֥ה לְךָ֖ עֶ֣בֶד עוֹלָ֑ם וְאַ֥ף לַאֲמָתְךָ֖ תַּעֲשֶׂה־כֵּֽן׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַחְתָּ֣</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4836\">הַמַּרְצֵ֗עַ</span> <span data-strong=\"H5414\">וְנָתַתָּ֤ה</span> <span data-strong=\"H2050\">בְאׇזְנוֹ֙</span> <span data-strong=\"H1817\">וּבַדֶּ֔לֶת</span> <span data-strong=\"H1961\">וְהָיָ֥ה</span> <span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H5650\">עֶ֣בֶד</span> <span data-strong=\"H5769\">עוֹלָ֑ם</span> <span data-strong=\"H637\">וְאַ֥ף</span> <span data-strong=\"H3509\">לַאֲמָתְךָ֖</span> <span data-strong=\"H6213\">תַּעֲשֶׂה</span>־<span data-strong=\"H3651\">כֵּֽן׃</span>",
     "transliteration": "velakaheta 'et-hamaretse'a venatatah ve'ozenvo vvadelet vehayah lekha 'eved 'volam ve'af la'amatekha ta'aseh-khen.",
     "translation": "E tomarás o aro e o porás em sua orelha e à porta; e será para ti um servo eterno. Assim também farás com tua serva."
   },
@@ -109,25 +109,25 @@
   },
   {
     "verse": 19,
-    "original": "כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהֹוָ֣ה אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃",
+    "original": "<span data-strong=\"H3605\">כׇּֽל</span>־<span data-strong=\"H1060\">הַבְּכ֡וֹר</span> <span data-strong=\"H834\">אֲשֶׁר֩</span> <span data-strong=\"H3205\">יִוָּלֵ֨ד</span> <span data-strong=\"H3509\">בִּבְקָרְךָ֤</span> <span data-strong=\"H3509\">וּבְצֹֽאנְךָ֙</span> <span data-strong=\"H2145\">הַזָּכָ֔ר</span> <span data-strong=\"H6942\">תַּקְדִּ֖ישׁ</span> <span data-strong=\"H3068\">לַיהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑יךָ</span> <span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H5647\">תַעֲבֹד֙</span> <span data-strong=\"H1060\">בִּבְכֹ֣ר</span> <span data-strong=\"H3509\">שׁוֹרֶ֔ךָ</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H1494\">תָגֹ֖ז</span> <span data-strong=\"H1060\">בְּכ֥וֹר</span> <span data-strong=\"H3509\">צֹאנֶֽךָ׃</span>",
     "transliteration": "khol-havekhvor 'asher yivaled vivekarekha vvetso'nekha hazakhar takediysh layhovah 'eloheykha lo' ta'avod vivekhor shvorekha velo' tagoz vekhvor tso'nekha.",
     "translation": "Todo primogênito que nascer em tua vaca e em teu rebanho, macho será consagrado ao Senhor, o teu Deus; não farás servir o primogênito de tua vaca, nem tosarás o primogênito de teu rebanho."
   },
   {
     "verse": 20,
-    "original": "לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ תֹאכְלֶ֙נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃",
+    "original": "<span data-strong=\"H6440\">לִפְנֵי֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֤יךָ</span> <span data-strong=\"H5105\">תֹאכְלֶ֙נּוּ֙</span> <span data-strong=\"H8141\">שָׁנָ֣ה</span> <span data-strong=\"H8141\">בְשָׁנָ֔ה</span> <span data-strong=\"H4725\">בַּמָּק֖וֹם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H977\">יִבְחַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H859\">אַתָּ֖ה</span> <span data-strong=\"H3509\">וּבֵיתֶֽךָ׃</span>",
     "transliteration": "lifeney yehovah 'eloheykha to'khelenv shanah veshanah vamakvom 'asher-yivehar yehovah 'atah vveytekha.",
     "translation": "Diante do Senhor teu Deus comerás, ano após ano, no lugar que o Senhor escolher, tu e tua casa."
   },
   {
     "verse": 21,
-    "original": "וְכִֽי־יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע לֹ֣א תִזְבָּחֶ֔נּוּ לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃",
+    "original": "<span data-strong=\"H3588\">וְכִֽי</span>־<span data-strong=\"H1961\">יִהְיֶ֨ה</span> <span data-strong=\"H2050\">ב֜וֹ</span> <span data-strong=\"H3971\">מ֗וּם</span> <span data-strong=\"H6455\">פִּסֵּ֙חַ֙</span> <span data-strong=\"H176\">א֣וֹ</span> <span data-strong=\"H5787\">עִוֵּ֔ר</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3971\">מ֣וּם</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">תִזְבָּחֶ֔נּוּ</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H3509\">אֱלֹהֶֽיךָ׃</span>",
     "transliteration": "vekhiy-yiheyeh vvo mvm fiseha 'vo 'iver khol mvm ra' lo' tizevahenv layhovah 'eloheykha.",
     "translation": "E se houver nele qualquer defeito, aleijado ou cego, qualquer mácula, não o sacrificarás ao Senhor, teu Deus."
   },
   {
     "verse": 22,
-    "original": "בִּשְׁעָרֶ֖יךָ תֹּאכְלֶ֑נּוּ הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃",
+    "original": "<span data-strong=\"H3509\">בִּשְׁעָרֶ֖יךָ</span> <span data-strong=\"H5105\">תֹּאכְלֶ֑נּוּ</span> <span data-strong=\"H2931\">הַטָּמֵ֤א</span> <span data-strong=\"H2889\">וְהַטָּהוֹר֙</span> <span data-strong=\"H3162\">יַחְדָּ֔ו</span> <span data-strong=\"H6643\">כַּצְּבִ֖י</span> <span data-strong=\"H354\">וְכָאַיָּֽל׃</span>",
     "transliteration": "vishe'areykha to'khelenv hatame' vehatahvor yahedav khatseviy vekha'ayal.",
     "translation": "Ne teus portões o comerão, impuro e puro juntos, como cervo e como gazela."
   },

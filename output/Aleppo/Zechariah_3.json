@@ -1,61 +1,61 @@
 [
   {
     "verse": 1,
-    "original": "וַיַּרְאֵ֗נִי אֶת־יְהוֹשֻׁ֙עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהֹוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינ֖וֹ לְשִׂטְנֽוֹ׃",
+    "original": "<span data-strong=\"H5204\">וַיַּרְאֵ֗נִי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֙עַ֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֣ן</span> <span data-strong=\"H1419\">הַגָּד֔וֹל</span> <span data-strong=\"H5975\">עֹמֵ֕ד</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H4397\">מַלְאַ֣ךְ</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H7854\">וְהַשָּׂטָ֛ן</span> <span data-strong=\"H5975\">עֹמֵ֥ד</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">יְמִינ֖וֹ</span> <span data-strong=\"H2050\">לְשִׂטְנֽוֹ׃</span>",
     "transliteration": "vayare'eniy 'et-yehvoshu'a hakhohen hagadvol 'omed lifeney male'akhe yehovah vehasatan 'omed 'al-yemiynvo lesitenvo.",
     "translation": "E me mostrou o sacerdote grande Josué, estando em pé diante do Anjo do Senhor, e Satanás estava à sua direita para acusá-lo."
   },
   {
     "verse": 2,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־הַשָּׂטָ֗ן יִגְעַ֨ר יְהֹוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהֹוָה֙ בְּךָ֔ הַבֹּחֵ֖ר בִּירֽוּשָׁלָ֑͏ִם הֲל֧וֹא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7854\">הַשָּׂטָ֗ן</span> <span data-strong=\"H1605\">יִגְעַ֨ר</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3509\">בְּךָ֙</span> <span data-strong=\"H7854\">הַשָּׂטָ֔ן</span> <span data-strong=\"H1605\">וְיִגְעַ֤ר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H3509\">בְּךָ֔</span> <span data-strong=\"H977\">הַבֹּחֵ֖ר</span> <span data-strong=\"H3389\">בִּירֽוּשָׁלָ֑͏ִם</span> <span data-strong=\"H3808\">הֲל֧וֹא</span> <span data-strong=\"H2088\">זֶ֦ה</span> <span data-strong=\"H181\">א֖וּד</span> <span data-strong=\"H5337\">מֻצָּ֥ל</span> <span data-strong=\"H784\">מֵאֵֽשׁ׃</span>",
     "transliteration": "vayo'mer yehovah 'el-hasatan yige'ar yehovah vekha hasatan veyige'ar yehovah vekha havoher viyrvshalaim halvo' zeh 'vd mutsal me'esh.",
     "translation": "E disse o Senhor ao adversário: O Senhor te repreenda, adversário; e o Senhor te repreenda, aquele que escolhe Jerusalém! Não é este um cedro capaz de escapar do fogo?"
   },
   {
     "verse": 3,
-    "original": "וִיהוֹשֻׁ֕עַ הָיָ֥ה לָבֻ֖שׁ בְּגָדִ֣ים צוֹאִ֑ים וְעֹמֵ֖ד לִפְנֵ֥י הַמַּלְאָֽךְ׃",
+    "original": "<span data-strong=\"H3091\">וִיהוֹשֻׁ֕עַ</span> <span data-strong=\"H1961\">הָיָ֥ה</span> <span data-strong=\"H3830\">לָבֻ֖שׁ</span> <span data-strong=\"H899\">בְּגָדִ֣ים</span> <span data-strong=\"H6674\">צוֹאִ֑ים</span> <span data-strong=\"H5975\">וְעֹמֵ֖ד</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H4397\">הַמַּלְאָֽךְ׃</span>",
     "transliteration": "viyhvoshu'a hayah lavush vegadiym tsvo'iym ve'omed lifeney hamale'akhe.",
     "translation": "E Josué estava vestindo roupas sujas, e estava de pé diante do anjo."
   },
   {
     "verse": 4,
-    "original": "וַיַּ֣עַן וַיֹּ֗אמֶר אֶל־הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֙יךָ֙ עֲוֺנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֣עַן</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5975\">הָעֹמְדִ֤ים</span> <span data-strong=\"H2050\">לְפָנָיו֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H5493\">הָסִ֛ירוּ</span> <span data-strong=\"H899\">הַבְּגָדִ֥ים</span> <span data-strong=\"H6674\">הַצֹּאִ֖ים</span> <span data-strong=\"H2050\">מֵעָלָ֑יו</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">אֵלָ֗יו</span> <span data-strong=\"H7200\">רְאֵ֨ה</span> <span data-strong=\"H5674\">הֶעֱבַ֤רְתִּי</span> <span data-strong=\"H3509\">מֵעָלֶ֙יךָ֙</span> <span data-strong=\"H3509\">עֲוֺנֶ֔ךָ</span> <span data-strong=\"H3847\">וְהַלְבֵּ֥שׁ</span> <span data-strong=\"H3509\">אֹתְךָ֖</span> <span data-strong=\"H4254\">מַחֲלָצֽוֹת׃</span>",
     "transliteration": "vaya'an vayo'mer 'el-ha'omediym lefanayv le'mor hasiyrv havegadiym hatso'iym me'alayv vayo'mer 'elayv re'eh he'evaretiy me'aleykha 'avonekha vehalevesh 'otekha mahalatsvot.",
     "translation": "E respondeu e disse àqueles que estavam diante dele, dizendo: Afastei as vestes da transgressão dele. E lhe disse: Eis que removi de ti o pecado, e veste-o com vestes de salvação."
   },
   {
     "verse": 5,
-    "original": "וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָה֖וֹר עַל־רֹאשׁ֑וֹ וַיָּשִׂ֩ימוּ֩ הַצָּנִ֨יף הַטָּה֜וֹר עַל־רֹאשׁ֗וֹ וַיַּלְבִּשֻׁ֙הוּ֙ בְּגָדִ֔ים וּמַלְאַ֥ךְ יְהֹוָ֖ה עֹמֵֽד׃",
+    "original": "<span data-strong=\"H559\">וָאֹמַ֕ר</span> <span data-strong=\"H7760\">יָשִׂ֛ימוּ</span> <span data-strong=\"H6797\">צָנִ֥יף</span> <span data-strong=\"H2889\">טָה֖וֹר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֑וֹ</span> <span data-strong=\"H7760\">וַיָּשִׂ֩ימוּ֩</span> <span data-strong=\"H6797\">הַצָּנִ֨יף</span> <span data-strong=\"H2889\">הַטָּה֜וֹר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֗וֹ</span> <span data-strong=\"H1930\">וַיַּלְבִּשֻׁ֙הוּ֙</span> <span data-strong=\"H899\">בְּגָדִ֔ים</span> <span data-strong=\"H4397\">וּמַלְאַ֥ךְ</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5975\">עֹמֵֽד׃</span>",
     "transliteration": "va'omar yasiymv tsaniyf tahvor 'al-ro'shvo vayasiymv hatsaniyf hatahvor 'al-ro'shvo vayalevishuhv vegadiym vmale'akhe yehovah 'omed.",
     "translation": "E disse: Ponde sobre sua cabeça um manto puro; e puseram o manto puro sobre sua cabeça, e o vestiram com as vestes, e o anjo do Senhor estava presente."
   },
   {
     "verse": 6,
-    "original": "וַיָּ֙עַד֙ מַלְאַ֣ךְ יְהֹוָ֔ה בִּיהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H5749\">וַיָּ֙עַד֙</span> <span data-strong=\"H4397\">מַלְאַ֣ךְ</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3091\">בִּיהוֹשֻׁ֖עַ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vaya'ad male'akhe yehovah viyhvoshu'a le'mor.",
     "translation": "E ordenou o anjo do Senhor a Josué, dizendo:"
   },
   {
     "verse": 7,
-    "original": "כֹּה־אָמַ֞ר יְהֹוָ֣ה צְבָא֗וֹת אִם־בִּדְרָכַ֤י תֵּלֵךְ֙ וְאִ֣ם אֶת־מִשְׁמַרְתִּ֣י תִשְׁמֹ֔ר וְגַם־אַתָּה֙ תָּדִ֣ין אֶת־בֵּיתִ֔י וְגַ֖ם תִּשְׁמֹ֣ר אֶת־חֲצֵרָ֑י וְנָתַתִּ֤י לְךָ֙ מַהְלְכִ֔ים בֵּ֥ין הָעֹמְדִ֖ים הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H3541\">כֹּה</span>־<span data-strong=\"H559\">אָמַ֞ר</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֗וֹת</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2967\">בִּדְרָכַ֤י</span> <span data-strong=\"H1980\">תֵּלֵךְ֙</span> <span data-strong=\"H518\">וְאִ֣ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">מִשְׁמַרְתִּ֣י</span> <span data-strong=\"H8104\">תִשְׁמֹ֔ר</span> <span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H1777\">תָּדִ֣ין</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בֵּיתִ֔י</span> <span data-strong=\"H1571\">וְגַ֖ם</span> <span data-strong=\"H8104\">תִּשְׁמֹ֣ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">חֲצֵרָ֑י</span> <span data-strong=\"H5414\">וְנָתַתִּ֤י</span> <span data-strong=\"H3509\">לְךָ֙</span> <span data-strong=\"H4109\">מַהְלְכִ֔ים</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H5975\">הָעֹמְדִ֖ים</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "khoh-'amar yehovah tseva'vot 'im-viderakhay telekhe ve'im 'et-mishemaretiy tishemor vegam-'atah tadiyn 'et-veytiy vegam tishemor 'et-hatseray venatatiy lekha mahelekhiym veyn ha'omediym ha'eleh.",
     "translation": "Assim diz o Senhor dos Exércitos: se andares nos meus caminhos e guardares os meus mandamentos, também tu julgarás a minha casa e guardarás as minhas cortes, e darei entre estes que aqui permanecem um lugar de honra para ti."
   },
   {
     "verse": 8,
-    "original": "שְֽׁמַֽע־נָ֞א יְהוֹשֻׁ֣עַ&thinsp;<b>׀</b> הַכֹּהֵ֣ן הַגָּד֗וֹל אַתָּה֙ וְרֵעֶ֙יךָ֙ הַיֹּשְׁבִ֣ים לְפָנֶ֔יךָ כִּֽי־אַנְשֵׁ֥י מוֹפֵ֖ת הֵ֑מָּה כִּֽי־הִנְנִ֥י מֵבִ֛יא אֶת־עַבְדִּ֖י צֶֽמַח׃",
+    "original": "<span data-strong=\"H8085\">שְֽׁמַֽע</span>־<span data-strong=\"H4994\">נָ֞א</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֣עַ&thinsp;<b>׀</b></span> <span data-strong=\"H3548\">הַכֹּהֵ֣ן</span> <span data-strong=\"H1419\">הַגָּד֗וֹל</span> <span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H3509\">וְרֵעֶ֙יךָ֙</span> <span data-strong=\"H3427\">הַיֹּשְׁבִ֣ים</span> <span data-strong=\"H3509\">לְפָנֶ֔יךָ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H376\">אַנְשֵׁ֥י</span> <span data-strong=\"H4159\">מוֹפֵ֖ת</span> <span data-strong=\"H1992\">הֵ֑מָּה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2967\">הִנְנִ֥י</span> <span data-strong=\"H935\">מֵבִ֛יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">עַבְדִּ֖י</span> <span data-strong=\"H6780\">צֶֽמַח׃</span>",
     "transliteration": "shema'-na' yehvoshu'a&thinsp;<b>|</b> hakhohen hagadvol 'atah vere'eykha hayosheviym lefaneykha khiy-'aneshey mvofet hemah khiy-hineniy meviy' 'et-'avediy tsemah.",
     "translation": "Óuve agora, Josué, o grande sacerdote, tu e teus companheiros que assentais à tua frente, pois eles são homens de sinais; pois eis que eu trago meu servo, o Renovo."
   },
   {
     "verse": 9,
-    "original": "כִּ֣י&thinsp;<b>׀</b> הִנֵּ֣ה הָאֶ֗בֶן אֲשֶׁ֤ר נָתַ֙תִּי֙ לִפְנֵ֣י יְהוֹשֻׁ֔עַ עַל־אֶ֥בֶן אַחַ֖ת שִׁבְעָ֣ה עֵינָ֑יִם הִנְנִ֧י מְפַתֵּ֣חַ פִּתֻּחָ֗הּ נְאֻם֙ יְהֹוָ֣ה צְבָא֔וֹת וּמַשְׁתִּ֛י אֶת־עֲוֺ֥ן הָאָֽרֶץ־הַהִ֖יא בְּי֥וֹם אֶחָֽד׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H2009\">הִנֵּ֣ה</span> <span data-strong=\"H68\">הָאֶ֗בֶן</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5414\">נָתַ֙תִּי֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֔עַ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H68\">אֶ֥בֶן</span> <span data-strong=\"H259\">אַחַ֖ת</span> <span data-strong=\"H7651\">שִׁבְעָ֣ה</span> <span data-strong=\"H5869\">עֵינָ֑יִם</span> <span data-strong=\"H2967\">הִנְנִ֧י</span> <span data-strong=\"H6605\">מְפַתֵּ֣חַ</span> <span data-strong=\"H1886\">פִּתֻּחָ֗הּ</span> <span data-strong=\"H5002\">נְאֻם֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֔וֹת</span> <span data-strong=\"H4185\">וּמַשְׁתִּ֛י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5771\">עֲוֺ֥ן</span> <span data-strong=\"H776\">הָאָֽרֶץ</span>־<span data-strong=\"H1931\">הַהִ֖יא</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H259\">אֶחָֽד׃</span>",
     "transliteration": "khiy&thinsp;<b>|</b> hineh ha'even 'asher natatiy lifeney yehvoshu'a 'al-'even 'ahat shive'ah 'eynayim hineniy mefateha fituhah ne'um yehovah tseva'vot vmashetiy 'et-'avon ha'arets-hahiy' veyvom 'ehad.",
     "translation": "Porque eis a pedra que pus diante de Josué: uma pedra com sete olhos. Eis que abrirei sua ocultação, declara o Senhor dos Exércitos, e purificarei a iniquidade da terra num único dia."
   },
   {
     "verse": 10,
-    "original": "בַּיּ֣וֹם הַה֗וּא נְאֻם֙ יְהֹוָ֣ה צְבָא֔וֹת תִּקְרְא֖וּ אִ֣ישׁ לְרֵעֵ֑הוּ אֶל־תַּ֥חַת גֶּ֖פֶן וְאֶל־תַּ֥חַת תְּאֵנָֽה׃",
+    "original": "<span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֗וּא</span> <span data-strong=\"H5002\">נְאֻם֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֔וֹת</span> <span data-strong=\"H7121\">תִּקְרְא֖וּ</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H1930\">לְרֵעֵ֑הוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H1612\">גֶּ֖פֶן</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H8384\">תְּאֵנָֽה׃</span>",
     "transliteration": "vayvom hahv' ne'um yehovah tseva'vot tikere'v 'iysh lere'ehv 'el-tahat gefen ve'el-tahat te'enah.",
     "translation": "Naquele dia, declara o Senhor dos Exércitos: cada homem clamará ao seu próximo debaixo da vide e debaixo da figueira."
   }

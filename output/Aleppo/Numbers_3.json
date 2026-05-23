@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת אַהֲרֹ֖ן וּמֹשֶׁ֑ה בְּי֗וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה בְּהַ֥ר סִינָֽי׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֛לֶּה</span> <span data-strong=\"H8435\">תּוֹלְדֹ֥ת</span> <span data-strong=\"H175\">אַהֲרֹ֖ן</span> <span data-strong=\"H4872\">וּמֹשֶׁ֑ה</span> <span data-strong=\"H3117\">בְּי֗וֹם</span> <span data-strong=\"H1696\">דִּבֶּ֧ר</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H2022\">בְּהַ֥ר</span> <span data-strong=\"H5514\">סִינָֽי׃</span>",
     "transliteration": "ve'eleh tvoledot 'aharon vmosheh veyvom diver yehovah 'et-mosheh vehar siynay.",
     "translation": "E estes são os descendentes de Aarão e Moisés no dia em que o Senhor falou com Moisés no monte Sinai."
   },
@@ -13,7 +13,7 @@
   },
   {
     "verse": 3,
-    "original": "אֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י אַהֲרֹ֔ן הַכֹּהֲנִ֖ים הַמְּשֻׁחִ֑ים אֲשֶׁר־מִלֵּ֥א יָדָ֖ם לְכַהֵֽן׃",
+    "original": "<span data-strong=\"H428\">אֵ֗לֶּה</span> <span data-strong=\"H8034\">שְׁמוֹת֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H175\">אַהֲרֹ֔ן</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֖ים</span> <span data-strong=\"H4886\">הַמְּשֻׁחִ֑ים</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H4390\">מִלֵּ֥א</span> <span data-strong=\"H3963\">יָדָ֖ם</span> <span data-strong=\"H3547\">לְכַהֵֽן׃</span>",
     "transliteration": "'eleh shemvot veney 'aharon hakhohaniym hameshuhiym 'asher-mile' yadam lekhahen.",
     "translation": "Estes são os nomes dos filhos de Aarão, os sacerdotes ungidos cujas mãos foram encheidas para ministrar."
   },
@@ -25,31 +25,31 @@
   },
   {
     "verse": 5,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 6,
-    "original": "הַקְרֵב֙ אֶת־מַטֵּ֣ה לֵוִ֔י וְהַעֲמַדְתָּ֣ אֹת֔וֹ לִפְנֵ֖י אַהֲרֹ֣ן הַכֹּהֵ֑ן וְשֵׁרְת֖וּ אֹתֽוֹ׃",
+    "original": "<span data-strong=\"H7126\">הַקְרֵב֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4294\">מַטֵּ֣ה</span> <span data-strong=\"H3878\">לֵוִ֔י</span> <span data-strong=\"H5975\">וְהַעֲמַדְתָּ֣</span> <span data-strong=\"H2050\">אֹת֔וֹ</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H175\">אַהֲרֹ֣ן</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H8334\">וְשֵׁרְת֖וּ</span> <span data-strong=\"H2050\">אֹתֽוֹ׃</span>",
     "transliteration": "hakerev 'et-mateh leviy veha'amadeta 'otvo lifeney 'aharon hakhohen vesheretv 'otvo.",
     "translation": "Trazei a vara de Levi e estabelecei-o diante do sacerdote Aarão; sirvam-no."
   },
   {
     "verse": 7,
-    "original": "וְשָׁמְר֣וּ אֶת־מִשְׁמַרְתּ֗וֹ וְאֶת־מִשְׁמֶ֙רֶת֙ כׇּל־הָ֣עֵדָ֔ה לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+    "original": "<span data-strong=\"H8104\">וְשָׁמְר֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">מִשְׁמַרְתּ֗וֹ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4931\">מִשְׁמֶ֙רֶת֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5712\">הָ֣עֵדָ֔ה</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H168\">אֹ֣הֶל</span> <span data-strong=\"H4150\">מוֹעֵ֑ד</span> <span data-strong=\"H5647\">לַעֲבֹ֖ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5656\">עֲבֹדַ֥ת</span> <span data-strong=\"H4908\">הַמִּשְׁכָּֽן׃</span>",
     "transliteration": "veshamerv 'et-mishemaretvo ve'et-mishemeret khol-ha'edah lifeney 'ohel mvo'ed la'avod 'et-'avodat hamishekhan.",
     "translation": "E guardem sua guarda e a guarda de toda a congregação diante da tenda do encontro, para servir na obra do tabernáculo."
   },
   {
     "verse": 8,
-    "original": "וְשָׁמְר֗וּ אֶֽת־כׇּל־כְּלֵי֙ אֹ֣הֶל מוֹעֵ֔ד וְאֶת־מִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+    "original": "<span data-strong=\"H8104\">וְשָׁמְר֗וּ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3627\">כְּלֵי֙</span> <span data-strong=\"H168\">אֹ֣הֶל</span> <span data-strong=\"H4150\">מוֹעֵ֔ד</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4931\">מִשְׁמֶ֖רֶת</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H5647\">לַעֲבֹ֖ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5656\">עֲבֹדַ֥ת</span> <span data-strong=\"H4908\">הַמִּשְׁכָּֽן׃</span>",
     "transliteration": "veshamerv 'et-khol-kheley 'ohel mvo'ed ve'et-mishemeret veney yisera'el la'avod 'et-'avodat hamishekhan.",
     "translation": "E guardem todos os vasos da tenda do encontro, e a guarda dos filhos de Israel para servir ao serviço do tabernáculo."
   },
   {
     "verse": 9,
-    "original": "וְנָתַתָּה֙ אֶת־הַלְוִיִּ֔ם לְאַהֲרֹ֖ן וּלְבָנָ֑יו נְתוּנִ֨ם נְתוּנִ֥ם הֵ֙מָּה֙ ל֔וֹ מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַתָּה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3881\">הַלְוִיִּ֔ם</span> <span data-strong=\"H175\">לְאַהֲרֹ֖ן</span> <span data-strong=\"H2050\">וּלְבָנָ֑יו</span> <span data-strong=\"H5414\">נְתוּנִ֨ם</span> <span data-strong=\"H5414\">נְתוּנִ֥ם</span> <span data-strong=\"H1992\">הֵ֙מָּה֙</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H854\">מֵאֵ֖ת</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "venatatah 'et-haleviyim le'aharon vlevanayv netvnim netvnim hemah lvo me'et veney yisera'el.",
     "translation": "E darás os levitas a Aarão e aos seus filhos; eles serão totalmente dedicados a ele, dados em lugar dos filhos de Israel."
   },
@@ -61,13 +61,13 @@
   },
   {
     "verse": 11,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 12,
-    "original": "וַאֲנִ֞י הִנֵּ֧ה לָקַ֣חְתִּי אֶת־הַלְוִיִּ֗ם מִתּוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל תַּ֧חַת כׇּל־בְּכ֛וֹר פֶּ֥טֶר רֶ֖חֶם מִבְּנֵ֣י יִשְׂרָאֵ֑ל וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃",
+    "original": "<span data-strong=\"H589\">וַאֲנִ֞י</span> <span data-strong=\"H2009\">הִנֵּ֧ה</span> <span data-strong=\"H3947\">לָקַ֣חְתִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3881\">הַלְוִיִּ֗ם</span> <span data-strong=\"H8432\">מִתּוֹךְ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H8478\">תַּ֧חַת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכ֛וֹר</span> <span data-strong=\"H6363\">פֶּ֥טֶר</span> <span data-strong=\"H7358\">רֶ֖חֶם</span> <span data-strong=\"H1121\">מִבְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H1961\">וְהָ֥יוּ</span> <span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H3881\">הַלְוִיִּֽם׃</span>",
     "transliteration": "va'aniy hineh lakahetiy 'et-haleviyim mitvokhe veney yisera'el tahat khol-vekhvor feter rehem miveney yisera'el vehayv liy haleviyim.",
     "translation": "Eis que eu tomei os levitas no lugar de todos os primogênitos entre os filhos de Israel, em troca do primogênito de toda matriz entre os filhos de Israel; e serão Meus os levitas."
   },
@@ -79,73 +79,73 @@
   },
   {
     "verse": 14,
-    "original": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּמִדְבַּ֥ר סִינַ֖י לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֤ר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H4057\">בְּמִדְבַּ֥ר</span> <span data-strong=\"H5514\">סִינַ֖י</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh vemidevar siynay le'mor.",
     "translation": "E o Senhor falou a Moisés no deserto de Sinai, dizendo:"
   },
   {
     "verse": 15,
-    "original": "פְּקֹד֙ אֶת־בְּנֵ֣י לֵוִ֔י לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָ֑ם כׇּל־זָכָ֛ר מִבֶּן־חֹ֥דֶשׁ וָמַ֖עְלָה תִּפְקְדֵֽם׃",
+    "original": "<span data-strong=\"H6485\">פְּקֹד֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3878\">לֵוִ֔י</span> <span data-strong=\"H1004\">לְבֵ֥ית</span> <span data-strong=\"H3963\">אֲבֹתָ֖ם</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֑ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2145\">זָכָ֛ר</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֥דֶשׁ</span> <span data-strong=\"H1886\">וָמַ֖עְלָה</span> <span data-strong=\"H3963\">תִּפְקְדֵֽם׃</span>",
     "transliteration": "fekod 'et-veney leviy leveyt 'avotam lemishefehotam khol-zakhar miven-hodesh vama'elah tifekedem.",
     "translation": "Contai os filhos de Levi, pela casa de seus pais, pelas suas famílias; todo macho de um mês para cima contai-vos."
   },
   {
     "verse": 16,
-    "original": "וַיִּפְקֹ֥ד אֹתָ֛ם מֹשֶׁ֖ה עַל־פִּ֣י יְהֹוָ֑ה כַּאֲשֶׁ֖ר צֻוָּֽה׃",
+    "original": "<span data-strong=\"H6485\">וַיִּפְקֹ֥ד</span> <span data-strong=\"H3963\">אֹתָ֛ם</span> <span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H834\">כַּאֲשֶׁ֖ר</span> <span data-strong=\"H6680\">צֻוָּֽה׃</span>",
     "transliteration": "vayifekod 'otam mosheh 'al-fiy yehovah kha'asher tsuvah.",
     "translation": "E Moisés os ordenou conforme a palavra do Senhor, como lhe foi mandado."
   },
   {
     "verse": 17,
-    "original": "וַיִּֽהְיוּ־אֵ֥לֶּה בְנֵֽי־לֵוִ֖י בִּשְׁמֹתָ֑ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִֽי׃",
+    "original": "<span data-strong=\"H1961\">וַיִּֽהְיוּ</span>־<span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3878\">לֵוִ֖י</span> <span data-strong=\"H3963\">בִּשְׁמֹתָ֑ם</span> <span data-strong=\"H1647\">גֵּרְשׁ֕וֹן</span> <span data-strong=\"H6955\">וּקְהָ֖ת</span> <span data-strong=\"H4847\">וּמְרָרִֽי׃</span>",
     "transliteration": "vayiheyv-'eleh veney-leviy vishemotam gereshvon vkehat vmerariy.",
     "translation": "E estes foram os filhos de Levi por seus nomes: Gérson, Quate e Merari."
   },
   {
     "verse": 18,
-    "original": "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־גֵרְשׁ֖וֹן לְמִשְׁפְּחֹתָ֑ם לִבְנִ֖י וְשִׁמְעִֽי׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֛לֶּה</span> <span data-strong=\"H8034\">שְׁמ֥וֹת</span> <span data-strong=\"H1121\">בְּֽנֵי</span>־<span data-strong=\"H1647\">גֵרְשׁ֖וֹן</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֑ם</span> <span data-strong=\"H3845\">לִבְנִ֖י</span> <span data-strong=\"H8096\">וְשִׁמְעִֽי׃</span>",
     "transliteration": "ve'eleh shemvot veney-gereshvon lemishefehotam liveniy veshime'iy.",
     "translation": "E estes são os nomes dos filhos de Gersão, segundo suas famílias: Libni e Simi."
   },
   {
     "verse": 19,
-    "original": "וּבְנֵ֥י קְהָ֖ת לְמִשְׁפְּחֹתָ֑ם עַמְרָ֣ם וְיִצְהָ֔ר חֶבְר֖וֹן וְעֻזִּיאֵֽל׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֥י</span> <span data-strong=\"H6955\">קְהָ֖ת</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֑ם</span> <span data-strong=\"H6019\">עַמְרָ֣ם</span> <span data-strong=\"H3324\">וְיִצְהָ֔ר</span> <span data-strong=\"H2275\">חֶבְר֖וֹן</span> <span data-strong=\"H5816\">וְעֻזִּיאֵֽל׃</span>",
     "transliteration": "vveney kehat lemishefehotam 'ameram veyitsehar hevervon ve'uziy'el.",
     "translation": "E os filhos de Quate, segundo suas famílias: Amram, Izar, Hebron e Uziel."
   },
   {
     "verse": 20,
-    "original": "וּבְנֵ֧י מְרָרִ֛י לְמִשְׁפְּחֹתָ֖ם מַחְלִ֣י וּמוּשִׁ֑י אֵ֥לֶּה הֵ֛ם מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְבֵ֥ית אֲבֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֧י</span> <span data-strong=\"H4847\">מְרָרִ֛י</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֖ם</span> <span data-strong=\"H4249\">מַחְלִ֣י</span> <span data-strong=\"H4187\">וּמוּשִׁ֑י</span> <span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1992\">הֵ֛ם</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H3881\">הַלֵּוִ֖י</span> <span data-strong=\"H1004\">לְבֵ֥ית</span> <span data-strong=\"H3963\">אֲבֹתָֽם׃</span>",
     "transliteration": "vveney merariy lemishefehotam maheliy vmvshiy 'eleh hem mishefehot haleviy leveyt 'avotam.",
     "translation": "E os filhos de Merari, por suas famílias: Malziel e Mushi. Estes são os clãs dos levitas, pela casa de seus pais."
   },
   {
     "verse": 21,
-    "original": "לְגֵ֣רְשׁ֔וֹן מִשְׁפַּ֙חַת֙ הַלִּבְנִ֔י וּמִשְׁפַּ֖חַת הַשִּׁמְעִ֑י אֵ֣לֶּה הֵ֔ם מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּֽי׃",
+    "original": "<span data-strong=\"H1647\">לְגֵ֣רְשׁ֔וֹן</span> <span data-strong=\"H4940\">מִשְׁפַּ֙חַת֙</span> <span data-strong=\"H3846\">הַלִּבְנִ֔י</span> <span data-strong=\"H4940\">וּמִשְׁפַּ֖חַת</span> <span data-strong=\"H8097\">הַשִּׁמְעִ֑י</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H1992\">הֵ֔ם</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֖ת</span> <span data-strong=\"H1649\">הַגֵּרְשֻׁנִּֽי׃</span>",
     "transliteration": "legereshvon mishefahat haliveniy vmishefahat hashime'iy 'eleh hem mishefehot hagereshuniy.",
     "translation": "Para Gérson, a família do Libni e a família do Simei; estes são os clãs dos Gersonitas."
   },
   {
     "verse": 22,
-    "original": "פְּקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה פְּקֻ֣דֵיהֶ֔ם שִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+    "original": "<span data-strong=\"H3963\">פְּקֻדֵיהֶם֙</span> <span data-strong=\"H4557\">בְּמִסְפַּ֣ר</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2145\">זָכָ֔ר</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֖דֶשׁ</span> <span data-strong=\"H1886\">וָמָ֑עְלָה</span> <span data-strong=\"H3963\">פְּקֻ֣דֵיהֶ֔ם</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H505\">אֲלָפִ֖ים</span> <span data-strong=\"H2568\">וַחֲמֵ֥שׁ</span> <span data-strong=\"H3967\">מֵאֽוֹת׃</span>",
     "transliteration": "fekudeyhem vemisefar khol-zakhar miven-hodesh vama'elah fekudeyhem shive'at 'alafiym vahamesh me'vot.",
     "translation": "Contagem deles pelo número de todo macho, desde um mês para cima. Sua contagem: sete mil e quinhentos."
   },
   {
     "verse": 23,
-    "original": "מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י אַחֲרֵ֧י הַמִּשְׁכָּ֛ן יַחֲנ֖וּ יָֽמָּה׃",
+    "original": "<span data-strong=\"H4940\">מִשְׁפְּחֹ֖ת</span> <span data-strong=\"H1649\">הַגֵּרְשֻׁנִּ֑י</span> <span data-strong=\"H310\">אַחֲרֵ֧י</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֛ן</span> <span data-strong=\"H2583\">יַחֲנ֖וּ</span> <span data-strong=\"H1886\">יָֽמָּה׃</span>",
     "transliteration": "mishefehot hagereshuniy 'aharey hamishekhan yahanv yamah.",
     "translation": "As tribos dos gershonitas acamparão ao ocidente do Tabernáculo."
   },
   {
     "verse": 24,
-    "original": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לַגֵּרְשֻׁנִּ֑י אֶלְיָסָ֖ף בֶּן־לָאֵֽל׃",
+    "original": "<span data-strong=\"H5387\">וּנְשִׂ֥יא</span> <span data-strong=\"H1004\">בֵֽית</span>־<span data-strong=\"H1\">אָ֖ב</span> <span data-strong=\"H1649\">לַגֵּרְשֻׁנִּ֑י</span> <span data-strong=\"H460\">אֶלְיָסָ֖ף</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3815\">לָאֵֽל׃</span>",
     "transliteration": "vnesiy' veyt-'av lagereshuniy 'eleyasaf ven-la'el.",
     "translation": "E o chefe da casa dos gersonitas, Eliasafe, filho de Laael."
   },
   {
     "verse": 25,
-    "original": "וּמִשְׁמֶ֤רֶת בְּנֵֽי־גֵרְשׁוֹן֙ בְּאֹ֣הֶל מוֹעֵ֔ד הַמִּשְׁכָּ֖ן וְהָאֹ֑הֶל מִכְסֵ֕הוּ וּמָסַ֕ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+    "original": "<span data-strong=\"H4931\">וּמִשְׁמֶ֤רֶת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H1647\">גֵרְשׁוֹן֙</span> <span data-strong=\"H168\">בְּאֹ֣הֶל</span> <span data-strong=\"H4150\">מוֹעֵ֔ד</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֖ן</span> <span data-strong=\"H168\">וְהָאֹ֑הֶל</span> <span data-strong=\"H1930\">מִכְסֵ֕הוּ</span> <span data-strong=\"H4539\">וּמָסַ֕ךְ</span> <span data-strong=\"H6607\">פֶּ֖תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵֽד׃</span>",
     "transliteration": "vmishemeret veney-gereshvon ve'ohel mvo'ed hamishekhan veha'ohel mikhesehv vmasakhe fetah 'ohel mvo'ed.",
     "translation": "E a guarda dos filhos de Gersom será o tabernáculo e a tenda, seu cobertor e o véu da porta do tabernáculo."
   },
@@ -157,67 +157,67 @@
   },
   {
     "verse": 27,
-    "original": "וְלִקְהָ֗ת מִשְׁפַּ֤חַת הַֽעַמְרָמִי֙ וּמִשְׁפַּ֣חַת הַיִּצְהָרִ֔י וּמִשְׁפַּ֙חַת֙ הַֽחֶבְרֹנִ֔י וּמִשְׁפַּ֖חַת הָעׇזִּֽיאֵלִ֑י אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת הַקְּהָתִֽי׃",
+    "original": "<span data-strong=\"H6955\">וְלִקְהָ֗ת</span> <span data-strong=\"H4940\">מִשְׁפַּ֤חַת</span> <span data-strong=\"H6020\">הַֽעַמְרָמִי֙</span> <span data-strong=\"H4940\">וּמִשְׁפַּ֣חַת</span> <span data-strong=\"H3325\">הַיִּצְהָרִ֔י</span> <span data-strong=\"H4940\">וּמִשְׁפַּ֙חַת֙</span> <span data-strong=\"H2276\">הַֽחֶבְרֹנִ֔י</span> <span data-strong=\"H4940\">וּמִשְׁפַּ֖חַת</span> <span data-strong=\"H5817\">הָעׇזִּֽיאֵלִ֑י</span> <span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1992\">הֵ֖ם</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H6956\">הַקְּהָתִֽי׃</span>",
     "transliteration": "velikehat mishefahat ha'ameramiy vmishefahat hayitsehariy vmishefahat haheveroniy vmishefahat ha'oziy'eliy 'eleh hem mishefehot hakehatiy.",
     "translation": "E à Querate pertencem a família do Amramita, e a família do Izarita, e a família do Hebronita, e a família do Ezrieleita; estes são as famílias dos Queretitas."
   },
   {
     "verse": 28,
-    "original": "בְּמִסְפַּר֙ כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה שְׁמֹנַ֤ת אֲלָפִים֙ וְשֵׁ֣שׁ מֵא֔וֹת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H4557\">בְּמִסְפַּר֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2145\">זָכָ֔ר</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֖דֶשׁ</span> <span data-strong=\"H1886\">וָמָ֑עְלָה</span> <span data-strong=\"H8083\">שְׁמֹנַ֤ת</span> <span data-strong=\"H505\">אֲלָפִים֙</span> <span data-strong=\"H8337\">וְשֵׁ֣שׁ</span> <span data-strong=\"H3967\">מֵא֔וֹת</span> <span data-strong=\"H8104\">שֹׁמְרֵ֖י</span> <span data-strong=\"H4931\">מִשְׁמֶ֥רֶת</span> <span data-strong=\"H6944\">הַקֹּֽדֶשׁ׃</span>",
     "transliteration": "vemisefar khol-zakhar miven-hodesh vama'elah shemonat 'alafiym veshesh me'vot shomerey mishemeret hakodesh.",
     "translation": "No número de todos os machos, desde um mês para cima, oitocentos e sessenta mil, guardiões da santidade."
   },
   {
     "verse": 29,
-    "original": "מִשְׁפְּחֹ֥ת בְּנֵי־קְהָ֖ת יַחֲנ֑וּ עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן תֵּימָֽנָה׃",
+    "original": "<span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H6955\">קְהָ֖ת</span> <span data-strong=\"H2583\">יַחֲנ֑וּ</span> <span data-strong=\"H5921\">עַ֛ל</span> <span data-strong=\"H3409\">יֶ֥רֶךְ</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֖ן</span> <span data-strong=\"H1886\">תֵּימָֽנָה׃</span>",
     "transliteration": "mishefehot veney-kehat yahanv 'al yerekhe hamishekhan teymanah.",
     "translation": "As famílias dos filhos de Quate acamparão ao lado do tabernáculo para o sul."
   },
   {
     "verse": 30,
-    "original": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לְמִשְׁפְּחֹ֣ת הַקְּהָתִ֑י אֱלִיצָפָ֖ן בֶּן־עֻזִּיאֵֽל׃",
+    "original": "<span data-strong=\"H5387\">וּנְשִׂ֥יא</span> <span data-strong=\"H1004\">בֵֽית</span>־<span data-strong=\"H1\">אָ֖ב</span> <span data-strong=\"H4940\">לְמִשְׁפְּחֹ֣ת</span> <span data-strong=\"H6956\">הַקְּהָתִ֑י</span> <span data-strong=\"H469\">אֱלִיצָפָ֖ן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5816\">עֻזִּיאֵֽל׃</span>",
     "transliteration": "vnesiy' veyt-'av lemishefehot hakehatiy 'eliytsafan ven-'uziy'el.",
     "translation": "E o príncipe da casa de pai das famílias dos quetitas, Elizafã, filho de Uziel."
   },
   {
     "verse": 31,
-    "original": "וּמִשְׁמַרְתָּ֗ם הָאָרֹ֤ן וְהַשֻּׁלְחָן֙ וְהַמְּנֹרָ֣ה וְהַֽמִּזְבְּחֹ֔ת וּכְלֵ֣י הַקֹּ֔דֶשׁ אֲשֶׁ֥ר יְשָׁרְת֖וּ בָּהֶ֑ם וְהַ֨מָּסָ֔ךְ וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+    "original": "<span data-strong=\"H3963\">וּמִשְׁמַרְתָּ֗ם</span> <span data-strong=\"H727\">הָאָרֹ֤ן</span> <span data-strong=\"H7979\">וְהַשֻּׁלְחָן֙</span> <span data-strong=\"H4501\">וְהַמְּנֹרָ֣ה</span> <span data-strong=\"H4196\">וְהַֽמִּזְבְּחֹ֔ת</span> <span data-strong=\"H3627\">וּכְלֵ֣י</span> <span data-strong=\"H6944\">הַקֹּ֔דֶשׁ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H8334\">יְשָׁרְת֖וּ</span> <span data-strong=\"H3963\">בָּהֶ֑ם</span> <span data-strong=\"H4539\">וְהַ֨מָּסָ֔ךְ</span> <span data-strong=\"H3605\">וְכֹ֖ל</span> <span data-strong=\"H2050\">עֲבֹדָתֽוֹ׃</span>",
     "transliteration": "vmishemaretam ha'aron vehashulehan vehamenorah vehamizevehot vkheley hakodesh 'asher yesharetv vahem vehamasakhe vekhol 'avodatvo.",
     "translation": "E sua guarda era o Arca, a mesa e a Menorah e os altares, e os utensílios sagrados com que serviam neles, e o véu, e toda a sua obra."
   },
   {
     "verse": 32,
-    "original": "וּנְשִׂיא֙ נְשִׂיאֵ֣י הַלֵּוִ֔י אֶלְעָזָ֖ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֑ן פְּקֻדַּ֕ת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H5387\">וּנְשִׂיא֙</span> <span data-strong=\"H5387\">נְשִׂיאֵ֣י</span> <span data-strong=\"H3881\">הַלֵּוִ֔י</span> <span data-strong=\"H499\">אֶלְעָזָ֖ר</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H175\">אַהֲרֹ֣ן</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H6486\">פְּקֻדַּ֕ת</span> <span data-strong=\"H8104\">שֹׁמְרֵ֖י</span> <span data-strong=\"H4931\">מִשְׁמֶ֥רֶת</span> <span data-strong=\"H6944\">הַקֹּֽדֶשׁ׃</span>",
     "transliteration": "vnesiy' nesiy'ey haleviy 'ele'azar ven-'aharon hakhohen fekudat shomerey mishemeret hakodesh.",
     "translation": "E o príncipe dos chefes levitas, Eleazar, filho de Aarão, o sacerdote, é responsável pela guarda da santidade do santuário."
   },
   {
     "verse": 33,
-    "original": "לִמְרָרִ֕י מִשְׁפַּ֙חַת֙ הַמַּחְלִ֔י וּמִשְׁפַּ֖חַת הַמּוּשִׁ֑י אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת מְרָרִֽי׃",
+    "original": "<span data-strong=\"H4847\">לִמְרָרִ֕י</span> <span data-strong=\"H4940\">מִשְׁפַּ֙חַת֙</span> <span data-strong=\"H4250\">הַמַּחְלִ֔י</span> <span data-strong=\"H4940\">וּמִשְׁפַּ֖חַת</span> <span data-strong=\"H4188\">הַמּוּשִׁ֑י</span> <span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1992\">הֵ֖ם</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H4847\">מְרָרִֽי׃</span>",
     "transliteration": "limerariy mishefahat hamaheliy vmishefahat hamvshiy 'eleh hem mishefehot merariy.",
     "translation": "De Merari, da família de Malziel e da família de Musi; estes são os clãs de Merari."
   },
   {
     "verse": 34,
-    "original": "וּפְקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה שֵׁ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃",
+    "original": "<span data-strong=\"H3963\">וּפְקֻדֵיהֶם֙</span> <span data-strong=\"H4557\">בְּמִסְפַּ֣ר</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2145\">זָכָ֔ר</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֖דֶשׁ</span> <span data-strong=\"H1886\">וָמָ֑עְלָה</span> <span data-strong=\"H8337\">שֵׁ֥שֶׁת</span> <span data-strong=\"H505\">אֲלָפִ֖ים</span> <span data-strong=\"H3967\">וּמָאתָֽיִם׃</span>",
     "transliteration": "vfekudeyhem vemisefar khol-zakhar miven-hodesh vama'elah sheshet 'alafiym vma'tayim.",
     "translation": "E o seu número, conforme todo macho, desde um mês para cima, foi seis mil e duzentos."
   },
   {
     "verse": 35,
-    "original": "וּנְשִׂ֤יא בֵֽית־אָב֙ לְמִשְׁפְּחֹ֣ת מְרָרִ֔י צוּרִיאֵ֖ל בֶּן־אֲבִיחָ֑יִל עַ֣ל יֶ֧רֶךְ הַמִּשְׁכָּ֛ן יַחֲנ֖וּ צָפֹֽנָה׃",
+    "original": "<span data-strong=\"H5387\">וּנְשִׂ֤יא</span> <span data-strong=\"H1004\">בֵֽית</span>־<span data-strong=\"H1\">אָב֙</span> <span data-strong=\"H4940\">לְמִשְׁפְּחֹ֣ת</span> <span data-strong=\"H4847\">מְרָרִ֔י</span> <span data-strong=\"H6700\">צוּרִיאֵ֖ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H32\">אֲבִיחָ֑יִל</span> <span data-strong=\"H5921\">עַ֣ל</span> <span data-strong=\"H3409\">יֶ֧רֶךְ</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֛ן</span> <span data-strong=\"H2583\">יַחֲנ֖וּ</span> <span data-strong=\"H1886\">צָפֹֽנָה׃</span>",
     "transliteration": "vnesiy' veyt-'av lemishefehot merariy tsvriy'el ven-'aviyhayil 'al yerekhe hamishekhan yahanv tsafonah.",
     "translation": "E o príncipe da casa de Avi para as famílias de Merari foi Tsuriel, filho de Abihail; ao lado do tabernáculo acamparão para o norte.\n\nNota interna: O texto está correto em relação aos critérios solicitados, não havendo necessidade de alterações. No entanto, conforme instrução para apenas fornecer a tradução revisada e corrigida sem explicações adicionais, omito as notas de revisão anterior."
   },
   {
     "verse": 36,
-    "original": "וּפְקֻדַּ֣ת מִשְׁמֶ֘רֶת֮ בְּנֵ֣י מְרָרִי֒ קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמֻּדָ֣יו וַאֲדָנָ֑יו וְכׇ֨ל־כֵּלָ֔יו וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+    "original": "<span data-strong=\"H6486\">וּפְקֻדַּ֣ת</span> <span data-strong=\"H4931\">מִשְׁמֶ֘רֶת֮</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H4847\">מְרָרִי֒</span> <span data-strong=\"H7175\">קַרְשֵׁי֙</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֔ן</span> <span data-strong=\"H2050\">וּבְרִיחָ֖יו</span> <span data-strong=\"H2050\">וְעַמֻּדָ֣יו</span> <span data-strong=\"H2050\">וַאֲדָנָ֑יו</span> <span data-strong=\"H3605\">וְכׇ֨ל</span>־<span data-strong=\"H2050\">כֵּלָ֔יו</span> <span data-strong=\"H3605\">וְכֹ֖ל</span> <span data-strong=\"H2050\">עֲבֹדָתֽוֹ׃</span>",
     "transliteration": "vfekudat mishemeret veney merariy kareshey hamishekhan vveriyhayv ve'amudayv va'adanayv vekhol-khelayv vekhol 'avodatvo.",
     "translation": "E a contagem da guarda dos filhos de Merari, as tábuas do tabernáculo e seus batentes e suas colunas e seus bases, e todo seu mobiliário, e toda sua serventia.\n\nNota: O rascunho está correto em termos de número gramatical, contexto e estilo. No entanto, para maior precisão e formalidade, sugere-se a seguinte revisão:\n\nE a contagem da guarda dos filhos de Merari: as tábuas do tabernáculo e seus batentes, suas colunas e bases; todo o seu mobiliário e toda a sua serventia."
   },
   {
     "verse": 37,
-    "original": "וְעַמֻּדֵ֧י הֶחָצֵ֛ר סָבִ֖יב וְאַדְנֵיהֶ֑ם וִיתֵדֹתָ֖ם וּמֵֽיתְרֵיהֶֽם׃",
+    "original": "<span data-strong=\"H5982\">וְעַמֻּדֵ֧י</span> <span data-strong=\"H2691\">הֶחָצֵ֛ר</span> <span data-strong=\"H5439\">סָבִ֖יב</span> <span data-strong=\"H3963\">וְאַדְנֵיהֶ֑ם</span> <span data-strong=\"H3963\">וִיתֵדֹתָ֖ם</span> <span data-strong=\"H3963\">וּמֵֽיתְרֵיהֶֽם׃</span>",
     "transliteration": "ve'amudey hehatser saviyv ve'adeneyhem viytedotam vmeytereyhem.",
     "translation": "E as colunas da cortina ao redor, com seus fundamentos e suas estacas e suas cordas."
   },
@@ -235,19 +235,19 @@
   },
   {
     "verse": 40,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה פְּקֹ֨ד כׇּל־בְּכֹ֤ר זָכָר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה וְשָׂ֕א אֵ֖ת מִסְפַּ֥ר שְׁמֹתָֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H6485\">פְּקֹ֨ד</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכֹ֤ר</span> <span data-strong=\"H2145\">זָכָר֙</span> <span data-strong=\"H1121\">לִבְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֖דֶשׁ</span> <span data-strong=\"H1886\">וָמָ֑עְלָה</span> <span data-strong=\"H5375\">וְשָׂ֕א</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H4557\">מִסְפַּ֥ר</span> <span data-strong=\"H3963\">שְׁמֹתָֽם׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh fekod khol-vekhor zakhar liveney yisera'el miven-hodesh vama'elah vesa' 'et misefar shemotam.",
     "translation": "E disse o Senhor a Moisés: Põe em conta todo primogênito macho entre os filhos de Israel, desde o filho de um mês para cima, e leva o número dos seus nomes."
   },
   {
     "verse": 41,
-    "original": "וְלָקַחְתָּ֨ אֶת־הַלְוִיִּ֥ם לִי֙ אֲנִ֣י יְהֹוָ֔ה תַּ֥חַת כׇּל־בְּכֹ֖ר בִּבְנֵ֣י יִשְׂרָאֵ֑ל וְאֵת֙ בֶּהֱמַ֣ת הַלְוִיִּ֔ם תַּ֣חַת כׇּל־בְּכ֔וֹר בְּבֶהֱמַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַחְתָּ֨</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3881\">הַלְוִיִּ֥ם</span> <span data-strong=\"H2967\">לִי֙</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכֹ֖ר</span> <span data-strong=\"H1121\">בִּבְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H929\">בֶּהֱמַ֣ת</span> <span data-strong=\"H3881\">הַלְוִיִּ֔ם</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכ֔וֹר</span> <span data-strong=\"H929\">בְּבֶהֱמַ֖ת</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "velakaheta 'et-haleviyim liy 'aniy yehovah tahat khol-vekhor viveney yisera'el ve'et vehemat haleviyim tahat khol-vekhvor vevehemat veney yisera'el.",
     "translation": "E tomarás os leviitas em meu lugar; eu sou o Senhor, em troca de todos os primogênitos dos filhos de Israel; e a herdade dos levitas será em troca de todos os primogênitos das bestas dos filhos de Israel."
   },
   {
     "verse": 42,
-    "original": "וַיִּפְקֹ֣ד מֹשֶׁ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֹת֑וֹ אֶֽת־כׇּל־בְּכ֖וֹר בִּבְנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H6485\">וַיִּפְקֹ֣ד</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2050\">אֹת֑וֹ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכ֖וֹר</span> <span data-strong=\"H1121\">בִּבְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayifekod mosheh kha'asher tsivah yehovah 'otvo 'et-khol-vekhvor viveney yisera'el.",
     "translation": "E Moisés contou conforme o Senhor havia ordenado a ele, todos os primogênitos dos filhos de Israel."
   },
@@ -259,43 +259,43 @@
   },
   {
     "verse": 44,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 45,
-    "original": "קַ֣ח אֶת־הַלְוִיִּ֗ם תַּ֤חַת כׇּל־בְּכוֹר֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־בֶּהֱמַ֥ת הַלְוִיִּ֖ם תַּ֣חַת בְּהֶמְתָּ֑ם וְהָיוּ־לִ֥י הַלְוִיִּ֖ם אֲנִ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3947\">קַ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3881\">הַלְוִיִּ֗ם</span> <span data-strong=\"H8478\">תַּ֤חַת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכוֹר֙</span> <span data-strong=\"H1121\">בִּבְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H929\">בֶּהֱמַ֥ת</span> <span data-strong=\"H3881\">הַלְוִיִּ֖ם</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H3963\">בְּהֶמְתָּ֑ם</span> <span data-strong=\"H1961\">וְהָיוּ</span>־<span data-strong=\"H2967\">לִ֥י</span> <span data-strong=\"H3881\">הַלְוִיִּ֖ם</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "kah 'et-haleviyim tahat khol-vekhvor viveney yisera'el ve'et-vehemat haleviyim tahat vehemetam vehayv-liy haleviyim 'aniy yehovah.",
     "translation": "Toma os levitas em lugar de todos os primogênitos entre os filhos de Israel, e toma o seu gado em lugar do seu gado; e serei dos levitas, eu sou YHWH."
   },
   {
     "verse": 46,
-    "original": "וְאֵת֙ פְּדוּיֵ֣י הַשְּׁלֹשָׁ֔ה וְהַשִּׁבְעִ֖ים וְהַמָּאתָ֑יִם הָעֹֽדְפִים֙ עַל־הַלְוִיִּ֔ם מִבְּכ֖וֹר בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H6302\">פְּדוּיֵ֣י</span> <span data-strong=\"H7969\">הַשְּׁלֹשָׁ֔ה</span> <span data-strong=\"H7657\">וְהַשִּׁבְעִ֖ים</span> <span data-strong=\"H3967\">וְהַמָּאתָ֑יִם</span> <span data-strong=\"H5736\">הָעֹֽדְפִים֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3881\">הַלְוִיִּ֔ם</span> <span data-strong=\"H1060\">מִבְּכ֖וֹר</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "ve'et fedvyey hasheloshah vehashive'iym vehama'tayim ha'odefiym 'al-haleviyim mivekhvor veney yisera'el.",
     "translation": "E também os que foram resgatados além dos três, setenta e cem levitas, dos primogênitos dos filhos de Israel."
   },
   {
     "verse": 47,
-    "original": "וְלָקַחְתָּ֗ חֲמֵ֧שֶׁת חֲמֵ֛שֶׁת שְׁקָלִ֖ים לַגֻּלְגֹּ֑לֶת בְּשֶׁ֤קֶל הַקֹּ֙דֶשׁ֙ תִּקָּ֔ח עֶשְׂרִ֥ים גֵּרָ֖ה הַשָּֽׁקֶל׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַחְתָּ֗</span> <span data-strong=\"H2568\">חֲמֵ֧שֶׁת</span> <span data-strong=\"H2568\">חֲמֵ֛שֶׁת</span> <span data-strong=\"H8255\">שְׁקָלִ֖ים</span> <span data-strong=\"H1538\">לַגֻּלְגֹּ֑לֶת</span> <span data-strong=\"H8255\">בְּשֶׁ֤קֶל</span> <span data-strong=\"H6944\">הַקֹּ֙דֶשׁ֙</span> <span data-strong=\"H3947\">תִּקָּ֔ח</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H1626\">גֵּרָ֖ה</span> <span data-strong=\"H8255\">הַשָּֽׁקֶל׃</span>",
     "transliteration": "velakaheta hameshet hameshet shekaliym lagulegolet veshekel hakodesh tikah 'eseriym gerah hashakel.",
     "translation": "E tomarás cinco por cinquenta siclos de cabeça, conforme o siclo do santuário; vinte gerahs são o siclo."
   },
   {
     "verse": 48,
-    "original": "וְנָתַתָּ֣ה הַכֶּ֔סֶף לְאַהֲרֹ֖ן וּלְבָנָ֑יו פְּדוּיֵ֕י הָעֹדְפִ֖ים בָּהֶֽם׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַתָּ֣ה</span> <span data-strong=\"H3701\">הַכֶּ֔סֶף</span> <span data-strong=\"H175\">לְאַהֲרֹ֖ן</span> <span data-strong=\"H2050\">וּלְבָנָ֑יו</span> <span data-strong=\"H6302\">פְּדוּיֵ֕י</span> <span data-strong=\"H5736\">הָעֹדְפִ֖ים</span> <span data-strong=\"H3963\">בָּהֶֽם׃</span>",
     "transliteration": "venatatah hakhesef le'aharon vlevanayv fedvyey ha'odefiym vahem.",
     "translation": "E darás a prata a Aarão e aos seus filhos, redenção dos excessos neles."
   },
   {
     "verse": 49,
-    "original": "וַיִּקַּ֣ח מֹשֶׁ֔ה אֵ֖ת כֶּ֣סֶף הַפִּדְי֑וֹם מֵאֵת֙ הָעֹ֣דְפִ֔ים עַ֖ל פְּדוּיֵ֥י הַלְוִיִּֽם׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֣ח</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H3701\">כֶּ֣סֶף</span> <span data-strong=\"H6306\">הַפִּדְי֑וֹם</span> <span data-strong=\"H854\">מֵאֵת֙</span> <span data-strong=\"H5736\">הָעֹ֣דְפִ֔ים</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H6302\">פְּדוּיֵ֥י</span> <span data-strong=\"H3881\">הַלְוִיִּֽם׃</span>",
     "transliteration": "vayikah mosheh 'et khesef hafideyvom me'et ha'odefiym 'al fedvyey haleviyim.",
     "translation": "E Moisés tomou o dinheiro do resgate dos que se sobraram em relação aos filhos de Levi."
   },
   {
     "verse": 50,
-    "original": "מֵאֵ֗ת בְּכ֛וֹר בְּנֵ֥י יִשְׂרָאֵ֖ל לָקַ֣ח אֶת־הַכָּ֑סֶף חֲמִשָּׁ֨ה וְשִׁשִּׁ֜ים וּשְׁלֹ֥שׁ מֵא֛וֹת וָאֶ֖לֶף בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H854\">מֵאֵ֗ת</span> <span data-strong=\"H1060\">בְּכ֛וֹר</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3947\">לָקַ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3701\">הַכָּ֑סֶף</span> <span data-strong=\"H2568\">חֲמִשָּׁ֨ה</span> <span data-strong=\"H8346\">וְשִׁשִּׁ֜ים</span> <span data-strong=\"H7969\">וּשְׁלֹ֥שׁ</span> <span data-strong=\"H3967\">מֵא֛וֹת</span> <span data-strong=\"H505\">וָאֶ֖לֶף</span> <span data-strong=\"H8255\">בְּשֶׁ֥קֶל</span> <span data-strong=\"H6944\">הַקֹּֽדֶשׁ׃</span>",
     "transliteration": "me'et vekhvor veney yisera'el lakah 'et-hakhasef hamishah veshishiym vshelosh me'vot va'elef veshekel hakodesh.",
     "translation": "Do primogênito de Israel recebeu a prata: cinco e sessenta e três mil em peso do santo."
   },

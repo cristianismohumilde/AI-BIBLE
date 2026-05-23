@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֣ירוּ לַ֭יהֹוָה שִׁ֣יר חָדָ֑שׁ שִׁ֥ירוּ לַ֝יהֹוָ֗ה כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H7891\">שִׁ֣ירוּ</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H7892\">שִׁ֣יר</span> <span data-strong=\"H2319\">חָדָ֑שׁ</span> <span data-strong=\"H7891\">שִׁ֥ירוּ</span> <span data-strong=\"H3068\">לַ֝יהֹוָ֗ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "shiyrv layhovah shiyr hadash shiyrv layhovah khol-ha'arets.",
     "translation": "Cantai ao Senhor um cântico novo; cantai ao Senhor, toda a terra."
   },
   {
     "verse": 2,
-    "original": "שִׁ֣ירוּ לַ֭יהֹוָה בָּרְכ֣וּ שְׁמ֑וֹ בַּשְּׂר֥וּ מִיּֽוֹם־לְ֝י֗וֹם יְשׁוּעָתֽוֹ׃",
+    "original": "<span data-strong=\"H7891\">שִׁ֣ירוּ</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H1288\">בָּרְכ֣וּ</span> <span data-strong=\"H2050\">שְׁמ֑וֹ</span> <span data-strong=\"H1319\">בַּשְּׂר֥וּ</span> <span data-strong=\"H3117\">מִיּֽוֹם</span>־<span data-strong=\"H3117\">לְ֝י֗וֹם</span> <span data-strong=\"H2050\">יְשׁוּעָתֽוֹ׃</span>",
     "transliteration": "shiyrv layhovah varekhv shemvo vaserv miyvom-leyvom yeshv'atvo.",
     "translation": "Cantai ao Senhor, bendizei o seu nome; anunciai de dia em dia a sua salvação."
   },
   {
     "verse": 3,
-    "original": "סַפְּר֣וּ בַגּוֹיִ֣ם כְּבוֹד֑וֹ בְּכׇל־הָ֝עַמִּ֗ים נִפְלְאוֹתָֽיו׃",
+    "original": "<span data-strong=\"H5608\">סַפְּר֣וּ</span> <span data-strong=\"H1471\">בַגּוֹיִ֣ם</span> <span data-strong=\"H2050\">כְּבוֹד֑וֹ</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H5971\">הָ֝עַמִּ֗ים</span> <span data-strong=\"H2050\">נִפְלְאוֹתָֽיו׃</span>",
     "transliteration": "saferv vagvoyim khevvodvo vekhol-ha'amiym nifele'votayv.",
     "translation": "Proclamai entre as nações sua glória, entre todos os povos suas maravilhas."
   },
@@ -25,49 +25,49 @@
   },
   {
     "verse": 5,
-    "original": "כִּ֤י&thinsp;<b>׀</b> כׇּל־אֱלֹהֵ֣י הָעַמִּ֣ים אֱלִילִ֑ים וַ֝יהֹוָ֗ה שָׁמַ֥יִם עָשָֽׂה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H5971\">הָעַמִּ֣ים</span> <span data-strong=\"H457\">אֱלִילִ֑ים</span> <span data-strong=\"H3068\">וַ֝יהֹוָ֗ה</span> <span data-strong=\"H8064\">שָׁמַ֥יִם</span> <span data-strong=\"H6213\">עָשָֽׂה׃</span>",
     "transliteration": "khiy&thinsp;<b>|</b> khol-'elohey ha'amiym 'eliyliym vayhovah shamayim 'asah.",
     "translation": "Pois todos os deuses dos povos são ídolos, mas o Senhor fez os céus."
   },
   {
     "verse": 6,
-    "original": "הוֹד־וְהָדָ֥ר לְפָנָ֑יו עֹ֥ז וְ֝תִפְאֶ֗רֶת בְּמִקְדָּשֽׁוֹ׃",
+    "original": "<span data-strong=\"H1935\">הוֹד</span>־<span data-strong=\"H1926\">וְהָדָ֥ר</span> <span data-strong=\"H2050\">לְפָנָ֑יו</span> <span data-strong=\"H5797\">עֹ֥ז</span> <span data-strong=\"H8597\">וְ֝תִפְאֶ֗רֶת</span> <span data-strong=\"H2050\">בְּמִקְדָּשֽׁוֹ׃</span>",
     "transliteration": "hvod-vehadar lefanayv 'oz vetife'eret vemikedashvo.",
     "translation": "Glória e majestade diante dele, força e esplendor em seu santuário."
   },
   {
     "verse": 7,
-    "original": "הָב֣וּ לַ֭יהֹוָה מִשְׁפְּח֣וֹת עַמִּ֑ים הָב֥וּ לַ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז׃",
+    "original": "<span data-strong=\"H3051\">הָב֣וּ</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H4940\">מִשְׁפְּח֣וֹת</span> <span data-strong=\"H5971\">עַמִּ֑ים</span> <span data-strong=\"H3051\">הָב֥וּ</span> <span data-strong=\"H3068\">לַ֝יהֹוָ֗ה</span> <span data-strong=\"H3519\">כָּב֥וֹד</span> <span data-strong=\"H5797\">וָעֹֽז׃</span>",
     "transliteration": "havv layhovah mishefehvot 'amiym havv layhovah khavvod va'oz.",
     "translation": "Dai ao Senhor, famílias das nações, dai ao Senhor glória e poder."
   },
   {
     "verse": 8,
-    "original": "הָב֣וּ לַ֭יהֹוָה כְּב֣וֹד שְׁמ֑וֹ שְׂאֽוּ־מִ֝נְחָ֗ה וּבֹ֥אוּ לְחַצְרוֹתָֽיו׃",
+    "original": "<span data-strong=\"H3051\">הָב֣וּ</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H3519\">כְּב֣וֹד</span> <span data-strong=\"H2050\">שְׁמ֑וֹ</span> <span data-strong=\"H5375\">שְׂאֽוּ</span>־<span data-strong=\"H4503\">מִ֝נְחָ֗ה</span> <span data-strong=\"H935\">וּבֹ֥אוּ</span> <span data-strong=\"H2050\">לְחַצְרוֹתָֽיו׃</span>",
     "transliteration": "havv layhovah khevvod shemvo se'v-minehah vvo'v lehatservotayv.",
     "translation": "Dai ao Senhor a glória do seu nome; trazei oferta e entrai em seus pátios."
   },
   {
     "verse": 9,
-    "original": "הִשְׁתַּחֲו֣וּ לַ֭יהֹוָה בְּהַדְרַת־קֹ֑דֶשׁ חִ֥ילוּ מִ֝פָּנָ֗יו כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H7812\">הִשְׁתַּחֲו֣וּ</span> <span data-strong=\"H3068\">לַ֭יהֹוָה</span> <span data-strong=\"H1927\">בְּהַדְרַת</span>־<span data-strong=\"H6944\">קֹ֑דֶשׁ</span> <span data-strong=\"H2342\">חִ֥ילוּ</span> <span data-strong=\"H2050\">מִ֝פָּנָ֗יו</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "hishetahavv layhovah vehaderat-kodesh hiylv mifanayv khol-ha'arets.",
     "translation": "Prostrai-vos diante do Senhor em adoração solene, tremei perante Ele, toda a terra."
   },
   {
     "verse": 10,
-    "original": "אִמְר֤וּ בַגּוֹיִ֨ם&thinsp;<b>׀</b> יְ֘הֹוָ֤ה מָלָ֗ךְ אַף־תִּכּ֣וֹן תֵּ֭בֵל בַּל־תִּמּ֑וֹט יָדִ֥ין עַ֝מִּ֗ים בְּמֵישָׁרִֽים׃",
+    "original": "<span data-strong=\"H559\">אִמְר֤וּ</span> <span data-strong=\"H1471\">בַגּוֹיִ֨ם&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">יְ֘הֹוָ֤ה</span> <span data-strong=\"H4427\">מָלָ֗ךְ</span> <span data-strong=\"H637\">אַף</span>־<span data-strong=\"H3559\">תִּכּ֣וֹן</span> <span data-strong=\"H8398\">תֵּ֭בֵל</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H4131\">תִּמּ֑וֹט</span> <span data-strong=\"H1777\">יָדִ֥ין</span> <span data-strong=\"H5971\">עַ֝מִּ֗ים</span> <span data-strong=\"H4339\">בְּמֵישָׁרִֽים׃</span>",
     "transliteration": "'imerv vagvoyim&thinsp;<b>|</b> yehovah malakhe 'af-tikhvon tevel val-timvot yadiyn 'amiym vemeyshariym.",
     "translation": "Dizei entre as nações: o Senhor reina; sim, a terra se firmará, não vacilará. Ele julgará os povos com retidão."
   },
   {
     "verse": 11,
-    "original": "יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ׃",
+    "original": "<span data-strong=\"H8055\">יִשְׂמְח֣וּ</span> <span data-strong=\"H8064\">הַ֭שָּׁמַיִם</span> <span data-strong=\"H1523\">וְתָגֵ֣ל</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H7481\">יִֽרְעַ֥ם</span> <span data-strong=\"H3220\">הַ֝יָּ֗ם</span> <span data-strong=\"H2050\">וּמְלֹאֽוֹ׃</span>",
     "transliteration": "yisemehv hashamayim vetagel ha'arets yire'am hayam vmelo'vo.",
     "translation": "Alegrem-se os céus, e exulte a terra; rebrilhe o mar, e tudo o que nele há."
   },
   {
     "verse": 12,
-    "original": "יַעֲלֹ֣ז שָׂ֭דַי וְכׇל־אֲשֶׁר־בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כׇּל־עֲצֵי־יָֽעַר׃",
+    "original": "<span data-strong=\"H5937\">יַעֲלֹ֣ז</span> <span data-strong=\"H7704\">שָׂ֭דַי</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">בּ֑וֹ</span> <span data-strong=\"H227\">אָ֥ז</span> <span data-strong=\"H7442\">יְ֝רַנְּנ֗וּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6086\">עֲצֵי</span>־<span data-strong=\"H3293\">יָֽעַר׃</span>",
     "transliteration": "ya'aloz saday vekhol-'asher-vvo 'az yeranenv khol-'atsey-ya'ar.",
     "translation": "Exultará o campo, e tudo que nele há; então cantarão todas as árvores do bosque."
   },

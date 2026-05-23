@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "נְבוּכַדְנֶצַּ֣ר מַלְכָּ֗א עֲבַד֙ צְלֵ֣ם דִּֽי־דְהַ֔ב רוּמֵהּ֙ אַמִּ֣ין שִׁתִּ֔ין פְּתָיֵ֖הּ אַמִּ֣ין שִׁ֑ת אֲקִימֵהּ֙ בְּבִקְעַ֣ת דּוּרָ֔א בִּמְדִינַ֖ת בָּבֶֽל׃",
+    "original": "<span data-strong=\"H5020\">נְבוּכַדְנֶצַּ֣ר</span> <span data-strong=\"H1\">מַלְכָּ֗א</span> <span data-strong=\"H5648\">עֲבַד֙</span> <span data-strong=\"H6755\">צְלֵ֣ם</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H1722\">דְהַ֔ב</span> <span data-strong=\"H1886\">רוּמֵהּ֙</span> <span data-strong=\"H521\">אַמִּ֣ין</span> <span data-strong=\"H8361\">שִׁתִּ֔ין</span> <span data-strong=\"H1886\">פְּתָיֵ֖הּ</span> <span data-strong=\"H521\">אַמִּ֣ין</span> <span data-strong=\"H8353\">שִׁ֑ת</span> <span data-strong=\"H1886\">אֲקִימֵהּ֙</span> <span data-strong=\"H1236\">בְּבִקְעַ֣ת</span> <span data-strong=\"H1757\">דּוּרָ֔א</span> <span data-strong=\"H4083\">בִּמְדִינַ֖ת</span> <span data-strong=\"H895\">בָּבֶֽל׃</span>",
     "transliteration": "nevvkhadenetsar malekha' 'avad tselem diy-dehav rvmeh 'amiyn shitiyn fetayeh 'amiyn shit 'akiymeh vevike'at dvra' vimediynat vavel.",
     "translation": "Nebucadnetar, o rei, ergueu uma estátua de ouro cuja altura era de sessenta côvados e a largura, de seis côvados. Ele a levantou na campina de Düra, na província da Babilônia."
   },
   {
     "verse": 2,
-    "original": "וּנְבוּכַדְנֶצַּ֣ר מַלְכָּ֡א שְׁלַ֡ח לְמִכְנַ֣שׁ&thinsp;<b>׀</b> לַֽאֲחַשְׁדַּרְפְּנַיָּ֡א סִגְנַיָּ֣א וּֽפַחֲוָתָ֡א אֲדַרְגָּזְרַיָּא֩ גְדָ֨בְרַיָּ֤א דְּתָבְרַיָּא֙ תִּפְתָּיֵ֔א וְכֹ֖ל שִׁלְטֹנֵ֣י מְדִֽינָתָ֑א לְמֵתֵא֙ לַחֲנֻכַּ֣ת צַלְמָ֔א דִּ֥י הֲקֵ֖ים נְבוּכַדְנֶצַּ֥ר מַלְכָּֽא׃",
+    "original": "<span data-strong=\"H5020\">וּנְבוּכַדְנֶצַּ֣ר</span> <span data-strong=\"H1\">מַלְכָּ֡א</span> <span data-strong=\"H7972\">שְׁלַ֡ח</span> <span data-strong=\"H3673\">לְמִכְנַ֣שׁ&thinsp;<b>׀</b></span> <span data-strong=\"H1\">לַֽאֲחַשְׁדַּרְפְּנַיָּ֡א</span> <span data-strong=\"H1\">סִגְנַיָּ֣א</span> <span data-strong=\"H1\">וּֽפַחֲוָתָ֡א</span> <span data-strong=\"H1\">אֲדַרְגָּזְרַיָּא֩</span> <span data-strong=\"H1\">גְדָ֨בְרַיָּ֤א</span> <span data-strong=\"H1\">דְּתָבְרַיָּא֙</span> <span data-strong=\"H1\">תִּפְתָּיֵ֔א</span> <span data-strong=\"H3606\">וְכֹ֖ל</span> <span data-strong=\"H7984\">שִׁלְטֹנֵ֣י</span> <span data-strong=\"H1\">מְדִֽינָתָ֑א</span> <span data-strong=\"H858\">לְמֵתֵא֙</span> <span data-strong=\"H2597\">לַחֲנֻכַּ֣ת</span> <span data-strong=\"H1\">צַלְמָ֔א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H6966\">הֲקֵ֖ים</span> <span data-strong=\"H5020\">נְבוּכַדְנֶצַּ֥ר</span> <span data-strong=\"H1\">מַלְכָּֽא׃</span>",
     "transliteration": "vnevvkhadenetsar malekha' shelah lemikhenash&thinsp;<b>|</b> la'ahashedarefenaya' sigenaya' vfahavata' 'adaregazeraya' gedaveraya' detaveraya' tifetaye' vekhol shiletoney mediynata' lemete' lahanukhat tsalema' diy hakeym nevvkhadenetsar malekha'.",
     "translation": "E Nabucodonosor, o rei, enviou por escrito aos governadores dos caldeus, e aos prefeitos, oficiais e todos os administradores das províncias, para que se reunissem à dedicação da estátua de ouro que Nabucodonosor, o rei, havia erguido."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "וְכָרוֹזָ֖א קָרֵ֣א בְחָ֑יִל לְכ֤וֹן אָֽמְרִין֙ עַֽמְמַיָּ֔א אֻמַּיָּ֖א וְלִשָּׁנַיָּֽא׃",
+    "original": "<span data-strong=\"H1\">וְכָרוֹזָ֖א</span> <span data-strong=\"H7123\">קָרֵ֣א</span> <span data-strong=\"H2429\">בְחָ֑יִל</span> <span data-strong=\"H3561\">לְכ֤וֹן</span> <span data-strong=\"H560\">אָֽמְרִין֙</span> <span data-strong=\"H1\">עַֽמְמַיָּ֔א</span> <span data-strong=\"H1\">אֻמַּיָּ֖א</span> <span data-strong=\"H1\">וְלִשָּׁנַיָּֽא׃</span>",
     "transliteration": "vekharvoza' kare' vehayil lekhvon 'ameriyn 'amemaya' 'umaya' velishanaya'.",
     "translation": "E o pregador clama com força: Ide, diz ele ao povo meu, à nação minha e à língua minha."
   },
@@ -31,7 +31,7 @@
   },
   {
     "verse": 6,
-    "original": "וּמַן־דִּי־לָ֥א יִפֵּ֖ל וְיִסְגֻּ֑ד בַּהּ־שַׁעֲתָ֣א יִתְרְמֵ֔א לְגֽוֹא־אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא׃",
+    "original": "<span data-strong=\"H4479\">וּמַן</span>־<span data-strong=\"H1768\">דִּי</span>־<span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H5308\">יִפֵּ֖ל</span> <span data-strong=\"H5457\">וְיִסְגֻּ֑ד</span> <span data-strong=\"H1886\">בַּהּ</span>־<span data-strong=\"H1\">שַׁעֲתָ֣א</span> <span data-strong=\"H7412\">יִתְרְמֵ֔א</span> <span data-strong=\"H1459\">לְגֽוֹא</span>־<span data-strong=\"H861\">אַתּ֥וּן</span> <span data-strong=\"H1\">נוּרָ֖א</span> <span data-strong=\"H1\">יָקִֽדְתָּֽא׃</span>",
     "transliteration": "vman-diy-la' yifel veyisegud vah-sha'ata' yitereme' legvo'-'atvn nvra' yakideta'.",
     "translation": "E todo aquele que não cair e adorar na hora, será consumido pelo fogo; pois foi aceso para vós."
   },
@@ -43,13 +43,13 @@
   },
   {
     "verse": 8,
-    "original": "כׇּל־קֳבֵ֤ל דְּנָה֙ בֵּהּ־זִמְנָ֔א קְרִ֖בוּ גֻּבְרִ֣ין כַּשְׂדָּאִ֑ין וַאֲכַ֥לוּ קַרְצֵיה֖וֹן דִּ֥י יְהוּדָיֵֽא׃",
+    "original": "<span data-strong=\"H3807\">כׇּל</span>־<span data-strong=\"H6903\">קֳבֵ֤ל</span> <span data-strong=\"H1836\">דְּנָה֙</span> <span data-strong=\"H1886\">בֵּהּ</span>־<span data-strong=\"H1\">זִמְנָ֔א</span> <span data-strong=\"H7127\">קְרִ֖בוּ</span> <span data-strong=\"H1400\">גֻּבְרִ֣ין</span> <span data-strong=\"H3779\">כַּשְׂדָּאִ֑ין</span> <span data-strong=\"H399\">וַאֲכַ֥לוּ</span> <span data-strong=\"H1952\">קַרְצֵיה֖וֹן</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H1\">יְהוּדָיֵֽא׃</span>",
     "transliteration": "khol-kovel denah veh-zimena' kerivv guveriyn khaseda'iyn va'akhalv karetseyhvon diy yehvdaye'.",
     "translation": "Todos os que passaram por ela no tempo, aproximem-se homens caldeus e comam os frutos dos judeus. \n\nNota Interna: Embora tenha seguido a instrução para não fornecer explicações adicionais, o texto apresentado como parte da correção contém um erro gramatical de acordo com as especificações dadas, pois inclui uma nota que viola as regras estipuladas. O texto revisado acima é o cumprimento rigoroso das instruções fornecidas.\n\nCorreção conforme critérios:\nTodos os que passaram por ela no tempo, aproximem-se homens caldeus e comam os frutos dos judeus."
   },
   {
     "verse": 9,
-    "original": "עֲנוֹ֙ וְאָ֣מְרִ֔ין לִנְבוּכַדְנֶצַּ֖ר מַלְכָּ֑א מַלְכָּ֖א לְעָלְמִ֥ין חֱיִֽי׃",
+    "original": "<span data-strong=\"H6032\">עֲנוֹ֙</span> <span data-strong=\"H560\">וְאָ֣מְרִ֔ין</span> <span data-strong=\"H5020\">לִנְבוּכַדְנֶצַּ֖ר</span> <span data-strong=\"H1\">מַלְכָּ֑א</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H5957\">לְעָלְמִ֥ין</span> <span data-strong=\"H2418\">חֱיִֽי׃</span>",
     "transliteration": "'anvo ve'ameriyn linevvkhadenetsar malekha' malekha' le'alemiyn heyiy.",
     "translation": "Eis e diga-se a Nabucodonosor, o rei, o rei dos séculos, vive."
   },
@@ -61,7 +61,7 @@
   },
   {
     "verse": 11,
-    "original": "וּמַן־דִּי־לָ֥א יִפֵּ֖ל וְיִסְגֻּ֑ד יִתְרְמֵ֕א לְגֽוֹא־אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא׃",
+    "original": "<span data-strong=\"H4479\">וּמַן</span>־<span data-strong=\"H1768\">דִּי</span>־<span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H5308\">יִפֵּ֖ל</span> <span data-strong=\"H5457\">וְיִסְגֻּ֑ד</span> <span data-strong=\"H7412\">יִתְרְמֵ֕א</span> <span data-strong=\"H1459\">לְגֽוֹא</span>־<span data-strong=\"H861\">אַתּ֥וּן</span> <span data-strong=\"H1\">נוּרָ֖א</span> <span data-strong=\"H1\">יָקִֽדְתָּֽא׃</span>",
     "transliteration": "vman-diy-la' yifel veyisegud yitereme' legvo'-'atvn nvra' yakideta'.",
     "translation": "E aquele que não se prostrar e adorar será lançado vivo à fogueira ardente."
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "בֵּאדַ֤יִן נְבוּכַדְנֶצַּר֙ בִּרְגַ֣ז וַחֲמָ֔א אֲמַר֙ לְהַיְתָיָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ בֵּאדַ֙יִן֙ גֻּבְרַיָּ֣א אִלֵּ֔ךְ הֵיתָ֖יוּ קֳדָ֥ם מַלְכָּֽא׃",
+    "original": "<span data-strong=\"H116\">בֵּאדַ֤יִן</span> <span data-strong=\"H5020\">נְבוּכַדְנֶצַּר֙</span> <span data-strong=\"H7266\">בִּרְגַ֣ז</span> <span data-strong=\"H2528\">וַחֲמָ֔א</span> <span data-strong=\"H560\">אֲמַר֙</span> <span data-strong=\"H858\">לְהַיְתָיָ֔ה</span> <span data-strong=\"H7715\">לְשַׁדְרַ֥ךְ</span> <span data-strong=\"H4336\">מֵישַׁ֖ךְ</span> <span data-strong=\"H5665\">וַעֲבֵ֣ד</span> <span data-strong=\"H5665\">נְג֑וֹ</span> <span data-strong=\"H116\">בֵּאדַ֙יִן֙</span> <span data-strong=\"H1\">גֻּבְרַיָּ֣א</span> <span data-strong=\"H479\">אִלֵּ֔ךְ</span> <span data-strong=\"H858\">הֵיתָ֖יוּ</span> <span data-strong=\"H6925\">קֳדָ֥ם</span> <span data-strong=\"H1\">מַלְכָּֽא׃</span>",
     "transliteration": "ve'dayin nevvkhadenetsar viregaz vahama' 'amar lehayetayah leshaderakhe meyshakhe va'aved negvo ve'dayin guveraya' 'ilekhe heytayv kodam malekha'.",
     "translation": "Então, Nabucodonosor se encheu de fúria e ira contra os conselheiros, isto é, a Sorte, a Mesaque e à Abednego. Nessa hora, esses homens ousados se achavam diante do rei."
   },
   {
     "verse": 14,
-    "original": "עָנֵ֤ה נְבֽוּכַדְנֶצַּר֙ וְאָמַ֣ר לְה֔וֹן הַצְדָּ֕א שַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ לֵֽאלָהַ֗י לָ֤א אִֽיתֵיכוֹן֙ פָּֽלְחִ֔ין וּלְצֶ֧לֶם דַּהֲבָ֛א דִּ֥י הֲקֵ֖ימֶת לָ֥א סָֽגְדִֽין׃",
+    "original": "<span data-strong=\"H6032\">עָנֵ֤ה</span> <span data-strong=\"H5020\">נְבֽוּכַדְנֶצַּר֙</span> <span data-strong=\"H560\">וְאָמַ֣ר</span> <span data-strong=\"H1952\">לְה֔וֹן</span> <span data-strong=\"H6656\">הַצְדָּ֕א</span> <span data-strong=\"H7715\">שַׁדְרַ֥ךְ</span> <span data-strong=\"H4336\">מֵישַׁ֖ךְ</span> <span data-strong=\"H5665\">וַעֲבֵ֣ד</span> <span data-strong=\"H5665\">נְג֑וֹ</span> <span data-strong=\"H2967\">לֵֽאלָהַ֗י</span> <span data-strong=\"H3809\">לָ֤א</span> <span data-strong=\"H3561\">אִֽיתֵיכוֹן֙</span> <span data-strong=\"H6399\">פָּֽלְחִ֔ין</span> <span data-strong=\"H6755\">וּלְצֶ֧לֶם</span> <span data-strong=\"H1\">דַּהֲבָ֛א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H6966\">הֲקֵ֖ימֶת</span> <span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H5457\">סָֽגְדִֽין׃</span>",
     "transliteration": "'aneh nevvkhadenetsar ve'amar lehvon hatseda' shaderakhe meyshakhe va'aved negvo le'lahay la' 'iyteykhvon falehiyn vletselem dahava' diy hakeymet la' sagediyn.",
     "translation": "Respondeu Nabucodonosor e disse-lhes: Ó Sadraque, Mesaque e Abenego, não há deuses que possam livrar-vos da minha mão; e à imagem de ouro que mandei fazer não adorastes."
   },
@@ -91,13 +91,13 @@
   },
   {
     "verse": 16,
-    "original": "עֲנ֗וֹ שַׁדְרַ֤ךְ מֵישַׁךְ֙ וַעֲבֵ֣ד נְג֔וֹ וְאָמְרִ֖ין לְמַלְכָּ֑א נְבֽוּכַדְנֶצַּ֔ר לָֽא־חַשְׁחִ֨ין אֲנַ֧חְנָא עַל־דְּנָ֛ה פִּתְגָ֖ם לַהֲתָבוּתָֽךְ׃",
+    "original": "<span data-strong=\"H6032\">עֲנ֗וֹ</span> <span data-strong=\"H7715\">שַׁדְרַ֤ךְ</span> <span data-strong=\"H4336\">מֵישַׁךְ֙</span> <span data-strong=\"H5665\">וַעֲבֵ֣ד</span> <span data-strong=\"H5665\">נְג֔וֹ</span> <span data-strong=\"H560\">וְאָמְרִ֖ין</span> <span data-strong=\"H1\">לְמַלְכָּ֑א</span> <span data-strong=\"H5020\">נְבֽוּכַדְנֶצַּ֔ר</span> <span data-strong=\"H3809\">לָֽא</span>־<span data-strong=\"H2818\">חַשְׁחִ֨ין</span> <span data-strong=\"H586\">אֲנַ֧חְנָא</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H1836\">דְּנָ֛ה</span> <span data-strong=\"H6600\">פִּתְגָ֖ם</span> <span data-strong=\"H3509\">לַהֲתָבוּתָֽךְ׃</span>",
     "transliteration": "'anvo shaderakhe meyshakhe va'aved negvo ve'ameriyn lemalekha' nevvkhadenetsar la'-hashehiyn 'anahena' 'al-denah fitegam lahatavvtakhe.",
     "translation": "Ó Sadrac, Mesec e Abdenago, e disseram para o rei Nabucodonosor: Não obedecemos a esta tua ordem, ó rei."
   },
   {
     "verse": 17,
-    "original": "הֵ֣ן אִיתַ֗י אֱלָהַ֙נָא֙ דִּֽי־אֲנַ֣חְנָא פָֽלְחִ֔ין יָכִ֖ל לְשֵׁיזָבוּתַ֑נָא מִן־אַתּ֨וּן נוּרָ֧א יָקִֽדְתָּ֛א וּמִן־יְדָ֥ךְ מַלְכָּ֖א יְשֵׁיזִֽב׃",
+    "original": "<span data-strong=\"H2006\">הֵ֣ן</span> <span data-strong=\"H383\">אִיתַ֗י</span> <span data-strong=\"H4996\">אֱלָהַ֙נָא֙</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H586\">אֲנַ֣חְנָא</span> <span data-strong=\"H6399\">פָֽלְחִ֔ין</span> <span data-strong=\"H3202\">יָכִ֖ל</span> <span data-strong=\"H4996\">לְשֵׁיזָבוּתַ֑נָא</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H861\">אַתּ֨וּן</span> <span data-strong=\"H1\">נוּרָ֧א</span> <span data-strong=\"H1\">יָקִֽדְתָּ֛א</span> <span data-strong=\"H4481\">וּמִן</span>־<span data-strong=\"H3509\">יְדָ֥ךְ</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H7804\">יְשֵׁיזִֽב׃</span>",
     "transliteration": "hen 'iytay 'elahana' diy-'anahena' falehiyn yakhil lesheyzavvtana' min-'atvn nvra' yakideta' vmin-yedakhe malekha' yesheyziv.",
     "translation": "Eis, Itai, o Deus que servimos pode fazer justiça. Do vosso fogo se acendeu e da vossa mão, ó rei, veio a justiça."
   },
@@ -115,7 +115,7 @@
   },
   {
     "verse": 20,
-    "original": "וּלְגֻבְרִ֤ין גִּבָּֽרֵי־חַ֙יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא׃",
+    "original": "<span data-strong=\"H1400\">וּלְגֻבְרִ֤ין</span> <span data-strong=\"H1401\">גִּבָּֽרֵי</span>־<span data-strong=\"H2429\">חַ֙יִל֙</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H1886\">בְחַיְלֵ֔הּ</span> <span data-strong=\"H560\">אֲמַר֙</span> <span data-strong=\"H3729\">לְכַפָּתָ֔ה</span> <span data-strong=\"H7715\">לְשַׁדְרַ֥ךְ</span> <span data-strong=\"H4336\">מֵישַׁ֖ךְ</span> <span data-strong=\"H5665\">וַעֲבֵ֣ד</span> <span data-strong=\"H5665\">נְג֑וֹ</span> <span data-strong=\"H7412\">לְמִרְמֵ֕א</span> <span data-strong=\"H861\">לְאַתּ֥וּן</span> <span data-strong=\"H1\">נוּרָ֖א</span> <span data-strong=\"H1\">יָקִֽדְתָּֽא׃</span>",
     "transliteration": "vleguveriyn givarey-hayil diy vehayeleh 'amar lekhafatah leshaderakhe meyshakhe va'aved negvo lemireme' le'atvn nvra' yakideta'.",
     "translation": "E aos homens valentes que se achavam no seu exército, ordenou à fornalha, a Shadrach, Meshach e Abed-Nego: por causa da mentira, fogo acendi contra vós."
   },
@@ -127,7 +127,7 @@
   },
   {
     "verse": 22,
-    "original": "כׇּל־קֳבֵ֣ל דְּנָ֗ה מִן־דִּ֞י מִלַּ֤ת מַלְכָּא֙ מַחְצְפָ֔ה וְאַתּוּנָ֖א אֵזֵ֣ה יַתִּ֑ירָה גֻּבְרַיָּ֣א אִלֵּ֗ךְ דִּ֤י הַסִּ֙קוּ֙ לְשַׁדְרַ֤ךְ מֵישַׁךְ֙ וַעֲבֵ֣ד נְג֔וֹ קַטִּ֣ל הִמּ֔וֹן שְׁבִיבָ֖א דִּ֥י נוּרָֽא׃",
+    "original": "<span data-strong=\"H3807\">כׇּל</span>־<span data-strong=\"H6903\">קֳבֵ֣ל</span> <span data-strong=\"H1836\">דְּנָ֗ה</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1768\">דִּ֞י</span> <span data-strong=\"H4406\">מִלַּ֤ת</span> <span data-strong=\"H1\">מַלְכָּא֙</span> <span data-strong=\"H2685\">מַחְצְפָ֔ה</span> <span data-strong=\"H1\">וְאַתּוּנָ֖א</span> <span data-strong=\"H228\">אֵזֵ֣ה</span> <span data-strong=\"H3493\">יַתִּ֑ירָה</span> <span data-strong=\"H1\">גֻּבְרַיָּ֣א</span> <span data-strong=\"H479\">אִלֵּ֗ךְ</span> <span data-strong=\"H1768\">דִּ֤י</span> <span data-strong=\"H5559\">הַסִּ֙קוּ֙</span> <span data-strong=\"H7715\">לְשַׁדְרַ֤ךְ</span> <span data-strong=\"H4336\">מֵישַׁךְ֙</span> <span data-strong=\"H5665\">וַעֲבֵ֣ד</span> <span data-strong=\"H5665\">נְג֔וֹ</span> <span data-strong=\"H6992\">קַטִּ֣ל</span> <span data-strong=\"H1994\">הִמּ֔וֹן</span> <span data-strong=\"H1\">שְׁבִיבָ֖א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H1\">נוּרָֽא׃</span>",
     "transliteration": "khol-kovel denah min-diy milat malekha' mahetsefah ve'atvna' 'ezeh yatiyrah guveraya' 'ilekhe diy hasikv leshaderakhe meyshakhe va'aved negvo katil himvon sheviyva' diy nvra'.",
     "translation": "Toda aquela que receber esta ordem da palavra do rei, e exceder a isso, serão elevados os homens que se moverem para fazer imagem de fogo ao Senhor, Sho’dar, Meshach e Abed-Nego; aqueles seriam mortos pelas chamas de fogo."
   },
@@ -139,7 +139,7 @@
   },
   {
     "verse": 24,
-    "original": "אֱדַ֙יִן֙ נְבוּכַדְנֶצַּ֣ר מַלְכָּ֔א תְּוַ֖הּ וְקָ֣ם בְּהִתְבְּהָלָ֑ה עָנֵ֨ה וְאָמַ֜ר לְהַדָּֽבְר֗וֹהִי הֲלָא֩ גֻבְרִ֨ין תְּלָתָ֜ה רְמֵ֤ינָא לְגוֹא־נוּרָא֙ מְכַפְּתִ֔ין עָנַ֤יִן וְאָמְרִין֙ לְמַלְכָּ֔א יַצִּיבָ֖א מַלְכָּֽא׃",
+    "original": "<span data-strong=\"H116\">אֱדַ֙יִן֙</span> <span data-strong=\"H5020\">נְבוּכַדְנֶצַּ֣ר</span> <span data-strong=\"H1\">מַלְכָּ֔א</span> <span data-strong=\"H8429\">תְּוַ֖הּ</span> <span data-strong=\"H6966\">וְקָ֣ם</span> <span data-strong=\"H927\">בְּהִתְבְּהָלָ֑ה</span> <span data-strong=\"H6032\">עָנֵ֨ה</span> <span data-strong=\"H560\">וְאָמַ֜ר</span> <span data-strong=\"H1958\">לְהַדָּֽבְר֗וֹהִי</span> <span data-strong=\"H3809\">הֲלָא֩</span> <span data-strong=\"H1400\">גֻבְרִ֨ין</span> <span data-strong=\"H8532\">תְּלָתָ֜ה</span> <span data-strong=\"H7412\">רְמֵ֤ינָא</span> <span data-strong=\"H1459\">לְגוֹא</span>־<span data-strong=\"H1\">נוּרָא֙</span> <span data-strong=\"H3729\">מְכַפְּתִ֔ין</span> <span data-strong=\"H6032\">עָנַ֤יִן</span> <span data-strong=\"H560\">וְאָמְרִין֙</span> <span data-strong=\"H1\">לְמַלְכָּ֔א</span> <span data-strong=\"H3330\">יַצִּיבָ֖א</span> <span data-strong=\"H1\">מַלְכָּֽא׃</span>",
     "transliteration": "'edayin nevvkhadenetsar malekha' tevah vekam vehitevehalah 'aneh ve'amar lehadavervohiy hala' guveriyn telatah remeyna' legvo'-nvra' mekhafetiyn 'anayin ve'ameriyn lemalekha' yatsiyva' malekha'.",
     "translation": "Então Nabucodonosor, o rei, se levantou em espanto e respondeu à palavra: \"Não é verdade que lançamos três homens atados às chamas ardentes? E agora eu vejo três homens sem laços andando no meio do fogo, e com eles está um semblante divino andando entre as chamas.\""
   },
@@ -157,7 +157,7 @@
   },
   {
     "verse": 27,
-    "original": "וּ֠מִֽתְכַּנְּשִׁ֠ין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒ חָזַ֣יִן לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא־שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ וְסַרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן׃",
+    "original": "<span data-strong=\"H3673\">וּ֠מִֽתְכַּנְּשִׁ֠ין</span> <span data-strong=\"H1\">אֲחַשְׁדַּרְפְּנַיָּ֞א</span> <span data-strong=\"H1\">סִגְנַיָּ֣א</span> <span data-strong=\"H1\">וּפַחֲוָתָא֮</span> <span data-strong=\"H1907\">וְהַדָּבְרֵ֣י</span> <span data-strong=\"H1\">מַלְכָּא֒</span> <span data-strong=\"H2370\">חָזַ֣יִן</span> <span data-strong=\"H1\">לְגֻבְרַיָּ֣א</span> <span data-strong=\"H479\">אִלֵּ֡ךְ</span> <span data-strong=\"H1768\">דִּי֩</span> <span data-strong=\"H3809\">לָֽא</span>־<span data-strong=\"H7981\">שְׁלֵ֨ט</span> <span data-strong=\"H1\">נוּרָ֜א</span> <span data-strong=\"H1952\">בְּגֶשְׁמְה֗וֹן</span> <span data-strong=\"H8177\">וּשְׂעַ֤ר</span> <span data-strong=\"H1952\">רֵֽאשְׁהוֹן֙</span> <span data-strong=\"H3809\">לָ֣א</span> <span data-strong=\"H2761\">הִתְחָרַ֔ךְ</span> <span data-strong=\"H1952\">וְסַרְבָּלֵיה֖וֹן</span> <span data-strong=\"H3809\">לָ֣א</span> <span data-strong=\"H8133\">שְׁנ֑וֹ</span> <span data-strong=\"H7382\">וְרֵ֣יחַ</span> <span data-strong=\"H5135\">נ֔וּר</span> <span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H5709\">עֲדָ֖ת</span> <span data-strong=\"H1952\">בְּהֽוֹן׃</span>",
     "transliteration": "vmitekhaneshiyn 'ahashedarefenaya' sigenaya' vfahavata' vehadaverey malekha' hazayin leguveraya' 'ilekhe diy la'-shelet nvra' vegeshemehvon vse'ar re'shehvon la' hiteharakhe vesarevaleyhvon la' shenvo vereyha nvr la' 'adat vehvon.",
     "translation": "E dos ajuntamentos de Acazdarfena, o sátrapa e os intérpretes, e as palavras do rei, foram vistas por esses homens que não permitiu fogo sobre seus corpos, nem seus cabelos se enrugaram, nem suas vestes mudaram, e nem o odor do fogo se fez sentir neles."
   },
@@ -193,7 +193,7 @@
   },
   {
     "verse": 33,
-    "original": "אָת֙וֹהִי֙ כְּמָ֣ה רַבְרְבִ֔ין וְתִמְה֖וֹהִי כְּמָ֣ה תַקִּיפִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְשׇׁלְטָנֵ֖הּ עִם־דָּ֥ר וְדָֽר׃",
+    "original": "<span data-strong=\"H1958\">אָת֙וֹהִי֙</span> <span data-strong=\"H4101\">כְּמָ֣ה</span> <span data-strong=\"H7229\">רַבְרְבִ֔ין</span> <span data-strong=\"H1958\">וְתִמְה֖וֹהִי</span> <span data-strong=\"H4101\">כְּמָ֣ה</span> <span data-strong=\"H8624\">תַקִּיפִ֑ין</span> <span data-strong=\"H1886\">מַלְכוּתֵהּ֙</span> <span data-strong=\"H4437\">מַלְכ֣וּת</span> <span data-strong=\"H5957\">עָלַ֔ם</span> <span data-strong=\"H1886\">וְשׇׁלְטָנֵ֖הּ</span> <span data-strong=\"H5974\">עִם</span>־<span data-strong=\"H1859\">דָּ֥ר</span> <span data-strong=\"H1859\">וְדָֽר׃</span>",
     "transliteration": "'atvohiy khemah ravereviyn vetimehvohiy khemah takiyfiyn malekhvteh malekhvt 'alam vesholetaneh 'im-dar vedar.",
     "translation": "Seus santuários são muitos e seus poderes são formidáveis, seu reino é um reino eterno e sua soberania com geração após geração."
   }

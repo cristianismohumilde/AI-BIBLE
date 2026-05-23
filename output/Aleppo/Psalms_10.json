@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "לָמָ֣ה יְ֭הֹוָה תַּעֲמֹ֣ד בְּרָח֑וֹק תַּ֝עְלִ֗ים לְעִתּ֥וֹת בַּצָּרָֽה׃",
+    "original": "<span data-strong=\"H4100\">לָמָ֣ה</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H5975\">תַּעֲמֹ֣ד</span> <span data-strong=\"H7350\">בְּרָח֑וֹק</span> <span data-strong=\"H5956\">תַּ֝עְלִ֗ים</span> <span data-strong=\"H6256\">לְעִתּ֥וֹת</span> <span data-strong=\"H1226\">בַּצָּרָֽה׃</span>",
     "transliteration": "lamah yehovah ta'amod verahvok ta'eliym le'itvot vatsarah.",
     "translation": "Por que, Senhor, permaneceis longe? Ocultais-vos nos momentos de angústia?"
   },
   {
     "verse": 2,
-    "original": "בְּגַאֲוַ֣ת רָ֭שָׁע יִדְלַ֣ק עָנִ֑י יִתָּפְשׂ֓וּ&thinsp;<b>׀</b> בִּמְזִמּ֖וֹת ז֣וּ חָשָֽׁבוּ׃",
+    "original": "<span data-strong=\"H1346\">בְּגַאֲוַ֣ת</span> <span data-strong=\"H7563\">רָ֭שָׁע</span> <span data-strong=\"H1814\">יִדְלַ֣ק</span> <span data-strong=\"H6041\">עָנִ֑י</span> <span data-strong=\"H8610\">יִתָּפְשׂ֓וּ&thinsp;<b>׀</b></span> <span data-strong=\"H4209\">בִּמְזִמּ֖וֹת</span> <span data-strong=\"H2098\">ז֣וּ</span> <span data-strong=\"H2803\">חָשָֽׁבוּ׃</span>",
     "transliteration": "vega'avat rasha' yidelak 'aniy yitafesv&thinsp;<b>|</b> vimezimvot zv hashavv.",
     "translation": "Na vaidade do ímpio arde o pobre; prender-se-ão nas tramas que assim urdiram."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "רָשָׁ֗ע כְּגֹ֣בַהּ אַ֭פּוֹ בַּל־יִדְרֹ֑שׁ אֵ֥ין אֱ֝לֹהִ֗ים כׇּל־מְזִמּוֹתָֽיו׃",
+    "original": "<span data-strong=\"H7563\">רָשָׁ֗ע</span> <span data-strong=\"H1363\">כְּגֹ֣בַהּ</span> <span data-strong=\"H2050\">אַ֭פּוֹ</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H1875\">יִדְרֹ֑שׁ</span> <span data-strong=\"H369\">אֵ֥ין</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">מְזִמּוֹתָֽיו׃</span>",
     "transliteration": "rasha' khegovah 'afvo val-yiderosh 'eyn 'elohiym khol-mezimvotayv.",
     "translation": "O ímpio, quando se ensoberbece, não busca a Deus; toda a sua astúcia é abominável."
   },
@@ -31,25 +31,25 @@
   },
   {
     "verse": 6,
-    "original": "אָמַ֣ר בְּ֭לִבּוֹ בַּל־אֶמּ֑וֹט לְדֹ֥ר וָ֝דֹ֗ר אֲשֶׁ֣ר לֹֽא־בְרָֽע׃",
+    "original": "<span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H2050\">בְּ֭לִבּוֹ</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H4131\">אֶמּ֑וֹט</span> <span data-strong=\"H1755\">לְדֹ֥ר</span> <span data-strong=\"H1755\">וָ֝דֹ֗ר</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7451\">בְרָֽע׃</span>",
     "transliteration": "'amar velivvo val-'emvot ledor vador 'asher lo'-vera'.",
     "translation": "Disse em seu coração: \"Eu não vacilarei; de geração em geração, sem mal.\""
   },
   {
     "verse": 7,
-    "original": "אָלָ֤ה&thinsp;<b>׀</b> פִּ֣יהוּ מָ֭לֵא וּמִרְמ֣וֹת וָתֹ֑ךְ תַּ֥חַת לְ֝שׁוֹנ֗וֹ עָמָ֥ל וָאָֽוֶן׃",
+    "original": "<span data-strong=\"H423\">אָלָ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H1930\">פִּ֣יהוּ</span> <span data-strong=\"H4390\">מָ֭לֵא</span> <span data-strong=\"H4820\">וּמִרְמ֣וֹת</span> <span data-strong=\"H8496\">וָתֹ֑ךְ</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H2050\">לְ֝שׁוֹנ֗וֹ</span> <span data-strong=\"H5999\">עָמָ֥ל</span> <span data-strong=\"H205\">וָאָֽוֶן׃</span>",
     "transliteration": "'alah&thinsp;<b>|</b> fiyhv male' vmiremvot vatokhe tahat leshvonvo 'amal va'aven.",
     "translation": "Subiu sua boca cheia de maldades e fraudes; sob sua língua há mal e engano."
   },
   {
     "verse": 8,
-    "original": "יֵשֵׁ֤ב&thinsp;<b>׀</b> בְּמַאְרַ֬ב חֲצֵרִ֗ים בַּֽ֭מִּסְתָּרִים יַהֲרֹ֣ג נָקִ֑י עֵ֝ינָ֗יו לְֽחֵלְכָ֥ה יִצְפֹּֽנוּ׃",
+    "original": "<span data-strong=\"H3427\">יֵשֵׁ֤ב&thinsp;<b>׀</b></span> <span data-strong=\"H3993\">בְּמַאְרַ֬ב</span> <span data-strong=\"H2691\">חֲצֵרִ֗ים</span> <span data-strong=\"H4565\">בַּֽ֭מִּסְתָּרִים</span> <span data-strong=\"H2026\">יַהֲרֹ֣ג</span> <span data-strong=\"H5355\">נָקִ֑י</span> <span data-strong=\"H2050\">עֵ֝ינָ֗יו</span> <span data-strong=\"H2489\">לְֽחֵלְכָ֥ה</span> <span data-strong=\"H6845\">יִצְפֹּֽנוּ׃</span>",
     "transliteration": "yeshev&thinsp;<b>|</b> vema'erav hatseriym vamisetariym yaharog nakiy 'eynayv lehelekhah yitsefonv.",
     "translation": "Assenta-se no esconderijo das moradas, nos segredos mata o inocente; os seus olhos para a valeda ele espreita."
   },
   {
     "verse": 9,
-    "original": "יֶאֱרֹ֬ב בַּמִּסְתָּ֨ר&thinsp;<b>׀</b> כְּאַרְיֵ֬ה בְסֻכֹּ֗ה יֶ֭אֱרֹב לַחֲט֣וֹף עָנִ֑י יַחְטֹ֥ף עָ֝נִ֗י בְּמׇשְׁכ֥וֹ בְרִשְׁתּֽוֹ׃",
+    "original": "<span data-strong=\"H693\">יֶאֱרֹ֬ב</span> <span data-strong=\"H4565\">בַּמִּסְתָּ֨ר&thinsp;<b>׀</b></span> <span data-strong=\"H738\">כְּאַרְיֵ֬ה</span> <span data-strong=\"H2050\">בְסֻכֹּ֗ה</span> <span data-strong=\"H693\">יֶ֭אֱרֹב</span> <span data-strong=\"H2414\">לַחֲט֣וֹף</span> <span data-strong=\"H6041\">עָנִ֑י</span> <span data-strong=\"H2414\">יַחְטֹ֥ף</span> <span data-strong=\"H6041\">עָ֝נִ֗י</span> <span data-strong=\"H2050\">בְּמׇשְׁכ֥וֹ</span> <span data-strong=\"H2050\">בְרִשְׁתּֽוֹ׃</span>",
     "transliteration": "ye'erov vamisetar&thinsp;<b>|</b> khe'areyeh vesukhoh ye'erov lahatvof 'aniy yahetof 'aniy vemoshekhvo verishetvo.",
     "translation": "Espreita no segredo como leão em sua toca; espreita para apanhar o pobre; apanha o pobre ao arrastá-lo com suas redes."
   },
@@ -61,7 +61,7 @@
   },
   {
     "verse": 11,
-    "original": "אָמַ֣ר בְּ֭לִבּוֹ שָׁ֣כַֽח אֵ֑ל הִסְתִּ֥יר פָּ֝נָ֗יו בַּל־רָאָ֥ה לָנֶֽצַח׃",
+    "original": "<span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H2050\">בְּ֭לִבּוֹ</span> <span data-strong=\"H7911\">שָׁ֣כַֽח</span> <span data-strong=\"H410\">אֵ֑ל</span> <span data-strong=\"H5641\">הִסְתִּ֥יר</span> <span data-strong=\"H2050\">פָּ֝נָ֗יו</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H7200\">רָאָ֥ה</span> <span data-strong=\"H5331\">לָנֶֽצַח׃</span>",
     "transliteration": "'amar velivvo shakhah 'el hisetiyr fanayv val-ra'ah lanetsah.",
     "translation": "Disse em seu coração: Esqueceu Deus; escondeu seu rosto, não o verá mais para sempre."
   },
@@ -79,25 +79,25 @@
   },
   {
     "verse": 14,
-    "original": "רָאִ֡תָה כִּי־אַתָּ֤ה&thinsp;<b>׀</b> עָ֘מָ֤ל וָכַ֨עַס&thinsp;<b>׀</b> תַּבִּיט֮ לָתֵ֢ת בְּיָ֫דֶ֥ךָ עָ֭לֶיךָ יַעֲזֹ֣ב חֵלֵ֑כָה יָ֝ת֗וֹם אַתָּ֤ה&thinsp;<b>׀</b> הָיִ֬יתָ עוֹזֵֽר׃",
+    "original": "<span data-strong=\"H7200\">רָאִ֡תָה</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H859\">אַתָּ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H5999\">עָ֘מָ֤ל</span> <span data-strong=\"H3708\">וָכַ֨עַס&thinsp;<b>׀</b></span> <span data-strong=\"H5027\">תַּבִּיט֮</span> <span data-strong=\"H5414\">לָתֵ֢ת</span> <span data-strong=\"H3509\">בְּיָ֫דֶ֥ךָ</span> <span data-strong=\"H3509\">עָ֭לֶיךָ</span> <span data-strong=\"H5800\">יַעֲזֹ֣ב</span> <span data-strong=\"H2489\">חֵלֵ֑כָה</span> <span data-strong=\"H3490\">יָ֝ת֗וֹם</span> <span data-strong=\"H859\">אַתָּ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H1961\">הָיִ֬יתָ</span> <span data-strong=\"H5826\">עוֹזֵֽר׃</span>",
     "transliteration": "ra'itah khiy-'atah&thinsp;<b>|</b> 'amal vakha'as&thinsp;<b>|</b> taviyt latet veyadekha 'aleykha ya'azov helekhah yatvom 'atah&thinsp;<b>|</b> hayiyta 'vozer.",
     "translation": "Viste que tu trabalhas com aflição e amargura para lhe dar na tua mão; sobre ti ele abandonará herança. Tu és auxílio do órfão."
   },
   {
     "verse": 15,
-    "original": "שְׁ֭בֹר זְר֣וֹעַ רָשָׁ֑ע וָ֝רָ֗ע תִּֽדְרוֹשׁ־רִשְׁע֥וֹ בַל־תִּמְצָֽא׃",
+    "original": "<span data-strong=\"H7665\">שְׁ֭בֹר</span> <span data-strong=\"H2220\">זְר֣וֹעַ</span> <span data-strong=\"H7563\">רָשָׁ֑ע</span> <span data-strong=\"H7451\">וָ֝רָ֗ע</span> <span data-strong=\"H1875\">תִּֽדְרוֹשׁ</span>־<span data-strong=\"H2050\">רִשְׁע֥וֹ</span> <span data-strong=\"H1077\">בַל</span>־<span data-strong=\"H4672\">תִּמְצָֽא׃</span>",
     "transliteration": "shevor zervo'a rasha' vara' tidervosh-rishe'vo val-timetsa'.",
     "translation": "Quebra o braço do ímpio; quando buscas suas maldades, não as encontrarás."
   },
   {
     "verse": 16,
-    "original": "יְהֹוָ֣ה מֶ֭לֶךְ עוֹלָ֣ם וָעֶ֑ד אָבְד֥וּ ג֝וֹיִ֗ם מֵאַרְצֽוֹ׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H4428\">מֶ֭לֶךְ</span> <span data-strong=\"H5769\">עוֹלָ֣ם</span> <span data-strong=\"H5703\">וָעֶ֑ד</span> <span data-strong=\"H6\">אָבְד֥וּ</span> <span data-strong=\"H1471\">ג֝וֹיִ֗ם</span> <span data-strong=\"H2050\">מֵאַרְצֽוֹ׃</span>",
     "transliteration": "yehovah melekhe 'volam va'ed 'avedv gvoyim me'aretsvo.",
     "translation": "O Senhor é Rei eternamente, povos perecem de sua terra."
   },
   {
     "verse": 17,
-    "original": "תַּאֲוַ֬ת עֲנָוִ֣ים שָׁמַ֣עְתָּ יְהֹוָ֑ה תָּכִ֥ין לִ֝בָּ֗ם תַּקְשִׁ֥יב אׇזְנֶֽךָ׃",
+    "original": "<span data-strong=\"H8378\">תַּאֲוַ֬ת</span> <span data-strong=\"H6035\">עֲנָוִ֣ים</span> <span data-strong=\"H8085\">שָׁמַ֣עְתָּ</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3559\">תָּכִ֥ין</span> <span data-strong=\"H3963\">לִ֝בָּ֗ם</span> <span data-strong=\"H7181\">תַּקְשִׁ֥יב</span> <span data-strong=\"H3509\">אׇזְנֶֽךָ׃</span>",
     "transliteration": "ta'avat 'anaviym shama'eta yehovah takhiyn livam takeshiyv 'ozenekha.",
     "translation": "O desejo dos humildes você ouviu, Senhor; prepararás o coração deles; inclinarás a tua orelha."
   },

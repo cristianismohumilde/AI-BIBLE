@@ -7,43 +7,43 @@
   },
   {
     "verse": 2,
-    "original": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־מֹשֶׁ֑ה וַיֹּ֥אמֶר אֵלָ֖יו אֲנִ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayedaver 'elohiym 'el-mosheh vayo'mer 'elayv 'aniy yehovah.",
     "translation": "E Deus falou a Moisés, dizendo: Eu sou o Senhor."
   },
   {
     "verse": 3,
-    "original": "וָאֵרָ֗א אֶל־אַבְרָהָ֛ם אֶל־יִצְחָ֥ק וְאֶֽל־יַעֲקֹ֖ב בְּאֵ֣ל שַׁדָּ֑י וּשְׁמִ֣י יְהֹוָ֔ה לֹ֥א נוֹדַ֖עְתִּי לָהֶֽם׃",
+    "original": "<span data-strong=\"H7200\">וָאֵרָ֗א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H85\">אַבְרָהָ֛ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3327\">יִצְחָ֥ק</span> <span data-strong=\"H413\">וְאֶֽל</span>־<span data-strong=\"H3290\">יַעֲקֹ֖ב</span> <span data-strong=\"H410\">בְּאֵ֣ל</span> <span data-strong=\"H7706\">שַׁדָּ֑י</span> <span data-strong=\"H2967\">וּשְׁמִ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3045\">נוֹדַ֖עְתִּי</span> <span data-strong=\"H3963\">לָהֶֽם׃</span>",
     "transliteration": "va'era' 'el-'averaham 'el-yitsehak ve'el-ya'akov ve'el shaday vshemiy yehovah lo' nvoda'etiy lahem.",
     "translation": "E me manifestei a Abraão, a Isaque e a Jacó como El-Shaddai, e meu nome YHWH não lhes foi revelado."
   },
   {
     "verse": 4,
-    "original": "וְגַ֨ם הֲקִמֹ֤תִי אֶת־בְּרִיתִי֙ אִתָּ֔ם לָתֵ֥ת לָהֶ֖ם אֶת־אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻרֵיהֶ֖ם אֲשֶׁר־גָּ֥רוּ בָֽהּ׃",
+    "original": "<span data-strong=\"H1571\">וְגַ֨ם</span> <span data-strong=\"H6965\">הֲקִמֹ֤תִי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בְּרִיתִי֙</span> <span data-strong=\"H3963\">אִתָּ֔ם</span> <span data-strong=\"H5414\">לָתֵ֥ת</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H3667\">כְּנָ֑עַן</span> <span data-strong=\"H853\">אֵ֛ת</span> <span data-strong=\"H776\">אֶ֥רֶץ</span> <span data-strong=\"H3963\">מְגֻרֵיהֶ֖ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1481\">גָּ֥רוּ</span> <span data-strong=\"H1886\">בָֽהּ׃</span>",
     "transliteration": "vegam hakimotiy 'et-veriytiy 'itam latet lahem 'et-'erets khena'an 'et 'erets megureyhem 'asher-garv vah.",
     "translation": "E também confirmarei minha aliança com eles, para lhes dar a terra de Canaã, a terra dos seus acampamentos, onde eles acamparam."
   },
   {
     "verse": 5,
-    "original": "וְגַ֣ם&thinsp;<b>׀</b> אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת־נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַעֲבִדִ֣ים אֹתָ֑ם וָאֶזְכֹּ֖ר אֶת־בְּרִיתִֽי׃",
+    "original": "<span data-strong=\"H1571\">וְגַ֣ם&thinsp;<b>׀</b></span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H8085\">שָׁמַ֗עְתִּי</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H5009\">נַאֲקַת֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H5647\">מַעֲבִדִ֣ים</span> <span data-strong=\"H3963\">אֹתָ֑ם</span> <span data-strong=\"H2142\">וָאֶזְכֹּ֖ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בְּרִיתִֽי׃</span>",
     "transliteration": "vegam&thinsp;<b>|</b> 'aniy shama'etiy 'et-na'akat veney yisera'el 'asher mitserayim ma'avidiym 'otam va'ezekhor 'et-veriytiy.",
     "translation": "E também eu ouvi o clamor dos filhos de Israel, que os egípcios os fazem sofrer como escravos, e me lembrei da minha aliança."
   },
   {
     "verse": 6,
-    "original": "לָכֵ֞ן אֱמֹ֥ר לִבְנֵֽי־יִשְׂרָאֵל֮ אֲנִ֣י יְהֹוָה֒ וְהוֹצֵאתִ֣י אֶתְכֶ֗ם מִתַּ֙חַת֙ סִבְלֹ֣ת מִצְרַ֔יִם וְהִצַּלְתִּ֥י אֶתְכֶ֖ם מֵעֲבֹדָתָ֑ם וְגָאַלְתִּ֤י אֶתְכֶם֙ בִּזְר֣וֹעַ נְטוּיָ֔ה וּבִשְׁפָטִ֖ים גְּדֹלִֽים׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֞ן</span> <span data-strong=\"H559\">אֱמֹ֥ר</span> <span data-strong=\"H1121\">לִבְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֮</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H3068\">יְהֹוָה֒</span> <span data-strong=\"H3318\">וְהוֹצֵאתִ֣י</span> <span data-strong=\"H3641\">אֶתְכֶ֗ם</span> <span data-strong=\"H8478\">מִתַּ֙חַת֙</span> <span data-strong=\"H5450\">סִבְלֹ֣ת</span> <span data-strong=\"H4714\">מִצְרַ֔יִם</span> <span data-strong=\"H5337\">וְהִצַּלְתִּ֥י</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H3963\">מֵעֲבֹדָתָ֑ם</span> <span data-strong=\"H1350\">וְגָאַלְתִּ֤י</span> <span data-strong=\"H3641\">אֶתְכֶם֙</span> <span data-strong=\"H2220\">בִּזְר֣וֹעַ</span> <span data-strong=\"H5186\">נְטוּיָ֔ה</span> <span data-strong=\"H8201\">וּבִשְׁפָטִ֖ים</span> <span data-strong=\"H1419\">גְּדֹלִֽים׃</span>",
     "transliteration": "lakhen 'emor liveney-yisera'el 'aniy yehovah vehvotse'tiy 'etekhem mitahat sivelot mitserayim vehitsaletiy 'etekhem me'avodatam vega'aletiy 'etekhem vizervo'a netvyah vvishefatiym gedoliym.",
     "translation": "Portanto, dize aos filhos de Israel: Eu sou o Senhor; e farei sair de vós dos jugos dos egípcios, e vos livrarei da servidão a eles, e os redimirei com braço estendido e juízos grandiosos."
   },
   {
     "verse": 7,
-    "original": "וְלָקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַחְתִּ֨י</span> <span data-strong=\"H3641\">אֶתְכֶ֥ם</span> <span data-strong=\"H2967\">לִי֙</span> <span data-strong=\"H5971\">לְעָ֔ם</span> <span data-strong=\"H1961\">וְהָיִ֥יתִי</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H430\">לֵֽאלֹהִ֑ים</span> <span data-strong=\"H3045\">וִֽידַעְתֶּ֗ם</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H589\">אֲנִ֤י</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H3641\">אֱלֹ֣הֵיכֶ֔ם</span> <span data-strong=\"H3318\">הַמּוֹצִ֣יא</span> <span data-strong=\"H3641\">אֶתְכֶ֔ם</span> <span data-strong=\"H8478\">מִתַּ֖חַת</span> <span data-strong=\"H5450\">סִבְל֥וֹת</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "velakahetiy 'etekhem liy le'am vehayiytiy lakhem le'lohiym viyda'etem khiy 'aniy yehovah 'eloheykhem hamvotsiy' 'etekhem mitahat sivelvot mitserayim.",
     "translation": "E vos tomarei para mim por povo e serei eu vosso Deus, e conhecereis que eu sou o Senhor vosso Deus, que vos faz sair dos fardos do Egito."
   },
   {
     "verse": 8,
-    "original": "וְהֵבֵאתִ֤י אֶתְכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־יָדִ֔י לָתֵ֣ת אֹתָ֔הּ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב וְנָתַתִּ֨י אֹתָ֥הּ לָכֶ֛ם מוֹרָשָׁ֖ה אֲנִ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H935\">וְהֵבֵאתִ֤י</span> <span data-strong=\"H3641\">אֶתְכֶם֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5375\">נָשָׂ֙אתִי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">יָדִ֔י</span> <span data-strong=\"H5414\">לָתֵ֣ת</span> <span data-strong=\"H1886\">אֹתָ֔הּ</span> <span data-strong=\"H85\">לְאַבְרָהָ֥ם</span> <span data-strong=\"H3327\">לְיִצְחָ֖ק</span> <span data-strong=\"H3290\">וּֽלְיַעֲקֹ֑ב</span> <span data-strong=\"H5414\">וְנָתַתִּ֨י</span> <span data-strong=\"H1886\">אֹתָ֥הּ</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H4181\">מוֹרָשָׁ֖ה</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "veheve'tiy 'etekhem 'el-ha'arets 'asher nasa'tiy 'et-yadiy latet 'otah le'averaham leyitsehak vleya'akov venatatiy 'otah lakhem mvorashah 'aniy yehovah.",
     "translation": "E eu vos trarei à terra que levantei a minha mão para dar a Abraão, a Isaque e a Jacó, e eu a darei a vós por herança; sou o Senhor."
   },
@@ -55,13 +55,13 @@
   },
   {
     "verse": 10,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 11,
-    "original": "בֹּ֣א דַבֵּ֔ר אֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם וִֽישַׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃",
+    "original": "<span data-strong=\"H935\">בֹּ֣א</span> <span data-strong=\"H1696\">דַבֵּ֔ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6547\">פַּרְעֹ֖ה</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H4714\">מִצְרָ֑יִם</span> <span data-strong=\"H7971\">וִֽישַׁלַּ֥ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H2050\">מֵאַרְצֽוֹ׃</span>",
     "transliteration": "vo' daver 'el-fare'oh melekhe mitserayim viyshalah 'et-veney-yisera'el me'aretsvo.",
     "translation": "Vem falar com Faraó, rei do Egito, e ele deixará partir os filhos de Israel da sua terra."
   },
@@ -79,85 +79,85 @@
   },
   {
     "verse": 14,
-    "original": "אֵ֖לֶּה רָאשֵׁ֣י בֵית־אֲבֹתָ֑ם בְּנֵ֨י רְאוּבֵ֜ן בְּכֹ֣ר יִשְׂרָאֵ֗ל חֲנ֤וֹךְ וּפַלּוּא֙ חֶצְרֹ֣ן וְכַרְמִ֔י אֵ֖לֶּה מִשְׁפְּחֹ֥ת רְאוּבֵֽן׃",
+    "original": "<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H7218\">רָאשֵׁ֣י</span> <span data-strong=\"H1004\">בֵית</span>־<span data-strong=\"H3963\">אֲבֹתָ֑ם</span> <span data-strong=\"H1121\">בְּנֵ֨י</span> <span data-strong=\"H7205\">רְאוּבֵ֜ן</span> <span data-strong=\"H1060\">בְּכֹ֣ר</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H2585\">חֲנ֤וֹךְ</span> <span data-strong=\"H6396\">וּפַלּוּא֙</span> <span data-strong=\"H2696\">חֶצְרֹ֣ן</span> <span data-strong=\"H3756\">וְכַרְמִ֔י</span> <span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H7205\">רְאוּבֵֽן׃</span>",
     "transliteration": "'eleh ra'shey veyt-'avotam veney re'vven vekhor yisera'el hanvokhe vfalv' hetseron vekharemiy 'eleh mishefehot re'vven.",
     "translation": "Estes são os chefes das suas casas; filhos de Reuven, primogênito de Israel: Hanoc, Palaú, Hetzrôn e Carmi. Estes são as famílias de Reuven."
   },
   {
     "verse": 15,
-    "original": "וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֨ל וְיָמִ֤ין וְאֹ֙הַד֙ וְיָכִ֣ין וְצֹ֔חַר וְשָׁא֖וּל בֶּן־הַֽכְּנַעֲנִ֑ית אֵ֖לֶּה מִשְׁפְּחֹ֥ת שִׁמְעֽוֹן׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H8095\">שִׁמְע֗וֹן</span> <span data-strong=\"H3223\">יְמוּאֵ֨ל</span> <span data-strong=\"H3226\">וְיָמִ֤ין</span> <span data-strong=\"H161\">וְאֹ֙הַד֙</span> <span data-strong=\"H3199\">וְיָכִ֣ין</span> <span data-strong=\"H6714\">וְצֹ֔חַר</span> <span data-strong=\"H7586\">וְשָׁא֖וּל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3669\">הַֽכְּנַעֲנִ֑ית</span> <span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H8095\">שִׁמְעֽוֹן׃</span>",
     "transliteration": "vveney shime'von yemv'el veyamiyn ve'ohad veyakhiyn vetsohar vesha'vl ven-hakhena'aniyt 'eleh mishefehot shime'von.",
     "translation": "E os filhos de Simeão foram Jemuel, Yamim, Ohad, Jakin, Zohar e Saul, filho da cananeia. Estes são os clãs de Simeão."
   },
   {
     "verse": 16,
-    "original": "וְאֵ֨לֶּה שְׁמ֤וֹת בְּנֵֽי־לֵוִי֙ לְתֹ֣לְדֹתָ֔ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִ֑י וּשְׁנֵי֙ חַיֵּ֣י לֵוִ֔י שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֨לֶּה</span> <span data-strong=\"H8034\">שְׁמ֤וֹת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3878\">לֵוִי֙</span> <span data-strong=\"H3963\">לְתֹ֣לְדֹתָ֔ם</span> <span data-strong=\"H1647\">גֵּרְשׁ֕וֹן</span> <span data-strong=\"H6955\">וּקְהָ֖ת</span> <span data-strong=\"H4847\">וּמְרָרִ֑י</span> <span data-strong=\"H8141\">וּשְׁנֵי֙</span> <span data-strong=\"H2416\">חַיֵּ֣י</span> <span data-strong=\"H3878\">לֵוִ֔י</span> <span data-strong=\"H7651\">שֶׁ֧בַע</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֛ים</span> <span data-strong=\"H3967\">וּמְאַ֖ת</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "ve'eleh shemvot veney-leviy letoledotam gereshvon vkehat vmerariy vsheney hayey leviy sheva' vsheloshiym vme'at shanah.",
     "translation": "E estes são os nomes dos filhos de Levi, segundo as suas gerações: Gerison, Quate e Merari; e a vida de Levi foi de cento e trinta e sete anos."
   },
   {
     "verse": 17,
-    "original": "בְּנֵ֥י גֵרְשׁ֛וֹן לִבְנִ֥י וְשִׁמְעִ֖י לְמִשְׁפְּחֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H1647\">גֵרְשׁ֛וֹן</span> <span data-strong=\"H3845\">לִבְנִ֥י</span> <span data-strong=\"H8096\">וְשִׁמְעִ֖י</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָֽם׃</span>",
     "transliteration": "veney gereshvon liveniy veshime'iy lemishefehotam.",
     "translation": "Os filhos de Gérson: Libni e Siméi, segundo suas famílias."
   },
   {
     "verse": 18,
-    "original": "וּבְנֵ֣י קְהָ֔ת עַמְרָ֣ם וְיִצְהָ֔ר וְחֶבְר֖וֹן וְעֻזִּיאֵ֑ל וּשְׁנֵי֙ חַיֵּ֣י קְהָ֔ת שָׁלֹ֧שׁ וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H6955\">קְהָ֔ת</span> <span data-strong=\"H6019\">עַמְרָ֣ם</span> <span data-strong=\"H3324\">וְיִצְהָ֔ר</span> <span data-strong=\"H2275\">וְחֶבְר֖וֹן</span> <span data-strong=\"H5816\">וְעֻזִּיאֵ֑ל</span> <span data-strong=\"H8141\">וּשְׁנֵי֙</span> <span data-strong=\"H2416\">חַיֵּ֣י</span> <span data-strong=\"H6955\">קְהָ֔ת</span> <span data-strong=\"H7969\">שָׁלֹ֧שׁ</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֛ים</span> <span data-strong=\"H3967\">וּמְאַ֖ת</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vveney kehat 'ameram veyitsehar vehevervon ve'uziy'el vsheney hayey kehat shalosh vsheloshiym vme'at shanah.",
     "translation": "E os filhos de Querete foram Amram, Izar, Hebron e Uziel. E os dias da vida de Querete foram cem e trinta e três anos."
   },
   {
     "verse": 19,
-    "original": "וּבְנֵ֥י מְרָרִ֖י מַחְלִ֣י וּמוּשִׁ֑י אֵ֛לֶּה מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְתֹלְדֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֥י</span> <span data-strong=\"H4847\">מְרָרִ֖י</span> <span data-strong=\"H4249\">מַחְלִ֣י</span> <span data-strong=\"H4187\">וּמוּשִׁ֑י</span> <span data-strong=\"H428\">אֵ֛לֶּה</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H3878\">הַלֵּוִ֖י</span> <span data-strong=\"H3963\">לְתֹלְדֹתָֽם׃</span>",
     "transliteration": "vveney merariy maheliy vmvshiy 'eleh mishefehot haleviy letoledotam.",
     "translation": "E os filhos de Merari foram Malziel e Musi. Estes são os clãs do levitas, conforme suas gerações."
   },
   {
     "verse": 20,
-    "original": "וַיִּקַּ֨ח עַמְרָ֜ם אֶת־יוֹכֶ֤בֶד דֹּֽדָתוֹ֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֣לֶד ל֔וֹ אֶֽת־אַהֲרֹ֖ן וְאֶת־מֹשֶׁ֑ה וּשְׁנֵי֙ חַיֵּ֣י עַמְרָ֔ם שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H6019\">עַמְרָ֜ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3115\">יוֹכֶ֤בֶד</span> <span data-strong=\"H2050\">דֹּֽדָתוֹ֙</span> <span data-strong=\"H2050\">ל֣וֹ</span> <span data-strong=\"H802\">לְאִשָּׁ֔ה</span> <span data-strong=\"H3205\">וַתֵּ֣לֶד</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H175\">אַהֲרֹ֖ן</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H8141\">וּשְׁנֵי֙</span> <span data-strong=\"H2416\">חַיֵּ֣י</span> <span data-strong=\"H6019\">עַמְרָ֔ם</span> <span data-strong=\"H7651\">שֶׁ֧בַע</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֛ים</span> <span data-strong=\"H3967\">וּמְאַ֖ת</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vayikah 'ameram 'et-yvokheved dodatvo lvo le'ishah vateled lvo 'et-'aharon ve'et-mosheh vsheney hayey 'ameram sheva' vsheloshiym vme'at shanah.",
     "translation": "E Amram tomou Jocabé, sua tia, como mulher, e ela lhe deu à luz a Arão e Moisés. E os anos da vida de Amram foram cento e trinta e sete."
   },
   {
     "verse": 21,
-    "original": "וּבְנֵ֖י יִצְהָ֑ר קֹ֥רַח וָנֶ֖פֶג וְזִכְרִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H3324\">יִצְהָ֑ר</span> <span data-strong=\"H7141\">קֹ֥רַח</span> <span data-strong=\"H5298\">וָנֶ֖פֶג</span> <span data-strong=\"H2147\">וְזִכְרִֽי׃</span>",
     "transliteration": "vveney yitsehar korah vanefeg vezikheriy.",
     "translation": "E os filhos de Isaque foram Corá, Necef e Zecer.\n\nDeve ser corrigido para:\n\nE os filhos de Issacar foram Corá, Necef e Zecer.\n\nEntretanto, de acordo com a instrução de fornecer apenas o texto final corrigido sem introduções ou explicações, aqui está a correção adequada ao contexto bíblico:\n\nE os filhos de Isaque foram Corá, Nefeg e Zecer."
   },
   {
     "verse": 22,
-    "original": "וּבְנֵ֖י עֻזִּיאֵ֑ל מִֽישָׁאֵ֥ל וְאֶלְצָפָ֖ן וְסִתְרִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H5816\">עֻזִּיאֵ֑ל</span> <span data-strong=\"H4332\">מִֽישָׁאֵ֥ל</span> <span data-strong=\"H469\">וְאֶלְצָפָ֖ן</span> <span data-strong=\"H5644\">וְסִתְרִֽי׃</span>",
     "transliteration": "vveney 'uziy'el miysha'el ve'eletsafan vesiteriy.",
     "translation": "E os filhos de Uzziel foram Misael, Elisafã e Sitri."
   },
   {
     "verse": 23,
-    "original": "וַיִּקַּ֨ח אַהֲרֹ֜ן אֶת־אֱלִישֶׁ֧בַע בַּת־עַמִּינָדָ֛ב אֲח֥וֹת נַחְשׁ֖וֹן ל֣וֹ לְאִשָּׁ֑ה וַתֵּ֣לֶד ל֗וֹ אֶת־נָדָב֙ וְאֶת־אֲבִיה֔וּא אֶת־אֶלְעָזָ֖ר וְאֶת־אִֽיתָמָֽר׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H175\">אַהֲרֹ֜ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H472\">אֱלִישֶׁ֧בַע</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H5992\">עַמִּינָדָ֛ב</span> <span data-strong=\"H269\">אֲח֥וֹת</span> <span data-strong=\"H5177\">נַחְשׁ֖וֹן</span> <span data-strong=\"H2050\">ל֣וֹ</span> <span data-strong=\"H802\">לְאִשָּׁ֑ה</span> <span data-strong=\"H3205\">וַתֵּ֣לֶד</span> <span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5070\">נָדָב֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H30\">אֲבִיה֔וּא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H499\">אֶלְעָזָ֖ר</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H385\">אִֽיתָמָֽר׃</span>",
     "transliteration": "vayikah 'aharon 'et-'eliysheva' vat-'amiynadav 'ahvot naheshvon lvo le'ishah vateled lvo 'et-nadav ve'et-'aviyhv' 'et-'ele'azar ve'et-'iytamar.",
     "translation": "E tomou Arão Elisheba, filha de Amínadabe, irmã de Naassom, por mulher; e ela lhe deu à luz a Nadabe e Abiú, a Eleazar e Itamar."
   },
   {
     "verse": 24,
-    "original": "וּבְנֵ֣י קֹ֔רַח אַסִּ֥יר וְאֶלְקָנָ֖ה וַאֲבִיאָסָ֑ף אֵ֖לֶּה מִשְׁפְּחֹ֥ת הַקׇּרְחִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H7141\">קֹ֔רַח</span> <span data-strong=\"H617\">אַסִּ֥יר</span> <span data-strong=\"H511\">וְאֶלְקָנָ֖ה</span> <span data-strong=\"H23\">וַאֲבִיאָסָ֑ף</span> <span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H4940\">מִשְׁפְּחֹ֥ת</span> <span data-strong=\"H7145\">הַקׇּרְחִֽי׃</span>",
     "transliteration": "vveney korah 'asiyr ve'elekanah va'aviy'asaf 'eleh mishefehot hakorehiy.",
     "translation": "E os filhos de Corá são Asir, Elcana e Abiasafe; estes são as famílias dos coráitas."
   },
   {
     "verse": 25,
-    "original": "וְאֶלְעָזָ֨ר בֶּֽן־אַהֲרֹ֜ן לָקַֽח־ל֨וֹ מִבְּנ֤וֹת פּֽוּטִיאֵל֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֥לֶד ל֖וֹ אֶת־פִּֽינְחָ֑ס אֵ֗לֶּה רָאשֵׁ֛י אֲב֥וֹת הַלְוִיִּ֖ם לְמִשְׁפְּחֹתָֽם׃",
+    "original": "<span data-strong=\"H499\">וְאֶלְעָזָ֨ר</span> <span data-strong=\"H1121\">בֶּֽן</span>־<span data-strong=\"H175\">אַהֲרֹ֜ן</span> <span data-strong=\"H3947\">לָקַֽח</span>־<span data-strong=\"H2050\">ל֨וֹ</span> <span data-strong=\"H1323\">מִבְּנ֤וֹת</span> <span data-strong=\"H6317\">פּֽוּטִיאֵל֙</span> <span data-strong=\"H2050\">ל֣וֹ</span> <span data-strong=\"H802\">לְאִשָּׁ֔ה</span> <span data-strong=\"H3205\">וַתֵּ֥לֶד</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6372\">פִּֽינְחָ֑ס</span> <span data-strong=\"H428\">אֵ֗לֶּה</span> <span data-strong=\"H7218\">רָאשֵׁ֛י</span> <span data-strong=\"H1\">אֲב֥וֹת</span> <span data-strong=\"H3881\">הַלְוִיִּ֖ם</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָֽם׃</span>",
     "transliteration": "ve'ele'azar ven-'aharon lakah-lvo mivenvot fvtiy'el lvo le'ishah vateled lvo 'et-fiynehas 'eleh ra'shey 'avvot haleviyim lemishefehotam.",
     "translation": "E Elazar, filho de Aarão, tomou para si uma das filhas de Putiel como esposa, e ela lhe deu à luz a Finéias. Estes são os chefes dos pais dos levitas, conforme suas famílias."
   },
   {
     "verse": 26,
-    "original": "ה֥וּא אַהֲרֹ֖ן וּמֹשֶׁ֑ה אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לָהֶ֔ם הוֹצִ֜יאוּ אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם׃",
+    "original": "<span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H175\">אַהֲרֹ֖ן</span> <span data-strong=\"H4872\">וּמֹשֶׁ֑ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H559\">אָמַ֤ר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H3963\">לָהֶ֔ם</span> <span data-strong=\"H3318\">הוֹצִ֜יאוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵ֧י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">צִבְאֹתָֽם׃</span>",
     "transliteration": "hv' 'aharon vmosheh 'asher 'amar yehovah lahem hvotsiy'v 'et-veney yisera'el me'erets mitserayim 'al-tsive'otam.",
     "translation": "Ele é Aarão e Moisés, aos quais o Senhor ordenou: “Façam sair os filhos de Israel da terra do Egito, em suas companhias.”"
   },
   {
     "verse": 27,
-    "original": "הֵ֗ם הַֽמְדַבְּרִים֙ אֶל־פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם ה֥וּא מֹשֶׁ֖ה וְאַהֲרֹֽן׃",
+    "original": "<span data-strong=\"H1992\">הֵ֗ם</span> <span data-strong=\"H1696\">הַֽמְדַבְּרִים֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6547\">פַּרְעֹ֣ה</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H4714\">מִצְרַ֔יִם</span> <span data-strong=\"H3318\">לְהוֹצִ֥יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H4714\">מִמִּצְרָ֑יִם</span> <span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H175\">וְאַהֲרֹֽן׃</span>",
     "transliteration": "hem hamedaveriym 'el-fare'oh melekhe-mitserayim lehvotsiy' 'et-veney-yisera'el mimitserayim hv' mosheh ve'aharon.",
     "translation": "Eles são os que falam com Faraó, rei do Egito, para fazer sair os filhos de Israel do Egito; ele é Moisés e Aarão."
   },
@@ -169,7 +169,7 @@
   },
   {
     "verse": 29,
-    "original": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה לֵּאמֹ֖ר אֲנִ֣י יְהֹוָ֑ה דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֧ר</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹ֖ר</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H1696\">דַּבֵּ֗ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6547\">פַּרְעֹה֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H4714\">מִצְרַ֔יִם</span> <span data-strong=\"H853\">אֵ֛ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H589\">אֲנִ֖י</span> <span data-strong=\"H1696\">דֹּבֵ֥ר</span> <span data-strong=\"H3509\">אֵלֶֽיךָ׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor 'aniy yehovah daver 'el-fare'oh melekhe mitserayim 'et khol-'asher 'aniy dover 'eleykha.",
     "translation": "E o Senhor falou a Moisés, dizendo: Eu sou o Senhor; fala a Faraó, rei do Egito, tudo quanto eu te ordeno dizer."
   },

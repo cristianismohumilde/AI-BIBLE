@@ -1,91 +1,91 @@
 [
   {
     "verse": 1,
-    "original": "שִׁמְע֣וּ בָ֭נִים מ֣וּסַר אָ֑ב וְ֝הַקְשִׁ֗יבוּ לָדַ֥עַת בִּינָֽה׃",
+    "original": "<span data-strong=\"H8085\">שִׁמְע֣וּ</span> <span data-strong=\"H1121\">בָ֭נִים</span> <span data-strong=\"H4148\">מ֣וּסַר</span> <span data-strong=\"H1\">אָ֑ב</span> <span data-strong=\"H7181\">וְ֝הַקְשִׁ֗יבוּ</span> <span data-strong=\"H3045\">לָדַ֥עַת</span> <span data-strong=\"H998\">בִּינָֽה׃</span>",
     "transliteration": "shime'v vaniym mvsar 'av vehakeshiyvv lada'at viynah.",
     "translation": "Ouvi, filhos, o ensino do pai e inclinai os ouvidos para adquirir compreensão."
   },
   {
     "verse": 2,
-    "original": "כִּ֤י לֶ֣קַח ט֭וֹב נָתַ֣תִּי לָכֶ֑ם תּ֝וֹרָתִ֗י אַֽל־תַּעֲזֹֽבוּ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H3948\">לֶ֣קַח</span> <span data-strong=\"H2896\">ט֭וֹב</span> <span data-strong=\"H5414\">נָתַ֣תִּי</span> <span data-strong=\"H3641\">לָכֶ֑ם</span> <span data-strong=\"H2967\">תּ֝וֹרָתִ֗י</span> <span data-strong=\"H408\">אַֽל</span>־<span data-strong=\"H5800\">תַּעֲזֹֽבוּ׃</span>",
     "transliteration": "khiy lekah tvov natatiy lakhem tvoratiy 'al-ta'azovv.",
     "translation": "Pois um bom ensinamento dei-vos, minha lei, não a abandonemos."
   },
   {
     "verse": 3,
-    "original": "כִּֽי־בֵ֭ן הָיִ֣יתִי לְאָבִ֑י רַ֥ךְ וְ֝יָחִ֗יד לִפְנֵ֥י אִמִּֽי׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1121\">בֵ֭ן</span> <span data-strong=\"H1961\">הָיִ֣יתִי</span> <span data-strong=\"H2967\">לְאָבִ֑י</span> <span data-strong=\"H7390\">רַ֥ךְ</span> <span data-strong=\"H3173\">וְ֝יָחִ֗יד</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H2967\">אִמִּֽי׃</span>",
     "transliteration": "khiy-ven hayiytiy le'aviy rakhe veyahiyd lifeney 'imiy.",
     "translation": "Pois filho era eu do meu pai, amável e único diante da minha mãe."
   },
   {
     "verse": 4,
-    "original": "וַיֹּרֵ֗נִי וַיֹּ֥אמֶר לִ֗י יִֽתְמׇךְ־דְּבָרַ֥י לִבֶּ֑ךָ שְׁמֹ֖ר מִצְוֺתַ֣י וֶחְיֵֽה׃",
+    "original": "<span data-strong=\"H5204\">וַיֹּרֵ֗נִי</span> <span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2967\">לִ֗י</span> <span data-strong=\"H8551\">יִֽתְמׇךְ</span>־<span data-strong=\"H2967\">דְּבָרַ֥י</span> <span data-strong=\"H3509\">לִבֶּ֑ךָ</span> <span data-strong=\"H8104\">שְׁמֹ֖ר</span> <span data-strong=\"H2967\">מִצְוֺתַ֣י</span> <span data-strong=\"H2421\">וֶחְיֵֽה׃</span>",
     "transliteration": "vayoreniy vayo'mer liy yitemokhe-devaray livekha shemor mitsevotay veheyeh.",
     "translation": "E me ensinou, e disse-me: Apoia as minhas palavras no teu coração, guarda os meus mandamentos e vive."
   },
   {
     "verse": 5,
-    "original": "קְנֵ֣ה חׇ֭כְמָה קְנֵ֣ה בִינָ֑ה אַל־תִּשְׁכַּ֥ח וְאַל־תֵּ֝֗ט מֵאִמְרֵי־פִֽי׃",
+    "original": "<span data-strong=\"H7069\">קְנֵ֣ה</span> <span data-strong=\"H2451\">חׇ֭כְמָה</span> <span data-strong=\"H7069\">קְנֵ֣ה</span> <span data-strong=\"H998\">בִינָ֑ה</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H7911\">תִּשְׁכַּ֥ח</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H5186\">תֵּ֝֗ט</span> <span data-strong=\"H561\">מֵאִמְרֵי</span>־<span data-strong=\"H2967\">פִֽי׃</span>",
     "transliteration": "keneh hokhemah keneh viynah 'al-tishekhah ve'al-tet me'imerey-fiy.",
     "translation": "Adquire a sabedoria, adquire o entendimento; não te esqueças nem te desvies das palavras da minha boca."
   },
   {
     "verse": 6,
-    "original": "אַל־תַּעַזְבֶ֥הָ וְתִשְׁמְרֶ֑ךָּ אֱהָבֶ֥הָ וְתִצְּרֶֽךָּ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H1886\">תַּעַזְבֶ֥הָ</span> <span data-strong=\"H3509\">וְתִשְׁמְרֶ֑ךָּ</span> <span data-strong=\"H1886\">אֱהָבֶ֥הָ</span> <span data-strong=\"H3509\">וְתִצְּרֶֽךָּ׃</span>",
     "transliteration": "'al-ta'azeveha vetishemerekha 'ehaveha vetitserekha.",
     "translation": "Não a abandones, e ela te guardará; ama-a, e ela te protegerá."
   },
   {
     "verse": 7,
-    "original": "רֵאשִׁ֣ית חׇ֭כְמָה קְנֵ֣ה חׇכְמָ֑ה וּבְכׇל־קִ֝נְיָנְךָ֗ קְנֵ֣ה בִינָֽה׃",
+    "original": "<span data-strong=\"H7225\">רֵאשִׁ֣ית</span> <span data-strong=\"H2451\">חׇ֭כְמָה</span> <span data-strong=\"H7069\">קְנֵ֣ה</span> <span data-strong=\"H2451\">חׇכְמָ֑ה</span> <span data-strong=\"H3605\">וּבְכׇל</span>־<span data-strong=\"H3509\">קִ֝נְיָנְךָ֗</span> <span data-strong=\"H7069\">קְנֵ֣ה</span> <span data-strong=\"H998\">בִינָֽה׃</span>",
     "transliteration": "re'shiyt hokhemah keneh hokhemah vvekhol-kineyanekha keneh viynah.",
     "translation": "O início da sabedoria é adquirir sabedoria, e com todo o teu possuir, adquire entendimento."
   },
   {
     "verse": 8,
-    "original": "סַלְסְלֶ֥הָ וּֽתְרוֹמְמֶ֑ךָּ תְּ֝כַבֵּ֗דְךָ כִּ֣י תְחַבְּקֶֽנָּה׃",
+    "original": "<span data-strong=\"H1886\">סַלְסְלֶ֥הָ</span> <span data-strong=\"H3509\">וּֽתְרוֹמְמֶ֑ךָּ</span> <span data-strong=\"H3509\">תְּ֝כַבֵּ֗דְךָ</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5089\">תְחַבְּקֶֽנָּה׃</span>",
     "transliteration": "saleseleha vtervomemekha tekhavedekha khiy tehavekenah.",
     "translation": "Esseja-a e serás exaltado; engrandecer-se-á quando a abraçares."
   },
   {
     "verse": 9,
-    "original": "תִּתֵּ֣ן לְ֭רֹאשְׁךָ לִוְיַת־חֵ֑ן עֲטֶ֖רֶת תִּפְאֶ֣רֶת תְּמַגְּנֶֽךָּ׃",
+    "original": "<span data-strong=\"H5414\">תִּתֵּ֣ן</span> <span data-strong=\"H3509\">לְ֭רֹאשְׁךָ</span> <span data-strong=\"H3880\">לִוְיַת</span>־<span data-strong=\"H2580\">חֵ֑ן</span> <span data-strong=\"H5850\">עֲטֶ֖רֶת</span> <span data-strong=\"H8597\">תִּפְאֶ֣רֶת</span> <span data-strong=\"H3509\">תְּמַגְּנֶֽךָּ׃</span>",
     "transliteration": "titen lero'shekha liveyat-hen 'ateret tife'eret temagenekha.",
     "translation": "Dará à tua cabeça uma coroa de graça, um diadema de esplendor te envolverá."
   },
   {
     "verse": 10,
-    "original": "שְׁמַ֣ע בְּ֭נִי וְקַ֣ח אֲמָרָ֑י וְיִרְבּ֥וּ לְ֝ךָ֗ שְׁנ֣וֹת חַיִּֽים׃",
+    "original": "<span data-strong=\"H8085\">שְׁמַ֣ע</span> <span data-strong=\"H2967\">בְּ֭נִי</span> <span data-strong=\"H3947\">וְקַ֣ח</span> <span data-strong=\"H2967\">אֲמָרָ֑י</span> <span data-strong=\"H7235\">וְיִרְבּ֥וּ</span> <span data-strong=\"H3509\">לְ֝ךָ֗</span> <span data-strong=\"H8141\">שְׁנ֣וֹת</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "shema' veniy vekah 'amaray veyirevv lekha shenvot hayiym.",
     "translation": "Ouve, filho, e toma as minhas palavras; e anos de vida te serão multiplicados."
   },
   {
     "verse": 11,
-    "original": "בְּדֶ֣רֶךְ חׇ֭כְמָה הֹרֵיתִ֑יךָ הִ֝דְרַכְתִּ֗יךָ בְּמַעְגְּלֵי־יֹֽשֶׁר׃",
+    "original": "<span data-strong=\"H1870\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H2451\">חׇ֭כְמָה</span> <span data-strong=\"H3509\">הֹרֵיתִ֑יךָ</span> <span data-strong=\"H3509\">הִ֝דְרַכְתִּ֗יךָ</span> <span data-strong=\"H4570\">בְּמַעְגְּלֵי</span>־<span data-strong=\"H3476\">יֹֽשֶׁר׃</span>",
     "transliteration": "vederekhe hokhemah horeytiykha hiderakhetiykha vema'egeley-yosher.",
     "translation": "Pela senda da sabedoria te orientei; te dirigi nos caminhos da justiça."
   },
   {
     "verse": 12,
-    "original": "בְּֽ֭לֶכְתְּךָ לֹא־יֵצַ֣ר צַעֲדֶ֑ךָ וְאִם־תָּ֝ר֗וּץ לֹ֣א תִכָּשֵֽׁל׃",
+    "original": "<span data-strong=\"H3509\">בְּֽ֭לֶכְתְּךָ</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H6887\">יֵצַ֣ר</span> <span data-strong=\"H3509\">צַעֲדֶ֑ךָ</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H7323\">תָּ֝ר֗וּץ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H3782\">תִכָּשֵֽׁל׃</span>",
     "transliteration": "velekhetekha lo'-yetsar tsa'adekha ve'im-tarvts lo' tikhashel.",
     "translation": "Quando andas, não se inclina o teu passo; e ainda que corras, não tropeçarás."
   },
   {
     "verse": 13,
-    "original": "הַחֲזֵ֣ק בַּמּוּסָ֣ר אַל־תֶּ֑רֶף נִ֝צְּרֶ֗הָ כִּי־הִ֥יא חַיֶּֽיךָ׃",
+    "original": "<span data-strong=\"H2388\">הַחֲזֵ֣ק</span> <span data-strong=\"H4148\">בַּמּוּסָ֣ר</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H7503\">תֶּ֑רֶף</span> <span data-strong=\"H1886\">נִ֝צְּרֶ֗הָ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1931\">הִ֥יא</span> <span data-strong=\"H3509\">חַיֶּֽיךָ׃</span>",
     "transliteration": "hahazek vamvsar 'al-teref nitsereha khiy-hiy' hayeykha.",
     "translation": "Fortalece-te na instrução, não a deixes; guarda-a, pois ela é a tua vida."
   },
   {
     "verse": 14,
-    "original": "בְּאֹ֣רַח רְ֭שָׁעִים אַל־תָּבֹ֑א וְאַל־תְּ֝אַשֵּׁ֗ר בְּדֶ֣רֶךְ רָעִֽים׃",
+    "original": "<span data-strong=\"H734\">בְּאֹ֣רַח</span> <span data-strong=\"H7563\">רְ֭שָׁעִים</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H935\">תָּבֹ֑א</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H833\">תְּ֝אַשֵּׁ֗ר</span> <span data-strong=\"H1870\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H7451\">רָעִֽים׃</span>",
     "transliteration": "ve'orah resha'iym 'al-tavo' ve'al-te'asher vederekhe ra'iym.",
     "translation": "Não entre no caminho dos perversos e não ande pela senda dos maus."
   },
   {
     "verse": 15,
-    "original": "פְּרָעֵ֥הוּ אַל־תַּעֲבׇר־בּ֑וֹ שְׂטֵ֖ה מֵעָלָ֣יו וַעֲבֹֽר׃",
+    "original": "<span data-strong=\"H1930\">פְּרָעֵ֥הוּ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5674\">תַּעֲבׇר</span>־<span data-strong=\"H2050\">בּ֑וֹ</span> <span data-strong=\"H7847\">שְׂטֵ֖ה</span> <span data-strong=\"H2050\">מֵעָלָ֣יו</span> <span data-strong=\"H5674\">וַעֲבֹֽר׃</span>",
     "transliteration": "fera'ehv 'al-ta'avor-vvo seteh me'alayv va'avor.",
     "translation": "Não tranças a sua cabeça; não passes por cima dele; retira-o e passa."
   },
@@ -97,13 +97,13 @@
   },
   {
     "verse": 17,
-    "original": "כִּ֣י לָ֭חֲמוּ לֶ֣חֶם רֶ֑שַׁע וְיֵ֖ין חֲמָסִ֣ים יִשְׁתּֽוּ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3898\">לָ֭חֲמוּ</span> <span data-strong=\"H3899\">לֶ֣חֶם</span> <span data-strong=\"H7562\">רֶ֑שַׁע</span> <span data-strong=\"H3196\">וְיֵ֖ין</span> <span data-strong=\"H2555\">חֲמָסִ֣ים</span> <span data-strong=\"H8354\">יִשְׁתּֽוּ׃</span>",
     "transliteration": "khiy lahamv lehem resha' veyeyn hamasiym yishetv.",
     "translation": "Pois comerão o pão da maldade e beberão o vinho da violência."
   },
   {
     "verse": 18,
-    "original": "וְאֹ֣רַח צַ֭דִּיקִים כְּא֣וֹר נֹ֑גַהּ הוֹלֵ֥ךְ וָ֝א֗וֹר עַד־נְכ֥וֹן הַיּֽוֹם׃",
+    "original": "<span data-strong=\"H734\">וְאֹ֣רַח</span> <span data-strong=\"H6662\">צַ֭דִּיקִים</span> <span data-strong=\"H215\">כְּא֣וֹר</span> <span data-strong=\"H5051\">נֹ֑גַהּ</span> <span data-strong=\"H1980\">הוֹלֵ֥ךְ</span> <span data-strong=\"H215\">וָ֝א֗וֹר</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3559\">נְכ֥וֹן</span> <span data-strong=\"H3117\">הַיּֽוֹם׃</span>",
     "transliteration": "ve'orah tsadiykiym khe'vor nogah hvolekhe va'vor 'ad-nekhvon hayvom.",
     "translation": "E o caminho dos retos é como a luz resplandecente, que brilha cada vez mais até atingir o dia perfeito."
   },
@@ -115,43 +115,43 @@
   },
   {
     "verse": 20,
-    "original": "בְּ֭נִי לִדְבָרַ֣י הַקְשִׁ֑יבָה לַ֝אֲמָרַ֗י הַט־אׇזְנֶֽךָ׃",
+    "original": "<span data-strong=\"H2967\">בְּ֭נִי</span> <span data-strong=\"H2967\">לִדְבָרַ֣י</span> <span data-strong=\"H1886\">הַקְשִׁ֑יבָה</span> <span data-strong=\"H2967\">לַ֝אֲמָרַ֗י</span> <span data-strong=\"H5186\">הַט</span>־<span data-strong=\"H3509\">אׇזְנֶֽךָ׃</span>",
     "transliteration": "veniy lidevaray hakeshiyvah la'amaray hat-'ozenekha.",
     "translation": "Filho, inclina os teus ouvidos para os meus ensinamentos e presta atenção aos meus discursos."
   },
   {
     "verse": 21,
-    "original": "אַל־יַלִּ֥יזוּ מֵעֵינֶ֑יךָ שׇׁ֝מְרֵ֗ם בְּת֣וֹךְ לְבָבֶֽךָ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3868\">יַלִּ֥יזוּ</span> <span data-strong=\"H3509\">מֵעֵינֶ֑יךָ</span> <span data-strong=\"H3963\">שׇׁ֝מְרֵ֗ם</span> <span data-strong=\"H8432\">בְּת֣וֹךְ</span> <span data-strong=\"H3509\">לְבָבֶֽךָ׃</span>",
     "transliteration": "'al-yaliyzv me'eyneykha shomerem vetvokhe levavekha.",
     "translation": "Não as faças desaparecer de teus olhos; conserva-as no âmago do teu coração."
   },
   {
     "verse": 22,
-    "original": "כִּֽי־חַיִּ֣ים הֵ֭ם לְמֹצְאֵיהֶ֑ם וּֽלְכׇל־בְּשָׂר֥וֹ מַרְפֵּֽא׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2416\">חַיִּ֣ים</span> <span data-strong=\"H1992\">הֵ֭ם</span> <span data-strong=\"H3963\">לְמֹצְאֵיהֶ֑ם</span> <span data-strong=\"H3605\">וּֽלְכׇל</span>־<span data-strong=\"H2050\">בְּשָׂר֥וֹ</span> <span data-strong=\"H4832\">מַרְפֵּֽא׃</span>",
     "transliteration": "khiy-hayiym hem lemotse'eyhem vlekhol-vesarvo marefe'.",
     "translation": "Pois eles são vida para os que os acham, e para toda a sua carne são cura."
   },
   {
     "verse": 23,
-    "original": "מִֽכׇּל־מִ֭שְׁמָר נְצֹ֣ר לִבֶּ֑ךָ כִּֽי־מִ֝מֶּ֗נּוּ תּוֹצְא֥וֹת חַיִּֽים׃",
+    "original": "<span data-strong=\"H3605\">מִֽכׇּל</span>־<span data-strong=\"H4929\">מִ֭שְׁמָר</span> <span data-strong=\"H5341\">נְצֹ֣ר</span> <span data-strong=\"H3509\">לִבֶּ֑ךָ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5105\">מִ֝מֶּ֗נּוּ</span> <span data-strong=\"H8444\">תּוֹצְא֥וֹת</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "mikhol-mishemar netsor livekha khiy-mimenv tvotse'vot hayiym.",
     "translation": "De todo cuidado, guarda teu coração, pois dele procedem as fontes da vida."
   },
   {
     "verse": 24,
-    "original": "הָסֵ֣ר מִ֭מְּךָ עִקְּשׁ֣וּת פֶּ֑ה וּלְז֥וּת שְׂ֝פָתַ֗יִם הַרְחֵ֥ק מִמֶּֽךָּ׃",
+    "original": "<span data-strong=\"H5493\">הָסֵ֣ר</span> <span data-strong=\"H3509\">מִ֭מְּךָ</span> <span data-strong=\"H6143\">עִקְּשׁ֣וּת</span> <span data-strong=\"H6310\">פֶּ֑ה</span> <span data-strong=\"H3891\">וּלְז֥וּת</span> <span data-strong=\"H8193\">שְׂ֝פָתַ֗יִם</span> <span data-strong=\"H7368\">הַרְחֵ֥ק</span> <span data-strong=\"H3509\">מִמֶּֽךָּ׃</span>",
     "transliteration": "haser mimekha 'ikeshvt feh vlezvt sefatayim harehek mimekha.",
     "translation": "Afaste de si a torpeza da boca e afaste-se das perversidades dos lábios."
   },
   {
     "verse": 25,
-    "original": "עֵ֭ינֶיךָ לְנֹ֣כַח יַבִּ֑יטוּ וְ֝עַפְעַפֶּ֗יךָ יַיְשִׁ֥רוּ נֶגְדֶּֽךָ׃",
+    "original": "<span data-strong=\"H3509\">עֵ֭ינֶיךָ</span> <span data-strong=\"H5227\">לְנֹ֣כַח</span> <span data-strong=\"H5027\">יַבִּ֑יטוּ</span> <span data-strong=\"H3509\">וְ֝עַפְעַפֶּ֗יךָ</span> <span data-strong=\"H3474\">יַיְשִׁ֥רוּ</span> <span data-strong=\"H3509\">נֶגְדֶּֽךָ׃</span>",
     "transliteration": "'eyneykha lenokhah yaviytv ve'afe'afeykha yayeshirv negedekha.",
     "translation": "Teus olhos discernirão à frente, e teus pés serão firmes diante de ti."
   },
   {
     "verse": 26,
-    "original": "פַּ֭לֵּס מַעְגַּ֣ל רַגְלֶ֑ךָ וְֽכׇל־דְּרָכֶ֥יךָ יִכֹּֽנוּ׃",
+    "original": "<span data-strong=\"H6424\">פַּ֭לֵּס</span> <span data-strong=\"H4570\">מַעְגַּ֣ל</span> <span data-strong=\"H3509\">רַגְלֶ֑ךָ</span> <span data-strong=\"H3605\">וְֽכׇל</span>־<span data-strong=\"H3509\">דְּרָכֶ֥יךָ</span> <span data-strong=\"H3559\">יִכֹּֽנוּ׃</span>",
     "transliteration": "fales ma'egal ragelekha vekhol-derakheykha yikhonv.",
     "translation": "Faz firme o círculo do teu pé, e todo o teu caminho se estabelecerá."
   },

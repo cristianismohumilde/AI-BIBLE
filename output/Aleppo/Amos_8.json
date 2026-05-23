@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "כֹּ֥ה הִרְאַ֖נִי אֲדֹנָ֣י יֱהֹוִ֑ה וְהִנֵּ֖ה כְּל֥וּב קָֽיִץ׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֥ה</span> <span data-strong=\"H5204\">הִרְאַ֖נִי</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֑ה</span> <span data-strong=\"H2009\">וְהִנֵּ֖ה</span> <span data-strong=\"H3619\">כְּל֥וּב</span> <span data-strong=\"H7019\">קָֽיִץ׃</span>",
     "transliteration": "khoh hire'aniy 'adonay yehovih vehineh khelvv kayits.",
     "translation": "Assim me fez ver o Senhor Deus, eis que uma cesta de figos maduros."
   },
   {
     "verse": 2,
-    "original": "וַיֹּ֗אמֶר מָֽה־אַתָּ֤ה רֹאֶה֙ עָמ֔וֹס וָאֹמַ֖ר כְּל֣וּב קָ֑יִץ וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י בָּ֤א הַקֵּץ֙ אֶל־עַמִּ֣י יִשְׂרָאֵ֔ל לֹא־אוֹסִ֥יף ע֖וֹד עֲב֥וֹר לֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H4100\">מָֽה</span>־<span data-strong=\"H859\">אַתָּ֤ה</span> <span data-strong=\"H7200\">רֹאֶה֙</span> <span data-strong=\"H5986\">עָמ֔וֹס</span> <span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H3619\">כְּל֣וּב</span> <span data-strong=\"H7019\">קָ֑יִץ</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H935\">בָּ֤א</span> <span data-strong=\"H7093\">הַקֵּץ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2967\">עַמִּ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3254\">אוֹסִ֥יף</span> <span data-strong=\"H5750\">ע֖וֹד</span> <span data-strong=\"H5674\">עֲב֥וֹר</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vayo'mer mah-'atah ro'eh 'amvos va'omar khelvv kayits vayo'mer yehovah 'elay va' hakets 'el-'amiy yisera'el lo'-'vosiyf 'vod 'avvor lvo.",
     "translation": "E disse: \"O que você vê, Amós?\" E respondi: \"Vejo um cesto de figos maduros.\" Então o Senhor me disse: \"Chegou ao fim a paciência com o meu povo Israel; não suportarei mais os seus atos.\""
   },
@@ -25,19 +25,19 @@
   },
   {
     "verse": 5,
-    "original": "לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֙דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה־בָּ֑ר לְהַקְטִ֤ין אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה׃",
+    "original": "<span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H4970\">מָתַ֞י</span> <span data-strong=\"H5674\">יַעֲבֹ֤ר</span> <span data-strong=\"H2320\">הַחֹ֙דֶשׁ֙</span> <span data-strong=\"H7666\">וְנַשְׁבִּ֣ירָה</span> <span data-strong=\"H7668\">שֶּׁ֔בֶר</span> <span data-strong=\"H7676\">וְהַשַּׁבָּ֖ת</span> <span data-strong=\"H6605\">וְנִפְתְּחָה</span>־<span data-strong=\"H1250\">בָּ֑ר</span> <span data-strong=\"H6994\">לְהַקְטִ֤ין</span> <span data-strong=\"H374\">אֵיפָה֙</span> <span data-strong=\"H1431\">וּלְהַגְדִּ֣יל</span> <span data-strong=\"H8255\">שֶׁ֔קֶל</span> <span data-strong=\"H5791\">וּלְעַוֵּ֖ת</span> <span data-strong=\"H3976\">מֹאזְנֵ֥י</span> <span data-strong=\"H4820\">מִרְמָֽה׃</span>",
     "transliteration": "le'mor matay ya'avor hahodesh venasheviyrah shever vehashavat venifetehah-var lehaketiyn 'eyfah vlehagediyl shekel vle'avet mo'zeney miremah.",
     "translation": "Dizendo: Quando passará o mês para que possamos vender trigo? E interromperemos o sábado e abriremos os celeiros, diminuiremos a efa e aumentaremos o shekel e falsearemos as balanças da mentira."
   },
   {
     "verse": 6,
-    "original": "לִקְנ֤וֹת בַּכֶּ֙סֶף֙ דַּלִּ֔ים וְאֶבְי֖וֹן בַּעֲב֣וּר נַעֲלָ֑יִם וּמַפַּ֥ל בַּ֖ר נַשְׁבִּֽיר׃",
+    "original": "<span data-strong=\"H7069\">לִקְנ֤וֹת</span> <span data-strong=\"H3701\">בַּכֶּ֙סֶף֙</span> <span data-strong=\"H1800\">דַּלִּ֔ים</span> <span data-strong=\"H34\">וְאֶבְי֖וֹן</span> <span data-strong=\"H5668\">בַּעֲב֣וּר</span> <span data-strong=\"H5275\">נַעֲלָ֑יִם</span> <span data-strong=\"H4651\">וּמַפַּ֥ל</span> <span data-strong=\"H1250\">בַּ֖ר</span> <span data-strong=\"H7666\">נַשְׁבִּֽיר׃</span>",
     "transliteration": "likenvot vakhesef daliym ve'eveyvon va'avvr na'alayim vmafal var nasheviyr.",
     "translation": "Comprar os pobres por dinheiro e o indigente por um par de sandálias, e a farinha cair sobre ele."
   },
   {
     "verse": 7,
-    "original": "נִשְׁבַּ֥ע יְהֹוָ֖ה בִּגְא֣וֹן יַעֲקֹ֑ב אִם־אֶשְׁכַּ֥ח לָנֶ֖צַח כׇּל־מַעֲשֵׂיהֶֽם׃",
+    "original": "<span data-strong=\"H7650\">נִשְׁבַּ֥ע</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H1347\">בִּגְא֣וֹן</span> <span data-strong=\"H3290\">יַעֲקֹ֑ב</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H7911\">אֶשְׁכַּ֥ח</span> <span data-strong=\"H5331\">לָנֶ֖צַח</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">מַעֲשֵׂיהֶֽם׃</span>",
     "transliteration": "nisheva' yehovah vige'von ya'akov 'im-'eshekhah lanetsah khol-ma'aseyhem.",
     "translation": "Jurou o Senhor pelo orgulho de Jacó: se esquecerei dos seus atos eternamente!"
   },
@@ -49,7 +49,7 @@
   },
   {
     "verse": 9,
-    "original": "וְהָיָ֣ה&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהֵבֵאתִ֥י הַשֶּׁ֖מֶשׁ בַּֽצׇּהֳרָ֑יִם וְהַחֲשַׁכְתִּ֥י לָאָ֖רֶץ בְּי֥וֹם אֽוֹר׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֗וּא</span> <span data-strong=\"H5002\">נְאֻם֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H935\">וְהֵבֵאתִ֥י</span> <span data-strong=\"H8121\">הַשֶּׁ֖מֶשׁ</span> <span data-strong=\"H6672\">בַּֽצׇּהֳרָ֑יִם</span> <span data-strong=\"H2821\">וְהַחֲשַׁכְתִּ֥י</span> <span data-strong=\"H776\">לָאָ֖רֶץ</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H216\">אֽוֹר׃</span>",
     "transliteration": "vehayah&thinsp;<b>|</b> vayvom hahv' ne'um 'adonay yehovih veheve'tiy hashemesh vatsohorayim vehahashakhetiy la'arets veyvom 'vor.",
     "translation": "E acontecerá naquele dia, palavra do Senhor YHWH: trarei o sol ao meio-dia e obscurecerei a terra em pleno dia."
   },
@@ -61,19 +61,19 @@
   },
   {
     "verse": 11,
-    "original": "הִנֵּ֣ה&thinsp;<b>׀</b> יָמִ֣ים בָּאִ֗ים נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהִשְׁלַחְתִּ֥י רָעָ֖ב בָּאָ֑רֶץ לֹא־רָעָ֤ב לַלֶּ֙חֶם֙ וְלֹא־צָמָ֣א לַמַּ֔יִם כִּ֣י אִם־לִשְׁמֹ֔עַ אֵ֖ת דִּבְרֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H2009\">הִנֵּ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">יָמִ֣ים</span> <span data-strong=\"H935\">בָּאִ֗ים</span> <span data-strong=\"H5002\">נְאֻם֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H7971\">וְהִשְׁלַחְתִּ֥י</span> <span data-strong=\"H7458\">רָעָ֖ב</span> <span data-strong=\"H776\">בָּאָ֑רֶץ</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7458\">רָעָ֤ב</span> <span data-strong=\"H3899\">לַלֶּ֙חֶם֙</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H6772\">צָמָ֣א</span> <span data-strong=\"H4325\">לַמַּ֔יִם</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H8085\">לִשְׁמֹ֔עַ</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "hineh&thinsp;<b>|</b> yamiym va'iym ne'um 'adonay yehovih vehishelahetiy ra'av va'arets lo'-ra'av lalehem velo'-tsama' lamayim khiy 'im-lishemo'a 'et diverey yehovah.",
     "translation": "Eis que vêm dias, diz o Senhor Deus, e enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir as palavras do Senhor."
   },
   {
     "verse": 12,
-    "original": "וְנָעוּ֙ מִיָּ֣ם עַד־יָ֔ם וּמִצָּפ֖וֹן וְעַד־מִזְרָ֑ח יְשׁ֥וֹטְט֛וּ לְבַקֵּ֥שׁ אֶת־דְּבַר־יְהֹוָ֖ה וְלֹ֥א יִמְצָֽאוּ׃",
+    "original": "<span data-strong=\"H5128\">וְנָעוּ֙</span> <span data-strong=\"H3220\">מִיָּ֣ם</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3220\">יָ֔ם</span> <span data-strong=\"H6828\">וּמִצָּפ֖וֹן</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H4217\">מִזְרָ֑ח</span> <span data-strong=\"H7751\">יְשׁ֥וֹטְט֛וּ</span> <span data-strong=\"H1245\">לְבַקֵּ֥שׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H4672\">יִמְצָֽאוּ׃</span>",
     "transliteration": "vena'v miyam 'ad-yam vmitsafvon ve'ad-mizerah yeshvotetv levakesh 'et-devar-yehovah velo' yimetsa'v.",
     "translation": "E andarão do mar ao mar, e do norte até o oriente, procurando a palavra do Senhor, e não a encontrarão."
   },
   {
     "verse": 13,
-    "original": "בַּיּ֨וֹם הַה֜וּא תִּ֠תְעַלַּ֠פְנָה הַבְּתוּלֹ֧ת הַיָּפ֛וֹת וְהַבַּחוּרִ֖ים בַּצָּמָֽא׃",
+    "original": "<span data-strong=\"H3117\">בַּיּ֨וֹם</span> <span data-strong=\"H1931\">הַה֜וּא</span> <span data-strong=\"H5968\">תִּ֠תְעַלַּ֠פְנָה</span> <span data-strong=\"H1330\">הַבְּתוּלֹ֧ת</span> <span data-strong=\"H3303\">הַיָּפ֛וֹת</span> <span data-strong=\"H970\">וְהַבַּחוּרִ֖ים</span> <span data-strong=\"H6772\">בַּצָּמָֽא׃</span>",
     "transliteration": "vayvom hahv' tite'alafenah havetvlot hayafvot vehavahvriym vatsama'.",
     "translation": "Naquele dia, as jovens donzelas e os moços se desfalecerão de sede."
   },

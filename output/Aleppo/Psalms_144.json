@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "לְדָוִ֨ד&thinsp;<b>׀</b> בָּ֘ר֤וּךְ יְהֹוָ֨ה&thinsp;<b>׀</b> צוּרִ֗י הַֽמְלַמֵּ֣ד יָדַ֣י לַקְרָ֑ב אֶ֝צְבְּעוֹתַ֗י לַמִּלְחָמָֽה׃",
+    "original": "<span data-strong=\"H1732\">לְדָוִ֨ד&thinsp;<b>׀</b></span> <span data-strong=\"H1288\">בָּ֘ר֤וּךְ</span> <span data-strong=\"H3068\">יְהֹוָ֨ה&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">צוּרִ֗י</span> <span data-strong=\"H3925\">הַֽמְלַמֵּ֣ד</span> <span data-strong=\"H2967\">יָדַ֣י</span> <span data-strong=\"H7128\">לַקְרָ֑ב</span> <span data-strong=\"H2967\">אֶ֝צְבְּעוֹתַ֗י</span> <span data-strong=\"H4421\">לַמִּלְחָמָֽה׃</span>",
     "transliteration": "ledavid&thinsp;<b>|</b> varvkhe yehovah&thinsp;<b>|</b> tsvriy hamelamed yaday lakerav 'etseve'votay lamilehamah.",
     "translation": "Para Davi: Bendito seja o Senhor, rochedo meu, que ensina minhas mãos para a luta e meus dedos para a guerra."
   },
@@ -13,61 +13,61 @@
   },
   {
     "verse": 3,
-    "original": "יְֽהֹוָ֗ה מָֽה־אָ֭דָם וַתֵּדָעֵ֑הוּ בֶּן־אֱ֝נ֗וֹשׁ וַֽתְּחַשְּׁבֵֽהוּ׃",
+    "original": "<span data-strong=\"H3068\">יְֽהֹוָ֗ה</span> <span data-strong=\"H4100\">מָֽה</span>־<span data-strong=\"H120\">אָ֭דָם</span> <span data-strong=\"H1930\">וַתֵּדָעֵ֑הוּ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H582\">אֱ֝נ֗וֹשׁ</span> <span data-strong=\"H1930\">וַֽתְּחַשְּׁבֵֽהוּ׃</span>",
     "transliteration": "yehovah mah-'adam vateda'ehv ven-'envosh vatehashevehv.",
     "translation": "Senhor, que é o homem para que vós o conheçais? Filho do homem, que sejas objeto de vossa atenção?"
   },
   {
     "verse": 4,
-    "original": "אָ֭דָם לַהֶ֣בֶל דָּמָ֑ה יָ֝מָ֗יו כְּצֵ֣ל עוֹבֵֽר׃",
+    "original": "<span data-strong=\"H120\">אָ֭דָם</span> <span data-strong=\"H1892\">לַהֶ֣בֶל</span> <span data-strong=\"H1819\">דָּמָ֑ה</span> <span data-strong=\"H2050\">יָ֝מָ֗יו</span> <span data-strong=\"H6738\">כְּצֵ֣ל</span> <span data-strong=\"H5674\">עוֹבֵֽר׃</span>",
     "transliteration": "'adam lahevel damah yamayv khetsel 'vover.",
     "translation": "O homem se compara ao vapor; seus dias são como sombra que passa."
   },
   {
     "verse": 5,
-    "original": "יְ֭הֹוָה הַט־שָׁמֶ֣יךָ וְתֵרֵ֑ד גַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃",
+    "original": "<span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H5186\">הַט</span>־<span data-strong=\"H3509\">שָׁמֶ֣יךָ</span> <span data-strong=\"H3381\">וְתֵרֵ֑ד</span> <span data-strong=\"H5060\">גַּ֖ע</span> <span data-strong=\"H2022\">בֶּהָרִ֣ים</span> <span data-strong=\"H6225\">וְֽיֶעֱשָֽׁנוּ׃</span>",
     "transliteration": "yehovah hat-shameykha vetered ga' vehariym veye'eshanv.",
     "translation": "Senhor, inclina os teus céus e desce; toca os montes, e eles exhalarão."
   },
   {
     "verse": 6,
-    "original": "בְּר֣וֹק בָּ֭רָק וּתְפִיצֵ֑ם שְׁלַ֥ח חִ֝צֶּ֗יךָ וּתְהֻמֵּֽם׃",
+    "original": "<span data-strong=\"H1299\">בְּר֣וֹק</span> <span data-strong=\"H1300\">בָּ֭רָק</span> <span data-strong=\"H3963\">וּתְפִיצֵ֑ם</span> <span data-strong=\"H7971\">שְׁלַ֥ח</span> <span data-strong=\"H3509\">חִ֝צֶּ֗יךָ</span> <span data-strong=\"H3963\">וּתְהֻמֵּֽם׃</span>",
     "transliteration": "vervok varak vtefiytsem shelah hitseykha vtehumem.",
     "translation": "Rompe, Baraque, e dispersa-os; lança as tuas setas, e consumi-los."
   },
   {
     "verse": 7,
-    "original": "שְׁלַ֥ח יָדֶ֗יךָ מִ֫מָּר֥וֹם פְּצֵ֣נִי וְ֭הַצִּילֵנִי מִמַּ֣יִם רַבִּ֑ים מִ֝יַּ֗ד בְּנֵ֣י נֵכָֽר׃",
+    "original": "<span data-strong=\"H7971\">שְׁלַ֥ח</span> <span data-strong=\"H3509\">יָדֶ֗יךָ</span> <span data-strong=\"H4791\">מִ֫מָּר֥וֹם</span> <span data-strong=\"H5204\">פְּצֵ֣נִי</span> <span data-strong=\"H5204\">וְ֭הַצִּילֵנִי</span> <span data-strong=\"H4325\">מִמַּ֣יִם</span> <span data-strong=\"H7227\">רַבִּ֑ים</span> <span data-strong=\"H3027\">מִ֝יַּ֗ד</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5236\">נֵכָֽר׃</span>",
     "transliteration": "shelah yadeykha mimarvom fetseniy vehatsiyleniy mimayim raviym miyad veney nekhar.",
     "translation": "Estende tuas mãos do teu alto lugar e livra-me, salva-me das águas profundas, da mão dos filhos de estranhos."
   },
   {
     "verse": 8,
-    "original": "אֲשֶׁ֣ר פִּ֭יהֶם דִּבֶּר־שָׁ֑וְא וִ֝ימִינָ֗ם יְמִ֣ין שָֽׁקֶר׃",
+    "original": "<span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3963\">פִּ֭יהֶם</span> <span data-strong=\"H1696\">דִּבֶּר</span>־<span data-strong=\"H7723\">שָׁ֑וְא</span> <span data-strong=\"H3963\">וִ֝ימִינָ֗ם</span> <span data-strong=\"H3225\">יְמִ֣ין</span> <span data-strong=\"H8267\">שָֽׁקֶר׃</span>",
     "transliteration": "'asher fiyhem diver-shave' viymiynam yemiyn shaker.",
     "translation": "cuja boca fala mentiras e sua direita é mão de falsidade."
   },
   {
     "verse": 9,
-    "original": "אֱֽלֹהִ֗ים שִׁ֣יר חָ֭דָשׁ אָשִׁ֣ירָה לָּ֑ךְ בְּנֵ֥בֶל עָ֝שׂ֗וֹר אֲזַמְּרָה־לָּֽךְ׃",
+    "original": "<span data-strong=\"H430\">אֱֽלֹהִ֗ים</span> <span data-strong=\"H7892\">שִׁ֣יר</span> <span data-strong=\"H2319\">חָ֭דָשׁ</span> <span data-strong=\"H7891\">אָשִׁ֣ירָה</span> <span data-strong=\"H3509\">לָּ֑ךְ</span> <span data-strong=\"H5035\">בְּנֵ֥בֶל</span> <span data-strong=\"H6218\">עָ֝שׂ֗וֹר</span> <span data-strong=\"H2167\">אֲזַמְּרָה</span>־<span data-strong=\"H3509\">לָּֽךְ׃</span>",
     "transliteration": "'elohiym shiyr hadash 'ashiyrah lakhe venevel 'asvor 'azamerah-lakhe.",
     "translation": "Deus, cantarei um cântico novo a ti; com o alaúde de dez cordas te louvarei."
   },
   {
     "verse": 10,
-    "original": "הַנּוֹתֵ֥ן תְּשׁוּעָ֗ה לַמְּלָ֫כִ֥ים הַ֭פּוֹצֶה אֶת־דָּוִ֥ד עַבְדּ֗וֹ מֵחֶ֥רֶב רָעָֽה׃",
+    "original": "<span data-strong=\"H5414\">הַנּוֹתֵ֥ן</span> <span data-strong=\"H8668\">תְּשׁוּעָ֗ה</span> <span data-strong=\"H4428\">לַמְּלָ֫כִ֥ים</span> <span data-strong=\"H6475\">הַ֭פּוֹצֶה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1732\">דָּוִ֥ד</span> <span data-strong=\"H2050\">עַבְדּ֗וֹ</span> <span data-strong=\"H2719\">מֵחֶ֥רֶב</span> <span data-strong=\"H7451\">רָעָֽה׃</span>",
     "transliteration": "hanvoten teshv'ah lamelakhiym hafvotseh 'et-david 'avedvo meherev ra'ah.",
     "translation": "Que dá vitória aos reis, que livra Davi, seu servo, da espada maligna."
   },
   {
     "verse": 11,
-    "original": "פְּצֵ֥נִי וְהַצִּילֵנִי֮ מִיַּ֢ד בְּֽנֵי־נֵ֫כָ֥ר אֲשֶׁ֣ר פִּ֭יהֶם דִּבֶּר־שָׁ֑וְא וִ֝ימִינָ֗ם יְמִ֣ין שָֽׁקֶר׃",
+    "original": "<span data-strong=\"H5204\">פְּצֵ֥נִי</span> <span data-strong=\"H5204\">וְהַצִּילֵנִי֮</span> <span data-strong=\"H3027\">מִיַּ֢ד</span> <span data-strong=\"H1121\">בְּֽנֵי</span>־<span data-strong=\"H5236\">נֵ֫כָ֥ר</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3963\">פִּ֭יהֶם</span> <span data-strong=\"H1696\">דִּבֶּר</span>־<span data-strong=\"H7723\">שָׁ֑וְא</span> <span data-strong=\"H3963\">וִ֝ימִינָ֗ם</span> <span data-strong=\"H3225\">יְמִ֣ין</span> <span data-strong=\"H8267\">שָֽׁקֶר׃</span>",
     "transliteration": "fetseniy vehatsiyleniy miyad veney-nekhar 'asher fiyhem diver-shave' viymiynam yemiyn shaker.",
     "translation": "Abre-me e salva-me das mãos dos filhos de estranhos, cujos lábios falam mentira, e suas direitas são direita de engano."
   },
   {
     "verse": 12,
-    "original": "אֲשֶׁ֤ר בָּנֵ֨ינוּ&thinsp;<b>׀</b> כִּנְטִעִים֮ מְגֻדָּלִ֢ים בִּֽנְעוּרֵ֫יהֶ֥ם בְּנוֹתֵ֥ינוּ כְזָוִיֹּ֑ת מְ֝חֻטָּב֗וֹת תַּבְנִ֥ית הֵיכָֽל׃",
+    "original": "<span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5105\">בָּנֵ֨ינוּ&thinsp;<b>׀</b></span> <span data-strong=\"H5195\">כִּנְטִעִים֮</span> <span data-strong=\"H1431\">מְגֻדָּלִ֢ים</span> <span data-strong=\"H3963\">בִּֽנְעוּרֵ֫יהֶ֥ם</span> <span data-strong=\"H5105\">בְּנוֹתֵ֥ינוּ</span> <span data-strong=\"H2106\">כְזָוִיֹּ֑ת</span> <span data-strong=\"H2404\">מְ֝חֻטָּב֗וֹת</span> <span data-strong=\"H8403\">תַּבְנִ֥ית</span> <span data-strong=\"H1964\">הֵיכָֽל׃</span>",
     "transliteration": "'asher vaneynv&thinsp;<b>|</b> khineti'iym megudaliym vine'vreyhem venvoteynv khezaviyot mehutavvot taveniyt heykhal.",
     "translation": "Nossos filhos, como plantas crescidas, em sua mocidade; nossas filhas, como as torres, esculpidas à imagem do templo."
   },
@@ -79,7 +79,7 @@
   },
   {
     "verse": 14,
-    "original": "אַלּוּפֵ֗ינוּ מְֽסֻבָּ֫לִ֥ים אֵֽין־פֶּ֭רֶץ וְאֵ֣ין יוֹצֵ֑את וְאֵ֥ין צְ֝וָחָ֗ה בִּרְחֹבֹתֵֽינוּ׃",
+    "original": "<span data-strong=\"H5105\">אַלּוּפֵ֗ינוּ</span> <span data-strong=\"H5445\">מְֽסֻבָּ֫לִ֥ים</span> <span data-strong=\"H369\">אֵֽין</span>־<span data-strong=\"H6556\">פֶּ֭רֶץ</span> <span data-strong=\"H369\">וְאֵ֣ין</span> <span data-strong=\"H3318\">יוֹצֵ֑את</span> <span data-strong=\"H369\">וְאֵ֥ין</span> <span data-strong=\"H6682\">צְ֝וָחָ֗ה</span> <span data-strong=\"H5105\">בִּרְחֹבֹתֵֽינוּ׃</span>",
     "transliteration": "'alvfeynv mesuvaliym 'eyn-ferets ve'eyn yvotse't ve'eyn tsevahah virehovoteynv.",
     "translation": "Senhor nosso, não há quebranto nem saída, e não há clamor em nossas ruas."
   },

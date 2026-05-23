@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֗חַ מַשְׂכִּ֥יל לִבְנֵי־קֹֽרַח׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֗חַ</span> <span data-strong=\"H4905\">מַשְׂכִּ֥יל</span> <span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H7141\">קֹֽרַח׃</span>",
     "transliteration": "lamenatseha masekhiyl liveney-korah.",
     "translation": "Ao mestre de canto, um poema sábio dos filhos de Corá."
   },
   {
     "verse": 2,
-    "original": "כְּאַיָּ֗ל תַּעֲרֹ֥ג עַל־אֲפִֽיקֵי־מָ֑יִם כֵּ֤ן נַפְשִׁ֨י תַעֲרֹ֖ג אֵלֶ֣יךָ אֱלֹהִֽים׃",
+    "original": "<span data-strong=\"H354\">כְּאַיָּ֗ל</span> <span data-strong=\"H6165\">תַּעֲרֹ֥ג</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H650\">אֲפִֽיקֵי</span>־<span data-strong=\"H4325\">מָ֑יִם</span> <span data-strong=\"H3651\">כֵּ֤ן</span> <span data-strong=\"H2967\">נַפְשִׁ֨י</span> <span data-strong=\"H6165\">תַעֲרֹ֖ג</span> <span data-strong=\"H3509\">אֵלֶ֣יךָ</span> <span data-strong=\"H430\">אֱלֹהִֽים׃</span>",
     "transliteration": "khe'ayal ta'arog 'al-'afiykey-mayim khen nafeshiy ta'arog 'eleykha 'elohiym.",
     "translation": "Como o cervo suspira pelas correntes de água, assim suspira minha alma por ti, ó Deus."
   },
   {
     "verse": 3,
-    "original": "צָמְאָ֬ה נַפְשִׁ֨י&thinsp;<b>׀</b> לֵאלֹהִים֮ לְאֵ֢ל חָ֥֫י מָתַ֥י אָב֑וֹא וְ֝אֵרָאֶ֗ה פְּנֵ֣י אֱלֹהִֽים׃",
+    "original": "<span data-strong=\"H6770\">צָמְאָ֬ה</span> <span data-strong=\"H2967\">נַפְשִׁ֨י&thinsp;<b>׀</b></span> <span data-strong=\"H430\">לֵאלֹהִים֮</span> <span data-strong=\"H410\">לְאֵ֢ל</span> <span data-strong=\"H2416\">חָ֥֫י</span> <span data-strong=\"H4970\">מָתַ֥י</span> <span data-strong=\"H935\">אָב֑וֹא</span> <span data-strong=\"H7200\">וְ֝אֵרָאֶ֗ה</span> <span data-strong=\"H6440\">פְּנֵ֣י</span> <span data-strong=\"H430\">אֱלֹהִֽים׃</span>",
     "transliteration": "tsame'ah nafeshiy&thinsp;<b>|</b> le'lohiym le'el hay matay 'avvo' ve'era'eh feney 'elohiym.",
     "translation": "Sede tem minha alma por Deus, por Deus vivo; quando irei e me apresentarei perante a face de Deus?"
   },
   {
     "verse": 4,
-    "original": "הָֽיְתָה־לִּ֬י דִמְעָתִ֣י לֶ֭חֶם יוֹמָ֣ם וָלָ֑יְלָה בֶּאֱמֹ֥ר אֵלַ֥י כׇּל־הַ֝יּ֗וֹם אַיֵּ֥ה אֱלֹהֶֽיךָ׃",
+    "original": "<span data-strong=\"H1961\">הָֽיְתָה</span>־<span data-strong=\"H2967\">לִּ֬י</span> <span data-strong=\"H2967\">דִמְעָתִ֣י</span> <span data-strong=\"H3899\">לֶ֭חֶם</span> <span data-strong=\"H3119\">יוֹמָ֣ם</span> <span data-strong=\"H3915\">וָלָ֑יְלָה</span> <span data-strong=\"H559\">בֶּאֱמֹ֥ר</span> <span data-strong=\"H2967\">אֵלַ֥י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">הַ֝יּ֗וֹם</span> <span data-strong=\"H346\">אַיֵּ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶֽיךָ׃</span>",
     "transliteration": "hayetah-liy dime'atiy lehem yvomam valayelah ve'emor 'elay khol-hayvom 'ayeh 'eloheykha.",
     "translation": "Tornou-se-me a minha lágrima pão de dia e de noite, quando me dizem constantemente: Onde está o teu Deus?"
   },
@@ -31,37 +31,37 @@
   },
   {
     "verse": 6,
-    "original": "מַה־תִּשְׁתּ֬וֹחֲחִ֨י&thinsp;<b>׀</b> נַפְשִׁי֮ וַתֶּהֱמִ֢י עָ֫לָ֥י הוֹחִ֣לִי לֵ֭אלֹהִים כִּי־ע֥וֹד אוֹדֶ֗נּוּ יְשׁוּע֥וֹת פָּנָֽיו׃",
+    "original": "<span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H7817\">תִּשְׁתּ֬וֹחֲחִ֨י&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">נַפְשִׁי֮</span> <span data-strong=\"H1993\">וַתֶּהֱמִ֢י</span> <span data-strong=\"H2967\">עָ֫לָ֥י</span> <span data-strong=\"H3176\">הוֹחִ֣לִי</span> <span data-strong=\"H430\">לֵ֭אלֹהִים</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H5750\">ע֥וֹד</span> <span data-strong=\"H5105\">אוֹדֶ֗נּוּ</span> <span data-strong=\"H3444\">יְשׁוּע֥וֹת</span> <span data-strong=\"H2050\">פָּנָֽיו׃</span>",
     "transliteration": "mah-tishetvohahiy&thinsp;<b>|</b> nafeshiy vatehemiy 'alay hvohiliy le'lohiym khiy-'vod 'vodenv yeshv'vot fanayv.",
     "translation": "Por que te perturbas, ó minha alma, e gemes dentro de mim? Espera em Deus, pois ainda o louvarei; a salvação é a sua face."
   },
   {
     "verse": 7,
-    "original": "אֱֽלֹהַ֗י עָלַי֮ נַפְשִׁ֢י תִשְׁתּ֫וֹחָ֥ח עַל־כֵּ֗ן אֶ֭זְכׇּרְךָ מֵאֶ֣רֶץ יַרְדֵּ֑ן וְ֝חֶרְמוֹנִ֗ים מֵהַ֥ר מִצְעָֽר׃",
+    "original": "<span data-strong=\"H2967\">אֱֽלֹהַ֗י</span> <span data-strong=\"H2967\">עָלַי֮</span> <span data-strong=\"H2967\">נַפְשִׁ֢י</span> <span data-strong=\"H7817\">תִשְׁתּ֫וֹחָ֥ח</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֗ן</span> <span data-strong=\"H3509\">אֶ֭זְכׇּרְךָ</span> <span data-strong=\"H776\">מֵאֶ֣רֶץ</span> <span data-strong=\"H3383\">יַרְדֵּ֑ן</span> <span data-strong=\"H2769\">וְ֝חֶרְמוֹנִ֗ים</span> <span data-strong=\"H2022\">מֵהַ֥ר</span> <span data-strong=\"H4706\">מִצְעָֽר׃</span>",
     "transliteration": "'elohay 'alay nafeshiy tishetvohah 'al-khen 'ezekhorekha me'erets yareden veheremvoniym mehar mitse'ar.",
     "translation": "Ó meu Deus, sobre mim se incline a minha alma; por isso te recordarei da terra do Jordão e dos Hermonim, do monte Mizar."
   },
   {
     "verse": 8,
-    "original": "תְּהוֹם־אֶל־תְּה֣וֹם ק֭וֹרֵא לְק֣וֹל צִנּוֹרֶ֑יךָ כׇּֽל־מִשְׁבָּרֶ֥יךָ וְ֝גַלֶּ֗יךָ עָלַ֥י עָבָֽרוּ׃",
+    "original": "<span data-strong=\"H8415\">תְּהוֹם</span>־<span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8415\">תְּה֣וֹם</span> <span data-strong=\"H7121\">ק֭וֹרֵא</span> <span data-strong=\"H6963\">לְק֣וֹל</span> <span data-strong=\"H3509\">צִנּוֹרֶ֑יךָ</span> <span data-strong=\"H3605\">כׇּֽל</span>־<span data-strong=\"H3509\">מִשְׁבָּרֶ֥יךָ</span> <span data-strong=\"H3509\">וְ֝גַלֶּ֗יךָ</span> <span data-strong=\"H2967\">עָלַ֥י</span> <span data-strong=\"H5674\">עָבָֽרוּ׃</span>",
     "transliteration": "tehvom-'el-tehvom kvore' lekvol tsinvoreykha khol-mishevareykha vegaleykha 'alay 'avarv.",
     "translation": "Do abismo ao abismo clama a voz dos teus jorros; todos os teus quebrantos e ondas sobre mim passaram."
   },
   {
     "verse": 9,
-    "original": "יוֹמָ֤ם&thinsp;<b>׀</b> יְצַוֶּ֬ה יְהֹוָ֨ה&thinsp;<b>׀</b> חַסְדּ֗וֹ וּ֭בַלַּיְלָה שִׁירֹ֣ה עִמִּ֑י תְּ֝פִלָּ֗ה לְאֵ֣ל חַיָּֽי׃",
+    "original": "<span data-strong=\"H3119\">יוֹמָ֤ם&thinsp;<b>׀</b></span> <span data-strong=\"H6680\">יְצַוֶּ֬ה</span> <span data-strong=\"H3068\">יְהֹוָ֨ה&thinsp;<b>׀</b></span> <span data-strong=\"H2050\">חַסְדּ֗וֹ</span> <span data-strong=\"H3915\">וּ֭בַלַּיְלָה</span> שִׁירֹ֣ה <span data-strong=\"H2050\">עִמִּ֑י</span> <span data-strong=\"H2967\">תְּ֝פִלָּ֗ה</span> <span data-strong=\"H8605\">לְאֵ֣ל</span> <span data-strong=\"H410\">חַיָּֽי׃</span>",
     "transliteration": "yvomam&thinsp;<b>|</b> yetsaveh yehovah&thinsp;<b>|</b> hasedvo vvalayelah shiyroh 'imiy tefilah le'el hayay.",
     "translation": "De dia, o Senhor ordena sua misericórdia; e de noite, comigo há canto de louvor: oração a Deus vivo."
   },
   {
     "verse": 10,
-    "original": "אוֹמְרָ֤ה&thinsp;<b>׀</b> לְאֵ֥ל סַלְעִי֮ לָמָ֢ה שְׁכַ֫חְתָּ֥נִי לָֽמָּה־קֹדֵ֥ר אֵלֵ֗ךְ בְּלַ֣חַץ אוֹיֵֽב׃",
+    "original": "<span data-strong=\"H559\">אוֹמְרָ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H410\">לְאֵ֥ל</span> <span data-strong=\"H2967\">סַלְעִי֮</span> <span data-strong=\"H4100\">לָמָ֢ה</span> <span data-strong=\"H5204\">שְׁכַ֫חְתָּ֥נִי</span> <span data-strong=\"H4100\">לָֽמָּה</span>־<span data-strong=\"H6937\">קֹדֵ֥ר</span> <span data-strong=\"H1980\">אֵלֵ֗ךְ</span> <span data-strong=\"H3906\">בְּלַ֣חַץ</span> <span data-strong=\"H341\">אוֹיֵֽב׃</span>",
     "transliteration": "'vomerah&thinsp;<b>|</b> le'el sale'iy lamah shekhahetaniy lamah-koder 'elekhe velahats 'voyev.",
     "translation": "Digo a Deus, minha rocha: por que me esqueceste? Por que ando curvado pelo inimigo sob grande angústia?"
   },
   {
     "verse": 11,
-    "original": "בְּרֶ֤צַח&thinsp;<b>׀</b> בְּֽעַצְמוֹתַ֗י חֵרְפ֥וּנִי צוֹרְרָ֑י בְּאׇמְרָ֥ם אֵלַ֥י כׇּל־הַ֝יּ֗וֹם אַיֵּ֥ה אֱלֹהֶֽיךָ׃",
+    "original": "<span data-strong=\"H7524\">בְּרֶ֤צַח&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">בְּֽעַצְמוֹתַ֗י</span> <span data-strong=\"H5204\">חֵרְפ֥וּנִי</span> <span data-strong=\"H2967\">צוֹרְרָ֑י</span> <span data-strong=\"H3963\">בְּאׇמְרָ֥ם</span> <span data-strong=\"H2967\">אֵלַ֥י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">הַ֝יּ֗וֹם</span> <span data-strong=\"H346\">אַיֵּ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶֽיךָ׃</span>",
     "transliteration": "veretsah&thinsp;<b>|</b> ve'atsemvotay herefvniy tsvoreray ve'omeram 'elay khol-hayvom 'ayeh 'eloheykha.",
     "translation": "Com ferimentos em meus ossos, meus adversários me insultam, dizendo todos os dias: Onde está o teu Deus?"
   },

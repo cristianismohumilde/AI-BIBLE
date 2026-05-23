@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אִ֕ישׁ כִּ֥י יַפְלִ֖א נֶ֑דֶר בְּעֶרְכְּךָ֥ נְפָשֹׁ֖ת לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֞ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H559\">וְאָמַרְתָּ֣</span> <span data-strong=\"H3963\">אֲלֵהֶ֔ם</span> <span data-strong=\"H376\">אִ֕ישׁ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H6381\">יַפְלִ֖א</span> <span data-strong=\"H5088\">נֶ֑דֶר</span> <span data-strong=\"H3509\">בְּעֶרְכְּךָ֥</span> <span data-strong=\"H5315\">נְפָשֹׁ֖ת</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem 'iysh khiy yafeli' neder ve'erekhekha nefashot layhovah.",
     "translation": "Fala aos filhos de Israel e dize-lhes: Se alguém fizer um voto especial, avaliando almas para o Senhor."
   },
   {
     "verse": 3,
-    "original": "וְהָיָ֤ה עֶרְכְּךָ֙ הַזָּכָ֔ר מִבֶּן֙ עֶשְׂרִ֣ים שָׁנָ֔ה וְעַ֖ד בֶּן־שִׁשִּׁ֣ים שָׁנָ֑ה וְהָיָ֣ה עֶרְכְּךָ֗ חֲמִשִּׁ֛ים שֶׁ֥קֶל כֶּ֖סֶף בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֤ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֙</span> <span data-strong=\"H2145\">הַזָּכָ֔ר</span> <span data-strong=\"H1121\">מִבֶּן֙</span> <span data-strong=\"H6242\">עֶשְׂרִ֣ים</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H5704\">וְעַ֖ד</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8346\">שִׁשִּׁ֣ים</span> <span data-strong=\"H8141\">שָׁנָ֑ה</span> <span data-strong=\"H1961\">וְהָיָ֣ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֗</span> <span data-strong=\"H2572\">חֲמִשִּׁ֛ים</span> <span data-strong=\"H8255\">שֶׁ֥קֶל</span> <span data-strong=\"H3701\">כֶּ֖סֶף</span> <span data-strong=\"H8255\">בְּשֶׁ֥קֶל</span> <span data-strong=\"H6944\">הַקֹּֽדֶשׁ׃</span>",
     "transliteration": "vehayah 'erekhekha hazakhar miven 'eseriym shanah ve'ad ven-shishiym shanah vehayah 'erekhekha hamishiym shekel khesef veshekel hakodesh.",
     "translation": "E será o teu valor, do macho, de vinte anos até sessenta anos, e será o seu valor cinquenta siclos de prata pelo siclo do santuário."
   },
   {
     "verse": 4,
-    "original": "וְאִם־נְקֵבָ֖ה הִ֑וא וְהָיָ֥ה עֶרְכְּךָ֖ שְׁלֹשִׁ֥ים שָֽׁקֶל׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H5347\">נְקֵבָ֖ה</span> <span data-strong=\"H1931\">הִ֑וא</span> <span data-strong=\"H1961\">וְהָיָ֥ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֖</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֥ים</span> <span data-strong=\"H8255\">שָֽׁקֶל׃</span>",
     "transliteration": "ve'im-nekevah hiv' vehayah 'erekhekha sheloshiym shakel.",
     "translation": "E se for fêmea, então o teu preço será trinta siclos."
   },
   {
     "verse": 5,
-    "original": "וְאִ֨ם מִבֶּן־חָמֵ֜שׁ שָׁנִ֗ים וְעַד֙ בֶּן־עֶשְׂרִ֣ים שָׁנָ֔ה וְהָיָ֧ה עֶרְכְּךָ֛ הַזָּכָ֖ר עֶשְׂרִ֣ים שְׁקָלִ֑ים וְלַנְּקֵבָ֖ה עֲשֶׂ֥רֶת שְׁקָלִֽים׃",
+    "original": "<span data-strong=\"H518\">וְאִ֨ם</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2568\">חָמֵ֜שׁ</span> <span data-strong=\"H8141\">שָׁנִ֗ים</span> <span data-strong=\"H5704\">וְעַד֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6242\">עֶשְׂרִ֣ים</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H1961\">וְהָיָ֧ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֛</span> <span data-strong=\"H2145\">הַזָּכָ֖ר</span> <span data-strong=\"H6242\">עֶשְׂרִ֣ים</span> <span data-strong=\"H8255\">שְׁקָלִ֑ים</span> <span data-strong=\"H5347\">וְלַנְּקֵבָ֖ה</span> <span data-strong=\"H6235\">עֲשֶׂ֥רֶת</span> <span data-strong=\"H8255\">שְׁקָלִֽים׃</span>",
     "transliteration": "ve'im miven-hamesh shaniym ve'ad ven-'eseriym shanah vehayah 'erekhekha hazakhar 'eseriym shekaliym velanekevah 'aseret shekaliym.",
     "translation": "E se for de cinco anos até vinte anos, então o teu aval do macho será vinte siclos e da fêmea dez siclos."
   },
   {
     "verse": 6,
-    "original": "וְאִ֣ם מִבֶּן־חֹ֗דֶשׁ וְעַד֙ בֶּן־חָמֵ֣שׁ שָׁנִ֔ים וְהָיָ֤ה עֶרְכְּךָ֙ הַזָּכָ֔ר חֲמִשָּׁ֥ה שְׁקָלִ֖ים כָּ֑סֶף וְלַנְּקֵבָ֣ה עֶרְכְּךָ֔ שְׁלֹ֥שֶׁת שְׁקָלִ֖ים כָּֽסֶף׃",
+    "original": "<span data-strong=\"H518\">וְאִ֣ם</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H2320\">חֹ֗דֶשׁ</span> <span data-strong=\"H5704\">וְעַד֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2568\">חָמֵ֣שׁ</span> <span data-strong=\"H8141\">שָׁנִ֔ים</span> <span data-strong=\"H1961\">וְהָיָ֤ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֙</span> <span data-strong=\"H2145\">הַזָּכָ֔ר</span> <span data-strong=\"H2568\">חֲמִשָּׁ֥ה</span> <span data-strong=\"H8255\">שְׁקָלִ֖ים</span> <span data-strong=\"H3701\">כָּ֑סֶף</span> <span data-strong=\"H5347\">וְלַנְּקֵבָ֣ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֔</span> <span data-strong=\"H7969\">שְׁלֹ֥שֶׁת</span> <span data-strong=\"H8255\">שְׁקָלִ֖ים</span> <span data-strong=\"H3701\">כָּֽסֶף׃</span>",
     "transliteration": "ve'im miven-hodesh ve'ad ven-hamesh shaniym vehayah 'erekhekha hazakhar hamishah shekaliym khasef velanekevah 'erekhekha sheloshet shekaliym khasef.",
     "translation": "E se for de um mês até filho de cinco anos, o teu valor será: para o macho, cinco siclos de prata; e para a fêmea, três siclos de prata."
   },
   {
     "verse": 7,
-    "original": "וְ֠אִ֠ם מִבֶּן־שִׁשִּׁ֨ים שָׁנָ֤ה וָמַ֙עְלָה֙ אִם־זָכָ֔ר וְהָיָ֣ה עֶרְכְּךָ֔ חֲמִשָּׁ֥ה עָשָׂ֖ר שָׁ֑קֶל וְלַנְּקֵבָ֖ה עֲשָׂרָ֥ה שְׁקָלִֽים׃",
+    "original": "<span data-strong=\"H518\">וְ֠אִ֠ם</span> <span data-strong=\"H1121\">מִבֶּן</span>־<span data-strong=\"H8346\">שִׁשִּׁ֨ים</span> <span data-strong=\"H8141\">שָׁנָ֤ה</span> <span data-strong=\"H1886\">וָמַ֙עְלָה֙</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2145\">זָכָ֔ר</span> <span data-strong=\"H1961\">וְהָיָ֣ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֔</span> <span data-strong=\"H2568\">חֲמִשָּׁ֥ה</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H8255\">שָׁ֑קֶל</span> <span data-strong=\"H5347\">וְלַנְּקֵבָ֖ה</span> <span data-strong=\"H6235\">עֲשָׂרָ֥ה</span> <span data-strong=\"H8255\">שְׁקָלִֽים׃</span>",
     "transliteration": "ve'im miven-shishiym shanah vama'elah 'im-zakhar vehayah 'erekhekha hamishah 'asar shakel velanekevah 'asarah shekaliym.",
     "translation": "E se for de um filho de sessenta anos ou mais, e for masculino, então o seu valor será quinze siclos; e para a feminina, dez siclos."
   },
@@ -49,157 +49,157 @@
   },
   {
     "verse": 9,
-    "original": "וְאִ֨ם־בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֧יבוּ מִמֶּ֛נָּה קׇרְבָּ֖ן לַֽיהֹוָ֑ה כֹּל֩ אֲשֶׁ֨ר יִתֵּ֥ן מִמֶּ֛נּוּ לַיהֹוָ֖ה יִֽהְיֶה־קֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H518\">וְאִ֨ם</span>־<span data-strong=\"H929\">בְּהֵמָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H7126\">יַקְרִ֧יבוּ</span> <span data-strong=\"H5089\">מִמֶּ֛נָּה</span> <span data-strong=\"H7133\">קׇרְבָּ֖ן</span> <span data-strong=\"H3068\">לַֽיהֹוָ֑ה</span> <span data-strong=\"H3605\">כֹּל֩</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H5414\">יִתֵּ֥ן</span> <span data-strong=\"H5105\">מִמֶּ֛נּוּ</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H6944\">קֹּֽדֶשׁ׃</span>",
     "transliteration": "ve'im-vehemah 'asher yakeriyvv mimenah korevan layhovah khol 'asher yiten mimenv layhovah yiheyeh-kodesh.",
     "translation": "E se a besta que oferecerem for um sacrifício ao Senhor, tudo o que derem dela será santo ao Senhor."
   },
   {
     "verse": 10,
-    "original": "לֹ֣א יַחֲלִיפֶ֗נּוּ וְלֹֽא־יָמִ֥יר אֹת֛וֹ ט֥וֹב בְּרָ֖ע אוֹ־רַ֣ע בְּט֑וֹב וְאִם־הָמֵ֨ר יָמִ֤יר בְּהֵמָה֙ בִּבְהֵמָ֔ה וְהָֽיָה־ה֥וּא וּתְמוּרָת֖וֹ יִֽהְיֶה־קֹּֽדֶשׁ׃",
+    "original": "<span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">יַחֲלִיפֶ֗נּוּ</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H4171\">יָמִ֥יר</span> <span data-strong=\"H2050\">אֹת֛וֹ</span> <span data-strong=\"H2896\">ט֥וֹב</span> <span data-strong=\"H7451\">בְּרָ֖ע</span> <span data-strong=\"H176\">אוֹ</span>־<span data-strong=\"H7451\">רַ֣ע</span> <span data-strong=\"H2896\">בְּט֑וֹב</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H4171\">הָמֵ֨ר</span> <span data-strong=\"H4171\">יָמִ֤יר</span> <span data-strong=\"H929\">בְּהֵמָה֙</span> <span data-strong=\"H929\">בִּבְהֵמָ֔ה</span> <span data-strong=\"H1961\">וְהָֽיָה</span>־<span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H2050\">וּתְמוּרָת֖וֹ</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H6944\">קֹּֽדֶשׁ׃</span>",
     "transliteration": "lo' yahaliyfenv velo'-yamiyr 'otvo tvov vera' 'vo-ra' vetvov ve'im-hamer yamiyr vehemah vivehemah vehayah-hv' vtemvratvo yiheyeh-kodesh.",
     "translation": "Não o substituirá, nem mudará o bom pelo mau ou o mau pelo bom; e se trocar alguma besta por outra, então ele e a sua troca serão santidade."
   },
   {
     "verse": 11,
-    "original": "וְאִם֙ כׇּל־בְּהֵמָ֣ה טְמֵאָ֔ה אֲ֠שֶׁ֠ר לֹא־יַקְרִ֧יבוּ מִמֶּ֛נָּה קׇרְבָּ֖ן לַֽיהֹוָ֑ה וְהֶֽעֱמִ֥יד אֶת־הַבְּהֵמָ֖ה לִפְנֵ֥י הַכֹּהֵֽן׃",
+    "original": "<span data-strong=\"H518\">וְאִם֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H929\">בְּהֵמָ֣ה</span> <span data-strong=\"H2931\">טְמֵאָ֔ה</span> <span data-strong=\"H834\">אֲ֠שֶׁ֠ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7126\">יַקְרִ֧יבוּ</span> <span data-strong=\"H5089\">מִמֶּ֛נָּה</span> <span data-strong=\"H7133\">קׇרְבָּ֖ן</span> <span data-strong=\"H3068\">לַֽיהֹוָ֑ה</span> <span data-strong=\"H5975\">וְהֶֽעֱמִ֥יד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H929\">הַבְּהֵמָ֖ה</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3548\">הַכֹּהֵֽן׃</span>",
     "transliteration": "ve'im khol-vehemah teme'ah 'asher lo'-yakeriyvv mimenah korevan layhovah vehe'emiyd 'et-havehemah lifeney hakhohen.",
     "translation": "E se qualquer animal imundo, do qual não se oferece oferta ao Senhor, for apresentado, o animal será posto diante do sacerdote."
   },
   {
     "verse": 12,
-    "original": "וְהֶעֱרִ֤יךְ הַכֹּהֵן֙ אֹתָ֔הּ בֵּ֥ין ט֖וֹב וּבֵ֣ין רָ֑ע כְּעֶרְכְּךָ֥ הַכֹּהֵ֖ן כֵּ֥ן יִהְיֶֽה׃",
+    "original": "<span data-strong=\"H6186\">וְהֶעֱרִ֤יךְ</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H1886\">אֹתָ֔הּ</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H2896\">ט֖וֹב</span> <span data-strong=\"H996\">וּבֵ֣ין</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H3509\">כְּעֶרְכְּךָ֥</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H1961\">יִהְיֶֽה׃</span>",
     "transliteration": "vehe'eriykhe hakhohen 'otah veyn tvov vveyn ra' khe'erekhekha hakhohen khen yiheyeh.",
     "translation": "E o sacerdote avaliará ela, entre bom e mau; conforme o sacerdote avaliar assim será."
   },
   {
     "verse": 13,
-    "original": "וְאִם־גָּאֹ֖ל יִגְאָלֶ֑נָּה וְיָסַ֥ף חֲמִישִׁת֖וֹ עַל־עֶרְכֶּֽךָ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1350\">גָּאֹ֖ל</span> <span data-strong=\"H5089\">יִגְאָלֶ֑נָּה</span> <span data-strong=\"H3254\">וְיָסַ֥ף</span> <span data-strong=\"H2050\">חֲמִישִׁת֖וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">עֶרְכֶּֽךָ׃</span>",
     "transliteration": "ve'im-ga'ol yige'alenah veyasaf hamiyshitvo 'al-'erekhekha.",
     "translation": "E se ela for redimida, ele acrescentará um quinto sobre o teu valor."
   },
   {
     "verse": 14,
-    "original": "וְאִ֗ישׁ כִּֽי־יַקְדִּ֨שׁ אֶת־בֵּית֥וֹ קֹ֙דֶשׁ֙ לַֽיהֹוָ֔ה וְהֶעֱרִיכוֹ֙ הַכֹּהֵ֔ן בֵּ֥ין ט֖וֹב וּבֵ֣ין רָ֑ע כַּאֲשֶׁ֨ר יַעֲרִ֥יךְ אֹת֛וֹ הַכֹּהֵ֖ן כֵּ֥ן יָקֽוּם׃",
+    "original": "<span data-strong=\"H376\">וְאִ֗ישׁ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6942\">יַקְדִּ֨שׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בֵּית֥וֹ</span> <span data-strong=\"H6944\">קֹ֙דֶשׁ֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H2050\">וְהֶעֱרִיכוֹ֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H2896\">ט֖וֹב</span> <span data-strong=\"H996\">וּבֵ֣ין</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H834\">כַּאֲשֶׁ֨ר</span> <span data-strong=\"H6186\">יַעֲרִ֥יךְ</span> <span data-strong=\"H2050\">אֹת֛וֹ</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H6965\">יָקֽוּם׃</span>",
     "transliteration": "ve'iysh khiy-yakedish 'et-veytvo kodesh layhovah vehe'eriykhvo hakhohen veyn tvov vveyn ra' kha'asher ya'ariykhe 'otvo hakhohen khen yakvm.",
     "translation": "E se um homem santificar a sua casa ao Senhor, e o sacerdote a avaliar entre bom ou mau estado, conforme o sacerdote lhe avaliar, assim ficará estabelecido."
   },
   {
     "verse": 15,
-    "original": "וְאִ֨ם־הַמַּקְדִּ֔ישׁ יִגְאַ֖ל אֶת־בֵּית֑וֹ וְ֠יָסַ֠ף חֲמִישִׁ֧ית כֶּֽסֶף־עֶרְכְּךָ֛ עָלָ֖יו וְהָ֥יָה לֽוֹ׃",
+    "original": "<span data-strong=\"H518\">וְאִ֨ם</span>־<span data-strong=\"H6942\">הַמַּקְדִּ֔ישׁ</span> <span data-strong=\"H1350\">יִגְאַ֖ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">בֵּית֑וֹ</span> <span data-strong=\"H3254\">וְ֠יָסַ֠ף</span> <span data-strong=\"H2549\">חֲמִישִׁ֧ית</span> <span data-strong=\"H3701\">כֶּֽסֶף</span>־<span data-strong=\"H3509\">עֶרְכְּךָ֛</span> <span data-strong=\"H2050\">עָלָ֖יו</span> <span data-strong=\"H1961\">וְהָ֥יָה</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "ve'im-hamakediysh yige'al 'et-veytvo veyasaf hamiyshiyt khesef-'erekhekha 'alayv vehayah lvo.",
     "translation": "E se o consagrante redimir sua casa, acrescentará um quinto ao valor dela em prata; e será dele."
   },
   {
     "verse": 16,
-    "original": "וְאִ֣ם&thinsp;<b>׀</b> מִשְּׂדֵ֣ה אֲחֻזָּת֗וֹ יַקְדִּ֥ישׁ אִישׁ֙ לַֽיהֹוָ֔ה וְהָיָ֥ה עֶרְכְּךָ֖ לְפִ֣י זַרְע֑וֹ זֶ֚רַע חֹ֣מֶר שְׂעֹרִ֔ים בַּחֲמִשִּׁ֖ים שֶׁ֥קֶל כָּֽסֶף׃",
+    "original": "<span data-strong=\"H518\">וְאִ֣ם&thinsp;<b>׀</b></span> <span data-strong=\"H7704\">מִשְּׂדֵ֣ה</span> <span data-strong=\"H2050\">אֲחֻזָּת֗וֹ</span> <span data-strong=\"H6942\">יַקְדִּ֥ישׁ</span> <span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H1961\">וְהָיָ֥ה</span> <span data-strong=\"H3509\">עֶרְכְּךָ֖</span> <span data-strong=\"H6310\">לְפִ֣י</span> <span data-strong=\"H2050\">זַרְע֑וֹ</span> <span data-strong=\"H2233\">זֶ֚רַע</span> <span data-strong=\"H2563\">חֹ֣מֶר</span> <span data-strong=\"H8184\">שְׂעֹרִ֔ים</span> <span data-strong=\"H2572\">בַּחֲמִשִּׁ֖ים</span> <span data-strong=\"H8255\">שֶׁ֥קֶל</span> <span data-strong=\"H3701\">כָּֽסֶף׃</span>",
     "transliteration": "ve'im&thinsp;<b>|</b> misedeh 'ahuzatvo yakediysh 'iysh layhovah vehayah 'erekhekha lefiy zare'vo zera' homer se'oriym vahamishiym shekel khasef.",
     "translation": "E se alguém santificar ao SENHOR o campo da sua possessão, então o teu valor será conforme a semente: cem kikar de cevada equivalente a cinquenta siclos de prata."
   },
   {
     "verse": 17,
-    "original": "אִם־מִשְּׁנַ֥ת הַיֹּבֵ֖ל יַקְדִּ֣ישׁ שָׂדֵ֑הוּ כְּעֶרְכְּךָ֖ יָקֽוּם׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H8141\">מִשְּׁנַ֥ת</span> <span data-strong=\"H3104\">הַיֹּבֵ֖ל</span> <span data-strong=\"H6942\">יַקְדִּ֣ישׁ</span> <span data-strong=\"H1930\">שָׂדֵ֑הוּ</span> <span data-strong=\"H3509\">כְּעֶרְכְּךָ֖</span> <span data-strong=\"H6965\">יָקֽוּם׃</span>",
     "transliteration": "'im-mishenat hayovel yakediysh sadehv khe'erekhekha yakvm.",
     "translation": "Se consagrar o campo após a contagem do Jubileu, por teu aval se resgatará."
   },
   {
     "verse": 18,
-    "original": "וְאִם־אַחַ֣ר הַיֹּבֵל֮ יַקְדִּ֣ישׁ שָׂדֵ֒הוּ֒ וְחִשַּׁב־ל֨וֹ הַכֹּהֵ֜ן אֶת־הַכֶּ֗סֶף עַל־פִּ֤י הַשָּׁנִים֙ הַנּ֣וֹתָרֹ֔ת עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנִגְרַ֖ע מֵֽעֶרְכֶּֽךָ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H310\">אַחַ֣ר</span> <span data-strong=\"H3104\">הַיֹּבֵל֮</span> <span data-strong=\"H6942\">יַקְדִּ֣ישׁ</span> <span data-strong=\"H1930\">שָׂדֵ֒הוּ֒</span> <span data-strong=\"H2803\">וְחִשַּׁב</span>־<span data-strong=\"H2050\">ל֨וֹ</span> <span data-strong=\"H3548\">הַכֹּהֵ֜ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3701\">הַכֶּ֗סֶף</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֤י</span> <span data-strong=\"H8141\">הַשָּׁנִים֙</span> <span data-strong=\"H3498\">הַנּ֣וֹתָרֹ֔ת</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H8141\">שְׁנַ֣ת</span> <span data-strong=\"H3104\">הַיֹּבֵ֑ל</span> <span data-strong=\"H1639\">וְנִגְרַ֖ע</span> <span data-strong=\"H3509\">מֵֽעֶרְכֶּֽךָ׃</span>",
     "transliteration": "ve'im-'ahar hayovel yakediysh sadehv vehishav-lvo hakhohen 'et-hakhesef 'al-fiy hashaniym hanvotarot 'ad shenat hayovel venigera' me'erekhekha.",
     "translation": "E, se depois do Jubileu consagrar o seu campo, o sacerdote lhe calculará o dinheiro conforme aos anos que restarem até ao ano do Jubileu, e será diminuído segundo a tua avaliação."
   },
   {
     "verse": 19,
-    "original": "וְאִם־גָּאֹ֤ל יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה הַמַּקְדִּ֖ישׁ אֹת֑וֹ וְ֠יָסַ֠ף חֲמִשִׁ֧ית כֶּֽסֶף־עֶרְכְּךָ֛ עָלָ֖יו וְקָ֥ם לֽוֹ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1350\">גָּאֹ֤ל</span> <span data-strong=\"H1350\">יִגְאַל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7704\">הַשָּׂדֶ֔ה</span> <span data-strong=\"H6942\">הַמַּקְדִּ֖ישׁ</span> <span data-strong=\"H2050\">אֹת֑וֹ</span> <span data-strong=\"H3254\">וְ֠יָסַ֠ף</span> <span data-strong=\"H2549\">חֲמִשִׁ֧ית</span> <span data-strong=\"H3701\">כֶּֽסֶף</span>־<span data-strong=\"H3509\">עֶרְכְּךָ֛</span> <span data-strong=\"H2050\">עָלָ֖יו</span> <span data-strong=\"H6965\">וְקָ֥ם</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "ve'im-ga'ol yige'al 'et-hasadeh hamakediysh 'otvo veyasaf hamishiyt khesef-'erekhekha 'alayv vekam lvo.",
     "translation": "E se um próximo o redimirá, aquele que consagrara a fazenda, ele acrescentará um quinto ao seu valor em prata e será para ele."
   },
   {
     "verse": 20,
-    "original": "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H1350\">יִגְאַל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7704\">הַשָּׂדֶ֔ה</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H4376\">מָכַ֥ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7704\">הַשָּׂדֶ֖ה</span> <span data-strong=\"H376\">לְאִ֣ישׁ</span> <span data-strong=\"H312\">אַחֵ֑ר</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1350\">יִגָּאֵ֖ל</span> <span data-strong=\"H5750\">עֽוֹד׃</span>",
     "transliteration": "ve'im-lo' yige'al 'et-hasadeh ve'im-makhar 'et-hasadeh le'iysh 'aher lo' yiga'el 'vod.",
     "translation": "E se não for redimido, e o vender ao outro homem, já não poderá ser redimido mais."
   },
   {
     "verse": 21,
-    "original": "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֨ה</span> <span data-strong=\"H7704\">הַשָּׂדֶ֜ה</span> <span data-strong=\"H2050\">בְּצֵאת֣וֹ</span> <span data-strong=\"H3104\">בַיֹּבֵ֗ל</span> <span data-strong=\"H6944\">קֹ֛דֶשׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H7704\">כִּשְׂדֵ֣ה</span> <span data-strong=\"H2764\">הַחֵ֑רֶם</span> <span data-strong=\"H3548\">לַכֹּהֵ֖ן</span> <span data-strong=\"H1961\">תִּהְיֶ֥ה</span> <span data-strong=\"H2050\">אֲחֻזָּתֽוֹ׃</span>",
     "transliteration": "vehayah hasadeh vetse'tvo vayovel kodesh layhovah khisedeh haherem lakhohen tiheyeh 'ahuzatvo.",
     "translation": "E será que o campo, ao sair no jubileu, será consagrado ao Senhor como propriedade proibida; será possessão do sacerdote."
   },
   {
     "verse": 22,
-    "original": "וְאִם֙ אֶת־שְׂדֵ֣ה מִקְנָת֔וֹ אֲשֶׁ֕ר לֹ֖א מִשְּׂדֵ֣ה אֲחֻזָּת֑וֹ יַקְדִּ֖ישׁ לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H518\">וְאִם֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7704\">שְׂדֵ֣ה</span> <span data-strong=\"H2050\">מִקְנָת֔וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֕ר</span> <span data-strong=\"H3808\">לֹ֖א</span> <span data-strong=\"H7704\">מִשְּׂדֵ֣ה</span> <span data-strong=\"H2050\">אֲחֻזָּת֑וֹ</span> <span data-strong=\"H6942\">יַקְדִּ֖ישׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "ve'im 'et-sedeh mikenatvo 'asher lo' misedeh 'ahuzatvo yakediysh layhovah.",
     "translation": "E se ele santificar o campo da sua possessão que não é do seu campo hereditário ao Senhor."
   },
   {
     "verse": 23,
-    "original": "וְחִשַּׁב־ל֣וֹ הַכֹּהֵ֗ן אֵ֚ת מִכְסַ֣ת הָֽעֶרְכְּךָ֔ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנָתַ֤ן אֶת־הָעֶרְכְּךָ֙ בַּיּ֣וֹם הַה֔וּא קֹ֖דֶשׁ לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H2803\">וְחִשַּׁב</span>־<span data-strong=\"H2050\">ל֣וֹ</span> <span data-strong=\"H3548\">הַכֹּהֵ֗ן</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H4373\">מִכְסַ֣ת</span> <span data-strong=\"H3509\">הָֽעֶרְכְּךָ֔</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H8141\">שְׁנַ֣ת</span> <span data-strong=\"H3104\">הַיֹּבֵ֑ל</span> <span data-strong=\"H5414\">וְנָתַ֤ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">הָעֶרְכְּךָ֙</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֔וּא</span> <span data-strong=\"H6944\">קֹ֖דֶשׁ</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "vehishav-lvo hakhohen 'et mikhesat ha'erekhekha 'ad shenat hayovel venatan 'et-ha'erekhekha vayvom hahv' kodesh layhovah.",
     "translation": "E o sacerdote calculará para ele o preço do teu aval, até ao ano da jubileu; e dará o teu preço naquele dia como santificação ao Senhor."
   },
   {
     "verse": 24,
-    "original": "בִּשְׁנַ֤ת הַיּוֹבֵל֙ יָשׁ֣וּב הַשָּׂדֶ֔ה לַאֲשֶׁ֥ר קָנָ֖הוּ מֵאִתּ֑וֹ לַאֲשֶׁר־ל֖וֹ אֲחֻזַּ֥ת הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֤ת</span> <span data-strong=\"H3104\">הַיּוֹבֵל֙</span> <span data-strong=\"H7725\">יָשׁ֣וּב</span> <span data-strong=\"H7704\">הַשָּׂדֶ֔ה</span> <span data-strong=\"H834\">לַאֲשֶׁ֥ר</span> <span data-strong=\"H1930\">קָנָ֖הוּ</span> <span data-strong=\"H2050\">מֵאִתּ֑וֹ</span> <span data-strong=\"H834\">לַאֲשֶׁר</span>־<span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H272\">אֲחֻזַּ֥ת</span> <span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "vishenat hayvovel yashvv hasadeh la'asher kanahv me'itvo la'asher-lvo 'ahuzat ha'arets.",
     "translation": "No ano do jubileu, a terra retornará ao seu possuidor original, àquele de quem foi adquirida; pois a terra é propriedade eterna para cada família."
   },
   {
     "verse": 25,
-    "original": "וְכׇ֨ל־עֶרְכְּךָ֔ יִהְיֶ֖ה בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה יִהְיֶ֥ה הַשָּֽׁקֶל׃",
+    "original": "<span data-strong=\"H3605\">וְכׇ֨ל</span>־<span data-strong=\"H3509\">עֶרְכְּךָ֔</span> <span data-strong=\"H1961\">יִהְיֶ֖ה</span> <span data-strong=\"H8255\">בְּשֶׁ֣קֶל</span> <span data-strong=\"H6944\">הַקֹּ֑דֶשׁ</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H1626\">גֵּרָ֖ה</span> <span data-strong=\"H1961\">יִהְיֶ֥ה</span> <span data-strong=\"H8255\">הַשָּֽׁקֶל׃</span>",
     "transliteration": "vekhol-'erekhekha yiheyeh veshekel hakodesh 'eseriym gerah yiheyeh hashakel.",
     "translation": "E todo o teu arrazoado será pelo siclo do santuário; vinte gerahs será o siclo."
   },
   {
     "verse": 26,
-    "original": "אַךְ־בְּכ֞וֹר אֲשֶׁר־יְבֻכַּ֤ר לַֽיהֹוָה֙ בִּבְהֵמָ֔ה לֹֽא־יַקְדִּ֥ישׁ אִ֖ישׁ אֹת֑וֹ אִם־שׁ֣וֹר אִם־שֶׂ֔ה לַֽיהֹוָ֖ה הֽוּא׃",
+    "original": "<span data-strong=\"H389\">אַךְ</span>־<span data-strong=\"H1060\">בְּכ֞וֹר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1069\">יְבֻכַּ֤ר</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H929\">בִּבְהֵמָ֔ה</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H6942\">יַקְדִּ֥ישׁ</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H2050\">אֹת֑וֹ</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H7794\">שׁ֣וֹר</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H7716\">שֶׂ֔ה</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "'akhe-vekhvor 'asher-yevukhar layhovah vivehemah lo'-yakediysh 'iysh 'otvo 'im-shvor 'im-seh layhovah hv'.",
     "translation": "Mas o primogênito que for consagrado ao Senhor, seja de boi ou de ovelha, não será santificado; pois ele é do Senhor."
   },
   {
     "verse": 27,
-    "original": "וְאִ֨ם בַּבְּהֵמָ֤ה הַטְּמֵאָה֙ וּפָדָ֣ה בְעֶרְכֶּ֔ךָ וְיָסַ֥ף חֲמִשִׁת֖וֹ עָלָ֑יו וְאִם־לֹ֥א יִגָּאֵ֖ל וְנִמְכַּ֥ר בְּעֶרְכֶּֽךָ׃",
+    "original": "<span data-strong=\"H518\">וְאִ֨ם</span> <span data-strong=\"H929\">בַּבְּהֵמָ֤ה</span> <span data-strong=\"H2931\">הַטְּמֵאָה֙</span> <span data-strong=\"H6299\">וּפָדָ֣ה</span> <span data-strong=\"H3509\">בְעֶרְכֶּ֔ךָ</span> <span data-strong=\"H3254\">וְיָסַ֥ף</span> <span data-strong=\"H2050\">חֲמִשִׁת֖וֹ</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1350\">יִגָּאֵ֖ל</span> <span data-strong=\"H4376\">וְנִמְכַּ֥ר</span> <span data-strong=\"H3509\">בְּעֶרְכֶּֽךָ׃</span>",
     "transliteration": "ve'im vavehemah hateme'ah vfadah ve'erekhekha veyasaf hamishitvo 'alayv ve'im-lo' yiga'el venimekhar ve'erekhekha.",
     "translation": "E se na fera impura, resgatarás o teu valor, e acrescerá a quinta parte sobre ele; e se não for redimido, será vendido pelo teu valor."
   },
   {
     "verse": 28,
-    "original": "אַךְ־כׇּל־חֵ֡רֶם אֲשֶׁ֣ר יַחֲרִם֩ אִ֨ישׁ לַֽיהֹוָ֜ה מִכׇּל־אֲשֶׁר־ל֗וֹ מֵאָדָ֤ם וּבְהֵמָה֙ וּמִשְּׂדֵ֣ה אֲחֻזָּת֔וֹ לֹ֥א יִמָּכֵ֖ר וְלֹ֣א יִגָּאֵ֑ל כׇּל־חֵ֕רֶם קֹֽדֶשׁ־קׇדָשִׁ֥ים ה֖וּא לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H389\">אַךְ</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2764\">חֵ֡רֶם</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H2763\">יַחֲרִם֩</span> <span data-strong=\"H376\">אִ֨ישׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֜ה</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H120\">מֵאָדָ֤ם</span> <span data-strong=\"H929\">וּבְהֵמָה֙</span> <span data-strong=\"H7704\">וּמִשְּׂדֵ֣ה</span> <span data-strong=\"H2050\">אֲחֻזָּת֔וֹ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H4376\">יִמָּכֵ֖ר</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H1350\">יִגָּאֵ֑ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2764\">חֵ֕רֶם</span> <span data-strong=\"H6944\">קֹֽדֶשׁ</span>־<span data-strong=\"H6944\">קׇדָשִׁ֥ים</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "'akhe-khol-herem 'asher yaharim 'iysh layhovah mikhol-'asher-lvo me'adam vvehemah vmisedeh 'ahuzatvo lo' yimakher velo' yiga'el khol-herem kodesh-kodashiym hv' layhovah.",
     "translation": "Mas qualquer coisa que for consagrada à destruição, se alguém consagrar dela o que lhe pertence, seja homem ou animal, ou mesmo do campo da sua possessão, não será vendida nem redimida; toda coisa consagrada é santíssima ao Senhor."
   },
   {
     "verse": 29,
-    "original": "כׇּל־חֵ֗רֶם אֲשֶׁ֧ר יׇחֳרַ֛ם מִן־הָאָדָ֖ם לֹ֣א יִפָּדֶ֑ה מ֖וֹת יוּמָֽת׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2764\">חֵ֗רֶם</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H2763\">יׇחֳרַ֛ם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H120\">הָאָדָ֖ם</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6299\">יִפָּדֶ֑ה</span> <span data-strong=\"H4191\">מ֖וֹת</span> <span data-strong=\"H4191\">יוּמָֽת׃</span>",
     "transliteration": "khol-herem 'asher yohoram min-ha'adam lo' yifadeh mvot yvmat.",
     "translation": "Todo o maldito que for maldito do ser humano não será redimido; certamente morrerá."
   },
   {
     "verse": 30,
-    "original": "וְכׇל־מַעְשַׂ֨ר הָאָ֜רֶץ מִזֶּ֤רַע הָאָ֙רֶץ֙ מִפְּרִ֣י הָעֵ֔ץ לַיהֹוָ֖ה ה֑וּא קֹ֖דֶשׁ לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H4643\">מַעְשַׂ֨ר</span> <span data-strong=\"H776\">הָאָ֜רֶץ</span> <span data-strong=\"H2233\">מִזֶּ֤רַע</span> <span data-strong=\"H776\">הָאָ֙רֶץ֙</span> <span data-strong=\"H6529\">מִפְּרִ֣י</span> <span data-strong=\"H6086\">הָעֵ֔ץ</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H1931\">ה֑וּא</span> <span data-strong=\"H6944\">קֹ֖דֶשׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "vekhol-ma'esar ha'arets mizera' ha'arets miferiy ha'ets layhovah hv' kodesh layhovah.",
     "translation": "E todo dízimo da terra, sejam do crescimento da terra ou do fruto das árvores, pertence ao Senhor; é santificado para o Senhor."
   },
   {
     "verse": 31,
-    "original": "וְאִם־גָּאֹ֥ל יִגְאַ֛ל אִ֖ישׁ מִמַּֽעַשְׂר֑וֹ חֲמִשִׁית֖וֹ יֹסֵ֥ף עָלָֽיו׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1350\">גָּאֹ֥ל</span> <span data-strong=\"H1350\">יִגְאַ֛ל</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H2050\">מִמַּֽעַשְׂר֑וֹ</span> <span data-strong=\"H2050\">חֲמִשִׁית֖וֹ</span> <span data-strong=\"H3254\">יֹסֵ֥ף</span> <span data-strong=\"H2050\">עָלָֽיו׃</span>",
     "transliteration": "ve'im-ga'ol yige'al 'iysh mima'aservo hamishiytvo yosef 'alayv.",
     "translation": "E se alguém redimir alguma coisa de suas dízimos, acrescentará a ela um quinto."
   },
   {
     "verse": 32,
-    "original": "וְכׇל־מַעְשַׂ֤ר בָּקָר֙ וָצֹ֔אן כֹּ֥ל אֲשֶׁר־יַעֲבֹ֖ר תַּ֣חַת הַשָּׁ֑בֶט הָֽעֲשִׂירִ֕י יִֽהְיֶה־קֹּ֖דֶשׁ לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H4643\">מַעְשַׂ֤ר</span> <span data-strong=\"H1241\">בָּקָר֙</span> <span data-strong=\"H6629\">וָצֹ֔אן</span> <span data-strong=\"H3605\">כֹּ֥ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5674\">יַעֲבֹ֖ר</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H7626\">הַשָּׁ֑בֶט</span> <span data-strong=\"H6224\">הָֽעֲשִׂירִ֕י</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H6944\">קֹּ֖דֶשׁ</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "vekhol-ma'esar vakar vatso'n khol 'asher-ya'avor tahat hashavet ha'asiyriy yiheyeh-kodesh layhovah.",
     "translation": "E toda a décima parte do gado e da ovelha, tudo que passar sob o bordão, o dízimo será santificado ao Senhor."
   },
   {
     "verse": 33,
-    "original": "לֹ֧א יְבַקֵּ֛ר בֵּֽין־ט֥וֹב לָרַ֖ע וְלֹ֣א יְמִירֶ֑נּוּ וְאִם־הָמֵ֣ר יְמִירֶ֔נּוּ וְהָֽיָה־ה֧וּא וּתְמוּרָת֛וֹ יִֽהְיֶה־קֹּ֖דֶשׁ לֹ֥א יִגָּאֵֽל׃",
+    "original": "<span data-strong=\"H3808\">לֹ֧א</span> <span data-strong=\"H1239\">יְבַקֵּ֛ר</span> <span data-strong=\"H996\">בֵּֽין</span>־<span data-strong=\"H2896\">ט֥וֹב</span> <span data-strong=\"H7451\">לָרַ֖ע</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H5105\">יְמִירֶ֑נּוּ</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H4171\">הָמֵ֣ר</span> <span data-strong=\"H5105\">יְמִירֶ֔נּוּ</span> <span data-strong=\"H1961\">וְהָֽיָה</span>־<span data-strong=\"H1931\">ה֧וּא</span> <span data-strong=\"H2050\">וּתְמוּרָת֛וֹ</span> <span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H6944\">קֹּ֖דֶשׁ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1350\">יִגָּאֵֽל׃</span>",
     "transliteration": "lo' yevaker veyn-tvov lara' velo' yemiyrenv ve'im-hamer yemiyrenv vehayah-hv' vtemvratvo yiheyeh-kodesh lo' yiga'el.",
     "translation": "Não discernirá entre o bom e o mau, nem fará troca dele; se fizer troca, ele e a sua substituição serão santos e não serão resgatados."
   },
   {
     "verse": 34,
-    "original": "אֵ֣לֶּה הַמִּצְוֺ֗ת אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל בְּהַ֖ר סִינָֽי׃",
+    "original": "<span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H4687\">הַמִּצְוֺ֗ת</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6680\">צִוָּ֧ה</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H2022\">בְּהַ֖ר</span> <span data-strong=\"H5514\">סִינָֽי׃</span>",
     "transliteration": "'eleh hamitsevot 'asher tsivah yehovah 'et-mosheh 'el-veney yisera'el vehar siynay.",
     "translation": "Estas são as Ordenanças que o Senhor ordenou a Moisés para os filhos de Israel no Monte Sinai."
   }

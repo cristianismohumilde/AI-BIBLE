@@ -1,55 +1,55 @@
 [
   {
     "verse": 1,
-    "original": "מַשָּׂ֖א מוֹאָ֑ב כִּ֠י בְּלֵ֞יל שֻׁדַּ֨ד עָ֤ר מוֹאָב֙ נִדְמָ֔ה כִּ֗י בְּלֵ֛יל שֻׁדַּ֥ד קִיר־מוֹאָ֖ב נִדְמָֽה׃",
+    "original": "<span data-strong=\"H4853\">מַשָּׂ֖א</span> <span data-strong=\"H4124\">מוֹאָ֑ב</span> <span data-strong=\"H3588\">כִּ֠י</span> <span data-strong=\"H3915\">בְּלֵ֞יל</span> <span data-strong=\"H7703\">שֻׁדַּ֨ד</span> <span data-strong=\"H6144\">עָ֤ר</span> <span data-strong=\"H4124\">מוֹאָב֙</span> <span data-strong=\"H1820\">נִדְמָ֔ה</span> <span data-strong=\"H3588\">כִּ֗י</span> <span data-strong=\"H3915\">בְּלֵ֛יל</span> <span data-strong=\"H7703\">שֻׁדַּ֥ד</span> <span data-strong=\"H7024\">קִיר</span>־<span data-strong=\"H7024\">מוֹאָ֖ב</span> <span data-strong=\"H1820\">נִדְמָֽה׃</span>",
     "transliteration": "masa' mvo'av khiy veleyl shudad 'ar mvo'av nidemah khiy veleyl shudad kiyr-mvo'av nidemah.",
     "translation": "O fardo de Moabe. Porque como a noite foi devastado Ar-Moabe, ficou desolado; como a noite foi destruído Quir-Moabe, ficou desolado."
   },
   {
     "verse": 2,
-    "original": "עָלָ֨ה הַבַּ֧יִת וְדִיבֹ֛ן הַבָּמ֖וֹת לְבֶ֑כִי עַל־נְב֞וֹ וְעַ֤ל מֵֽידְבָא֙ מוֹאָ֣ב יְיֵלִ֔יל בְּכׇל־רֹאשָׁ֣יו קׇרְחָ֔ה כׇּל־זָקָ֖ן גְּרוּעָֽה׃",
+    "original": "<span data-strong=\"H5927\">עָלָ֨ה</span> <span data-strong=\"H1004\">הַבַּ֧יִת</span> <span data-strong=\"H1769\">וְדִיבֹ֛ן</span> <span data-strong=\"H1116\">הַבָּמ֖וֹת</span> <span data-strong=\"H1065\">לְבֶ֑כִי</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5015\">נְב֞וֹ</span> <span data-strong=\"H5921\">וְעַ֤ל</span> <span data-strong=\"H4311\">מֵֽידְבָא֙</span> <span data-strong=\"H4124\">מוֹאָ֣ב</span> <span data-strong=\"H3213\">יְיֵלִ֔יל</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H2050\">רֹאשָׁ֣יו</span> <span data-strong=\"H7144\">קׇרְחָ֔ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2206\">זָקָ֖ן</span> <span data-strong=\"H1639\">גְּרוּעָֽה׃</span>",
     "transliteration": "'alah havayit vediyvon havamvot levekhiy 'al-nevvo ve'al meydeva' mvo'av yeyeliyl vekhol-ro'shayv korehah khol-zakan gerv'ah.",
     "translation": "Subiu a casa e Dibom as alturas em pranto; por Nabo e Midiã Moabe clama lamentação; em toda sua cabeleira ele raspou, todo seu velho ficou careca.\n\nCorreção:\n\nSubiu a casa e Dibom às alturas em pranto; por Nabó e Midiã Moabe clama lamentação; sobre toda sua cabeleira ele raspa, todo seu ancião fica careca."
   },
   {
     "verse": 3,
-    "original": "בְּחוּצֹתָ֖יו חָ֣גְרוּ שָׂ֑ק עַ֣ל גַּגּוֹתֶ֧יהָ וּבִרְחֹבֹתֶ֛יהָ כֻּלֹּ֥ה יְיֵלִ֖יל יֹרֵ֥ד בַּבֶּֽכִי׃",
+    "original": "<span data-strong=\"H2050\">בְּחוּצֹתָ֖יו</span> <span data-strong=\"H2296\">חָ֣גְרוּ</span> <span data-strong=\"H8242\">שָׂ֑ק</span> <span data-strong=\"H5921\">עַ֣ל</span> <span data-strong=\"H1886\">גַּגּוֹתֶ֧יהָ</span> <span data-strong=\"H1886\">וּבִרְחֹבֹתֶ֛יהָ</span> <span data-strong=\"H2050\">כֻּלֹּ֥ה</span> <span data-strong=\"H3213\">יְיֵלִ֖יל</span> <span data-strong=\"H3381\">יֹרֵ֥ד</span> <span data-strong=\"H1065\">בַּבֶּֽכִי׃</span>",
     "transliteration": "vehvtsotayv hagerv sak 'al gagvoteyha vvirehovoteyha khuloh yeyeliyl yored vavekhiy.",
     "translation": "Cingiram-se de saco fora de suas muralhas, sobre seus telhados e nas ruas dela; todo o seu povo soluça, derramando lágrimas."
   },
   {
     "verse": 4,
-    "original": "וַתִּזְעַ֤ק חֶשְׁבּוֹן֙ וְאֶלְעָלֵ֔ה עַד־יַ֖הַץ נִשְׁמַ֣ע קוֹלָ֑ם עַל־כֵּ֗ן חֲלֻצֵ֤י מוֹאָב֙ יָרִ֔יעוּ נַפְשׁ֖וֹ יָ֥רְעָה לּֽוֹ׃",
+    "original": "<span data-strong=\"H2199\">וַתִּזְעַ֤ק</span> <span data-strong=\"H2809\">חֶשְׁבּוֹן֙</span> <span data-strong=\"H500\">וְאֶלְעָלֵ֔ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3096\">יַ֖הַץ</span> <span data-strong=\"H8085\">נִשְׁמַ֣ע</span> <span data-strong=\"H3963\">קוֹלָ֑ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֗ן</span> <span data-strong=\"H2502\">חֲלֻצֵ֤י</span> <span data-strong=\"H4124\">מוֹאָב֙</span> <span data-strong=\"H7321\">יָרִ֔יעוּ</span> <span data-strong=\"H2050\">נַפְשׁ֖וֹ</span> <span data-strong=\"H3415\">יָ֥רְעָה</span> <span data-strong=\"H2050\">לּֽוֹ׃</span>",
     "transliteration": "vatize'ak heshevvon ve'ele'aleh 'ad-yahats nishema' kvolam 'al-khen halutsey mvo'av yariy'v nafeshvo yare'ah lvo.",
     "translation": "E Cheshbon e Eleale clamaram; até Jahaz foi ouvido o seu grito; por isso os valentes de Moabe deram gritos; a sua alma lhes tremeu."
   },
   {
     "verse": 5,
-    "original": "לִבִּי֙ לְמוֹאָ֣ב יִזְעָ֔ק בְּרִיחֶ֕הָ עַד־צֹ֖עַר עֶגְלַ֣ת שְׁלִשִׁיָּ֑ה כִּ֣י&thinsp;<b>׀</b> מַעֲלֵ֣ה הַלּוּחִ֗ית בִּבְכִי֙ יַֽעֲלֶה־בּ֔וֹ כִּ֚י דֶּ֣רֶךְ חוֹרֹנַ֔יִם זַעֲקַת־שֶׁ֖בֶר יְעֹעֵֽרוּ׃",
+    "original": "<span data-strong=\"H2967\">לִבִּי֙</span> <span data-strong=\"H4124\">לְמוֹאָ֣ב</span> <span data-strong=\"H2199\">יִזְעָ֔ק</span> <span data-strong=\"H1886\">בְּרִיחֶ֕הָ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H6820\">צֹ֖עַר</span> <span data-strong=\"H5697\">עֶגְלַ֣ת</span> <span data-strong=\"H5697\">שְׁלִשִׁיָּ֑ה</span> <span data-strong=\"H3588\">כִּ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H4608\">מַעֲלֵ֣ה</span> <span data-strong=\"H3872\">הַלּוּחִ֗ית</span> <span data-strong=\"H1065\">בִּבְכִי֙</span> <span data-strong=\"H5927\">יַֽעֲלֶה</span>־<span data-strong=\"H2050\">בּ֔וֹ</span> <span data-strong=\"H3588\">כִּ֚י</span> <span data-strong=\"H1870\">דֶּ֣רֶךְ</span> <span data-strong=\"H2773\">חוֹרֹנַ֔יִם</span> <span data-strong=\"H2201\">זַעֲקַת</span>־<span data-strong=\"H7667\">שֶׁ֖בֶר</span> <span data-strong=\"H5782\">יְעֹעֵֽרוּ׃</span>",
     "transliteration": "liviy lemvo'av yize'ak veriyheha 'ad-tso'ar 'egelat shelishiyah khiy&thinsp;<b>|</b> ma'aleh halvhiyt vivekhiy ya'aleh-vvo khiy derekhe hvoronayim za'akat-shever ye'o'erv.",
     "translation": "Meu coração chama por Moabe, de Bariquá até Tzoar, como uma vaca de três anos; pois o caminho das escadas será subido em lágrimas, porque a senda de Horonaim fará soar um grito de quebra."
   },
   {
     "verse": 6,
-    "original": "כִּי־מֵ֥י נִמְרִ֖ים מְשַׁמּ֣וֹת יִֽהְי֑וּ כִּֽי־יָבֵ֤שׁ חָצִיר֙ כָּ֣לָה דֶ֔שֶׁא יֶ֖רֶק לֹ֥א הָיָֽה׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H5249\">נִמְרִ֖ים</span> <span data-strong=\"H4923\">מְשַׁמּ֣וֹת</span> <span data-strong=\"H1961\">יִֽהְי֑וּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3001\">יָבֵ֤שׁ</span> <span data-strong=\"H2682\">חָצִיר֙</span> <span data-strong=\"H3615\">כָּ֣לָה</span> <span data-strong=\"H1877\">דֶ֔שֶׁא</span> <span data-strong=\"H3418\">יֶ֖רֶק</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1961\">הָיָֽה׃</span>",
     "transliteration": "khiy-mey nimeriym meshamvot yiheyv khiy-yavesh hatsiyr khalah deshe' yerek lo' hayah.",
     "translation": "Pois as águas de Nimeros serão esgotadas, pois murchará o capim, acabará a erva, não haverá vegetação."
   },
   {
     "verse": 7,
-    "original": "עַל־כֵּ֖ן יִתְרָ֣ה עָשָׂ֑ה וּ֨פְקֻדָּתָ֔ם עַ֛ל נַ֥חַל הָעֲרָבִ֖ים יִשָּׂאֽוּם׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֖ן</span> <span data-strong=\"H3502\">יִתְרָ֣ה</span> <span data-strong=\"H6213\">עָשָׂ֑ה</span> <span data-strong=\"H3963\">וּ֨פְקֻדָּתָ֔ם</span> <span data-strong=\"H5921\">עַ֛ל</span> <span data-strong=\"H5158\">נַ֥חַל</span> <span data-strong=\"H6155\">הָעֲרָבִ֖ים</span> <span data-strong=\"H3963\">יִשָּׂאֽוּם׃</span>",
     "transliteration": "'al-khen yiterah 'asah vfekudatam 'al nahal ha'araviym yisa'vm.",
     "translation": "Por isso, Itrah agiu e suas contagens levantaram-se junto ao rio dos Aravim."
   },
   {
     "verse": 8,
-    "original": "כִּי־הִקִּ֥יפָה הַזְּעָקָ֖ה אֶת־גְּב֣וּל מוֹאָ֑ב עַד־אֶגְלַ֙יִם֙ יִלְלָתָ֔הּ וּבְאֵ֥ר אֵילִ֖ים יִלְלָתָֽהּ׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H5362\">הִקִּ֥יפָה</span> <span data-strong=\"H2201\">הַזְּעָקָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1366\">גְּב֣וּל</span> <span data-strong=\"H4124\">מוֹאָ֑ב</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H97\">אֶגְלַ֙יִם֙</span> <span data-strong=\"H1886\">יִלְלָתָ֔הּ</span> <span data-strong=\"H879\">וּבְאֵ֥ר</span> <span data-strong=\"H879\">אֵילִ֖ים</span> <span data-strong=\"H1886\">יִלְלָתָֽהּ׃</span>",
     "transliteration": "khiy-hikiyfah haze'akah 'et-gevvl mvo'av 'ad-'egelayim yilelatah vve'er 'eyliym yilelatah.",
     "translation": "Pois a lamentação circundou os limites de Moabe, até Eglaim se torna em pranto e Beer-Eiliém em gemidos."
   },
   {
     "verse": 9,
-    "original": "כִּ֣י מֵ֤י דִימוֹן֙ מָ֣לְאוּ דָ֔ם כִּֽי־אָשִׁ֥ית עַל־דִּימ֖וֹן נוֹסָפ֑וֹת לִפְלֵיטַ֤ת מוֹאָב֙ אַרְיֵ֔ה וְלִשְׁאֵרִ֖ית אֲדָמָֽה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H4325\">מֵ֤י</span> <span data-strong=\"H1775\">דִימוֹן֙</span> <span data-strong=\"H4390\">מָ֣לְאוּ</span> <span data-strong=\"H1818\">דָ֔ם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7896\">אָשִׁ֥ית</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1775\">דִּימ֖וֹן</span> <span data-strong=\"H3254\">נוֹסָפ֑וֹת</span> <span data-strong=\"H6413\">לִפְלֵיטַ֤ת</span> <span data-strong=\"H4124\">מוֹאָב֙</span> <span data-strong=\"H738\">אַרְיֵ֔ה</span> <span data-strong=\"H7611\">וְלִשְׁאֵרִ֖ית</span> <span data-strong=\"H127\">אֲדָמָֽה׃</span>",
     "transliteration": "khiy mey diymvon male'v dam khiy-'ashiyt 'al-diymvon nvosafvot lifeleytat mvo'av 'areyeh velishe'eriyt 'adamah.",
     "translation": "Pois as águas de Dimom se encheram de sangue, pois enviarei sobre Dimom os que escaparam e sobre a terra restante um leão para a salvação de Moabe."
   }

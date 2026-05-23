@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֖יר מִזְמ֣וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H7892\">שִׁ֖יר</span> <span data-strong=\"H4210\">מִזְמ֣וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "shiyr mizemvor ledavid.",
     "translation": "Cântico. Salmo de Davi."
   },
   {
     "verse": 2,
-    "original": "נָכ֣וֹן לִבִּ֣י אֱלֹהִ֑ים אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה אַף־כְּבוֹדִֽי׃",
+    "original": "<span data-strong=\"H3559\">נָכ֣וֹן</span> <span data-strong=\"H2967\">לִבִּ֣י</span> <span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H7891\">אָשִׁ֥ירָה</span> <span data-strong=\"H2167\">וַ֝אֲזַמְּרָ֗ה</span> <span data-strong=\"H637\">אַף</span>־<span data-strong=\"H2967\">כְּבוֹדִֽי׃</span>",
     "transliteration": "nakhvon liviy 'elohiym 'ashiyrah va'azamerah 'af-khevvodiy.",
     "translation": "Disposto está meu coração, ó Deus; cantarei e tocarei, pois Tu és a minha glória."
   },
   {
     "verse": 3,
-    "original": "ע֭וּרָֽה הַנֵּ֥בֶל וְכִנּ֗וֹר אָעִ֥ירָה שָּֽׁחַר׃",
+    "original": "<span data-strong=\"H1886\">ע֭וּרָֽה</span> <span data-strong=\"H5035\">הַנֵּ֥בֶל</span> <span data-strong=\"H3658\">וְכִנּ֗וֹר</span> <span data-strong=\"H5782\">אָעִ֥ירָה</span> <span data-strong=\"H7837\">שָּֽׁחַר׃</span>",
     "transliteration": "'vrah hanevel vekhinvor 'a'iyrah shahar.",
     "translation": "Acorda, alaúde, e tu, harpa, ressoai; acordarei a aurora."
   },
@@ -25,55 +25,55 @@
   },
   {
     "verse": 5,
-    "original": "כִּי־גָד֣וֹל מֵעַל־שָׁמַ֣יִם חַסְדֶּ֑ךָ וְֽעַד־שְׁחָקִ֥ים אֲמִתֶּֽךָ׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1419\">גָד֣וֹל</span> <span data-strong=\"H5921\">מֵעַל</span>־<span data-strong=\"H8064\">שָׁמַ֣יִם</span> <span data-strong=\"H3509\">חַסְדֶּ֑ךָ</span> <span data-strong=\"H5704\">וְֽעַד</span>־<span data-strong=\"H7834\">שְׁחָקִ֥ים</span> <span data-strong=\"H3509\">אֲמִתֶּֽךָ׃</span>",
     "transliteration": "khiy-gadvol me'al-shamayim hasedekha ve'ad-shehakiym 'amitekha.",
     "translation": "Pois maior que os céus é teu amor, e até às nuvens tua fidelidade."
   },
   {
     "verse": 6,
-    "original": "ר֣וּמָה עַל־שָׁמַ֣יִם אֱלֹהִ֑ים וְעַ֖ל כׇּל־הָאָ֣רֶץ כְּבוֹדֶֽךָ׃",
+    "original": "<span data-strong=\"H1886\">ר֣וּמָה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8064\">שָׁמַ֣יִם</span> <span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H5921\">וְעַ֖ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָ֣רֶץ</span> <span data-strong=\"H3509\">כְּבוֹדֶֽךָ׃</span>",
     "transliteration": "rvmah 'al-shamayim 'elohiym ve'al khol-ha'arets khevvodekha.",
     "translation": "Exaltado acima dos céus está Deus, e sobre toda a terra, sua glória."
   },
   {
     "verse": 7,
-    "original": "לְ֭מַעַן יֵחָלְצ֣וּן יְדִידֶ֑יךָ הוֹשִׁ֖יעָה יְמִֽינְךָ֣ וַעֲנֵֽנִי׃",
+    "original": "<span data-strong=\"H4616\">לְ֭מַעַן</span> <span data-strong=\"H4993\">יֵחָלְצ֣וּן</span> <span data-strong=\"H3509\">יְדִידֶ֑יךָ</span> <span data-strong=\"H1886\">הוֹשִׁ֖יעָה</span> <span data-strong=\"H3509\">יְמִֽינְךָ֣</span> <span data-strong=\"H5204\">וַעֲנֵֽנִי׃</span>",
     "transliteration": "lema'an yehaletsvn yediydeykha hvoshiy'ah yemiynekha va'aneniy.",
     "translation": "Para que se livrem os teus amados, salva com a tua destra e responde-me."
   },
   {
     "verse": 8,
-    "original": "אֱלֹהִ֤ים&thinsp;<b>׀</b> דִּבֶּ֥ר בְּקׇדְשׁ֗וֹ אֶ֫עְלֹ֥זָה אֲחַלְּקָ֥ה שְׁכֶ֑ם וְעֵ֖מֶק סֻכּ֣וֹת אֲמַדֵּֽד׃",
+    "original": "<span data-strong=\"H430\">אֱלֹהִ֤ים&thinsp;<b>׀</b></span> <span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H2050\">בְּקׇדְשׁ֗וֹ</span> <span data-strong=\"H5937\">אֶ֫עְלֹ֥זָה</span> <span data-strong=\"H2505\">אֲחַלְּקָ֥ה</span> <span data-strong=\"H7927\">שְׁכֶ֑ם</span> <span data-strong=\"H6010\">וְעֵ֖מֶק</span> <span data-strong=\"H5523\">סֻכּ֣וֹת</span> <span data-strong=\"H4058\">אֲמַדֵּֽד׃</span>",
     "transliteration": "'elohiym&thinsp;<b>|</b> diver vekodeshvo 'e'elozah 'ahalekah shekhem ve'emek sukhvot 'amaded.",
     "translation": "Deus falou no seu santo; eu dividirei Siquem e medirei o vale de Sucote."
   },
   {
     "verse": 9,
-    "original": "לִ֤י גִלְעָ֨ד&thinsp;<b>׀</b> לִ֤י מְנַשֶּׁ֗ה וְ֭אֶפְרַיִם מָע֣וֹז רֹאשִׁ֑י יְ֝הוּדָ֗ה מְחֹקְקִֽי׃",
+    "original": "<span data-strong=\"H2967\">לִ֤י</span> <span data-strong=\"H1568\">גִלְעָ֨ד&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">לִ֤י</span> <span data-strong=\"H4519\">מְנַשֶּׁ֗ה</span> <span data-strong=\"H669\">וְ֭אֶפְרַיִם</span> <span data-strong=\"H4581\">מָע֣וֹז</span> <span data-strong=\"H2967\">רֹאשִׁ֑י</span> <span data-strong=\"H3063\">יְ֝הוּדָ֗ה</span> <span data-strong=\"H2967\">מְחֹקְקִֽי׃</span>",
     "transliteration": "liy gile'ad&thinsp;<b>|</b> liy menasheh ve'eferayim ma'voz ro'shiy yehvdah mehokekiy.",
     "translation": "Giléade é meu, Manassés também me pertence; Efraim é a força da minha cabeça. Judá é meu legislador."
   },
   {
     "verse": 10,
-    "original": "מוֹאָ֤ב&thinsp;<b>׀</b> סִ֬יר רַחְצִ֗י עַל־אֱ֭דוֹם אַשְׁלִ֣יךְ נַעֲלִ֑י עֲלֵי־פְ֝לֶ֗שֶׁת אֶתְרוֹעָֽע׃",
+    "original": "<span data-strong=\"H4124\">מוֹאָ֤ב&thinsp;<b>׀</b></span> <span data-strong=\"H5518\">סִ֬יר</span> <span data-strong=\"H2967\">רַחְצִ֗י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H123\">אֱ֭דוֹם</span> <span data-strong=\"H7993\">אַשְׁלִ֣יךְ</span> <span data-strong=\"H2967\">נַעֲלִ֑י</span> <span data-strong=\"H5921\">עֲלֵי</span>־<span data-strong=\"H6429\">פְ֝לֶ֗שֶׁת</span> <span data-strong=\"H7321\">אֶתְרוֹעָֽע׃</span>",
     "transliteration": "mvo'av&thinsp;<b>|</b> siyr rahetsiy 'al-'edvom 'asheliykhe na'aliy 'aley-feleshet 'etervo'a'.",
     "translation": "Moabe é um vaso de lodo; sobre Edom atirarei minha sandália; sobre a Filisteia exaltarei meu clamor."
   },
   {
     "verse": 11,
-    "original": "מִ֣י יֹ֭בִלֵנִי עִ֣יר מִבְצָ֑ר מִ֖י נָחַ֣נִי עַד־אֱדֽוֹם׃",
+    "original": "<span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H5204\">יֹ֭בִלֵנִי</span> <span data-strong=\"H5892\">עִ֣יר</span> <span data-strong=\"H4013\">מִבְצָ֑ר</span> <span data-strong=\"H4310\">מִ֖י</span> <span data-strong=\"H5204\">נָחַ֣נִי</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H123\">אֱדֽוֹם׃</span>",
     "transliteration": "miy yovileniy 'iyr mivetsar miy nahaniy 'ad-'edvom.",
     "translation": "Quem me levará à cidade fortificada? Quem me guiará até Edom?"
   },
   {
     "verse": 12,
-    "original": "הֲלֹֽא־אֱלֹהִ֥ים זְנַחְתָּ֑נוּ וְֽלֹא־תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאֹתֵֽינוּ׃",
+    "original": "<span data-strong=\"H3808\">הֲלֹֽא</span>־<span data-strong=\"H430\">אֱלֹהִ֥ים</span> <span data-strong=\"H5105\">זְנַחְתָּ֑נוּ</span> <span data-strong=\"H3808\">וְֽלֹא</span>־<span data-strong=\"H3318\">תֵצֵ֥א</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H5105\">בְּצִבְאֹתֵֽינוּ׃</span>",
     "transliteration": "halo'-'elohiym zenahetanv velo'-tetse' 'elohiym vetsive'oteynv.",
     "translation": "Acaso não nos rejeitou Deus, e seu acampamento não saiu conosco?"
   },
   {
     "verse": 13,
-    "original": "הָבָה־לָּ֣נוּ עֶזְרָ֣ת מִצָּ֑ר וְ֝שָׁ֗וְא תְּשׁוּעַ֥ת אָדָֽם׃",
+    "original": "<span data-strong=\"H1886\">הָבָה</span>־<span data-strong=\"H5105\">לָּ֣נוּ</span> <span data-strong=\"H5833\">עֶזְרָ֣ת</span> <span data-strong=\"H6862\">מִצָּ֑ר</span> <span data-strong=\"H7723\">וְ֝שָׁ֗וְא</span> <span data-strong=\"H8668\">תְּשׁוּעַ֥ת</span> <span data-strong=\"H120\">אָדָֽם׃</span>",
     "transliteration": "havah-lanv 'ezerat mitsar veshave' teshv'at 'adam.",
     "translation": "Dá-nos auxílio na angústia, pois vã é a salvação do homem."
   },

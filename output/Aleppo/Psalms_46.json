@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֥חַ לִבְנֵי־קֹ֑רַח עַֽל־עֲלָמ֥וֹת שִֽׁיר׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֥חַ</span> <span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H7141\">קֹ֑רַח</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H5961\">עֲלָמ֥וֹת</span> <span data-strong=\"H7892\">שִֽׁיר׃</span>",
     "transliteration": "lamenatseha liveney-korah 'al-'alamvot shiyr.",
     "translation": "Ao diretor, para os filhos de Corá, sobre alamots, cântico."
   },
   {
     "verse": 2,
-    "original": "אֱלֹהִ֣ים לָ֭נוּ מַחֲסֶ֣ה וָעֹ֑ז עֶזְרָ֥ה בְ֝צָר֗וֹת נִמְצָ֥א מְאֹֽד׃",
+    "original": "<span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H5105\">לָ֭נוּ</span> <span data-strong=\"H4268\">מַחֲסֶ֣ה</span> <span data-strong=\"H5797\">וָעֹ֑ז</span> <span data-strong=\"H5833\">עֶזְרָ֥ה</span> <span data-strong=\"H6869\">בְ֝צָר֗וֹת</span> <span data-strong=\"H4672\">נִמְצָ֥א</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "'elohiym lanv mahaseh va'oz 'ezerah vetsarvot nimetsa' me'od.",
     "translation": "Deus é nosso refúgio e fortaleza, uma ajuda nas adversidades, sobremodo presente."
   },
   {
     "verse": 3,
-    "original": "עַל־כֵּ֣ן לֹֽא־נִ֭ירָא בְּהָמִ֣יר אָ֑רֶץ וּבְמ֥וֹט הָ֝רִ֗ים בְּלֵ֣ב יַמִּֽים׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֣ן</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3372\">נִ֭ירָא</span> <span data-strong=\"H4171\">בְּהָמִ֣יר</span> <span data-strong=\"H776\">אָ֑רֶץ</span> <span data-strong=\"H4131\">וּבְמ֥וֹט</span> <span data-strong=\"H2022\">הָ֝רִ֗ים</span> <span data-strong=\"H3820\">בְּלֵ֣ב</span> <span data-strong=\"H3220\">יַמִּֽים׃</span>",
     "transliteration": "'al-khen lo'-niyra' vehamiyr 'arets vvemvot hariym velev yamiym.",
     "translation": "Portanto, não foi visto no mundo tumultuado, nem em tremer de montes, nem no coração dos mares."
   },
@@ -25,43 +25,43 @@
   },
   {
     "verse": 5,
-    "original": "נָהָ֗ר פְּלָגָ֗יו יְשַׂמְּח֥וּ עִיר־אֱלֹהִ֑ים קְ֝דֹ֗שׁ מִשְׁכְּנֵ֥י עֶלְיֽוֹן׃",
+    "original": "<span data-strong=\"H5104\">נָהָ֗ר</span> <span data-strong=\"H2050\">פְּלָגָ֗יו</span> <span data-strong=\"H8055\">יְשַׂמְּח֥וּ</span> <span data-strong=\"H5892\">עִיר</span>־<span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H6918\">קְ֝דֹ֗שׁ</span> <span data-strong=\"H4908\">מִשְׁכְּנֵ֥י</span> <span data-strong=\"H5945\">עֶלְיֽוֹן׃</span>",
     "transliteration": "nahar felagayv yesamehv 'iyr-'elohiym kedosh mishekheney 'eleyvon.",
     "translation": "O rio, suas divisões alegram a cidade de Deus, santuário, morada do Altíssimo."
   },
   {
     "verse": 6,
-    "original": "אֱלֹהִ֣ים בְּ֭קִרְבָּהּ בַּל־תִּמּ֑וֹט יַעְזְרֶ֥הָ אֱ֝לֹהִ֗ים לִפְנ֥וֹת בֹּֽקֶר׃",
+    "original": "<span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H1886\">בְּ֭קִרְבָּהּ</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H4131\">תִּמּ֑וֹט</span> <span data-strong=\"H1886\">יַעְזְרֶ֥הָ</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H6437\">לִפְנ֥וֹת</span> <span data-strong=\"H1242\">בֹּֽקֶר׃</span>",
     "transliteration": "'elohiym vekirevah val-timvot ya'ezereha 'elohiym lifenvot voker.",
     "translation": "Deus está no seu meio, e ela não vacila; Deus lhe dará auxílio ao romper da alvorada."
   },
   {
     "verse": 7,
-    "original": "הָמ֣וּ ג֭וֹיִם מָ֣טוּ מַמְלָכ֑וֹת נָתַ֥ן בְּ֝קוֹל֗וֹ תָּמ֥וּג אָֽרֶץ׃",
+    "original": "<span data-strong=\"H1993\">הָמ֣וּ</span> <span data-strong=\"H1471\">ג֭וֹיִם</span> <span data-strong=\"H4131\">מָ֣טוּ</span> <span data-strong=\"H4467\">מַמְלָכ֑וֹת</span> <span data-strong=\"H5414\">נָתַ֥ן</span> <span data-strong=\"H2050\">בְּ֝קוֹל֗וֹ</span> <span data-strong=\"H4127\">תָּמ֥וּג</span> <span data-strong=\"H776\">אָֽרֶץ׃</span>",
     "transliteration": "hamv gvoyim matv mamelakhvot natan vekvolvo tamvg 'arets.",
     "translation": "Gemiam os povos, abalam-se as nações; Ele faz ouvir Sua voz e a terra derrete."
   },
   {
     "verse": 8,
-    "original": "יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֣וֹת</span> <span data-strong=\"H5105\">עִמָּ֑נוּ</span> <span data-strong=\"H4869\">מִשְׂגָּֽב</span>־<span data-strong=\"H5105\">לָ֨נוּ</span> <span data-strong=\"H430\">אֱלֹהֵ֖י</span> <span data-strong=\"H3290\">יַעֲקֹ֣ב</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "yehovah tseva'vot 'imanv misegav-lanv 'elohey ya'akov selah.",
     "translation": "Javé dos Exércitos está conosco; fortaleza é para nós Deus de Jacó. Selá."
   },
   {
     "verse": 9,
-    "original": "לְֽכוּ־חֲ֭זוּ מִפְעֲל֣וֹת יְהֹוָ֑ה אֲשֶׁר־שָׂ֖ם שַׁמּ֣וֹת בָּאָֽרֶץ׃",
+    "original": "<span data-strong=\"H1980\">לְֽכוּ</span>־<span data-strong=\"H2372\">חֲ֭זוּ</span> <span data-strong=\"H4659\">מִפְעֲל֣וֹת</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7760\">שָׂ֖ם</span> <span data-strong=\"H8047\">שַׁמּ֣וֹת</span> <span data-strong=\"H776\">בָּאָֽרֶץ׃</span>",
     "transliteration": "lekhv-hazv mife'alvot yehovah 'asher-sam shamvot va'arets.",
     "translation": "Vinde, contemplai as obras do Senhor, que fez na terra."
   },
   {
     "verse": 10,
-    "original": "מַשְׁבִּ֥ית מִלְחָמוֹת֮ עַד־קְצֵ֢ה הָ֫אָ֥רֶץ קֶ֣שֶׁת יְ֭שַׁבֵּר וְקִצֵּ֣ץ חֲנִ֑ית עֲ֝גָל֗וֹת יִשְׂרֹ֥ף בָּאֵֽשׁ׃",
+    "original": "<span data-strong=\"H7673\">מַשְׁבִּ֥ית</span> <span data-strong=\"H4421\">מִלְחָמוֹת֮</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H7097\">קְצֵ֢ה</span> <span data-strong=\"H776\">הָ֫אָ֥רֶץ</span> <span data-strong=\"H7198\">קֶ֣שֶׁת</span> <span data-strong=\"H7665\">יְ֭שַׁבֵּר</span> <span data-strong=\"H7112\">וְקִצֵּ֣ץ</span> <span data-strong=\"H2595\">חֲנִ֑ית</span> <span data-strong=\"H5699\">עֲ֝גָל֗וֹת</span> <span data-strong=\"H8313\">יִשְׂרֹ֥ף</span> <span data-strong=\"H784\">בָּאֵֽשׁ׃</span>",
     "transliteration": "masheviyt milehamvot 'ad-ketseh ha'arets keshet yeshaver vekitsets haniyt 'agalvot yiserof va'esh.",
     "translation": "Cessará a guerra até os confins da terra; o arco quebrarão e a lança despedaçarão; as carroças consumirão no fogo."
   },
   {
     "verse": 11,
-    "original": "הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים אָר֥וּם בַּ֝גּוֹיִ֗ם אָר֥וּם בָּאָֽרֶץ׃",
+    "original": "<span data-strong=\"H7503\">הַרְפּ֣וּ</span> <span data-strong=\"H3045\">וּ֭דְעוּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H595\">אָנֹכִ֣י</span> <span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H7311\">אָר֥וּם</span> <span data-strong=\"H1471\">בַּ֝גּוֹיִ֗ם</span> <span data-strong=\"H7311\">אָר֥וּם</span> <span data-strong=\"H776\">בָּאָֽרֶץ׃</span>",
     "transliteration": "harefv vde'v khiy-'anokhiy 'elohiym 'arvm vagvoyim 'arvm va'arets.",
     "translation": "Calma-e-conhecei que eu sou Deus, exaltado entre as nações, exaltado sobre a terra."
   },

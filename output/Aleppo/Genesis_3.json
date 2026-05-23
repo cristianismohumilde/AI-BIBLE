@@ -1,79 +1,79 @@
 [
   {
     "verse": 1,
-    "original": "וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהֹוָ֣ה אֱלֹהִ֑ים וַיֹּ֙אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן׃",
+    "original": "<span data-strong=\"H5175\">וְהַנָּחָשׁ֙</span> <span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H6175\">עָר֔וּם</span> <span data-strong=\"H3605\">מִכֹּל֙</span> <span data-strong=\"H2416\">חַיַּ֣ת</span> <span data-strong=\"H7704\">הַשָּׂדֶ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H559\">וַיֹּ֙אמֶר֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H802\">הָ֣אִשָּׁ֔ה</span> <span data-strong=\"H637\">אַ֚ף</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H430\">אֱלֹהִ֔ים</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H398\">תֹֽאכְל֔וּ</span> <span data-strong=\"H3605\">מִכֹּ֖ל</span> <span data-strong=\"H6086\">עֵ֥ץ</span> <span data-strong=\"H1588\">הַגָּֽן׃</span>",
     "transliteration": "vehanahash hayah 'arvm mikhol hayat hasadeh 'asher 'asah yehovah 'elohiym vayo'mer 'el-ha'ishah 'af khiy-'amar 'elohiym lo' to'khelv mikhol 'ets hagan.",
     "translation": "E a serpente era astuta, mais do que todas as feras do campo que fizera o Senhor Deus. E disse à mulher: \"Acaso, Deus disse que não comerão de toda árvore do jardim?\""
   },
   {
     "verse": 2,
-    "original": "וַתֹּ֥אמֶר הָֽאִשָּׁ֖ה אֶל־הַנָּחָ֑שׁ מִפְּרִ֥י עֵֽץ־הַגָּ֖ן נֹאכֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֥אמֶר</span> <span data-strong=\"H802\">הָֽאִשָּׁ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5175\">הַנָּחָ֑שׁ</span> <span data-strong=\"H6529\">מִפְּרִ֥י</span> <span data-strong=\"H6086\">עֵֽץ</span>־<span data-strong=\"H1588\">הַגָּ֖ן</span> <span data-strong=\"H398\">נֹאכֵֽל׃</span>",
     "transliteration": "vato'mer ha'ishah 'el-hanahash miferiy 'ets-hagan no'khel.",
     "translation": "E a mulher disse à serpente: Do fruto da árvore do meio do jardim comemos."
   },
   {
     "verse": 3,
-    "original": "וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹךְ־הַגָּן֒ אָמַ֣ר אֱלֹהִ֗ים לֹ֤א תֹֽאכְלוּ֙ מִמֶּ֔נּוּ וְלֹ֥א תִגְּע֖וּ בּ֑וֹ פֶּן־תְּמֻתֽוּן׃",
+    "original": "<span data-strong=\"H6529\">וּמִפְּרִ֣י</span> <span data-strong=\"H6086\">הָעֵץ֮</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H8432\">בְּתוֹךְ</span>־<span data-strong=\"H1588\">הַגָּן֒</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H430\">אֱלֹהִ֗ים</span> <span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H398\">תֹֽאכְלוּ֙</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H5060\">תִגְּע֖וּ</span> <span data-strong=\"H2050\">בּ֑וֹ</span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H4993\">תְּמֻתֽוּן׃</span>",
     "transliteration": "vmiferiy ha'ets 'asher vetvokhe-hagan 'amar 'elohiym lo' to'khelv mimenv velo' tige'v vvo fen-temutvn.",
     "translation": "E do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele e não tocareis nela, para que não morrásseis."
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֥אמֶר הַנָּחָ֖שׁ אֶל־הָֽאִשָּׁ֑ה לֹֽא־מ֖וֹת תְּמֻתֽוּן׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H5175\">הַנָּחָ֖שׁ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H802\">הָֽאִשָּׁ֑ה</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H4191\">מ֖וֹת</span> <span data-strong=\"H4993\">תְּמֻתֽוּן׃</span>",
     "transliteration": "vayo'mer hanahash 'el-ha'ishah lo'-mvot temutvn.",
     "translation": "E disse a serpente à mulher: Certamente não morrereis."
   },
   {
     "verse": 5,
-    "original": "כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכׇלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹדְעֵ֖י ט֥וֹב וָרָֽע׃",
+    "original": "<span data-strong=\"H3588\">כִּ֚י</span> <span data-strong=\"H3045\">יֹדֵ֣עַ</span> <span data-strong=\"H430\">אֱלֹהִ֔ים</span> <span data-strong=\"H3588\">כִּ֗י</span> <span data-strong=\"H3117\">בְּיוֹם֙</span> <span data-strong=\"H3641\">אֲכׇלְכֶ֣ם</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H6491\">וְנִפְקְח֖וּ</span> <span data-strong=\"H3641\">עֵֽינֵיכֶ֑ם</span> <span data-strong=\"H1961\">וִהְיִיתֶם֙</span> <span data-strong=\"H430\">כֵּֽאלֹהִ֔ים</span> <span data-strong=\"H3045\">יֹדְעֵ֖י</span> <span data-strong=\"H2896\">ט֥וֹב</span> <span data-strong=\"H7451\">וָרָֽע׃</span>",
     "transliteration": "khiy yode'a 'elohiym khiy veyvom 'akholekhem mimenv venifekehv 'eyneykhem viheyiytem khe'lohiym yode'ey tvov vara'.",
     "translation": "Porque Deus sabe que no dia em que comerdes dele, se abrirão os vossos olhos e sereis como deuses, conhecendo o bem e o mal."
   },
   {
     "verse": 6,
-    "original": "וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ הָעֵ֨ץ לְמַאֲכָ֜ל וְכִ֧י תַֽאֲוָה־ה֣וּא לָעֵינַ֗יִם וְנֶחְמָ֤ד הָעֵץ֙ לְהַשְׂכִּ֔יל וַתִּקַּ֥ח מִפִּרְי֖וֹ וַתֹּאכַ֑ל וַתִּתֵּ֧ן גַּם־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃",
+    "original": "<span data-strong=\"H7200\">וַתֵּ֣רֶא</span> <span data-strong=\"H802\">הָֽאִשָּׁ֡ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H2896\">טוֹב֩</span> <span data-strong=\"H6086\">הָעֵ֨ץ</span> <span data-strong=\"H3978\">לְמַאֲכָ֜ל</span> <span data-strong=\"H3588\">וְכִ֧י</span> <span data-strong=\"H8378\">תַֽאֲוָה</span>־<span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H5869\">לָעֵינַ֗יִם</span> <span data-strong=\"H2530\">וְנֶחְמָ֤ד</span> <span data-strong=\"H6086\">הָעֵץ֙</span> <span data-strong=\"H7919\">לְהַשְׂכִּ֔יל</span> <span data-strong=\"H3947\">וַתִּקַּ֥ח</span> <span data-strong=\"H2050\">מִפִּרְי֖וֹ</span> <span data-strong=\"H398\">וַתֹּאכַ֑ל</span> <span data-strong=\"H5414\">וַתִּתֵּ֧ן</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H1886\">לְאִישָׁ֛הּ</span> <span data-strong=\"H1886\">עִמָּ֖הּ</span> <span data-strong=\"H398\">וַיֹּאכַֽל׃</span>",
     "transliteration": "vatere' ha'ishah khiy tvov ha'ets lema'akhal vekhiy ta'avah-hv' la'eynayim venehemad ha'ets lehasekhiyl vatikah mifireyvo vato'khal vatiten gam-le'iyshah 'imah vayo'khal.",
     "translation": "E viu a mulher que o árvore era bom para se comer, e desejável aos olhos, e fascinante para obter discernimento; tomou da sua fruta e comeu, deu também ao seu homem consigo e ele comeu. \n\nNota: Houve uma pequena correção no último trecho, alterando \"ele comeu\" para \"e ele comeu\", a fim de manter a coerência com o estilo solene e formal solicitado, além de ajustar a fluidez da frase em português."
   },
   {
     "verse": 7,
-    "original": "וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת׃",
+    "original": "<span data-strong=\"H6491\">וַתִּפָּקַ֙חְנָה֙</span> <span data-strong=\"H5869\">עֵינֵ֣י</span> <span data-strong=\"H3963\">שְׁנֵיהֶ֔ם</span> <span data-strong=\"H3045\">וַיֵּ֣דְע֔וּ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H5903\">עֵֽירֻמִּ֖ם</span> <span data-strong=\"H1992\">הֵ֑ם</span> <span data-strong=\"H8609\">וַֽיִּתְפְּרוּ֙</span> <span data-strong=\"H5929\">עֲלֵ֣ה</span> <span data-strong=\"H8384\">תְאֵנָ֔ה</span> <span data-strong=\"H6213\">וַיַּעֲשׂ֥וּ</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H2290\">חֲגֹרֹֽת׃</span>",
     "transliteration": "vatifakahenah 'eyney sheneyhem vayede'v khiy 'eyrumim hem vayiteferv 'aleh te'enah vaya'asv lahem hagorot.",
     "translation": "E abriram-se os olhos de ambos, e perceberam que estavam nus; então, coseram folhas de figueira e fizeram-se cinturões."
   },
   {
     "verse": 8,
-    "original": "וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהֹוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהֹוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃",
+    "original": "<span data-strong=\"H8085\">וַֽיִּשְׁמְע֞וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6963\">ק֨וֹל</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H430\">אֱלֹהִ֛ים</span> <span data-strong=\"H1980\">מִתְהַלֵּ֥ךְ</span> <span data-strong=\"H1588\">בַּגָּ֖ן</span> <span data-strong=\"H7307\">לְר֣וּחַ</span> <span data-strong=\"H3117\">הַיּ֑וֹם</span> <span data-strong=\"H2244\">וַיִּתְחַבֵּ֨א</span> <span data-strong=\"H120\">הָֽאָדָ֜ם</span> <span data-strong=\"H2050\">וְאִשְׁתּ֗וֹ</span> <span data-strong=\"H6440\">מִפְּנֵי֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H430\">אֱלֹהִ֔ים</span> <span data-strong=\"H8432\">בְּת֖וֹךְ</span> <span data-strong=\"H6086\">עֵ֥ץ</span> <span data-strong=\"H1588\">הַגָּֽן׃</span>",
     "transliteration": "vayisheme'v 'et-kvol yehovah 'elohiym mitehalekhe vagan lervha hayvom vayitehave' ha'adam ve'ishetvo mifeney yehovah 'elohiym vetvokhe 'ets hagan.",
     "translation": "E ouviram a voz do Senhor Deus, que se dava a caminhar no jardim à refrigada hora do dia. E o homem e sua mulher esconderam-se dos olhos do Senhor Deus entre as árvores do jardim."
   },
   {
     "verse": 9,
-    "original": "וַיִּקְרָ֛א יְהֹוָ֥ה אֱלֹהִ֖ים אֶל־הָֽאָדָ֑ם וַיֹּ֥אמֶר ל֖וֹ אַיֶּֽכָּה׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֛א</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H120\">הָֽאָדָ֑ם</span> <span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H3509\">אַיֶּֽכָּה׃</span>",
     "transliteration": "vayikera' yehovah 'elohiym 'el-ha'adam vayo'mer lvo 'ayekhah.",
     "translation": "E o Senhor Deus chamou ao homem, e lhe disse: Onde estás?"
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֕אמֶר אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָאִירָ֛א כִּֽי־עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">קֹלְךָ֥</span> <span data-strong=\"H8085\">שָׁמַ֖עְתִּי</span> <span data-strong=\"H1588\">בַּגָּ֑ן</span> <span data-strong=\"H3372\">וָאִירָ֛א</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5903\">עֵירֹ֥ם</span> <span data-strong=\"H595\">אָנֹ֖כִי</span> <span data-strong=\"H2244\">וָאֵחָבֵֽא׃</span>",
     "transliteration": "vayo'mer 'et-kolekha shama'etiy vagan va'iyra' khiy-'eyrom 'anokhiy va'ehave'.",
     "translation": "E ouvi a tua voz no jardim, e temi porque estava nu, e me escondi."
   },
   {
     "verse": 11,
-    "original": "וַיֹּ֕אמֶר מִ֚י הִגִּ֣יד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה הֲמִן־הָעֵ֗ץ אֲשֶׁ֧ר צִוִּיתִ֛יךָ לְבִלְתִּ֥י אֲכׇל־מִמֶּ֖נּוּ אָכָֽלְתָּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H4310\">מִ֚י</span> <span data-strong=\"H5046\">הִגִּ֣יד</span> <span data-strong=\"H3509\">לְךָ֔</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H5903\">עֵירֹ֖ם</span> <span data-strong=\"H859\">אָ֑תָּה</span> <span data-strong=\"H4480\">הֲמִן</span>־<span data-strong=\"H6086\">הָעֵ֗ץ</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">צִוִּיתִ֛יךָ</span> <span data-strong=\"H1115\">לְבִלְתִּ֥י</span> <span data-strong=\"H398\">אֲכׇל</span>־<span data-strong=\"H5105\">מִמֶּ֖נּוּ</span> <span data-strong=\"H398\">אָכָֽלְתָּ׃</span>",
     "transliteration": "vayo'mer miy higiyd lekha khiy 'eyrom 'atah hamin-ha'ets 'asher tsiviytiykha leviletiy 'akhol-mimenv 'akhaleta.",
     "translation": "E disse: Quem te informou que estavas nu? Acaso comeste da árvore sobre a qual te ordenei que não comesses dela?"
   },
   {
     "verse": 12,
-    "original": "וַיֹּ֖אמֶר הָֽאָדָ֑ם הָֽאִשָּׁה֙ אֲשֶׁ֣ר נָתַ֣תָּה עִמָּדִ֔י הִ֛וא נָֽתְנָה־לִּ֥י מִן־הָעֵ֖ץ וָאֹכֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֖אמֶר</span> <span data-strong=\"H120\">הָֽאָדָ֑ם</span> <span data-strong=\"H802\">הָֽאִשָּׁה֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5414\">נָתַ֣תָּה</span> <span data-strong=\"H2967\">עִמָּדִ֔י</span> <span data-strong=\"H1931\">הִ֛וא</span> <span data-strong=\"H5414\">נָֽתְנָה</span>־<span data-strong=\"H2967\">לִּ֥י</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6086\">הָעֵ֖ץ</span> <span data-strong=\"H398\">וָאֹכֵֽל׃</span>",
     "transliteration": "vayo'mer ha'adam ha'ishah 'asher natatah 'imadiy hiv' natenah-liy min-ha'ets va'okhel.",
     "translation": "E disse o homem: A mulher que me deste, ela deu-me da árvore e eu comi."
   },
   {
     "verse": 13,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֧ה אֱלֹהִ֛ים לָאִשָּׁ֖ה מַה־זֹּ֣את עָשִׂ֑ית וַתֹּ֙אמֶר֙ הָֽאִשָּׁ֔ה הַנָּחָ֥שׁ הִשִּׁיאַ֖נִי וָאֹכֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H430\">אֱלֹהִ֛ים</span> <span data-strong=\"H802\">לָאִשָּׁ֖ה</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H2063\">זֹּ֣את</span> <span data-strong=\"H6213\">עָשִׂ֑ית</span> <span data-strong=\"H559\">וַתֹּ֙אמֶר֙</span> <span data-strong=\"H802\">הָֽאִשָּׁ֔ה</span> <span data-strong=\"H5175\">הַנָּחָ֥שׁ</span> <span data-strong=\"H5204\">הִשִּׁיאַ֖נִי</span> <span data-strong=\"H398\">וָאֹכֵֽל׃</span>",
     "transliteration": "vayo'mer yehovah 'elohiym la'ishah mah-zo't 'asiyt vato'mer ha'ishah hanahash hishiy'aniy va'okhel.",
     "translation": "E disse o Senhor Deus à mulher: \"O que fizeste?\" E a mulher respondeu: \"A serpente me enganou, e eu comi.\""
   },
@@ -97,25 +97,25 @@
   },
   {
     "verse": 17,
-    "original": "וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַ֘עְתָּ֮ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכְלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃",
+    "original": "<span data-strong=\"H121\">וּלְאָדָ֣ם</span> <span data-strong=\"H559\">אָמַ֗ר</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H8085\">שָׁמַ֘עְתָּ֮</span> <span data-strong=\"H6963\">לְק֣וֹל</span> <span data-strong=\"H3509\">אִשְׁתֶּ֒ךָ֒</span> <span data-strong=\"H398\">וַתֹּ֙אכַל֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6086\">הָעֵ֔ץ</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H3509\">צִוִּיתִ֙יךָ֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H398\">תֹאכַ֖ל</span> <span data-strong=\"H5105\">מִמֶּ֑נּוּ</span> <span data-strong=\"H779\">אֲרוּרָ֤ה</span> <span data-strong=\"H127\">הָֽאֲדָמָה֙</span> <span data-strong=\"H3509\">בַּֽעֲבוּרֶ֔ךָ</span> <span data-strong=\"H6093\">בְּעִצָּבוֹן֙</span> <span data-strong=\"H5089\">תֹּֽאכְלֶ֔נָּה</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H3509\">חַיֶּֽיךָ׃</span>",
     "transliteration": "vle'adam 'amar khiy-shama'eta lekvol 'ishetekha vato'khal min-ha'ets 'asher tsiviytiykha le'mor lo' to'khal mimenv 'arvrah ha'adamah va'avvrekha ve'itsavvon to'khelenah khol yemey hayeykha.",
     "translation": "E ao homem disse: Porque ouviste a voz de tua mulher e comeste da árvore, do qual te ordenei dizendo: Não comerás dela; maldita é a terra por tua causa; com angústia comerás dela todos os dias de tua vida."
   },
   {
     "verse": 18,
-    "original": "וְק֥וֹץ וְדַרְדַּ֖ר תַּצְמִ֣יחַֽ לָ֑ךְ וְאָכַלְתָּ֖ אֶת־עֵ֥שֶׂב הַשָּׂדֶֽה׃",
+    "original": "<span data-strong=\"H6975\">וְק֥וֹץ</span> <span data-strong=\"H1863\">וְדַרְדַּ֖ר</span> <span data-strong=\"H6779\">תַּצְמִ֣יחַֽ</span> <span data-strong=\"H3509\">לָ֑ךְ</span> <span data-strong=\"H398\">וְאָכַלְתָּ֖</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6212\">עֵ֥שֶׂב</span> <span data-strong=\"H7704\">הַשָּׂדֶֽה׃</span>",
     "transliteration": "vekvots vedaredar tatsemiyha lakhe ve'akhaleta 'et-'esev hasadeh.",
     "translation": "E espinhos e aborrecimentos te produzirá, e comerás doerva do campo."
   },
   {
     "verse": 19,
-    "original": "בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ כִּֽי־עָפָ֣ר אַ֔תָּה וְאֶל־עָפָ֖ר תָּשֽׁוּב׃",
+    "original": "<span data-strong=\"H2188\">בְּזֵעַ֤ת</span> <span data-strong=\"H3509\">אַפֶּ֙יךָ֙</span> <span data-strong=\"H398\">תֹּ֣אכַל</span> <span data-strong=\"H3899\">לֶ֔חֶם</span> <span data-strong=\"H5704\">עַ֤ד</span> <span data-strong=\"H3509\">שֽׁוּבְךָ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H127\">הָ֣אֲדָמָ֔ה</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H5089\">מִמֶּ֖נָּה</span> <span data-strong=\"H3947\">לֻקָּ֑חְתָּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6083\">עָפָ֣ר</span> <span data-strong=\"H859\">אַ֔תָּה</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H6083\">עָפָ֖ר</span> <span data-strong=\"H7725\">תָּשֽׁוּב׃</span>",
     "transliteration": "veze'at 'afeykha to'khal lehem 'ad shvvekha 'el-ha'adamah khiy mimenah lukaheta khiy-'afar 'atah ve'el-'afar tashvv.",
     "translation": "No suor do teu rosto comerás o teu pão, até que retorneis à terra, pois dela foste tomado; porque pó és, e a pó retornarás."
   },
   {
     "verse": 20,
-    "original": "וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כׇּל־חָֽי׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֧א</span> <span data-strong=\"H120\">הָֽאָדָ֛ם</span> <span data-strong=\"H8034\">שֵׁ֥ם</span> <span data-strong=\"H2050\">אִשְׁתּ֖וֹ</span> <span data-strong=\"H2332\">חַוָּ֑ה</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H1931\">הִ֥וא</span> <span data-strong=\"H1961\">הָֽיְתָ֖ה</span> <span data-strong=\"H517\">אֵ֥ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2416\">חָֽי׃</span>",
     "transliteration": "vayikera' ha'adam shem 'ishetvo havah khiy hiv' hayetah 'em khol-hay.",
     "translation": "E chamou o homem o nome de sua mulher Eva, porque ela foi mãe de todos os viventes."
   },
@@ -127,13 +127,13 @@
   },
   {
     "verse": 22,
-    "original": "וַיֹּ֣אמֶר&thinsp;<b>׀</b> יְהֹוָ֣ה אֱלֹהִ֗ים הֵ֤ן הָֽאָדָם֙ הָיָה֙ כְּאַחַ֣ד מִמֶּ֔נּוּ לָדַ֖עַת ט֣וֹב וָרָ֑ע וְעַתָּ֣ה&thinsp;<b>׀</b> פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H430\">אֱלֹהִ֗ים</span> <span data-strong=\"H2005\">הֵ֤ן</span> <span data-strong=\"H120\">הָֽאָדָם֙</span> <span data-strong=\"H1961\">הָיָה֙</span> <span data-strong=\"H259\">כְּאַחַ֣ד</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H3045\">לָדַ֖עַת</span> <span data-strong=\"H2896\">ט֣וֹב</span> <span data-strong=\"H7451\">וָרָ֑ע</span> <span data-strong=\"H6258\">וְעַתָּ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H7971\">יִשְׁלַ֣ח</span> <span data-strong=\"H2050\">יָד֗וֹ</span> <span data-strong=\"H3947\">וְלָקַח֙</span> <span data-strong=\"H1571\">גַּ֚ם</span> <span data-strong=\"H6086\">מֵעֵ֣ץ</span> <span data-strong=\"H2416\">הַֽחַיִּ֔ים</span> <span data-strong=\"H398\">וְאָכַ֖ל</span> <span data-strong=\"H2421\">וָחַ֥י</span> <span data-strong=\"H5769\">לְעֹלָֽם׃</span>",
     "transliteration": "vayo'mer&thinsp;<b>|</b> yehovah 'elohiym hen ha'adam hayah khe'ahad mimenv lada'at tvov vara' ve'atah&thinsp;<b>|</b> fen-yishelah yadvo velakah gam me'ets hahayiym ve'akhal vahay le'olam.",
     "translation": "E disse o Senhor Deus: Eis que o homem se tornou como um de nós para conhecer o bem e o mal; e agora, para que não estenda a mão e também tome da árvore da vida, e coma e viva para sempre."
   },
   {
     "verse": 23,
-    "original": "וַֽיְשַׁלְּחֵ֛הוּ יְהֹוָ֥ה אֱלֹהִ֖ים מִגַּן־עֵ֑דֶן לַֽעֲבֹד֙ אֶת־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר לֻקַּ֖ח מִשָּֽׁם׃",
+    "original": "<span data-strong=\"H1930\">וַֽיְשַׁלְּחֵ֛הוּ</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H1588\">מִגַּן</span>־<span data-strong=\"H5731\">עֵ֑דֶן</span> <span data-strong=\"H5647\">לַֽעֲבֹד֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H127\">הָ֣אֲדָמָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3947\">לֻקַּ֖ח</span> <span data-strong=\"H8033\">מִשָּֽׁם׃</span>",
     "transliteration": "vayeshalehehv yehovah 'elohiym migan-'eden la'avod 'et-ha'adamah 'asher lukah misham.",
     "translation": "E o Senhor Deus o expulsou do Jardim do Éden para cultivar a terra de onde havia sido tirado."
   },

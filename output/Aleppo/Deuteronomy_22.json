@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "לֹֽא־תִרְאֶה֩ אֶת־שׁ֨וֹר אָחִ֜יךָ א֤וֹ אֶת־שֵׂיוֹ֙ נִדָּחִ֔ים וְהִתְעַלַּמְתָּ֖ מֵהֶ֑ם הָשֵׁ֥ב תְּשִׁיבֵ֖ם לְאָחִֽיךָ׃",
+    "original": "<span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7200\">תִרְאֶה֩</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7794\">שׁ֨וֹר</span> <span data-strong=\"H3509\">אָחִ֜יךָ</span> <span data-strong=\"H176\">א֤וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">שֵׂיוֹ֙</span> <span data-strong=\"H5080\">נִדָּחִ֔ים</span> <span data-strong=\"H5956\">וְהִתְעַלַּמְתָּ֖</span> <span data-strong=\"H3963\">מֵהֶ֑ם</span> <span data-strong=\"H7725\">הָשֵׁ֥ב</span> <span data-strong=\"H3963\">תְּשִׁיבֵ֖ם</span> <span data-strong=\"H3509\">לְאָחִֽיךָ׃</span>",
     "transliteration": "lo'-tire'eh 'et-shvor 'ahiykha 'vo 'et-seyvo nidahiym vehite'alameta mehem hashev teshiyvem le'ahiykha.",
     "translation": "Não verás o boi do teu irmão ou a sua ovelha perdidos e te esconderás diante deles; os restituirás ao teu irmão."
   },
   {
     "verse": 2,
-    "original": "וְאִם־לֹ֨א קָר֥וֹב אָחִ֛יךָ אֵלֶ֖יךָ וְלֹ֣א יְדַעְתּ֑וֹ וַאֲסַפְתּוֹ֙ אֶל־תּ֣וֹךְ בֵּיתֶ֔ךָ וְהָיָ֣ה עִמְּךָ֗ עַ֣ד דְּרֹ֤שׁ אָחִ֙יךָ֙ אֹת֔וֹ וַהֲשֵׁבֹת֖וֹ לֽוֹ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H3808\">לֹ֨א</span> <span data-strong=\"H7138\">קָר֥וֹב</span> <span data-strong=\"H3509\">אָחִ֛יךָ</span> <span data-strong=\"H3509\">אֵלֶ֖יךָ</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H2050\">יְדַעְתּ֑וֹ</span> <span data-strong=\"H2050\">וַאֲסַפְתּוֹ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8432\">תּ֣וֹךְ</span> <span data-strong=\"H3509\">בֵּיתֶ֔ךָ</span> <span data-strong=\"H1961\">וְהָיָ֣ה</span> <span data-strong=\"H3509\">עִמְּךָ֗</span> <span data-strong=\"H5704\">עַ֣ד</span> <span data-strong=\"H1875\">דְּרֹ֤שׁ</span> <span data-strong=\"H3509\">אָחִ֙יךָ֙</span> <span data-strong=\"H2050\">אֹת֔וֹ</span> <span data-strong=\"H2050\">וַהֲשֵׁבֹת֖וֹ</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "ve'im-lo' karvov 'ahiykha 'eleykha velo' yeda'etvo va'asafetvo 'el-tvokhe veytekha vehayah 'imekha 'ad derosh 'ahiykha 'otvo vahashevotvo lvo.",
     "translation": "E se o teu irmão não for-te próximo e tu não o conheceres, e o ajuntas para dentro da tua casa, e ele ficará contigo até que o seu irmão venha a procurá-lo, e tu o restituirás a ele."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "כִּ֤י תִבְנֶה֙ בַּ֣יִת חָדָ֔שׁ וְעָשִׂ֥יתָ מַעֲקֶ֖ה לְגַגֶּ֑ךָ וְלֹֽא־תָשִׂ֤ים דָּמִים֙ בְּבֵיתֶ֔ךָ כִּֽי־יִפֹּ֥ל הַנֹּפֵ֖ל מִמֶּֽנּוּ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H1129\">תִבְנֶה֙</span> <span data-strong=\"H1004\">בַּ֣יִת</span> <span data-strong=\"H2319\">חָדָ֔שׁ</span> <span data-strong=\"H6213\">וְעָשִׂ֥יתָ</span> <span data-strong=\"H4624\">מַעֲקֶ֖ה</span> <span data-strong=\"H3509\">לְגַגֶּ֑ךָ</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H7760\">תָשִׂ֤ים</span> <span data-strong=\"H1818\">דָּמִים֙</span> <span data-strong=\"H3509\">בְּבֵיתֶ֔ךָ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5307\">יִפֹּ֥ל</span> <span data-strong=\"H5307\">הַנֹּפֵ֖ל</span> <span data-strong=\"H5105\">מִמֶּֽנּוּ׃</span>",
     "transliteration": "khiy tiveneh vayit hadash ve'asiyta ma'akeh legagekha velo'-tasiym damiym veveytekha khiy-yifol hanofel mimenv.",
     "translation": "Porque, se edificares uma casa nova, faz um parapeito para o telhado, e não haverá sangue em tua casa, se alguém cair dele."
   },
@@ -55,7 +55,7 @@
   },
   {
     "verse": 10,
-    "original": "לֹֽא־תַחֲרֹ֥שׁ בְּשׁוֹר־וּבַחֲמֹ֖ר יַחְדָּֽו׃",
+    "original": "<span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H2790\">תַחֲרֹ֥שׁ</span> <span data-strong=\"H7794\">בְּשׁוֹר</span>־<span data-strong=\"H2543\">וּבַחֲמֹ֖ר</span> <span data-strong=\"H3162\">יַחְדָּֽו׃</span>",
     "transliteration": "lo'-taharosh veshvor-vvahamor yahedav.",
     "translation": "Não ararás com um boi e um jumento junctamente."
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "כִּֽי־יִקַּ֥ח אִ֖ישׁ אִשָּׁ֑ה וּבָ֥א אֵלֶ֖יהָ וּשְׂנֵאָֽהּ׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3947\">יִקַּ֥ח</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H802\">אִשָּׁ֑ה</span> <span data-strong=\"H935\">וּבָ֥א</span> <span data-strong=\"H1886\">אֵלֶ֖יהָ</span> <span data-strong=\"H1886\">וּשְׂנֵאָֽהּ׃</span>",
     "transliteration": "khiy-yikah 'iysh 'ishah vva' 'eleyha vsene'ah.",
     "translation": "Porque tomará um homem uma mulher, e se aproximar dela, e depois aborrecer-se dela."
   },
   {
     "verse": 14,
-    "original": "וְשָׂ֥ם לָהּ֙ עֲלִילֹ֣ת דְּבָרִ֔ים וְהוֹצִ֥א עָלֶ֖יהָ שֵׁ֣ם רָ֑ע וְאָמַ֗ר אֶת־הָאִשָּׁ֤ה הַזֹּאת֙ לָקַ֔חְתִּי וָאֶקְרַ֣ב אֵלֶ֔יהָ וְלֹא־מָצָ֥אתִי לָ֖הּ בְּתוּלִֽים׃",
+    "original": "<span data-strong=\"H7760\">וְשָׂ֥ם</span> <span data-strong=\"H1886\">לָהּ֙</span> <span data-strong=\"H5949\">עֲלִילֹ֣ת</span> <span data-strong=\"H1697\">דְּבָרִ֔ים</span> <span data-strong=\"H3318\">וְהוֹצִ֥א</span> <span data-strong=\"H1886\">עָלֶ֖יהָ</span> <span data-strong=\"H8034\">שֵׁ֣ם</span> <span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H559\">וְאָמַ֗ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H802\">הָאִשָּׁ֤ה</span> <span data-strong=\"H2063\">הַזֹּאת֙</span> <span data-strong=\"H3947\">לָקַ֔חְתִּי</span> <span data-strong=\"H7126\">וָאֶקְרַ֣ב</span> <span data-strong=\"H1886\">אֵלֶ֔יהָ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H4672\">מָצָ֥אתִי</span> <span data-strong=\"H1886\">לָ֖הּ</span> <span data-strong=\"H1331\">בְּתוּלִֽים׃</span>",
     "transliteration": "vesam lah 'aliylot devariym vehvotsi' 'aleyha shem ra' ve'amar 'et-ha'ishah hazo't lakahetiy va'ekerav 'eleyha velo'-matsa'tiy lah vetvliym.",
     "translation": "E lhe põe intrigas de palavras, lançando-lhe uma má fama; e diz: Esta mulher tomei por esposa; e me chegando a ela, não achei nela os sinais da virgindade."
   },
@@ -97,13 +97,13 @@
   },
   {
     "verse": 17,
-    "original": "וְהִנֵּה־ה֡וּא שָׂם֩ עֲלִילֹ֨ת דְּבָרִ֜ים לֵאמֹ֗ר לֹֽא־מָצָ֤אתִי לְבִתְּךָ֙ בְּתוּלִ֔ים וְאֵ֖לֶּה בְּתוּלֵ֣י בִתִּ֑י וּפָֽרְשׂוּ֙ הַשִּׂמְלָ֔ה לִפְנֵ֖י זִקְנֵ֥י הָעִֽיר׃",
+    "original": "<span data-strong=\"H2009\">וְהִנֵּה</span>־<span data-strong=\"H1931\">ה֡וּא</span> <span data-strong=\"H7760\">שָׂם֩</span> <span data-strong=\"H5949\">עֲלִילֹ֨ת</span> <span data-strong=\"H1697\">דְּבָרִ֜ים</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H4672\">מָצָ֤אתִי</span> <span data-strong=\"H3509\">לְבִתְּךָ֙</span> <span data-strong=\"H1331\">בְּתוּלִ֔ים</span> <span data-strong=\"H428\">וְאֵ֖לֶּה</span> <span data-strong=\"H1331\">בְּתוּלֵ֣י</span> <span data-strong=\"H2967\">בִתִּ֑י</span> <span data-strong=\"H6566\">וּפָֽרְשׂוּ֙</span> <span data-strong=\"H8071\">הַשִּׂמְלָ֔ה</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H2205\">זִקְנֵ֥י</span> <span data-strong=\"H5892\">הָעִֽיר׃</span>",
     "transliteration": "vehineh-hv' sam 'aliylot devariym le'mor lo'-matsa'tiy levitekha vetvliym ve'eleh vetvley vitiy vfaresv hasimelah lifeney zikeney ha'iyr.",
     "translation": "Eis que ele pôs palavras de acusação, dizendo: Não encontrei as provas da virgindade de tua filha; eis aqui as provas da virgindade de minha filha! E espalharam o manto diante dos anciãos da cidade."
   },
   {
     "verse": 18,
-    "original": "וְלָ֥קְח֛וּ זִקְנֵ֥י הָֽעִיר־הַהִ֖וא אֶת־הָאִ֑ישׁ וְיִסְּר֖וּ אֹתֽוֹ׃",
+    "original": "<span data-strong=\"H3947\">וְלָ֥קְח֛וּ</span> <span data-strong=\"H2205\">זִקְנֵ֥י</span> <span data-strong=\"H5892\">הָֽעִיר</span>־<span data-strong=\"H1931\">הַהִ֖וא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H376\">הָאִ֑ישׁ</span> <span data-strong=\"H3256\">וְיִסְּר֖וּ</span> <span data-strong=\"H2050\">אֹתֽוֹ׃</span>",
     "transliteration": "velakehv zikeney ha'iyr-hahiv' 'et-ha'iysh veyiserv 'otvo.",
     "translation": "E os anciãos daquela cidade tomarão o homem e o castigarão."
   },

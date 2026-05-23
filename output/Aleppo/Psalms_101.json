@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "לְדָוִ֗ד מִ֫זְמ֥וֹר חֶֽסֶד־וּמִשְׁפָּ֥ט אָשִׁ֑ירָה לְךָ֖ יְהֹוָ֣ה אֲזַמֵּֽרָה׃",
+    "original": "<span data-strong=\"H1732\">לְדָוִ֗ד</span> <span data-strong=\"H4210\">מִ֫זְמ֥וֹר</span> <span data-strong=\"H2617\">חֶֽסֶד</span>־<span data-strong=\"H4941\">וּמִשְׁפָּ֥ט</span> <span data-strong=\"H7891\">אָשִׁ֑ירָה</span> <span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H2167\">אֲזַמֵּֽרָה׃</span>",
     "transliteration": "ledavid mizemvor hesed-vmishefat 'ashiyrah lekha yehovah 'azamerah.",
     "translation": "Para Davi. Salmo: Cantarei misericórdia e justiça; a ti, SENHOR, cantarei louvores."
   },
   {
     "verse": 2,
-    "original": "אַשְׂכִּ֤ילָה&thinsp;<b>׀</b> בְּדֶ֬רֶךְ תָּמִ֗ים מָ֭תַי תָּב֣וֹא אֵלָ֑י אֶתְהַלֵּ֥ךְ בְּתׇם־לְ֝בָבִ֗י בְּקֶ֣רֶב בֵּיתִֽי׃",
+    "original": "<span data-strong=\"H7919\">אַשְׂכִּ֤ילָה&thinsp;<b>׀</b></span> <span data-strong=\"H1870\">בְּדֶ֬רֶךְ</span> <span data-strong=\"H8549\">תָּמִ֗ים</span> <span data-strong=\"H4970\">מָ֭תַי</span> <span data-strong=\"H935\">תָּב֣וֹא</span> <span data-strong=\"H2967\">אֵלָ֑י</span> <span data-strong=\"H1980\">אֶתְהַלֵּ֥ךְ</span> <span data-strong=\"H8537\">בְּתׇם</span>־<span data-strong=\"H2967\">לְ֝בָבִ֗י</span> <span data-strong=\"H7130\">בְּקֶ֣רֶב</span> <span data-strong=\"H2967\">בֵּיתִֽי׃</span>",
     "transliteration": "'asekhiylah&thinsp;<b>|</b> vederekhe tamiym matay tavvo' 'elay 'etehalekhe vetom-levaviy vekerev veytiy.",
     "translation": "Compreenderei no caminho da integridade; quando virá a mim? Andarei com coração íntegro no meio de minha casa."
   },
   {
     "verse": 3,
-    "original": "לֹֽא־אָשִׁ֨ית&thinsp;<b>׀</b> לְנֶ֥גֶד עֵינַ֗י דְּֽבַר־בְּלִ֫יָּ֥עַל עֲשֹֽׂה־סֵטִ֥ים שָׂנֵ֑אתִי לֹ֖א יִדְבַּ֣ק בִּֽי׃",
+    "original": "<span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7896\">אָשִׁ֨ית&thinsp;<b>׀</b></span> <span data-strong=\"H5048\">לְנֶ֥גֶד</span> <span data-strong=\"H2967\">עֵינַ֗י</span> <span data-strong=\"H1697\">דְּֽבַר</span>־<span data-strong=\"H1100\">בְּלִ֫יָּ֥עַל</span> <span data-strong=\"H6213\">עֲשֹֽׂה</span>־<span data-strong=\"H7750\">סֵטִ֥ים</span> <span data-strong=\"H8130\">שָׂנֵ֑אתִי</span> <span data-strong=\"H3808\">לֹ֖א</span> <span data-strong=\"H1692\">יִדְבַּ֣ק</span> <span data-strong=\"H2967\">בִּֽי׃</span>",
     "transliteration": "lo'-'ashiyt&thinsp;<b>|</b> leneged 'eynay devar-veliya'al 'asoh-setiym sane'tiy lo' yidevak viy.",
     "translation": "Não pus diante dos meus olhos palavra vil; aborreço obra perversa, não se apegará a mim."
   },
   {
     "verse": 4,
-    "original": "לֵבָ֣ב עִ֭קֵּשׁ יָס֣וּר מִמֶּ֑נִּי רָ֝֗ע לֹ֣א אֵדָֽע׃",
+    "original": "<span data-strong=\"H3824\">לֵבָ֣ב</span> <span data-strong=\"H6141\">עִ֭קֵּשׁ</span> <span data-strong=\"H5493\">יָס֣וּר</span> <span data-strong=\"H2967\">מִמֶּ֑נִּי</span> <span data-strong=\"H7451\">רָ֝֗ע</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H3045\">אֵדָֽע׃</span>",
     "transliteration": "levav 'ikesh yasvr mimeniy ra' lo' 'eda'.",
     "translation": "Coração obstinado se aparta de mim; eu não conheço o mal."
   },
@@ -31,13 +31,13 @@
   },
   {
     "verse": 6,
-    "original": "עֵינַ֤י&thinsp;<b>׀</b> בְּנֶֽאֶמְנֵי־אֶרֶץ֮ לָשֶׁ֢בֶת עִמָּ֫דִ֥י הֹ֭לֵךְ בְּדֶ֣רֶךְ תָּמִ֑ים ה֝֗וּא יְשָׁרְתֵֽנִי׃",
+    "original": "<span data-strong=\"H2967\">עֵינַ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H539\">בְּנֶֽאֶמְנֵי</span>־<span data-strong=\"H776\">אֶרֶץ֮</span> <span data-strong=\"H3427\">לָשֶׁ֢בֶת</span> <span data-strong=\"H2967\">עִמָּ֫דִ֥י</span> <span data-strong=\"H1980\">הֹ֭לֵךְ</span> <span data-strong=\"H1870\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H8549\">תָּמִ֑ים</span> <span data-strong=\"H1931\">ה֝֗וּא</span> <span data-strong=\"H5204\">יְשָׁרְתֵֽנִי׃</span>",
     "transliteration": "'eynay&thinsp;<b>|</b> vene'emeney-'erets lashevet 'imadiy holekhe vederekhe tamiym hv' yeshareteniy.",
     "translation": "Meus olhos estão sobre os fiéis da terra para que habitem comigo; aquele que anda na perfeição me serve."
   },
   {
     "verse": 7,
-    "original": "לֹֽא־יֵשֵׁ֨ב&thinsp;<b>׀</b> בְּקֶ֥רֶב בֵּיתִי֮ עֹשֵׂ֢ה רְמִ֫יָּ֥ה דֹּבֵ֥ר שְׁקָרִ֑ים לֹא־יִ֝כּ֗וֹן לְנֶ֣גֶד עֵינָֽי׃",
+    "original": "<span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3427\">יֵשֵׁ֨ב&thinsp;<b>׀</b></span> <span data-strong=\"H7130\">בְּקֶ֥רֶב</span> <span data-strong=\"H2967\">בֵּיתִי֮</span> <span data-strong=\"H6213\">עֹשֵׂ֢ה</span> <span data-strong=\"H7423\">רְמִ֫יָּ֥ה</span> <span data-strong=\"H1696\">דֹּבֵ֥ר</span> <span data-strong=\"H8267\">שְׁקָרִ֑ים</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3559\">יִ֝כּ֗וֹן</span> <span data-strong=\"H5048\">לְנֶ֣גֶד</span> <span data-strong=\"H2967\">עֵינָֽי׃</span>",
     "transliteration": "lo'-yeshev&thinsp;<b>|</b> vekerev veytiy 'oseh remiyah dover shekariym lo'-yikhvon leneged 'eynay.",
     "translation": "Não se assentará na congregação da minha casa quem pratica a mentira, quem fala falsidades; não será confirmado diante dos meus olhos."
   },

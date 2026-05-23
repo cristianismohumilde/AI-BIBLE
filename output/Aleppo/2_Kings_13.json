@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "בִּשְׁנַ֨ת עֶשְׂרִ֤ים וְשָׁלֹשׁ֙ שָׁנָ֔ה לְיוֹאָ֥שׁ בֶּן־אֲחַזְיָ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַ֠ךְ יְהוֹאָחָ֨ז בֶּן־יֵה֤וּא עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְר֔וֹן שְׁבַ֥ע עֶשְׂרֵ֖ה שָׁנָֽה׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֨ת</span> <span data-strong=\"H6242\">עֶשְׂרִ֤ים</span> <span data-strong=\"H7969\">וְשָׁלֹשׁ֙</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H3101\">לְיוֹאָ֥שׁ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H274\">אֲחַזְיָ֖הוּ</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H4427\">מָ֠לַ֠ךְ</span> <span data-strong=\"H3059\">יְהוֹאָחָ֨ז</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3058\">יֵה֤וּא</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H8111\">בְּשֹׁ֣מְר֔וֹן</span> <span data-strong=\"H7651\">שְׁבַ֥ע</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vishenat 'eseriym veshalosh shanah leyvo'ash ven-'ahazeyahv melekhe yehvdah malakhe yehvo'ahaz ven-yehv' 'al-yisera'el veshomervon sheva' 'esereh shanah.",
     "translation": "No ano vigésimo e terceiro de Joás, filho de Acazias, rei de Judá, Joiacaz, filho de Jotão, reinou sobre Israel em Samaria, sete anos."
   },
   {
     "verse": 2,
-    "original": "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה וַ֠יֵּ֠לֶךְ אַחַ֨ר חַטֹּ֜את יָרׇבְעָ֧ם בֶּן־נְבָ֛ט אֲשֶׁר־הֶחֱטִ֥יא אֶת־יִשְׂרָאֵ֖ל לֹא־סָ֥ר מִמֶּֽנָּה׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֥עַשׂ</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H1980\">וַ֠יֵּ֠לֶךְ</span> <span data-strong=\"H310\">אַחַ֨ר</span> <span data-strong=\"H2403\">חַטֹּ֜את</span> <span data-strong=\"H3379\">יָרׇבְעָ֧ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5028\">נְבָ֛ט</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2398\">הֶחֱטִ֥יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5493\">סָ֥ר</span> <span data-strong=\"H5089\">מִמֶּֽנָּה׃</span>",
     "transliteration": "vaya'as hara' ve'eyney yehovah vayelekhe 'ahar hato't yarove'am ven-nevat 'asher-hehetiy' 'et-yisera'el lo'-sar mimenah.",
     "translation": "E fez o mal perante os olhos do SENHOR, e seguiu as iniquidades de Jeroboão, filho de Nebat, pelas quais ele fez pecar a Israel; não se desviou delas."
   },
   {
     "verse": 3,
-    "original": "וַיִּֽחַר־אַ֥ף יְהֹוָ֖ה בְּיִשְׂרָאֵ֑ל וַֽיִּתְּנֵ֞ם בְּיַ֣ד&thinsp;<b>׀</b> חֲזָאֵ֣ל מֶלֶךְ־אֲרָ֗ם וּבְיַ֛ד בֶּן־הֲדַ֥ד בֶּן־חֲזָאֵ֖ל כׇּל־הַיָּמִֽים׃",
+    "original": "<span data-strong=\"H2734\">וַיִּֽחַר</span>־<span data-strong=\"H639\">אַ֥ף</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֑ל</span> <span data-strong=\"H3963\">וַֽיִּתְּנֵ֞ם</span> <span data-strong=\"H3027\">בְּיַ֣ד&thinsp;<b>׀</b></span> <span data-strong=\"H2371\">חֲזָאֵ֣ל</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H758\">אֲרָ֗ם</span> <span data-strong=\"H3027\">וּבְיַ֛ד</span> <span data-strong=\"H1130\">בֶּן</span>־<span data-strong=\"H1130\">הֲדַ֥ד</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2371\">חֲזָאֵ֖ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">הַיָּמִֽים׃</span>",
     "transliteration": "vayihar-'af yehovah veyisera'el vayitenem veyad&thinsp;<b>|</b> haza'el melekhe-'aram vveyad ven-hadad ven-haza'el khol-hayamiym.",
     "translation": "E a ira do Senhor se acendeu contra Israel, e ele os entregou na mão de Hazael, rei da Síria, e na mão de Ben-Hadade, filho de Hazael, todo o tempo."
   },
   {
     "verse": 4,
-    "original": "וַיְחַ֥ל יְהוֹאָחָ֖ז אֶת־פְּנֵ֣י יְהֹוָ֑ה וַיִּשְׁמַ֤ע אֵלָיו֙ יְהֹוָ֔ה כִּ֤י רָאָה֙ אֶת־לַ֣חַץ יִשְׂרָאֵ֔ל כִּי־לָחַ֥ץ אֹתָ֖ם מֶ֥לֶךְ אֲרָֽם׃",
+    "original": "<span data-strong=\"H2470\">וַיְחַ֥ל</span> <span data-strong=\"H3059\">יְהוֹאָחָ֖ז</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H6440\">פְּנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H8085\">וַיִּשְׁמַ֤ע</span> <span data-strong=\"H2050\">אֵלָיו֙</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H7200\">רָאָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3906\">לַ֣חַץ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H3905\">לָחַ֥ץ</span> <span data-strong=\"H3963\">אֹתָ֖ם</span> <span data-strong=\"H4428\">מֶ֥לֶךְ</span> <span data-strong=\"H758\">אֲרָֽם׃</span>",
     "transliteration": "vayehal yehvo'ahaz 'et-feney yehovah vayishema' 'elayv yehovah khiy ra'ah 'et-lahats yisera'el khiy-lahats 'otam melekhe 'aram.",
     "translation": "E Joacaz clamou diante do Senhor, e o Senhor atendeu a sua súplica; pois viu o sofrimento de Israel, pois o rei da Síria os afligia severamente."
   },
   {
     "verse": 5,
-    "original": "וַיִּתֵּ֨ן יְהֹוָ֤ה לְיִשְׂרָאֵל֙ מוֹשִׁ֔יעַ וַיֵּ֣צְא֔וּ מִתַּ֖חַת יַד־אֲרָ֑ם וַיֵּשְׁב֧וּ בְנֵי־יִשְׂרָאֵ֛ל בְּאׇהֳלֵיהֶ֖ם כִּתְמ֥וֹל שִׁלְשֽׁוֹם׃",
+    "original": "<span data-strong=\"H5414\">וַיִּתֵּ֨ן</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3478\">לְיִשְׂרָאֵל֙</span> <span data-strong=\"H3467\">מוֹשִׁ֔יעַ</span> <span data-strong=\"H3318\">וַיֵּ֣צְא֔וּ</span> <span data-strong=\"H8478\">מִתַּ֖חַת</span> <span data-strong=\"H3027\">יַד</span>־<span data-strong=\"H758\">אֲרָ֑ם</span> <span data-strong=\"H3427\">וַיֵּשְׁב֧וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H3963\">בְּאׇהֳלֵיהֶ֖ם</span> <span data-strong=\"H8543\">כִּתְמ֥וֹל</span> <span data-strong=\"H8032\">שִׁלְשֽׁוֹם׃</span>",
     "transliteration": "vayiten yehovah leyisera'el mvoshiy'a vayetse'v mitahat yad-'aram vayeshevv veney-yisera'el ve'oholeyhem khitemvol shileshvom.",
     "translation": "E o Senhor deu a Israel um libertador, e eles saíram do domínio dos sírios. Os filhos de Israel habitaram em suas tendas como ontem, na paz anterior."
   },
   {
     "verse": 6,
-    "original": "אַ֠ךְ לֹא־סָ֜רוּ מֵחַטֹּ֧את בֵּית־יָרׇבְעָ֛ם אֲשֶׁר־הֶחֱטִ֥י אֶת־יִשְׂרָאֵ֖ל בָּ֣הּ הָלָ֑ךְ וְגַם֙ הָאֲשֵׁרָ֔ה עָמְדָ֖ה בְּשֹׁמְרֽוֹן׃",
+    "original": "<span data-strong=\"H389\">אַ֠ךְ</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5493\">סָ֜רוּ</span> <span data-strong=\"H2403\">מֵחַטֹּ֧את</span> <span data-strong=\"H1004\">בֵּית</span>־<span data-strong=\"H3379\">יָרׇבְעָ֛ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־הֶחֱטִ֥י <span data-strong=\"H2398\">אֶת</span>־<span data-strong=\"H853\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3478\">בָּ֣הּ</span> <span data-strong=\"H1886\">הָלָ֑ךְ</span> <span data-strong=\"H1980\">וְגַם֙</span> <span data-strong=\"H1571\">הָאֲשֵׁרָ֔ה</span> <span data-strong=\"H842\">עָמְדָ֖ה</span> <span data-strong=\"H5975\">בְּשֹׁמְרֽוֹן׃</span>",
     "transliteration": "'akhe lo'-sarv mehato't veyt-yarove'am 'asher-hehetiy 'et-yisera'el vah halakhe vegam ha'asherah 'amedah veshomervon.",
     "translation": "Contudo, não se desviaram dos pecados da casa de Jeroboão, que fez Israel pecar; sim, a coluna de Asera permaneceu em Samaria."
   },
   {
     "verse": 7,
-    "original": "כִּ֣י לֹא֩ הִשְׁאִ֨יר לִיהוֹאָחָ֜ז עָ֗ם כִּ֣י אִם־חֲמִשִּׁ֤ים פָּֽרָשִׁים֙ וַעֲשָׂ֣רָה רֶ֔כֶב וַעֲשֶׂ֥רֶת אֲלָפִ֖ים רַגְלִ֑י כִּ֤י אִבְּדָם֙ מֶ֣לֶךְ אֲרָ֔ם וַיְשִׂמֵ֥ם כֶּעָפָ֖ר לָדֻֽשׁ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3808\">לֹא֩</span> <span data-strong=\"H7604\">הִשְׁאִ֨יר</span> <span data-strong=\"H3059\">לִיהוֹאָחָ֜ז</span> <span data-strong=\"H5971\">עָ֗ם</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2572\">חֲמִשִּׁ֤ים</span> <span data-strong=\"H6571\">פָּֽרָשִׁים֙</span> <span data-strong=\"H6235\">וַעֲשָׂ֣רָה</span> <span data-strong=\"H7393\">רֶ֔כֶב</span> <span data-strong=\"H6235\">וַעֲשֶׂ֥רֶת</span> <span data-strong=\"H505\">אֲלָפִ֖ים</span> <span data-strong=\"H7273\">רַגְלִ֑י</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H3963\">אִבְּדָם֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H758\">אֲרָ֔ם</span> <span data-strong=\"H3963\">וַיְשִׂמֵ֥ם</span> <span data-strong=\"H6083\">כֶּעָפָ֖ר</span> <span data-strong=\"H1758\">לָדֻֽשׁ׃</span>",
     "transliteration": "khiy lo' hishe'iyr liyhvo'ahaz 'am khiy 'im-hamishiym farashiym va'asarah rekhev va'aseret 'alafiym rageliy khiy 'ivedam melekhe 'aram vayesimem khe'afar ladush.",
     "translation": "Porque não deixou a Joaquim restante algum, exceto cinquenta cavaleiros e dez carros e dez mil homens a pé; porque o rei da Síria os destruiu, esmagando-os como a poeira aos pés do pisador."
   },
   {
     "verse": 8,
-    "original": "וְיֶ֨תֶר דִּבְרֵ֧י יְהוֹאָחָ֛ז וְכׇל־אֲשֶׁ֥ר עָשָׂ֖ה וּגְבוּרָת֑וֹ הֲלוֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֨תֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֧י</span> <span data-strong=\"H3059\">יְהוֹאָחָ֛ז</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H2050\">וּגְבוּרָת֑וֹ</span> <span data-strong=\"H3808\">הֲלוֹא</span>־<span data-strong=\"H1992\">הֵ֣ם</span> <span data-strong=\"H3789\">כְּתוּבִ֗ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֛פֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3117\">הַיָּמִ֖ים</span> <span data-strong=\"H4428\">לְמַלְכֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "veyeter diverey yehvo'ahaz vekhol-'asher 'asah vgevvratvo halvo'-hem khetvviym 'al-sefer diverey hayamiym lemalekhey yisera'el.",
     "translation": "E o resto das palavras de Joacaz, e tudo quanto fez e sua grandeza, não estão eles escritos no livro dos Atos dos Reis de Israel?"
   },
@@ -55,19 +55,19 @@
   },
   {
     "verse": 10,
-    "original": "בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֶׁ֙בַע֙ שָׁנָ֔ה לְיוֹאָ֖שׁ מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַ֠ךְ יְהוֹאָ֨שׁ בֶּן־יְהוֹאָחָ֤ז עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְר֔וֹן שֵׁ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֨ת</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֤ים</span> <span data-strong=\"H7651\">וָשֶׁ֙בַע֙</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H3101\">לְיוֹאָ֖שׁ</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H4427\">מָ֠לַ֠ךְ</span> <span data-strong=\"H3060\">יְהוֹאָ֨שׁ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3059\">יְהוֹאָחָ֤ז</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H8111\">בְּשֹׁ֣מְר֔וֹן</span> <span data-strong=\"H8337\">שֵׁ֥שׁ</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vishenat sheloshiym vasheva' shanah leyvo'ash melekhe yehvdah malakhe yehvo'ash ven-yehvo'ahaz 'al-yisera'el veshomervon shesh 'esereh shanah.",
     "translation": "No trigésimo sétimo ano do reinado de Joás, rei de Judá, Joiás, filho de Joacaz, começou a reinar sobre Israel em Samaria; reinou seis anos."
   },
   {
     "verse": 11,
-    "original": "וַיַּעֲשֶׂ֥ה הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה לֹ֣א סָ֠ר מִכׇּל־חַטֹּ֞אות יָרׇבְעָ֧ם בֶּן־נְבָ֛ט אֲשֶׁר־הֶחֱטִ֥יא אֶת־יִשְׂרָאֵ֖ל בָּ֥הּ הָלָֽךְ׃",
+    "original": "<span data-strong=\"H6213\">וַיַּעֲשֶׂ֥ה</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5493\">סָ֠ר</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H2403\">חַטֹּ֞אות</span> <span data-strong=\"H3379\">יָרׇבְעָ֧ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5028\">נְבָ֛ט</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2398\">הֶחֱטִ֥יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H1886\">בָּ֥הּ</span> <span data-strong=\"H1980\">הָלָֽךְ׃</span>",
     "transliteration": "vaya'aseh hara' ve'eyney yehovah lo' sar mikhol-hato'vt yarove'am ven-nevat 'asher-hehetiy' 'et-yisera'el vah halakhe.",
     "translation": "E fez o mal perante os olhos do Senhor; não se desviou de todos os pecados de Jeroboão, filho de Nebat, que fez Israel pecar; neles andou."
   },
   {
     "verse": 12,
-    "original": "וְיֶ֨תֶר דִּבְרֵ֤י יוֹאָשׁ֙ וְכׇל־אֲשֶׁ֣ר עָשָׂ֔ה וּגְב֣וּרָת֔וֹ אֲשֶׁ֣ר נִלְחַ֔ם עִ֖ם אֲמַצְיָ֣ה מֶלֶךְ־יְהוּדָ֑ה הֲלֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֨תֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֤י</span> <span data-strong=\"H3101\">יוֹאָשׁ֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֔ה</span> <span data-strong=\"H2050\">וּגְב֣וּרָת֔וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3898\">נִלְחַ֔ם</span> <span data-strong=\"H5973\">עִ֖ם</span> <span data-strong=\"H558\">אֲמַצְיָ֣ה</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H3808\">הֲלֹא</span>־<span data-strong=\"H1992\">הֵ֣ם</span> <span data-strong=\"H3789\">כְּתוּבִ֗ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֛פֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3117\">הַיָּמִ֖ים</span> <span data-strong=\"H4428\">לְמַלְכֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "veyeter diverey yvo'ash vekhol-'asher 'asah vgevvratvo 'asher nileham 'im 'amatseyah melekhe-yehvdah halo'-hem khetvviym 'al-sefer diverey hayamiym lemalekhey yisera'el.",
     "translation": "E o resto das palavras de Joás, e tudo quanto fez, e sua bravura com que pelejou contra Amazias, rei de Judá, não estão escritos no livro dos dias dos reis de Israel?"
   },
@@ -85,25 +85,25 @@
   },
   {
     "verse": 15,
-    "original": "וַיֹּ֤אמֶר לוֹ֙ אֱלִישָׁ֔ע קַ֖ח קֶ֣שֶׁת וְחִצִּ֑ים וַיִּקַּ֥ח אֵלָ֖יו קֶ֥שֶׁת וְחִצִּֽים׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H477\">אֱלִישָׁ֔ע</span> <span data-strong=\"H3947\">קַ֖ח</span> <span data-strong=\"H7198\">קֶ֣שֶׁת</span> <span data-strong=\"H2671\">וְחִצִּ֑ים</span> <span data-strong=\"H3947\">וַיִּקַּ֥ח</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H7198\">קֶ֥שֶׁת</span> <span data-strong=\"H2671\">וְחִצִּֽים׃</span>",
     "transliteration": "vayo'mer lvo 'eliysha' kah keshet vehitsiym vayikah 'elayv keshet vehitsiym.",
     "translation": "E disse-lhe Elisha, Toma arco e flechas. E ele tomou arco e flechas diante dele."
   },
   {
     "verse": 16,
-    "original": "וַיֹּ֣אמֶר&thinsp;<b>׀</b> לְמֶ֣לֶךְ יִשְׂרָאֵ֗ל הַרְכֵּ֤ב יָֽדְךָ֙ עַל־הַקֶּ֔שֶׁת וַיַּרְכֵּ֖ב יָד֑וֹ וַיָּ֧שֶׂם אֱלִישָׁ֛ע יָדָ֖יו עַל־יְדֵ֥י הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר&thinsp;<b>׀</b></span> <span data-strong=\"H4428\">לְמֶ֣לֶךְ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H7392\">הַרְכֵּ֤ב</span> <span data-strong=\"H3509\">יָֽדְךָ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7198\">הַקֶּ֔שֶׁת</span> <span data-strong=\"H7392\">וַיַּרְכֵּ֖ב</span> <span data-strong=\"H2050\">יָד֑וֹ</span> <span data-strong=\"H7760\">וַיָּ֧שֶׂם</span> <span data-strong=\"H477\">אֱלִישָׁ֛ע</span> <span data-strong=\"H2050\">יָדָ֖יו</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3027\">יְדֵ֥י</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayo'mer&thinsp;<b>|</b> lemelekhe yisera'el harekhev yadekha 'al-hakeshet vayarekhev yadvo vayasem 'eliysha' yadayv 'al-yedey hamelekhe.",
     "translation": "E disse ao rei de Israel: Estende a tua mão sobre o arco. Ele estendeu a sua mão, e Elisha pôs as suas mãos sobre as mãos do rei."
   },
   {
     "verse": 17,
-    "original": "וַיֹּ֗אמֶר פְּתַ֧ח הַחַלּ֛וֹן קֵ֖דְמָה וַיִּפְתָּ֑ח וַיֹּ֨אמֶר אֱלִישָׁ֤ע יְרֵה֙ וַיּ֔וֹר וַיֹּ֗אמֶר חֵץ־תְּשׁוּעָ֤ה לַֽיהֹוָה֙ וְחֵ֣ץ תְּשׁוּעָ֣ה בַאֲרָ֔ם וְהִכִּיתָ֧ אֶת־אֲרָ֛ם בַּאֲפֵ֖ק עַד־כַּלֵּֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H6605\">פְּתַ֧ח</span> <span data-strong=\"H2474\">הַחַלּ֛וֹן</span> <span data-strong=\"H1886\">קֵ֖דְמָה</span> <span data-strong=\"H6605\">וַיִּפְתָּ֑ח</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H477\">אֱלִישָׁ֤ע</span> <span data-strong=\"H3384\">יְרֵה֙</span> <span data-strong=\"H3384\">וַיּ֔וֹר</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H2671\">חֵץ</span>־<span data-strong=\"H8668\">תְּשׁוּעָ֤ה</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H2671\">וְחֵ֣ץ</span> <span data-strong=\"H8668\">תְּשׁוּעָ֣ה</span> <span data-strong=\"H758\">בַאֲרָ֔ם</span> <span data-strong=\"H5221\">וְהִכִּיתָ֧</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H758\">אֲרָ֛ם</span> <span data-strong=\"H663\">בַּאֲפֵ֖ק</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3615\">כַּלֵּֽה׃</span>",
     "transliteration": "vayo'mer fetah hahalvon kedemah vayifetah vayo'mer 'eliysha' yereh vayvor vayo'mer hets-teshv'ah layhovah vehets teshv'ah va'aram vehikhiyta 'et-'aram va'afek 'ad-khaleh.",
     "translation": "E disse: Abre a janela para o leste, e ele a abriu. E Elisha disse: Olha, e ele olhou. Disse ainda: Flecha de salvação ao Senhor, e flecha de salvação sobre Aŕam; ferirás aos aŕaués em Aphek até sua extinção."
   },
   {
     "verse": 18,
-    "original": "וַיֹּ֛אמֶר קַ֥ח הַחִצִּ֖ים וַיִּקָּ֑ח וַיֹּ֤אמֶר לְמֶֽלֶךְ־יִשְׂרָאֵל֙ הַךְ־אַ֔רְצָה וַיַּ֥ךְ שָׁלֹשׁ־פְּעָמִ֖ים וַֽיַּעֲמֹֽד׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֛אמֶר</span> <span data-strong=\"H3947\">קַ֥ח</span> <span data-strong=\"H2671\">הַחִצִּ֖ים</span> <span data-strong=\"H3947\">וַיִּקָּ֑ח</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4428\">לְמֶֽלֶךְ</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H5221\">הַךְ</span>־<span data-strong=\"H1886\">אַ֔רְצָה</span> <span data-strong=\"H5221\">וַיַּ֥ךְ</span> <span data-strong=\"H7969\">שָׁלֹשׁ</span>־<span data-strong=\"H6471\">פְּעָמִ֖ים</span> <span data-strong=\"H5975\">וַֽיַּעֲמֹֽד׃</span>",
     "transliteration": "vayo'mer kah hahitsiym vayikah vayo'mer lemelekhe-yisera'el hakhe-'aretsah vayakhe shalosh-fe'amiym vaya'amod.",
     "translation": "E disse: Toma as flechas; e ele as tomou. E disse ao rei de Israel: Ferre a terra; e ele ferrou três vezes e parou."
   },
@@ -115,7 +115,7 @@
   },
   {
     "verse": 20,
-    "original": "וַיָּ֥מׇת אֱלִישָׁ֖ע וַֽיִּקְבְּרֻ֑הוּ וּגְדוּדֵ֥י מוֹאָ֛ב יָבֹ֥אוּ בָאָ֖רֶץ בָּ֥א שָׁנָֽה׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֥מׇת</span> <span data-strong=\"H477\">אֱלִישָׁ֖ע</span> <span data-strong=\"H1930\">וַֽיִּקְבְּרֻ֑הוּ</span> <span data-strong=\"H1416\">וּגְדוּדֵ֥י</span> <span data-strong=\"H4124\">מוֹאָ֛ב</span> <span data-strong=\"H935\">יָבֹ֥אוּ</span> <span data-strong=\"H776\">בָאָ֖רֶץ</span> <span data-strong=\"H935\">בָּ֥א</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vayamot 'eliysha' vayikeveruhv vgedvdey mvo'av yavo'v va'arets va' shanah.",
     "translation": "E Eliseu morreu, e foi sepultado; e bandos de Moabe entraram na terra no começo do ano."
   },
@@ -127,19 +127,19 @@
   },
   {
     "verse": 22,
-    "original": "וַֽחֲזָאֵל֙ מֶ֣לֶךְ אֲרָ֔ם לָחַ֖ץ אֶת־יִשְׂרָאֵ֑ל כֹּ֖ל יְמֵ֥י יְהוֹאָחָֽז׃",
+    "original": "<span data-strong=\"H2371\">וַֽחֲזָאֵל֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H758\">אֲרָ֔ם</span> <span data-strong=\"H3905\">לָחַ֖ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H3059\">יְהוֹאָחָֽז׃</span>",
     "transliteration": "vahaza'el melekhe 'aram lahats 'et-yisera'el khol yemey yehvo'ahaz.",
     "translation": "E Hazael, rei de Aram, oprimiu Israel durante todo o tempo de Jorão."
   },
   {
     "verse": 23,
-    "original": "וַיָּ֩חׇן֩ יְהֹוָ֨ה אֹתָ֤ם וַֽיְרַחֲמֵם֙ וַיִּ֣פֶן אֲלֵיהֶ֔ם לְמַ֣עַן בְּרִית֔וֹ אֶת־אַבְרָהָ֖ם יִצְחָ֣ק וְיַעֲקֹ֑ב וְלֹ֤א אָבָה֙ הַשְׁחִיתָ֔ם וְלֹא־הִשְׁלִיכָ֥ם מֵעַל־פָּנָ֖יו עַד־עָֽתָּה׃",
+    "original": "<span data-strong=\"H2603\">וַיָּ֩חׇן֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H3963\">אֹתָ֤ם</span> <span data-strong=\"H3963\">וַֽיְרַחֲמֵם֙</span> <span data-strong=\"H6437\">וַיִּ֣פֶן</span> <span data-strong=\"H3963\">אֲלֵיהֶ֔ם</span> <span data-strong=\"H4616\">לְמַ֣עַן</span> <span data-strong=\"H2050\">בְּרִית֔וֹ</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H85\">אַבְרָהָ֖ם</span> <span data-strong=\"H3327\">יִצְחָ֣ק</span> <span data-strong=\"H3290\">וְיַעֲקֹ֑ב</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H14\">אָבָה֙</span> <span data-strong=\"H3963\">הַשְׁחִיתָ֔ם</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H3963\">הִשְׁלִיכָ֥ם</span> <span data-strong=\"H5921\">מֵעַל</span>־<span data-strong=\"H2050\">פָּנָ֖יו</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H6258\">עָֽתָּה׃</span>",
     "transliteration": "vayahon yehovah 'otam vayerahamem vayifen 'aleyhem lema'an veriytvo 'et-'averaham yitsehak veya'akov velo' 'avah hashehiytam velo'-hisheliykham me'al-fanayv 'ad-'atah.",
     "translation": "E o Senhor os acampou, e se compadeceu deles, e para eles voltou por amor de sua aliança com Abraão, Isaque e Jacó; e não quis aniquilá-los nem os lançar fora da sua presença até agora."
   },
   {
     "verse": 24,
-    "original": "וַיָּ֖מׇת חֲזָאֵ֣ל מֶֽלֶךְ־אֲרָ֑ם וַיִּמְלֹ֛ךְ בֶּן־הֲדַ֥ד בְּנ֖וֹ תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H2371\">חֲזָאֵ֣ל</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H758\">אֲרָ֑ם</span> <span data-strong=\"H4427\">וַיִּמְלֹ֛ךְ</span> <span data-strong=\"H1130\">בֶּן</span>־<span data-strong=\"H1130\">הֲדַ֥ד</span> <span data-strong=\"H2050\">בְּנ֖וֹ</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "vayamot haza'el melekhe-'aram vayimelokhe ven-hadad venvo tahetayv.",
     "translation": "E morreu Hazael, rei da Síria, e seu filho Ben-Hadade subiu ao trono em seu lugar."
   },

@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַיָּ֕שׇׁב הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י וַיְעִירֵ֕נִי כְּאִ֖ישׁ אֲשֶׁר־יֵע֥וֹר מִשְּׁנָתֽוֹ׃",
+    "original": "<span data-strong=\"H7725\">וַיָּ֕שׇׁב</span> <span data-strong=\"H4397\">הַמַּלְאָ֖ךְ</span> <span data-strong=\"H1696\">הַדֹּבֵ֣ר</span> <span data-strong=\"H2967\">בִּ֑י</span> <span data-strong=\"H5204\">וַיְעִירֵ֕נִי</span> <span data-strong=\"H376\">כְּאִ֖ישׁ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5782\">יֵע֥וֹר</span> <span data-strong=\"H2050\">מִשְּׁנָתֽוֹ׃</span>",
     "transliteration": "vayashov hamale'akhe hadover viy vaye'iyreniy khe'iysh 'asher-ye'vor mishenatvo.",
     "translation": "E o mensageiro que falava comigo retornou, e me despertou como alguém que acorda de seu sono."
   },
@@ -13,25 +13,25 @@
   },
   {
     "verse": 3,
-    "original": "וּשְׁנַ֥יִם זֵיתִ֖ים עָלֶ֑יהָ אֶחָד֙ מִימִ֣ין הַגֻּלָּ֔ה וְאֶחָ֖ד עַל־שְׂמֹאלָֽהּ׃",
+    "original": "<span data-strong=\"H8147\">וּשְׁנַ֥יִם</span> <span data-strong=\"H2132\">זֵיתִ֖ים</span> <span data-strong=\"H1886\">עָלֶ֑יהָ</span> <span data-strong=\"H259\">אֶחָד֙</span> <span data-strong=\"H3225\">מִימִ֣ין</span> <span data-strong=\"H1543\">הַגֻּלָּ֔ה</span> <span data-strong=\"H259\">וְאֶחָ֖ד</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">שְׂמֹאלָֽהּ׃</span>",
     "transliteration": "vshenayim zeytiym 'aleyha 'ehad miymiyn hagulah ve'ehad 'al-semo'lah.",
     "translation": "E dois olivais sobre ela, um à direita da abóbada e outro à esquerda dela."
   },
   {
     "verse": 4,
-    "original": "וָאַ֙עַן֙ וָֽאֹמַ֔ר אֶל־הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י לֵאמֹ֑ר מָה־אֵ֖לֶּה אֲדֹנִֽי׃",
+    "original": "<span data-strong=\"H6030\">וָאַ֙עַן֙</span> <span data-strong=\"H559\">וָֽאֹמַ֔ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4397\">הַמַּלְאָ֛ךְ</span> <span data-strong=\"H1696\">הַדֹּבֵ֥ר</span> <span data-strong=\"H2967\">בִּ֖י</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H2967\">אֲדֹנִֽי׃</span>",
     "transliteration": "va'a'an va'omar 'el-hamale'akhe hadover viy le'mor mah-'eleh 'adoniy.",
     "translation": "E respondi e disse ao anjo que falava comigo: Que são esses, meu senhor?"
   },
   {
     "verse": 5,
-    "original": "וַ֠יַּ֠עַן הַמַּלְאָ֞ךְ הַדֹּבֵ֥ר בִּי֙ וַיֹּ֣אמֶר אֵלַ֔י הֲל֥וֹא יָדַ֖עְתָּ מָה־הֵ֣מָּה אֵ֑לֶּה וָאֹמַ֖ר לֹ֥א אֲדֹנִֽי׃",
+    "original": "<span data-strong=\"H6030\">וַ֠יַּ֠עַן</span> <span data-strong=\"H4397\">הַמַּלְאָ֞ךְ</span> <span data-strong=\"H1696\">הַדֹּבֵ֥ר</span> <span data-strong=\"H2967\">בִּי֙</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֵלַ֔י</span> <span data-strong=\"H3808\">הֲל֥וֹא</span> <span data-strong=\"H3045\">יָדַ֖עְתָּ</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H1992\">הֵ֣מָּה</span> <span data-strong=\"H428\">אֵ֑לֶּה</span> <span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H2967\">אֲדֹנִֽי׃</span>",
     "transliteration": "vaya'an hamale'akhe hadover viy vayo'mer 'elay halvo' yada'eta mah-hemah 'eleh va'omar lo' 'adoniy.",
     "translation": "E respondeu o anjo que falava comigo e disse-me: Não sabes quem são estes? E respondi: Não, meu senhor."
   },
   {
     "verse": 6,
-    "original": "וַיַּ֜עַן וַיֹּ֤אמֶר אֵלַי֙ לֵאמֹ֔ר זֶ֚ה דְּבַר־יְהֹוָ֔ה אֶל־זְרֻבָּבֶ֖ל לֵאמֹ֑ר לֹ֤א בְחַ֙יִל֙ וְלֹ֣א בְכֹ֔חַ כִּ֣י אִם־בְּרוּחִ֔י אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֜עַן</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2967\">אֵלַי֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H2088\">זֶ֚ה</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2216\">זְרֻבָּבֶ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H2428\">בְחַ֙יִל֙</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3581\">בְכֹ֔חַ</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2967\">בְּרוּחִ֔י</span> <span data-strong=\"H559\">אָמַ֖ר</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H6635\">צְבָאֽוֹת׃</span>",
     "transliteration": "vaya'an vayo'mer 'elay le'mor zeh devar-yehovah 'el-zeruvavel le'mor lo' vehayil velo' vekhoha khiy 'im-vervhiy 'amar yehovah tseva'vot.",
     "translation": "E respondeu, dizendo-me: Eis a palavra do Senhor para Zorobabel: não é pela força nem pelo poder, mas pelo meu Espírito, diz o Senhor dos Exércitos."
   },
@@ -43,43 +43,43 @@
   },
   {
     "verse": 8,
-    "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2967\">אֵלַ֥י</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E foi a palavra do Senhor para mim, dizendo:"
   },
   {
     "verse": 9,
-    "original": "יְדֵ֣י זְרֻבָּבֶ֗ל יִסְּד֛וּ הַבַּ֥יִת הַזֶּ֖ה וְיָדָ֣יו תְּבַצַּ֑עְנָה וְיָ֣דַעְתָּ֔ כִּֽי־יְהֹוָ֥ה צְבָא֖וֹת שְׁלָחַ֥נִי אֲלֵיכֶֽם׃",
+    "original": "<span data-strong=\"H3027\">יְדֵ֣י</span> <span data-strong=\"H2216\">זְרֻבָּבֶ֗ל</span> <span data-strong=\"H3245\">יִסְּד֛וּ</span> <span data-strong=\"H1004\">הַבַּ֥יִת</span> <span data-strong=\"H2088\">הַזֶּ֖ה</span> <span data-strong=\"H2050\">וְיָדָ֣יו</span> <span data-strong=\"H1214\">תְּבַצַּ֑עְנָה</span> <span data-strong=\"H3045\">וְיָ֣דַעְתָּ֔</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H6635\">צְבָא֖וֹת</span> <span data-strong=\"H5204\">שְׁלָחַ֥נִי</span> <span data-strong=\"H3641\">אֲלֵיכֶֽם׃</span>",
     "transliteration": "yedey zeruvavel yisedv havayit hazeh veyadayv tevatsa'enah veyada'eta khiy-yehovah tseva'vot shelahaniy 'aleykhem.",
     "translation": "As mãos de Zorobabel edificarão esta casa, e ele a completará. E vós conheceréis que o Senhor dos Exércitos me enviou a vós."
   },
   {
     "verse": 10,
-    "original": "כִּ֣י מִ֣י בַז֮ לְי֣וֹם קְטַנּוֹת֒ וְשָׂמְח֗וּ וְרָא֞וּ אֶת־הָאֶ֧בֶן הַבְּדִ֛יל בְּיַ֥ד זְרֻבָּבֶ֖ל שִׁבְעָה־אֵ֑לֶּה עֵינֵ֣י יְהֹוָ֔ה הֵ֥מָּה מְשׁוֹטְטִ֖ים בְּכׇל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H936\">בַז֮</span> <span data-strong=\"H3117\">לְי֣וֹם</span> <span data-strong=\"H6996\">קְטַנּוֹת֒</span> <span data-strong=\"H8055\">וְשָׂמְח֗וּ</span> <span data-strong=\"H7200\">וְרָא֞וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H68\">הָאֶ֧בֶן</span> <span data-strong=\"H913\">הַבְּדִ֛יל</span> <span data-strong=\"H3027\">בְּיַ֥ד</span> <span data-strong=\"H2216\">זְרֻבָּבֶ֖ל</span> <span data-strong=\"H7651\">שִׁבְעָה</span>־<span data-strong=\"H428\">אֵ֑לֶּה</span> <span data-strong=\"H5869\">עֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H1992\">הֵ֥מָּה</span> <span data-strong=\"H7751\">מְשׁוֹטְטִ֖ים</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "khiy miy vaz leyvom ketanvot vesamehv vera'v 'et-ha'even havediyl veyad zeruvavel shive'ah-'eleh 'eyney yehovah hemah meshvotetiym vekhol-ha'arets.",
     "translation": "Pois quem se acha digno no dia das pequenas coisas? E alegrai-vos e vede a pedra que Zorobabel põe à parte, com sete olhos. Os olhos do Senhor perambulam por toda a terra."
   },
   {
     "verse": 11,
-    "original": "וָאַ֖עַן וָאֹמַ֣ר אֵלָ֑יו מַה־שְּׁנֵ֤י הַזֵּיתִים֙ הָאֵ֔לֶּה עַל־יְמִ֥ין הַמְּנוֹרָ֖ה וְעַל־שְׂמֹאולָֽהּ׃",
+    "original": "<span data-strong=\"H6030\">וָאַ֖עַן</span> <span data-strong=\"H559\">וָאֹמַ֣ר</span> <span data-strong=\"H2050\">אֵלָ֑יו</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H8147\">שְּׁנֵ֤י</span> <span data-strong=\"H2132\">הַזֵּיתִים֙</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3225\">יְמִ֥ין</span> <span data-strong=\"H4501\">הַמְּנוֹרָ֖ה</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H1886\">שְׂמֹאולָֽהּ׃</span>",
     "transliteration": "va'a'an va'omar 'elayv mah-sheney hazeytiym ha'eleh 'al-yemiyn hamenvorah ve'al-semo'vlah.",
     "translation": "E respondi e disse-lhe: Que significam estes dois olivais, um à direita da menora e o outro à sua esquerda?"
   },
   {
     "verse": 12,
-    "original": "וָאַ֣עַן שֵׁנִ֔ית וָאֹמַ֖ר אֵלָ֑יו מַה־שְׁתֵּ֞י שִׁבְּלֵ֣י הַזֵּיתִ֗ים אֲשֶׁר֙ בְּיַ֗ד שְׁנֵי֙ צַנְתְּר֣וֹת הַזָּהָ֔ב הַֽמְרִיקִ֥ים מֵעֲלֵיהֶ֖ם הַזָּהָֽב׃",
+    "original": "<span data-strong=\"H6030\">וָאַ֣עַן</span> <span data-strong=\"H8145\">שֵׁנִ֔ית</span> <span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H2050\">אֵלָ֑יו</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H8147\">שְׁתֵּ֞י</span> <span data-strong=\"H7641\">שִׁבְּלֵ֣י</span> <span data-strong=\"H2132\">הַזֵּיתִ֗ים</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H3027\">בְּיַ֗ד</span> <span data-strong=\"H8147\">שְׁנֵי֙</span> <span data-strong=\"H6804\">צַנְתְּר֣וֹת</span> <span data-strong=\"H2091\">הַזָּהָ֔ב</span> <span data-strong=\"H7324\">הַֽמְרִיקִ֥ים</span> <span data-strong=\"H3963\">מֵעֲלֵיהֶ֖ם</span> <span data-strong=\"H2091\">הַזָּהָֽב׃</span>",
     "transliteration": "va'a'an sheniyt va'omar 'elayv mah-shetey shiveley hazeytiym 'asher veyad sheney tsanetervot hazahav hameriykiym me'aleyhem hazahav.",
     "translation": "E respondi pela segunda vez, dizendo-lhe: Que são estas duas oliveiras que derramam o azeite através das duas torneiras de ouro, as quais estão junto às testemunhas?"
   },
   {
     "verse": 13,
-    "original": "וַיֹּ֤אמֶר אֵלַי֙ לֵאמֹ֔ר הֲל֥וֹא יָדַ֖עְתָּ מָה־אֵ֑לֶּה וָאֹמַ֖ר לֹ֥א אֲדֹנִֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2967\">אֵלַי֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H3808\">הֲל֥וֹא</span> <span data-strong=\"H3045\">יָדַ֖עְתָּ</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H428\">אֵ֑לֶּה</span> <span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H2967\">אֲדֹנִֽי׃</span>",
     "transliteration": "vayo'mer 'elay le'mor halvo' yada'eta mah-'eleh va'omar lo' 'adoniy.",
     "translation": "E disse-me: Não sabias o que são? E eu respondi: Não, meu senhor."
   },
   {
     "verse": 14,
-    "original": "וַיֹּ֕אמֶר אֵ֖לֶּה שְׁנֵ֣י בְנֵֽי־הַיִּצְהָ֑ר הָעֹמְדִ֖ים עַל־אֲד֥וֹן כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H8147\">שְׁנֵ֣י</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3323\">הַיִּצְהָ֑ר</span> <span data-strong=\"H5975\">הָעֹמְדִ֖ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H113\">אֲד֥וֹן</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "vayo'mer 'eleh sheney veney-hayitsehar ha'omediym 'al-'advon khol-ha'arets.",
     "translation": "E disse: Estes são os dois filhos de Ezer, que estão diante do senhor de toda a terra."
   }

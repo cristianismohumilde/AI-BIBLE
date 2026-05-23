@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "בַּחֹ֙דֶשׁ֙ הַשְּׁמִינִ֔י בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֑וֶשׁ הָיָ֣ה דְבַר־יְהֹוָ֗ה אֶל־זְכַרְיָה֙ בֶּן־בֶּ֣רֶכְיָ֔ה בֶּן־עִדּ֥וֹ הַנָּבִ֖יא לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H2320\">בַּחֹ֙דֶשׁ֙</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֔י</span> <span data-strong=\"H8141\">בִּשְׁנַ֥ת</span> <span data-strong=\"H8147\">שְׁתַּ֖יִם</span> <span data-strong=\"H1867\">לְדָרְיָ֑וֶשׁ</span> <span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2148\">זְכַרְיָה֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1296\">בֶּ֣רֶכְיָ֔ה</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5714\">עִדּ֥וֹ</span> <span data-strong=\"H5030\">הַנָּבִ֖יא</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vahodesh hashemiyniy vishenat shetayim ledareyavesh hayah devar-yehovah 'el-zekhareyah ven-verekheyah ven-'idvo hanaviy' le'mor.",
     "translation": "No mês oitavo, no segundo ano de Dario, veio a palavra do Senhor a Zacarias, filho de Berequias, filho de Idô, o profeta, dizendo:"
   },
   {
     "verse": 2,
-    "original": "קָצַ֧ף יְהֹוָ֛ה עַל־אֲבֽוֹתֵיכֶ֖ם קָֽצֶף׃",
+    "original": "<span data-strong=\"H7107\">קָצַ֧ף</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3641\">אֲבֽוֹתֵיכֶ֖ם</span> <span data-strong=\"H7110\">קָֽצֶף׃</span>",
     "transliteration": "katsaf yehovah 'al-'avvoteykhem katsef.",
     "translation": "O Senhor se irou contra vossos pais, com grande ira."
   },
   {
     "verse": 3,
-    "original": "וְאָמַרְתָּ֣ אֲלֵהֶ֗ם כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת שׁ֣וּבוּ אֵלַ֔י נְאֻ֖ם יְהֹוָ֣ה צְבָא֑וֹת וְאָשׁ֣וּב אֲלֵיכֶ֔ם אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "original": "<span data-strong=\"H559\">וְאָמַרְתָּ֣</span> <span data-strong=\"H3963\">אֲלֵהֶ֗ם</span> <span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֔וֹת</span> <span data-strong=\"H7725\">שׁ֣וּבוּ</span> <span data-strong=\"H2967\">אֵלַ֔י</span> <span data-strong=\"H5002\">נְאֻ֖ם</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֑וֹת</span> <span data-strong=\"H7725\">וְאָשׁ֣וּב</span> <span data-strong=\"H3641\">אֲלֵיכֶ֔ם</span> <span data-strong=\"H559\">אָמַ֖ר</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H6635\">צְבָאֽוֹת׃</span>",
     "transliteration": "ve'amareta 'alehem khoh 'amar yehovah tseva'vot shvvv 'elay ne'um yehovah tseva'vot ve'ashvv 'aleykhem 'amar yehovah tseva'vot.",
     "translation": "E lhes dirás: Assim diz o Senhor dos Exércitos: Convertei-vos para mim, oráculo do Senhor dos Exércitos, e eu me converterei para vós, diz o Senhor dos Exércitos."
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "אֲבֽוֹתֵיכֶ֖ם אַיֵּה־הֵ֑ם וְהַ֨נְּבִאִ֔ים הַלְעוֹלָ֖ם יִֽחְיֽוּ׃",
+    "original": "<span data-strong=\"H3641\">אֲבֽוֹתֵיכֶ֖ם</span> <span data-strong=\"H346\">אַיֵּה</span>־<span data-strong=\"H1992\">הֵ֑ם</span> <span data-strong=\"H5030\">וְהַ֨נְּבִאִ֔ים</span> <span data-strong=\"H5769\">הַלְעוֹלָ֖ם</span> <span data-strong=\"H2421\">יִֽחְיֽוּ׃</span>",
     "transliteration": "'avvoteykhem 'ayeh-hem vehanevi'iym hale'volam yiheyv.",
     "translation": "Vossos pais, onde estão? E os profetas, acaso vivem para sempre?"
   },
@@ -37,55 +37,55 @@
   },
   {
     "verse": 7,
-    "original": "בְּיוֹם֩ עֶשְׂרִ֨ים וְאַרְבָּעָ֜ה לְעַשְׁתֵּֽי־עָשָׂ֥ר חֹ֙דֶשׁ֙ הוּא־חֹ֣דֶשׁ שְׁבָ֔ט בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֑וֶשׁ הָיָ֣ה דְבַר־יְהֹוָ֗ה אֶל־זְכַרְיָה֙ בֶּן־בֶּ֣רֶכְיָ֔הוּ בֶּן־עִדּ֥וֹא הַנָּבִ֖יא לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H3117\">בְּיוֹם֩</span> <span data-strong=\"H6242\">עֶשְׂרִ֨ים</span> <span data-strong=\"H702\">וְאַרְבָּעָ֜ה</span> <span data-strong=\"H6249\">לְעַשְׁתֵּֽי</span>־<span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H2320\">חֹ֙דֶשׁ֙</span> <span data-strong=\"H1931\">הוּא</span>־<span data-strong=\"H2320\">חֹ֣דֶשׁ</span> <span data-strong=\"H7627\">שְׁבָ֔ט</span> <span data-strong=\"H8141\">בִּשְׁנַ֥ת</span> <span data-strong=\"H8147\">שְׁתַּ֖יִם</span> <span data-strong=\"H1867\">לְדָרְיָ֑וֶשׁ</span> <span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2148\">זְכַרְיָה֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1296\">בֶּ֣רֶכְיָ֔הוּ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5714\">עִדּ֥וֹא</span> <span data-strong=\"H5030\">הַנָּבִ֖יא</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "veyvom 'eseriym ve'areva'ah le'ashetey-'asar hodesh hv'-hodesh shevat vishenat shetayim ledareyavesh hayah devar-yehovah 'el-zekhareyah ven-verekheyahv ven-'idvo' hanaviy' le'mor.",
     "translation": "No dia vinte e quatro do nono mês, que é o mês de Tibeite, no segundo ano do reinado de Dario, veio a palavra do Senhor ao profeta Zacarias, filho de Berequias, neto de Ido, dizendo:"
   },
   {
     "verse": 8,
-    "original": "רָאִ֣יתִי&thinsp;<b>׀</b> הַלַּ֗יְלָה וְהִנֵּה־אִישׁ֙ רֹכֵב֙ עַל־ס֣וּס אָדֹ֔ם וְה֣וּא עֹמֵ֔ד בֵּ֥ין הַהֲדַסִּ֖ים אֲשֶׁ֣ר בַּמְּצֻלָ֑ה וְאַחֲרָיו֙ סוּסִ֣ים אֲדֻמִּ֔ים שְׂרֻקִּ֖ים וּלְבָנִֽים׃",
+    "original": "<span data-strong=\"H7200\">רָאִ֣יתִי&thinsp;<b>׀</b></span> <span data-strong=\"H3915\">הַלַּ֗יְלָה</span> <span data-strong=\"H2009\">וְהִנֵּה</span>־<span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H7392\">רֹכֵב֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5483\">ס֣וּס</span> <span data-strong=\"H122\">אָדֹ֔ם</span> <span data-strong=\"H1931\">וְה֣וּא</span> <span data-strong=\"H5975\">עֹמֵ֔ד</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H1918\">הַהֲדַסִּ֖ים</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H4688\">בַּמְּצֻלָ֑ה</span> <span data-strong=\"H2050\">וְאַחֲרָיו֙</span> <span data-strong=\"H5483\">סוּסִ֣ים</span> <span data-strong=\"H122\">אֲדֻמִּ֔ים</span> <span data-strong=\"H8320\">שְׂרֻקִּ֖ים</span> <span data-strong=\"H3836\">וּלְבָנִֽים׃</span>",
     "transliteration": "ra'iytiy&thinsp;<b>|</b> halayelah vehineh-'iysh rokhev 'al-svs 'adom vehv' 'omed veyn hahadasiym 'asher vametsulah ve'aharayv svsiym 'adumiym serukiym vlevaniym.",
     "translation": "Vi de noite e eis que um homem montava um cavalo vermelho, e ele estava entre os mirtos que estão na fossa; e atrás dele havia cavalos vermelhos, manchados e brancos."
   },
   {
     "verse": 9,
-    "original": "וָאֹמַ֖ר מָה־אֵ֣לֶּה אֲדֹנִ֑י וַיֹּ֣אמֶר אֵלַ֗י הַמַּלְאָךְ֙ הַדֹּבֵ֣ר בִּ֔י אֲנִ֥י אַרְאֶ֖ךָּ מָה־הֵ֥מָּה אֵֽלֶּה׃",
+    "original": "<span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H2967\">אֲדֹנִ֑י</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H4397\">הַמַּלְאָךְ֙</span> <span data-strong=\"H1696\">הַדֹּבֵ֣ר</span> <span data-strong=\"H2967\">בִּ֔י</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3509\">אַרְאֶ֖ךָּ</span> <span data-strong=\"H4100\">מָה</span>־<span data-strong=\"H1992\">הֵ֥מָּה</span> <span data-strong=\"H428\">אֵֽלֶּה׃</span>",
     "transliteration": "va'omar mah-'eleh 'adoniy vayo'mer 'elay hamale'akhe hadover viy 'aniy 'are'ekha mah-hemah 'eleh.",
     "translation": "E disse: \"Que são estes, meu senhor?\", e ele me respondeu: \"O anjo que fala comigo te mostrará o que estes são\"."
   },
   {
     "verse": 10,
-    "original": "וַיַּ֗עַן הָאִ֛ישׁ הָעֹמֵ֥ד בֵּין־הַהֲדַסִּ֖ים וַיֹּאמַ֑ר אֵ֚לֶּה אֲשֶׁ֣ר שָׁלַ֣ח יְהֹוָ֔ה לְהִתְהַלֵּ֖ךְ בָּאָֽרֶץ׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֗עַן</span> <span data-strong=\"H376\">הָאִ֛ישׁ</span> <span data-strong=\"H5975\">הָעֹמֵ֥ד</span> <span data-strong=\"H996\">בֵּין</span>־<span data-strong=\"H1918\">הַהֲדַסִּ֖ים</span> <span data-strong=\"H559\">וַיֹּאמַ֑ר</span> <span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7971\">שָׁלַ֣ח</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H1980\">לְהִתְהַלֵּ֖ךְ</span> <span data-strong=\"H776\">בָּאָֽרֶץ׃</span>",
     "transliteration": "vaya'an ha'iysh ha'omed veyn-hahadasiym vayo'mar 'eleh 'asher shalah yehovah lehitehalekhe va'arets.",
     "translation": "E o homem que estava entre os méspilos respondeu: \"Estes são os que o Senhor enviou para percorrer a terra.\""
   },
   {
     "verse": 11,
-    "original": "וַֽיַּעֲנ֞וּ אֶת־מַלְאַ֣ךְ יְהֹוָ֗ה הָֽעֹמֵד֙ בֵּ֣ין הַהֲדַסִּ֔ים וַיֹּאמְר֖וּ הִתְהַלַּ֣כְנוּ בָאָ֑רֶץ וְהִנֵּ֥ה כׇל־הָאָ֖רֶץ יֹשֶׁ֥בֶת וְשֹׁקָֽטֶת׃",
+    "original": "<span data-strong=\"H6030\">וַֽיַּעֲנ֞וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4397\">מַלְאַ֣ךְ</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H5975\">הָֽעֹמֵד֙</span> <span data-strong=\"H996\">בֵּ֣ין</span> <span data-strong=\"H1918\">הַהֲדַסִּ֔ים</span> <span data-strong=\"H559\">וַיֹּאמְר֖וּ</span> <span data-strong=\"H1980\">הִתְהַלַּ֣כְנוּ</span> <span data-strong=\"H776\">בָאָ֑רֶץ</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H776\">הָאָ֖רֶץ</span> <span data-strong=\"H3427\">יֹשֶׁ֥בֶת</span> <span data-strong=\"H8252\">וְשֹׁקָֽטֶת׃</span>",
     "transliteration": "vaya'anv 'et-male'akhe yehovah ha'omed veyn hahadasiym vayo'merv hitehalakhenv va'arets vehineh khol-ha'arets yoshevet veshokatet.",
     "translation": "E responderam ao mensageiro do Senhor que estava entre os arbustos de mirto, dizendo: \"Percorremos a terra e eis que toda a terra está habitada e em repouso\"."
   },
   {
     "verse": 12,
-    "original": "וַיַּ֣עַן מַלְאַךְ־יְהֹוָה֮ וַיֹּאמַר֒ יְהֹוָ֣ה צְבָא֔וֹת עַד־מָתַ֗י אַתָּה֙ לֹֽא־תְרַחֵ֣ם אֶת־יְרוּשָׁלַ֔͏ִם וְאֵ֖ת עָרֵ֣י יְהוּדָ֑ה אֲשֶׁ֣ר זָעַ֔מְתָּה זֶ֖ה שִׁבְעִ֥ים שָׁנָֽה׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֣עַן</span> <span data-strong=\"H4397\">מַלְאַךְ</span>־<span data-strong=\"H3068\">יְהֹוָה֮</span> <span data-strong=\"H559\">וַיֹּאמַר֒</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֔וֹת</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4970\">מָתַ֗י</span> <span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7355\">תְרַחֵ֣ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3389\">יְרוּשָׁלַ֔͏ִם</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H5892\">עָרֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H2194\">זָעַ֔מְתָּה</span> <span data-strong=\"H2088\">זֶ֖ה</span> <span data-strong=\"H7657\">שִׁבְעִ֥ים</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "vaya'an male'akhe-yehovah vayo'mar yehovah tseva'vot 'ad-matay 'atah lo'-terahem 'et-yervshalaim ve'et 'arey yehvdah 'asher za'ametah zeh shive'iym shanah.",
     "translation": "Então respondeu o anjo do Senhor e disse: Senhor dos Exércitos, até quando não terás misericórdia de Jerusalém e das cidades de Judá, sobre as quais foste zangado durante setenta anos?"
   },
   {
     "verse": 13,
-    "original": "וַיַּ֣עַן יְהֹוָ֗ה אֶת־הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י דְּבָרִ֣ים טוֹבִ֑ים דְּבָרִ֖ים נִחֻמִֽים׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֣עַן</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4397\">הַמַּלְאָ֛ךְ</span> <span data-strong=\"H1696\">הַדֹּבֵ֥ר</span> <span data-strong=\"H2967\">בִּ֖י</span> <span data-strong=\"H1697\">דְּבָרִ֣ים</span> <span data-strong=\"H2896\">טוֹבִ֑ים</span> <span data-strong=\"H1697\">דְּבָרִ֖ים</span> <span data-strong=\"H5150\">נִחֻמִֽים׃</span>",
     "transliteration": "vaya'an yehovah 'et-hamale'akhe hadover viy devariym tvoviym devariym nihumiym.",
     "translation": "E o Senhor respondeu ao mensageiro que falava palavras boas, palavras de conforto."
   },
   {
     "verse": 14,
-    "original": "וַיֹּ֣אמֶר אֵלַ֗י הַמַּלְאָךְ֙ הַדֹּבֵ֣ר בִּ֔י קְרָ֣א לֵאמֹ֔ר כֹּ֥ה אָמַ֖ר יְהֹוָ֣ה צְבָא֑וֹת קִנֵּ֧אתִי לִירוּשָׁלַ֛͏ִם וּלְצִיּ֖וֹן קִנְאָ֥ה גְדוֹלָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H4397\">הַמַּלְאָךְ֙</span> <span data-strong=\"H1696\">הַדֹּבֵ֣ר</span> <span data-strong=\"H2967\">בִּ֔י</span> <span data-strong=\"H7121\">קְרָ֣א</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H3541\">כֹּ֥ה</span> <span data-strong=\"H559\">אָמַ֖ר</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֑וֹת</span> <span data-strong=\"H7065\">קִנֵּ֧אתִי</span> <span data-strong=\"H3389\">לִירוּשָׁלַ֛͏ִם</span> <span data-strong=\"H6726\">וּלְצִיּ֖וֹן</span> <span data-strong=\"H7068\">קִנְאָ֥ה</span> <span data-strong=\"H1419\">גְדוֹלָֽה׃</span>",
     "transliteration": "vayo'mer 'elay hamale'akhe hadover viy kera' le'mor khoh 'amar yehovah tseva'vot kine'tiy liyrvshalaim vletsiyvon kine'ah gedvolah.",
     "translation": "E disse-me o anjo que falava comigo: Clama, dizendo: Assim fala o Senhor dos Exércitos: Tenho ciúmes de Jerusalém e de Sião ciúme grande."
   },
   {
     "verse": 15,
-    "original": "וְקֶ֤צֶף גָּדוֹל֙ אֲנִ֣י קֹצֵ֔ף עַל־הַגּוֹיִ֖ם הַשַּֽׁאֲנַנִּ֑ים אֲשֶׁ֤ר אֲנִי֙ קָצַ֣פְתִּי מְּעָ֔ט וְהֵ֖מָּה עָזְר֥וּ לְרָעָֽה׃",
+    "original": "<span data-strong=\"H7110\">וְקֶ֤צֶף</span> <span data-strong=\"H1419\">גָּדוֹל֙</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H7107\">קֹצֵ֔ף</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1471\">הַגּוֹיִ֖ם</span> <span data-strong=\"H7600\">הַשַּֽׁאֲנַנִּ֑ים</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H589\">אֲנִי֙</span> <span data-strong=\"H7107\">קָצַ֣פְתִּי</span> <span data-strong=\"H4592\">מְּעָ֔ט</span> <span data-strong=\"H1992\">וְהֵ֖מָּה</span> <span data-strong=\"H5826\">עָזְר֥וּ</span> <span data-strong=\"H7451\">לְרָעָֽה׃</span>",
     "transliteration": "veketsef gadvol 'aniy kotsef 'al-hagvoyim hasha'ananiym 'asher 'aniy katsafetiy me'at vehemah 'azerv lera'ah.",
     "translation": "E grande ira desperto contra as nações que se acham em segurança, sobre as quais meu furor ardeu por um breve instante; mas elas auxiliaram para o mal."
   },

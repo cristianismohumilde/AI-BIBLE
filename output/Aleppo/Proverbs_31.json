@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "דִּ֭בְרֵי לְמוּאֵ֣ל מֶ֑לֶךְ מַ֝שָּׂ֗א אֲֽשֶׁר־יִסְּרַ֥תּוּ אִמּֽוֹ׃",
+    "original": "<span data-strong=\"H1697\">דִּ֭בְרֵי</span> <span data-strong=\"H3927\">לְמוּאֵ֣ל</span> <span data-strong=\"H4428\">מֶ֑לֶךְ</span> <span data-strong=\"H4853\">מַ֝שָּׂ֗א</span> <span data-strong=\"H834\">אֲֽשֶׁר</span>־<span data-strong=\"H2050\">יִסְּרַ֥תּוּ</span> <span data-strong=\"H2050\">אִמּֽוֹ׃</span>",
     "transliteration": "diverey lemv'el melekhe masa' 'asher-yiseratv 'imvo.",
     "translation": "Palavras de Lemuél, rei, ensinamento que a sua mãe lhe impôs:"
   },
   {
     "verse": 2,
-    "original": "מַה־בְּ֭רִי וּמַֽה־בַּר־בִּטְנִ֑י וּ֝מֶ֗ה בַּר־נְדָרָֽי׃",
+    "original": "<span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H2967\">בְּ֭רִי</span> <span data-strong=\"H4100\">וּמַֽה</span>־<span data-strong=\"H1248\">בַּר</span>־<span data-strong=\"H2967\">בִּטְנִ֑י</span> <span data-strong=\"H4100\">וּ֝מֶ֗ה</span> <span data-strong=\"H1248\">בַּר</span>־<span data-strong=\"H2967\">נְדָרָֽי׃</span>",
     "transliteration": "mah-veriy vmah-var-viteniy vmeh var-nedaray.",
     "translation": "Quem sou eu e quem são os filhos do meu ventre, e qual é o fruto dos meus votos?"
   },
   {
     "verse": 3,
-    "original": "אַל־תִּתֵּ֣ן לַנָּשִׁ֣ים חֵילֶ֑ךָ וּ֝דְרָכֶ֗יךָ לַֽמְח֥וֹת מְלָכִֽין׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5414\">תִּתֵּ֣ן</span> <span data-strong=\"H802\">לַנָּשִׁ֣ים</span> <span data-strong=\"H3509\">חֵילֶ֑ךָ</span> <span data-strong=\"H3509\">וּ֝דְרָכֶ֗יךָ</span> <span data-strong=\"H4229\">לַֽמְח֥וֹת</span> <span data-strong=\"H4428\">מְלָכִֽין׃</span>",
     "transliteration": "'al-titen lanashiym heylekha vderakheykha lamehvot melakhiyn.",
     "translation": "Não deis o vosso poder às mulheres, nem os vossos caminhos para extinguirem reis."
   },
@@ -25,13 +25,13 @@
   },
   {
     "verse": 5,
-    "original": "פֶּן־יִ֭שְׁתֶּה וְיִשְׁכַּ֣ח מְחֻקָּ֑ק וִ֝ישַׁנֶּ֗ה דִּ֣ין כׇּל־בְּנֵי־עֹֽנִי׃",
+    "original": "<span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H8354\">יִ֭שְׁתֶּה</span> <span data-strong=\"H7911\">וְיִשְׁכַּ֣ח</span> <span data-strong=\"H2710\">מְחֻקָּ֑ק</span> <span data-strong=\"H8138\">וִ֝ישַׁנֶּ֗ה</span> <span data-strong=\"H1779\">דִּ֣ין</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H6040\">עֹֽנִי׃</span>",
     "transliteration": "fen-yisheteh veyishekhah mehukak viyshaneh diyn khol-veney-'oniy.",
     "translation": "Para que não beba e esqueça a lei, e altere o direito de todos os aflitos."
   },
   {
     "verse": 6,
-    "original": "תְּנוּ־שֵׁכָ֥ר לְאוֹבֵ֑ד וְ֝יַ֗יִן לְמָ֣רֵי נָֽפֶשׁ׃",
+    "original": "<span data-strong=\"H5414\">תְּנוּ</span>־<span data-strong=\"H7941\">שֵׁכָ֥ר</span> <span data-strong=\"H6\">לְאוֹבֵ֑ד</span> <span data-strong=\"H3196\">וְ֝יַ֗יִן</span> <span data-strong=\"H4751\">לְמָ֣רֵי</span> <span data-strong=\"H5315\">נָֽפֶשׁ׃</span>",
     "transliteration": "tenv-shekhar le'voved veyayin lemarey nafesh.",
     "translation": "Dai bebida forte ao que está desfalecendo e vinho àquele de espírito triste."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "פְּתַח־פִּ֥יךָ לְאִלֵּ֑ם אֶל־דִּ֝֗ין כׇּל־בְּנֵ֥י חֲלֽוֹף׃",
+    "original": "<span data-strong=\"H6605\">פְּתַח</span>־<span data-strong=\"H3509\">פִּ֥יךָ</span> <span data-strong=\"H483\">לְאִלֵּ֑ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1779\">דִּ֝֗ין</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H2475\">חֲלֽוֹף׃</span>",
     "transliteration": "fetah-fiykha le'ilem 'el-diyn khol-veney halvof.",
     "translation": "Abre tua boca para os mudos, na defesa de todos os filhos do desamparo."
   },
@@ -55,37 +55,37 @@
   },
   {
     "verse": 10,
-    "original": "אֵֽשֶׁת־חַ֭יִל מִ֣י יִמְצָ֑א וְרָחֹ֖ק מִפְּנִינִ֣ים מִכְרָֽהּ׃",
+    "original": "<span data-strong=\"H802\">אֵֽשֶׁת</span>־<span data-strong=\"H2428\">חַ֭יִל</span> <span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H4672\">יִמְצָ֑א</span> <span data-strong=\"H7350\">וְרָחֹ֖ק</span> <span data-strong=\"H6443\">מִפְּנִינִ֣ים</span> <span data-strong=\"H1886\">מִכְרָֽהּ׃</span>",
     "transliteration": "'eshet-hayil miy yimetsa' verahok mifeniyniym mikherah.",
     "translation": "Mulher de valor, quem a encontrará? E seu valor é mais que as pérolas."
   },
   {
     "verse": 11,
-    "original": "בָּ֣טַח בָּ֭הּ לֵ֣ב בַּעְלָ֑הּ וְ֝שָׁלָ֗ל לֹ֣א יֶחְסָֽר׃",
+    "original": "<span data-strong=\"H982\">בָּ֣טַח</span> <span data-strong=\"H1886\">בָּ֭הּ</span> <span data-strong=\"H3820\">לֵ֣ב</span> <span data-strong=\"H1886\">בַּעְלָ֑הּ</span> <span data-strong=\"H7998\">וְ֝שָׁלָ֗ל</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H2637\">יֶחְסָֽר׃</span>",
     "transliteration": "vatah vah lev va'elah veshalal lo' yehesar.",
     "translation": "Nele confia o coração do seu dono, e dele não faltará despojo."
   },
   {
     "verse": 12,
-    "original": "גְּמָלַ֣תְהוּ ט֣וֹב וְלֹא־רָ֑ע כֹּ֝֗ל יְמֵ֣י חַיֶּֽיהָ׃",
+    "original": "<span data-strong=\"H1930\">גְּמָלַ֣תְהוּ</span> <span data-strong=\"H2896\">ט֣וֹב</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H3605\">כֹּ֝֗ל</span> <span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H1886\">חַיֶּֽיהָ׃</span>",
     "transliteration": "gemalatehv tvov velo'-ra' khol yemey hayeyha.",
     "translation": "Recompensou-o com bondade e não com mal, todos os dias de sua vida."
   },
   {
     "verse": 13,
-    "original": "דָּ֭רְשָׁה צֶ֣מֶר וּפִשְׁתִּ֑ים וַ֝תַּ֗עַשׂ בְּחֵ֣פֶץ כַּפֶּֽיהָ׃",
+    "original": "<span data-strong=\"H1875\">דָּ֭רְשָׁה</span> <span data-strong=\"H6785\">צֶ֣מֶר</span> <span data-strong=\"H6593\">וּפִשְׁתִּ֑ים</span> <span data-strong=\"H6213\">וַ֝תַּ֗עַשׂ</span> <span data-strong=\"H2656\">בְּחֵ֣פֶץ</span> <span data-strong=\"H1886\">כַּפֶּֽיהָ׃</span>",
     "transliteration": "dareshah tsemer vfishetiym vata'as vehefets khafeyha.",
     "translation": "Ela buscou lã e linho, e trabalhou com prazer em suas mãos."
   },
   {
     "verse": 14,
-    "original": "הָ֭יְתָה כׇּאֳנִיּ֣וֹת סוֹחֵ֑ר מִ֝מֶּרְחָ֗ק תָּבִ֥יא לַחְמָֽהּ׃",
+    "original": "<span data-strong=\"H1961\">הָ֭יְתָה</span> <span data-strong=\"H591\">כׇּאֳנִיּ֣וֹת</span> <span data-strong=\"H5503\">סוֹחֵ֑ר</span> <span data-strong=\"H4801\">מִ֝מֶּרְחָ֗ק</span> <span data-strong=\"H935\">תָּבִ֥יא</span> <span data-strong=\"H1886\">לַחְמָֽהּ׃</span>",
     "transliteration": "hayetah kho'oniyvot svoher mimerehak taviy' lahemah.",
     "translation": "Era como navios comerciantes, do longe trazia seu sustento."
   },
   {
     "verse": 15,
-    "original": "וַתָּ֤קׇם&thinsp;<b>׀</b> בְּע֬וֹד לַ֗יְלָה וַתִּתֵּ֣ן טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃",
+    "original": "<span data-strong=\"H6965\">וַתָּ֤קׇם&thinsp;<b>׀</b></span> <span data-strong=\"H5750\">בְּע֬וֹד</span> <span data-strong=\"H3915\">לַ֗יְלָה</span> <span data-strong=\"H5414\">וַתִּתֵּ֣ן</span> <span data-strong=\"H2964\">טֶ֣רֶף</span> <span data-strong=\"H1886\">לְבֵיתָ֑הּ</span> <span data-strong=\"H2706\">וְ֝חֹ֗ק</span> <span data-strong=\"H1886\">לְנַעֲרֹתֶֽיהָ׃</span>",
     "transliteration": "vatakom&thinsp;<b>|</b> ve'vod layelah vatiten teref leveytah vehok lena'aroteyha.",
     "translation": "E levantou-se ainda de noite, e dava mantimento à sua casa, e porção às jovens servas."
   },
@@ -97,7 +97,7 @@
   },
   {
     "verse": 17,
-    "original": "חָֽגְרָ֣ה בְע֣וֹז מׇתְנֶ֑יהָ וַ֝תְּאַמֵּ֗ץ זְרוֹעֹתֶֽיהָ׃",
+    "original": "<span data-strong=\"H2296\">חָֽגְרָ֣ה</span> <span data-strong=\"H5797\">בְע֣וֹז</span> <span data-strong=\"H1886\">מׇתְנֶ֑יהָ</span> <span data-strong=\"H553\">וַ֝תְּאַמֵּ֗ץ</span> <span data-strong=\"H1886\">זְרוֹעֹתֶֽיהָ׃</span>",
     "transliteration": "hagerah ve'voz moteneyha vate'amets zervo'oteyha.",
     "translation": "Cingiu-se com força os lombos e fortaleceu seus braços."
   },
@@ -109,49 +109,49 @@
   },
   {
     "verse": 19,
-    "original": "יָ֭דֶיהָ שִׁלְּחָ֣ה בַכִּישׁ֑וֹר וְ֝כַפֶּ֗יהָ תָּ֣מְכוּ פָֽלֶךְ׃",
+    "original": "<span data-strong=\"H1886\">יָ֭דֶיהָ</span> <span data-strong=\"H7971\">שִׁלְּחָ֣ה</span> <span data-strong=\"H3601\">בַכִּישׁ֑וֹר</span> <span data-strong=\"H1886\">וְ֝כַפֶּ֗יהָ</span> <span data-strong=\"H8551\">תָּ֣מְכוּ</span> <span data-strong=\"H6418\">פָֽלֶךְ׃</span>",
     "transliteration": "yadeyha shilehah vakhiyshvor vekhafeyha tamekhv falekhe.",
     "translation": "Suas mãos estenderam-se ao tear, e suas palmas sustentaram o fuso."
   },
   {
     "verse": 20,
-    "original": "כַּ֭פָּהּ פָּֽרְשָׂ֣ה לֶעָנִ֑י וְ֝יָדֶ֗יהָ שִׁלְּחָ֥ה לָאֶבְיֽוֹן׃",
+    "original": "<span data-strong=\"H1886\">כַּ֭פָּהּ</span> <span data-strong=\"H6566\">פָּֽרְשָׂ֣ה</span> <span data-strong=\"H6041\">לֶעָנִ֑י</span> <span data-strong=\"H1886\">וְ֝יָדֶ֗יהָ</span> <span data-strong=\"H7971\">שִׁלְּחָ֥ה</span> <span data-strong=\"H34\">לָאֶבְיֽוֹן׃</span>",
     "transliteration": "khafah faresah le'aniy veyadeyha shilehah la'eveyvon.",
     "translation": "Sua mão se estende ao pobre, e suas mãos enviam presentes ao necessitado."
   },
   {
     "verse": 21,
-    "original": "לֹא־תִירָ֣א לְבֵיתָ֣הּ מִשָּׁ֑לֶג כִּ֥י כׇל־בֵּ֝יתָ֗הּ לָבֻ֥שׁ שָׁנִֽים׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3372\">תִירָ֣א</span> <span data-strong=\"H1886\">לְבֵיתָ֣הּ</span> <span data-strong=\"H7950\">מִשָּׁ֑לֶג</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H1886\">בֵּ֝יתָ֗הּ</span> <span data-strong=\"H3830\">לָבֻ֥שׁ</span> <span data-strong=\"H8144\">שָׁנִֽים׃</span>",
     "transliteration": "lo'-tiyra' leveytah mishaleg khiy khol-veytah lavush shaniym.",
     "translation": "Não tema, sua casa não será ferida pelo neve, pois toda a sua casa está vestida de duas peles."
   },
   {
     "verse": 22,
-    "original": "מַרְבַדִּ֥ים עָֽשְׂתָה־לָּ֑הּ שֵׁ֖שׁ וְאַרְגָּמָ֣ן לְבוּשָֽׁהּ׃",
+    "original": "<span data-strong=\"H4765\">מַרְבַדִּ֥ים</span> <span data-strong=\"H6213\">עָֽשְׂתָה</span>־<span data-strong=\"H1886\">לָּ֑הּ</span> <span data-strong=\"H8336\">שֵׁ֖שׁ</span> <span data-strong=\"H713\">וְאַרְגָּמָ֣ן</span> <span data-strong=\"H1886\">לְבוּשָֽׁהּ׃</span>",
     "transliteration": "marevadiym 'asetah-lah shesh ve'aregaman levvshah.",
     "translation": "Mantos bordados fez para si; linho fino e púrpura são suas vestimentas."
   },
   {
     "verse": 23,
-    "original": "נוֹדָ֣ע בַּשְּׁעָרִ֣ים בַּעְלָ֑הּ בְּ֝שִׁבְתּ֗וֹ עִם־זִקְנֵי־אָֽרֶץ׃",
+    "original": "<span data-strong=\"H3045\">נוֹדָ֣ע</span> <span data-strong=\"H8179\">בַּשְּׁעָרִ֣ים</span> <span data-strong=\"H1886\">בַּעְלָ֑הּ</span> <span data-strong=\"H2050\">בְּ֝שִׁבְתּ֗וֹ</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2205\">זִקְנֵי</span>־<span data-strong=\"H776\">אָֽרֶץ׃</span>",
     "transliteration": "nvoda' vashe'ariym va'elah veshivetvo 'im-zikeney-'arets.",
     "translation": "Conhecida nos portões está a dona de casa, sentada com os anciãos da terra."
   },
   {
     "verse": 24,
-    "original": "סָדִ֣ין עָ֭שְׂתָה וַתִּמְכֹּ֑ר וַ֝חֲג֗וֹר נָתְנָ֥ה לַֽכְּנַעֲנִֽי׃",
+    "original": "<span data-strong=\"H5466\">סָדִ֣ין</span> <span data-strong=\"H6213\">עָ֭שְׂתָה</span> <span data-strong=\"H4376\">וַתִּמְכֹּ֑ר</span> <span data-strong=\"H2290\">וַ֝חֲג֗וֹר</span> <span data-strong=\"H5414\">נָתְנָ֥ה</span> <span data-strong=\"H3669\">לַֽכְּנַעֲנִֽי׃</span>",
     "transliteration": "sadiyn 'asetah vatimekhor vahagvor natenah lakhena'aniy.",
     "translation": "Vestes costurou e vendeu, e cingimento entregou ao cananeu."
   },
   {
     "verse": 25,
-    "original": "עֹז־וְהָדָ֥ר לְבוּשָׁ֑הּ וַ֝תִּשְׂחַ֗ק לְי֣וֹם אַחֲרֽוֹן׃",
+    "original": "<span data-strong=\"H5797\">עֹז</span>־<span data-strong=\"H1926\">וְהָדָ֥ר</span> <span data-strong=\"H1886\">לְבוּשָׁ֑הּ</span> <span data-strong=\"H7832\">וַ֝תִּשְׂחַ֗ק</span> <span data-strong=\"H3117\">לְי֣וֹם</span> <span data-strong=\"H314\">אַחֲרֽוֹן׃</span>",
     "transliteration": "'oz-vehadar levvshah vatisehak leyvom 'aharvon.",
     "translation": "Poder e esplendor são seu manto, e ela se regozija no último dia."
   },
   {
     "verse": 26,
-    "original": "פִּ֭יהָ פָּתְחָ֣ה בְחׇכְמָ֑ה וְת֥וֹרַת חֶ֝֗סֶד עַל־לְשׁוֹנָֽהּ׃",
+    "original": "<span data-strong=\"H1886\">פִּ֭יהָ</span> <span data-strong=\"H6605\">פָּתְחָ֣ה</span> <span data-strong=\"H2451\">בְחׇכְמָ֑ה</span> <span data-strong=\"H8451\">וְת֥וֹרַת</span> <span data-strong=\"H2617\">חֶ֝֗סֶד</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">לְשׁוֹנָֽהּ׃</span>",
     "transliteration": "fiyha fatehah vehokhemah vetvorat hesed 'al-leshvonah.",
     "translation": "Sua boca se abre em sabedoria, e a lei do amor está sobre sua língua."
   },
@@ -163,25 +163,25 @@
   },
   {
     "verse": 28,
-    "original": "קָ֣מוּ בָ֭נֶיהָ וַֽיְאַשְּׁר֑וּהָ בַּ֝עְלָ֗הּ וַֽיְהַלְלָֽהּ׃",
+    "original": "<span data-strong=\"H6965\">קָ֣מוּ</span> <span data-strong=\"H1886\">בָ֭נֶיהָ</span> <span data-strong=\"H1886\">וַֽיְאַשְּׁר֑וּהָ</span> <span data-strong=\"H1886\">בַּ֝עְלָ֗הּ</span> <span data-strong=\"H1886\">וַֽיְהַלְלָֽהּ׃</span>",
     "transliteration": "kamv vaneyha vaye'ashervha va'elah vayehalelah.",
     "translation": "Levanta-te, seus filhos, e louva-a; seu marido também a exalta."
   },
   {
     "verse": 29,
-    "original": "רַבּ֣וֹת בָּ֭נוֹת עָ֣שׂוּ חָ֑יִל וְ֝אַ֗תְּ עָלִ֥ית עַל־כֻּלָּֽנָה׃",
+    "original": "<span data-strong=\"H7227\">רַבּ֣וֹת</span> <span data-strong=\"H1323\">בָּ֭נוֹת</span> <span data-strong=\"H6213\">עָ֣שׂוּ</span> <span data-strong=\"H2428\">חָ֑יִל</span> <span data-strong=\"H859\">וְ֝אַ֗תְּ</span> <span data-strong=\"H5927\">עָלִ֥ית</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2004\">כֻּלָּֽנָה׃</span>",
     "transliteration": "ravvot vanvot 'asv hayil ve'ate 'aliyt 'al-khulanah.",
     "translation": "Muitas mulheres acumularam valentia, mas tu sobrepujaste todas."
   },
   {
     "verse": 30,
-    "original": "שֶׁ֣קֶר הַ֭חֵן וְהֶ֣בֶל הַיֹּ֑פִי אִשָּׁ֥ה יִרְאַת־יְ֝הֹוָ֗ה הִ֣יא תִתְהַלָּֽל׃",
+    "original": "<span data-strong=\"H8267\">שֶׁ֣קֶר</span> <span data-strong=\"H2580\">הַ֭חֵן</span> <span data-strong=\"H1892\">וְהֶ֣בֶל</span> <span data-strong=\"H3308\">הַיֹּ֑פִי</span> <span data-strong=\"H802\">אִשָּׁ֥ה</span> <span data-strong=\"H3373\">יִרְאַת</span>־<span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H1931\">הִ֣יא</span> <span data-strong=\"H1984\">תִתְהַלָּֽל׃</span>",
     "transliteration": "sheker hahen vehevel hayofiy 'ishah yire'at-yehovah hiy' titehalal.",
     "translation": "Vaidade é a graça, e vazio o formosura; mulher que teme ao Senhor, ela será louvada."
   },
   {
     "verse": 31,
-    "original": "תְּנוּ־לָ֭הּ מִפְּרִ֣י יָדֶ֑יהָ וִיהַלְל֖וּהָ בַשְּׁעָרִ֣ים מַֽעֲשֶֽׂיהָ׃",
+    "original": "<span data-strong=\"H5414\">תְּנוּ</span>־<span data-strong=\"H1886\">לָ֭הּ</span> <span data-strong=\"H6529\">מִפְּרִ֣י</span> <span data-strong=\"H1886\">יָדֶ֑יהָ</span> <span data-strong=\"H1886\">וִיהַלְל֖וּהָ</span> <span data-strong=\"H8179\">בַשְּׁעָרִ֣ים</span> <span data-strong=\"H1886\">מַֽעֲשֶֽׂיהָ׃</span>",
     "transliteration": "tenv-lah miferiy yadeyha viyhalelvha vashe'ariym ma'aseyha.",
     "translation": "Dêem-lhe o fruto de suas mãos e exaltem-na nas portas por seus atos."
   }

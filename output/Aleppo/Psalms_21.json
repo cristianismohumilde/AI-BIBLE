@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֗חַ</span> <span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "lamenatseha mizemvor ledavid.",
     "translation": "Ao músico首席校对人员未提供葡萄牙语的翻译修正，给出的指示是仅在存在错误时才进行纠正，并且只输出最终的、纠正后的文本。基于提供的信息和指示，原始翻译似乎符合所有的标准要求，因此应保持不变：\n\nAo encantador, um salmo de Davi."
   },
@@ -13,67 +13,67 @@
   },
   {
     "verse": 3,
-    "original": "תַּאֲוַ֣ת לִ֭בּוֹ נָתַ֣תָּה לּ֑וֹ וַאֲרֶ֥שֶׁת שְׂ֝פָתָ֗יו בַּל־מָנַ֥עְתָּ סֶּֽלָה׃",
+    "original": "<span data-strong=\"H8378\">תַּאֲוַ֣ת</span> <span data-strong=\"H2050\">לִ֭בּוֹ</span> <span data-strong=\"H5414\">נָתַ֣תָּה</span> <span data-strong=\"H2050\">לּ֑וֹ</span> <span data-strong=\"H782\">וַאֲרֶ֥שֶׁת</span> <span data-strong=\"H2050\">שְׂ֝פָתָ֗יו</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H4513\">מָנַ֥עְתָּ</span> <span data-strong=\"H5542\">סֶּֽלָה׃</span>",
     "transliteration": "ta'avat livvo natatah lvo va'areshet sefatayv val-mana'eta selah.",
     "translation": "O desejo do seu coração você lhe deu, e não negou o fruto dos seus lábios, selá."
   },
   {
     "verse": 4,
-    "original": "כִּֽי־תְ֭קַדְּמֶנּוּ בִּרְכ֣וֹת ט֑וֹב תָּשִׁ֥ית לְ֝רֹאשׁ֗וֹ עֲטֶ֣רֶת פָּֽז׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5105\">תְ֭קַדְּמֶנּוּ</span> <span data-strong=\"H1293\">בִּרְכ֣וֹת</span> <span data-strong=\"H2896\">ט֑וֹב</span> <span data-strong=\"H7896\">תָּשִׁ֥ית</span> <span data-strong=\"H2050\">לְ֝רֹאשׁ֗וֹ</span> <span data-strong=\"H5850\">עֲטֶ֣רֶת</span> <span data-strong=\"H6337\">פָּֽז׃</span>",
     "transliteration": "khiy-tekademenv virekhvot tvov tashiyt lero'shvo 'ateret faz.",
     "translation": "Pois se lhe antecipares com bênçãos de bem, porás sobre sua cabeça uma coroa de ouro refinado."
   },
   {
     "verse": 5,
-    "original": "חַיִּ֤ים&thinsp;<b>׀</b> שָׁאַ֣ל מִ֭מְּךָ נָתַ֣תָּה לּ֑וֹ אֹ֥רֶךְ יָ֝מִ֗ים עוֹלָ֥ם וָעֶֽד׃",
+    "original": "<span data-strong=\"H2416\">חַיִּ֤ים&thinsp;<b>׀</b></span> <span data-strong=\"H7592\">שָׁאַ֣ל</span> <span data-strong=\"H3509\">מִ֭מְּךָ</span> <span data-strong=\"H5414\">נָתַ֣תָּה</span> <span data-strong=\"H2050\">לּ֑וֹ</span> <span data-strong=\"H753\">אֹ֥רֶךְ</span> <span data-strong=\"H3117\">יָ֝מִ֗ים</span> <span data-strong=\"H5769\">עוֹלָ֥ם</span> <span data-strong=\"H5703\">וָעֶֽד׃</span>",
     "transliteration": "hayiym&thinsp;<b>|</b> sha'al mimekha natatah lvo 'orekhe yamiym 'volam va'ed.",
     "translation": "Vida pediu de ti, e tu a deste-lhe; prolongamento de dias, até ao fim eterno."
   },
   {
     "verse": 6,
-    "original": "גָּד֣וֹל כְּ֭בוֹדוֹ בִּישׁוּעָתֶ֑ךָ ה֥וֹד וְ֝הָדָ֗ר תְּשַׁוֶּ֥ה עָלָֽיו׃",
+    "original": "<span data-strong=\"H1419\">גָּד֣וֹל</span> <span data-strong=\"H2050\">כְּ֭בוֹדוֹ</span> <span data-strong=\"H3509\">בִּישׁוּעָתֶ֑ךָ</span> <span data-strong=\"H1935\">ה֥וֹד</span> <span data-strong=\"H1926\">וְ֝הָדָ֗ר</span> <span data-strong=\"H7737\">תְּשַׁוֶּ֥ה</span> <span data-strong=\"H2050\">עָלָֽיו׃</span>",
     "transliteration": "gadvol khevvodvo viyshv'atekha hvod vehadar teshaveh 'alayv.",
     "translation": "Grande é sua glória em tua salvação; majestade e esplendor lhe darás."
   },
   {
     "verse": 7,
-    "original": "כִּֽי־תְשִׁיתֵ֣הוּ בְרָכ֣וֹת לָעַ֑ד תְּחַדֵּ֥הוּ בְ֝שִׂמְחָ֗ה אֶת־פָּנֶֽיךָ׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1930\">תְשִׁיתֵ֣הוּ</span> <span data-strong=\"H1293\">בְרָכ֣וֹת</span> <span data-strong=\"H5703\">לָעַ֑ד</span> <span data-strong=\"H1930\">תְּחַדֵּ֥הוּ</span> <span data-strong=\"H8057\">בְ֝שִׂמְחָ֗ה</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H3509\">פָּנֶֽיךָ׃</span>",
     "transliteration": "khiy-teshiytehv verakhvot la'ad tehadehv vesimehah 'et-faneykha.",
     "translation": "Pois lhe derramarás bênçãos eternas, renová-lo-ás com alegria diante do teu rosto."
   },
   {
     "verse": 8,
-    "original": "כִּֽי־הַ֭מֶּלֶךְ בֹּטֵ֣חַ בַּיהֹוָ֑ה וּבְחֶ֥סֶד עֶ֝לְי֗וֹן בַּל־יִמּֽוֹט׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H4428\">הַ֭מֶּלֶךְ</span> <span data-strong=\"H982\">בֹּטֵ֣חַ</span> <span data-strong=\"H3068\">בַּיהֹוָ֑ה</span> <span data-strong=\"H2617\">וּבְחֶ֥סֶד</span> <span data-strong=\"H5945\">עֶ֝לְי֗וֹן</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H4131\">יִמּֽוֹט׃</span>",
     "transliteration": "khiy-hamelekhe voteha vayhovah vvehesed 'eleyvon val-yimvot.",
     "translation": "Pois o rei confia no Senhor, e pela misericórdia do Altíssimo não vacilará."
   },
   {
     "verse": 9,
-    "original": "תִּמְצָ֣א יָ֭דְךָ לְכׇל־אֹיְבֶ֑יךָ יְ֝מִֽינְךָ֗ תִּמְצָ֥א שֹׂנְאֶֽיךָ׃",
+    "original": "<span data-strong=\"H4672\">תִּמְצָ֣א</span> <span data-strong=\"H3509\">יָ֭דְךָ</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H3509\">אֹיְבֶ֑יךָ</span> <span data-strong=\"H3509\">יְ֝מִֽינְךָ֗</span> <span data-strong=\"H4672\">תִּמְצָ֥א</span> <span data-strong=\"H3509\">שֹׂנְאֶֽיךָ׃</span>",
     "transliteration": "timetsa' yadekha lekhol-'oyeveykha yemiynekha timetsa' sone'eykha.",
     "translation": "Encontrarás tua mão sobre todos os teus inimigos; tua destra encontrará os que te odeiam."
   },
   {
     "verse": 10,
-    "original": "תְּשִׁיתֵ֤מוֹ&thinsp;<b>׀</b> כְּתַנּ֥וּר אֵשׁ֮ לְעֵ֢ת פָּ֫נֶ֥יךָ יְ֭הֹוָה בְּאַפּ֣וֹ יְבַלְּעֵ֑ם וְֽתֹאכְלֵ֥ם אֵֽשׁ׃",
+    "original": "<span data-strong=\"H3963\">תְּשִׁיתֵ֤מוֹ&thinsp;<b>׀</b></span> <span data-strong=\"H8574\">כְּתַנּ֥וּר</span> <span data-strong=\"H784\">אֵשׁ֮</span> <span data-strong=\"H6256\">לְעֵ֢ת</span> <span data-strong=\"H3509\">פָּ֫נֶ֥יךָ</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H2050\">בְּאַפּ֣וֹ</span> <span data-strong=\"H3963\">יְבַלְּעֵ֑ם</span> <span data-strong=\"H3963\">וְֽתֹאכְלֵ֥ם</span> <span data-strong=\"H784\">אֵֽשׁ׃</span>",
     "transliteration": "teshiytemvo&thinsp;<b>|</b> khetanvr 'esh le'et faneykha yehovah ve'afvo yevale'em veto'khelem 'esh.",
     "translation": "Seus tumultos são como fornalha de fogo, à tua presença, Senhor; no seu furor serão devorados e consumidos pelo fogo."
   },
   {
     "verse": 11,
-    "original": "פִּ֭רְיָמוֹ מֵאֶ֣רֶץ תְּאַבֵּ֑ד וְ֝זַרְעָ֗ם מִבְּנֵ֥י אָדָֽם׃",
+    "original": "<span data-strong=\"H3963\">פִּ֭רְיָמוֹ</span> <span data-strong=\"H776\">מֵאֶ֣רֶץ</span> <span data-strong=\"H6\">תְּאַבֵּ֑ד</span> <span data-strong=\"H3963\">וְ֝זַרְעָ֗ם</span> <span data-strong=\"H1121\">מִבְּנֵ֥י</span> <span data-strong=\"H120\">אָדָֽם׃</span>",
     "transliteration": "fireyamvo me'erets te'aved vezare'am miveney 'adam.",
     "translation": "Seu fruto perecerá da terra, e sua semente entre os filhos dos homens."
   },
   {
     "verse": 12,
-    "original": "כִּי־נָט֣וּ עָלֶ֣יךָ רָעָ֑ה חָֽשְׁב֥וּ מְ֝זִמָּ֗ה בַּל־יוּכָֽלוּ׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H5186\">נָט֣וּ</span> <span data-strong=\"H3509\">עָלֶ֣יךָ</span> <span data-strong=\"H7451\">רָעָ֑ה</span> <span data-strong=\"H2803\">חָֽשְׁב֥וּ</span> <span data-strong=\"H4209\">מְ֝זִמָּ֗ה</span> <span data-strong=\"H1077\">בַּל</span>־<span data-strong=\"H3201\">יוּכָֽלוּ׃</span>",
     "transliteration": "khiy-natv 'aleykha ra'ah hashevv mezimah val-yvkhalv.",
     "translation": "Pois inclinaram-se sobre ti o mal, tramaram artimanha, de modo que não possam."
   },
   {
     "verse": 13,
-    "original": "כִּ֭י תְּשִׁיתֵ֣מוֹ שֶׁ֑כֶם בְּ֝מֵֽיתָרֶ֗יךָ תְּכוֹנֵ֥ן עַל־פְּנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3588\">כִּ֭י</span> <span data-strong=\"H3963\">תְּשִׁיתֵ֣מוֹ</span> <span data-strong=\"H7926\">שֶׁ֑כֶם</span> <span data-strong=\"H3509\">בְּ֝מֵֽיתָרֶ֗יךָ</span> <span data-strong=\"H3559\">תְּכוֹנֵ֥ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">פְּנֵיהֶֽם׃</span>",
     "transliteration": "khiy teshiytemvo shekhem vemeytareykha tekhvonen 'al-feneyhem.",
     "translation": "Pois os assentarás como um selo sobre eles; em teus montes os fortalecerás diante deles."
   },

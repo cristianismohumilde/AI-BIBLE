@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת בְּשׁ֣וּב יְ֭הֹוָה אֶת־שִׁיבַ֣ת צִיּ֑וֹן הָ֝יִ֗ינוּ כְּחֹלְמִֽים׃",
+    "original": "<span data-strong=\"H7892\">שִׁ֗יר</span> <span data-strong=\"H4609\">הַֽמַּ֫עֲל֥וֹת</span> <span data-strong=\"H7725\">בְּשׁ֣וּב</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7870\">שִׁיבַ֣ת</span> <span data-strong=\"H6726\">צִיּ֑וֹן</span> <span data-strong=\"H1961\">הָ֝יִ֗ינוּ</span> <span data-strong=\"H2492\">כְּחֹלְמִֽים׃</span>",
     "transliteration": "shiyr hama'alvot veshvv yehovah 'et-shiyvat tsiyvon hayiynv kheholemiym.",
     "translation": "Cântico dos degraus. Ao retornar o Senhor a fazer resplandecer Sião, nós éramos como que sonhando."
   },
   {
     "verse": 2,
-    "original": "אָ֤ז יִמָּלֵ֪א שְׂח֡וֹק פִּינוּ֮ וּלְשׁוֹנֵ֢נוּ רִ֫נָּ֥ה אָ֭ז יֹאמְר֣וּ בַגּוֹיִ֑ם הִגְדִּ֥יל יְ֝הֹוָ֗ה לַעֲשׂ֥וֹת עִם־אֵֽלֶּה׃",
+    "original": "<span data-strong=\"H227\">אָ֤ז</span> <span data-strong=\"H4390\">יִמָּלֵ֪א</span> <span data-strong=\"H7814\">שְׂח֡וֹק</span> <span data-strong=\"H5105\">פִּינוּ֮</span> <span data-strong=\"H5105\">וּלְשׁוֹנֵ֢נוּ</span> <span data-strong=\"H7440\">רִ֫נָּ֥ה</span> <span data-strong=\"H227\">אָ֭ז</span> <span data-strong=\"H559\">יֹאמְר֣וּ</span> <span data-strong=\"H1471\">בַגּוֹיִ֑ם</span> <span data-strong=\"H1431\">הִגְדִּ֥יל</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H6213\">לַעֲשׂ֥וֹת</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H428\">אֵֽלֶּה׃</span>",
     "transliteration": "'az yimale' sehvok fiynv vleshvonenv rinah 'az yo'merv vagvoyim higediyl yehovah la'asvot 'im-'eleh.",
     "translation": "Então se encherá de riso a nossa boca e a nossa língua de cântico; então dirão entre as nações: Grandioso fez o Senhor com estes."
   },
   {
     "verse": 3,
-    "original": "הִגְדִּ֣יל יְ֭הֹוָה לַעֲשׂ֥וֹת עִמָּ֗נוּ הָיִ֥ינוּ שְׂמֵחִֽים׃",
+    "original": "<span data-strong=\"H1431\">הִגְדִּ֣יל</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H6213\">לַעֲשׂ֥וֹת</span> <span data-strong=\"H5105\">עִמָּ֗נוּ</span> <span data-strong=\"H1961\">הָיִ֥ינוּ</span> <span data-strong=\"H8056\">שְׂמֵחִֽים׃</span>",
     "transliteration": "higediyl yehovah la'asvot 'imanv hayiynv semehiym.",
     "translation": "O Senhor ampliou Suas obras conosco; fomos cheios de alegria."
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "הַזֹּרְעִ֥ים בְּדִמְעָ֗ה בְּרִנָּ֥ה יִקְצֹֽרוּ׃",
+    "original": "<span data-strong=\"H2232\">הַזֹּרְעִ֥ים</span> <span data-strong=\"H1832\">בְּדִמְעָ֗ה</span> <span data-strong=\"H7440\">בְּרִנָּ֥ה</span> <span data-strong=\"H7114\">יִקְצֹֽרוּ׃</span>",
     "transliteration": "hazore'iym vedime'ah verinah yiketsorv.",
     "translation": "Os que semeiam com lágrimas colherão com alegria."
   },

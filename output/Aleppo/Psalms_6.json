@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־הַשְּׁמִינִ֗ית מִזְמ֥וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֣חַ</span> <span data-strong=\"H5058\">בִּ֭נְגִינוֹת</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H8066\">הַשְּׁמִינִ֗ית</span> <span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "lamenatseha vinegiynvot 'al-hashemiyniyt mizemvor ledavid.",
     "translation": "Para o mestre do canto com instrumentos musicais, sobre a oitava, salmo de Davi."
   },
   {
     "verse": 2,
-    "original": "יְֽהֹוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃",
+    "original": "<span data-strong=\"H3068\">יְֽהֹוָ֗ה</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3509\">בְּאַפְּךָ֥</span> <span data-strong=\"H5204\">תוֹכִיחֵ֑נִי</span> <span data-strong=\"H408\">וְֽאַל</span>־<span data-strong=\"H3509\">בַּחֲמָתְךָ֥</span> <span data-strong=\"H5204\">תְיַסְּרֵֽנִי׃</span>",
     "transliteration": "yehovah 'al-ve'afekha tvokhiyheniy ve'al-vahamatekha teyasereniy.",
     "translation": "Senhor, não me repreendas na tua ira, nem me castigues na tua cólera."
   },
@@ -25,37 +25,37 @@
   },
   {
     "verse": 5,
-    "original": "שׁוּבָ֣ה יְ֭הֹוָה חַלְּצָ֣ה נַפְשִׁ֑י ה֝וֹשִׁיעֵ֗נִי לְמַ֣עַן חַסְדֶּֽךָ׃",
+    "original": "<span data-strong=\"H1886\">שׁוּבָ֣ה</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H1886\">חַלְּצָ֣ה</span> <span data-strong=\"H2967\">נַפְשִׁ֑י</span> <span data-strong=\"H5204\">ה֝וֹשִׁיעֵ֗נִי</span> <span data-strong=\"H4616\">לְמַ֣עַן</span> <span data-strong=\"H3509\">חַסְדֶּֽךָ׃</span>",
     "transliteration": "shvvah yehovah haletsah nafeshiy hvoshiy'eniy lema'an hasedekha.",
     "translation": "Volta, Senhor, livra minha alma; salva-me em razão de tua misericórdia."
   },
   {
     "verse": 6,
-    "original": "כִּ֤י אֵ֣ין בַּמָּ֣וֶת זִכְרֶ֑ךָ בִּ֝שְׁא֗וֹל מִ֣י יֽוֹדֶה־לָּֽךְ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H369\">אֵ֣ין</span> <span data-strong=\"H4194\">בַּמָּ֣וֶת</span> <span data-strong=\"H3509\">זִכְרֶ֑ךָ</span> <span data-strong=\"H7585\">בִּ֝שְׁא֗וֹל</span> <span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H3034\">יֽוֹדֶה</span>־<span data-strong=\"H3509\">לָּֽךְ׃</span>",
     "transliteration": "khiy 'eyn vamavet zikherekha vishe'vol miy yvodeh-lakhe.",
     "translation": "Pois na morte não há lembrança de ti, no Sheol quem te louvará?"
   },
   {
     "verse": 7,
-    "original": "יָגַ֤עְתִּי&thinsp;<b>׀</b> בְּֽאַנְחָתִ֗י אַשְׂחֶ֣ה בְכׇל־לַ֭יְלָה מִטָּתִ֑י בְּ֝דִמְעָתִ֗י עַרְשִׂ֥י אַמְסֶֽה׃",
+    "original": "<span data-strong=\"H3021\">יָגַ֤עְתִּי&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">בְּֽאַנְחָתִ֗י</span> <span data-strong=\"H7811\">אַשְׂחֶ֣ה</span> <span data-strong=\"H3605\">בְכׇל</span>־<span data-strong=\"H3915\">לַ֭יְלָה</span> <span data-strong=\"H2967\">מִטָּתִ֑י</span> <span data-strong=\"H2967\">בְּ֝דִמְעָתִ֗י</span> <span data-strong=\"H2967\">עַרְשִׂ֥י</span> <span data-strong=\"H4529\">אַמְסֶֽה׃</span>",
     "transliteration": "yaga'etiy&thinsp;<b>|</b> ve'anehatiy 'aseheh vekhol-layelah mitatiy vedime'atiy 'aresiy 'ameseh.",
     "translation": "Cansado estou com meus gemidos; passo toda a noite em lágrimas, banho minha cama e inundo meu leito."
   },
   {
     "verse": 8,
-    "original": "עָשְׁשָׁ֣ה מִכַּ֣עַס עֵינִ֑י עָ֝תְקָ֗ה בְּכׇל־צוֹרְרָֽי׃",
+    "original": "<span data-strong=\"H6244\">עָשְׁשָׁ֣ה</span> <span data-strong=\"H3708\">מִכַּ֣עַס</span> <span data-strong=\"H2967\">עֵינִ֑י</span> <span data-strong=\"H6275\">עָ֝תְקָ֗ה</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H2967\">צוֹרְרָֽי׃</span>",
     "transliteration": "'asheshah mikha'as 'eyniy 'atekah vekhol-tsvoreray.",
     "translation": "Foi obra de minha ira; foi transferida para todos os meus inimigos."
   },
   {
     "verse": 9,
-    "original": "ס֣וּרוּ מִ֭מֶּנִּי כׇּל־פֹּ֣עֲלֵי אָ֑וֶן כִּֽי־שָׁמַ֥ע יְ֝הֹוָ֗ה ק֣וֹל בִּכְיִֽי׃",
+    "original": "<span data-strong=\"H5493\">ס֣וּרוּ</span> <span data-strong=\"H2967\">מִ֭מֶּנִּי</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6466\">פֹּ֣עֲלֵי</span> <span data-strong=\"H205\">אָ֑וֶן</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H8085\">שָׁמַ֥ע</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H6963\">ק֣וֹל</span> <span data-strong=\"H2967\">בִּכְיִֽי׃</span>",
     "transliteration": "svrv mimeniy khol-fo'aley 'aven khiy-shama' yehovah kvol vikheyiy.",
     "translation": "Afastei-vos de mim, todos os operários da iniquidade, pois ouviu o Senhor a voz do meu choro."
   },
   {
     "verse": 10,
-    "original": "שָׁמַ֣ע יְ֭הֹוָה תְּחִנָּתִ֑י יְ֝הֹוָ֗ה תְּֽפִלָּתִ֥י יִקָּֽח׃",
+    "original": "<span data-strong=\"H8085\">שָׁמַ֣ע</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H2967\">תְּחִנָּתִ֑י</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H2967\">תְּֽפִלָּתִ֥י</span> <span data-strong=\"H3947\">יִקָּֽח׃</span>",
     "transliteration": "shama' yehovah tehinatiy yehovah tefilatiy yikah.",
     "translation": "Ouviu-me o Senhor, atendeu minha súplica; o Senhor recebe minha oração."
   },

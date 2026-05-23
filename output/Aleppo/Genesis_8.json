@@ -1,79 +1,79 @@
 [
   {
     "verse": 1,
-    "original": "וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כׇּל־הַֽחַיָּה֙ וְאֶת־כׇּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה וַיַּעֲבֵ֨ר אֱלֹהִ֥ים ר֙וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם׃",
+    "original": "<span data-strong=\"H2142\">וַיִּזְכֹּ֤ר</span> <span data-strong=\"H430\">אֱלֹהִים֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5146\">נֹ֔חַ</span> <span data-strong=\"H853\">וְאֵ֤ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2416\">הַֽחַיָּה֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H929\">הַבְּהֵמָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2050\">אִתּ֖וֹ</span> <span data-strong=\"H8392\">בַּתֵּבָ֑ה</span> <span data-strong=\"H5674\">וַיַּעֲבֵ֨ר</span> <span data-strong=\"H430\">אֱלֹהִ֥ים</span> <span data-strong=\"H7307\">ר֙וּחַ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H7918\">וַיָּשֹׁ֖כּוּ</span> <span data-strong=\"H4325\">הַמָּֽיִם׃</span>",
     "transliteration": "vayizekhor 'elohiym 'et-noha ve'et khol-hahayah ve'et-khol-havehemah 'asher 'itvo vatevah vaya'aver 'elohiym rvha 'al-ha'arets vayashokhv hamayim.",
     "translation": "E Deus se lembrou de Noé e de toda a vivente, de todos os animais que estavam com ele na arca, e fez passar o Espírito sobre a terra, e as águas baixaram."
   },
   {
     "verse": 2,
-    "original": "וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם׃",
+    "original": "<span data-strong=\"H5534\">וַיִּסָּֽכְרוּ֙</span> <span data-strong=\"H4599\">מַעְיְנֹ֣ת</span> <span data-strong=\"H8415\">תְּה֔וֹם</span> <span data-strong=\"H699\">וַֽאֲרֻבֹּ֖ת</span> <span data-strong=\"H8064\">הַשָּׁמָ֑יִם</span> <span data-strong=\"H3607\">וַיִּכָּלֵ֥א</span> <span data-strong=\"H1653\">הַגֶּ֖שֶׁם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8064\">הַשָּׁמָֽיִם׃</span>",
     "transliteration": "vayisakherv ma'eyenot tehvom va'aruvot hashamayim vayikhale' hageshem min-hashamayim.",
     "translation": "E fecharam as fontes do abismo e as trancas dos céus, e contiveram a chuva dos céus."
   },
   {
     "verse": 3,
-    "original": "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+    "original": "<span data-strong=\"H7725\">וַיָּשֻׁ֧בוּ</span> <span data-strong=\"H4325\">הַמַּ֛יִם</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H776\">הָאָ֖רֶץ</span> <span data-strong=\"H1980\">הָל֣וֹךְ</span> <span data-strong=\"H7725\">וָשׁ֑וֹב</span> <span data-strong=\"H2637\">וַיַּחְסְר֣וּ</span> <span data-strong=\"H4325\">הַמַּ֔יִם</span> <span data-strong=\"H7097\">מִקְצֵ֕ה</span> <span data-strong=\"H2572\">חֲמִשִּׁ֥ים</span> <span data-strong=\"H3967\">וּמְאַ֖ת</span> <span data-strong=\"H3117\">יֽוֹם׃</span>",
     "transliteration": "vayashuvv hamayim me'al ha'arets halvokhe vashvov vayaheserv hamayim miketseh hamishiym vme'at yvom.",
     "translation": "E as águas retrocederam da terra, recuando e diminuindo; e as águas se esgotaram ao cabo de cem e cinquenta dias."
   },
   {
     "verse": 4,
-    "original": "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃",
+    "original": "<span data-strong=\"H5117\">וַתָּ֤נַח</span> <span data-strong=\"H8392\">הַתֵּבָה֙</span> <span data-strong=\"H2320\">בַּחֹ֣דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔י</span> <span data-strong=\"H7651\">בְּשִׁבְעָה</span>־<span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H3117\">י֖וֹם</span> <span data-strong=\"H2320\">לַחֹ֑דֶשׁ</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H2022\">הָרֵ֥י</span> <span data-strong=\"H780\">אֲרָרָֽט׃</span>",
     "transliteration": "vatanah hatevah vahodesh hasheviy'iy veshive'ah-'asar yvom lahodesh 'al harey 'ararat.",
     "translation": "E a arca repousou no sétimo mês, no dia sete e vinte do mês, sobre os montes de Ararãt.\n\nObservação: O texto original em hebraico menciona \"no dia dezessete\" e não \"sete e vinte\". Assim, a tradução corrigida é:\n\nE a arca repousou no sétimo mês, no dia dezessete do mês, sobre os montes de Ararãt."
   },
   {
     "verse": 5,
-    "original": "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃",
+    "original": "<span data-strong=\"H4325\">וְהַמַּ֗יִם</span> <span data-strong=\"H1961\">הָיוּ֙</span> <span data-strong=\"H1980\">הָל֣וֹךְ</span> <span data-strong=\"H2637\">וְחָס֔וֹר</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H2320\">הַחֹ֣דֶשׁ</span> <span data-strong=\"H6224\">הָֽעֲשִׂירִ֑י</span> <span data-strong=\"H6224\">בָּֽעֲשִׂירִי֙</span> <span data-strong=\"H259\">בְּאֶחָ֣ד</span> <span data-strong=\"H2320\">לַחֹ֔דֶשׁ</span> <span data-strong=\"H7200\">נִרְא֖וּ</span> <span data-strong=\"H7218\">רָאשֵׁ֥י</span> <span data-strong=\"H2022\">הֶֽהָרִֽים׃</span>",
     "transliteration": "vehamayim hayv halvokhe vehasvor 'ad hahodesh ha'asiyriy va'asiyriy ve'ehad lahodesh nire'v ra'shey hehariym.",
     "translation": "E as águas foram recuando até ao décimo mês; no décimo, no primeiro do mês, apareceram os cumes das montanhas."
   },
   {
     "verse": 6,
-    "original": "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים י֑וֹם וַיִּפְתַּ֣ח נֹ֔חַ אֶת־חַלּ֥וֹן הַתֵּבָ֖ה אֲשֶׁ֥ר עָשָֽׂה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֕י</span> <span data-strong=\"H7093\">מִקֵּ֖ץ</span> <span data-strong=\"H705\">אַרְבָּעִ֣ים</span> <span data-strong=\"H3117\">י֑וֹם</span> <span data-strong=\"H6605\">וַיִּפְתַּ֣ח</span> <span data-strong=\"H5146\">נֹ֔חַ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2474\">חַלּ֥וֹן</span> <span data-strong=\"H8392\">הַתֵּבָ֖ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשָֽׂה׃</span>",
     "transliteration": "vayehiy mikets 'areva'iym yvom vayifetah noha 'et-halvon hatevah 'asher 'asah.",
     "translation": "E sucedeu que, ao cabo de quarenta dias, Noé abriu a janela da arca que havia feito."
   },
   {
     "verse": 7,
-    "original": "וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H7971\">וַיְשַׁלַּ֖ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6158\">הָֽעֹרֵ֑ב</span> <span data-strong=\"H3318\">וַיֵּצֵ֤א</span> <span data-strong=\"H3318\">יָצוֹא֙</span> <span data-strong=\"H7725\">וָשׁ֔וֹב</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3001\">יְבֹ֥שֶׁת</span> <span data-strong=\"H4325\">הַמַּ֖יִם</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "vayeshalah 'et-ha'orev vayetse' yatsvo' vashvov 'ad-yevoshet hamayim me'al ha'arets.",
     "translation": "E ele lançou o corvo, e saiu voando para fora, indo e voltando, até que se secaram as águas sobre a face da terra."
   },
   {
     "verse": 8,
-    "original": "וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+    "original": "<span data-strong=\"H7971\">וַיְשַׁלַּ֥ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3123\">הַיּוֹנָ֖ה</span> <span data-strong=\"H2050\">מֵאִתּ֑וֹ</span> <span data-strong=\"H7200\">לִרְאוֹת֙</span> <span data-strong=\"H7043\">הֲקַ֣לּוּ</span> <span data-strong=\"H4325\">הַמַּ֔יִם</span> <span data-strong=\"H5921\">מֵעַ֖ל</span> <span data-strong=\"H6440\">פְּנֵ֥י</span> <span data-strong=\"H127\">הָֽאֲדָמָֽה׃</span>",
     "transliteration": "vayeshalah 'et-hayvonah me'itvo lire'vot hakalv hamayim me'al feney ha'adamah.",
     "translation": "E ele lançou a pomba dele para ver se as águas haviam diminuído da face da terra."
   },
   {
     "verse": 9,
-    "original": "וְלֹֽא־מָצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שׇׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה כִּי־מַ֖יִם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה׃",
+    "original": "<span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H4672\">מָצְאָה֩</span> <span data-strong=\"H3123\">הַיּוֹנָ֨ה</span> <span data-strong=\"H4494\">מָנ֜וֹחַ</span> <span data-strong=\"H3709\">לְכַף</span>־<span data-strong=\"H1886\">רַגְלָ֗הּ</span> <span data-strong=\"H7725\">וַתָּ֤שׇׁב</span> <span data-strong=\"H2050\">אֵלָיו֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8392\">הַתֵּבָ֔ה</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H4325\">מַ֖יִם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6440\">פְּנֵ֣י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H7971\">וַיִּשְׁלַ֤ח</span> <span data-strong=\"H2050\">יָדוֹ֙</span> <span data-strong=\"H1886\">וַיִּקָּחֶ֔הָ</span> <span data-strong=\"H935\">וַיָּבֵ֥א</span> <span data-strong=\"H1886\">אֹתָ֛הּ</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8392\">הַתֵּבָֽה׃</span>",
     "transliteration": "velo'-matse'ah hayvonah manvoha lekhaf-ragelah vatashov 'elayv 'el-hatevah khiy-mayim 'al-feney khol-ha'arets vayishelah yadvo vayikaheha vayave' 'otah 'elayv 'el-hatevah.",
     "translation": "E a pomba não encontrou repouso para o descanso de seu pé, e voltou a ele à arca, pois água cobria toda a face da terra; então ele estendeu sua mão e tomou-a e trouxe-a a ele à arca."
   },
   {
     "verse": 10,
-    "original": "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה׃",
+    "original": "<span data-strong=\"H3176\">וַיָּ֣חֶל</span> <span data-strong=\"H5750\">ע֔וֹד</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H312\">אֲחֵרִ֑ים</span> <span data-strong=\"H3254\">וַיֹּ֛סֶף</span> <span data-strong=\"H7971\">שַׁלַּ֥ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3123\">הַיּוֹנָ֖ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8392\">הַתֵּבָֽה׃</span>",
     "transliteration": "vayahel 'vod shive'at yamiym 'aheriym vayosef shalah 'et-hayvonah min-hatevah.",
     "translation": "E passaram mais sete dias, e de novo enviou a pomba da arca."
   },
   {
     "verse": 11,
-    "original": "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H935\">וַתָּבֹ֨א</span> <span data-strong=\"H2050\">אֵלָ֤יו</span> <span data-strong=\"H3123\">הַיּוֹנָה֙</span> <span data-strong=\"H6256\">לְעֵ֣ת</span> <span data-strong=\"H6153\">עֶ֔רֶב</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H5929\">עֲלֵה</span>־<span data-strong=\"H2132\">זַ֖יִת</span> <span data-strong=\"H2965\">טָרָ֣ף</span> <span data-strong=\"H1886\">בְּפִ֑יהָ</span> <span data-strong=\"H3045\">וַיֵּ֣דַע</span> <span data-strong=\"H5146\">נֹ֔חַ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H7043\">קַ֥לּוּ</span> <span data-strong=\"H4325\">הַמַּ֖יִם</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "vatavo' 'elayv hayvonah le'et 'erev vehineh 'aleh-zayit taraf vefiyha vayeda' noha khiy-kalv hamayim me'al ha'arets.",
     "translation": "E a pomba veio até ele ao anoitecer, e eis que havia na sua boca um ramo de oliveira recém-arrancado; assim Noé soube que as águas haviam baixado da face da terra."
   },
   {
     "verse": 12,
-    "original": "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹֽא־יָסְפָ֥ה שׁוּב־אֵלָ֖יו עֽוֹד׃",
+    "original": "<span data-strong=\"H3176\">וַיִּיָּ֣חֶל</span> <span data-strong=\"H5750\">ע֔וֹד</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H312\">אֲחֵרִ֑ים</span> <span data-strong=\"H7971\">וַיְשַׁלַּח֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3123\">הַיּוֹנָ֔ה</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H3254\">יָסְפָ֥ה</span> <span data-strong=\"H7725\">שׁוּב</span>־<span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H5750\">עֽוֹד׃</span>",
     "transliteration": "vayiyahel 'vod shive'at yamiym 'aheriym vayeshalah 'et-hayvonah velo'-yasefah shvv-'elayv 'vod.",
     "translation": "E ele esperou outros sete dias, e enviou a pomba; mas ela não voltou mais para ele."
   },
   {
     "verse": 13,
-    "original": "וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ וַיָּ֤סַר נֹ֙חַ֙ אֶת־מִכְסֵ֣ה הַתֵּבָ֔ה וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃",
+    "original": "<span data-strong=\"H1961\">וַ֠יְהִ֠י</span> <span data-strong=\"H259\">בְּאַחַ֨ת</span> <span data-strong=\"H8337\">וְשֵׁשׁ</span>־<span data-strong=\"H3967\">מֵא֜וֹת</span> <span data-strong=\"H8141\">שָׁנָ֗ה</span> <span data-strong=\"H7223\">בָּֽרִאשׁוֹן֙</span> <span data-strong=\"H259\">בְּאֶחָ֣ד</span> <span data-strong=\"H2320\">לַחֹ֔דֶשׁ</span> <span data-strong=\"H2717\">חָֽרְב֥וּ</span> <span data-strong=\"H4325\">הַמַּ֖יִם</span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H5493\">וַיָּ֤סַר</span> <span data-strong=\"H5146\">נֹ֙חַ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4372\">מִכְסֵ֣ה</span> <span data-strong=\"H8392\">הַתֵּבָ֔ה</span> <span data-strong=\"H7200\">וַיַּ֕רְא</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H2717\">חָֽרְב֖וּ</span> <span data-strong=\"H6440\">פְּנֵ֥י</span> <span data-strong=\"H127\">הָֽאֲדָמָֽה׃</span>",
     "transliteration": "vayehiy ve'ahat veshesh-me'vot shanah vari'shvon ve'ehad lahodesh harevv hamayim me'al ha'arets vayasar noha 'et-mikheseh hatevah vayare' vehineh harevv feney ha'adamah.",
     "translation": "E foi no seiscentos e primeiro ano, no primeiro mês, no primeiro dia do mês, que as águas se retiraram da face da terra; e Noé removeu a cobertura da abertura da arca, e olhou, e eis que a superfície da terra estava seca."
   },
@@ -85,13 +85,13 @@
   },
   {
     "verse": 15,
-    "original": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5146\">נֹ֥חַ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayedaver 'elohiym 'el-noha le'mor.",
     "translation": "E Deus falou a Noé dizendo:"
   },
   {
     "verse": 16,
-    "original": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+    "original": "<span data-strong=\"H3318\">צֵ֖א</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8392\">הַתֵּבָ֑ה</span> <span data-strong=\"H859\">אַתָּ֕ה</span> <span data-strong=\"H3509\">וְאִשְׁתְּךָ֛</span> <span data-strong=\"H3509\">וּבָנֶ֥יךָ</span> <span data-strong=\"H802\">וּנְשֵֽׁי</span>־<span data-strong=\"H3509\">בָנֶ֖יךָ</span> <span data-strong=\"H3509\">אִתָּֽךְ׃</span>",
     "transliteration": "tse' min-hatevah 'atah ve'ishetekha vvaneykha vneshey-vaneykha 'itakhe.",
     "translation": "Sai da arca, tu, tua esposa, teus filhos e as mulheres de teus filhos contigo."
   },
@@ -103,31 +103,31 @@
   },
   {
     "verse": 18,
-    "original": "וַיֵּ֖צֵא־נֹ֑חַ וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־בָנָ֖יו אִתּֽוֹ׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּ֖צֵא</span>־<span data-strong=\"H5146\">נֹ֑חַ</span> <span data-strong=\"H2050\">וּבָנָ֛יו</span> <span data-strong=\"H2050\">וְאִשְׁתּ֥וֹ</span> <span data-strong=\"H802\">וּנְשֵֽׁי</span>־<span data-strong=\"H2050\">בָנָ֖יו</span> <span data-strong=\"H2050\">אִתּֽוֹ׃</span>",
     "transliteration": "vayetse'-noha vvanayv ve'ishetvo vneshey-vanayv 'itvo.",
     "translation": "E Noé saiu, com seus filhos, sua mulher e as mulheres de seus filhos consigo."
   },
   {
     "verse": 19,
-    "original": "כׇּל־הַֽחַיָּ֗ה כׇּל־הָרֶ֙מֶשׂ֙ וְכׇל־הָע֔וֹף כֹּ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ לְמִשְׁפְּחֹ֣תֵיהֶ֔ם יָצְא֖וּ מִן־הַתֵּבָֽה׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2416\">הַֽחַיָּ֗ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7431\">הָרֶ֙מֶשׂ֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H5775\">הָע֔וֹף</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H7430\">רוֹמֵ֣שׂ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹ֣תֵיהֶ֔ם</span> <span data-strong=\"H3318\">יָצְא֖וּ</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8392\">הַתֵּבָֽה׃</span>",
     "transliteration": "khol-hahayah khol-haremes vekhol-ha'vof khol rvomes 'al-ha'arets lemishefehoteyhem yatse'v min-hatevah.",
     "translation": "Todas as feras, todos os répteis e todas as aves, tudo o que rasteja sobre a terra, segundo suas famílias, saíram da arca."
   },
   {
     "verse": 20,
-    "original": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל&thinsp;<b>׀</b> הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+    "original": "<span data-strong=\"H1129\">וַיִּ֥בֶן</span> <span data-strong=\"H5146\">נֹ֛חַ</span> <span data-strong=\"H4196\">מִזְבֵּ֖חַ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֑ה</span> <span data-strong=\"H3947\">וַיִּקַּ֞ח</span> <span data-strong=\"H3605\">מִכֹּ֣ל&thinsp;<b>׀</b></span> <span data-strong=\"H929\">הַבְּהֵמָ֣ה</span> <span data-strong=\"H2889\">הַטְּהֹרָ֗ה</span> <span data-strong=\"H3605\">וּמִכֹּל֙</span> <span data-strong=\"H5775\">הָע֣וֹף</span> <span data-strong=\"H2889\">הַטָּה֔וֹר</span> <span data-strong=\"H5927\">וַיַּ֥עַל</span> <span data-strong=\"H5930\">עֹלֹ֖ת</span> <span data-strong=\"H4196\">בַּמִּזְבֵּֽחַ׃</span>",
     "transliteration": "vayiven noha mizeveha layhovah vayikah mikhol&thinsp;<b>|</b> havehemah hatehorah vmikhol ha'vof hatahvor vaya'al 'olot vamizeveha.",
     "translation": "E Noé edificou um altar ao Senhor, e tomou de todos os animais puros e de todas as aves puras, e ofereceu holocaustos no altar."
   },
   {
     "verse": 21,
-    "original": "וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃",
+    "original": "<span data-strong=\"H7306\">וַיָּ֣רַח</span> <span data-strong=\"H3068\">יְהֹוָה֮</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7381\">רֵ֣יחַ</span> <span data-strong=\"H5207\">הַנִּיחֹ֒חַ֒</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">לִבּ֗וֹ</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3254\">אֹ֠סִ֠ף</span> <span data-strong=\"H7043\">לְקַלֵּ֨ל</span> <span data-strong=\"H5750\">ע֤וֹד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H127\">הָֽאֲדָמָה֙</span> <span data-strong=\"H5668\">בַּעֲב֣וּר</span> <span data-strong=\"H120\">הָֽאָדָ֔ם</span> <span data-strong=\"H3588\">כִּ֠י</span> <span data-strong=\"H3336\">יֵ֣צֶר</span> <span data-strong=\"H3820\">לֵ֧ב</span> <span data-strong=\"H120\">הָאָדָ֛ם</span> <span data-strong=\"H7451\">רַ֖ע</span> <span data-strong=\"H2050\">מִנְּעֻרָ֑יו</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H3254\">אֹסִ֥ף</span> <span data-strong=\"H5750\">ע֛וֹד</span> <span data-strong=\"H5221\">לְהַכּ֥וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2416\">חַ֖י</span> <span data-strong=\"H834\">כַּֽאֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשִֽׂיתִי׃</span>",
     "transliteration": "vayarah yehovah 'et-reyha haniyhoha vayo'mer yehovah 'el-livvo lo'-'osif lekalel 'vod 'et-ha'adamah va'avvr ha'adam khiy yetser lev ha'adam ra' mine'urayv velo'-'osif 'vod lehakhvot 'et-khol-hay kha'asher 'asiytiy.",
     "translation": "E o Senhor percebeu o aroma apaziguador, e disse o Senhor em seu coração: \"Não hei de amaldiçoar mais a terra por causa do homem, porque desde jovem o desejo do seu coração é perverso; não hei de castigar mais todo ser vivo como fiz.\""
   },
   {
     "verse": 22,
-    "original": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+    "original": "<span data-strong=\"H5750\">עֹ֖ד</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H2233\">זֶ֡רַע</span> <span data-strong=\"H7105\">וְ֠קָצִ֠יר</span> <span data-strong=\"H7120\">וְקֹ֨ר</span> <span data-strong=\"H2527\">וָחֹ֜ם</span> <span data-strong=\"H7019\">וְקַ֧יִץ</span> <span data-strong=\"H2779\">וָחֹ֛רֶף</span> <span data-strong=\"H3117\">וְי֥וֹם</span> <span data-strong=\"H3915\">וָלַ֖יְלָה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H7673\">יִשְׁבֹּֽתוּ׃</span>",
     "transliteration": "'od khol-yemey ha'arets zera' vekatsiyr vekor vahom vekayits vahoref veyvom valayelah lo' yishevotv.",
     "translation": "E ainda por todos os dias da terra, semente e colheita, frio e calor, verão e inverno, dia e noite não cessarão."
   }

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה ע֣וֹד נֶ֤גַע אֶחָד֙ אָבִ֤יא עַל־פַּרְעֹה֙ וְעַל־מִצְרַ֔יִם אַֽחֲרֵי־כֵ֕ן יְשַׁלַּ֥ח אֶתְכֶ֖ם מִזֶּ֑ה כְּשַׁ֨לְּח֔וֹ כָּלָ֕ה גָּרֵ֛שׁ יְגָרֵ֥שׁ אֶתְכֶ֖ם מִזֶּֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H5750\">ע֣וֹד</span> <span data-strong=\"H5061\">נֶ֤גַע</span> <span data-strong=\"H259\">אֶחָד֙</span> <span data-strong=\"H935\">אָבִ֤יא</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6547\">פַּרְעֹה֙</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H4714\">מִצְרַ֔יִם</span> <span data-strong=\"H310\">אַֽחֲרֵי</span>־<span data-strong=\"H3651\">כֵ֕ן</span> <span data-strong=\"H7971\">יְשַׁלַּ֥ח</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H2088\">מִזֶּ֑ה</span> <span data-strong=\"H2050\">כְּשַׁ֨לְּח֔וֹ</span> <span data-strong=\"H3617\">כָּלָ֕ה</span> <span data-strong=\"H1644\">גָּרֵ֛שׁ</span> <span data-strong=\"H1644\">יְגָרֵ֥שׁ</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H2088\">מִזֶּֽה׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh 'vod nega' 'ehad 'aviy' 'al-fare'oh ve'al-mitserayim 'aharey-khen yeshalah 'etekhem mizeh kheshalehvo khalah garesh yegaresh 'etekhem mizeh.",
     "translation": "E disse o Senhor a Moisés: \"Ainda trarei um flagelo mais sobre Faraó e os egípcios; depois disso, ele vos mandará embora daqui. Quando ele vos enviar embora, certamente o fará com mãos violentas, expulsando-vos dali.\""
   },
   {
     "verse": 2,
-    "original": "דַּבֶּר־נָ֖א בְּאׇזְנֵ֣י הָעָ֑ם וְיִשְׁאֲל֞וּ אִ֣ישׁ&thinsp;<b>׀</b> מֵאֵ֣ת רֵעֵ֗הוּ וְאִשָּׁה֙ מֵאֵ֣ת רְעוּתָ֔הּ כְּלֵי־כֶ֖סֶף וּכְלֵ֥י זָהָֽב׃",
+    "original": "<span data-strong=\"H1696\">דַּבֶּר</span>־<span data-strong=\"H4994\">נָ֖א</span> <span data-strong=\"H241\">בְּאׇזְנֵ֣י</span> <span data-strong=\"H5971\">הָעָ֑ם</span> <span data-strong=\"H7592\">וְיִשְׁאֲל֞וּ</span> <span data-strong=\"H376\">אִ֣ישׁ&thinsp;<b>׀</b></span> <span data-strong=\"H854\">מֵאֵ֣ת</span> <span data-strong=\"H1930\">רֵעֵ֗הוּ</span> <span data-strong=\"H802\">וְאִשָּׁה֙</span> <span data-strong=\"H854\">מֵאֵ֣ת</span> <span data-strong=\"H1886\">רְעוּתָ֔הּ</span> <span data-strong=\"H3627\">כְּלֵי</span>־<span data-strong=\"H3701\">כֶ֖סֶף</span> <span data-strong=\"H3627\">וּכְלֵ֥י</span> <span data-strong=\"H2091\">זָהָֽב׃</span>",
     "transliteration": "daver-na' ve'ozeney ha'am veyishe'alv 'iysh&thinsp;<b>|</b> me'et re'ehv ve'ishah me'et re'vtah kheley-khesef vkheley zahav.",
     "translation": "Fala, pois, aos ouvidos do povo e que cada homem peça ao seu amigo, e cada mulher à sua amiga, objetos de prata e objetos de ouro."
   },
@@ -19,25 +19,25 @@
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י יוֹצֵ֖א בְּת֥וֹךְ מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H3541\">כֹּ֖ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H2676\">כַּחֲצֹ֣ת</span> <span data-strong=\"H3915\">הַלַּ֔יְלָה</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H3318\">יוֹצֵ֖א</span> <span data-strong=\"H8432\">בְּת֥וֹךְ</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "vayo'mer mosheh khoh 'amar yehovah khahatsot halayelah 'aniy yvotse' vetvokhe mitserayim.",
     "translation": "E disse Moisés: Assim diz o Senhor: À meia-noite, eu sairei no meio do Egito."
   },
   {
     "verse": 5,
-    "original": "וּמֵ֣ת כׇּל־בְּכוֹר֮ בְּאֶ֣רֶץ מִצְרַ֒יִם֒ מִבְּכ֤וֹר פַּרְעֹה֙ הַיֹּשֵׁ֣ב עַל־כִּסְא֔וֹ עַ֚ד בְּכ֣וֹר הַשִּׁפְחָ֔ה אֲשֶׁ֖ר אַחַ֣ר הָרֵחָ֑יִם וְכֹ֖ל בְּכ֥וֹר בְּהֵמָֽה׃",
+    "original": "<span data-strong=\"H4191\">וּמֵ֣ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1060\">בְּכוֹר֮</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרַ֒יִם֒</span> <span data-strong=\"H1060\">מִבְּכ֤וֹר</span> <span data-strong=\"H6547\">פַּרְעֹה֙</span> <span data-strong=\"H3427\">הַיֹּשֵׁ֣ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כִּסְא֔וֹ</span> <span data-strong=\"H5704\">עַ֚ד</span> <span data-strong=\"H1060\">בְּכ֣וֹר</span> <span data-strong=\"H8198\">הַשִּׁפְחָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H310\">אַחַ֣ר</span> <span data-strong=\"H7347\">הָרֵחָ֑יִם</span> <span data-strong=\"H3605\">וְכֹ֖ל</span> <span data-strong=\"H1060\">בְּכ֥וֹר</span> <span data-strong=\"H929\">בְּהֵמָֽה׃</span>",
     "transliteration": "vmet khol-vekhvor ve'erets mitserayim mivekhvor fare'oh hayoshev 'al-khise'vo 'ad vekhvor hashifehah 'asher 'ahar harehayim vekhol vekhvor vehemah.",
     "translation": "E morrerá todo primogênito na terra do Egito, do primogênito de Faraó que está sobre o seu trono até o primogênito da escrava que está detrás do moinho, e todos os primogênitos dos animais."
   },
   {
     "verse": 6,
-    "original": "וְהָ֥יְתָ֛ה צְעָקָ֥ה גְדֹלָ֖ה בְּכׇל־אֶ֣רֶץ מִצְרָ֑יִם אֲשֶׁ֤ר כָּמֹ֙הוּ֙ לֹ֣א נִהְיָ֔תָה וְכָמֹ֖הוּ לֹ֥א תֹסִֽף׃",
+    "original": "<span data-strong=\"H1961\">וְהָ֥יְתָ֛ה</span> <span data-strong=\"H6818\">צְעָקָ֥ה</span> <span data-strong=\"H1419\">גְדֹלָ֖ה</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרָ֑יִם</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H1930\">כָּמֹ֙הוּ֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H1961\">נִהְיָ֔תָה</span> <span data-strong=\"H1930\">וְכָמֹ֖הוּ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3254\">תֹסִֽף׃</span>",
     "transliteration": "vehayetah tse'akah gedolah vekhol-'erets mitserayim 'asher khamohv lo' niheyatah vekhamohv lo' tosif.",
     "translation": "Haverá um grande clamor em toda a terra do Egito, como nunca houve assim e jamais acontecerá de novo."
   },
   {
     "verse": 7,
-    "original": "וּלְכֹ֣ל&thinsp;<b>׀</b> בְּנֵ֣י יִשְׂרָאֵ֗ל לֹ֤א יֶֽחֱרַץ־כֶּ֙לֶב֙ לְשֹׁנ֔וֹ לְמֵאִ֖ישׁ וְעַד־בְּהֵמָ֑ה לְמַ֙עַן֙ תֵּֽדְע֔וּן אֲשֶׁר֙ יַפְלֶ֣ה יְהֹוָ֔ה בֵּ֥ין מִצְרַ֖יִם וּבֵ֥ין יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3605\">וּלְכֹ֣ל&thinsp;<b>׀</b></span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H2782\">יֶֽחֱרַץ</span>־<span data-strong=\"H3611\">כֶּ֙לֶב֙</span> <span data-strong=\"H2050\">לְשֹׁנ֔וֹ</span> <span data-strong=\"H376\">לְמֵאִ֖ישׁ</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H929\">בְּהֵמָ֑ה</span> <span data-strong=\"H4616\">לְמַ֙עַן֙</span> <span data-strong=\"H4993\">תֵּֽדְע֔וּן</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H6395\">יַפְלֶ֣ה</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H996\">וּבֵ֥ין</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vlekhol&thinsp;<b>|</b> veney yisera'el lo' yeherats-khelev leshonvo leme'iysh ve'ad-vehemah lema'an tede'vn 'asher yafeleh yehovah veyn mitserayim vveyn yisera'el.",
     "translation": "E a todo filho de Israel não cortará a língua o cão, nem do homem até à besta, para que saibais que separa Jehovah entre Egito e Israel."
   },
@@ -49,7 +49,7 @@
   },
   {
     "verse": 9,
-    "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה לֹא־יִשְׁמַ֥ע אֲלֵיכֶ֖ם פַּרְעֹ֑ה לְמַ֛עַן רְב֥וֹת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H8085\">יִשְׁמַ֥ע</span> <span data-strong=\"H3641\">אֲלֵיכֶ֖ם</span> <span data-strong=\"H6547\">פַּרְעֹ֑ה</span> <span data-strong=\"H4616\">לְמַ֛עַן</span> <span data-strong=\"H7235\">רְב֥וֹת</span> <span data-strong=\"H2967\">מוֹפְתַ֖י</span> <span data-strong=\"H776\">בְּאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרָֽיִם׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh lo'-yishema' 'aleykhem fare'oh lema'an revvot mvofetay ve'erets mitserayim.",
     "translation": "E disse o Senhor a Moisés: Não vos ouvirá Faraó, para que multiplique eu os meus sinais na terra do Egito."
   },

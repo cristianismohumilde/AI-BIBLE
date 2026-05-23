@@ -7,19 +7,19 @@
   },
   {
     "verse": 2,
-    "original": "כׇּֽל־הָ֭עַמִּים תִּקְעוּ־כָ֑ף הָרִ֥יעוּ לֵ֝אלֹהִ֗ים בְּק֣וֹל רִנָּֽה׃",
+    "original": "<span data-strong=\"H3605\">כׇּֽל</span>־<span data-strong=\"H5971\">הָ֭עַמִּים</span> <span data-strong=\"H8628\">תִּקְעוּ</span>־<span data-strong=\"H3709\">כָ֑ף</span> <span data-strong=\"H7321\">הָרִ֥יעוּ</span> <span data-strong=\"H430\">לֵ֝אלֹהִ֗ים</span> <span data-strong=\"H6963\">בְּק֣וֹל</span> <span data-strong=\"H7440\">רִנָּֽה׃</span>",
     "transliteration": "khol-ha'amiym tike'v-khaf hariy'v le'lohiym vekvol rinah.",
     "translation": "Todas as nações, batam palmas; aclamem a Deus com gritos de júbilo."
   },
   {
     "verse": 3,
-    "original": "כִּֽי־יְהֹוָ֣ה עֶלְי֣וֹן נוֹרָ֑א מֶ֥לֶךְ גָּ֝ד֗וֹל עַל־כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H5945\">עֶלְי֣וֹן</span> <span data-strong=\"H3372\">נוֹרָ֑א</span> <span data-strong=\"H4428\">מֶ֥לֶךְ</span> <span data-strong=\"H1419\">גָּ֝ד֗וֹל</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "khiy-yehovah 'eleyvon nvora' melekhe gadvol 'al-khol-ha'arets.",
     "translation": "Pois o Senhor é sublime e temível, Rei grande sobre toda a terra."
   },
   {
     "verse": 4,
-    "original": "יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ וּ֝לְאֻמִּ֗ים תַּ֣חַת רַגְלֵֽינוּ׃",
+    "original": "<span data-strong=\"H1696\">יַדְבֵּ֣ר</span> <span data-strong=\"H5971\">עַמִּ֣ים</span> <span data-strong=\"H5105\">תַּחְתֵּ֑ינוּ</span> <span data-strong=\"H3816\">וּ֝לְאֻמִּ֗ים</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H5105\">רַגְלֵֽינוּ׃</span>",
     "transliteration": "yadever 'amiym taheteynv vle'umiym tahat rageleynv.",
     "translation": "As nações serão subjugadas abaixo de nós, e os povos estarão sob nossos pés."
   },
@@ -31,25 +31,25 @@
   },
   {
     "verse": 6,
-    "original": "עָלָ֣ה אֱ֭לֹהִים בִּתְרוּעָ֑ה יְ֝הֹוָ֗ה בְּק֣וֹל שׁוֹפָֽר׃",
+    "original": "<span data-strong=\"H5927\">עָלָ֣ה</span> <span data-strong=\"H430\">אֱ֭לֹהִים</span> <span data-strong=\"H8643\">בִּתְרוּעָ֑ה</span> <span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H6963\">בְּק֣וֹל</span> <span data-strong=\"H7782\">שׁוֹפָֽר׃</span>",
     "transliteration": "'alah 'elohiym viterv'ah yehovah vekvol shvofar.",
     "translation": "Subiu Deus em aclamação, o Senhor ao som da trombeta."
   },
   {
     "verse": 7,
-    "original": "זַמְּר֣וּ אֱלֹהִ֣ים זַמֵּ֑רוּ זַמְּר֖וּ לְמַלְכֵּ֣נוּ זַמֵּֽרוּ׃",
+    "original": "<span data-strong=\"H2167\">זַמְּר֣וּ</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H2167\">זַמֵּ֑רוּ</span> <span data-strong=\"H2167\">זַמְּר֖וּ</span> <span data-strong=\"H5105\">לְמַלְכֵּ֣נוּ</span> <span data-strong=\"H2167\">זַמֵּֽרוּ׃</span>",
     "transliteration": "zamerv 'elohiym zamerv zamerv lemalekhenv zamerv.",
     "translation": "Cantai a Deus, cantai, cantai ao nosso Rei, cantai."
   },
   {
     "verse": 8,
-    "original": "כִּ֤י מֶ֖לֶךְ כׇּל־הָאָ֥רֶץ אֱלֹהִ֗ים זַמְּר֥וּ מַשְׂכִּֽיל׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H4428\">מֶ֖לֶךְ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָ֥רֶץ</span> <span data-strong=\"H430\">אֱלֹהִ֗ים</span> <span data-strong=\"H2167\">זַמְּר֥וּ</span> <span data-strong=\"H4905\">מַשְׂכִּֽיל׃</span>",
     "transliteration": "khiy melekhe khol-ha'arets 'elohiym zamerv masekhiyl.",
     "translation": "Pois Deus é o rei de toda a terra, cantai com entendimento."
   },
   {
     "verse": 9,
-    "original": "מָלַ֣ךְ אֱ֭לֹהִים עַל־גּוֹיִ֑ם אֱ֝לֹהִ֗ים יָשַׁ֤ב&thinsp;<b>׀</b> עַל־כִּסֵּ֬א קׇדְשֽׁוֹ׃",
+    "original": "<span data-strong=\"H4427\">מָלַ֣ךְ</span> <span data-strong=\"H430\">אֱ֭לֹהִים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1471\">גּוֹיִ֑ם</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H3427\">יָשַׁ֤ב&thinsp;<b>׀</b></span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3678\">כִּסֵּ֬א</span> <span data-strong=\"H2050\">קׇדְשֽׁוֹ׃</span>",
     "transliteration": "malakhe 'elohiym 'al-gvoyim 'elohiym yashav&thinsp;<b>|</b> 'al-khise' kodeshvo.",
     "translation": "Reinou Deus sobre as nações; Deus assentou-se no seu trono sagrado."
   },

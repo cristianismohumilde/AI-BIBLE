@@ -1,55 +1,55 @@
 [
   {
     "verse": 1,
-    "original": "וְהָיָה֩ כִֽי־יָבֹ֨אוּ עָלֶ֜יךָ כׇּל־הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל־לְבָבֶ֔ךָ בְּכׇ֨ל־הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָה֩</span> <span data-strong=\"H3588\">כִֽי</span>־<span data-strong=\"H935\">יָבֹ֨אוּ</span> <span data-strong=\"H3509\">עָלֶ֜יךָ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֣ים</span> <span data-strong=\"H428\">הָאֵ֗לֶּה</span> <span data-strong=\"H1293\">הַבְּרָכָה֙</span> <span data-strong=\"H7045\">וְהַקְּלָלָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5414\">נָתַ֖תִּי</span> <span data-strong=\"H3509\">לְפָנֶ֑יךָ</span> <span data-strong=\"H7725\">וַהֲשֵׁבֹתָ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3509\">לְבָבֶ֔ךָ</span> <span data-strong=\"H3605\">בְּכׇ֨ל</span>־<span data-strong=\"H1471\">הַגּוֹיִ֔ם</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">הִדִּיחֲךָ֛</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֖יךָ</span> <span data-strong=\"H1886\">שָֽׁמָּה׃</span>",
     "transliteration": "vehayah khiy-yavo'v 'aleykha khol-hadevariym ha'eleh haverakhah vehakelalah 'asher natatiy lefaneykha vahashevota 'el-levavekha vekhol-hagvoyim 'asher hidiyhakha yehovah 'eloheykha shamah.",
     "translation": "E sucederá que, quando te sobrevierem todos estes males, a bênção e a maldição, que pus diante de ti, e os trazes então ao teu coração, no meio de todos esses povos entre os quais o Senhor, teu Deus, te terá disperso."
   },
   {
     "verse": 2,
-    "original": "וְשַׁבְתָּ֞ עַד־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר־אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכׇל־לְבָבְךָ֖ וּבְכׇל־נַפְשֶֽׁךָ׃",
+    "original": "<span data-strong=\"H7725\">וְשַׁבְתָּ֞</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֙יךָ֙</span> <span data-strong=\"H8085\">וְשָׁמַעְתָּ֣</span> <span data-strong=\"H2050\">בְקֹל֔וֹ</span> <span data-strong=\"H3605\">כְּכֹ֛ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H3509\">מְצַוְּךָ֖</span> <span data-strong=\"H3117\">הַיּ֑וֹם</span> <span data-strong=\"H859\">אַתָּ֣ה</span> <span data-strong=\"H3509\">וּבָנֶ֔יךָ</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3509\">לְבָבְךָ֖</span> <span data-strong=\"H3605\">וּבְכׇל</span>־<span data-strong=\"H3509\">נַפְשֶֽׁךָ׃</span>",
     "transliteration": "veshaveta 'ad-yehovah 'eloheykha veshama'eta vekolvo khekhol 'asher-'anokhiy metsavekha hayvom 'atah vvaneykha vekhol-levavekha vvekhol-nafeshekha.",
     "translation": "E você voltará ao Senhor, o seu Deus, e ouvirá a sua voz, conforme tudo quanto eu te ordeno hoje, tu e os teus filhos, com todo o teu coração e com toda a tua alma."
   },
   {
     "verse": 3,
-    "original": "וְשָׁ֨ב יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֶת־שְׁבוּתְךָ֖ וְרִחֲמֶ֑ךָ וְשָׁ֗ב וְקִבֶּצְךָ֙ מִכׇּל־הָ֣עַמִּ֔ים אֲשֶׁ֧ר הֱפִֽיצְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה׃",
+    "original": "<span data-strong=\"H7725\">וְשָׁ֨ב</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֛יךָ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">שְׁבוּתְךָ֖</span> <span data-strong=\"H3509\">וְרִחֲמֶ֑ךָ</span> <span data-strong=\"H7725\">וְשָׁ֗ב</span> <span data-strong=\"H3509\">וְקִבֶּצְךָ֙</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H5971\">הָ֣עַמִּ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">הֱפִֽיצְךָ֛</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֖יךָ</span> <span data-strong=\"H1886\">שָֽׁמָּה׃</span>",
     "transliteration": "veshav yehovah 'eloheykha 'et-shevvtekha verihamekha veshav vekivetsekha mikhol-ha'amiym 'asher hefiytsekha yehovah 'eloheykha shamah.",
     "translation": "E o Senhor teu Deus fará retornar e terá misericórdia de ti, e ele te reunirá dentre todos os povos aos quais te dispersou o Senhor teu Deus lá."
   },
   {
     "verse": 4,
-    "original": "אִם־יִהְיֶ֥ה נִֽדַּחֲךָ֖ בִּקְצֵ֣ה הַשָּׁמָ֑יִם מִשָּׁ֗ם יְקַבֶּצְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וּמִשָּׁ֖ם יִקָּחֶֽךָ׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H1961\">יִהְיֶ֥ה</span> <span data-strong=\"H3509\">נִֽדַּחֲךָ֖</span> <span data-strong=\"H7097\">בִּקְצֵ֣ה</span> <span data-strong=\"H8064\">הַשָּׁמָ֑יִם</span> <span data-strong=\"H8033\">מִשָּׁ֗ם</span> <span data-strong=\"H3509\">יְקַבֶּצְךָ֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H8033\">וּמִשָּׁ֖ם</span> <span data-strong=\"H3509\">יִקָּחֶֽךָ׃</span>",
     "transliteration": "'im-yiheyeh nidahakha viketseh hashamayim misham yekavetsekha yehovah 'eloheykha vmisham yikahekha.",
     "translation": "Se teu desterro estiver no extremo dos céus, dali o Senhor, teu Deus, te recolherá e dali te tomará."
   },
   {
     "verse": 5,
-    "original": "וֶהֱבִיאֲךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ אֶל־הָאָ֛רֶץ אֲשֶׁר־יָרְשׁ֥וּ אֲבֹתֶ֖יךָ וִֽירִשְׁתָּ֑הּ וְהֵיטִֽבְךָ֥ וְהִרְבְּךָ֖ מֵאֲבֹתֶֽיךָ׃",
+    "original": "<span data-strong=\"H3509\">וֶהֱבִיאֲךָ֞</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֗יךָ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">הָאָ֛רֶץ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3423\">יָרְשׁ֥וּ</span> <span data-strong=\"H3509\">אֲבֹתֶ֖יךָ</span> <span data-strong=\"H1886\">וִֽירִשְׁתָּ֑הּ</span> <span data-strong=\"H3509\">וְהֵיטִֽבְךָ֥</span> <span data-strong=\"H3509\">וְהִרְבְּךָ֖</span> <span data-strong=\"H3509\">מֵאֲבֹתֶֽיךָ׃</span>",
     "transliteration": "veheviy'akha yehovah 'eloheykha 'el-ha'arets 'asher-yareshv 'avoteykha viyrishetah veheytivekha vehirevekha me'avoteykha.",
     "translation": "E fará o Senhor Deus teu Senhor entrar na terra que foi herdada por teus pais, e tu a herdarás; e prosperará contigo e multiplicar-te-á mais do que teus pais."
   },
   {
     "verse": 6,
-    "original": "וּמָ֨ל יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֶת־לְבָבְךָ֖ וְאֶת־לְבַ֣ב זַרְעֶ֑ךָ לְאַהֲבָ֞ה אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ בְּכׇל־לְבָבְךָ֥ וּבְכׇל־נַפְשְׁךָ֖ לְמַ֥עַן חַיֶּֽיךָ׃",
+    "original": "<span data-strong=\"H4135\">וּמָ֨ל</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֛יךָ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">לְבָבְךָ֖</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3824\">לְבַ֣ב</span> <span data-strong=\"H3509\">זַרְעֶ֑ךָ</span> <span data-strong=\"H157\">לְאַהֲבָ֞ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֛יךָ</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3509\">לְבָבְךָ֥</span> <span data-strong=\"H3605\">וּבְכׇל</span>־<span data-strong=\"H3509\">נַפְשְׁךָ֖</span> <span data-strong=\"H4616\">לְמַ֥עַן</span> <span data-strong=\"H3509\">חַיֶּֽיךָ׃</span>",
     "transliteration": "vmal yehovah 'eloheykha 'et-levavekha ve'et-levav zare'ekha le'ahavah 'et-yehovah 'eloheykha vekhol-levavekha vvekhol-nafeshekha lema'an hayeykha.",
     "translation": "E o Senhor, teu Deus, circuncidará o teu coração e o coração da tua descendência para amar ao Senhor, teu Deus, de todo o teu coração e de toda a tua alma, a fim de que vivais."
   },
   {
     "verse": 7,
-    "original": "וְנָתַן֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֵ֥ת כׇּל־הָאָל֖וֹת הָאֵ֑לֶּה עַל־אֹיְבֶ֥יךָ וְעַל־שֹׂנְאֶ֖יךָ אֲשֶׁ֥ר רְדָפֽוּךָ׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַן֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H423\">הָאָל֖וֹת</span> <span data-strong=\"H428\">הָאֵ֑לֶּה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">אֹיְבֶ֥יךָ</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3509\">שֹׂנְאֶ֖יךָ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3509\">רְדָפֽוּךָ׃</span>",
     "transliteration": "venatan yehovah 'eloheykha 'et khol-ha'alvot ha'eleh 'al-'oyeveykha ve'al-sone'eykha 'asher redafvkha.",
     "translation": "E o Senhor, teu Deus, porá sobre teus inimigos e sobre os que te odeiam, que te perseguem, todas essas maldições."
   },
   {
     "verse": 8,
-    "original": "וְאַתָּ֣ה תָשׁ֔וּב וְשָׁמַעְתָּ֖ בְּק֣וֹל יְהֹוָ֑ה וְעָשִׂ֙יתָ֙ אֶת־כׇּל־מִצְוֺתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃",
+    "original": "<span data-strong=\"H859\">וְאַתָּ֣ה</span> <span data-strong=\"H7725\">תָשׁ֔וּב</span> <span data-strong=\"H8085\">וְשָׁמַעְתָּ֖</span> <span data-strong=\"H6963\">בְּק֣וֹל</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H6213\">וְעָשִׂ֙יתָ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">מִצְוֺתָ֔יו</span> <span data-strong=\"H834\">אֲשֶׁ֛ר</span> <span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H3509\">מְצַוְּךָ֖</span> <span data-strong=\"H3117\">הַיּֽוֹם׃</span>",
     "transliteration": "ve'atah tashvv veshama'eta vekvol yehovah ve'asiyta 'et-khol-mitsevotayv 'asher 'anokhiy metsavekha hayvom.",
     "translation": "E tu voltarás e ouvirás a voz do Senhor, e farás todos os seus mandamentos que eu te mando hoje."
   },
   {
     "verse": 9,
-    "original": "וְהוֹתִֽירְךָ֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל&thinsp;<b>׀</b> מַעֲשֵׂ֣ה יָדֶ֗ךָ בִּפְרִ֨י בִטְנְךָ֜ וּבִפְרִ֧י בְהֶמְתְּךָ֛ וּבִפְרִ֥י אַדְמָתְךָ֖ לְטֹבָ֑ה כִּ֣י&thinsp;<b>׀</b> יָשׁ֣וּב יְהֹוָ֗ה לָשׂ֤וּשׂ עָלֶ֙יךָ֙ לְט֔וֹב כַּאֲשֶׁר־שָׂ֖שׂ עַל־אֲבֹתֶֽיךָ׃",
+    "original": "<span data-strong=\"H3509\">וְהוֹתִֽירְךָ֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֜יךָ</span> <span data-strong=\"H3605\">בְּכֹ֣ל&thinsp;<b>׀</b></span> <span data-strong=\"H4639\">מַעֲשֵׂ֣ה</span> <span data-strong=\"H3509\">יָדֶ֗ךָ</span> <span data-strong=\"H6529\">בִּפְרִ֨י</span> <span data-strong=\"H3509\">בִטְנְךָ֜</span> <span data-strong=\"H6529\">וּבִפְרִ֧י</span> <span data-strong=\"H3509\">בְהֶמְתְּךָ֛</span> <span data-strong=\"H6529\">וּבִפְרִ֥י</span> <span data-strong=\"H3509\">אַדְמָתְךָ֖</span> <span data-strong=\"H2896\">לְטֹבָ֑ה</span> <span data-strong=\"H3588\">כִּ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H7725\">יָשׁ֣וּב</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H7797\">לָשׂ֤וּשׂ</span> <span data-strong=\"H3509\">עָלֶ֙יךָ֙</span> <span data-strong=\"H2896\">לְט֔וֹב</span> <span data-strong=\"H834\">כַּאֲשֶׁר</span>־<span data-strong=\"H7797\">שָׂ֖שׂ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">אֲבֹתֶֽיךָ׃</span>",
     "transliteration": "vehvotiyrekha yehovah 'eloheykha vekhol&thinsp;<b>|</b> ma'aseh yadekha viferiy vitenekha vviferiy vehemetekha vviferiy 'adematekha letovah khiy&thinsp;<b>|</b> yashvv yehovah lasvs 'aleykha letvov kha'asher-sas 'al-'avoteykha.",
     "translation": "E o SENHOR, teu Deus, conservará contigo em toda a obra da tua mão, no fruto do teu ventre e no fruto dos teus animais e no fruto da tua terra para o bem; porque o SENHOR voltará à alegria sobre ti para o bem como se alegrou sobre os teus pais."
   },
@@ -61,19 +61,19 @@
   },
   {
     "verse": 11,
-    "original": "כִּ֚י הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לֹא־נִפְלֵ֥את הִוא֙ מִמְּךָ֔ וְלֹ֥א רְחֹקָ֖ה הִֽוא׃",
+    "original": "<span data-strong=\"H3588\">כִּ֚י</span> <span data-strong=\"H4687\">הַמִּצְוָ֣ה</span> <span data-strong=\"H2063\">הַזֹּ֔את</span> <span data-strong=\"H834\">אֲשֶׁ֛ר</span> <span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H3509\">מְצַוְּךָ֖</span> <span data-strong=\"H3117\">הַיּ֑וֹם</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H6381\">נִפְלֵ֥את</span> <span data-strong=\"H1931\">הִוא֙</span> <span data-strong=\"H3509\">מִמְּךָ֔</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H7350\">רְחֹקָ֖ה</span> <span data-strong=\"H1931\">הִֽוא׃</span>",
     "transliteration": "khiy hamitsevah hazo't 'asher 'anokhiy metsavekha hayvom lo'-nifele't hiv' mimekha velo' rehokah hiv'.",
     "translation": "Pois esta ordenança que eu te mando hoje não é demasiadamente difícil para ti, nem está longe de ti."
   },
   {
     "verse": 12,
-    "original": "לֹ֥א בַשָּׁמַ֖יִם הִ֑וא לֵאמֹ֗ר מִ֣י יַעֲלֶה־לָּ֤נוּ הַשָּׁמַ֙יְמָה֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַעֲשֶֽׂנָּה׃",
+    "original": "<span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H8064\">בַשָּׁמַ֖יִם</span> <span data-strong=\"H1931\">הִ֑וא</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H5927\">יַעֲלֶה</span>־<span data-strong=\"H5105\">לָּ֤נוּ</span> <span data-strong=\"H1886\">הַשָּׁמַ֙יְמָה֙</span> <span data-strong=\"H1886\">וְיִקָּחֶ֣הָ</span> <span data-strong=\"H5105\">לָּ֔נוּ</span> <span data-strong=\"H5105\">וְיַשְׁמִעֵ֥נוּ</span> <span data-strong=\"H1886\">אֹתָ֖הּ</span> <span data-strong=\"H5089\">וְנַעֲשֶֽׂנָּה׃</span>",
     "transliteration": "lo' vashamayim hiv' le'mor miy ya'aleh-lanv hashamayemah veyikaheha lanv veyashemi'env 'otah vena'asenah.",
     "translation": "Não está nos céus, para que se diga: Quem subirá por nós aos céus e a trará a nós, e a ouviremos, para que a cumpramos?"
   },
   {
     "verse": 13,
-    "original": "וְלֹא־מֵעֵ֥בֶר לַיָּ֖ם הִ֑וא לֵאמֹ֗ר מִ֣י יַעֲבׇר־לָ֜נוּ אֶל־עֵ֤בֶר הַיָּם֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַעֲשֶֽׂנָּה׃",
+    "original": "<span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H5676\">מֵעֵ֥בֶר</span> <span data-strong=\"H3220\">לַיָּ֖ם</span> <span data-strong=\"H1931\">הִ֑וא</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H4310\">מִ֣י</span> <span data-strong=\"H5674\">יַעֲבׇר</span>־<span data-strong=\"H5105\">לָ֜נוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5676\">עֵ֤בֶר</span> <span data-strong=\"H3220\">הַיָּם֙</span> <span data-strong=\"H1886\">וְיִקָּחֶ֣הָ</span> <span data-strong=\"H5105\">לָּ֔נוּ</span> <span data-strong=\"H5105\">וְיַשְׁמִעֵ֥נוּ</span> <span data-strong=\"H1886\">אֹתָ֖הּ</span> <span data-strong=\"H5089\">וְנַעֲשֶֽׂנָּה׃</span>",
     "transliteration": "velo'-me'ever layam hiv' le'mor miy ya'avor-lanv 'el-'ever hayam veyikaheha lanv veyashemi'env 'otah vena'asenah.",
     "translation": "E não está além do mar, para que se diga: Quem nos fará passar ao outro lado do mar e a tirará para nós, e faremos ouvir e observaremos?"
   },
@@ -85,31 +85,31 @@
   },
   {
     "verse": 15,
-    "original": "רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֙יךָ֙ הַיּ֔וֹם אֶת־הַֽחַיִּ֖ים וְאֶת־הַטּ֑וֹב וְאֶת־הַמָּ֖וֶת וְאֶת־הָרָֽע׃",
+    "original": "<span data-strong=\"H7200\">רְאֵ֨ה</span> <span data-strong=\"H5414\">נָתַ֤תִּי</span> <span data-strong=\"H3509\">לְפָנֶ֙יךָ֙</span> <span data-strong=\"H3117\">הַיּ֔וֹם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2416\">הַֽחַיִּ֖ים</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2896\">הַטּ֑וֹב</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4194\">הַמָּ֖וֶת</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7451\">הָרָֽע׃</span>",
     "transliteration": "re'eh natatiy lefaneykha hayvom 'et-hahayiym ve'et-hatvov ve'et-hamavet ve'et-hara'.",
     "translation": "Eis-te hoje a vida e o bem, e a morte e o mal diante de ti."
   },
   {
     "verse": 16,
-    "original": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+    "original": "<span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H595\">אָנֹכִ֣י</span> <span data-strong=\"H3509\">מְצַוְּךָ֮</span> <span data-strong=\"H3117\">הַיּוֹם֒</span> <span data-strong=\"H157\">לְאַהֲבָ֞ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֙יךָ֙</span> <span data-strong=\"H1980\">לָלֶ֣כֶת</span> <span data-strong=\"H2050\">בִּדְרָכָ֔יו</span> <span data-strong=\"H8104\">וְלִשְׁמֹ֛ר</span> <span data-strong=\"H2050\">מִצְוֺתָ֥יו</span> <span data-strong=\"H2050\">וְחֻקֹּתָ֖יו</span> <span data-strong=\"H2050\">וּמִשְׁפָּטָ֑יו</span> <span data-strong=\"H2421\">וְחָיִ֣יתָ</span> <span data-strong=\"H7235\">וְרָבִ֔יתָ</span> <span data-strong=\"H3509\">וּבֵֽרַכְךָ֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H776\">בָּאָ֕רֶץ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H935\">בָא</span>־<span data-strong=\"H1886\">שָׁ֖מָּה</span> <span data-strong=\"H1886\">לְרִשְׁתָּֽהּ׃</span>",
     "transliteration": "'asher 'anokhiy metsavekha hayvom le'ahavah 'et-yehovah 'eloheykha lalekhet viderakhayv velishemor mitsevotayv vehukotayv vmishefatayv vehayiyta veraviyta vverakhekha yehovah 'eloheykha va'arets 'asher-'atah va'-shamah lerishetah.",
     "translation": "que eu te mando hoje: amar ao Senhor, teu Deus, andar em seus caminhos, guardar seus mandamentos, suas leis e seus decretos; para que vivas e te multipliques, e o Senhor, teu Deus, te abençoe na terra à qual vais entrar para possuí-la."
   },
   {
     "verse": 17,
-    "original": "וְאִם־יִפְנֶ֥ה לְבָבְךָ֖ וְלֹ֣א תִשְׁמָ֑ע וְנִדַּחְתָּ֗ וְהִֽשְׁתַּחֲוִ֛יתָ לֵאלֹהִ֥ים אֲחֵרִ֖ים וַעֲבַדְתָּֽם׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H6437\">יִפְנֶ֥ה</span> <span data-strong=\"H3509\">לְבָבְךָ֖</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H8085\">תִשְׁמָ֑ע</span> <span data-strong=\"H5080\">וְנִדַּחְתָּ֗</span> <span data-strong=\"H7812\">וְהִֽשְׁתַּחֲוִ֛יתָ</span> <span data-strong=\"H430\">לֵאלֹהִ֥ים</span> <span data-strong=\"H312\">אֲחֵרִ֖ים</span> <span data-strong=\"H3963\">וַעֲבַדְתָּֽם׃</span>",
     "transliteration": "ve'im-yifeneh levavekha velo' tishema' venidaheta vehishetahaviyta le'lohiym 'aheriym va'avadetam.",
     "translation": "E se o teu coração se desviar e não ouvires, e fores disperso, e adorares deuses estranhos e lhes servires."
   },
   {
     "verse": 18,
-    "original": "הִגַּ֤דְתִּי לָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵד֑וּן לֹא־תַאֲרִיכֻ֤ן יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת־הַיַּרְדֵּ֔ן לָב֥וֹא שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+    "original": "<span data-strong=\"H5046\">הִגַּ֤דְתִּי</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H3117\">הַיּ֔וֹם</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H6\">אָבֹ֖ד</span> <span data-strong=\"H4993\">תֹּאבֵד֑וּן</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H4993\">תַאֲרִיכֻ֤ן</span> <span data-strong=\"H3117\">יָמִים֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H127\">הָ֣אֲדָמָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H859\">אַתָּ֤ה</span> <span data-strong=\"H5674\">עֹבֵר֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3383\">הַיַּרְדֵּ֔ן</span> <span data-strong=\"H935\">לָב֥וֹא</span> <span data-strong=\"H1886\">שָׁ֖מָּה</span> <span data-strong=\"H1886\">לְרִשְׁתָּֽהּ׃</span>",
     "transliteration": "higadetiy lakhem hayvom khiy 'avod to'vedvn lo'-ta'ariykhun yamiym 'al-ha'adamah 'asher 'atah 'over 'et-hayareden lavvo' shamah lerishetah.",
     "translation": "Declarei-vos hoje que certamente perecereis; não prolongareis os dias na terra para a qual passais o Jordão, para possuí-la."
   },
   {
     "verse": 19,
-    "original": "הַעִדֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֒רֶץ֒ הַחַיִּ֤ים וְהַמָּ֙וֶת֙ נָתַ֣תִּי לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּחַיִּ֔ים לְמַ֥עַן תִּֽחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ׃",
+    "original": "<span data-strong=\"H5749\">הַעִדֹ֨תִי</span> <span data-strong=\"H3641\">בָכֶ֣ם</span> <span data-strong=\"H3117\">הַיּוֹם֮</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8064\">הַשָּׁמַ֣יִם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H776\">הָאָ֒רֶץ֒</span> <span data-strong=\"H2416\">הַחַיִּ֤ים</span> <span data-strong=\"H4194\">וְהַמָּ֙וֶת֙</span> <span data-strong=\"H5414\">נָתַ֣תִּי</span> <span data-strong=\"H3509\">לְפָנֶ֔יךָ</span> <span data-strong=\"H1293\">הַבְּרָכָ֖ה</span> <span data-strong=\"H7045\">וְהַקְּלָלָ֑ה</span> <span data-strong=\"H977\">וּבָֽחַרְתָּ֙</span> <span data-strong=\"H2416\">בַּחַיִּ֔ים</span> <span data-strong=\"H4616\">לְמַ֥עַן</span> <span data-strong=\"H2421\">תִּֽחְיֶ֖ה</span> <span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H3509\">וְזַרְעֶֽךָ׃</span>",
     "transliteration": "ha'idotiy vakhem hayvom 'et-hashamayim ve'et-ha'arets hahayiym vehamavet natatiy lefaneykha haverakhah vehakelalah vvahareta vahayiym lema'an tiheyeh 'atah vezare'ekha.",
     "translation": "Atestem-me hoje os céus e a terra: a vida e a morte pus diante de ti, bênção e maldição; escolheste a vida para que vivas tu e a tua descendência."
   },

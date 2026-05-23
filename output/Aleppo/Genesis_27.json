@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַֽיְהִי֙ כִּֽי־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת־עֵשָׂ֣ו&thinsp;<b>׀</b> בְּנ֣וֹ הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2204\">זָקֵ֣ן</span> <span data-strong=\"H3327\">יִצְחָ֔ק</span> <span data-strong=\"H3543\">וַתִּכְהֶ֥יןָ</span> <span data-strong=\"H2050\">עֵינָ֖יו</span> <span data-strong=\"H7200\">מֵרְאֹ֑ת</span> <span data-strong=\"H7121\">וַיִּקְרָ֞א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6215\">עֵשָׂ֣ו&thinsp;<b>׀</b></span> <span data-strong=\"H2050\">בְּנ֣וֹ</span> <span data-strong=\"H1419\">הַגָּדֹ֗ל</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">אֵלָיו֙</span> <span data-strong=\"H2967\">בְּנִ֔י</span> <span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H2967\">הִנֵּֽנִי׃</span>",
     "transliteration": "vayehiy khiy-zaken yitsehak vatikheheyna 'eynayv mere'ot vayikera' 'et-'esav&thinsp;<b>|</b> venvo hagadol vayo'mer 'elayv veniy vayo'mer 'elayv hineniy.",
     "translation": "E sucedeu que, quando Isaque envelheceu, suas vistas se obscureceram de modo que não podia ver. Então ele chamou a Esau, seu filho primogênito, e disse-lhe: Filho meu! E ele respondeu: Eis-me aqui."
   },
   {
     "verse": 2,
-    "original": "וַיֹּ֕אמֶר הִנֵּה־נָ֖א זָקַ֑נְתִּי לֹ֥א יָדַ֖עְתִּי י֥וֹם מוֹתִֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H2009\">הִנֵּה</span>־<span data-strong=\"H4994\">נָ֖א</span> <span data-strong=\"H2204\">זָקַ֑נְתִּי</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3045\">יָדַ֖עְתִּי</span> <span data-strong=\"H3117\">י֥וֹם</span> <span data-strong=\"H2967\">מוֹתִֽי׃</span>",
     "transliteration": "vayo'mer hineh-na' zakanetiy lo' yada'etiy yvom mvotiy.",
     "translation": "E disse: Eis que envelheci, não conheço o dia da minha morte."
   },
@@ -19,151 +19,151 @@
   },
   {
     "verse": 4,
-    "original": "וַעֲשֵׂה־לִ֨י מַטְעַמִּ֜ים כַּאֲשֶׁ֥ר אָהַ֛בְתִּי וְהָבִ֥יאָה לִּ֖י וְאֹכֵ֑לָה בַּעֲב֛וּר תְּבָרֶכְךָ֥ נַפְשִׁ֖י בְּטֶ֥רֶם אָמֽוּת׃",
+    "original": "<span data-strong=\"H6213\">וַעֲשֵׂה</span>־<span data-strong=\"H2967\">לִ֨י</span> <span data-strong=\"H4303\">מַטְעַמִּ֜ים</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H157\">אָהַ֛בְתִּי</span> <span data-strong=\"H1886\">וְהָבִ֥יאָה</span> <span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H398\">וְאֹכֵ֑לָה</span> <span data-strong=\"H5668\">בַּעֲב֛וּר</span> <span data-strong=\"H3509\">תְּבָרֶכְךָ֥</span> <span data-strong=\"H2967\">נַפְשִׁ֖י</span> <span data-strong=\"H2962\">בְּטֶ֥רֶם</span> <span data-strong=\"H4191\">אָמֽוּת׃</span>",
     "transliteration": "va'aseh-liy mate'amiym kha'asher 'ahavetiy vehaviy'ah liy ve'okhelah va'avvr tevarekhekha nafeshiy veterem 'amvt.",
     "translation": "E faz-me pratos como os que amo, e traze-mos a mim, e comê-los-ei; para que minha alma te abençoe antes da minha morte.\n\nCorreção:\nE faz-me pratos como os que amo, e traze-me, e eu comerei; para que minha alma te abençoe antes da minha morte."
   },
   {
     "verse": 5,
-    "original": "וְרִבְקָ֣ה שֹׁמַ֔עַת בְּדַבֵּ֣ר יִצְחָ֔ק אֶל־עֵשָׂ֖ו בְּנ֑וֹ וַיֵּ֤לֶךְ עֵשָׂו֙ הַשָּׂדֶ֔ה לָצ֥וּד צַ֖יִד לְהָבִֽיא׃",
+    "original": "<span data-strong=\"H7259\">וְרִבְקָ֣ה</span> <span data-strong=\"H8085\">שֹׁמַ֔עַת</span> <span data-strong=\"H1696\">בְּדַבֵּ֣ר</span> <span data-strong=\"H3327\">יִצְחָ֔ק</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H2050\">בְּנ֑וֹ</span> <span data-strong=\"H1980\">וַיֵּ֤לֶךְ</span> <span data-strong=\"H6215\">עֵשָׂו֙</span> <span data-strong=\"H7704\">הַשָּׂדֶ֔ה</span> <span data-strong=\"H6679\">לָצ֥וּד</span> <span data-strong=\"H6718\">צַ֖יִד</span> <span data-strong=\"H935\">לְהָבִֽיא׃</span>",
     "transliteration": "verivekah shoma'at vedaver yitsehak 'el-'esav venvo vayelekhe 'esav hasadeh latsvd tsayid lehaviy'.",
     "translation": "E Rebeca, ao ouvir Jacó as palavras de Isaque seu pai, Eisau foi para o campo a caçar presas para trazer."
   },
   {
     "verse": 6,
-    "original": "וְרִבְקָה֙ אָֽמְרָ֔ה אֶל־יַעֲקֹ֥ב בְּנָ֖הּ לֵאמֹ֑ר הִנֵּ֤ה שָׁמַ֙עְתִּי֙ אֶת־אָבִ֔יךָ מְדַבֵּ֛ר אֶל־עֵשָׂ֥ו אָחִ֖יךָ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H7259\">וְרִבְקָה֙</span> <span data-strong=\"H559\">אָֽמְרָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3290\">יַעֲקֹ֥ב</span> <span data-strong=\"H1886\">בְּנָ֖הּ</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H2009\">הִנֵּ֤ה</span> <span data-strong=\"H8085\">שָׁמַ֙עְתִּי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">אָבִ֔יךָ</span> <span data-strong=\"H1696\">מְדַבֵּ֛ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6215\">עֵשָׂ֥ו</span> <span data-strong=\"H3509\">אָחִ֖יךָ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "verivekah 'amerah 'el-ya'akov venah le'mor hineh shama'etiy 'et-'aviykha medaver 'el-'esav 'ahiykha le'mor.",
     "translation": "E Rebeca disse a Jacó, seu filho: Eis que ouvi teu pai falando com teu irmão Esaú, dizendo:"
   },
   {
     "verse": 7,
-    "original": "הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־לִ֥י מַטְעַמִּ֖ים וְאֹכֵ֑לָה וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהֹוָ֖ה לִפְנֵ֥י מוֹתִֽי׃",
+    "original": "<span data-strong=\"H1886\">הָבִ֨יאָה</span> <span data-strong=\"H2967\">לִּ֥י</span> <span data-strong=\"H6718\">צַ֛יִד</span> <span data-strong=\"H6213\">וַעֲשֵׂה</span>־<span data-strong=\"H2967\">לִ֥י</span> <span data-strong=\"H4303\">מַטְעַמִּ֖ים</span> <span data-strong=\"H398\">וְאֹכֵ֑לָה</span> <span data-strong=\"H3509\">וַאֲבָרֶכְכָ֛ה</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H2967\">מוֹתִֽי׃</span>",
     "transliteration": "haviy'ah liy tsayid va'aseh-liy mate'amiym ve'okhelah va'avarekhekhah lifeney yehovah lifeney mvotiy.",
     "translation": "Trá-me algum venado e prepara para mim delícias, que comerei; e abençoar-te-ei perante o Senhor antes da minha morte."
   },
   {
     "verse": 8,
-    "original": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י לַאֲשֶׁ֥ר אֲנִ֖י מְצַוָּ֥ה אֹתָֽךְ׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֥ה</span> <span data-strong=\"H2967\">בְנִ֖י</span> <span data-strong=\"H8085\">שְׁמַ֣ע</span> <span data-strong=\"H2967\">בְּקֹלִ֑י</span> <span data-strong=\"H834\">לַאֲשֶׁ֥ר</span> <span data-strong=\"H589\">אֲנִ֖י</span> <span data-strong=\"H6680\">מְצַוָּ֥ה</span> <span data-strong=\"H3509\">אֹתָֽךְ׃</span>",
     "transliteration": "ve'atah veniy shema' vekoliy la'asher 'aniy metsavah 'otakhe.",
     "translation": "E agora, meu filho, ouve a minha voz e obedece à minha ordem."
   },
   {
     "verse": 9,
-    "original": "לֶךְ־נָא֙ אֶל־הַצֹּ֔אן וְקַֽח־לִ֣י מִשָּׁ֗ם שְׁנֵ֛י גְּדָיֵ֥י עִזִּ֖ים טֹבִ֑ים וְאֶֽעֱשֶׂ֨ה אֹתָ֧ם מַטְעַמִּ֛ים לְאָבִ֖יךָ כַּאֲשֶׁ֥ר אָהֵֽב׃",
+    "original": "<span data-strong=\"H1980\">לֶךְ</span>־<span data-strong=\"H4994\">נָא֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6629\">הַצֹּ֔אן</span> <span data-strong=\"H3947\">וְקַֽח</span>־<span data-strong=\"H2967\">לִ֣י</span> <span data-strong=\"H8033\">מִשָּׁ֗ם</span> <span data-strong=\"H8147\">שְׁנֵ֛י</span> <span data-strong=\"H1423\">גְּדָיֵ֥י</span> <span data-strong=\"H5795\">עִזִּ֖ים</span> <span data-strong=\"H2896\">טֹבִ֑ים</span> <span data-strong=\"H6213\">וְאֶֽעֱשֶׂ֨ה</span> <span data-strong=\"H3963\">אֹתָ֧ם</span> <span data-strong=\"H4303\">מַטְעַמִּ֛ים</span> <span data-strong=\"H3509\">לְאָבִ֖יךָ</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H157\">אָהֵֽב׃</span>",
     "transliteration": "lekhe-na' 'el-hatso'n vekah-liy misham sheney gedayey 'iziym toviym ve'e'eseh 'otam mate'amiym le'aviykha kha'asher 'ahev.",
     "translation": "Vai, por favor, ao rebanho e traz-me de lá dois cabritos jovens excelentes, e os farei pratos saborosos para teu pai, conforme ele ama."
   },
   {
     "verse": 10,
-    "original": "וְהֵבֵאתָ֥ לְאָבִ֖יךָ וְאָכָ֑ל בַּעֲבֻ֛ר אֲשֶׁ֥ר יְבָרֶכְךָ֖ לִפְנֵ֥י מוֹתֽוֹ׃",
+    "original": "<span data-strong=\"H935\">וְהֵבֵאתָ֥</span> <span data-strong=\"H3509\">לְאָבִ֖יךָ</span> <span data-strong=\"H398\">וְאָכָ֑ל</span> <span data-strong=\"H5668\">בַּעֲבֻ֛ר</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3509\">יְבָרֶכְךָ֖</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H2050\">מוֹתֽוֹ׃</span>",
     "transliteration": "veheve'ta le'aviykha ve'akhal va'avur 'asher yevarekhekha lifeney mvotvo.",
     "translation": "E tu o trarás ao teu pai, e ele comerá; para que ele te abençoe antes de morrer."
   },
   {
     "verse": 11,
-    "original": "וַיֹּ֣אמֶר יַעֲקֹ֔ב אֶל־רִבְקָ֖ה אִמּ֑וֹ הֵ֣ן עֵשָׂ֤ו אָחִי֙ אִ֣ישׁ שָׂעִ֔ר וְאָנֹכִ֖י אִ֥ישׁ חָלָֽק׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7259\">רִבְקָ֖ה</span> <span data-strong=\"H2050\">אִמּ֑וֹ</span> <span data-strong=\"H2005\">הֵ֣ן</span> <span data-strong=\"H6215\">עֵשָׂ֤ו</span> <span data-strong=\"H2967\">אָחִי֙</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H8163\">שָׂעִ֔ר</span> <span data-strong=\"H595\">וְאָנֹכִ֖י</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H2509\">חָלָֽק׃</span>",
     "transliteration": "vayo'mer ya'akov 'el-rivekah 'imvo hen 'esav 'ahiy 'iysh sa'ir ve'anokhiy 'iysh halak.",
     "translation": "E disse Jacó a Rebeca, sua mãe: Eis que Esaú, meu irmão, é homem de pelos rijos e eu sou homem liso."
   },
   {
     "verse": 12,
-    "original": "אוּלַ֤י יְמֻשֵּׁ֙נִי֙ אָבִ֔י וְהָיִ֥יתִי בְעֵינָ֖יו כִּמְתַעְתֵּ֑עַ וְהֵבֵאתִ֥י עָלַ֛י קְלָלָ֖ה וְלֹ֥א בְרָכָֽה׃",
+    "original": "<span data-strong=\"H194\">אוּלַ֤י</span> <span data-strong=\"H5204\">יְמֻשֵּׁ֙נִי֙</span> <span data-strong=\"H2967\">אָבִ֔י</span> <span data-strong=\"H1961\">וְהָיִ֥יתִי</span> <span data-strong=\"H2050\">בְעֵינָ֖יו</span> <span data-strong=\"H8591\">כִּמְתַעְתֵּ֑עַ</span> <span data-strong=\"H935\">וְהֵבֵאתִ֥י</span> <span data-strong=\"H2967\">עָלַ֛י</span> <span data-strong=\"H7045\">קְלָלָ֖ה</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H1293\">בְרָכָֽה׃</span>",
     "transliteration": "'vlay yemusheniy 'aviy vehayiytiy ve'eynayv khimeta'ete'a veheve'tiy 'alay kelalah velo' verakhah.",
     "translation": "Talvez meu pai me toque, e eu lhe pareça um engano; e trarei sobre mim maldição em vez de bênção."
   },
   {
     "verse": 13,
-    "original": "וַתֹּ֤אמֶר לוֹ֙ אִמּ֔וֹ עָלַ֥י קִלְלָתְךָ֖ בְּנִ֑י אַ֛ךְ שְׁמַ֥ע בְּקֹלִ֖י וְלֵ֥ךְ קַֽח־לִֽי׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H2050\">אִמּ֔וֹ</span> <span data-strong=\"H2967\">עָלַ֥י</span> <span data-strong=\"H3509\">קִלְלָתְךָ֖</span> <span data-strong=\"H2967\">בְּנִ֑י</span> <span data-strong=\"H389\">אַ֛ךְ</span> <span data-strong=\"H8085\">שְׁמַ֥ע</span> <span data-strong=\"H2967\">בְּקֹלִ֖י</span> <span data-strong=\"H1980\">וְלֵ֥ךְ</span> <span data-strong=\"H3947\">קַֽח</span>־<span data-strong=\"H2967\">לִֽי׃</span>",
     "transliteration": "vato'mer lvo 'imvo 'alay kilelatekha veniy 'akhe shema' vekoliy velekhe kah-liy.",
     "translation": "E disse-lhe sua mãe: Sobre mim está tua maldição, meu filho; porém ouve a minha voz e vai levar-me."
   },
   {
     "verse": 14,
-    "original": "וַיֵּ֙לֶךְ֙ וַיִּקַּ֔ח וַיָּבֵ֖א לְאִמּ֑וֹ וַתַּ֤עַשׂ אִמּוֹ֙ מַטְעַמִּ֔ים כַּאֲשֶׁ֖ר אָהֵ֥ב אָבִֽיו׃",
+    "original": "<span data-strong=\"H1980\">וַיֵּ֙לֶךְ֙</span> <span data-strong=\"H3947\">וַיִּקַּ֔ח</span> <span data-strong=\"H935\">וַיָּבֵ֖א</span> <span data-strong=\"H2050\">לְאִמּ֑וֹ</span> <span data-strong=\"H6213\">וַתַּ֤עַשׂ</span> <span data-strong=\"H2050\">אִמּוֹ֙</span> <span data-strong=\"H4303\">מַטְעַמִּ֔ים</span> <span data-strong=\"H834\">כַּאֲשֶׁ֖ר</span> <span data-strong=\"H157\">אָהֵ֥ב</span> <span data-strong=\"H2050\">אָבִֽיו׃</span>",
     "transliteration": "vayelekhe vayikah vayave' le'imvo vata'as 'imvo mate'amiym kha'asher 'ahev 'aviyv.",
     "translation": "E ele foi e tomou e trouxe para sua mãe, e sua mãe fez morsels deliciosos conforme amava seu pai.\n\nNota: A palavra \"morsels\" no rascunho foi mantida em português como \"pedaços pequenos\", dado o contexto.\n\nRevisão final:\nE ele foi e tomou e trouxe para sua mãe, e sua mãe fez petiscos deliciosos conforme amava seu pai."
   },
   {
     "verse": 15,
-    "original": "וַתִּקַּ֣ח רִ֠בְקָ֠ה אֶת־בִּגְדֵ֨י עֵשָׂ֜ו בְּנָ֤הּ הַגָּדֹל֙ הַחֲמֻדֹ֔ת אֲשֶׁ֥ר אִתָּ֖הּ בַּבָּ֑יִת וַתַּלְבֵּ֥שׁ אֶֽת־יַעֲקֹ֖ב בְּנָ֥הּ הַקָּטָֽן׃",
+    "original": "<span data-strong=\"H3947\">וַתִּקַּ֣ח</span> <span data-strong=\"H7259\">רִ֠בְקָ֠ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H899\">בִּגְדֵ֨י</span> <span data-strong=\"H6215\">עֵשָׂ֜ו</span> <span data-strong=\"H1886\">בְּנָ֤הּ</span> <span data-strong=\"H1419\">הַגָּדֹל֙</span> <span data-strong=\"H2530\">הַחֲמֻדֹ֔ת</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1886\">אִתָּ֖הּ</span> <span data-strong=\"H1004\">בַּבָּ֑יִת</span> <span data-strong=\"H3847\">וַתַּלְבֵּ֥שׁ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3290\">יַעֲקֹ֖ב</span> <span data-strong=\"H1886\">בְּנָ֥הּ</span> <span data-strong=\"H6996\">הַקָּטָֽן׃</span>",
     "transliteration": "vatikah rivekah 'et-vigedey 'esav venah hagadol hahamudot 'asher 'itah vavayit vatalevesh 'et-ya'akov venah hakatan.",
     "translation": "E Rebeca tomou os mantos de Esau, seu filho mais velho, que estavam na casa, e vestiu a Jacob, seu filho menor."
   },
   {
     "verse": 16,
-    "original": "וְאֵ֗ת עֹרֹת֙ גְּדָיֵ֣י הָֽעִזִּ֔ים הִלְבִּ֖ישָׁה עַל־יָדָ֑יו וְעַ֖ל חֶלְקַ֥ת צַוָּארָֽיו׃",
+    "original": "<span data-strong=\"H853\">וְאֵ֗ת</span> <span data-strong=\"H5785\">עֹרֹת֙</span> <span data-strong=\"H1423\">גְּדָיֵ֣י</span> <span data-strong=\"H5795\">הָֽעִזִּ֔ים</span> <span data-strong=\"H3847\">הִלְבִּ֖ישָׁה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">יָדָ֑יו</span> <span data-strong=\"H5921\">וְעַ֖ל</span> <span data-strong=\"H2513\">חֶלְקַ֥ת</span> <span data-strong=\"H2050\">צַוָּארָֽיו׃</span>",
     "transliteration": "ve'et 'orot gedayey ha'iziym hileviyshah 'al-yadayv ve'al helekat tsava'rayv.",
     "translation": "E as peles de cabritos jovens ela vestiu em suas mãos, e sobre a parte da garganta."
   },
   {
     "verse": 17,
-    "original": "וַתִּתֵּ֧ן אֶת־הַמַּטְעַמִּ֛ים וְאֶת־הַלֶּ֖חֶם אֲשֶׁ֣ר עָשָׂ֑תָה בְּיַ֖ד יַעֲקֹ֥ב בְּנָֽהּ׃",
+    "original": "<span data-strong=\"H5414\">וַתִּתֵּ֧ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4303\">הַמַּטְעַמִּ֛ים</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3899\">הַלֶּ֖חֶם</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֑תָה</span> <span data-strong=\"H3027\">בְּיַ֖ד</span> <span data-strong=\"H3290\">יַעֲקֹ֥ב</span> <span data-strong=\"H1886\">בְּנָֽהּ׃</span>",
     "transliteration": "vatiten 'et-hamate'amiym ve'et-halehem 'asher 'asatah veyad ya'akov venah.",
     "translation": "E deu os manjares e o pão que preparara na mão de Jacó, seu filho."
   },
   {
     "verse": 18,
-    "original": "וַיָּבֹ֥א אֶל־אָבִ֖יו וַיֹּ֣אמֶר אָבִ֑י וַיֹּ֣אמֶר הִנֶּ֔נִּי מִ֥י אַתָּ֖ה בְּנִֽי׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֥א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אָבִ֑י</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">הִנֶּ֔נִּי</span> <span data-strong=\"H4310\">מִ֥י</span> <span data-strong=\"H859\">אַתָּ֖ה</span> <span data-strong=\"H2967\">בְּנִֽי׃</span>",
     "transliteration": "vayavo' 'el-'aviyv vayo'mer 'aviy vayo'mer hineniy miy 'atah veniy.",
     "translation": "E veio até seu pai e disse: Pai; e ele respondeu: Eis-me aqui, quem és tu, meu filho?"
   },
   {
     "verse": 19,
-    "original": "וַיֹּ֨אמֶר יַעֲקֹ֜ב אֶל־אָבִ֗יו אָנֹכִי֙ עֵשָׂ֣ו בְּכֹרֶ֔ךָ עָשִׂ֕יתִי כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָ֑י קֽוּם־נָ֣א שְׁבָ֗ה וְאׇכְלָה֙ מִצֵּידִ֔י בַּעֲב֖וּר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3290\">יַעֲקֹ֜ב</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">אָבִ֗יו</span> <span data-strong=\"H595\">אָנֹכִי֙</span> <span data-strong=\"H6215\">עֵשָׂ֣ו</span> <span data-strong=\"H3509\">בְּכֹרֶ֔ךָ</span> <span data-strong=\"H6213\">עָשִׂ֕יתִי</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H1696\">דִּבַּ֖רְתָּ</span> <span data-strong=\"H2967\">אֵלָ֑י</span> <span data-strong=\"H6965\">קֽוּם</span>־<span data-strong=\"H4994\">נָ֣א</span> <span data-strong=\"H1886\">שְׁבָ֗ה</span> <span data-strong=\"H1886\">וְאׇכְלָה֙</span> <span data-strong=\"H2967\">מִצֵּידִ֔י</span> <span data-strong=\"H5668\">בַּעֲב֖וּר</span> <span data-strong=\"H5204\">תְּבָרְכַ֥נִּי</span> <span data-strong=\"H3509\">נַפְשֶֽׁךָ׃</span>",
     "transliteration": "vayo'mer ya'akov 'el-'aviyv 'anokhiy 'esav vekhorekha 'asiytiy kha'asher divareta 'elay kvm-na' shevah ve'okhelah mitseydiy va'avvr tevarekhaniy nafeshekha.",
     "translation": "E disse Jacó ao seu pai: Eu sou Esaú, o primogênito; como falaste a mim, fiz. Levanta-te agora, senta-te ecome do meu game, para que a tua alma me abençoe."
   },
   {
     "verse": 20,
-    "original": "וַיֹּ֤אמֶר יִצְחָק֙ אֶל־בְּנ֔וֹ מַה־זֶּ֛ה מִהַ֥רְתָּ לִמְצֹ֖א בְּנִ֑י וַיֹּ֕אמֶר כִּ֥י הִקְרָ֛ה יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְפָנָֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3327\">יִצְחָק֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">בְּנ֔וֹ</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H2088\">זֶּ֛ה</span> <span data-strong=\"H4116\">מִהַ֥רְתָּ</span> <span data-strong=\"H4672\">לִמְצֹ֖א</span> <span data-strong=\"H2967\">בְּנִ֑י</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H7136\">הִקְרָ֛ה</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֖יךָ</span> <span data-strong=\"H2967\">לְפָנָֽי׃</span>",
     "transliteration": "vayo'mer yitsehak 'el-venvo mah-zeh mihareta limetso' veniy vayo'mer khiy hikerah yehovah 'eloheykha lefanay.",
     "translation": "E Isaque disse ao seu filho: \"Como foi que tão cedo encontraste, meu filho?\" E ele respondeu: \"Porque o Senhor teu Deus fez aparecer diante de mim.\""
   },
   {
     "verse": 21,
-    "original": "וַיֹּ֤אמֶר יִצְחָק֙ אֶֽל־יַעֲקֹ֔ב גְּשָׁה־נָּ֥א וַאֲמֻֽשְׁךָ֖ בְּנִ֑י הַֽאַתָּ֥ה זֶ֛ה בְּנִ֥י עֵשָׂ֖ו אִם־לֹֽא׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3327\">יִצְחָק֙</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H1886\">גְּשָׁה</span>־<span data-strong=\"H4994\">נָּ֥א</span> <span data-strong=\"H3509\">וַאֲמֻֽשְׁךָ֖</span> <span data-strong=\"H2967\">בְּנִ֑י</span> <span data-strong=\"H859\">הַֽאַתָּ֥ה</span> <span data-strong=\"H2088\">זֶ֛ה</span> <span data-strong=\"H2967\">בְּנִ֥י</span> <span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3808\">לֹֽא׃</span>",
     "transliteration": "vayo'mer yitsehak 'el-ya'akov geshah-na' va'amushekha veniy ha'atah zeh veniy 'esav 'im-lo'.",
     "translation": "E Isaac disse a Jacó: Aproxima-te, por favor, e eu te tocarei, meu filho. És tu, meu filho Esaú? Ou não?"
   },
   {
     "verse": 22,
-    "original": "וַיִּגַּ֧שׁ יַעֲקֹ֛ב אֶל־יִצְחָ֥ק אָבִ֖יו וַיְמֻשֵּׁ֑הוּ וַיֹּ֗אמֶר הַקֹּל֙ ק֣וֹל יַעֲקֹ֔ב וְהַיָּדַ֖יִם יְדֵ֥י עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H5066\">וַיִּגַּ֧שׁ</span> <span data-strong=\"H3290\">יַעֲקֹ֛ב</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3327\">יִצְחָ֥ק</span> <span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H1930\">וַיְמֻשֵּׁ֑הוּ</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H6963\">הַקֹּל֙</span> <span data-strong=\"H6963\">ק֣וֹל</span> <span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H3027\">וְהַיָּדַ֖יִם</span> <span data-strong=\"H3027\">יְדֵ֥י</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "vayigash ya'akov 'el-yitsehak 'aviyv vayemushehv vayo'mer hakol kvol ya'akov vehayadayim yedey 'esav.",
     "translation": "E Jacó se aproximou de Isaque seu pai, e o tocou. Ele disse: É a voz de Jacó, mas as mãos são as de Esaú."
   },
   {
     "verse": 23,
-    "original": "וְלֹ֣א הִכִּיר֔וֹ כִּֽי־הָי֣וּ יָדָ֗יו כִּידֵ֛י עֵשָׂ֥ו אָחִ֖יו שְׂעִרֹ֑ת וַֽיְבָרְכֵֽהוּ׃",
+    "original": "<span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H2050\">הִכִּיר֔וֹ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">הָי֣וּ</span> <span data-strong=\"H2050\">יָדָ֗יו</span> <span data-strong=\"H3027\">כִּידֵ֛י</span> <span data-strong=\"H6215\">עֵשָׂ֥ו</span> <span data-strong=\"H2050\">אָחִ֖יו</span> <span data-strong=\"H8163\">שְׂעִרֹ֑ת</span> <span data-strong=\"H1930\">וַֽיְבָרְכֵֽהוּ׃</span>",
     "transliteration": "velo' hikhiyrvo khiy-hayv yadayv khiydey 'esav 'ahiyv se'irot vayevarekhehv.",
     "translation": "E não o reconheceu, pois as mãos eram como as de Esaú seu irmão, ásperas; e o abençoou."
   },
   {
     "verse": 24,
-    "original": "וַיֹּ֕אמֶר אַתָּ֥ה זֶ֖ה בְּנִ֣י עֵשָׂ֑ו וַיֹּ֖אמֶר אָֽנִי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H2088\">זֶ֖ה</span> <span data-strong=\"H2967\">בְּנִ֣י</span> <span data-strong=\"H6215\">עֵשָׂ֑ו</span> <span data-strong=\"H559\">וַיֹּ֖אמֶר</span> <span data-strong=\"H589\">אָֽנִי׃</span>",
     "transliteration": "vayo'mer 'atah zeh veniy 'esav vayo'mer 'aniy.",
     "translation": "E disse: Tu és meu filho Esaú? E ele respondeu: Sou eu."
   },
   {
     "verse": 25,
-    "original": "וַיֹּ֗אמֶר הַגִּ֤שָׁה לִּי֙ וְאֹֽכְלָה֙ מִצֵּ֣יד בְּנִ֔י לְמַ֥עַן תְּבָֽרֶכְךָ֖ נַפְשִׁ֑י וַיַּגֶּשׁ־לוֹ֙ וַיֹּאכַ֔ל וַיָּ֧בֵא ל֦וֹ יַ֖יִן וַיֵּֽשְׁתְּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H1886\">הַגִּ֤שָׁה</span> <span data-strong=\"H2967\">לִּי֙</span> <span data-strong=\"H398\">וְאֹֽכְלָה֙</span> <span data-strong=\"H6718\">מִצֵּ֣יד</span> <span data-strong=\"H2967\">בְּנִ֔י</span> <span data-strong=\"H4616\">לְמַ֥עַן</span> <span data-strong=\"H3509\">תְּבָֽרֶכְךָ֖</span> <span data-strong=\"H2967\">נַפְשִׁ֑י</span> <span data-strong=\"H5066\">וַיַּגֶּשׁ</span>־<span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H398\">וַיֹּאכַ֔ל</span> <span data-strong=\"H935\">וַיָּ֧בֵא</span> <span data-strong=\"H2050\">ל֦וֹ</span> <span data-strong=\"H3196\">יַ֖יִן</span> <span data-strong=\"H8354\">וַיֵּֽשְׁתְּ׃</span>",
     "transliteration": "vayo'mer hagishah liy ve'okhelah mitseyd veniy lema'an tevarekhekha nafeshiy vayagesh-lvo vayo'khal vayave' lvo yayin vayeshete.",
     "translation": "E disse, traga-me que eu coma do venado, meu filho, para que minha alma te abençoe; e ele lhe aproximou e comeu, e trouxe-lhe vinho e bebeu."
   },
   {
     "verse": 26,
-    "original": "וַיֹּ֥אמֶר אֵלָ֖יו יִצְחָ֣ק אָבִ֑יו גְּשָׁה־נָּ֥א וּשְׁקָה־לִּ֖י בְּנִֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H3327\">יִצְחָ֣ק</span> <span data-strong=\"H2050\">אָבִ֑יו</span> <span data-strong=\"H1886\">גְּשָׁה</span>־<span data-strong=\"H4994\">נָּ֥א</span> <span data-strong=\"H1886\">וּשְׁקָה</span>־<span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H2967\">בְּנִֽי׃</span>",
     "transliteration": "vayo'mer 'elayv yitsehak 'aviyv geshah-na' vshekah-liy veniy.",
     "translation": "Então Isaque, seu pai, disse: \"Aproxima-te, por favor, e bebe, ó meu filho.\""
   },
   {
     "verse": 27,
-    "original": "וַיִּגַּשׁ֙ וַיִּשַּׁק־ל֔וֹ וַיָּ֛רַח אֶת־רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרְכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙ רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H5066\">וַיִּגַּשׁ֙</span> <span data-strong=\"H5401\">וַיִּשַּׁק</span>־<span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H7306\">וַיָּ֛רַח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7381\">רֵ֥יחַ</span> <span data-strong=\"H2050\">בְּגָדָ֖יו</span> <span data-strong=\"H1930\">וַֽיְבָרְכֵ֑הוּ</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H7200\">רְאֵה֙</span> <span data-strong=\"H7381\">רֵ֣יחַ</span> <span data-strong=\"H2967\">בְּנִ֔י</span> <span data-strong=\"H7381\">כְּרֵ֣יחַ</span> <span data-strong=\"H7704\">שָׂדֶ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2050\">בֵּרְכ֖וֹ</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayigash vayishak-lvo vayarah 'et-reyha vegadayv vayevarekhehv vayo'mer re'eh reyha veniy khereyha sadeh 'asher verekhvo yehovah.",
     "translation": "E aproximou-se e o beijou; ele farejou o aroma de suas vestes e o abençoou. Disse: \"Ah, o aroma do meu filho é como o aroma de um campo que YHWH abençoou!\""
   },
   {
     "verse": 28,
-    "original": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם וּמִשְׁמַנֵּ֖י הָאָ֑רֶץ וְרֹ֥ב דָּגָ֖ן וְתִירֹֽשׁ׃",
+    "original": "<span data-strong=\"H5414\">וְיִֽתֶּן</span>־<span data-strong=\"H3509\">לְךָ֙</span> <span data-strong=\"H430\">הָאֱלֹהִ֔ים</span> <span data-strong=\"H2919\">מִטַּל֙</span> <span data-strong=\"H8064\">הַשָּׁמַ֔יִם</span> <span data-strong=\"H4924\">וּמִשְׁמַנֵּ֖י</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H7230\">וְרֹ֥ב</span> <span data-strong=\"H1715\">דָּגָ֖ן</span> <span data-strong=\"H8492\">וְתִירֹֽשׁ׃</span>",
     "transliteration": "veyiten-lekha ha'elohiym mital hashamayim vmishemaney ha'arets verov dagan vetiyrosh.",
     "translation": "E Deus te dará o orvalho dos céus e as gorduras da terra, fartura de trigo e vinho."
   },
@@ -175,103 +175,103 @@
   },
   {
     "verse": 30,
-    "original": "וַיְהִ֗י כַּאֲשֶׁ֨ר כִּלָּ֣ה יִצְחָק֮ לְבָרֵ֣ךְ אֶֽת־יַעֲקֹב֒ וַיְהִ֗י אַ֣ךְ יָצֹ֤א יָצָא֙ יַעֲקֹ֔ב מֵאֵ֥ת פְּנֵ֖י יִצְחָ֣ק אָבִ֑יו וְעֵשָׂ֣ו אָחִ֔יו בָּ֖א מִצֵּידֽוֹ׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֗י</span> <span data-strong=\"H834\">כַּאֲשֶׁ֨ר</span> <span data-strong=\"H3615\">כִּלָּ֣ה</span> <span data-strong=\"H3327\">יִצְחָק֮</span> <span data-strong=\"H1288\">לְבָרֵ֣ךְ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3290\">יַעֲקֹב֒</span> <span data-strong=\"H1961\">וַיְהִ֗י</span> <span data-strong=\"H389\">אַ֣ךְ</span> <span data-strong=\"H3318\">יָצֹ֤א</span> <span data-strong=\"H3318\">יָצָא֙</span> <span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H854\">מֵאֵ֥ת</span> <span data-strong=\"H6440\">פְּנֵ֖י</span> <span data-strong=\"H3327\">יִצְחָ֣ק</span> <span data-strong=\"H2050\">אָבִ֑יו</span> <span data-strong=\"H6215\">וְעֵשָׂ֣ו</span> <span data-strong=\"H2050\">אָחִ֔יו</span> <span data-strong=\"H935\">בָּ֖א</span> <span data-strong=\"H2050\">מִצֵּידֽוֹ׃</span>",
     "transliteration": "vayehiy kha'asher khilah yitsehak levarekhe 'et-ya'akov vayehiy 'akhe yatso' yatsa' ya'akov me'et feney yitsehak 'aviyv ve'esav 'ahiyv va' mitseydvo.",
     "translation": "E aconteceu que, quando Isaque terminou de abençoar Jacó, este saiu do rosto de Isaque seu pai; e Esaú seu irmão veio do seu caçar."
   },
   {
     "verse": 31,
-    "original": "וַיַּ֤עַשׂ גַּם־הוּא֙ מַטְעַמִּ֔ים וַיָּבֵ֖א לְאָבִ֑יו וַיֹּ֣אמֶר לְאָבִ֗יו יָקֻ֤ם אָבִי֙ וְיֹאכַל֙ מִצֵּ֣יד בְּנ֔וֹ בַּעֲבֻ֖ר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֤עַשׂ</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H1931\">הוּא֙</span> <span data-strong=\"H4303\">מַטְעַמִּ֔ים</span> <span data-strong=\"H935\">וַיָּבֵ֖א</span> <span data-strong=\"H2050\">לְאָבִ֑יו</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">לְאָבִ֗יו</span> <span data-strong=\"H6965\">יָקֻ֤ם</span> <span data-strong=\"H2967\">אָבִי֙</span> <span data-strong=\"H398\">וְיֹאכַל֙</span> <span data-strong=\"H6718\">מִצֵּ֣יד</span> <span data-strong=\"H2050\">בְּנ֔וֹ</span> <span data-strong=\"H5668\">בַּעֲבֻ֖ר</span> <span data-strong=\"H5204\">תְּבָרְכַ֥נִּי</span> <span data-strong=\"H3509\">נַפְשֶֽׁךָ׃</span>",
     "transliteration": "vaya'as gam-hv' mate'amiym vayave' le'aviyv vayo'mer le'aviyv yakum 'aviy veyo'khal mitseyd venvo va'avur tevarekhaniy nafeshekha.",
     "translation": "E ele também preparou guisados e trouxe a seu pai, e disse a seu pai: Levanta-te, meu pai, e come da caça que teu filho pegou, para que tua alma me abençoe."
   },
   {
     "verse": 32,
-    "original": "וַיֹּ֥אמֶר ל֛וֹ יִצְחָ֥ק אָבִ֖יו מִי־אָ֑תָּה וַיֹּ֕אמֶר אֲנִ֛י בִּנְךָ֥ בְכֹֽרְךָ֖ עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2050\">ל֛וֹ</span> <span data-strong=\"H3327\">יִצְחָ֥ק</span> <span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H4310\">מִי</span>־<span data-strong=\"H859\">אָ֑תָּה</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H589\">אֲנִ֛י</span> <span data-strong=\"H3509\">בִּנְךָ֥</span> <span data-strong=\"H3509\">בְכֹֽרְךָ֖</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "vayo'mer lvo yitsehak 'aviyv miy-'atah vayo'mer 'aniy vinekha vekhorekha 'esav.",
     "translation": "E disse-lhe Isaque, seu pai: Quem és tu? E ele respondeu: Sou teu filho, o primogênito, Esaú."
   },
   {
     "verse": 33,
-    "original": "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־מְאֹד֒ וַיֹּ֡אמֶר מִֽי־אֵפ֡וֹא ה֣וּא הַצָּֽד־צַ֩יִד֩ וַיָּ֨בֵא לִ֜י וָאֹכַ֥ל מִכֹּ֛ל בְּטֶ֥רֶם תָּב֖וֹא וָאֲבָרְכֵ֑הוּ גַּם־בָּר֖וּךְ יִהְיֶֽה׃",
+    "original": "<span data-strong=\"H2729\">וַיֶּחֱרַ֨ד</span> <span data-strong=\"H3327\">יִצְחָ֣ק</span> <span data-strong=\"H2731\">חֲרָדָה֮</span> <span data-strong=\"H1419\">גְּדֹלָ֣ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3966\">מְאֹד֒</span> <span data-strong=\"H559\">וַיֹּ֡אמֶר</span> <span data-strong=\"H4310\">מִֽי</span>־<span data-strong=\"H645\">אֵפ֡וֹא</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H6679\">הַצָּֽד</span>־<span data-strong=\"H6718\">צַ֩יִד֩</span> <span data-strong=\"H935\">וַיָּ֨בֵא</span> <span data-strong=\"H2967\">לִ֜י</span> <span data-strong=\"H398\">וָאֹכַ֥ל</span> <span data-strong=\"H3605\">מִכֹּ֛ל</span> <span data-strong=\"H2962\">בְּטֶ֥רֶם</span> <span data-strong=\"H935\">תָּב֖וֹא</span> <span data-strong=\"H1930\">וָאֲבָרְכֵ֑הוּ</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H1288\">בָּר֖וּךְ</span> <span data-strong=\"H1961\">יִהְיֶֽה׃</span>",
     "transliteration": "vayeherad yitsehak haradah gedolah 'ad-me'od vayo'mer miy-'efvo' hv' hatsad-tsayid vayave' liy va'okhal mikhol veterem tavvo' va'avarekhehv gam-varvkhe yiheyeh.",
     "translation": "E Isaac tremeu com grande tremor; e disse: Quem, pois, é aquele que caçou e me trouxe, e eu o comi de tudo antes que você chegasse? E o abençoei. Sim, ele será abençoado."
   },
   {
     "verse": 34,
-    "original": "כִּשְׁמֹ֤עַ עֵשָׂו֙ אֶת־דִּבְרֵ֣י אָבִ֔יו וַיִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּמָרָ֖ה עַד־מְאֹ֑ד וַיֹּ֣אמֶר לְאָבִ֔יו בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִֽי׃",
+    "original": "<span data-strong=\"H8085\">כִּשְׁמֹ֤עַ</span> <span data-strong=\"H6215\">עֵשָׂו֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֣י</span> <span data-strong=\"H2050\">אָבִ֔יו</span> <span data-strong=\"H6817\">וַיִּצְעַ֣ק</span> <span data-strong=\"H6818\">צְעָקָ֔ה</span> <span data-strong=\"H1419\">גְּדֹלָ֥ה</span> <span data-strong=\"H4751\">וּמָרָ֖ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3966\">מְאֹ֑ד</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">לְאָבִ֔יו</span> <span data-strong=\"H5204\">בָּרְכֵ֥נִי</span> <span data-strong=\"H1571\">גַם</span>־<span data-strong=\"H589\">אָ֖נִי</span> <span data-strong=\"H2967\">אָבִֽי׃</span>",
     "transliteration": "khishemo'a 'esav 'et-diverey 'aviyv vayitse'ak tse'akah gedolah vmarah 'ad-me'od vayo'mer le'aviyv varekheniy gam-'aniy 'aviy.",
     "translation": "Ao ouvir as palavras de seu pai, Esaú gritou um grito grande e amargo, muito amargamente, e disse a seu pai: Abençoe-me também, meu pai."
   },
   {
     "verse": 35,
-    "original": "וַיֹּ֕אמֶר בָּ֥א אָחִ֖יךָ בְּמִרְמָ֑ה וַיִּקַּ֖ח בִּרְכָתֶֽךָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H935\">בָּ֥א</span> <span data-strong=\"H3509\">אָחִ֖יךָ</span> <span data-strong=\"H4820\">בְּמִרְמָ֑ה</span> <span data-strong=\"H3947\">וַיִּקַּ֖ח</span> <span data-strong=\"H3509\">בִּרְכָתֶֽךָ׃</span>",
     "transliteration": "vayo'mer va' 'ahiykha vemiremah vayikah virekhatekha.",
     "translation": "Teu irmão veio com astúcia e tomou tua bênção."
   },
   {
     "verse": 36,
-    "original": "וַיֹּ֡אמֶר הֲכִי֩ קָרָ֨א שְׁמ֜וֹ יַעֲקֹ֗ב וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם אֶת־בְּכֹרָתִ֣י לָקָ֔ח וְהִנֵּ֥ה עַתָּ֖ה לָקַ֣ח בִּרְכָתִ֑י וַיֹּאמַ֕ר הֲלֹא־אָצַ֥לְתָּ לִּ֖י בְּרָכָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֡אמֶר</span> <span data-strong=\"H3588\">הֲכִי֩</span> <span data-strong=\"H7121\">קָרָ֨א</span> <span data-strong=\"H2050\">שְׁמ֜וֹ</span> <span data-strong=\"H3290\">יַעֲקֹ֗ב</span> <span data-strong=\"H5204\">וַֽיַּעְקְבֵ֙נִי֙</span> <span data-strong=\"H2088\">זֶ֣ה</span> <span data-strong=\"H6471\">פַעֲמַ֔יִם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בְּכֹרָתִ֣י</span> <span data-strong=\"H3947\">לָקָ֔ח</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H6258\">עַתָּ֖ה</span> <span data-strong=\"H3947\">לָקַ֣ח</span> <span data-strong=\"H2967\">בִּרְכָתִ֑י</span> <span data-strong=\"H559\">וַיֹּאמַ֕ר</span> <span data-strong=\"H3808\">הֲלֹא</span>־<span data-strong=\"H680\">אָצַ֥לְתָּ</span> <span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H1293\">בְּרָכָֽה׃</span>",
     "transliteration": "vayo'mer hakhiy kara' shemvo ya'akov vaya'ekeveniy zeh fa'amayim 'et-vekhoratiy lakah vehineh 'atah lakah virekhatiy vayo'mar halo'-'atsaleta liy verakhah.",
     "translation": "Então ele disse: Acaso seu nome é Jacó, e me enganou duas vezes? Tomou minha primogenitura e eis que agora tomou também minhas bênçãos. Ele exclamou: Porventura não havia reservado para mim uma bênção?"
   },
   {
     "verse": 37,
-    "original": "וַיַּ֨עַן יִצְחָ֜ק וַיֹּ֣אמֶר לְעֵשָׂ֗ו הֵ֣ן גְּבִ֞יר שַׂמְתִּ֥יו לָךְ֙ וְאֶת־כׇּל־אֶחָ֗יו נָתַ֤תִּי לוֹ֙ לַעֲבָדִ֔ים וְדָגָ֥ן וְתִירֹ֖שׁ סְמַכְתִּ֑יו וּלְכָ֣ה אֵפ֔וֹא מָ֥ה אֶֽעֱשֶׂ֖ה בְּנִֽי׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֨עַן</span> <span data-strong=\"H3327\">יִצְחָ֜ק</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H6215\">לְעֵשָׂ֗ו</span> <span data-strong=\"H2005\">הֵ֣ן</span> <span data-strong=\"H1376\">גְּבִ֞יר</span> <span data-strong=\"H2050\">שַׂמְתִּ֥יו</span> <span data-strong=\"H3509\">לָךְ֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">אֶחָ֗יו</span> <span data-strong=\"H5414\">נָתַ֤תִּי</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H5650\">לַעֲבָדִ֔ים</span> <span data-strong=\"H1715\">וְדָגָ֥ן</span> <span data-strong=\"H8492\">וְתִירֹ֖שׁ</span> <span data-strong=\"H2050\">סְמַכְתִּ֑יו</span> <span data-strong=\"H3509\">וּלְכָ֣ה</span> <span data-strong=\"H645\">אֵפ֔וֹא</span> <span data-strong=\"H4100\">מָ֥ה</span> <span data-strong=\"H6213\">אֶֽעֱשֶׂ֖ה</span> <span data-strong=\"H2967\">בְּנִֽי׃</span>",
     "transliteration": "vaya'an yitsehak vayo'mer le'esav hen geviyr sametiyv lakhe ve'et-khol-'ehayv natatiy lvo la'avadiym vedagan vetiyrosh semakhetiyv vlekhah 'efvo' mah 'e'eseh veniy.",
     "translation": "E Isaque respondeu e disse a Esaú: Eis que eu já estabeleci como senhor teu irmão; todas as tuas irmandades lhe dei para servir, e o grão e o vinho que te sobrarem também lhe darei. Então, vem agora, e que farei eu por ti, meu filho?"
   },
   {
     "verse": 38,
-    "original": "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶל־אָבִ֗יו הַֽבְרָכָ֨ה אַחַ֤ת הִֽוא־לְךָ֙ אָבִ֔י בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִ֑י וַיִּשָּׂ֥א עֵשָׂ֛ו קֹל֖וֹ וַיֵּֽבְךְּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H6215\">עֵשָׂ֜ו</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">אָבִ֗יו</span> <span data-strong=\"H1293\">הַֽבְרָכָ֨ה</span> <span data-strong=\"H259\">אַחַ֤ת</span> <span data-strong=\"H1931\">הִֽוא</span>־<span data-strong=\"H3509\">לְךָ֙</span> <span data-strong=\"H2967\">אָבִ֔י</span> <span data-strong=\"H5204\">בָּרְכֵ֥נִי</span> <span data-strong=\"H1571\">גַם</span>־<span data-strong=\"H589\">אָ֖נִי</span> <span data-strong=\"H2967\">אָבִ֑י</span> <span data-strong=\"H5375\">וַיִּשָּׂ֥א</span> <span data-strong=\"H6215\">עֵשָׂ֛ו</span> <span data-strong=\"H2050\">קֹל֖וֹ</span> <span data-strong=\"H1058\">וַיֵּֽבְךְּ׃</span>",
     "transliteration": "vayo'mer 'esav 'el-'aviyv haverakhah 'ahat hiv'-lekha 'aviy varekheniy gam-'aniy 'aviy vayisa' 'esav kolvo vayevekhe.",
     "translation": "E disse Esaú ao seu pai: Há uma só bênção para ti, meu pai? Bendiz também a mim, meu pai. Então Esaú levantou a voz e chorou."
   },
   {
     "verse": 39,
-    "original": "וַיַּ֛עַן יִצְחָ֥ק אָבִ֖יו וַיֹּ֣אמֶר אֵלָ֑יו הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ וּמִטַּ֥ל הַשָּׁמַ֖יִם מֵעָֽל׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֛עַן</span> <span data-strong=\"H3327\">יִצְחָ֥ק</span> <span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">אֵלָ֑יו</span> <span data-strong=\"H2009\">הִנֵּ֞ה</span> <span data-strong=\"H4924\">מִשְׁמַנֵּ֤י</span> <span data-strong=\"H776\">הָאָ֙רֶץ֙</span> <span data-strong=\"H1961\">יִהְיֶ֣ה</span> <span data-strong=\"H3509\">מֽוֹשָׁבֶ֔ךָ</span> <span data-strong=\"H2919\">וּמִטַּ֥ל</span> <span data-strong=\"H8064\">הַשָּׁמַ֖יִם</span> <span data-strong=\"H5920\">מֵעָֽל׃</span>",
     "transliteration": "vaya'an yitsehak 'aviyv vayo'mer 'elayv hineh mishemaney ha'arets yiheyeh mvoshavekha vmital hashamayim me'al.",
     "translation": "E Isaac, seu pai, respondeu e disse a ele: Eis que dos seios da terra será teu assentamento, e do orvalho dos céus de cima."
   },
   {
     "verse": 40,
-    "original": "וְעַל־חַרְבְּךָ֣ תִֽחְיֶ֔ה וְאֶת־אָחִ֖יךָ תַּעֲבֹ֑ד וְהָיָה֙ כַּאֲשֶׁ֣ר תָּרִ֔יד וּפָרַקְתָּ֥ עֻלּ֖וֹ מֵעַ֥ל צַוָּארֶֽךָ׃",
+    "original": "<span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3509\">חַרְבְּךָ֣</span> <span data-strong=\"H2421\">תִֽחְיֶ֔ה</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3509\">אָחִ֖יךָ</span> <span data-strong=\"H5647\">תַּעֲבֹ֑ד</span> <span data-strong=\"H1961\">וְהָיָה֙</span> <span data-strong=\"H834\">כַּאֲשֶׁ֣ר</span> <span data-strong=\"H7300\">תָּרִ֔יד</span> <span data-strong=\"H6561\">וּפָרַקְתָּ֥</span> <span data-strong=\"H2050\">עֻלּ֖וֹ</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H3509\">צַוָּארֶֽךָ׃</span>",
     "transliteration": "ve'al-harevekha tiheyeh ve'et-'ahiykha ta'avod vehayah kha'asher tariyd vfaraketa 'ulvo me'al tsava'rekha.",
     "translation": "E pela espada vivente, e teu irmão servirás; sucederá que quando tiverdes crescido, romperás seu jugo do pescoço."
   },
   {
     "verse": 41,
-    "original": "וַיִּשְׂטֹ֤ם עֵשָׂו֙ אֶֽת־יַעֲקֹ֔ב עַ֨ל־הַבְּרָכָ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ אָבִ֑יו וַיֹּ֨אמֶר עֵשָׂ֜ו בְּלִבּ֗וֹ יִקְרְבוּ֙ יְמֵי֙ אֵ֣בֶל אָבִ֔י וְאַֽהַרְגָ֖ה אֶת־יַעֲקֹ֥ב אָחִֽי׃",
+    "original": "<span data-strong=\"H7852\">וַיִּשְׂטֹ֤ם</span> <span data-strong=\"H6215\">עֵשָׂו֙</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H5921\">עַ֨ל</span>־<span data-strong=\"H1293\">הַבְּרָכָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2050\">בֵּרְכ֖וֹ</span> <span data-strong=\"H2050\">אָבִ֑יו</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H6215\">עֵשָׂ֜ו</span> <span data-strong=\"H2050\">בְּלִבּ֗וֹ</span> <span data-strong=\"H7126\">יִקְרְבוּ֙</span> <span data-strong=\"H3117\">יְמֵי֙</span> <span data-strong=\"H60\">אֵ֣בֶל</span> <span data-strong=\"H2967\">אָבִ֔י</span> <span data-strong=\"H2026\">וְאַֽהַרְגָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3290\">יַעֲקֹ֥ב</span> <span data-strong=\"H2967\">אָחִֽי׃</span>",
     "transliteration": "vayisetom 'esav 'et-ya'akov 'al-haverakhah 'asher verekhvo 'aviyv vayo'mer 'esav velivvo yikerevv yemey 'evel 'aviy ve'aharegah 'et-ya'akov 'ahiy.",
     "translation": "Esaú se irou contra Jacó por causa da bênção que seu pai lhe havia concedido; e pensou Esaú: “Cheguem-se os dias do luto de meu pai, e matarei a Jacó, meu irmão.”"
   },
   {
     "verse": 42,
-    "original": "וַיֻּגַּ֣ד לְרִבְקָ֔ה אֶת־דִּבְרֵ֥י עֵשָׂ֖ו בְּנָ֣הּ הַגָּדֹ֑ל וַתִּשְׁלַ֞ח וַתִּקְרָ֤א לְיַעֲקֹב֙ בְּנָ֣הּ הַקָּטָ֔ן וַתֹּ֣אמֶר אֵלָ֔יו הִנֵּה֙ עֵשָׂ֣ו אָחִ֔יךָ מִתְנַחֵ֥ם לְךָ֖ לְהׇרְגֶֽךָ׃",
+    "original": "<span data-strong=\"H5046\">וַיֻּגַּ֣ד</span> <span data-strong=\"H7259\">לְרִבְקָ֔ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H1886\">בְּנָ֣הּ</span> <span data-strong=\"H1419\">הַגָּדֹ֑ל</span> <span data-strong=\"H7971\">וַתִּשְׁלַ֞ח</span> <span data-strong=\"H7121\">וַתִּקְרָ֤א</span> <span data-strong=\"H3290\">לְיַעֲקֹב֙</span> <span data-strong=\"H1886\">בְּנָ֣הּ</span> <span data-strong=\"H6996\">הַקָּטָ֔ן</span> <span data-strong=\"H559\">וַתֹּ֣אמֶר</span> <span data-strong=\"H2050\">אֵלָ֔יו</span> <span data-strong=\"H2009\">הִנֵּה֙</span> <span data-strong=\"H6215\">עֵשָׂ֣ו</span> <span data-strong=\"H3509\">אָחִ֔יךָ</span> <span data-strong=\"H5162\">מִתְנַחֵ֥ם</span> <span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H3509\">לְהׇרְגֶֽךָ׃</span>",
     "transliteration": "vayugad lerivekah 'et-diverey 'esav venah hagadol vatishelah vatikera' leya'akov venah hakatan vato'mer 'elayv hineh 'esav 'ahiykha mitenahem lekha lehoregekha.",
     "translation": "E foi contado a Rebeca as palavras de Esaú, seu filho maior; e ela enviou e chamou Jacó, seu filho menor, e lhe disse: Eis que Esaú, teu irmão, está amainando-se contra ti para matar-te.\n\nNota: Embora o rascunho esteja geralmente correto em termos de estrutura e significado, a expressão \"está amainando-se\" pode ser considerada uma tradução ligeiramente fora do contexto ou não idiomática no português moderno para descrever a atitude de Esaú. No entanto, conforme as instruções, apenas o texto originalmente proposto é apresentado aqui, sem modificações adicionais ou explicações."
   },
   {
     "verse": 43,
-    "original": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י וְק֧וּם בְּרַח־לְךָ֛ אֶל־לָבָ֥ן אָחִ֖י חָרָֽנָה׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֥ה</span> <span data-strong=\"H2967\">בְנִ֖י</span> <span data-strong=\"H8085\">שְׁמַ֣ע</span> <span data-strong=\"H2967\">בְּקֹלִ֑י</span> <span data-strong=\"H6965\">וְק֧וּם</span> <span data-strong=\"H1272\">בְּרַח</span>־<span data-strong=\"H3509\">לְךָ֛</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3837\">לָבָ֥ן</span> <span data-strong=\"H2967\">אָחִ֖י</span> <span data-strong=\"H1886\">חָרָֽנָה׃</span>",
     "transliteration": "ve'atah veniy shema' vekoliy vekvm verah-lekha 'el-lavan 'ahiy haranah.",
     "translation": "E agora, filho, ouve minha voz e levanta-te, foge para Harã, à casa de Labão, meu irmão."
   },
   {
     "verse": 44,
-    "original": "וְיָשַׁבְתָּ֥ עִמּ֖וֹ יָמִ֣ים אֲחָדִ֑ים עַ֥ד אֲשֶׁר־תָּשׁ֖וּב חֲמַ֥ת אָחִֽיךָ׃",
+    "original": "<span data-strong=\"H3427\">וְיָשַׁבְתָּ֥</span> <span data-strong=\"H2050\">עִמּ֖וֹ</span> <span data-strong=\"H3117\">יָמִ֣ים</span> <span data-strong=\"H259\">אֲחָדִ֑ים</span> <span data-strong=\"H5704\">עַ֥ד</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7725\">תָּשׁ֖וּב</span> <span data-strong=\"H2534\">חֲמַ֥ת</span> <span data-strong=\"H3509\">אָחִֽיךָ׃</span>",
     "transliteration": "veyashaveta 'imvo yamiym 'ahadiym 'ad 'asher-tashvv hamat 'ahiykha.",
     "translation": "E morarás com ele alguns dias, até que a ira de teu irmão se acalme."
   },
   {
     "verse": 45,
-    "original": "עַד־שׁ֨וּב אַף־אָחִ֜יךָ מִמְּךָ֗ וְשָׁכַח֙ אֵ֣ת אֲשֶׁר־עָשִׂ֣יתָ לּ֔וֹ וְשָׁלַחְתִּ֖י וּלְקַחְתִּ֣יךָ מִשָּׁ֑ם לָמָ֥ה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד׃",
+    "original": "<span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H7725\">שׁ֨וּב</span> <span data-strong=\"H639\">אַף</span>־<span data-strong=\"H3509\">אָחִ֜יךָ</span> <span data-strong=\"H3509\">מִמְּךָ֗</span> <span data-strong=\"H7911\">וְשָׁכַח֙</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשִׂ֣יתָ</span> <span data-strong=\"H2050\">לּ֔וֹ</span> <span data-strong=\"H7971\">וְשָׁלַחְתִּ֖י</span> <span data-strong=\"H3509\">וּלְקַחְתִּ֣יךָ</span> <span data-strong=\"H8033\">מִשָּׁ֑ם</span> <span data-strong=\"H4100\">לָמָ֥ה</span> <span data-strong=\"H7921\">אֶשְׁכַּ֛ל</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H3641\">שְׁנֵיכֶ֖ם</span> <span data-strong=\"H3117\">י֥וֹם</span> <span data-strong=\"H259\">אֶחָֽד׃</span>",
     "transliteration": "'ad-shvv 'af-'ahiykha mimekha veshakhah 'et 'asher-'asiyta lvo veshalahetiy vlekahetiykha misham lamah 'eshekhal gam-sheneykhem yvom 'ehad.",
     "translation": "Até que teu irmão se esqueça do mal que lhe fizeste, e eu então te enviarei de lá; por que hei de perder vós dois num mesmo dia?"
   },
   {
     "verse": 46,
-    "original": "וַתֹּ֤אמֶר רִבְקָה֙ אֶל־יִצְחָ֔ק <small>קַ֣</small>צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת אִם־לֹקֵ֣חַ יַ֠עֲקֹ֠ב אִשָּׁ֨ה מִבְּנֽוֹת־חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֤אמֶר</span> <span data-strong=\"H7259\">רִבְקָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3327\">יִצְחָ֔ק</span> <span data-strong=\"H6973\"><small>קַ֣</small>צְתִּי</span> <span data-strong=\"H2967\">בְחַיַּ֔י</span> <span data-strong=\"H6440\">מִפְּנֵ֖י</span> <span data-strong=\"H1323\">בְּנ֣וֹת</span> <span data-strong=\"H2845\">חֵ֑ת</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3947\">לֹקֵ֣חַ</span> <span data-strong=\"H3290\">יַ֠עֲקֹ֠ב</span> <span data-strong=\"H802\">אִשָּׁ֨ה</span> <span data-strong=\"H1323\">מִבְּנֽוֹת</span>־<span data-strong=\"H2845\">חֵ֤ת</span> <span data-strong=\"H428\">כָּאֵ֙לֶּה֙</span> <span data-strong=\"H1323\">מִבְּנ֣וֹת</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H4100\">לָ֥מָּה</span> <span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "vato'mer rivekah 'el-yitsehak <small>ka</small>tsetiy vehayay mifeney venvot het 'im-lokeha ya'akov 'ishah mivenvot-het kha'eleh mivenvot ha'arets lamah liy hayiym.",
     "translation": "E Rebeca disse a Isaque: \"Cortei-me da vida por causa das filhas de Het. Se Jacó tomar uma mulher dentre as filhas de Het, como estes que estão nesta terra, para que me sirve a vida?\""
   }

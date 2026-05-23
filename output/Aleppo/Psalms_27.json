@@ -1,79 +1,79 @@
 [
   {
     "verse": 1,
-    "original": "לְדָוִ֨ד&thinsp;<b>׀</b> יְהֹוָ֤ה&thinsp;<b>׀</b> אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהֹוָ֥ה מָעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃",
+    "original": "<span data-strong=\"H1732\">לְדָוִ֨ד&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">יְהֹוָ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">אוֹרִ֣י</span> <span data-strong=\"H2967\">וְ֭יִשְׁעִי</span> <span data-strong=\"H4310\">מִמִּ֣י</span> <span data-strong=\"H3372\">אִירָ֑א</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H4581\">מָעוֹז</span>־<span data-strong=\"H2967\">חַ֝יַּ֗י</span> <span data-strong=\"H4310\">מִמִּ֥י</span> <span data-strong=\"H6342\">אֶפְחָֽד׃</span>",
     "transliteration": "ledavid&thinsp;<b>|</b> yehovah&thinsp;<b>|</b> 'voriy veyishe'iy mimiy 'iyra' yehovah ma'voz-hayay mimiy 'efehad.",
     "translation": "Para Davi: Jeová é minha luz e meu salvador; de quem terei medo? Jeová é o refúgio da minha vida; de quem temerei?"
   },
   {
     "verse": 2,
-    "original": "בִּקְרֹ֤ב עָלַ֨י&thinsp;<b>׀</b> מְרֵעִים֮ לֶאֱכֹ֢ל אֶת־בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ׃",
+    "original": "<span data-strong=\"H7126\">בִּקְרֹ֤ב</span> <span data-strong=\"H2967\">עָלַ֨י&thinsp;<b>׀</b></span> <span data-strong=\"H7489\">מְרֵעִים֮</span> <span data-strong=\"H398\">לֶאֱכֹ֢ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בְּשָׂ֫רִ֥י</span> <span data-strong=\"H2967\">צָרַ֣י</span> <span data-strong=\"H2967\">וְאֹיְבַ֣י</span> <span data-strong=\"H2967\">לִ֑י</span> <span data-strong=\"H1992\">הֵ֖מָּה</span> <span data-strong=\"H3782\">כָשְׁל֣וּ</span> <span data-strong=\"H5307\">וְנָפָֽלוּ׃</span>",
     "transliteration": "vikerov 'alay&thinsp;<b>|</b> mere'iym le'ekhol 'et-vesariy tsaray ve'oyevay liy hemah khashelv venafalv.",
     "translation": "Perto de mim se aproximaram os ímpios para me devorar; meus adversários e inimigos caíram e foram precipitados."
   },
   {
     "verse": 3,
-    "original": "אִם־תַּחֲנֶ֬ה עָלַ֨י&thinsp;<b>׀</b> מַחֲנֶה֮ לֹא־יִירָ֢א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י בוֹטֵֽחַ׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2583\">תַּחֲנֶ֬ה</span> <span data-strong=\"H2967\">עָלַ֨י&thinsp;<b>׀</b></span> <span data-strong=\"H4264\">מַחֲנֶה֮</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3372\">יִירָ֢א</span> <span data-strong=\"H2967\">לִ֫בִּ֥י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H6965\">תָּק֣וּם</span> <span data-strong=\"H2967\">עָ֭לַי</span> <span data-strong=\"H4421\">מִלְחָמָ֑ה</span> <span data-strong=\"H2063\">בְּ֝זֹ֗את</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H982\">בוֹטֵֽחַ׃</span>",
     "transliteration": "'im-tahaneh 'alay&thinsp;<b>|</b> mahaneh lo'-yiyra' liviy 'im-takvm 'alay milehamah vezo't 'aniy vvoteha.",
     "translation": "Se me acampares em batalha, não temerei; se contra mim se levantar guerra, nisso confio."
   },
   {
     "verse": 4,
-    "original": "אַחַ֤ת&thinsp;<b>׀</b> שָׁאַ֣לְתִּי מֵאֵת־יְהֹוָה֮ אוֹתָ֢הּ אֲבַ֫קֵּ֥שׁ שִׁבְתִּ֣י בְּבֵית־יְ֭הֹוָה כׇּל־יְמֵ֣י חַיַּ֑י לַחֲז֥וֹת בְּנֹעַם־יְ֝הֹוָ֗ה וּלְבַקֵּ֥ר בְּהֵֽיכָלֽוֹ׃",
+    "original": "<span data-strong=\"H259\">אַחַ֤ת&thinsp;<b>׀</b></span> <span data-strong=\"H7592\">שָׁאַ֣לְתִּי</span> <span data-strong=\"H854\">מֵאֵת</span>־<span data-strong=\"H3068\">יְהֹוָה֮</span> <span data-strong=\"H1886\">אוֹתָ֢הּ</span> <span data-strong=\"H1245\">אֲבַ֫קֵּ֥שׁ</span> <span data-strong=\"H5204\">שִׁבְתִּ֣י</span> <span data-strong=\"H1004\">בְּבֵית</span>־<span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H2967\">חַיַּ֑י</span> <span data-strong=\"H2372\">לַחֲז֥וֹת</span> <span data-strong=\"H5278\">בְּנֹעַם</span>־<span data-strong=\"H3068\">יְ֝הֹוָ֗ה</span> <span data-strong=\"H1239\">וּלְבַקֵּ֥ר</span> <span data-strong=\"H2050\">בְּהֵֽיכָלֽוֹ׃</span>",
     "transliteration": "'ahat&thinsp;<b>|</b> sha'aletiy me'et-yehovah 'votah 'avakesh shivetiy veveyt-yehovah khol-yemey hayay lahazvot veno'am-yehovah vlevaker veheykhalvo.",
     "translation": "Uma coisa peço ao Senhor, isso buscarei: que possa habitar na casa do Senhor todos os dias da minha vida, para contemplar a beleza do Senhor e para visitar seu templo."
   },
   {
     "verse": 5,
-    "original": "כִּ֤י יִצְפְּנֵ֨נִי&thinsp;<b>׀</b> בְּסֻכֹּה֮ בְּי֢וֹם רָ֫עָ֥ה יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אׇהֳל֑וֹ בְּ֝צ֗וּר יְרוֹמְמֵֽנִי׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H5204\">יִצְפְּנֵ֨נִי&thinsp;<b>׀</b></span> <span data-strong=\"H2050\">בְּסֻכֹּה֮</span> <span data-strong=\"H3117\">בְּי֢וֹם</span> <span data-strong=\"H7451\">רָ֫עָ֥ה</span> <span data-strong=\"H5204\">יַ֭סְתִּרֵנִי</span> <span data-strong=\"H5643\">בְּסֵ֣תֶר</span> <span data-strong=\"H2050\">אׇהֳל֑וֹ</span> <span data-strong=\"H6697\">בְּ֝צ֗וּר</span> <span data-strong=\"H5204\">יְרוֹמְמֵֽנִי׃</span>",
     "transliteration": "khiy yitsefeneniy&thinsp;<b>|</b> vesukhoh veyvom ra'ah yasetireniy veseter 'oholvo vetsvr yervomemeniy.",
     "translation": "Pois me esconderá na sua tenda no dia da adversidade; no segredo de seu tabernáculo me ocultará, sobre uma rocha me exaltará."
   },
   {
     "verse": 6,
-    "original": "וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹיְבַ֬י סְֽבִיבוֹתַ֗י וְאֶזְבְּחָ֣ה בְ֭אׇהֳלוֹ זִבְחֵ֣י תְרוּעָ֑ה אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֨ה</span> <span data-strong=\"H7311\">יָר֪וּם</span> <span data-strong=\"H2967\">רֹאשִׁ֡י</span> <span data-strong=\"H5921\">עַ֤ל</span> <span data-strong=\"H2967\">אֹיְבַ֬י</span> <span data-strong=\"H2967\">סְֽבִיבוֹתַ֗י</span> <span data-strong=\"H2076\">וְאֶזְבְּחָ֣ה</span> <span data-strong=\"H2050\">בְ֭אׇהֳלוֹ</span> <span data-strong=\"H2077\">זִבְחֵ֣י</span> <span data-strong=\"H8643\">תְרוּעָ֑ה</span> <span data-strong=\"H7891\">אָשִׁ֥ירָה</span> <span data-strong=\"H2167\">וַ֝אֲזַמְּרָ֗ה</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "ve'atah yarvm ro'shiy 'al 'oyevay seviyvvotay ve'ezevehah ve'oholvo zivehey terv'ah 'ashiyrah va'azamerah layhovah.",
     "translation": "E agora exaltarei minha cabeça acima dos meus inimigos que estão ao redor; na tenda farei sacrifícios de júbilo; cantarei e louvarei ao Senhor."
   },
   {
     "verse": 7,
-    "original": "שְׁמַע־יְהֹוָ֖ה קוֹלִ֥י אֶקְרָ֗א וְחׇנֵּ֥נִי וַעֲנֵֽנִי׃",
+    "original": "<span data-strong=\"H8085\">שְׁמַע</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2967\">קוֹלִ֥י</span> <span data-strong=\"H7121\">אֶקְרָ֗א</span> <span data-strong=\"H5204\">וְחׇנֵּ֥נִי</span> <span data-strong=\"H5204\">וַעֲנֵֽנִי׃</span>",
     "transliteration": "shema'-yehovah kvoliy 'ekera' vehoneniy va'aneniy.",
     "translation": "Ouve-me, Senhor; atende à minha voz. Eis a minha súplica: tem misericórdia e responde-me."
   },
   {
     "verse": 8,
-    "original": "לְךָ֤&thinsp;<b>׀</b> אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י אֶת־פָּנֶ֖יךָ יְהֹוָ֣ה אֲבַקֵּֽשׁ׃",
+    "original": "<span data-strong=\"H3509\">לְךָ֤&thinsp;<b>׀</b></span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H2967\">לִ֭בִּי</span> <span data-strong=\"H1245\">בַּקְּשׁ֣וּ</span> <span data-strong=\"H2967\">פָנָ֑י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">פָּנֶ֖יךָ</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H1245\">אֲבַקֵּֽשׁ׃</span>",
     "transliteration": "lekha&thinsp;<b>|</b> 'amar liviy vakeshv fanay 'et-faneykha yehovah 'avakesh.",
     "translation": "A ti, meu coração disse: busca o teu rosto. A tua face, Senhor, buscarei."
   },
   {
     "verse": 9,
-    "original": "אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ&thinsp;<b>׀</b> מִמֶּנִּי֮ אַ֥ל תַּט־בְּאַ֗ף עַ֫בְדֶּ֥ךָ עֶזְרָתִ֥י הָיִ֑יתָ אַֽל־תִּטְּשֵׁ֥נִי וְאַל־תַּ֝עַזְבֵ֗נִי אֱלֹהֵ֥י יִשְׁעִֽי׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5641\">תַּסְתֵּ֬ר</span> <span data-strong=\"H3509\">פָּנֶ֨יךָ&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">מִמֶּנִּי֮</span> <span data-strong=\"H408\">אַ֥ל</span> <span data-strong=\"H5186\">תַּט</span>־<span data-strong=\"H639\">בְּאַ֗ף</span> <span data-strong=\"H3509\">עַ֫בְדֶּ֥ךָ</span> <span data-strong=\"H2967\">עֶזְרָתִ֥י</span> <span data-strong=\"H1961\">הָיִ֑יתָ</span> <span data-strong=\"H408\">אַֽל</span>־<span data-strong=\"H5204\">תִּטְּשֵׁ֥נִי</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H5204\">תַּ֝עַזְבֵ֗נִי</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H2967\">יִשְׁעִֽי׃</span>",
     "transliteration": "'al-taseter faneykha&thinsp;<b>|</b> mimeniy 'al tat-ve'af 'avedekha 'ezeratiy hayiyta 'al-titesheniy ve'al-ta'azeveniy 'elohey yishe'iy.",
     "translation": "Não escondas teu rosto de mim, não me rejeites com ira; tu és meu auxílio. Não me abandones nem me desampares, ó Deus da minha salvação."
   },
   {
     "verse": 10,
-    "original": "כִּֽי־אָבִ֣י וְאִמִּ֣י עֲזָב֑וּנִי וַֽיהֹוָ֣ה יַאַסְפֵֽנִי׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2967\">אָבִ֣י</span> <span data-strong=\"H2967\">וְאִמִּ֣י</span> <span data-strong=\"H5204\">עֲזָב֑וּנִי</span> <span data-strong=\"H3068\">וַֽיהֹוָ֣ה</span> <span data-strong=\"H5204\">יַאַסְפֵֽנִי׃</span>",
     "transliteration": "khiy-'aviy ve'imiy 'azavvniy vayhovah ya'asefeniy.",
     "translation": "Pois meu pai e minha mãe me abandonaram, mas o Senhor me tomou para si."
   },
   {
     "verse": 11,
-    "original": "ה֤וֹרֵ֥נִי יְהֹוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שֽׁוֹרְרָֽי׃",
+    "original": "<span data-strong=\"H5204\">ה֤וֹרֵ֥נִי</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H3509\">דַּ֫רְכֶּ֥ךָ</span> <span data-strong=\"H5204\">וּ֭נְחֵנִי</span> <span data-strong=\"H734\">בְּאֹ֣רַח</span> <span data-strong=\"H4334\">מִישׁ֑וֹר</span> <span data-strong=\"H4616\">לְ֝מַ֗עַן</span> <span data-strong=\"H2967\">שֽׁוֹרְרָֽי׃</span>",
     "transliteration": "hvoreniy yehovah darekhekha vneheniy ve'orah miyshvor lema'an shvoreray.",
     "translation": "Ensina-me, Senhor, o teu caminho e guia-me no caminho reto por amor dos meus inimigos."
   },
   {
     "verse": 12,
-    "original": "אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָמוּ־בִ֥י עֵדֵי־שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃",
+    "original": "<span data-strong=\"H408\">אַֽל</span>־<span data-strong=\"H5204\">תִּ֭תְּנֵנִי</span> <span data-strong=\"H5315\">בְּנֶ֣פֶשׁ</span> <span data-strong=\"H2967\">צָרָ֑י</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H6965\">קָמוּ</span>־<span data-strong=\"H2967\">בִ֥י</span> <span data-strong=\"H5707\">עֵדֵי</span>־<span data-strong=\"H8267\">שֶׁ֝֗קֶר</span> <span data-strong=\"H3307\">וִיפֵ֥חַ</span> <span data-strong=\"H2555\">חָמָֽס׃</span>",
     "transliteration": "'al-titeneniy venefesh tsaray khiy kamv-viy 'edey-sheker viyfeha hamas.",
     "translation": "Não me entregues à minha alma aos meus inimigos, pois se levantaram contra mim testemunhas de mentira e falam com violência."
   },
   {
     "verse": 13,
-    "original": "לׅׄוּׅׄלֵׅ֗ׄאׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהֹוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃",
+    "original": "<span data-strong=\"H3884\">לׅׄוּׅׄלֵׅ֗ׄאׅׄ</span> <span data-strong=\"H539\">הֶ֭אֱמַנְתִּי</span> <span data-strong=\"H7200\">לִרְא֥וֹת</span> <span data-strong=\"H2898\">בְּֽטוּב</span>־<span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "l``v``le``'`` he'emanetiy lire'vot vetvv-yehovah ve'erets hayiym.",
     "translation": "Nele confiei para ver na bondade do Senhor, na terra dos vivos."
   },

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַתְּדַבֵּ֨ר מִרְיָ֤ם וְאַהֲרֹן֙ בְּמֹשֶׁ֔ה עַל־אֹד֛וֹת הָאִשָּׁ֥ה הַכֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח כִּֽי־אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח׃",
+    "original": "<span data-strong=\"H1696\">וַתְּדַבֵּ֨ר</span> <span data-strong=\"H4813\">מִרְיָ֤ם</span> <span data-strong=\"H175\">וְאַהֲרֹן֙</span> <span data-strong=\"H4872\">בְּמֹשֶׁ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H182\">אֹד֛וֹת</span> <span data-strong=\"H802\">הָאִשָּׁ֥ה</span> <span data-strong=\"H3569\">הַכֻּשִׁ֖ית</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3947\">לָקָ֑ח</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H802\">אִשָּׁ֥ה</span> <span data-strong=\"H3569\">כֻשִׁ֖ית</span> <span data-strong=\"H3947\">לָקָֽח׃</span>",
     "transliteration": "vatedaver mireyam ve'aharon vemosheh 'al-'odvot ha'ishah hakhushiyt 'asher lakah khiy-'ishah khushiyt lakah.",
     "translation": "E Miriã e Aarão falaram contra Moisés por causa da cushita que ele tomou como mulher, pois havia tomado uma mulher cushita."
   },
   {
     "verse": 2,
-    "original": "וַיֹּאמְר֗וּ הֲרַ֤ק אַךְ־בְּמֹשֶׁה֙ דִּבֶּ֣ר יְהֹוָ֔ה הֲלֹ֖א גַּם־בָּ֣נוּ דִבֵּ֑ר וַיִּשְׁמַ֖ע יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמְר֗וּ</span> <span data-strong=\"H7535\">הֲרַ֤ק</span> <span data-strong=\"H389\">אַךְ</span>־<span data-strong=\"H4872\">בְּמֹשֶׁה֙</span> <span data-strong=\"H1696\">דִּבֶּ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3808\">הֲלֹ֖א</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H5105\">בָּ֣נוּ</span> <span data-strong=\"H1696\">דִבֵּ֑ר</span> <span data-strong=\"H8085\">וַיִּשְׁמַ֖ע</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayo'merv harak 'akhe-vemosheh diver yehovah halo' gam-vanv diver vayishema' yehovah.",
     "translation": "Eles disseram: Acaso somente com Moisés falou o Senhor? Não falou também conosco? E o Senhor ouviu."
   },
@@ -19,55 +19,55 @@
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה פִּתְאֹ֗ם אֶל־מֹשֶׁ֤ה וְאֶֽל־אַהֲרֹן֙ וְאֶל־מִרְיָ֔ם צְא֥וּ שְׁלׇשְׁתְּכֶ֖ם אֶל־אֹ֣הֶל מוֹעֵ֑ד וַיֵּצְא֖וּ שְׁלׇשְׁתָּֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H6597\">פִּתְאֹ֗ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֤ה</span> <span data-strong=\"H413\">וְאֶֽל</span>־<span data-strong=\"H175\">אַהֲרֹן֙</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H4813\">מִרְיָ֔ם</span> <span data-strong=\"H3318\">צְא֥וּ</span> <span data-strong=\"H3641\">שְׁלׇשְׁתְּכֶ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H168\">אֹ֣הֶל</span> <span data-strong=\"H4150\">מוֹעֵ֑ד</span> <span data-strong=\"H3318\">וַיֵּצְא֖וּ</span> <span data-strong=\"H3963\">שְׁלׇשְׁתָּֽם׃</span>",
     "transliteration": "vayo'mer yehovah fite'om 'el-mosheh ve'el-'aharon ve'el-mireyam tse'v sheloshetekhem 'el-'ohel mvo'ed vayetse'v sheloshetam.",
     "translation": "E disse o Senhor repentinamente a Moisés e a Aarão e a Miriã: \"Ide vós três para a tenda da congregação\". E saíram os três."
   },
   {
     "verse": 5,
-    "original": "וַיֵּ֤רֶד יְהֹוָה֙ בְּעַמּ֣וּד עָנָ֔ן וַֽיַּעֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וַיִּקְרָא֙ אַהֲרֹ֣ן וּמִרְיָ֔ם וַיֵּצְא֖וּ שְׁנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3381\">וַיֵּ֤רֶד</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H5982\">בְּעַמּ֣וּד</span> <span data-strong=\"H6051\">עָנָ֔ן</span> <span data-strong=\"H5975\">וַֽיַּעֲמֹ֖ד</span> <span data-strong=\"H6607\">פֶּ֣תַח</span> <span data-strong=\"H168\">הָאֹ֑הֶל</span> <span data-strong=\"H7121\">וַיִּקְרָא֙</span> <span data-strong=\"H175\">אַהֲרֹ֣ן</span> <span data-strong=\"H4813\">וּמִרְיָ֔ם</span> <span data-strong=\"H3318\">וַיֵּצְא֖וּ</span> <span data-strong=\"H3963\">שְׁנֵיהֶֽם׃</span>",
     "transliteration": "vayered yehovah ve'amvd 'anan vaya'amod fetah ha'ohel vayikera' 'aharon vmireyam vayetse'v sheneyhem.",
     "translation": "E desceu o Senhor em coluna de nuvem e tomou posição à entrada da tenda; chamou Aarão e Miriã, os quais saíram ambos."
   },
   {
     "verse": 6,
-    "original": "וַיֹּ֖אמֶר שִׁמְעוּ־נָ֣א דְבָרָ֑י אִם־יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהֹוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר־בּֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֖אמֶר</span> <span data-strong=\"H8085\">שִׁמְעוּ</span>־<span data-strong=\"H4994\">נָ֣א</span> <span data-strong=\"H2967\">דְבָרָ֑י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H1961\">יִֽהְיֶה֙</span> <span data-strong=\"H3641\">נְבִ֣יאֲכֶ֔ם</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H4759\">בַּמַּרְאָה֙</span> <span data-strong=\"H2050\">אֵלָ֣יו</span> <span data-strong=\"H3045\">אֶתְוַדָּ֔ע</span> <span data-strong=\"H2472\">בַּחֲל֖וֹם</span> <span data-strong=\"H1696\">אֲדַבֶּר</span>־<span data-strong=\"H2050\">בּֽוֹ׃</span>",
     "transliteration": "vayo'mer shime'v-na' devaray 'im-yiheyeh neviy'akhem yehovah vamare'ah 'elayv 'etevada' vahalvom 'adaver-vvo.",
     "translation": "E disse: Ouvi agora as minhas palavras; se houver entre vós profeta, no visível aparecerei a ele; em sonho falarei com ele."
   },
   {
     "verse": 7,
-    "original": "לֹא־כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכׇל־בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3651\">כֵ֖ן</span> <span data-strong=\"H2967\">עַבְדִּ֣י</span> <span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H2967\">בֵּיתִ֖י</span> <span data-strong=\"H539\">נֶאֱמָ֥ן</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "lo'-khen 'avediy mosheh vekhol-veytiy ne'eman hv'.",
     "translation": "Não assim é meu servo Moisés, nele confio inteiramente em toda a minha casa."
   },
   {
     "verse": 8,
-    "original": "פֶּ֣ה אֶל־פֶּ֞ה אֲדַבֶּר־בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהֹוָ֖ה יַבִּ֑יט וּמַדּ֙וּעַ֙ לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H6310\">פֶּ֣ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6310\">פֶּ֞ה</span> <span data-strong=\"H1696\">אֲדַבֶּר</span>־<span data-strong=\"H2050\">בּ֗וֹ</span> <span data-strong=\"H4758\">וּמַרְאֶה֙</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H2420\">בְחִידֹ֔ת</span> <span data-strong=\"H8544\">וּתְמֻנַ֥ת</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5027\">יַבִּ֑יט</span> <span data-strong=\"H4069\">וּמַדּ֙וּעַ֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H3372\">יְרֵאתֶ֔ם</span> <span data-strong=\"H1696\">לְדַבֵּ֖ר</span> <span data-strong=\"H2967\">בְּעַבְדִּ֥י</span> <span data-strong=\"H4872\">בְמֹשֶֽׁה׃</span>",
     "transliteration": "feh 'el-feh 'adaver-vvo vmare'eh velo' vehiydot vtemunat yehovah yaviyt vmadv'a lo' yere'tem ledaver ve'avediy vemosheh.",
     "translation": "Boca a boca nele falarei, e visão e não em enigmas; na imagem do Senhor ele contemplará. Por que então não temeis falar no meu servo Moisés?"
   },
   {
     "verse": 9,
-    "original": "וַיִּֽחַר־אַ֧ף יְהֹוָ֛ה בָּ֖ם וַיֵּלַֽךְ׃",
+    "original": "<span data-strong=\"H2734\">וַיִּֽחַר</span>־<span data-strong=\"H639\">אַ֧ף</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3963\">בָּ֖ם</span> <span data-strong=\"H1980\">וַיֵּלַֽךְ׃</span>",
     "transliteration": "vayihar-'af yehovah vam vayelakhe.",
     "translation": "E a ira do Senhor se acendeu contra eles, e ele partiu."
   },
   {
     "verse": 10,
-    "original": "וְהֶעָנָ֗ן סָ֚ר מֵעַ֣ל הָאֹ֔הֶל וְהִנֵּ֥ה מִרְיָ֖ם מְצֹרַ֣עַת כַּשָּׁ֑לֶג וַיִּ֧פֶן אַהֲרֹ֛ן אֶל־מִרְיָ֖ם וְהִנֵּ֥ה מְצֹרָֽעַת׃",
+    "original": "<span data-strong=\"H6051\">וְהֶעָנָ֗ן</span> <span data-strong=\"H5493\">סָ֚ר</span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H168\">הָאֹ֔הֶל</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H4813\">מִרְיָ֖ם</span> <span data-strong=\"H6879\">מְצֹרַ֣עַת</span> <span data-strong=\"H7950\">כַּשָּׁ֑לֶג</span> <span data-strong=\"H6437\">וַיִּ֧פֶן</span> <span data-strong=\"H175\">אַהֲרֹ֛ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4813\">מִרְיָ֖ם</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H6879\">מְצֹרָֽעַת׃</span>",
     "transliteration": "vehe'anan sar me'al ha'ohel vehineh mireyam metsora'at khashaleg vayifen 'aharon 'el-mireyam vehineh metsora'at.",
     "translation": "E a nuvem se retirou do sobre o Tabernáculo, e eis que Miriã estava leprosa como a neve. Então Aarão olhou para Miriã, e eis que era leprosa."
   },
   {
     "verse": 11,
-    "original": "וַיֹּ֥אמֶר אַהֲרֹ֖ן אֶל־מֹשֶׁ֑ה בִּ֣י אֲדֹנִ֔י אַל־נָ֨א תָשֵׁ֤ת עָלֵ֙ינוּ֙ חַטָּ֔את אֲשֶׁ֥ר נוֹאַ֖לְנוּ וַאֲשֶׁ֥ר חָטָֽאנוּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H175\">אַהֲרֹ֖ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H994\">בִּ֣י</span> <span data-strong=\"H2967\">אֲדֹנִ֔י</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H4994\">נָ֨א</span> <span data-strong=\"H7896\">תָשֵׁ֤ת</span> <span data-strong=\"H5105\">עָלֵ֙ינוּ֙</span> <span data-strong=\"H2403\">חַטָּ֔את</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2973\">נוֹאַ֖לְנוּ</span> <span data-strong=\"H834\">וַאֲשֶׁ֥ר</span> <span data-strong=\"H2398\">חָטָֽאנוּ׃</span>",
     "transliteration": "vayo'mer 'aharon 'el-mosheh viy 'adoniy 'al-na' tashet 'aleynv hata't 'asher nvo'alenv va'asher hata'nv.",
     "translation": "E disse Arão a Moisés: Ah, meu senhor, não imponhas sobre nós pecado; pois nos transgresemos e pecamos."
   },
   {
     "verse": 12,
-    "original": "אַל־נָ֥א תְהִ֖י כַּמֵּ֑ת אֲשֶׁ֤ר בְּצֵאתוֹ֙ מֵרֶ֣חֶם אִמּ֔וֹ וַיֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֽוֹ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H4994\">נָ֥א</span> <span data-strong=\"H1961\">תְהִ֖י</span> <span data-strong=\"H4191\">כַּמֵּ֑ת</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H2050\">בְּצֵאתוֹ֙</span> <span data-strong=\"H7358\">מֵרֶ֣חֶם</span> <span data-strong=\"H2050\">אִמּ֔וֹ</span> <span data-strong=\"H398\">וַיֵּאָכֵ֖ל</span> <span data-strong=\"H2677\">חֲצִ֥י</span> <span data-strong=\"H2050\">בְשָׂרֽוֹ׃</span>",
     "transliteration": "'al-na' tehiy khamet 'asher vetse'tvo merehem 'imvo vaye'akhel hatsiy vesarvo.",
     "translation": "Não seja como o morto, que ao sair do ventre de sua mãe é consumida metade de sua carne."
   },
@@ -79,13 +79,13 @@
   },
   {
     "verse": 14,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה וְאָבִ֙יהָ֙ יָרֹ֤ק יָרַק֙ בְּפָנֶ֔יהָ הֲלֹ֥א תִכָּלֵ֖ם שִׁבְעַ֣ת יָמִ֑ים תִּסָּגֵ֞ר שִׁבְעַ֤ת יָמִים֙ מִח֣וּץ לַֽמַּחֲנֶ֔ה וְאַחַ֖ר תֵּאָסֵֽף׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H1886\">וְאָבִ֙יהָ֙</span> <span data-strong=\"H3417\">יָרֹ֤ק</span> <span data-strong=\"H3417\">יָרַק֙</span> <span data-strong=\"H1886\">בְּפָנֶ֔יהָ</span> <span data-strong=\"H3808\">הֲלֹ֥א</span> <span data-strong=\"H3637\">תִכָּלֵ֖ם</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H5462\">תִּסָּגֵ֞ר</span> <span data-strong=\"H7651\">שִׁבְעַ֤ת</span> <span data-strong=\"H3117\">יָמִים֙</span> <span data-strong=\"H2351\">מִח֣וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶ֔ה</span> <span data-strong=\"H310\">וְאַחַ֖ר</span> <span data-strong=\"H622\">תֵּאָסֵֽף׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh ve'aviyha yarok yarak vefaneyha halo' tikhalem shive'at yamiym tisager shive'at yamiym mihvts lamahaneh ve'ahar te'asef.",
     "translation": "E disse o Senhor a Moisés: E se seu pai lhe cuspir na face, porá ela sete dias coberta; fora do arraial permanecerá sete dias, e depois será recebida."
   },
   {
     "verse": 15,
-    "original": "וַתִּסָּגֵ֥ר מִרְיָ֛ם מִח֥וּץ לַֽמַּחֲנֶ֖ה שִׁבְעַ֣ת יָמִ֑ים וְהָעָם֙ לֹ֣א נָסַ֔ע עַד־הֵאָסֵ֖ף מִרְיָֽם׃",
+    "original": "<span data-strong=\"H5462\">וַתִּסָּגֵ֥ר</span> <span data-strong=\"H4813\">מִרְיָ֛ם</span> <span data-strong=\"H2351\">מִח֥וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶ֖ה</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H5971\">וְהָעָם֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5265\">נָסַ֔ע</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H622\">הֵאָסֵ֖ף</span> <span data-strong=\"H4813\">מִרְיָֽם׃</span>",
     "transliteration": "vatisager mireyam mihvts lamahaneh shive'at yamiym veha'am lo' nasa' 'ad-he'asef mireyam.",
     "translation": "E Miriã permaneceu isolada fora do acampamento durante sete dias, e o povo não partiu até que ela fosse reintegrada."
   },

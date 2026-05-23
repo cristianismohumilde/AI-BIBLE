@@ -7,55 +7,55 @@
   },
   {
     "verse": 2,
-    "original": "שׁ֚וּבָה יִשְׂרָאֵ֔ל עַ֖ד יְהֹוָ֣ה אֱלֹהֶ֑יךָ כִּ֥י כָשַׁ֖לְתָּ בַּעֲוֺנֶֽךָ׃",
+    "original": "<span data-strong=\"H1886\">שׁ֚וּבָה</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑יךָ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H3782\">כָשַׁ֖לְתָּ</span> <span data-strong=\"H3509\">בַּעֲוֺנֶֽךָ׃</span>",
     "transliteration": "shvvah yisera'el 'ad yehovah 'eloheykha khiy khashaleta va'avonekha.",
     "translation": "Volta, Israel, para o Senhor teu Deus, pois tropeçaste na tua iniquidade."
   },
   {
     "verse": 3,
-    "original": "קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהֹוָ֑ה אִמְר֣וּ אֵלָ֗יו כׇּל־תִּשָּׂ֤א עָוֺן֙ וְקַח־ט֔וֹב וּֽנְשַׁלְּמָ֥ה פָרִ֖ים שְׂפָתֵֽינוּ׃",
+    "original": "<span data-strong=\"H3947\">קְח֤וּ</span> <span data-strong=\"H3641\">עִמָּכֶם֙</span> <span data-strong=\"H1697\">דְּבָרִ֔ים</span> <span data-strong=\"H7725\">וְשׁ֖וּבוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H559\">אִמְר֣וּ</span> <span data-strong=\"H2050\">אֵלָ֗יו</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5375\">תִּשָּׂ֤א</span> <span data-strong=\"H5771\">עָוֺן֙</span> <span data-strong=\"H3947\">וְקַח</span>־<span data-strong=\"H2896\">ט֔וֹב</span> <span data-strong=\"H7999\">וּֽנְשַׁלְּמָ֥ה</span> <span data-strong=\"H6499\">פָרִ֖ים</span> <span data-strong=\"H5105\">שְׂפָתֵֽינוּ׃</span>",
     "transliteration": "kehv 'imakhem devariym veshvvv 'el-yehovah 'imerv 'elayv khol-tisa' 'avon vekah-tvov vneshalemah fariym sefateynv.",
     "translation": "Levem palavras e voltem para o Senhor; digam-lhe: Toda ofensa tu perdoas e aceitas o que é bom; nossos lábios pagarão por novilhos."
   },
   {
     "verse": 4,
-    "original": "אַשּׁ֣וּר&thinsp;<b>׀</b> לֹ֣א יוֹשִׁיעֵ֗נוּ עַל־סוּס֙ לֹ֣א נִרְכָּ֔ב וְלֹא־נֹ֥אמַר ע֛וֹד אֱלֹהֵ֖ינוּ לְמַעֲשֵׂ֣ה יָדֵ֑ינוּ אֲשֶׁר־בְּךָ֖ יְרֻחַ֥ם יָתֽוֹם׃",
+    "original": "<span data-strong=\"H804\">אַשּׁ֣וּר&thinsp;<b>׀</b></span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">יוֹשִׁיעֵ֗נוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5483\">סוּס֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H7392\">נִרְכָּ֔ב</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H559\">נֹ֥אמַר</span> <span data-strong=\"H5750\">ע֛וֹד</span> <span data-strong=\"H5105\">אֱלֹהֵ֖ינוּ</span> <span data-strong=\"H4639\">לְמַעֲשֵׂ֣ה</span> <span data-strong=\"H5105\">יָדֵ֑ינוּ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3509\">בְּךָ֖</span> <span data-strong=\"H7355\">יְרֻחַ֥ם</span> <span data-strong=\"H3490\">יָתֽוֹם׃</span>",
     "transliteration": "'ashvr&thinsp;<b>|</b> lo' yvoshiy'env 'al-svs lo' nirekhav velo'-no'mar 'vod 'eloheynv lema'aseh yadeynv 'asher-vekha yeruham yatvom.",
     "translation": "Assur não nos salvará, sobre o cavalo não montaremos e não diremos mais: “Deus nosso é obra das nossas mãos; em ti será Misericórdia para órfão.”"
   },
   {
     "verse": 5,
-    "original": "אֶרְפָּא֙ מְשׁ֣וּבָתָ֔ם אֹהֲבֵ֖ם נְדָבָ֑ה כִּ֛י שָׁ֥ב אַפִּ֖י מִמֶּֽנּוּ׃",
+    "original": "<span data-strong=\"H7495\">אֶרְפָּא֙</span> <span data-strong=\"H3963\">מְשׁ֣וּבָתָ֔ם</span> <span data-strong=\"H3963\">אֹהֲבֵ֖ם</span> <span data-strong=\"H5071\">נְדָבָ֑ה</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H7725\">שָׁ֥ב</span> <span data-strong=\"H2967\">אַפִּ֖י</span> <span data-strong=\"H5105\">מִמֶּֽנּוּ׃</span>",
     "transliteration": "'erefa' meshvvatam 'ohavem nedavah khiy shav 'afiy mimenv.",
     "translation": "Curarei sua volta; amá-los com generosidade, pois minha ira se apartou dele."
   },
   {
     "verse": 6,
-    "original": "אֶהְיֶ֤ה כַטַּל֙ לְיִשְׂרָאֵ֔ל יִפְרַ֖ח כַּשּׁוֹשַׁנָּ֑ה וְיַ֥ךְ שׇׁרָשָׁ֖יו כַּלְּבָנֽוֹן׃",
+    "original": "<span data-strong=\"H1961\">אֶהְיֶ֤ה</span> <span data-strong=\"H2919\">כַטַּל֙</span> <span data-strong=\"H3478\">לְיִשְׂרָאֵ֔ל</span> <span data-strong=\"H6524\">יִפְרַ֖ח</span> <span data-strong=\"H7799\">כַּשּׁוֹשַׁנָּ֑ה</span> <span data-strong=\"H5221\">וְיַ֥ךְ</span> <span data-strong=\"H2050\">שׇׁרָשָׁ֖יו</span> <span data-strong=\"H3844\">כַּלְּבָנֽוֹן׃</span>",
     "transliteration": "'eheyeh khatal leyisera'el yiferah khashvoshanah veyakhe shorashayv khalevanvon.",
     "translation": "Serei como o orvalho para Israel; ele florescerá como a shoshanah, e dará raízes como no Líbano. \n\nNota: A palavra \"shoshanah\" foi mantida em hebraico pois se refere especificamente à flor do lótus ou da áglutina na tradição bíblica, cuja tradução direta pode não captar completamente o significado teológico e simbólico original."
   },
   {
     "verse": 7,
-    "original": "יֵֽלְכוּ֙ יֹֽנְקוֹתָ֔יו וִיהִ֥י כַזַּ֖יִת הוֹד֑וֹ וְרֵ֥יחַֽ ל֖וֹ כַּלְּבָנֽוֹן׃",
+    "original": "<span data-strong=\"H1980\">יֵֽלְכוּ֙</span> <span data-strong=\"H2050\">יֹֽנְקוֹתָ֔יו</span> <span data-strong=\"H1961\">וִיהִ֥י</span> <span data-strong=\"H2132\">כַזַּ֖יִת</span> <span data-strong=\"H2050\">הוֹד֑וֹ</span> <span data-strong=\"H7381\">וְרֵ֥יחַֽ</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H3844\">כַּלְּבָנֽוֹן׃</span>",
     "transliteration": "yelekhv yonekvotayv viyhiy khazayit hvodvo vereyha lvo khalevanvon.",
     "translation": "Vão, seus filhotes, e seja como o zimbro da glória, e seu perfume será como o de cânfora."
   },
   {
     "verse": 8,
-    "original": "יָשֻׁ֙בוּ֙ יֹשְׁבֵ֣י בְצִלּ֔וֹ יְחַיּ֥וּ דָגָ֖ן וְיִפְרְח֣וּ כַגָּ֑פֶן זִכְר֖וֹ כְּיֵ֥ין לְבָנֽוֹן׃",
+    "original": "<span data-strong=\"H7725\">יָשֻׁ֙בוּ֙</span> <span data-strong=\"H3427\">יֹשְׁבֵ֣י</span> <span data-strong=\"H2050\">בְצִלּ֔וֹ</span> <span data-strong=\"H2421\">יְחַיּ֥וּ</span> <span data-strong=\"H1715\">דָגָ֖ן</span> <span data-strong=\"H6524\">וְיִפְרְח֣וּ</span> <span data-strong=\"H1612\">כַגָּ֑פֶן</span> <span data-strong=\"H2050\">זִכְר֖וֹ</span> <span data-strong=\"H3196\">כְּיֵ֥ין</span> <span data-strong=\"H3844\">לְבָנֽוֹן׃</span>",
     "transliteration": "yashuvv yoshevey vetsilvo yehayv dagan veyiferehv khagafen zikhervo kheyeyn levanvon.",
     "translation": "Voltem os habitantes de sua sombra; vivifiquem o trigo e floresçam como a vide, seu memorial será como o vinho de Líbano."
   },
   {
     "verse": 9,
-    "original": "אֶפְרַ֕יִם מַה־לִּ֥י ע֖וֹד לָעֲצַבִּ֑ים אֲנִ֧י עָנִ֣יתִי וַאֲשׁוּרֶ֗נּוּ אֲנִי֙ כִּבְר֣וֹשׁ רַעֲנָ֔ן מִמֶּ֖נִּי פֶּרְיְךָ֥ נִמְצָֽא׃",
+    "original": "<span data-strong=\"H669\">אֶפְרַ֕יִם</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H2967\">לִּ֥י</span> <span data-strong=\"H5750\">ע֖וֹד</span> <span data-strong=\"H6091\">לָעֲצַבִּ֑ים</span> <span data-strong=\"H589\">אֲנִ֧י</span> <span data-strong=\"H6030\">עָנִ֣יתִי</span> <span data-strong=\"H5105\">וַאֲשׁוּרֶ֗נּוּ</span> <span data-strong=\"H589\">אֲנִי֙</span> <span data-strong=\"H1265\">כִּבְר֣וֹשׁ</span> <span data-strong=\"H7488\">רַעֲנָ֔ן</span> <span data-strong=\"H2967\">מִמֶּ֖נִּי</span> <span data-strong=\"H3509\">פֶּרְיְךָ֥</span> <span data-strong=\"H4672\">נִמְצָֽא׃</span>",
     "transliteration": "'eferayim mah-liy 'vod la'atsaviym 'aniy 'aniytiy va'ashvrenv 'aniy khivervosh ra'anan mimeniy fereyekha nimetsa'.",
     "translation": "Efraim, que mais tenho eu com ídolos? Eu o castiguei e o ensinei; ele é como um freixo verde, de seus frutos se encontrará proveito."
   },
   {
     "verse": 10,
-    "original": "מִ֤י חָכָם֙ וְיָ֣בֵֽן אֵ֔לֶּה נָב֖וֹן וְיֵדָעֵ֑ם כִּֽי־יְשָׁרִ֞ים דַּרְכֵ֣י יְהֹוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃",
+    "original": "<span data-strong=\"H4310\">מִ֤י</span> <span data-strong=\"H2450\">חָכָם֙</span> <span data-strong=\"H995\">וְיָ֣בֵֽן</span> <span data-strong=\"H428\">אֵ֔לֶּה</span> <span data-strong=\"H995\">נָב֖וֹן</span> <span data-strong=\"H3963\">וְיֵדָעֵ֑ם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3477\">יְשָׁרִ֞ים</span> <span data-strong=\"H1870\">דַּרְכֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H6662\">וְצַדִּקִים֙</span> <span data-strong=\"H1980\">יֵ֣לְכוּ</span> <span data-strong=\"H3963\">בָ֔ם</span> <span data-strong=\"H6586\">וּפֹשְׁעִ֖ים</span> <span data-strong=\"H3782\">יִכָּ֥שְׁלוּ</span> <span data-strong=\"H3963\">בָֽם׃</span>",
     "transliteration": "miy hakham veyaven 'eleh navvon veyeda'em khiy-yeshariym darekhey yehovah vetsadikiym yelekhv vam vfoshe'iym yikhashelv vam.",
     "translation": "Quem é sábio e entenderá isso? Quem tem entendimento compreenderá. Pois retos são os caminhos do Senhor; os justos neles andarão, mas os transgressores neles tropeçarão."
   }

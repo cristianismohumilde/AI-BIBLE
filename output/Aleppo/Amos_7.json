@@ -1,31 +1,31 @@
 [
   {
     "verse": 1,
-    "original": "כֹּ֤ה הִרְאַ֙נִי֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהִנֵּה֙ יוֹצֵ֣ר גֹּבַ֔י בִּתְחִלַּ֖ת עֲל֣וֹת הַלָּ֑קֶשׁ וְהִ֨נֵּה־לֶ֔קֶשׁ אַחַ֖ר גִּזֵּ֥י הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H5204\">הִרְאַ֙נִי֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H2009\">וְהִנֵּה֙</span> <span data-strong=\"H3335\">יוֹצֵ֣ר</span> <span data-strong=\"H1462\">גֹּבַ֔י</span> <span data-strong=\"H8462\">בִּתְחִלַּ֖ת</span> <span data-strong=\"H5927\">עֲל֣וֹת</span> <span data-strong=\"H3954\">הַלָּ֑קֶשׁ</span> <span data-strong=\"H2009\">וְהִ֨נֵּה</span>־<span data-strong=\"H3954\">לֶ֔קֶשׁ</span> <span data-strong=\"H310\">אַחַ֖ר</span> <span data-strong=\"H1488\">גִּזֵּ֥י</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "khoh hire'aniy 'adonay yehovih vehineh yvotser govay vitehilat 'alvot halakesh vehineh-lekesh 'ahar gizey hamelekhe.",
     "translation": "Assim me mostrou o Senhor Deus: eis que formava armilhas no início da colheita do linho, e eis o linho depois do corte do rei."
   },
   {
     "verse": 2,
-    "original": "וְהָיָ֗ה אִם־כִּלָּה֙ לֶֽאֱכוֹל֙ אֶת־עֵ֣שֶׂב הָאָ֔רֶץ וָֽאֹמַ֗ר אֲדֹנָ֤י יֱהֹוִה֙ סְֽלַֽח־נָ֔א מִ֥י יָק֖וּם יַעֲקֹ֑ב כִּ֥י קָטֹ֖ן הֽוּא׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֗ה</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3615\">כִּלָּה֙</span> <span data-strong=\"H398\">לֶֽאֱכוֹל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6212\">עֵ֣שֶׂב</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H559\">וָֽאֹמַ֗ר</span> <span data-strong=\"H2967\">אֲדֹנָ֤י</span> <span data-strong=\"H3069\">יֱהֹוִה֙</span> <span data-strong=\"H5545\">סְֽלַֽח</span>־<span data-strong=\"H4994\">נָ֔א</span> <span data-strong=\"H4310\">מִ֥י</span> <span data-strong=\"H6965\">יָק֖וּם</span> <span data-strong=\"H3290\">יַעֲקֹ֑ב</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H6996\">קָטֹ֖ן</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "vehayah 'im-khilah le'ekhvol 'et-'esev ha'arets va'omar 'adonay yehovih selah-na' miy yakvm ya'akov khiy katon hv'.",
     "translation": "E acontecerá que, se consumir a forragem da terra, direi: Senhor Yahweh, perdoa-lhe; por quem se levantará Jacó, pois ele é pequeno?"
   },
   {
     "verse": 3,
-    "original": "נִחַ֥ם יְהֹוָ֖ה עַל־זֹ֑את לֹ֥א תִֽהְיֶ֖ה אָמַ֥ר יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H5162\">נִחַ֥ם</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2063\">זֹ֑את</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H1961\">תִֽהְיֶ֖ה</span> <span data-strong=\"H559\">אָמַ֥ר</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "niham yehovah 'al-zo't lo' tiheyeh 'amar yehovah.",
     "translation": "Consolar-se-á o Senhor com isso; não acontecerá, diz o Senhor."
   },
   {
     "verse": 4,
-    "original": "כֹּ֤ה הִרְאַ֙נִי֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהִנֵּ֥ה קֹרֵ֛א לָרִ֥ב בָּאֵ֖שׁ אֲדֹנָ֣י יֱהֹוִ֑ה וַתֹּ֙אכַל֙ אֶת־תְּה֣וֹם רַבָּ֔ה וְאָכְלָ֖ה אֶת־הַחֵֽלֶק׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H5204\">הִרְאַ֙נִי֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H2009\">וְהִנֵּ֥ה</span> <span data-strong=\"H7121\">קֹרֵ֛א</span> <span data-strong=\"H7378\">לָרִ֥ב</span> <span data-strong=\"H784\">בָּאֵ֖שׁ</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֑ה</span> <span data-strong=\"H398\">וַתֹּ֙אכַל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8415\">תְּה֣וֹם</span> <span data-strong=\"H7227\">רַבָּ֔ה</span> <span data-strong=\"H398\">וְאָכְלָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2506\">הַחֵֽלֶק׃</span>",
     "transliteration": "khoh hire'aniy 'adonay yehovih vehineh kore' lariv va'esh 'adonay yehovih vato'khal 'et-tehvom ravah ve'akhelah 'et-hahelek.",
     "translation": "Assim me mostrou o Senhor Deus; eis que ele convocava com fogo o juiz, o Senhor Deus, e a chama consumia o abismo profundo e devorava a porção."
   },
   {
     "verse": 5,
-    "original": "וָאֹמַ֗ר אֲדֹנָ֤י יֱהֹוִה֙ חֲדַל־נָ֔א מִ֥י יָק֖וּם יַעֲקֹ֑ב כִּ֥י קָטֹ֖ן הֽוּא׃",
+    "original": "<span data-strong=\"H559\">וָאֹמַ֗ר</span> <span data-strong=\"H2967\">אֲדֹנָ֤י</span> <span data-strong=\"H3069\">יֱהֹוִה֙</span> <span data-strong=\"H2308\">חֲדַל</span>־<span data-strong=\"H4994\">נָ֔א</span> <span data-strong=\"H4310\">מִ֥י</span> <span data-strong=\"H6965\">יָק֖וּם</span> <span data-strong=\"H3290\">יַעֲקֹ֑ב</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H6996\">קָטֹ֖ן</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "va'omar 'adonay yehovih hadal-na' miy yakvm ya'akov khiy katon hv'.",
     "translation": "E disse: Senhor Jehovah, desistai, por favor; como poderá Israel subsistir? Pois ele é pequeno."
   },
@@ -37,13 +37,13 @@
   },
   {
     "verse": 7,
-    "original": "כֹּ֣ה הִרְאַ֔נִי וְהִנֵּ֧ה אֲדֹנָ֛י נִצָּ֖ב עַל־חוֹמַ֣ת אֲנָ֑ךְ וּבְיָד֖וֹ אֲנָֽךְ׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֣ה</span> <span data-strong=\"H5204\">הִרְאַ֔נִי</span> <span data-strong=\"H2009\">וְהִנֵּ֧ה</span> <span data-strong=\"H2967\">אֲדֹנָ֛י</span> <span data-strong=\"H5324\">נִצָּ֖ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2346\">חוֹמַ֣ת</span> <span data-strong=\"H594\">אֲנָ֑ךְ</span> <span data-strong=\"H2050\">וּבְיָד֖וֹ</span> <span data-strong=\"H594\">אֲנָֽךְ׃</span>",
     "transliteration": "khoh hire'aniy vehineh 'adonay nitsav 'al-hvomat 'anakhe vveyadvo 'anakhe.",
     "translation": "Assim me fez ver; eis que o Senhor estava postado sobre a muralha da anca, e na sua mão a anca."
   },
   {
     "verse": 8,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י מָֽה־אַתָּ֤ה רֹאֶה֙ עָמ֔וֹס וָאֹמַ֖ר אֲנָ֑ךְ וַיֹּ֣אמֶר אֲדֹנָ֗י הִנְנִ֨י שָׂ֤ם אֲנָךְ֙ בְּקֶ֙רֶב֙ עַמִּ֣י יִשְׂרָאֵ֔ל לֹא־אוֹסִ֥יף ע֖וֹד עֲב֥וֹר לֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H4100\">מָֽה</span>־<span data-strong=\"H859\">אַתָּ֤ה</span> <span data-strong=\"H7200\">רֹאֶה֙</span> <span data-strong=\"H5986\">עָמ֔וֹס</span> <span data-strong=\"H559\">וָאֹמַ֖ר</span> <span data-strong=\"H594\">אֲנָ֑ךְ</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֲדֹנָ֗י</span> <span data-strong=\"H2967\">הִנְנִ֨י</span> <span data-strong=\"H7760\">שָׂ֤ם</span> <span data-strong=\"H594\">אֲנָךְ֙</span> <span data-strong=\"H7130\">בְּקֶ֙רֶב֙</span> <span data-strong=\"H2967\">עַמִּ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3254\">אוֹסִ֥יף</span> <span data-strong=\"H5750\">ע֖וֹד</span> <span data-strong=\"H5674\">עֲב֥וֹר</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vayo'mer yehovah 'elay mah-'atah ro'eh 'amvos va'omar 'anakhe vayo'mer 'adonay hineniy sam 'anakhe vekerev 'amiy yisera'el lo'-'vosiyf 'vod 'avvor lvo.",
     "translation": "E disse o Senhor a mim: Que vês, Amós? E respondi: Uma figueira verde. Então disse o Senhor: Eis que ponho contigo no meio do meu povo Israel; nunca mais passarei por ele em silêncio."
   },
@@ -55,7 +55,7 @@
   },
   {
     "verse": 10,
-    "original": "וַיִּשְׁלַ֗ח אֲמַצְיָה֙ כֹּהֵ֣ן בֵּֽית־אֵ֔ל אֶל־יָרׇבְעָ֥ם מֶלֶךְ־יִשְׂרָאֵ֖ל לֵאמֹ֑ר קָשַׁ֨ר עָלֶ֜יךָ עָמ֗וֹס בְּקֶ֙רֶב֙ בֵּ֣ית יִשְׂרָאֵ֔ל לֹא־תוּכַ֣ל הָאָ֔רֶץ לְהָכִ֖יל אֶת־כׇּל־דְּבָרָֽיו׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלַ֗ח</span> <span data-strong=\"H558\">אֲמַצְיָה֙</span> <span data-strong=\"H3548\">כֹּהֵ֣ן</span> <span data-strong=\"H1008\">בֵּֽית</span>־<span data-strong=\"H1008\">אֵ֔ל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3379\">יָרׇבְעָ֥ם</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H7194\">קָשַׁ֨ר</span> <span data-strong=\"H3509\">עָלֶ֜יךָ</span> <span data-strong=\"H5986\">עָמ֗וֹס</span> <span data-strong=\"H7130\">בְּקֶ֙רֶב֙</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">תוּכַ֣ל</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H3557\">לְהָכִ֖יל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">דְּבָרָֽיו׃</span>",
     "transliteration": "vayishelah 'amatseyah khohen veyt-'el 'el-yarove'am melekhe-yisera'el le'mor kashar 'aleykha 'amvos vekerev veyt yisera'el lo'-tvkhal ha'arets lehakhiyl 'et-khol-devarayv.",
     "translation": "E Amätzeu, o sacerdote de Beit-El, enviou mensagem a Jeroboão, rei de Israel, dizendo: \"Amos amarrou-se às costas de Israel; a terra não pode suportar todas as suas palavras.\""
   },
@@ -67,31 +67,31 @@
   },
   {
     "verse": 12,
-    "original": "וַיֹּ֤אמֶר אֲמַצְיָה֙ אֶל־עָמ֔וֹס חֹזֶ֕ה לֵ֥ךְ בְּרַח־לְךָ֖ אֶל־אֶ֣רֶץ יְהוּדָ֑ה וֶאֱכׇל־שָׁ֣ם לֶ֔חֶם וְשָׁ֖ם תִּנָּבֵֽא׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H558\">אֲמַצְיָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5986\">עָמ֔וֹס</span> <span data-strong=\"H2374\">חֹזֶ֕ה</span> <span data-strong=\"H1980\">לֵ֥ךְ</span> <span data-strong=\"H1272\">בְּרַח</span>־<span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H398\">וֶאֱכׇל</span>־<span data-strong=\"H8033\">שָׁ֣ם</span> <span data-strong=\"H3899\">לֶ֔חֶם</span> <span data-strong=\"H8033\">וְשָׁ֖ם</span> <span data-strong=\"H5012\">תִּנָּבֵֽא׃</span>",
     "transliteration": "vayo'mer 'amatseyah 'el-'amvos hozeh lekhe verah-lekha 'el-'erets yehvdah ve'ekhol-sham lehem vesham tinave'.",
     "translation": "E Amazias disse a Amós: Profeta, vá embora para a terra de Judá; lá coma o seu pão e lá profetize."
   },
   {
     "verse": 13,
-    "original": "וּבֵֽית־אֵ֔ל לֹא־תוֹסִ֥יף ע֖וֹד לְהִנָּבֵ֑א כִּ֤י מִקְדַּשׁ־מֶ֙לֶךְ֙ ה֔וּא וּבֵ֥ית מַמְלָכָ֖ה הֽוּא׃",
+    "original": "<span data-strong=\"H1008\">וּבֵֽית</span>־<span data-strong=\"H1008\">אֵ֔ל</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3254\">תוֹסִ֥יף</span> <span data-strong=\"H5750\">ע֖וֹד</span> <span data-strong=\"H5012\">לְהִנָּבֵ֑א</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H4720\">מִקְדַּשׁ</span>־<span data-strong=\"H4428\">מֶ֙לֶךְ֙</span> <span data-strong=\"H1931\">ה֔וּא</span> <span data-strong=\"H1004\">וּבֵ֥ית</span> <span data-strong=\"H4467\">מַמְלָכָ֖ה</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "vveyt-'el lo'-tvosiyf 'vod lehinave' khiy mikedash-melekhe hv' vveyt mamelakhah hv'.",
     "translation": "E em Beit-El não se profetizará mais, pois é santuário do rei e casa do reino é ele."
   },
   {
     "verse": 14,
-    "original": "וַיַּ֤עַן עָמוֹס֙ וַיֹּ֣אמֶר אֶל־אֲמַצְיָ֔ה לֹא־נָבִ֣יא אָנֹ֔כִי וְלֹ֥א בֶן־נָבִ֖יא אָנֹ֑כִי כִּי־בוֹקֵ֥ר אָנֹ֖כִי וּבוֹלֵ֥ס שִׁקְמִֽים׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֤עַן</span> <span data-strong=\"H5986\">עָמוֹס֙</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H558\">אֲמַצְיָ֔ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5030\">נָבִ֣יא</span> <span data-strong=\"H595\">אָנֹ֔כִי</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H5030\">נָבִ֖יא</span> <span data-strong=\"H595\">אָנֹ֑כִי</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H951\">בוֹקֵ֥ר</span> <span data-strong=\"H595\">אָנֹ֖כִי</span> <span data-strong=\"H1103\">וּבוֹלֵ֥ס</span> <span data-strong=\"H8256\">שִׁקְמִֽים׃</span>",
     "transliteration": "vaya'an 'amvos vayo'mer 'el-'amatseyah lo'-naviy' 'anokhiy velo' ven-naviy' 'anokhiy khiy-vvoker 'anokhiy vvvoles shikemiym.",
     "translation": "E respondeu Amós e disse a Amasias: Não sou profeta, nem filho de profeta; porém pastor sou eu, e cortador de figos silvestres."
   },
   {
     "verse": 15,
-    "original": "וַיִּקָּחֵ֣נִי יְהֹוָ֔ה מֵאַחֲרֵ֖י הַצֹּ֑אן וַיֹּ֤אמֶר אֵלַי֙ יְהֹוָ֔ה לֵ֥ךְ הִנָּבֵ֖א אֶל־עַמִּ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H5204\">וַיִּקָּחֵ֣נִי</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H310\">מֵאַחֲרֵ֖י</span> <span data-strong=\"H6629\">הַצֹּ֑אן</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2967\">אֵלַי֙</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H1980\">לֵ֥ךְ</span> <span data-strong=\"H5012\">הִנָּבֵ֖א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2967\">עַמִּ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayikaheniy yehovah me'aharey hatso'n vayo'mer 'elay yehovah lekhe hinave' 'el-'amiy yisera'el.",
     "translation": "E o Senhor me tomou de detrás do rebanho, e disse-me: Vai profetizar ao meu povo Israel."
   },
   {
     "verse": 16,
-    "original": "וְעַתָּ֖ה שְׁמַ֣ע דְּבַר־יְהֹוָ֑ה אַתָּ֣ה אֹמֵ֗ר לֹ֤א תִנָּבֵא֙ עַל־יִשְׂרָאֵ֔ל וְלֹ֥א תַטִּ֖יף עַל־בֵּ֥ית יִשְׂחָֽק׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֖ה</span> <span data-strong=\"H8085\">שְׁמַ֣ע</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H859\">אַתָּ֣ה</span> <span data-strong=\"H559\">אֹמֵ֗ר</span> <span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H5012\">תִנָּבֵא֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H5197\">תַטִּ֖יף</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3327\">יִשְׂחָֽק׃</span>",
     "transliteration": "ve'atah shema' devar-yehovah 'atah 'omer lo' tinave' 'al-yisera'el velo' tatiyf 'al-veyt yisehak.",
     "translation": "E agora, ouve a palavra do Senhor: tu dizes não profetizarás sobre Israel e não derramarás oráculo sobre a casa de Isaque."
   },

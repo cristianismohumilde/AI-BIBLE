@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "בִּשְׁנַ֣ת חֲדָ֗ה לְבֵלְאשַׁצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל דָּנִיֵּאל֙ חֵ֣לֶם חֲזָ֔ה וְחֶזְוֵ֥י רֵאשֵׁ֖הּ עַֽל־מִשְׁכְּבֵ֑הּ בֵּאדַ֙יִן֙ חֶלְמָ֣א כְתַ֔ב רֵ֥אשׁ מִלִּ֖ין אֲמַֽר׃",
+    "original": "<span data-strong=\"H8140\">בִּשְׁנַ֣ת</span> <span data-strong=\"H2298\">חֲדָ֗ה</span> <span data-strong=\"H1113\">לְבֵלְאשַׁצַּר֙</span> <span data-strong=\"H4430\">מֶ֣לֶךְ</span> <span data-strong=\"H895\">בָּבֶ֔ל</span> <span data-strong=\"H1841\">דָּנִיֵּאל֙</span> <span data-strong=\"H2493\">חֵ֣לֶם</span> <span data-strong=\"H2370\">חֲזָ֔ה</span> <span data-strong=\"H2376\">וְחֶזְוֵ֥י</span> <span data-strong=\"H1886\">רֵאשֵׁ֖הּ</span> <span data-strong=\"H5922\">עַֽל</span>־<span data-strong=\"H1886\">מִשְׁכְּבֵ֑הּ</span> <span data-strong=\"H116\">בֵּאדַ֙יִן֙</span> <span data-strong=\"H1\">חֶלְמָ֣א</span> <span data-strong=\"H3790\">כְתַ֔ב</span> <span data-strong=\"H7217\">רֵ֥אשׁ</span> <span data-strong=\"H4406\">מִלִּ֖ין</span> <span data-strong=\"H560\">אֲמַֽר׃</span>",
     "transliteration": "vishenat hadah levele'shatsar melekhe vavel daniye'l helem hazah vehezevey re'sheh 'al-mishekheveh ve'dayin helema' khetav re'sh miliyn 'amar.",
     "translation": "No ano primeiro de Belsazar, rei da Babilônia, Daniel teve um sonho, e visões vieram à sua mente enquanto repousava em seu leito. Então ele registrou o sonho, proferindo as primeiras palavras."
   },
   {
     "verse": 2,
-    "original": "עָנֵ֤ה דָנִיֵּאל֙ וְאָמַ֔ר חָזֵ֥ה הֲוֵ֛ית בְּחֶזְוִ֖י עִם־לֵֽילְיָ֑א וַאֲר֗וּ אַרְבַּע֙ רוּחֵ֣י שְׁמַיָּ֔א מְגִיחָ֖ן לְיַמָּ֥א רַבָּֽא׃",
+    "original": "<span data-strong=\"H6032\">עָנֵ֤ה</span> <span data-strong=\"H1841\">דָנִיֵּאל֙</span> <span data-strong=\"H560\">וְאָמַ֔ר</span> <span data-strong=\"H2370\">חָזֵ֥ה</span> <span data-strong=\"H1934\">הֲוֵ֛ית</span> <span data-strong=\"H2967\">בְּחֶזְוִ֖י</span> <span data-strong=\"H5974\">עִם</span>־<span data-strong=\"H1\">לֵֽילְיָ֑א</span> <span data-strong=\"H718\">וַאֲר֗וּ</span> <span data-strong=\"H703\">אַרְבַּע֙</span> <span data-strong=\"H7308\">רוּחֵ֣י</span> <span data-strong=\"H1\">שְׁמַיָּ֔א</span> <span data-strong=\"H1519\">מְגִיחָ֖ן</span> <span data-strong=\"H1\">לְיַמָּ֥א</span> <span data-strong=\"H1\">רַבָּֽא׃</span>",
     "transliteration": "'aneh daniye'l ve'amar hazeh haveyt vehezeviy 'im-leyleya' va'arv 'areva' rvhey shemaya' megiyhan leyama' rava'.",
     "translation": "Respondeu Daniel e disse: Vi em visão noturna, e eis quatro ventos dos céus agitando grande mar."
   },
   {
     "verse": 3,
-    "original": "וְאַרְבַּ֤ע חֵיוָן֙ רַבְרְבָ֔ן סָלְקָ֖ן מִן־יַמָּ֑א שָׁנְיָ֖ן דָּ֥א מִן־דָּֽא׃",
+    "original": "<span data-strong=\"H703\">וְאַרְבַּ֤ע</span> <span data-strong=\"H2423\">חֵיוָן֙</span> <span data-strong=\"H7229\">רַבְרְבָ֔ן</span> <span data-strong=\"H5559\">סָלְקָ֖ן</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1\">יַמָּ֑א</span> <span data-strong=\"H8133\">שָׁנְיָ֖ן</span> <span data-strong=\"H1668\">דָּ֥א</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1668\">דָּֽא׃</span>",
     "transliteration": "ve'areva' heyvan raverevan salekan min-yama' shaneyan da' min-da'.",
     "translation": "E quatro bestas grandes subiram do mar, cada uma diferente da outra."
   },
@@ -49,7 +49,7 @@
   },
   {
     "verse": 9,
-    "original": "חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כׇרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ&thinsp;<b>׀</b> כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כׇּרְסְיֵהּ֙ שְׁבִבִ֣ין דִּי־נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק׃",
+    "original": "<span data-strong=\"H2370\">חָזֵ֣ה</span> <span data-strong=\"H1934\">הֲוֵ֗ית</span> <span data-strong=\"H5705\">עַ֣ד</span> <span data-strong=\"H1768\">דִּ֤י</span> <span data-strong=\"H3764\">כׇרְסָוָן֙</span> <span data-strong=\"H7412\">רְמִ֔יו</span> <span data-strong=\"H6268\">וְעַתִּ֥יק</span> <span data-strong=\"H3118\">יוֹמִ֖ין</span> <span data-strong=\"H3488\">יְתִ֑ב</span> <span data-strong=\"H1886\">לְבוּשֵׁ֣הּ&thinsp;<b>׀</b></span> <span data-strong=\"H8517\">כִּתְלַ֣ג</span> <span data-strong=\"H2358\">חִוָּ֗ר</span> <span data-strong=\"H8177\">וּשְׂעַ֤ר</span> <span data-strong=\"H1886\">רֵאשֵׁהּ֙</span> <span data-strong=\"H6015\">כַּעֲמַ֣ר</span> <span data-strong=\"H5343\">נְקֵ֔א</span> <span data-strong=\"H1886\">כׇּרְסְיֵהּ֙</span> <span data-strong=\"H7631\">שְׁבִבִ֣ין</span> <span data-strong=\"H1768\">דִּי</span>־<span data-strong=\"H5135\">נ֔וּר</span> <span data-strong=\"H1958\">גַּלְגִּלּ֖וֹהִי</span> <span data-strong=\"H5135\">נ֥וּר</span> <span data-strong=\"H1815\">דָּלִֽק׃</span>",
     "transliteration": "hazeh haveyt 'ad diy khoresavan remiyv ve'atiyk yvomiyn yetiv levvsheh&thinsp;<b>|</b> khitelag hivar vse'ar re'sheh kha'amar neke' khoreseyeh sheviviyn diy-nvr galegilvohiy nvr dalik.",
     "translation": "Vi até que o trono estava assente sobre corrupções, e o Ancião de Dias estava sentado; vestido com veste branca como neve, e cabelo da cabeça como lã pura, e os seus pés como tiro de fogo, e a sua forma era como fogo ardente."
   },
@@ -61,19 +61,19 @@
   },
   {
     "verse": 11,
-    "original": "חָזֵ֣ה הֲוֵ֔ית בֵּאדַ֗יִן מִן־קָל֙ מִלַּיָּ֣א רַבְרְבָתָ֔א דִּ֥י קַרְנָ֖א מְמַלֱּלָ֑ה חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּ֨י קְטִילַ֤ת חֵֽיוְתָא֙ וְהוּבַ֣ד גִּשְׁמַ֔הּ וִיהִיבַ֖ת לִיקֵדַ֥ת אֶשָּֽׁא׃",
+    "original": "<span data-strong=\"H2370\">חָזֵ֣ה</span> <span data-strong=\"H1934\">הֲוֵ֔ית</span> <span data-strong=\"H116\">בֵּאדַ֗יִן</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H7032\">קָל֙</span> <span data-strong=\"H1\">מִלַּיָּ֣א</span> <span data-strong=\"H1\">רַבְרְבָתָ֔א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H1\">קַרְנָ֖א</span> <span data-strong=\"H4449\">מְמַלֱּלָ֑ה</span> <span data-strong=\"H2370\">חָזֵ֣ה</span> <span data-strong=\"H1934\">הֲוֵ֡ית</span> <span data-strong=\"H5705\">עַד֩</span> <span data-strong=\"H1768\">דִּ֨י</span> <span data-strong=\"H6992\">קְטִילַ֤ת</span> <span data-strong=\"H1\">חֵֽיוְתָא֙</span> <span data-strong=\"H7\">וְהוּבַ֣ד</span> <span data-strong=\"H1886\">גִּשְׁמַ֔הּ</span> <span data-strong=\"H3052\">וִיהִיבַ֖ת</span> <span data-strong=\"H3346\">לִיקֵדַ֥ת</span> <span data-strong=\"H785\">אֶשָּֽׁא׃</span>",
     "transliteration": "hazeh haveyt ve'dayin min-kal milaya' raverevata' diy karena' memalelah hazeh haveyt 'ad diy ketiylat heyveta' vehvvad gishemah viyhiyvat liykedat 'esha'.",
     "translation": "Viu, eis que via nos dias antigos, quando o grande Leão falava com poderosas vozes; viu até que a besta foi morta e sua carne retirada, sendo dada como alimento à chama ardente."
   },
   {
     "verse": 12,
-    "original": "וּשְׁאָר֙ חֵֽיוָתָ֔א הֶעְדִּ֖יו שׇׁלְטָנְה֑וֹן וְאַרְכָ֧ה בְחַיִּ֛ין יְהִ֥יבַת לְה֖וֹן עַד־זְמַ֥ן וְעִדָּֽן׃",
+    "original": "<span data-strong=\"H7606\">וּשְׁאָר֙</span> <span data-strong=\"H1\">חֵֽיוָתָ֔א</span> <span data-strong=\"H5709\">הֶעְדִּ֖יו</span> <span data-strong=\"H1952\">שׇׁלְטָנְה֑וֹן</span> <span data-strong=\"H754\">וְאַרְכָ֧ה</span> <span data-strong=\"H2417\">בְחַיִּ֛ין</span> <span data-strong=\"H3052\">יְהִ֥יבַת</span> <span data-strong=\"H1952\">לְה֖וֹן</span> <span data-strong=\"H5705\">עַד</span>־<span data-strong=\"H2166\">זְמַ֥ן</span> <span data-strong=\"H5732\">וְעִדָּֽן׃</span>",
     "transliteration": "vshe'ar heyvata' he'ediyv sholetanehvon ve'arekhah vehayiyn yehiyvat lehvon 'ad-zeman ve'idan.",
     "translation": "E o resto das feras, privou-lhes do domínio, mas prolongou-se a vida delas até um tempo e uma estação."
   },
   {
     "verse": 13,
-    "original": "חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם־עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה הֲוָ֑א וְעַד־עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי׃",
+    "original": "<span data-strong=\"H2370\">חָזֵ֤ה</span> <span data-strong=\"H1934\">הֲוֵית֙</span> <span data-strong=\"H2376\">בְּחֶזְוֵ֣י</span> <span data-strong=\"H1\">לֵֽילְיָ֔א</span> <span data-strong=\"H718\">וַאֲרוּ֙</span> <span data-strong=\"H5974\">עִם</span>־<span data-strong=\"H6050\">עֲנָנֵ֣י</span> <span data-strong=\"H1\">שְׁמַיָּ֔א</span> <span data-strong=\"H1247\">כְּבַ֥ר</span> <span data-strong=\"H606\">אֱנָ֖שׁ</span> <span data-strong=\"H858\">אָתֵ֣ה</span> <span data-strong=\"H1934\">הֲוָ֑א</span> <span data-strong=\"H5705\">וְעַד</span>־<span data-strong=\"H6268\">עַתִּ֤יק</span> <span data-strong=\"H1\">יֽוֹמַיָּא֙</span> <span data-strong=\"H4291\">מְטָ֔ה</span> <span data-strong=\"H1958\">וּקְדָמ֖וֹהִי</span> <span data-strong=\"H1958\">הַקְרְבֽוּהִי׃</span>",
     "transliteration": "hazeh haveyt vehezevey leyleya' va'arv 'im-'ananey shemaya' khevar 'enash 'ateh hava' ve'ad-'atiyk yvomaya' metah vkedamvohiy hakerevvhiy.",
     "translation": "Vi em visões noturnas, e eis com as nuvens dos céus veio um como filho do homem, e adiante do antigo de dias foi trazido, e apresentado a ele."
   },
@@ -85,25 +85,25 @@
   },
   {
     "verse": 15,
-    "original": "אֶתְכְּרִיַּ֥ת רוּחִ֛י אֲנָ֥ה דָנִיֵּ֖אל בְּג֣וֹא נִדְנֶ֑ה וְחֶזְוֵ֥י רֵאשִׁ֖י יְבַהֲלֻנַּֽנִי׃",
+    "original": "<span data-strong=\"H3735\">אֶתְכְּרִיַּ֥ת</span> <span data-strong=\"H2967\">רוּחִ֛י</span> <span data-strong=\"H576\">אֲנָ֥ה</span> <span data-strong=\"H1841\">דָנִיֵּ֖אל</span> <span data-strong=\"H1459\">בְּג֣וֹא</span> <span data-strong=\"H5085\">נִדְנֶ֑ה</span> <span data-strong=\"H2376\">וְחֶזְוֵ֥י</span> <span data-strong=\"H2967\">רֵאשִׁ֖י</span> <span data-strong=\"H5204\">יְבַהֲלֻנַּֽנִי׃</span>",
     "transliteration": "'etekheriyat rvhiy 'anah daniye'l vegvo' nideneh vehezevey re'shiy yevahalunaniy.",
     "translation": ""
   },
   {
     "verse": 16,
-    "original": "קִרְבֵ֗ת עַל־חַד֙ מִן־קָ֣אֲמַיָּ֔א וְיַצִּיבָ֥א אֶבְעֵֽא־מִנֵּ֖הּ עַֽל־כׇּל־דְּנָ֑ה וַאֲמַר־לִ֕י וּפְשַׁ֥ר מִלַּיָּ֖א יְהוֹדְעִנַּֽנִי׃",
+    "original": "<span data-strong=\"H7127\">קִרְבֵ֗ת</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H2298\">חַד֙</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1\">קָ֣אֲמַיָּ֔א</span> <span data-strong=\"H3330\">וְיַצִּיבָ֥א</span> <span data-strong=\"H1156\">אֶבְעֵֽא</span>־<span data-strong=\"H1886\">מִנֵּ֖הּ</span> <span data-strong=\"H5922\">עַֽל</span>־<span data-strong=\"H3606\">כׇּל</span>־<span data-strong=\"H1836\">דְּנָ֑ה</span> <span data-strong=\"H560\">וַאֲמַר</span>־<span data-strong=\"H2967\">לִ֕י</span> <span data-strong=\"H6591\">וּפְשַׁ֥ר</span> <span data-strong=\"H1\">מִלַּיָּ֖א</span> <span data-strong=\"H5204\">יְהוֹדְעִנַּֽנִי׃</span>",
     "transliteration": "kirevet 'al-had min-ka'amaya' veyatsiyva' 'eve'e'-mineh 'al-khol-denah va'amar-liy vfeshar milaya' yehvode'inaniy.",
     "translation": "Aproxima-te de uma das estátuas e eu estabelecerei-a sobre tudo isto; e disse-me: Explica-me o significado desta visão."
   },
   {
     "verse": 17,
-    "original": "אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן מִן־אַרְעָֽא׃",
+    "original": "<span data-strong=\"H459\">אִלֵּין֙</span> <span data-strong=\"H1\">חֵיוָתָ֣א</span> <span data-strong=\"H1\">רַבְרְבָתָ֔א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H581\">אִנִּ֖ין</span> <span data-strong=\"H703\">אַרְבַּ֑ע</span> <span data-strong=\"H703\">אַרְבְּעָ֥ה</span> <span data-strong=\"H4430\">מַלְכִ֖ין</span> <span data-strong=\"H6966\">יְקוּמ֥וּן</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1\">אַרְעָֽא׃</span>",
     "transliteration": "'ileyn heyvata' raverevata' diy 'iniyn 'areva' 'areve'ah malekhiyn yekvmvn min-'are'a'.",
     "translation": "Eis surgirão quatro bestias grandes; das quais se levantarão quatro reis da terra."
   },
   {
     "verse": 18,
-    "original": "וִֽיקַבְּלוּן֙ מַלְכוּתָ֔א קַדִּישֵׁ֖י עֶלְיוֹנִ֑ין וְיַחְסְנ֤וּן מַלְכוּתָא֙ עַד־עָ֣לְמָ֔א וְעַ֖ד עָלַ֥ם עָלְמַיָּֽא׃",
+    "original": "<span data-strong=\"H6902\">וִֽיקַבְּלוּן֙</span> <span data-strong=\"H1\">מַלְכוּתָ֔א</span> <span data-strong=\"H6922\">קַדִּישֵׁ֖י</span> <span data-strong=\"H5946\">עֶלְיוֹנִ֑ין</span> <span data-strong=\"H2631\">וְיַחְסְנ֤וּן</span> <span data-strong=\"H1\">מַלְכוּתָא֙</span> <span data-strong=\"H5705\">עַד</span>־<span data-strong=\"H1\">עָ֣לְמָ֔א</span> <span data-strong=\"H5705\">וְעַ֖ד</span> <span data-strong=\"H5957\">עָלַ֥ם</span> <span data-strong=\"H1\">עָלְמַיָּֽא׃</span>",
     "transliteration": "viykavelvn malekhvta' kadiyshey 'eleyvoniyn veyahesenvn malekhvta' 'ad-'alema' ve'ad 'alam 'alemaya'.",
     "translation": "E receberão o reino dos santos do Altíssimo, e possuirão o reino para sempre, sim, para todo o sempre."
   },
@@ -121,13 +121,13 @@
   },
   {
     "verse": 21,
-    "original": "חָזֵ֣ה הֲוֵ֔ית וְקַרְנָ֣א דִכֵּ֔ן עָבְדָ֥ה קְרָ֖ב עִם־קַדִּישִׁ֑ין וְיָכְלָ֖ה לְהֹֽן׃",
+    "original": "<span data-strong=\"H2370\">חָזֵ֣ה</span> <span data-strong=\"H1934\">הֲוֵ֔ית</span> <span data-strong=\"H1\">וְקַרְנָ֣א</span> <span data-strong=\"H1797\">דִכֵּ֔ן</span> <span data-strong=\"H5648\">עָבְדָ֥ה</span> <span data-strong=\"H7129\">קְרָ֖ב</span> <span data-strong=\"H5974\">עִם</span>־<span data-strong=\"H6922\">קַדִּישִׁ֑ין</span> <span data-strong=\"H3202\">וְיָכְלָ֖ה</span> <span data-strong=\"H1952\">לְהֹֽן׃</span>",
     "transliteration": "hazeh haveyt vekarena' dikhen 'avedah kerav 'im-kadiyshiyn veyakhelah lehon.",
     "translation": "Vi e eis que um chifre tal fez guerra contra os santos, e prevaleceu sobre eles."
   },
   {
     "verse": 22,
-    "original": "עַ֣ד דִּֽי־אֲתָ֗ה עַתִּיק֙ יֽוֹמַיָּ֔א וְדִינָ֣א יְהִ֔ב לְקַדִּישֵׁ֖י עֶלְיוֹנִ֑ין וְזִמְנָ֣א מְטָ֔ה וּמַלְכוּתָ֖א הֶחֱסִ֥נוּ קַדִּישִֽׁין׃",
+    "original": "<span data-strong=\"H5705\">עַ֣ד</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H858\">אֲתָ֗ה</span> <span data-strong=\"H6268\">עַתִּיק֙</span> <span data-strong=\"H1\">יֽוֹמַיָּ֔א</span> <span data-strong=\"H1\">וְדִינָ֣א</span> <span data-strong=\"H3052\">יְהִ֔ב</span> <span data-strong=\"H6922\">לְקַדִּישֵׁ֖י</span> <span data-strong=\"H5946\">עֶלְיוֹנִ֑ין</span> <span data-strong=\"H1\">וְזִמְנָ֣א</span> <span data-strong=\"H4291\">מְטָ֔ה</span> <span data-strong=\"H1\">וּמַלְכוּתָ֖א</span> <span data-strong=\"H2631\">הֶחֱסִ֥נוּ</span> <span data-strong=\"H6922\">קַדִּישִֽׁין׃</span>",
     "transliteration": "'ad diy-'atah 'atiyk yvomaya' vediyna' yehiv lekadiyshey 'eleyvoniyn vezimena' metah vmalekhvta' hehesinv kadiyshiyn.",
     "translation": "Até que venhas, antigo dos dias, e dês justiça aos santos do Altíssimo, e a época se complete, e o reino seja fortalecido pelos santos."
   },
@@ -139,7 +139,7 @@
   },
   {
     "verse": 24,
-    "original": "וְקַרְנַיָּ֣א עֲשַׂ֔ר מִנַּהּ֙ מַלְכוּתָ֔א עַשְׂרָ֥ה מַלְכִ֖ין יְקֻמ֑וּן וְאׇחֳרָ֞ן יְק֣וּם אַחֲרֵיהֹ֗ן וְה֤וּא יִשְׁנֵא֙ מִן־קַדְמָיֵ֔א וּתְלָתָ֥ה מַלְכִ֖ין יְהַשְׁפִּֽל׃",
+    "original": "<span data-strong=\"H1\">וְקַרְנַיָּ֣א</span> <span data-strong=\"H6236\">עֲשַׂ֔ר</span> <span data-strong=\"H1886\">מִנַּהּ֙</span> <span data-strong=\"H1\">מַלְכוּתָ֔א</span> <span data-strong=\"H6236\">עַשְׂרָ֥ה</span> <span data-strong=\"H4430\">מַלְכִ֖ין</span> <span data-strong=\"H6966\">יְקֻמ֑וּן</span> <span data-strong=\"H321\">וְאׇחֳרָ֞ן</span> <span data-strong=\"H6966\">יְק֣וּם</span> <span data-strong=\"H1952\">אַחֲרֵיהֹ֗ן</span> <span data-strong=\"H1932\">וְה֤וּא</span> <span data-strong=\"H8133\">יִשְׁנֵא֙</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1\">קַדְמָיֵ֔א</span> <span data-strong=\"H8532\">וּתְלָתָ֥ה</span> <span data-strong=\"H4430\">מַלְכִ֖ין</span> <span data-strong=\"H8214\">יְהַשְׁפִּֽל׃</span>",
     "transliteration": "vekarenaya' 'asar minah malekhvta' 'aserah malekhiyn yekumvn ve'ohoran yekvm 'ahareyhon vehv' yishene' min-kademaye' vtelatah malekhiyn yehashefil.",
     "translation": "E dos cornos dez do seu reino, dez reis se levantarão; e um outro se levantará após eles, e ele será diferente dos anteriores, e três reis ele humilhará."
   },
@@ -151,13 +151,13 @@
   },
   {
     "verse": 26,
-    "original": "וְדִינָ֖א יִתִּ֑ב וְשׇׁלְטָנֵ֣הּ יְהַעְדּ֔וֹן לְהַשְׁמָדָ֥ה וּלְהוֹבָדָ֖ה עַד־סוֹפָֽא׃",
+    "original": "<span data-strong=\"H1\">וְדִינָ֖א</span> <span data-strong=\"H3488\">יִתִּ֑ב</span> <span data-strong=\"H1886\">וְשׇׁלְטָנֵ֣הּ</span> <span data-strong=\"H5709\">יְהַעְדּ֔וֹן</span> <span data-strong=\"H8046\">לְהַשְׁמָדָ֥ה</span> <span data-strong=\"H7\">וּלְהוֹבָדָ֖ה</span> <span data-strong=\"H5705\">עַד</span>־<span data-strong=\"H1\">סוֹפָֽא׃</span>",
     "transliteration": "vediyna' yitiv vesholetaneh yeha'edvon lehashemadah vlehvovadah 'ad-svofa'.",
     "translation": "E Diná se sentará, e seu poder julgará para destruição e obliteração até o fim."
   },
   {
     "verse": 27,
-    "original": "וּמַלְכוּתָ֨א וְשׇׁלְטָנָ֜א וּרְבוּתָ֗א דִּ֚י מַלְכְוָת֙ תְּח֣וֹת כׇּל־שְׁמַיָּ֔א יְהִיבַ֕ת לְעַ֖ם קַדִּישֵׁ֣י עֶלְיוֹנִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְכֹל֙ שׇׁלְטָ֣נַיָּ֔א לֵ֥הּ יִפְלְח֖וּן וְיִֽשְׁתַּמְּעֽוּן׃",
+    "original": "<span data-strong=\"H1\">וּמַלְכוּתָ֨א</span> <span data-strong=\"H1\">וְשׇׁלְטָנָ֜א</span> <span data-strong=\"H1\">וּרְבוּתָ֗א</span> <span data-strong=\"H1768\">דִּ֚י</span> <span data-strong=\"H4437\">מַלְכְוָת֙</span> <span data-strong=\"H8460\">תְּח֣וֹת</span> <span data-strong=\"H3606\">כׇּל</span>־<span data-strong=\"H1\">שְׁמַיָּ֔א</span> <span data-strong=\"H3052\">יְהִיבַ֕ת</span> <span data-strong=\"H5972\">לְעַ֖ם</span> <span data-strong=\"H6922\">קַדִּישֵׁ֣י</span> <span data-strong=\"H5946\">עֶלְיוֹנִ֑ין</span> <span data-strong=\"H1886\">מַלְכוּתֵהּ֙</span> <span data-strong=\"H4437\">מַלְכ֣וּת</span> <span data-strong=\"H5957\">עָלַ֔ם</span> <span data-strong=\"H3606\">וְכֹל֙</span> <span data-strong=\"H1\">שׇׁלְטָ֣נַיָּ֔א</span> <span data-strong=\"H1886\">לֵ֥הּ</span> <span data-strong=\"H6399\">יִפְלְח֖וּן</span> <span data-strong=\"H8086\">וְיִֽשְׁתַּמְּעֽוּן׃</span>",
     "transliteration": "vmalekhvta' vesholetana' vrevvta' diy malekhevat tehvot khol-shemaya' yehiyvat le'am kadiyshey 'eleyvoniyn malekhvteh malekhvt 'alam vekhol sholetanaya' leh yifelehvn veyishetame'vn.",
     "translation": "E o reino e a autoridade e o poder do reino sob todo o céu foram dados ao povo santo dos Altíssimos, cujo reinado é eterno, e todos os governos lhe servirão e lhe obedecerão."
   },

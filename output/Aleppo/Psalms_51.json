@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֗חַ</span> <span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "lamenatseha mizemvor ledavid.",
     "translation": "Ao condutor, um salmo de Davi."
   },
   {
     "verse": 2,
-    "original": "בְּֽבוֹא־אֵ֭לָיו נָתָ֣ן הַנָּבִ֑יא כַּאֲשֶׁר־בָּ֝֗א אֶל־בַּת־שָֽׁבַע׃",
+    "original": "<span data-strong=\"H935\">בְּֽבוֹא</span>־<span data-strong=\"H2050\">אֵ֭לָיו</span> <span data-strong=\"H5416\">נָתָ֣ן</span> <span data-strong=\"H5030\">הַנָּבִ֑יא</span> <span data-strong=\"H834\">כַּאֲשֶׁר</span>־<span data-strong=\"H935\">בָּ֝֗א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1339\">בַּת</span>־<span data-strong=\"H1339\">שָֽׁבַע׃</span>",
     "transliteration": "vevvo'-'elayv natan hanaviy' kha'asher-va' 'el-vat-shava'.",
     "translation": "Quando ele chegou, o profeta lhe deu; assim como veio a Bate-Seva."
   },
   {
     "verse": 3,
-    "original": "חׇנֵּ֣נִי אֱלֹהִ֣ים כְּחַסְדֶּ֑ךָ כְּרֹ֥ב רַ֝חֲמֶ֗יךָ מְחֵ֣ה פְשָׁעָֽי׃",
+    "original": "<span data-strong=\"H5204\">חׇנֵּ֣נִי</span> <span data-strong=\"H430\">אֱלֹהִ֣ים</span> <span data-strong=\"H3509\">כְּחַסְדֶּ֑ךָ</span> <span data-strong=\"H7230\">כְּרֹ֥ב</span> <span data-strong=\"H3509\">רַ֝חֲמֶ֗יךָ</span> <span data-strong=\"H4229\">מְחֵ֣ה</span> <span data-strong=\"H2967\">פְשָׁעָֽי׃</span>",
     "transliteration": "honeniy 'elohiym khehasedekha kherov rahameykha meheh fesha'ay.",
     "translation": "Tem-me compaixão, ó Deus, conforme a tua benignidade; segundo a abundância da tua misericórdia, apaga as minhas transgressões."
   },
@@ -25,97 +25,97 @@
   },
   {
     "verse": 5,
-    "original": "כִּֽי־פְ֭שָׁעַי אֲנִ֣י אֵדָ֑ע וְחַטָּאתִ֖י נֶגְדִּ֣י תָמִֽיד׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2967\">פְ֭שָׁעַי</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H3045\">אֵדָ֑ע</span> <span data-strong=\"H2967\">וְחַטָּאתִ֖י</span> <span data-strong=\"H2967\">נֶגְדִּ֣י</span> <span data-strong=\"H8548\">תָמִֽיד׃</span>",
     "transliteration": "khiy-fesha'ay 'aniy 'eda' vehata'tiy negediy tamiyd.",
     "translation": "Pois reconheço meus pecados, e minha transgressão está sempre diante de mim."
   },
   {
     "verse": 6,
-    "original": "לְךָ֤ לְבַדְּךָ֨&thinsp;<b>׀</b> חָטָאתִי֮ וְהָרַ֥ע בְּעֵינֶ֗יךָ עָ֫שִׂ֥יתִי לְ֭מַעַן תִּצְדַּ֥ק בְּדׇבְרֶ֗ךָ תִּזְכֶּ֥ה בְשׇׁפְטֶֽךָ׃",
+    "original": "<span data-strong=\"H3509\">לְךָ֤</span> <span data-strong=\"H3509\">לְבַדְּךָ֨&thinsp;<b>׀</b></span> <span data-strong=\"H2398\">חָטָאתִי֮</span> <span data-strong=\"H7451\">וְהָרַ֥ע</span> <span data-strong=\"H3509\">בְּעֵינֶ֗יךָ</span> <span data-strong=\"H6213\">עָ֫שִׂ֥יתִי</span> <span data-strong=\"H4616\">לְ֭מַעַן</span> <span data-strong=\"H6663\">תִּצְדַּ֥ק</span> <span data-strong=\"H3509\">בְּדׇבְרֶ֗ךָ</span> <span data-strong=\"H2135\">תִּזְכֶּ֥ה</span> <span data-strong=\"H3509\">בְשׇׁפְטֶֽךָ׃</span>",
     "transliteration": "lekha levadekha&thinsp;<b>|</b> hata'tiy vehara' ve'eyneykha 'asiytiy lema'an titsedak vedoverekha tizekheh veshofetekha.",
     "translation": "Contigo, e contigo apenas, pequei; mal ante teus olhos fiz, para que sejas justo em tua palavra, vitorioso em teu juízo."
   },
   {
     "verse": 7,
-    "original": "הֵן־בְּעָו֥וֹן חוֹלָ֑לְתִּי וּ֝בְחֵ֗טְא יֶחֱמַ֥תְנִי אִמִּֽי׃",
+    "original": "<span data-strong=\"H2005\">הֵן</span>־<span data-strong=\"H5771\">בְּעָו֥וֹן</span> <span data-strong=\"H2342\">חוֹלָ֑לְתִּי</span> <span data-strong=\"H2399\">וּ֝בְחֵ֗טְא</span> <span data-strong=\"H5204\">יֶחֱמַ֥תְנִי</span> <span data-strong=\"H2967\">אִמִּֽי׃</span>",
     "transliteration": "hen-ve'avvon hvolaletiy vvehete' yehemateniy 'imiy.",
     "translation": "No pecado concebi-me, e em iniquidade me formou minha mãe."
   },
   {
     "verse": 8,
-    "original": "הֵן־אֱ֭מֶת חָפַ֣צְתָּ בַטֻּח֑וֹת וּ֝בְסָתֻ֗ם חׇכְמָ֥ה תוֹדִיעֵֽנִי׃",
+    "original": "<span data-strong=\"H2005\">הֵן</span>־<span data-strong=\"H571\">אֱ֭מֶת</span> <span data-strong=\"H2654\">חָפַ֣צְתָּ</span> <span data-strong=\"H2910\">בַטֻּח֑וֹת</span> <span data-strong=\"H5640\">וּ֝בְסָתֻ֗ם</span> <span data-strong=\"H2451\">חׇכְמָ֥ה</span> <span data-strong=\"H5204\">תוֹדִיעֵֽנִי׃</span>",
     "transliteration": "hen-'emet hafatseta vatuhvot vvesatum hokhemah tvodiy'eniy.",
     "translation": ""
   },
   {
     "verse": 9,
-    "original": "תְּחַטְּאֵ֣נִי בְאֵז֣וֹב וְאֶטְהָ֑ר תְּ֝כַבְּסֵ֗נִי וּמִשֶּׁ֥לֶג אַלְבִּֽין׃",
+    "original": "<span data-strong=\"H5204\">תְּחַטְּאֵ֣נִי</span> <span data-strong=\"H231\">בְאֵז֣וֹב</span> <span data-strong=\"H2891\">וְאֶטְהָ֑ר</span> <span data-strong=\"H5204\">תְּ֝כַבְּסֵ֗נִי</span> <span data-strong=\"H7950\">וּמִשֶּׁ֥לֶג</span> <span data-strong=\"H3835\">אַלְבִּֽין׃</span>",
     "transliteration": "tehate'eniy ve'ezvov ve'etehar tekhaveseniy vmisheleg 'aleviyn.",
     "translation": "Me faça pecar com erva-de-alívio e purgarei-me; lava-me, e serei mais branco que a neve."
   },
   {
     "verse": 10,
-    "original": "תַּ֭שְׁמִיעֵנִי שָׂשׂ֣וֹן וְשִׂמְחָ֑ה תָּ֝גֵ֗לְנָה עֲצָמ֥וֹת דִּכִּֽיתָ׃",
+    "original": "<span data-strong=\"H5204\">תַּ֭שְׁמִיעֵנִי</span> <span data-strong=\"H8342\">שָׂשׂ֣וֹן</span> <span data-strong=\"H8057\">וְשִׂמְחָ֑ה</span> <span data-strong=\"H1523\">תָּ֝גֵ֗לְנָה</span> <span data-strong=\"H6106\">עֲצָמ֥וֹת</span> <span data-strong=\"H1794\">דִּכִּֽיתָ׃</span>",
     "transliteration": "tashemiy'eniy sasvon vesimehah tagelenah 'atsamvot dikhiyta.",
     "translation": "Fazei-me ouvir alegria e júbilo; os ossos que secousses se alegrarão."
   },
   {
     "verse": 11,
-    "original": "הַסְתֵּ֣ר פָּ֭נֶיךָ מֵחֲטָאָ֑י וְֽכׇל־עֲוֺ֖נֹתַ֣י מְחֵֽה׃",
+    "original": "<span data-strong=\"H5641\">הַסְתֵּ֣ר</span> <span data-strong=\"H3509\">פָּ֭נֶיךָ</span> <span data-strong=\"H2967\">מֵחֲטָאָ֑י</span> <span data-strong=\"H3605\">וְֽכׇל</span>־<span data-strong=\"H2967\">עֲוֺ֖נֹתַ֣י</span> <span data-strong=\"H4229\">מְחֵֽה׃</span>",
     "transliteration": "haseter faneykha mehata'ay vekhol-'avonotay meheh.",
     "translation": "Esconde teu rosto dos meus pecados; e apaga todos os meus transgressões."
   },
   {
     "verse": 12,
-    "original": "לֵ֣ב טָ֭הוֹר בְּרָא־לִ֣י אֱלֹהִ֑ים וְר֥וּחַ נָ֝כ֗וֹן חַדֵּ֥שׁ בְּקִרְבִּֽי׃",
+    "original": "<span data-strong=\"H3820\">לֵ֣ב</span> <span data-strong=\"H2889\">טָ֭הוֹר</span> <span data-strong=\"H1254\">בְּרָא</span>־<span data-strong=\"H2967\">לִ֣י</span> <span data-strong=\"H430\">אֱלֹהִ֑ים</span> <span data-strong=\"H7307\">וְר֥וּחַ</span> <span data-strong=\"H3559\">נָ֝כ֗וֹן</span> <span data-strong=\"H2318\">חַדֵּ֥שׁ</span> <span data-strong=\"H2967\">בְּקִרְבִּֽי׃</span>",
     "transliteration": "lev tahvor vera'-liy 'elohiym vervha nakhvon hadesh vekireviy.",
     "translation": "Coração puro cria em mim, ó Deus, e espírito reto renova no meu interior."
   },
   {
     "verse": 13,
-    "original": "אַל־תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קׇ֝דְשְׁךָ֗ אַל־תִּקַּ֥ח מִמֶּֽנִּי׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5204\">תַּשְׁלִיכֵ֥נִי</span> <span data-strong=\"H3509\">מִלְּפָנֶ֑יךָ</span> <span data-strong=\"H7307\">וְר֥וּחַ</span> <span data-strong=\"H3509\">קׇ֝דְשְׁךָ֗</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3947\">תִּקַּ֥ח</span> <span data-strong=\"H2967\">מִמֶּֽנִּי׃</span>",
     "transliteration": "'al-tasheliykheniy milefaneykha vervha kodeshekha 'al-tikah mimeniy.",
     "translation": "Não me rejeites da tua presença e não retires de mim o teu Espírito Santo."
   },
   {
     "verse": 14,
-    "original": "הָשִׁ֣יבָה לִּ֭י שְׂשׂ֣וֹן יִשְׁעֶ֑ךָ וְר֖וּחַ נְדִיבָ֣ה תִסְמְכֵֽנִי׃",
+    "original": "<span data-strong=\"H1886\">הָשִׁ֣יבָה</span> <span data-strong=\"H2967\">לִּ֭י</span> <span data-strong=\"H8342\">שְׂשׂ֣וֹן</span> <span data-strong=\"H3509\">יִשְׁעֶ֑ךָ</span> <span data-strong=\"H7307\">וְר֖וּחַ</span> <span data-strong=\"H5082\">נְדִיבָ֣ה</span> <span data-strong=\"H5204\">תִסְמְכֵֽנִי׃</span>",
     "transliteration": "hashiyvah liy sesvon yishe'ekha vervha nediyvah tisemekheniy.",
     "translation": "Restitui-me a alegria da tua salvação e um espírito generoso me sustente."
   },
   {
     "verse": 15,
-    "original": "אֲלַמְּדָ֣ה פֹשְׁעִ֣ים דְּרָכֶ֑יךָ וְ֝חַטָּאִ֗ים אֵלֶ֥יךָ יָשֽׁוּבוּ׃",
+    "original": "<span data-strong=\"H3925\">אֲלַמְּדָ֣ה</span> <span data-strong=\"H6586\">פֹשְׁעִ֣ים</span> <span data-strong=\"H3509\">דְּרָכֶ֑יךָ</span> <span data-strong=\"H2400\">וְ֝חַטָּאִ֗ים</span> <span data-strong=\"H3509\">אֵלֶ֥יךָ</span> <span data-strong=\"H7725\">יָשֽׁוּבוּ׃</span>",
     "transliteration": "'alamedah foshe'iym derakheykha vehata'iym 'eleykha yashvvv.",
     "translation": "Ensinar-te-ei os pecadores os teus caminhos, e os transgressores se converterão a ti."
   },
   {
     "verse": 16,
-    "original": "הַצִּ֘ילֵ֤נִי מִדָּמִ֨ים&thinsp;<b>׀</b> אֱֽלֹהִ֗ים אֱלֹהֵ֥י תְשׁוּעָתִ֑י תְּרַנֵּ֥ן לְ֝שׁוֹנִ֗י צִדְקָתֶֽךָ׃",
+    "original": "<span data-strong=\"H5204\">הַצִּ֘ילֵ֤נִי</span> <span data-strong=\"H1818\">מִדָּמִ֨ים&thinsp;<b>׀</b></span> <span data-strong=\"H430\">אֱֽלֹהִ֗ים</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H2967\">תְשׁוּעָתִ֑י</span> <span data-strong=\"H7442\">תְּרַנֵּ֥ן</span> <span data-strong=\"H2967\">לְ֝שׁוֹנִ֗י</span> <span data-strong=\"H3509\">צִדְקָתֶֽךָ׃</span>",
     "transliteration": "hatsiyleniy midamiym&thinsp;<b>|</b> 'elohiym 'elohey teshv'atiy teranen leshvoniy tsidekatekha.",
     "translation": "Livra-me dos meus inimigos, ó Deus, meu Deus de salvação; que minha língua cante tua justiça."
   },
   {
     "verse": 17,
-    "original": "אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃",
+    "original": "<span data-strong=\"H2967\">אֲ֭דֹנָי</span> <span data-strong=\"H2967\">שְׂפָתַ֣י</span> <span data-strong=\"H6605\">תִּפְתָּ֑ח</span> <span data-strong=\"H2967\">וּ֝פִ֗י</span> <span data-strong=\"H5046\">יַגִּ֥יד</span> <span data-strong=\"H3509\">תְּהִלָּתֶֽךָ׃</span>",
     "transliteration": "'adonay sefatay tifetah vfiy yagiyd tehilatekha.",
     "translation": "Senhor, tu abrirás os meus lábios e a minha boca proclamará a tua glória."
   },
   {
     "verse": 18,
-    "original": "כִּ֤י&thinsp;<b>׀</b> לֹא־תַחְפֹּ֣ץ זֶ֣בַח וְאֶתֵּ֑נָה ע֝וֹלָ֗ה לֹ֣א תִרְצֶֽה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H2654\">תַחְפֹּ֣ץ</span> <span data-strong=\"H2077\">זֶ֣בַח</span> <span data-strong=\"H5414\">וְאֶתֵּ֑נָה</span> <span data-strong=\"H5930\">ע֝וֹלָ֗ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H7521\">תִרְצֶֽה׃</span>",
     "transliteration": "khiy&thinsp;<b>|</b> lo'-tahefots zevah ve'etenah 'volah lo' tiretseh.",
     "translation": "Pois não te apraz sacrifício; oferta não queres, holocausto não te agrada."
   },
   {
     "verse": 19,
-    "original": "זִ֥בְחֵ֣י אֱלֹהִים֮ ר֤וּחַ נִשְׁבָּ֫רָ֥ה לֵב־נִשְׁבָּ֥ר וְנִדְכֶּ֑ה אֱ֝לֹהִ֗ים לֹ֣א תִבְזֶֽה׃",
+    "original": "<span data-strong=\"H2077\">זִ֥בְחֵ֣י</span> <span data-strong=\"H430\">אֱלֹהִים֮</span> <span data-strong=\"H7307\">ר֤וּחַ</span> <span data-strong=\"H7665\">נִשְׁבָּ֫רָ֥ה</span> <span data-strong=\"H3820\">לֵב</span>־<span data-strong=\"H7665\">נִשְׁבָּ֥ר</span> <span data-strong=\"H1794\">וְנִדְכֶּ֑ה</span> <span data-strong=\"H430\">אֱ֝לֹהִ֗ים</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H959\">תִבְזֶֽה׃</span>",
     "transliteration": "zivehey 'elohiym rvha nishevarah lev-nishevar venidekheh 'elohiym lo' tivezeh.",
     "translation": "Os sacrifícios de Deus são espírito quebrantado; coração quebrantado e contrito, ó Deus, não desprezareis."
   },
   {
     "verse": 20,
-    "original": "הֵיטִ֣יבָה בִ֭רְצוֹנְךָ אֶת־צִיּ֑וֹן תִּ֝בְנֶ֗ה חוֹמ֥וֹת יְרוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1886\">הֵיטִ֣יבָה</span> <span data-strong=\"H3509\">בִ֭רְצוֹנְךָ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6726\">צִיּ֑וֹן</span> <span data-strong=\"H1129\">תִּ֝בְנֶ֗ה</span> <span data-strong=\"H2346\">חוֹמ֥וֹת</span> <span data-strong=\"H3389\">יְרוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "heytiyvah viretsvonekha 'et-tsiyvon tiveneh hvomvot yervshalaim.",
     "translation": "Fazes bem ao teu desejo para Sião; edificas as muralhas de Jerusalém."
   },

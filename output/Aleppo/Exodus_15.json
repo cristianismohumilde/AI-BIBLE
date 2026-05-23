@@ -13,7 +13,7 @@
   },
   {
     "verse": 3,
-    "original": "יְהֹוָ֖ה אִ֣ישׁ מִלְחָמָ֑ה יְהֹוָ֖ה שְׁמֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H4421\">מִלְחָמָ֑ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2050\">שְׁמֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "yehovah 'iysh milehamah yehovah shemvo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Javé é o homem da batalha, Javé é Seu nome."
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "תְּהֹמֹ֖ת יְכַסְיֻ֑מוּ יָרְד֥וּ בִמְצוֹלֹ֖ת כְּמוֹ־אָֽבֶן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H8415\">תְּהֹמֹ֖ת</span> <span data-strong=\"H3963\">יְכַסְיֻ֑מוּ</span> <span data-strong=\"H3381\">יָרְד֥וּ</span> <span data-strong=\"H4688\">בִמְצוֹלֹ֖ת</span> <span data-strong=\"H3644\">כְּמוֹ</span>־<span data-strong=\"H68\">אָֽבֶן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "tehomot yekhaseyumv yaredv vimetsvolot khemvo-'aven.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Abismos os cobrirão; descerão aos abismos como pedra."
   },
@@ -67,7 +67,7 @@
   },
   {
     "verse": 12,
-    "original": "נָטִ֙יתָ֙ יְמִ֣ינְךָ֔ תִּבְלָעֵ֖מוֹ אָֽרֶץ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5186\">נָטִ֙יתָ֙</span> <span data-strong=\"H3509\">יְמִ֣ינְךָ֔</span> <span data-strong=\"H3963\">תִּבְלָעֵ֖מוֹ</span> <span data-strong=\"H776\">אָֽרֶץ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "natiyta yemiynekha tivela'emvo 'arets.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Estendeste tua mão direita, e a terra os devorou."
   },
@@ -115,7 +115,7 @@
   },
   {
     "verse": 20,
-    "original": "וַתִּקַּח֩ מִרְיָ֨ם הַנְּבִיאָ֜ה אֲח֧וֹת אַהֲרֹ֛ן אֶת־הַתֹּ֖ף בְּיָדָ֑הּ וַתֵּצֶ֤אןָ כׇֽל־הַנָּשִׁים֙ אַחֲרֶ֔יהָ בְּתֻפִּ֖ים וּבִמְחֹלֹֽת׃",
+    "original": "<span data-strong=\"H3947\">וַתִּקַּח֩</span> <span data-strong=\"H4813\">מִרְיָ֨ם</span> <span data-strong=\"H5031\">הַנְּבִיאָ֜ה</span> <span data-strong=\"H269\">אֲח֧וֹת</span> <span data-strong=\"H175\">אַהֲרֹ֛ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8596\">הַתֹּ֖ף</span> <span data-strong=\"H1886\">בְּיָדָ֑הּ</span> <span data-strong=\"H3318\">וַתֵּצֶ֤אןָ</span> <span data-strong=\"H3605\">כׇֽל</span>־<span data-strong=\"H802\">הַנָּשִׁים֙</span> <span data-strong=\"H1886\">אַחֲרֶ֔יהָ</span> <span data-strong=\"H8596\">בְּתֻפִּ֖ים</span> <span data-strong=\"H4246\">וּבִמְחֹלֹֽת׃</span>",
     "transliteration": "vatikah mireyam haneviy'ah 'ahvot 'aharon 'et-hatof veyadah vatetse'na khol-hanashiym 'ahareyha vetufiym vvimeholot.",
     "translation": "E Miriã, a profetiza, irmã de Aarão, tomou o tamborim em sua mão; e saíram todas as mulheres atrás dela com tamborins e danças."
   },
@@ -127,25 +127,25 @@
   },
   {
     "verse": 22,
-    "original": "וַיַּסַּ֨ע מֹשֶׁ֤ה אֶת־יִשְׂרָאֵל֙ מִיַּם־ס֔וּף וַיֵּצְא֖וּ אֶל־מִדְבַּר־שׁ֑וּר וַיֵּלְכ֧וּ שְׁלֹֽשֶׁת־יָמִ֛ים בַּמִּדְבָּ֖ר וְלֹא־מָ֥צְאוּ מָֽיִם׃",
+    "original": "<span data-strong=\"H5265\">וַיַּסַּ֨ע</span> <span data-strong=\"H4872\">מֹשֶׁ֤ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H3220\">מִיַּם</span>־<span data-strong=\"H5488\">ס֔וּף</span> <span data-strong=\"H3318\">וַיֵּצְא֖וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4057\">מִדְבַּר</span>־<span data-strong=\"H7793\">שׁ֑וּר</span> <span data-strong=\"H1980\">וַיֵּלְכ֧וּ</span> <span data-strong=\"H7969\">שְׁלֹֽשֶׁת</span>־<span data-strong=\"H3117\">יָמִ֛ים</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֖ר</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H4672\">מָ֥צְאוּ</span> <span data-strong=\"H4325\">מָֽיִם׃</span>",
     "transliteration": "vayasa' mosheh 'et-yisera'el miyam-svf vayetse'v 'el-midevar-shvr vayelekhv sheloshet-yamiym vamidevar velo'-matse'v mayim.",
     "translation": "E Moisés fez partir Israel do Mar Vermelho, e eles saíram para o deserto de Shur. Caminharam três dias no deserto e não encontraram água."
   },
   {
     "verse": 23,
-    "original": "וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֙יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל־כֵּ֥ן קָרָֽא־שְׁמָ֖הּ מָרָֽה׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֣אוּ</span> <span data-strong=\"H1886\">מָרָ֔תָה</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3201\">יָֽכְל֗וּ</span> <span data-strong=\"H8354\">לִשְׁתֹּ֥ת</span> <span data-strong=\"H4325\">מַ֙יִם֙</span> <span data-strong=\"H4785\">מִמָּרָ֔ה</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H4751\">מָרִ֖ים</span> <span data-strong=\"H1992\">הֵ֑ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H7121\">קָרָֽא</span>־<span data-strong=\"H1886\">שְׁמָ֖הּ</span> <span data-strong=\"H4785\">מָרָֽה׃</span>",
     "transliteration": "vayavo'v maratah velo' yakhelv lishetot mayim mimarah khiy mariym hem 'al-khen kara'-shemah marah.",
     "translation": "Eles chegaram a Mara, mas não puderam beber da água de Mara porque era amarga. Por isso ela chamou-se Mara."
   },
   {
     "verse": 24,
-    "original": "וַיִּלֹּ֧נוּ הָעָ֛ם עַל־מֹשֶׁ֥ה לֵּאמֹ֖ר מַה־נִּשְׁתֶּֽה׃",
+    "original": "<span data-strong=\"H3885\">וַיִּלֹּ֧נוּ</span> <span data-strong=\"H5971\">הָעָ֛ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹ֖ר</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H8354\">נִּשְׁתֶּֽה׃</span>",
     "transliteration": "vayilonv ha'am 'al-mosheh le'mor mah-nisheteh.",
     "translation": "E o povo murmurou contra Moisés, dizendo: De que beberemos?"
   },
   {
     "verse": 25,
-    "original": "וַיִּצְעַ֣ק אֶל־יְהֹוָ֗ה וַיּוֹרֵ֤הוּ יְהֹוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל־הַמַּ֔יִם וַֽיִּמְתְּק֖וּ הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ׃",
+    "original": "<span data-strong=\"H6817\">וַיִּצְעַ֣ק</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H1930\">וַיּוֹרֵ֤הוּ</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H6086\">עֵ֔ץ</span> <span data-strong=\"H7993\">וַיַּשְׁלֵךְ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4325\">הַמַּ֔יִם</span> <span data-strong=\"H4985\">וַֽיִּמְתְּק֖וּ</span> <span data-strong=\"H4325\">הַמָּ֑יִם</span> <span data-strong=\"H8033\">שָׁ֣ם</span> <span data-strong=\"H7760\">שָׂ֥ם</span> <span data-strong=\"H2050\">ל֛וֹ</span> <span data-strong=\"H2706\">חֹ֥ק</span> <span data-strong=\"H4941\">וּמִשְׁפָּ֖ט</span> <span data-strong=\"H8033\">וְשָׁ֥ם</span> <span data-strong=\"H1930\">נִסָּֽהוּ׃</span>",
     "transliteration": "vayitse'ak 'el-yehovah vayvorehv yehovah 'ets vayashelekhe 'el-hamayim vayimetekv hamayim sham sam lvo hok vmishefat vesham nisahv.",
     "translation": "E clamou ao Senhor, e o Senhor lhe mostrou uma árvore; ele a lançou na água, e as águas tornaram-se doces. Ali lhe estabeleceu leis e preceitos, ali o provou."
   },
@@ -157,7 +157,7 @@
   },
   {
     "verse": 27,
-    "original": "וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ־שָׁ֖ם עַל־הַמָּֽיִם׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֣אוּ</span> <span data-strong=\"H1886\">אֵילִ֔מָה</span> <span data-strong=\"H8033\">וְשָׁ֗ם</span> <span data-strong=\"H8147\">שְׁתֵּ֥ים</span> <span data-strong=\"H6240\">עֶשְׂרֵ֛ה</span> <span data-strong=\"H5869\">עֵינֹ֥ת</span> <span data-strong=\"H4325\">מַ֖יִם</span> <span data-strong=\"H7657\">וְשִׁבְעִ֣ים</span> <span data-strong=\"H8558\">תְּמָרִ֑ים</span> <span data-strong=\"H2583\">וַיַּחֲנוּ</span>־<span data-strong=\"H8033\">שָׁ֖ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4325\">הַמָּֽיִם׃</span>",
     "transliteration": "vayavo'v 'eylimah vesham sheteym 'esereh 'eynot mayim veshive'iym temariym vayahanv-sham 'al-hamayim.",
     "translation": "E eles chegaram a Elim, onde havia doze fontes de água e setenta palmeiras, e acamparam ali junto às águas."
   }

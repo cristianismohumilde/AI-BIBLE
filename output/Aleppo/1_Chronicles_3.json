@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "וְאֵ֤לֶּה הָיוּ֙ בְּנֵ֣י דָוִ֔יד אֲשֶׁ֥ר נוֹלַד־ל֖וֹ בְּחֶבְר֑וֹן הַבְּכ֣וֹר&thinsp;<b>׀</b> אַמְנֹ֗ן לַאֲחִינֹ֙עַם֙ הַיִּזְרְעֵאלִ֔ית שֵׁנִי֙ דָּנִיֵּ֔אל לַאֲבִיגַ֖יִל הַֽכַּרְמְלִֽית׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֤לֶּה</span> <span data-strong=\"H1961\">הָיוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1732\">דָוִ֔יד</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3205\">נוֹלַד</span>־<span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H2275\">בְּחֶבְר֑וֹן</span> <span data-strong=\"H1060\">הַבְּכ֣וֹר&thinsp;<b>׀</b></span> <span data-strong=\"H550\">אַמְנֹ֗ן</span> <span data-strong=\"H293\">לַאֲחִינֹ֙עַם֙</span> <span data-strong=\"H3158\">הַיִּזְרְעֵאלִ֔ית</span> <span data-strong=\"H8145\">שֵׁנִי֙</span> <span data-strong=\"H1840\">דָּנִיֵּ֔אל</span> <span data-strong=\"H26\">לַאֲבִיגַ֖יִל</span> <span data-strong=\"H3761\">הַֽכַּרְמְלִֽית׃</span>",
     "transliteration": "ve'eleh hayv veney daviyd 'asher nvolad-lvo vehevervon havekhvor&thinsp;<b>|</b> 'amenon la'ahiyno'am hayizere'e'liyt sheniy daniye'l la'aviygayil hakharemeliyt.",
     "translation": "E estes foram os filhos de Davi, nascidos-lhe em Hebrom: o primogênito Amnom, de Aminã, a israelita de Jizreel; o segundo, Daniel, de Abigail, a carmelita."
   },
   {
     "verse": 2,
-    "original": "הַשְּׁלִשִׁי֙ לְאַבְשָׁל֣וֹם בֶּֽן־מַעֲכָ֔ה בַּת־תַּלְמַ֖י מֶ֣לֶךְ גְּשׁ֑וּר הָרְבִיעִ֖י אֲדֹנִיָּ֥ה בֶן־חַגִּֽית׃",
+    "original": "<span data-strong=\"H7992\">הַשְּׁלִשִׁי֙</span> <span data-strong=\"H53\">לְאַבְשָׁל֣וֹם</span> <span data-strong=\"H1121\">בֶּֽן</span>־<span data-strong=\"H4601\">מַעֲכָ֔ה</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H8526\">תַּלְמַ֖י</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H1650\">גְּשׁ֑וּר</span> <span data-strong=\"H7243\">הָרְבִיעִ֖י</span> <span data-strong=\"H138\">אֲדֹנִיָּ֥ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H2294\">חַגִּֽית׃</span>",
     "transliteration": "hashelishiy le'aveshalvom ven-ma'akhah vat-talemay melekhe geshvr hareviy'iy 'adoniyah ven-hagiyt.",
     "translation": "O terceiro foi Absalão, filho de Maaca, filha de Talmai, rei de Geshur; o quarto foi Adonias, filho de Hagite."
   },
   {
     "verse": 3,
-    "original": "הַחֲמִישִׁ֥י שְׁפַטְיָ֖ה לַאֲבִיטָ֑ל הַשִּׁשִּׁ֥י יִתְרְעָ֖ם לְעֶגְלָ֥ה אִשְׁתּֽוֹ׃",
+    "original": "<span data-strong=\"H2549\">הַחֲמִישִׁ֥י</span> <span data-strong=\"H8203\">שְׁפַטְיָ֖ה</span> <span data-strong=\"H37\">לַאֲבִיטָ֑ל</span> <span data-strong=\"H8345\">הַשִּׁשִּׁ֥י</span> <span data-strong=\"H3507\">יִתְרְעָ֖ם</span> <span data-strong=\"H5698\">לְעֶגְלָ֥ה</span> <span data-strong=\"H2050\">אִשְׁתּֽוֹ׃</span>",
     "transliteration": "hahamiyshiy shefateyah la'aviytal hashishiy yitere'am le'egelah 'ishetvo.",
     "translation": "O quinto, Shafatyá, para Abital; o sexto, Yiteram, para Eglá, sua esposa."
   },
@@ -25,25 +25,25 @@
   },
   {
     "verse": 5,
-    "original": "וְאֵ֥לֶּה נוּלְּדוּ־ל֖וֹ בִּירוּשָׁלָ֑יִם שִׁ֠מְעָ֠א וְשׁוֹבָ֞ב וְנָתָ֤ן וּשְׁלֹמֹה֙ אַרְבָּעָ֔ה לְבַת־שׁ֖וּעַ בַּת־עַמִּיאֵֽל׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֥לֶּה</span> <span data-strong=\"H3205\">נוּלְּדוּ</span>־<span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H3389\">בִּירוּשָׁלָ֑יִם</span> <span data-strong=\"H8092\">שִׁ֠מְעָ֠א</span> <span data-strong=\"H7727\">וְשׁוֹבָ֞ב</span> <span data-strong=\"H5416\">וְנָתָ֤ן</span> <span data-strong=\"H8010\">וּשְׁלֹמֹה֙</span> <span data-strong=\"H702\">אַרְבָּעָ֔ה</span> <span data-strong=\"H1340\">לְבַת</span>־<span data-strong=\"H1340\">שׁ֖וּעַ</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H5988\">עַמִּיאֵֽל׃</span>",
     "transliteration": "ve'eleh nvledv-lvo viyrvshalayim shime'a' veshvovav venatan vshelomoh 'areva'ah levat-shv'a vat-'amiy'el.",
     "translation": "E estes nasceram para ele em Jerusalém: Sima, Sova, Natã e Salomão; quatro por Bate-Seua filha de Aminiel."
   },
   {
     "verse": 6,
-    "original": "וְיִבְחָ֥ר וֶאֱלִישָׁמָ֖ע וֶאֱלִיפָֽלֶט׃",
+    "original": "<span data-strong=\"H2984\">וְיִבְחָ֥ר</span> <span data-strong=\"H476\">וֶאֱלִישָׁמָ֖ע</span> <span data-strong=\"H467\">וֶאֱלִיפָֽלֶט׃</span>",
     "transliteration": "veyivehar ve'eliyshama' ve'eliyfalet.",
     "translation": "E escolherá Elishama e Elifelete."
   },
   {
     "verse": 7,
-    "original": "וְנֹ֥גַהּ וְנֶ֖פֶג וְיָפִֽיעַ׃",
+    "original": "<span data-strong=\"H5052\">וְנֹ֥גַהּ</span> <span data-strong=\"H5298\">וְנֶ֖פֶג</span> <span data-strong=\"H3309\">וְיָפִֽיעַ׃</span>",
     "transliteration": "venogah venefeg veyafiy'a.",
     "translation": "E Nogá e Nepeg e Jafia."
   },
   {
     "verse": 8,
-    "original": "וֶאֱלִישָׁמָ֧ע וְאֶלְיָדָ֛ע וֶאֱלִיפֶ֖לֶט תִּשְׁעָֽה׃",
+    "original": "<span data-strong=\"H476\">וֶאֱלִישָׁמָ֧ע</span> <span data-strong=\"H450\">וְאֶלְיָדָ֛ע</span> <span data-strong=\"H467\">וֶאֱלִיפֶ֖לֶט</span> <span data-strong=\"H8672\">תִּשְׁעָֽה׃</span>",
     "transliteration": "ve'eliyshama' ve'eleyada' ve'eliyfelet tishe'ah.",
     "translation": "E Elishama e Eliada e Elifelet nove."
   },
@@ -55,79 +55,79 @@
   },
   {
     "verse": 10,
-    "original": "וּבֶן־שְׁלֹמֹ֖ה רְחַבְעָ֑ם אֲבִיָּ֥ה בְנ֛וֹ אָסָ֥א בְנ֖וֹ יְהוֹשָׁפָ֥ט בְּנֽוֹ׃",
+    "original": "<span data-strong=\"H1121\">וּבֶן</span>־<span data-strong=\"H8010\">שְׁלֹמֹ֖ה</span> <span data-strong=\"H7346\">רְחַבְעָ֑ם</span> <span data-strong=\"H29\">אֲבִיָּ֥ה</span> <span data-strong=\"H2050\">בְנ֛וֹ</span> <span data-strong=\"H609\">אָסָ֥א</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H3092\">יְהוֹשָׁפָ֥ט</span> <span data-strong=\"H2050\">בְּנֽוֹ׃</span>",
     "transliteration": "vven-shelomoh rehave'am 'aviyah venvo 'asa' venvo yehvoshafat venvo.",
     "translation": "E Roboão, filho de Salomão; Abias, seu filho; Asa, seu filho; Jeússafá, seu filho."
   },
   {
     "verse": 11,
-    "original": "יוֹרָ֥ם בְּנ֛וֹ אֲחַזְיָ֥הוּ בְנ֖וֹ יוֹאָ֥שׁ בְּנֽוֹ׃",
+    "original": "<span data-strong=\"H3141\">יוֹרָ֥ם</span> <span data-strong=\"H2050\">בְּנ֛וֹ</span> <span data-strong=\"H274\">אֲחַזְיָ֥הוּ</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H3101\">יוֹאָ֥שׁ</span> <span data-strong=\"H2050\">בְּנֽוֹ׃</span>",
     "transliteration": "yvoram venvo 'ahazeyahv venvo yvo'ash venvo.",
     "translation": "Jorão seu filho, Acazias seu filho, Joás seu filho."
   },
   {
     "verse": 12,
-    "original": "אֲמַצְיָ֧הוּ בְנ֛וֹ עֲזַרְיָ֥ה בְנ֖וֹ יוֹתָ֥ם בְּנֽוֹ׃",
+    "original": "<span data-strong=\"H558\">אֲמַצְיָ֧הוּ</span> <span data-strong=\"H2050\">בְנ֛וֹ</span> <span data-strong=\"H5838\">עֲזַרְיָ֥ה</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H3147\">יוֹתָ֥ם</span> <span data-strong=\"H2050\">בְּנֽוֹ׃</span>",
     "transliteration": "'amatseyahv venvo 'azareyah venvo yvotam venvo.",
     "translation": "Amasias seu filho, Ozias seu filho, Jotão seu filho."
   },
   {
     "verse": 13,
-    "original": "אָחָ֥ז בְּנ֛וֹ חִזְקִיָּ֥הוּ בְנ֖וֹ מְנַשֶּׁ֥ה בְנֽוֹ׃",
+    "original": "<span data-strong=\"H271\">אָחָ֥ז</span> <span data-strong=\"H2050\">בְּנ֛וֹ</span> <span data-strong=\"H2396\">חִזְקִיָּ֥הוּ</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H4519\">מְנַשֶּׁ֥ה</span> <span data-strong=\"H2050\">בְנֽוֹ׃</span>",
     "transliteration": "'ahaz venvo hizekiyahv venvo menasheh venvo.",
     "translation": "Acaz gerou Ezequias; Ezequias gerou Manassés; Manassés gerou:"
   },
   {
     "verse": 14,
-    "original": "אָמ֥וֹן בְּנ֖וֹ יֹאשִׁיָּ֥הוּ בְנֽוֹ׃",
+    "original": "<span data-strong=\"H526\">אָמ֥וֹן</span> <span data-strong=\"H2050\">בְּנ֖וֹ</span> <span data-strong=\"H2977\">יֹאשִׁיָּ֥הוּ</span> <span data-strong=\"H2050\">בְנֽוֹ׃</span>",
     "transliteration": "'amvon venvo yo'shiyahv venvo.",
     "translation": "Amon, seu filho; Josias, seu filho."
   },
   {
     "verse": 15,
-    "original": "וּבְנֵי֙ יֹֽאשִׁיָּ֔הוּ הַבְּכוֹר֙ יֽוֹחָנָ֔ן הַשֵּׁנִ֖י יְהוֹיָקִ֑ים הַשְּׁלִשִׁי֙ צִדְקִיָּ֔הוּ הָרְבִיעִ֖י שַׁלּֽוּם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵי֙</span> <span data-strong=\"H2977\">יֹֽאשִׁיָּ֔הוּ</span> <span data-strong=\"H1060\">הַבְּכוֹר֙</span> <span data-strong=\"H3110\">יֽוֹחָנָ֔ן</span> <span data-strong=\"H8145\">הַשֵּׁנִ֖י</span> <span data-strong=\"H3079\">יְהוֹיָקִ֑ים</span> <span data-strong=\"H7992\">הַשְּׁלִשִׁי֙</span> <span data-strong=\"H6667\">צִדְקִיָּ֔הוּ</span> <span data-strong=\"H7243\">הָרְבִיעִ֖י</span> <span data-strong=\"H7967\">שַׁלּֽוּם׃</span>",
     "transliteration": "vveney yo'shiyahv havekhvor yvohanan hasheniy yehvoyakiym hashelishiy tsidekiyahv hareviy'iy shalvm.",
     "translation": "E os filhos de Josias, o primogênito Joaquim, o segundo Jeoacaz, o terceiro Zedequias, o quarto Salum."
   },
   {
     "verse": 16,
-    "original": "וּבְנֵ֖י יְהוֹיָקִ֑ים יְכׇנְיָ֥ה בְנ֖וֹ צִדְקִיָּ֥ה בְנֽוֹ׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H3079\">יְהוֹיָקִ֑ים</span> <span data-strong=\"H3204\">יְכׇנְיָ֥ה</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H6667\">צִדְקִיָּ֥ה</span> <span data-strong=\"H2050\">בְנֽוֹ׃</span>",
     "transliteration": "vveney yehvoyakiym yekhoneyah venvo tsidekiyah venvo.",
     "translation": "E os filhos de Jeoiaquim foram Joaquim seu filho e Zedequel seu filho."
   },
   {
     "verse": 17,
-    "original": "וּבְנֵי֙ יְכׇנְיָ֣ה אַסִּ֔ר שְׁאַלְתִּיאֵ֖ל בְּנֽוֹ׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵי֙</span> <span data-strong=\"H3204\">יְכׇנְיָ֣ה</span> <span data-strong=\"H616\">אַסִּ֔ר</span> <span data-strong=\"H7597\">שְׁאַלְתִּיאֵ֖ל</span> <span data-strong=\"H2050\">בְּנֽוֹ׃</span>",
     "transliteration": "vveney yekhoneyah 'asir she'aletiy'el venvo.",
     "translation": "E os filhos de Jeconias, o cativo; Salatiel seu filho."
   },
   {
     "verse": 18,
-    "original": "וּמַלְכִירָ֥ם וּפְדָיָ֖ה וְשֶׁנְאַצַּ֑ר יְקַמְיָ֥ה הוֹשָׁמָ֖ע וּנְדַבְיָֽה׃",
+    "original": "<span data-strong=\"H4443\">וּמַלְכִירָ֥ם</span> <span data-strong=\"H6305\">וּפְדָיָ֖ה</span> <span data-strong=\"H8137\">וְשֶׁנְאַצַּ֑ר</span> <span data-strong=\"H3359\">יְקַמְיָ֥ה</span> <span data-strong=\"H1953\">הוֹשָׁמָ֖ע</span> <span data-strong=\"H5072\">וּנְדַבְיָֽה׃</span>",
     "transliteration": "vmalekhiyram vfedayah veshene'atsar yekameyah hvoshama' vnedaveyah.",
     "translation": "E Malquira, e Pedajá, e Seneczar, Jequamia, Hosema, e Nedebia."
   },
   {
     "verse": 19,
-    "original": "וּבְנֵ֣י פְדָיָ֔ה זְרֻבָּבֶ֖ל וְשִׁמְעִ֑י וּבֶן־זְרֻבָּבֶל֙ מְשֻׁלָּ֣ם וַחֲנַנְיָ֔ה וּשְׁלֹמִ֖ית אֲחוֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H6305\">פְדָיָ֔ה</span> <span data-strong=\"H2216\">זְרֻבָּבֶ֖ל</span> <span data-strong=\"H8096\">וְשִׁמְעִ֑י</span> <span data-strong=\"H1121\">וּבֶן</span>־<span data-strong=\"H2216\">זְרֻבָּבֶל֙</span> <span data-strong=\"H4918\">מְשֻׁלָּ֣ם</span> <span data-strong=\"H2608\">וַחֲנַנְיָ֔ה</span> <span data-strong=\"H8019\">וּשְׁלֹמִ֖ית</span> <span data-strong=\"H3963\">אֲחוֹתָֽם׃</span>",
     "transliteration": "vveney fedayah zeruvavel veshime'iy vven-zeruvavel meshulam vahananeyah vshelomiyt 'ahvotam.",
     "translation": "E os filhos de Pedaia foram Zorobabel e Siméi; e os filhos de Zorobabel foram Mesulão e Hananias, e Selomite era sua irmã."
   },
   {
     "verse": 20,
-    "original": "וַחֲשֻׁבָ֡ה וָ֠אֹ֠הֶל וּבֶרֶכְיָ֧ה וַחֲסַדְיָ֛ה י֥וּשַׁב חֶ֖סֶד חָמֵֽשׁ׃",
+    "original": "<span data-strong=\"H2807\">וַחֲשֻׁבָ֡ה</span> <span data-strong=\"H169\">וָ֠אֹ֠הֶל</span> <span data-strong=\"H1296\">וּבֶרֶכְיָ֧ה</span> <span data-strong=\"H2619\">וַחֲסַדְיָ֛ה</span> <span data-strong=\"H3142\">י֥וּשַׁב</span> <span data-strong=\"H3142\">חֶ֖סֶד</span> <span data-strong=\"H2568\">חָמֵֽשׁ׃</span>",
     "transliteration": "vahashuvah va'ohel vverekheyah vahasadeyah yvshav hesed hamesh.",
     "translation": "E Hashuvá, Ohel, Berécia e Hasadyá assentaram-se em Kesed; cinco."
   },
   {
     "verse": 21,
-    "original": "וּבֶן־חֲנַנְיָ֖ה פְּלַטְיָ֣ה וִישַֽׁעְיָ֑ה בְּנֵ֤י רְפָיָה֙ בְּנֵ֣י אַרְנָ֔ן בְּנֵ֥י עֹבַדְיָ֖ה בְּנֵ֥י שְׁכַנְיָֽה׃",
+    "original": "<span data-strong=\"H1121\">וּבֶן</span>־<span data-strong=\"H2608\">חֲנַנְיָ֖ה</span> <span data-strong=\"H6410\">פְּלַטְיָ֣ה</span> <span data-strong=\"H3470\">וִישַֽׁעְיָ֑ה</span> <span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H7509\">רְפָיָה֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H770\">אַרְנָ֔ן</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5662\">עֹבַדְיָ֖ה</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H7935\">שְׁכַנְיָֽה׃</span>",
     "transliteration": "vven-hananeyah felateyah viysha'eyah veney refayah veney 'arenan veney 'ovadeyah veney shekhaneyah.",
     "translation": "E o filho de Hananias, Plattia e Isaias, filhos de Refaja, filhos de Arnan, filhos de Obadias, filhos de Sconias."
   },
   {
     "verse": 22,
-    "original": "וּבְנֵ֥י שְׁכַנְיָ֖ה שְׁמַֽעְיָ֑ה וּבְנֵ֣י שְׁמַֽעְיָ֗ה חַטּ֡וּשׁ וְ֠יִגְאָ֠ל וּבָרִ֧יחַ וּנְעַרְיָ֛ה וְשָׁפָ֖ט שִׁשָּֽׁה׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֥י</span> <span data-strong=\"H7935\">שְׁכַנְיָ֖ה</span> <span data-strong=\"H8098\">שְׁמַֽעְיָ֑ה</span> <span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H8098\">שְׁמַֽעְיָ֗ה</span> <span data-strong=\"H2407\">חַטּ֡וּשׁ</span> <span data-strong=\"H3008\">וְ֠יִגְאָ֠ל</span> <span data-strong=\"H1282\">וּבָרִ֧יחַ</span> <span data-strong=\"H5294\">וּנְעַרְיָ֛ה</span> <span data-strong=\"H8202\">וְשָׁפָ֖ט</span> <span data-strong=\"H8337\">שִׁשָּֽׁה׃</span>",
     "transliteration": "vveney shekhaneyah shema'eyah vveney shema'eyah hatvsh veyige'al vvariyha vne'areyah veshafat shishah.",
     "translation": "E os filhos de Shkaniah foram Shmaia, e os filhos de Shmaia: Chatush, Yigal, Bariah, Nearia e Safat, seis."
   },

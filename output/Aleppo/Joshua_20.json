@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֖עַ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-yehvoshu'a le'mor.",
     "translation": "E o Senhor falou a Josué, dizendo:"
   },
   {
     "verse": 2,
-    "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר תְּנ֤וּ לָכֶם֙ אֶת־עָרֵ֣י הַמִּקְלָ֔ט אֲשֶׁר־דִּבַּ֥רְתִּי אֲלֵיכֶ֖ם בְּיַד־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֛ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H5414\">תְּנ֤וּ</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5892\">עָרֵ֣י</span> <span data-strong=\"H4733\">הַמִּקְלָ֔ט</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבַּ֥רְתִּי</span> <span data-strong=\"H3641\">אֲלֵיכֶ֖ם</span> <span data-strong=\"H3027\">בְּיַד</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "daver 'el-veney yisera'el le'mor tenv lakhem 'et-'arey hamikelat 'asher-divaretiy 'aleykhem veyad-mosheh.",
     "translation": "Fala aos filhos de Israel, dizendo: Dai-vos as cidades do refúgio, das quais vos falei pela mão de Moisés."
   },
   {
     "verse": 3,
-    "original": "לָנ֥וּס שָׁ֙מָּה֙ רוֹצֵ֔חַ מַכֵּה־נֶ֥פֶשׁ בִּשְׁגָגָ֖ה בִּבְלִי־דָ֑עַת וְהָי֤וּ לָכֶם֙ לְמִקְלָ֔ט מִגֹּאֵ֖ל הַדָּֽם׃",
+    "original": "<span data-strong=\"H5127\">לָנ֥וּס</span> <span data-strong=\"H1886\">שָׁ֙מָּה֙</span> <span data-strong=\"H7523\">רוֹצֵ֔חַ</span> <span data-strong=\"H5221\">מַכֵּה</span>־<span data-strong=\"H5315\">נֶ֥פֶשׁ</span> <span data-strong=\"H7684\">בִּשְׁגָגָ֖ה</span> <span data-strong=\"H1097\">בִּבְלִי</span>־<span data-strong=\"H1847\">דָ֑עַת</span> <span data-strong=\"H1961\">וְהָי֤וּ</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H4733\">לְמִקְלָ֔ט</span> <span data-strong=\"H1350\">מִגֹּאֵ֖ל</span> <span data-strong=\"H1818\">הַדָּֽם׃</span>",
     "transliteration": "lanvs shamah rvotseha makheh-nefesh vishegagah viveliy-da'at vehayv lakhem lemikelat migo'el hadam.",
     "translation": "Fugindo para lá quem mata uma alma por acidente, sem conhecimento, e serão para vocês lugares de refúgio do vingador do sangue."
   },
   {
     "verse": 4,
-    "original": "וְנָ֞ס אֶל־אַחַ֣ת&thinsp;<b>׀</b> מֵהֶעָרִ֣ים הָאֵ֗לֶּה וְעָמַד֙ פֶּ֚תַח שַׁ֣עַר הָעִ֔יר וְדִבֶּ֛ר בְּאׇזְנֵ֛י זִקְנֵֽי־הָעִ֥יר הַהִ֖יא אֶת־דְּבָרָ֑יו וְאָֽסְפ֨וּ אֹת֤וֹ הָעִ֙ירָה֙ אֲלֵיהֶ֔ם וְנָתְנוּ־ל֥וֹ מָק֖וֹם וְיָשַׁ֥ב עִמָּֽם׃",
+    "original": "<span data-strong=\"H5127\">וְנָ֞ס</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H259\">אַחַ֣ת&thinsp;<b>׀</b></span> <span data-strong=\"H5892\">מֵהֶעָרִ֣ים</span> <span data-strong=\"H428\">הָאֵ֗לֶּה</span> <span data-strong=\"H5975\">וְעָמַד֙</span> <span data-strong=\"H6607\">פֶּ֚תַח</span> <span data-strong=\"H8179\">שַׁ֣עַר</span> <span data-strong=\"H5892\">הָעִ֔יר</span> <span data-strong=\"H1696\">וְדִבֶּ֛ר</span> <span data-strong=\"H241\">בְּאׇזְנֵ֛י</span> <span data-strong=\"H2205\">זִקְנֵֽי</span>־<span data-strong=\"H5892\">הָעִ֥יר</span> <span data-strong=\"H1931\">הַהִ֖יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">דְּבָרָ֑יו</span> <span data-strong=\"H622\">וְאָֽסְפ֨וּ</span> <span data-strong=\"H2050\">אֹת֤וֹ</span> <span data-strong=\"H1886\">הָעִ֙ירָה֙</span> <span data-strong=\"H3963\">אֲלֵיהֶ֔ם</span> <span data-strong=\"H5414\">וְנָתְנוּ</span>־<span data-strong=\"H2050\">ל֥וֹ</span> <span data-strong=\"H4725\">מָק֖וֹם</span> <span data-strong=\"H3427\">וְיָשַׁ֥ב</span> <span data-strong=\"H3963\">עִמָּֽם׃</span>",
     "transliteration": "venas 'el-'ahat&thinsp;<b>|</b> mehe'ariym ha'eleh ve'amad fetah sha'ar ha'iyr vediver ve'ozeney zikeney-ha'iyr hahiy' 'et-devarayv ve'asefv 'otvo ha'iyrah 'aleyhem venatenv-lvo makvom veyashav 'imam.",
     "translation": "E fugirá para uma destas cidades, e, posto à entrada da porta da cidade, dirá os seus casos aos ouvidos dos anciãos daquela cidade; e eles o trarão a si e lhe darão lugar, e ele morará entre eles."
   },
   {
     "verse": 5,
-    "original": "וְכִ֨י יִרְדֹּ֜ף גֹּאֵ֤ל הַדָּם֙ אַחֲרָ֔יו וְלֹא־יַסְגִּ֥רוּ אֶת־הָרֹצֵ֖חַ בְּיָד֑וֹ כִּ֤י בִבְלִי־דַ֙עַת֙ הִכָּ֣ה אֶת־רֵעֵ֔הוּ וְלֹא־שֹׂנֵ֥א ה֛וּא ל֖וֹ מִתְּמ֥וֹל שִׁלְשֽׁוֹם׃",
+    "original": "<span data-strong=\"H3588\">וְכִ֨י</span> <span data-strong=\"H7291\">יִרְדֹּ֜ף</span> <span data-strong=\"H1350\">גֹּאֵ֤ל</span> <span data-strong=\"H1818\">הַדָּם֙</span> <span data-strong=\"H2050\">אַחֲרָ֔יו</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H5462\">יַסְגִּ֥רוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7523\">הָרֹצֵ֖חַ</span> <span data-strong=\"H2050\">בְּיָד֑וֹ</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H1097\">בִבְלִי</span>־<span data-strong=\"H1847\">דַ֙עַת֙</span> <span data-strong=\"H5221\">הִכָּ֣ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1930\">רֵעֵ֔הוּ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H8130\">שֹׂנֵ֥א</span> <span data-strong=\"H1931\">ה֛וּא</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H8543\">מִתְּמ֥וֹל</span> <span data-strong=\"H8032\">שִׁלְשֽׁוֹם׃</span>",
     "transliteration": "vekhiy yiredof go'el hadam 'aharayv velo'-yasegirv 'et-harotseha veyadvo khiy viveliy-da'at hikhah 'et-re'ehv velo'-sone' hv' lvo mitemvol shileshvom.",
     "translation": "E quando o vingador do sangue o perseguir, não entreguem o feridor na sua mão; pois à inconsciência feriu seu companheiro, e não é inimigo dele desde ontem."
   },
   {
     "verse": 6,
-    "original": "וְיָשַׁ֣ב&thinsp;<b>׀</b> בָּעִ֣יר הַהִ֗יא עַד־עׇמְד֞וֹ לִפְנֵ֤י הָעֵדָה֙ לַמִּשְׁפָּ֔ט עַד־מוֹת֙ הַכֹּהֵ֣ן הַגָּד֔וֹל אֲשֶׁ֥ר יִֽהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם אָ֣ז&thinsp;<b>׀</b> יָשׁ֣וּב הָרוֹצֵ֗חַ וּבָ֤א אֶל־עִירוֹ֙ וְאֶל־בֵּית֔וֹ אֶל־הָעִ֖יר אֲשֶׁר־נָ֥ס מִשָּֽׁם׃",
+    "original": "<span data-strong=\"H3427\">וְיָשַׁ֣ב&thinsp;<b>׀</b></span> <span data-strong=\"H5892\">בָּעִ֣יר</span> <span data-strong=\"H1931\">הַהִ֗יא</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H2050\">עׇמְד֞וֹ</span> <span data-strong=\"H6440\">לִפְנֵ֤י</span> <span data-strong=\"H5712\">הָעֵדָה֙</span> <span data-strong=\"H4941\">לַמִּשְׁפָּ֔ט</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4194\">מוֹת֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֣ן</span> <span data-strong=\"H1419\">הַגָּד֔וֹל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1961\">יִֽהְיֶ֖ה</span> <span data-strong=\"H3117\">בַּיָּמִ֣ים</span> <span data-strong=\"H1992\">הָהֵ֑ם</span> <span data-strong=\"H227\">אָ֣ז&thinsp;<b>׀</b></span> <span data-strong=\"H7725\">יָשׁ֣וּב</span> <span data-strong=\"H7523\">הָרוֹצֵ֗חַ</span> <span data-strong=\"H935\">וּבָ֤א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">עִירוֹ֙</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H2050\">בֵּית֔וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5892\">הָעִ֖יר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5127\">נָ֥ס</span> <span data-strong=\"H8033\">מִשָּֽׁם׃</span>",
     "transliteration": "veyashav&thinsp;<b>|</b> va'iyr hahiy' 'ad-'omedvo lifeney ha'edah lamishefat 'ad-mvot hakhohen hagadvol 'asher yiheyeh vayamiym hahem 'az&thinsp;<b>|</b> yashvv harvotseha vva' 'el-'iyrvo ve'el-veytvo 'el-ha'iyr 'asher-nas misham.",
     "translation": "E habitará naquela cidade até comparecer diante da assembleia para o julgamento, até a morte do sumo sacerdote que estiver nos dias daquele tempo; então o homicida retornará e virá à sua cidade e à sua casa, à cidade de onde fugiu."
   },
   {
     "verse": 7,
-    "original": "וַיַּקְדִּ֜שׁוּ אֶת־קֶ֤דֶשׁ בַּגָּלִיל֙ בְּהַ֣ר נַפְתָּלִ֔י וְאֶת־שְׁכֶ֖ם בְּהַ֣ר אֶפְרָ֑יִם וְאֶת־קִרְיַ֥ת אַרְבַּ֛ע הִ֥יא חֶבְר֖וֹן בְּהַ֥ר יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H6942\">וַיַּקְדִּ֜שׁוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6943\">קֶ֤דֶשׁ</span> <span data-strong=\"H1551\">בַּגָּלִיל֙</span> <span data-strong=\"H2022\">בְּהַ֣ר</span> <span data-strong=\"H5321\">נַפְתָּלִ֔י</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7927\">שְׁכֶ֖ם</span> <span data-strong=\"H2022\">בְּהַ֣ר</span> <span data-strong=\"H669\">אֶפְרָ֑יִם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7153\">קִרְיַ֥ת</span> <span data-strong=\"H7153\">אַרְבַּ֛ע</span> <span data-strong=\"H1931\">הִ֥יא</span> <span data-strong=\"H2275\">חֶבְר֖וֹן</span> <span data-strong=\"H2022\">בְּהַ֥ר</span> <span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "vayakedishv 'et-kedesh vagaliyl vehar nafetaliy ve'et-shekhem vehar 'eferayim ve'et-kireyat 'areva' hiy' hevervon vehar yehvdah.",
     "translation": "E consagraram Kedesh, na Galileia, no monte de Naftali, e Sessem, no monte Efraim, e Quiriate-Arba, que é Hebron, no monte de Judá."
   },

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַֽיְהִי֙ בַּשָּׁנָ֣ה הָרְבִעִ֔ית לִיהוֹיָקִ֥ים בֶּן־יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה הָיָ֞ה הַדָּבָ֤ר הַזֶּה֙ אֶֽל־יִרְמְיָ֔הוּ מֵאֵ֥ת יְהֹוָ֖ה לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H8141\">בַּשָּׁנָ֣ה</span> <span data-strong=\"H7243\">הָרְבִעִ֔ית</span> <span data-strong=\"H3079\">לִיהוֹיָקִ֥ים</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2977\">יֹאשִׁיָּ֖הוּ</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H1961\">הָיָ֞ה</span> <span data-strong=\"H1697\">הַדָּבָ֤ר</span> <span data-strong=\"H2088\">הַזֶּה֙</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3414\">יִרְמְיָ֔הוּ</span> <span data-strong=\"H854\">מֵאֵ֥ת</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy vashanah harevi'iyt liyhvoyakiym ven-yo'shiyahv melekhe yehvdah hayah hadavar hazeh 'el-yiremeyahv me'et yehovah le'mor.",
     "translation": "E no quarto ano de Joaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do Senhor, dizendo:"
   },
   {
     "verse": 2,
-    "original": "קַח־לְךָ֮ מְגִלַּת־סֵ֒פֶר֒ וְכָתַבְתָּ֣ אֵלֶ֗יהָ אֵ֣ת כׇּל־הַדְּבָרִ֞ים אֲשֶׁר־דִּבַּ֧רְתִּי אֵלֶ֛יךָ עַל־יִשְׂרָאֵ֥ל וְעַל־יְהוּדָ֖ה וְעַל־כׇּל־הַגּוֹיִ֑ם מִיּ֞וֹם דִּבַּ֤רְתִּי אֵלֶ֙יךָ֙ מִימֵ֣י יֹאשִׁיָּ֔הוּ וְעַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+    "original": "<span data-strong=\"H3947\">קַח</span>־<span data-strong=\"H3509\">לְךָ֮</span> <span data-strong=\"H4039\">מְגִלַּת</span>־<span data-strong=\"H5612\">סֵ֒פֶר֒</span> <span data-strong=\"H3789\">וְכָתַבְתָּ֣</span> <span data-strong=\"H1886\">אֵלֶ֗יהָ</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֞ים</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבַּ֧רְתִּי</span> <span data-strong=\"H3509\">אֵלֶ֛יךָ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֥ל</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3063\">יְהוּדָ֖ה</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1471\">הַגּוֹיִ֑ם</span> <span data-strong=\"H3117\">מִיּ֞וֹם</span> <span data-strong=\"H1696\">דִּבַּ֤רְתִּי</span> <span data-strong=\"H3509\">אֵלֶ֙יךָ֙</span> <span data-strong=\"H3117\">מִימֵ֣י</span> <span data-strong=\"H2977\">יֹאשִׁיָּ֔הוּ</span> <span data-strong=\"H5704\">וְעַ֖ד</span> <span data-strong=\"H3117\">הַיּ֥וֹם</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "kah-lekha megilat-sefer vekhataveta 'eleyha 'et khol-hadevariym 'asher-divaretiy 'eleykha 'al-yisera'el ve'al-yehvdah ve'al-khol-hagvoyim miyvom divaretiy 'eleykha miymey yo'shiyahv ve'ad hayvom hazeh.",
     "translation": "Toma para ti um rolo de livro e escreve nele todos os discursos que tenho falado a ti sobre Israel, Judá e todas as nações desde o dia em que eu falei contigo no tempo de Josias até ao dia de hoje."
   },
@@ -19,25 +19,25 @@
   },
   {
     "verse": 4,
-    "original": "וַיִּקְרָ֣א יִרְמְיָ֔הוּ אֶת־בָּר֖וּךְ בֶּן־נֵֽרִיָּ֑ה וַיִּכְתֹּ֨ב בָּר֜וּךְ מִפִּ֣י יִרְמְיָ֗הוּ אֵ֣ת כׇּל־דִּבְרֵ֧י יְהֹוָ֛ה אֲשֶׁר־דִּבֶּ֥ר אֵלָ֖יו עַל־מְגִלַּת־סֵֽפֶר׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֣א</span> <span data-strong=\"H3414\">יִרְמְיָ֔הוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1263\">בָּר֖וּךְ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5374\">נֵֽרִיָּ֑ה</span> <span data-strong=\"H3789\">וַיִּכְתֹּ֨ב</span> <span data-strong=\"H1263\">בָּר֜וּךְ</span> <span data-strong=\"H6310\">מִפִּ֣י</span> <span data-strong=\"H3414\">יִרְמְיָ֗הוּ</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">דִּבְרֵ֧י</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4039\">מְגִלַּת</span>־<span data-strong=\"H5612\">סֵֽפֶר׃</span>",
     "transliteration": "vayikera' yiremeyahv 'et-varvkhe ven-neriyah vayikhetov varvkhe mifiy yiremeyahv 'et khol-diverey yehovah 'asher-diver 'elayv 'al-megilat-sefer.",
     "translation": "E Jeremias chamou Baruque, filho de Nerias; e Baruque escreveu do livro da boca de Jeremias todas as palavras que o Senhor havia falado com ele sobre um rolo de livro."
   },
   {
     "verse": 5,
-    "original": "וַיְצַוֶּ֣ה יִרְמְיָ֔הוּ אֶת־בָּר֖וּךְ לֵאמֹ֑ר אֲנִ֣י עָצ֔וּר לֹ֣א אוּכַ֔ל לָב֖וֹא בֵּ֥ית יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H6680\">וַיְצַוֶּ֣ה</span> <span data-strong=\"H3414\">יִרְמְיָ֔הוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1263\">בָּר֖וּךְ</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H6113\">עָצ֔וּר</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H3201\">אוּכַ֔ל</span> <span data-strong=\"H935\">לָב֖וֹא</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayetsaveh yiremeyahv 'et-varvkhe le'mor 'aniy 'atsvr lo' 'vkhal lavvo' veyt yehovah.",
     "translation": "E Jeremias ordenou a Baruque dizendo: Eu estou preso, não posso entrar na casa do Senhor."
   },
   {
     "verse": 6,
-    "original": "וּבָאתָ֣ אַתָּ֡ה וְקָרָ֣אתָ בַמְּגִלָּ֣ה אֲשֶׁר־כָּתַֽבְתָּ־מִפִּי֩ אֶת־דִּבְרֵ֨י יְהֹוָ֜ה בְּאׇזְנֵ֥י הָעָ֛ם בֵּ֥ית יְהֹוָ֖ה בְּי֣וֹם צ֑וֹם וְגַ֨ם בְּאׇזְנֵ֧י כׇל־יְהוּדָ֛ה הַבָּאִ֥ים מֵעָרֵיהֶ֖ם תִּקְרָאֵֽם׃",
+    "original": "<span data-strong=\"H935\">וּבָאתָ֣</span> <span data-strong=\"H859\">אַתָּ֡ה</span> <span data-strong=\"H7121\">וְקָרָ֣אתָ</span> <span data-strong=\"H4039\">בַמְּגִלָּ֣ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3789\">כָּתַֽבְתָּ</span>־<span data-strong=\"H2967\">מִפִּי֩</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֨י</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H241\">בְּאׇזְנֵ֥י</span> <span data-strong=\"H5971\">הָעָ֛ם</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H6685\">צ֑וֹם</span> <span data-strong=\"H1571\">וְגַ֨ם</span> <span data-strong=\"H241\">בְּאׇזְנֵ֧י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H3063\">יְהוּדָ֛ה</span> <span data-strong=\"H935\">הַבָּאִ֥ים</span> <span data-strong=\"H3963\">מֵעָרֵיהֶ֖ם</span> <span data-strong=\"H3963\">תִּקְרָאֵֽם׃</span>",
     "transliteration": "vva'ta 'atah vekara'ta vamegilah 'asher-khataveta-mifiy 'et-diverey yehovah ve'ozeney ha'am veyt yehovah veyvom tsvom vegam ve'ozeney khol-yehvdah hava'iym me'areyhem tikera'em.",
     "translation": "E tu virás e lerás na rola o que escreveste da boca do Senhor os ditos de Jehovah nos ouvidos do povo na casa de Jehovah no dia do jejum, e também nos ouvidos de toda a Judá que vierem das suas cidades o leras."
   },
   {
     "verse": 7,
-    "original": "אוּלַ֞י תִּפֹּ֤ל תְּחִנָּתָם֙ לִפְנֵ֣י יְהֹוָ֔ה וְיָשֻׁ֕בוּ אִ֖ישׁ מִדַּרְכּ֣וֹ הָרָעָ֑ה כִּֽי־גָד֤וֹל הָאַף֙ וְהַ֣חֵמָ֔ה אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה אֶל־הָעָ֥ם הַזֶּֽה׃",
+    "original": "<span data-strong=\"H194\">אוּלַ֞י</span> <span data-strong=\"H5307\">תִּפֹּ֤ל</span> <span data-strong=\"H3963\">תְּחִנָּתָם֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H7725\">וְיָשֻׁ֕בוּ</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H2050\">מִדַּרְכּ֣וֹ</span> <span data-strong=\"H7451\">הָרָעָ֑ה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1419\">גָד֤וֹל</span> <span data-strong=\"H639\">הָאַף֙</span> <span data-strong=\"H2534\">וְהַ֣חֵמָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֥ם</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "'vlay tifol tehinatam lifeney yehovah veyashuvv 'iysh midarekhvo hara'ah khiy-gadvol ha'af vehahemah 'asher-diver yehovah 'el-ha'am hazeh.",
     "translation": "Pode ser que a sua súplica caia diante do Senhor, e cada um se afaste do seu caminho mau; porque grande é o furor e a ira com que o Senhor falou contra este povo."
   },
@@ -49,55 +49,55 @@
   },
   {
     "verse": 9,
-    "original": "וַיְהִ֣י בַשָּׁנָ֣ה הַ֠חֲמִשִׁ֠ית לִיהוֹיָקִ֨ים בֶּן־יֹאשִׁיָּ֤הוּ מֶֽלֶךְ־יְהוּדָה֙ בַּחֹ֣דֶשׁ הַתְּשִׁעִ֔י קָרְא֨וּ צ֜וֹם לִפְנֵ֧י יְהֹוָ֛ה כׇּל־הָעָ֖ם בִּירוּשָׁלָ֑͏ִם וְכׇל־הָעָ֗ם הַבָּאִ֛ים מֵעָרֵ֥י יְהוּדָ֖ה בִּירוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י</span> <span data-strong=\"H8141\">בַשָּׁנָ֣ה</span> <span data-strong=\"H2549\">הַ֠חֲמִשִׁ֠ית</span> <span data-strong=\"H3079\">לִיהוֹיָקִ֨ים</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2977\">יֹאשִׁיָּ֤הוּ</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H3063\">יְהוּדָה֙</span> <span data-strong=\"H2320\">בַּחֹ֣דֶשׁ</span> <span data-strong=\"H8671\">הַתְּשִׁעִ֔י</span> <span data-strong=\"H7121\">קָרְא֨וּ</span> <span data-strong=\"H6685\">צ֜וֹם</span> <span data-strong=\"H6440\">לִפְנֵ֧י</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H3389\">בִּירוּשָׁלָ֑͏ִם</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H5971\">הָעָ֗ם</span> <span data-strong=\"H935\">הַבָּאִ֛ים</span> <span data-strong=\"H5892\">מֵעָרֵ֥י</span> <span data-strong=\"H3063\">יְהוּדָ֖ה</span> <span data-strong=\"H3389\">בִּירוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "vayehiy vashanah hahamishiyt liyhvoyakiym ven-yo'shiyahv melekhe-yehvdah vahodesh hateshi'iy kare'v tsvom lifeney yehovah khol-ha'am viyrvshalaim vekhol-ha'am hava'iym me'arey yehvdah viyrvshalaim.",
     "translation": "E foi no ano quinto de Joaquim, filho de Josias, rei de Judá, no mês nono, que todo o povo em Jerusalém e todo o povo vindo das cidades de Judá a Jerusalém jejuou diante do Senhor."
   },
   {
     "verse": 10,
-    "original": "וַיִּקְרָ֨א בָר֥וּךְ בַּסֵּ֛פֶר אֶת־דִּבְרֵ֥י יִרְמְיָ֖הוּ בֵּ֣ית יְהֹוָ֑ה בְּלִשְׁכַּ֡ת גְּמַרְיָ֩הוּ֩ בֶן־שָׁפָ֨ן הַסֹּפֵ֜ר בֶּחָצֵ֣ר הָעֶלְי֗וֹן פֶּ֣תַח שַׁ֤עַר בֵּית־יְהֹוָה֙ הֶחָדָ֔שׁ בְּאׇזְנֵ֖י כׇּל־הָעָֽם׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֨א</span> <span data-strong=\"H1263\">בָר֥וּךְ</span> <span data-strong=\"H5612\">בַּסֵּ֛פֶר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3414\">יִרְמְיָ֖הוּ</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3957\">בְּלִשְׁכַּ֡ת</span> <span data-strong=\"H1587\">גְּמַרְיָ֩הוּ֩</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H8227\">שָׁפָ֨ן</span> <span data-strong=\"H5608\">הַסֹּפֵ֜ר</span> <span data-strong=\"H2691\">בֶּחָצֵ֣ר</span> <span data-strong=\"H5945\">הָעֶלְי֗וֹן</span> <span data-strong=\"H6607\">פֶּ֣תַח</span> <span data-strong=\"H8179\">שַׁ֤עַר</span> <span data-strong=\"H1004\">בֵּית</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H2319\">הֶחָדָ֔שׁ</span> <span data-strong=\"H241\">בְּאׇזְנֵ֖י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5971\">הָעָֽם׃</span>",
     "transliteration": "vayikera' varvkhe vasefer 'et-diverey yiremeyahv veyt yehovah velishekhat gemareyahv ven-shafan hasofer vehatser ha'eleyvon fetah sha'ar veyt-yehovah hehadash ve'ozeney khol-ha'am.",
     "translation": "E Báruc, na Casa do Senhor, leu no livro as palavras de Jeremias, na sala de Gemariahu filho de Safã o escriba, na parte superior da corte, junto à porta nova da Casa do Senhor, em ouvidos de todo o povo."
   },
   {
     "verse": 11,
-    "original": "וַ֠יִּשְׁמַ֠ע מִכָ֨יְהוּ בֶן־גְּמַרְיָ֧הוּ בֶן־שָׁפָ֛ן אֶת־כׇּל־דִּבְרֵ֥י יְהֹוָ֖ה מֵעַ֥ל הַסֵּֽפֶר׃",
+    "original": "<span data-strong=\"H8085\">וַ֠יִּשְׁמַ֠ע</span> <span data-strong=\"H4321\">מִכָ֨יְהוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H1587\">גְּמַרְיָ֧הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H8227\">שָׁפָ֛ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H5612\">הַסֵּֽפֶר׃</span>",
     "transliteration": "vayishema' mikhayehv ven-gemareyahv ven-shafan 'et-khol-diverey yehovah me'al hasefer.",
     "translation": "E Micaias, filho de Gemaria, filho de Safã, ouviu todas as palavras do Senhor vindas do livro."
   },
   {
     "verse": 12,
-    "original": "וַיֵּ֤רֶד בֵּית־הַמֶּ֙לֶךְ֙ עַל־לִשְׁכַּ֣ת הַסֹּפֵ֔ר וְהִ֨נֵּה־שָׁ֔ם כׇּל־הַשָּׂרִ֖ים יוֹשְׁבִ֑ים אֱלִישָׁמָ֣ע הַסֹּפֵ֡ר וּדְלָיָ֣הוּ בֶן־שְׁ֠מַֽעְיָ֠הוּ וְאֶלְנָתָ֨ן בֶּן־עַכְבּ֜וֹר וּגְמַרְיָ֧הוּ בֶן־שָׁפָ֛ן וְצִדְקִיָּ֥הוּ בֶן־חֲנַנְיָ֖הוּ וְכׇל־הַשָּׂרִֽים׃",
+    "original": "<span data-strong=\"H3381\">וַיֵּ֤רֶד</span> <span data-strong=\"H1004\">בֵּית</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3957\">לִשְׁכַּ֣ת</span> <span data-strong=\"H5608\">הַסֹּפֵ֔ר</span> <span data-strong=\"H2009\">וְהִ֨נֵּה</span>־<span data-strong=\"H8033\">שָׁ֔ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H8269\">הַשָּׂרִ֖ים</span> <span data-strong=\"H3427\">יוֹשְׁבִ֑ים</span> <span data-strong=\"H476\">אֱלִישָׁמָ֣ע</span> <span data-strong=\"H5608\">הַסֹּפֵ֡ר</span> <span data-strong=\"H1806\">וּדְלָיָ֣הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H8098\">שְׁ֠מַֽעְיָ֠הוּ</span> <span data-strong=\"H494\">וְאֶלְנָתָ֨ן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5907\">עַכְבּ֜וֹר</span> <span data-strong=\"H1587\">וּגְמַרְיָ֧הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H8227\">שָׁפָ֛ן</span> <span data-strong=\"H6667\">וְצִדְקִיָּ֥הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H2608\">חֲנַנְיָ֖הוּ</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H8269\">הַשָּׂרִֽים׃</span>",
     "transliteration": "vayered veyt-hamelekhe 'al-lishekhat hasofer vehineh-sham khol-hasariym yvosheviym 'eliyshama' hasofer vdelayahv ven-shema'eyahv ve'elenatan ven-'akhevvor vgemareyahv ven-shafan vetsidekiyahv ven-hananeyahv vekhol-hasariym.",
     "translation": "Eis que desceu à casa do rei, na câmara dos escribas; e eis que todos os príncipes estavam ali sentados: Elisama o escriba, Delaías filho de Semaias, Elnatan filho de Acbor, Gemariahu filho de Safã, Tsidquias filho de Hananias e todos os príncipes."
   },
   {
     "verse": 13,
-    "original": "וַיַּגֵּ֤ד לָהֶם֙ מִכָ֔יְהוּ אֵ֥ת כׇּל־הַדְּבָרִ֖ים אֲשֶׁ֣ר שָׁמֵ֑עַ בִּקְרֹ֥א בָר֛וּךְ בַּסֵּ֖פֶר בְּאׇזְנֵ֥י הָעָֽם׃",
+    "original": "<span data-strong=\"H5046\">וַיַּגֵּ֤ד</span> <span data-strong=\"H3963\">לָהֶם֙</span> <span data-strong=\"H4321\">מִכָ֔יְהוּ</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֖ים</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H8085\">שָׁמֵ֑עַ</span> <span data-strong=\"H7121\">בִּקְרֹ֥א</span> <span data-strong=\"H1263\">בָר֛וּךְ</span> <span data-strong=\"H5612\">בַּסֵּ֖פֶר</span> <span data-strong=\"H241\">בְּאׇזְנֵ֥י</span> <span data-strong=\"H5971\">הָעָֽם׃</span>",
     "transliteration": "vayaged lahem mikhayehv 'et khol-hadevariym 'asher shame'a vikero' varvkhe vasefer ve'ozeney ha'am.",
     "translation": "E lhes contou tudo o que ouviu quando Baruc leu o livro diante do povo."
   },
   {
     "verse": 14,
-    "original": "וַיִּשְׁלְח֨וּ כׇל־הַשָּׂרִ֜ים אֶל־בָּר֗וּךְ אֶת־יְהוּדִ֡י בֶּן־נְ֠תַנְיָ֠הוּ בֶּן־שֶׁלֶמְיָ֣הוּ בֶן־כּוּשִׁי֮ לֵאמֹר֒ הַמְּגִלָּ֗ה אֲשֶׁ֨ר קָרָ֤אתָ בָּהּ֙ בְּאׇזְנֵ֣י הָעָ֔ם קָחֶ֥נָּה בְיָדְךָ֖ וָלֵ֑ךְ וַ֠יִּקַּ֠ח בָּר֨וּךְ בֶּן־נֵרִיָּ֤הוּ אֶת־הַמְּגִלָּה֙ בְּיָד֔וֹ וַיָּבֹ֖א אֲלֵיהֶֽם׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלְח֨וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H8269\">הַשָּׂרִ֜ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1263\">בָּר֗וּךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3065\">יְהוּדִ֡י</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5418\">נְ֠תַנְיָ֠הוּ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8018\">שֶׁלֶמְיָ֣הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H3570\">כּוּשִׁי֮</span> <span data-strong=\"H559\">לֵאמֹר֒</span> <span data-strong=\"H4039\">הַמְּגִלָּ֗ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H7121\">קָרָ֤אתָ</span> <span data-strong=\"H1886\">בָּהּ֙</span> <span data-strong=\"H241\">בְּאׇזְנֵ֣י</span> <span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H5089\">קָחֶ֥נָּה</span> <span data-strong=\"H3509\">בְיָדְךָ֖</span> <span data-strong=\"H1980\">וָלֵ֑ךְ</span> <span data-strong=\"H3947\">וַ֠יִּקַּ֠ח</span> <span data-strong=\"H1263\">בָּר֨וּךְ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5374\">נֵרִיָּ֤הוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4039\">הַמְּגִלָּה֙</span> <span data-strong=\"H2050\">בְּיָד֔וֹ</span> <span data-strong=\"H935\">וַיָּבֹ֖א</span> <span data-strong=\"H3963\">אֲלֵיהֶֽם׃</span>",
     "transliteration": "vayishelehv khol-hasariym 'el-varvkhe 'et-yehvdiy ven-netaneyahv ven-shelemeyahv ven-khvshiy le'mor hamegilah 'asher kara'ta vah ve'ozeney ha'am kahenah veyadekha valekhe vayikah varvkhe ven-neriyahv 'et-hamegilah veyadvo vayavo' 'aleyhem.",
     "translation": "E enviaram todos os príncipes a Barruque, Judi ben Netanias ben Selêmias ben Cusi, dizendo: \"O rolo que leste em ouvidos do povo, toma-o na tua mão e vem\". E Barruque, filho de Nerias, tomou o rolo na sua mão e veio até eles."
   },
   {
     "verse": 15,
-    "original": "וַיֹּאמְר֣וּ אֵלָ֔יו שֵׁ֣ב נָ֔א וּקְרָאֶ֖נָּה בְּאׇזְנֵ֑ינוּ וַיִּקְרָ֥א בָר֖וּךְ בְּאׇזְנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמְר֣וּ</span> <span data-strong=\"H2050\">אֵלָ֔יו</span> <span data-strong=\"H3427\">שֵׁ֣ב</span> <span data-strong=\"H4994\">נָ֔א</span> <span data-strong=\"H5089\">וּקְרָאֶ֖נָּה</span> <span data-strong=\"H5105\">בְּאׇזְנֵ֑ינוּ</span> <span data-strong=\"H7121\">וַיִּקְרָ֥א</span> <span data-strong=\"H1263\">בָר֖וּךְ</span> <span data-strong=\"H3963\">בְּאׇזְנֵיהֶֽם׃</span>",
     "transliteration": "vayo'merv 'elayv shev na' vkera'enah ve'ozeneynv vayikera' varvkhe ve'ozeneyhem.",
     "translation": "E disseram-lhe: Sentai-vos, peço-vos, e lede-nos com os ouvidos. E Baruc leu para as suas orelhas."
   },
   {
     "verse": 16,
-    "original": "וַיְהִ֗י כְּשׇׁמְעָם֙ אֶת־כׇּל־הַדְּבָרִ֔ים פָּחֲד֖וּ אִ֣ישׁ אֶל־רֵעֵ֑הוּ וַיֹּֽאמְרוּ֙ אֶל־בָּר֔וּךְ הַגֵּ֤יד נַגִּיד֙ לַמֶּ֔לֶךְ אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֗י</span> <span data-strong=\"H3963\">כְּשׇׁמְעָם֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֔ים</span> <span data-strong=\"H6342\">פָּחֲד֖וּ</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1930\">רֵעֵ֑הוּ</span> <span data-strong=\"H559\">וַיֹּֽאמְרוּ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1263\">בָּר֔וּךְ</span> <span data-strong=\"H5046\">הַגֵּ֤יד</span> <span data-strong=\"H5046\">נַגִּיד֙</span> <span data-strong=\"H4428\">לַמֶּ֔לֶךְ</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֖ים</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "vayehiy kheshome'am 'et-khol-hadevariym fahadv 'iysh 'el-re'ehv vayo'merv 'el-varvkhe hageyd nagiyd lamelekhe 'et khol-hadevariym ha'eleh.",
     "translation": "E aconteceu que, ao ouvirem todos aqueles discursos, um temeu o outro; e disseram a Baruque: \"Declara perante o rei todas estas palavras.\""
   },
   {
     "verse": 17,
-    "original": "וְאֶ֨ת־בָּר֔וּךְ שָׁאֲל֖וּ לֵאמֹ֑ר הַגֶּד־נָ֣א לָ֔נוּ אֵ֗יךְ כָּתַ֛בְתָּ אֶת־כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה מִפִּֽיו׃",
+    "original": "<span data-strong=\"H853\">וְאֶ֨ת</span>־<span data-strong=\"H1263\">בָּר֔וּךְ</span> <span data-strong=\"H7592\">שָׁאֲל֖וּ</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H5046\">הַגֶּד</span>־<span data-strong=\"H4994\">נָ֣א</span> <span data-strong=\"H5105\">לָ֔נוּ</span> <span data-strong=\"H349\">אֵ֗יךְ</span> <span data-strong=\"H3789\">כָּתַ֛בְתָּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֥ים</span> <span data-strong=\"H428\">הָאֵ֖לֶּה</span> <span data-strong=\"H2050\">מִפִּֽיו׃</span>",
     "transliteration": "ve'et-varvkhe sha'alv le'mor haged-na' lanv 'eykhe khataveta 'et-khol-hadevariym ha'eleh mifiyv.",
     "translation": "E a Beruque perguntaram, dizendo: Conta-nos, suplicamos, como escreveste todos estes ditames de sua boca."
   },
@@ -109,43 +109,43 @@
   },
   {
     "verse": 19,
-    "original": "וַיֹּאמְר֤וּ הַשָּׂרִים֙ אֶל־בָּר֔וּךְ לֵ֥ךְ הִסָּתֵ֖ר אַתָּ֣ה וְיִרְמְיָ֑הוּ וְאִ֥ישׁ אַל־יֵדַ֖ע אֵיפֹ֥ה אַתֶּֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמְר֤וּ</span> <span data-strong=\"H8269\">הַשָּׂרִים֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1263\">בָּר֔וּךְ</span> <span data-strong=\"H1980\">לֵ֥ךְ</span> <span data-strong=\"H5641\">הִסָּתֵ֖ר</span> <span data-strong=\"H859\">אַתָּ֣ה</span> <span data-strong=\"H3414\">וְיִרְמְיָ֑הוּ</span> <span data-strong=\"H376\">וְאִ֥ישׁ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3045\">יֵדַ֖ע</span> <span data-strong=\"H375\">אֵיפֹ֥ה</span> <span data-strong=\"H859\">אַתֶּֽם׃</span>",
     "transliteration": "vayo'merv hasariym 'el-varvkhe lekhe hisater 'atah veyiremeyahv ve'iysh 'al-yeda' 'eyfoh 'atem.",
     "translation": "E os príncipes disseram a Baruque: Ide, escondei-vos tu e Jeremias; que ninguém saiba onde estais."
   },
   {
     "verse": 20,
-    "original": "וַיָּבֹ֤אוּ אֶל־הַמֶּ֙לֶךְ֙ חָצֵ֔רָה וְאֶת־הַמְּגִלָּ֣ה הִפְקִ֔דוּ בְּלִשְׁכַּ֖ת אֱלִישָׁמָ֣ע הַסֹּפֵ֑ר וַיַּגִּ֙ידוּ֙ בְּאׇזְנֵ֣י הַמֶּ֔לֶךְ אֵ֖ת כׇּל־הַדְּבָרִֽים׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֤אוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H1886\">חָצֵ֔רָה</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4039\">הַמְּגִלָּ֣ה</span> <span data-strong=\"H6485\">הִפְקִ֔דוּ</span> <span data-strong=\"H3957\">בְּלִשְׁכַּ֖ת</span> <span data-strong=\"H476\">אֱלִישָׁמָ֣ע</span> <span data-strong=\"H5608\">הַסֹּפֵ֑ר</span> <span data-strong=\"H5046\">וַיַּגִּ֙ידוּ֙</span> <span data-strong=\"H241\">בְּאׇזְנֵ֣י</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִֽים׃</span>",
     "transliteration": "vayavo'v 'el-hamelekhe hatserah ve'et-hamegilah hifekidv velishekhat 'eliyshama' hasofer vayagiydv ve'ozeney hamelekhe 'et khol-hadevariym.",
     "translation": "E chegaram ao rei à casa do jardim, e depositaram o rolo na câmara de Elisama, o escriba; e relataram ao rei todas as palavras."
   },
   {
     "verse": 21,
-    "original": "וַיִּשְׁלַ֨ח הַמֶּ֜לֶךְ אֶת־יְהוּדִ֗י לָקַ֙חַת֙ אֶת־הַמְּגִלָּ֔ה וַיִּ֨קָּחֶ֔הָ מִלִּשְׁכַּ֖ת אֱלִישָׁמָ֣ע הַסֹּפֵ֑ר וַיִּקְרָאֶ֤הָ יְהוּדִי֙ בְּאׇזְנֵ֣י הַמֶּ֔לֶךְ וּבְאׇזְנֵי֙ כׇּל־הַשָּׂרִ֔ים הָעֹמְדִ֖ים מֵעַ֥ל הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלַ֨ח</span> <span data-strong=\"H4428\">הַמֶּ֜לֶךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3065\">יְהוּדִ֗י</span> <span data-strong=\"H3947\">לָקַ֙חַת֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4039\">הַמְּגִלָּ֔ה</span> <span data-strong=\"H1886\">וַיִּ֨קָּחֶ֔הָ</span> <span data-strong=\"H3957\">מִלִּשְׁכַּ֖ת</span> <span data-strong=\"H476\">אֱלִישָׁמָ֣ע</span> <span data-strong=\"H5608\">הַסֹּפֵ֑ר</span> <span data-strong=\"H1886\">וַיִּקְרָאֶ֤הָ</span> <span data-strong=\"H3065\">יְהוּדִי֙</span> <span data-strong=\"H241\">בְּאׇזְנֵ֣י</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H241\">וּבְאׇזְנֵי֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H8269\">הַשָּׂרִ֔ים</span> <span data-strong=\"H5975\">הָעֹמְדִ֖ים</span> <span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayishelah hamelekhe 'et-yehvdiy lakahat 'et-hamegilah vayikaheha milishekhat 'eliyshama' hasofer vayikera'eha yehvdiy ve'ozeney hamelekhe vve'ozeney khol-hasariym ha'omediym me'al hamelekhe.",
     "translation": "E o rei enviou Júdeu para tomar o rolo, e ele o tomou da câmara de Elishama, o escriba; e Júdeu leu-o perante o rei e perante todos os príncipes que estavam diante do rei."
   },
   {
     "verse": 22,
-    "original": "וְהַמֶּ֗לֶךְ יוֹשֵׁב֙ בֵּ֣ית הַחֹ֔רֶף בַּחֹ֖דֶשׁ הַתְּשִׁיעִ֑י וְאֶת־הָאָ֖ח לְפָנָ֥יו מְבֹעָֽרֶת׃",
+    "original": "<span data-strong=\"H4428\">וְהַמֶּ֗לֶךְ</span> <span data-strong=\"H3427\">יוֹשֵׁב֙</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H2779\">הַחֹ֔רֶף</span> <span data-strong=\"H2320\">בַּחֹ֖דֶשׁ</span> <span data-strong=\"H8671\">הַתְּשִׁיעִ֑י</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H254\">הָאָ֖ח</span> <span data-strong=\"H2050\">לְפָנָ֥יו</span> <span data-strong=\"H1197\">מְבֹעָֽרֶת׃</span>",
     "transliteration": "vehamelekhe yvoshev veyt hahoref vahodesh hateshiy'iy ve'et-ha'ah lefanayv mevo'aret.",
     "translation": "E o rei estava sentado no palácio do inverno, no mês de Kislev, e diante dele havia um fogo aceso."
   },
   {
     "verse": 23,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> כִּקְר֣וֹא יְהוּדִ֗י שָׁלֹ֣שׁ דְּלָתוֹת֮ וְאַרְבָּעָה֒ יִֽקְרָעֶ֙הָ֙ בְּתַ֣עַר הַסֹּפֵ֔ר וְהַשְׁלֵ֕ךְ אֶל־הָאֵ֖שׁ אֲשֶׁ֣ר אֶל־הָאָ֑ח עַד־תֹּם֙ כׇּל־הַמְּגִלָּ֔ה עַל־הָאֵ֖שׁ אֲשֶׁ֥ר עַל־הָאָֽח׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H7121\">כִּקְר֣וֹא</span> <span data-strong=\"H3065\">יְהוּדִ֗י</span> <span data-strong=\"H7969\">שָׁלֹ֣שׁ</span> <span data-strong=\"H1817\">דְּלָתוֹת֮</span> <span data-strong=\"H702\">וְאַרְבָּעָה֒</span> <span data-strong=\"H1886\">יִֽקְרָעֶ֙הָ֙</span> <span data-strong=\"H8593\">בְּתַ֣עַר</span> <span data-strong=\"H5608\">הַסֹּפֵ֔ר</span> <span data-strong=\"H7993\">וְהַשְׁלֵ֕ךְ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H784\">הָאֵ֖שׁ</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H254\">הָאָ֑ח</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H8552\">תֹּם֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4039\">הַמְּגִלָּ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H784\">הָאֵ֖שׁ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H254\">הָאָֽח׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> khikervo' yehvdiy shalosh delatvot ve'areva'ah yikera'eha veta'ar hasofer vehashelekhe 'el-ha'esh 'asher 'el-ha'ah 'ad-tom khol-hamegilah 'al-ha'esh 'asher 'al-ha'ah.",
     "translation": "E foi quando o judeu chamou três vezes e quatro, rasgava-a com a navalha do escriba e lançava-a no fogo que estava sobre o altar, até que toda a rolha fosse consumida pelo fogo que estava sobre o altar."
   },
   {
     "verse": 24,
-    "original": "וְלֹ֣א פָחֲד֔וּ וְלֹ֥א קָרְע֖וּ אֶת־בִּגְדֵיהֶ֑ם הַמֶּ֙לֶךְ֙ וְכׇל־עֲבָדָ֔יו הַשֹּׁ֣מְעִ֔ים אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H6342\">פָחֲד֔וּ</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H7167\">קָרְע֖וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">בִּגְדֵיהֶ֑ם</span> <span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2050\">עֲבָדָ֔יו</span> <span data-strong=\"H8085\">הַשֹּׁ֣מְעִ֔ים</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֖ים</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "velo' fahadv velo' kare'v 'et-vigedeyhem hamelekhe vekhol-'avadayv hashome'iym 'et khol-hadevariym ha'eleh.",
     "translation": "E não temeram, nem rasgaram suas vestes o rei e todos os seus servos que ouviram todas essas palavras."
   },
   {
     "verse": 25,
-    "original": "וְגַם֩ אֶלְנָתָ֨ן וּדְלָיָ֤הוּ וּגְמַרְיָ֙הוּ֙ הִפְגִּ֣עוּ בַמֶּ֔לֶךְ לְבִלְתִּ֥י שְׂרֹ֖ף אֶת־הַמְּגִלָּ֑ה וְלֹ֥א שָׁמַ֖ע אֲלֵיהֶֽם׃",
+    "original": "<span data-strong=\"H1571\">וְגַם֩</span> <span data-strong=\"H494\">אֶלְנָתָ֨ן</span> <span data-strong=\"H1806\">וּדְלָיָ֤הוּ</span> <span data-strong=\"H1587\">וּגְמַרְיָ֙הוּ֙</span> <span data-strong=\"H6293\">הִפְגִּ֣עוּ</span> <span data-strong=\"H4428\">בַמֶּ֔לֶךְ</span> <span data-strong=\"H1115\">לְבִלְתִּ֥י</span> <span data-strong=\"H8313\">שְׂרֹ֖ף</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4039\">הַמְּגִלָּ֑ה</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H8085\">שָׁמַ֖ע</span> <span data-strong=\"H3963\">אֲלֵיהֶֽם׃</span>",
     "transliteration": "vegam 'elenatan vdelayahv vgemareyahv hifegi'v vamelekhe leviletiy serof 'et-hamegilah velo' shama' 'aleyhem.",
     "translation": "E também Elnatã, Délia e Gemária tocaram no rei para que não queimasse o rolo; mas ele não lhes deu ouvidos."
   },
@@ -157,13 +157,13 @@
   },
   {
     "verse": 27,
-    "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֶֽל־יִרְמְיָ֑הוּ אַחֲרֵ֣י&thinsp;<b>׀</b> שְׂרֹ֣ף הַמֶּ֗לֶךְ אֶת־הַמְּגִלָּה֙ וְאֶת־הַדְּבָרִ֔ים אֲשֶׁ֨ר כָּתַ֥ב בָּר֛וּךְ מִפִּ֥י יִרְמְיָ֖הוּ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3414\">יִרְמְיָ֑הוּ</span> <span data-strong=\"H310\">אַחֲרֵ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H8313\">שְׂרֹ֣ף</span> <span data-strong=\"H4428\">הַמֶּ֗לֶךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4039\">הַמְּגִלָּה֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1697\">הַדְּבָרִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H3789\">כָּתַ֥ב</span> <span data-strong=\"H1263\">בָּר֛וּךְ</span> <span data-strong=\"H6310\">מִפִּ֥י</span> <span data-strong=\"H3414\">יִרְמְיָ֖הוּ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy devar-yehovah 'el-yiremeyahv 'aharey&thinsp;<b>|</b> serof hamelekhe 'et-hamegilah ve'et-hadevariym 'asher khatav varvkhe mifiy yiremeyahv le'mor.",
     "translation": "E veio a palavra do Senhor a Jeremias depois que o rei queimou o pergaminho e as palavras que Baruque escreveu da boca de Jeremias, dizendo:"
   },
   {
     "verse": 28,
-    "original": "שׁ֥וּב קַח־לְךָ֖ מְגִלָּ֣ה אַחֶ֑רֶת וּכְתֹ֣ב עָלֶ֗יהָ אֵ֤ת כׇּל־הַדְּבָרִים֙ הָרִ֣אשֹׁנִ֔ים אֲשֶׁ֣ר הָי֗וּ עַל־הַמְּגִלָּה֙ הָרִ֣אשֹׁנָ֔ה אֲשֶׁ֥ר שָׂרַ֖ף יְהוֹיָקִ֥ים מֶלֶךְ־יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H7725\">שׁ֥וּב</span> <span data-strong=\"H3947\">קַח</span>־<span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H4039\">מְגִלָּ֣ה</span> <span data-strong=\"H312\">אַחֶ֑רֶת</span> <span data-strong=\"H3789\">וּכְתֹ֣ב</span> <span data-strong=\"H1886\">עָלֶ֗יהָ</span> <span data-strong=\"H853\">אֵ֤ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִים֙</span> <span data-strong=\"H7223\">הָרִ֣אשֹׁנִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1961\">הָי֗וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4039\">הַמְּגִלָּה֙</span> <span data-strong=\"H7223\">הָרִ֣אשֹׁנָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H8313\">שָׂרַ֖ף</span> <span data-strong=\"H3079\">יְהוֹיָקִ֥ים</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "shvv kah-lekha megilah 'aheret vkhetov 'aleyha 'et khol-hadevariym hari'shoniym 'asher hayv 'al-hamegilah hari'shonah 'asher saraf yehvoyakiym melekhe-yehvdah.",
     "translation": "Volve, toma outra pele e escreve sobre ela todas as palavras primeiras que foram sobre a pele primeira, que Jeoiaquim, rei de Judá, queimou no fogo."
   },
@@ -175,13 +175,13 @@
   },
   {
     "verse": 30,
-    "original": "לָכֵ֞ן כֹּֽה־אָמַ֣ר יְהֹוָ֗ה עַל־יְהֽוֹיָקִים֙ מֶ֣לֶךְ יְהוּדָ֔ה לֹא־יִֽהְיֶה־לּ֥וֹ יוֹשֵׁ֖ב עַל־כִּסֵּ֣א דָוִ֑ד וְנִבְלָתוֹ֙ תִּהְיֶ֣ה מֻשְׁלֶ֔כֶת לַחֹ֥רֶב בַּיּ֖וֹם וְלַקֶּ֥רַח בַּלָּֽיְלָה׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֞ן</span> <span data-strong=\"H3541\">כֹּֽה</span>־<span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3079\">יְהֽוֹיָקִים֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H1961\">יִֽהְיֶה</span>־<span data-strong=\"H2050\">לּ֥וֹ</span> <span data-strong=\"H3427\">יוֹשֵׁ֖ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3678\">כִּסֵּ֣א</span> <span data-strong=\"H1732\">דָוִ֑ד</span> <span data-strong=\"H2050\">וְנִבְלָתוֹ֙</span> <span data-strong=\"H1961\">תִּהְיֶ֣ה</span> <span data-strong=\"H7993\">מֻשְׁלֶ֔כֶת</span> <span data-strong=\"H2721\">לַחֹ֥רֶב</span> <span data-strong=\"H3117\">בַּיּ֖וֹם</span> <span data-strong=\"H7140\">וְלַקֶּ֥רַח</span> <span data-strong=\"H3915\">בַּלָּֽיְלָה׃</span>",
     "transliteration": "lakhen khoh-'amar yehovah 'al-yehvoyakiym melekhe yehvdah lo'-yiheyeh-lvo yvoshev 'al-khise' david venivelatvo tiheyeh mushelekhet lahorev vayvom velakerah valayelah.",
     "translation": "Portanto, assim diz o Senhor sobre Joaquim, rei de Judá: não haverá nele quem se assente no trono de Davi; seu corpo será arremessado ao sol durante o dia e à geada na noite."
   },
   {
     "verse": 31,
-    "original": "וּפָקַדְתִּ֨י עָלָ֧יו וְעַל־זַרְע֛וֹ וְעַל־עֲבָדָ֖יו אֶת־עֲוֺנָ֑ם וְהֵבֵאתִ֣י עֲ֠לֵיהֶ֠ם וְעַל־יֹשְׁבֵ֨י יְרוּשָׁלַ֜͏ִם וְאֶל־אִ֣ישׁ יְהוּדָ֗ה אֵ֧ת כׇּל־הָרָעָ֛ה אֲשֶׁר־דִּבַּ֥רְתִּי אֲלֵיהֶ֖ם וְלֹ֥א שָׁמֵֽעוּ׃",
+    "original": "<span data-strong=\"H6485\">וּפָקַדְתִּ֨י</span> <span data-strong=\"H2050\">עָלָ֧יו</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H2050\">זַרְע֛וֹ</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H2050\">עֲבָדָ֖יו</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">עֲוֺנָ֑ם</span> <span data-strong=\"H935\">וְהֵבֵאתִ֣י</span> <span data-strong=\"H3963\">עֲ֠לֵיהֶ֠ם</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3427\">יֹשְׁבֵ֨י</span> <span data-strong=\"H3389\">יְרוּשָׁלַ֜͏ִם</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H3063\">יְהוּדָ֗ה</span> <span data-strong=\"H853\">אֵ֧ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7451\">הָרָעָ֛ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבַּ֥רְתִּי</span> <span data-strong=\"H3963\">אֲלֵיהֶ֖ם</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H8085\">שָׁמֵֽעוּ׃</span>",
     "transliteration": "vfakadetiy 'alayv ve'al-zare'vo ve'al-'avadayv 'et-'avonam veheve'tiy 'aleyhem ve'al-yoshevey yervshalaim ve'el-'iysh yehvdah 'et khol-hara'ah 'asher-divaretiy 'aleyhem velo' shame'v.",
     "translation": "E farei cair sobre ele, e sobre sua semente, e sobre seus servos, sua iniqüidade; trarei sobre eles e sobre os habitantes de Jerusalém e sobre todo homem de Judá toda a maldade que lhes falei, mas não ouviram."
   },

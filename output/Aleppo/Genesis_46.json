@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַיִּסַּ֤ע יִשְׂרָאֵל֙ וְכׇל־אֲשֶׁר־ל֔וֹ וַיָּבֹ֖א בְּאֵ֣רָה שָּׁ֑בַע וַיִּזְבַּ֣ח זְבָחִ֔ים לֵאלֹהֵ֖י אָבִ֥יו יִצְחָֽק׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסַּ֤ע</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H935\">וַיָּבֹ֖א</span> <span data-strong=\"H884\">בְּאֵ֣רָה</span> <span data-strong=\"H884\">שָּׁ֑בַע</span> <span data-strong=\"H2076\">וַיִּזְבַּ֣ח</span> <span data-strong=\"H2077\">זְבָחִ֔ים</span> <span data-strong=\"H430\">לֵאלֹהֵ֖י</span> <span data-strong=\"H2050\">אָבִ֥יו</span> <span data-strong=\"H3327\">יִצְחָֽק׃</span>",
     "transliteration": "vayisa' yisera'el vekhol-'asher-lvo vayavo' ve'erah shava' vayizevah zevahiym le'lohey 'aviyv yitsehak.",
     "translation": "E Israel partiu com tudo o que era seu, e veio à Beer-sheba, onde ofereceu sacrifícios ao Deus de seu pai Isaque."
   },
@@ -13,25 +13,25 @@
   },
   {
     "verse": 3,
-    "original": "וַיֹּ֕אמֶר אָנֹכִ֥י הָאֵ֖ל אֱלֹהֵ֣י אָבִ֑יךָ אַל־תִּירָא֙ מֵרְדָ֣ה מִצְרַ֔יְמָה כִּֽי־לְג֥וֹי גָּד֖וֹל אֲשִֽׂימְךָ֥ שָֽׁם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H410\">הָאֵ֖ל</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H3509\">אָבִ֑יךָ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3372\">תִּירָא֙</span> <span data-strong=\"H3381\">מֵרְדָ֣ה</span> <span data-strong=\"H1886\">מִצְרַ֔יְמָה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1471\">לְג֥וֹי</span> <span data-strong=\"H1419\">גָּד֖וֹל</span> <span data-strong=\"H3509\">אֲשִֽׂימְךָ֥</span> <span data-strong=\"H8033\">שָֽׁם׃</span>",
     "transliteration": "vayo'mer 'anokhiy ha'el 'elohey 'aviykha 'al-tiyra' meredah mitserayemah khiy-legvoy gadvol 'asiymekha sham.",
     "translation": "E disse: Eu sou Deus, o Deus de teu pai; não temas descer ao Egito, pois ali farei de ti uma nação grande."
   },
   {
     "verse": 4,
-    "original": "אָנֹכִ֗י אֵרֵ֤ד עִמְּךָ֙ מִצְרַ֔יְמָה וְאָנֹכִ֖י אַֽעַלְךָ֣ גַם־עָלֹ֑ה וְיוֹסֵ֕ף יָשִׁ֥ית יָד֖וֹ עַל־עֵינֶֽיךָ׃",
+    "original": "<span data-strong=\"H595\">אָנֹכִ֗י</span> <span data-strong=\"H3381\">אֵרֵ֤ד</span> <span data-strong=\"H3509\">עִמְּךָ֙</span> <span data-strong=\"H1886\">מִצְרַ֔יְמָה</span> <span data-strong=\"H595\">וְאָנֹכִ֖י</span> <span data-strong=\"H3509\">אַֽעַלְךָ֣</span> <span data-strong=\"H1571\">גַם</span>־<span data-strong=\"H5927\">עָלֹ֑ה</span> <span data-strong=\"H3130\">וְיוֹסֵ֕ף</span> <span data-strong=\"H7896\">יָשִׁ֥ית</span> <span data-strong=\"H2050\">יָד֖וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">עֵינֶֽיךָ׃</span>",
     "transliteration": "'anokhiy 'ered 'imekha mitserayemah ve'anokhiy 'a'alekha gam-'aloh veyvosef yashiyt yadvo 'al-'eyneykha.",
     "translation": "Eu descerei contigo ao Egito e eu subirei novamente; e José porá a mão sobre os teus olhos."
   },
   {
     "verse": 5,
-    "original": "וַיָּ֥קׇם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי־יִשְׂרָאֵ֜ל אֶת־יַעֲקֹ֣ב אֲבִיהֶ֗ם וְאֶת־טַפָּם֙ וְאֶת־נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר־שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ׃",
+    "original": "<span data-strong=\"H6965\">וַיָּ֥קׇם</span> <span data-strong=\"H3290\">יַעֲקֹ֖ב</span> <span data-strong=\"H884\">מִבְּאֵ֣ר</span> <span data-strong=\"H884\">שָׁ֑בַע</span> <span data-strong=\"H5375\">וַיִּשְׂא֨וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֜ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3290\">יַעֲקֹ֣ב</span> <span data-strong=\"H3963\">אֲבִיהֶ֗ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3963\">טַפָּם֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3963\">נְשֵׁיהֶ֔ם</span> <span data-strong=\"H5699\">בָּעֲגָל֕וֹת</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7971\">שָׁלַ֥ח</span> <span data-strong=\"H6547\">פַּרְעֹ֖ה</span> <span data-strong=\"H5375\">לָשֵׂ֥את</span> <span data-strong=\"H2050\">אֹתֽוֹ׃</span>",
     "transliteration": "vayakom ya'akov mive'er shava' vayise'v veney-yisera'el 'et-ya'akov 'aviyhem ve'et-tafam ve'et-nesheyhem va'agalvot 'asher-shalah fare'oh lase't 'otvo.",
     "translation": "E Jacó se levantou da fonte de Sabá, e os filhos de Israel levaram a seu pai Jacó, seus filhos e suas mulheres, em carros que o faraó enviara para transportá-los."
   },
   {
     "verse": 6,
-    "original": "וַיִּקְח֣וּ אֶת־מִקְנֵיהֶ֗ם וְאֶת־רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכׇל־זַרְע֥וֹ אִתּֽוֹ׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקְח֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">מִקְנֵיהֶ֗ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3963\">רְכוּשָׁם֙</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H7408\">רָֽכְשׁוּ֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H3667\">כְּנַ֔עַן</span> <span data-strong=\"H935\">וַיָּבֹ֖אוּ</span> <span data-strong=\"H1886\">מִצְרָ֑יְמָה</span> <span data-strong=\"H3290\">יַעֲקֹ֖ב</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2050\">זַרְע֥וֹ</span> <span data-strong=\"H2050\">אִתּֽוֹ׃</span>",
     "transliteration": "vayikehv 'et-mikeneyhem ve'et-rekhvsham 'asher rakheshv ve'erets khena'an vayavo'v mitserayemah ya'akov vekhol-zare'vo 'itvo.",
     "translation": "E tomaram seus rebanhos e os bens que adquiriram na terra de Canaã, e vieram para o Egito, Jacó e toda a sua descendência com ele."
   },
@@ -43,73 +43,73 @@
   },
   {
     "verse": 8,
-    "original": "וְאֵ֨לֶּה שְׁמ֧וֹת בְּנֵֽי־יִשְׂרָאֵ֛ל הַבָּאִ֥ים מִצְרַ֖יְמָה יַעֲקֹ֣ב וּבָנָ֑יו בְּכֹ֥ר יַעֲקֹ֖ב רְאוּבֵֽן׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֨לֶּה</span> <span data-strong=\"H8034\">שְׁמ֧וֹת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H935\">הַבָּאִ֥ים</span> <span data-strong=\"H1886\">מִצְרַ֖יְמָה</span> <span data-strong=\"H3290\">יַעֲקֹ֣ב</span> <span data-strong=\"H2050\">וּבָנָ֑יו</span> <span data-strong=\"H1060\">בְּכֹ֥ר</span> <span data-strong=\"H3290\">יַעֲקֹ֖ב</span> <span data-strong=\"H7205\">רְאוּבֵֽן׃</span>",
     "transliteration": "ve'eleh shemvot veney-yisera'el hava'iym mitserayemah ya'akov vvanayv vekhor ya'akov re'vven.",
     "translation": "E estes são os nomes dos filhos de Israel que vieram ao Egito; Jacó veio com seus filhos: Reubén era o primogênito de Jacó."
   },
   {
     "verse": 9,
-    "original": "וּבְנֵ֖י רְאוּבֵ֑ן חֲנ֥וֹךְ וּפַלּ֖וּא וְחֶצְרֹ֥ן וְכַרְמִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H7205\">רְאוּבֵ֑ן</span> <span data-strong=\"H2585\">חֲנ֥וֹךְ</span> <span data-strong=\"H6396\">וּפַלּ֖וּא</span> <span data-strong=\"H2696\">וְחֶצְרֹ֥ן</span> <span data-strong=\"H3756\">וְכַרְמִֽי׃</span>",
     "transliteration": "vveney re'vven hanvokhe vfalv' vehetseron vekharemiy.",
     "translation": "E os filhos de Rúben foram Hanoc, Faliuá, Hetzrôn e Carmi."
   },
   {
     "verse": 10,
-    "original": "וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֧ל וְיָמִ֛ין וְאֹ֖הַד וְיָכִ֣ין וְצֹ֑חַר וְשָׁא֖וּל בֶּן־הַֽכְּנַעֲנִֽית׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H8095\">שִׁמְע֗וֹן</span> <span data-strong=\"H3223\">יְמוּאֵ֧ל</span> <span data-strong=\"H3226\">וְיָמִ֛ין</span> <span data-strong=\"H161\">וְאֹ֖הַד</span> <span data-strong=\"H3199\">וְיָכִ֣ין</span> <span data-strong=\"H6714\">וְצֹ֑חַר</span> <span data-strong=\"H7586\">וְשָׁא֖וּל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3669\">הַֽכְּנַעֲנִֽית׃</span>",
     "transliteration": "vveney shime'von yemv'el veyamiyn ve'ohad veyakhiyn vetsohar vesha'vl ven-hakhena'aniyt.",
     "translation": "E os filhos de Simeão: Jemuel, Jamín, Ohad, Jacim, Zoaar e Saul, filho da cananeia."
   },
   {
     "verse": 11,
-    "original": "וּבְנֵ֖י לֵוִ֑י גֵּרְשׁ֕וֹן קְהָ֖ת וּמְרָרִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H3878\">לֵוִ֑י</span> <span data-strong=\"H1647\">גֵּרְשׁ֕וֹן</span> <span data-strong=\"H6955\">קְהָ֖ת</span> <span data-strong=\"H4847\">וּמְרָרִֽי׃</span>",
     "transliteration": "vveney leviy gereshvon kehat vmerariy.",
     "translation": "E os filhos de Levi foram Gérson, Quet e Merari."
   },
   {
     "verse": 12,
-    "original": "וּבְנֵ֣י יְהוּדָ֗ה עֵ֧ר וְאוֹנָ֛ן וְשֵׁלָ֖ה וָפֶ֣רֶץ וָזָ֑רַח וַיָּ֨מׇת עֵ֤ר וְאוֹנָן֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיִּהְי֥וּ בְנֵי־פֶ֖רֶץ חֶצְרֹ֥ן וְחָמֽוּל׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H3063\">יְהוּדָ֗ה</span> <span data-strong=\"H6147\">עֵ֧ר</span> <span data-strong=\"H209\">וְאוֹנָ֛ן</span> <span data-strong=\"H7956\">וְשֵׁלָ֖ה</span> <span data-strong=\"H6557\">וָפֶ֣רֶץ</span> <span data-strong=\"H2226\">וָזָ֑רַח</span> <span data-strong=\"H4191\">וַיָּ֨מׇת</span> <span data-strong=\"H6147\">עֵ֤ר</span> <span data-strong=\"H209\">וְאוֹנָן֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H3667\">כְּנַ֔עַן</span> <span data-strong=\"H1961\">וַיִּהְי֥וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H6557\">פֶ֖רֶץ</span> <span data-strong=\"H2696\">חֶצְרֹ֥ן</span> <span data-strong=\"H2538\">וְחָמֽוּל׃</span>",
     "transliteration": "vveney yehvdah 'er ve'vonan veshelah vaferets vazarah vayamot 'er ve'vonan ve'erets khena'an vayiheyv veney-ferets hetseron vehamvl.",
     "translation": "E os filhos de Judá: Er, Onã, Selá, Perez e Zerah. E morreram Er e Onã na terra de Canaã; e os filhos de Perez foram Hetrom e Hamul."
   },
   {
     "verse": 13,
-    "original": "וּבְנֵ֖י יִשָּׂשכָ֑ר תּוֹלָ֥ע וּפֻוָ֖ה וְי֥וֹב וְשִׁמְרֹֽן׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H3485\">יִשָּׂשכָ֑ר</span> <span data-strong=\"H8439\">תּוֹלָ֥ע</span> <span data-strong=\"H6312\">וּפֻוָ֖ה</span> <span data-strong=\"H3102\">וְי֥וֹב</span> <span data-strong=\"H8110\">וְשִׁמְרֹֽן׃</span>",
     "transliteration": "vveney yisaskhar tvola' vfuvah veyvov veshimeron.",
     "translation": "E os filhos de Issacar: Tola, e Pua, e Jober, e Simron."
   },
   {
     "verse": 14,
-    "original": "וּבְנֵ֖י זְבֻל֑וּן סֶ֥רֶד וְאֵל֖וֹן וְיַחְלְאֵֽל׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H2074\">זְבֻל֑וּן</span> <span data-strong=\"H5624\">סֶ֥רֶד</span> <span data-strong=\"H356\">וְאֵל֖וֹן</span> <span data-strong=\"H3177\">וְיַחְלְאֵֽל׃</span>",
     "transliteration": "vveney zevulvn sered ve'elvon veyahele'el.",
     "translation": "E os filhos de Zebulom: Sered, Elon e Jaleel."
   },
   {
     "verse": 15,
-    "original": "אֵ֣לֶּה&thinsp;<b>׀</b> בְּנֵ֣י לֵאָ֗ה אֲשֶׁ֨ר יָֽלְדָ֤ה לְיַעֲקֹב֙ בְּפַדַּ֣ן אֲרָ֔ם וְאֵ֖ת דִּינָ֣ה בִתּ֑וֹ כׇּל־נֶ֧פֶשׁ בָּנָ֛יו וּבְנוֹתָ֖יו שְׁלֹשִׁ֥ים וְשָׁלֹֽשׁ׃",
+    "original": "<span data-strong=\"H428\">אֵ֣לֶּה&thinsp;<b>׀</b></span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3812\">לֵאָ֗ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H3205\">יָֽלְדָ֤ה</span> <span data-strong=\"H3290\">לְיַעֲקֹב֙</span> <span data-strong=\"H6307\">בְּפַדַּ֣ן</span> <span data-strong=\"H6307\">אֲרָ֔ם</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H1783\">דִּינָ֣ה</span> <span data-strong=\"H2050\">בִתּ֑וֹ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נֶ֧פֶשׁ</span> <span data-strong=\"H2050\">בָּנָ֛יו</span> <span data-strong=\"H2050\">וּבְנוֹתָ֖יו</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֥ים</span> <span data-strong=\"H7969\">וְשָׁלֹֽשׁ׃</span>",
     "transliteration": "'eleh&thinsp;<b>|</b> veney le'ah 'asher yaledah leya'akov vefadan 'aram ve'et diynah vitvo khol-nefesh vanayv vvenvotayv sheloshiym veshalosh.",
     "translation": "Estes são os filhos de Léa, que ela gerou para Jacó em Padã-Arã; e Diná sua filha. Todo o número dos seus filhos e das suas filhas é de trinta e três."
   },
   {
     "verse": 16,
-    "original": "וּבְנֵ֣י גָ֔ד צִפְי֥וֹן וְחַגִּ֖י שׁוּנִ֣י וְאֶצְבֹּ֑ן עֵרִ֥י וַֽאֲרוֹדִ֖י וְאַרְאֵלִֽי׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H1410\">גָ֔ד</span> <span data-strong=\"H6837\">צִפְי֥וֹן</span> <span data-strong=\"H2291\">וְחַגִּ֖י</span> <span data-strong=\"H7764\">שׁוּנִ֣י</span> <span data-strong=\"H675\">וְאֶצְבֹּ֑ן</span> <span data-strong=\"H6179\">עֵרִ֥י</span> <span data-strong=\"H722\">וַֽאֲרוֹדִ֖י</span> <span data-strong=\"H692\">וְאַרְאֵלִֽי׃</span>",
     "transliteration": "vveney gad tsifeyvon vehagiy shvniy ve'etsevon 'eriy va'arvodiy ve'are'eliy.",
     "translation": "E os filhos de Gade: Tsifyon, Haggi, Shuni, e Etsbôn; Eeri, Arodí e Aráeli."
   },
   {
     "verse": 17,
-    "original": "וּבְנֵ֣י אָשֵׁ֗ר יִמְנָ֧ה וְיִשְׁוָ֛ה וְיִשְׁוִ֥י וּבְרִיעָ֖ה וְשֶׂ֣רַח אֲחֹתָ֑ם וּבְנֵ֣י בְרִיעָ֔ה חֶ֖בֶר וּמַלְכִּיאֵֽל׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H836\">אָשֵׁ֗ר</span> <span data-strong=\"H3232\">יִמְנָ֧ה</span> <span data-strong=\"H3438\">וְיִשְׁוָ֛ה</span> <span data-strong=\"H3440\">וְיִשְׁוִ֥י</span> <span data-strong=\"H1283\">וּבְרִיעָ֖ה</span> <span data-strong=\"H8294\">וְשֶׂ֣רַח</span> <span data-strong=\"H3963\">אֲחֹתָ֑ם</span> <span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H1283\">בְרִיעָ֔ה</span> <span data-strong=\"H2268\">חֶ֖בֶר</span> <span data-strong=\"H4439\">וּמַלְכִּיאֵֽל׃</span>",
     "transliteration": "vveney 'asher yimenah veyishevah veyisheviy vveriy'ah veserah 'ahotam vveney veriy'ah hever vmalekhiy'el.",
     "translation": "E os filhos de Asher: Jemna e Yishva, Yisvi, Beria e Será sua irmã. E os filhos de Beria: Heber e Malquiel."
   },
   {
     "verse": 18,
-    "original": "אֵ֚לֶּה בְּנֵ֣י זִלְפָּ֔ה אֲשֶׁר־נָתַ֥ן לָבָ֖ן לְלֵאָ֣ה בִתּ֑וֹ וַתֵּ֤לֶד אֶת־אֵ֙לֶּה֙ לְיַעֲקֹ֔ב שֵׁ֥שׁ עֶשְׂרֵ֖ה נָֽפֶשׁ׃",
+    "original": "<span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H2153\">זִלְפָּ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5414\">נָתַ֥ן</span> <span data-strong=\"H3837\">לָבָ֖ן</span> <span data-strong=\"H3812\">לְלֵאָ֣ה</span> <span data-strong=\"H2050\">בִתּ֑וֹ</span> <span data-strong=\"H3205\">וַתֵּ֤לֶד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H428\">אֵ֙לֶּה֙</span> <span data-strong=\"H3290\">לְיַעֲקֹ֔ב</span> <span data-strong=\"H8337\">שֵׁ֥שׁ</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H5315\">נָֽפֶשׁ׃</span>",
     "transliteration": "'eleh veney zilefah 'asher-natan lavan lele'ah vitvo vateled 'et-'eleh leya'akov shesh 'esereh nafesh.",
     "translation": "Estes são os filhos de Zilpa, que Labão dera a Lia, sua filha; ela os gerou a Jacó, doze almas."
   },
   {
     "verse": 19,
-    "original": "בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַעֲקֹ֔ב יוֹסֵ֖ף וּבִנְיָמִֽן׃",
+    "original": "<span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H7354\">רָחֵל֙</span> <span data-strong=\"H802\">אֵ֣שֶׁת</span> <span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H3130\">יוֹסֵ֖ף</span> <span data-strong=\"H1144\">וּבִנְיָמִֽן׃</span>",
     "transliteration": "veney rahel 'eshet ya'akov yvosef vvineyamin.",
     "translation": "Filhos de Raquel, esposa de Jacó, José e Benjamin."
   },
@@ -121,37 +121,37 @@
   },
   {
     "verse": 21,
-    "original": "וּבְנֵ֣י בִנְיָמִ֗ן בֶּ֤לַע וָבֶ֙כֶר֙ וְאַשְׁבֵּ֔ל גֵּרָ֥א וְנַעֲמָ֖ן אֵחִ֣י וָרֹ֑אשׁ מֻפִּ֥ים וְחֻפִּ֖ים וָאָֽרְדְּ׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֣י</span> <span data-strong=\"H1144\">בִנְיָמִ֗ן</span> <span data-strong=\"H1106\">בֶּ֤לַע</span> <span data-strong=\"H1071\">וָבֶ֙כֶר֙</span> <span data-strong=\"H788\">וְאַשְׁבֵּ֔ל</span> <span data-strong=\"H1617\">גֵּרָ֥א</span> <span data-strong=\"H5283\">וְנַעֲמָ֖ן</span> <span data-strong=\"H278\">אֵחִ֣י</span> <span data-strong=\"H7220\">וָרֹ֑אשׁ</span> <span data-strong=\"H4649\">מֻפִּ֥ים</span> <span data-strong=\"H2650\">וְחֻפִּ֖ים</span> <span data-strong=\"H714\">וָאָֽרְדְּ׃</span>",
     "transliteration": "vveney vineyamin vela' vavekher ve'ashevel gera' vena'aman 'ehiy varo'sh mufiym vehufiym va'arede.",
     "translation": "E os filhos de Benjamim foram Belá e Bequer, e Ashbel, Gerá e Naaman, Ehi e Rosh, Mupim e Hupim e Ard."
   },
   {
     "verse": 22,
-    "original": "אֵ֚לֶּה בְּנֵ֣י רָחֵ֔ל אֲשֶׁ֥ר יֻלַּ֖ד לְיַעֲקֹ֑ב כׇּל־נֶ֖פֶשׁ אַרְבָּעָ֥ה עָשָֽׂר׃",
+    "original": "<span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H7354\">רָחֵ֔ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3205\">יֻלַּ֖ד</span> <span data-strong=\"H3290\">לְיַעֲקֹ֑ב</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נֶ֖פֶשׁ</span> <span data-strong=\"H702\">אַרְבָּעָ֥ה</span> <span data-strong=\"H6240\">עָשָֽׂר׃</span>",
     "transliteration": "'eleh veney rahel 'asher yulad leya'akov khol-nefesh 'areva'ah 'asar.",
     "translation": "Estes são os filhos de RACHEL, que nasceram a JACÓ; todas as almas, quatorze."
   },
   {
     "verse": 23,
-    "original": "וּבְנֵי־דָ֖ן חֻשִֽׁים׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵי</span>־<span data-strong=\"H1835\">דָ֖ן</span> <span data-strong=\"H2366\">חֻשִֽׁים׃</span>",
     "transliteration": "vveney-dan hushiym.",
     "translation": "E os filhos de Dã foram Chusim."
   },
   {
     "verse": 24,
-    "original": "וּבְנֵ֖י נַפְתָּלִ֑י יַחְצְאֵ֥ל וְגוּנִ֖י וְיֵ֥צֶר וְשִׁלֵּֽם׃",
+    "original": "<span data-strong=\"H1121\">וּבְנֵ֖י</span> <span data-strong=\"H5321\">נַפְתָּלִ֑י</span> <span data-strong=\"H3183\">יַחְצְאֵ֥ל</span> <span data-strong=\"H1476\">וְגוּנִ֖י</span> <span data-strong=\"H3337\">וְיֵ֥צֶר</span> <span data-strong=\"H8006\">וְשִׁלֵּֽם׃</span>",
     "transliteration": "vveney nafetaliy yahetse'el vegvniy veyetser veshilem.",
     "translation": "E os filhos de Naftali: Yachtzéel, Gueni, Yezer e Shilém."
   },
   {
     "verse": 25,
-    "original": "אֵ֚לֶּה בְּנֵ֣י בִלְהָ֔ה אֲשֶׁר־נָתַ֥ן לָבָ֖ן לְרָחֵ֣ל בִּתּ֑וֹ וַתֵּ֧לֶד אֶת־אֵ֛לֶּה לְיַעֲקֹ֖ב כׇּל־נֶ֥פֶשׁ שִׁבְעָֽה׃",
+    "original": "<span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1090\">בִלְהָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5414\">נָתַ֥ן</span> <span data-strong=\"H3837\">לָבָ֖ן</span> <span data-strong=\"H7354\">לְרָחֵ֣ל</span> <span data-strong=\"H2050\">בִּתּ֑וֹ</span> <span data-strong=\"H3205\">וַתֵּ֧לֶד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H428\">אֵ֛לֶּה</span> <span data-strong=\"H3290\">לְיַעֲקֹ֖ב</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נֶ֥פֶשׁ</span> <span data-strong=\"H7651\">שִׁבְעָֽה׃</span>",
     "transliteration": "'eleh veney vilehah 'asher-natan lavan lerahel vitvo vateled 'et-'eleh leya'akov khol-nefesh shive'ah.",
     "translation": "Estes são os filhos de Bileha, que Labão deu a Raquel, sua filha; ela lhes deu à luz estes para Jacó, total sete almas."
   },
   {
     "verse": 26,
-    "original": "כׇּל־הַ֠נֶּ֠פֶשׁ הַבָּאָ֨ה לְיַעֲקֹ֤ב מִצְרַ֙יְמָה֙ יֹצְאֵ֣י יְרֵכ֔וֹ מִלְּבַ֖ד נְשֵׁ֣י בְנֵי־יַעֲקֹ֑ב כׇּל־נֶ֖פֶשׁ שִׁשִּׁ֥ים וָשֵֽׁשׁ׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">הַ֠נֶּ֠פֶשׁ</span> <span data-strong=\"H935\">הַבָּאָ֨ה</span> <span data-strong=\"H3290\">לְיַעֲקֹ֤ב</span> <span data-strong=\"H1886\">מִצְרַ֙יְמָה֙</span> <span data-strong=\"H3318\">יֹצְאֵ֣י</span> <span data-strong=\"H2050\">יְרֵכ֔וֹ</span> <span data-strong=\"H905\">מִלְּבַ֖ד</span> <span data-strong=\"H802\">נְשֵׁ֣י</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3290\">יַעֲקֹ֑ב</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נֶ֖פֶשׁ</span> <span data-strong=\"H8346\">שִׁשִּׁ֥ים</span> <span data-strong=\"H8337\">וָשֵֽׁשׁ׃</span>",
     "transliteration": "khol-hanefesh hava'ah leya'akov mitserayemah yotse'ey yerekhvo milevad neshey veney-ya'akov khol-nefesh shishiym vashesh.",
     "translation": "Todas as almas que vieram com Jacó para o Egito, provenientes de sua descendência, além das mulheres dos filhos de Jacó, todas as almas foram sessenta e seis."
   },
@@ -163,43 +163,43 @@
   },
   {
     "verse": 28,
-    "original": "וְאֶת־יְהוּדָ֞ה שָׁלַ֤ח לְפָנָיו֙ אֶל־יוֹסֵ֔ף לְהוֹרֹ֥ת לְפָנָ֖יו גֹּ֑שְׁנָה וַיָּבֹ֖אוּ אַ֥רְצָה גֹּֽשֶׁן׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3063\">יְהוּדָ֞ה</span> <span data-strong=\"H7971\">שָׁלַ֤ח</span> <span data-strong=\"H2050\">לְפָנָיו֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3130\">יוֹסֵ֔ף</span> <span data-strong=\"H3384\">לְהוֹרֹ֥ת</span> <span data-strong=\"H2050\">לְפָנָ֖יו</span> <span data-strong=\"H1886\">גֹּ֑שְׁנָה</span> <span data-strong=\"H935\">וַיָּבֹ֖אוּ</span> <span data-strong=\"H1886\">אַ֥רְצָה</span> <span data-strong=\"H1657\">גֹּֽשֶׁן׃</span>",
     "transliteration": "ve'et-yehvdah shalah lefanayv 'el-yvosef lehvorot lefanayv goshenah vayavo'v 'aretsah goshen.",
     "translation": "E Judá enviou adiante dele a José para instruí-lo em Gosen; e eles entraram na terra de Gosen."
   },
   {
     "verse": 29,
-    "original": "וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת־יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א אֵלָ֗יו וַיִּפֹּל֙ עַל־צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל־צַוָּארָ֖יו עֽוֹד׃",
+    "original": "<span data-strong=\"H631\">וַיֶּאְסֹ֤ר</span> <span data-strong=\"H3130\">יוֹסֵף֙</span> <span data-strong=\"H2050\">מֶרְכַּבְתּ֔וֹ</span> <span data-strong=\"H5927\">וַיַּ֛עַל</span> <span data-strong=\"H7122\">לִקְרַֽאת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֥ל</span> <span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H1886\">גֹּ֑שְׁנָה</span> <span data-strong=\"H7200\">וַיֵּרָ֣א</span> <span data-strong=\"H2050\">אֵלָ֗יו</span> <span data-strong=\"H5307\">וַיִּפֹּל֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">צַוָּארָ֔יו</span> <span data-strong=\"H1058\">וַיֵּ֥בְךְּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">צַוָּארָ֖יו</span> <span data-strong=\"H5750\">עֽוֹד׃</span>",
     "transliteration": "vaye'esor yvosef merekhavetvo vaya'al likera't-yisera'el 'aviyv goshenah vayera' 'elayv vayifol 'al-tsava'rayv vayevekhe 'al-tsava'rayv 'vod.",
     "translation": "E José ordenou sua carruagem e subiu ao encontro de Israel, seu pai, em Goshen. E quando lhe apareceu, lançou-se sobre o pescoço dele e chorou abundantemente sobre o pescoço dele."
   },
   {
     "verse": 30,
-    "original": "וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל־יוֹסֵ֖ף אָמ֣וּתָה הַפָּ֑עַם אַחֲרֵי֙ רְאוֹתִ֣י אֶת־פָּנֶ֔יךָ כִּ֥י עוֹדְךָ֖ חָֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֧אמֶר</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3130\">יוֹסֵ֖ף</span> <span data-strong=\"H4191\">אָמ֣וּתָה</span> <span data-strong=\"H6471\">הַפָּ֑עַם</span> <span data-strong=\"H310\">אַחֲרֵי֙</span> <span data-strong=\"H5204\">רְאוֹתִ֣י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">פָּנֶ֔יךָ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H3509\">עוֹדְךָ֖</span> <span data-strong=\"H2416\">חָֽי׃</span>",
     "transliteration": "vayo'mer yisera'el 'el-yvosef 'amvtah hafa'am 'aharey re'votiy 'et-faneykha khiy 'vodekha hay.",
     "translation": "Então Israel disse a José: Morrerei agora, depois de ter visto o teu rosto, pois ainda vives."
   },
   {
     "verse": 31,
-    "original": "וַיֹּ֨אמֶר יוֹסֵ֤ף אֶל־אֶחָיו֙ וְאֶל־בֵּ֣ית אָבִ֔יו אֶעֱלֶ֖ה וְאַגִּ֣ידָה לְפַרְעֹ֑ה וְאֹֽמְרָ֣ה אֵלָ֔יו אַחַ֧י וּבֵית־אָבִ֛י אֲשֶׁ֥ר בְּאֶֽרֶץ־כְּנַ֖עַן בָּ֥אוּ אֵלָֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3130\">יוֹסֵ֤ף</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">אֶחָיו֙</span> <span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H2050\">אָבִ֔יו</span> <span data-strong=\"H5927\">אֶעֱלֶ֖ה</span> <span data-strong=\"H5046\">וְאַגִּ֣ידָה</span> <span data-strong=\"H6547\">לְפַרְעֹ֑ה</span> <span data-strong=\"H559\">וְאֹֽמְרָ֣ה</span> <span data-strong=\"H2050\">אֵלָ֔יו</span> <span data-strong=\"H2967\">אַחַ֧י</span> <span data-strong=\"H1004\">וּבֵית</span>־<span data-strong=\"H2967\">אָבִ֛י</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H776\">בְּאֶֽרֶץ</span>־<span data-strong=\"H3667\">כְּנַ֖עַן</span> <span data-strong=\"H935\">בָּ֥אוּ</span> <span data-strong=\"H2967\">אֵלָֽי׃</span>",
     "transliteration": "vayo'mer yvosef 'el-'ehayv ve'el-veyt 'aviyv 'e'eleh ve'agiydah lefare'oh ve'omerah 'elayv 'ahay vveyt-'aviy 'asher ve'erets-khena'an va'v 'elay.",
     "translation": "E José disse aos seus irmãos e à casa de seu pai: \"Subirei e falarei a Faraó, dizendo: 'Meus irmãos e a casa de meu pai, que estão na terra de Canaã, chegaram até mim.'\""
   },
   {
     "verse": 32,
-    "original": "וְהָאֲנָשִׁים֙ רֹ֣עֵי צֹ֔אן כִּֽי־אַנְשֵׁ֥י מִקְנֶ֖ה הָי֑וּ וְצֹאנָ֧ם וּבְקָרָ֛ם וְכׇל־אֲשֶׁ֥ר לָהֶ֖ם הֵבִֽיאוּ׃",
+    "original": "<span data-strong=\"H376\">וְהָאֲנָשִׁים֙</span> <span data-strong=\"H7473\">רֹ֣עֵי</span> <span data-strong=\"H6629\">צֹ֔אן</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H376\">אַנְשֵׁ֥י</span> <span data-strong=\"H4735\">מִקְנֶ֖ה</span> <span data-strong=\"H1961\">הָי֑וּ</span> <span data-strong=\"H3963\">וְצֹאנָ֧ם</span> <span data-strong=\"H3963\">וּבְקָרָ֛ם</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H935\">הֵבִֽיאוּ׃</span>",
     "transliteration": "veha'anashiym ro'ey tso'n khiy-'aneshey mikeneh hayv vetso'nam vvekaram vekhol-'asher lahem heviy'v.",
     "translation": "E os homens eram pastores, pois eles eram donos de rebanhos; e trouxeram seus rebanhos e gados, com tudo o que possuíam."
   },
   {
     "verse": 33,
-    "original": "וְהָיָ֕ה כִּֽי־יִקְרָ֥א לָכֶ֖ם פַּרְעֹ֑ה וְאָמַ֖ר מַה־מַּעֲשֵׂיכֶֽם׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֕ה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7121\">יִקְרָ֥א</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H6547\">פַּרְעֹ֑ה</span> <span data-strong=\"H559\">וְאָמַ֖ר</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3641\">מַּעֲשֵׂיכֶֽם׃</span>",
     "transliteration": "vehayah khiy-yikera' lakhem fare'oh ve'amar mah-ma'aseykhem.",
     "translation": "E sucederá que, quando Faraó vos chamar, e disser: Qual é o vosso ofício?"
   },
   {
     "verse": 34,
-    "original": "וַאֲמַרְתֶּ֗ם אַנְשֵׁ֨י מִקְנֶ֜ה הָי֤וּ עֲבָדֶ֙יךָ֙ מִנְּעוּרֵ֣ינוּ וְעַד־עַ֔תָּה גַּם־אֲנַ֖חְנוּ גַּם־אֲבֹתֵ֑ינוּ בַּעֲב֗וּר תֵּשְׁבוּ֙ בְּאֶ֣רֶץ גֹּ֔שֶׁן כִּֽי־תוֹעֲבַ֥ת מִצְרַ֖יִם כׇּל־רֹ֥עֵה צֹֽאן׃",
+    "original": "<span data-strong=\"H559\">וַאֲמַרְתֶּ֗ם</span> <span data-strong=\"H376\">אַנְשֵׁ֨י</span> <span data-strong=\"H4735\">מִקְנֶ֜ה</span> <span data-strong=\"H1961\">הָי֤וּ</span> <span data-strong=\"H3509\">עֲבָדֶ֙יךָ֙</span> <span data-strong=\"H5105\">מִנְּעוּרֵ֣ינוּ</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H6258\">עַ֔תָּה</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H587\">אֲנַ֖חְנוּ</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H5105\">אֲבֹתֵ֑ינוּ</span> <span data-strong=\"H5668\">בַּעֲב֗וּר</span> <span data-strong=\"H3427\">תֵּשְׁבוּ֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H1657\">גֹּ֔שֶׁן</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H8441\">תוֹעֲבַ֥ת</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7473\">רֹ֥עֵה</span> <span data-strong=\"H6629\">צֹֽאן׃</span>",
     "transliteration": "va'amaretem 'aneshey mikeneh hayv 'avadeykha mine'vreynv ve'ad-'atah gam-'anahenv gam-'avoteynv va'avvr teshevv ve'erets goshen khiy-tvo'avat mitserayim khol-ro'eh tso'n.",
     "translation": "E direis: Os servos de vosso servo foram pastores desde a mocidade até agora, tanto nós como nossos pais; para que possais habitar na terra de Gosen, pois todo pastor de rebanho é abominação aos egípcios."
   }

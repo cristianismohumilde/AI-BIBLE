@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "כִּקְדֹ֧חַ אֵ֣שׁ הֲמָסִ֗ים מַ֚יִם תִּבְעֶה־אֵ֔שׁ לְהוֹדִ֥יעַ שִׁמְךָ֖ לְצָרֶ֑יךָ מִפָּנֶ֖יךָ גּוֹיִ֥ם יִרְגָּֽזוּ׃",
+    "original": "<span data-strong=\"H6919\">כִּקְדֹ֧חַ</span> <span data-strong=\"H784\">אֵ֣שׁ</span> <span data-strong=\"H2003\">הֲמָסִ֗ים</span> <span data-strong=\"H4325\">מַ֚יִם</span> <span data-strong=\"H1158\">תִּבְעֶה</span>־<span data-strong=\"H784\">אֵ֔שׁ</span> <span data-strong=\"H3045\">לְהוֹדִ֥יעַ</span> <span data-strong=\"H3509\">שִׁמְךָ֖</span> <span data-strong=\"H3509\">לְצָרֶ֑יךָ</span> <span data-strong=\"H3509\">מִפָּנֶ֖יךָ</span> <span data-strong=\"H1471\">גּוֹיִ֥ם</span> <span data-strong=\"H7264\">יִרְגָּֽזוּ׃</span>",
     "transliteration": "khikedoha 'esh hamasiym mayim tive'eh-'esh lehvodiy'a shimekha letsareykha mifaneykha gvoyim yiregazv.",
     "translation": "Como quem quebra a massa de refrigério, assim águas apaziguam o fogo; para te fazerem conhecer entre os teus inimigos, diante de Ti as nações se estremecem."
   },
@@ -13,49 +13,49 @@
   },
   {
     "verse": 3,
-    "original": "וּמֵעוֹלָ֥ם לֹא־שָׁמְע֖וּ לֹ֣א הֶאֱזִ֑ינוּ עַ֣יִן לֹֽא־רָאָ֗תָה אֱלֹהִים֙ זוּלָ֣תְךָ֔ יַעֲשֶׂ֖ה לִמְחַכֵּה־לֽוֹ׃",
+    "original": "<span data-strong=\"H5769\">וּמֵעוֹלָ֥ם</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H8085\">שָׁמְע֖וּ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H238\">הֶאֱזִ֑ינוּ</span> <span data-strong=\"H5869\">עַ֣יִן</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7200\">רָאָ֗תָה</span> <span data-strong=\"H430\">אֱלֹהִים֙</span> <span data-strong=\"H3509\">זוּלָ֣תְךָ֔</span> <span data-strong=\"H6213\">יַעֲשֶׂ֖ה</span> <span data-strong=\"H2442\">לִמְחַכֵּה</span>־<span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vme'volam lo'-shame'v lo' he'eziynv 'ayin lo'-ra'atah 'elohiym zvlatekha ya'aseh limehakheh-lvo.",
     "translation": "E jamais ouviram, nem prestarão atenção; olho algum viu Deus além de Ti, que age para com os que nele esperam."
   },
   {
     "verse": 4,
-    "original": "פָּגַ֤עְתָּ אֶת־שָׂשׂ֙ וְעֹ֣שֵׂה צֶ֔דֶק בִּדְרָכֶ֖יךָ יִזְכְּר֑וּךָ הֵן־אַתָּ֤ה קָצַ֙פְתָּ֙ וַֽנֶּחֱטָ֔א בָּהֶ֥ם עוֹלָ֖ם וְנִוָּשֵֽׁעַ׃",
+    "original": "<span data-strong=\"H6293\">פָּגַ֤עְתָּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7797\">שָׂשׂ֙</span> <span data-strong=\"H6213\">וְעֹ֣שֵׂה</span> <span data-strong=\"H6664\">צֶ֔דֶק</span> <span data-strong=\"H3509\">בִּדְרָכֶ֖יךָ</span> <span data-strong=\"H3509\">יִזְכְּר֑וּךָ</span> <span data-strong=\"H2005\">הֵן</span>־<span data-strong=\"H859\">אַתָּ֤ה</span> <span data-strong=\"H7107\">קָצַ֙פְתָּ֙</span> <span data-strong=\"H2398\">וַֽנֶּחֱטָ֔א</span> <span data-strong=\"H3963\">בָּהֶ֥ם</span> <span data-strong=\"H5769\">עוֹלָ֖ם</span> <span data-strong=\"H3467\">וְנִוָּשֵֽׁעַ׃</span>",
     "transliteration": "faga'eta 'et-sas ve'oseh tsedek viderakheykha yizekhervkha hen-'atah katsafeta vaneheta' vahem 'volam venivashe'a.",
     "translation": "Encontraste aquele que faz a misericórdia e aquele que pratica a justiça; em teus caminhos te lembrarão. Pois tu foste irado, e pecamos; neles permanecemos para sempre, e seremos salvos."
   },
   {
     "verse": 5,
-    "original": "וַנְּהִ֤י כַטָּמֵא֙ כֻּלָּ֔נוּ וּכְבֶ֥גֶד עִדִּ֖ים כׇּל־צִדְקֹתֵ֑ינוּ וַנָּ֤בֶל כֶּֽעָלֶה֙ כֻּלָּ֔נוּ וַעֲוֺנֵ֖נוּ כָּר֥וּחַ יִשָּׂאֻֽנוּ׃",
+    "original": "<span data-strong=\"H1961\">וַנְּהִ֤י</span> <span data-strong=\"H2931\">כַטָּמֵא֙</span> <span data-strong=\"H5105\">כֻּלָּ֔נוּ</span> <span data-strong=\"H899\">וּכְבֶ֥גֶד</span> <span data-strong=\"H5708\">עִדִּ֖ים</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5105\">צִדְקֹתֵ֑ינוּ</span> <span data-strong=\"H5034\">וַנָּ֤בֶל</span> <span data-strong=\"H5929\">כֶּֽעָלֶה֙</span> <span data-strong=\"H5105\">כֻּלָּ֔נוּ</span> <span data-strong=\"H5105\">וַעֲוֺנֵ֖נוּ</span> <span data-strong=\"H7307\">כָּר֥וּחַ</span> <span data-strong=\"H5105\">יִשָּׂאֻֽנוּ׃</span>",
     "transliteration": "vanehiy khatame' khulanv vkheveged 'idiym khol-tsidekoteynv vanavel khe'aleh khulanv va'avonenv kharvha yisa'unv.",
     "translation": "Eis que fomos todos como os impuros, e todas as nossas justiças como vestimenta de mentiras; murchamos como folhas, e nossos pecados nos levaram como o vento."
   },
   {
     "verse": 6,
-    "original": "וְאֵין־קוֹרֵ֣א בְשִׁמְךָ֔ מִתְעוֹרֵ֖ר לְהַחֲזִ֣יק בָּ֑ךְ כִּֽי־הִסְתַּ֤רְתָּ פָנֶ֙יךָ֙ מִמֶּ֔נּוּ וַתְּמוּגֵ֖נוּ בְּיַד־עֲוֺנֵֽנוּ׃",
+    "original": "<span data-strong=\"H369\">וְאֵין</span>־<span data-strong=\"H7121\">קוֹרֵ֣א</span> <span data-strong=\"H3509\">בְשִׁמְךָ֔</span> <span data-strong=\"H5782\">מִתְעוֹרֵ֖ר</span> <span data-strong=\"H2388\">לְהַחֲזִ֣יק</span> <span data-strong=\"H3509\">בָּ֑ךְ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5641\">הִסְתַּ֤רְתָּ</span> <span data-strong=\"H3509\">פָנֶ֙יךָ֙</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H5105\">וַתְּמוּגֵ֖נוּ</span> <span data-strong=\"H3027\">בְּיַד</span>־<span data-strong=\"H5105\">עֲוֺנֵֽנוּ׃</span>",
     "transliteration": "ve'eyn-kvore' veshimekha mite'vorer lehahaziyk vakhe khiy-hisetareta faneykha mimenv vatemvgenv veyad-'avonenv.",
     "translation": "E não há quem clame pelo teu nome, despertando para se apegar a ti; pois ocultaste o teu rosto dele, e os fizeste vacilar pela força dos nossos pecados."
   },
   {
     "verse": 7,
-    "original": "וְעַתָּ֥ה יְהֹוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֙מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה יָדְךָ֖ כֻּלָּֽנוּ׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5105\">אָבִ֣ינוּ</span> <span data-strong=\"H859\">אָ֑תָּה</span> <span data-strong=\"H587\">אֲנַ֤חְנוּ</span> <span data-strong=\"H2563\">הַחֹ֙מֶר֙</span> <span data-strong=\"H859\">וְאַתָּ֣ה</span> <span data-strong=\"H5105\">יֹצְרֵ֔נוּ</span> <span data-strong=\"H4639\">וּמַעֲשֵׂ֥ה</span> <span data-strong=\"H3509\">יָדְךָ֖</span> <span data-strong=\"H5105\">כֻּלָּֽנוּ׃</span>",
     "transliteration": "ve'atah yehovah 'aviynv 'atah 'anahenv hahomer ve'atah yotserenv vma'aseh yadekha khulanv.",
     "translation": "E agora, Senhor, nosso Pai, tu és o formador e nós a argila; toda nós somos obra de tuas mãos.\n\nCorreção:\nE agora, Senhor, nosso Pai, tu és o formador e nós a argila; todos nós somos obra de tuas mãos."
   },
   {
     "verse": 8,
-    "original": "אַל־תִּקְצֹ֤ף יְהֹוָה֙ עַד־מְאֹ֔ד וְאַל־לָעַ֖ד תִּזְכֹּ֣ר עָוֺ֑ן הֵ֥ן הַבֶּט־נָ֖א עַמְּךָ֥ כֻלָּֽנוּ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H7107\">תִּקְצֹ֤ף</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3966\">מְאֹ֔ד</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H5703\">לָעַ֖ד</span> <span data-strong=\"H2142\">תִּזְכֹּ֣ר</span> <span data-strong=\"H5771\">עָוֺ֑ן</span> <span data-strong=\"H2005\">הֵ֥ן</span> <span data-strong=\"H5027\">הַבֶּט</span>־<span data-strong=\"H4994\">נָ֖א</span> <span data-strong=\"H3509\">עַמְּךָ֥</span> <span data-strong=\"H5105\">כֻלָּֽנוּ׃</span>",
     "transliteration": "'al-tiketsof yehovah 'ad-me'od ve'al-la'ad tizekhor 'avon hen havet-na' 'amekha khulanv.",
     "translation": "Não te iras demasiadamente, Senhor, e não guardes para sempre o seu pecado em memória; olha agora, por favor, para o teu povo, todos nós."
   },
   {
     "verse": 9,
-    "original": "עָרֵ֥י קׇדְשְׁךָ֖ הָי֣וּ מִדְבָּ֑ר צִיּוֹן֙ מִדְבָּ֣ר הָיָ֔תָה יְרוּשָׁלַ֖͏ִם שְׁמָמָֽה׃",
+    "original": "<span data-strong=\"H5892\">עָרֵ֥י</span> <span data-strong=\"H3509\">קׇדְשְׁךָ֖</span> <span data-strong=\"H1961\">הָי֣וּ</span> <span data-strong=\"H4057\">מִדְבָּ֑ר</span> <span data-strong=\"H6726\">צִיּוֹן֙</span> <span data-strong=\"H4057\">מִדְבָּ֣ר</span> <span data-strong=\"H1961\">הָיָ֔תָה</span> <span data-strong=\"H3389\">יְרוּשָׁלַ֖͏ִם</span> <span data-strong=\"H8077\">שְׁמָמָֽה׃</span>",
     "transliteration": "'arey kodeshekha hayv midevar tsiyvon midevar hayatah yervshalaim shemamah.",
     "translation": "Tus cidades santas se tornaram deserto, Sião um ermo, Jerusalém uma solidão."
   },
   {
     "verse": 10,
-    "original": "בֵּ֧ית קׇדְשֵׁ֣נוּ וְתִפְאַרְתֵּ֗נוּ אֲשֶׁ֤ר הִֽלְל֙וּךָ֙ אֲבֹתֵ֔ינוּ הָיָ֖ה לִשְׂרֵ֣פַת אֵ֑שׁ וְכׇל־מַחֲמַדֵּ֖ינוּ הָיָ֥ה לְחׇרְבָּֽה׃",
+    "original": "<span data-strong=\"H1004\">בֵּ֧ית</span> <span data-strong=\"H5105\">קׇדְשֵׁ֣נוּ</span> <span data-strong=\"H5105\">וְתִפְאַרְתֵּ֗נוּ</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H3509\">הִֽלְל֙וּךָ֙</span> <span data-strong=\"H5105\">אֲבֹתֵ֔ינוּ</span> <span data-strong=\"H1961\">הָיָ֖ה</span> <span data-strong=\"H8316\">לִשְׂרֵ֣פַת</span> <span data-strong=\"H784\">אֵ֑שׁ</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H5105\">מַחֲמַדֵּ֖ינוּ</span> <span data-strong=\"H1961\">הָיָ֥ה</span> <span data-strong=\"H2723\">לְחׇרְבָּֽה׃</span>",
     "transliteration": "veyt kodeshenv vetife'aretenv 'asher hilelvkha 'avoteynv hayah liserefat 'esh vekhol-mahamadeynv hayah lehorevah.",
     "translation": "Nosso templo e nossa glória, em que os nossos pais te exaltavam, foi reduzido a cinzas pelo fogo, e todas as nossas delícias se tornaram em ruína."
   },

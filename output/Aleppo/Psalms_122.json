@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד שָׂ֭מַחְתִּי בְּאֹמְרִ֣ים לִ֑י בֵּ֖ית יְהֹוָ֣ה נֵלֵֽךְ׃",
+    "original": "<span data-strong=\"H7892\">שִׁ֥יר</span> <span data-strong=\"H4609\">הַֽמַּעֲל֗וֹת</span> <span data-strong=\"H1732\">לְדָ֫וִ֥ד</span> <span data-strong=\"H8055\">שָׂ֭מַחְתִּי</span> <span data-strong=\"H559\">בְּאֹמְרִ֣ים</span> <span data-strong=\"H2967\">לִ֑י</span> <span data-strong=\"H1004\">בֵּ֖ית</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H1980\">נֵלֵֽךְ׃</span>",
     "transliteration": "shiyr hama'alvot ledavid samahetiy ve'omeriym liy veyt yehovah nelekhe.",
     "translation": "Canto dos degraus, para Davi: Alegrei-me quando me disseram: Vamos à casa do Senhor."
   },
   {
     "verse": 2,
-    "original": "עֹ֭מְדוֹת הָי֣וּ רַגְלֵ֑ינוּ בִּ֝שְׁעָרַ֗יִךְ יְרוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H5975\">עֹ֭מְדוֹת</span> <span data-strong=\"H1961\">הָי֣וּ</span> <span data-strong=\"H5105\">רַגְלֵ֑ינוּ</span> <span data-strong=\"H3509\">בִּ֝שְׁעָרַ֗יִךְ</span> <span data-strong=\"H3389\">יְרוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "'omedvot hayv rageleynv vishe'arayikhe yervshalaim.",
     "translation": "Estacionaram-se nossos pés em tuas portas, ó Jerusalém."
   },
   {
     "verse": 3,
-    "original": "יְרוּשָׁלַ֥͏ִם הַבְּנוּיָ֑ה כְּ֝עִ֗יר שֶׁחֻבְּרָה־לָּ֥הּ יַחְדָּֽו׃",
+    "original": "<span data-strong=\"H3389\">יְרוּשָׁלַ֥͏ִם</span> <span data-strong=\"H1129\">הַבְּנוּיָ֑ה</span> <span data-strong=\"H5892\">כְּ֝עִ֗יר</span> <span data-strong=\"H2266\">שֶׁחֻבְּרָה</span>־<span data-strong=\"H1886\">לָּ֥הּ</span> <span data-strong=\"H3162\">יַחְדָּֽו׃</span>",
     "transliteration": "yervshalaim havenvyah khe'iyr shehuverah-lah yahedav.",
     "translation": "Jerusalém, edificada como cidade compacta e unida."
   },
   {
     "verse": 4,
-    "original": "שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי־יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H8033\">שֶׁשָּׁ֨ם</span> <span data-strong=\"H5927\">עָל֪וּ</span> <span data-strong=\"H7626\">שְׁבָטִ֡ים</span> <span data-strong=\"H7626\">שִׁבְטֵי</span>־<span data-strong=\"H3050\">יָ֭הּ</span> <span data-strong=\"H5715\">עֵד֣וּת</span> <span data-strong=\"H3478\">לְיִשְׂרָאֵ֑ל</span> <span data-strong=\"H3034\">לְ֝הֹד֗וֹת</span> <span data-strong=\"H8034\">לְשֵׁ֣ם</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "shesham 'alv shevatiym shivetey-yah 'edvt leyisera'el lehodvot leshem yehovah.",
     "translation": "Lá subiram as tribos, as tribos de Deus; para testemunhar a Israel, para louvar o nome do Senhor."
   },
   {
     "verse": 5,
-    "original": "כִּ֤י שָׁ֨מָּה&thinsp;<b>׀</b> יָשְׁב֣וּ כִסְא֣וֹת לְמִשְׁפָּ֑ט כִּ֝סְא֗וֹת לְבֵ֣ית דָּוִֽד׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H1886\">שָׁ֨מָּה&thinsp;<b>׀</b></span> <span data-strong=\"H3427\">יָשְׁב֣וּ</span> <span data-strong=\"H3678\">כִסְא֣וֹת</span> <span data-strong=\"H4941\">לְמִשְׁפָּ֑ט</span> <span data-strong=\"H3678\">כִּ֝סְא֗וֹת</span> <span data-strong=\"H1004\">לְבֵ֣ית</span> <span data-strong=\"H1732\">דָּוִֽד׃</span>",
     "transliteration": "khiy shamah&thinsp;<b>|</b> yashevv khise'vot lemishefat khise'vot leveyt david.",
     "translation": "Pois ali se assentaram tronos de juízo, tronos para a casa de Davi."
   },
   {
     "verse": 6,
-    "original": "שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלָ֑͏ִם יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ׃",
+    "original": "<span data-strong=\"H7592\">שַׁ֭אֲלוּ</span> <span data-strong=\"H7965\">שְׁל֣וֹם</span> <span data-strong=\"H3389\">יְרוּשָׁלָ֑͏ִם</span> <span data-strong=\"H7951\">יִ֝שְׁלָ֗יוּ</span> <span data-strong=\"H3509\">אֹהֲבָֽיִךְ׃</span>",
     "transliteration": "sha'alv shelvom yervshalaim yishelayv 'ohavayikhe.",
     "translation": "Peçam a paz de Jerusalém; prosperem os que te amam."
   },
   {
     "verse": 7,
-    "original": "יְהִי־שָׁל֥וֹם בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנוֹתָֽיִךְ׃",
+    "original": "<span data-strong=\"H1961\">יְהִי</span>־<span data-strong=\"H7965\">שָׁל֥וֹם</span> <span data-strong=\"H3509\">בְּחֵילֵ֑ךְ</span> <span data-strong=\"H7962\">שַׁ֝לְוָ֗ה</span> <span data-strong=\"H3509\">בְּאַרְמְנוֹתָֽיִךְ׃</span>",
     "transliteration": "yehiy-shalvom veheylekhe shalevah ve'aremenvotayikhe.",
     "translation": "Seja paz no teu arraial, serenidade nos teus palácios."
   },
   {
     "verse": 8,
-    "original": "לְ֭מַעַן אַחַ֣י וְרֵעָ֑י אֲדַבְּרָה־נָּ֖א שָׁל֣וֹם בָּֽךְ׃",
+    "original": "<span data-strong=\"H4616\">לְ֭מַעַן</span> <span data-strong=\"H2967\">אַחַ֣י</span> <span data-strong=\"H2967\">וְרֵעָ֑י</span> <span data-strong=\"H1696\">אֲדַבְּרָה</span>־<span data-strong=\"H4994\">נָּ֖א</span> <span data-strong=\"H7965\">שָׁל֣וֹם</span> <span data-strong=\"H3509\">בָּֽךְ׃</span>",
     "transliteration": "lema'an 'ahay vere'ay 'adaverah-na' shalvom vakhe.",
     "translation": "Por causa dos meus irmãos e amigos, falarei: haja paz contigo."
   },

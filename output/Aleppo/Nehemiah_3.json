@@ -73,7 +73,7 @@
   },
   {
     "verse": 13,
-    "original": "אֵת֩ שַׁ֨עַר הַגַּ֜יְא הֶחֱזִ֣יק חָנוּן֮ וְיֹשְׁבֵ֣י זָנ֒וֹחַ֒ הֵ֣מָּה בָנ֔וּהוּ וַֽיַּעֲמִ֙ידוּ֙ דַּלְתֹתָ֔יו מַנְעֻלָ֖יו וּבְרִיחָ֑יו וְאֶ֤לֶף אַמָּה֙ בַּחוֹמָ֔ה עַ֖ד שַׁ֥עַר הָשְׁפֽוֹת׃",
+    "original": "<span data-strong=\"H853\">אֵת֩</span> <span data-strong=\"H8179\">שַׁ֨עַר</span> <span data-strong=\"H1516\">הַגַּ֜יְא</span> <span data-strong=\"H2388\">הֶחֱזִ֣יק</span> <span data-strong=\"H2586\">חָנוּן֮</span> <span data-strong=\"H3427\">וְיֹשְׁבֵ֣י</span> <span data-strong=\"H2182\">זָנ֒וֹחַ֒</span> <span data-strong=\"H1992\">הֵ֣מָּה</span> <span data-strong=\"H1930\">בָנ֔וּהוּ</span> <span data-strong=\"H5975\">וַֽיַּעֲמִ֙ידוּ֙</span> <span data-strong=\"H2050\">דַּלְתֹתָ֔יו</span> <span data-strong=\"H2050\">מַנְעֻלָ֖יו</span> <span data-strong=\"H2050\">וּבְרִיחָ֑יו</span> <span data-strong=\"H505\">וְאֶ֤לֶף</span> <span data-strong=\"H520\">אַמָּה֙</span> <span data-strong=\"H2346\">בַּחוֹמָ֔ה</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H8179\">שַׁ֥עַר</span> <span data-strong=\"H830\">הָשְׁפֽוֹת׃</span>",
     "transliteration": "'et sha'ar hagaye' heheziyk hanvn veyoshevey zanvoha hemah vanvhv vaya'amiydv daletotayv mane'ulayv vveriyhayv ve'elef 'amah vahvomah 'ad sha'ar hashefvot.",
     "translation": "Eis que Hanun e os habitantes de Zanoá seguraram o portão do vale. Eles o construíram, estabeleceram suas folhas, seus ferrolhos e seus batentes; mil côvados na parede até ao portão das vasijas."
   },
@@ -127,7 +127,7 @@
   },
   {
     "verse": 22,
-    "original": "וְאַחֲרָ֛יו הֶחֱזִ֥יקוּ הַכֹּהֲנִ֖ים אַנְשֵׁ֥י הַכִּכָּֽר׃",
+    "original": "<span data-strong=\"H2050\">וְאַחֲרָ֛יו</span> <span data-strong=\"H2388\">הֶחֱזִ֥יקוּ</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֖ים</span> <span data-strong=\"H376\">אַנְשֵׁ֥י</span> <span data-strong=\"H3603\">הַכִּכָּֽר׃</span>",
     "transliteration": "ve'aharayv heheziykv hakhohaniym 'aneshey hakhikhar.",
     "translation": "E após ele, os sacerdotes sustentaram os homens da roda."
   },
@@ -139,7 +139,7 @@
   },
   {
     "verse": 24,
-    "original": "אַחֲרָ֣יו הֶחֱזִ֗יק בִּנּ֛וּי בֶּן־חֵנָדָ֖ד מִדָּ֣ה שֵׁנִ֑ית מִבֵּ֣ית עֲזַרְיָ֔ה עַד־הַמִּקְצ֖וֹעַ וְעַד־הַפִּנָּֽה׃",
+    "original": "<span data-strong=\"H2050\">אַחֲרָ֣יו</span> <span data-strong=\"H2388\">הֶחֱזִ֗יק</span> <span data-strong=\"H1131\">בִּנּ֛וּי</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2582\">חֵנָדָ֖ד</span> <span data-strong=\"H4060\">מִדָּ֣ה</span> <span data-strong=\"H8145\">שֵׁנִ֑ית</span> <span data-strong=\"H1004\">מִבֵּ֣ית</span> <span data-strong=\"H5838\">עֲזַרְיָ֔ה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4740\">הַמִּקְצ֖וֹעַ</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H6438\">הַפִּנָּֽה׃</span>",
     "transliteration": "'aharayv heheziyk vinvy ven-henadad midah sheniyt miveyt 'azareyah 'ad-hamiketsvo'a ve'ad-hafinah.",
     "translation": "Depois dele, Ben-Henadade reforçou-o, da casa de Azarias até ao recanto e à ponta."
   },
@@ -157,7 +157,7 @@
   },
   {
     "verse": 27,
-    "original": "אַחֲרָ֛יו הֶחֱזִ֥יקוּ הַתְּקֹעִ֖ים מִדָּ֣ה שֵׁנִ֑ית מִנֶּ֜גֶד הַמִּגְדָּ֤ל הַגָּדוֹל֙ הַיּוֹצֵ֔א וְעַ֖ד חוֹמַ֥ת הָעֹֽפֶל׃",
+    "original": "<span data-strong=\"H2050\">אַחֲרָ֛יו</span> <span data-strong=\"H2388\">הֶחֱזִ֥יקוּ</span> <span data-strong=\"H8621\">הַתְּקֹעִ֖ים</span> <span data-strong=\"H4060\">מִדָּ֣ה</span> <span data-strong=\"H8145\">שֵׁנִ֑ית</span> <span data-strong=\"H5048\">מִנֶּ֜גֶד</span> <span data-strong=\"H4026\">הַמִּגְדָּ֤ל</span> <span data-strong=\"H1419\">הַגָּדוֹל֙</span> <span data-strong=\"H3318\">הַיּוֹצֵ֔א</span> <span data-strong=\"H5704\">וְעַ֖ד</span> <span data-strong=\"H2346\">חוֹמַ֥ת</span> <span data-strong=\"H6077\">הָעֹֽפֶל׃</span>",
     "transliteration": "'aharayv heheziykv hateko'iym midah sheniyt mineged hamigedal hagadvol hayvotse' ve'ad hvomat ha'ofel.",
     "translation": "Depois dele, os tocadores de trombeta firmaram-se para a segunda medida, desde o grande torreão que sobe até à muralha do Ofel."
   },
@@ -193,13 +193,13 @@
   },
   {
     "verse": 33,
-    "original": "וַיְהִ֞י כַּאֲשֶׁ֧ר שָׁמַ֣ע סַנְבַלַּ֗ט כִּֽי־אֲנַ֤חְנוּ בוֹנִים֙ אֶת־הַ֣חוֹמָ֔ה וַיִּ֣חַר ל֔וֹ וַיִּכְעַ֖ס הַרְבֵּ֑ה וַיַּלְעֵ֖ג עַל־הַיְּהוּדִֽים׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֞י</span> <span data-strong=\"H834\">כַּאֲשֶׁ֧ר</span> <span data-strong=\"H8085\">שָׁמַ֣ע</span> <span data-strong=\"H5571\">סַנְבַלַּ֗ט</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H587\">אֲנַ֤חְנוּ</span> <span data-strong=\"H1129\">בוֹנִים֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2346\">הַ֣חוֹמָ֔ה</span> <span data-strong=\"H2734\">וַיִּ֣חַר</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H3707\">וַיִּכְעַ֖ס</span> <span data-strong=\"H7235\">הַרְבֵּ֑ה</span> <span data-strong=\"H3932\">וַיַּלְעֵ֖ג</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3064\">הַיְּהוּדִֽים׃</span>",
     "transliteration": "vayehiy kha'asher shama' sanevalat khiy-'anahenv vvoniym 'et-hahvomah vayihar lvo vayikhe'as hareveh vayale'eg 'al-hayehvdiym.",
     "translation": "E aconteceu que, quando Sambalate ouviu que estávamos edificando a muralha, se irou e muito se indignou, zombando dos judeus."
   },
   {
     "verse": 34,
-    "original": "וַיֹּ֣אמֶר&thinsp;<b>׀</b> לִפְנֵ֣י אֶחָ֗יו וְחֵיל֙ שֹֽׁמְר֔וֹן וַיֹּ֕אמֶר מָ֛ה הַיְּהוּדִ֥ים הָאֲמֵלָלִ֖ים עֹשִׂ֑ים הֲיַעַזְב֨וּ לָהֶ֤ם הֲיִזְבָּ֙חוּ֙ הַיְכַלּ֣וּ בַיּ֔וֹם הַיְחַיּ֧וּ אֶת־הָאֲבָנִ֛ים מֵעֲרֵמ֥וֹת הֶעָפָ֖ר וְהֵ֥מָּה שְׂרוּפֽוֹת׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר&thinsp;<b>׀</b></span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H2050\">אֶחָ֗יו</span> <span data-strong=\"H2428\">וְחֵיל֙</span> <span data-strong=\"H8111\">שֹֽׁמְר֔וֹן</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H4100\">מָ֛ה</span> <span data-strong=\"H3064\">הַיְּהוּדִ֥ים</span> <span data-strong=\"H537\">הָאֲמֵלָלִ֖ים</span> <span data-strong=\"H6213\">עֹשִׂ֑ים</span> <span data-strong=\"H5800\">הֲיַעַזְב֨וּ</span> <span data-strong=\"H3963\">לָהֶ֤ם</span> <span data-strong=\"H2076\">הֲיִזְבָּ֙חוּ֙</span> <span data-strong=\"H3615\">הַיְכַלּ֣וּ</span> <span data-strong=\"H3117\">בַיּ֔וֹם</span> <span data-strong=\"H2421\">הַיְחַיּ֧וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H68\">הָאֲבָנִ֛ים</span> <span data-strong=\"H6194\">מֵעֲרֵמ֥וֹת</span> <span data-strong=\"H6083\">הֶעָפָ֖ר</span> <span data-strong=\"H1992\">וְהֵ֥מָּה</span> <span data-strong=\"H8313\">שְׂרוּפֽוֹת׃</span>",
     "transliteration": "vayo'mer&thinsp;<b>|</b> lifeney 'ehayv veheyl shomervon vayo'mer mah hayehvdiym ha'amelaliym 'osiym haya'azevv lahem hayizevahv hayekhalv vayvom hayehayv 'et-ha'avaniym me'aremvot he'afar vehemah servfvot.",
     "translation": "E disse diante de seus irmãos e da força de Samaria: Que fazem estes judeus desdenhados? Largarão a obra, se levantará sobre eles o fogo? Poderão em um dia acabar de reconstruir as pedras das montanhas de entulho, mesmo sendo cinzas?"
   },
@@ -211,13 +211,13 @@
   },
   {
     "verse": 36,
-    "original": "שְׁמַ֤ע אֱלֹהֵ֙ינוּ֙ כִּֽי־הָיִ֣ינוּ בוּזָ֔ה וְהָשֵׁ֥ב חֶרְפָּתָ֖ם אֶל־רֹאשָׁ֑ם וּתְנֵ֥ם לְבִזָּ֖ה בְּאֶ֥רֶץ שִׁבְיָֽה׃",
+    "original": "<span data-strong=\"H8085\">שְׁמַ֤ע</span> <span data-strong=\"H5105\">אֱלֹהֵ֙ינוּ֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">הָיִ֣ינוּ</span> <span data-strong=\"H939\">בוּזָ֔ה</span> <span data-strong=\"H7725\">וְהָשֵׁ֥ב</span> <span data-strong=\"H3963\">חֶרְפָּתָ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3963\">רֹאשָׁ֑ם</span> <span data-strong=\"H3963\">וּתְנֵ֥ם</span> <span data-strong=\"H961\">לְבִזָּ֖ה</span> <span data-strong=\"H776\">בְּאֶ֥רֶץ</span> <span data-strong=\"H7633\">שִׁבְיָֽה׃</span>",
     "transliteration": "shema' 'eloheynv khiy-hayiynv vvzah vehashev herefatam 'el-ro'sham vtenem levizah ve'erets shiveyah.",
     "translation": "Ouvi, ó nosso Deus, pois fomos escarnecidos, e retribui a sua zombaria sobre suas cabeças; e dai-lhes por desdouro na terra da prisão."
   },
   {
     "verse": 37,
-    "original": "וְאַל־תְּכַס֙ עַל־עֲוֺנָ֔ם וְחַטָּאתָ֖ם מִלְּפָנֶ֣יךָ אַל־תִּמָּחֶ֑ה כִּ֥י הִכְעִ֖יסוּ לְנֶ֥גֶד הַבּוֹנִֽים׃",
+    "original": "<span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H3680\">תְּכַס֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">עֲוֺנָ֔ם</span> <span data-strong=\"H3963\">וְחַטָּאתָ֖ם</span> <span data-strong=\"H3509\">מִלְּפָנֶ֣יךָ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H4229\">תִּמָּחֶ֑ה</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H3707\">הִכְעִ֖יסוּ</span> <span data-strong=\"H5048\">לְנֶ֥גֶד</span> <span data-strong=\"H1129\">הַבּוֹנִֽים׃</span>",
     "transliteration": "ve'al-tekhas 'al-'avonam vehata'tam milefaneykha 'al-timaheh khiy hikhe'iysv leneged havvoniym.",
     "translation": "E não os cubras com seu pecado, e sua iniquidade diante de ti não apagues; pois me provocaram à ira na obra da construção."
   },

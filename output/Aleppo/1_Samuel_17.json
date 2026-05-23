@@ -1,37 +1,37 @@
 [
   {
     "verse": 1,
-    "original": "וַיַּאַסְפ֨וּ פְלִשְׁתִּ֤ים אֶת־מַֽחֲנֵיהֶם֙ לַמִּלְחָמָ֔ה וַיֵּאָ֣סְפ֔וּ שֹׂכֹ֖ה אֲשֶׁ֣ר לִֽיהוּדָ֑ה וַֽיַּחֲנ֛וּ בֵּין־שׂוֹכֹ֥ה וּבֵין־עֲזֵקָ֖ה בְּאֶ֥פֶס דַּמִּֽים׃",
+    "original": "<span data-strong=\"H622\">וַיַּאַסְפ֨וּ</span> <span data-strong=\"H6430\">פְלִשְׁתִּ֤ים</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">מַֽחֲנֵיהֶם֙</span> <span data-strong=\"H4421\">לַמִּלְחָמָ֔ה</span> <span data-strong=\"H622\">וַיֵּאָ֣סְפ֔וּ</span> <span data-strong=\"H7755\">שֹׂכֹ֖ה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3063\">לִֽיהוּדָ֑ה</span> <span data-strong=\"H2583\">וַֽיַּחֲנ֛וּ</span> <span data-strong=\"H996\">בֵּין</span>־<span data-strong=\"H7755\">שׂוֹכֹ֥ה</span> <span data-strong=\"H996\">וּבֵין</span>־<span data-strong=\"H5825\">עֲזֵקָ֖ה</span> <span data-strong=\"H658\">בְּאֶ֥פֶס</span> <span data-strong=\"H658\">דַּמִּֽים׃</span>",
     "transliteration": "vaya'asefv felishetiym 'et-mahaneyhem lamilehamah vaye'asefv sokhoh 'asher liyhvdah vayahanv veyn-svokhoh vveyn-'azekah ve'efes damiym.",
     "translation": "E os filisteus ajuntaram seus acampamentos para a guerra; e foram ajuntar-se em Socô, que pertence a Judá; e acamparam entre Socô e Azeca, em Efa-Damas."
   },
   {
     "verse": 2,
-    "original": "וְשָׁא֤וּל וְאִֽישׁ־יִשְׂרָאֵל֙ נֶֽאֶסְפ֔וּ וַֽיַּחֲנ֖וּ בְּעֵ֣מֶק הָאֵלָ֑ה וַיַּעַרְכ֥וּ מִלְחָמָ֖ה לִקְרַ֥את פְּלִשְׁתִּֽים׃",
+    "original": "<span data-strong=\"H7586\">וְשָׁא֤וּל</span> <span data-strong=\"H376\">וְאִֽישׁ</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H622\">נֶֽאֶסְפ֔וּ</span> <span data-strong=\"H2583\">וַֽיַּחֲנ֖וּ</span> <span data-strong=\"H425\">בְּעֵ֣מֶק</span> <span data-strong=\"H425\">הָאֵלָ֑ה</span> <span data-strong=\"H6186\">וַיַּעַרְכ֥וּ</span> <span data-strong=\"H4421\">מִלְחָמָ֖ה</span> <span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H6430\">פְּלִשְׁתִּֽים׃</span>",
     "transliteration": "vesha'vl ve'iysh-yisera'el ne'esefv vayahanv ve'emek ha'elah vaya'arekhv milehamah likera't felishetiym.",
     "translation": "E Saul e os homens de Israel se reuniram e acamparam no Vale do Terebinto, e ordenaram-se para a batalha contra os filisteus."
   },
   {
     "verse": 3,
-    "original": "וּפְלִשְׁתִּ֞ים עֹמְדִ֤ים אֶל־הָהָר֙ מִזֶּ֔ה וְיִשְׂרָאֵ֛ל עֹמְדִ֥ים אֶל־הָהָ֖ר מִזֶּ֑ה וְהַגַּ֖יְא בֵּינֵיהֶֽם׃",
+    "original": "<span data-strong=\"H6430\">וּפְלִשְׁתִּ֞ים</span> <span data-strong=\"H5975\">עֹמְדִ֤ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2022\">הָהָר֙</span> <span data-strong=\"H2088\">מִזֶּ֔ה</span> <span data-strong=\"H3478\">וְיִשְׂרָאֵ֛ל</span> <span data-strong=\"H5975\">עֹמְדִ֥ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2022\">הָהָ֖ר</span> <span data-strong=\"H2088\">מִזֶּ֑ה</span> <span data-strong=\"H1516\">וְהַגַּ֖יְא</span> <span data-strong=\"H3963\">בֵּינֵיהֶֽם׃</span>",
     "transliteration": "vfelishetiym 'omediym 'el-hahar mizeh veyisera'el 'omediym 'el-hahar mizeh vehagaye' veyneyhem.",
     "translation": "E os filisteus estavam de um lado da montanha, e Israel do outro; e havia uma valesa entre eles."
   },
   {
     "verse": 4,
-    "original": "וַיֵּצֵ֤א אִֽישׁ־הַבֵּנַ֙יִם֙ מִמַּחֲנ֣וֹת פְּלִשְׁתִּ֔ים גׇּלְיָ֥ת שְׁמ֖וֹ מִגַּ֑ת גׇּבְה֕וֹ שֵׁ֥שׁ אַמּ֖וֹת וָזָֽרֶת׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֤א</span> <span data-strong=\"H376\">אִֽישׁ</span>־<span data-strong=\"H1143\">הַבֵּנַ֙יִם֙</span> <span data-strong=\"H4264\">מִמַּחֲנ֣וֹת</span> <span data-strong=\"H6430\">פְּלִשְׁתִּ֔ים</span> <span data-strong=\"H1555\">גׇּלְיָ֥ת</span> <span data-strong=\"H2050\">שְׁמ֖וֹ</span> <span data-strong=\"H1661\">מִגַּ֑ת</span> <span data-strong=\"H2050\">גׇּבְה֕וֹ</span> <span data-strong=\"H8337\">שֵׁ֥שׁ</span> <span data-strong=\"H520\">אַמּ֖וֹת</span> <span data-strong=\"H2239\">וָזָֽרֶת׃</span>",
     "transliteration": "vayetse' 'iysh-havenayim mimahanvot felishetiym goleyat shemvo migat govehvo shesh 'amvot vazaret.",
     "translation": "E saiu um homem dos acampamentos filisteus, chamado Goliath, de Gate; o seu tamanho era seis côvados e um palmo."
   },
   {
     "verse": 5,
-    "original": "וְכ֤וֹבַע נְחֹ֙שֶׁת֙ עַל־רֹאשׁ֔וֹ וְשִׁרְי֥וֹן קַשְׂקַשִּׂ֖ים ה֣וּא לָב֑וּשׁ וּמִשְׁקַל֙ הַשִּׁרְי֔וֹן חֲמֵשֶׁת־אֲלָפִ֥ים שְׁקָלִ֖ים נְחֹֽשֶׁת׃",
+    "original": "<span data-strong=\"H3553\">וְכ֤וֹבַע</span> <span data-strong=\"H5178\">נְחֹ֙שֶׁת֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֔וֹ</span> <span data-strong=\"H8302\">וְשִׁרְי֥וֹן</span> <span data-strong=\"H7193\">קַשְׂקַשִּׂ֖ים</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H3830\">לָב֑וּשׁ</span> <span data-strong=\"H4948\">וּמִשְׁקַל֙</span> <span data-strong=\"H8302\">הַשִּׁרְי֔וֹן</span> <span data-strong=\"H2568\">חֲמֵשֶׁת</span>־<span data-strong=\"H505\">אֲלָפִ֥ים</span> <span data-strong=\"H8255\">שְׁקָלִ֖ים</span> <span data-strong=\"H5178\">נְחֹֽשֶׁת׃</span>",
     "transliteration": "vekhvova' nehoshet 'al-ro'shvo veshireyvon kasekasiym hv' lavvsh vmishekal hashireyvon hameshet-'alafiym shekaliym nehoshet.",
     "translation": "E uma coroa de cobre sobre sua cabeça, e um colete de escamas é o que ele veste; e o peso do colete de escamas é cinco mil siclos de cobre."
   },
   {
     "verse": 6,
-    "original": "וּמִצְחַ֥ת נְחֹ֖שֶׁת עַל־רַגְלָ֑יו וְכִיד֥וֹן נְחֹ֖שֶׁת בֵּ֥ין כְּתֵפָֽיו׃",
+    "original": "<span data-strong=\"H4697\">וּמִצְחַ֥ת</span> <span data-strong=\"H5178\">נְחֹ֖שֶׁת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רַגְלָ֑יו</span> <span data-strong=\"H3591\">וְכִיד֥וֹן</span> <span data-strong=\"H5178\">נְחֹ֖שֶׁת</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H2050\">כְּתֵפָֽיו׃</span>",
     "transliteration": "vmitsehat nehoshet 'al-ragelayv vekhiydvon nehoshet veyn khetefayv.",
     "translation": "E um chapéu de cobre sobre seus pés, e uma espada de cobre entre suas asas."
   },
@@ -43,19 +43,19 @@
   },
   {
     "verse": 8,
-    "original": "וַֽיַּעֲמֹ֗ד וַיִּקְרָא֙ אֶל־מַעַרְכֹ֣ת יִשְׂרָאֵ֔ל וַיֹּ֣אמֶר לָהֶ֔ם לָ֥מָּה תֵצְא֖וּ לַעֲרֹ֣ךְ מִלְחָמָ֑ה הֲל֧וֹא אָנֹכִ֣י הַפְּלִשְׁתִּ֗י וְאַתֶּם֙ עֲבָדִ֣ים לְשָׁא֔וּל בְּרוּ־לָכֶ֥ם אִ֖ישׁ וְיֵרֵ֥ד אֵלָֽי׃",
+    "original": "<span data-strong=\"H5975\">וַֽיַּעֲמֹ֗ד</span> <span data-strong=\"H7121\">וַיִּקְרָא֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4634\">מַעַרְכֹ֣ת</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3963\">לָהֶ֔ם</span> <span data-strong=\"H4100\">לָ֥מָּה</span> <span data-strong=\"H3318\">תֵצְא֖וּ</span> <span data-strong=\"H6186\">לַעֲרֹ֣ךְ</span> <span data-strong=\"H4421\">מִלְחָמָ֑ה</span> <span data-strong=\"H3808\">הֲל֧וֹא</span> <span data-strong=\"H595\">אָנֹכִ֣י</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֗י</span> <span data-strong=\"H859\">וְאַתֶּם֙</span> <span data-strong=\"H5650\">עֲבָדִ֣ים</span> <span data-strong=\"H7586\">לְשָׁא֔וּל</span> <span data-strong=\"H1262\">בְּרוּ</span>־<span data-strong=\"H3641\">לָכֶ֥ם</span> <span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H3381\">וְיֵרֵ֥ד</span> <span data-strong=\"H2967\">אֵלָֽי׃</span>",
     "transliteration": "vaya'amod vayikera' 'el-ma'arekhot yisera'el vayo'mer lahem lamah tetse'v la'arokhe milehamah halvo' 'anokhiy hafelishetiy ve'atem 'avadiym lesha'vl verv-lakhem 'iysh veyered 'elay.",
     "translation": "Estando de pé, chamou às fileiras de Israel e disse-lhes: Por que saís para o combate? Não sou eu o filisteu, e vós servis a Saul? Escolhei um homem dentre vós, e desça contra mim."
   },
   {
     "verse": 9,
-    "original": "אִם־יוּכַ֞ל לְהִלָּחֵ֤ם אִתִּי֙ וְהִכָּ֔נִי וְהָיִ֥ינוּ לָכֶ֖ם לַעֲבָדִ֑ים וְאִם־אֲנִ֤י אֽוּכַל־לוֹ֙ וְהִכִּיתִ֔יו וִהְיִ֤יתֶם לָ֙נוּ֙ לַעֲבָדִ֔ים וַעֲבַדְתֶּ֖ם אֹתָֽנוּ׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3201\">יוּכַ֞ל</span> <span data-strong=\"H3898\">לְהִלָּחֵ֤ם</span> <span data-strong=\"H2967\">אִתִּי֙</span> <span data-strong=\"H5204\">וְהִכָּ֔נִי</span> <span data-strong=\"H1961\">וְהָיִ֥ינוּ</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H5650\">לַעֲבָדִ֑ים</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H589\">אֲנִ֤י</span> <span data-strong=\"H3201\">אֽוּכַל</span>־<span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H2050\">וְהִכִּיתִ֔יו</span> <span data-strong=\"H1961\">וִהְיִ֤יתֶם</span> <span data-strong=\"H5105\">לָ֙נוּ֙</span> <span data-strong=\"H5650\">לַעֲבָדִ֔ים</span> <span data-strong=\"H5647\">וַעֲבַדְתֶּ֖ם</span> <span data-strong=\"H5105\">אֹתָֽנוּ׃</span>",
     "transliteration": "'im-yvkhal lehilahem 'itiy vehikhaniy vehayiynv lakhem la'avadiym ve'im-'aniy 'vkhal-lvo vehikhiytiyv viheyiytem lanv la'avadiym va'avadetem 'otanv.",
     "translation": "Se puder lutar comigo e me vencer, seremos vosso servos; mas se eu for capaz de vencê-lo e o ferir, vós sereis nossos servos e nos servireis."
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֙אמֶר֙ הַפְּלִשְׁתִּ֔י אֲנִ֗י חֵרַ֛פְתִּי אֶת־מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל הַיּ֣וֹם הַזֶּ֑ה תְּנוּ־לִ֣י אִ֔ישׁ וְנִֽלָּחֲמָ֖ה יָֽחַד׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֙אמֶר֙</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H589\">אֲנִ֗י</span> <span data-strong=\"H2778\">חֵרַ֛פְתִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4634\">מַעַרְכ֥וֹת</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H5414\">תְּנוּ</span>־<span data-strong=\"H2967\">לִ֣י</span> <span data-strong=\"H376\">אִ֔ישׁ</span> <span data-strong=\"H3898\">וְנִֽלָּחֲמָ֖ה</span> <span data-strong=\"H3162\">יָֽחַד׃</span>",
     "transliteration": "vayo'mer hafelishetiy 'aniy herafetiy 'et-ma'arekhvot yisera'el hayvom hazeh tenv-liy 'iysh venilahamah yahad.",
     "translation": "E o filisteu disse: \"Hoje desafiei as fileiras de Israel; dai-me um homem e lutemos juntos.\""
   },
@@ -67,13 +67,13 @@
   },
   {
     "verse": 12,
-    "original": "וְדָוִד֩ בֶּן־אִ֨ישׁ אֶפְרָתִ֜י הַזֶּ֗ה מִבֵּ֥ית לֶ֙חֶם֙ יְהוּדָ֔ה וּשְׁמ֣וֹ יִשַׁ֔י וְל֖וֹ שְׁמֹנָ֣ה בָנִ֑ים וְהָאִישׁ֙ בִּימֵ֣י שָׁא֔וּל זָקֵ֖ן בָּ֥א בַאֲנָשִֽׁים׃",
+    "original": "<span data-strong=\"H1732\">וְדָוִד֩</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H376\">אִ֨ישׁ</span> <span data-strong=\"H673\">אֶפְרָתִ֜י</span> <span data-strong=\"H2088\">הַזֶּ֗ה</span> <span data-strong=\"H1035\">מִבֵּ֥ית</span> <span data-strong=\"H1035\">לֶ֙חֶם֙</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H2050\">וּשְׁמ֣וֹ</span> <span data-strong=\"H3448\">יִשַׁ֔י</span> <span data-strong=\"H2050\">וְל֖וֹ</span> <span data-strong=\"H8083\">שְׁמֹנָ֣ה</span> <span data-strong=\"H1121\">בָנִ֑ים</span> <span data-strong=\"H376\">וְהָאִישׁ֙</span> <span data-strong=\"H3117\">בִּימֵ֣י</span> <span data-strong=\"H7586\">שָׁא֔וּל</span> <span data-strong=\"H2204\">זָקֵ֖ן</span> <span data-strong=\"H935\">בָּ֥א</span> <span data-strong=\"H376\">בַאֲנָשִֽׁים׃</span>",
     "transliteration": "vedavid ven-'iysh 'eferatiy hazeh miveyt lehem yehvdah vshemvo yishay velvo shemonah vaniym veha'iysh viymey sha'vl zaken va' va'anashiym.",
     "translation": "E Davi, filho do homem de Efrata, este é da cidade de Belém de Judá; e seu nome é Jessé, e a ele pertencem oito filhos; e o homem, nos dias de Saul, era avançado em idade entre os homens."
   },
   {
     "verse": 13,
-    "original": "וַיֵּ֨לְכ֜וּ שְׁלֹ֤שֶׁת בְּנֵֽי־יִשַׁי֙ הַגְּדֹלִ֔ים הָלְכ֥וּ אַחֲרֵֽי־שָׁא֖וּל לַמִּלְחָמָ֑ה וְשֵׁ֣ם&thinsp;<b>׀</b> שְׁלֹ֣שֶׁת בָּנָ֗יו אֲשֶׁ֤ר הָֽלְכוּ֙ בַּמִּלְחָמָ֔ה אֱלִיאָ֣ב הַבְּכ֗וֹר וּמִשְׁנֵ֙הוּ֙ אֲבִ֣ינָדָ֔ב וְהַשְּׁלִשִׁ֖י שַׁמָּֽה׃",
+    "original": "<span data-strong=\"H1980\">וַיֵּ֨לְכ֜וּ</span> <span data-strong=\"H7969\">שְׁלֹ֤שֶׁת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3448\">יִשַׁי֙</span> <span data-strong=\"H1419\">הַגְּדֹלִ֔ים</span> <span data-strong=\"H1980\">הָלְכ֥וּ</span> <span data-strong=\"H310\">אַחֲרֵֽי</span>־<span data-strong=\"H7586\">שָׁא֖וּל</span> <span data-strong=\"H4421\">לַמִּלְחָמָ֑ה</span> <span data-strong=\"H8034\">וְשֵׁ֣ם&thinsp;<b>׀</b></span> <span data-strong=\"H7969\">שְׁלֹ֣שֶׁת</span> <span data-strong=\"H2050\">בָּנָ֗יו</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H1980\">הָֽלְכוּ֙</span> <span data-strong=\"H4421\">בַּמִּלְחָמָ֔ה</span> <span data-strong=\"H446\">אֱלִיאָ֣ב</span> <span data-strong=\"H1060\">הַבְּכ֗וֹר</span> <span data-strong=\"H1930\">וּמִשְׁנֵ֙הוּ֙</span> <span data-strong=\"H41\">אֲבִ֣ינָדָ֔ב</span> <span data-strong=\"H7992\">וְהַשְּׁלִשִׁ֖י</span> <span data-strong=\"H8048\">שַׁמָּֽה׃</span>",
     "transliteration": "vayelekhv sheloshet veney-yishay hagedoliym halekhv 'aharey-sha'vl lamilehamah veshem&thinsp;<b>|</b> sheloshet vanayv 'asher halekhv vamilehamah 'eliy'av havekhvor vmishenehv 'aviynadav vehashelishiy shamah.",
     "translation": "E foram três filhos de Jessé, os maiores; eles seguiram Saul para a guerra. E os nomes dos três filhos que foram à guerra são: Eliabe, o primogênito; e Abinadabe, o segundo; e Shammá, o terceiro."
   },
@@ -85,7 +85,7 @@
   },
   {
     "verse": 15,
-    "original": "וְדָוִ֛ד הֹלֵ֥ךְ וָשָׁ֖ב מֵעַ֣ל שָׁא֑וּל לִרְע֛וֹת אֶת־צֹ֥אן אָבִ֖יו בֵּ֥ית לָֽחֶם׃",
+    "original": "<span data-strong=\"H1732\">וְדָוִ֛ד</span> <span data-strong=\"H1980\">הֹלֵ֥ךְ</span> <span data-strong=\"H7725\">וָשָׁ֖ב</span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H7586\">שָׁא֑וּל</span> <span data-strong=\"H7462\">לִרְע֛וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6629\">צֹ֥אן</span> <span data-strong=\"H2050\">אָבִ֖יו</span> <span data-strong=\"H1035\">בֵּ֥ית</span> <span data-strong=\"H1035\">לָֽחֶם׃</span>",
     "transliteration": "vedavid holekhe vashav me'al sha'vl lire'vot 'et-tso'n 'aviyv veyt lahem.",
     "translation": "E Davi ia e vinha diante de Saul, para apascentar o rebanho de seu pai em Belém."
   },
@@ -97,13 +97,13 @@
   },
   {
     "verse": 17,
-    "original": "וַיֹּ֨אמֶר יִשַׁ֜י לְדָוִ֣ד בְּנ֗וֹ קַח־נָ֤א לְאַחֶ֙יךָ֙ אֵיפַ֤ת הַקָּלִיא֙ הַזֶּ֔ה וַעֲשָׂרָ֥ה לֶ֖חֶם הַזֶּ֑ה וְהָרֵ֥ץ הַֽמַּחֲנֶ֖ה לְאַחֶֽיךָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3448\">יִשַׁ֜י</span> <span data-strong=\"H1732\">לְדָוִ֣ד</span> <span data-strong=\"H2050\">בְּנ֗וֹ</span> <span data-strong=\"H3947\">קַח</span>־<span data-strong=\"H4994\">נָ֤א</span> <span data-strong=\"H3509\">לְאַחֶ֙יךָ֙</span> <span data-strong=\"H374\">אֵיפַ֤ת</span> <span data-strong=\"H7039\">הַקָּלִיא֙</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H6235\">וַעֲשָׂרָ֥ה</span> <span data-strong=\"H3899\">לֶ֖חֶם</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H7323\">וְהָרֵ֥ץ</span> <span data-strong=\"H4264\">הַֽמַּחֲנֶ֖ה</span> <span data-strong=\"H3509\">לְאַחֶֽיךָ׃</span>",
     "transliteration": "vayo'mer yishay ledavid venvo kah-na' le'aheykha 'eyfat hakaliy' hazeh va'asarah lehem hazeh veharets hamahaneh le'aheykha.",
     "translation": "E disse Isai a Davi, seu filho: Toma esta efa de cevada torrada e estes dez pães e corre ao acampamento para teus irmãos."
   },
   {
     "verse": 18,
-    "original": "וְ֠אֵ֠ת עֲשֶׂ֜רֶת חֲרִצֵ֤י הֶחָלָב֙ הָאֵ֔לֶּה תָּבִ֖יא לְשַׂר־הָאָ֑לֶף וְאֶת־אַחֶ֙יךָ֙ תִּפְקֹ֣ד לְשָׁל֔וֹם וְאֶת־עֲרֻבָּתָ֖ם תִּקָּֽח׃",
+    "original": "<span data-strong=\"H853\">וְ֠אֵ֠ת</span> <span data-strong=\"H6235\">עֲשֶׂ֜רֶת</span> <span data-strong=\"H2757\">חֲרִצֵ֤י</span> <span data-strong=\"H2461\">הֶחָלָב֙</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H935\">תָּבִ֖יא</span> <span data-strong=\"H8269\">לְשַׂר</span>־<span data-strong=\"H505\">הָאָ֑לֶף</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3509\">אַחֶ֙יךָ֙</span> <span data-strong=\"H6485\">תִּפְקֹ֣ד</span> <span data-strong=\"H7965\">לְשָׁל֔וֹם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3963\">עֲרֻבָּתָ֖ם</span> <span data-strong=\"H3947\">תִּקָּֽח׃</span>",
     "transliteration": "ve'et 'aseret haritsey hehalav ha'eleh taviy' lesar-ha'alef ve'et-'aheykha tifekod leshalvom ve'et-'aruvatam tikah.",
     "translation": "E estas dez cisternas cheias de leite trarás ao homem do milhar; e os teus irmãos perquirirás por paz, e a sua arrimo tomarás."
   },
@@ -115,19 +115,19 @@
   },
   {
     "verse": 20,
-    "original": "וַיַּשְׁכֵּ֨ם דָּוִ֜ד בַּבֹּ֗קֶר וַיִּטֹּ֤שׁ אֶת־הַצֹּאן֙ עַל־שֹׁמֵ֔ר וַיִּשָּׂ֣א וַיֵּ֔לֶךְ כַּאֲשֶׁ֥ר צִוָּ֖הוּ יִשָׁ֑י וַיָּבֹא֙ הַמַּעְגָּ֔לָה וְהַחַ֗יִל הַיֹּצֵא֙ אֶל־הַמַּ֣עֲרָכָ֔ה וְהֵרֵ֖עוּ בַּמִּלְחָמָֽה׃",
+    "original": "<span data-strong=\"H7925\">וַיַּשְׁכֵּ֨ם</span> <span data-strong=\"H1732\">דָּוִ֜ד</span> <span data-strong=\"H1242\">בַּבֹּ֗קֶר</span> <span data-strong=\"H5203\">וַיִּטֹּ֤שׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6629\">הַצֹּאן֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8104\">שֹׁמֵ֔ר</span> <span data-strong=\"H5375\">וַיִּשָּׂ֣א</span> <span data-strong=\"H1980\">וַיֵּ֔לֶךְ</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H1930\">צִוָּ֖הוּ</span> <span data-strong=\"H3448\">יִשָׁ֑י</span> <span data-strong=\"H935\">וַיָּבֹא֙</span> <span data-strong=\"H1886\">הַמַּעְגָּ֔לָה</span> <span data-strong=\"H2428\">וְהַחַ֗יִל</span> <span data-strong=\"H3318\">הַיֹּצֵא֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4634\">הַמַּ֣עֲרָכָ֔ה</span> <span data-strong=\"H7321\">וְהֵרֵ֖עוּ</span> <span data-strong=\"H4421\">בַּמִּלְחָמָֽה׃</span>",
     "transliteration": "vayashekhem david vavoker vayitosh 'et-hatso'n 'al-shomer vayisa' vayelekhe kha'asher tsivahv yishay vayavo' hama'egalah vehahayil hayotse' 'el-hama'arakhah vehere'v vamilehamah.",
     "translation": "E Davi levantou-se de manhã, deixou as ovelhas com o pastor e partiu conforme ISIa ordenou-lhe. E veio ao fosso, e à tropa que saía para a batalha, e se regozijavam na guerra."
   },
   {
     "verse": 21,
-    "original": "וַתַּעֲרֹ֤ךְ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה לִקְרַ֥את מַעֲרָכָֽה׃",
+    "original": "<span data-strong=\"H6186\">וַתַּעֲרֹ֤ךְ</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H6430\">וּפְלִשְׁתִּ֔ים</span> <span data-strong=\"H4634\">מַעֲרָכָ֖ה</span> <span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H4634\">מַעֲרָכָֽה׃</span>",
     "transliteration": "vata'arokhe yisera'el vfelishetiym ma'arakhah likera't ma'arakhah.",
     "translation": "E Israel se pôs em formação de batalha contra os filisteus, frente a frente."
   },
   {
     "verse": 22,
-    "original": "וַיִּטֹּשׁ֩ דָּוִ֨ד אֶת־הַכֵּלִ֜ים מֵעָלָ֗יו עַל־יַד֙ שׁוֹמֵ֣ר הַכֵּלִ֔ים וַיָּ֖רׇץ הַמַּעֲרָכָ֑ה וַיָּבֹ֕א וַיִּשְׁאַ֥ל לְאֶחָ֖יו לְשָׁלֽוֹם׃",
+    "original": "<span data-strong=\"H5203\">וַיִּטֹּשׁ֩</span> <span data-strong=\"H1732\">דָּוִ֨ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3627\">הַכֵּלִ֜ים</span> <span data-strong=\"H2050\">מֵעָלָ֗יו</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3027\">יַד֙</span> <span data-strong=\"H8104\">שׁוֹמֵ֣ר</span> <span data-strong=\"H3627\">הַכֵּלִ֔ים</span> <span data-strong=\"H7323\">וַיָּ֖רׇץ</span> <span data-strong=\"H4634\">הַמַּעֲרָכָ֑ה</span> <span data-strong=\"H935\">וַיָּבֹ֕א</span> <span data-strong=\"H7592\">וַיִּשְׁאַ֥ל</span> <span data-strong=\"H2050\">לְאֶחָ֖יו</span> <span data-strong=\"H7965\">לְשָׁלֽוֹם׃</span>",
     "transliteration": "vayitosh david 'et-hakheliym me'alayv 'al-yad shvomer hakheliym vayarots hama'arakhah vayavo' vayishe'al le'ehayv leshalvom.",
     "translation": "E Davi deixou as armas que carregava nas mãos do guardião das armas, e correu para a formação de batalha. E chegando lá, perguntou aos seus irmãos sobre a paz."
   },
@@ -139,7 +139,7 @@
   },
   {
     "verse": 24,
-    "original": "וְכֹל֙ אִ֣ישׁ יִשְׂרָאֵ֔ל בִּרְאוֹתָ֖ם אֶת־הָאִ֑ישׁ וַיָּנֻ֙סוּ֙ מִפָּנָ֔יו וַיִּֽירְא֖וּ מְאֹֽד׃",
+    "original": "<span data-strong=\"H3605\">וְכֹל֙</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3963\">בִּרְאוֹתָ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H376\">הָאִ֑ישׁ</span> <span data-strong=\"H5127\">וַיָּנֻ֙סוּ֙</span> <span data-strong=\"H2050\">מִפָּנָ֔יו</span> <span data-strong=\"H3372\">וַיִּֽירְא֖וּ</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "vekhol 'iysh yisera'el vire'votam 'et-ha'iysh vayanusv mifanayv vayiyre'v me'od.",
     "translation": "E todo homem de Israel, vendo aquele homem, fugiu diante dele e temeu grandemente."
   },
@@ -151,43 +151,43 @@
   },
   {
     "verse": 26,
-    "original": "וַיֹּ֣אמֶר דָּוִ֗ד אֶֽל־הָאֲנָשִׁ֞ים הָעֹמְדִ֣ים עִמּוֹ֮ לֵאמֹר֒ מַה־יֵּעָשֶׂ֗ה לָאִישׁ֙ אֲשֶׁ֤ר יַכֶּה֙ אֶת־הַפְּלִשְׁתִּ֣י הַלָּ֔ז וְהֵסִ֥יר חֶרְפָּ֖ה מֵעַ֣ל יִשְׂרָאֵ֑ל כִּ֣י מִ֗י הַפְּלִשְׁתִּ֤י הֶעָרֵל֙ הַזֶּ֔ה כִּ֣י חֵרֵ֔ף מַעַרְכ֖וֹת אֱלֹהִ֥ים חַיִּֽים׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H1732\">דָּוִ֗ד</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H376\">הָאֲנָשִׁ֞ים</span> <span data-strong=\"H5975\">הָעֹמְדִ֣ים</span> <span data-strong=\"H2050\">עִמּוֹ֮</span> <span data-strong=\"H559\">לֵאמֹר֒</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H6213\">יֵּעָשֶׂ֗ה</span> <span data-strong=\"H376\">לָאִישׁ֙</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5221\">יַכֶּה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֣י</span> <span data-strong=\"H1975\">הַלָּ֔ז</span> <span data-strong=\"H5493\">וְהֵסִ֥יר</span> <span data-strong=\"H2781\">חֶרְפָּ֖ה</span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H4310\">מִ֗י</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֤י</span> <span data-strong=\"H6189\">הֶעָרֵל֙</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H2778\">חֵרֵ֔ף</span> <span data-strong=\"H4634\">מַעַרְכ֖וֹת</span> <span data-strong=\"H430\">אֱלֹהִ֥ים</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "vayo'mer david 'el-ha'anashiym ha'omediym 'imvo le'mor mah-ye'aseh la'iysh 'asher yakheh 'et-hafelishetiy halaz vehesiyr herefah me'al yisera'el khiy miy hafelishetiy he'arel hazeh khiy heref ma'arekhvot 'elohiym hayiym.",
     "translation": "E disse Davi aos homens que estavam com ele: Que será feito ao homem que ferir o filisteu e livrar Israel da ignomínia? Pois quem é esse filisteu arejado, para desafiar as fileiras do Deus vivo?"
   },
   {
     "verse": 27,
-    "original": "וַיֹּ֤אמֶר לוֹ֙ הָעָ֔ם כַּדָּבָ֥ר הַזֶּ֖ה לֵאמֹ֑ר כֹּ֣ה יֵעָשֶׂ֔ה לָאִ֖ישׁ אֲשֶׁ֥ר יַכֶּֽנּוּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H1697\">כַּדָּבָ֥ר</span> <span data-strong=\"H2088\">הַזֶּ֖ה</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H3541\">כֹּ֣ה</span> <span data-strong=\"H6213\">יֵעָשֶׂ֔ה</span> <span data-strong=\"H376\">לָאִ֖ישׁ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5105\">יַכֶּֽנּוּ׃</span>",
     "transliteration": "vayo'mer lvo ha'am khadavar hazeh le'mor khoh ye'aseh la'iysh 'asher yakhenv.",
     "translation": "E disse ao povo assim, dizendo: Assim se fará com o homem que feri-lo-ão."
   },
   {
     "verse": 28,
-    "original": "וַיִּשְׁמַ֤ע אֱלִיאָב֙ אָחִ֣יו הַגָּד֔וֹל בְּדַבְּר֖וֹ אֶל־הָאֲנָשִׁ֑ים וַיִּֽחַר־אַף֩ אֱלִיאָ֨ב בְּדָוִ֜ד וַיֹּ֣אמֶר&thinsp;<b>׀</b> לָמָּה־זֶּ֣ה יָרַ֗דְתָּ וְעַל־מִ֨י נָטַ֜שְׁתָּ מְעַ֨ט הַצֹּ֤אן הָהֵ֙נָּה֙ בַּמִּדְבָּ֔ר אֲנִ֧י יָדַ֣עְתִּי אֶת־זְדֹנְךָ֗ וְאֵת֙ רֹ֣עַ לְבָבֶ֔ךָ כִּ֗י לְמַ֛עַן רְא֥וֹת הַמִּלְחָמָ֖ה יָרָֽדְתָּ׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשְׁמַ֤ע</span> <span data-strong=\"H446\">אֱלִיאָב֙</span> <span data-strong=\"H2050\">אָחִ֣יו</span> <span data-strong=\"H1419\">הַגָּד֔וֹל</span> <span data-strong=\"H2050\">בְּדַבְּר֖וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H376\">הָאֲנָשִׁ֑ים</span> <span data-strong=\"H2734\">וַיִּֽחַר</span>־<span data-strong=\"H639\">אַף֩</span> <span data-strong=\"H446\">אֱלִיאָ֨ב</span> <span data-strong=\"H1732\">בְּדָוִ֜ד</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר&thinsp;<b>׀</b></span> <span data-strong=\"H4100\">לָמָּה</span>־<span data-strong=\"H2088\">זֶּ֣ה</span> <span data-strong=\"H3381\">יָרַ֗דְתָּ</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H4310\">מִ֨י</span> <span data-strong=\"H5203\">נָטַ֜שְׁתָּ</span> <span data-strong=\"H4592\">מְעַ֨ט</span> <span data-strong=\"H6629\">הַצֹּ֤אן</span> <span data-strong=\"H2007\">הָהֵ֙נָּה֙</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֔ר</span> <span data-strong=\"H589\">אֲנִ֧י</span> <span data-strong=\"H3045\">יָדַ֣עְתִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">זְדֹנְךָ֗</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H7455\">רֹ֣עַ</span> <span data-strong=\"H3509\">לְבָבֶ֔ךָ</span> <span data-strong=\"H3588\">כִּ֗י</span> <span data-strong=\"H4616\">לְמַ֛עַן</span> <span data-strong=\"H7200\">רְא֥וֹת</span> <span data-strong=\"H4421\">הַמִּלְחָמָ֖ה</span> <span data-strong=\"H3381\">יָרָֽדְתָּ׃</span>",
     "transliteration": "vayishema' 'eliy'av 'ahiyv hagadvol vedavervo 'el-ha'anashiym vayihar-'af 'eliy'av vedavid vayo'mer&thinsp;<b>|</b> lamah-zeh yaradeta ve'al-miy natasheta me'at hatso'n hahenah vamidevar 'aniy yada'etiy 'et-zedonekha ve'et ro'a levavekha khiy lema'an re'vot hamilehamah yaradeta.",
     "translation": "E ouviu Eliav, seu irmão mais velho, falando com os homens. Enfureceu-se Eliav contra Davi e disse: Por que descês-te? E de quem deixaste a pequena rebanho no deserto? Eu sei da tua soberba e da malícia do teu coração; para ver a guerra é que descês-te!"
   },
   {
     "verse": 29,
-    "original": "וַיֹּ֣אמֶר דָּוִ֔ד מֶ֥ה עָשִׂ֖יתִי עָ֑תָּה הֲל֖וֹא דָּבָ֥ר הֽוּא׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H4100\">מֶ֥ה</span> <span data-strong=\"H6213\">עָשִׂ֖יתִי</span> <span data-strong=\"H6258\">עָ֑תָּה</span> <span data-strong=\"H3808\">הֲל֖וֹא</span> <span data-strong=\"H1697\">דָּבָ֥ר</span> <span data-strong=\"H1931\">הֽוּא׃</span>",
     "transliteration": "vayo'mer david meh 'asiytiy 'atah halvo' davar hv'.",
     "translation": "E disse Davi: Que fiz agora? Acaso não é uma palavra?"
   },
   {
     "verse": 30,
-    "original": "וַיִּסֹּ֤ב מֵֽאֶצְלוֹ֙ אֶל־מ֣וּל אַחֵ֔ר וַיֹּ֖אמֶר כַּדָּבָ֣ר הַזֶּ֑ה וַיְשִׁבֻ֤הוּ הָעָם֙ דָּבָ֔ר כַּדָּבָ֖ר הָרִאשֽׁוֹן׃",
+    "original": "<span data-strong=\"H5437\">וַיִּסֹּ֤ב</span> <span data-strong=\"H2050\">מֵֽאֶצְלוֹ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4136\">מ֣וּל</span> <span data-strong=\"H312\">אַחֵ֔ר</span> <span data-strong=\"H559\">וַיֹּ֖אמֶר</span> <span data-strong=\"H1697\">כַּדָּבָ֣ר</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H1930\">וַיְשִׁבֻ֤הוּ</span> <span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H1697\">דָּבָ֔ר</span> <span data-strong=\"H1697\">כַּדָּבָ֖ר</span> <span data-strong=\"H7223\">הָרִאשֽׁוֹן׃</span>",
     "transliteration": "vayisov me'etselvo 'el-mvl 'aher vayo'mer khadavar hazeh vayeshivuhv ha'am davar khadavar hari'shvon.",
     "translation": "E voltou-se dele para o outro lado, e disse como esta palavra; e o povo lhe respondeu a palavra como na primeira vez."
   },
   {
     "verse": 31,
-    "original": "וַיִּשָּֽׁמְעוּ֙ הַדְּבָרִ֔ים אֲשֶׁ֖ר דִּבֶּ֣ר דָּוִ֑ד וַיַּגִּ֥דוּ לִפְנֵֽי־שָׁא֖וּל וַיִּקָּחֵֽהוּ׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשָּֽׁמְעוּ֙</span> <span data-strong=\"H1697\">הַדְּבָרִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H1696\">דִּבֶּ֣ר</span> <span data-strong=\"H1732\">דָּוִ֑ד</span> <span data-strong=\"H5046\">וַיַּגִּ֥דוּ</span> <span data-strong=\"H6440\">לִפְנֵֽי</span>־<span data-strong=\"H7586\">שָׁא֖וּל</span> <span data-strong=\"H1930\">וַיִּקָּחֵֽהוּ׃</span>",
     "transliteration": "vayishame'v hadevariym 'asher diver david vayagidv lifeney-sha'vl vayikahehv.",
     "translation": "E ouviram as palavras que Davi falou, e as declararam perante Saul, e ele o recebeu."
   },
   {
     "verse": 32,
-    "original": "וַיֹּ֤אמֶר דָּוִד֙ אֶל־שָׁא֔וּל אַל־יִפֹּ֥ל לֵב־אָדָ֖ם עָלָ֑יו עַבְדְּךָ֣ יֵלֵ֔ךְ וְנִלְחַ֖ם עִם־הַפְּלִשְׁתִּ֥י הַזֶּֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H1732\">דָּוִד֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7586\">שָׁא֔וּל</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5307\">יִפֹּ֥ל</span> <span data-strong=\"H3820\">לֵב</span>־<span data-strong=\"H120\">אָדָ֖ם</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H3509\">עַבְדְּךָ֣</span> <span data-strong=\"H1980\">יֵלֵ֔ךְ</span> <span data-strong=\"H3898\">וְנִלְחַ֖ם</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֥י</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "vayo'mer david 'el-sha'vl 'al-yifol lev-'adam 'alayv 'avedekha yelekhe venileham 'im-hafelishetiy hazeh.",
     "translation": "E disse Davi a Saul: Não caia o coração do homem sobre ele; teu servo irá e lutará com este filisteu."
   },
@@ -199,13 +199,13 @@
   },
   {
     "verse": 34,
-    "original": "וַיֹּ֤אמֶר דָּוִד֙ אֶל־שָׁא֔וּל רֹעֶ֨ה הָיָ֧ה עַבְדְּךָ֛ לְאָבִ֖יו בַּצֹּ֑אן וּבָ֤א הָאֲרִי֙ וְאֶת־הַדּ֔וֹב וְנָשָׂ֥א שֶׂ֖ה מֵהָעֵֽדֶר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H1732\">דָּוִד֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7586\">שָׁא֔וּל</span> <span data-strong=\"H7462\">רֹעֶ֨ה</span> <span data-strong=\"H1961\">הָיָ֧ה</span> <span data-strong=\"H3509\">עַבְדְּךָ֛</span> <span data-strong=\"H2050\">לְאָבִ֖יו</span> <span data-strong=\"H6629\">בַּצֹּ֑אן</span> <span data-strong=\"H935\">וּבָ֤א</span> <span data-strong=\"H738\">הָאֲרִי֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1677\">הַדּ֔וֹב</span> <span data-strong=\"H5375\">וְנָשָׂ֥א</span> <span data-strong=\"H7716\">שֶׂ֖ה</span> <span data-strong=\"H5739\">מֵהָעֵֽדֶר׃</span>",
     "transliteration": "vayo'mer david 'el-sha'vl ro'eh hayah 'avedekha le'aviyv vatso'n vva' ha'ariy ve'et-hadvov venasa' seh meha'eder.",
     "translation": "E disse Davi a Saul: O servo pastoreou os rebanhos de seu pai; e veio o leão e veio o urso, e levava uma ovelha do redil."
   },
   {
     "verse": 35,
-    "original": "וְיָצָ֧אתִי אַחֲרָ֛יו וְהִכִּתִ֖יו וְהִצַּ֣לְתִּי מִפִּ֑יו וַיָּ֣קׇם עָלַ֔י וְהֶחֱזַ֙קְתִּי֙ בִּזְקָנ֔וֹ וְהִכִּתִ֖יו וַהֲמִיתִּֽיו׃",
+    "original": "<span data-strong=\"H3318\">וְיָצָ֧אתִי</span> <span data-strong=\"H2050\">אַחֲרָ֛יו</span> <span data-strong=\"H2050\">וְהִכִּתִ֖יו</span> <span data-strong=\"H5337\">וְהִצַּ֣לְתִּי</span> <span data-strong=\"H2050\">מִפִּ֑יו</span> <span data-strong=\"H6965\">וַיָּ֣קׇם</span> <span data-strong=\"H2967\">עָלַ֔י</span> <span data-strong=\"H2388\">וְהֶחֱזַ֙קְתִּי֙</span> <span data-strong=\"H2050\">בִּזְקָנ֔וֹ</span> <span data-strong=\"H2050\">וְהִכִּתִ֖יו</span> <span data-strong=\"H2050\">וַהֲמִיתִּֽיו׃</span>",
     "transliteration": "veyatsa'tiy 'aharayv vehikhitiyv vehitsaletiy mifiyv vayakom 'alay vehehezaketiy vizekanvo vehikhitiyv vahamiytiyv.",
     "translation": "E saí atrás dele e o feri, e o salvei de sua boca; ele se levantou contra mim, e agarrei-o pela barba, e o feri, e o matei."
   },
@@ -217,19 +217,19 @@
   },
   {
     "verse": 37,
-    "original": "וַיֹּאמֶר֮ דָּוִד֒ יְהֹוָ֗ה אֲשֶׁ֨ר הִצִּלַ֜נִי מִיַּ֤ד הָֽאֲרִי֙ וּמִיַּ֣ד הַדֹּ֔ב ה֣וּא יַצִּילֵ֔נִי מִיַּ֥ד הַפְּלִשְׁתִּ֖י הַזֶּ֑ה&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיֹּ֨אמֶר שָׁא֤וּל אֶל־דָּוִד֙ לֵ֔ךְ וַיהֹוָ֖ה יִהְיֶ֥ה עִמָּֽךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמֶר֮</span> <span data-strong=\"H1732\">דָּוִד֒</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H5204\">הִצִּלַ֜נִי</span> <span data-strong=\"H3027\">מִיַּ֤ד</span> <span data-strong=\"H738\">הָֽאֲרִי֙</span> <span data-strong=\"H3027\">וּמִיַּ֣ד</span> <span data-strong=\"H1677\">הַדֹּ֔ב</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H5204\">יַצִּילֵ֔נִי</span> <span data-strong=\"H3027\">מִיַּ֥ד</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֖י</span> <span data-strong=\"H2088\">הַזֶּ֑ה&nbsp;<span</span> <span data-strong=\"H559\">class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיֹּ֨אמֶר</span> <span data-strong=\"H7586\">שָׁא֤וּל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1732\">דָּוִד֙</span> <span data-strong=\"H1980\">לֵ֔ךְ</span> <span data-strong=\"H3068\">וַיהֹוָ֖ה</span> <span data-strong=\"H1961\">יִהְיֶ֥ה</span> <span data-strong=\"H3509\">עִמָּֽךְ׃</span>",
     "transliteration": "vayo'mer david yehovah 'asher hitsilaniy miyad ha'ariy vmiyad hadov hv' yatsiyleniy miyad hafelishetiy hazeh&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vayo'mer sha'vl 'el-david lekhe vayhovah yiheyeh 'imakhe.",
     "translation": "E disse Davi: Senhor, que me livrou da garras do leão e do urso, ele me livrará das mãos deste filisteu. E Saul disse a Davi: Vai, e o Senhor seja contigo."
   },
   {
     "verse": 38,
-    "original": "וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת־דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל־רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ אֹת֖וֹ שִׁרְיֽוֹן׃",
+    "original": "<span data-strong=\"H3847\">וַיַּלְבֵּ֨שׁ</span> <span data-strong=\"H7586\">שָׁא֤וּל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1732\">דָּוִד֙</span> <span data-strong=\"H2050\">מַדָּ֔יו</span> <span data-strong=\"H5414\">וְנָתַ֛ן</span> <span data-strong=\"H6959\">ק֥וֹבַע</span> <span data-strong=\"H5178\">נְחֹ֖שֶׁת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֑וֹ</span> <span data-strong=\"H3847\">וַיַּלְבֵּ֥שׁ</span> <span data-strong=\"H2050\">אֹת֖וֹ</span> <span data-strong=\"H8302\">שִׁרְיֽוֹן׃</span>",
     "transliteration": "vayalevesh sha'vl 'et-david madayv venatan kvova' nehoshet 'al-ro'shvo vayalevesh 'otvo shireyvon.",
     "translation": "E Saul vestiu Davi seu manto, colocou sobre sua cabeça o capacete de bronze e o envolveu com a couraça."
   },
   {
     "verse": 39,
-    "original": "וַיַּחְגֹּ֣ר דָּוִ֣ד אֶת־חַ֠רְבּ֠וֹ מֵעַ֨ל לְמַדָּ֜יו וַיֹּ֣אֶל לָלֶכֶת֮ כִּ֣י לֹֽא־נִסָּה֒ וַיֹּ֨אמֶר דָּוִ֜ד אֶל־שָׁא֗וּל לֹ֥א אוּכַ֛ל לָלֶ֥כֶת בָּאֵ֖לֶּה כִּ֣י לֹ֣א נִסִּ֑יתִי וַיְסִרֵ֥ם דָּוִ֖ד מֵעָלָֽיו׃",
+    "original": "<span data-strong=\"H2296\">וַיַּחְגֹּ֣ר</span> <span data-strong=\"H1732\">דָּוִ֣ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">חַ֠רְבּ֠וֹ</span> <span data-strong=\"H5921\">מֵעַ֨ל</span> <span data-strong=\"H2050\">לְמַדָּ֜יו</span> <span data-strong=\"H2974\">וַיֹּ֣אֶל</span> <span data-strong=\"H1980\">לָלֶכֶת֮</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H5254\">נִסָּה֒</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H1732\">דָּוִ֜ד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7586\">שָׁא֗וּל</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H3201\">אוּכַ֛ל</span> <span data-strong=\"H1980\">לָלֶ֥כֶת</span> <span data-strong=\"H428\">בָּאֵ֖לֶּה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5254\">נִסִּ֑יתִי</span> <span data-strong=\"H3963\">וַיְסִרֵ֥ם</span> <span data-strong=\"H1732\">דָּוִ֖ד</span> <span data-strong=\"H2050\">מֵעָלָֽיו׃</span>",
     "transliteration": "vayahegor david 'et-harevvo me'al lemadayv vayo'el lalekhet khiy lo'-nisah vayo'mer david 'el-sha'vl lo' 'vkhal lalekhet va'eleh khiy lo' nisiytiy vayesirem david me'alayv.",
     "translation": "E Davi despojou-se da sua couraça que trazia sobre os seus vestes, e não se quis ir; porque era pesada; e disse a Saul: Não posso andar com estas coisas, porque nunca as provei. E as deixou cair de si."
   },
@@ -241,19 +241,19 @@
   },
   {
     "verse": 41,
-    "original": "וַיֵּ֙לֶךְ֙ הַפְּלִשְׁתִּ֔י הֹלֵ֥ךְ וְקָרֵ֖ב אֶל־דָּוִ֑ד וְהָאִ֛ישׁ נֹשֵׂ֥א הַצִּנָּ֖ה לְפָנָֽיו׃",
+    "original": "<span data-strong=\"H1980\">וַיֵּ֙לֶךְ֙</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H1980\">הֹלֵ֥ךְ</span> <span data-strong=\"H7131\">וְקָרֵ֖ב</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1732\">דָּוִ֑ד</span> <span data-strong=\"H376\">וְהָאִ֛ישׁ</span> <span data-strong=\"H5375\">נֹשֵׂ֥א</span> <span data-strong=\"H6793\">הַצִּנָּ֖ה</span> <span data-strong=\"H2050\">לְפָנָֽיו׃</span>",
     "transliteration": "vayelekhe hafelishetiy holekhe vekarev 'el-david veha'iysh nose' hatsinah lefanayv.",
     "translation": "E foi o filisteu, andando e aproximando-se de Davi; e o homem que carregava a bandeira ia à sua frente."
   },
   {
     "verse": 42,
-    "original": "וַיַּבֵּ֧ט הַפְּלִשְׁתִּ֛י וַיִּרְאֶ֥ה אֶת־דָּוִ֖ד וַיִּבְזֵ֑הוּ כִּֽי־הָיָ֣ה נַ֔עַר וְאַדְמֹנִ֖י עִם־יְפֵ֥ה מַרְאֶֽה׃",
+    "original": "<span data-strong=\"H5027\">וַיַּבֵּ֧ט</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֛י</span> <span data-strong=\"H7200\">וַיִּרְאֶ֥ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1732\">דָּוִ֖ד</span> <span data-strong=\"H1930\">וַיִּבְזֵ֑הוּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H5288\">נַ֔עַר</span> <span data-strong=\"H132\">וְאַדְמֹנִ֖י</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H3303\">יְפֵ֥ה</span> <span data-strong=\"H4758\">מַרְאֶֽה׃</span>",
     "transliteration": "vayavet hafelishetiy vayire'eh 'et-david vayivezehv khiy-hayah na'ar ve'ademoniy 'im-yefeh mare'eh.",
     "translation": "E o filisteu olhou e viu a Davi, e o desprezou; porque era jovem e rubicundo, com bom aspecto."
   },
   {
     "verse": 43,
-    "original": "וַיֹּ֤אמֶר הַפְּלִשְׁתִּי֙ אֶל־דָּוִ֔ד הֲכֶ֣לֶב אָנֹ֔כִי כִּֽי־אַתָּ֥ה בָֽא־אֵלַ֖י בַּמַּקְל֑וֹת וַיְקַלֵּ֧ל הַפְּלִשְׁתִּ֛י אֶת־דָּוִ֖ד בֵּאלֹהָֽיו׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּי֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H3611\">הֲכֶ֣לֶב</span> <span data-strong=\"H595\">אָנֹ֔כִי</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H935\">בָֽא</span>־<span data-strong=\"H2967\">אֵלַ֖י</span> <span data-strong=\"H4731\">בַּמַּקְל֑וֹת</span> <span data-strong=\"H7043\">וַיְקַלֵּ֧ל</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֛י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1732\">דָּוִ֖ד</span> <span data-strong=\"H2050\">בֵּאלֹהָֽיו׃</span>",
     "transliteration": "vayo'mer hafelishetiy 'el-david hakhelev 'anokhiy khiy-'atah va'-'elay vamakelvot vayekalel hafelishetiy 'et-david ve'lohayv.",
     "translation": "E disse o filisteu a Davi: Sou eu um cão, que vens contra mim com paus? E o filisteu amaldiçoou a Davi diante do seu Deus."
   },
@@ -265,13 +265,13 @@
   },
   {
     "verse": 45,
-    "original": "וַיֹּ֤אמֶר דָּוִד֙ אֶל־הַפְּלִשְׁתִּ֔י אַתָּה֙ בָּ֣א אֵלַ֔י בְּחֶ֖רֶב וּבַחֲנִ֣ית וּבְכִיד֑וֹן וְאָנֹכִ֣י בָֽא־אֵלֶ֗יךָ בְּשֵׁם֙ יְהֹוָ֣ה צְבָא֔וֹת אֱלֹהֵ֛י מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל אֲשֶׁ֥ר חֵרַֽפְתָּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H1732\">דָּוִד֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H935\">בָּ֣א</span> <span data-strong=\"H2967\">אֵלַ֔י</span> <span data-strong=\"H2719\">בְּחֶ֖רֶב</span> <span data-strong=\"H2595\">וּבַחֲנִ֣ית</span> <span data-strong=\"H3591\">וּבְכִיד֑וֹן</span> <span data-strong=\"H595\">וְאָנֹכִ֣י</span> <span data-strong=\"H935\">בָֽא</span>־<span data-strong=\"H3509\">אֵלֶ֗יךָ</span> <span data-strong=\"H8034\">בְּשֵׁם֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6635\">צְבָא֔וֹת</span> <span data-strong=\"H430\">אֱלֹהֵ֛י</span> <span data-strong=\"H4634\">מַעַרְכ֥וֹת</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2778\">חֵרַֽפְתָּ׃</span>",
     "transliteration": "vayo'mer david 'el-hafelishetiy 'atah va' 'elay veherev vvahaniyt vvekhiydvon ve'anokhiy va'-'eleykha veshem yehovah tseva'vot 'elohey ma'arekhvot yisera'el 'asher herafeta.",
     "translation": "Disse Davi ao filisteu: Vens a mim com espada, lança e falcão, mas eu venho contra ti em nome do Senhor dos Exércitos, o Deus das fileiras de Israel, que tu has insultado."
   },
   {
     "verse": 46,
-    "original": "הַיּ֣וֹם הַזֶּ֡ה יְסַגֶּרְךָ֩ יְהֹוָ֨ה בְּיָדִ֜י וְהִכִּיתִ֗ךָ וַהֲסִרֹתִ֤י אֶת־רֹֽאשְׁךָ֙ מֵעָלֶ֔יךָ וְנָ֨תַתִּ֜י פֶּ֣גֶר מַחֲנֵ֤ה פְלִשְׁתִּים֙ הַיּ֣וֹם הַזֶּ֔ה לְע֥וֹף הַשָּׁמַ֖יִם וּלְחַיַּ֣ת הָאָ֑רֶץ וְיֵֽדְעוּ֙ כׇּל־הָאָ֔רֶץ כִּ֛י יֵ֥שׁ אֱלֹהִ֖ים לְיִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֡ה</span> <span data-strong=\"H3509\">יְסַגֶּרְךָ֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H2967\">בְּיָדִ֜י</span> <span data-strong=\"H3509\">וְהִכִּיתִ֗ךָ</span> <span data-strong=\"H5493\">וַהֲסִרֹתִ֤י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">רֹֽאשְׁךָ֙</span> <span data-strong=\"H3509\">מֵעָלֶ֔יךָ</span> <span data-strong=\"H5414\">וְנָ֨תַתִּ֜י</span> <span data-strong=\"H6297\">פֶּ֣גֶר</span> <span data-strong=\"H4264\">מַחֲנֵ֤ה</span> <span data-strong=\"H6430\">פְלִשְׁתִּים֙</span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H5775\">לְע֥וֹף</span> <span data-strong=\"H8064\">הַשָּׁמַ֖יִם</span> <span data-strong=\"H2416\">וּלְחַיַּ֣ת</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H3045\">וְיֵֽדְעוּ֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H3426\">יֵ֥שׁ</span> <span data-strong=\"H430\">אֱלֹהִ֖ים</span> <span data-strong=\"H3478\">לְיִשְׂרָאֵֽל׃</span>",
     "transliteration": "hayvom hazeh yesagerekha yehovah veyadiy vehikhiytikha vahasirotiy 'et-ro'shekha me'aleykha venatatiy feger mahaneh felishetiym hayvom hazeh le'vof hashamayim vlehayat ha'arets veyede'v khol-ha'arets khiy yesh 'elohiym leyisera'el.",
     "translation": "Neste dia, o Senhor te entregará em minha mão, e eu te ferirei e tirarei a tua cabeça de cima de ti; e darei as carnes do exército filisteu, neste mesmo dia, às aves dos céus e aos animais da terra; e toda a terra saberá que há um Deus para Israel."
   },
@@ -283,37 +283,37 @@
   },
   {
     "verse": 48,
-    "original": "וְהָיָה֙ כִּי־קָ֣ם הַפְּלִשְׁתִּ֔י וַיֵּ֥לֶךְ וַיִּקְרַ֖ב לִקְרַ֣את דָּוִ֑ד וַיְמַהֵ֣ר דָּוִ֔ד וַיָּ֥רׇץ הַמַּעֲרָכָ֖ה לִקְרַ֥את הַפְּלִשְׁתִּֽי׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָה֙</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H6965\">קָ֣ם</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H1980\">וַיֵּ֥לֶךְ</span> <span data-strong=\"H7126\">וַיִּקְרַ֖ב</span> <span data-strong=\"H7122\">לִקְרַ֣את</span> <span data-strong=\"H1732\">דָּוִ֑ד</span> <span data-strong=\"H4116\">וַיְמַהֵ֣ר</span> <span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H7323\">וַיָּ֥רׇץ</span> <span data-strong=\"H4634\">הַמַּעֲרָכָ֖ה</span> <span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּֽי׃</span>",
     "transliteration": "vehayah khiy-kam hafelishetiy vayelekhe vayikerav likera't david vayemaher david vayarots hama'arakhah likera't hafelishetiy.",
     "translation": "E será que quando o filisteu se levantar e vier, aproximando-se contra Davi, Davi apressar-se-á e correrá para enfrentar o filisteu."
   },
   {
     "verse": 49,
-    "original": "וַיִּשְׁלַח֩ דָּוִ֨ד אֶת־יָד֜וֹ אֶל־הַכֶּ֗לִי וַיִּקַּ֨ח מִשָּׁ֥ם אֶ֙בֶן֙ וַיְקַלַּ֔ע וַיַּ֥ךְ אֶת־הַפְּלִשְׁתִּ֖י אֶל־מִצְח֑וֹ וַתִּטְבַּ֤ע הָאֶ֙בֶן֙ בְּמִצְח֔וֹ וַיִּפֹּ֥ל עַל־פָּנָ֖יו אָֽרְצָה׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלַח֩</span> <span data-strong=\"H1732\">דָּוִ֨ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">יָד֜וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3627\">הַכֶּ֗לִי</span> <span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H8033\">מִשָּׁ֥ם</span> <span data-strong=\"H68\">אֶ֙בֶן֙</span> <span data-strong=\"H7049\">וַיְקַלַּ֔ע</span> <span data-strong=\"H5221\">וַיַּ֥ךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֖י</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">מִצְח֑וֹ</span> <span data-strong=\"H2883\">וַתִּטְבַּ֤ע</span> <span data-strong=\"H68\">הָאֶ֙בֶן֙</span> <span data-strong=\"H2050\">בְּמִצְח֔וֹ</span> <span data-strong=\"H5307\">וַיִּפֹּ֥ל</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">פָּנָ֖יו</span> <span data-strong=\"H1886\">אָֽרְצָה׃</span>",
     "transliteration": "vayishelah david 'et-yadvo 'el-hakheliy vayikah misham 'even vayekala' vayakhe 'et-hafelishetiy 'el-mitsehvo vatiteva' ha'even vemitsehvo vayifol 'al-fanayv 'aretsah.",
     "translation": "E David estendeu a mão para o saco e tomou de lá uma pedra; e atirou com o slinger, ferindo o filisteu na testa; a pedra penetrou na testa dele, e ele caiu sobre o rosto à terra."
   },
   {
     "verse": 50,
-    "original": "וַיֶּחֱזַ֨ק דָּוִ֤ד מִן־הַפְּלִשְׁתִּי֙ בַּקֶּ֣לַע וּבָאֶ֔בֶן וַיַּ֥ךְ אֶת־הַפְּלִשְׁתִּ֖י וַיְמִתֵ֑הוּ וְחֶ֖רֶב אֵ֥ין בְּיַד־דָּוִֽד׃",
+    "original": "<span data-strong=\"H2388\">וַיֶּחֱזַ֨ק</span> <span data-strong=\"H1732\">דָּוִ֤ד</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּי֙</span> <span data-strong=\"H7050\">בַּקֶּ֣לַע</span> <span data-strong=\"H68\">וּבָאֶ֔בֶן</span> <span data-strong=\"H5221\">וַיַּ֥ךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֖י</span> <span data-strong=\"H1930\">וַיְמִתֵ֑הוּ</span> <span data-strong=\"H2719\">וְחֶ֖רֶב</span> <span data-strong=\"H369\">אֵ֥ין</span> <span data-strong=\"H3027\">בְּיַד</span>־<span data-strong=\"H1732\">דָּוִֽד׃</span>",
     "transliteration": "vayehezak david min-hafelishetiy vakela' vva'even vayakhe 'et-hafelishetiy vayemitehv veherev 'eyn veyad-david.",
     "translation": "E Davi fortaleceu-se contra o filisteu com o slinger e a pedra, feriu ao filisteu e o matou; pois não havia espada na mão de Davi.\n\nNota: O rascunho original foi repetido porque, embora seja funcional, há nuances que podem ser melhoradas para maior fidelidade textual e estilo mais formal. A versão correta, ajustando essas nuances sem comprometer a solenidade e a formalidade requeridas, seria:\n\nE Davi fortaleceu-se contra o filisteu com o slinger e a pedra; feriu ao filisteu e o matou; pois não havia espada na mão de Davi."
   },
   {
     "verse": 51,
-    "original": "וַיָּ֣רׇץ דָּ֠וִ֠ד וַיַּעֲמֹ֨ד אֶל־הַפְּלִשְׁתִּ֜י וַיִּקַּ֣ח אֶת־חַ֠רְבּ֠וֹ וַֽיִּשְׁלְפָ֤הּ מִתַּעְרָהּ֙ וַיְמֹ֣תְתֵ֔הוּ וַיִּכְרׇת־בָּ֖הּ אֶת־רֹאשׁ֑וֹ וַיִּרְא֧וּ הַפְּלִשְׁתִּ֛ים כִּי־מֵ֥ת גִּבּוֹרָ֖ם וַיָּנֻֽסוּ׃",
+    "original": "<span data-strong=\"H7323\">וַיָּ֣רׇץ</span> <span data-strong=\"H1732\">דָּ֠וִ֠ד</span> <span data-strong=\"H5975\">וַיַּעֲמֹ֨ד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֜י</span> <span data-strong=\"H3947\">וַיִּקַּ֣ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">חַ֠רְבּ֠וֹ</span> <span data-strong=\"H1886\">וַֽיִּשְׁלְפָ֤הּ</span> <span data-strong=\"H1886\">מִתַּעְרָהּ֙</span> <span data-strong=\"H1930\">וַיְמֹ֣תְתֵ֔הוּ</span> <span data-strong=\"H3772\">וַיִּכְרׇת</span>־<span data-strong=\"H1886\">בָּ֖הּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">רֹאשׁ֑וֹ</span> <span data-strong=\"H7200\">וַיִּרְא֧וּ</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֛ים</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H4191\">מֵ֥ת</span> <span data-strong=\"H3963\">גִּבּוֹרָ֖ם</span> <span data-strong=\"H5127\">וַיָּנֻֽסוּ׃</span>",
     "transliteration": "vayarots david vaya'amod 'el-hafelishetiy vayikah 'et-harevvo vayishelefah mita'erah vayemotetehv vayikherot-vah 'et-ro'shvo vayire'v hafelishetiym khiy-met givvoram vayanusv.",
     "translation": "E Davi correu e se postou diante do filisteu, tomou sua espada, desembainhou-a do coldre, matou-o e lhe cortou a cabeça. Ao verem que seu gigante havia morrido, os filisteus fugiram."
   },
   {
     "verse": 52,
-    "original": "וַיָּקֻ֣מוּ אַנְשֵׁי֩ יִשְׂרָאֵ֨ל וִיהוּדָ֜ה וַיָּרִ֗עוּ וַֽיִּרְדְּפוּ֙ אֶת־הַפְּלִשְׁתִּ֔ים עַד־בּוֹאֲךָ֣ גַ֔יְא וְעַ֖ד שַׁעֲרֵ֣י עֶקְר֑וֹן וַֽיִּפְּל֞וּ חַֽלְלֵ֤י פְלִשְׁתִּים֙ בְּדֶ֣רֶךְ שַׁעֲרַ֔יִם וְעַד־גַּ֖ת וְעַד־עֶקְרֽוֹן׃",
+    "original": "<span data-strong=\"H6965\">וַיָּקֻ֣מוּ</span> <span data-strong=\"H376\">אַנְשֵׁי֩</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֨ל</span> <span data-strong=\"H3063\">וִיהוּדָ֜ה</span> <span data-strong=\"H7321\">וַיָּרִ֗עוּ</span> <span data-strong=\"H7291\">וַֽיִּרְדְּפוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔ים</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3509\">בּוֹאֲךָ֣</span> <span data-strong=\"H1516\">גַ֔יְא</span> <span data-strong=\"H5704\">וְעַ֖ד</span> <span data-strong=\"H8179\">שַׁעֲרֵ֣י</span> <span data-strong=\"H6138\">עֶקְר֑וֹן</span> <span data-strong=\"H5307\">וַֽיִּפְּל֞וּ</span> <span data-strong=\"H2491\">חַֽלְלֵ֤י</span> <span data-strong=\"H6430\">פְלִשְׁתִּים֙</span> <span data-strong=\"H1870\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H8189\">שַׁעֲרַ֔יִם</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H1661\">גַּ֖ת</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H6138\">עֶקְרֽוֹן׃</span>",
     "transliteration": "vayakumv 'aneshey yisera'el viyhvdah vayari'v vayiredefv 'et-hafelishetiym 'ad-vvo'akha gaye' ve'ad sha'arey 'ekervon vayifelv haleley felishetiym vederekhe sha'arayim ve'ad-gat ve'ad-'ekervon.",
     "translation": "E os homens de Israel e Judá se levantaram, bramiram, e perseguiram os filisteus até chegarem ao vale, e até às portas de Ekron. Caiu o mortos dos filisteus pelo caminho de Shaaraim, e até Gat, e até Ekron.\n\n**Revisão corrigida:**\n\nE os homens de Israel e Judá se levantaram, bramiram e perseguiram os filisteus até chegarem ao vale, e até às portas de Ekron. Caíram os mortos dos filisteus pelo caminho de Shaaraim, e até Gat, e até Ekron."
   },
   {
     "verse": 53,
-    "original": "וַיָּשֻׁ֙בוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מִדְּלֹ֖ק אַחֲרֵ֣י פְלִשְׁתִּ֑ים וַיָּשֹׁ֖סּוּ אֶת־מַחֲנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H7725\">וַיָּשֻׁ֙בוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H1814\">מִדְּלֹ֖ק</span> <span data-strong=\"H310\">אַחֲרֵ֣י</span> <span data-strong=\"H6430\">פְלִשְׁתִּ֑ים</span> <span data-strong=\"H8155\">וַיָּשֹׁ֖סּוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">מַחֲנֵיהֶֽם׃</span>",
     "transliteration": "vayashuvv veney yisera'el midelok 'aharey felishetiym vayashosv 'et-mahaneyhem.",
     "translation": "E os filhos de Israel voltaram do esconderijo, após os filisteus, e assolaram seus acampamentos."
   },
@@ -325,7 +325,7 @@
   },
   {
     "verse": 55,
-    "original": "וְכִרְא֨וֹת שָׁא֜וּל אֶת־דָּוִ֗ד יֹצֵא֙ לִקְרַ֣את הַפְּלִשְׁתִּ֔י אָמַ֗ר אֶל־אַבְנֵר֙ שַׂ֣ר הַצָּבָ֔א בֶּן־מִי־זֶ֥ה הַנַּ֖עַר אַבְנֵ֑ר וַיֹּ֣אמֶר אַבְנֵ֔ר חֵֽי־נַפְשְׁךָ֥ הַמֶּ֖לֶךְ אִם־יָדָֽעְתִּי׃",
+    "original": "<span data-strong=\"H7200\">וְכִרְא֨וֹת</span> <span data-strong=\"H7586\">שָׁא֜וּל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1732\">דָּוִ֗ד</span> <span data-strong=\"H3318\">יֹצֵא֙</span> <span data-strong=\"H7122\">לִקְרַ֣את</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H559\">אָמַ֗ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H74\">אַבְנֵר֙</span> <span data-strong=\"H8269\">שַׂ֣ר</span> <span data-strong=\"H6635\">הַצָּבָ֔א</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H4310\">מִי</span>־<span data-strong=\"H2088\">זֶ֥ה</span> <span data-strong=\"H5288\">הַנַּ֖עַר</span> <span data-strong=\"H74\">אַבְנֵ֑ר</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H74\">אַבְנֵ֔ר</span> <span data-strong=\"H2416\">חֵֽי</span>־<span data-strong=\"H3509\">נַפְשְׁךָ֥</span> <span data-strong=\"H4428\">הַמֶּ֖לֶךְ</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3045\">יָדָֽעְתִּי׃</span>",
     "transliteration": "vekhire'vot sha'vl 'et-david yotse' likera't hafelishetiy 'amar 'el-'avener sar hatsava' ven-miy-zeh hana'ar 'avener vayo'mer 'avener hey-nafeshekha hamelekhe 'im-yada'etiy.",
     "translation": "E vendo Saul que Davi saía ao encontro do filisteu, disse a Abner, o comandante do exército: \"Filho de quem é este jovem?\" E Abner respondeu: \"Viva o rei! Se soubesse, certamente te diria.\""
   },
@@ -337,13 +337,13 @@
   },
   {
     "verse": 57,
-    "original": "וּכְשׁ֣וּב דָּוִ֗ד מֵֽהַכּוֹת֙ אֶת־הַפְּלִשְׁתִּ֔י וַיִּקַּ֤ח אֹתוֹ֙ אַבְנֵ֔ר וַיְבִאֵ֖הוּ לִפְנֵ֣י שָׁא֑וּל וְרֹ֥אשׁ הַפְּלִשְׁתִּ֖י בְּיָדֽוֹ׃",
+    "original": "<span data-strong=\"H7725\">וּכְשׁ֣וּב</span> <span data-strong=\"H1732\">דָּוִ֗ד</span> <span data-strong=\"H5221\">מֵֽהַכּוֹת֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔י</span> <span data-strong=\"H3947\">וַיִּקַּ֤ח</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H74\">אַבְנֵ֔ר</span> <span data-strong=\"H1930\">וַיְבִאֵ֖הוּ</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H7586\">שָׁא֑וּל</span> <span data-strong=\"H7218\">וְרֹ֥אשׁ</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֖י</span> <span data-strong=\"H2050\">בְּיָדֽוֹ׃</span>",
     "transliteration": "vkheshvv david mehakhvot 'et-hafelishetiy vayikah 'otvo 'avener vayevi'ehv lifeney sha'vl vero'sh hafelishetiy veyadvo.",
     "translation": "E quando Davi retornou de ferir o filisteu, Abner o tomou e o trouxe diante de Saul; e a cabeça do filisteu estava em sua mão."
   },
   {
     "verse": 58,
-    "original": "וַיֹּ֤אמֶר אֵלָיו֙ שָׁא֔וּל בֶּן־מִ֥י אַתָּ֖ה הַנָּ֑עַר וַיֹּ֣אמֶר דָּוִ֔ד בֶּֽן־עַבְדְּךָ֥ יִשַׁ֖י בֵּ֥ית הַלַּחְמִֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">אֵלָיו֙</span> <span data-strong=\"H7586\">שָׁא֔וּל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H4310\">מִ֥י</span> <span data-strong=\"H859\">אַתָּ֖ה</span> <span data-strong=\"H5288\">הַנָּ֑עַר</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H1121\">בֶּֽן</span>־<span data-strong=\"H3509\">עַבְדְּךָ֥</span> <span data-strong=\"H3448\">יִשַׁ֖י</span> <span data-strong=\"H1022\">בֵּ֥ית</span> <span data-strong=\"H1022\">הַלַּחְמִֽי׃</span>",
     "transliteration": "vayo'mer 'elayv sha'vl ven-miy 'atah hana'ar vayo'mer david ven-'avedekha yishay veyt halahemiy.",
     "translation": "E disse-lhe Saul: Filho de quem és tu, jovem? E Davi respondeu: Sou filho do teu servo Jese, de Belém."
   }

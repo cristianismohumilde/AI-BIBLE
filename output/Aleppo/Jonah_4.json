@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַיֵּ֥רַע אֶל־יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ׃",
+    "original": "<span data-strong=\"H7489\">וַיֵּ֥רַע</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3124\">יוֹנָ֖ה</span> <span data-strong=\"H7451\">רָעָ֣ה</span> <span data-strong=\"H1419\">גְדוֹלָ֑ה</span> <span data-strong=\"H2734\">וַיִּ֖חַר</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vayera' 'el-yvonah ra'ah gedvolah vayihar lvo.",
     "translation": "Eveio a Jônas um mal muito grande e ficou irado."
   },
   {
     "verse": 2,
-    "original": "וַיִּתְפַּלֵּ֨ל אֶל־יְהֹוָ֜ה וַיֹּאמַ֗ר אָנָּ֤ה יְהֹוָה֙ הֲלוֹא־זֶ֣ה דְבָרִ֗י עַד־הֱיוֹתִי֙ עַל־אַדְמָתִ֔י עַל־כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה כִּ֣י יָדַ֗עְתִּי כִּ֤י אַתָּה֙ אֵֽל־חַנּ֣וּן וְרַח֔וּם אֶ֤רֶךְ אַפַּ֙יִם֙ וְרַב־חֶ֔סֶד וְנִחָ֖ם עַל־הָרָעָֽה׃",
+    "original": "<span data-strong=\"H6419\">וַיִּתְפַּלֵּ֨ל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H559\">וַיֹּאמַ֗ר</span> <span data-strong=\"H577\">אָנָּ֤ה</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H3808\">הֲלוֹא</span>־<span data-strong=\"H2088\">זֶ֣ה</span> <span data-strong=\"H2967\">דְבָרִ֗י</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5204\">הֱיוֹתִי֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2967\">אַדְמָתִ֔י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H6923\">קִדַּ֖מְתִּי</span> <span data-strong=\"H1272\">לִבְרֹ֣חַ</span> <span data-strong=\"H1886\">תַּרְשִׁ֑ישָׁה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3045\">יָדַ֗עְתִּי</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H410\">אֵֽל</span>־<span data-strong=\"H2587\">חַנּ֣וּן</span> <span data-strong=\"H7349\">וְרַח֔וּם</span> <span data-strong=\"H750\">אֶ֤רֶךְ</span> <span data-strong=\"H639\">אַפַּ֙יִם֙</span> <span data-strong=\"H7227\">וְרַב</span>־<span data-strong=\"H2617\">חֶ֔סֶד</span> <span data-strong=\"H5162\">וְנִחָ֖ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7451\">הָרָעָֽה׃</span>",
     "transliteration": "vayitefalel 'el-yehovah vayo'mar 'anah yehovah halvo'-zeh devariy 'ad-heyvotiy 'al-'adematiy 'al-khen kidametiy liveroha tareshiyshah khiy yada'etiy khiy 'atah 'el-hanvn verahvm 'erekhe 'afayim verav-hesed veniham 'al-hara'ah.",
     "translation": "E orou ao Senhor e disse: Ah, Senhor! Não foi isso o que eu disse enquanto ainda estava na minha terra? Por isso fugi para Tarshish; pois sei que tu és Deus misericordioso e compassivo, paciente e rico em bondade, e te arrependes do mal."
   },
@@ -19,49 +19,49 @@
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֣אמֶר יְהֹוָ֔ה הַהֵיטֵ֖ב חָ֥רָה לָֽךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3190\">הַהֵיטֵ֖ב</span> <span data-strong=\"H2734\">חָ֥רָה</span> <span data-strong=\"H3509\">לָֽךְ׃</span>",
     "transliteration": "vayo'mer yehovah haheytev harah lakhe.",
     "translation": "E disse o Senhor: É bom que te irrites."
   },
   {
     "verse": 5,
-    "original": "וַיֵּצֵ֤א יוֹנָה֙ מִן־הָעִ֔יר וַיֵּ֖שֶׁב מִקֶּ֣דֶם לָעִ֑יר וַיַּ֩עַשׂ֩ ל֨וֹ שָׁ֜ם סֻכָּ֗ה וַיֵּ֤שֶׁב תַּחְתֶּ֙יהָ֙ בַּצֵּ֔ל עַ֚ד אֲשֶׁ֣ר יִרְאֶ֔ה מַה־יִּהְיֶ֖ה בָּעִֽיר׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֤א</span> <span data-strong=\"H3124\">יוֹנָה֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H5892\">הָעִ֔יר</span> <span data-strong=\"H3427\">וַיֵּ֖שֶׁב</span> <span data-strong=\"H6924\">מִקֶּ֣דֶם</span> <span data-strong=\"H5892\">לָעִ֑יר</span> <span data-strong=\"H6213\">וַיַּ֩עַשׂ֩</span> <span data-strong=\"H2050\">ל֨וֹ</span> <span data-strong=\"H8033\">שָׁ֜ם</span> <span data-strong=\"H5521\">סֻכָּ֗ה</span> <span data-strong=\"H3427\">וַיֵּ֤שֶׁב</span> <span data-strong=\"H1886\">תַּחְתֶּ֙יהָ֙</span> <span data-strong=\"H6738\">בַּצֵּ֔ל</span> <span data-strong=\"H5704\">עַ֚ד</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7200\">יִרְאֶ֔ה</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H1961\">יִּהְיֶ֖ה</span> <span data-strong=\"H5892\">בָּעִֽיר׃</span>",
     "transliteration": "vayetse' yvonah min-ha'iyr vayeshev mikedem la'iyr vaya'as lvo sham sukhah vayeshev taheteyha vatsel 'ad 'asher yire'eh mah-yiheyeh va'iyr.",
     "translation": "E Jonas saiu da cidade e sentou-se a leste dela; fez ali uma cabana e sentou-se à sombra dela, esperando para ver o que aconteceria à cidade."
   },
   {
     "verse": 6,
-    "original": "וַיְמַ֣ן יְהֹוָֽה־אֱ֠לֹהִ֠ים קִיקָי֞וֹן וַיַּ֣עַל&thinsp;<b>׀</b> מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל־רֹאשׁ֔וֹ לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל־הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה׃",
+    "original": "<span data-strong=\"H4487\">וַיְמַ֣ן</span> <span data-strong=\"H3068\">יְהֹוָֽה</span>־<span data-strong=\"H430\">אֱ֠לֹהִ֠ים</span> <span data-strong=\"H7021\">קִיקָי֞וֹן</span> <span data-strong=\"H5927\">וַיַּ֣עַל&thinsp;<b>׀</b></span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H3124\">לְיוֹנָ֗ה</span> <span data-strong=\"H1961\">לִֽהְי֥וֹת</span> <span data-strong=\"H6738\">צֵל֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֔וֹ</span> <span data-strong=\"H5337\">לְהַצִּ֥יל</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H2050\">מֵרָֽעָת֑וֹ</span> <span data-strong=\"H8055\">וַיִּשְׂמַ֥ח</span> <span data-strong=\"H3124\">יוֹנָ֛ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7021\">הַקִּֽיקָי֖וֹן</span> <span data-strong=\"H8057\">שִׂמְחָ֥ה</span> <span data-strong=\"H1419\">גְדוֹלָֽה׃</span>",
     "transliteration": "vayeman yehovah-'elohiym kiykayvon vaya'al&thinsp;<b>|</b> me'al leyvonah liheyvot tsel 'al-ro'shvo lehatsiyl lvo mera'atvo vayisemah yvonah 'al-hakiykayvon simehah gedvolah.",
     "translation": "E o Senhor Deus fez subir um kikayon sobre Jonas para ser sombra sobre sua cabeça e livrá-lo do mal; e Jonas se alegrou com grande júbilo pelo kikayon."
   },
   {
     "verse": 7,
-    "original": "וַיְמַ֤ן הָֽאֱלֹהִים֙ תּוֹלַ֔עַת בַּעֲל֥וֹת הַשַּׁ֖חַר לַֽמׇּחֳרָ֑ת וַתַּ֥ךְ אֶת־הַקִּֽיקָי֖וֹן וַיִּיבָֽשׁ׃",
+    "original": "<span data-strong=\"H4487\">וַיְמַ֤ן</span> <span data-strong=\"H430\">הָֽאֱלֹהִים֙</span> <span data-strong=\"H8438\">תּוֹלַ֔עַת</span> <span data-strong=\"H5927\">בַּעֲל֥וֹת</span> <span data-strong=\"H7837\">הַשַּׁ֖חַר</span> <span data-strong=\"H4283\">לַֽמׇּחֳרָ֑ת</span> <span data-strong=\"H5221\">וַתַּ֥ךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7021\">הַקִּֽיקָי֖וֹן</span> <span data-strong=\"H3001\">וַיִּיבָֽשׁ׃</span>",
     "transliteration": "vayeman ha'elohiym tvola'at va'alvot hashahar lamohorat vatakhe 'et-hakiykayvon vayiyvash.",
     "translation": "E Deus preparou uma traça que, ao amanhecer do dia seguinte, atingiu o chicotear e ele se secou."
   },
   {
     "verse": 8,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> כִּזְרֹ֣חַ הַשֶּׁ֗מֶשׁ וַיְמַ֨ן אֱלֹהִ֜ים ר֤וּחַ קָדִים֙ חֲרִישִׁ֔ית וַתַּ֥ךְ הַשֶּׁ֛מֶשׁ עַל־רֹ֥אשׁ יוֹנָ֖ה וַיִּתְעַלָּ֑ף וַיִּשְׁאַ֤ל אֶת־נַפְשׁוֹ֙ לָמ֔וּת וַיֹּ֕אמֶר ט֥וֹב מוֹתִ֖י מֵחַיָּֽי׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H2224\">כִּזְרֹ֣חַ</span> <span data-strong=\"H8121\">הַשֶּׁ֗מֶשׁ</span> <span data-strong=\"H4487\">וַיְמַ֨ן</span> <span data-strong=\"H430\">אֱלֹהִ֜ים</span> <span data-strong=\"H7307\">ר֤וּחַ</span> <span data-strong=\"H6921\">קָדִים֙</span> <span data-strong=\"H2759\">חֲרִישִׁ֔ית</span> <span data-strong=\"H5221\">וַתַּ֥ךְ</span> <span data-strong=\"H8121\">הַשֶּׁ֛מֶשׁ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7218\">רֹ֥אשׁ</span> <span data-strong=\"H3124\">יוֹנָ֖ה</span> <span data-strong=\"H5968\">וַיִּתְעַלָּ֑ף</span> <span data-strong=\"H7592\">וַיִּשְׁאַ֤ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">נַפְשׁוֹ֙</span> <span data-strong=\"H4191\">לָמ֔וּת</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H2896\">ט֥וֹב</span> <span data-strong=\"H2967\">מוֹתִ֖י</span> <span data-strong=\"H2967\">מֵחַיָּֽי׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> khizeroha hashemesh vayeman 'elohiym rvha kadiym hariyshiyt vatakhe hashemesh 'al-ro'sh yvonah vayite'alaf vayishe'al 'et-nafeshvo lamvt vayo'mer tvov mvotiy mehayay.",
     "translation": "E sucedeu que ao raiar do sol, o Senhor Deus suscitou um vento oriental tempestuoso; e bateu o sol na cabeça de Jonas, fazendo-o desmaiar. E pediu ele a sua alma para morrer, dizendo: Melhor é a minha morte do que esta vida!"
   },
   {
     "verse": 9,
-    "original": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־יוֹנָ֔ה הַהֵיטֵ֥ב חָרָֽה־לְךָ֖ עַל־הַקִּֽיקָי֑וֹן וַיֹּ֕אמֶר הֵיטֵ֥ב חָֽרָה־לִ֖י עַד־מָֽוֶת׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H430\">אֱלֹהִים֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3124\">יוֹנָ֔ה</span> <span data-strong=\"H3190\">הַהֵיטֵ֥ב</span> <span data-strong=\"H2734\">חָרָֽה</span>־<span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7021\">הַקִּֽיקָי֑וֹן</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H3190\">הֵיטֵ֥ב</span> <span data-strong=\"H2734\">חָֽרָה</span>־<span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4194\">מָֽוֶת׃</span>",
     "transliteration": "vayo'mer 'elohiym 'el-yvonah haheytev harah-lekha 'al-hakiykayvon vayo'mer heytev harah-liy 'ad-mavet.",
     "translation": "E disse o Senhor a Jonas: Teve prazer em te aborreceres pelo figueiro? E ele respondeu: Tive prazer em me aborrecer, sim, até à morte."
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֣אמֶר יְהֹוָ֔ה אַתָּ֥ה חַ֙סְתָּ֙ עַל־הַקִּ֣יקָי֔וֹן אֲשֶׁ֛ר לֹא־עָמַ֥לְתָּ בּ֖וֹ וְלֹ֣א גִדַּלְתּ֑וֹ שֶׁבִּן־לַ֥יְלָה הָיָ֖ה וּבִן־לַ֥יְלָה אָבָֽד׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H2347\">חַ֙סְתָּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7021\">הַקִּ֣יקָי֔וֹן</span> <span data-strong=\"H834\">אֲשֶׁ֛ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5998\">עָמַ֥לְתָּ</span> <span data-strong=\"H2050\">בּ֖וֹ</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H2050\">גִדַּלְתּ֑וֹ</span> <span data-strong=\"H1121\">שֶׁבִּן</span>־<span data-strong=\"H3915\">לַ֥יְלָה</span> <span data-strong=\"H1961\">הָיָ֖ה</span> <span data-strong=\"H1121\">וּבִן</span>־<span data-strong=\"H3915\">לַ֥יְלָה</span> <span data-strong=\"H6\">אָבָֽד׃</span>",
     "transliteration": "vayo'mer yehovah 'atah haseta 'al-hakiykayvon 'asher lo'-'amaleta vvo velo' gidaletvo shevin-layelah hayah vvin-layelah 'avad.",
     "translation": "E disse o Senhor: Tens piedade do quiqayıon, no qual não trabalhaste nem o fizeste crescer; num só dia ele surgiu e num só dia pereceu."
   },
   {
     "verse": 11,
-    "original": "וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל־נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ־בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים־עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא־יָדַע֙ בֵּין־יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה׃",
+    "original": "<span data-strong=\"H589\">וַֽאֲנִי֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H2347\">אָח֔וּס</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5210\">נִינְוֵ֖ה</span> <span data-strong=\"H5892\">הָעִ֣יר</span> <span data-strong=\"H1419\">הַגְּדוֹלָ֑ה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3426\">יֶשׁ</span>־<span data-strong=\"H1886\">בָּ֡הּ</span> <span data-strong=\"H7235\">הַרְבֵּה֩</span> <span data-strong=\"H8147\">מִֽשְׁתֵּים</span>־<span data-strong=\"H6240\">עֶשְׂרֵ֨ה</span> <span data-strong=\"H7239\">רִבּ֜וֹ</span> <span data-strong=\"H120\">אָדָ֗ם</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3045\">יָדַע֙</span> <span data-strong=\"H996\">בֵּין</span>־<span data-strong=\"H2050\">יְמִינ֣וֹ</span> <span data-strong=\"H2050\">לִשְׂמֹאל֔וֹ</span> <span data-strong=\"H929\">וּבְהֵמָ֖ה</span> <span data-strong=\"H7227\">רַבָּֽה׃</span>",
     "transliteration": "va'aniy lo' 'ahvs 'al-niyneveh ha'iyr hagedvolah 'asher yesh-vah hareveh misheteym-'esereh rivvo 'adam 'asher lo'-yada' veyn-yemiynvo lisemo'lvo vvehemah ravah.",
     "translation": "E eu não tenho piedade de Nínive, a grande cidade, na qual há mais de cento e vinte mil pessoas que não distinguem entre direita e esquerda, além de uma grande quantidade de animais."
   }

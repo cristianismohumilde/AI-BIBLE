@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "הַדָּבָ֛ר אֲשֶׁר־הָיָ֥ה אֶֽל־יִרְמְיָ֖הוּ מֵאֵ֣ת יְהֹוָ֑ה בִּשְׁלֹ֨חַ אֵלָ֜יו הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ אֶת־פַּשְׁחוּר֙ בֶּן־מַלְכִּיָּ֔ה וְאֶת־צְפַנְיָ֧ה בֶן־מַעֲשֵׂיָ֛ה הַכֹּהֵ֖ן לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1697\">הַדָּבָ֛ר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1961\">הָיָ֥ה</span> <span data-strong=\"H413\">אֶֽל</span>־<span data-strong=\"H3414\">יִרְמְיָ֖הוּ</span> <span data-strong=\"H854\">מֵאֵ֣ת</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H7971\">בִּשְׁלֹ֨חַ</span> <span data-strong=\"H2050\">אֵלָ֜יו</span> <span data-strong=\"H4428\">הַמֶּ֣לֶךְ</span> <span data-strong=\"H6667\">צִדְקִיָּ֗הוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6583\">פַּשְׁחוּר֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H4441\">מַלְכִּיָּ֔ה</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H6846\">צְפַנְיָ֧ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H4641\">מַעֲשֵׂיָ֛ה</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "hadavar 'asher-hayah 'el-yiremeyahv me'et yehovah visheloha 'elayv hamelekhe tsidekiyahv 'et-fashehvr ven-malekhiyah ve'et-tsefaneyah ven-ma'aseyah hakhohen le'mor.",
     "translation": "A palavra que veio a Jeremias de parte do Senhor, quando o rei Zedequias lhe enviou Pashur filho de Malquiá e Safã filho de Maaséias, o sacerdote, dizendo:"
   },
   {
     "verse": 2,
-    "original": "דְּרׇשׁ־נָ֤א בַעֲדֵ֙נוּ֙ אֶת־יְהֹוָ֔ה כִּ֛י נְבוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־בָּבֶ֖ל נִלְחָ֣ם עָלֵ֑ינוּ אוּלַי֩ יַעֲשֶׂ֨ה יְהֹוָ֤ה אוֹתָ֙נוּ֙ כְּכׇל־נִפְלְאֹתָ֔יו וְיַעֲלֶ֖ה מֵעָלֵֽינוּ׃",
+    "original": "<span data-strong=\"H1875\">דְּרׇשׁ</span>־<span data-strong=\"H4994\">נָ֤א</span> <span data-strong=\"H5105\">בַעֲדֵ֙נוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H5019\">נְבוּכַדְרֶאצַּ֥ר</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H894\">בָּבֶ֖ל</span> <span data-strong=\"H3898\">נִלְחָ֣ם</span> <span data-strong=\"H5105\">עָלֵ֑ינוּ</span> <span data-strong=\"H194\">אוּלַי֩</span> <span data-strong=\"H6213\">יַעֲשֶׂ֨ה</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H5105\">אוֹתָ֙נוּ֙</span> <span data-strong=\"H3605\">כְּכׇל</span>־<span data-strong=\"H2050\">נִפְלְאֹתָ֔יו</span> <span data-strong=\"H5927\">וְיַעֲלֶ֖ה</span> <span data-strong=\"H5105\">מֵעָלֵֽינוּ׃</span>",
     "transliteration": "derosh-na' va'adenv 'et-yehovah khiy nevvkhadere'tsar melekhe-vavel nileham 'aleynv 'vlay ya'aseh yehovah 'votanv khekhol-nifele'otayv veya'aleh me'aleynv.",
     "translation": "Suplica-nos ao SENHOR, pois Nabucodonosor, rei de Babilônia, fez guerra contra nós; talvez o SENHOR nos faça maravilhas como as que costuma fazer e nos livre dele."
   },
@@ -19,19 +19,19 @@
   },
   {
     "verse": 4,
-    "original": "כֹּה־אָמַ֨ר יְהֹוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֣י מֵסֵב֮ אֶת־כְּלֵ֣י הַמִּלְחָמָה֮ אֲשֶׁ֣ר בְּיֶדְכֶם֒ אֲשֶׁ֨ר אַתֶּ֜ם נִלְחָמִ֣ים בָּ֗ם אֶת־מֶ֤לֶךְ בָּבֶל֙ וְאֶת־הַכַּשְׂדִּ֔ים הַצָּרִ֣ים עֲלֵיכֶ֔ם מִח֖וּץ לַחוֹמָ֑ה וְאָסַפְתִּ֣י אוֹתָ֔ם אֶל־תּ֖וֹךְ הָעִ֥יר הַזֹּֽאת׃",
+    "original": "<span data-strong=\"H3541\">כֹּה</span>־<span data-strong=\"H559\">אָמַ֨ר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H2967\">הִנְנִ֣י</span> <span data-strong=\"H5437\">מֵסֵב֮</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3627\">כְּלֵ֣י</span> <span data-strong=\"H4421\">הַמִּלְחָמָה֮</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3641\">בְּיֶדְכֶם֒</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H859\">אַתֶּ֜ם</span> <span data-strong=\"H3898\">נִלְחָמִ֣ים</span> <span data-strong=\"H3963\">בָּ֗ם</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H4428\">מֶ֤לֶךְ</span> <span data-strong=\"H894\">בָּבֶל֙</span> <span data-strong=\"H854\">וְאֶת</span>־<span data-strong=\"H3778\">הַכַּשְׂדִּ֔ים</span> <span data-strong=\"H6696\">הַצָּרִ֣ים</span> <span data-strong=\"H3641\">עֲלֵיכֶ֔ם</span> <span data-strong=\"H2351\">מִח֖וּץ</span> <span data-strong=\"H2346\">לַחוֹמָ֑ה</span> <span data-strong=\"H622\">וְאָסַפְתִּ֣י</span> <span data-strong=\"H3963\">אוֹתָ֔ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8432\">תּ֖וֹךְ</span> <span data-strong=\"H5892\">הָעִ֥יר</span> <span data-strong=\"H2063\">הַזֹּֽאת׃</span>",
     "transliteration": "khoh-'amar yehovah 'elohey yisera'el hineniy mesev 'et-kheley hamilehamah 'asher veyedekhem 'asher 'atem nilehamiym vam 'et-melekhe vavel ve'et-hakhasediym hatsariym 'aleykhem mihvts lahvomah ve'asafetiy 'votam 'el-tvokhe ha'iyr hazo't.",
     "translation": "Assim diz o Senhor, Deus de Israel: Eis que vou virar contra vocês as armas com que vocês lutam contra o rei da Babilônia e os caldeus, que estão sitiando vocês do lado de fora das muralhas; e eu as farei entrar dentro desta cidade."
   },
   {
     "verse": 5,
-    "original": "וְנִלְחַמְתִּ֤י אֲנִי֙ אִתְּכֶ֔ם בְּיָ֥ד נְטוּיָ֖ה וּבִזְר֣וֹעַ חֲזָקָ֑ה וּבְאַ֥ף וּבְחֵמָ֖ה וּבְקֶ֥צֶף גָּדֽוֹל׃",
+    "original": "<span data-strong=\"H3898\">וְנִלְחַמְתִּ֤י</span> <span data-strong=\"H589\">אֲנִי֙</span> <span data-strong=\"H3641\">אִתְּכֶ֔ם</span> <span data-strong=\"H3027\">בְּיָ֥ד</span> <span data-strong=\"H5186\">נְטוּיָ֖ה</span> <span data-strong=\"H2220\">וּבִזְר֣וֹעַ</span> <span data-strong=\"H2389\">חֲזָקָ֑ה</span> <span data-strong=\"H639\">וּבְאַ֥ף</span> <span data-strong=\"H2534\">וּבְחֵמָ֖ה</span> <span data-strong=\"H7110\">וּבְקֶ֥צֶף</span> <span data-strong=\"H1419\">גָּדֽוֹל׃</span>",
     "transliteration": "venilehametiy 'aniy 'itekhem veyad netvyah vvizervo'a hazakah vve'af vvehemah vveketsef gadvol.",
     "translation": "E combaterei eu com vós em mão estendida e braço forte, e em ira e furor e grande zelo."
   },
   {
     "verse": 6,
-    "original": "וְהִכֵּיתִ֗י אֶת־יֽוֹשְׁבֵי֙ הָעִ֣יר הַזֹּ֔את וְאֶת־הָאָדָ֖ם וְאֶת־הַבְּהֵמָ֑ה בְּדֶ֥בֶר גָּד֖וֹל יָמֻֽתוּ׃",
+    "original": "<span data-strong=\"H5221\">וְהִכֵּיתִ֗י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3427\">יֽוֹשְׁבֵי֙</span> <span data-strong=\"H5892\">הָעִ֣יר</span> <span data-strong=\"H2063\">הַזֹּ֔את</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H120\">הָאָדָ֖ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H929\">הַבְּהֵמָ֑ה</span> <span data-strong=\"H1698\">בְּדֶ֥בֶר</span> <span data-strong=\"H1419\">גָּד֖וֹל</span> <span data-strong=\"H4191\">יָמֻֽתוּ׃</span>",
     "transliteration": "vehikheytiy 'et-yvoshevey ha'iyr hazo't ve'et-ha'adam ve'et-havehemah vedever gadvol yamutv.",
     "translation": "E ferirei os habitantes desta cidade, tanto o homem quanto a besta; por uma praga grande morrerão."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "וְאֶל־הָעָ֤ם הַזֶּה֙ תֹּאמַ֔ר כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה הִנְנִ֤י נֹתֵן֙ לִפְנֵיכֶ֔ם אֶת־דֶּ֥רֶךְ הַחַיִּ֖ים וְאֶת־דֶּ֥רֶךְ הַמָּֽוֶת׃",
+    "original": "<span data-strong=\"H413\">וְאֶל</span>־<span data-strong=\"H5971\">הָעָ֤ם</span> <span data-strong=\"H2088\">הַזֶּה֙</span> <span data-strong=\"H559\">תֹּאמַ֔ר</span> <span data-strong=\"H3541\">כֹּ֖ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H2967\">הִנְנִ֤י</span> <span data-strong=\"H5414\">נֹתֵן֙</span> <span data-strong=\"H3641\">לִפְנֵיכֶ֔ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1870\">דֶּ֥רֶךְ</span> <span data-strong=\"H2416\">הַחַיִּ֖ים</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1870\">דֶּ֥רֶךְ</span> <span data-strong=\"H4194\">הַמָּֽוֶת׃</span>",
     "transliteration": "ve'el-ha'am hazeh to'mar khoh 'amar yehovah hineniy noten lifeneykhem 'et-derekhe hahayiym ve'et-derekhe hamavet.",
     "translation": "E a este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte."
   },
@@ -61,7 +61,7 @@
   },
   {
     "verse": 11,
-    "original": "וּלְבֵית֙ מֶ֣לֶךְ יְהוּדָ֔ה שִׁמְע֖וּ דְּבַר־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H1004\">וּלְבֵית֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H8085\">שִׁמְע֖וּ</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vleveyt melekhe yehvdah shime'v devar-yehovah.",
     "translation": "E à casa do rei de Judá, ouvi a palavra do Senhor."
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "הִנְנִ֨י אֵלַ֜יִךְ יֹשֶׁ֧בֶת הָעֵ֛מֶק צ֥וּר הַמִּישֹׁ֖ר נְאֻם־יְהֹוָ֑ה הָאֹֽמְרִים֙ מִֽי־יֵחַ֣ת עָלֵ֔ינוּ וּמִ֥י יָב֖וֹא בִּמְעוֹנוֹתֵֽינוּ׃",
+    "original": "<span data-strong=\"H2967\">הִנְנִ֨י</span> <span data-strong=\"H3509\">אֵלַ֜יִךְ</span> <span data-strong=\"H3427\">יֹשֶׁ֧בֶת</span> <span data-strong=\"H6010\">הָעֵ֛מֶק</span> <span data-strong=\"H6697\">צ֥וּר</span> <span data-strong=\"H4334\">הַמִּישֹׁ֖ר</span> <span data-strong=\"H5002\">נְאֻם</span>־<span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H559\">הָאֹֽמְרִים֙</span> <span data-strong=\"H4310\">מִֽי</span>־<span data-strong=\"H5181\">יֵחַ֣ת</span> <span data-strong=\"H5105\">עָלֵ֔ינוּ</span> <span data-strong=\"H4310\">וּמִ֥י</span> <span data-strong=\"H935\">יָב֖וֹא</span> <span data-strong=\"H5105\">בִּמְעוֹנוֹתֵֽינוּ׃</span>",
     "transliteration": "hineniy 'elayikhe yoshevet ha'emek tsvr hamiyshor ne'um-yehovah ha'omeriym miy-yehat 'aleynv vmiy yavvo' vime'vonvoteynv.",
     "translation": "Eis-me aqui, ó moradora do vale, pedra da planície, diz o SENHOR: Os que perguntam quem nos atacará e quem virá contra nossos arraiais."
   },
   {
     "verse": 14,
-    "original": "וּפָקַדְתִּ֧י עֲלֵיכֶ֛ם כִּפְרִ֥י מַעַלְלֵיכֶ֖ם נְאֻם־יְהֹוָ֑ה וְהִצַּ֤תִּי אֵשׁ֙ בְּיַעְרָ֔הּ וְאָכְלָ֖ה כׇּל־סְבִיבֶֽיהָ׃",
+    "original": "<span data-strong=\"H6485\">וּפָקַדְתִּ֧י</span> <span data-strong=\"H3641\">עֲלֵיכֶ֛ם</span> <span data-strong=\"H6529\">כִּפְרִ֥י</span> <span data-strong=\"H3641\">מַעַלְלֵיכֶ֖ם</span> <span data-strong=\"H5002\">נְאֻם</span>־<span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3341\">וְהִצַּ֤תִּי</span> <span data-strong=\"H784\">אֵשׁ֙</span> <span data-strong=\"H1886\">בְּיַעְרָ֔הּ</span> <span data-strong=\"H398\">וְאָכְלָ֖ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">סְבִיבֶֽיהָ׃</span>",
     "transliteration": "vfakadetiy 'aleykhem khiferiy ma'aleleykhem ne'um-yehovah vehitsatiy 'esh veya'erah ve'akhelah khol-seviyveyha.",
     "translation": "E eu visitarei sobre vós o preço de vossas obras, diz o Senhor, e acenderei fogo na floresta, e devorará todas as suas redondezas."
   }

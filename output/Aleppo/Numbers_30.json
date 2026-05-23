@@ -7,67 +7,67 @@
   },
   {
     "verse": 2,
-    "original": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־רָאשֵׁ֣י הַמַּטּ֔וֹת לִבְנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֤ר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7218\">רָאשֵׁ֣י</span> <span data-strong=\"H4294\">הַמַּטּ֔וֹת</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H2088\">זֶ֣ה</span> <span data-strong=\"H1697\">הַדָּבָ֔ר</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayedaver mosheh 'el-ra'shey hamatvot liveney yisera'el le'mor zeh hadavar 'asher tsivah yehovah.",
     "translation": "E Moisés falou aos chefes das tribos, aos filhos de Israel, dizendo: Esta é a palavra que o Senhor ordenou."
   },
   {
     "verse": 3,
-    "original": "אִישׁ֩ כִּֽי־יִדֹּ֨ר נֶ֜דֶר לַֽיהֹוָ֗ה אֽוֹ־הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל־נַפְשׁ֔וֹ לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכׇל־הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה׃",
+    "original": "<span data-strong=\"H376\">אִישׁ֩</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5087\">יִדֹּ֨ר</span> <span data-strong=\"H5088\">נֶ֜דֶר</span> <span data-strong=\"H3068\">לַֽיהֹוָ֗ה</span> <span data-strong=\"H176\">אֽוֹ</span>־<span data-strong=\"H7650\">הִשָּׁ֤בַע</span> <span data-strong=\"H7621\">שְׁבֻעָה֙</span> <span data-strong=\"H631\">לֶאְסֹ֤ר</span> <span data-strong=\"H632\">אִסָּר֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">נַפְשׁ֔וֹ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H2490\">יַחֵ֖ל</span> <span data-strong=\"H2050\">דְּבָר֑וֹ</span> <span data-strong=\"H3605\">כְּכׇל</span>־<span data-strong=\"H3318\">הַיֹּצֵ֥א</span> <span data-strong=\"H2050\">מִפִּ֖יו</span> <span data-strong=\"H6213\">יַעֲשֶֽׂה׃</span>",
     "transliteration": "'iysh khiy-yidor neder layhovah 'vo-hishava' shevu'ah le'esor 'isar 'al-nafeshvo lo' yahel devarvo khekhol-hayotse' mifiyv ya'aseh.",
     "translation": "Se um homem fizer um voto ao Senhor, ou jurar um juramento de proibir alguma coisa sobre si mesmo, não profanará a sua palavra; segundo tudo o que sair da sua boca fará."
   },
   {
     "verse": 4,
-    "original": "וְאִשָּׁ֕ה כִּֽי־תִדֹּ֥ר נֶ֖דֶר לַיהֹוָ֑ה וְאָסְרָ֥ה אִסָּ֛ר בְּבֵ֥ית אָבִ֖יהָ בִּנְעֻרֶֽיהָ׃",
+    "original": "<span data-strong=\"H802\">וְאִשָּׁ֕ה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5087\">תִדֹּ֥ר</span> <span data-strong=\"H5088\">נֶ֖דֶר</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H631\">וְאָסְרָ֥ה</span> <span data-strong=\"H632\">אִסָּ֛ר</span> <span data-strong=\"H1004\">בְּבֵ֥ית</span> <span data-strong=\"H1886\">אָבִ֖יהָ</span> <span data-strong=\"H1886\">בִּנְעֻרֶֽיהָ׃</span>",
     "transliteration": "ve'ishah khiy-tidor neder layhovah ve'aserah 'isar veveyt 'aviyha vine'ureyha.",
     "translation": "E se uma mulher fizer um voto ao Senhor e assumir uma obrigação na casa de seu pai, quando jovem,"
   },
   {
     "verse": 5,
-    "original": "וְשָׁמַ֨ע אָבִ֜יהָ אֶת־נִדְרָ֗הּ וֶֽאֱסָרָהּ֙ אֲשֶׁ֣ר אָֽסְרָ֣ה עַל־נַפְשָׁ֔הּ וְהֶחֱרִ֥ישׁ לָ֖הּ אָבִ֑יהָ וְקָ֙מוּ֙ כׇּל־נְדָרֶ֔יהָ וְכׇל־אִסָּ֛ר אֲשֶׁר־אָסְרָ֥ה עַל־נַפְשָׁ֖הּ יָקֽוּם׃",
+    "original": "<span data-strong=\"H8085\">וְשָׁמַ֨ע</span> <span data-strong=\"H1886\">אָבִ֜יהָ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">נִדְרָ֗הּ</span> <span data-strong=\"H1886\">וֶֽאֱסָרָהּ֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H631\">אָֽסְרָ֣ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֔הּ</span> <span data-strong=\"H2790\">וְהֶחֱרִ֥ישׁ</span> <span data-strong=\"H1886\">לָ֖הּ</span> <span data-strong=\"H1886\">אָבִ֑יהָ</span> <span data-strong=\"H6965\">וְקָ֙מוּ֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">נְדָרֶ֔יהָ</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H632\">אִסָּ֛ר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H6965\">יָקֽוּם׃</span>",
     "transliteration": "veshama' 'aviyha 'et-niderah ve'esarah 'asher 'aserah 'al-nafeshah veheheriysh lah 'aviyha vekamv khol-nedareyha vekhol-'isar 'asher-'aserah 'al-nafeshah yakvm.",
     "translation": "E ouviu seu pai os seus votos, as restrições que ela se impôs a si mesma; e ficou calado para com ela. Então, todos os seus votos e todas as restrições que lhe impôs à sua alma permanecerão em vigor."
   },
   {
     "verse": 6,
-    "original": "וְאִם־הֵנִ֨יא אָבִ֣יהָ אֹתָהּ֮ בְּי֣וֹם שׇׁמְעוֹ֒ כׇּל־נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛יהָ אֲשֶׁר־אָסְרָ֥ה עַל־נַפְשָׁ֖הּ לֹ֣א יָק֑וּם וַֽיהֹוָה֙ יִֽסְלַח־לָ֔הּ כִּי־הֵנִ֥יא אָבִ֖יהָ אֹתָֽהּ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H5106\">הֵנִ֨יא</span> <span data-strong=\"H1886\">אָבִ֣יהָ</span> <span data-strong=\"H1886\">אֹתָהּ֮</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H2050\">שׇׁמְעוֹ֒</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">נְדָרֶ֗יהָ</span> <span data-strong=\"H1886\">וֶֽאֱסָרֶ֛יהָ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6965\">יָק֑וּם</span> <span data-strong=\"H3068\">וַֽיהֹוָה֙</span> <span data-strong=\"H5545\">יִֽסְלַח</span>־<span data-strong=\"H1886\">לָ֔הּ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H5106\">הֵנִ֥יא</span> <span data-strong=\"H1886\">אָבִ֖יהָ</span> <span data-strong=\"H1886\">אֹתָֽהּ׃</span>",
     "transliteration": "ve'im-heniy' 'aviyha 'otah veyvom shome'vo khol-nedareyha ve'esareyha 'asher-'aserah 'al-nafeshah lo' yakvm vayhovah yiselah-lah khiy-heniy' 'aviyha 'otah.",
     "translation": "E se seu pai a anular no dia em que ouvir todos os seus votos e todas as suas prestações que ela prestou sobre si, não subsistirão, e o Senhor lhe perdoará, pois seu pai a anulou."
   },
   {
     "verse": 7,
-    "original": "וְאִם־הָי֤וֹ תִֽהְיֶה֙ לְאִ֔ישׁ וּנְדָרֶ֖יהָ עָלֶ֑יהָ א֚וֹ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל־נַפְשָֽׁהּ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1961\">הָי֤וֹ</span> <span data-strong=\"H1961\">תִֽהְיֶה֙</span> <span data-strong=\"H376\">לְאִ֔ישׁ</span> <span data-strong=\"H1886\">וּנְדָרֶ֖יהָ</span> <span data-strong=\"H1886\">עָלֶ֑יהָ</span> <span data-strong=\"H176\">א֚וֹ</span> <span data-strong=\"H4008\">מִבְטָ֣א</span> <span data-strong=\"H1886\">שְׂפָתֶ֔יהָ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H631\">אָסְרָ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָֽׁהּ׃</span>",
     "transliteration": "ve'im-hayvo tiheyeh le'iysh vnedareyha 'aleyha 'vo miveta' sefateyha 'asher 'aserah 'al-nafeshah.",
     "translation": "E se uma mulher tiver um voto sobre ela, ou jurou um juramento que se obrigou a si mesma;"
   },
   {
     "verse": 8,
-    "original": "וְשָׁמַ֥ע אִישָׁ֛הּ בְּי֥וֹם שׇׁמְע֖וֹ וְהֶחֱרִ֣ישׁ לָ֑הּ וְקָ֣מוּ נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛הָ אֲשֶׁר־אָסְרָ֥ה עַל־נַפְשָׁ֖הּ יָקֻֽמוּ׃",
+    "original": "<span data-strong=\"H8085\">וְשָׁמַ֥ע</span> <span data-strong=\"H1886\">אִישָׁ֛הּ</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H2050\">שׇׁמְע֖וֹ</span> <span data-strong=\"H2790\">וְהֶחֱרִ֣ישׁ</span> <span data-strong=\"H1886\">לָ֑הּ</span> <span data-strong=\"H6965\">וְקָ֣מוּ</span> <span data-strong=\"H1886\">נְדָרֶ֗יהָ</span> <span data-strong=\"H1886\">וֶֽאֱסָרֶ֛הָ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H6965\">יָקֻֽמוּ׃</span>",
     "transliteration": "veshama' 'iyshah veyvom shome'vo veheheriysh lah vekamv nedareyha ve'esareha 'asher-'aserah 'al-nafeshah yakumv.",
     "translation": "E ouvirá o homem no dia de ouvi-la, e calará-se para ela; e levantar-se-ão seus votos e suas proibições que ela se propôs sobre si mesma, levantar-se-ão."
   },
   {
     "verse": 9,
-    "original": "וְ֠אִ֠ם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת־נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ וְאֵת֙ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל־נַפְשָׁ֑הּ וַיהֹוָ֖ה יִֽסְלַֽח־לָֽהּ׃",
+    "original": "<span data-strong=\"H518\">וְ֠אִ֠ם</span> <span data-strong=\"H3117\">בְּי֨וֹם</span> <span data-strong=\"H8085\">שְׁמֹ֣עַ</span> <span data-strong=\"H1886\">אִישָׁהּ֮</span> <span data-strong=\"H5106\">יָנִ֣יא</span> <span data-strong=\"H1886\">אוֹתָהּ֒</span> <span data-strong=\"H6565\">וְהֵפֵ֗ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">נִדְרָהּ֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1886\">עָלֶ֔יהָ</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H4008\">מִבְטָ֣א</span> <span data-strong=\"H1886\">שְׂפָתֶ֔יהָ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H631\">אָסְרָ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֑הּ</span> <span data-strong=\"H3068\">וַיהֹוָ֖ה</span> <span data-strong=\"H5545\">יִֽסְלַֽח</span>־<span data-strong=\"H1886\">לָֽהּ׃</span>",
     "transliteration": "ve'im veyvom shemo'a 'iyshah yaniy' 'votah vehefer 'et-niderah 'asher 'aleyha ve'et miveta' sefateyha 'asher 'aserah 'al-nafeshah vayhovah yiselah-lah.",
     "translation": "E se no dia em que o seu homem ouvir os seus votos, e negar os juramentos que ela fez, e a restrição de seus lábios que ela impôs sobre si mesma, então Jeová lhe perdoará."
   },
   {
     "verse": 10,
-    "original": "וְנֵ֥דֶר אַלְמָנָ֖ה וּגְרוּשָׁ֑ה כֹּ֛ל אֲשֶׁר־אָסְרָ֥ה עַל־נַפְשָׁ֖הּ יָק֥וּם עָלֶֽיהָ׃",
+    "original": "<span data-strong=\"H5088\">וְנֵ֥דֶר</span> <span data-strong=\"H490\">אַלְמָנָ֖ה</span> <span data-strong=\"H1644\">וּגְרוּשָׁ֑ה</span> <span data-strong=\"H3605\">כֹּ֛ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H6965\">יָק֥וּם</span> <span data-strong=\"H1886\">עָלֶֽיהָ׃</span>",
     "transliteration": "veneder 'alemanah vgervshah khol 'asher-'aserah 'al-nafeshah yakvm 'aleyha.",
     "translation": "E o voto da viúva ou da repudiada, tudo que ela se obrigou com sua alma lhe será cumprido."
   },
   {
     "verse": 11,
-    "original": "וְאִם־בֵּ֥ית אִישָׁ֖הּ נָדָ֑רָה אֽוֹ־אָסְרָ֥ה אִסָּ֛ר עַל־נַפְשָׁ֖הּ בִּשְׁבֻעָֽה׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H1886\">אִישָׁ֖הּ</span> <span data-strong=\"H5087\">נָדָ֑רָה</span> <span data-strong=\"H176\">אֽוֹ</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H632\">אִסָּ֛ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H7621\">בִּשְׁבֻעָֽה׃</span>",
     "transliteration": "ve'im-veyt 'iyshah nadarah 'vo-'aserah 'isar 'al-nafeshah vishevu'ah.",
     "translation": "E se a mulher do homem tiver feito um voto ou imposto sobre si uma restrição por juramento,"
   },
   {
     "verse": 12,
-    "original": "וְשָׁמַ֤ע אִישָׁהּ֙ וְהֶחֱרִ֣שׁ לָ֔הּ לֹ֥א הֵנִ֖יא אֹתָ֑הּ וְקָ֙מוּ֙ כׇּל־נְדָרֶ֔יהָ וְכׇל־אִסָּ֛ר אֲשֶׁר־אָסְרָ֥ה עַל־נַפְשָׁ֖הּ יָקֽוּם׃",
+    "original": "<span data-strong=\"H8085\">וְשָׁמַ֤ע</span> <span data-strong=\"H1886\">אִישָׁהּ֙</span> <span data-strong=\"H2790\">וְהֶחֱרִ֣שׁ</span> <span data-strong=\"H1886\">לָ֔הּ</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H5106\">הֵנִ֖יא</span> <span data-strong=\"H1886\">אֹתָ֑הּ</span> <span data-strong=\"H6965\">וְקָ֙מוּ֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">נְדָרֶ֔יהָ</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H632\">אִסָּ֛ר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H631\">אָסְרָ֥ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">נַפְשָׁ֖הּ</span> <span data-strong=\"H6965\">יָקֽוּם׃</span>",
     "transliteration": "veshama' 'iyshah veheherish lah lo' heniy' 'otah vekamv khol-nedareyha vekhol-'isar 'asher-'aserah 'al-nafeshah yakvm.",
     "translation": "E ouvirá seu marido e se calará para com ela; não invalidará sua promessa, e todos os seus votos permanecerão firmes, e toda restrição que impôs sobre si mesma ele guardará."
   },
@@ -79,19 +79,19 @@
   },
   {
     "verse": 14,
-    "original": "כׇּל־נֵ֛דֶר וְכׇל־שְׁבֻעַ֥ת אִסָּ֖ר לְעַנֹּ֣ת נָ֑פֶשׁ אִישָׁ֥הּ יְקִימֶ֖נּוּ וְאִישָׁ֥הּ יְפֵרֶֽנּוּ׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5088\">נֵ֛דֶר</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H7621\">שְׁבֻעַ֥ת</span> <span data-strong=\"H632\">אִסָּ֖ר</span> <span data-strong=\"H6031\">לְעַנֹּ֣ת</span> <span data-strong=\"H5315\">נָ֑פֶשׁ</span> <span data-strong=\"H1886\">אִישָׁ֥הּ</span> <span data-strong=\"H5105\">יְקִימֶ֖נּוּ</span> <span data-strong=\"H1886\">וְאִישָׁ֥הּ</span> <span data-strong=\"H5105\">יְפֵרֶֽנּוּ׃</span>",
     "transliteration": "khol-neder vekhol-shevu'at 'isar le'anot nafesh 'iyshah yekiymenv ve'iyshah yeferenv.",
     "translation": "Todo voto e toda promessa de afeição por que uma pessoa se obrigou, seu marido confirmará ou invalidará."
   },
   {
     "verse": 15,
-    "original": "וְאִם־הַחֲרֵשׁ֩ יַחֲרִ֨ישׁ לָ֥הּ אִישָׁהּ֮ מִיּ֣וֹם אֶל־יוֹם֒ וְהֵקִים֙ אֶת־כׇּל־נְדָרֶ֔יהָ א֥וֹ אֶת־כׇּל־אֱסָרֶ֖יהָ אֲשֶׁ֣ר עָלֶ֑יהָ הֵקִ֣ים אֹתָ֔ם כִּי־הֶחֱרִ֥שׁ לָ֖הּ בְּי֥וֹם שׇׁמְעֽוֹ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H2790\">הַחֲרֵשׁ֩</span> <span data-strong=\"H2790\">יַחֲרִ֨ישׁ</span> <span data-strong=\"H1886\">לָ֥הּ</span> <span data-strong=\"H1886\">אִישָׁהּ֮</span> <span data-strong=\"H3117\">מִיּ֣וֹם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3117\">יוֹם֒</span> <span data-strong=\"H6965\">וְהֵקִים֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">נְדָרֶ֔יהָ</span> <span data-strong=\"H176\">א֥וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1886\">אֱסָרֶ֖יהָ</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1886\">עָלֶ֑יהָ</span> <span data-strong=\"H6965\">הֵקִ֣ים</span> <span data-strong=\"H3963\">אֹתָ֔ם</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H2790\">הֶחֱרִ֥שׁ</span> <span data-strong=\"H1886\">לָ֖הּ</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H2050\">שׇׁמְעֽוֹ׃</span>",
     "transliteration": "ve'im-haharesh yahariysh lah 'iyshah miyvom 'el-yvom vehekiym 'et-khol-nedareyha 'vo 'et-khol-'esareyha 'asher 'aleyha hekiym 'otam khiy-heherish lah veyvom shome'vo.",
     "translation": "E se o marido guardar silêncio sobre ela, de um dia para outro, e confirmar todos os seus votos ou todas as suas proibições que sobre ela recaem, ele os confirmará, pois guardou silêncio nesse dia em que os ouviu."
   },
   {
     "verse": 16,
-    "original": "וְאִם־הָפֵ֥ר יָפֵ֛ר אֹתָ֖ם אַחֲרֵ֣י שׇׁמְע֑וֹ וְנָשָׂ֖א אֶת־עֲוֺנָֽהּ׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H6565\">הָפֵ֥ר</span> <span data-strong=\"H6565\">יָפֵ֛ר</span> <span data-strong=\"H3963\">אֹתָ֖ם</span> <span data-strong=\"H310\">אַחֲרֵ֣י</span> <span data-strong=\"H2050\">שׇׁמְע֑וֹ</span> <span data-strong=\"H5375\">וְנָשָׂ֖א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">עֲוֺנָֽהּ׃</span>",
     "transliteration": "ve'im-hafer yafer 'otam 'aharey shome'vo venasa' 'et-'avonah.",
     "translation": "E se ele os violar após ouvi-los, suportará sua iniquidade."
   },

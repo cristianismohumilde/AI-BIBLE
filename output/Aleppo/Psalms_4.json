@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֥חַ בִּנְגִינ֗וֹת מִזְמ֥וֹר לְדָוִֽד׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֥חַ</span> <span data-strong=\"H5058\">בִּנְגִינ֗וֹת</span> <span data-strong=\"H4210\">מִזְמ֥וֹר</span> <span data-strong=\"H1732\">לְדָוִֽד׃</span>",
     "transliteration": "lamenatseha vinegiynvot mizemvor ledavid.",
     "translation": "Ao encantador com instrumentos musicais, salmo de Davi."
   },
   {
     "verse": 2,
-    "original": "בְּקׇרְאִ֡י עֲנֵ֤נִי&thinsp;<b>׀</b> אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חׇ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי׃",
+    "original": "<span data-strong=\"H5204\">בְּקׇרְאִ֡י</span> <span data-strong=\"H5204\">עֲנֵ֤נִי&thinsp;<b>׀</b></span> <span data-strong=\"H430\">אֱלֹ֘הֵ֤י</span> <span data-strong=\"H2967\">צִדְקִ֗י</span> <span data-strong=\"H6862\">בַּ֭צָּר</span> <span data-strong=\"H7337\">הִרְחַ֣בְתָּ</span> <span data-strong=\"H2967\">לִּ֑י</span> <span data-strong=\"H5204\">חׇ֝נֵּ֗נִי</span> <span data-strong=\"H8085\">וּשְׁמַ֥ע</span> <span data-strong=\"H2967\">תְּפִלָּתִֽי׃</span>",
     "transliteration": "vekore'iy 'aneniy&thinsp;<b>|</b> 'elohey tsidekiy vatsar hirehaveta liy honeniy vshema' tefilatiy.",
     "translation": "Ó meu Deus, a quem invoquei, responde-me; Deus da minha justiça, no angustiar-te ampliaste para mim. Tende piedade de mim e ouvi a minha oração."
   },
   {
     "verse": 3,
-    "original": "בְּנֵ֥י אִ֡ישׁ עַד־מֶ֬ה כְבוֹדִ֣י לִ֭כְלִמָּה תֶּאֱהָב֣וּן רִ֑יק תְּבַקְשׁ֖וּ כָזָ֣ב סֶֽלָה׃",
+    "original": "<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H376\">אִ֡ישׁ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4100\">מֶ֬ה</span> <span data-strong=\"H2967\">כְבוֹדִ֣י</span> <span data-strong=\"H3639\">לִ֭כְלִמָּה</span> <span data-strong=\"H4993\">תֶּאֱהָב֣וּן</span> <span data-strong=\"H7385\">רִ֑יק</span> <span data-strong=\"H1245\">תְּבַקְשׁ֖וּ</span> <span data-strong=\"H3577\">כָזָ֣ב</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "veney 'iysh 'ad-meh khevvodiy likhelimah te'ehavvn riyk tevakeshv khazav selah.",
     "translation": "Filhos do homem, até quando o meu Glory será por escárnio? Amareis vaidade e busca fareis mentira selá.\n\nNota: O termo \"Glory\" foi mantido em inglês pois a tradução direta para glória em português não captura toda a profundidade teológica do original hebraico \"כְבוֹדִי\". Entretanto, se preferir uma versão mais fluida em português, a sugestão seria:\n\nFilhos do homem, até quando o meu louvor será por escárnio? Amareis vaidade e busca fareis mentira selá."
   },
   {
     "verse": 4,
-    "original": "וּדְע֗וּ כִּֽי־הִפְלָ֣ה יְ֭הֹוָה חָסִ֣יד ל֑וֹ יְהֹוָ֥ה יִ֝שְׁמַ֗ע בְּקׇרְאִ֥י אֵלָֽיו׃",
+    "original": "<span data-strong=\"H3045\">וּדְע֗וּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6395\">הִפְלָ֣ה</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H2623\">חָסִ֣יד</span> <span data-strong=\"H2050\">ל֑וֹ</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H8085\">יִ֝שְׁמַ֗ע</span> <span data-strong=\"H5204\">בְּקׇרְאִ֥י</span> <span data-strong=\"H2050\">אֵלָֽיו׃</span>",
     "transliteration": "vde'v khiy-hifelah yehovah hasiyd lvo yehovah yishema' vekore'iy 'elayv.",
     "translation": "E conhecei que o Senhor separa seu piedoso; o Senhor ouve quando a ele clamamos."
   },
   {
     "verse": 5,
-    "original": "רִגְז֗וּ וְֽאַל־תֶּ֫חֱטָ֥אוּ אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ סֶֽלָה׃",
+    "original": "<span data-strong=\"H7264\">רִגְז֗וּ</span> <span data-strong=\"H408\">וְֽאַל</span>־<span data-strong=\"H2398\">תֶּ֫חֱטָ֥אוּ</span> <span data-strong=\"H559\">אִמְר֣וּ</span> <span data-strong=\"H3641\">בִ֭לְבַבְכֶם</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H3641\">מִשְׁכַּבְכֶ֗ם</span> <span data-strong=\"H1826\">וְדֹ֣מּוּ</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "rigezv ve'al-teheta'v 'imerv vilevavekhem 'al-mishekhavekhem vedomv selah.",
     "translation": "Irritai-vos e não pequeis; ponderai em vossos corações sobre os vossos leitos, e calareis-vos, selá."
   },
   {
     "verse": 6,
-    "original": "זִבְח֥וּ זִבְחֵי־צֶ֑דֶק וּ֝בִטְח֗וּ אֶל־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H2076\">זִבְח֥וּ</span> <span data-strong=\"H2077\">זִבְחֵי</span>־<span data-strong=\"H6664\">צֶ֑דֶק</span> <span data-strong=\"H982\">וּ֝בִטְח֗וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "zivehv zivehey-tsedek vvitehv 'el-yehovah.",
     "translation": "Sacrificai sacrifícios de justiça e confiai no Senhor."
   },
   {
     "verse": 7,
-    "original": "רַבִּ֥ים אֹמְרִים֮ מִֽי־יַרְאֵ֢נ֫וּ ט֥וֹב נְֽסָה־עָ֭לֵינוּ א֨וֹר פָּנֶ֬יךָ יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H7227\">רַבִּ֥ים</span> <span data-strong=\"H559\">אֹמְרִים֮</span> <span data-strong=\"H4310\">מִֽי</span>־<span data-strong=\"H5105\">יַרְאֵ֢נ֫וּ</span> <span data-strong=\"H2896\">ט֥וֹב</span> <span data-strong=\"H1886\">נְֽסָה</span>־<span data-strong=\"H5105\">עָ֭לֵינוּ</span> <span data-strong=\"H216\">א֨וֹר</span> <span data-strong=\"H3509\">פָּנֶ֬יךָ</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "raviym 'omeriym miy-yare'env tvov nesah-'aleynv 'vor faneykha yehovah.",
     "translation": "Muitos dizem: quem nos mostrará o bem? Que sobre nós resplandeça a luz de tua face, Senhor."
   },
   {
     "verse": 8,
-    "original": "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִירוֹשָׁ֣ם רָֽבּוּ׃",
+    "original": "<span data-strong=\"H5414\">נָתַ֣תָּה</span> <span data-strong=\"H8057\">שִׂמְחָ֣ה</span> <span data-strong=\"H2967\">בְלִבִּ֑י</span> <span data-strong=\"H6256\">מֵעֵ֬ת</span> <span data-strong=\"H3963\">דְּגָנָ֖ם</span> <span data-strong=\"H3963\">וְתִירוֹשָׁ֣ם</span> <span data-strong=\"H7231\">רָֽבּוּ׃</span>",
     "transliteration": "natatah simehah veliviy me'et deganam vetiyrvosham ravv.",
     "translation": "Dás alegria ao meu coração, desde o tempo em que abunda seu trigo e vinho."
   },

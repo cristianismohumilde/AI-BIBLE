@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "שַׂ֣ר הַצָּבָ֤א הַשְּׁלִישִׁי֙ לַחֹ֣דֶשׁ הַשְּׁלִישִׁ֔י בְּנָיָ֧הוּ בֶן־יְהוֹיָדָ֛ע הַכֹּהֵ֖ן רֹ֑אשׁ וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃",
+    "original": "<span data-strong=\"H8269\">שַׂ֣ר</span> <span data-strong=\"H6635\">הַצָּבָ֤א</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁי֙</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֔י</span> <span data-strong=\"H1141\">בְּנָיָ֧הוּ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H3077\">יְהוֹיָדָ֛ע</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H7218\">רֹ֑אשׁ</span> <span data-strong=\"H5921\">וְעַל֙</span> <span data-strong=\"H2050\">מַחֲלֻקְתּ֔וֹ</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H702\">וְאַרְבָּעָ֖ה</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "sar hatsava' hasheliyshiy lahodesh hasheliyshiy venayahv ven-yehvoyada' hakhohen ro'sh ve'al mahaluketvo 'eseriym ve'areva'ah 'alef.",
     "translation": "O terceiro capitão do mês, no terceiro mês, era Benaiah, filho de Joiada o sacerdote, e sobre sua divisão havia vinte e quatro mil."
   },
@@ -37,7 +37,7 @@
   },
   {
     "verse": 7,
-    "original": "הָרְבִיעִ֞י לַחֹ֣דֶשׁ הָרְבִיעִ֗י עֲשָׂהאֵל֙ אֲחִ֣י יוֹאָ֔ב וּזְבַדְיָ֥ה בְנ֖וֹ אַחֲרָ֑יו וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H7243\">הָרְבִיעִ֞י</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H7243\">הָרְבִיעִ֗י</span> <span data-strong=\"H6214\">עֲשָׂהאֵל֙</span> <span data-strong=\"H6214\">אֲחִ֣י</span> <span data-strong=\"H251\">יוֹאָ֔ב</span> <span data-strong=\"H3097\">וּזְבַדְיָ֥ה</span> <span data-strong=\"H2069\">בְנ֖וֹ</span> <span data-strong=\"H2050\">אַחֲרָ֑יו</span> <span data-strong=\"H2050\">וְעַל֙</span> <span data-strong=\"H5921\">מַחֲלֻקְתּ֔וֹ</span> <span data-strong=\"H2050\">עֶשְׂרִ֥ים</span> <span data-strong=\"H6242\">וְאַרְבָּעָ֖ה</span> <span data-strong=\"H702\">אָֽלֶף׃&nbsp;<span</span> <span data-strong=\"H505\">class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "hareviy'iy lahodesh hareviy'iy 'asah'el 'ahiy yvo'av vzevadeyah venvo 'aharayv ve'al mahaluketvo 'eseriym ve'areva'ah 'alef.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "No quarto mês, no quartanário, Asael, irmão de Joabe, fez [a contagem], e Zebadias seu filho depois dele; e da sua divisão foram dois mil e quarenta."
   },
@@ -127,13 +127,13 @@
   },
   {
     "verse": 22,
-    "original": "לְדָ֕ן עֲזַרְאֵ֖ל בֶּן־יְרֹחָ֑ם אֵ֕לֶּה שָׂרֵ֖י שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H1835\">לְדָ֕ן</span> <span data-strong=\"H5832\">עֲזַרְאֵ֖ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3395\">יְרֹחָ֑ם</span> <span data-strong=\"H428\">אֵ֕לֶּה</span> <span data-strong=\"H8269\">שָׂרֵ֖י</span> <span data-strong=\"H7626\">שִׁבְטֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "ledan 'azare'el ven-yeroham 'eleh sarey shivetey yisera'el.",
     "translation": "Para Dan, Azaréel, filho de Yeroham; estes são os príncipes das tribos de Israel."
   },
   {
     "verse": 23,
-    "original": "וְלֹֽא־נָשָׂ֤א דָוִיד֙ מִסְפָּרָ֔ם לְמִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וּלְמָ֑טָּה כִּ֚י אָמַ֣ר יְהֹוָ֔ה לְהַרְבּ֥וֹת אֶת־יִשְׂרָאֵ֖ל כְּכוֹכְבֵ֥י הַשָּׁמָֽיִם׃",
+    "original": "<span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H5375\">נָשָׂ֤א</span> <span data-strong=\"H1732\">דָוִיד֙</span> <span data-strong=\"H3963\">מִסְפָּרָ֔ם</span> <span data-strong=\"H1121\">לְמִבֶּ֛ן</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H8141\">שָׁנָ֖ה</span> <span data-strong=\"H4295\">וּלְמָ֑טָּה</span> <span data-strong=\"H3588\">כִּ֚י</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H7235\">לְהַרְבּ֥וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3556\">כְּכוֹכְבֵ֥י</span> <span data-strong=\"H8064\">הַשָּׁמָֽיִם׃</span>",
     "transliteration": "velo'-nasa' daviyd misefaram lemiven 'eseriym shanah vlematah khiy 'amar yehovah leharevvot 'et-yisera'el khekhvokhevey hashamayim.",
     "translation": "E Davi não fez o censo deles desde o filho de vinte anos para baixo, pois o Senhor havia dito que multiplicaria a Israel como as estrelas dos céus."
   },

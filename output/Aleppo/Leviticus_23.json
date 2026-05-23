@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהֹוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֞ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H559\">וְאָמַרְתָּ֣</span> <span data-strong=\"H3963\">אֲלֵהֶ֔ם</span> <span data-strong=\"H4150\">מוֹעֲדֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7121\">תִּקְרְא֥וּ</span> <span data-strong=\"H3963\">אֹתָ֖ם</span> <span data-strong=\"H4744\">מִקְרָאֵ֣י</span> <span data-strong=\"H6944\">קֹ֑דֶשׁ</span> <span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1992\">הֵ֖ם</span> <span data-strong=\"H2967\">מוֹעֲדָֽי׃</span>",
     "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem mvo'adey yehovah 'asher-tikere'v 'otam mikera'ey kodesh 'eleh hem mvo'aday.",
     "translation": "Fala aos filhos de Israel e diga-lhes: As festividades do Senhor, que proclamareis como convocação santa, estas são as minhas festividades."
   },
@@ -19,25 +19,25 @@
   },
   {
     "verse": 4,
-    "original": "אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה מִקְרָאֵ֖י קֹ֑דֶשׁ אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם בְּמוֹעֲדָֽם׃",
+    "original": "<span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H4150\">מוֹעֲדֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H4744\">מִקְרָאֵ֖י</span> <span data-strong=\"H6944\">קֹ֑דֶשׁ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7121\">תִּקְרְא֥וּ</span> <span data-strong=\"H3963\">אֹתָ֖ם</span> <span data-strong=\"H3963\">בְּמוֹעֲדָֽם׃</span>",
     "transliteration": "'eleh mvo'adey yehovah mikera'ey kodesh 'asher-tikere'v 'otam vemvo'adam.",
     "translation": "Estas são as festividades do Senhor, santos convocatórios; estes deveis proclamar no tempo devido."
   },
   {
     "verse": 5,
-    "original": "בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H2320\">בַּחֹ֣דֶשׁ</span> <span data-strong=\"H7223\">הָרִאשׁ֗וֹן</span> <span data-strong=\"H702\">בְּאַרְבָּעָ֥ה</span> <span data-strong=\"H6240\">עָשָׂ֛ר</span> <span data-strong=\"H2320\">לַחֹ֖דֶשׁ</span> <span data-strong=\"H996\">בֵּ֣ין</span> <span data-strong=\"H6153\">הָעַרְבָּ֑יִם</span> <span data-strong=\"H6453\">פֶּ֖סַח</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "vahodesh hari'shvon ve'areva'ah 'asar lahodesh veyn ha'arevayim fesah layhovah.",
     "translation": "No mês primeiro, à quatorze dele, entre os dois crepúsculos, é a Páscoa do Senhor."
   },
   {
     "verse": 6,
-    "original": "וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהֹוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃",
+    "original": "<span data-strong=\"H2568\">וּבַחֲמִשָּׁ֨ה</span> <span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H3117\">יוֹם֙</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H2282\">חַ֥ג</span> <span data-strong=\"H4682\">הַמַּצּ֖וֹת</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H4682\">מַצּ֥וֹת</span> <span data-strong=\"H398\">תֹּאכֵֽלוּ׃</span>",
     "transliteration": "vvahamishah 'asar yvom lahodesh hazeh hag hamatsvot layhovah shive'at yamiym matsvot to'khelv.",
     "translation": "E no quinze do mês deste, fareis a festa dos Pães Azeitados ao Senhor; sete dias comereis pães azeitados."
   },
   {
     "verse": 7,
-    "original": "בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃",
+    "original": "<span data-strong=\"H3117\">בַּיּוֹם֙</span> <span data-strong=\"H7223\">הָֽרִאשׁ֔וֹן</span> <span data-strong=\"H4744\">מִקְרָא</span>־<span data-strong=\"H6944\">קֹ֖דֶשׁ</span> <span data-strong=\"H1961\">יִהְיֶ֣ה</span> <span data-strong=\"H3641\">לָכֶ֑ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלֶ֥אכֶת</span> <span data-strong=\"H5656\">עֲבֹדָ֖ה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H6213\">תַעֲשֽׂוּ׃</span>",
     "transliteration": "vayvom hari'shvon mikera'-kodesh yiheyeh lakhem khol-mele'khet 'avodah lo' ta'asv.",
     "translation": "No primeiro dia será um convocação santa para vocês; toda obra servil não farão."
   },
@@ -49,31 +49,31 @@
   },
   {
     "verse": 9,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 10,
-    "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־הַכֹּהֵֽן׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֞ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H559\">וְאָמַרְתָּ֣</span> <span data-strong=\"H3963\">אֲלֵהֶ֔ם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H935\">תָבֹ֣אוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">הָאָ֗רֶץ</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H589\">אֲנִי֙</span> <span data-strong=\"H5414\">נֹתֵ֣ן</span> <span data-strong=\"H3641\">לָכֶ֔ם</span> <span data-strong=\"H7114\">וּקְצַרְתֶּ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">קְצִירָ֑הּ</span> <span data-strong=\"H935\">וַהֲבֵאתֶ֥ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6016\">עֹ֛מֶר</span> <span data-strong=\"H7225\">רֵאשִׁ֥ית</span> <span data-strong=\"H3641\">קְצִירְכֶ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3548\">הַכֹּהֵֽן׃</span>",
     "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem khiy-tavo'v 'el-ha'arets 'asher 'aniy noten lakhem vketsaretem 'et-ketsiyrah vahave'tem 'et-'omer re'shiyt ketsiyrekhem 'el-hakhohen.",
     "translation": "Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra que vos dou, e ceifardes sua colheita, trareis ao sacerdote um omer do primeiro da vossa sega."
   },
   {
     "verse": 11,
-    "original": "וְהֵנִ֧יף אֶת־הָעֹ֛מֶר לִפְנֵ֥י יְהֹוָ֖ה לִֽרְצֹנְכֶ֑ם מִֽמׇּחֳרַת֙ הַשַּׁבָּ֔ת יְנִיפֶ֖נּוּ הַכֹּהֵֽן׃",
+    "original": "<span data-strong=\"H5130\">וְהֵנִ֧יף</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6016\">הָעֹ֛מֶר</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3641\">לִֽרְצֹנְכֶ֑ם</span> <span data-strong=\"H4283\">מִֽמׇּחֳרַת֙</span> <span data-strong=\"H7676\">הַשַּׁבָּ֔ת</span> <span data-strong=\"H5105\">יְנִיפֶ֖נּוּ</span> <span data-strong=\"H3548\">הַכֹּהֵֽן׃</span>",
     "transliteration": "veheniyf 'et-ha'omer lifeney yehovah liretsonekhem mimohorat hashavat yeniyfenv hakhohen.",
     "translation": "E ele o oferecerá por diante do Senhor para vosso agrado; no dia seguinte ao sábado, o sacerdote o oferecerá."
   },
   {
     "verse": 12,
-    "original": "וַעֲשִׂיתֶ֕ם בְּי֥וֹם הֲנִֽיפְכֶ֖ם אֶת־הָעֹ֑מֶר כֶּ֣בֶשׂ תָּמִ֧ים בֶּן־שְׁנָת֛וֹ לְעֹלָ֖ה לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H6213\">וַעֲשִׂיתֶ֕ם</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H3641\">הֲנִֽיפְכֶ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6016\">הָעֹ֑מֶר</span> <span data-strong=\"H3532\">כֶּ֣בֶשׂ</span> <span data-strong=\"H8549\">תָּמִ֧ים</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2050\">שְׁנָת֛וֹ</span> <span data-strong=\"H5930\">לְעֹלָ֖ה</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "va'asiytem veyvom haniyfekhem 'et-ha'omer kheves tamiym ven-shenatvo le'olah layhovah.",
     "translation": "E fareis no dia em que oferecerdes o omer, um cordeiro perfeito de um ano em holocausto ao Senhor."
   },
   {
     "verse": 13,
-    "original": "וּמִנְחָתוֹ֩ שְׁנֵ֨י עֶשְׂרֹנִ֜ים סֹ֣לֶת בְּלוּלָ֥ה בַשֶּׁ֛מֶן אִשֶּׁ֥ה לַיהֹוָ֖ה רֵ֣יחַ נִיחֹ֑חַ וְנִסְכֹּ֥ה יַ֖יִן רְבִיעִ֥ת הַהִֽין׃",
+    "original": "<span data-strong=\"H2050\">וּמִנְחָתוֹ֩</span> <span data-strong=\"H8147\">שְׁנֵ֨י</span> <span data-strong=\"H6241\">עֶשְׂרֹנִ֜ים</span> <span data-strong=\"H5560\">סֹ֣לֶת</span> <span data-strong=\"H1101\">בְּלוּלָ֥ה</span> <span data-strong=\"H8081\">בַשֶּׁ֛מֶן</span> <span data-strong=\"H801\">אִשֶּׁ֥ה</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H7381\">רֵ֣יחַ</span> <span data-strong=\"H5207\">נִיחֹ֑חַ</span> <span data-strong=\"H2050\">וְנִסְכֹּ֥ה</span> <span data-strong=\"H3196\">יַ֖יִן</span> <span data-strong=\"H7243\">רְבִיעִ֥ת</span> <span data-strong=\"H1969\">הַהִֽין׃</span>",
     "transliteration": "vminehatvo sheney 'eseroniym solet velvlah vashemen 'isheh layhovah reyha niyhoha venisekhoh yayin reviy'it hahiyn.",
     "translation": "E a sua oferta de cereal será dois decêndios de farinha temperada com azeite, queimada como oferenda ao Senhor, aroma agradável; e a sua libação será um quarto de hin de vinho."
   },
@@ -85,31 +85,31 @@
   },
   {
     "verse": 15,
-    "original": "וּסְפַרְתֶּ֤ם לָכֶם֙ מִמׇּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃",
+    "original": "<span data-strong=\"H5608\">וּסְפַרְתֶּ֤ם</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H4283\">מִמׇּחֳרַ֣ת</span> <span data-strong=\"H7676\">הַשַּׁבָּ֔ת</span> <span data-strong=\"H3117\">מִיּוֹם֙</span> <span data-strong=\"H3641\">הֲבִ֣יאֲכֶ֔ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6016\">עֹ֖מֶר</span> <span data-strong=\"H8573\">הַתְּנוּפָ֑ה</span> <span data-strong=\"H7651\">שֶׁ֥בַע</span> <span data-strong=\"H7676\">שַׁבָּת֖וֹת</span> <span data-strong=\"H8549\">תְּמִימֹ֥ת</span> <span data-strong=\"H1961\">תִּהְיֶֽינָה׃</span>",
     "transliteration": "vsefaretem lakhem mimohorat hashavat miyvom haviy'akhem 'et-'omer hatenvfah sheva' shavatvot temiymot tiheyeynah.",
     "translation": "E contareis para vós, a partir do dia seguinte ao sábado, desde o dia em que trouxerdes o omer da oferta wave; sete sábados completos haverão de ser."
   },
   {
     "verse": 16,
-    "original": "עַ֣ד מִֽמׇּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H5704\">עַ֣ד</span> <span data-strong=\"H4283\">מִֽמׇּחֳרַ֤ת</span> <span data-strong=\"H7676\">הַשַּׁבָּת֙</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔ת</span> <span data-strong=\"H5608\">תִּסְפְּר֖וּ</span> <span data-strong=\"H2572\">חֲמִשִּׁ֣ים</span> <span data-strong=\"H3117\">י֑וֹם</span> <span data-strong=\"H7126\">וְהִקְרַבְתֶּ֛ם</span> <span data-strong=\"H4503\">מִנְחָ֥ה</span> <span data-strong=\"H2319\">חֲדָשָׁ֖ה</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "'ad mimohorat hashavat hasheviy'it tiseferv hamishiym yvom vehikeravetem minehah hadashah layhovah.",
     "translation": "Até o dia seguinte à sétima sabatana, contareis cinquenta dias e oferecereis uma oferta nova ao Senhor."
   },
   {
     "verse": 17,
-    "original": "מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ&thinsp;<b>׀</b> לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H3641\">מִמּוֹשְׁבֹ֨תֵיכֶ֜ם</span> <span data-strong=\"H935\">תָּבִ֣יאּוּ&thinsp;<b>׀</b></span> <span data-strong=\"H3899\">לֶ֣חֶם</span> <span data-strong=\"H8573\">תְּנוּפָ֗ה</span> <span data-strong=\"H8147\">שְׁ֚תַּיִם</span> <span data-strong=\"H8147\">שְׁנֵ֣י</span> <span data-strong=\"H6241\">עֶשְׂרֹנִ֔ים</span> <span data-strong=\"H5560\">סֹ֣לֶת</span> <span data-strong=\"H1961\">תִּהְיֶ֔ינָה</span> <span data-strong=\"H2557\">חָמֵ֖ץ</span> <span data-strong=\"H644\">תֵּאָפֶ֑ינָה</span> <span data-strong=\"H1061\">בִּכּוּרִ֖ים</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "mimvoshevoteykhem taviy'v&thinsp;<b>|</b> lehem tenvfah shetayim sheney 'eseroniym solet tiheyeynah hamets te'afeynah vikhvriym layhovah.",
     "translation": "Das vossas moradas trareis o pão da oferenda wave; dois deles, cada um de um efa de farinha; serão pães fermentados, como primícias ao Senhor.\n\nNota: A expressão \"pão da oferenda wave\" foi mantida tal qual, embora tecnicamente seja uma tradução livre que busca preservar o termo técnico usado no texto original hebraico. Em traduções mais rigorosas, poderia ser necessário ajustá-la para algo como \"pão da oferta de elevação\", mas isso depende do contexto e das diretrizes específicas para a tradução litúrgica ou acadêmica."
   },
   {
     "verse": 18,
-    "original": "וְהִקְרַבְתֶּ֣ם עַל־הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H7126\">וְהִקְרַבְתֶּ֣ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3899\">הַלֶּ֗חֶם</span> <span data-strong=\"H7651\">שִׁבְעַ֨ת</span> <span data-strong=\"H3532\">כְּבָשִׂ֤ים</span> <span data-strong=\"H8549\">תְּמִימִם֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H6499\">וּפַ֧ר</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1241\">בָּקָ֛ר</span> <span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H352\">וְאֵילִ֣ם</span> <span data-strong=\"H8147\">שְׁנָ֑יִם</span> <span data-strong=\"H1961\">יִהְי֤וּ</span> <span data-strong=\"H5930\">עֹלָה֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H3963\">וּמִנְחָתָם֙</span> <span data-strong=\"H3963\">וְנִסְכֵּיהֶ֔ם</span> <span data-strong=\"H801\">אִשֵּׁ֥ה</span> <span data-strong=\"H7381\">רֵֽיחַ</span>־<span data-strong=\"H5207\">נִיחֹ֖חַ</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "vehikeravetem 'al-halehem shive'at khevasiym temiymim veney shanah vfar ven-vakar 'ehad ve'eylim shenayim yiheyv 'olah layhovah vminehatam venisekheyhem 'isheh reyha-niyhoha layhovah.",
     "translation": "E oferecereis com o pão sete cordeiros perfeitos, filhos de um ano, e um novilho e dois carneiros como holocausto ao Senhor; e suas ofertas de cereal e seus libamentos, uma oferta queimada por aroma agradável ao Senhor."
   },
   {
     "verse": 19,
-    "original": "וַעֲשִׂיתֶ֛ם שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃",
+    "original": "<span data-strong=\"H6213\">וַעֲשִׂיתֶ֛ם</span> <span data-strong=\"H8163\">שְׂעִיר</span>־<span data-strong=\"H5795\">עִזִּ֥ים</span> <span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H2403\">לְחַטָּ֑את</span> <span data-strong=\"H8147\">וּשְׁנֵ֧י</span> <span data-strong=\"H3532\">כְבָשִׂ֛ים</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H8141\">שָׁנָ֖ה</span> <span data-strong=\"H2077\">לְזֶ֥בַח</span> <span data-strong=\"H8002\">שְׁלָמִֽים׃</span>",
     "transliteration": "va'asiytem se'iyr-'iziym 'ehad lehata't vsheney khevasiym veney shanah lezevah shelamiym.",
     "translation": "E fazei um bode para expiação, e dois cordeiros de um ano para sacrifício pacífico."
   },
@@ -121,7 +121,7 @@
   },
   {
     "verse": 21,
-    "original": "וּקְרָאתֶ֞ם בְּעֶ֣צֶם&thinsp;<b>׀</b> הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃",
+    "original": "<span data-strong=\"H7121\">וּקְרָאתֶ֞ם</span> <span data-strong=\"H6106\">בְּעֶ֣צֶם&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֗ה</span> <span data-strong=\"H4744\">מִֽקְרָא</span>־<span data-strong=\"H6944\">קֹ֙דֶשׁ֙</span> <span data-strong=\"H1961\">יִהְיֶ֣ה</span> <span data-strong=\"H3641\">לָכֶ֔ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלֶ֥אכֶת</span> <span data-strong=\"H5656\">עֲבֹדָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6213\">תַעֲשׂ֑וּ</span> <span data-strong=\"H2708\">חֻקַּ֥ת</span> <span data-strong=\"H5769\">עוֹלָ֛ם</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3641\">מוֹשְׁבֹ֥תֵיכֶ֖ם</span> <span data-strong=\"H3641\">לְדֹרֹֽתֵיכֶֽם׃</span>",
     "transliteration": "vkera'tem ve'etsem&thinsp;<b>|</b> hayvom hazeh mikera'-kodesh yiheyeh lakhem khol-mele'khet 'avodah lo' ta'asv hukat 'volam vekhol-mvoshevoteykhem ledoroteykhem.",
     "translation": "E proclamareis neste mesmo dia uma convocação santa será para vós; toda obra servil não fareis; estatuto eterno em todas as vossas habitações, por vossas gerações."
   },
@@ -133,13 +133,13 @@
   },
   {
     "verse": 23,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 24,
-    "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־קֹֽדֶשׁ׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֛ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H2320\">בַּחֹ֨דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֜י</span> <span data-strong=\"H259\">בְּאֶחָ֣ד</span> <span data-strong=\"H2320\">לַחֹ֗דֶשׁ</span> <span data-strong=\"H1961\">יִהְיֶ֤ה</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H7677\">שַׁבָּת֔וֹן</span> <span data-strong=\"H2146\">זִכְר֥וֹן</span> <span data-strong=\"H8643\">תְּרוּעָ֖ה</span> <span data-strong=\"H4744\">מִקְרָא</span>־<span data-strong=\"H6944\">קֹֽדֶשׁ׃</span>",
     "transliteration": "daver 'el-veney yisera'el le'mor vahodesh hasheviy'iy ve'ehad lahodesh yiheyeh lakhem shavatvon zikhervon terv'ah mikera'-kodesh.",
     "translation": "Fala aos filhos de Israel, dizendo: No sétimo mês, no primeiro do mês, será para vós um descanso santo, memória de toques de trombeta, convocação santa."
   },
@@ -151,37 +151,37 @@
   },
   {
     "verse": 26,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 27,
-    "original": "אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H389\">אַ֡ךְ</span> <span data-strong=\"H6218\">בֶּעָשׂ֣וֹר</span> <span data-strong=\"H2320\">לַחֹ֩דֶשׁ֩</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֨י</span> <span data-strong=\"H2088\">הַזֶּ֜ה</span> <span data-strong=\"H3117\">י֧וֹם</span> <span data-strong=\"H3725\">הַכִּפֻּרִ֣ים</span> <span data-strong=\"H1931\">ה֗וּא</span> <span data-strong=\"H4744\">מִֽקְרָא</span>־<span data-strong=\"H6944\">קֹ֙דֶשׁ֙</span> <span data-strong=\"H1961\">יִהְיֶ֣ה</span> <span data-strong=\"H3641\">לָכֶ֔ם</span> <span data-strong=\"H6031\">וְעִנִּיתֶ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3641\">נַפְשֹׁתֵיכֶ֑ם</span> <span data-strong=\"H7126\">וְהִקְרַבְתֶּ֥ם</span> <span data-strong=\"H801\">אִשֶּׁ֖ה</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "'akhe ve'asvor lahodesh hasheviy'iy hazeh yvom hakhifuriym hv' mikera'-kodesh yiheyeh lakhem ve'iniytem 'et-nafeshoteykhem vehikeravetem 'isheh layhovah.",
     "translation": "Contudo, no décimo dia do sétimo mês será o Dia da Expiação; será convocação santa para vós, e jejuareis as vossas almas; oferecereis queima oferta ao Senhor."
   },
   {
     "verse": 28,
-    "original": "וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H4399\">מְלָאכָה֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6213\">תַעֲשׂ֔וּ</span> <span data-strong=\"H6106\">בְּעֶ֖צֶם</span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3117\">י֤וֹם</span> <span data-strong=\"H3725\">כִּפֻּרִים֙</span> <span data-strong=\"H1931\">ה֔וּא</span> <span data-strong=\"H3722\">לְכַפֵּ֣ר</span> <span data-strong=\"H3641\">עֲלֵיכֶ֔ם</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶֽם׃</span>",
     "transliteration": "vekhol-mela'khah lo' ta'asv ve'etsem hayvom hazeh khiy yvom khifuriym hv' lekhafer 'aleykhem lifeney yehovah 'eloheykhem.",
     "translation": "E toda obra não fareis neste dia, pois é dia de expiação, para fazer expiação por vós perante o Senhor vosso Deus."
   },
   {
     "verse": 29,
-    "original": "כִּ֤י כׇל־הַנֶּ֙פֶשׁ֙ אֲשֶׁ֣ר לֹֽא־תְעֻנֶּ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְנִכְרְתָ֖ה מֵֽעַמֶּֽיהָ׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5315\">הַנֶּ֙פֶשׁ֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H6031\">תְעֻנֶּ֔ה</span> <span data-strong=\"H6106\">בְּעֶ֖צֶם</span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H3772\">וְנִכְרְתָ֖ה</span> <span data-strong=\"H1886\">מֵֽעַמֶּֽיהָ׃</span>",
     "transliteration": "khiy khol-hanefesh 'asher lo'-te'uneh ve'etsem hayvom hazeh venikheretah me'ameyha.",
     "translation": "Pois toda alma que não for circuncidada no dia deste mandamento será cortada do seu povo."
   },
   {
     "verse": 30,
-    "original": "וְכׇל־הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כׇּל־מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H5315\">הַנֶּ֗פֶשׁ</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H6213\">תַּעֲשֶׂה֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלָאכָ֔ה</span> <span data-strong=\"H6106\">בְּעֶ֖צֶם</span> <span data-strong=\"H3117\">הַיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H6\">וְהַֽאֲבַדְתִּ֛י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5315\">הַנֶּ֥פֶשׁ</span> <span data-strong=\"H1931\">הַהִ֖וא</span> <span data-strong=\"H7130\">מִקֶּ֥רֶב</span> <span data-strong=\"H1886\">עַמָּֽהּ׃</span>",
     "transliteration": "vekhol-hanefesh 'asher ta'aseh khol-mela'khah ve'etsem hayvom hazeh veha'avadetiy 'et-hanefesh hahiv' mikerev 'amah.",
     "translation": "E toda a alma que fizer qualquer obra, nesse mesmo dia, eu destruirei aquela alma do meio do seu povo."
   },
   {
     "verse": 31,
-    "original": "כׇּל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלָאכָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6213\">תַעֲשׂ֑וּ</span> <span data-strong=\"H2708\">חֻקַּ֤ת</span> <span data-strong=\"H5769\">עוֹלָם֙</span> <span data-strong=\"H3641\">לְדֹרֹ֣תֵיכֶ֔ם</span> <span data-strong=\"H3605\">בְּכֹ֖ל</span> <span data-strong=\"H3641\">מֹשְׁבֹֽתֵיכֶֽם׃</span>",
     "transliteration": "khol-mela'khah lo' ta'asv hukat 'volam ledoroteykhem vekhol moshevoteykhem.",
     "translation": "Nenhuma obra fareis, estatuto eterno para as vossas gerações, em todos os vossos assentamentos."
   },
@@ -193,67 +193,67 @@
   },
   {
     "verse": 33,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 34,
-    "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֲמִשָּׁ֨ה עָשָׂ֜ר י֗וֹם לַחֹ֤דֶשׁ הַשְּׁבִיעִי֙ הַזֶּ֔ה חַ֧ג הַסֻּכּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּ֛ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H2568\">בַּחֲמִשָּׁ֨ה</span> <span data-strong=\"H6240\">עָשָׂ֜ר</span> <span data-strong=\"H3117\">י֗וֹם</span> <span data-strong=\"H2320\">לַחֹ֤דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִי֙</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H2282\">חַ֧ג</span> <span data-strong=\"H5521\">הַסֻּכּ֛וֹת</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "daver 'el-veney yisera'el le'mor vahamishah 'asar yvom lahodesh hasheviy'iy hazeh hag hasukhvot shive'at yamiym layhovah.",
     "translation": "Fala aos filhos de Israel, dizendo: No quinze do mês sétimo será a festa das Cabanas ao Senhor, sete dias."
   },
   {
     "verse": 35,
-    "original": "בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃",
+    "original": "<span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H7223\">הָרִאשׁ֖וֹן</span> <span data-strong=\"H4744\">מִקְרָא</span>־<span data-strong=\"H6944\">קֹ֑דֶשׁ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלֶ֥אכֶת</span> <span data-strong=\"H5656\">עֲבֹדָ֖ה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H6213\">תַעֲשֽׂוּ׃</span>",
     "transliteration": "vayvom hari'shvon mikera'-kodesh khol-mele'khet 'avodah lo' ta'asv.",
     "translation": "No primeiro dia, convocação sagrada; toda obra de serviço não fareis."
   },
   {
     "verse": 36,
-    "original": "שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהֹוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־קֹ֩דֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהֹוָה֙ עֲצֶ֣רֶת הִ֔וא כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃",
+    "original": "<span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֔ים</span> <span data-strong=\"H7126\">תַּקְרִ֥יבוּ</span> <span data-strong=\"H801\">אִשֶּׁ֖ה</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֡י</span> <span data-strong=\"H4744\">מִקְרָא</span>־<span data-strong=\"H6944\">קֹ֩דֶשׁ֩</span> <span data-strong=\"H1961\">יִהְיֶ֨ה</span> <span data-strong=\"H3641\">לָכֶ֜ם</span> <span data-strong=\"H7126\">וְהִקְרַבְתֶּ֨ם</span> <span data-strong=\"H801\">אִשֶּׁ֤ה</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H6116\">עֲצֶ֣רֶת</span> <span data-strong=\"H1931\">הִ֔וא</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4399\">מְלֶ֥אכֶת</span> <span data-strong=\"H5656\">עֲבֹדָ֖ה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H6213\">תַעֲשֽׂוּ׃</span>",
     "transliteration": "shive'at yamiym takeriyvv 'isheh layhovah vayvom hashemiyniy mikera'-kodesh yiheyeh lakhem vehikeravetem 'isheh layhovah 'atseret hiv' khol-mele'khet 'avodah lo' ta'asv.",
     "translation": "Sete dias oferecereis queimado ao SENHOR; no dia oitavo, haverá convocação santa para vós, e oferecereis queimado ao SENHOR; é assembleia sagrada; qualquer trabalho servil não fareis."
   },
   {
     "verse": 37,
-    "original": "אֵ֚לֶּה מוֹעֲדֵ֣י יְהֹוָ֔ה אֲשֶׁר־תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃",
+    "original": "<span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H4150\">מוֹעֲדֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7121\">תִּקְרְא֥וּ</span> <span data-strong=\"H3963\">אֹתָ֖ם</span> <span data-strong=\"H4744\">מִקְרָאֵ֣י</span> <span data-strong=\"H6944\">קֹ֑דֶשׁ</span> <span data-strong=\"H7126\">לְהַקְרִ֨יב</span> <span data-strong=\"H801\">אִשֶּׁ֜ה</span> <span data-strong=\"H3068\">לַיהֹוָ֗ה</span> <span data-strong=\"H5930\">עֹלָ֧ה</span> <span data-strong=\"H4503\">וּמִנְחָ֛ה</span> <span data-strong=\"H2077\">זֶ֥בַח</span> <span data-strong=\"H5262\">וּנְסָכִ֖ים</span> <span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H3117\">י֥וֹם</span> <span data-strong=\"H2050\">בְּיוֹמֽוֹ׃</span>",
     "transliteration": "'eleh mvo'adey yehovah 'asher-tikere'v 'otam mikera'ey kodesh lehakeriyv 'isheh layhovah 'olah vminehah zevah vnesakhiym devar-yvom veyvomvo.",
     "translation": "Estes são os encontros do Senhor, que vós chamareis santuários sagrados, para oferecer sacrifício de fumaça ao Senhor, holocausto e oferta, bem como o sacrifício e libação, cada dia em seu tempo."
   },
   {
     "verse": 38,
-    "original": "מִלְּבַ֖ד שַׁבְּתֹ֣ת יְהֹוָ֑ה וּמִלְּבַ֣ד מַתְּנֽוֹתֵיכֶ֗ם וּמִלְּבַ֤ד כׇּל־נִדְרֵיכֶם֙ וּמִלְּבַד֙ כׇּל־נִדְבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר תִּתְּנ֖וּ לַיהֹוָֽה׃",
+    "original": "<span data-strong=\"H905\">מִלְּבַ֖ד</span> <span data-strong=\"H7676\">שַׁבְּתֹ֣ת</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H905\">וּמִלְּבַ֣ד</span> <span data-strong=\"H3641\">מַתְּנֽוֹתֵיכֶ֗ם</span> <span data-strong=\"H905\">וּמִלְּבַ֤ד</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3641\">נִדְרֵיכֶם֙</span> <span data-strong=\"H905\">וּמִלְּבַד֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3641\">נִדְבֹ֣תֵיכֶ֔ם</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5414\">תִּתְּנ֖וּ</span> <span data-strong=\"H3068\">לַיהֹוָֽה׃</span>",
     "transliteration": "milevad shavetot yehovah vmilevad matenvoteykhem vmilevad khol-nidereykhem vmilevad khol-nidevoteykhem 'asher titenv layhovah.",
     "translation": "Além das festas do Senhor, além das vossas ofertas voluntárias, além de todos os votos que fizerdes e além de todas as vossas dádivas que derdes ao Senhor."
   },
   {
     "verse": 39,
-    "original": "אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃",
+    "original": "<span data-strong=\"H389\">אַ֡ךְ</span> <span data-strong=\"H2568\">בַּחֲמִשָּׁה֩</span> <span data-strong=\"H6240\">עָשָׂ֨ר</span> <span data-strong=\"H3117\">י֜וֹם</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֗י</span> <span data-strong=\"H3641\">בְּאׇסְפְּכֶם֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8393\">תְּבוּאַ֣ת</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H2287\">תָּחֹ֥גּוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2282\">חַג</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H3117\">בַּיּ֤וֹם</span> <span data-strong=\"H7223\">הָֽרִאשׁוֹן֙</span> <span data-strong=\"H7677\">שַׁבָּת֔וֹן</span> <span data-strong=\"H3117\">וּבַיּ֥וֹם</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֖י</span> <span data-strong=\"H7677\">שַׁבָּתֽוֹן׃</span>",
     "transliteration": "'akhe vahamishah 'asar yvom lahodesh hasheviy'iy ve'osefekhem 'et-tevv'at ha'arets tahogv 'et-hag-yehovah shive'at yamiym vayvom hari'shvon shavatvon vvayvom hashemiyniy shavatvon.",
     "translation": "Contudo, no quinze do sétimo mês, quando recolherdes a safra da terra, celebrareis o festival do Senhor durante sete dias; no primeiro dia será descanso sagrado e também no oitavo dia será descanso sagrado."
   },
   {
     "verse": 40,
-    "original": "וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃",
+    "original": "<span data-strong=\"H3947\">וּלְקַחְתֶּ֨ם</span> <span data-strong=\"H3641\">לָכֶ֜ם</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H7223\">הָרִאשׁ֗וֹן</span> <span data-strong=\"H6529\">פְּרִ֨י</span> <span data-strong=\"H6086\">עֵ֤ץ</span> <span data-strong=\"H1926\">הָדָר֙</span> <span data-strong=\"H3709\">כַּפֹּ֣ת</span> <span data-strong=\"H8558\">תְּמָרִ֔ים</span> <span data-strong=\"H6057\">וַעֲנַ֥ף</span> <span data-strong=\"H6086\">עֵץ</span>־<span data-strong=\"H5687\">עָבֹ֖ת</span> <span data-strong=\"H6155\">וְעַרְבֵי</span>־<span data-strong=\"H5158\">נָ֑חַל</span> <span data-strong=\"H8055\">וּשְׂמַחְתֶּ֗ם</span> <span data-strong=\"H6440\">לִפְנֵ֛י</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶ֖ם</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִֽים׃</span>",
     "transliteration": "vlekahetem lakhem vayvom hari'shvon feriy 'ets hadar khafot temariym va'anaf 'ets-'avot ve'arevey-nahal vsemahetem lifeney yehovah 'eloheykhem shive'at yamiym.",
     "translation": "E tomareis no primeiro dia frutos do árvore ornado, ramos de palmas, e ramos espessos e salgueiros da ribeira; e alegrar-vos-eis perante o Senhor vosso Deus sete dias.\n\nCorreção:\nE tomareis no primeiro dia frutos do árvore ornado, ramos de palmeiras, e galhos espessos e salgueiros-da-ribeira; e alegrai-vos perante o Senhor vosso Deus sete dias."
   },
   {
     "verse": 41,
-    "original": "וְחַגֹּתֶ֤ם אֹתוֹ֙ חַ֣ג לַֽיהֹוָ֔ה שִׁבְעַ֥ת יָמִ֖ים בַּשָּׁנָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֽוֹ׃",
+    "original": "<span data-strong=\"H2287\">וְחַגֹּתֶ֤ם</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H2282\">חַ֣ג</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H8141\">בַּשָּׁנָ֑ה</span> <span data-strong=\"H2708\">חֻקַּ֤ת</span> <span data-strong=\"H5769\">עוֹלָם֙</span> <span data-strong=\"H3641\">לְדֹרֹ֣תֵיכֶ֔ם</span> <span data-strong=\"H2320\">בַּחֹ֥דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֖י</span> <span data-strong=\"H2287\">תָּחֹ֥גּוּ</span> <span data-strong=\"H2050\">אֹתֽוֹ׃</span>",
     "transliteration": "vehagotem 'otvo hag layhovah shive'at yamiym vashanah hukat 'volam ledoroteykhem vahodesh hasheviy'iy tahogv 'otvo.",
     "translation": "E o guardareis como festa ao Senhor, sete dias no ano; uma estatuição eterna para as vossas gerações; no mês sétimo a celebrareis."
   },
   {
     "verse": 42,
-    "original": "בַּסֻּכֹּ֥ת תֵּשְׁב֖וּ שִׁבְעַ֣ת יָמִ֑ים כׇּל־הָֽאֶזְרָח֙ בְּיִשְׂרָאֵ֔ל יֵשְׁב֖וּ בַּסֻּכֹּֽת׃",
+    "original": "<span data-strong=\"H5521\">בַּסֻּכֹּ֥ת</span> <span data-strong=\"H3427\">תֵּשְׁב֖וּ</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H249\">הָֽאֶזְרָח֙</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֔ל</span> <span data-strong=\"H3427\">יֵשְׁב֖וּ</span> <span data-strong=\"H5521\">בַּסֻּכֹּֽת׃</span>",
     "transliteration": "vasukhot teshevv shive'at yamiym khol-ha'ezerah veyisera'el yeshevv vasukhot.",
     "translation": "Em tendas habitareis sete dias; todo cidadão de Israel habitará em tendas."
   },
   {
     "verse": 43,
-    "original": "לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "original": "<span data-strong=\"H4616\">לְמַ֘עַן֮</span> <span data-strong=\"H3045\">יֵדְע֣וּ</span> <span data-strong=\"H3641\">דֹרֹֽתֵיכֶם֒</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5521\">בַסֻּכּ֗וֹת</span> <span data-strong=\"H3427\">הוֹשַׁ֙בְתִּי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H5204\">בְּהוֹצִיאִ֥י</span> <span data-strong=\"H3963\">אוֹתָ֖ם</span> <span data-strong=\"H776\">מֵאֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרָ֑יִם</span> <span data-strong=\"H589\">אֲנִ֖י</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶֽם׃</span>",
     "transliteration": "lema'an yede'v doroteykhem khiy vasukhvot hvoshavetiy 'et-veney yisera'el vehvotsiy'iy 'votam me'erets mitserayim 'aniy yehovah 'eloheykhem.",
     "translation": "Para que as vossas gerações conheçam que habituei os filhos de Israel em tendas, quando os tirei da terra do Egito; Eu sou o Senhor vosso Deus."
   },

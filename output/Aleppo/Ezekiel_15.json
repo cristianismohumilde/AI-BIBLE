@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2967\">אֵלַ֥י</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E foi a palavra do Senhor para mim, dizendo:"
   },
   {
     "verse": 2,
-    "original": "בֶּן־אָדָ֕ם מַה־יִּהְיֶ֥ה עֵץ־הַגֶּ֖פֶן מִכׇּל־עֵ֑ץ הַזְּמוֹרָ֕ה אֲשֶׁ֥ר הָיָ֖ה בַּעֲצֵ֥י הַיָּֽעַר׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H120\">אָדָ֕ם</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H1961\">יִּהְיֶ֥ה</span> <span data-strong=\"H6086\">עֵץ</span>־<span data-strong=\"H1612\">הַגֶּ֖פֶן</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H6086\">עֵ֑ץ</span> <span data-strong=\"H2156\">הַזְּמוֹרָ֕ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1961\">הָיָ֖ה</span> <span data-strong=\"H6086\">בַּעֲצֵ֥י</span> <span data-strong=\"H3293\">הַיָּֽעַר׃</span>",
     "transliteration": "ven-'adam mah-yiheyeh 'ets-hagefen mikhol-'ets hazemvorah 'asher hayah va'atsey haya'ar.",
     "translation": "Filho do homem, que é o cedro entre todas as árvores da floresta, entre todos os arbustos que crescem lá?"
   },
   {
     "verse": 3,
-    "original": "הֲיֻקַּ֤ח מִמֶּ֙נּוּ֙ עֵ֔ץ לַעֲשׂ֖וֹת לִמְלָאכָ֑ה אִם־יִקְח֤וּ מִמֶּ֙נּוּ֙ יָתֵ֔ד לִתְל֥וֹת עָלָ֖יו כׇּל־כֶּֽלִי׃",
+    "original": "<span data-strong=\"H3947\">הֲיֻקַּ֤ח</span> <span data-strong=\"H5105\">מִמֶּ֙נּוּ֙</span> <span data-strong=\"H6086\">עֵ֔ץ</span> <span data-strong=\"H6213\">לַעֲשׂ֖וֹת</span> <span data-strong=\"H4399\">לִמְלָאכָ֑ה</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3947\">יִקְח֤וּ</span> <span data-strong=\"H5105\">מִמֶּ֙נּוּ֙</span> <span data-strong=\"H3489\">יָתֵ֔ד</span> <span data-strong=\"H8518\">לִתְל֥וֹת</span> <span data-strong=\"H2050\">עָלָ֖יו</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3627\">כֶּֽלִי׃</span>",
     "transliteration": "hayukah mimenv 'ets la'asvot limela'khah 'im-yikehv mimenv yated litelvot 'alayv khol-kheliy.",
     "translation": "Será tomado dele madeira para obra de mãos, ou se dele tirarem prego para cravar nele todo utensílio?"
   },
   {
     "verse": 4,
-    "original": "הִנֵּ֥ה לָאֵ֖שׁ נִתַּ֣ן לְאׇכְלָ֑ה אֵת֩ שְׁנֵ֨י קְצוֹתָ֜יו אָכְלָ֤ה הָאֵשׁ֙ וְתוֹכ֣וֹ נָחָ֔ר הֲיִצְלַ֖ח לִמְלָאכָֽה׃",
+    "original": "<span data-strong=\"H2009\">הִנֵּ֥ה</span> <span data-strong=\"H784\">לָאֵ֖שׁ</span> <span data-strong=\"H5414\">נִתַּ֣ן</span> <span data-strong=\"H402\">לְאׇכְלָ֑ה</span> <span data-strong=\"H853\">אֵת֩</span> <span data-strong=\"H8147\">שְׁנֵ֨י</span> <span data-strong=\"H2050\">קְצוֹתָ֜יו</span> <span data-strong=\"H398\">אָכְלָ֤ה</span> <span data-strong=\"H784\">הָאֵשׁ֙</span> <span data-strong=\"H2050\">וְתוֹכ֣וֹ</span> <span data-strong=\"H2787\">נָחָ֔ר</span> <span data-strong=\"H6743\">הֲיִצְלַ֖ח</span> <span data-strong=\"H4399\">לִמְלָאכָֽה׃</span>",
     "transliteration": "hineh la'esh nitan le'okhelah 'et sheney ketsvotayv 'akhelah ha'esh vetvokhvo nahar hayitselah limela'khah.",
     "translation": "Eis que o fogo foi dado para devorá-lo; ambos os seus extremos foram consumidos pelo fogo e seu meio foi fendido; acaso prosperará para a obra?"
   },
@@ -31,13 +31,13 @@
   },
   {
     "verse": 6,
-    "original": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה כַּאֲשֶׁ֤ר עֵץ־הַגֶּ֙פֶן֙ בְּעֵ֣ץ הַיַּ֔עַר אֲשֶׁר־נְתַתִּ֥יו לָאֵ֖שׁ לְאׇכְלָ֑ה כֵּ֣ן נָתַ֔תִּי אֶת־יֹשְׁבֵ֖י יְרוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H3651\">לָכֵ֗ן</span> <span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H834\">כַּאֲשֶׁ֤ר</span> <span data-strong=\"H6086\">עֵץ</span>־<span data-strong=\"H1612\">הַגֶּ֙פֶן֙</span> <span data-strong=\"H6086\">בְּעֵ֣ץ</span> <span data-strong=\"H3293\">הַיַּ֔עַר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">נְתַתִּ֥יו</span> <span data-strong=\"H784\">לָאֵ֖שׁ</span> <span data-strong=\"H402\">לְאׇכְלָ֑ה</span> <span data-strong=\"H3651\">כֵּ֣ן</span> <span data-strong=\"H5414\">נָתַ֔תִּי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3427\">יֹשְׁבֵ֖י</span> <span data-strong=\"H3389\">יְרוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "lakhen khoh 'amar 'adonay yehovih kha'asher 'ets-hagefen ve'ets haya'ar 'asher-netatiyv la'esh le'okhelah khen natatiy 'et-yoshevey yervshalaim.",
     "translation": "Portanto, assim diz o Senhor Jeová: Como a videira entre as árvores do bosque que dei ao fogo para ser consumida, assim entreguei os moradores de Jerusalém."
   },
   {
     "verse": 7,
-    "original": "וְנָתַתִּ֤י אֶת־פָּנַי֙ בָּהֶ֔ם מֵהָאֵ֣שׁ יָצָ֔אוּ וְהָאֵ֖שׁ תֹּאכְלֵ֑ם וִֽידַעְתֶּם֙ כִּֽי־אֲנִ֣י יְהֹוָ֔ה בְּשׂוּמִ֥י אֶת־פָּנַ֖י בָּהֶֽם׃",
+    "original": "<span data-strong=\"H5414\">וְנָתַתִּ֤י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">פָּנַי֙</span> <span data-strong=\"H3963\">בָּהֶ֔ם</span> <span data-strong=\"H784\">מֵהָאֵ֣שׁ</span> <span data-strong=\"H3318\">יָצָ֔אוּ</span> <span data-strong=\"H784\">וְהָאֵ֖שׁ</span> <span data-strong=\"H3963\">תֹּאכְלֵ֑ם</span> <span data-strong=\"H3045\">וִֽידַעְתֶּם֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H589\">אֲנִ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5204\">בְּשׂוּמִ֥י</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">פָּנַ֖י</span> <span data-strong=\"H3963\">בָּהֶֽם׃</span>",
     "transliteration": "venatatiy 'et-fanay vahem meha'esh yatsa'v veha'esh to'khelem viyda'etem khiy-'aniy yehovah vesvmiy 'et-fanay vahem.",
     "translation": "E darei a minha face contra eles; da chama saírão, e a chama os devorará. E conhecereis que eu sou o Senhor, quando fizer estender a minha face contra eles."
   },

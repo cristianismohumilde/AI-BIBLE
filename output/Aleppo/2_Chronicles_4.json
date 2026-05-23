@@ -7,7 +7,7 @@
   },
   {
     "verse": 2,
-    "original": "וַיַּ֥עַשׂ אֶת־הַיָּ֖ם מוּצָ֑ק עֶ֣שֶׂר בָּ֠אַמָּ֠ה מִשְּׂפָת֨וֹ אֶל־שְׂפָת֜וֹ עָג֣וֹל&thinsp;<b>׀</b> סָבִ֗יב וְחָמֵ֤שׁ בָּֽאַמָּה֙ קוֹמָת֔וֹ וְקָו֙ שְׁלֹשִׁ֣ים בָּאַמָּ֔ה יָסֹ֥ב אֹת֖וֹ סָבִֽיב׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֥עַשׂ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3220\">הַיָּ֖ם</span> <span data-strong=\"H3332\">מוּצָ֑ק</span> <span data-strong=\"H6235\">עֶ֣שֶׂר</span> <span data-strong=\"H520\">בָּ֠אַמָּ֠ה</span> <span data-strong=\"H2050\">מִשְּׂפָת֨וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2050\">שְׂפָת֜וֹ</span> <span data-strong=\"H5696\">עָג֣וֹל&thinsp;<b>׀</b></span> <span data-strong=\"H5439\">סָבִ֗יב</span> <span data-strong=\"H2568\">וְחָמֵ֤שׁ</span> <span data-strong=\"H520\">בָּֽאַמָּה֙</span> <span data-strong=\"H2050\">קוֹמָת֔וֹ</span> <span data-strong=\"H6957\">וְקָו֙</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֣ים</span> <span data-strong=\"H520\">בָּאַמָּ֔ה</span> <span data-strong=\"H5437\">יָסֹ֥ב</span> <span data-strong=\"H2050\">אֹת֖וֹ</span> <span data-strong=\"H5439\">סָבִֽיב׃</span>",
     "transliteration": "vaya'as 'et-hayam mvtsak 'eser va'amah misefatvo 'el-sefatvo 'agvol&thinsp;<b>|</b> saviyv vehamesh va'amah kvomatvo vekav sheloshiym va'amah yasov 'otvo saviyv.",
     "translation": "E fez o mar de bronze fundido; dez côvados de uma borda à outra, redondo em seu contorno, e cinco côvados sua altura, e um cordão de trinta côvados se enredava ao redor dele."
   },
@@ -49,13 +49,13 @@
   },
   {
     "verse": 9,
-    "original": "וַיַּ֙עַשׂ֙ חֲצַ֣ר הַכֹּהֲנִ֔ים וְהָעֲזָרָ֖ה הַגְּדוֹלָ֑ה וּדְלָת֧וֹת לָעֲזָרָ֛ה וְדַלְתוֹתֵיהֶ֖ם צִפָּ֥ה נְחֹֽשֶׁת׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֙עַשׂ֙</span> <span data-strong=\"H2691\">חֲצַ֣ר</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֔ים</span> <span data-strong=\"H5835\">וְהָעֲזָרָ֖ה</span> <span data-strong=\"H1419\">הַגְּדוֹלָ֑ה</span> <span data-strong=\"H1817\">וּדְלָת֧וֹת</span> <span data-strong=\"H5835\">לָעֲזָרָ֛ה</span> <span data-strong=\"H3963\">וְדַלְתוֹתֵיהֶ֖ם</span> <span data-strong=\"H6823\">צִפָּ֥ה</span> <span data-strong=\"H5178\">נְחֹֽשֶׁת׃</span>",
     "transliteration": "vaya'as hatsar hakhohaniym veha'azarah hagedvolah vdelatvot la'azarah vedaletvoteyhem tsifah nehoshet.",
     "translation": "E fez a cortina da casa dos sacerdotes e o átrio grande, e as folhas da porta do átrio e suas dobradiças, cobriu de bronze."
   },
   {
     "verse": 10,
-    "original": "וְאֶת־הַיָּ֗ם נָתַ֞ן מִכֶּ֧תֶף הַיְמָנִ֛ית קֵ֖דְמָה מִמּ֥וּל נֶֽגְבָּה׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3220\">הַיָּ֗ם</span> <span data-strong=\"H5414\">נָתַ֞ן</span> <span data-strong=\"H3802\">מִכֶּ֧תֶף</span> <span data-strong=\"H3233\">הַיְמָנִ֛ית</span> <span data-strong=\"H1886\">קֵ֖דְמָה</span> <span data-strong=\"H4136\">מִמּ֥וּל</span> <span data-strong=\"H1886\">נֶֽגְבָּה׃</span>",
     "transliteration": "ve'et-hayam natan mikhetef hayemaniyt kedemah mimvl negevah.",
     "translation": "E ao mar deu lugar à direita, leste em frente do sul."
   },
@@ -67,37 +67,37 @@
   },
   {
     "verse": 12,
-    "original": "עַמּוּדִ֣ים שְׁנַ֔יִם וְהַגֻּלּ֧וֹת וְהַכֹּתָר֛וֹת עַל־רֹ֥אשׁ הָעַמּוּדִ֖ים שְׁתָּ֑יִם וְהַשְּׂבָכ֣וֹת שְׁתַּ֔יִם לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָר֔וֹת אֲשֶׁ֖ר עַל־רֹ֥אשׁ הָעַמּוּדִֽים׃",
+    "original": "<span data-strong=\"H5982\">עַמּוּדִ֣ים</span> <span data-strong=\"H8147\">שְׁנַ֔יִם</span> <span data-strong=\"H1543\">וְהַגֻּלּ֧וֹת</span> <span data-strong=\"H3805\">וְהַכֹּתָר֛וֹת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7218\">רֹ֥אשׁ</span> <span data-strong=\"H5982\">הָעַמּוּדִ֖ים</span> <span data-strong=\"H8147\">שְׁתָּ֑יִם</span> <span data-strong=\"H7639\">וְהַשְּׂבָכ֣וֹת</span> <span data-strong=\"H8147\">שְׁתַּ֔יִם</span> <span data-strong=\"H3680\">לְכַסּ֗וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8147\">שְׁתֵּי֙</span> <span data-strong=\"H1543\">גֻּלּ֣וֹת</span> <span data-strong=\"H3805\">הַכֹּתָר֔וֹת</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7218\">רֹ֥אשׁ</span> <span data-strong=\"H5982\">הָעַמּוּדִֽים׃</span>",
     "transliteration": "'amvdiym shenayim vehagulvot vehakhotarvot 'al-ro'sh ha'amvdiym shetayim vehasevakhvot shetayim lekhasvot 'et-shetey gulvot hakhotarvot 'asher 'al-ro'sh ha'amvdiym.",
     "translation": "Dois postos e as cabeças e os anéis sobre a cabeça dos postos duas, e as redes duas para cobrir as duas cabeças dos anéis que estão sobre a cabeça dos postos.\n\nCorreção:\nDois postos, e as cabeças e os anéis sobre a cabeça dos postos duas; e as redes duas para cobrir as duas cabeças dos anéis que estão sobre a cabeça dos postos."
   },
   {
     "verse": 13,
-    "original": "וְאֶת־הָרִמּוֹנִ֛ים אַרְבַּ֥ע מֵא֖וֹת לִשְׁתֵּ֣י הַשְּׂבָכ֑וֹת שְׁנַ֨יִם טוּרִ֤ים רִמּוֹנִים֙ לַשְּׂבָכָ֣ה הָאֶחָ֔ת לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָר֔וֹת אֲשֶׁ֖ר עַל־פְּנֵ֥י הָעַמּוּדִֽים׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7416\">הָרִמּוֹנִ֛ים</span> <span data-strong=\"H702\">אַרְבַּ֥ע</span> <span data-strong=\"H3967\">מֵא֖וֹת</span> <span data-strong=\"H8147\">לִשְׁתֵּ֣י</span> <span data-strong=\"H7639\">הַשְּׂבָכ֑וֹת</span> <span data-strong=\"H8147\">שְׁנַ֨יִם</span> <span data-strong=\"H2905\">טוּרִ֤ים</span> <span data-strong=\"H7416\">רִמּוֹנִים֙</span> <span data-strong=\"H7639\">לַשְּׂבָכָ֣ה</span> <span data-strong=\"H259\">הָאֶחָ֔ת</span> <span data-strong=\"H3680\">לְכַסּ֗וֹת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8147\">שְׁתֵּי֙</span> <span data-strong=\"H1543\">גֻּלּ֣וֹת</span> <span data-strong=\"H3805\">הַכֹּתָר֔וֹת</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6440\">פְּנֵ֥י</span> <span data-strong=\"H5982\">הָעַמּוּדִֽים׃</span>",
     "transliteration": "ve'et-harimvoniym 'areva' me'vot lishetey hasevakhvot shenayim tvriym rimvoniym lasevakhah ha'ehat lekhasvot 'et-shetey gulvot hakhotarvot 'asher 'al-feney ha'amvdiym.",
     "translation": "E os romãs, quatrocentos para as duas tramas, dois fileiros de romãs para cada uma das tramas, para cobrir as duas guelras dos chapiteis que estão sobre o rosto dos pilares."
   },
   {
     "verse": 14,
-    "original": "וְאֶת־הַמְּכֹנ֖וֹת עָשָׂ֑ה וְאֶת־הַכִּיֹּר֥וֹת עָשָׂ֖ה עַל־הַמְּכֹנֽוֹת׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4350\">הַמְּכֹנ֖וֹת</span> <span data-strong=\"H6213\">עָשָׂ֑ה</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3595\">הַכִּיֹּר֥וֹת</span> <span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4350\">הַמְּכֹנֽוֹת׃</span>",
     "transliteration": "ve'et-hamekhonvot 'asah ve'et-hakhiyorvot 'asah 'al-hamekhonvot.",
     "translation": "E fez as estruturas e sobre as estruturas, fez os recipientes."
   },
   {
     "verse": 15,
-    "original": "אֶת־הַיָּ֖ם אֶחָ֑ד וְאֶת־הַבָּקָ֥ר שְׁנֵים־עָשָׂ֖ר תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3220\">הַיָּ֖ם</span> <span data-strong=\"H259\">אֶחָ֑ד</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1241\">הַבָּקָ֥ר</span> <span data-strong=\"H8147\">שְׁנֵים</span>־<span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "'et-hayam 'ehad ve'et-havakar sheneym-'asar tahetayv.",
     "translation": "O mar um, e os bois doze em seu lugar."
   },
   {
     "verse": 16,
-    "original": "וְאֶת־הַ֠סִּיר֠וֹת וְאֶת־הַיָּעִ֤ים וְאֶת־הַמִּזְלָגוֹת֙ וְאֶת־כׇּל־כְּלֵיהֶ֔ם עָשָׂ֞ה חוּרָ֥ם אָבִ֛יו לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה לְבֵ֣ית יְהֹוָ֑ה נְחֹ֖שֶׁת מָרֽוּק׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H5518\">הַ֠סִּיר֠וֹת</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3257\">הַיָּעִ֤ים</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4207\">הַמִּזְלָגוֹת֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">כְּלֵיהֶ֔ם</span> <span data-strong=\"H6213\">עָשָׂ֞ה</span> <span data-strong=\"H2361\">חוּרָ֥ם</span> <span data-strong=\"H2361\">אָבִ֛יו</span> <span data-strong=\"H4428\">לַמֶּ֥לֶךְ</span> <span data-strong=\"H8010\">שְׁלֹמֹ֖ה</span> <span data-strong=\"H1004\">לְבֵ֣ית</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H5178\">נְחֹ֖שֶׁת</span> <span data-strong=\"H4838\">מָרֽוּק׃</span>",
     "transliteration": "ve'et-hasiyrvot ve'et-haya'iym ve'et-hamizelagvot ve'et-khol-kheleyhem 'asah hvram 'aviyv lamelekhe shelomoh leveyt yehovah nehoshet marvk.",
     "translation": "E as cortinas e os candelabros e as tigelas e todos os seus instrumentos fez Hiram, seu pai, para o rei Salomão para a casa do SENHOR; era bronze fundido."
   },
   {
     "verse": 17,
-    "original": "בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בַּעֲבִ֖י הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צְרֵדָֽתָה׃",
+    "original": "<span data-strong=\"H3603\">בְּכִכַּ֤ר</span> <span data-strong=\"H3383\">הַיַּרְדֵּן֙</span> <span data-strong=\"H3963\">יְצָקָ֣ם</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H5672\">בַּעֲבִ֖י</span> <span data-strong=\"H127\">הָאֲדָמָ֑ה</span> <span data-strong=\"H996\">בֵּ֥ין</span> <span data-strong=\"H5523\">סֻכּ֖וֹת</span> <span data-strong=\"H996\">וּבֵ֥ין</span> <span data-strong=\"H1886\">צְרֵדָֽתָה׃</span>",
     "transliteration": "vekhikhar hayareden yetsakam hamelekhe va'aviy ha'adamah veyn sukhvot vveyn tseredatah.",
     "translation": "Entre Sucot e Zaretá, no círculo do Jordão, fez o rei fundir-nos na terra vermelha."
   },
@@ -109,25 +109,25 @@
   },
   {
     "verse": 19,
-    "original": "וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כׇּל־הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית הָאֱלֹהִ֑ים וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב וְאֶ֨ת־הַשֻּׁלְחָנ֔וֹת וַעֲלֵיהֶ֖ם לֶ֥חֶם הַפָּנִֽים׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֣עַשׂ</span> <span data-strong=\"H8010\">שְׁלֹמֹ֔ה</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3627\">הַכֵּלִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H430\">הָאֱלֹהִ֑ים</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H4196\">מִזְבַּ֣ח</span> <span data-strong=\"H2091\">הַזָּהָ֔ב</span> <span data-strong=\"H853\">וְאֶ֨ת</span>־<span data-strong=\"H7979\">הַשֻּׁלְחָנ֔וֹת</span> <span data-strong=\"H3963\">וַעֲלֵיהֶ֖ם</span> <span data-strong=\"H3899\">לֶ֥חֶם</span> <span data-strong=\"H6440\">הַפָּנִֽים׃</span>",
     "transliteration": "vaya'as shelomoh 'et khol-hakheliym 'asher veyt ha'elohiym ve'et mizevah hazahav ve'et-hashulehanvot va'aleyhem lehem hafaniym.",
     "translation": "E fez Salomão todos os vasos do Templo de Deus, e o altar de ouro, e as mesas sobre as quais estava o Pão da Presença."
   },
   {
     "verse": 20,
-    "original": "וְאֶת־הַמְּנֹר֞וֹת וְנֵרֹֽתֵיהֶ֗ם לְבַעֲרָ֧ם כַּמִּשְׁפָּ֛ט לִפְנֵ֥י הַדְּבִ֖יר זָהָ֥ב סָגֽוּר׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4501\">הַמְּנֹר֞וֹת</span> <span data-strong=\"H3963\">וְנֵרֹֽתֵיהֶ֗ם</span> <span data-strong=\"H3963\">לְבַעֲרָ֧ם</span> <span data-strong=\"H4941\">כַּמִּשְׁפָּ֛ט</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H1687\">הַדְּבִ֖יר</span> <span data-strong=\"H2091\">זָהָ֥ב</span> <span data-strong=\"H5458\">סָגֽוּר׃</span>",
     "transliteration": "ve'et-hamenorvot veneroteyhem leva'aram khamishefat lifeney hadeviyr zahav sagvr.",
     "translation": "E os candelabros e suas lâmpadas para acendê-las conforme o mandamento diante do santuário, puríssimo ouro."
   },
   {
     "verse": 21,
-    "original": "וְהַפֶּ֧רַח וְהַנֵּר֛וֹת וְהַמֶּלְקַחַ֖יִם זָהָ֑ב ה֖וּא מִכְל֥וֹת זָהָֽב׃",
+    "original": "<span data-strong=\"H6525\">וְהַפֶּ֧רַח</span> <span data-strong=\"H5216\">וְהַנֵּר֛וֹת</span> <span data-strong=\"H4457\">וְהַמֶּלְקַחַ֖יִם</span> <span data-strong=\"H2091\">זָהָ֑ב</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H4357\">מִכְל֥וֹת</span> <span data-strong=\"H2091\">זָהָֽב׃</span>",
     "transliteration": "vehaferah vehanervot vehamelekahayim zahav hv' mikhelvot zahav.",
     "translation": "E a flor, as lâmpadas e os apensos eram de ouro puro; ele era vaso de ouro puro."
   },
   {
     "verse": 22,
-    "original": "וְהַֽמְזַמְּר֧וֹת וְהַמִּזְרָק֛וֹת וְהַכַּפּ֥וֹת וְהַמַּחְתּ֖וֹת זָהָ֣ב סָג֑וּר וּפֶ֣תַח הַ֠בַּ֠יִת דַּלְתוֹתָ֨יו הַפְּנִימִיּ֜וֹת לְקֹ֣דֶשׁ הַקֳּדָשִׁ֗ים וְדַלְתֵ֥י הַבַּ֛יִת לַֽהֵיכָ֖ל זָהָֽב׃",
+    "original": "<span data-strong=\"H4212\">וְהַֽמְזַמְּר֧וֹת</span> <span data-strong=\"H4219\">וְהַמִּזְרָק֛וֹת</span> <span data-strong=\"H3709\">וְהַכַּפּ֥וֹת</span> <span data-strong=\"H4289\">וְהַמַּחְתּ֖וֹת</span> <span data-strong=\"H2091\">זָהָ֣ב</span> <span data-strong=\"H5458\">סָג֑וּר</span> <span data-strong=\"H6607\">וּפֶ֣תַח</span> <span data-strong=\"H1004\">הַ֠בַּ֠יִת</span> <span data-strong=\"H2050\">דַּלְתוֹתָ֨יו</span> <span data-strong=\"H6442\">הַפְּנִימִיּ֜וֹת</span> <span data-strong=\"H6944\">לְקֹ֣דֶשׁ</span> <span data-strong=\"H6944\">הַקֳּדָשִׁ֗ים</span> <span data-strong=\"H1817\">וְדַלְתֵ֥י</span> <span data-strong=\"H1004\">הַבַּ֛יִת</span> <span data-strong=\"H1964\">לַֽהֵיכָ֖ל</span> <span data-strong=\"H2091\">זָהָֽב׃</span>",
     "transliteration": "vehamezamervot vehamizerakvot vehakhafvot vehamahetvot zahav sagvr vfetah havayit daletvotayv hafeniymiyvot lekodesh hakodashiym vedaletey havayit laheykhal zahav.",
     "translation": "E as taças, e os incensários, e as tigelas, e os jarrões de ouro puro; e a porta da casa, seus batentes internos para o santuário dos santuários, e as portas da casa para o templo de ouro."
   }

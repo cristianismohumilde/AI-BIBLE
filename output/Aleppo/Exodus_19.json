@@ -1,145 +1,145 @@
 [
   {
     "verse": 1,
-    "original": "בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃",
+    "original": "<span data-strong=\"H2320\">בַּחֹ֙דֶשׁ֙</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֔י</span> <span data-strong=\"H3318\">לְצֵ֥את</span> <span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H776\">מֵאֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרָ֑יִם</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H2088\">הַזֶּ֔ה</span> <span data-strong=\"H935\">בָּ֖אוּ</span> <span data-strong=\"H4057\">מִדְבַּ֥ר</span> <span data-strong=\"H5514\">סִינָֽי׃</span>",
     "transliteration": "vahodesh hasheliyshiy letse't veney-yisera'el me'erets mitserayim vayvom hazeh va'v midevar siynay.",
     "translation": "No mês terceiro, desde a saída dos filhos de Israel da terra do Egito, no mesmo dia entraram no deserto do Sinai."
   },
   {
     "verse": 2,
-    "original": "וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֙אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃",
+    "original": "<span data-strong=\"H5265\">וַיִּסְע֣וּ</span> <span data-strong=\"H7508\">מֵרְפִידִ֗ים</span> <span data-strong=\"H935\">וַיָּבֹ֙אוּ֙</span> <span data-strong=\"H4057\">מִדְבַּ֣ר</span> <span data-strong=\"H5514\">סִינַ֔י</span> <span data-strong=\"H2583\">וַֽיַּחֲנ֖וּ</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֑ר</span> <span data-strong=\"H2583\">וַיִּֽחַן</span>־<span data-strong=\"H8033\">שָׁ֥ם</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H5048\">נֶ֥גֶד</span> <span data-strong=\"H2022\">הָהָֽר׃</span>",
     "transliteration": "vayise'v merefiydiym vayavo'v midevar siynay vayahanv vamidevar vayihan-sham yisera'el neged hahar.",
     "translation": "E partiram de Refidim e chegaram ao deserto de Sinai, onde acamparam. Israel ali se estabeleceu diante do monte."
   },
   {
     "verse": 3,
-    "original": "וּמֹשֶׁ֥ה עָלָ֖ה אֶל־הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהֹוָה֙ מִן־הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H4872\">וּמֹשֶׁ֥ה</span> <span data-strong=\"H5927\">עָלָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H430\">הָאֱלֹהִ֑ים</span> <span data-strong=\"H7121\">וַיִּקְרָ֨א</span> <span data-strong=\"H2050\">אֵלָ֤יו</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H2022\">הָהָ֣ר</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">תֹאמַר֙</span> <span data-strong=\"H1004\">לְבֵ֣ית</span> <span data-strong=\"H3290\">יַעֲקֹ֔ב</span> <span data-strong=\"H5046\">וְתַגֵּ֖יד</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vmosheh 'alah 'el-ha'elohiym vayikera' 'elayv yehovah min-hahar le'mor khoh to'mar leveyt ya'akov vetageyd liveney yisera'el.",
     "translation": "E Moisés subiu a Deus, e o Senhor lhe chamou do monte dizendo: Assim dirás à casa de Jacó e anunciarás aos filhos de Israel:"
   },
   {
     "verse": 4,
-    "original": "אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃",
+    "original": "<span data-strong=\"H859\">אַתֶּ֣ם</span> <span data-strong=\"H7200\">רְאִיתֶ֔ם</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשִׂ֖יתִי</span> <span data-strong=\"H4714\">לְמִצְרָ֑יִם</span> <span data-strong=\"H5375\">וָאֶשָּׂ֤א</span> <span data-strong=\"H3641\">אֶתְכֶם֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3671\">כַּנְפֵ֣י</span> <span data-strong=\"H5404\">נְשָׁרִ֔ים</span> <span data-strong=\"H935\">וָאָבִ֥א</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H2967\">אֵלָֽי׃</span>",
     "transliteration": "'atem re'iytem 'asher 'asiytiy lemitserayim va'esa' 'etekhem 'al-khanefey neshariym va'avi' 'etekhem 'elay.",
     "translation": "Vocês viram o que fiz ao Egito; levei-vos sobre as pontas das águias e vos trouxe para mim."
   },
   {
     "verse": 5,
-    "original": "וְעַתָּ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכׇּל־הָ֣עַמִּ֔ים כִּי־לִ֖י כׇּל־הָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֗ה</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H8085\">שָׁמ֤וֹעַ</span> <span data-strong=\"H8085\">תִּשְׁמְעוּ֙</span> <span data-strong=\"H2967\">בְּקֹלִ֔י</span> <span data-strong=\"H8104\">וּשְׁמַרְתֶּ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">בְּרִיתִ֑י</span> <span data-strong=\"H1961\">וִהְיִ֨יתֶם</span> <span data-strong=\"H2967\">לִ֤י</span> <span data-strong=\"H5459\">סְגֻלָּה֙</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H5971\">הָ֣עַמִּ֔ים</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָֽרֶץ׃</span>",
     "transliteration": "ve'atah 'im-shamvo'a tisheme'v vekoliy vshemaretem 'et-veriytiy viheyiytem liy segulah mikhol-ha'amiym khiy-liy khol-ha'arets.",
     "translation": "E agora, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim um tesouro dentre todos os povos; pois toda a terra é minha."
   },
   {
     "verse": 6,
-    "original": "וְאַתֶּ֧ם תִּהְיוּ־לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H859\">וְאַתֶּ֧ם</span> <span data-strong=\"H1961\">תִּהְיוּ</span>־<span data-strong=\"H2967\">לִ֛י</span> <span data-strong=\"H4467\">מַמְלֶ֥כֶת</span> <span data-strong=\"H3548\">כֹּהֲנִ֖ים</span> <span data-strong=\"H1471\">וְג֣וֹי</span> <span data-strong=\"H6918\">קָד֑וֹשׁ</span> <span data-strong=\"H428\">אֵ֚לֶּה</span> <span data-strong=\"H1697\">הַדְּבָרִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1696\">תְּדַבֵּ֖ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "ve'atem tiheyv-liy mamelekhet khohaniym vegvoy kadvosh 'eleh hadevariym 'asher tedaver 'el-veney yisera'el.",
     "translation": "E vós sereis para mim um reino de sacerdotes e uma nação santa; estes são os termos que dirás aos filhos de Israel."
   },
   {
     "verse": 7,
-    "original": "וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֣א</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H7121\">וַיִּקְרָ֖א</span> <span data-strong=\"H2205\">לְזִקְנֵ֣י</span> <span data-strong=\"H5971\">הָעָ֑ם</span> <span data-strong=\"H7760\">וַיָּ֣שֶׂם</span> <span data-strong=\"H3963\">לִפְנֵיהֶ֗ם</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֣ים</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1930\">צִוָּ֖הוּ</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayavo' mosheh vayikera' lezikeney ha'am vayasem lifeneyhem 'et khol-hadevariym ha'eleh 'asher tsivahv yehovah.",
     "translation": "E Moisés veio e convocou os anciãos do povo, colocando diante deles todos esses mandamentos que o Senhor lhe ordenara."
   },
   {
     "verse": 8,
-    "original": "וַיַּעֲנ֨וּ כׇל־הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H6030\">וַיַּעֲנ֨וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָ֤ם</span> <span data-strong=\"H3162\">יַחְדָּו֙</span> <span data-strong=\"H559\">וַיֹּ֣אמְר֔וּ</span> <span data-strong=\"H3605\">כֹּ֛ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H6213\">נַעֲשֶׂ֑ה</span> <span data-strong=\"H7725\">וַיָּ֧שֶׁב</span> <span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vaya'anv khol-ha'am yahedav vayo'merv khol 'asher-diver yehovah na'aseh vayashev mosheh 'et-diverey ha'am 'el-yehovah.",
     "translation": "E respondeu todo o povo de uma só voz, dizendo: Tudo quanto o Senhor falou faremos. E Moisés repetiu as palavras do povo ao Senhor."
   },
   {
     "verse": 9,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶ֘יךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H2009\">הִנֵּ֨ה</span> <span data-strong=\"H595\">אָנֹכִ֜י</span> <span data-strong=\"H935\">בָּ֣א</span> <span data-strong=\"H3509\">אֵלֶ֘יךָ֮</span> <span data-strong=\"H5645\">בְּעַ֣ב</span> <span data-strong=\"H6051\">הֶֽעָנָן֒</span> <span data-strong=\"H5668\">בַּעֲב֞וּר</span> <span data-strong=\"H8085\">יִשְׁמַ֤ע</span> <span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H5204\">בְּדַבְּרִ֣י</span> <span data-strong=\"H3509\">עִמָּ֔ךְ</span> <span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H3509\">בְּךָ֖</span> <span data-strong=\"H539\">יַאֲמִ֣ינוּ</span> <span data-strong=\"H5769\">לְעוֹלָ֑ם</span> <span data-strong=\"H5046\">וַיַּגֵּ֥ד</span> <span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh hineh 'anokhiy va' 'eleykha ve'av he'anan va'avvr yishema' ha'am vedaveriy 'imakhe vegam-vekha ya'amiynv le'volam vayaged mosheh 'et-diverey ha'am 'el-yehovah.",
     "translation": "E disse o Senhor a Moisés: Eis que eu virei a ti numa nuvem, para que o povo ouça quando te falar e em ti também creia para sempre. E Moisés relatou as palavras do povo ao Senhor."
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ לֵ֣ךְ אֶל־הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H1980\">לֵ֣ךְ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H3963\">וְקִדַּשְׁתָּ֥ם</span> <span data-strong=\"H3117\">הַיּ֖וֹם</span> <span data-strong=\"H4279\">וּמָחָ֑ר</span> <span data-strong=\"H3526\">וְכִבְּס֖וּ</span> <span data-strong=\"H3963\">שִׂמְלֹתָֽם׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh lekhe 'el-ha'am vekidashetam hayvom vmahar vekhivesv simelotam.",
     "translation": "E disse o Senhor a Moisés: Ide ao povo e santificai-os hoje e amanhã, e lavem suas vestes."
   },
   {
     "verse": 11,
-    "original": "וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַשְּׁלִשִׁ֗י יֵרֵ֧ד יְהֹוָ֛ה לְעֵינֵ֥י כׇל־הָעָ֖ם עַל־הַ֥ר סִינָֽי׃",
+    "original": "<span data-strong=\"H1961\">וְהָי֥וּ</span> <span data-strong=\"H3559\">נְכֹנִ֖ים</span> <span data-strong=\"H3117\">לַיּ֣וֹם</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֑י</span> <span data-strong=\"H3588\">כִּ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H7992\">הַשְּׁלִשִׁ֗י</span> <span data-strong=\"H3381\">יֵרֵ֧ד</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H5869\">לְעֵינֵ֥י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2022\">הַ֥ר</span> <span data-strong=\"H5514\">סִינָֽי׃</span>",
     "transliteration": "vehayv nekhoniym layvom hasheliyshiy khiy&thinsp;<b>|</b> vayvom hashelishiy yered yehovah le'eyney khol-ha'am 'al-har siynay.",
     "translation": "E estarão preparados no terceiro dia, pois no terceiro dia o Senhor descerá aos olhos de todo o povo sobre o monte Sinai."
   },
   {
     "verse": 12,
-    "original": "וְהִגְבַּלְתָּ֤ אֶת־הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כׇּל־הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃",
+    "original": "<span data-strong=\"H1379\">וְהִגְבַּלְתָּ֤</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H5439\">סָבִ֣יב</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H8104\">הִשָּׁמְר֥וּ</span> <span data-strong=\"H3641\">לָכֶ֛ם</span> <span data-strong=\"H5927\">עֲל֥וֹת</span> <span data-strong=\"H2022\">בָּהָ֖ר</span> <span data-strong=\"H5060\">וּנְגֹ֣עַ</span> <span data-strong=\"H1930\">בְּקָצֵ֑הוּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5060\">הַנֹּגֵ֥עַ</span> <span data-strong=\"H2022\">בָּהָ֖ר</span> <span data-strong=\"H4191\">מ֥וֹת</span> <span data-strong=\"H4191\">יוּמָֽת׃</span>",
     "transliteration": "vehigevaleta 'et-ha'am saviyv le'mor hishamerv lakhem 'alvot vahar vnego'a vekatsehv khol-hanoge'a vahar mvot yvmat.",
     "translation": "E cercaste o povo em redor, dizendo: Guardai-vos de subir ao monte ou de tocar nele; todo aquele que tocar no monte morrerá."
   },
   {
     "verse": 13,
-    "original": "לֹא־תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־סָק֤וֹל יִסָּקֵל֙ אוֹ־יָרֹ֣ה יִיָּרֶ֔ה אִם־בְּהֵמָ֥ה אִם־אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5060\">תִגַּ֨ע</span> <span data-strong=\"H2050\">בּ֜וֹ</span> <span data-strong=\"H3027\">יָ֗ד</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5619\">סָק֤וֹל</span> <span data-strong=\"H5619\">יִסָּקֵל֙</span> <span data-strong=\"H176\">אוֹ</span>־<span data-strong=\"H3384\">יָרֹ֣ה</span> <span data-strong=\"H3384\">יִיָּרֶ֔ה</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H929\">בְּהֵמָ֥ה</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H2421\">יִחְיֶ֑ה</span> <span data-strong=\"H4900\">בִּמְשֹׁךְ֙</span> <span data-strong=\"H3104\">הַיֹּבֵ֔ל</span> <span data-strong=\"H1992\">הֵ֖מָּה</span> <span data-strong=\"H5927\">יַעֲל֥וּ</span> <span data-strong=\"H2022\">בָהָֽר׃</span>",
     "transliteration": "lo'-tiga' vvo yad khiy-sakvol yisakel 'vo-yaroh yiyareh 'im-vehemah 'im-'iysh lo' yiheyeh vimeshokhe hayovel hemah ya'alv vahar.",
     "translation": "Nem mão alguma tocará nele; pois pedra será lançada contra ele ou seta voará contra ele; se for fera ou homem, não viverá. Ao soar do shofar, eles subirão ao monte."
   },
   {
     "verse": 14,
-    "original": "וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־הָהָ֖ר אֶל־הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃",
+    "original": "<span data-strong=\"H3381\">וַיֵּ֧רֶד</span> <span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H2022\">הָהָ֖ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֑ם</span> <span data-strong=\"H6942\">וַיְקַדֵּשׁ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H3526\">וַֽיְכַבְּס֖וּ</span> <span data-strong=\"H3963\">שִׂמְלֹתָֽם׃</span>",
     "transliteration": "vayered mosheh min-hahar 'el-ha'am vayekadesh 'et-ha'am vayekhavesv simelotam.",
     "translation": "E Moisés desceu do monte ao povo e santificou o povo, e eles lavaram as vestes."
   },
   {
     "verse": 15,
-    "original": "וַיֹּ֙אמֶר֙ אֶל־הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־תִּגְּשׁ֖וּ אֶל־אִשָּֽׁה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֙אמֶר֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H1961\">הֱי֥וּ</span> <span data-strong=\"H3559\">נְכֹנִ֖ים</span> <span data-strong=\"H7969\">לִשְׁלֹ֣שֶׁת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H408\">אַֽל</span>־<span data-strong=\"H5066\">תִּגְּשׁ֖וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H802\">אִשָּֽׁה׃</span>",
     "transliteration": "vayo'mer 'el-ha'am heyv nekhoniym lisheloshet yamiym 'al-tigeshv 'el-'ishah.",
     "translation": "E disse ao povo: Estejais prontos por três dias, não vos acerqueis de mulher."
   },
   {
     "verse": 16,
-    "original": "וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כׇּל־הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִי֩</span> <span data-strong=\"H3117\">בַיּ֨וֹם</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֜י</span> <span data-strong=\"H1961\">בִּֽהְיֹ֣ת</span> <span data-strong=\"H1242\">הַבֹּ֗קֶר</span> <span data-strong=\"H1961\">וַיְהִי֩</span> <span data-strong=\"H6963\">קֹלֹ֨ת</span> <span data-strong=\"H1300\">וּבְרָקִ֜ים</span> <span data-strong=\"H6051\">וְעָנָ֤ן</span> <span data-strong=\"H3515\">כָּבֵד֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2022\">הָהָ֔ר</span> <span data-strong=\"H6963\">וְקֹ֥ל</span> <span data-strong=\"H7782\">שֹׁפָ֖ר</span> <span data-strong=\"H2389\">חָזָ֣ק</span> <span data-strong=\"H3966\">מְאֹ֑ד</span> <span data-strong=\"H2729\">וַיֶּחֱרַ֥ד</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H4264\">בַּֽמַּחֲנֶֽה׃</span>",
     "transliteration": "vayehiy vayvom hasheliyshiy viheyot havoker vayehiy kolot vverakiym ve'anan khaved 'al-hahar vekol shofar hazak me'od vayeherad khol-ha'am 'asher vamahaneh.",
     "translation": "E foi no terceiro dia, quando a alvorada se fez, que houve vociferações e relâmpagos, e uma nuvem densa sobre o monte; e o som de um shofar muito forte, e todo o povo no acampamento tremeram."
   },
   {
     "verse": 17,
-    "original": "וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃",
+    "original": "<span data-strong=\"H3318\">וַיּוֹצֵ֨א</span> <span data-strong=\"H4872\">מֹשֶׁ֧ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5971\">הָעָ֛ם</span> <span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H430\">הָֽאֱלֹהִ֖ים</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֶ֑ה</span> <span data-strong=\"H3320\">וַיִּֽתְיַצְּב֖וּ</span> <span data-strong=\"H8482\">בְּתַחְתִּ֥ית</span> <span data-strong=\"H2022\">הָהָֽר׃</span>",
     "transliteration": "vayvotse' mosheh 'et-ha'am likera't ha'elohiym min-hamahaneh vayiteyatsevv vetahetiyt hahar.",
     "translation": "E Moisés levou o povo ao encontro de Deus, saindo do acampamento, e se postaram à base da montanha."
   },
   {
     "verse": 18,
-    "original": "וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵ֠י אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהֹוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כׇּל־הָהָ֖ר מְאֹֽד׃",
+    "original": "<span data-strong=\"H2022\">וְהַ֤ר</span> <span data-strong=\"H5514\">סִינַי֙</span> <span data-strong=\"H6225\">עָשַׁ֣ן</span> <span data-strong=\"H2050\">כֻּלּ֔וֹ</span> <span data-strong=\"H6440\">מִ֠פְּנֵ֠י</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H3381\">יָרַ֥ד</span> <span data-strong=\"H2050\">עָלָ֛יו</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H784\">בָּאֵ֑שׁ</span> <span data-strong=\"H5927\">וַיַּ֤עַל</span> <span data-strong=\"H2050\">עֲשָׁנוֹ֙</span> <span data-strong=\"H6227\">כְּעֶ֣שֶׁן</span> <span data-strong=\"H3536\">הַכִּבְשָׁ֔ן</span> <span data-strong=\"H2729\">וַיֶּחֱרַ֥ד</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2022\">הָהָ֖ר</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "vehar siynay 'ashan khulvo mifeney 'asher yarad 'alayv yehovah va'esh vaya'al 'ashanvo khe'eshen hakhiveshan vayeherad khol-hahar me'od.",
     "translation": "E o monte Sinai fumegava em toda a sua extensão, porque o Senhor havia descido sobre ele em fogo; subiu do monte uma coluna de fumaça como a fumaça de um forno ardente, e todo o monte tremia violentamente."
   },
   {
     "verse": 19,
-    "original": "וַֽיְהִי֙ ק֣וֹל הַשֹּׁפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H6963\">ק֣וֹל</span> <span data-strong=\"H7782\">הַשֹּׁפָ֔ר</span> <span data-strong=\"H1980\">הוֹלֵ֖ךְ</span> <span data-strong=\"H2390\">וְחָזֵ֣ק</span> <span data-strong=\"H3966\">מְאֹ֑ד</span> <span data-strong=\"H4872\">מֹשֶׁ֣ה</span> <span data-strong=\"H1696\">יְדַבֵּ֔ר</span> <span data-strong=\"H430\">וְהָאֱלֹהִ֖ים</span> <span data-strong=\"H5105\">יַעֲנֶ֥נּוּ</span> <span data-strong=\"H6963\">בְקֽוֹל׃</span>",
     "transliteration": "vayehiy kvol hashofar hvolekhe vehazek me'od mosheh yedaver veha'elohiym ya'anenv vekvol.",
     "translation": "Era o som da trombeta, avançando e fortalecendo-se grandemente; Moisés falava, e Deus lhe respondia em voz."
   },
   {
     "verse": 20,
-    "original": "וַיֵּ֧רֶד יְהֹוָ֛ה עַל־הַ֥ר סִינַ֖י אֶל־רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהֹוָ֧ה לְמֹשֶׁ֛ה אֶל־רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H3381\">וַיֵּ֧רֶד</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2022\">הַ֥ר</span> <span data-strong=\"H5514\">סִינַ֖י</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2022\">הָהָ֑ר</span> <span data-strong=\"H7121\">וַיִּקְרָ֨א</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H4872\">לְמֹשֶׁ֛ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7218\">רֹ֥אשׁ</span> <span data-strong=\"H2022\">הָהָ֖ר</span> <span data-strong=\"H5927\">וַיַּ֥עַל</span> <span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayered yehovah 'al-har siynay 'el-ro'sh hahar vayikera' yehovah lemosheh 'el-ro'sh hahar vaya'al mosheh.",
     "translation": "E o Senhor desceu ao monte Sinai, ao cume da montanha; e chamou o Senhor a Moisés ao cume da montanha, e subiu Moisés."
   },
   {
     "verse": 21,
-    "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־יֶהֶרְס֤וּ אֶל־יְהֹוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H3381\">רֵ֖ד</span> <span data-strong=\"H5749\">הָעֵ֣ד</span> <span data-strong=\"H5971\">בָּעָ֑ם</span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H2040\">יֶהֶרְס֤וּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H7200\">לִרְא֔וֹת</span> <span data-strong=\"H5307\">וְנָפַ֥ל</span> <span data-strong=\"H5105\">מִמֶּ֖נּוּ</span> <span data-strong=\"H7227\">רָֽב׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh red ha'ed va'am fen-yeheresv 'el-yehovah lire'vot venafal mimenv rav.",
     "translation": "E disse o Senhor a Moisés: Desce, admoesta o povo, para que não se rompam até ao Senhor para vê-lo, e venha a cair deles grande número."
   },
   {
     "verse": 22,
-    "original": "וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־יְהֹוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־יִפְרֹ֥ץ בָּהֶ֖ם יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H1571\">וְגַ֧ם</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֛ים</span> <span data-strong=\"H5066\">הַנִּגָּשִׁ֥ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H6942\">יִתְקַדָּ֑שׁוּ</span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H6555\">יִפְרֹ֥ץ</span> <span data-strong=\"H3963\">בָּהֶ֖ם</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vegam hakhohaniym hanigashiym 'el-yehovah yitekadashv fen-yiferots vahem yehovah.",
     "translation": "E também os sacerdotes que se aproximam do Senhor santificar-se-ão, para que o Senhor não lhes rompa."
   },
   {
     "verse": 23,
-    "original": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־יְהֹוָ֔ה לֹא־יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־הַ֣ר סִינָ֑י כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">יוּכַ֣ל</span> <span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H5927\">לַעֲלֹ֖ת</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2022\">הַ֣ר</span> <span data-strong=\"H5514\">סִינָ֑י</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H859\">אַתָּ֞ה</span> <span data-strong=\"H5749\">הַעֵדֹ֤תָה</span> <span data-strong=\"H5105\">בָּ֙נוּ֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H1379\">הַגְבֵּ֥ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2022\">הָהָ֖ר</span> <span data-strong=\"H2050\">וְקִדַּשְׁתּֽוֹ׃</span>",
     "transliteration": "vayo'mer mosheh 'el-yehovah lo'-yvkhal ha'am la'alot 'el-har siynay khiy-'atah ha'edotah vanv le'mor hagevel 'et-hahar vekidashetvo.",
     "translation": "E Moisés disse ao Senhor: Não pode o povo subir ao monte Sinai, porque tu nos ordenaste, dizendo: Põe guardas em redor do monte e santifica-o."
   },
   {
     "verse": 24,
-    "original": "וַיֹּ֨אמֶר אֵלָ֤יו יְהֹוָה֙ לֶךְ־רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־יְהֹוָ֖ה פֶּן־יִפְרׇץ־בָּֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H2050\">אֵלָ֤יו</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H1980\">לֶךְ</span>־<span data-strong=\"H3381\">רֵ֔ד</span> <span data-strong=\"H5927\">וְעָלִ֥יתָ</span> <span data-strong=\"H859\">אַתָּ֖ה</span> <span data-strong=\"H175\">וְאַהֲרֹ֣ן</span> <span data-strong=\"H3509\">עִמָּ֑ךְ</span> <span data-strong=\"H3548\">וְהַכֹּהֲנִ֣ים</span> <span data-strong=\"H5971\">וְהָעָ֗ם</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H2040\">יֶֽהֶרְס֛וּ</span> <span data-strong=\"H5927\">לַעֲלֹ֥ת</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H6435\">פֶּן</span>־<span data-strong=\"H6555\">יִפְרׇץ</span>־<span data-strong=\"H3963\">בָּֽם׃</span>",
     "transliteration": "vayo'mer 'elayv yehovah lekhe-red ve'aliyta 'atah ve'aharon 'imakhe vehakhohaniym veha'am 'al-yeheresv la'alot 'el-yehovah fen-yiferots-vam.",
     "translation": "E disse-lhe o Senhor: Desce, tu e Aarão subirão contigo; mas não permitas que os sacerdotes e o povo transgridam para subirem ao Senhor, para que ele não se derrame sobre eles."
   },

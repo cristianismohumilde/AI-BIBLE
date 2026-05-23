@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַיַּ֖עַן אִיּ֥וֹב אֶת־יְהֹוָ֗ה וַיֹּאמַֽר׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֖עַן</span> <span data-strong=\"H347\">אִיּ֥וֹב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H559\">וַיֹּאמַֽר׃</span>",
     "transliteration": "vaya'an 'iyvov 'et-yehovah vayo'mar.",
     "translation": "E respondeu Jó ao Senhor e disse:"
   },
@@ -19,13 +19,13 @@
   },
   {
     "verse": 4,
-    "original": "שְֽׁמַֽע־נָ֭א וְאָנֹכִ֣י אֲדַבֵּ֑ר אֶ֝שְׁאָלְךָ֗ וְהוֹדִיעֵֽנִי׃",
+    "original": "<span data-strong=\"H8085\">שְֽׁמַֽע</span>־<span data-strong=\"H4994\">נָ֭א</span> <span data-strong=\"H595\">וְאָנֹכִ֣י</span> <span data-strong=\"H1696\">אֲדַבֵּ֑ר</span> <span data-strong=\"H3509\">אֶ֝שְׁאָלְךָ֗</span> <span data-strong=\"H5204\">וְהוֹדִיעֵֽנִי׃</span>",
     "transliteration": "shema'-na' ve'anokhiy 'adaver 'eshe'alekha vehvodiy'eniy.",
     "translation": "Ouça-me e falarei; perguntarei a ti, e tu me instruirás."
   },
   {
     "verse": 5,
-    "original": "לְשֵֽׁמַע־אֹ֥זֶן שְׁמַעְתִּ֑יךָ וְ֝עַתָּ֗ה עֵינִ֥י רָאָֽתְךָ׃",
+    "original": "<span data-strong=\"H8088\">לְשֵֽׁמַע</span>־<span data-strong=\"H241\">אֹ֥זֶן</span> <span data-strong=\"H3509\">שְׁמַעְתִּ֑יךָ</span> <span data-strong=\"H6258\">וְ֝עַתָּ֗ה</span> <span data-strong=\"H2967\">עֵינִ֥י</span> <span data-strong=\"H3509\">רָאָֽתְךָ׃</span>",
     "transliteration": "leshema'-'ozen shema'etiykha ve'atah 'eyniy ra'atekha.",
     "translation": "Para ouvir, a orelha ouviu-te, e agora o olho viu-te."
   },
@@ -43,13 +43,13 @@
   },
   {
     "verse": 8,
-    "original": "וְעַתָּ֡ה קְחוּ־לָכֶ֣ם שִׁבְעָֽה־פָרִים֩ וְשִׁבְעָ֨ה אֵילִ֜ים וּלְכ֣וּ&thinsp;<b>׀</b> אֶל־עַבְדִּ֣י אִיּ֗וֹב וְהַעֲלִיתֶ֤ם עוֹלָה֙ בַּעַדְכֶ֔ם וְאִיּ֣וֹב עַבְדִּ֔י יִתְפַּלֵּ֖ל עֲלֵיכֶ֑ם כִּ֧י אִם־פָּנָ֣יו אֶשָּׂ֗א לְבִלְתִּ֞י עֲשׂ֤וֹת עִמָּכֶם֙ נְבָלָ֔ה כִּ֠י לֹ֣א דִבַּרְתֶּ֥ם אֵלַ֛י נְכוֹנָ֖ה כְּעַבְדִּ֥י אִיּֽוֹב׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֡ה</span> <span data-strong=\"H3947\">קְחוּ</span>־<span data-strong=\"H3641\">לָכֶ֣ם</span> <span data-strong=\"H7651\">שִׁבְעָֽה</span>־<span data-strong=\"H6499\">פָרִים֩</span> <span data-strong=\"H7651\">וְשִׁבְעָ֨ה</span> <span data-strong=\"H352\">אֵילִ֜ים</span> <span data-strong=\"H1980\">וּלְכ֣וּ&thinsp;<b>׀</b></span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2967\">עַבְדִּ֣י</span> <span data-strong=\"H347\">אִיּ֗וֹב</span> <span data-strong=\"H5927\">וְהַעֲלִיתֶ֤ם</span> <span data-strong=\"H5930\">עוֹלָה֙</span> <span data-strong=\"H3641\">בַּעַדְכֶ֔ם</span> <span data-strong=\"H347\">וְאִיּ֣וֹב</span> <span data-strong=\"H2967\">עַבְדִּ֔י</span> <span data-strong=\"H6419\">יִתְפַּלֵּ֖ל</span> <span data-strong=\"H3641\">עֲלֵיכֶ֑ם</span> <span data-strong=\"H3588\">כִּ֧י</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2050\">פָּנָ֣יו</span> <span data-strong=\"H5375\">אֶשָּׂ֗א</span> <span data-strong=\"H1115\">לְבִלְתִּ֞י</span> <span data-strong=\"H6213\">עֲשׂ֤וֹת</span> <span data-strong=\"H3641\">עִמָּכֶם֙</span> <span data-strong=\"H5039\">נְבָלָ֔ה</span> <span data-strong=\"H3588\">כִּ֠י</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H1696\">דִבַּרְתֶּ֥ם</span> <span data-strong=\"H2967\">אֵלַ֛י</span> <span data-strong=\"H3559\">נְכוֹנָ֖ה</span> <span data-strong=\"H2967\">כְּעַבְדִּ֥י</span> <span data-strong=\"H347\">אִיּֽוֹב׃</span>",
     "transliteration": "ve'atah kehv-lakhem shive'ah-fariym veshive'ah 'eyliym vlekhv&thinsp;<b>|</b> 'el-'avediy 'iyvov veha'aliytem 'volah va'adekhem ve'iyvov 'avediy yitefalel 'aleykhem khiy 'im-fanayv 'esa' leviletiy 'asvot 'imakhem nevalah khiy lo' divaretem 'elay nekhvonah khe'avediy 'iyvov.",
     "translation": "E agora tomem sete bezerros e sete carneiros e ide ao meu servo Jó; ofereçam sacrifício holocausto por vós mesmos, e Jó, o meu servo, orará por vós. Pois eu me inclinarei à face dele para não fazer convosco loucura, pois não falastes de mim com retidão como o meu servo Jó."
   },
   {
     "verse": 9,
-    "original": "וַיֵּלְכוּ֩ אֱלִיפַ֨ז הַתֵּימָנִ֜י וּבִלְדַּ֣ד הַשּׁוּחִ֗י צֹפַר֙ הַנַּ֣עֲמָתִ֔י וַיַּעֲשׂ֔וּ כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ם יְהֹוָ֑ה וַיִּשָּׂ֥א יְהֹוָ֖ה אֶת־פְּנֵ֥י אִיּֽוֹב׃",
+    "original": "<span data-strong=\"H1980\">וַיֵּלְכוּ֩</span> <span data-strong=\"H464\">אֱלִיפַ֨ז</span> <span data-strong=\"H8489\">הַתֵּימָנִ֜י</span> <span data-strong=\"H1085\">וּבִלְדַּ֣ד</span> <span data-strong=\"H7747\">הַשּׁוּחִ֗י</span> <span data-strong=\"H6691\">צֹפַר֙</span> <span data-strong=\"H5284\">הַנַּ֣עֲמָתִ֔י</span> <span data-strong=\"H6213\">וַיַּעֲשׂ֔וּ</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H3963\">אֲלֵיהֶ֖ם</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H5375\">וַיִּשָּׂ֥א</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6440\">פְּנֵ֥י</span> <span data-strong=\"H347\">אִיּֽוֹב׃</span>",
     "transliteration": "vayelekhv 'eliyfaz hateymaniy vviledad hashvhiy tsofar hana'amatiy vaya'asv kha'asher diver 'aleyhem yehovah vayisa' yehovah 'et-feney 'iyvov.",
     "translation": "E Elifaz o temanita, Bildade o suíta e Zofar o naamatita fizeram conforme YHWH lhes havia dito. E YHWH olhou para Éyov com favor."
   },
@@ -61,31 +61,31 @@
   },
   {
     "verse": 11,
-    "original": "וַיָּבֹ֣אוּ אֵ֠לָ֠יו כׇּל־אֶחָ֨יו וְכׇל־אַחְיֹתָ֜יו וְכׇל־יֹדְעָ֣יו לְפָנִ֗ים וַיֹּאכְל֨וּ עִמּ֣וֹ לֶ֘חֶם֮ בְּבֵיתוֹ֒ וַיָּנֻ֤דוּ לוֹ֙ וַיְנַחֲמ֣וּ אֹת֔וֹ עַ֚ל כׇּל־הָ֣רָעָ֔ה אֲשֶׁר־הֵבִ֥יא יְהֹוָ֖ה עָלָ֑יו וַיִּתְּנוּ־ל֗וֹ אִ֚ישׁ קְשִׂיטָ֣ה אֶחָ֔ת וְאִ֕ישׁ נֶ֥זֶם זָהָ֖ב אֶחָֽד׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֣אוּ</span> <span data-strong=\"H2050\">אֵ֠לָ֠יו</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">אֶחָ֨יו</span> <span data-strong=\"H3605\">וְכׇל</span>־אַחְיֹתָ֜יו <span data-strong=\"H2050\">וְכׇל</span>־<span data-strong=\"H3605\">יֹדְעָ֣יו</span> <span data-strong=\"H2050\">לְפָנִ֗ים</span> <span data-strong=\"H6440\">וַיֹּאכְל֨וּ</span> <span data-strong=\"H398\">עִמּ֣וֹ</span> <span data-strong=\"H2050\">לֶ֘חֶם֮</span> <span data-strong=\"H3899\">בְּבֵיתוֹ֒</span> <span data-strong=\"H2050\">וַיָּנֻ֤דוּ</span> <span data-strong=\"H5110\">לוֹ֙</span> <span data-strong=\"H2050\">וַיְנַחֲמ֣וּ</span> <span data-strong=\"H5162\">אֹת֔וֹ</span> <span data-strong=\"H2050\">עַ֚ל</span> <span data-strong=\"H5921\">כׇּל</span>־<span data-strong=\"H3605\">הָ֣רָעָ֔ה</span> <span data-strong=\"H7451\">אֲשֶׁר</span>־<span data-strong=\"H834\">הֵבִ֥יא</span> <span data-strong=\"H935\">יְהֹוָ֖ה</span> <span data-strong=\"H3068\">עָלָ֑יו</span> <span data-strong=\"H2050\">וַיִּתְּנוּ</span>־<span data-strong=\"H5414\">ל֗וֹ</span> <span data-strong=\"H2050\">אִ֚ישׁ</span> <span data-strong=\"H376\">קְשִׂיטָ֣ה</span> <span data-strong=\"H7192\">אֶחָ֔ת</span> <span data-strong=\"H259\">וְאִ֕ישׁ</span> <span data-strong=\"H376\">נֶ֥זֶם</span> <span data-strong=\"H5141\">זָהָ֖ב</span> <span data-strong=\"H2091\">אֶחָֽד׃</span>",
     "transliteration": "vayavo'v 'elayv khol-'ehayv vekhol-'aheyotayv vekhol-yode'ayv lefaniym vayo'khelv 'imvo lehem veveytvo vayanudv lvo vayenahamv 'otvo 'al khol-hara'ah 'asher-heviy' yehovah 'alayv vayitenv-lvo 'iysh kesiytah 'ehat ve'iysh nezem zahav 'ehad.",
     "translation": "E vieram a ele todos os seus irmãos e todas as suas irmãs e todos os seus conhecidos; e comeram com ele pão na sua casa, e o consolaram por toda a adversidade que Jehovah trouxe sobre ele. E cada um deu-lhe uma capa e cada um um bracelete de ouro."
   },
   {
     "verse": 12,
-    "original": "וַיהֹוָ֗ה בֵּרַ֛ךְ אֶת־אַחֲרִ֥ית אִיּ֖וֹב מֵרֵֽאשִׁת֑וֹ וַֽיְהִי־ל֡וֹ אַרְבָּעָה֩ עָשָׂ֨ר אֶ֜לֶף צֹ֗אן וְשֵׁ֤שֶׁת אֲלָפִים֙ גְּמַלִּ֔ים וְאֶלֶף־צֶ֥מֶד בָּקָ֖ר וְאֶ֥לֶף אֲתוֹנֽוֹת׃",
+    "original": "<span data-strong=\"H3068\">וַיהֹוָ֗ה</span> <span data-strong=\"H1288\">בֵּרַ֛ךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H319\">אַחֲרִ֥ית</span> <span data-strong=\"H347\">אִיּ֖וֹב</span> <span data-strong=\"H2050\">מֵרֵֽאשִׁת֑וֹ</span> <span data-strong=\"H1961\">וַֽיְהִי</span>־<span data-strong=\"H2050\">ל֡וֹ</span> <span data-strong=\"H702\">אַרְבָּעָה֩</span> <span data-strong=\"H6240\">עָשָׂ֨ר</span> <span data-strong=\"H505\">אֶ֜לֶף</span> <span data-strong=\"H6629\">צֹ֗אן</span> <span data-strong=\"H8337\">וְשֵׁ֤שֶׁת</span> <span data-strong=\"H505\">אֲלָפִים֙</span> <span data-strong=\"H1581\">גְּמַלִּ֔ים</span> <span data-strong=\"H505\">וְאֶלֶף</span>־<span data-strong=\"H6776\">צֶ֥מֶד</span> <span data-strong=\"H1241\">בָּקָ֖ר</span> <span data-strong=\"H505\">וְאֶ֥לֶף</span> <span data-strong=\"H860\">אֲתוֹנֽוֹת׃</span>",
     "transliteration": "vayhovah verakhe 'et-'ahariyt 'iyvov mere'shitvo vayehiy-lvo 'areva'ah 'asar 'elef tso'n vesheshet 'alafiym gemaliym ve'elef-tsemed vakar ve'elef 'atvonvot.",
     "translation": "E o Senhor abençoou o fim de Êdio mais do que seu começo, e lhe couberam catorze mil ovelhas, seis mil camelos, mil pares de bois e mil jumentas."
   },
   {
     "verse": 13,
-    "original": "וַֽיְהִי־ל֛וֹ שִׁבְעָ֥נָה בָנִ֖ים וְשָׁל֥וֹשׁ בָּנֽוֹת׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי</span>־<span data-strong=\"H2050\">ל֛וֹ</span> <span data-strong=\"H7658\">שִׁבְעָ֥נָה</span> <span data-strong=\"H1121\">בָנִ֖ים</span> <span data-strong=\"H7969\">וְשָׁל֥וֹשׁ</span> <span data-strong=\"H1323\">בָּנֽוֹת׃</span>",
     "transliteration": "vayehiy-lvo shive'anah vaniym veshalvosh vanvot.",
     "translation": "E lhe nasceram sete filhos e três filhas."
   },
   {
     "verse": 14,
-    "original": "וַיִּקְרָ֤א שֵׁם־הָאַחַת֙ יְמִימָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית קְצִיעָ֑ה וְשֵׁ֥ם הַשְּׁלִישִׁ֖ית קֶ֥רֶן הַפּֽוּךְ׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֤א</span> <span data-strong=\"H8034\">שֵׁם</span>־<span data-strong=\"H259\">הָאַחַת֙</span> <span data-strong=\"H3224\">יְמִימָ֔ה</span> <span data-strong=\"H8034\">וְשֵׁ֥ם</span> <span data-strong=\"H8145\">הַשֵּׁנִ֖ית</span> <span data-strong=\"H7103\">קְצִיעָ֑ה</span> <span data-strong=\"H8034\">וְשֵׁ֥ם</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֖ית</span> <span data-strong=\"H7163\">קֶ֥רֶן</span> <span data-strong=\"H7163\">הַפּֽוּךְ׃</span>",
     "transliteration": "vayikera' shem-ha'ahat yemiymah veshem hasheniyt ketsiy'ah veshem hasheliyshiyt keren hafvkhe.",
     "translation": "E chamou o nome da primeira Jemima, e o nome da segunda Quzeia, e o nome da terceira Corna-fúcs."
   },
   {
     "verse": 15,
-    "original": "וְלֹ֨א נִמְצָ֜א נָשִׁ֥ים יָפ֛וֹת כִּבְנ֥וֹת אִיּ֖וֹב בְּכׇל־הָאָ֑רֶץ וַיִּתֵּ֨ן לָהֶ֧ם אֲבִיהֶ֛ם נַחֲלָ֖ה בְּת֥וֹךְ אֲחֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3808\">וְלֹ֨א</span> <span data-strong=\"H4672\">נִמְצָ֜א</span> <span data-strong=\"H802\">נָשִׁ֥ים</span> <span data-strong=\"H3303\">יָפ֛וֹת</span> <span data-strong=\"H1323\">כִּבְנ֥וֹת</span> <span data-strong=\"H347\">אִיּ֖וֹב</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H5414\">וַיִּתֵּ֨ן</span> <span data-strong=\"H3963\">לָהֶ֧ם</span> <span data-strong=\"H3963\">אֲבִיהֶ֛ם</span> <span data-strong=\"H5159\">נַחֲלָ֖ה</span> <span data-strong=\"H8432\">בְּת֥וֹךְ</span> <span data-strong=\"H3963\">אֲחֵיהֶֽם׃</span>",
     "transliteration": "velo' nimetsa' nashiym yafvot khivenvot 'iyvov vekhol-ha'arets vayiten lahem 'aviyhem nahalah vetvokhe 'aheyhem.",
     "translation": "E não se acharam mulheres formosas como as filhas de Jó em toda a terra, e seu pai lhes deu herança entre seus irmãos."
   },
@@ -97,7 +97,7 @@
   },
   {
     "verse": 17,
-    "original": "וַיָּ֣מׇת אִיּ֔וֹב זָקֵ֖ן וּשְׂבַ֥ע יָמִֽים׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֣מׇת</span> <span data-strong=\"H347\">אִיּ֔וֹב</span> <span data-strong=\"H2205\">זָקֵ֖ן</span> <span data-strong=\"H7649\">וּשְׂבַ֥ע</span> <span data-strong=\"H3117\">יָמִֽים׃</span>",
     "transliteration": "vayamot 'iyvov zaken vseva' yamiym.",
     "translation": "E morreu Jó, velho e cheio de dias."
   }

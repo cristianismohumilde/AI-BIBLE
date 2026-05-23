@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "וַיְשִׁבֵ֘נִי֮ אֶל־פֶּ֣תַח הַבַּ֒יִת֒ וְהִנֵּה־מַ֣יִם יֹצְאִ֗ים מִתַּ֨חַת מִפְתַּ֤ן הַבַּ֙יִת֙ קָדִ֔ימָה כִּֽי־פְנֵ֥י הַבַּ֖יִת קָדִ֑ים וְהַמַּ֣יִם יֹרְדִ֗ים מִתַּ֜חַת מִכֶּ֤תֶף הַבַּ֙יִת֙ הַיְמָנִ֔ית מִנֶּ֖גֶב לַמִּזְבֵּֽחַ׃",
+    "original": "<span data-strong=\"H5204\">וַיְשִׁבֵ֘נִי֮</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֣תַח</span> <span data-strong=\"H1004\">הַבַּ֒יִת֒</span> <span data-strong=\"H2009\">וְהִנֵּה</span>־<span data-strong=\"H4325\">מַ֣יִם</span> <span data-strong=\"H3318\">יֹצְאִ֗ים</span> <span data-strong=\"H8478\">מִתַּ֨חַת</span> <span data-strong=\"H4670\">מִפְתַּ֤ן</span> <span data-strong=\"H1004\">הַבַּ֙יִת֙</span> <span data-strong=\"H1886\">קָדִ֔ימָה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6440\">פְנֵ֥י</span> <span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H6921\">קָדִ֑ים</span> <span data-strong=\"H4325\">וְהַמַּ֣יִם</span> <span data-strong=\"H3381\">יֹרְדִ֗ים</span> <span data-strong=\"H8478\">מִתַּ֜חַת</span> <span data-strong=\"H3802\">מִכֶּ֤תֶף</span> <span data-strong=\"H1004\">הַבַּ֙יִת֙</span> <span data-strong=\"H3233\">הַיְמָנִ֔ית</span> <span data-strong=\"H5045\">מִנֶּ֖גֶב</span> <span data-strong=\"H4196\">לַמִּזְבֵּֽחַ׃</span>",
     "transliteration": "vayeshiveniy 'el-fetah havayit vehineh-mayim yotse'iym mitahat mifetan havayit kadiymah khiy-feney havayit kadiym vehamayim yorediym mitahat mikhetef havayit hayemaniyt minegev lamizeveha.",
     "translation": "E me conduziu até a porta da casa, e eis que águas fluíam abaixo do limiar da casa para leste, pois a fachada da casa voltava-se para o oriente; as águas desciam sob a ala sul da casa, do lado meridional, até o altar."
   },
   {
     "verse": 2,
-    "original": "וַיּוֹצִאֵ֘נִי֮ דֶּרֶךְ־שַׁ֣עַר צָפ֒וֹנָה֒ וַיְסִבֵּ֙נִי֙ דֶּ֣רֶךְ ח֔וּץ אֶל־שַׁ֣עַר הַח֔וּץ דֶּ֖רֶךְ הַפּוֹנֶ֣ה קָדִ֑ים וְהִנֵּה־מַ֣יִם מְפַכִּ֔ים מִן־הַכָּתֵ֖ף הַיְמָנִֽית׃",
+    "original": "<span data-strong=\"H5204\">וַיּוֹצִאֵ֘נִי֮</span> <span data-strong=\"H1870\">דֶּרֶךְ</span>־<span data-strong=\"H8179\">שַׁ֣עַר</span> <span data-strong=\"H1886\">צָפ֒וֹנָה֒</span> <span data-strong=\"H5204\">וַיְסִבֵּ֙נִי֙</span> <span data-strong=\"H1870\">דֶּ֣רֶךְ</span> <span data-strong=\"H2351\">ח֔וּץ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8179\">שַׁ֣עַר</span> <span data-strong=\"H2351\">הַח֔וּץ</span> <span data-strong=\"H1870\">דֶּ֖רֶךְ</span> <span data-strong=\"H6437\">הַפּוֹנֶ֣ה</span> <span data-strong=\"H6921\">קָדִ֑ים</span> <span data-strong=\"H2009\">וְהִנֵּה</span>־<span data-strong=\"H4325\">מַ֣יִם</span> <span data-strong=\"H6379\">מְפַכִּ֔ים</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3802\">הַכָּתֵ֖ף</span> <span data-strong=\"H3233\">הַיְמָנִֽית׃</span>",
     "transliteration": "vayvotsi'eniy derekhe-sha'ar tsafvonah vayesiveniy derekhe hvts 'el-sha'ar hahvts derekhe hafvoneh kadiym vehineh-mayim mefakhiym min-hakhatef hayemaniyt.",
     "translation": "E ele me fez sair pelo portão do norte e me levou ao redor, pelo caminho exterior, até o portão externo, que olha para o leste; eis que água corria, saindo pela extremidade direita."
   },
   {
     "verse": 3,
-    "original": "בְּצֵאת־הָאִ֥ישׁ קָדִ֖ים וְקָ֣ו בְּיָד֑וֹ וַיָּ֤מׇד אֶ֙לֶף֙ בָּֽאַמָּ֔ה וַיַּעֲבִרֵ֥נִי בַמַּ֖יִם מֵ֥י אׇפְסָֽיִם׃",
+    "original": "<span data-strong=\"H3318\">בְּצֵאת</span>־<span data-strong=\"H376\">הָאִ֥ישׁ</span> <span data-strong=\"H6921\">קָדִ֖ים</span> <span data-strong=\"H6957\">וְקָ֣ו</span> <span data-strong=\"H2050\">בְּיָד֑וֹ</span> <span data-strong=\"H4058\">וַיָּ֤מׇד</span> <span data-strong=\"H505\">אֶ֙לֶף֙</span> <span data-strong=\"H520\">בָּֽאַמָּ֔ה</span> <span data-strong=\"H5204\">וַיַּעֲבִרֵ֥נִי</span> <span data-strong=\"H4325\">בַמַּ֖יִם</span> <span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H657\">אׇפְסָֽיִם׃</span>",
     "transliteration": "vetse't-ha'iysh kadiym vekav veyadvo vayamod 'elef va'amah vaya'avireniy vamayim mey 'ofesayim.",
     "translation": "Ao sair o homem ao amanhecer, com corda na mão, mediu mil côvados; e me fez passar pelas águas de Afens."
   },
   {
     "verse": 4,
-    "original": "וַיָּ֣מׇד אֶ֔לֶף וַיַּעֲבִרֵ֥נִי בַמַּ֖יִם מַ֣יִם בִּרְכָּ֑יִם וַיָּ֣מׇד אֶ֔לֶף וַיַּעֲבִרֵ֖נִי מֵ֥י מׇתְנָֽיִם׃",
+    "original": "<span data-strong=\"H4058\">וַיָּ֣מׇד</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H5204\">וַיַּעֲבִרֵ֥נִי</span> <span data-strong=\"H4325\">בַמַּ֖יִם</span> <span data-strong=\"H4325\">מַ֣יִם</span> <span data-strong=\"H1290\">בִּרְכָּ֑יִם</span> <span data-strong=\"H4058\">וַיָּ֣מׇד</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H5204\">וַיַּעֲבִרֵ֖נִי</span> <span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H4975\">מׇתְנָֽיִם׃</span>",
     "transliteration": "vayamod 'elef vaya'avireniy vamayim mayim virekhayim vayamod 'elef vaya'avireniy mey motenayim.",
     "translation": "E ele me mediu em mil, e me fez passar pelas águas à altura dos rins; e ele me mediu em mil, e me fez passar as águas até os quadris."
   },
   {
     "verse": 5,
-    "original": "וַיָּ֣מׇד אֶ֔לֶף נַ֕חַל אֲשֶׁ֥ר לֹא־אוּכַ֖ל לַעֲבֹ֑ר כִּֽי־גָא֤וּ הַמַּ֙יִם֙ מֵ֣י שָׂ֔חוּ נַ֖חַל אֲשֶׁ֥ר לֹא־יֵעָבֵֽר׃",
+    "original": "<span data-strong=\"H4058\">וַיָּ֣מׇד</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H5158\">נַ֕חַל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">אוּכַ֖ל</span> <span data-strong=\"H5674\">לַעֲבֹ֑ר</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1342\">גָא֤וּ</span> <span data-strong=\"H4325\">הַמַּ֙יִם֙</span> <span data-strong=\"H4325\">מֵ֣י</span> <span data-strong=\"H7813\">שָׂ֔חוּ</span> <span data-strong=\"H5158\">נַ֖חַל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5674\">יֵעָבֵֽר׃</span>",
     "transliteration": "vayamod 'elef nahal 'asher lo'-'vkhal la'avor khiy-ga'v hamayim mey sahv nahal 'asher lo'-ye'aver.",
     "translation": "E encontrei um rio que não podia atravessar, pois as águas transbordavam, um rio intransponível."
   },
   {
     "verse": 6,
-    "original": "וַיֹּ֥אמֶר אֵלַ֖י הֲרָאִ֣יתָ בֶן־אָדָ֑ם וַיּוֹלִכֵ֥נִי וַיְשִׁבֵ֖נִי שְׂפַ֥ת הַנָּֽחַל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H2967\">אֵלַ֖י</span> <span data-strong=\"H7200\">הֲרָאִ֣יתָ</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H120\">אָדָ֑ם</span> <span data-strong=\"H5204\">וַיּוֹלִכֵ֥נִי</span> <span data-strong=\"H5204\">וַיְשִׁבֵ֖נִי</span> <span data-strong=\"H8193\">שְׂפַ֥ת</span> <span data-strong=\"H5158\">הַנָּֽחַל׃</span>",
     "transliteration": "vayo'mer 'elay hara'iyta ven-'adam vayvolikheniy vayeshiveniy sefat hanahal.",
     "translation": "E disse-me: \"Vês, filho do homem?\" E me conduziu e fez-me chegar à beira do rio."
   },
   {
     "verse": 7,
-    "original": "בְּשׁוּבֵ֕נִי וְהִנֵּה֙ אֶל־שְׂפַ֣ת הַנַּ֔חַל עֵ֖ץ רַ֣ב מְאֹ֑ד מִזֶּ֖ה וּמִזֶּֽה׃",
+    "original": "<span data-strong=\"H5204\">בְּשׁוּבֵ֕נִי</span> <span data-strong=\"H2009\">וְהִנֵּה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8193\">שְׂפַ֣ת</span> <span data-strong=\"H5158\">הַנַּ֔חַל</span> <span data-strong=\"H6086\">עֵ֖ץ</span> <span data-strong=\"H7227\">רַ֣ב</span> <span data-strong=\"H3966\">מְאֹ֑ד</span> <span data-strong=\"H2088\">מִזֶּ֖ה</span> <span data-strong=\"H2088\">וּמִזֶּֽה׃</span>",
     "transliteration": "veshvveniy vehineh 'el-sefat hanahal 'ets rav me'od mizeh vmizeh.",
     "translation": "Ao me voltar, eis que junto à margem do rio havia uma árvore muito grande, deste lado e daquele."
   },
   {
     "verse": 8,
-    "original": "וַיֹּ֣אמֶר אֵלַ֗י הַמַּ֤יִם הָאֵ֙לֶּה֙ יוֹצְאִ֗ים אֶל־הַגְּלִילָה֙ הַקַּדְמוֹנָ֔ה וְיָרְד֖וּ עַל־הָעֲרָבָ֑ה וּבָ֣אוּ הַיָּ֔מָּה אֶל־הַיָּ֥מָּה הַמּוּצָאִ֖ים וְנִרְפּ֥אוּ הַמָּֽיִם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H4325\">הַמַּ֤יִם</span> <span data-strong=\"H428\">הָאֵ֙לֶּה֙</span> <span data-strong=\"H3318\">יוֹצְאִ֗ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1552\">הַגְּלִילָה֙</span> <span data-strong=\"H6930\">הַקַּדְמוֹנָ֔ה</span> <span data-strong=\"H3381\">וְיָרְד֖וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6160\">הָעֲרָבָ֑ה</span> <span data-strong=\"H935\">וּבָ֣אוּ</span> <span data-strong=\"H1886\">הַיָּ֔מָּה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1886\">הַיָּ֥מָּה</span> <span data-strong=\"H3318\">הַמּוּצָאִ֖ים</span> וְנִרְפּ֥אוּ <span data-strong=\"H7495\">הַמָּֽיִם׃</span>",
     "transliteration": "vayo'mer 'elay hamayim ha'eleh yvotse'iym 'el-hageliylah hakademvonah veyaredv 'al-ha'aravah vva'v hayamah 'el-hayamah hamvtsa'iym veniref'v hamayim.",
     "translation": "E disse-me: Estas águas saem para o lago da frente e descerão na Arabá, e entrará no mar morto; e sarar-se-ão as águas."
   },
@@ -73,19 +73,19 @@
   },
   {
     "verse": 13,
-    "original": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה גֵּ֤ה גְבוּל֙ אֲשֶׁ֣ר תִּתְנַחֲל֣וּ אֶת־הָאָ֔רֶץ לִשְׁנֵ֥י עָשָׂ֖ר שִׁבְטֵ֣י יִשְׂרָאֵ֑ל יוֹסֵ֖ף חֲבָלִֽים׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֤ה</span> <span data-strong=\"H559\">אָמַר֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H1454\">גֵּ֤ה</span> <span data-strong=\"H1366\">גְבוּל֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5157\">תִּתְנַחֲל֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H8147\">לִשְׁנֵ֥י</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H7626\">שִׁבְטֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H3130\">יוֹסֵ֖ף</span> <span data-strong=\"H2256\">חֲבָלִֽים׃</span>",
     "transliteration": "khoh 'amar 'adonay yehovih geh gevvl 'asher titenahalv 'et-ha'arets lisheney 'asar shivetey yisera'el yvosef havaliym.",
     "translation": "Assim diz o Senhor, o Senhor: Esta é a região que vós receberdes como herança na terra, para as doze tribos de Israel; José terá duas porções."
   },
   {
     "verse": 14,
-    "original": "וּנְחַלְתֶּ֤ם אוֹתָהּ֙ אִ֣ישׁ כְּאָחִ֔יו אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־יָדִ֔י לְתִתָּ֖הּ לַאֲבֹֽתֵיכֶ֑ם וְנָ֨פְלָ֜ה הָאָ֧רֶץ הַזֹּ֛את לָכֶ֖ם בְּנַחֲלָֽה׃",
+    "original": "<span data-strong=\"H5157\">וּנְחַלְתֶּ֤ם</span> <span data-strong=\"H1886\">אוֹתָהּ֙</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H2050\">כְּאָחִ֔יו</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5375\">נָשָׂ֙אתִי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">יָדִ֔י</span> <span data-strong=\"H1886\">לְתִתָּ֖הּ</span> <span data-strong=\"H3641\">לַאֲבֹֽתֵיכֶ֑ם</span> <span data-strong=\"H5307\">וְנָ֨פְלָ֜ה</span> <span data-strong=\"H776\">הָאָ֧רֶץ</span> <span data-strong=\"H2063\">הַזֹּ֛את</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H5159\">בְּנַחֲלָֽה׃</span>",
     "transliteration": "vnehaletem 'votah 'iysh khe'ahiyv 'asher nasa'tiy 'et-yadiy letitah la'avoteykhem venafelah ha'arets hazo't lakhem venahalah.",
     "translation": "E herdá-la-eis cada um como seu irmão, a quem estendi minha mão para dar aos vossos pais; e esta terra cairá por herança a vós."
   },
   {
     "verse": 15,
-    "original": "וְזֶ֖ה גְּב֣וּל הָאָ֑רֶץ לִפְאַ֨ת צָפ֜וֹנָה מִן־הַיָּ֧ם הַגָּד֛וֹל הַדֶּ֥רֶךְ חֶתְלֹ֖ן לְב֥וֹא צְדָֽדָה׃",
+    "original": "<span data-strong=\"H2088\">וְזֶ֖ה</span> <span data-strong=\"H1366\">גְּב֣וּל</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H6285\">לִפְאַ֨ת</span> <span data-strong=\"H1886\">צָפ֜וֹנָה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3220\">הַיָּ֧ם</span> <span data-strong=\"H1419\">הַגָּד֛וֹל</span> <span data-strong=\"H1870\">הַדֶּ֥רֶךְ</span> <span data-strong=\"H2855\">חֶתְלֹ֖ן</span> <span data-strong=\"H3820\">לְב֥וֹא</span> <span data-strong=\"H1886\">צְדָֽדָה׃</span>",
     "transliteration": "vezeh gevvl ha'arets life'at tsafvonah min-hayam hagadvol haderekhe hetelon levvo' tsedadah.",
     "translation": "E esta é a fronteira da terra: para o lado do norte, do grande mar pela direção de Hethlon, para entrar lateralmente."
   },
@@ -103,31 +103,31 @@
   },
   {
     "verse": 18,
-    "original": "וּפְאַ֣ת קָדִ֡ים מִבֵּ֣ין חַוְרָ֣ן וּמִבֵּין־דַּמֶּ֩שֶׂק֩ וּמִבֵּ֨ין הַגִּלְעָ֜ד וּמִבֵּ֨ין אֶ֤רֶץ יִשְׂרָאֵל֙ הַיַּרְדֵּ֔ן מִגְּב֛וּל עַל־הַיָּ֥ם הַקַּדְמוֹנִ֖י תָּמֹ֑דּוּ וְאֵ֖ת פְּאַ֥ת קָדִֽימָה׃",
+    "original": "<span data-strong=\"H6285\">וּפְאַ֣ת</span> <span data-strong=\"H6921\">קָדִ֡ים</span> <span data-strong=\"H996\">מִבֵּ֣ין</span> <span data-strong=\"H2362\">חַוְרָ֣ן</span> <span data-strong=\"H996\">וּמִבֵּין</span>־<span data-strong=\"H1834\">דַּמֶּ֩שֶׂק֩</span> <span data-strong=\"H996\">וּמִבֵּ֨ין</span> <span data-strong=\"H1568\">הַגִּלְעָ֜ד</span> <span data-strong=\"H996\">וּמִבֵּ֨ין</span> <span data-strong=\"H776\">אֶ֤רֶץ</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֔ן</span> <span data-strong=\"H1366\">מִגְּב֛וּל</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3220\">הַיָּ֥ם</span> <span data-strong=\"H6931\">הַקַּדְמוֹנִ֖י</span> <span data-strong=\"H4058\">תָּמֹ֑דּוּ</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H6285\">פְּאַ֥ת</span> <span data-strong=\"H1886\">קָדִֽימָה׃</span>",
     "transliteration": "vfe'at kadiym miveyn haveran vmiveyn-damesek vmiveyn hagile'ad vmiveyn 'erets yisera'el hayareden migevvl 'al-hayam hakademvoniy tamodv ve'et fe'at kadiymah.",
     "translation": "E a extremidade do leste entre Harã e Damasco, entre o Giléade e a terra de Israel pelo Jordão, desde o limite até ao mar Oriental, será aquela extremidade leste."
   },
   {
     "verse": 19,
-    "original": "וּפְאַת֙ נֶ֣גֶב תֵּימָ֔נָה מִתָּמָ֗ר עַד־מֵי֙ מְרִיב֣וֹת קָדֵ֔שׁ נַחֲלָ֖ה אֶל־הַיָּ֣ם הַגָּד֑וֹל וְאֵ֥ת פְּאַת־תֵּימָ֖נָה נֶֽגְבָּה׃",
+    "original": "<span data-strong=\"H6285\">וּפְאַת֙</span> <span data-strong=\"H5045\">נֶ֣גֶב</span> <span data-strong=\"H1886\">תֵּימָ֔נָה</span> <span data-strong=\"H8559\">מִתָּמָ֗ר</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4325\">מֵי֙</span> <span data-strong=\"H4809\">מְרִיב֣וֹת</span> <span data-strong=\"H6946\">קָדֵ֔שׁ</span> <span data-strong=\"H5158\">נַחֲלָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3220\">הַיָּ֣ם</span> <span data-strong=\"H1419\">הַגָּד֑וֹל</span> <span data-strong=\"H853\">וְאֵ֥ת</span> <span data-strong=\"H6285\">פְּאַת</span>־<span data-strong=\"H1886\">תֵּימָ֖נָה</span> <span data-strong=\"H1886\">נֶֽגְבָּה׃</span>",
     "transliteration": "vfe'at negev teymanah mitamar 'ad-mey meriyvvot kadesh nahalah 'el-hayam hagadvol ve'et fe'at-teymanah negevah.",
     "translation": "E a extremidade do sul será desde Tema até às águas da ribeira de Meribá-Kadesh, até ao grande mar; e a extremidade meridional voltará para o lado sul."
   },
   {
     "verse": 20,
-    "original": "וּפְאַת־יָם֙ הַיָּ֣ם הַגָּד֔וֹל מִגְּב֕וּל עַד־נֹ֖כַח לְב֣וֹא חֲמָ֑ת זֹ֖את פְּאַת־יָֽם׃",
+    "original": "<span data-strong=\"H6285\">וּפְאַת</span>־<span data-strong=\"H3220\">יָם֙</span> <span data-strong=\"H3220\">הַיָּ֣ם</span> <span data-strong=\"H1419\">הַגָּד֔וֹל</span> <span data-strong=\"H1366\">מִגְּב֕וּל</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5227\">נֹ֖כַח</span> <span data-strong=\"H3820\">לְב֣וֹא</span> <span data-strong=\"H2574\">חֲמָ֑ת</span> <span data-strong=\"H2063\">זֹ֖את</span> <span data-strong=\"H6285\">פְּאַת</span>־<span data-strong=\"H3220\">יָֽם׃</span>",
     "transliteration": "vfe'at-yam hayam hagadvol migevvl 'ad-nokhah levvo' hamat zo't fe'at-yam.",
     "translation": "E a extremidade do grande mar, desde o limite até à frente da entrada para Hamat, esta é a extremidade do mar."
   },
   {
     "verse": 21,
-    "original": "וְחִלַּקְתֶּ֞ם אֶת־הָאָ֧רֶץ הַזֹּ֛את לָכֶ֖ם לְשִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H2505\">וְחִלַּקְתֶּ֞ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H776\">הָאָ֧רֶץ</span> <span data-strong=\"H2063\">הַזֹּ֛את</span> <span data-strong=\"H3641\">לָכֶ֖ם</span> <span data-strong=\"H7626\">לְשִׁבְטֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vehilaketem 'et-ha'arets hazo't lakhem leshivetey yisera'el.",
     "translation": "E dividireis esta terra entre vós para as tribos de Israel."
   },
   {
     "verse": 22,
-    "original": "וְהָיָ֗ה תַּפִּ֣לוּ אוֹתָהּ֮ בְּנַחֲלָה֒ לָכֶ֗ם וּלְהַגֵּרִים֙ הַגָּרִ֣ים בְּתוֹכְכֶ֔ם אֲשֶׁר־הוֹלִ֥דוּ בָנִ֖ים בְּתוֹכְכֶ֑ם וְהָי֣וּ לָכֶ֗ם כְּאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל אִתְּכֶם֙ יִפְּל֣וּ בְנַֽחֲלָ֔ה בְּת֖וֹךְ שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H1961\">וְהָיָ֗ה</span> <span data-strong=\"H5307\">תַּפִּ֣לוּ</span> <span data-strong=\"H1886\">אוֹתָהּ֮</span> <span data-strong=\"H5159\">בְּנַחֲלָה֒</span> <span data-strong=\"H3641\">לָכֶ֗ם</span> <span data-strong=\"H1616\">וּלְהַגֵּרִים֙</span> <span data-strong=\"H1481\">הַגָּרִ֣ים</span> <span data-strong=\"H3641\">בְּתוֹכְכֶ֔ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3205\">הוֹלִ֥דוּ</span> <span data-strong=\"H1121\">בָנִ֖ים</span> <span data-strong=\"H3641\">בְּתוֹכְכֶ֑ם</span> <span data-strong=\"H1961\">וְהָי֣וּ</span> <span data-strong=\"H3641\">לָכֶ֗ם</span> <span data-strong=\"H249\">כְּאֶזְרָח֙</span> <span data-strong=\"H1121\">בִּבְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3641\">אִתְּכֶם֙</span> <span data-strong=\"H5307\">יִפְּל֣וּ</span> <span data-strong=\"H5159\">בְנַֽחֲלָ֔ה</span> <span data-strong=\"H8432\">בְּת֖וֹךְ</span> <span data-strong=\"H7626\">שִׁבְטֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vehayah tafilv 'votah venahalah lakhem vlehageriym hagariym vetvokhekhem 'asher-hvolidv vaniym vetvokhekhem vehayv lakhem khe'ezerah viveney yisera'el 'itekhem yifelv venahalah vetvokhe shivetey yisera'el.",
     "translation": "E será dada em possessão a vós, e aos estrangeiros que se estabelecerem entre vós, os quais tiverem filhos entre vós; serão como nativos entre os filhos de Israel. Com vós se lhes dará possessão entre as tribos de Israel."
   },

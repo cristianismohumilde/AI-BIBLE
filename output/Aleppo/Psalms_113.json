@@ -7,13 +7,13 @@
   },
   {
     "verse": 2,
-    "original": "יְהִ֤י שֵׁ֣ם יְהֹוָ֣ה מְבֹרָ֑ךְ מֵ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃",
+    "original": "<span data-strong=\"H1961\">יְהִ֤י</span> <span data-strong=\"H8034\">שֵׁ֣ם</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H1288\">מְבֹרָ֑ךְ</span> <span data-strong=\"H6258\">מֵ֝עַתָּ֗ה</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H5769\">עוֹלָֽם׃</span>",
     "transliteration": "yehiy shem yehovah mevorakhe me'atah ve'ad-'volam.",
     "translation": "Seja abençoado o nome do Senhor, desde agora e para sempre."
   },
   {
     "verse": 3,
-    "original": "מִמִּזְרַח־שֶׁ֥מֶשׁ עַד־מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H4217\">מִמִּזְרַח</span>־<span data-strong=\"H8121\">שֶׁ֥מֶשׁ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H2050\">מְבוֹא֑וֹ</span> <span data-strong=\"H1984\">מְ֝הֻלָּ֗ל</span> <span data-strong=\"H8034\">שֵׁ֣ם</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "mimizerah-shemesh 'ad-mevvo'vo mehulal shem yehovah.",
     "translation": "Do nascer ao pôr-do-sol, o nome do Senhor é louvado."
   },
@@ -25,25 +25,25 @@
   },
   {
     "verse": 5,
-    "original": "מִ֭י כַּיהֹוָ֣ה אֱלֹהֵ֑ינוּ הַֽמַּגְבִּיהִ֥י לָשָֽׁבֶת׃",
+    "original": "<span data-strong=\"H4310\">מִ֭י</span> <span data-strong=\"H3068\">כַּיהֹוָ֣ה</span> <span data-strong=\"H5105\">אֱלֹהֵ֑ינוּ</span> <span data-strong=\"H1361\">הַֽמַּגְבִּיהִ֥י</span> <span data-strong=\"H3427\">לָשָֽׁבֶת׃</span>",
     "transliteration": "miy khayhovah 'eloheynv hamageviyhiy lashavet.",
     "translation": "Quem como o Senhor, nosso Deus, exalta os humildes?"
   },
   {
     "verse": 6,
-    "original": "הַֽמַּשְׁפִּילִ֥י לִרְא֑וֹת בַּשָּׁמַ֥יִם וּבָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H8213\">הַֽמַּשְׁפִּילִ֥י</span> <span data-strong=\"H7200\">לִרְא֑וֹת</span> <span data-strong=\"H8064\">בַּשָּׁמַ֥יִם</span> <span data-strong=\"H776\">וּבָאָֽרֶץ׃</span>",
     "transliteration": "hamashefiyliy lire'vot vashamayim vva'arets.",
     "translation": "O que abaixa para ver nos céus e na terra."
   },
   {
     "verse": 7,
-    "original": "מְקִ֥ימִ֣י מֵעָפָ֣ר דָּ֑ל מֵ֝אַשְׁפֹּ֗ת יָרִ֥ים אֶבְיֽוֹן׃",
+    "original": "<span data-strong=\"H6965\">מְקִ֥ימִ֣י</span> <span data-strong=\"H6083\">מֵעָפָ֣ר</span> <span data-strong=\"H1800\">דָּ֑ל</span> <span data-strong=\"H830\">מֵ֝אַשְׁפֹּ֗ת</span> <span data-strong=\"H7311\">יָרִ֥ים</span> <span data-strong=\"H34\">אֶבְיֽוֹן׃</span>",
     "transliteration": "mekiymiy me'afar dal me'ashefot yariym 'eveyvon.",
     "translation": "Ergue do pó o pobre, de escombros levanta o necessitado."
   },
   {
     "verse": 8,
-    "original": "לְהוֹשִׁיבִ֥י עִם־נְדִיבִ֑ים עִ֝֗ם נְדִיבֵ֥י עַמּֽוֹ׃",
+    "original": "<span data-strong=\"H3427\">לְהוֹשִׁיבִ֥י</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H5081\">נְדִיבִ֑ים</span> <span data-strong=\"H5973\">עִ֝֗ם</span> <span data-strong=\"H5081\">נְדִיבֵ֥י</span> <span data-strong=\"H2050\">עַמּֽוֹ׃</span>",
     "transliteration": "lehvoshiyviy 'im-nediyviym 'im nediyvey 'amvo.",
     "translation": "Para sentá-lo entre os nobres, com os nobres do seu povo."
   },

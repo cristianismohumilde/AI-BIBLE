@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "וַיִּקְרָ֣א מֹשֶׁה֮ אֶל־כׇּל־יִשְׂרָאֵל֒ וַיֹּ֣אמֶר אֲלֵהֶ֗ם שְׁמַ֤ע יִשְׂרָאֵל֙ אֶת־הַחֻקִּ֣ים וְאֶת־הַמִּשְׁפָּטִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י דֹּבֵ֥ר בְּאׇזְנֵיכֶ֖ם הַיּ֑וֹם וּלְמַדְתֶּ֣ם אֹתָ֔ם וּשְׁמַרְתֶּ֖ם לַעֲשֹׂתָֽם׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֣א</span> <span data-strong=\"H4872\">מֹשֶׁה֮</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֒</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3963\">אֲלֵהֶ֗ם</span> <span data-strong=\"H8085\">שְׁמַ֤ע</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2706\">הַחֻקִּ֣ים</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4941\">הַמִּשְׁפָּטִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H595\">אָנֹכִ֛י</span> <span data-strong=\"H1696\">דֹּבֵ֥ר</span> <span data-strong=\"H3641\">בְּאׇזְנֵיכֶ֖ם</span> <span data-strong=\"H3117\">הַיּ֑וֹם</span> <span data-strong=\"H3925\">וּלְמַדְתֶּ֣ם</span> <span data-strong=\"H3963\">אֹתָ֔ם</span> <span data-strong=\"H8104\">וּשְׁמַרְתֶּ֖ם</span> <span data-strong=\"H3963\">לַעֲשֹׂתָֽם׃</span>",
     "transliteration": "vayikera' mosheh 'el-khol-yisera'el vayo'mer 'alehem shema' yisera'el 'et-hahukiym ve'et-hamishefatiym 'asher 'anokhiy dover ve'ozeneykhem hayvom vlemadetem 'otam vshemaretem la'asotam.",
     "translation": "E Moisés clamou a todo Israel e disse-lhes: Ouvi, ó Israel, os estatutos e os juízos que eu falo em vossos ouvidos neste dia e aprendei-os e guardai para fazerdes."
   },
   {
     "verse": 2,
-    "original": "יְהֹוָ֣ה אֱלֹהֵ֗ינוּ כָּרַ֥ת עִמָּ֛נוּ בְּרִ֖ית בְּחֹרֵֽב׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H5105\">אֱלֹהֵ֗ינוּ</span> <span data-strong=\"H3772\">כָּרַ֥ת</span> <span data-strong=\"H5105\">עִמָּ֛נוּ</span> <span data-strong=\"H1285\">בְּרִ֖ית</span> <span data-strong=\"H2722\">בְּחֹרֵֽב׃</span>",
     "transliteration": "yehovah 'eloheynv kharat 'imanv veriyt vehorev.",
     "translation": "O Senhor nosso Deus fez com nós uma aliança no Horebe."
   },
   {
     "verse": 3,
-    "original": "לֹ֣א אֶת־אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהֹוָ֖ה אֶת־הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֔נוּ אֲנַ֨חְנוּ אֵ֥לֶּה פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים׃",
+    "original": "<span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H5105\">אֲבֹתֵ֔ינוּ</span> <span data-strong=\"H3772\">כָּרַ֥ת</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1285\">הַבְּרִ֣ית</span> <span data-strong=\"H2063\">הַזֹּ֑את</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5105\">אִתָּ֔נוּ</span> <span data-strong=\"H587\">אֲנַ֨חְנוּ</span> <span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H6311\">פֹ֛ה</span> <span data-strong=\"H3117\">הַיּ֖וֹם</span> <span data-strong=\"H5105\">כֻּלָּ֥נוּ</span> <span data-strong=\"H2416\">חַיִּֽים׃</span>",
     "transliteration": "lo' 'et-'avoteynv kharat yehovah 'et-haveriyt hazo't khiy 'itanv 'anahenv 'eleh foh hayvom khulanv hayiym.",
     "translation": "Não com nossos pais fez o Senhor esta aliança, mas conosco que estamos aqui presentes hoje; todos nós vivemos."
   },
   {
     "verse": 4,
-    "original": "פָּנִ֣ים&thinsp;<b>׀</b> בְּפָנִ֗ים דִּבֶּ֨ר יְהֹוָ֧ה עִמָּכֶ֛ם בָּהָ֖ר מִתּ֥וֹךְ הָאֵֽשׁ׃",
+    "original": "<span data-strong=\"H6440\">פָּנִ֣ים&thinsp;<b>׀</b></span> <span data-strong=\"H6440\">בְּפָנִ֗ים</span> <span data-strong=\"H1696\">דִּבֶּ֨ר</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H3641\">עִמָּכֶ֛ם</span> <span data-strong=\"H2022\">בָּהָ֖ר</span> <span data-strong=\"H8432\">מִתּ֥וֹךְ</span> <span data-strong=\"H784\">הָאֵֽשׁ׃</span>",
     "transliteration": "faniym&thinsp;<b>|</b> vefaniym diver yehovah 'imakhem vahar mitvokhe ha'esh.",
     "translation": "Com rosto em rosto, o Senhor falou convosco no monte, do meio do fogo."
   },
@@ -31,13 +31,13 @@
   },
   {
     "verse": 6,
-    "original": "אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃",
+    "original": "<span data-strong=\"H595\">אָֽנֹכִ֖י֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑֔יךָ</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">הוֹצֵאתִ֛יךָ</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H1004\">מִבֵּ֣֥ית</span> <span data-strong=\"H5650\">עֲבָדִ֑͏ֽים׃</span>",
     "transliteration": "'anokhiy yehovah 'eloheykha 'asher hvotse'tiykha me'erets mitserayim miveyt 'avadiym.",
     "translation": "Eu sou o Senhor, teu Deus, que te tirei da terra do Egito, da casa da servidão."
   },
   {
     "verse": 7,
-    "original": "לֹ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃",
+    "original": "<span data-strong=\"H3808\">לֹ֣א</span>־<span data-strong=\"H1961\">יִהְיֶ֥͏ֽה</span>־<span data-strong=\"H3509\">לְךָ֛֩</span> <span data-strong=\"H430\">אֱלֹהִ֥֨ים</span> <span data-strong=\"H312\">אֲחֵרִ֖֜ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2967\">פָּנָֽ͏ַ֗י׃</span>",
     "transliteration": "lo'-yiheyeh-lekha 'elohiym 'aheriym 'al-fanaay.",
     "translation": "Não terás outros deuses diante de mim."
   },
@@ -49,7 +49,7 @@
   },
   {
     "verse": 9,
-    "original": "לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָב֧וֹת עַל־בָּנִ֛ים וְעַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7812\">תִשְׁתַּחֲוֶ֥֣ה</span> <span data-strong=\"H3963\">לָהֶ֖ם֮</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3963\">תׇעׇבְדֵ֑ם֒</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H595\">אָנֹכִ֞י</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֙יךָ֙</span> <span data-strong=\"H410\">אֵ֣ל</span> <span data-strong=\"H7067\">קַנָּ֔א</span> <span data-strong=\"H6485\">פֹּ֠קֵ֠ד</span> <span data-strong=\"H5771\">עֲוֺ֨ן</span> <span data-strong=\"H1\">אָב֧וֹת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1121\">בָּנִ֛ים</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H8029\">שִׁלֵּשִׁ֥ים</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H7256\">רִבֵּעִ֖ים</span> <span data-strong=\"H2967\">לְשֹׂנְאָֽ֑י׃</span>",
     "transliteration": "lo'-tishetahaveh lahem velo' to'ovedem khiy 'anokhiy yehovah 'eloheykha 'el kana' foked 'avon 'avvot 'al-vaniym ve'al-shileshiym ve'al-rive'iym lesone'ay.",
     "translation": "Não os adoreis, nem os sirvais; pois eu sou o Senhor vosso Deus, um Deus ciumento, que recompensa a iniquidade dos pais nos filhos e nos netos, até à terceira e quarta geração daqueles que me odeiam."
   },
@@ -67,19 +67,19 @@
   },
   {
     "verse": 12,
-    "original": "שָׁמ֛֣וֹר אֶת־י֥וֹם֩ הַשַּׁבָּ֖֨ת לְקַדְּשׁ֑֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖֣&thinsp;<b>׀</b> יְהֹוָ֥֣ה אֱלֹהֶֽ֗יךָ׃",
+    "original": "<span data-strong=\"H8104\">שָׁמ֛֣וֹר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3117\">י֥וֹם֩</span> <span data-strong=\"H7676\">הַשַּׁבָּ֖֨ת</span> <span data-strong=\"H2050\">לְקַדְּשׁ֑֜וֹ</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H3509\">צִוְּךָ֖֣&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">יְהֹוָ֥֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶֽ֗יךָ׃</span>",
     "transliteration": "shamvor 'et-yvom hashavat lekadeshvo kha'asher tsivekha&thinsp;<b>|</b> yehovah 'eloheykha.",
     "translation": "Guarda o dia do sábado para santificá-lo, como te ordenou o Senhor, teu Deus."
   },
   {
     "verse": 13,
-    "original": "שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃",
+    "original": "<span data-strong=\"H8337\">שֵׁ֤֣שֶׁת</span> <span data-strong=\"H3117\">יָמִ֣ים֙</span> <span data-strong=\"H5647\">תַּֽעֲבֹ֔ד֮</span> <span data-strong=\"H6213\">וְעָשִׂ֖֣יתָ</span> <span data-strong=\"H3605\">כׇּֿל</span>־<span data-strong=\"H3509\">מְלַאכְתֶּֽךָ֒׃</span>",
     "transliteration": "sheshet yamiym ta'avod ve'asiyta khol-mela'khetekha.",
     "translation": "Seis dias trabalharás e farás toda a tua obra."
   },
   {
     "verse": 14,
-    "original": "וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת&thinsp;<b>׀</b> לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹ֣א תַעֲשֶׂ֣ה כׇל־מְלָאכָ֡ה אַתָּ֣ה וּבִנְךָֽ־וּבִתֶּ֣ךָ וְעַבְדְּךָֽ־וַ֠אֲמָתֶ֠ךָ וְשׁוֹרְךָ֨ וַחֲמֹֽרְךָ֜ וְכׇל־בְּהֶמְתֶּ֗ךָ וְגֵֽרְךָ֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ לְמַ֗עַן יָנ֛וּחַ עַבְדְּךָ֥ וַאֲמָתְךָ֖ כָּמֽ֑וֹךָ׃",
+    "original": "<span data-strong=\"H3117\">וְי֨וֹם֙</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔֜י</span> <span data-strong=\"H7676\">שַׁבָּ֖֣ת&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">לַיהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑֗יךָ</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H6213\">תַעֲשֶׂ֣ה</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H4399\">מְלָאכָ֡ה</span> <span data-strong=\"H859\">אַתָּ֣ה</span> <span data-strong=\"H3509\">וּבִנְךָֽ</span>־<span data-strong=\"H3509\">וּבִתֶּ֣ךָ</span> <span data-strong=\"H3509\">וְעַבְדְּךָֽ</span>־<span data-strong=\"H3509\">וַ֠אֲמָתֶ֠ךָ</span> <span data-strong=\"H3509\">וְשׁוֹרְךָ֨</span> <span data-strong=\"H3509\">וַחֲמֹֽרְךָ֜</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H3509\">בְּהֶמְתֶּ֗ךָ</span> <span data-strong=\"H3509\">וְגֵֽרְךָ֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H3509\">בִּשְׁעָרֶ֔יךָ</span> <span data-strong=\"H4616\">לְמַ֗עַן</span> <span data-strong=\"H5117\">יָנ֛וּחַ</span> <span data-strong=\"H3509\">עַבְדְּךָ֥</span> <span data-strong=\"H3509\">וַאֲמָתְךָ֖</span> <span data-strong=\"H3509\">כָּמֽ֑וֹךָ׃</span>",
     "transliteration": "veyvom hasheviy'iy shavat&thinsp;<b>|</b> layhovah 'eloheykha lo' ta'aseh khol-mela'khah 'atah vvinekha-vvitekha ve'avedekha-va'amatekha veshvorekha vahamorekha vekhol-vehemetekha vegerekha 'asher vishe'areykha lema'an yanvha 'avedekha va'amatekha khamvokha.",
     "translation": "E no sétimo dia, será sábado ao Senhor teu Deus; não farás qualquer obra, tu, teu filho e tua filha, teu servo e tua serva, e o teu boi e a tua jumenta, e todo o teu gado, e o estrangeiro que está nas tuas portas, para que descanse teu servo e tua serva como tu."
   },

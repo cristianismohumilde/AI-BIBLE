@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "וַיְהִ֣י אַחֲרֵי־כֵ֗ן וּלְאַבְשָׁל֧וֹם בֶּן־דָּוִ֛ד אָח֥וֹת יָפָ֖ה וּשְׁמָ֣הּ תָּמָ֑ר וַיֶּאֱהָבֶ֖הָ אַמְנ֥וֹן בֶּן־דָּוִֽד׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י</span> <span data-strong=\"H310\">אַחֲרֵי</span>־<span data-strong=\"H3651\">כֵ֗ן</span> <span data-strong=\"H53\">וּלְאַבְשָׁל֧וֹם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1732\">דָּוִ֛ד</span> <span data-strong=\"H269\">אָח֥וֹת</span> <span data-strong=\"H3303\">יָפָ֖ה</span> <span data-strong=\"H1886\">וּשְׁמָ֣הּ</span> <span data-strong=\"H8559\">תָּמָ֑ר</span> <span data-strong=\"H1886\">וַיֶּאֱהָבֶ֖הָ</span> <span data-strong=\"H550\">אַמְנ֥וֹן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1732\">דָּוִֽד׃</span>",
     "transliteration": "vayehiy 'aharey-khen vle'aveshalvom ven-david 'ahvot yafah vshemah tamar vaye'ehaveha 'amenvon ven-david.",
     "translation": "E foi depois disso que Absalão, filho de Davi, tinha uma irmã formosa; e seu nome era Tamar. Amnôm, filho de Davi, a amou."
   },
   {
     "verse": 2,
-    "original": "וַיֵּ֨צֶר לְאַמְנ֜וֹן לְהִתְחַלּ֗וֹת בַּֽעֲבוּר֙ תָּמָ֣ר אֲחֹת֔וֹ כִּ֥י בְתוּלָ֖ה הִ֑יא וַיִּפָּלֵא֙ בְּעֵינֵ֣י אַמְנ֔וֹן לַעֲשׂ֥וֹת לָ֖הּ מְאֽוּמָה׃",
+    "original": "<span data-strong=\"H6887\">וַיֵּ֨צֶר</span> <span data-strong=\"H550\">לְאַמְנ֜וֹן</span> <span data-strong=\"H2470\">לְהִתְחַלּ֗וֹת</span> <span data-strong=\"H5668\">בַּֽעֲבוּר֙</span> <span data-strong=\"H8559\">תָּמָ֣ר</span> <span data-strong=\"H2050\">אֲחֹת֔וֹ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H1330\">בְתוּלָ֖ה</span> <span data-strong=\"H1931\">הִ֑יא</span> <span data-strong=\"H6381\">וַיִּפָּלֵא֙</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H550\">אַמְנ֔וֹן</span> <span data-strong=\"H6213\">לַעֲשׂ֥וֹת</span> <span data-strong=\"H1886\">לָ֖הּ</span> <span data-strong=\"H3972\">מְאֽוּמָה׃</span>",
     "transliteration": "vayetser le'amenvon lehitehalvot va'avvr tamar 'ahotvo khiy vetvlah hiy' vayifale' ve'eyney 'amenvon la'asvot lah me'vmah.",
     "translation": "E Amnã concebeu um ardente desejo por Tamar, sua irmã, pois ela era virgem; e isso lhe parecia insuportável, a ponto de ele não poder fazer nada a respeito."
   },
   {
     "verse": 3,
-    "original": "וּלְאַמְנ֣וֹן רֵ֗עַ וּשְׁמוֹ֙ יֽוֹנָדָ֔ב בֶּן־שִׁמְעָ֖ה אֲחִ֣י דָוִ֑ד וְי֣וֹנָדָ֔ב אִ֥ישׁ חָכָ֖ם מְאֹֽד׃",
+    "original": "<span data-strong=\"H550\">וּלְאַמְנ֣וֹן</span> <span data-strong=\"H7453\">רֵ֗עַ</span> <span data-strong=\"H2050\">וּשְׁמוֹ֙</span> <span data-strong=\"H3122\">יֽוֹנָדָ֔ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8093\">שִׁמְעָ֖ה</span> <span data-strong=\"H251\">אֲחִ֣י</span> <span data-strong=\"H1732\">דָוִ֑ד</span> <span data-strong=\"H3122\">וְי֣וֹנָדָ֔ב</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H2450\">חָכָ֖ם</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "vle'amenvon re'a vshemvo yvonadav ven-shime'ah 'ahiy david veyvonadav 'iysh hakham me'od.",
     "translation": "E Amnom tinha um amigo cujo nome era Jonadabe, filho de Shimá, irmão de Davi; e Jonadabe era um homem muito sábio."
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֣אמֶר ל֗וֹ מַדּ֣וּעַ אַ֠תָּ֠ה כָּ֣כָה דַּ֤ל בֶּן־הַמֶּ֙לֶךְ֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר הֲל֖וֹא תַּגִּ֣יד לִ֑י וַיֹּ֤אמֶר לוֹ֙ אַמְנ֔וֹן אֶת־תָּמָ֗ר אֲח֛וֹת אַבְשָׁלֹ֥ם אָחִ֖י אֲנִ֥י אֹהֵֽב׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H4069\">מַדּ֣וּעַ</span> <span data-strong=\"H859\">אַ֠תָּ֠ה</span> <span data-strong=\"H3602\">כָּ֣כָה</span> <span data-strong=\"H1800\">דַּ֤ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H1242\">בַּבֹּ֣קֶר</span> <span data-strong=\"H1242\">בַּבֹּ֔קֶר</span> <span data-strong=\"H3808\">הֲל֖וֹא</span> <span data-strong=\"H5046\">תַּגִּ֣יד</span> <span data-strong=\"H2967\">לִ֑י</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H550\">אַמְנ֔וֹן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8559\">תָּמָ֗ר</span> <span data-strong=\"H269\">אֲח֛וֹת</span> <span data-strong=\"H53\">אַבְשָׁלֹ֥ם</span> <span data-strong=\"H2967\">אָחִ֖י</span> <span data-strong=\"H589\">אֲנִ֥י</span> <span data-strong=\"H157\">אֹהֵֽב׃</span>",
     "transliteration": "vayo'mer lvo madv'a 'atah khakhah dal ven-hamelekhe vavoker vavoker halvo' tagiyd liy vayo'mer lvo 'amenvon 'et-tamar 'ahvot 'aveshalom 'ahiy 'aniy 'ohev.",
     "translation": "E disse-lhe: Por que estás assim, pobre filho do rei, de manhã em cada manhã? Não me dirás? E Amnom respondeu-lhe: É Tamar, irmã de Absalão meu irmão, a quem eu amo."
   },
   {
     "verse": 5,
-    "original": "וַיֹּ֤אמֶר לוֹ֙ יְה֣וֹנָדָ֔ב שְׁכַ֥ב עַל־מִשְׁכָּבְךָ֖ וְהִתְחָ֑ל וּבָ֧א אָבִ֣יךָ לִרְאוֹתֶ֗ךָ וְאָמַרְתָּ֣ אֵלָ֡יו תָּ֣בֹא נָא֩ תָמָ֨ר אֲחוֹתִ֜י וְתַבְרֵ֣נִי לֶ֗חֶם וְעָשְׂתָ֤ה לְעֵינַי֙ אֶת־הַבִּרְיָ֔ה לְמַ֙עַן֙ אֲשֶׁ֣ר אֶרְאֶ֔ה וְאָכַלְתִּ֖י מִיָּדָֽהּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H3082\">יְה֣וֹנָדָ֔ב</span> <span data-strong=\"H7901\">שְׁכַ֥ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">מִשְׁכָּבְךָ֖</span> <span data-strong=\"H2470\">וְהִתְחָ֑ל</span> <span data-strong=\"H935\">וּבָ֧א</span> <span data-strong=\"H3509\">אָבִ֣יךָ</span> <span data-strong=\"H3509\">לִרְאוֹתֶ֗ךָ</span> <span data-strong=\"H559\">וְאָמַרְתָּ֣</span> <span data-strong=\"H2050\">אֵלָ֡יו</span> <span data-strong=\"H935\">תָּ֣בֹא</span> <span data-strong=\"H4994\">נָא֩</span> <span data-strong=\"H8559\">תָמָ֨ר</span> <span data-strong=\"H2967\">אֲחוֹתִ֜י</span> <span data-strong=\"H5204\">וְתַבְרֵ֣נִי</span> <span data-strong=\"H3899\">לֶ֗חֶם</span> <span data-strong=\"H6213\">וְעָשְׂתָ֤ה</span> <span data-strong=\"H2967\">לְעֵינַי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1279\">הַבִּרְיָ֔ה</span> <span data-strong=\"H4616\">לְמַ֙עַן֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7200\">אֶרְאֶ֔ה</span> <span data-strong=\"H398\">וְאָכַלְתִּ֖י</span> <span data-strong=\"H1886\">מִיָּדָֽהּ׃</span>",
     "transliteration": "vayo'mer lvo yehvonadav shekhav 'al-mishekhavekha vehitehal vva' 'aviykha lire'votekha ve'amareta 'elayv tavo' na' tamar 'ahvotiy vetavereniy lehem ve'asetah le'eynay 'et-havireyah lema'an 'asher 'ere'eh ve'akhaletiy miyadah.",
     "translation": "E Jonadabe lhe disse: Deita-te em tua cama e age como se estivesses doente. Quando teu pai vier visitar-te, dir-lhe-ás: Peço que Tamar, minha irmã, venha ferver-me pão à vista dos meus olhos para eu comer dela, pois quero vê-la."
   },
   {
     "verse": 6,
-    "original": "וַיִּשְׁכַּ֥ב אַמְנ֖וֹן וַיִּתְחָ֑ל וַיָּבֹ֨א הַמֶּ֜לֶךְ לִרְאוֹת֗וֹ וַיֹּ֨אמֶר אַמְנ֤וֹן אֶל־הַמֶּ֙לֶךְ֙ תָּבוֹא־נָ֞א תָּמָ֣ר אֲחֹתִ֗י וּתְלַבֵּ֤ב לְעֵינַי֙ שְׁתֵּ֣י לְבִב֔וֹת וְאֶבְרֶ֖ה מִיָּדָֽהּ׃",
+    "original": "<span data-strong=\"H7901\">וַיִּשְׁכַּ֥ב</span> <span data-strong=\"H550\">אַמְנ֖וֹן</span> <span data-strong=\"H2470\">וַיִּתְחָ֑ל</span> <span data-strong=\"H935\">וַיָּבֹ֨א</span> <span data-strong=\"H4428\">הַמֶּ֜לֶךְ</span> <span data-strong=\"H2050\">לִרְאוֹת֗וֹ</span> <span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H550\">אַמְנ֤וֹן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H935\">תָּבוֹא</span>־<span data-strong=\"H4994\">נָ֞א</span> <span data-strong=\"H8559\">תָּמָ֣ר</span> <span data-strong=\"H2967\">אֲחֹתִ֗י</span> <span data-strong=\"H3823\">וּתְלַבֵּ֤ב</span> <span data-strong=\"H2967\">לְעֵינַי֙</span> <span data-strong=\"H8147\">שְׁתֵּ֣י</span> <span data-strong=\"H3834\">לְבִב֔וֹת</span> <span data-strong=\"H1262\">וְאֶבְרֶ֖ה</span> <span data-strong=\"H1886\">מִיָּדָֽהּ׃</span>",
     "transliteration": "vayishekhav 'amenvon vayitehal vayavo' hamelekhe lire'votvo vayo'mer 'amenvon 'el-hamelekhe tavvo'-na' tamar 'ahotiy vtelavev le'eynay shetey levivvot ve'evereh miyadah.",
     "translation": "E Amnom deitou-se e caiu doente, e o rei veio vê-lo. Então Amnom disse ao rei: “Que Tamar, minha irmã, venha e me faça duas tortas à vista dos meus olhos, para que eu coma da mão dela.”"
   },
   {
     "verse": 7,
-    "original": "וַיִּשְׁלַ֥ח דָּוִ֛ד אֶל־תָּמָ֖ר הַבַּ֣יְתָה לֵאמֹ֑ר לְכִ֣י נָ֗א בֵּ֚ית אַמְנ֣וֹן אָחִ֔יךְ וַעֲשִׂי־ל֖וֹ הַבִּרְיָֽה׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלַ֥ח</span> <span data-strong=\"H1732\">דָּוִ֛ד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8559\">תָּמָ֖ר</span> <span data-strong=\"H1886\">הַבַּ֣יְתָה</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H1980\">לְכִ֣י</span> <span data-strong=\"H4994\">נָ֗א</span> <span data-strong=\"H1004\">בֵּ֚ית</span> <span data-strong=\"H550\">אַמְנ֣וֹן</span> <span data-strong=\"H3509\">אָחִ֔יךְ</span> <span data-strong=\"H6213\">וַעֲשִׂי</span>־<span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H1279\">הַבִּרְיָֽה׃</span>",
     "transliteration": "vayishelah david 'el-tamar havayetah le'mor lekhiy na' veyt 'amenvon 'ahiykhe va'asiy-lvo havireyah.",
     "translation": "E Davi enviou a Tamar, na casa, dizendo: Ide, te rogo, à casa de Amnôn, teu irmão, e faze-lhe a tua beleza."
   },
@@ -49,79 +49,79 @@
   },
   {
     "verse": 9,
-    "original": "וַתִּקַּ֤ח אֶת־הַמַּשְׂרֵת֙ וַתִּצֹ֣ק לְפָנָ֔יו וַיְמָאֵ֖ן לֶאֱכ֑וֹל וַיֹּ֣אמֶר אַמְנ֗וֹן הוֹצִ֤יאוּ כׇל־אִישׁ֙ מֵעָלַ֔י וַיֵּצְא֥וּ כׇל־אִ֖ישׁ מֵעָלָֽיו׃",
+    "original": "<span data-strong=\"H3947\">וַתִּקַּ֤ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4958\">הַמַּשְׂרֵת֙</span> <span data-strong=\"H3332\">וַתִּצֹ֣ק</span> <span data-strong=\"H2050\">לְפָנָ֔יו</span> <span data-strong=\"H3985\">וַיְמָאֵ֖ן</span> <span data-strong=\"H398\">לֶאֱכ֑וֹל</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H550\">אַמְנ֗וֹן</span> <span data-strong=\"H3318\">הוֹצִ֤יאוּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H2967\">מֵעָלַ֔י</span> <span data-strong=\"H3318\">וַיֵּצְא֥וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H376\">אִ֖ישׁ</span> <span data-strong=\"H2050\">מֵעָלָֽיו׃</span>",
     "transliteration": "vatikah 'et-hamaseret vatitsok lefanayv vayema'en le'ekhvol vayo'mer 'amenvon hvotsiy'v khol-'iysh me'alay vayetse'v khol-'iysh me'alayv.",
     "translation": "E ela tomou a porção e derramou diante dele, mas ele se recusava a comer. E Amnom disse: “Tirem todos de perto de mim”. Então todos saíram longe dele."
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֨אמֶר אַמְנ֜וֹן אֶל־תָּמָ֗ר הָבִ֤יאִי הַבִּרְיָה֙ הַחֶ֔דֶר וְאֶבְרֶ֖ה מִיָּדֵ֑ךְ וַתִּקַּ֣ח תָּמָ֗ר אֶת־הַלְּבִבוֹת֙ אֲשֶׁ֣ר עָשָׂ֔תָה וַתָּבֵ֛א לְאַמְנ֥וֹן אָחִ֖יהָ הֶחָֽדְרָה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H550\">אַמְנ֜וֹן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8559\">תָּמָ֗ר</span> <span data-strong=\"H935\">הָבִ֤יאִי</span> <span data-strong=\"H1279\">הַבִּרְיָה֙</span> <span data-strong=\"H2315\">הַחֶ֔דֶר</span> <span data-strong=\"H1262\">וְאֶבְרֶ֖ה</span> <span data-strong=\"H3509\">מִיָּדֵ֑ךְ</span> <span data-strong=\"H3947\">וַתִּקַּ֣ח</span> <span data-strong=\"H8559\">תָּמָ֗ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3834\">הַלְּבִבוֹת֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֔תָה</span> <span data-strong=\"H935\">וַתָּבֵ֛א</span> <span data-strong=\"H550\">לְאַמְנ֥וֹן</span> <span data-strong=\"H1886\">אָחִ֖יהָ</span> <span data-strong=\"H1886\">הֶחָֽדְרָה׃</span>",
     "transliteration": "vayo'mer 'amenvon 'el-tamar haviy'iy havireyah haheder ve'evereh miyadekhe vatikah tamar 'et-halevivvot 'asher 'asatah vatave' le'amenvon 'ahiyha hehaderah.",
     "translation": "E disse Amnom a Tamar: Traga a colheita para o quarto e eu comerei da sua mão. E Tamar pegou os biscoitos que preparara e trouxe para seu irmão Amnom no quarto."
   },
   {
     "verse": 11,
-    "original": "וַתַּגֵּ֥שׁ אֵלָ֖יו לֶאֱכֹ֑ל וַיַּֽחֲזֶק־בָּהּ֙ וַיֹּ֣אמֶר לָ֔הּ בּ֛וֹאִי שִׁכְבִ֥י עִמִּ֖י אֲחוֹתִֽי׃",
+    "original": "<span data-strong=\"H5066\">וַתַּגֵּ֥שׁ</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H398\">לֶאֱכֹ֑ל</span> <span data-strong=\"H2388\">וַיַּֽחֲזֶק</span>־<span data-strong=\"H1886\">בָּהּ֙</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H1886\">לָ֔הּ</span> <span data-strong=\"H935\">בּ֛וֹאִי</span> <span data-strong=\"H7901\">שִׁכְבִ֥י</span> <span data-strong=\"H2967\">עִמִּ֖י</span> <span data-strong=\"H2967\">אֲחוֹתִֽי׃</span>",
     "transliteration": "vatagesh 'elayv le'ekhol vayahazek-vah vayo'mer lah vvo'iy shikheviy 'imiy 'ahvotiy.",
     "translation": "E ela se aproximou para lhe dar de comer, e ele a segurou, dizendo: Vinde, deitai-vos comigo, minha irmã."
   },
   {
     "verse": 12,
-    "original": "וַתֹּ֣אמֶר ל֗וֹ אַל־אָחִי֙ אַל־תְּעַנֵּ֔נִי כִּ֛י לֹא־יֵעָשֶׂ֥ה כֵ֖ן בְּיִשְׂרָאֵ֑ל אַֽל־תַּעֲשֵׂ֖ה אֶת־הַנְּבָלָ֥ה הַזֹּֽאת׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֣אמֶר</span> <span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H2967\">אָחִי֙</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5204\">תְּעַנֵּ֔נִי</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H6213\">יֵעָשֶׂ֥ה</span> <span data-strong=\"H3651\">כֵ֖ן</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֑ל</span> <span data-strong=\"H408\">אַֽל</span>־<span data-strong=\"H6213\">תַּעֲשֵׂ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5039\">הַנְּבָלָ֥ה</span> <span data-strong=\"H2063\">הַזֹּֽאת׃</span>",
     "transliteration": "vato'mer lvo 'al-'ahiy 'al-te'aneniy khiy lo'-ye'aseh khen veyisera'el 'al-ta'aseh 'et-hanevalah hazo't.",
     "translation": "E disse-lhe: Não, meu irmão, não me angusties, pois tal coisa não se faz em Israel; não pratiques essa vileza."
   },
   {
     "verse": 13,
-    "original": "וַאֲנִ֗י אָ֤נָה אוֹלִיךְ֙ אֶת־חֶרְפָּתִ֔י וְאַתָּ֗ה תִּֽהְיֶ֛ה כְּאַחַ֥ד הַנְּבָלִ֖ים בְּיִשְׂרָאֵ֑ל וְעַתָּה֙ דַּבֶּר־נָ֣א אֶל־הַמֶּ֔לֶךְ כִּ֛י לֹ֥א יִמְנָעֵ֖נִי מִמֶּֽךָּ׃",
+    "original": "<span data-strong=\"H589\">וַאֲנִ֗י</span> <span data-strong=\"H575\">אָ֤נָה</span> <span data-strong=\"H1980\">אוֹלִיךְ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">חֶרְפָּתִ֔י</span> <span data-strong=\"H859\">וְאַתָּ֗ה</span> <span data-strong=\"H1961\">תִּֽהְיֶ֛ה</span> <span data-strong=\"H259\">כְּאַחַ֥ד</span> <span data-strong=\"H5036\">הַנְּבָלִ֖ים</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֑ל</span> <span data-strong=\"H6258\">וְעַתָּה֙</span> <span data-strong=\"H1696\">דַּבֶּר</span>־<span data-strong=\"H4994\">נָ֣א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H5204\">יִמְנָעֵ֖נִי</span> <span data-strong=\"H3509\">מִמֶּֽךָּ׃</span>",
     "transliteration": "va'aniy 'anah 'voliykhe 'et-herefatiy ve'atah tiheyeh khe'ahad hanevaliym veyisera'el ve'atah daver-na' 'el-hamelekhe khiy lo' yimena'eniy mimekha.",
     "translation": "E eu levarei minha ignomínia, e tu serás como um dos insensatos em Israel. Agora, fala com o rei, pois ele não me impedirá por tua causa."
   },
   {
     "verse": 14,
-    "original": "וְלֹ֥א אָבָ֖ה לִשְׁמֹ֣עַ בְּקוֹלָ֑הּ וַיֶּחֱזַ֤ק מִמֶּ֙נָּה֙ וַיְעַנֶּ֔הָ וַיִּשְׁכַּ֖ב אֹתָֽהּ׃",
+    "original": "<span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H14\">אָבָ֖ה</span> <span data-strong=\"H8085\">לִשְׁמֹ֣עַ</span> <span data-strong=\"H1886\">בְּקוֹלָ֑הּ</span> <span data-strong=\"H2388\">וַיֶּחֱזַ֤ק</span> <span data-strong=\"H5089\">מִמֶּ֙נָּה֙</span> <span data-strong=\"H1886\">וַיְעַנֶּ֔הָ</span> <span data-strong=\"H7901\">וַיִּשְׁכַּ֖ב</span> <span data-strong=\"H1886\">אֹתָֽהּ׃</span>",
     "transliteration": "velo' 'avah lishemo'a vekvolah vayehezak mimenah vaye'aneha vayishekhav 'otah.",
     "translation": "E ele não quis ouvir a sua voz, e se fortaleceu contra ela, e a humilhou, e deitou-se com ela."
   },
   {
     "verse": 15,
-    "original": "וַיִּשְׂנָאֶ֣הָ אַמְנ֗וֹן שִׂנְאָה֙ גְּדוֹלָ֣ה מְאֹ֔ד כִּ֣י גְדוֹלָ֗ה הַשִּׂנְאָה֙ אֲשֶׁ֣ר שְׂנֵאָ֔הּ מֵאַהֲבָ֖ה אֲשֶׁ֣ר אֲהֵבָ֑הּ וַיֹּֽאמֶר־לָ֥הּ אַמְנ֖וֹן ק֥וּמִי לֵֽכִי׃",
+    "original": "<span data-strong=\"H1886\">וַיִּשְׂנָאֶ֣הָ</span> <span data-strong=\"H550\">אַמְנ֗וֹן</span> <span data-strong=\"H8135\">שִׂנְאָה֙</span> <span data-strong=\"H1419\">גְּדוֹלָ֣ה</span> <span data-strong=\"H3966\">מְאֹ֔ד</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H1419\">גְדוֹלָ֗ה</span> <span data-strong=\"H8135\">הַשִּׂנְאָה֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1886\">שְׂנֵאָ֔הּ</span> <span data-strong=\"H160\">מֵאַהֲבָ֖ה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1886\">אֲהֵבָ֑הּ</span> <span data-strong=\"H559\">וַיֹּֽאמֶר</span>־<span data-strong=\"H1886\">לָ֥הּ</span> <span data-strong=\"H550\">אַמְנ֖וֹן</span> <span data-strong=\"H6965\">ק֥וּמִי</span> <span data-strong=\"H1980\">לֵֽכִי׃</span>",
     "transliteration": "vayisena'eha 'amenvon sine'ah gedvolah me'od khiy gedvolah hasine'ah 'asher sene'ah me'ahavah 'asher 'ahevah vayo'mer-lah 'amenvon kvmiy lekhiy.",
     "translation": "E Amnã aborreceu-a com ódio muito grande, porque muito maior era o ódio que ele lhe nutria do que o amor que antes por ela sentira; e disse-lhe Amnã: Levanta-te, vai-te."
   },
   {
     "verse": 16,
-    "original": "וַתֹּ֣אמֶר ל֗וֹ אַל־אוֹדֹ֞ת הָרָעָ֤ה הַגְּדוֹלָה֙ הַזֹּ֔את מֵאַחֶ֛רֶת אֲשֶׁר־עָשִׂ֥יתָ עִמִּ֖י לְשַׁלְּחֵ֑נִי וְלֹ֥א אָבָ֖ה לִשְׁמֹ֥עַֽ לָֽהּ׃",
+    "original": "<span data-strong=\"H559\">וַתֹּ֣אמֶר</span> <span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H182\">אוֹדֹ֞ת</span> <span data-strong=\"H7451\">הָרָעָ֤ה</span> <span data-strong=\"H1419\">הַגְּדוֹלָה֙</span> <span data-strong=\"H2063\">הַזֹּ֔את</span> <span data-strong=\"H312\">מֵאַחֶ֛רֶת</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשִׂ֥יתָ</span> <span data-strong=\"H2967\">עִמִּ֖י</span> <span data-strong=\"H5204\">לְשַׁלְּחֵ֑נִי</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H14\">אָבָ֖ה</span> <span data-strong=\"H8085\">לִשְׁמֹ֥עַֽ</span> <span data-strong=\"H1886\">לָֽהּ׃</span>",
     "transliteration": "vato'mer lvo 'al-'vodot hara'ah hagedvolah hazo't me'aheret 'asher-'asiyta 'imiy leshaleheniy velo' 'avah lishemo'a lah.",
     "translation": "E ela disse a ele: Não traga sobre mim este mal terrível, além do que já tens feito comigo ao me enviar. Mas ele não quis ouvir a ela."
   },
   {
     "verse": 17,
-    "original": "וַיִּקְרָ֗א אֶֽת־נַעֲרוֹ֙ מְשָׁ֣רְת֔וֹ וַיֹּ֕אמֶר שִׁלְחוּ־נָ֥א אֶת־זֹ֛את מֵעָלַ֖י הַח֑וּצָה וּנְעֹ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֗א</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H2050\">נַעֲרוֹ֙</span> <span data-strong=\"H2050\">מְשָׁ֣רְת֔וֹ</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H7971\">שִׁלְחוּ</span>־<span data-strong=\"H4994\">נָ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2063\">זֹ֛את</span> <span data-strong=\"H2967\">מֵעָלַ֖י</span> <span data-strong=\"H1886\">הַח֑וּצָה</span> <span data-strong=\"H5274\">וּנְעֹ֥ל</span> <span data-strong=\"H1817\">הַדֶּ֖לֶת</span> <span data-strong=\"H1886\">אַחֲרֶֽיהָ׃</span>",
     "transliteration": "vayikera' 'et-na'arvo mesharetvo vayo'mer shilehv-na' 'et-zo't me'alay hahvtsah vne'ol hadelet 'ahareyha.",
     "translation": "E chamou seu jovem servo e disse, Envia esta mulher embora de mim para fora, e fecha a porta atrás dela."
   },
   {
     "verse": 18,
-    "original": "וְעָלֶ֙יהָ֙ כְּתֹ֣נֶת פַּסִּ֔ים כִּי֩ כֵ֨ן תִּלְבַּ֧שְׁןָ בְנוֹת־הַמֶּ֛לֶךְ הַבְּתוּלֹ֖ת מְעִילִ֑ים וַיֹּצֵ֨א אוֹתָ֤הּ מְשָֽׁרְתוֹ֙ הַח֔וּץ וְנָעַ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃",
+    "original": "<span data-strong=\"H1886\">וְעָלֶ֙יהָ֙</span> <span data-strong=\"H3801\">כְּתֹ֣נֶת</span> <span data-strong=\"H6446\">פַּסִּ֔ים</span> <span data-strong=\"H3588\">כִּי֩</span> <span data-strong=\"H3651\">כֵ֨ן</span> <span data-strong=\"H3847\">תִּלְבַּ֧שְׁןָ</span> <span data-strong=\"H1323\">בְנוֹת</span>־<span data-strong=\"H4428\">הַמֶּ֛לֶךְ</span> <span data-strong=\"H1330\">הַבְּתוּלֹ֖ת</span> <span data-strong=\"H4598\">מְעִילִ֑ים</span> <span data-strong=\"H3318\">וַיֹּצֵ֨א</span> <span data-strong=\"H1886\">אוֹתָ֤הּ</span> <span data-strong=\"H2050\">מְשָֽׁרְתוֹ֙</span> <span data-strong=\"H2351\">הַח֔וּץ</span> <span data-strong=\"H5274\">וְנָעַ֥ל</span> <span data-strong=\"H1817\">הַדֶּ֖לֶת</span> <span data-strong=\"H1886\">אַחֲרֶֽיהָ׃</span>",
     "transliteration": "ve'aleyha khetonet fasiym khiy khen tilevashena venvot-hamelekhe havetvlot me'iyliym vayotse' 'votah mesharetvo hahvts vena'al hadelet 'ahareyha.",
     "translation": "E sobre ela uma túnica bordada, pois assim se vestem as virgens filhas do rei com roupas de linho fino; e o seu servo a levou para fora, fechando a porta atrás dela."
   },
   {
     "verse": 19,
-    "original": "וַתִּקַּ֨ח תָּמָ֥ר אֵ֙פֶר֙ עַל־רֹאשָׁ֔הּ וּכְתֹ֧נֶת הַפַּסִּ֛ים אֲשֶׁ֥ר עָלֶ֖יהָ קָרָ֑עָה וַתָּ֤שֶׂם יָדָהּ֙ עַל־רֹאשָׁ֔הּ וַתֵּ֥לֶךְ הָל֖וֹךְ וְזָעָֽקָה׃",
+    "original": "<span data-strong=\"H3947\">וַתִּקַּ֨ח</span> <span data-strong=\"H8559\">תָּמָ֥ר</span> <span data-strong=\"H665\">אֵ֙פֶר֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">רֹאשָׁ֔הּ</span> <span data-strong=\"H3801\">וּכְתֹ֧נֶת</span> <span data-strong=\"H6446\">הַפַּסִּ֛ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1886\">עָלֶ֖יהָ</span> <span data-strong=\"H7167\">קָרָ֑עָה</span> <span data-strong=\"H7760\">וַתָּ֤שֶׂם</span> <span data-strong=\"H1886\">יָדָהּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">רֹאשָׁ֔הּ</span> <span data-strong=\"H1980\">וַתֵּ֥לֶךְ</span> <span data-strong=\"H1980\">הָל֖וֹךְ</span> <span data-strong=\"H2199\">וְזָעָֽקָה׃</span>",
     "transliteration": "vatikah tamar 'efer 'al-ro'shah vkhetonet hafasiym 'asher 'aleyha kara'ah vatasem yadah 'al-ro'shah vatelekhe halvokhe veza'akah.",
     "translation": "E Tamar tomou cinza sobre a cabeça, e rasgou o manto de cores vivas que vestia; colocou a mão na cabeça e foi caminhando e clamando."
   },
   {
     "verse": 20,
-    "original": "וַיֹּ֨אמֶר אֵלֶ֜יהָ אַבְשָׁל֣וֹם אָחִ֗יהָ הַאֲמִינ֣וֹן אָחִ֘יךְ֮ הָיָ֣ה עִמָּךְ֒ וְעַתָּ֞ה אֲחוֹתִ֤י הַחֲרִ֙ישִׁי֙ אָחִ֣יךְ ה֔וּא אַל־תָּשִׁ֥יתִי אֶת־לִבֵּ֖ךְ לַדָּבָ֣ר הַזֶּ֑ה וַתֵּ֤שֶׁב תָּמָר֙ וְשֹׁ֣מֵמָ֔ה בֵּ֖ית אַבְשָׁל֥וֹם אָחִֽיהָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H1886\">אֵלֶ֜יהָ</span> <span data-strong=\"H53\">אַבְשָׁל֣וֹם</span> <span data-strong=\"H1886\">אָחִ֗יהָ</span> <span data-strong=\"H550\">הַאֲמִינ֣וֹן</span> <span data-strong=\"H3509\">אָחִ֘יךְ֮</span> <span data-strong=\"H1961\">הָיָ֣ה</span> <span data-strong=\"H3509\">עִמָּךְ֒</span> <span data-strong=\"H6258\">וְעַתָּ֞ה</span> <span data-strong=\"H2967\">אֲחוֹתִ֤י</span> <span data-strong=\"H2790\">הַחֲרִ֙ישִׁי֙</span> <span data-strong=\"H3509\">אָחִ֣יךְ</span> <span data-strong=\"H1931\">ה֔וּא</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H7896\">תָּשִׁ֥יתִי</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">לִבֵּ֖ךְ</span> <span data-strong=\"H1697\">לַדָּבָ֣ר</span> <span data-strong=\"H2088\">הַזֶּ֑ה</span> <span data-strong=\"H3427\">וַתֵּ֤שֶׁב</span> <span data-strong=\"H8559\">תָּמָר֙</span> <span data-strong=\"H8074\">וְשֹׁ֣מֵמָ֔ה</span> <span data-strong=\"H1004\">בֵּ֖ית</span> <span data-strong=\"H53\">אַבְשָׁל֥וֹם</span> <span data-strong=\"H1886\">אָחִֽיהָ׃</span>",
     "transliteration": "vayo'mer 'eleyha 'aveshalvom 'ahiyha ha'amiynvon 'ahiykhe hayah 'imakhe ve'atah 'ahvotiy hahariyshiy 'ahiykhe hv' 'al-tashiytiy 'et-livekhe ladavar hazeh vateshev tamar veshomemah veyt 'aveshalvom 'ahiyha.",
     "translation": "E disse-lhe Absalão, seu irmão: \"Aminom, teu irmão, estava contigo; e agora, minha irmã, cala-te, ele é teu irmão. Não ponhas o teu coração nesta coisa\". E Tamar permaneceu sentada, desolada na casa de Absalão, seu irmão."
   },
   {
     "verse": 21,
-    "original": "וְהַמֶּ֣לֶךְ דָּוִ֔ד שָׁמַ֕ע אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיִּ֥חַר ל֖וֹ מְאֹֽד׃",
+    "original": "<span data-strong=\"H4428\">וְהַמֶּ֣לֶךְ</span> <span data-strong=\"H1732\">דָּוִ֔ד</span> <span data-strong=\"H8085\">שָׁמַ֕ע</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">הַדְּבָרִ֖ים</span> <span data-strong=\"H428\">הָאֵ֑לֶּה</span> <span data-strong=\"H2734\">וַיִּ֥חַר</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "vehamelekhe david shama' 'et khol-hadevariym ha'eleh vayihar lvo me'od.",
     "translation": "E o rei Davi ouviu todas essas palavras e se irou muito."
   },
@@ -133,25 +133,25 @@
   },
   {
     "verse": 23,
-    "original": "וַֽיְהִי֙ לִשְׁנָתַ֣יִם יָמִ֔ים וַיִּהְי֤וּ גֹֽזְזִים֙ לְאַבְשָׁל֔וֹם בְּבַ֥עַל חָצ֖וֹר אֲשֶׁ֣ר עִם־אֶפְרָ֑יִם וַיִּקְרָ֥א אַבְשָׁל֖וֹם לְכׇל־בְּנֵ֥י הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H8141\">לִשְׁנָתַ֣יִם</span> <span data-strong=\"H3117\">יָמִ֔ים</span> <span data-strong=\"H1961\">וַיִּהְי֤וּ</span> <span data-strong=\"H1494\">גֹֽזְזִים֙</span> <span data-strong=\"H53\">לְאַבְשָׁל֔וֹם</span> <span data-strong=\"H1178\">בְּבַ֥עַל</span> <span data-strong=\"H1178\">חָצ֖וֹר</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H669\">אֶפְרָ֑יִם</span> <span data-strong=\"H7121\">וַיִּקְרָ֥א</span> <span data-strong=\"H53\">אַבְשָׁל֖וֹם</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayehiy lishenatayim yamiym vayiheyv gozeziym le'aveshalvom veva'al hatsvor 'asher 'im-'eferayim vayikera' 'aveshalvom lekhol-veney hamelekhe.",
     "translation": "E sucedeu que no segundo ano, na época da tosquia, Absalão estava tosquiando em Baal-Hazor, que está junto a Efraim, e Absalão convocou todos os filhos do rei."
   },
   {
     "verse": 24,
-    "original": "וַיָּבֹ֤א אַבְשָׁלוֹם֙ אֶל־הַמֶּ֔לֶךְ וַיֹּ֕אמֶר הִנֵּה־נָ֥א גֹזְזִ֖ים לְעַבְדֶּ֑ךָ יֵלֶךְ־נָ֥א הַמֶּ֛לֶךְ וַעֲבָדָ֖יו עִם־עַבְדֶּֽךָ׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֤א</span> <span data-strong=\"H53\">אַבְשָׁלוֹם֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H559\">וַיֹּ֕אמֶר</span> <span data-strong=\"H2009\">הִנֵּה</span>־<span data-strong=\"H4994\">נָ֥א</span> <span data-strong=\"H1494\">גֹזְזִ֖ים</span> <span data-strong=\"H3509\">לְעַבְדֶּ֑ךָ</span> <span data-strong=\"H1980\">יֵלֶךְ</span>־<span data-strong=\"H4994\">נָ֥א</span> <span data-strong=\"H4428\">הַמֶּ֛לֶךְ</span> <span data-strong=\"H2050\">וַעֲבָדָ֖יו</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H3509\">עַבְדֶּֽךָ׃</span>",
     "transliteration": "vayavo' 'aveshalvom 'el-hamelekhe vayo'mer hineh-na' gozeziym le'avedekha yelekhe-na' hamelekhe va'avadayv 'im-'avedekha.",
     "translation": "E Absalão veio ao rei e disse: Eis que agora os cortadores virão para o teu servo; deixe o rei com seus servos ir com o seu servo."
   },
   {
     "verse": 25,
-    "original": "וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶל־אַבְשָׁל֗וֹם אַל־בְּנִי֙ אַל־נָ֤א נֵלֵךְ֙ כֻּלָּ֔נוּ וְלֹ֥א נִכְבַּ֖ד עָלֶ֑יךָ וַיִּפְרׇץ־בּ֛וֹ וְלֹא־אָבָ֥ה לָלֶ֖כֶת וַֽיְבָרְכֵֽהוּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H4428\">הַמֶּ֜לֶךְ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H53\">אַבְשָׁל֗וֹם</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H2967\">בְּנִי֙</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H4994\">נָ֤א</span> <span data-strong=\"H1980\">נֵלֵךְ֙</span> <span data-strong=\"H5105\">כֻּלָּ֔נוּ</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H3513\">נִכְבַּ֖ד</span> <span data-strong=\"H3509\">עָלֶ֑יךָ</span> <span data-strong=\"H6555\">וַיִּפְרׇץ</span>־<span data-strong=\"H2050\">בּ֛וֹ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H14\">אָבָ֥ה</span> <span data-strong=\"H1980\">לָלֶ֖כֶת</span> <span data-strong=\"H1930\">וַֽיְבָרְכֵֽהוּ׃</span>",
     "transliteration": "vayo'mer hamelekhe 'el-'aveshalvom 'al-veniy 'al-na' nelekhe khulanv velo' nikhevad 'aleykha vayiferots-vvo velo'-'avah lalekhet vayevarekhehv.",
     "translation": "E disse o rei a Absalão: \"Oh, meu filho, não insistamos todos em ir; seria demais para ti\". E ele se impôs, mas não consentiu em ir e o abençoou."
   },
   {
     "verse": 26,
-    "original": "וַיֹּ֙אמֶר֙ אַבְשָׁל֔וֹם וָלֹ֕א יֵלֶךְ־נָ֥א אִתָּ֖נוּ אַמְנ֣וֹן אָחִ֑י וַיֹּ֤אמֶר לוֹ֙ הַמֶּ֔לֶךְ לָ֥מָּה יֵלֵ֖ךְ עִמָּֽךְ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֙אמֶר֙</span> <span data-strong=\"H53\">אַבְשָׁל֔וֹם</span> <span data-strong=\"H3808\">וָלֹ֕א</span> <span data-strong=\"H1980\">יֵלֶךְ</span>־<span data-strong=\"H4994\">נָ֥א</span> <span data-strong=\"H5105\">אִתָּ֖נוּ</span> <span data-strong=\"H550\">אַמְנ֣וֹן</span> <span data-strong=\"H2967\">אָחִ֑י</span> <span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H4100\">לָ֥מָּה</span> <span data-strong=\"H1980\">יֵלֵ֖ךְ</span> <span data-strong=\"H3509\">עִמָּֽךְ׃</span>",
     "transliteration": "vayo'mer 'aveshalvom valo' yelekhe-na' 'itanv 'amenvon 'ahiy vayo'mer lvo hamelekhe lamah yelekhe 'imakhe.",
     "translation": "E Absalão disse: Não irá, por favor, conosco Amnom meu irmão. E o rei lhe respondeu: Por que ele haveria de ir contigo?"
   },
@@ -163,13 +163,13 @@
   },
   {
     "verse": 28,
-    "original": "וַיְצַו֩ אַבְשָׁל֨וֹם אֶת־נְעָרָ֜יו לֵאמֹ֗ר רְא֣וּ נָ֠א כְּט֨וֹב לֵב־אַמְנ֤וֹן בַּיַּ֙יִן֙ וְאָמַרְתִּ֨י אֲלֵיכֶ֜ם הַכּ֧וּ אֶת־אַמְנ֛וֹן וַהֲמִתֶּ֥ם אֹת֖וֹ אַל־תִּירָ֑אוּ הֲל֗וֹא כִּ֤י אָֽנֹכִי֙ צִוִּ֣יתִי אֶתְכֶ֔ם חִזְק֖וּ וִֽהְי֥וּ לִבְנֵי־חָֽיִל׃",
+    "original": "<span data-strong=\"H6680\">וַיְצַו֩</span> <span data-strong=\"H53\">אַבְשָׁל֨וֹם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">נְעָרָ֜יו</span> <span data-strong=\"H559\">לֵאמֹ֗ר</span> <span data-strong=\"H7200\">רְא֣וּ</span> <span data-strong=\"H4994\">נָ֠א</span> <span data-strong=\"H2895\">כְּט֨וֹב</span> <span data-strong=\"H3820\">לֵב</span>־<span data-strong=\"H550\">אַמְנ֤וֹן</span> <span data-strong=\"H3196\">בַּיַּ֙יִן֙</span> <span data-strong=\"H559\">וְאָמַרְתִּ֨י</span> <span data-strong=\"H3641\">אֲלֵיכֶ֜ם</span> <span data-strong=\"H5221\">הַכּ֧וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H550\">אַמְנ֛וֹן</span> <span data-strong=\"H4191\">וַהֲמִתֶּ֥ם</span> <span data-strong=\"H2050\">אֹת֖וֹ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H3372\">תִּירָ֑אוּ</span> <span data-strong=\"H3808\">הֲל֗וֹא</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H595\">אָֽנֹכִי֙</span> <span data-strong=\"H6680\">צִוִּ֣יתִי</span> <span data-strong=\"H3641\">אֶתְכֶ֔ם</span> <span data-strong=\"H2388\">חִזְק֖וּ</span> <span data-strong=\"H1961\">וִֽהְי֥וּ</span> <span data-strong=\"H1121\">לִבְנֵי</span>־<span data-strong=\"H2428\">חָֽיִל׃</span>",
     "transliteration": "vayetsav 'aveshalvom 'et-ne'arayv le'mor re'v na' khetvov lev-'amenvon vayayin ve'amaretiy 'aleykhem hakhv 'et-'amenvon vahamitem 'otvo 'al-tiyra'v halvo' khiy 'anokhiy tsiviytiy 'etekhem hizekv viheyv liveney-hayil.",
     "translation": "E Absalão ordenou aos seus moços, dizendo: Olhai, eis que o coração de Amnã estará suave com vinho; então eu direi a vós: Atentai em Amnã e matai-o. Não temais, pois eu mesmo vos ordenei isto; sede corajosos e sejai homens valentes."
   },
   {
     "verse": 29,
-    "original": "וַֽיַּעֲשׂ֞וּ נַעֲרֵ֤י אַבְשָׁלוֹם֙ לְאַמְנ֔וֹן כַּאֲשֶׁ֥ר צִוָּ֖ה אַבְשָׁל֑וֹם וַיָּקֻ֣מוּ&thinsp;<b>׀</b> כׇּל־בְּנֵ֣י הַמֶּ֗לֶךְ וַֽיִּרְכְּב֛וּ אִ֥ישׁ עַל־פִּרְדּ֖וֹ וַיָּנֻֽסוּ׃",
+    "original": "<span data-strong=\"H6213\">וַֽיַּעֲשׂ֞וּ</span> <span data-strong=\"H5288\">נַעֲרֵ֤י</span> <span data-strong=\"H53\">אַבְשָׁלוֹם֙</span> <span data-strong=\"H550\">לְאַמְנ֔וֹן</span> <span data-strong=\"H834\">כַּאֲשֶׁ֥ר</span> <span data-strong=\"H6680\">צִוָּ֖ה</span> <span data-strong=\"H53\">אַבְשָׁל֑וֹם</span> <span data-strong=\"H6965\">וַיָּקֻ֣מוּ&thinsp;<b>׀</b></span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H4428\">הַמֶּ֗לֶךְ</span> <span data-strong=\"H7392\">וַֽיִּרְכְּב֛וּ</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">פִּרְדּ֖וֹ</span> <span data-strong=\"H5127\">וַיָּנֻֽסוּ׃</span>",
     "transliteration": "vaya'asv na'arey 'aveshalvom le'amenvon kha'asher tsivah 'aveshalvom vayakumv&thinsp;<b>|</b> khol-veney hamelekhe vayirekhevv 'iysh 'al-firedvo vayanusv.",
     "translation": "E os moços de Absalão fizeram conforme ordenara Absalão, e todos os filhos do rei se levantaram e montaram cada um em seu mulo e fugiram."
   },
@@ -187,7 +187,7 @@
   },
   {
     "verse": 32,
-    "original": "וַיַּ֡עַן יוֹנָדָ֣ב&thinsp;<b>׀</b> בֶּן־שִׁמְעָ֨ה אֲחִי־דָוִ֜ד וַיֹּ֗אמֶר אַל־יֹאמַ֤ר אֲדֹנִי֙ אֵ֣ת כׇּל־הַנְּעָרִ֤ים בְּנֵֽי־הַמֶּ֙לֶךְ֙ הֵמִ֔יתוּ כִּֽי־אַמְנ֥וֹן לְבַדּ֖וֹ מֵ֑ת כִּֽי־עַל־פִּ֤י אַבְשָׁלוֹם֙ הָיְתָ֣ה שׂוּמָ֔ה מִיּוֹם֙ עַנֹּת֔וֹ אֵ֖ת תָּמָ֥ר אֲחֹתֽוֹ׃",
+    "original": "<span data-strong=\"H6030\">וַיַּ֡עַן</span> <span data-strong=\"H3122\">יוֹנָדָ֣ב&thinsp;<b>׀</b></span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8093\">שִׁמְעָ֨ה</span> <span data-strong=\"H251\">אֲחִי</span>־<span data-strong=\"H1732\">דָוִ֜ד</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H559\">יֹאמַ֤ר</span> <span data-strong=\"H2967\">אֲדֹנִי֙</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5288\">הַנְּעָרִ֤ים</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H4191\">הֵמִ֔יתוּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H550\">אַמְנ֥וֹן</span> <span data-strong=\"H2050\">לְבַדּ֖וֹ</span> <span data-strong=\"H4191\">מֵ֑ת</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֤י</span> <span data-strong=\"H53\">אַבְשָׁלוֹם֙</span> <span data-strong=\"H1961\">הָיְתָ֣ה</span> <span data-strong=\"H7760\">שׂוּמָ֔ה</span> <span data-strong=\"H3117\">מִיּוֹם֙</span> <span data-strong=\"H2050\">עַנֹּת֔וֹ</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H8559\">תָּמָ֥ר</span> <span data-strong=\"H2050\">אֲחֹתֽוֹ׃</span>",
     "transliteration": "vaya'an yvonadav&thinsp;<b>|</b> ven-shime'ah 'ahiy-david vayo'mer 'al-yo'mar 'adoniy 'et khol-hane'ariym veney-hamelekhe hemiytv khiy-'amenvon levadvo met khiy-'al-fiy 'aveshalvom hayetah svmah miyvom 'anotvo 'et tamar 'ahotvo.",
     "translation": "E Jonadabe, filho de Shimá, irmão de Davi, respondeu: Não diga meu senhor que todos os jovens filhos do rei devem morrer; somente Amnom morreu. Pois a ordem veio por boca de Absalão desde o dia em que ele fornicou com Tamar, sua irmã."
   },
@@ -205,13 +205,13 @@
   },
   {
     "verse": 35,
-    "original": "וַיֹּ֤אמֶר יֽוֹנָדָב֙ אֶל־הַמֶּ֔לֶךְ הִנֵּ֥ה בְנֵי־הַמֶּ֖לֶךְ בָּ֑אוּ כִּדְבַ֥ר עַבְדְּךָ֖ כֵּ֥ן הָיָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3122\">יֽוֹנָדָב֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H2009\">הִנֵּ֥ה</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H4428\">הַמֶּ֖לֶךְ</span> <span data-strong=\"H935\">בָּ֑אוּ</span> <span data-strong=\"H1697\">כִּדְבַ֥ר</span> <span data-strong=\"H3509\">עַבְדְּךָ֖</span> <span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H1961\">הָיָֽה׃</span>",
     "transliteration": "vayo'mer yvonadav 'el-hamelekhe hineh veney-hamelekhe va'v khidevar 'avedekha khen hayah.",
     "translation": "E Jonadabe disse ao rei: Eis que os filhos do rei chegaram, conforme falou o teu servo; assim sucedeu."
   },
   {
     "verse": 36,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> כְּכַלֹּת֣וֹ לְדַבֵּ֗ר וְהִנֵּ֤ה בְנֵֽי־הַמֶּ֙לֶךְ֙ בָּ֔אוּ וַיִּשְׂא֥וּ קוֹלָ֖ם וַיִּבְכּ֑וּ וְגַם־הַמֶּ֙לֶךְ֙ וְכׇל־עֲבָדָ֔יו בָּכ֕וּ בְּכִ֖י גָּד֥וֹל מְאֹֽד׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H2050\">כְּכַלֹּת֣וֹ</span> <span data-strong=\"H1696\">לְדַבֵּ֗ר</span> <span data-strong=\"H2009\">וְהִנֵּ֤ה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H935\">בָּ֔אוּ</span> <span data-strong=\"H5375\">וַיִּשְׂא֥וּ</span> <span data-strong=\"H3963\">קוֹלָ֖ם</span> <span data-strong=\"H1058\">וַיִּבְכּ֑וּ</span> <span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H4428\">הַמֶּ֙לֶךְ֙</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2050\">עֲבָדָ֔יו</span> <span data-strong=\"H1058\">בָּכ֕וּ</span> <span data-strong=\"H1065\">בְּכִ֖י</span> <span data-strong=\"H1419\">גָּד֥וֹל</span> <span data-strong=\"H3966\">מְאֹֽד׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> khekhalotvo ledaver vehineh veney-hamelekhe va'v vayise'v kvolam vayivekhv vegam-hamelekhe vekhol-'avadayv vakhv vekhiy gadvol me'od.",
     "translation": "E aconteceu que, ao terminar de falar, eis que os filhos do rei chegaram e ergueram a voz e choraram; e também o rei e todos os seus servos choraram um grande choro."
   },
@@ -223,7 +223,7 @@
   },
   {
     "verse": 38,
-    "original": "וְאַבְשָׁל֥וֹם בָּרַ֖ח וַיֵּ֣לֶךְ גְּשׁ֑וּר וַֽיְהִי־שָׁ֖ם שָׁלֹ֥שׁ שָׁנִֽים׃",
+    "original": "<span data-strong=\"H53\">וְאַבְשָׁל֥וֹם</span> <span data-strong=\"H1272\">בָּרַ֖ח</span> <span data-strong=\"H1980\">וַיֵּ֣לֶךְ</span> <span data-strong=\"H1650\">גְּשׁ֑וּר</span> <span data-strong=\"H1961\">וַֽיְהִי</span>־<span data-strong=\"H8033\">שָׁ֖ם</span> <span data-strong=\"H7969\">שָׁלֹ֥שׁ</span> <span data-strong=\"H8141\">שָׁנִֽים׃</span>",
     "transliteration": "ve'aveshalvom varah vayelekhe geshvr vayehiy-sham shalosh shaniym.",
     "translation": "E Absalão fugiu e foi para Geshur, e ali permaneceu por três anos."
   },

@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "בְּיָמָ֣יו עָלָ֔ה נְבֻכַדְנֶאצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיְהִי־ל֨וֹ יְהוֹיָקִ֥ים עֶ֙בֶד֙ שָׁלֹ֣שׁ שָׁנִ֔ים וַיָּ֖שׇׁב וַיִּמְרׇד־בּֽוֹ׃",
+    "original": "<span data-strong=\"H2050\">בְּיָמָ֣יו</span> <span data-strong=\"H5927\">עָלָ֔ה</span> <span data-strong=\"H5019\">נְבֻכַדְנֶאצַּ֖ר</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H894\">בָּבֶ֑ל</span> <span data-strong=\"H1961\">וַיְהִי</span>־<span data-strong=\"H2050\">ל֨וֹ</span> <span data-strong=\"H3079\">יְהוֹיָקִ֥ים</span> <span data-strong=\"H5650\">עֶ֙בֶד֙</span> <span data-strong=\"H7969\">שָׁלֹ֣שׁ</span> <span data-strong=\"H8141\">שָׁנִ֔ים</span> <span data-strong=\"H7725\">וַיָּ֖שׇׁב</span> <span data-strong=\"H4775\">וַיִּמְרׇד</span>־<span data-strong=\"H2050\">בּֽוֹ׃</span>",
     "transliteration": "veyamayv 'alah nevukhadene'tsar melekhe vavel vayehiy-lvo yehvoyakiym 'eved shalosh shaniym vayashov vayimerod-vvo.",
     "translation": "Nos seus dias subiu Nabucodonosor, rei de Babilônia, e Jeoiaquim foi seu servo por três anos; depois se voltou e rebelou-se contra ele."
   },
@@ -13,25 +13,25 @@
   },
   {
     "verse": 3,
-    "original": "אַ֣ךְ&thinsp;<b>׀</b> עַל־פִּ֣י יְהֹוָ֗ה הָֽיְתָה֙ בִּֽיהוּדָ֔ה לְהָסִ֖יר מֵעַ֣ל פָּנָ֑יו בְּחַטֹּ֣את מְנַשֶּׁ֔ה כְּכֹ֖ל אֲשֶׁ֥ר עָשָֽׂה׃",
+    "original": "<span data-strong=\"H389\">אַ֣ךְ&thinsp;<b>׀</b></span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H1961\">הָֽיְתָה֙</span> <span data-strong=\"H3063\">בִּֽיהוּדָ֔ה</span> <span data-strong=\"H5493\">לְהָסִ֖יר</span> <span data-strong=\"H5921\">מֵעַ֣ל</span> <span data-strong=\"H2050\">פָּנָ֑יו</span> <span data-strong=\"H2403\">בְּחַטֹּ֣את</span> <span data-strong=\"H4519\">מְנַשֶּׁ֔ה</span> <span data-strong=\"H3605\">כְּכֹ֖ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשָֽׂה׃</span>",
     "transliteration": "'akhe&thinsp;<b>|</b> 'al-fiy yehovah hayetah viyhvdah lehasiyr me'al fanayv vehato't menasheh khekhol 'asher 'asah.",
     "translation": "Mas pela boca do Senhor foi que ocorreu em Judá, para afastar da sua presença a culpa de Manassés, por toda a maldade que ele cometeu."
   },
   {
     "verse": 4,
-    "original": "וְגַ֤ם דַּֽם־הַנָּקִי֙ אֲשֶׁ֣ר שָׁפָ֔ךְ וַיְמַלֵּ֥א אֶת־יְרוּשָׁלַ֖͏ִם דָּ֣ם נָקִ֑י וְלֹא־אָבָ֥ה יְהֹוָ֖ה לִסְלֹֽחַ׃",
+    "original": "<span data-strong=\"H1571\">וְגַ֤ם</span> <span data-strong=\"H1818\">דַּֽם</span>־<span data-strong=\"H5355\">הַנָּקִי֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H8210\">שָׁפָ֔ךְ</span> <span data-strong=\"H4390\">וַיְמַלֵּ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3389\">יְרוּשָׁלַ֖͏ִם</span> <span data-strong=\"H1818\">דָּ֣ם</span> <span data-strong=\"H5355\">נָקִ֑י</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H14\">אָבָ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H5545\">לִסְלֹֽחַ׃</span>",
     "transliteration": "vegam dam-hanakiy 'asher shafakhe vayemale' 'et-yervshalaim dam nakiy velo'-'avah yehovah liseloha.",
     "translation": "E também o sangue do inocente que ele derramou, e encheu Jerusalém de sangue inocentes, e o Senhor não quis perdoar."
   },
   {
     "verse": 5,
-    "original": "וְיֶ֛תֶר דִּבְרֵ֥י יְהוֹיָקִ֖ים וְכׇל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֛תֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3079\">יְהוֹיָקִ֖ים</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֑ה</span> <span data-strong=\"H3808\">הֲלֹא</span>־<span data-strong=\"H1992\">הֵ֣ם</span> <span data-strong=\"H3789\">כְּתוּבִ֗ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֛פֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3117\">הַיָּמִ֖ים</span> <span data-strong=\"H4428\">לְמַלְכֵ֥י</span> <span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "veyeter diverey yehvoyakiym vekhol-'asher 'asah halo'-hem khetvviym 'al-sefer diverey hayamiym lemalekhey yehvdah.",
     "translation": "E quanto ao resto das palavras de Jeoiaquim e a tudo o que ele fez, não estão eles escritos no livro dos registros dos reis de Judá?"
   },
   {
     "verse": 6,
-    "original": "וַיִּשְׁכַּ֥ב יְהוֹיָקִ֖ים עִם־אֲבֹתָ֑יו וַיִּמְלֹ֛ךְ יְהוֹיָכִ֥ין בְּנ֖וֹ תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H7901\">וַיִּשְׁכַּ֥ב</span> <span data-strong=\"H3079\">יְהוֹיָקִ֖ים</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2050\">אֲבֹתָ֑יו</span> <span data-strong=\"H4427\">וַיִּמְלֹ֛ךְ</span> <span data-strong=\"H3078\">יְהוֹיָכִ֥ין</span> <span data-strong=\"H2050\">בְּנ֖וֹ</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "vayishekhav yehvoyakiym 'im-'avotayv vayimelokhe yehvoyakhiyn venvo tahetayv.",
     "translation": "E Joaquim adormeceu com seus pais, e Jeconias seu filho reinou em seu lugar."
   },
@@ -43,13 +43,13 @@
   },
   {
     "verse": 8,
-    "original": "בֶּן־שְׁמֹנֶ֨ה עֶשְׂרֵ֤ה שָׁנָה֙ יְהוֹיָכִ֣ין בְּמׇלְכ֔וֹ וּשְׁלֹשָׁ֣ה חֳדָשִׁ֔ים מָלַ֖ךְ בִּירֽוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ נְחֻשְׁתָּ֥א בַת־אֶלְנָתָ֖ן מִירוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8083\">שְׁמֹנֶ֨ה</span> <span data-strong=\"H6240\">עֶשְׂרֵ֤ה</span> <span data-strong=\"H8141\">שָׁנָה֙</span> <span data-strong=\"H3078\">יְהוֹיָכִ֣ין</span> <span data-strong=\"H2050\">בְּמׇלְכ֔וֹ</span> <span data-strong=\"H7969\">וּשְׁלֹשָׁ֣ה</span> <span data-strong=\"H2320\">חֳדָשִׁ֔ים</span> <span data-strong=\"H4427\">מָלַ֖ךְ</span> <span data-strong=\"H3389\">בִּירֽוּשָׁלָ֑͏ִם</span> <span data-strong=\"H8034\">וְשֵׁ֣ם</span> <span data-strong=\"H2050\">אִמּ֔וֹ</span> <span data-strong=\"H5179\">נְחֻשְׁתָּ֥א</span> <span data-strong=\"H1323\">בַת</span>־<span data-strong=\"H494\">אֶלְנָתָ֖ן</span> <span data-strong=\"H3389\">מִירוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "ven-shemoneh 'esereh shanah yehvoyakhiyn vemolekhvo vsheloshah hodashiym malakhe viyrvshalaim veshem 'imvo nehusheta' vat-'elenatan miyrvshalaim.",
     "translation": "Dez e oito anos tinha Jeconias quando começou a reinar; e três meses reinou em Jerusalém; e o nome de sua mãe foi Necessa filha de Elnatan, de Jerusalém."
   },
   {
     "verse": 9,
-    "original": "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה כְּכֹ֥ל אֲשֶׁר־עָשָׂ֖ה אָבִֽיו׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֥עַשׂ</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3605\">כְּכֹ֥ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H2050\">אָבִֽיו׃</span>",
     "transliteration": "vaya'as hara' ve'eyney yehovah khekhol 'asher-'asah 'aviyv.",
     "translation": "E fez o mal perante os olhos do Senhor, como todo o mal que seu pai tinha feito."
   },
@@ -61,19 +61,19 @@
   },
   {
     "verse": 11,
-    "original": "וַיָּבֹ֛א נְבֻכַדְנֶאצַּ֥ר מֶלֶךְ־בָּבֶ֖ל עַל־הָעִ֑יר וַעֲבָדָ֖יו צָרִ֥ים עָלֶֽיהָ׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֛א</span> <span data-strong=\"H5019\">נְבֻכַדְנֶאצַּ֥ר</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H894\">בָּבֶ֖ל</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5892\">הָעִ֑יר</span> <span data-strong=\"H2050\">וַעֲבָדָ֖יו</span> <span data-strong=\"H6696\">צָרִ֥ים</span> <span data-strong=\"H1886\">עָלֶֽיהָ׃</span>",
     "transliteration": "vayavo' nevukhadene'tsar melekhe-vavel 'al-ha'iyr va'avadayv tsariym 'aleyha.",
     "translation": "E veio Nabucodonosor, rei de Babilônia, contra a cidade, e seus servos a assediaram."
   },
   {
     "verse": 12,
-    "original": "וַיֵּצֵ֞א יְהוֹיָכִ֤ין מֶֽלֶךְ־יְהוּדָה֙ עַל־מֶ֣לֶךְ בָּבֶ֔ל ה֣וּא וְאִמּ֔וֹ וַעֲבָדָ֖יו וְשָׂרָ֣יו וְסָרִיסָ֑יו וַיִּקַּ֤ח אֹתוֹ֙ מֶ֣לֶךְ בָּבֶ֔ל בִּשְׁנַ֥ת שְׁמֹנֶ֖ה לְמׇלְכֽוֹ׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֞א</span> <span data-strong=\"H3078\">יְהוֹיָכִ֤ין</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H3063\">יְהוּדָה֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H894\">בָּבֶ֔ל</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H2050\">וְאִמּ֔וֹ</span> <span data-strong=\"H2050\">וַעֲבָדָ֖יו</span> <span data-strong=\"H2050\">וְשָׂרָ֣יו</span> <span data-strong=\"H2050\">וְסָרִיסָ֑יו</span> <span data-strong=\"H3947\">וַיִּקַּ֤ח</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H894\">בָּבֶ֔ל</span> <span data-strong=\"H8141\">בִּשְׁנַ֥ת</span> <span data-strong=\"H8083\">שְׁמֹנֶ֖ה</span> <span data-strong=\"H2050\">לְמׇלְכֽוֹ׃</span>",
     "transliteration": "vayetse' yehvoyakhiyn melekhe-yehvdah 'al-melekhe vavel hv' ve'imvo va'avadayv vesarayv vesariysayv vayikah 'otvo melekhe vavel vishenat shemoneh lemolekhvo.",
     "translation": "E saiu Jeoiaquim, rei de Judá, perante o rei da Babilônia; ele e sua mãe, seus servos, seus príncipes e seus eunucos. E o rei da Babilônia os levou presos no ano oitavo de seu reinado.\n\nCorreção:\nE saiu Jeoiaquim, rei de Judá, perante o rei da Babilônia; ele e sua mãe, seus servos, seus príncipes e seus eunucos. E o rei da Babilônia o levou preso no ano oitavo de seu reinado.\n\nObservação: A correção se refere à concordância verbal entre \"levou\" e \"preso\", ajustando a frase para que esteja em harmonia com o hebraico original, onde o verbo está conjugado no singular."
   },
   {
     "verse": 13,
-    "original": "וַיּוֹצֵ֣א מִשָּׁ֗ם אֶת־כׇּל־אֽוֹצְרוֹת֙ בֵּ֣ית יְהֹוָ֔ה וְאוֹצְר֖וֹת בֵּ֣ית הַמֶּ֑לֶךְ וַיְקַצֵּ֞ץ אֶת־כׇּל־כְּלֵ֣י הַזָּהָ֗ב אֲשֶׁ֨ר עָשָׂ֜ה שְׁלֹמֹ֤ה מֶֽלֶךְ־יִשְׂרָאֵל֙ בְּהֵיכַ֣ל יְהֹוָ֔ה כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3318\">וַיּוֹצֵ֣א</span> <span data-strong=\"H8033\">מִשָּׁ֗ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H214\">אֽוֹצְרוֹת֙</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H214\">וְאוֹצְר֖וֹת</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H7112\">וַיְקַצֵּ֞ץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3627\">כְּלֵ֣י</span> <span data-strong=\"H2091\">הַזָּהָ֗ב</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6213\">עָשָׂ֜ה</span> <span data-strong=\"H8010\">שְׁלֹמֹ֤ה</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H1964\">בְּהֵיכַ֣ל</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H834\">כַּאֲשֶׁ֖ר</span> <span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayvotse' misham 'et-khol-'votservot veyt yehovah ve'votservot veyt hamelekhe vayekatsets 'et-khol-kheley hazahav 'asher 'asah shelomoh melekhe-yisera'el veheykhal yehovah kha'asher diver yehovah.",
     "translation": "E ele removeu de lá todos os tesouros da casa do Senhor e os tesouros da casa do rei; esmagou todos os utensílios de ouro que Salomão, rei de Israel, tinha feito no templo do Senhor, conforme falara o Senhor."
   },
@@ -91,7 +91,7 @@
   },
   {
     "verse": 16,
-    "original": "וְאֵת֩ כׇּל־אַנְשֵׁ֨י הַחַ֜יִל שִׁבְעַ֣ת אֲלָפִ֗ים וְהֶחָרָ֤שׁ וְהַמַּסְגֵּר֙ אֶ֔לֶף הַכֹּ֕ל גִּבּוֹרִ֖ים עֹשֵׂ֣י מִלְחָמָ֑ה וַיְבִיאֵ֧ם מֶלֶךְ־בָּבֶ֛ל גּוֹלָ֖ה בָּבֶֽלָה׃",
+    "original": "<span data-strong=\"H853\">וְאֵת֩</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H376\">אַנְשֵׁ֨י</span> <span data-strong=\"H2428\">הַחַ֜יִל</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H505\">אֲלָפִ֗ים</span> <span data-strong=\"H2796\">וְהֶחָרָ֤שׁ</span> <span data-strong=\"H4525\">וְהַמַּסְגֵּר֙</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H3605\">הַכֹּ֕ל</span> <span data-strong=\"H1368\">גִּבּוֹרִ֖ים</span> <span data-strong=\"H6213\">עֹשֵׂ֣י</span> <span data-strong=\"H4421\">מִלְחָמָ֑ה</span> <span data-strong=\"H3963\">וַיְבִיאֵ֧ם</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H894\">בָּבֶ֛ל</span> <span data-strong=\"H1473\">גּוֹלָ֖ה</span> <span data-strong=\"H1886\">בָּבֶֽלָה׃</span>",
     "transliteration": "ve'et khol-'aneshey hahayil shive'at 'alafiym veheharash vehamaseger 'elef hakhol givvoriym 'osey milehamah vayeviy'em melekhe-vavel gvolah vavelah.",
     "translation": "E todos os homens de valor, sete mil, e os fundidores de metal, mil; todos eles foram valentes, experientes em guerra. E o rei da Babilônia os levou cativos para Babilônia."
   },
@@ -109,7 +109,7 @@
   },
   {
     "verse": 19,
-    "original": "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה כְּכֹ֥ל אֲשֶׁר־עָשָׂ֖ה יְהוֹיָקִֽים׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֥עַשׂ</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3605\">כְּכֹ֥ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H3079\">יְהוֹיָקִֽים׃</span>",
     "transliteration": "vaya'as hara' ve'eyney yehovah khekhol 'asher-'asah yehvoyakiym.",
     "translation": "E fez o mal perante os olhos do Senhor, conforme tudo quanto Jeoacim havia feito."
   },

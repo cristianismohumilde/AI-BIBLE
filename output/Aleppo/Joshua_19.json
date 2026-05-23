@@ -1,37 +1,37 @@
 [
   {
     "verse": 1,
-    "original": "וַיֵּצֵ֞א הַגּוֹרָ֤ל הַשֵּׁנִי֙ לְשִׁמְע֔וֹן לְמַטֵּ֥ה בְנֵֽי־שִׁמְע֖וֹן לְמִשְׁפְּחוֹתָ֑ם וַֽיְהִי֙ נַחֲלָתָ֔ם בְּת֖וֹךְ נַחֲלַ֥ת בְּנֵי־יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֞א</span> <span data-strong=\"H1486\">הַגּוֹרָ֤ל</span> <span data-strong=\"H8145\">הַשֵּׁנִי֙</span> <span data-strong=\"H8095\">לְשִׁמְע֔וֹן</span> <span data-strong=\"H4294\">לְמַטֵּ֥ה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H8095\">שִׁמְע֖וֹן</span> <span data-strong=\"H3963\">לְמִשְׁפְּחוֹתָ֑ם</span> <span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H3963\">נַחֲלָתָ֔ם</span> <span data-strong=\"H8432\">בְּת֖וֹךְ</span> <span data-strong=\"H5159\">נַחֲלַ֥ת</span> <span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "vayetse' hagvoral hasheniy leshime'von lemateh veney-shime'von lemishefehvotam vayehiy nahalatam vetvokhe nahalat veney-yehvdah.",
     "translation": "E saiu o segundo sorteio para Simeão, para a tribo dos filhos de Simeão, conforme suas famílias, e foi sua herança no meio da herança dos filhos de Judá."
   },
   {
     "verse": 2,
-    "original": "וַיְהִ֥י לָהֶ֖ם בְּנַחֲלָתָ֑ם בְּאֵֽר־שֶׁ֥בַע וְשֶׁ֖בַע וּמוֹלָדָֽה׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H3963\">בְּנַחֲלָתָ֑ם</span> <span data-strong=\"H884\">בְּאֵֽר</span>־<span data-strong=\"H884\">שֶׁ֥בַע</span> <span data-strong=\"H7652\">וְשֶׁ֖בַע</span> <span data-strong=\"H4137\">וּמוֹלָדָֽה׃</span>",
     "transliteration": "vayehiy lahem venahalatam ve'er-sheva' vesheva' vmvoladah.",
     "translation": "E foi-lhes dado em sua herança: Berséba, Seva e Molada."
   },
   {
     "verse": 3,
-    "original": "וַחֲצַ֥ר שׁוּעָ֛ל וּבָלָ֖ה וָעָֽצֶם׃",
+    "original": "<span data-strong=\"H2705\">וַחֲצַ֥ר</span> <span data-strong=\"H2705\">שׁוּעָ֛ל</span> <span data-strong=\"H1088\">וּבָלָ֖ה</span> <span data-strong=\"H6107\">וָעָֽצֶם׃</span>",
     "transliteration": "vahatsar shv'al vvalah va'atsem.",
     "translation": "E a cerca de zimbro e de peônias e de nardos."
   },
   {
     "verse": 4,
-    "original": "וְאֶלְתּוֹלַ֥ד וּבְת֖וּל וְחׇרְמָֽה׃",
+    "original": "<span data-strong=\"H513\">וְאֶלְתּוֹלַ֥ד</span> <span data-strong=\"H1329\">וּבְת֖וּל</span> <span data-strong=\"H2767\">וְחׇרְמָֽה׃</span>",
     "transliteration": "ve'eletvolad vvetvl vehoremah.",
     "translation": "E será gerado, ainda virgem, e ela será chamada em abnegação."
   },
   {
     "verse": 5,
-    "original": "וְצִֽקְלַ֥ג וּבֵית־הַמַּרְכָּב֖וֹת וַחֲצַ֥ר סוּסָֽה׃",
+    "original": "<span data-strong=\"H6860\">וְצִֽקְלַ֥ג</span> <span data-strong=\"H1024\">וּבֵית</span>־<span data-strong=\"H1024\">הַמַּרְכָּב֖וֹת</span> <span data-strong=\"H2701\">וַחֲצַ֥ר</span> <span data-strong=\"H2701\">סוּסָֽה׃</span>",
     "transliteration": "vetsikelag vveyt-hamarekhavvot vahatsar svsah.",
     "translation": "E Tsiklag e Beit Hammerekavot e Hatsar Susah."
   },
   {
     "verse": 6,
-    "original": "וּבֵ֥ית לְבָא֖וֹת וְשָׁרוּחֶ֑ן עָרִ֥ים שְׁלֹשׁ־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃",
+    "original": "<span data-strong=\"H1034\">וּבֵ֥ית</span> <span data-strong=\"H1034\">לְבָא֖וֹת</span> <span data-strong=\"H8287\">וְשָׁרוּחֶ֑ן</span> <span data-strong=\"H5892\">עָרִ֥ים</span> <span data-strong=\"H7969\">שְׁלֹשׁ</span>־<span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H2004\">וְחַצְרֵיהֶֽן׃</span>",
     "transliteration": "vveyt leva'vot vesharvhen 'ariym shelosh-'esereh vehatsereyhen.",
     "translation": "E Bet-Leavot e Saruhen, cidades treze e seus subúrbios."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "וְכׇל־הַחֲצֵרִ֗ים אֲשֶׁ֤ר סְבִיבוֹת֙ הֶעָרִ֣ים הָאֵ֔לֶּה עַד־בַּ֥עֲלַת בְּאֵ֖ר רָ֣אמַת נֶ֑גֶב זֹ֗את נַחֲלַ֛ת מַטֵּ֥ה בְנֵֽי־שִׁמְע֖וֹן לְמִשְׁפְּחֹתָֽם׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2691\">הַחֲצֵרִ֗ים</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H5439\">סְבִיבוֹת֙</span> <span data-strong=\"H5892\">הֶעָרִ֣ים</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1192\">בַּ֥עֲלַת</span> <span data-strong=\"H1192\">בְּאֵ֖ר</span> <span data-strong=\"H7418\">רָ֣אמַת</span> <span data-strong=\"H7418\">נֶ֑גֶב</span> <span data-strong=\"H2063\">זֹ֗את</span> <span data-strong=\"H5159\">נַחֲלַ֛ת</span> <span data-strong=\"H4294\">מַטֵּ֥ה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H8095\">שִׁמְע֖וֹן</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָֽם׃</span>",
     "transliteration": "vekhol-hahatseriym 'asher seviyvvot he'ariym ha'eleh 'ad-va'alat ve'er ra'mat negev zo't nahalat mateh veney-shime'von lemishefehotam.",
     "translation": "E todas as cortições que circundam estas cidades, até Baal de Beer Rama no Neguev, esta é a herança da tribo dos filhos de Simeão, segundo suas famílias."
   },
@@ -55,7 +55,7 @@
   },
   {
     "verse": 10,
-    "original": "וַיַּ֙עַל֙ הַגּוֹרָ֣ל הַשְּׁלִישִׁ֔י לִבְנֵ֥י זְבוּלֻ֖ן לְמִשְׁפְּחֹתָ֑ם וַיְהִ֛י גְּב֥וּל נַחֲלָתָ֖ם עַד־שָׂרִֽיד׃",
+    "original": "<span data-strong=\"H5927\">וַיַּ֙עַל֙</span> <span data-strong=\"H1486\">הַגּוֹרָ֣ל</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁ֔י</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H2074\">זְבוּלֻ֖ן</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֑ם</span> <span data-strong=\"H1961\">וַיְהִ֛י</span> <span data-strong=\"H1366\">גְּב֥וּל</span> <span data-strong=\"H3963\">נַחֲלָתָ֖ם</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H8301\">שָׂרִֽיד׃</span>",
     "transliteration": "vaya'al hagvoral hasheliyshiy liveney zevvlun lemishefehotam vayehiy gevvl nahalatam 'ad-sariyd.",
     "translation": "E subiu o terceiro sortelho para os filhos de Zabulom, segundo suas famílias, e foi o limite da sua possessão até Sarid."
   },
@@ -67,25 +67,25 @@
   },
   {
     "verse": 12,
-    "original": "וְשָׁ֣ב מִשָּׂרִ֗יד קֵ֚דְמָה מִזְרַ֣ח הַשֶּׁ֔מֶשׁ עַל־גְּב֥וּל כִּסְלֹ֖ת תָּבֹ֑ר וְיָצָ֥א אֶל־הַדָּבְרַ֖ת וְעָלָ֥ה יָפִֽיעַ׃",
+    "original": "<span data-strong=\"H7725\">וְשָׁ֣ב</span> <span data-strong=\"H8301\">מִשָּׂרִ֗יד</span> <span data-strong=\"H1886\">קֵ֚דְמָה</span> <span data-strong=\"H4217\">מִזְרַ֣ח</span> <span data-strong=\"H8121\">הַשֶּׁ֔מֶשׁ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1366\">גְּב֥וּל</span> <span data-strong=\"H3696\">כִּסְלֹ֖ת</span> <span data-strong=\"H3696\">תָּבֹ֑ר</span> <span data-strong=\"H3318\">וְיָצָ֥א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1705\">הַדָּבְרַ֖ת</span> <span data-strong=\"H5927\">וְעָלָ֥ה</span> <span data-strong=\"H3309\">יָפִֽיעַ׃</span>",
     "transliteration": "veshav misariyd kedemah mizerah hashemesh 'al-gevvl khiselot tavor veyatsa' 'el-hadaverat ve'alah yafiy'a.",
     "translation": "E retornará do sobrevivente ao leste, onde nasce o sol, sobre o limite de Cisлот Tavor, e sairá para a Davera, subindo até Jafia.\n\nNota: A palavra \"Cisлот Tabor\" mantém a mesma inconsistência linguística observada no rascunho original."
   },
   {
     "verse": 13,
-    "original": "וּמִשָּׁ֤ם עָבַר֙ קֵ֣דְמָה מִזְרָ֔חָה גִּתָּ֥ה חֵ֖פֶר עִתָּ֣ה קָצִ֑ין וְיָצָ֛א רִמּ֥וֹן הַמְּתֹאָ֖ר הַנֵּעָֽה׃",
+    "original": "<span data-strong=\"H8033\">וּמִשָּׁ֤ם</span> <span data-strong=\"H5674\">עָבַר֙</span> <span data-strong=\"H1886\">קֵ֣דְמָה</span> <span data-strong=\"H1886\">מִזְרָ֔חָה</span> <span data-strong=\"H1662\">גִּתָּ֥ה</span> <span data-strong=\"H1662\">חֵ֖פֶר</span> <span data-strong=\"H6278\">עִתָּ֣ה</span> <span data-strong=\"H6278\">קָצִ֑ין</span> <span data-strong=\"H3318\">וְיָצָ֛א</span> <span data-strong=\"H7417\">רִמּ֥וֹן</span> <span data-strong=\"H8388\">הַמְּתֹאָ֖ר</span> <span data-strong=\"H5269\">הַנֵּעָֽה׃</span>",
     "transliteration": "vmisham 'avar kedemah mizerahah gitah hefer 'itah katsiyn veyatsa' rimvon hameto'ar hane'ah.",
     "translation": "E dali passou para o leste, até Giteá, Cefer, Ateá e Catzín; e saiu a Rimon, Metoar Neoa."
   },
   {
     "verse": 14,
-    "original": "וְנָסַ֤ב אֹתוֹ֙ הַגְּב֔וּל מִצְּפ֖וֹן חַנָּתֹ֑ן וְהָיוּ֙ תֹּצְאֹתָ֔יו גֵּ֖י יִפְתַּח־אֵֽל׃",
+    "original": "<span data-strong=\"H5437\">וְנָסַ֤ב</span> <span data-strong=\"H2050\">אֹתוֹ֙</span> <span data-strong=\"H1366\">הַגְּב֔וּל</span> <span data-strong=\"H6828\">מִצְּפ֖וֹן</span> <span data-strong=\"H2615\">חַנָּתֹ֑ן</span> <span data-strong=\"H1961\">וְהָיוּ֙</span> <span data-strong=\"H2050\">תֹּצְאֹתָ֔יו</span> <span data-strong=\"H1516\">גֵּ֖י</span> <span data-strong=\"H1516\">יִפְתַּח</span>־<span data-strong=\"H1516\">אֵֽל׃</span>",
     "transliteration": "venasav 'otvo hagevvl mitsefvon hanaton vehayv totse'otayv gey yifetah-'el.",
     "translation": "E o limite o envolve do norte de Hanatot, e suas saídas são o vale de Jiphtah-el."
   },
   {
     "verse": 15,
-    "original": "וְקַטָּ֤ת וְנַהֲלָל֙ וְשִׁמְר֔וֹן וְיִדְאֲלָ֖ה וּבֵ֣ית לָ֑חֶם עָרִ֥ים שְׁתֵּים־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃",
+    "original": "<span data-strong=\"H7005\">וְקַטָּ֤ת</span> <span data-strong=\"H5096\">וְנַהֲלָל֙</span> <span data-strong=\"H8110\">וְשִׁמְר֔וֹן</span> <span data-strong=\"H3030\">וְיִדְאֲלָ֖ה</span> <span data-strong=\"H1035\">וּבֵ֣ית</span> <span data-strong=\"H1035\">לָ֑חֶם</span> <span data-strong=\"H5892\">עָרִ֥ים</span> <span data-strong=\"H8147\">שְׁתֵּים</span>־<span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H2004\">וְחַצְרֵיהֶֽן׃</span>",
     "transliteration": "vekatat venahalal veshimervon veyide'alah vveyt lahem 'ariym sheteym-'esereh vehatsereyhen.",
     "translation": "E Qatá e Naalah e Semeron e Idalah e Bet-Leque, cidades doze e suas dependências."
   },
@@ -97,31 +97,31 @@
   },
   {
     "verse": 17,
-    "original": "לְיִ֨שָּׂשכָ֔ר יָצָ֖א הַגּוֹרָ֣ל הָרְבִיעִ֑י לִבְנֵ֥י יִשָּׂשכָ֖ר לְמִשְׁפְּחוֹתָֽם׃",
+    "original": "<span data-strong=\"H3485\">לְיִ֨שָּׂשכָ֔ר</span> <span data-strong=\"H3318\">יָצָ֖א</span> <span data-strong=\"H1486\">הַגּוֹרָ֣ל</span> <span data-strong=\"H7243\">הָרְבִיעִ֑י</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H3485\">יִשָּׂשכָ֖ר</span> <span data-strong=\"H3963\">לְמִשְׁפְּחוֹתָֽם׃</span>",
     "transliteration": "leyisaskhar yatsa' hagvoral hareviy'iy liveney yisaskhar lemishefehvotam.",
     "translation": "A sorte quartaria coube a Issacar; para os filhos de Issacar, segundo suas famílias. \n\nCorreção aplicada:\n- \"quartiere\" foi ajustado para \"quartaria\", mantendo o estilo solene e formal, embora haja uma preferência por \"a sorte quarta\" ou \"o quarto sorteados\" em traduções mais modernas, a opção escolhida mantém a estrutura e sonoridade desejada no contexto teológico."
   },
   {
     "verse": 18,
-    "original": "וַיְהִ֖י גְּבוּלָ֑ם יִזְרְעֶ֥אלָה וְהַכְּסוּלֹ֖ת וְשׁוּנֵֽם׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֖י</span> <span data-strong=\"H3963\">גְּבוּלָ֑ם</span> <span data-strong=\"H1886\">יִזְרְעֶ֥אלָה</span> <span data-strong=\"H3694\">וְהַכְּסוּלֹ֖ת</span> <span data-strong=\"H7766\">וְשׁוּנֵֽם׃</span>",
     "transliteration": "vayehiy gevvlam yizere'e'lah vehakhesvlot veshvnem.",
     "translation": "E foi o seu limite: Izreel, as Kesulot e Suném."
   },
   {
     "verse": 19,
-    "original": "וַחֲפָרַ֥יִם וְשִׁיאֹ֖ן וַאֲנָחֲרַֽת׃",
+    "original": "<span data-strong=\"H2663\">וַחֲפָרַ֥יִם</span> <span data-strong=\"H7866\">וְשִׁיאֹ֖ן</span> <span data-strong=\"H588\">וַאֲנָחֲרַֽת׃</span>",
     "transliteration": "vahafarayim veshiy'on va'anaharat.",
     "translation": "E Cefaraim e Shen e Anaquim."
   },
   {
     "verse": 20,
-    "original": "וְהָרַבִּ֥ית וְקִשְׁי֖וֹן וָאָֽבֶץ׃",
+    "original": "<span data-strong=\"H7245\">וְהָרַבִּ֥ית</span> <span data-strong=\"H7191\">וְקִשְׁי֖וֹן</span> <span data-strong=\"H77\">וָאָֽבֶץ׃</span>",
     "transliteration": "veharaviyt vekisheyvon va'avets.",
     "translation": "E multiplicarei e engrandecerei e farei aumentar."
   },
   {
     "verse": 21,
-    "original": "וְרֶ֧מֶת וְעֵין־גַּנִּ֛ים וְעֵ֥ין חַדָּ֖ה וּבֵ֥ית פַּצֵּֽץ׃",
+    "original": "<span data-strong=\"H7432\">וְרֶ֧מֶת</span> <span data-strong=\"H5873\">וְעֵין</span>־<span data-strong=\"H5873\">גַּנִּ֛ים</span> <span data-strong=\"H5876\">וְעֵ֥ין</span> <span data-strong=\"H5876\">חַדָּ֖ה</span> <span data-strong=\"H1048\">וּבֵ֥ית</span> <span data-strong=\"H1048\">פַּצֵּֽץ׃</span>",
     "transliteration": "veremet ve'eyn-ganiym ve'eyn hadah vveyt fatsets.",
     "translation": "E Remete e Ein-Ganim e Ein-Chadda e Beit-Patseach."
   },
@@ -139,31 +139,31 @@
   },
   {
     "verse": 24,
-    "original": "וַיֵּצֵא֙ הַגּוֹרָ֣ל הַחֲמִישִׁ֔י לְמַטֵּ֥ה בְנֵי־אָשֵׁ֖ר לְמִשְׁפְּחוֹתָֽם׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵא֙</span> <span data-strong=\"H1486\">הַגּוֹרָ֣ל</span> <span data-strong=\"H2549\">הַחֲמִישִׁ֔י</span> <span data-strong=\"H4294\">לְמַטֵּ֥ה</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H836\">אָשֵׁ֖ר</span> <span data-strong=\"H3963\">לְמִשְׁפְּחוֹתָֽם׃</span>",
     "transliteration": "vayetse' hagvoral hahamiyshiy lemateh veney-'asher lemishefehvotam.",
     "translation": "E saiu o sortelho quinto para a tribo dos filhos de Aser, segundo suas famílias."
   },
   {
     "verse": 25,
-    "original": "וַיְהִ֖י גְּבוּלָ֑ם חֶלְקַ֥ת וַחֲלִ֖י וָבֶ֥טֶן וְאַכְשָֽׁף׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֖י</span> <span data-strong=\"H3963\">גְּבוּלָ֑ם</span> <span data-strong=\"H2520\">חֶלְקַ֥ת</span> <span data-strong=\"H2482\">וַחֲלִ֖י</span> <span data-strong=\"H991\">וָבֶ֥טֶן</span> <span data-strong=\"H407\">וְאַכְשָֽׁף׃</span>",
     "transliteration": "vayehiy gevvlam helekat vahaliy vaveten ve'akheshaf.",
     "translation": "E sua fronteira era a porção de VaHALi e Beten e Acsafe."
   },
   {
     "verse": 26,
-    "original": "וְאַֽלַמֶּ֥לֶךְ וְעַמְעָ֖ד וּמִשְׁאָ֑ל וּפָגַ֤ע בְּכַרְמֶל֙ הַיָּ֔מָּה וּבְשִׁיח֖וֹר לִבְנָֽת׃",
+    "original": "<span data-strong=\"H487\">וְאַֽלַמֶּ֥לֶךְ</span> <span data-strong=\"H6008\">וְעַמְעָ֖ד</span> <span data-strong=\"H4861\">וּמִשְׁאָ֑ל</span> <span data-strong=\"H6293\">וּפָגַ֤ע</span> <span data-strong=\"H3760\">בְּכַרְמֶל֙</span> <span data-strong=\"H1886\">הַיָּ֔מָּה</span> <span data-strong=\"H7884\">וּבְשִׁיח֖וֹר</span> <span data-strong=\"H7884\">לִבְנָֽת׃</span>",
     "transliteration": "ve'alamelekhe ve'ame'ad vmishe'al vfaga' vekharemel hayamah vveshiyhvor livenat.",
     "translation": "E Alameléque e Amade e Misael, e alcançou Carmelo do mar e em Sichor até Bene-Báta."
   },
   {
     "verse": 27,
-    "original": "וְשָׁ֨ב מִזְרַ֣ח הַשֶּׁ֘מֶשׁ֮ בֵּ֣ית דָּגֹן֒ וּפָגַ֣ע בִּ֠זְבֻל֠וּן וּבְגֵ֨י יִפְתַּח־אֵ֥ל צָפ֛וֹנָה בֵּ֥ית הָעֵ֖מֶק וּנְעִיאֵ֑ל וְיָצָ֥א אֶל־כָּב֖וּל מִשְּׂמֹֽאל׃",
+    "original": "<span data-strong=\"H7725\">וְשָׁ֨ב</span> <span data-strong=\"H4217\">מִזְרַ֣ח</span> <span data-strong=\"H8121\">הַשֶּׁ֘מֶשׁ֮</span> <span data-strong=\"H1016\">בֵּ֣ית</span> <span data-strong=\"H1016\">דָּגֹן֒</span> <span data-strong=\"H6293\">וּפָגַ֣ע</span> <span data-strong=\"H2074\">בִּ֠זְבֻל֠וּן</span> <span data-strong=\"H1516\">וּבְגֵ֨י</span> <span data-strong=\"H1516\">יִפְתַּח</span>־<span data-strong=\"H1516\">אֵ֥ל</span> <span data-strong=\"H1886\">צָפ֛וֹנָה</span> <span data-strong=\"H1025\">בֵּ֥ית</span> <span data-strong=\"H1025\">הָעֵ֖מֶק</span> <span data-strong=\"H5272\">וּנְעִיאֵ֑ל</span> <span data-strong=\"H3318\">וְיָצָ֥א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3521\">כָּב֖וּל</span> <span data-strong=\"H8040\">מִשְּׂמֹֽאל׃</span>",
     "transliteration": "veshav mizerah hashemesh veyt dagon vfaga' vizevulvn vvegey yifetah-'el tsafvonah veyt ha'emek vne'iy'el veyatsa' 'el-khavvl misemo'l.",
     "translation": "E voltará o nascer do sol em Bet-Dagom, e atingirá Zebulom, e o vale de Jifta-el ao norte, Beit-Hemeq e Neiel, e sairá para Cabul pelo lado ocidental."
   },
   {
     "verse": 28,
-    "original": "וְעֶבְרֹ֥ן וּרְחֹ֖ב וְחַמּ֣וֹן וְקָנָ֑ה עַ֖ד צִיד֥וֹן רַבָּֽה׃",
+    "original": "<span data-strong=\"H5683\">וְעֶבְרֹ֥ן</span> <span data-strong=\"H7340\">וּרְחֹ֖ב</span> <span data-strong=\"H2540\">וְחַמּ֣וֹן</span> <span data-strong=\"H7071\">וְקָנָ֑ה</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H6721\">צִיד֥וֹן</span> <span data-strong=\"H7227\">רַבָּֽה׃</span>",
     "transliteration": "ve'everon vrehov vehamvon vekanah 'ad tsiydvon ravah.",
     "translation": "E Ebron, e Reboim, e Hamom, e Caná, até Sidônia, a Grande."
   },
@@ -175,7 +175,7 @@
   },
   {
     "verse": 30,
-    "original": "וְעֻמָ֥ה וַאֲפֵ֖ק וּרְחֹ֑ב עָרִ֛ים עֶשְׂרִ֥ים וּשְׁתַּ֖יִם וְחַצְרֵיהֶֽן׃",
+    "original": "<span data-strong=\"H5981\">וְעֻמָ֥ה</span> <span data-strong=\"H663\">וַאֲפֵ֖ק</span> <span data-strong=\"H7340\">וּרְחֹ֑ב</span> <span data-strong=\"H5892\">עָרִ֛ים</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H8147\">וּשְׁתַּ֖יִם</span> <span data-strong=\"H2004\">וְחַצְרֵיהֶֽן׃</span>",
     "transliteration": "ve'umah va'afek vrehov 'ariym 'eseriym vshetayim vehatsereyhen.",
     "translation": "E Omã e Afeca e Rebo, cidades vinte e duas e seus cortiços."
   },
@@ -187,43 +187,43 @@
   },
   {
     "verse": 32,
-    "original": "לִבְנֵ֣י נַפְתָּלִ֔י יָצָ֖א הַגּוֹרָ֣ל הַשִּׁשִּׁ֑י לִבְנֵ֥י נַפְתָּלִ֖י לְמִשְׁפְּחֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">לִבְנֵ֣י</span> <span data-strong=\"H5321\">נַפְתָּלִ֔י</span> <span data-strong=\"H3318\">יָצָ֖א</span> <span data-strong=\"H1486\">הַגּוֹרָ֣ל</span> <span data-strong=\"H8345\">הַשִּׁשִּׁ֑י</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H5321\">נַפְתָּלִ֖י</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָֽם׃</span>",
     "transliteration": "liveney nafetaliy yatsa' hagvoral hashishiy liveney nafetaliy lemishefehotam.",
     "translation": "Para os filhos de Naftali, saiu o sorteio sexto; para os filhos de Naftali, pelas suas famílias."
   },
   {
     "verse": 33,
-    "original": "וַיְהִ֣י גְבוּלָ֗ם מֵחֵ֨לֶף מֵאֵל֜וֹן בְּצַעֲנַנִּ֗ים וַאֲדָמִ֥י הַנֶּ֛קֶב וְיַבְנְאֵ֖ל עַד־לַקּ֑וּם וַיְהִ֥י תֹצְאֹתָ֖יו הַיַּרְדֵּֽן׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י</span> <span data-strong=\"H3963\">גְבוּלָ֗ם</span> <span data-strong=\"H2501\">מֵחֵ֨לֶף</span> <span data-strong=\"H436\">מֵאֵל֜וֹן</span> <span data-strong=\"H6815\">בְּצַעֲנַנִּ֗ים</span> <span data-strong=\"H129\">וַאֲדָמִ֥י</span> <span data-strong=\"H129\">הַנֶּ֛קֶב</span> <span data-strong=\"H2995\">וְיַבְנְאֵ֖ל</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H3946\">לַקּ֑וּם</span> <span data-strong=\"H1961\">וַיְהִ֥י</span> <span data-strong=\"H2050\">תֹצְאֹתָ֖יו</span> <span data-strong=\"H3383\">הַיַּרְדֵּֽן׃</span>",
     "transliteration": "vayehiy gevvlam mehelef me'elvon vetsa'ananiym va'adamiy hanekev veyavene'el 'ad-lakvm vayehiy totse'otayv hayareden.",
     "translation": "E sua fronteira era de Helã, além de Elão até Zicanã e Adam, passando pelo Neco e Jané, até Lacaum; e seu território terminava no rio Jordão."
   },
   {
     "verse": 34,
-    "original": "וְשָׁ֨ב הַגְּב֥וּל יָ֙מָּה֙ אַזְנ֣וֹת תָּב֔וֹר וְיָצָ֥א מִשָּׁ֖ם חוּקֹ֑קָה וּפָגַ֨ע בִּזְבֻל֜וּן מִנֶּ֗גֶב וּבְאָשֵׁר֙ פָּגַ֣ע מִיָּ֔ם וּבִ֣יהוּדָ֔ה הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃",
+    "original": "<span data-strong=\"H7725\">וְשָׁ֨ב</span> <span data-strong=\"H1366\">הַגְּב֥וּל</span> <span data-strong=\"H1886\">יָ֙מָּה֙</span> <span data-strong=\"H243\">אַזְנ֣וֹת</span> <span data-strong=\"H243\">תָּב֔וֹר</span> <span data-strong=\"H3318\">וְיָצָ֥א</span> <span data-strong=\"H8033\">מִשָּׁ֖ם</span> <span data-strong=\"H1886\">חוּקֹ֑קָה</span> <span data-strong=\"H6293\">וּפָגַ֨ע</span> <span data-strong=\"H2074\">בִּזְבֻל֜וּן</span> <span data-strong=\"H5045\">מִנֶּ֗גֶב</span> <span data-strong=\"H836\">וּבְאָשֵׁר֙</span> <span data-strong=\"H6293\">פָּגַ֣ע</span> <span data-strong=\"H3220\">מִיָּ֔ם</span> <span data-strong=\"H3063\">וּבִ֣יהוּדָ֔ה</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֖ן</span> <span data-strong=\"H4217\">מִזְרַ֥ח</span> <span data-strong=\"H8121\">הַשָּֽׁמֶשׁ׃</span>",
     "transliteration": "veshav hagevvl yamah 'azenvot tavvor veyatsa' misham hvkokah vfaga' vizevulvn minegev vve'asher faga' miyam vviyhvdah hayareden mizerah hashamesh.",
     "translation": "E o termo da fronteira se curva para o mar, atinge as Azotas Tabor, e de lá sai até Chukkoth; toca Zebulom do sul e Aser do lado ocidental, enquanto Judá é tocado pelo rio Jordão ao nascer do sol."
   },
   {
     "verse": 35,
-    "original": "וְעָרֵ֖י מִבְצָ֑ר הַצִּדִּ֣ים צֵ֔ר וְחַמַּ֖ת רַקַּ֥ת וְכִנָּֽרֶת׃",
+    "original": "<span data-strong=\"H5892\">וְעָרֵ֖י</span> <span data-strong=\"H4013\">מִבְצָ֑ר</span> <span data-strong=\"H6661\">הַצִּדִּ֣ים</span> <span data-strong=\"H6863\">צֵ֔ר</span> <span data-strong=\"H2575\">וְחַמַּ֖ת</span> <span data-strong=\"H7557\">רַקַּ֥ת</span> <span data-strong=\"H3672\">וְכִנָּֽרֶת׃</span>",
     "transliteration": "ve'arey mivetsar hatsidiym tser vehamat rakat vekhinaret.",
     "translation": "E as cidades fortificadas: Sidom, Hamate, Raquete e Cinerete."
   },
   {
     "verse": 36,
-    "original": "וַאֲדָמָ֥ה וְהָרָמָ֖ה וְחָצֽוֹר׃",
+    "original": "<span data-strong=\"H128\">וַאֲדָמָ֥ה</span> <span data-strong=\"H7414\">וְהָרָמָ֖ה</span> <span data-strong=\"H2674\">וְחָצֽוֹר׃</span>",
     "transliteration": "va'adamah veharamah vehatsvor.",
     "translation": "E a terra e a alta fortaleza."
   },
   {
     "verse": 37,
-    "original": "וְקֶ֥דֶשׁ וְאֶדְרֶ֖עִי וְעֵ֥ין חָצֽוֹר׃",
+    "original": "<span data-strong=\"H6943\">וְקֶ֥דֶשׁ</span> <span data-strong=\"H154\">וְאֶדְרֶ֖עִי</span> <span data-strong=\"H5877\">וְעֵ֥ין</span> <span data-strong=\"H5877\">חָצֽוֹר׃</span>",
     "transliteration": "vekedesh ve'edere'iy ve'eyn hatsvor.",
     "translation": "E Cedar e Ederéi e Ein Hazor."
   },
   {
     "verse": 38,
-    "original": "וְיִרְאוֹן֙ וּמִגְדַּל־אֵ֔ל חֳרֵ֥ם וּבֵית־עֲנָ֖ת וּבֵ֣ית שָׁ֑מֶשׁ עָרִ֥ים תְּשַֽׁע־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃",
+    "original": "<span data-strong=\"H3375\">וְיִרְאוֹן֙</span> <span data-strong=\"H4027\">וּמִגְדַּל</span>־<span data-strong=\"H4027\">אֵ֔ל</span> <span data-strong=\"H2765\">חֳרֵ֥ם</span> <span data-strong=\"H1043\">וּבֵית</span>־<span data-strong=\"H1043\">עֲנָ֖ת</span> <span data-strong=\"H1053\">וּבֵ֣ית</span> <span data-strong=\"H1053\">שָׁ֑מֶשׁ</span> <span data-strong=\"H5892\">עָרִ֥ים</span> <span data-strong=\"H8672\">תְּשַֽׁע</span>־<span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H2004\">וְחַצְרֵיהֶֽן׃</span>",
     "transliteration": "veyire'von vmigedal-'el horem vveyt-'anat vveyt shamesh 'ariym tesha'-'esereh vehatsereyhen.",
     "translation": "E virão, e o Magno de Deus, um interdito, e a Casa de Anate, e a Casa de Shamash; cidades nove e dez com seus cortiços.\n\nObservação: O número \"nove e dez\" não faz sentido gramatical ou numérico. A tradução correta para \"תְּשַֽׁע־עֶשֵׂר֖ה\" seria \"dezenove\". Portanto, a versão corrigida é:\n\nE virão, e o Magno de Deus, um interdito, e a Casa de Anate, e a Casa de Shamash; cidades dezoito com seus cortiços."
   },
@@ -235,49 +235,49 @@
   },
   {
     "verse": 40,
-    "original": "לְמַטֵּ֥ה בְנֵי־דָ֖ן לְמִשְׁפְּחֹתָ֑ם יָצָ֖א הַגּוֹרָ֥ל הַשְּׁבִיעִֽי׃",
+    "original": "<span data-strong=\"H4294\">לְמַטֵּ֥ה</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H1835\">דָ֖ן</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֑ם</span> <span data-strong=\"H3318\">יָצָ֖א</span> <span data-strong=\"H1486\">הַגּוֹרָ֥ל</span> <span data-strong=\"H7637\">הַשְּׁבִיעִֽי׃</span>",
     "transliteration": "lemateh veney-dan lemishefehotam yatsa' hagvoral hasheviy'iy.",
     "translation": "Para a tribo dos filhos de Dan, pelas suas famílias, saiu o sorteio sétimo."
   },
   {
     "verse": 41,
-    "original": "וַיְהִ֖י גְּב֣וּל נַחֲלָתָ֑ם צׇרְעָ֥ה וְאֶשְׁתָּא֖וֹל וְעִ֥יר שָֽׁמֶשׁ׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֖י</span> <span data-strong=\"H1366\">גְּב֣וּל</span> <span data-strong=\"H3963\">נַחֲלָתָ֑ם</span> <span data-strong=\"H6881\">צׇרְעָ֥ה</span> <span data-strong=\"H847\">וְאֶשְׁתָּא֖וֹל</span> <span data-strong=\"H5892\">וְעִ֥יר</span> <span data-strong=\"H8121\">שָֽׁמֶשׁ׃</span>",
     "transliteration": "vayehiy gevvl nahalatam tsore'ah ve'esheta'vol ve'iyr shamesh.",
     "translation": "E foi o termo de sua herança: Tsora, Eshtaol e Ir Shemesh."
   },
   {
     "verse": 42,
-    "original": "וְשַׁעֲלַבִּ֥ין וְאַיָּל֖וֹן וְיִתְלָֽה׃",
+    "original": "<span data-strong=\"H8169\">וְשַׁעֲלַבִּ֥ין</span> <span data-strong=\"H357\">וְאַיָּל֖וֹן</span> <span data-strong=\"H3494\">וְיִתְלָֽה׃</span>",
     "transliteration": "vesha'alaviyn ve'ayalvon veyitelah.",
     "translation": "E Saalabim e Ailon e Itlah."
   },
   {
     "verse": 43,
-    "original": "וְאֵיל֥וֹן וְתִמְנָ֖תָה וְעֶקְרֽוֹן׃",
+    "original": "<span data-strong=\"H356\">וְאֵיל֥וֹן</span> <span data-strong=\"H1886\">וְתִמְנָ֖תָה</span> <span data-strong=\"H6138\">וְעֶקְרֽוֹן׃</span>",
     "transliteration": "ve'eylvon vetimenatah ve'ekervon.",
     "translation": "E Elim e Timnata e Ecrón."
   },
   {
     "verse": 44,
-    "original": "וְאֶלְתְּקֵ֥ה וְגִבְּת֖וֹן וּבַעֲלָֽת׃",
+    "original": "<span data-strong=\"H514\">וְאֶלְתְּקֵ֥ה</span> <span data-strong=\"H1405\">וְגִבְּת֖וֹן</span> <span data-strong=\"H1191\">וּבַעֲלָֽת׃</span>",
     "transliteration": "ve'eletekeh vegivetvon vva'alat.",
     "translation": "E Elteque, e Gibeom, e Baalat."
   },
   {
     "verse": 45,
-    "original": "וִיהֻ֥ד וּבְנֵֽי־בְרַ֖ק וְגַת־רִמּֽוֹן׃",
+    "original": "<span data-strong=\"H3055\">וִיהֻ֥ד</span> <span data-strong=\"H1139\">וּבְנֵֽי</span>־<span data-strong=\"H1139\">בְרַ֖ק</span> <span data-strong=\"H1667\">וְגַת</span>־<span data-strong=\"H1667\">רִמּֽוֹן׃</span>",
     "transliteration": "viyhud vveney-verak vegat-rimvon.",
     "translation": "E Judá e os filhos de Bérraque e Gat-Rimom."
   },
   {
     "verse": 46,
-    "original": "וּמֵ֥י הַיַּרְק֖וֹן וְהָרַקּ֑וֹן עִֽם־הַגְּב֖וּל מ֥וּל יָפֽוֹ׃",
+    "original": "<span data-strong=\"H4313\">וּמֵ֥י</span> <span data-strong=\"H4313\">הַיַּרְק֖וֹן</span> <span data-strong=\"H7542\">וְהָרַקּ֑וֹן</span> <span data-strong=\"H5973\">עִֽם</span>־<span data-strong=\"H1366\">הַגְּב֖וּל</span> <span data-strong=\"H4136\">מ֥וּל</span> <span data-strong=\"H3305\">יָפֽוֹ׃</span>",
     "transliteration": "vmey hayarekvon veharakvon 'im-hagevvl mvl yafvo.",
     "translation": "E as águas do Jarkon e Raqon, ao longo da fronteira defronte de Yafo."
   },
   {
     "verse": 47,
-    "original": "וַיֵּצֵ֥א גְבוּל־בְּנֵי־דָ֖ן מֵהֶ֑ם וַיַּעֲל֣וּ בְנֵי־דָ֠ן וַיִּלָּחֲמ֨וּ עִם־לֶ֜שֶׁם וַיִּלְכְּד֥וּ אוֹתָ֣הּ&thinsp;<b>׀</b> וַיַּכּ֧וּ אוֹתָ֣הּ לְפִי־חֶ֗רֶב וַיִּֽרְשׁ֤וּ אוֹתָהּ֙ וַיֵּ֣שְׁבוּ בָ֔הּ וַיִּקְרְא֤וּ לְלֶ֙שֶׁם֙ דָּ֔ן כְּשֵׁ֖ם דָּ֥ן אֲבִיהֶֽם׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּצֵ֥א</span> <span data-strong=\"H1366\">גְבוּל</span>־<span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H1835\">דָ֖ן</span> <span data-strong=\"H3963\">מֵהֶ֑ם</span> <span data-strong=\"H5927\">וַיַּעֲל֣וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H1835\">דָ֠ן</span> <span data-strong=\"H3898\">וַיִּלָּחֲמ֨וּ</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H3959\">לֶ֜שֶׁם</span> <span data-strong=\"H3920\">וַיִּלְכְּד֥וּ</span> <span data-strong=\"H1886\">אוֹתָ֣הּ&thinsp;<b>׀</b></span> <span data-strong=\"H5221\">וַיַּכּ֧וּ</span> <span data-strong=\"H1886\">אוֹתָ֣הּ</span> <span data-strong=\"H6310\">לְפִי</span>־<span data-strong=\"H2719\">חֶ֗רֶב</span> <span data-strong=\"H3423\">וַיִּֽרְשׁ֤וּ</span> <span data-strong=\"H1886\">אוֹתָהּ֙</span> <span data-strong=\"H3427\">וַיֵּ֣שְׁבוּ</span> <span data-strong=\"H1886\">בָ֔הּ</span> <span data-strong=\"H7121\">וַיִּקְרְא֤וּ</span> <span data-strong=\"H3959\">לְלֶ֙שֶׁם֙</span> <span data-strong=\"H1835\">דָּ֔ן</span> <span data-strong=\"H8034\">כְּשֵׁ֖ם</span> <span data-strong=\"H1835\">דָּ֥ן</span> <span data-strong=\"H3963\">אֲבִיהֶֽם׃</span>",
     "transliteration": "vayetse' gevvl-veney-dan mehem vaya'alv veney-dan vayilahamv 'im-leshem vayilekhedv 'votah&thinsp;<b>|</b> vayakhv 'votah lefiy-herev vayireshv 'votah vayeshevv vah vayikere'v leleshem dan kheshem dan 'aviyhem.",
     "translation": "E saiu o território dos filhos de Dan dentre eles; então os filhos de Dan subiram e combateram contra Leshem, conquistaram-na, a ferro e fogo a destruíram, possuíram-na e nela se assentaram. E deram a Leshem o nome de Dan, conforme o nome de seu pai Dan."
   },
@@ -289,13 +289,13 @@
   },
   {
     "verse": 49,
-    "original": "וַיְכַלּ֥וּ לִנְחֹל־אֶת־הָאָ֖רֶץ לִגְבוּלֹתֶ֑יהָ וַיִּתְּנ֨וּ בְנֵי־יִשְׂרָאֵ֧ל נַחֲלָ֛ה לִיהוֹשֻׁ֥עַ בִּן־נ֖וּן בְּתוֹכָֽם׃",
+    "original": "<span data-strong=\"H3615\">וַיְכַלּ֥וּ</span> <span data-strong=\"H5157\">לִנְחֹל</span>־<span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H776\">הָאָ֖רֶץ</span> <span data-strong=\"H1886\">לִגְבוּלֹתֶ֑יהָ</span> <span data-strong=\"H5414\">וַיִּתְּנ֨וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֧ל</span> <span data-strong=\"H5159\">נַחֲלָ֛ה</span> <span data-strong=\"H3091\">לִיהוֹשֻׁ֥עַ</span> <span data-strong=\"H1121\">בִּן</span>־<span data-strong=\"H5126\">נ֖וּן</span> <span data-strong=\"H3963\">בְּתוֹכָֽם׃</span>",
     "transliteration": "vayekhalv linehol-'et-ha'arets ligevvloteyha vayitenv veney-yisera'el nahalah liyhvoshu'a vin-nvn vetvokham.",
     "translation": "E acabaram de dividir a terra em suas porções, e os filhos de Israel deram uma herança a Josué, filho de Num, entre eles."
   },
   {
     "verse": 50,
-    "original": "עַל־פִּ֨י יְהֹוָ֜ה נָ֣תְנוּ ל֗וֹ אֶת־הָעִיר֙ אֲשֶׁ֣ר שָׁאָ֔ל אֶת־תִּמְנַת־סֶ֖רַח בְּהַ֣ר אֶפְרָ֑יִם וַיִּבְנֶ֥ה אֶת־הָעִ֖יר וַיֵּ֥שֶׁב בָּֽהּ׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֨י</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H5414\">נָ֣תְנוּ</span> <span data-strong=\"H2050\">ל֗וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5892\">הָעִיר֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7592\">שָׁאָ֔ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8556\">תִּמְנַת</span>־<span data-strong=\"H8556\">סֶ֖רַח</span> <span data-strong=\"H2022\">בְּהַ֣ר</span> <span data-strong=\"H669\">אֶפְרָ֑יִם</span> <span data-strong=\"H1129\">וַיִּבְנֶ֥ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5892\">הָעִ֖יר</span> <span data-strong=\"H3427\">וַיֵּ֥שֶׁב</span> <span data-strong=\"H1886\">בָּֽהּ׃</span>",
     "transliteration": "'al-fiy yehovah natenv lvo 'et-ha'iyr 'asher sha'al 'et-timenat-serah vehar 'eferayim vayiveneh 'et-ha'iyr vayeshev vah.",
     "translation": "Pela boca do Senhor nos deram a ele a cidade que pediu, Timnata-Seraia no monte Efraim. Ele edificou a cidade e nela habitou."
   },

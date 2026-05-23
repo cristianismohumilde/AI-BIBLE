@@ -1,31 +1,31 @@
 [
   {
     "verse": 1,
-    "original": "וְאַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּמַלְכ֖וּת אַרְתַּחְשַׁ֣סְתְּא מֶֽלֶךְ־פָּרָ֑ס עֶזְרָא֙ בֶּן־שְׂרָיָ֔ה בֶּן־עֲזַרְיָ֖ה בֶּן־חִלְקִיָּֽה׃",
+    "original": "<span data-strong=\"H310\">וְאַחַר֙</span> <span data-strong=\"H1697\">הַדְּבָרִ֣ים</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H4438\">בְּמַלְכ֖וּת</span> <span data-strong=\"H783\">אַרְתַּחְשַׁ֣סְתְּא</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H6539\">פָּרָ֑ס</span> <span data-strong=\"H5830\">עֶזְרָא֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H8304\">שְׂרָיָ֔ה</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5838\">עֲזַרְיָ֖ה</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2518\">חִלְקִיָּֽה׃</span>",
     "transliteration": "ve'ahar hadevariym ha'eleh vemalekhvt 'aretaheshasete' melekhe-faras 'ezera' ven-serayah ven-'azareyah ven-hilekiyah.",
     "translation": "E após estas coisas, no reino de Artaxerxes, rei da Pérsia, Ezra, filho de Seraías, filho de Azarias, filho de Hilquias."
   },
   {
     "verse": 2,
-    "original": "בֶּן־שַׁלּ֥וּם בֶּן־צָד֖וֹק בֶּן־אֲחִיטֽוּב׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H7967\">שַׁלּ֥וּם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6659\">צָד֖וֹק</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H285\">אֲחִיטֽוּב׃</span>",
     "transliteration": "ven-shalvm ven-tsadvok ven-'ahiytvv.",
     "translation": "Filho de Salum, filho de Sadoc, filho de Aquisube."
   },
   {
     "verse": 3,
-    "original": "בֶּן־אֲמַרְיָ֥ה בֶן־עֲזַרְיָ֖ה בֶּן־מְרָיֽוֹת׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H568\">אֲמַרְיָ֥ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H5838\">עֲזַרְיָ֖ה</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H4812\">מְרָיֽוֹת׃</span>",
     "transliteration": "ven-'amareyah ven-'azareyah ven-merayvot.",
     "translation": "Filho de Amarias, filho de Azarias, filho de Meriot."
   },
   {
     "verse": 4,
-    "original": "בֶּן־זְרַֽחְיָ֥ה בֶן־עֻזִּ֖י בֶּן־בֻּקִּֽי׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2228\">זְרַֽחְיָ֥ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H5813\">עֻזִּ֖י</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1231\">בֻּקִּֽי׃</span>",
     "transliteration": "ven-zeraheyah ven-'uziy ven-vukiy.",
     "translation": "Filho de Zeracías, filho de Uzí, filho de Buki."
   },
   {
     "verse": 5,
-    "original": "בֶּן־אֲבִישׁ֗וּעַ בֶּן־פִּֽינְחָס֙ בֶּן־אֶלְעָזָ֔ר בֶּן־אַהֲרֹ֥ן הַכֹּהֵ֖ן הָרֹֽאשׁ׃",
+    "original": "<span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H50\">אֲבִישׁ֗וּעַ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6372\">פִּֽינְחָס֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H499\">אֶלְעָזָ֔ר</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H175\">אַהֲרֹ֥ן</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H7218\">הָרֹֽאשׁ׃</span>",
     "transliteration": "ven-'aviyshv'a ven-fiynehas ven-'ele'azar ven-'aharon hakhohen haro'sh.",
     "translation": "Filho de Abisue, filho de Finéias, filho de Eleazar, filho de Aarão o sacerdote, o chefe."
   },
@@ -37,19 +37,19 @@
   },
   {
     "verse": 7,
-    "original": "וַיַּֽעֲל֣וּ מִבְּנֵֽי־יִ֠שְׂרָאֵ֠ל וּמִן־הַכֹּהֲנִ֨ים וְהַלְוִיִּ֜ם וְהַמְשֹׁרְרִ֧ים וְהַשֹּׁעֲרִ֛ים וְהַנְּתִינִ֖ים אֶל־יְרוּשָׁלָ֑͏ִם בִּשְׁנַת־שֶׁ֖בַע לְאַרְתַּחְשַׁ֥סְתְּא הַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H5927\">וַיַּֽעֲל֣וּ</span> <span data-strong=\"H1121\">מִבְּנֵֽי</span>־<span data-strong=\"H3478\">יִ֠שְׂרָאֵ֠ל</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H3548\">הַכֹּהֲנִ֨ים</span> <span data-strong=\"H3881\">וְהַלְוִיִּ֜ם</span> <span data-strong=\"H7891\">וְהַמְשֹׁרְרִ֧ים</span> <span data-strong=\"H7778\">וְהַשֹּׁעֲרִ֛ים</span> <span data-strong=\"H5411\">וְהַנְּתִינִ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3389\">יְרוּשָׁלָ֑͏ִם</span> <span data-strong=\"H8141\">בִּשְׁנַת</span>־<span data-strong=\"H7651\">שֶׁ֖בַע</span> <span data-strong=\"H783\">לְאַרְתַּחְשַׁ֥סְתְּא</span> <span data-strong=\"H4428\">הַמֶּֽלֶךְ׃</span>",
     "transliteration": "vaya'alv miveney-yisera'el vmin-hakhohaniym vehaleviyim vehameshoreriym vehasho'ariym vehanetiyniym 'el-yervshalaim vishenat-sheva' le'aretaheshasete' hamelekhe.",
     "translation": "Subiram dentre os filhos de Israel, e dos sacerdotes, e dos levitas, e dos cantores, e dos porteiros, e dos netinins, a Jerusalém no ano sete do rei Artaxerxes."
   },
   {
     "verse": 8,
-    "original": "וַיָּבֹ֥א יְרוּשָׁלַ֖͏ִם בַּחֹ֣דֶשׁ הַחֲמִישִׁ֑י הִ֛יא שְׁנַ֥ת הַשְּׁבִיעִ֖ית לַמֶּֽלֶךְ׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֥א</span> <span data-strong=\"H3389\">יְרוּשָׁלַ֖͏ִם</span> <span data-strong=\"H2320\">בַּחֹ֣דֶשׁ</span> <span data-strong=\"H2549\">הַחֲמִישִׁ֑י</span> <span data-strong=\"H1931\">הִ֛יא</span> <span data-strong=\"H8141\">שְׁנַ֥ת</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֖ית</span> <span data-strong=\"H4428\">לַמֶּֽלֶךְ׃</span>",
     "transliteration": "vayavo' yervshalaim vahodesh hahamiyshiy hiy' shenat hasheviy'iyt lamelekhe.",
     "translation": "E ele entrou em Jerusalém no mês quinto, que era o sétimo ano do rei."
   },
   {
     "verse": 9,
-    "original": "כִּ֗י בְּאֶחָד֙ לַחֹ֣דֶשׁ הָרִאשׁ֔וֹן ה֣וּא יְסֻ֔ד הַֽמַּעֲלָ֖ה מִבָּבֶ֑ל וּבְאֶחָ֞ד לַחֹ֣דֶשׁ הַחֲמִישִׁ֗י בָּ֚א אֶל־יְר֣וּשָׁלַ֔͏ִם כְּיַד־אֱלֹהָ֖יו הַטּוֹבָ֥ה עָלָֽיו׃",
+    "original": "<span data-strong=\"H3588\">כִּ֗י</span> <span data-strong=\"H259\">בְּאֶחָד֙</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H7223\">הָרִאשׁ֔וֹן</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H3246\">יְסֻ֔ד</span> <span data-strong=\"H4609\">הַֽמַּעֲלָ֖ה</span> <span data-strong=\"H894\">מִבָּבֶ֑ל</span> <span data-strong=\"H259\">וּבְאֶחָ֞ד</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H2549\">הַחֲמִישִׁ֗י</span> <span data-strong=\"H935\">בָּ֚א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3389\">יְר֣וּשָׁלַ֔͏ִם</span> <span data-strong=\"H3027\">כְּיַד</span>־<span data-strong=\"H2050\">אֱלֹהָ֖יו</span> <span data-strong=\"H2896\">הַטּוֹבָ֥ה</span> <span data-strong=\"H2050\">עָלָֽיו׃</span>",
     "transliteration": "khiy ve'ehad lahodesh hari'shvon hv' yesud hama'alah mivavel vve'ehad lahodesh hahamiyshiy va' 'el-yervshalaim kheyad-'elohayv hatvovah 'alayv.",
     "translation": "Porque no primeiro dia do mês primeiro, foi fundada a subida da casa de Babilônia; e no primeiro dia do mês quinto, chegou ele a Jerusalém, conforme a mão do seu Deus sobre ele para o bem."
   },
@@ -67,31 +67,31 @@
   },
   {
     "verse": 12,
-    "original": "אַ֨רְתַּחְשַׁ֔סְתְּא מֶ֖לֶךְ מַלְכַיָּ֑א לְעֶזְרָ֣א כָ֠הֲנָ֠א סָפַ֨ר דָּתָ֜א דִּֽי־אֱלָ֧הּ שְׁמַיָּ֛א גְּמִ֖יר וּכְעֶֽנֶת׃",
+    "original": "<span data-strong=\"H783\">אַ֨רְתַּחְשַׁ֔סְתְּא</span> <span data-strong=\"H4430\">מֶ֖לֶךְ</span> <span data-strong=\"H1\">מַלְכַיָּ֑א</span> <span data-strong=\"H5831\">לְעֶזְרָ֣א</span> <span data-strong=\"H1\">כָ֠הֲנָ֠א</span> <span data-strong=\"H5613\">סָפַ֨ר</span> <span data-strong=\"H1\">דָּתָ֜א</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H426\">אֱלָ֧הּ</span> <span data-strong=\"H1\">שְׁמַיָּ֛א</span> <span data-strong=\"H1585\">גְּמִ֖יר</span> <span data-strong=\"H3706\">וּכְעֶֽנֶת׃</span>",
     "transliteration": "'aretaheshasete' melekhe malekhaya' le'ezera' khahana' safar data' diy-'elah shemaya' gemiyr vkhe'enet.",
     "translation": "Artáxerxes, rei dos reis, a Esdras, sacerdote e escriba da lei do Deus celeste, que se distingue por sua sabedoria e entendimento."
   },
   {
     "verse": 13,
-    "original": "מִנִּי֮ שִׂ֣ים טְעֵם֒ דִּ֣י כׇל־מִתְנַדַּ֣ב בְּמַלְכוּתִי֩ מִן־עַמָּ֨א יִשְׂרָאֵ֜ל וְכָהֲנ֣וֹהִי וְלֵוָיֵ֗א לִמְהָ֧ךְ לִֽירוּשְׁלֶ֛ם עִמָּ֖ךְ יְהָֽךְ׃",
+    "original": "<span data-strong=\"H2967\">מִנִּי֮</span> <span data-strong=\"H7761\">שִׂ֣ים</span> <span data-strong=\"H2942\">טְעֵם֒</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H3606\">כׇל</span>־<span data-strong=\"H5069\">מִתְנַדַּ֣ב</span> <span data-strong=\"H2967\">בְּמַלְכוּתִי֩</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1\">עַמָּ֨א</span> <span data-strong=\"H3479\">יִשְׂרָאֵ֜ל</span> <span data-strong=\"H1958\">וְכָהֲנ֣וֹהִי</span> <span data-strong=\"H1\">וְלֵוָיֵ֗א</span> <span data-strong=\"H1946\">לִמְהָ֧ךְ</span> <span data-strong=\"H3390\">לִֽירוּשְׁלֶ֛ם</span> <span data-strong=\"H3509\">עִמָּ֖ךְ</span> <span data-strong=\"H1946\">יְהָֽךְ׃</span>",
     "transliteration": "miniy siym te'em diy khol-mitenadav vemalekhvtiy min-'ama' yisera'el vekhahanvohiy velevaye' limehakhe liyrvshelem 'imakhe yehakhe.",
     "translation": "De quem entre o povo de Israel, dos sacerdotes e levitas, voluntariamente oferecerem subir a Jerusalém contigo."
   },
   {
     "verse": 14,
-    "original": "כׇּל־קֳבֵ֗ל דִּי֩ מִן־קֳדָ֨ם מַלְכָּ֜א וְשִׁבְעַ֤ת יָעֲטֹ֙הִי֙ שְׁלִ֔יחַ לְבַקָּרָ֥ה עַל־יְה֖וּד וְלִֽירוּשְׁלֶ֑ם בְּדָ֥ת אֱלָהָ֖ךְ דִּ֥י בִידָֽךְ׃",
+    "original": "<span data-strong=\"H3807\">כׇּל</span>־<span data-strong=\"H6903\">קֳבֵ֗ל</span> <span data-strong=\"H1768\">דִּי֩</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H6925\">קֳדָ֨ם</span> <span data-strong=\"H1\">מַלְכָּ֜א</span> <span data-strong=\"H7655\">וְשִׁבְעַ֤ת</span> <span data-strong=\"H1958\">יָעֲטֹ֙הִי֙</span> <span data-strong=\"H7972\">שְׁלִ֔יחַ</span> <span data-strong=\"H1240\">לְבַקָּרָ֥ה</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H3061\">יְה֖וּד</span> <span data-strong=\"H3390\">וְלִֽירוּשְׁלֶ֑ם</span> <span data-strong=\"H1882\">בְּדָ֥ת</span> <span data-strong=\"H3509\">אֱלָהָ֖ךְ</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H3509\">בִידָֽךְ׃</span>",
     "transliteration": "khol-kovel diy min-kodam malekha' veshive'at ya'atohiy sheliyha levakarah 'al-yehvd veliyrvshelem vedat 'elahakhe diy viydakhe.",
     "translation": "Toda carta do rei, e sete selos com ela; um para registrar contra os judeus e Jerusalém, conforme a lei do teu Deus que está contigo."
   },
   {
     "verse": 15,
-    "original": "וּלְהֵיבָלָ֖ה כְּסַ֣ף וּדְהַ֑ב דִּֽי־מַלְכָּ֣א וְיָעֲט֗וֹהִי הִתְנַדַּ֙בוּ֙ לֶאֱלָ֣הּ יִשְׂרָאֵ֔ל דִּ֥י בִֽירוּשְׁלֶ֖ם מִשְׁכְּנֵֽהּ׃",
+    "original": "<span data-strong=\"H2987\">וּלְהֵיבָלָ֖ה</span> <span data-strong=\"H3702\">כְּסַ֣ף</span> <span data-strong=\"H1722\">וּדְהַ֑ב</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H1\">מַלְכָּ֣א</span> <span data-strong=\"H1958\">וְיָעֲט֗וֹהִי</span> <span data-strong=\"H5069\">הִתְנַדַּ֙בוּ֙</span> <span data-strong=\"H426\">לֶאֱלָ֣הּ</span> <span data-strong=\"H3479\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H3390\">בִֽירוּשְׁלֶ֖ם</span> <span data-strong=\"H1886\">מִשְׁכְּנֵֽהּ׃</span>",
     "transliteration": "vleheyvalah khesaf vdehav diy-malekha' veya'atvohiy hitenadavv le'elah yisera'el diy viyrvshelem mishekheneh.",
     "translation": "E à Beleléu, como prata e ouro que o rei consagrou; ofertaram-no a Deus de Israel cuja morada está em Jerusalém."
   },
   {
     "verse": 16,
-    "original": "וְכֹל֙ כְּסַ֣ף וּדְהַ֔ב דִּ֣י תְהַשְׁכַּ֔ח בְּכֹ֖ל מְדִינַ֣ת בָּבֶ֑ל עִם֩ הִתְנַדָּב֨וּת עַמָּ֤א וְכָֽהֲנַיָּא֙ מִֽתְנַדְּבִ֔ין לְבֵ֥ית אֱלָהֲהֹ֖ם דִּ֥י בִירוּשְׁלֶֽם׃",
+    "original": "<span data-strong=\"H3606\">וְכֹל֙</span> <span data-strong=\"H3702\">כְּסַ֣ף</span> <span data-strong=\"H1722\">וּדְהַ֔ב</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H7912\">תְהַשְׁכַּ֔ח</span> <span data-strong=\"H3606\">בְּכֹ֖ל</span> <span data-strong=\"H4083\">מְדִינַ֣ת</span> <span data-strong=\"H895\">בָּבֶ֑ל</span> <span data-strong=\"H5974\">עִם֩</span> <span data-strong=\"H5069\">הִתְנַדָּב֨וּת</span> <span data-strong=\"H1\">עַמָּ֤א</span> <span data-strong=\"H1\">וְכָֽהֲנַיָּא֙</span> <span data-strong=\"H5069\">מִֽתְנַדְּבִ֔ין</span> <span data-strong=\"H1005\">לְבֵ֥ית</span> <span data-strong=\"H1952\">אֱלָהֲהֹ֖ם</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H3390\">בִירוּשְׁלֶֽם׃</span>",
     "transliteration": "vekhol khesaf vdehav diy tehashekhah vekhol mediynat vavel 'im hitenadavvt 'ama' vekhahanaya' mitenadeviyn leveyt 'elahahom diy viyrvshelem.",
     "translation": "E toda a prata e o ouro que se esqueceram em todo o reino de Babilônia, com a liberalidade do povo e dos sacerdotes que se oferecem voluntariamente para a casa do seu Deus que está em Jerusalém."
   },
@@ -109,31 +109,31 @@
   },
   {
     "verse": 19,
-    "original": "וּמָֽאנַיָּא֙ דִּֽי־מִתְיַהֲבִ֣ין לָ֔ךְ לְפׇלְחָ֖ן בֵּ֣ית אֱלָהָ֑ךְ הַשְׁלֵ֕ם קֳדָ֖ם אֱלָ֥הּ יְרוּשְׁלֶֽם׃",
+    "original": "<span data-strong=\"H1\">וּמָֽאנַיָּא֙</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H3052\">מִתְיַהֲבִ֣ין</span> <span data-strong=\"H3509\">לָ֔ךְ</span> <span data-strong=\"H6402\">לְפׇלְחָ֖ן</span> <span data-strong=\"H1005\">בֵּ֣ית</span> <span data-strong=\"H3509\">אֱלָהָ֑ךְ</span> <span data-strong=\"H8000\">הַשְׁלֵ֕ם</span> <span data-strong=\"H6925\">קֳדָ֖ם</span> <span data-strong=\"H426\">אֱלָ֥הּ</span> <span data-strong=\"H3390\">יְרוּשְׁלֶֽם׃</span>",
     "transliteration": "vma'naya' diy-miteyahaviyn lakhe lefolehan veyt 'elahakhe hashelem kodam 'elah yervshelem.",
     "translation": "E os dons que te são agradáveis, para glorificares a casa do teu Deus, sejam perfeitos diante de Deus em Jerusalém."
   },
   {
     "verse": 20,
-    "original": "וּשְׁאָ֗ר חַשְׁחוּת֙ בֵּ֣ית אֱלָהָ֔ךְ דִּ֥י יִפֶּל־לָ֖ךְ לְמִנְתַּ֑ן תִּנְתֵּ֕ן מִן־בֵּ֖ית גִּנְזֵ֥י מַלְכָּֽא׃",
+    "original": "<span data-strong=\"H7606\">וּשְׁאָ֗ר</span> <span data-strong=\"H2819\">חַשְׁחוּת֙</span> <span data-strong=\"H1005\">בֵּ֣ית</span> <span data-strong=\"H3509\">אֱלָהָ֔ךְ</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H5308\">יִפֶּל</span>־<span data-strong=\"H3509\">לָ֖ךְ</span> <span data-strong=\"H5415\">לְמִנְתַּ֑ן</span> <span data-strong=\"H5415\">תִּנְתֵּ֕ן</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H1005\">בֵּ֖ית</span> <span data-strong=\"H1596\">גִּנְזֵ֥י</span> <span data-strong=\"H1\">מַלְכָּֽא׃</span>",
     "transliteration": "vshe'ar hashehvt veyt 'elahakhe diy yifel-lakhe leminetan tineten min-veyt ginezey malekha'.",
     "translation": "E a sobra da profanação da casa do teu Deus, que cair-te em oferta, tu darás dos tesouros da casa do rei."
   },
   {
     "verse": 21,
-    "original": "וּ֠מִנִּ֠י אֲנָ֞ה אַרְתַּחְשַׁ֤סְתְּא מַלְכָּא֙ שִׂ֣ים טְעֵ֔ם לְכֹל֙ גִּזַּֽבְרַיָּ֔א דִּ֖י בַּעֲבַ֣ר נַהֲרָ֑ה דִּ֣י כׇל־דִּ֣י יִ֠שְׁאֲלֶנְכ֠וֹן עֶזְרָ֨א כָהֲנָ֜א סָפַ֤ר דָּתָא֙ דִּֽי־אֱלָ֣הּ שְׁמַיָּ֔א אׇסְפַּ֖רְנָא יִתְעֲבִֽד׃",
+    "original": "<span data-strong=\"H2967\">וּ֠מִנִּ֠י</span> <span data-strong=\"H576\">אֲנָ֞ה</span> <span data-strong=\"H783\">אַרְתַּחְשַׁ֤סְתְּא</span> <span data-strong=\"H1\">מַלְכָּא֙</span> <span data-strong=\"H7761\">שִׂ֣ים</span> <span data-strong=\"H2942\">טְעֵ֔ם</span> <span data-strong=\"H3606\">לְכֹל֙</span> <span data-strong=\"H1\">גִּזַּֽבְרַיָּ֔א</span> <span data-strong=\"H1768\">דִּ֖י</span> <span data-strong=\"H5675\">בַּעֲבַ֣ר</span> <span data-strong=\"H1\">נַהֲרָ֑ה</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H3606\">כׇל</span>־<span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H3561\">יִ֠שְׁאֲלֶנְכ֠וֹן</span> <span data-strong=\"H5831\">עֶזְרָ֨א</span> <span data-strong=\"H1\">כָהֲנָ֜א</span> <span data-strong=\"H5613\">סָפַ֤ר</span> <span data-strong=\"H1\">דָּתָא֙</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H426\">אֱלָ֣הּ</span> <span data-strong=\"H1\">שְׁמַיָּ֔א</span> <span data-strong=\"H629\">אׇסְפַּ֖רְנָא</span> <span data-strong=\"H5648\">יִתְעֲבִֽד׃</span>",
     "transliteration": "vminiy 'anah 'aretaheshasete' malekha' siym te'em lekhol gizaveraya' diy va'avar naharah diy khol-diy yishe'alenekhvon 'ezera' khahana' safar data' diy-'elah shemaya' 'osefarena' yite'avid.",
     "translation": "Eis que de Artaxerxes, o rei, ordeno que se dê prontamente tudo quanto Ezra, o sacerdote e escriba da lei do Deus dos céus, lhes pedir."
   },
   {
     "verse": 22,
-    "original": "עַד־כְּסַף֮ כַּכְּרִ֣ין מְאָה֒ וְעַד־חִנְטִין֙ כּוֹרִ֣ין מְאָ֔ה וְעַד־חֲמַר֙ בַּתִּ֣ין מְאָ֔ה וְעַד־בַּתִּ֥ין מְשַׁ֖ח מְאָ֑ה וּמְלַ֖ח דִּי־לָ֥א כְתָֽב׃",
+    "original": "<span data-strong=\"H5705\">עַד</span>־<span data-strong=\"H3702\">כְּסַף֮</span> <span data-strong=\"H3604\">כַּכְּרִ֣ין</span> <span data-strong=\"H3969\">מְאָה֒</span> <span data-strong=\"H5705\">וְעַד</span>־<span data-strong=\"H2591\">חִנְטִין֙</span> <span data-strong=\"H3734\">כּוֹרִ֣ין</span> <span data-strong=\"H3969\">מְאָ֔ה</span> <span data-strong=\"H5705\">וְעַד</span>־<span data-strong=\"H2562\">חֲמַר֙</span> <span data-strong=\"H1325\">בַּתִּ֣ין</span> <span data-strong=\"H3969\">מְאָ֔ה</span> <span data-strong=\"H5705\">וְעַד</span>־<span data-strong=\"H1325\">בַּתִּ֥ין</span> <span data-strong=\"H4887\">מְשַׁ֖ח</span> <span data-strong=\"H3969\">מְאָ֑ה</span> <span data-strong=\"H4416\">וּמְלַ֖ח</span> <span data-strong=\"H1768\">דִּי</span>־<span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H3792\">כְתָֽב׃</span>",
     "transliteration": "'ad-khesaf khakheriyn me'ah ve'ad-hinetiyn khvoriyn me'ah ve'ad-hamar vatiyn me'ah ve'ad-vatiyn meshah me'ah vmelah diy-la' khetav.",
     "translation": "Até prata de cem siclos, e até cevada de cem coros, e até vinho de cem batnas, e até óleo de oliva de cem batnas, e sal não é mencionado."
   },
   {
     "verse": 23,
-    "original": "כׇּל־דִּ֗י מִן־טַ֙עַם֙ אֱלָ֣הּ שְׁמַיָּ֔א יִתְעֲבֵד֙ אַדְרַזְדָּ֔א לְבֵ֖ית אֱלָ֣הּ שְׁמַיָּ֑א דִּֽי־לְמָ֤ה לֶֽהֱוֵא֙ קְצַ֔ף עַל־מַלְכ֥וּת מַלְכָּ֖א וּבְנֽוֹהִי׃",
+    "original": "<span data-strong=\"H3606\">כׇּל</span>־<span data-strong=\"H1768\">דִּ֗י</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H2942\">טַ֙עַם֙</span> <span data-strong=\"H426\">אֱלָ֣הּ</span> <span data-strong=\"H1\">שְׁמַיָּ֔א</span> <span data-strong=\"H5648\">יִתְעֲבֵד֙</span> <span data-strong=\"H149\">אַדְרַזְדָּ֔א</span> <span data-strong=\"H1005\">לְבֵ֖ית</span> <span data-strong=\"H426\">אֱלָ֣הּ</span> <span data-strong=\"H1\">שְׁמַיָּ֑א</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H4101\">לְמָ֤ה</span> <span data-strong=\"H1934\">לֶֽהֱוֵא֙</span> <span data-strong=\"H7109\">קְצַ֔ף</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H4437\">מַלְכ֥וּת</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H1958\">וּבְנֽוֹהִי׃</span>",
     "transliteration": "khol-diy min-ta'am 'elah shemaya' yite'aved 'aderazeda' leveyt 'elah shemaya' diy-lemah leheve' ketsaf 'al-malekhvt malekha' vvenvohiy.",
     "translation": "Todo aquele que de coração serve aos Deuses do céu, sirva a Adarzara para a casa dos Deuses do céu; para que não venha sobre o reino da rainha e seus filhos ira alguma."
   },
@@ -157,7 +157,7 @@
   },
   {
     "verse": 27,
-    "original": "בָּר֥וּךְ יְהֹוָ֖ה אֱלֹהֵ֣י אֲבֹתֵ֑ינוּ אֲשֶׁ֨ר נָתַ֤ן כָּזֹאת֙ בְּלֵ֣ב הַמֶּ֔לֶךְ לְפָאֵ֕ר אֶת־בֵּ֥ית יְהֹוָ֖ה אֲשֶׁ֥ר בִּירוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1288\">בָּר֥וּךְ</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H5105\">אֲבֹתֵ֑ינוּ</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H5414\">נָתַ֤ן</span> <span data-strong=\"H2063\">כָּזֹאת֙</span> <span data-strong=\"H3820\">בְּלֵ֣ב</span> <span data-strong=\"H4428\">הַמֶּ֔לֶךְ</span> <span data-strong=\"H6286\">לְפָאֵ֕ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3389\">בִּירוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "varvkhe yehovah 'elohey 'avoteynv 'asher natan khazo't velev hamelekhe lefa'er 'et-veyt yehovah 'asher viyrvshalaim.",
     "translation": "Bendito seja o Senhor, Deus de nossos pais, que moveu o coração do rei para embelezar a casa do Senhor que está em Jerusalém."
   },

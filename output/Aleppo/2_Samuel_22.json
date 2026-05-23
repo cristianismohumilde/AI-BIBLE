@@ -7,7 +7,7 @@
   },
   {
     "verse": 2,
-    "original": "וַיֹּאמַ֑ר יְהֹוָ֛ה סַֽלְעִ֥י וּמְצֻדָתִ֖י וּמְפַלְטִי־לִֽי׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמַ֑ר</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H2967\">סַֽלְעִ֥י</span> <span data-strong=\"H2967\">וּמְצֻדָתִ֖י</span> <span data-strong=\"H2967\">וּמְפַלְטִי</span>־<span data-strong=\"H2967\">לִֽי׃</span>",
     "transliteration": "vayo'mar yehovah sale'iy vmetsudatiy vmefaletiy-liy.",
     "translation": "E disse: Senhor, minha rocha e meu refúgio e meu lugar de segurança."
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "מִנֹּ֖גַהּ נֶגְדּ֑וֹ בָּעֲר֖וּ גַּחֲלֵי־אֵֽשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5051\">מִנֹּ֖גַהּ</span> <span data-strong=\"H2050\">נֶגְדּ֑וֹ</span> <span data-strong=\"H1197\">בָּעֲר֖וּ</span> <span data-strong=\"H1513\">גַּחֲלֵי</span>־<span data-strong=\"H784\">אֵֽשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "minogah negedvo va'arv gahaley-'esh.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "De sua glória resplandece, e as brasas de fogo ardem."
   },
   {
     "verse": 14,
-    "original": "יַרְעֵ֥ם מִן־שָׁמַ֖יִם יְהֹוָ֑ה וְעֶלְי֖וֹן יִתֵּ֥ן קוֹלֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H7481\">יַרְעֵ֥ם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H8064\">שָׁמַ֖יִם</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H5945\">וְעֶלְי֖וֹן</span> <span data-strong=\"H5414\">יִתֵּ֥ן</span> <span data-strong=\"H2050\">קוֹלֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "yare'em min-shamayim yehovah ve'eleyvon yiten kvolvo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Do céu ele os arrepiará, Senhor, e o Altíssimo dará sua voz."
   },
@@ -109,25 +109,25 @@
   },
   {
     "verse": 19,
-    "original": "יְקַדְּמֻ֖נִי בְּי֣וֹם אֵידִ֑י וַיְהִ֧י יְהֹוָ֛ה מִשְׁעָ֖ן לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5204\">יְקַדְּמֻ֖נִי</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H2967\">אֵידִ֑י</span> <span data-strong=\"H1961\">וַיְהִ֧י</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H4937\">מִשְׁעָ֖ן</span> <span data-strong=\"H2967\">לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "yekademuniy veyvom 'eydiy vayehiy yehovah mishe'an liy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Ele me antecedeu no dia da tribulação, e o Senhor se tornou meu refúgio."
   },
   {
     "verse": 20,
-    "original": "וַיֹּצֵ֥א לַמֶּרְחָ֖ב אֹתִ֑י יְחַלְּצֵ֖נִי כִּי־חָ֥פֵֽץ בִּֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H3318\">וַיֹּצֵ֥א</span> <span data-strong=\"H4800\">לַמֶּרְחָ֖ב</span> <span data-strong=\"H2967\">אֹתִ֑י</span> <span data-strong=\"H5204\">יְחַלְּצֵ֖נִי</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H2654\">חָ֥פֵֽץ</span> <span data-strong=\"H2967\">בִּֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "vayotse' lamerehav 'otiy yehaletseniy khiy-hafets viy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E me fez sair ao amplo espaço, me libertou, pois se deleitou comigo."
   },
   {
     "verse": 21,
-    "original": "יִגְמְלֵ֥נִי יְהֹוָ֖ה כְּצִדְקָתִ֑י כְּבֹ֥ר יָדַ֖י יָשִׁ֥יב לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5204\">יִגְמְלֵ֥נִי</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H2967\">כְּצִדְקָתִ֑י</span> <span data-strong=\"H1252\">כְּבֹ֥ר</span> <span data-strong=\"H2967\">יָדַ֖י</span> <span data-strong=\"H7725\">יָשִׁ֥יב</span> <span data-strong=\"H2967\">לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "yigemeleniy yehovah khetsidekatiy khevor yaday yashiyv liy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "O Senhor me recompense conforme minha justiça, e conforme as obras de minhas mãos direitas me faça retornar."
   },
   {
     "verse": 22,
-    "original": "כִּ֥י שָׁמַ֖רְתִּי דַּרְכֵ֣י יְהֹוָ֑ה וְלֹ֥א רָשַׁ֖עְתִּי מֵאֱלֹהָֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H8104\">שָׁמַ֖רְתִּי</span> <span data-strong=\"H1870\">דַּרְכֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H7561\">רָשַׁ֖עְתִּי</span> <span data-strong=\"H2967\">מֵאֱלֹהָֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "khiy shamaretiy darekhey yehovah velo' rasha'etiy me'elohay.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Pois guardei os caminhos do Senhor e não pequei contra o meu Deus."
   },
@@ -211,13 +211,13 @@
   },
   {
     "verse": 36,
-    "original": "וַתִּתֶּן־לִ֖י מָגֵ֣ן יִשְׁעֶ֑ךָ וַעֲנֹתְךָ֖ תַּרְבֵּֽנִי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5414\">וַתִּתֶּן</span>־<span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H4043\">מָגֵ֣ן</span> <span data-strong=\"H3509\">יִשְׁעֶ֑ךָ</span> <span data-strong=\"H3509\">וַעֲנֹתְךָ֖</span> <span data-strong=\"H5204\">תַּרְבֵּֽנִי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "vatiten-liy magen yishe'ekha va'anotekha tareveniy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E me deste o escudo da tua salvação, e com a mansidão do teu auxílio me nutriste."
   },
   {
     "verse": 37,
-    "original": "תַּרְחִ֥יב צַעֲדִ֖י תַּחְתֵּ֑נִי וְלֹ֥א מָעֲד֖וּ קַרְסֻלָּֽי׃",
+    "original": "<span data-strong=\"H7337\">תַּרְחִ֥יב</span> <span data-strong=\"H2967\">צַעֲדִ֖י</span> <span data-strong=\"H2967\">תַּחְתֵּ֑נִי</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H4571\">מָעֲד֖וּ</span> <span data-strong=\"H2967\">קַרְסֻלָּֽי׃</span>",
     "transliteration": "tarehiyv tsa'adiy taheteniy velo' ma'adv karesulay.",
     "translation": "Amplia meus passos sob mim, e minhas saias não se enroscaram."
   },
@@ -241,13 +241,13 @@
   },
   {
     "verse": 41,
-    "original": "וְאֹ֣יְבַ֔י תַּ֥תָּה לִּ֖י עֹ֑רֶף מְשַׂנְאַ֖י וָאַצְמִיתֵֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H2967\">וְאֹ֣יְבַ֔י</span> <span data-strong=\"H5414\">תַּ֥תָּה</span> <span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H6203\">עֹ֑רֶף</span> <span data-strong=\"H2967\">מְשַׂנְאַ֖י</span> <span data-strong=\"H3963\">וָאַצְמִיתֵֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "ve'oyevay tatah liy 'oref mesane'ay va'atsemiytem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E me deste as costas aos meus inimigos, tornando-os odientos que eu possa enfrentar."
   },
   {
     "verse": 42,
-    "original": "יִשְׁע֖וּ וְאֵ֣ין מֹשִׁ֑יעַ אֶל־יְהֹוָ֖ה וְלֹ֥א עָנָֽם׃",
+    "original": "<span data-strong=\"H8159\">יִשְׁע֖וּ</span> <span data-strong=\"H369\">וְאֵ֣ין</span> <span data-strong=\"H3467\">מֹשִׁ֑יעַ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H3963\">עָנָֽם׃</span>",
     "transliteration": "yishe'v ve'eyn moshiy'a 'el-yehovah velo' 'anam.",
     "translation": "Clamaram, e não houve quem os livrasse; recorreram ao Senhor, e ele não atendeu a eles."
   },
@@ -265,13 +265,13 @@
   },
   {
     "verse": 45,
-    "original": "בְּנֵ֥י נֵכָ֖ר יִתְכַּחֲשׁוּ־לִ֑י לִשְׁמ֥וֹעַ אֹ֖זֶן יִשָּׁ֥מְעוּ לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5236\">נֵכָ֖ר</span> <span data-strong=\"H3584\">יִתְכַּחֲשׁוּ</span>־<span data-strong=\"H2967\">לִ֑י</span> <span data-strong=\"H8085\">לִשְׁמ֥וֹעַ</span> <span data-strong=\"H241\">אֹ֖זֶן</span> <span data-strong=\"H8085\">יִשָּׁ֥מְעוּ</span> <span data-strong=\"H2967\">לִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "veney nekhar yitekhahashv-liy lishemvo'a 'ozen yishame'v liy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Filhos dos estrangeiros me ouvirão com espanto, e atentos prestarão atenção a mim."
   },
   {
     "verse": 46,
-    "original": "בְּנֵ֥י נֵכָ֖ר יִבֹּ֑לוּ וְיַחְגְּר֖וּ מִמִּסְגְּרוֹתָֽם׃",
+    "original": "<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5236\">נֵכָ֖ר</span> <span data-strong=\"H5034\">יִבֹּ֑לוּ</span> <span data-strong=\"H2296\">וְיַחְגְּר֖וּ</span> <span data-strong=\"H3963\">מִמִּסְגְּרוֹתָֽם׃</span>",
     "transliteration": "veney nekhar yivolv veyahegerv mimisegervotam.",
     "translation": "Estrangeiros se regozijarão, e louvarão nas fortalezas."
   },

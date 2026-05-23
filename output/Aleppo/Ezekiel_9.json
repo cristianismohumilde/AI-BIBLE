@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַיִּקְרָ֣א בְאׇזְנַ֗י ק֤וֹל גָּדוֹל֙ לֵאמֹ֔ר קָרְב֖וּ פְּקֻדּ֣וֹת הָעִ֑יר וְאִ֛ישׁ כְּלִ֥י מַשְׁחֵת֖וֹ בְּיָדֽוֹ׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֣א</span> <span data-strong=\"H2967\">בְאׇזְנַ֗י</span> <span data-strong=\"H6963\">ק֤וֹל</span> <span data-strong=\"H1419\">גָּדוֹל֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H7126\">קָרְב֖וּ</span> <span data-strong=\"H6486\">פְּקֻדּ֣וֹת</span> <span data-strong=\"H5892\">הָעִ֑יר</span> <span data-strong=\"H376\">וְאִ֛ישׁ</span> <span data-strong=\"H3627\">כְּלִ֥י</span> <span data-strong=\"H2050\">מַשְׁחֵת֖וֹ</span> <span data-strong=\"H2050\">בְּיָדֽוֹ׃</span>",
     "transliteration": "vayikera' ve'ozenay kvol gadvol le'mor karevv fekudvot ha'iyr ve'iysh kheliy mashehetvo veyadvo.",
     "translation": "E um grande clamor se fez ouvir em meus ouvidos, dizendo: \"Aproximai-vos, vós que fazeis a contagem da cidade\", e cada homem com seu instrumento de destruição na sua mão."
   },
   {
     "verse": 2,
-    "original": "וְהִנֵּ֣ה שִׁשָּׁ֣ה אֲנָשִׁ֡ים בָּאִ֣ים&thinsp;<b>׀</b> מִדֶּרֶךְ־שַׁ֨עַר הָעֶלְי֜וֹן אֲשֶׁ֣ר&thinsp;<b>׀</b> מׇפְנֶ֣ה צָפ֗וֹנָה וְאִ֨ישׁ כְּלִ֤י מַפָּצוֹ֙ בְּיָד֔וֹ וְאִישׁ־אֶחָ֤ד בְּתוֹכָם֙ לָבֻ֣שׁ בַּדִּ֔ים וְקֶ֥סֶת הַסֹּפֵ֖ר בְּמׇתְנָ֑יו וַיָּבֹ֙אוּ֙ וַיַּ֣עַמְד֔וּ אֵ֖צֶל מִזְבַּ֥ח הַנְּחֹֽשֶׁת׃",
+    "original": "<span data-strong=\"H2009\">וְהִנֵּ֣ה</span> <span data-strong=\"H8337\">שִׁשָּׁ֣ה</span> <span data-strong=\"H376\">אֲנָשִׁ֡ים</span> <span data-strong=\"H935\">בָּאִ֣ים&thinsp;<b>׀</b></span> <span data-strong=\"H1870\">מִדֶּרֶךְ</span>־<span data-strong=\"H8179\">שַׁ֨עַר</span> <span data-strong=\"H5945\">הָעֶלְי֜וֹן</span> <span data-strong=\"H834\">אֲשֶׁ֣ר&thinsp;<b>׀</b></span> <span data-strong=\"H6437\">מׇפְנֶ֣ה</span> <span data-strong=\"H1886\">צָפ֗וֹנָה</span> <span data-strong=\"H376\">וְאִ֨ישׁ</span> <span data-strong=\"H3627\">כְּלִ֤י</span> <span data-strong=\"H2050\">מַפָּצוֹ֙</span> <span data-strong=\"H2050\">בְּיָד֔וֹ</span> <span data-strong=\"H376\">וְאִישׁ</span>־<span data-strong=\"H259\">אֶחָ֤ד</span> <span data-strong=\"H3963\">בְּתוֹכָם֙</span> <span data-strong=\"H3830\">לָבֻ֣שׁ</span> <span data-strong=\"H906\">בַּדִּ֔ים</span> <span data-strong=\"H7083\">וְקֶ֥סֶת</span> <span data-strong=\"H5608\">הַסֹּפֵ֖ר</span> <span data-strong=\"H2050\">בְּמׇתְנָ֑יו</span> <span data-strong=\"H935\">וַיָּבֹ֙אוּ֙</span> <span data-strong=\"H5975\">וַיַּ֣עַמְד֔וּ</span> <span data-strong=\"H681\">אֵ֖צֶל</span> <span data-strong=\"H4196\">מִזְבַּ֥ח</span> <span data-strong=\"H5178\">הַנְּחֹֽשֶׁת׃</span>",
     "transliteration": "vehineh shishah 'anashiym va'iym&thinsp;<b>|</b> miderekhe-sha'ar ha'eleyvon 'asher&thinsp;<b>|</b> mofeneh tsafvonah ve'iysh kheliy mafatsvo veyadvo ve'iysh-'ehad vetvokham lavush vadiym vekeset hasofer vemotenayv vayavo'v vaya'amedv 'etsel mizevah hanehoshet.",
     "translation": "Eis que seis homens vinham do caminho da porta superior, aquela que se volta para o norte, e cada um trazia seu instrumento de despedaçamento na mão; havia também um homem no meio deles vestido com roupas cilíndricas, e a bolsa do escriba sobre os quadris. E chegaram e ficaram junto ao altar de bronze."
   },
@@ -19,7 +19,7 @@
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלָ֔ו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרוּשָׁלָ֑͏ִם וְהִתְוִ֨יתָ תָּ֜ו עַל־מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כׇּל־הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת בְּתוֹכָֽהּ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> אֵלָ֔ו <span data-strong=\"H2050\">עֲבֹר֙</span> <span data-strong=\"H5674\">בְּת֣וֹךְ</span> <span data-strong=\"H8432\">הָעִ֔יר</span> <span data-strong=\"H5892\">בְּת֖וֹךְ</span> <span data-strong=\"H8432\">יְרוּשָׁלָ֑͏ִם</span> <span data-strong=\"H3389\">וְהִתְוִ֨יתָ</span> <span data-strong=\"H8427\">תָּ֜ו</span> <span data-strong=\"H8420\">עַל</span>־<span data-strong=\"H5921\">מִצְח֣וֹת</span> <span data-strong=\"H4696\">הָאֲנָשִׁ֗ים</span> <span data-strong=\"H376\">הַנֶּֽאֱנָחִים֙</span> <span data-strong=\"H584\">וְהַנֶּ֣אֱנָקִ֔ים</span> <span data-strong=\"H602\">עַ֚ל</span> <span data-strong=\"H5921\">כׇּל</span>־<span data-strong=\"H3605\">הַתּ֣וֹעֵב֔וֹת</span> <span data-strong=\"H8441\">הַֽנַּעֲשׂ֖וֹת</span> <span data-strong=\"H6213\">בְּתוֹכָֽהּ׃</span>",
     "transliteration": "vayo'mer yehovah 'elav 'avor vetvokhe ha'iyr vetvokhe yervshalaim vehiteviyta tav 'al-mitsehvot ha'anashiym hane'enahiym vehane'enakiym 'al khol-hatvo'evvot hana'asvot vetvokhah.",
     "translation": "E disse o Senhor a ele: Passe pela cidade, pelo meio de Jerusalém, e ponha um sinal nas testas dos homens que suspiram e gemem sobre todas as abominações que são cometidas no seu meio."
   },
@@ -31,31 +31,31 @@
   },
   {
     "verse": 6,
-    "original": "זָקֵ֡ן בָּח֣וּר וּבְתוּלָה֩ וְטַ֨ף וְנָשִׁ֜ים תַּהַרְג֣וּ לְמַשְׁחִ֗ית וְעַל־כׇּל־אִ֨ישׁ אֲשֶׁר־עָלָ֤יו הַתָּו֙ אַל־תִּגַּ֔שׁוּ וּמִמִּקְדָּשִׁ֖י תָּחֵ֑לּוּ וַיָּחֵ֙לּוּ֙ בָּאֲנָשִׁ֣ים הַזְּקֵנִ֔ים אֲשֶׁ֖ר לִפְנֵ֥י הַבָּֽיִת׃",
+    "original": "<span data-strong=\"H2205\">זָקֵ֡ן</span> <span data-strong=\"H970\">בָּח֣וּר</span> <span data-strong=\"H1330\">וּבְתוּלָה֩</span> <span data-strong=\"H2945\">וְטַ֨ף</span> <span data-strong=\"H802\">וְנָשִׁ֜ים</span> <span data-strong=\"H2026\">תַּהַרְג֣וּ</span> <span data-strong=\"H4889\">לְמַשְׁחִ֗ית</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H376\">אִ֨ישׁ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">עָלָ֤יו</span> <span data-strong=\"H8420\">הַתָּו֙</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5066\">תִּגַּ֔שׁוּ</span> <span data-strong=\"H2967\">וּמִמִּקְדָּשִׁ֖י</span> <span data-strong=\"H2490\">תָּחֵ֑לּוּ</span> <span data-strong=\"H2490\">וַיָּחֵ֙לּוּ֙</span> <span data-strong=\"H376\">בָּאֲנָשִׁ֣ים</span> <span data-strong=\"H2205\">הַזְּקֵנִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H1004\">הַבָּֽיִת׃</span>",
     "transliteration": "zaken vahvr vvetvlah vetaf venashiym taharegv lemashehiyt ve'al-khol-'iysh 'asher-'alayv hatav 'al-tigashv vmimikedashiy tahelv vayahelv va'anashiym hazekeniym 'asher lifeney havayit.",
     "translation": "Velho e jovem, virgem e menina, criança e mulheres matais para destruição; e sobre todo homem que tem a marca não vos aproximaís. E começai desde o templo. E começaram pelos anciãos que estavam diante do templo."
   },
   {
     "verse": 7,
-    "original": "וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־הַבַּ֗יִת וּמַלְא֧וּ אֶת־הַחֲצֵר֛וֹת חֲלָלִ֖ים צֵ֑אוּ וְיָצְא֖וּ וְהִכּ֥וּ בָעִֽיר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3963\">אֲלֵיהֶ֜ם</span> <span data-strong=\"H2930\">טַמְּא֣וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">הַבַּ֗יִת</span> <span data-strong=\"H4390\">וּמַלְא֧וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2691\">הַחֲצֵר֛וֹת</span> <span data-strong=\"H2491\">חֲלָלִ֖ים</span> <span data-strong=\"H3318\">צֵ֑אוּ</span> <span data-strong=\"H3318\">וְיָצְא֖וּ</span> <span data-strong=\"H5221\">וְהִכּ֥וּ</span> <span data-strong=\"H5892\">בָעִֽיר׃</span>",
     "transliteration": "vayo'mer 'aleyhem tame'v 'et-havayit vmale'v 'et-hahatservot halaliym tse'v veyatse'v vehikhv va'iyr.",
     "translation": "E lhes disse: Contaminai a casa e enchei suas cortes de cadáveres, saí e feri na cidade."
   },
   {
     "verse": 8,
-    "original": "וַֽיְהִי֙ כְּהַכּוֹתָ֔ם וְנֵֽאשְׁאַ֖ר אָ֑נִי וָאֶפְּלָ֨ה עַל־פָּנַ֜י וָאֶזְעַ֗ק וָֽאֹמַר֙ אֲהָהּ֙ אֲדֹנָ֣י יֱהֹוִ֔ה הֲמַשְׁחִ֣ית אַתָּ֗ה אֵ֚ת כׇּל־שְׁאֵרִ֣ית יִשְׂרָאֵ֔ל בְּשׇׁפְכְּךָ֥ אֶת־חֲמָתְךָ֖ עַל־יְרוּשָׁלָֽ͏ִם׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H3963\">כְּהַכּוֹתָ֔ם</span> <span data-strong=\"H7604\">וְנֵֽאשְׁאַ֖ר</span> <span data-strong=\"H589\">אָ֑נִי</span> <span data-strong=\"H1886\">וָאֶפְּלָ֨ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2967\">פָּנַ֜י</span> <span data-strong=\"H2199\">וָאֶזְעַ֗ק</span> <span data-strong=\"H559\">וָֽאֹמַר֙</span> <span data-strong=\"H162\">אֲהָהּ֙</span> <span data-strong=\"H2967\">אֲדֹנָ֣י</span> <span data-strong=\"H3069\">יֱהֹוִ֔ה</span> <span data-strong=\"H7843\">הֲמַשְׁחִ֣ית</span> <span data-strong=\"H859\">אַתָּ֗ה</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7611\">שְׁאֵרִ֣ית</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3509\">בְּשׇׁפְכְּךָ֥</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">חֲמָתְךָ֖</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3389\">יְרוּשָׁלָֽ͏ִם׃</span>",
     "transliteration": "vayehiy khehakhvotam vene'she'ar 'aniy va'efelah 'al-fanay va'eze'ak va'omar 'ahah 'adonay yehovih hamashehiyt 'atah 'et khol-she'eriyt yisera'el veshofekhekha 'et-hamatekha 'al-yervshalaim.",
     "translation": "E foi como os feriam, e eu estava ali e caí sobre o meu rosto e gritei dizendo: Ai Senhor Deus, exterminarás todo o restante de Israel derramando a tua ira sobre Jerusalém?"
   },
   {
     "verse": 9,
-    "original": "וַיֹּ֣אמֶר אֵלַ֗י עֲוֺ֨ן בֵּֽית־יִשְׂרָאֵ֤ל וִֽיהוּדָה֙ גָּדוֹל֙ בִּמְאֹ֣ד מְאֹ֔ד וַתִּמָּלֵ֤א הָאָ֙רֶץ֙ דָּמִ֔ים וְהָעִ֖יר מָלְאָ֣ה מֻטֶּ֑ה כִּ֣י אָמְר֗וּ עָזַ֤ב יְהֹוָה֙ אֶת־הָאָ֔רֶץ וְאֵ֥ין יְהֹוָ֖ה רֹאֶֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2967\">אֵלַ֗י</span> <span data-strong=\"H5771\">עֲוֺ֨ן</span> <span data-strong=\"H1004\">בֵּֽית</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֤ל</span> <span data-strong=\"H3063\">וִֽיהוּדָה֙</span> <span data-strong=\"H1419\">גָּדוֹל֙</span> <span data-strong=\"H3966\">בִּמְאֹ֣ד</span> <span data-strong=\"H3966\">מְאֹ֔ד</span> <span data-strong=\"H4390\">וַתִּמָּלֵ֤א</span> <span data-strong=\"H776\">הָאָ֙רֶץ֙</span> <span data-strong=\"H1818\">דָּמִ֔ים</span> <span data-strong=\"H5892\">וְהָעִ֖יר</span> <span data-strong=\"H4390\">מָלְאָ֣ה</span> <span data-strong=\"H4297\">מֻטֶּ֑ה</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H559\">אָמְר֗וּ</span> <span data-strong=\"H5800\">עָזַ֤ב</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H369\">וְאֵ֥ין</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H7200\">רֹאֶֽה׃</span>",
     "transliteration": "vayo'mer 'elay 'avon veyt-yisera'el viyhvdah gadvol vime'od me'od vatimale' ha'arets damiym veha'iyr male'ah muteh khiy 'amerv 'azav yehovah 'et-ha'arets ve'eyn yehovah ro'eh.",
     "translation": "E disse-me: Grande é o pecado da casa de Israel e Judá, muito grande; encheu-se a terra de sangues e a cidade de violências, porque disseram: O Senhor abandonou a terra e não vê mais."
   },
   {
     "verse": 10,
-    "original": "וְגַ֨ם־אֲנִ֔י לֹא־תָח֥וֹס עֵינִ֖י וְלֹ֣א אֶחְמֹ֑ל דַּרְכָּ֖ם בְּרֹאשָׁ֥ם נָתָֽתִּי׃",
+    "original": "<span data-strong=\"H1571\">וְגַ֨ם</span>־<span data-strong=\"H589\">אֲנִ֔י</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H2347\">תָח֥וֹס</span> <span data-strong=\"H2967\">עֵינִ֖י</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H2550\">אֶחְמֹ֑ל</span> <span data-strong=\"H3963\">דַּרְכָּ֖ם</span> <span data-strong=\"H3963\">בְּרֹאשָׁ֥ם</span> <span data-strong=\"H5414\">נָתָֽתִּי׃</span>",
     "transliteration": "vegam-'aniy lo'-tahvos 'eyniy velo' 'ehemol darekham vero'sham natatiy.",
     "translation": "E também eu não terei piedade dos seus olhos, nem economizarei; coloquei o seu caminho sobre as suas cabeças."
   },

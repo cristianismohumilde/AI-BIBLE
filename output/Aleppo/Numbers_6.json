@@ -1,115 +1,115 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּר֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H559\">וְאָמַרְתָּ֖</span> <span data-strong=\"H3963\">אֲלֵהֶ֑ם</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H176\">אֽוֹ</span>־<span data-strong=\"H802\">אִשָּׁ֗ה</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H6381\">יַפְלִא֙</span> <span data-strong=\"H5087\">לִנְדֹּר֙</span> <span data-strong=\"H5088\">נֶ֣דֶר</span> <span data-strong=\"H5139\">נָזִ֔יר</span> <span data-strong=\"H5144\">לְהַזִּ֖יר</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem 'iysh 'vo-'ishah khiy yafeli' linedor neder naziyr lehaziyr layhovah.",
     "translation": "Fala aos filhos de Israel e diz-lhes: Se algum homem ou mulher fizer um voto de nazireu, para se consagrar ao Senhor."
   },
   {
     "verse": 3,
-    "original": "מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכׇל־מִשְׁרַ֤ת עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃",
+    "original": "<span data-strong=\"H3196\">מִיַּ֤יִן</span> <span data-strong=\"H7941\">וְשֵׁכָר֙</span> <span data-strong=\"H5144\">יַזִּ֔יר</span> <span data-strong=\"H2558\">חֹ֥מֶץ</span> <span data-strong=\"H3196\">יַ֛יִן</span> <span data-strong=\"H2558\">וְחֹ֥מֶץ</span> <span data-strong=\"H7941\">שֵׁכָ֖ר</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H8354\">יִשְׁתֶּ֑ה</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H4952\">מִשְׁרַ֤ת</span> <span data-strong=\"H6025\">עֲנָבִים֙</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H8354\">יִשְׁתֶּ֔ה</span> <span data-strong=\"H6025\">וַעֲנָבִ֛ים</span> <span data-strong=\"H3892\">לַחִ֥ים</span> <span data-strong=\"H3002\">וִיבֵשִׁ֖ים</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H398\">יֹאכֵֽל׃</span>",
     "transliteration": "miyayin veshekhar yaziyr homets yayin vehomets shekhar lo' yisheteh vekhol-misherat 'anaviym lo' yisheteh va'anaviym lahiym viyveshiym lo' yo'khel.",
     "translation": "Do vinho e da bebida forte será abstêmio; suco fermentado de uvas ou vinagre de vinho não beberá, nem coisa alguma feita com uvas frescas. Uvas frescas ou secas ele não comerá."
   },
   {
     "verse": 4,
-    "original": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ מִכֹּל֩ אֲשֶׁ֨ר יֵעָשֶׂ֜ה מִגֶּ֣פֶן הַיַּ֗יִן מֵחַרְצַנִּ֛ים וְעַד־זָ֖ג לֹ֥א יֹאכֵֽל׃",
+    "original": "<span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H2050\">נִזְר֑וֹ</span> <span data-strong=\"H3605\">מִכֹּל֩</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6213\">יֵעָשֶׂ֜ה</span> <span data-strong=\"H1612\">מִגֶּ֣פֶן</span> <span data-strong=\"H3196\">הַיַּ֗יִן</span> <span data-strong=\"H2785\">מֵחַרְצַנִּ֛ים</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H2085\">זָ֖ג</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H398\">יֹאכֵֽל׃</span>",
     "transliteration": "khol yemey nizervo mikhol 'asher ye'aseh migefen hayayin meharetsaniym ve'ad-zag lo' yo'khel.",
     "translation": "Todos os dias de sua consagração, de tudo que for feito da videira, do mosto ao vinho forte, não comerá."
   },
   {
     "verse": 5,
-    "original": "כׇּל־יְמֵי֙ נֶ֣דֶר נִזְר֔וֹ תַּ֖עַר לֹא־יַעֲבֹ֣ר עַל־רֹאשׁ֑וֹ עַד־מְלֹ֨את הַיָּמִ֜ם אֲשֶׁר־יַזִּ֤יר לַיהֹוָה֙ קָדֹ֣שׁ יִהְיֶ֔ה גַּדֵּ֥ל פֶּ֖רַע שְׂעַ֥ר רֹאשֽׁוֹ׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵי֙</span> <span data-strong=\"H5088\">נֶ֣דֶר</span> <span data-strong=\"H2050\">נִזְר֔וֹ</span> <span data-strong=\"H8593\">תַּ֖עַר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5674\">יַעֲבֹ֣ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשׁ֑וֹ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4390\">מְלֹ֨את</span> <span data-strong=\"H3117\">הַיָּמִ֜ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H5144\">יַזִּ֤יר</span> <span data-strong=\"H3068\">לַיהֹוָה֙</span> <span data-strong=\"H6918\">קָדֹ֣שׁ</span> <span data-strong=\"H1961\">יִהְיֶ֔ה</span> <span data-strong=\"H1431\">גַּדֵּ֥ל</span> <span data-strong=\"H6545\">פֶּ֖רַע</span> <span data-strong=\"H8181\">שְׂעַ֥ר</span> <span data-strong=\"H2050\">רֹאשֽׁוֹ׃</span>",
     "transliteration": "khol-yemey neder nizervo ta'ar lo'-ya'avor 'al-ro'shvo 'ad-melo't hayamim 'asher-yaziyr layhovah kadosh yiheyeh gadel fera' se'ar ro'shvo.",
     "translation": "Todos os dias de seu voto nazireu, uma tesoura não passará por sua cabeça; até se cumprir o tempo de sua separação ao Senhor, santo será, deixando crescer livremente o cabelo de sua cabeça."
   },
   {
     "verse": 6,
-    "original": "כׇּל־יְמֵ֥י הַזִּיר֖וֹ לַיהֹוָ֑ה עַל־נֶ֥פֶשׁ מֵ֖ת לֹ֥א יָבֹֽא׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H2050\">הַזִּיר֖וֹ</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5315\">נֶ֥פֶשׁ</span> <span data-strong=\"H4191\">מֵ֖ת</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H935\">יָבֹֽא׃</span>",
     "transliteration": "khol-yemey haziyrvo layhovah 'al-nefesh met lo' yavo'.",
     "translation": "Todos os dias de sua nazireuta ao Senhor, não entrará por causa de um morto."
   },
   {
     "verse": 7,
-    "original": "לְאָבִ֣יו וּלְאִמּ֗וֹ לְאָחִיו֙ וּלְאַ֣חֹת֔וֹ לֹא־יִטַּמָּ֥א לָהֶ֖ם בְּמֹתָ֑ם כִּ֛י נֵ֥זֶר אֱלֹהָ֖יו עַל־רֹאשֽׁוֹ׃",
+    "original": "<span data-strong=\"H2050\">לְאָבִ֣יו</span> <span data-strong=\"H2050\">וּלְאִמּ֗וֹ</span> <span data-strong=\"H2050\">לְאָחִיו֙</span> <span data-strong=\"H2050\">וּלְאַ֣חֹת֔וֹ</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H2930\">יִטַּמָּ֥א</span> <span data-strong=\"H3963\">לָהֶ֖ם</span> <span data-strong=\"H3963\">בְּמֹתָ֑ם</span> <span data-strong=\"H3588\">כִּ֛י</span> <span data-strong=\"H5145\">נֵ֥זֶר</span> <span data-strong=\"H2050\">אֱלֹהָ֖יו</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רֹאשֽׁוֹ׃</span>",
     "transliteration": "le'aviyv vle'imvo le'ahiyv vle'ahotvo lo'-yitama' lahem vemotam khiy nezer 'elohayv 'al-ro'shvo.",
     "translation": "Para seu pai e para sua mãe, para seu irmão e para sua irmã, não se contaminará por eles na morte deles, pois o nazireu do seu Deus está sobre sua cabeça."
   },
   {
     "verse": 8,
-    "original": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ קָדֹ֥שׁ ה֖וּא לַֽיהֹוָֽה׃",
+    "original": "<span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H2050\">נִזְר֑וֹ</span> <span data-strong=\"H6918\">קָדֹ֥שׁ</span> <span data-strong=\"H1931\">ה֖וּא</span> <span data-strong=\"H3068\">לַֽיהֹוָֽה׃</span>",
     "transliteration": "khol yemey nizervo kadosh hv' layhovah.",
     "translation": "Todos os dias de sua consagração, ele será santo ao Senhor."
   },
   {
     "verse": 9,
-    "original": "וְכִֽי־יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טׇהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃",
+    "original": "<span data-strong=\"H3588\">וְכִֽי</span>־<span data-strong=\"H4191\">יָמ֨וּת</span> <span data-strong=\"H4191\">מֵ֤ת</span> <span data-strong=\"H2050\">עָלָיו֙</span> <span data-strong=\"H6621\">בְּפֶ֣תַע</span> <span data-strong=\"H6597\">פִּתְאֹ֔ם</span> <span data-strong=\"H2930\">וְטִמֵּ֖א</span> <span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2050\">נִזְר֑וֹ</span> <span data-strong=\"H1548\">וְגִלַּ֤ח</span> <span data-strong=\"H2050\">רֹאשׁוֹ֙</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H2050\">טׇהֳרָת֔וֹ</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֖י</span> <span data-strong=\"H5105\">יְגַלְּחֶֽנּוּ׃</span>",
     "transliteration": "vekhiy-yamvt met 'alayv vefeta' fite'om vetime' ro'sh nizervo vegilah ro'shvo veyvom tohoratvo vayvom hasheviy'iy yegalehenv.",
     "translation": "E quando alguém morrer subitamente à sua frente, ele contaminará o extremo da sua cabeça; e barbeia a sua cabeça no dia de sua purificação, no sétimo dia ele o rapará."
   },
   {
     "verse": 10,
-    "original": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יָבִא֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה אֶ֨ל־הַכֹּהֵ֔ן אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+    "original": "<span data-strong=\"H3117\">וּבַיּ֣וֹם</span> <span data-strong=\"H8066\">הַשְּׁמִינִ֗י</span> <span data-strong=\"H935\">יָבִא֙</span> <span data-strong=\"H8147\">שְׁתֵּ֣י</span> <span data-strong=\"H8449\">תֹרִ֔ים</span> <span data-strong=\"H176\">א֥וֹ</span> <span data-strong=\"H8147\">שְׁנֵ֖י</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3123\">יוֹנָ֑ה</span> <span data-strong=\"H413\">אֶ֨ל</span>־<span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֖תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵֽד׃</span>",
     "transliteration": "vvayvom hashemiyniy yavi' shetey toriym 'vo sheney veney yvonah 'el-hakhohen 'el-fetah 'ohel mvo'ed.",
     "translation": "E no dia oitavo, ele trará duas pombas ou dois filhos de rola para o sacerdote, à porta da tenda do encontro."
   },
   {
     "verse": 11,
-    "original": "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+    "original": "<span data-strong=\"H6213\">וְעָשָׂ֣ה</span> <span data-strong=\"H3548\">הַכֹּהֵ֗ן</span> <span data-strong=\"H259\">אֶחָ֤ד</span> <span data-strong=\"H2403\">לְחַטָּאת֙</span> <span data-strong=\"H259\">וְאֶחָ֣ד</span> <span data-strong=\"H5930\">לְעֹלָ֔ה</span> <span data-strong=\"H3722\">וְכִפֶּ֣ר</span> <span data-strong=\"H2050\">עָלָ֔יו</span> <span data-strong=\"H834\">מֵאֲשֶׁ֥ר</span> <span data-strong=\"H2398\">חָטָ֖א</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5315\">הַנָּ֑פֶשׁ</span> <span data-strong=\"H6942\">וְקִדַּ֥שׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">רֹאשׁ֖וֹ</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H1931\">הַהֽוּא׃</span>",
     "transliteration": "ve'asah hakhohen 'ehad lehata't ve'ehad le'olah vekhifer 'alayv me'asher hata' 'al-hanafesh vekidash 'et-ro'shvo vayvom hahv'.",
     "translation": "E o sacerdote fará um para o sacrifício pelo pecado e outro para holocausto, e purgará dele do pecado que cometeu contra a alma, e santificará sua cabeça naquele dia."
   },
   {
     "verse": 12,
-    "original": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+    "original": "<span data-strong=\"H5144\">וְהִזִּ֤יר</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H2050\">נִזְר֔וֹ</span> <span data-strong=\"H935\">וְהֵבִ֛יא</span> <span data-strong=\"H3532\">כֶּ֥בֶשׂ</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2050\">שְׁנָת֖וֹ</span> <span data-strong=\"H817\">לְאָשָׁ֑ם</span> <span data-strong=\"H3117\">וְהַיָּמִ֤ים</span> <span data-strong=\"H7223\">הָרִאשֹׁנִים֙</span> <span data-strong=\"H5307\">יִפְּל֔וּ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H2930\">טָמֵ֖א</span> <span data-strong=\"H2050\">נִזְרֽוֹ׃</span>",
     "transliteration": "vehiziyr layhovah 'et-yemey nizervo veheviy' kheves ven-shenatvo le'asham vehayamiym hari'shoniym yifelv khiy tame' nizervo.",
     "translation": "E santificará ao Senhor os dias de seu voto, e trará um cordeiro de um ano como oferta pelo pecado; e os primeiros dias serão perdoados, pois seu voto se tornou impuro."
   },
   {
     "verse": 13,
-    "original": "וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+    "original": "<span data-strong=\"H2063\">וְזֹ֥את</span> <span data-strong=\"H8451\">תּוֹרַ֖ת</span> <span data-strong=\"H5139\">הַנָּזִ֑יר</span> <span data-strong=\"H3117\">בְּי֗וֹם</span> <span data-strong=\"H4390\">מְלֹאת֙</span> <span data-strong=\"H3117\">יְמֵ֣י</span> <span data-strong=\"H2050\">נִזְר֔וֹ</span> <span data-strong=\"H935\">יָבִ֣יא</span> <span data-strong=\"H2050\">אֹת֔וֹ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6607\">פֶּ֖תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵֽד׃</span>",
     "transliteration": "vezo't tvorat hanaziyr veyvom melo't yemey nizervo yaviy' 'otvo 'el-fetah 'ohel mvo'ed.",
     "translation": "E esta é a lei do nazireu: no dia em que se cumpriram os dias de sua separação, ele trará à entrada da tenda da congregação."
   },
   {
     "verse": 14,
-    "original": "וְהִקְרִ֣יב אֶת־קׇרְבָּנ֣וֹ לַיהֹוָ֡ה כֶּ֩בֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃",
+    "original": "<span data-strong=\"H7126\">וְהִקְרִ֣יב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">קׇרְבָּנ֣וֹ</span> <span data-strong=\"H3068\">לַיהֹוָ֡ה</span> <span data-strong=\"H3532\">כֶּ֩בֶשׂ֩</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2050\">שְׁנָת֨וֹ</span> <span data-strong=\"H8549\">תָמִ֤ים</span> <span data-strong=\"H259\">אֶחָד֙</span> <span data-strong=\"H5930\">לְעֹלָ֔ה</span> <span data-strong=\"H3535\">וְכַבְשָׂ֨ה</span> <span data-strong=\"H259\">אַחַ֧ת</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H1886\">שְׁנָתָ֛הּ</span> <span data-strong=\"H8549\">תְּמִימָ֖ה</span> <span data-strong=\"H2403\">לְחַטָּ֑את</span> <span data-strong=\"H352\">וְאַֽיִל</span>־<span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H8549\">תָּמִ֖ים</span> <span data-strong=\"H8002\">לִשְׁלָמִֽים׃</span>",
     "transliteration": "vehikeriyv 'et-korevanvo layhovah kheves ven-shenatvo tamiym 'ehad le'olah vekhavesah 'ahat vat-shenatah temiymah lehata't ve'ayil-'ehad tamiym lishelamiym.",
     "translation": "E oferecerá sua oferta ao Senhor: um cordeiro de um ano perfeito como holocausto, e uma cabra de um ano perfeita como oferta pelo pecado, e um carneiro perfeito como oferta pacífica."
   },
   {
     "verse": 15,
-    "original": "וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם׃",
+    "original": "<span data-strong=\"H5536\">וְסַ֣ל</span> <span data-strong=\"H4682\">מַצּ֗וֹת</span> <span data-strong=\"H5560\">סֹ֤לֶת</span> <span data-strong=\"H2471\">חַלֹּת֙</span> <span data-strong=\"H1101\">בְּלוּלֹ֣ת</span> <span data-strong=\"H8081\">בַּשֶּׁ֔מֶן</span> <span data-strong=\"H7550\">וּרְקִיקֵ֥י</span> <span data-strong=\"H4682\">מַצּ֖וֹת</span> <span data-strong=\"H4886\">מְשֻׁחִ֣ים</span> <span data-strong=\"H8081\">בַּשָּׁ֑מֶן</span> <span data-strong=\"H3963\">וּמִנְחָתָ֖ם</span> <span data-strong=\"H3963\">וְנִסְכֵּיהֶֽם׃</span>",
     "transliteration": "vesal matsvot solet halot velvlot vashemen vrekiykey matsvot meshuhiym vashamen vminehatam venisekheyhem.",
     "translation": "E um cesto de pães ázimos, bolos de farinha amassados com azeite e biscoitos finos de pão ázimo ungidos com azeite, juntamente com sua oferta e libação."
   },
   {
     "verse": 16,
-    "original": "וְהִקְרִ֥יב הַכֹּהֵ֖ן לִפְנֵ֣י יְהֹוָ֑ה וְעָשָׂ֥ה אֶת־חַטָּאת֖וֹ וְאֶת־עֹלָתֽוֹ׃",
+    "original": "<span data-strong=\"H7126\">וְהִקְרִ֥יב</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H6213\">וְעָשָׂ֥ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">חַטָּאת֖וֹ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">עֹלָתֽוֹ׃</span>",
     "transliteration": "vehikeriyv hakhohen lifeney yehovah ve'asah 'et-hata'tvo ve'et-'olatvo.",
     "translation": "E o sacerdote o oferecerá perante o Senhor, e fará a sua oferta pelo pecado e a sua oferta queimada."
   },
   {
     "verse": 17,
-    "original": "וְאֶת־הָאַ֜יִל יַעֲשֶׂ֨ה זֶ֤בַח שְׁלָמִים֙ לַֽיהֹוָ֔ה עַ֖ל סַ֣ל הַמַּצּ֑וֹת וְעָשָׂה֙ הַכֹּהֵ֔ן אֶת־מִנְחָת֖וֹ וְאֶת־נִסְכּֽוֹ׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H352\">הָאַ֜יִל</span> <span data-strong=\"H6213\">יַעֲשֶׂ֨ה</span> <span data-strong=\"H2077\">זֶ֤בַח</span> <span data-strong=\"H8002\">שְׁלָמִים֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H5536\">סַ֣ל</span> <span data-strong=\"H4682\">הַמַּצּ֑וֹת</span> <span data-strong=\"H6213\">וְעָשָׂה֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">מִנְחָת֖וֹ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">נִסְכּֽוֹ׃</span>",
     "transliteration": "ve'et-ha'ayil ya'aseh zevah shelamiym layhovah 'al sal hamatsvot ve'asah hakhohen 'et-minehatvo ve'et-nisekhvo.",
     "translation": "E o carneiro oferecerá como sacrifício de paz ao Senhor, sobre a cesta de pães ázimos; e o sacerdote fará sua oferta de cereal com seu néctar."
   },
   {
     "verse": 18,
-    "original": "וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת־רֹ֣אשׁ נִזְר֑וֹ וְלָקַ֗ח אֶת־שְׂעַר֙ רֹ֣אשׁ נִזְר֔וֹ וְנָתַן֙ עַל־הָאֵ֔שׁ אֲשֶׁר־תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים׃",
+    "original": "<span data-strong=\"H1548\">וְגִלַּ֣ח</span> <span data-strong=\"H5139\">הַנָּזִ֗יר</span> <span data-strong=\"H6607\">פֶּ֛תַח</span> <span data-strong=\"H168\">אֹ֥הֶל</span> <span data-strong=\"H4150\">מוֹעֵ֖ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2050\">נִזְר֑וֹ</span> <span data-strong=\"H3947\">וְלָקַ֗ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8181\">שְׂעַר֙</span> <span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H2050\">נִזְר֔וֹ</span> <span data-strong=\"H5414\">וְנָתַן֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H784\">הָאֵ֔שׁ</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H8478\">תַּ֖חַת</span> <span data-strong=\"H2077\">זֶ֥בַח</span> <span data-strong=\"H8002\">הַשְּׁלָמִֽים׃</span>",
     "transliteration": "vegilah hanaziyr fetah 'ohel mvo'ed 'et-ro'sh nizervo velakah 'et-se'ar ro'sh nizervo venatan 'al-ha'esh 'asher-tahat zevah hashelamiym.",
     "translation": "E o nazireu barbeará a cabeça de sua separação junto à porta da tenda do encontro, e pegará os cabelos da cabeça de sua separação e os porá sobre a fogueira que está debaixo do holocausto dos pacíficos."
   },
   {
     "verse": 19,
-    "original": "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַזְּרֹ֣עַ בְּשֵׁלָה֮ מִן־הָאַ֒יִל֒ וְֽחַלַּ֨ת מַצָּ֤ה אַחַת֙ מִן־הַסַּ֔ל וּרְקִ֥יק מַצָּ֖ה אֶחָ֑ד וְנָתַן֙ עַל־כַּפֵּ֣י הַנָּזִ֔יר אַחַ֖ר הִֽתְגַּלְּח֥וֹ אֶת־נִזְרֽוֹ׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֨ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֜ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2220\">הַזְּרֹ֣עַ</span> <span data-strong=\"H1311\">בְּשֵׁלָה֮</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H352\">הָאַ֒יִל֒</span> <span data-strong=\"H2471\">וְֽחַלַּ֨ת</span> <span data-strong=\"H4682\">מַצָּ֤ה</span> <span data-strong=\"H259\">אַחַת֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H5536\">הַסַּ֔ל</span> <span data-strong=\"H7550\">וּרְקִ֥יק</span> <span data-strong=\"H4682\">מַצָּ֖ה</span> <span data-strong=\"H259\">אֶחָ֑ד</span> <span data-strong=\"H5414\">וְנָתַן֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3709\">כַּפֵּ֣י</span> <span data-strong=\"H5139\">הַנָּזִ֔יר</span> <span data-strong=\"H310\">אַחַ֖ר</span> <span data-strong=\"H2050\">הִֽתְגַּלְּח֥וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">נִזְרֽוֹ׃</span>",
     "transliteration": "velakah hakhohen 'et-hazero'a veshelah min-ha'ayil vehalat matsah 'ahat min-hasal vrekiyk matsah 'ehad venatan 'al-khafey hanaziyr 'ahar hitegalehvo 'et-nizervo.",
     "translation": "E o sacerdote tomará a coxa assada do carneiro, e uma cesta de pães asmos, e um biscoito de pão asmo; e porá em mãos do nazireu, depois que tiver feito crescer a cabeça da sua Naziritude."
   },
@@ -127,7 +127,7 @@
   },
   {
     "verse": 22,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
@@ -145,13 +145,13 @@
   },
   {
     "verse": 25,
-    "original": "יָאֵ֨ר יְהֹוָ֧ה&thinsp;<small>׀</small>&thinsp;פָּנָ֛יו אֵלֶ֖יךָ וִֽיחֻנֶּֽךָּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H215\">יָאֵ֨ר</span> <span data-strong=\"H3068\">יְהֹוָ֧ה&thinsp;<small>׀</small>&thinsp;פָּנָ֛יו</span> <span data-strong=\"H2050\">אֵלֶ֖יךָ</span> <span data-strong=\"H3509\">וִֽיחֻנֶּֽךָּ׃&nbsp;<span</span> <span data-strong=\"H3509\">class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "ya'er yehovah&thinsp;<small>|</small>&thinsp;fanayv 'eleykha viyhunekha.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Javé faça resplandecer seu rosto sobre ti e tenha Misericórdia de ti."
   },
   {
     "verse": 26,
-    "original": "יִשָּׂ֨א יְהֹוָ֤ה&thinsp;<small>׀</small>&thinsp;פָּנָיו֙ אֵלֶ֔יךָ וְיָשֵׂ֥ם לְךָ֖ שָׁלֽוֹם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "original": "<span data-strong=\"H5375\">יִשָּׂ֨א</span> <span data-strong=\"H3068\">יְהֹוָ֤ה&thinsp;<small>׀</small>&thinsp;פָּנָיו֙</span> <span data-strong=\"H2050\">אֵלֶ֔יךָ</span> <span data-strong=\"H3509\">וְיָשֵׂ֥ם</span> <span data-strong=\"H7760\">לְךָ֖</span> <span data-strong=\"H3509\">שָׁלֽוֹם׃&nbsp;<span</span> <span data-strong=\"H7965\">class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>",
     "transliteration": "yisa' yehovah&thinsp;<small>|</small>&thinsp;fanayv 'eleykha veyasem lekha shalvom.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eleva o Senhor o seu rosto para ti e te dê paz."
   },

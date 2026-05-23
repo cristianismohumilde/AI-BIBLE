@@ -13,7 +13,7 @@
   },
   {
     "verse": 3,
-    "original": "וַיֹּ֣אמֶר שְׁמוּאֵ֗ל אֶל־כׇּל־בֵּ֣ית יִשְׂרָאֵל֮ לֵאמֹר֒ אִם־בְּכׇל־לְבַבְכֶ֗ם אַתֶּ֤ם שָׁבִים֙ אֶל־יְהֹוָ֔ה הָסִ֜ירוּ אֶת־אֱלֹהֵ֧י הַנֵּכָ֛ר מִתּוֹכְכֶ֖ם וְהָעַשְׁתָּר֑וֹת וְהָכִ֨ינוּ לְבַבְכֶ֤ם אֶל־יְהֹוָה֙ וְעִבְדֻ֣הוּ לְבַדּ֔וֹ וְיַצֵּ֥ל אֶתְכֶ֖ם מִיַּ֥ד פְּלִשְׁתִּֽים׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H8050\">שְׁמוּאֵ֗ל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֮</span> <span data-strong=\"H559\">לֵאמֹר֒</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H3641\">לְבַבְכֶ֗ם</span> <span data-strong=\"H859\">אַתֶּ֤ם</span> <span data-strong=\"H7725\">שָׁבִים֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5493\">הָסִ֜ירוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H430\">אֱלֹהֵ֧י</span> <span data-strong=\"H5236\">הַנֵּכָ֛ר</span> <span data-strong=\"H3641\">מִתּוֹכְכֶ֖ם</span> <span data-strong=\"H6253\">וְהָעַשְׁתָּר֑וֹת</span> <span data-strong=\"H3559\">וְהָכִ֨ינוּ</span> <span data-strong=\"H3641\">לְבַבְכֶ֤ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H1930\">וְעִבְדֻ֣הוּ</span> <span data-strong=\"H2050\">לְבַדּ֔וֹ</span> <span data-strong=\"H5337\">וְיַצֵּ֥ל</span> <span data-strong=\"H3641\">אֶתְכֶ֖ם</span> <span data-strong=\"H3027\">מִיַּ֥ד</span> <span data-strong=\"H6430\">פְּלִשְׁתִּֽים׃</span>",
     "transliteration": "vayo'mer shemv'el 'el-khol-veyt yisera'el le'mor 'im-vekhol-levavekhem 'atem shaviym 'el-yehovah hasiyrv 'et-'elohey hanekhar mitvokhekhem veha'ashetarvot vehakhiynv levavekhem 'el-yehovah ve'iveduhv levadvo veyatsel 'etekhem miyad felishetiym.",
     "translation": "E Samuel disse a toda casa de Israel: Se com todo o vosso coração voltareis ao Senhor, então tirai dos vossos meios os deuses estrangeiros e as Astarotes; preparai vossos corações para o Senhor e servi-o somente, e ele vos livrará da mão dos filisteus."
   },
@@ -25,25 +25,25 @@
   },
   {
     "verse": 5,
-    "original": "וַיֹּ֣אמֶר שְׁמוּאֵ֔ל קִבְצ֥וּ אֶת־כׇּל־יִשְׂרָאֵ֖ל הַמִּצְפָּ֑תָה וְאֶתְפַּלֵּ֥ל בַּעַדְכֶ֖ם אֶל־יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H8050\">שְׁמוּאֵ֔ל</span> <span data-strong=\"H6908\">קִבְצ֥וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H1886\">הַמִּצְפָּ֑תָה</span> <span data-strong=\"H6419\">וְאֶתְפַּלֵּ֥ל</span> <span data-strong=\"H3641\">בַּעַדְכֶ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayo'mer shemv'el kivetsv 'et-khol-yisera'el hamitsefatah ve'etefalel va'adekhem 'el-yehovah.",
     "translation": "E Samuel disse: Reúnam-se todos os israelitas em Mizpá, e eu orarei por vós diante do Senhor."
   },
   {
     "verse": 6,
-    "original": "וַיִּקָּבְצ֣וּ הַ֠מִּצְפָּ֠תָה וַיִּֽשְׁאֲבוּ־מַ֜יִם וַֽיִּשְׁפְּכ֣וּ&thinsp;<b>׀</b> לִפְנֵ֣י יְהֹוָ֗ה וַיָּצ֙וּמוּ֙ בַּיּ֣וֹם הַה֔וּא וַיֹּ֣אמְרוּ שָׁ֔ם חָטָ֖אנוּ לַֽיהֹוָ֑ה וַיִּשְׁפֹּ֧ט שְׁמוּאֵ֛ל אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בַּמִּצְפָּֽה׃",
+    "original": "<span data-strong=\"H6908\">וַיִּקָּבְצ֣וּ</span> <span data-strong=\"H1886\">הַ֠מִּצְפָּ֠תָה</span> <span data-strong=\"H7579\">וַיִּֽשְׁאֲבוּ</span>־<span data-strong=\"H4325\">מַ֜יִם</span> <span data-strong=\"H8210\">וַֽיִּשְׁפְּכ֣וּ&thinsp;<b>׀</b></span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H6684\">וַיָּצ֙וּמוּ֙</span> <span data-strong=\"H3117\">בַּיּ֣וֹם</span> <span data-strong=\"H1931\">הַה֔וּא</span> <span data-strong=\"H559\">וַיֹּ֣אמְרוּ</span> <span data-strong=\"H8033\">שָׁ֔ם</span> <span data-strong=\"H2398\">חָטָ֖אנוּ</span> <span data-strong=\"H3068\">לַֽיהֹוָ֑ה</span> <span data-strong=\"H8199\">וַיִּשְׁפֹּ֧ט</span> <span data-strong=\"H8050\">שְׁמוּאֵ֛ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H4709\">בַּמִּצְפָּֽה׃</span>",
     "transliteration": "vayikavetsv hamitsefatah vayishe'avv-mayim vayishefekhv&thinsp;<b>|</b> lifeney yehovah vayatsvmv vayvom hahv' vayo'merv sham hata'nv layhovah vayishefot shemv'el 'et-veney yisera'el vamitsefah.",
     "translation": "E ajuntaram-se em Mizpa e despejaram água diante do Senhor, e jejuaram naquele dia; e disseram ali: Pecamos contra o Senhor. E Samuel juiz de Israel julgou em Mizpa."
   },
   {
     "verse": 7,
-    "original": "וַיִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּֽי־הִתְקַבְּצ֤וּ בְנֵֽי־יִשְׂרָאֵל֙ הַמִּצְפָּ֔תָה וַיַּעֲל֥וּ סַרְנֵֽי־פְלִשְׁתִּ֖ים אֶל־יִשְׂרָאֵ֑ל וַֽיִּשְׁמְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּֽרְא֖וּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשְׁמְע֣וּ</span> <span data-strong=\"H6430\">פְלִשְׁתִּ֗ים</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6908\">הִתְקַבְּצ֤וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H1886\">הַמִּצְפָּ֔תָה</span> <span data-strong=\"H5927\">וַיַּעֲל֥וּ</span> <span data-strong=\"H5633\">סַרְנֵֽי</span>־<span data-strong=\"H6430\">פְלִשְׁתִּ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H8085\">וַֽיִּשְׁמְעוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3372\">וַיִּֽרְא֖וּ</span> <span data-strong=\"H6440\">מִפְּנֵ֥י</span> <span data-strong=\"H6430\">פְלִשְׁתִּֽים׃</span>",
     "transliteration": "vayisheme'v felishetiym khiy-hitekavetsv veney-yisera'el hamitsefatah vaya'alv sareney-felishetiym 'el-yisera'el vayisheme'v veney yisera'el vayire'v mifeney felishetiym.",
     "translation": "E ouviram os filisteus que os filhos de Israel se haviam congregado em Mizpá, e subiram os príncipes dos filisteus contra Israel. E os filhos de Israel ouviram e temeram diante dos filisteus."
   },
   {
     "verse": 8,
-    "original": "וַיֹּאמְר֤וּ בְנֵֽי־יִשְׂרָאֵל֙ אֶל־שְׁמוּאֵ֔ל אַל־תַּחֲרֵ֣שׁ מִמֶּ֔נּוּ מִזְּעֹ֖ק אֶל־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ וְיֹשִׁעֵ֖נוּ מִיַּ֥ד פְּלִשְׁתִּֽים׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמְר֤וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8050\">שְׁמוּאֵ֔ל</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H2790\">תַּחֲרֵ֣שׁ</span> <span data-strong=\"H5105\">מִמֶּ֔נּוּ</span> <span data-strong=\"H2199\">מִזְּעֹ֖ק</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H5105\">אֱלֹהֵ֑ינוּ</span> <span data-strong=\"H5105\">וְיֹשִׁעֵ֖נוּ</span> <span data-strong=\"H3027\">מִיַּ֥ד</span> <span data-strong=\"H6430\">פְּלִשְׁתִּֽים׃</span>",
     "transliteration": "vayo'merv veney-yisera'el 'el-shemv'el 'al-taharesh mimenv mize'ok 'el-yehovah 'eloheynv veyoshi'env miyad felishetiym.",
     "translation": "E disseram os filhos de Israel a Samuel: Não te calasses diante de nós; clama ao Senhor, Deus nosso, e nos livrará da mão dos filisteus."
   },
@@ -55,25 +55,25 @@
   },
   {
     "verse": 10,
-    "original": "וַיְהִ֤י שְׁמוּאֵל֙ מַעֲלֶ֣ה הָעוֹלָ֔ה וּפְלִשְׁתִּ֣ים נִגְּשׁ֔וּ לַמִּלְחָמָ֖ה בְּיִשְׂרָאֵ֑ל וַיַּרְעֵ֣ם יְהֹוָ֣ה בְּקוֹל־גָּ֠ד֠וֹל בַּיּ֨וֹם הַה֤וּא עַל־פְּלִשְׁתִּים֙ וַיְהֻמֵּ֔ם וַיִּנָּגְפ֖וּ לִפְנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֤י</span> <span data-strong=\"H8050\">שְׁמוּאֵל֙</span> <span data-strong=\"H5927\">מַעֲלֶ֣ה</span> <span data-strong=\"H5930\">הָעוֹלָ֔ה</span> <span data-strong=\"H6430\">וּפְלִשְׁתִּ֣ים</span> <span data-strong=\"H5066\">נִגְּשׁ֔וּ</span> <span data-strong=\"H4421\">לַמִּלְחָמָ֖ה</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֑ל</span> <span data-strong=\"H7481\">וַיַּרְעֵ֣ם</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H6963\">בְּקוֹל</span>־<span data-strong=\"H1419\">גָּ֠ד֠וֹל</span> <span data-strong=\"H3117\">בַּיּ֨וֹם</span> <span data-strong=\"H1931\">הַה֤וּא</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6430\">פְּלִשְׁתִּים֙</span> <span data-strong=\"H3963\">וַיְהֻמֵּ֔ם</span> <span data-strong=\"H5062\">וַיִּנָּגְפ֖וּ</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayehiy shemv'el ma'aleh ha'volah vfelishetiym nigeshv lamilehamah veyisera'el vayare'em yehovah vekvol-gadvol vayvom hahv' 'al-felishetiym vayehumem vayinagefv lifeney yisera'el.",
     "translation": "E Samuel subia a oferta de holocausto, e os filisteus se aproximavam para fazer guerra contra Israel. Mas o Senhor rugiu com um estrondo violento naquele dia sobre os filisteus e perturbou-os, e eles ficaram atordoados. E foram massacrados diante de Israel."
   },
   {
     "verse": 11,
-    "original": "וַיֵּ֨צְא֜וּ אַנְשֵׁ֤י יִשְׂרָאֵל֙ מִן־הַמִּצְפָּ֔ה וַֽיִּרְדְּפ֖וּ אֶת־פְּלִשְׁתִּ֑ים וַיַּכּ֕וּם עַד־מִתַּ֖חַת לְבֵ֥ית כָּֽר׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּ֨צְא֜וּ</span> <span data-strong=\"H376\">אַנְשֵׁ֤י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H4709\">הַמִּצְפָּ֔ה</span> <span data-strong=\"H7291\">וַֽיִּרְדְּפ֖וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6430\">פְּלִשְׁתִּ֑ים</span> <span data-strong=\"H3963\">וַיַּכּ֕וּם</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H8478\">מִתַּ֖חַת</span> <span data-strong=\"H1033\">לְבֵ֥ית</span> <span data-strong=\"H1033\">כָּֽר׃</span>",
     "transliteration": "vayetse'v 'aneshey yisera'el min-hamitsefah vayiredefv 'et-felishetiym vayakhvm 'ad-mitahat leveyt khar.",
     "translation": "E saíram os homens de Israel da Mizpá e perseguiram os filisteus, ferindo-os até debaixo de Beor."
   },
   {
     "verse": 12,
-    "original": "וַיִּקַּ֨ח שְׁמוּאֵ֜ל אֶ֣בֶן אַחַ֗ת וַיָּ֤שֶׂם בֵּֽין־הַמִּצְפָּה֙ וּבֵ֣ין הַשֵּׁ֔ן וַיִּקְרָ֥א אֶת־שְׁמָ֖הּ אֶ֣בֶן הָעָ֑זֶר וַיֹּאמַ֕ר עַד־הֵ֖נָּה עֲזָרָ֥נוּ יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H8050\">שְׁמוּאֵ֜ל</span> <span data-strong=\"H68\">אֶ֣בֶן</span> <span data-strong=\"H259\">אַחַ֗ת</span> <span data-strong=\"H7760\">וַיָּ֤שֶׂם</span> <span data-strong=\"H996\">בֵּֽין</span>־<span data-strong=\"H4709\">הַמִּצְפָּה֙</span> <span data-strong=\"H996\">וּבֵ֣ין</span> <span data-strong=\"H8129\">הַשֵּׁ֔ן</span> <span data-strong=\"H7121\">וַיִּקְרָ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">שְׁמָ֖הּ</span> <span data-strong=\"H72\">אֶ֣בֶן</span> <span data-strong=\"H72\">הָעָ֑זֶר</span> <span data-strong=\"H559\">וַיֹּאמַ֕ר</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H2008\">הֵ֖נָּה</span> <span data-strong=\"H5105\">עֲזָרָ֥נוּ</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayikah shemv'el 'even 'ahat vayasem veyn-hamitsefah vveyn hashen vayikera' 'et-shemah 'even ha'azer vayo'mar 'ad-henah 'azaranv yehovah.",
     "translation": "E tomou Samuel uma pedra, e a pôs entre Mizpá e Shen, e chamou-lhe nome Pedra do Socorro; e disse: Até aqui nos ajudou o Senhor."
   },
   {
     "verse": 13,
-    "original": "וַיִּכָּֽנְעוּ֙ הַפְּלִשְׁתִּ֔ים וְלֹֽא־יָסְפ֣וּ ע֔וֹד לָב֖וֹא בִּגְב֣וּל יִשְׂרָאֵ֑ל וַתְּהִ֤י יַד־יְהֹוָה֙ בַּפְּלִשְׁתִּ֔ים כֹּ֖ל יְמֵ֥י שְׁמוּאֵֽל׃",
+    "original": "<span data-strong=\"H3665\">וַיִּכָּֽנְעוּ֙</span> <span data-strong=\"H6430\">הַפְּלִשְׁתִּ֔ים</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H3254\">יָסְפ֣וּ</span> <span data-strong=\"H5750\">ע֔וֹד</span> <span data-strong=\"H935\">לָב֖וֹא</span> <span data-strong=\"H1366\">בִּגְב֣וּל</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H1961\">וַתְּהִ֤י</span> <span data-strong=\"H3027\">יַד</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H6430\">בַּפְּלִשְׁתִּ֔ים</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H8050\">שְׁמוּאֵֽל׃</span>",
     "transliteration": "vayikhane'v hafelishetiym velo'-yasefv 'vod lavvo' vigevvl yisera'el vatehiy yad-yehovah vafelishetiym khol yemey shemv'el.",
     "translation": "E os filisteus se curvaram, e não vieram mais atentar contra a fronteira de Israel; porque a mão do Senhor estava pesada sobre os filisteus todos os dias de Samuel."
   },
@@ -85,13 +85,13 @@
   },
   {
     "verse": 15,
-    "original": "וַיִּשְׁפֹּ֤ט שְׁמוּאֵל֙ אֶת־יִשְׂרָאֵ֔ל כֹּ֖ל יְמֵ֥י חַיָּֽיו׃",
+    "original": "<span data-strong=\"H8199\">וַיִּשְׁפֹּ֤ט</span> <span data-strong=\"H8050\">שְׁמוּאֵל֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H2050\">חַיָּֽיו׃</span>",
     "transliteration": "vayishefot shemv'el 'et-yisera'el khol yemey hayayv.",
     "translation": "E Samuel julgou Israel por todos os dias de sua vida."
   },
   {
     "verse": 16,
-    "original": "וְהָלַ֗ךְ מִדֵּ֤י שָׁנָה֙ בְּשָׁנָ֔ה וְסָבַב֙ בֵּֽית־אֵ֔ל וְהַגִּלְגָּ֖ל וְהַמִּצְפָּ֑ה וְשָׁפַט֙ אֶת־יִשְׂרָאֵ֔ל אֵ֥ת כׇּל־הַמְּקוֹמ֖וֹת הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H1980\">וְהָלַ֗ךְ</span> <span data-strong=\"H1767\">מִדֵּ֤י</span> <span data-strong=\"H8141\">שָׁנָה֙</span> <span data-strong=\"H8141\">בְּשָׁנָ֔ה</span> <span data-strong=\"H5437\">וְסָבַב֙</span> <span data-strong=\"H1008\">בֵּֽית</span>־<span data-strong=\"H1008\">אֵ֔ל</span> <span data-strong=\"H1537\">וְהַגִּלְגָּ֖ל</span> <span data-strong=\"H4709\">וְהַמִּצְפָּ֑ה</span> <span data-strong=\"H8199\">וְשָׁפַט֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4725\">הַמְּקוֹמ֖וֹת</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "vehalakhe midey shanah veshanah vesavav veyt-'el vehagilegal vehamitsefah veshafat 'et-yisera'el 'et khol-hamekvomvot ha'eleh.",
     "translation": "E andava de ano em ano, circulando entre Betel e Gilgal e Mizpá, e julgava a Israel em todos esses lugares."
   },

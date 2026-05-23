@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "דִּבְרֵ֣י עָמ֔וֹס אֲשֶׁר־הָיָ֥ה בַנֹּקְדִ֖ים מִתְּק֑וֹעַ אֲשֶׁר֩ חָזָ֨ה עַל־יִשְׂרָאֵ֜ל בִּימֵ֣י&thinsp;<b>׀</b> עֻזִּיָּ֣ה מֶלֶךְ־יְהוּדָ֗ה וּבִימֵ֞י יָרׇבְעָ֤ם בֶּן־יוֹאָשׁ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל שְׁנָתַ֖יִם לִפְנֵ֥י הָרָֽעַשׁ׃",
+    "original": "<span data-strong=\"H1697\">דִּבְרֵ֣י</span> <span data-strong=\"H5986\">עָמ֔וֹס</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H1961\">הָיָ֥ה</span> <span data-strong=\"H5349\">בַנֹּקְדִ֖ים</span> <span data-strong=\"H8620\">מִתְּק֑וֹעַ</span> <span data-strong=\"H834\">אֲשֶׁר֩</span> <span data-strong=\"H2372\">חָזָ֨ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֜ל</span> <span data-strong=\"H3117\">בִּימֵ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H5818\">עֻזִּיָּ֣ה</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H3063\">יְהוּדָ֗ה</span> <span data-strong=\"H3117\">וּבִימֵ֞י</span> <span data-strong=\"H3379\">יָרׇבְעָ֤ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3101\">יוֹאָשׁ֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H8141\">שְׁנָתַ֖יִם</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H7494\">הָרָֽעַשׁ׃</span>",
     "transliteration": "diverey 'amvos 'asher-hayah vanokediym mitekvo'a 'asher hazah 'al-yisera'el viymey&thinsp;<b>|</b> 'uziyah melekhe-yehvdah vviymey yarove'am ven-yvo'ash melekhe yisera'el shenatayim lifeney hara'ash.",
     "translation": "Palavras de Amós, que ocorreram entre os nogueiros de Tekoa, aquele que teve visão sobre Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto."
   },
@@ -13,13 +13,13 @@
   },
   {
     "verse": 3,
-    "original": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י דַמֶּ֔שֶׂק וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־דּוּשָׁ֛ם בַּחֲרֻצ֥וֹת הַבַּרְזֶ֖ל אֶת־הַגִּלְעָֽד׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֚ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7969\">שְׁלֹשָׁה֙</span> <span data-strong=\"H6588\">פִּשְׁעֵ֣י</span> <span data-strong=\"H1834\">דַמֶּ֔שֶׂק</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H702\">אַרְבָּעָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">אֲשִׁיבֶ֑נּוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">דּוּשָׁ֛ם</span> <span data-strong=\"H2742\">בַּחֲרֻצ֥וֹת</span> <span data-strong=\"H1270\">הַבַּרְזֶ֖ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1568\">הַגִּלְעָֽד׃</span>",
     "transliteration": "khoh 'amar yehovah 'al-sheloshah fishe'ey damesek ve'al-'areva'ah lo' 'ashiyvenv 'al-dvsham vaharutsvot havarezel 'et-hagile'ad.",
     "translation": "Assim diz o Senhor: Pelo pecado de Damasco três vezes, e pelo seu pecado quatro vezes, não voltarei atrás. Por atropelarem com bigornas de ferro a Gileade."
   },
   {
     "verse": 4,
-    "original": "וְשִׁלַּ֥חְתִּי אֵ֖שׁ בְּבֵ֣ית חֲזָאֵ֑ל וְאָכְלָ֖ה אַרְמְנ֥וֹת בֶּן־הֲדָֽד׃",
+    "original": "<span data-strong=\"H7971\">וְשִׁלַּ֥חְתִּי</span> <span data-strong=\"H784\">אֵ֖שׁ</span> <span data-strong=\"H1004\">בְּבֵ֣ית</span> <span data-strong=\"H2371\">חֲזָאֵ֑ל</span> <span data-strong=\"H398\">וְאָכְלָ֖ה</span> <span data-strong=\"H759\">אַרְמְנ֥וֹת</span> <span data-strong=\"H1130\">בֶּן</span>־<span data-strong=\"H1130\">הֲדָֽד׃</span>",
     "transliteration": "veshilahetiy 'esh veveyt haza'el ve'akhelah 'aremenvot ven-hadad.",
     "translation": "E lançarei fogo na casa de Hazael, e devorará as fortalezas do filho de Hadade."
   },
@@ -31,13 +31,13 @@
   },
   {
     "verse": 6,
-    "original": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י עַזָּ֔ה וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־הַגְלוֹתָ֛ם גָּל֥וּת שְׁלֵמָ֖ה לְהַסְגִּ֥יר לֶאֱדֽוֹם׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֚ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7969\">שְׁלֹשָׁה֙</span> <span data-strong=\"H6588\">פִּשְׁעֵ֣י</span> <span data-strong=\"H5804\">עַזָּ֔ה</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H702\">אַרְבָּעָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">אֲשִׁיבֶ֑נּוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">הַגְלוֹתָ֛ם</span> <span data-strong=\"H1546\">גָּל֥וּת</span> <span data-strong=\"H8003\">שְׁלֵמָ֖ה</span> <span data-strong=\"H5462\">לְהַסְגִּ֥יר</span> <span data-strong=\"H123\">לֶאֱדֽוֹם׃</span>",
     "transliteration": "khoh 'amar yehovah 'al-sheloshah fishe'ey 'azah ve'al-'areva'ah lo' 'ashiyvenv 'al-hagelvotam galvt shelemah lehasegiyr le'edvom.",
     "translation": "Assim diz o Senhor: Por três transgressões de Azza, e por quatro não desviarei; por terem entregue à totalidade da deportação para Edom."
   },
   {
     "verse": 7,
-    "original": "וְשִׁלַּ֥חְתִּי אֵ֖שׁ בְּחוֹמַ֣ת עַזָּ֑ה וְאָכְלָ֖ה אַרְמְנֹתֶֽיהָ׃",
+    "original": "<span data-strong=\"H7971\">וְשִׁלַּ֥חְתִּי</span> <span data-strong=\"H784\">אֵ֖שׁ</span> <span data-strong=\"H2346\">בְּחוֹמַ֣ת</span> <span data-strong=\"H5804\">עַזָּ֑ה</span> <span data-strong=\"H398\">וְאָכְלָ֖ה</span> <span data-strong=\"H1886\">אַרְמְנֹתֶֽיהָ׃</span>",
     "transliteration": "veshilahetiy 'esh vehvomat 'azah ve'akhelah 'aremenoteyha.",
     "translation": "E enviarei fogo nas muralhas de Gaza, e consumirá seus altares."
   },
@@ -49,7 +49,7 @@
   },
   {
     "verse": 9,
-    "original": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵי־צֹ֔ר וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַֽל־הַסְגִּירָ֞ם גָּל֤וּת שְׁלֵמָה֙ לֶאֱד֔וֹם וְלֹ֥א זָכְר֖וּ בְּרִ֥ית אַחִֽים׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֚ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7969\">שְׁלֹשָׁה֙</span> <span data-strong=\"H6588\">פִּשְׁעֵי</span>־<span data-strong=\"H6865\">צֹ֔ר</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H702\">אַרְבָּעָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">אֲשִׁיבֶ֑נּוּ</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H3963\">הַסְגִּירָ֞ם</span> <span data-strong=\"H1546\">גָּל֤וּת</span> <span data-strong=\"H8003\">שְׁלֵמָה֙</span> <span data-strong=\"H123\">לֶאֱד֔וֹם</span> <span data-strong=\"H3808\">וְלֹ֥א</span> <span data-strong=\"H2142\">זָכְר֖וּ</span> <span data-strong=\"H1285\">בְּרִ֥ית</span> <span data-strong=\"H251\">אַחִֽים׃</span>",
     "transliteration": "khoh 'amar yehovah 'al-sheloshah fishe'ey-tsor ve'al-'areva'ah lo' 'ashiyvenv 'al-hasegiyram galvt shelemah le'edvom velo' zakherv veriyt 'ahiym.",
     "translation": "Assim diz o Senhor: Por três crimes de Tiro, e por quatro não desistirei! Por terem entregue em cativeiro total Sião a Edom, e não guardaram a aliança dos irmãos."
   },
@@ -61,7 +61,7 @@
   },
   {
     "verse": 11,
-    "original": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י אֱד֔וֹם וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־רׇדְפ֨וֹ בַחֶ֤רֶב אָחִיו֙ וְשִׁחֵ֣ת רַחֲמָ֔יו וַיִּטְרֹ֤ף לָעַד֙ אַפּ֔וֹ וְעֶבְרָת֖וֹ שְׁמָ֥רָהֿ נֶֽצַח׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֚ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7969\">שְׁלֹשָׁה֙</span> <span data-strong=\"H6588\">פִּשְׁעֵ֣י</span> <span data-strong=\"H123\">אֱד֔וֹם</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H702\">אַרְבָּעָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">אֲשִׁיבֶ֑נּוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">רׇדְפ֨וֹ</span> <span data-strong=\"H2719\">בַחֶ֤רֶב</span> <span data-strong=\"H2050\">אָחִיו֙</span> <span data-strong=\"H7843\">וְשִׁחֵ֣ת</span> <span data-strong=\"H2050\">רַחֲמָ֔יו</span> <span data-strong=\"H2963\">וַיִּטְרֹ֤ף</span> <span data-strong=\"H5703\">לָעַד֙</span> <span data-strong=\"H2050\">אַפּ֔וֹ</span> <span data-strong=\"H2050\">וְעֶבְרָת֖וֹ</span> <span data-strong=\"H1886\">שְׁמָ֥רָהֿ</span> <span data-strong=\"H5331\">נֶֽצַח׃</span>",
     "transliteration": "khoh 'amar yehovah 'al-sheloshah fishe'ey 'edvom ve'al-'areva'ah lo' 'ashiyvenv 'al-rodefvo vaherev 'ahiyv veshihet rahamayv vayiterof la'ad 'afvo ve'everatvo shemarah netsah.",
     "translation": "Assim diz o Senhor: Por três transgressões de Edom, e por quatro, não haverei dele misericórdia; porque seguiu com a espada seu irmão, despedaçou sua compaixão, e seu ódio perpétuo guardou, nunca esquecendo."
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י בְנֵֽי־עַמּ֔וֹן וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־בִּקְעָם֙ הָר֣וֹת הַגִּלְעָ֔ד לְמַ֖עַן הַרְחִ֥יב אֶת־גְּבוּלָֽם׃",
+    "original": "<span data-strong=\"H3541\">כֹּ֚ה</span> <span data-strong=\"H559\">אָמַ֣ר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H7969\">שְׁלֹשָׁה֙</span> <span data-strong=\"H6588\">פִּשְׁעֵ֣י</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H5983\">עַמּ֔וֹן</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H702\">אַרְבָּעָ֖ה</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5105\">אֲשִׁיבֶ֑נּוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">בִּקְעָם֙</span> <span data-strong=\"H2030\">הָר֣וֹת</span> <span data-strong=\"H1568\">הַגִּלְעָ֔ד</span> <span data-strong=\"H4616\">לְמַ֖עַן</span> <span data-strong=\"H7337\">הַרְחִ֥יב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">גְּבוּלָֽם׃</span>",
     "transliteration": "khoh 'amar yehovah 'al-sheloshah fishe'ey veney-'amvon ve'al-'areva'ah lo' 'ashiyvenv 'al-vike'am harvot hagile'ad lema'an harehiyv 'et-gevvlam.",
     "translation": "Assim diz o Senhor: Pelos três pecados dos filhos de Amom, e pelo quarto não desviarei; por causa que retalharam a Gradação de Gileade para alargarem seus limites."
   },
   {
     "verse": 14,
-    "original": "וְהִצַּ֤תִּי אֵשׁ֙ בְּחוֹמַ֣ת רַבָּ֔ה וְאָכְלָ֖ה אַרְמְנוֹתֶ֑יהָ בִּתְרוּעָה֙ בְּי֣וֹם מִלְחָמָ֔ה בְּסַ֖עַר בְּי֥וֹם סוּפָֽה׃",
+    "original": "<span data-strong=\"H3341\">וְהִצַּ֤תִּי</span> <span data-strong=\"H784\">אֵשׁ֙</span> <span data-strong=\"H2346\">בְּחוֹמַ֣ת</span> <span data-strong=\"H7237\">רַבָּ֔ה</span> <span data-strong=\"H398\">וְאָכְלָ֖ה</span> <span data-strong=\"H1886\">אַרְמְנוֹתֶ֑יהָ</span> <span data-strong=\"H8643\">בִּתְרוּעָה֙</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H4421\">מִלְחָמָ֔ה</span> <span data-strong=\"H5591\">בְּסַ֖עַר</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H5492\">סוּפָֽה׃</span>",
     "transliteration": "vehitsatiy 'esh vehvomat ravah ve'akhelah 'aremenvoteyha viterv'ah veyvom milehamah vesa'ar veyvom svfah.",
     "translation": "E porei fogo nas muralhas de Rabá, e consumirá seus aposentos com a trombeta no dia da batalha, com tempestade no dia do furacão."
   },

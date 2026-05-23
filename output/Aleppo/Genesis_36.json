@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו ה֥וּא אֱדֽוֹם׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֛לֶּה</span> <span data-strong=\"H8435\">תֹּלְד֥וֹת</span> <span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H123\">אֱדֽוֹם׃</span>",
     "transliteration": "ve'eleh toledvot 'esav hv' 'edvom.",
     "translation": "E estas são as gerações de Esaú; ele é Edom."
   },
   {
     "verse": 2,
-    "original": "עֵשָׂ֛ו לָקַ֥ח אֶת־נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־עָדָ֗ה בַּת־אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־אׇהֳלִֽיבָמָה֙ בַּת־עֲנָ֔ה בַּת־צִבְע֖וֹן הַֽחִוִּֽי׃",
+    "original": "<span data-strong=\"H6215\">עֵשָׂ֛ו</span> <span data-strong=\"H3947\">לָקַ֥ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">נָשָׁ֖יו</span> <span data-strong=\"H1323\">מִבְּנ֣וֹת</span> <span data-strong=\"H3667\">כְּנָ֑עַן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5711\">עָדָ֗ה</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H356\">אֵילוֹן֙</span> <span data-strong=\"H2850\">הַֽחִתִּ֔י</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H173\">אׇהֳלִֽיבָמָה֙</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H6034\">עֲנָ֔ה</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H6649\">צִבְע֖וֹן</span> <span data-strong=\"H2340\">הַֽחִוִּֽי׃</span>",
     "transliteration": "'esav lakah 'et-nashayv mivenvot khena'an 'et-'adah vat-'eylvon hahitiy ve'et-'oholiyvamah vat-'anah vat-tsive'von hahiviy.",
     "translation": "Esaú tomou suas mulheres dentre as filhas de Canaã: Adá, filha de Eilon o heteu, e Aholibama, filha de Aná, filha de Zibeão o hivita."
   },
   {
     "verse": 3,
-    "original": "וְאֶת־בָּשְׂמַ֥ת בַּת־יִשְׁמָעֵ֖אל אֲח֥וֹת נְבָיֽוֹת׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1315\">בָּשְׂמַ֥ת</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H3458\">יִשְׁמָעֵ֖אל</span> <span data-strong=\"H269\">אֲח֥וֹת</span> <span data-strong=\"H5032\">נְבָיֽוֹת׃</span>",
     "transliteration": "ve'et-vasemat vat-yishema'e'l 'ahvot nevayvot.",
     "translation": "E a casa de Ismael, irmã de Nevoá."
   },
   {
     "verse": 4,
-    "original": "וַתֵּ֧לֶד עָדָ֛ה לְעֵשָׂ֖ו אֶת־אֱלִיפָ֑ז וּבָ֣שְׂמַ֔ת יָלְדָ֖ה אֶת־רְעוּאֵֽל׃",
+    "original": "<span data-strong=\"H3205\">וַתֵּ֧לֶד</span> <span data-strong=\"H5711\">עָדָ֛ה</span> <span data-strong=\"H6215\">לְעֵשָׂ֖ו</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H464\">אֱלִיפָ֑ז</span> <span data-strong=\"H1315\">וּבָ֣שְׂמַ֔ת</span> <span data-strong=\"H3205\">יָלְדָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7467\">רְעוּאֵֽל׃</span>",
     "transliteration": "vateled 'adah le'esav 'et-'eliyfaz vvasemat yaledah 'et-re'v'el.",
     "translation": "E Adá deu a Esaú Elifaz, e Basemat lhe deu Reuel."
   },
@@ -31,49 +31,49 @@
   },
   {
     "verse": 6,
-    "original": "וַיִּקַּ֣ח עֵשָׂ֡ו אֶת־נָ֠שָׁ֠יו וְאֶת־בָּנָ֣יו וְאֶת־בְּנֹתָיו֮ וְאֶת־כׇּל־נַפְשׁ֣וֹת בֵּיתוֹ֒ וְאֶת־מִקְנֵ֣הוּ וְאֶת־כׇּל־בְּהֶמְתּ֗וֹ וְאֵת֙ כׇּל־קִנְיָנ֔וֹ אֲשֶׁ֥ר רָכַ֖שׁ בְּאֶ֣רֶץ כְּנָ֑עַן וַיֵּ֣לֶךְ אֶל־אֶ֔רֶץ מִפְּנֵ֖י יַעֲקֹ֥ב אָחִֽיו׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֣ח</span> <span data-strong=\"H6215\">עֵשָׂ֡ו</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">נָ֠שָׁ֠יו</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">בָּנָ֣יו</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2050\">בְּנֹתָיו֮</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נַפְשׁ֣וֹת</span> <span data-strong=\"H2050\">בֵּיתוֹ֒</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1930\">מִקְנֵ֣הוּ</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">בְּהֶמְתּ֗וֹ</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2050\">קִנְיָנ֔וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H7408\">רָכַ֖שׁ</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H3667\">כְּנָ֑עַן</span> <span data-strong=\"H1980\">וַיֵּ֣לֶךְ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">אֶ֔רֶץ</span> <span data-strong=\"H6440\">מִפְּנֵ֖י</span> <span data-strong=\"H3290\">יַעֲקֹ֥ב</span> <span data-strong=\"H2050\">אָחִֽיו׃</span>",
     "transliteration": "vayikah 'esav 'et-nashayv ve'et-vanayv ve'et-venotayv ve'et-khol-nafeshvot veytvo ve'et-mikenehv ve'et-khol-vehemetvo ve'et khol-kineyanvo 'asher rakhash ve'erets khena'an vayelekhe 'el-'erets mifeney ya'akov 'ahiyv.",
     "translation": "E tomou Esaú suas mulheres, e seus filhos, e suas filhas, e todas as almas de sua casa, e seu gado, e toda a sua possessão que havia adquirido na terra de Canaã; e partiu para a terra, diante de Jacó, seu irmão."
   },
   {
     "verse": 7,
-    "original": "כִּֽי־הָיָ֧ה רְכוּשָׁ֛ם רָ֖ב מִשֶּׁ֣בֶת יַחְדָּ֑ו וְלֹ֨א יָֽכְלָ֜ה אֶ֤רֶץ מְגֽוּרֵיהֶם֙ לָשֵׂ֣את אֹתָ֔ם מִפְּנֵ֖י מִקְנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">הָיָ֧ה</span> <span data-strong=\"H3963\">רְכוּשָׁ֛ם</span> <span data-strong=\"H7227\">רָ֖ב</span> <span data-strong=\"H3427\">מִשֶּׁ֣בֶת</span> <span data-strong=\"H3162\">יַחְדָּ֑ו</span> <span data-strong=\"H3808\">וְלֹ֨א</span> <span data-strong=\"H3201\">יָֽכְלָ֜ה</span> <span data-strong=\"H776\">אֶ֤רֶץ</span> <span data-strong=\"H3963\">מְגֽוּרֵיהֶם֙</span> <span data-strong=\"H5375\">לָשֵׂ֣את</span> <span data-strong=\"H3963\">אֹתָ֔ם</span> <span data-strong=\"H6440\">מִפְּנֵ֖י</span> <span data-strong=\"H3963\">מִקְנֵיהֶֽם׃</span>",
     "transliteration": "khiy-hayah rekhvsham rav mishevet yahedav velo' yakhelah 'erets megvreyhem lase't 'otam mifeney mikeneyhem.",
     "translation": "Porque o seu rebanho era numeroso demais para habitarem juntos, e a terra dos seus pastos não podia suportá-los por causa do gado."
   },
   {
     "verse": 8,
-    "original": "וַיֵּ֤שֶׁב עֵשָׂו֙ בְּהַ֣ר שֵׂעִ֔יר עֵשָׂ֖ו ה֥וּא אֱדֽוֹם׃",
+    "original": "<span data-strong=\"H3427\">וַיֵּ֤שֶׁב</span> <span data-strong=\"H6215\">עֵשָׂו֙</span> <span data-strong=\"H2022\">בְּהַ֣ר</span> <span data-strong=\"H8165\">שֵׂעִ֔יר</span> <span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H123\">אֱדֽוֹם׃</span>",
     "transliteration": "vayeshev 'esav vehar se'iyr 'esav hv' 'edvom.",
     "translation": "Esaú habitou na montanha de Seir; Esaú é Edom."
   },
   {
     "verse": 9,
-    "original": "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו אֲבִ֣י אֱד֑וֹם בְּהַ֖ר שֵׂעִֽיר׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֛לֶּה</span> <span data-strong=\"H8435\">תֹּלְד֥וֹת</span> <span data-strong=\"H6215\">עֵשָׂ֖ו</span> <span data-strong=\"H1\">אֲבִ֣י</span> <span data-strong=\"H123\">אֱד֑וֹם</span> <span data-strong=\"H2022\">בְּהַ֖ר</span> <span data-strong=\"H8165\">שֵׂעִֽיר׃</span>",
     "transliteration": "ve'eleh toledvot 'esav 'aviy 'edvom vehar se'iyr.",
     "translation": "E estes são os descendentes de Esaú, pai dos edomitas, na montanha de Seir."
   },
   {
     "verse": 10,
-    "original": "אֵ֖לֶּה שְׁמ֣וֹת בְּנֵֽי־עֵשָׂ֑ו אֱלִיפַ֗ז בֶּן־עָדָה֙ אֵ֣שֶׁת עֵשָׂ֔ו רְעוּאֵ֕ל בֶּן־בָּשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H8034\">שְׁמ֣וֹת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H6215\">עֵשָׂ֑ו</span> <span data-strong=\"H464\">אֱלִיפַ֗ז</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5711\">עָדָה֙</span> <span data-strong=\"H802\">אֵ֣שֶׁת</span> <span data-strong=\"H6215\">עֵשָׂ֔ו</span> <span data-strong=\"H7467\">רְעוּאֵ֕ל</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1315\">בָּשְׂמַ֖ת</span> <span data-strong=\"H802\">אֵ֥שֶׁת</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "'eleh shemvot veney-'esav 'eliyfaz ven-'adah 'eshet 'esav re'v'el ven-vasemat 'eshet 'esav.",
     "translation": "Estes são os nomes dos filhos de Esaú: Elifaz, filho de Adá, mulher de Esaú; Reuel, filho de Basemat, mulher de Esaú."
   },
   {
     "verse": 11,
-    "original": "וַיִּהְי֖וּ בְּנֵ֣י אֱלִיפָ֑ז תֵּימָ֣ן אוֹמָ֔ר צְפ֥וֹ וְגַעְתָּ֖ם וּקְנַֽז׃",
+    "original": "<span data-strong=\"H1961\">וַיִּהְי֖וּ</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H464\">אֱלִיפָ֑ז</span> <span data-strong=\"H8487\">תֵּימָ֣ן</span> <span data-strong=\"H201\">אוֹמָ֔ר</span> <span data-strong=\"H6825\">צְפ֥וֹ</span> <span data-strong=\"H1609\">וְגַעְתָּ֖ם</span> <span data-strong=\"H7073\">וּקְנַֽז׃</span>",
     "transliteration": "vayiheyv veney 'eliyfaz teyman 'vomar tsefvo vega'etam vkenaz.",
     "translation": "E os filhos de Elifaz foram Téman, Omar, Zefão, Gaatã e Quenez."
   },
   {
     "verse": 12,
-    "original": "וְתִמְנַ֣ע&thinsp;<b>׀</b> הָיְתָ֣ה פִילֶ֗גֶשׁ לֶֽאֱלִיפַז֙ בֶּן־עֵשָׂ֔ו וַתֵּ֥לֶד לֶאֱלִיפַ֖ז אֶת־עֲמָלֵ֑ק אֵ֕לֶּה בְּנֵ֥י עָדָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H8555\">וְתִמְנַ֣ע&thinsp;<b>׀</b></span> <span data-strong=\"H1961\">הָיְתָ֣ה</span> <span data-strong=\"H6370\">פִילֶ֗גֶשׁ</span> <span data-strong=\"H464\">לֶֽאֱלִיפַז֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6215\">עֵשָׂ֔ו</span> <span data-strong=\"H3205\">וַתֵּ֥לֶד</span> <span data-strong=\"H464\">לֶאֱלִיפַ֖ז</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6002\">עֲמָלֵ֑ק</span> <span data-strong=\"H428\">אֵ֕לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5711\">עָדָ֖ה</span> <span data-strong=\"H802\">אֵ֥שֶׁת</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "vetimena'&thinsp;<b>|</b> hayetah fiylegesh le'eliyfaz ven-'esav vateled le'eliyfaz 'et-'amalek 'eleh veney 'adah 'eshet 'esav.",
     "translation": "E Timna foi concubina de Elifaz, filho de Esaú; e ela lhe deu à luz Amaleque. Estes são os filhos de Adá, mulher de Esaú."
   },
   {
     "verse": 13,
-    "original": "וְאֵ֙לֶּה֙ בְּנֵ֣י רְעוּאֵ֔ל נַ֥חַת וָזֶ֖רַח שַׁמָּ֣ה וּמִזָּ֑ה אֵ֣לֶּה הָי֔וּ בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֙לֶּה֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H7467\">רְעוּאֵ֔ל</span> <span data-strong=\"H5184\">נַ֥חַת</span> <span data-strong=\"H2226\">וָזֶ֖רַח</span> <span data-strong=\"H8048\">שַׁמָּ֣ה</span> <span data-strong=\"H4199\">וּמִזָּ֑ה</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H1961\">הָי֔וּ</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H1315\">בָשְׂמַ֖ת</span> <span data-strong=\"H802\">אֵ֥שֶׁת</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "ve'eleh veney re'v'el nahat vazerah shamah vmizah 'eleh hayv veney vasemat 'eshet 'esav.",
     "translation": "E estes são os filhos de Reuel: Naate, Zera, Shine e Miza. Estes foram os filhos de Básamat, esposa de Esaú."
   },
@@ -85,25 +85,25 @@
   },
   {
     "verse": 15,
-    "original": "אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־עֵשָׂ֑ו בְּנֵ֤י אֱלִיפַז֙ בְּכ֣וֹר עֵשָׂ֔ו אַלּ֤וּף תֵּימָן֙ אַלּ֣וּף אוֹמָ֔ר אַלּ֥וּף צְפ֖וֹ אַלּ֥וּף קְנַֽז׃",
+    "original": "<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֣י</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H6215\">עֵשָׂ֑ו</span> <span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H464\">אֱלִיפַז֙</span> <span data-strong=\"H1060\">בְּכ֣וֹר</span> <span data-strong=\"H6215\">עֵשָׂ֔ו</span> <span data-strong=\"H441\">אַלּ֤וּף</span> <span data-strong=\"H8487\">תֵּימָן֙</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H201\">אוֹמָ֔ר</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H6825\">צְפ֖וֹ</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H7073\">קְנַֽז׃</span>",
     "transliteration": "'eleh 'alvfey veney-'esav veney 'eliyfaz vekhvor 'esav 'alvf teyman 'alvf 'vomar 'alvf tsefvo 'alvf kenaz.",
     "translation": "Estes são os chefes dos filhos de Esaú; filhos de Elifaz, primogênito de Esaú: chefe Temã, chefe Omar, chefe Zefão, chefe Qenez."
   },
   {
     "verse": 16,
-    "original": "אַלּֽוּף־קֹ֛רַח אַלּ֥וּף גַּעְתָּ֖ם אַלּ֣וּף עֲמָלֵ֑ק אֵ֣לֶּה אַלּוּפֵ֤י אֱלִיפַז֙ בְּאֶ֣רֶץ אֱד֔וֹם אֵ֖לֶּה בְּנֵ֥י עָדָֽה׃",
+    "original": "<span data-strong=\"H441\">אַלּֽוּף</span>־<span data-strong=\"H7141\">קֹ֛רַח</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H1609\">גַּעְתָּ֖ם</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H6002\">עֲמָלֵ֑ק</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֤י</span> <span data-strong=\"H464\">אֱלִיפַז֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H123\">אֱד֔וֹם</span> <span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5711\">עָדָֽה׃</span>",
     "transliteration": "'alvf-korah 'alvf ga'etam 'alvf 'amalek 'eleh 'alvfey 'eliyfaz ve'erets 'edvom 'eleh veney 'adah.",
     "translation": "Líder de Corá, líder de Gaatãm, líder de Amaleque; estes são os líderes de Elifaz na terra de Edom; estes são os filhos de Adá."
   },
   {
     "verse": 17,
-    "original": "וְאֵ֗לֶּה בְּנֵ֤י רְעוּאֵל֙ בֶּן־עֵשָׂ֔ו אַלּ֥וּף נַ֙חַת֙ אַלּ֣וּף זֶ֔רַח אַלּ֥וּף שַׁמָּ֖ה אַלּ֣וּף מִזָּ֑ה אֵ֣לֶּה אַלּוּפֵ֤י רְעוּאֵל֙ בְּאֶ֣רֶץ אֱד֔וֹם אֵ֕לֶּה בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֗לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H7467\">רְעוּאֵל֙</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6215\">עֵשָׂ֔ו</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H5184\">נַ֙חַת֙</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H2226\">זֶ֔רַח</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H8048\">שַׁמָּ֖ה</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H4199\">מִזָּ֑ה</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֤י</span> <span data-strong=\"H7467\">רְעוּאֵל֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H123\">אֱד֔וֹם</span> <span data-strong=\"H428\">אֵ֕לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H1315\">בָשְׂמַ֖ת</span> <span data-strong=\"H802\">אֵ֥שֶׁת</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "ve'eleh veney re'v'el ven-'esav 'alvf nahat 'alvf zerah 'alvf shamah 'alvf mizah 'eleh 'alvfey re'v'el ve'erets 'edvom 'eleh veney vasemat 'eshet 'esav.",
     "translation": "E estes são os filhos de Reuel, filho de Esaú: Aluf Naat, Aluf Zerah, Aluf Shamá, Aluf Miza. Estes são os alufes de Reuel na terra de Edom; estes são os filhos de Básamat, mulher de Esaú."
   },
   {
     "verse": 18,
-    "original": "וְאֵ֗לֶּה בְּנֵ֤י אׇהֳלִֽיבָמָה֙ אֵ֣שֶׁת עֵשָׂ֔ו אַלּ֥וּף יְע֛וּשׁ אַלּ֥וּף יַעְלָ֖ם אַלּ֣וּף קֹ֑רַח אֵ֣לֶּה אַלּוּפֵ֞י אׇהֳלִֽיבָמָ֛ה בַּת־עֲנָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֗לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֤י</span> <span data-strong=\"H173\">אׇהֳלִֽיבָמָה֙</span> <span data-strong=\"H802\">אֵ֣שֶׁת</span> <span data-strong=\"H6215\">עֵשָׂ֔ו</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H3266\">יְע֛וּשׁ</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H3281\">יַעְלָ֖ם</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H7141\">קֹ֑רַח</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֞י</span> <span data-strong=\"H173\">אׇהֳלִֽיבָמָ֛ה</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H6034\">עֲנָ֖ה</span> <span data-strong=\"H802\">אֵ֥שֶׁת</span> <span data-strong=\"H6215\">עֵשָֽׂו׃</span>",
     "transliteration": "ve'eleh veney 'oholiyvamah 'eshet 'esav 'alvf ye'vsh 'alvf ya'elam 'alvf korah 'eleh 'alvfey 'oholiyvamah vat-'anah 'eshet 'esav.",
     "translation": "E estes são os filhos de Aholibama, mulher de Esaú: Aluf Jeús, Aluf Jaalam, Aluf Corá. Estes são os alufes de Aholibama, filha de Ana, mulher de Esaú."
   },
@@ -115,61 +115,61 @@
   },
   {
     "verse": 20,
-    "original": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֥וֹן וַעֲנָֽה׃",
+    "original": "<span data-strong=\"H428\">אֵ֤לֶּה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H8165\">שֵׂעִיר֙</span> <span data-strong=\"H2752\">הַחֹרִ֔י</span> <span data-strong=\"H3427\">יֹשְׁבֵ֖י</span> <span data-strong=\"H776\">הָאָ֑רֶץ</span> <span data-strong=\"H3877\">לוֹטָ֥ן</span> <span data-strong=\"H7732\">וְשׁוֹבָ֖ל</span> <span data-strong=\"H6649\">וְצִבְע֥וֹן</span> <span data-strong=\"H6034\">וַעֲנָֽה׃</span>",
     "transliteration": "'eleh veney-se'iyr hahoriy yoshevey ha'arets lvotan veshvoval vetsive'von va'anah.",
     "translation": "Estes são os filhos de Seir, o horita, habitantes da terra: Lotã, e Shobal, e Tzibôn, e Aná."
   },
   {
     "verse": 21,
-    "original": "וְדִשׁ֥וֹן וְאֵ֖צֶר וְדִישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י בְּנֵ֥י שֵׂעִ֖יר בְּאֶ֥רֶץ אֱדֽוֹם׃",
+    "original": "<span data-strong=\"H1787\">וְדִשׁ֥וֹן</span> <span data-strong=\"H687\">וְאֵ֖צֶר</span> <span data-strong=\"H1789\">וְדִישָׁ֑ן</span> <span data-strong=\"H428\">אֵ֣לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֧י</span> <span data-strong=\"H2752\">הַחֹרִ֛י</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H8165\">שֵׂעִ֖יר</span> <span data-strong=\"H776\">בְּאֶ֥רֶץ</span> <span data-strong=\"H123\">אֱדֽוֹם׃</span>",
     "transliteration": "vedishvon ve'etser vediyshan 'eleh 'alvfey hahoriy veney se'iyr ve'erets 'edvom.",
     "translation": "E Disom e Ezer e Dishon, estes são os chefes dos horitas, filhos de Seir na terra de Edom."
   },
   {
     "verse": 22,
-    "original": "וַיִּהְי֥וּ בְנֵי־לוֹטָ֖ן חֹרִ֣י וְהֵימָ֑ם וַאֲח֥וֹת לוֹטָ֖ן תִּמְנָֽע׃",
+    "original": "<span data-strong=\"H1961\">וַיִּהְי֥וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3877\">לוֹטָ֖ן</span> <span data-strong=\"H2753\">חֹרִ֣י</span> <span data-strong=\"H1967\">וְהֵימָ֑ם</span> <span data-strong=\"H269\">וַאֲח֥וֹת</span> <span data-strong=\"H3877\">לוֹטָ֖ן</span> <span data-strong=\"H8555\">תִּמְנָֽע׃</span>",
     "transliteration": "vayiheyv veney-lvotan horiy veheymam va'ahvot lvotan timena'.",
     "translation": "E os filhos de Lotã foram Hori e Hemam, e a irmã de Lotã foi Timna."
   },
   {
     "verse": 23,
-    "original": "וְאֵ֙לֶּה֙ בְּנֵ֣י שׁוֹבָ֔ל עַלְוָ֥ן וּמָנַ֖חַת וְעֵיבָ֑ל שְׁפ֖וֹ וְאוֹנָֽם׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֙לֶּה֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H7732\">שׁוֹבָ֔ל</span> <span data-strong=\"H5935\">עַלְוָ֥ן</span> <span data-strong=\"H4506\">וּמָנַ֖חַת</span> <span data-strong=\"H5858\">וְעֵיבָ֑ל</span> <span data-strong=\"H8195\">שְׁפ֖וֹ</span> <span data-strong=\"H208\">וְאוֹנָֽם׃</span>",
     "transliteration": "ve'eleh veney shvoval 'alevan vmanahat ve'eyval shefvo ve'vonam.",
     "translation": "E estes são os filhos de Shoval: Alvã, Manachat e Eibal, Sefo e Onam."
   },
   {
     "verse": 24,
-    "original": "וְאֵ֥לֶּה בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם֙ בַּמִּדְבָּ֔ר בִּרְעֹת֥וֹ אֶת־הַחֲמֹרִ֖ים לְצִבְע֥וֹן אָבִֽיו׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֥לֶּה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H6649\">צִבְע֖וֹן</span> <span data-strong=\"H345\">וְאַיָּ֣ה</span> <span data-strong=\"H6034\">וַעֲנָ֑ה</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H6034\">עֲנָ֗ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H4672\">מָצָ֤א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3222\">הַיֵּמִם֙</span> <span data-strong=\"H4057\">בַּמִּדְבָּ֔ר</span> <span data-strong=\"H2050\">בִּרְעֹת֥וֹ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2543\">הַחֲמֹרִ֖ים</span> <span data-strong=\"H6649\">לְצִבְע֥וֹן</span> <span data-strong=\"H2050\">אָבִֽיו׃</span>",
     "transliteration": "ve'eleh veney-tsive'von ve'ayah va'anah hv' 'anah 'asher matsa' 'et-hayemim vamidevar vire'otvo 'et-hahamoriym letsive'von 'aviyv.",
     "translation": "E estes são os filhos de Tsiboa: Ayá e Ana. Este Ana foi quem descobriu as águas no deserto, quando apascentava jumentos para seu pai Tsiboa."
   },
   {
     "verse": 25,
-    "original": "וְאֵ֥לֶּה בְנֵֽי־עֲנָ֖ה דִּשֹׁ֑ן וְאׇהֳלִיבָמָ֖ה בַּת־עֲנָֽה׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֥לֶּה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H6034\">עֲנָ֖ה</span> <span data-strong=\"H1787\">דִּשֹׁ֑ן</span> <span data-strong=\"H173\">וְאׇהֳלִיבָמָ֖ה</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H6034\">עֲנָֽה׃</span>",
     "transliteration": "ve'eleh veney-'anah dishon ve'oholiyvamah vat-'anah.",
     "translation": "E estes são os filhos de Aná, Dison; e Aóliva, a filha de Aná."
   },
   {
     "verse": 26,
-    "original": "וְאֵ֖לֶּה בְּנֵ֣י דִישָׁ֑ן חֶמְדָּ֥ן וְאֶשְׁבָּ֖ן וְיִתְרָ֥ן וּכְרָֽן׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֖לֶּה</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H1789\">דִישָׁ֑ן</span> <span data-strong=\"H2533\">חֶמְדָּ֥ן</span> <span data-strong=\"H790\">וְאֶשְׁבָּ֖ן</span> <span data-strong=\"H3506\">וְיִתְרָ֥ן</span> <span data-strong=\"H3763\">וּכְרָֽן׃</span>",
     "transliteration": "ve'eleh veney diyshan hemedan ve'eshevan veyiteran vkheran.",
     "translation": "E estes são os filhos de Dissen: Hemdan, Eshban, Itrã e Keren."
   },
   {
     "verse": 27,
-    "original": "אֵ֖לֶּה בְּנֵי־אֵ֑צֶר בִּלְהָ֥ן וְזַעֲוָ֖ן וַעֲקָֽן׃",
+    "original": "<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H1121\">בְּנֵי</span>־<span data-strong=\"H687\">אֵ֑צֶר</span> <span data-strong=\"H1092\">בִּלְהָ֥ן</span> <span data-strong=\"H2190\">וְזַעֲוָ֖ן</span> <span data-strong=\"H6130\">וַעֲקָֽן׃</span>",
     "transliteration": "'eleh veney-'etser vilehan veza'avan va'akan.",
     "translation": "Estes são os filhos de Azer: Bilhã, Zaavan e Aakan."
   },
   {
     "verse": 28,
-    "original": "אֵ֥לֶּה בְנֵֽי־דִישָׁ֖ן ע֥וּץ וַאֲרָֽן׃",
+    "original": "<span data-strong=\"H428\">אֵ֥לֶּה</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H1789\">דִישָׁ֖ן</span> <span data-strong=\"H5780\">ע֥וּץ</span> <span data-strong=\"H765\">וַאֲרָֽן׃</span>",
     "transliteration": "'eleh veney-diyshan 'vts va'aran.",
     "translation": "Estes são os filhos de Dissen: Uz e Arã."
   },
   {
     "verse": 29,
-    "original": "אֵ֖לֶּה אַלּוּפֵ֣י הַחֹרִ֑י אַלּ֤וּף לוֹטָן֙ אַלּ֣וּף שׁוֹבָ֔ל אַלּ֥וּף צִבְע֖וֹן אַלּ֥וּף עֲנָֽה׃",
+    "original": "<span data-strong=\"H428\">אֵ֖לֶּה</span> <span data-strong=\"H441\">אַלּוּפֵ֣י</span> <span data-strong=\"H2752\">הַחֹרִ֑י</span> <span data-strong=\"H441\">אַלּ֤וּף</span> <span data-strong=\"H3877\">לוֹטָן֙</span> <span data-strong=\"H441\">אַלּ֣וּף</span> <span data-strong=\"H7732\">שׁוֹבָ֔ל</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H6649\">צִבְע֖וֹן</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H6034\">עֲנָֽה׃</span>",
     "transliteration": "'eleh 'alvfey hahoriy 'alvf lvotan 'alvf shvoval 'alvf tsive'von 'alvf 'anah.",
     "translation": "Estes são os chefes dos horitas: chefe Lotã, chefe Sóval, chefe Tsíbon, chefe Aná."
   },
@@ -181,73 +181,73 @@
   },
   {
     "verse": 31,
-    "original": "וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H428\">וְאֵ֙לֶּה֙</span> <span data-strong=\"H4428\">הַמְּלָכִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H4427\">מָלְכ֖וּ</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H123\">אֱד֑וֹם</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H4427\">מְלׇךְ</span>־<span data-strong=\"H4428\">מֶ֖לֶךְ</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "ve'eleh hamelakhiym 'asher malekhv ve'erets 'edvom lifeney melokhe-melekhe liveney yisera'el.",
     "translation": "E estes são os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel."
   },
   {
     "verse": 32,
-    "original": "וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן־בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה׃",
+    "original": "<span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H123\">בֶּאֱד֔וֹם</span> <span data-strong=\"H1106\">בֶּ֖לַע</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1160\">בְּע֑וֹר</span> <span data-strong=\"H8034\">וְשֵׁ֥ם</span> <span data-strong=\"H2050\">עִיר֖וֹ</span> <span data-strong=\"H1838\">דִּנְהָֽבָה׃</span>",
     "transliteration": "vayimelokhe ve'edvom vela' ven-ve'vor veshem 'iyrvo dinehavah.",
     "translation": "E reinou em Edom Bela, filho de Beor, e o nome da sua cidade era Dinhabá."
   },
   {
     "verse": 33,
-    "original": "וַיָּ֖מׇת בָּ֑לַע וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו יוֹבָ֥ב בֶּן־זֶ֖רַח מִבׇּצְרָֽה׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H1106\">בָּ֑לַע</span> <span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֔יו</span> <span data-strong=\"H3103\">יוֹבָ֥ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H2226\">זֶ֖רַח</span> <span data-strong=\"H1224\">מִבׇּצְרָֽה׃</span>",
     "transliteration": "vayamot vala' vayimelokhe tahetayv yvovav ven-zerah mivotserah.",
     "translation": "E Balá morreu, e depois dele reinou Jóvav, filho de Zerá, de Betsur."
   },
   {
     "verse": 34,
-    "original": "וַיָּ֖מׇת יוֹבָ֑ב וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו חֻשָׁ֖ם מֵאֶ֥רֶץ הַתֵּימָנִֽי׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H3103\">יוֹבָ֑ב</span> <span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֔יו</span> <span data-strong=\"H2367\">חֻשָׁ֖ם</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H8489\">הַתֵּימָנִֽי׃</span>",
     "transliteration": "vayamot yvovav vayimelokhe tahetayv husham me'erets hateymaniy.",
     "translation": "E Jóvab morreu, e depois dele reinou Chúsam, da terra de Temã."
   },
   {
     "verse": 35,
-    "original": "וַיָּ֖מׇת חֻשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־בְּדַ֗ד הַמַּכֶּ֤ה אֶת־מִדְיָן֙ בִּשְׂדֵ֣ה מוֹאָ֔ב וְשֵׁ֥ם עִיר֖וֹ עֲוִֽית׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H2367\">חֻשָׁ֑ם</span> <span data-strong=\"H4427\">וַיִּמְלֹ֨ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֜יו</span> <span data-strong=\"H1908\">הֲדַ֣ד</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H911\">בְּדַ֗ד</span> <span data-strong=\"H5221\">הַמַּכֶּ֤ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4080\">מִדְיָן֙</span> <span data-strong=\"H7704\">בִּשְׂדֵ֣ה</span> <span data-strong=\"H4124\">מוֹאָ֔ב</span> <span data-strong=\"H8034\">וְשֵׁ֥ם</span> <span data-strong=\"H2050\">עִיר֖וֹ</span> <span data-strong=\"H5762\">עֲוִֽית׃</span>",
     "transliteration": "vayamot husham vayimelokhe tahetayv hadad ven-vedad hamakheh 'et-mideyan visedeh mvo'av veshem 'iyrvo 'aviyt.",
     "translation": "E morreu Husam, e em seu lugar reinou Hadadezer, filho de Benhadad, que feriu os midianitas no campo de Moabe; e o nome da sua cidade era Avé."
   },
   {
     "verse": 36,
-    "original": "וַיָּ֖מׇת הֲדָ֑ד וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שַׂמְלָ֖ה מִמַּשְׂרֵקָֽה׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H1908\">הֲדָ֑ד</span> <span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֔יו</span> <span data-strong=\"H8072\">שַׂמְלָ֖ה</span> <span data-strong=\"H4957\">מִמַּשְׂרֵקָֽה׃</span>",
     "transliteration": "vayamot hadad vayimelokhe tahetayv samelah mimaserekah.",
     "translation": "E Hador morreu, e em seu lugar reinou Semla de Masreka."
   },
   {
     "verse": 37,
-    "original": "וַיָּ֖מׇת שַׂמְלָ֑ה וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שָׁא֖וּל מֵרְחֹב֥וֹת הַנָּהָֽר׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H8072\">שַׂמְלָ֑ה</span> <span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֔יו</span> <span data-strong=\"H7586\">שָׁא֖וּל</span> <span data-strong=\"H7344\">מֵרְחֹב֥וֹת</span> <span data-strong=\"H5104\">הַנָּהָֽר׃</span>",
     "transliteration": "vayamot samelah vayimelokhe tahetayv sha'vl merehovvot hanahar.",
     "translation": "E Samlá morreu, e em seu lugar reinou Saul de Ribotas do rio."
   },
   {
     "verse": 38,
-    "original": "וַיָּ֖מׇת שָׁא֑וּל וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו בַּ֥עַל חָנָ֖ן בֶּן־עַכְבּֽוֹר׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֖מׇת</span> <span data-strong=\"H7586\">שָׁא֑וּל</span> <span data-strong=\"H4427\">וַיִּמְלֹ֣ךְ</span> <span data-strong=\"H2050\">תַּחְתָּ֔יו</span> <span data-strong=\"H1177\">בַּ֥עַל</span> <span data-strong=\"H1177\">חָנָ֖ן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5907\">עַכְבּֽוֹר׃</span>",
     "transliteration": "vayamot sha'vl vayimelokhe tahetayv va'al hanan ven-'akhevvor.",
     "translation": "E Saul morreu, e reinou em seu lugar Baal-Hanan, filho de Akbor."
   },
   {
     "verse": 39,
-    "original": "וַיָּ֘מׇת֮ בַּ֣עַל חָנָ֣ן בֶּן־עַכְבּוֹר֒ וַיִּמְלֹ֤ךְ תַּחְתָּיו֙ הֲדַ֔ר וְשֵׁ֥ם עִיר֖וֹ פָּ֑עוּ וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵֽיטַבְאֵל֙ בַּת־מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֘מׇת֮</span> <span data-strong=\"H1177\">בַּ֣עַל</span> <span data-strong=\"H1177\">חָנָ֣ן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5907\">עַכְבּוֹר֒</span> <span data-strong=\"H4427\">וַיִּמְלֹ֤ךְ</span> <span data-strong=\"H2050\">תַּחְתָּיו֙</span> <span data-strong=\"H1924\">הֲדַ֔ר</span> <span data-strong=\"H8034\">וְשֵׁ֥ם</span> <span data-strong=\"H2050\">עִיר֖וֹ</span> <span data-strong=\"H6464\">פָּ֑עוּ</span> <span data-strong=\"H8034\">וְשֵׁ֨ם</span> <span data-strong=\"H2050\">אִשְׁתּ֤וֹ</span> <span data-strong=\"H4105\">מְהֵֽיטַבְאֵל֙</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H4308\">מַטְרֵ֔ד</span> <span data-strong=\"H1323\">בַּ֖ת</span> <span data-strong=\"H4314\">מֵ֥י</span> <span data-strong=\"H4314\">זָהָֽב׃</span>",
     "transliteration": "vayamot va'al hanan ven-'akhevvor vayimelokhe tahetayv hadar veshem 'iyrvo fa'v veshem 'ishetvo meheytave'el vat-matered vat mey zahav.",
     "translation": "E morreu Baal-Hanan, filho de Aqbôr; e reinou em seu lugar Hadade; e o nome da sua cidade era Pai; e o nome de sua mãe era Mehete-Abel, filha de Matred, filha de Mezi-zá-hab."
   },
   {
     "verse": 40,
-    "original": "וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙ לְמִשְׁפְּחֹתָ֔ם לִמְקֹמֹתָ֖ם בִּשְׁמֹתָ֑ם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת׃",
+    "original": "<span data-strong=\"H428\">וְ֠אֵ֠לֶּה</span> <span data-strong=\"H8034\">שְׁמ֞וֹת</span> <span data-strong=\"H441\">אַלּוּפֵ֤י</span> <span data-strong=\"H6215\">עֵשָׂו֙</span> <span data-strong=\"H3963\">לְמִשְׁפְּחֹתָ֔ם</span> <span data-strong=\"H3963\">לִמְקֹמֹתָ֖ם</span> <span data-strong=\"H3963\">בִּשְׁמֹתָ֑ם</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H8555\">תִּמְנָ֛ע</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H5933\">עַֽלְוָ֖ה</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H3509\">יְתֵֽת׃</span>",
     "transliteration": "ve'eleh shemvot 'alvfey 'esav lemishefehotam limekomotam vishemotam 'alvf timena' 'alvf 'alevah 'alvf yetet.",
     "translation": "E estes são os nomes dos chefes de Esaú por suas famílias, segundo seus lugares pelas suas denominações: chefe Temna, chefe Alvá, chefe Jete."
   },
   {
     "verse": 41,
-    "original": "אַלּ֧וּף אׇהֳלִיבָמָ֛ה אַלּ֥וּף אֵלָ֖ה אַלּ֥וּף פִּינֹֽן׃",
+    "original": "<span data-strong=\"H441\">אַלּ֧וּף</span> <span data-strong=\"H173\">אׇהֳלִיבָמָ֛ה</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H425\">אֵלָ֖ה</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H6373\">פִּינֹֽן׃</span>",
     "transliteration": "'alvf 'oholiyvamah 'alvf 'elah 'alvf fiynon.",
     "translation": "Senhor de Aholibama, Senhor de Ela, Senhor de Pinom."
   },
   {
     "verse": 42,
-    "original": "אַלּ֥וּף קְנַ֛ז אַלּ֥וּף תֵּימָ֖ן אַלּ֥וּף מִבְצָֽר׃",
+    "original": "<span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H7073\">קְנַ֛ז</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H8487\">תֵּימָ֖ן</span> <span data-strong=\"H441\">אַלּ֥וּף</span> <span data-strong=\"H4014\">מִבְצָֽר׃</span>",
     "transliteration": "'alvf kenaz 'alvf teyman 'alvf mivetsar.",
     "translation": "Senhor de Quenez, Senhor de Teiman, Senhor de Mibtsar."
   },

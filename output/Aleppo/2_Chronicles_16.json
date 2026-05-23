@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֵׁשׁ֙ לְמַלְכ֣וּת אָסָ֔א עָלָ֞ה בַּעְשָׁ֤א מֶֽלֶךְ־יִשְׂרָאֵל֙ עַל־יְהוּדָ֔ה וַיִּ֖בֶן אֶת־הָרָמָ֑ה לְבִלְתִּ֗י תֵּ֚ת יוֹצֵ֣א וָבָ֔א לְאָסָ֖א מֶ֥לֶךְ יְהוּדָֽה׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֨ת</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֤ים</span> <span data-strong=\"H8337\">וָשֵׁשׁ֙</span> <span data-strong=\"H4438\">לְמַלְכ֣וּת</span> <span data-strong=\"H609\">אָסָ֔א</span> <span data-strong=\"H5927\">עָלָ֞ה</span> <span data-strong=\"H1201\">בַּעְשָׁ֤א</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H1129\">וַיִּ֖בֶן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7414\">הָרָמָ֑ה</span> <span data-strong=\"H1115\">לְבִלְתִּ֗י</span> <span data-strong=\"H5414\">תֵּ֚ת</span> <span data-strong=\"H3318\">יוֹצֵ֣א</span> <span data-strong=\"H935\">וָבָ֔א</span> <span data-strong=\"H609\">לְאָסָ֖א</span> <span data-strong=\"H4428\">מֶ֥לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָֽה׃</span>",
     "transliteration": "vishenat sheloshiym vashesh lemalekhvt 'asa' 'alah va'esha' melekhe-yisera'el 'al-yehvdah vayiven 'et-haramah leviletiy tet yvotse' vava' le'asa' melekhe yehvdah.",
     "translation": "No trigésimo sexto ano do reinado de Asa, Baás, rei de Israel, subiu contra Judá e edificou Ramá para que não houvesse saída nem entrada ao rei Asa de Judá."
   },
   {
     "verse": 2,
-    "original": "וַיֹּצֵ֨א אָסָ֜א כֶּ֣סֶף וְזָהָ֗ב מֵאֹ֥צְר֛וֹת בֵּ֥ית יְהֹוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַיִּשְׁלַ֗ח אֶל־בֶּן־הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם הַיּוֹשֵׁ֥ב בְּדַרְמֶ֖שֶׂק לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H3318\">וַיֹּצֵ֨א</span> <span data-strong=\"H609\">אָסָ֜א</span> <span data-strong=\"H3701\">כֶּ֣סֶף</span> <span data-strong=\"H2091\">וְזָהָ֗ב</span> <span data-strong=\"H214\">מֵאֹ֥צְר֛וֹת</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H1004\">וּבֵ֣ית</span> <span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H7971\">וַיִּשְׁלַ֗ח</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1130\">בֶּן</span>־<span data-strong=\"H1130\">הֲדַד֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H758\">אֲרָ֔ם</span> <span data-strong=\"H3427\">הַיּוֹשֵׁ֥ב</span> <span data-strong=\"H1834\">בְּדַרְמֶ֖שֶׂק</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayotse' 'asa' khesef vezahav me'otservot veyt yehovah vveyt hamelekhe vayishelah 'el-ven-hadad melekhe 'aram hayvoshev vedaremesek le'mor.",
     "translation": "E Asa entregou prata e ouro dos tesouros do templo do Senhor e da casa do rei, e enviou a Ben-Hadade, rei da Síria, que habitava em Damasco, dizendo:"
   },
   {
     "verse": 3,
-    "original": "בְּרִית֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּבֵ֥ין אָבִ֖י וּבֵ֣ין אָבִ֑יךָ הִנֵּ֨ה שָׁלַ֤חְתִּֽי לְךָ֙ כֶּ֣סֶף וְזָהָ֔ב לֵ֞ךְ הָפֵ֣ר בְּרִֽיתְךָ֗ אֶת־בַּעְשָׁא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וְיַעֲלֶ֖ה מֵעָלָֽי׃",
+    "original": "<span data-strong=\"H1285\">בְּרִית֙</span> <span data-strong=\"H2967\">בֵּינִ֣י</span> <span data-strong=\"H3509\">וּבֵינֶ֔ךָ</span> <span data-strong=\"H996\">וּבֵ֥ין</span> <span data-strong=\"H2967\">אָבִ֖י</span> <span data-strong=\"H996\">וּבֵ֣ין</span> <span data-strong=\"H3509\">אָבִ֑יךָ</span> <span data-strong=\"H2009\">הִנֵּ֨ה</span> <span data-strong=\"H7971\">שָׁלַ֤חְתִּֽי</span> <span data-strong=\"H3509\">לְךָ֙</span> <span data-strong=\"H3701\">כֶּ֣סֶף</span> <span data-strong=\"H2091\">וְזָהָ֔ב</span> <span data-strong=\"H1980\">לֵ֞ךְ</span> <span data-strong=\"H6565\">הָפֵ֣ר</span> <span data-strong=\"H3509\">בְּרִֽיתְךָ֗</span> <span data-strong=\"H854\">אֶת</span>־<span data-strong=\"H1201\">בַּעְשָׁא֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H5927\">וְיַעֲלֶ֖ה</span> <span data-strong=\"H2967\">מֵעָלָֽי׃</span>",
     "transliteration": "veriyt veyniy vveynekha vveyn 'aviy vveyn 'aviykha hineh shalahetiy lekha khesef vezahav lekhe hafer veriytekha 'et-va'esha' melekhe yisera'el veya'aleh me'alay.",
     "translation": "Pacto entre mim e ti, e entre teu pai e o pai de ti. Eis que envio a ti prata e ouro; vai romper o pacto com Baás rei de Israel e suba sobre mim."
   },
   {
     "verse": 4,
-    "original": "וַיִּשְׁמַ֨ע בֶּן־הֲדַ֜ד אֶל־הַמֶּ֣לֶךְ אָסָ֗א וַ֠יִּשְׁלַ֠ח אֶת־שָׂרֵ֨י הַחֲיָלִ֤ים אֲשֶׁר־לוֹ֙ אֶל־עָרֵ֣י יִשְׂרָאֵ֔ל וַיַּכּוּ֙ אֶת־עִיּ֣וֹן וְאֶת־דָּ֔ן וְאֵ֖ת אָבֵ֣ל מָ֑יִם וְאֵ֥ת כׇּֽל־מִסְכְּנ֖וֹת עָרֵ֥י נַפְתָּלִֽי׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשְׁמַ֨ע</span> <span data-strong=\"H1130\">בֶּן</span>־<span data-strong=\"H1130\">הֲדַ֜ד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4428\">הַמֶּ֣לֶךְ</span> <span data-strong=\"H609\">אָסָ֗א</span> <span data-strong=\"H7971\">וַ֠יִּשְׁלַ֠ח</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8269\">שָׂרֵ֨י</span> <span data-strong=\"H2428\">הַחֲיָלִ֤ים</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5892\">עָרֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H5221\">וַיַּכּוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5859\">עִיּ֣וֹן</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H1835\">דָּ֔ן</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H66\">אָבֵ֣ל</span> <span data-strong=\"H66\">מָ֑יִם</span> <span data-strong=\"H853\">וְאֵ֥ת</span> <span data-strong=\"H3605\">כׇּֽל</span>־<span data-strong=\"H4543\">מִסְכְּנ֖וֹת</span> <span data-strong=\"H5892\">עָרֵ֥י</span> <span data-strong=\"H5321\">נַפְתָּלִֽי׃</span>",
     "transliteration": "vayishema' ven-hadad 'el-hamelekhe 'asa' vayishelah 'et-sarey hahayaliym 'asher-lvo 'el-'arey yisera'el vayakhv 'et-'iyvon ve'et-dan ve'et 'avel mayim ve'et khol-misekhenvot 'arey nafetaliy.",
     "translation": "E Ben-Hadade ouviu ao rei Asa e enviou os comandantes de seu exército contra as cidades de Israel, e eles feriram Iyon e Dan e Abel-Maim, e todas as vilas das redondezas de Naftali."
   },
@@ -37,7 +37,7 @@
   },
   {
     "verse": 7,
-    "original": "וּבָעֵ֣ת הַהִ֗יא בָּ֚א חֲנָ֣נִי הָרֹאֶ֔ה אֶל־אָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה וַיֹּ֣אמֶר אֵלָ֗יו בְּהִשָּׁ֨עֶנְךָ֜ עַל־מֶ֤לֶךְ אֲרָם֙ וְלֹ֤א נִשְׁעַ֙נְתָּ֙ עַל־יְהֹוָ֣ה אֱלֹהֶ֔יךָ עַל־כֵּ֗ן נִמְלַ֛ט חֵ֥יל מֶלֶךְ־אֲרָ֖ם מִיָּדֶֽךָ׃",
+    "original": "<span data-strong=\"H6256\">וּבָעֵ֣ת</span> <span data-strong=\"H1931\">הַהִ֗יא</span> <span data-strong=\"H935\">בָּ֚א</span> <span data-strong=\"H2607\">חֲנָ֣נִי</span> <span data-strong=\"H7203\">הָרֹאֶ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H609\">אָסָ֖א</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H2050\">אֵלָ֗יו</span> <span data-strong=\"H3509\">בְּהִשָּׁ֨עֶנְךָ֜</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4428\">מֶ֤לֶךְ</span> <span data-strong=\"H758\">אֲרָם֙</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H8172\">נִשְׁעַ֙נְתָּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֔יךָ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֗ן</span> <span data-strong=\"H4422\">נִמְלַ֛ט</span> <span data-strong=\"H2428\">חֵ֥יל</span> <span data-strong=\"H4428\">מֶלֶךְ</span>־<span data-strong=\"H758\">אֲרָ֖ם</span> <span data-strong=\"H3509\">מִיָּדֶֽךָ׃</span>",
     "transliteration": "vva'et hahiy' va' hananiy haro'eh 'el-'asa' melekhe yehvdah vayo'mer 'elayv vehisha'enekha 'al-melekhe 'aram velo' nishe'aneta 'al-yehovah 'eloheykha 'al-khen nimelat heyl melekhe-'aram miyadekha.",
     "translation": "Naquela ocasião, Hanani o vidente veio a Asa, rei de Judá, e lhe disse: ao te apoiares no rei da Síria e não te houveres apoiado no Senhor, teu Deus, por isso escapou o exército do rei da Síria das tuas mãos."
   },
@@ -49,31 +49,31 @@
   },
   {
     "verse": 9,
-    "original": "כִּ֣י יְהֹוָ֗ה עֵינָ֞יו מְשֹׁטְט֤וֹת בְּכׇל־הָאָ֙רֶץ֙ לְ֠הִתְחַזֵּ֠ק עִם־לְבָבָ֥ם שָׁלֵ֛ם אֵלָ֖יו נִסְכַּ֣לְתָּ עַל־זֹ֑את כִּ֣י מֵעַ֔תָּה יֵ֥שׁ עִמְּךָ֖ מִלְחָמֽוֹת׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H2050\">עֵינָ֞יו</span> <span data-strong=\"H7751\">מְשֹׁטְט֤וֹת</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H776\">הָאָ֙רֶץ֙</span> <span data-strong=\"H2388\">לְ֠הִתְחַזֵּ֠ק</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H3963\">לְבָבָ֥ם</span> <span data-strong=\"H8003\">שָׁלֵ֛ם</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H5528\">נִסְכַּ֣לְתָּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2063\">זֹ֑את</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H6258\">מֵעַ֔תָּה</span> <span data-strong=\"H3426\">יֵ֥שׁ</span> <span data-strong=\"H3509\">עִמְּךָ֖</span> <span data-strong=\"H4421\">מִלְחָמֽוֹת׃</span>",
     "transliteration": "khiy yehovah 'eynayv meshotetvot vekhol-ha'arets lehitehazek 'im-levavam shalem 'elayv nisekhaleta 'al-zo't khiy me'atah yesh 'imekha milehamvot.",
     "translation": "Pois os olhos do Senhor percorrem toda a terra para se fortalecer com aqueles de coração íntegro a Ele; por isso, tua falha foi grande nesta questão, pois agora terás guerras contigo."
   },
   {
     "verse": 10,
-    "original": "וַיִּכְעַ֨ס אָסָ֜א אֶל־הָרֹאֶ֗ה וַֽיִּתְּנֵ֙הוּ֙ בֵּ֣ית הַמַּהְפֶּ֔כֶת כִּֽי־בְזַ֥עַף עִמּ֖וֹ עַל־זֹ֑את וַיְרַצֵּ֥ץ אָסָ֛א מִן־הָעָ֖ם בָּעֵ֥ת הַהִֽיא׃",
+    "original": "<span data-strong=\"H3707\">וַיִּכְעַ֨ס</span> <span data-strong=\"H609\">אָסָ֜א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7203\">הָרֹאֶ֗ה</span> <span data-strong=\"H1930\">וַֽיִּתְּנֵ֙הוּ֙</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H4115\">הַמַּהְפֶּ֔כֶת</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2197\">בְזַ֥עַף</span> <span data-strong=\"H2050\">עִמּ֖וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2063\">זֹ֑את</span> <span data-strong=\"H7533\">וַיְרַצֵּ֥ץ</span> <span data-strong=\"H609\">אָסָ֛א</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H6256\">בָּעֵ֥ת</span> <span data-strong=\"H1931\">הַהִֽיא׃</span>",
     "transliteration": "vayikhe'as 'asa' 'el-haro'eh vayitenehv veyt hamahefekhet khiy-veza'af 'imvo 'al-zo't vayeratsets 'asa' min-ha'am va'et hahiy'.",
     "translation": "E Acaz se irou contra o vidente e o colocou na prisão, porque com grande zelo ele havia falado assim; nesse mesmo instante, Acaz tratou de opressões contra o povo.\n\nDetecção de necessidade de correção:\nE Asa se irou contra o vidente e o colocou na prisão, porque com grande zelo ele havia falado assim; nesse mesmo instante, Asa tratou de opressões contra o povo."
   },
   {
     "verse": 11,
-    "original": "וְהִנֵּה֙ דִּבְרֵ֣י אָסָ֔א הָרִאשׁוֹנִ֖ים וְהָאַחֲרוֹנִ֑ים הִנָּ֤ם כְּתוּבִים֙ עַל־סֵ֣פֶר הַמְּלָכִ֔ים לִיהוּדָ֖ה וְיִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H2009\">וְהִנֵּה֙</span> <span data-strong=\"H1697\">דִּבְרֵ֣י</span> <span data-strong=\"H609\">אָסָ֔א</span> <span data-strong=\"H7223\">הָרִאשׁוֹנִ֖ים</span> <span data-strong=\"H314\">וְהָאַחֲרוֹנִ֑ים</span> <span data-strong=\"H3963\">הִנָּ֤ם</span> <span data-strong=\"H3789\">כְּתוּבִים֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֣פֶר</span> <span data-strong=\"H4428\">הַמְּלָכִ֔ים</span> <span data-strong=\"H3063\">לִיהוּדָ֖ה</span> <span data-strong=\"H3478\">וְיִשְׂרָאֵֽל׃</span>",
     "transliteration": "vehineh diverey 'asa' hari'shvoniym veha'aharvoniym hinam khetvviym 'al-sefer hamelakhiym liyhvdah veyisera'el.",
     "translation": ""
   },
   {
     "verse": 12,
-    "original": "וַיֶּחֱלֶ֣א אָסָ֡א בִּשְׁנַת֩ שְׁלוֹשִׁ֨ים וָתֵ֤שַׁע לְמַלְכוּתוֹ֙ בְּרַגְלָ֔יו עַד־לְמַ֖עְלָה חׇלְי֑וֹ וְגַם־בְּחׇלְיוֹ֙ לֹא־דָרַ֣שׁ אֶת־יְהֹוָ֔ה כִּ֖י בָּרֹפְאִֽים׃",
+    "original": "<span data-strong=\"H2456\">וַיֶּחֱלֶ֣א</span> <span data-strong=\"H609\">אָסָ֡א</span> <span data-strong=\"H8141\">בִּשְׁנַת֩</span> <span data-strong=\"H7970\">שְׁלוֹשִׁ֨ים</span> <span data-strong=\"H8672\">וָתֵ֤שַׁע</span> <span data-strong=\"H2050\">לְמַלְכוּתוֹ֙</span> <span data-strong=\"H2050\">בְּרַגְלָ֔יו</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1886\">לְמַ֖עְלָה</span> <span data-strong=\"H2050\">חׇלְי֑וֹ</span> <span data-strong=\"H1571\">וְגַם</span>־<span data-strong=\"H2050\">בְּחׇלְיוֹ֙</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H1875\">דָרַ֣שׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H3588\">כִּ֖י</span> <span data-strong=\"H7495\">בָּרֹפְאִֽים׃</span>",
     "transliteration": "vayehele' 'asa' vishenat shelvoshiym vatesha' lemalekhvtvo veragelayv 'ad-lema'elah holeyvo vegam-veholeyvo lo'-darash 'et-yehovah khiy varofe'iym.",
     "translation": "E Asa se enfermou nos pés no trigésimo nono ano de seu reinado, e sua doença continuou agravando-se; ainda assim, na doença não buscou ao Senhor, mas aos curandeiros."
   },
   {
     "verse": 13,
-    "original": "וַיִּשְׁכַּ֥ב אָסָ֖א עִם־אֲבֹתָ֑יו וַיָּ֕מׇת בִּשְׁנַ֛ת אַרְבָּעִ֥ים וְאַחַ֖ת לְמׇלְכֽוֹ׃",
+    "original": "<span data-strong=\"H7901\">וַיִּשְׁכַּ֥ב</span> <span data-strong=\"H609\">אָסָ֖א</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2050\">אֲבֹתָ֑יו</span> <span data-strong=\"H4191\">וַיָּ֕מׇת</span> <span data-strong=\"H8141\">בִּשְׁנַ֛ת</span> <span data-strong=\"H705\">אַרְבָּעִ֥ים</span> <span data-strong=\"H259\">וְאַחַ֖ת</span> <span data-strong=\"H2050\">לְמׇלְכֽוֹ׃</span>",
     "transliteration": "vayishekhav 'asa' 'im-'avotayv vayamot vishenat 'areva'iym ve'ahat lemolekhvo.",
     "translation": "E Asa repousou com seus antepassados, e ele morreu no quarenta e primeiro ano de seu reinado."
   },

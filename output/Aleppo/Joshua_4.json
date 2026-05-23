@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "וַֽיְהִי֙ כַּאֲשֶׁר־תַּ֣מּוּ כׇל־הַגּ֔וֹי לַעֲב֖וֹר אֶת־הַיַּרְדֵּ֑ן&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H834\">כַּאֲשֶׁר</span>־<span data-strong=\"H8552\">תַּ֣מּוּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H1471\">הַגּ֔וֹי</span> <span data-strong=\"H5674\">לַעֲב֖וֹר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3383\">הַיַּרְדֵּ֑ן&nbsp;<span</span> <span data-strong=\"H559\">class=\"mam-spi-pe\">{פ}</span><br>וַיֹּ֣אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֖עַ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy kha'asher-tamv khol-hagvoy la'avvor 'et-hayareden&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>vayo'mer yehovah 'el-yehvoshu'a le'mor.",
     "translation": "E sucedeu que, quando todo o povo acabou de passar o Jordão, o Senhor disse a Josué, dizendo:"
   },
   {
     "verse": 2,
-    "original": "קְח֤וּ לָכֶם֙ מִן־הָעָ֔ם שְׁנֵ֥ים עָשָׂ֖ר אֲנָשִׁ֑ים אִישׁ־אֶחָ֥ד אִישׁ־אֶחָ֖ד מִשָּֽׁבֶט׃",
+    "original": "<span data-strong=\"H3947\">קְח֤וּ</span> <span data-strong=\"H3641\">לָכֶם֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H8147\">שְׁנֵ֥ים</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H376\">אֲנָשִׁ֑ים</span> <span data-strong=\"H376\">אִישׁ</span>־<span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H376\">אִישׁ</span>־<span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H7626\">מִשָּֽׁבֶט׃</span>",
     "transliteration": "kehv lakhem min-ha'am sheneym 'asar 'anashiym 'iysh-'ehad 'iysh-'ehad mishavet.",
     "translation": "Tomai de entre o povo doze homens, um por cada tribo."
   },
@@ -19,55 +19,55 @@
   },
   {
     "verse": 4,
-    "original": "וַיִּקְרָ֣א יְהוֹשֻׁ֗עַ אֶל־שְׁנֵ֤ים הֶעָשָׂר֙ אִ֔ישׁ אֲשֶׁ֥ר הֵכִ֖ין מִבְּנֵ֣י יִשְׂרָאֵ֑ל אִישׁ־אֶחָ֥ד אִישׁ־אֶחָ֖ד מִשָּֽׁבֶט׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֣א</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֗עַ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8147\">שְׁנֵ֤ים</span> <span data-strong=\"H6240\">הֶעָשָׂר֙</span> <span data-strong=\"H376\">אִ֔ישׁ</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3559\">הֵכִ֖ין</span> <span data-strong=\"H1121\">מִבְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H376\">אִישׁ</span>־<span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H376\">אִישׁ</span>־<span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H7626\">מִשָּֽׁבֶט׃</span>",
     "transliteration": "vayikera' yehvoshu'a 'el-sheneym he'asar 'iysh 'asher hekhiyn miveney yisera'el 'iysh-'ehad 'iysh-'ehad mishavet.",
     "translation": "E Josué chamou os doze homens, dos quais um de cada tribo de Israel foi designado, um por um, de cada tribo."
   },
   {
     "verse": 5,
-    "original": "וַיֹּ֤אמֶר לָהֶם֙ יְהוֹשֻׁ֔עַ עִ֠בְר֠וּ לִפְנֵ֨י אֲר֧וֹן יְהֹוָ֛ה אֱלֹהֵיכֶ֖ם אֶל־תּ֣וֹךְ הַיַּרְדֵּ֑ן וְהָרִ֨ימוּ לָכֶ֜ם אִ֣ישׁ אֶ֤בֶן אַחַת֙ עַל־שִׁכְמ֔וֹ לְמִסְפַּ֖ר שִׁבְטֵ֥י בְנֵֽי־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֤אמֶר</span> <span data-strong=\"H3963\">לָהֶם֙</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֔עַ</span> <span data-strong=\"H5674\">עִ֠בְר֠וּ</span> <span data-strong=\"H6440\">לִפְנֵ֨י</span> <span data-strong=\"H727\">אֲר֧וֹן</span> <span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H8432\">תּ֣וֹךְ</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֑ן</span> <span data-strong=\"H7311\">וְהָרִ֨ימוּ</span> <span data-strong=\"H3641\">לָכֶ֜ם</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H68\">אֶ֤בֶן</span> <span data-strong=\"H259\">אַחַת֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">שִׁכְמ֔וֹ</span> <span data-strong=\"H4557\">לְמִסְפַּ֖ר</span> <span data-strong=\"H7626\">שִׁבְטֵ֥י</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayo'mer lahem yehvoshu'a 'iverv lifeney 'arvon yehovah 'eloheykhem 'el-tvokhe hayareden vehariymv lakhem 'iysh 'even 'ahat 'al-shikhemvo lemisefar shivetey veney-yisera'el.",
     "translation": "E disse-lhes Josué: Passem à frente do arco do Senhor, vosso Deus, para o meio do Jordão; e levante cada um de vós uma pedra sobre o ombro, conforme o número das tribos dos filhos de Israel."
   },
   {
     "verse": 6,
-    "original": "לְמַ֗עַן תִּֽהְיֶ֛ה זֹ֥את א֖וֹת בְּקִרְבְּכֶ֑ם כִּֽי־יִשְׁאָל֨וּן בְּנֵיכֶ֤ם מָחָר֙ לֵאמֹ֔ר מָ֛ה הָֽאֲבָנִ֥ים הָאֵ֖לֶּה לָכֶֽם׃",
+    "original": "<span data-strong=\"H4616\">לְמַ֗עַן</span> <span data-strong=\"H1961\">תִּֽהְיֶ֛ה</span> <span data-strong=\"H2063\">זֹ֥את</span> <span data-strong=\"H226\">א֖וֹת</span> <span data-strong=\"H3641\">בְּקִרְבְּכֶ֑ם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H4993\">יִשְׁאָל֨וּן</span> <span data-strong=\"H3641\">בְּנֵיכֶ֤ם</span> <span data-strong=\"H4279\">מָחָר֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H4100\">מָ֛ה</span> <span data-strong=\"H68\">הָֽאֲבָנִ֥ים</span> <span data-strong=\"H428\">הָאֵ֖לֶּה</span> <span data-strong=\"H3641\">לָכֶֽם׃</span>",
     "transliteration": "lema'an tiheyeh zo't 'vot vekirevekhem khiy-yishe'alvn veneykhem mahar le'mor mah ha'avaniym ha'eleh lakhem.",
     "translation": "Para que isto seja sinal entre vós, quando vossos filhos vos perguntarem amanhã dizendo: Que são estas pedras para vós?"
   },
   {
     "verse": 7,
-    "original": "וַאֲמַרְתֶּ֣ם לָהֶ֗ם אֲשֶׁ֨ר נִכְרְת֜וּ מֵימֵ֤י הַיַּרְדֵּן֙ מִפְּנֵי֙ אֲר֣וֹן בְּרִית־יְהֹוָ֔ה בְּעׇבְרוֹ֙ בַּיַּרְדֵּ֔ן נִכְרְת֖וּ מֵ֣י הַיַּרְדֵּ֑ן וְ֠הָי֠וּ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּר֛וֹן לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־עוֹלָֽם׃",
+    "original": "<span data-strong=\"H559\">וַאֲמַרְתֶּ֣ם</span> <span data-strong=\"H3963\">לָהֶ֗ם</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H3772\">נִכְרְת֜וּ</span> <span data-strong=\"H4325\">מֵימֵ֤י</span> <span data-strong=\"H3383\">הַיַּרְדֵּן֙</span> <span data-strong=\"H6440\">מִפְּנֵי֙</span> <span data-strong=\"H727\">אֲר֣וֹן</span> <span data-strong=\"H1285\">בְּרִית</span>־<span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H2050\">בְּעׇבְרוֹ֙</span> <span data-strong=\"H3383\">בַּיַּרְדֵּ֔ן</span> <span data-strong=\"H3772\">נִכְרְת֖וּ</span> <span data-strong=\"H4325\">מֵ֣י</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֑ן</span> <span data-strong=\"H1961\">וְ֠הָי֠וּ</span> <span data-strong=\"H68\">הָאֲבָנִ֨ים</span> <span data-strong=\"H428\">הָאֵ֧לֶּה</span> <span data-strong=\"H2146\">לְזִכָּר֛וֹן</span> <span data-strong=\"H1121\">לִבְנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5769\">עוֹלָֽם׃</span>",
     "transliteration": "va'amaretem lahem 'asher nikheretv meymey hayareden mifeney 'arvon veriyt-yehovah ve'overvo vayareden nikheretv mey hayareden vehayv ha'avaniym ha'eleh lezikharvon liveney yisera'el 'ad-'volam.",
     "translation": "E direis a eles que as águas do Jordão foram cortadas diante do Arca da Aliança do Senhor, quando ele atravessou o Jordão; e as águas do Jordão foram cortadas, permanecendo estas pedras como memorial para os filhos de Israel para sempre."
   },
   {
     "verse": 8,
-    "original": "וַיַּעֲשׂוּ־כֵ֣ן בְּנֵֽי־יִשְׂרָאֵל֮ כַּאֲשֶׁ֣ר צִוָּ֣ה יְהוֹשֻׁ֒עַ֒ וַיִּשְׂא֡וּ שְׁתֵּֽי־עֶשְׂרֵ֨ה אֲבָנִ֜ים מִתּ֣וֹךְ הַיַּרְדֵּ֗ן כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהֹוָה֙ אֶל־יְהוֹשֻׁ֔עַ לְמִסְפַּ֖ר שִׁבְטֵ֣י בְנֵֽי־יִשְׂרָאֵ֑ל וַיַּעֲבִר֤וּם עִמָּם֙ אֶל־הַמָּל֔וֹן וַיַּנִּח֖וּם שָֽׁם׃",
+    "original": "<span data-strong=\"H6213\">וַיַּעֲשׂוּ</span>־<span data-strong=\"H3651\">כֵ֣ן</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֮</span> <span data-strong=\"H834\">כַּאֲשֶׁ֣ר</span> <span data-strong=\"H6680\">צִוָּ֣ה</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֒עַ֒</span> <span data-strong=\"H5375\">וַיִּשְׂא֡וּ</span> <span data-strong=\"H8147\">שְׁתֵּֽי</span>־<span data-strong=\"H6240\">עֶשְׂרֵ֨ה</span> <span data-strong=\"H68\">אֲבָנִ֜ים</span> <span data-strong=\"H8432\">מִתּ֣וֹךְ</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֗ן</span> <span data-strong=\"H834\">כַּאֲשֶׁ֨ר</span> <span data-strong=\"H1696\">דִּבֶּ֤ר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֔עַ</span> <span data-strong=\"H4557\">לְמִסְפַּ֖ר</span> <span data-strong=\"H7626\">שִׁבְטֵ֣י</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H3963\">וַיַּעֲבִר֤וּם</span> <span data-strong=\"H3963\">עִמָּם֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4411\">הַמָּל֔וֹן</span> <span data-strong=\"H3963\">וַיַּנִּח֖וּם</span> <span data-strong=\"H8033\">שָֽׁם׃</span>",
     "transliteration": "vaya'asv-khen veney-yisera'el kha'asher tsivah yehvoshu'a vayise'v shetey-'esereh 'avaniym mitvokhe hayareden kha'asher diver yehovah 'el-yehvoshu'a lemisefar shivetey veney-yisera'el vaya'avirvm 'imam 'el-hamalvon vayanihvm sham.",
     "translation": "E os filhos de Israel fizeram conforme ordenara Josué, e levantaram do meio do Jordão doze pedras, conforme o Senhor havia dito a Josué, conforme o número das tribos dos filhos de Israel; as trouxeram consigo para o acampamento, e as depositaram ali."
   },
   {
     "verse": 9,
-    "original": "וּשְׁתֵּ֧ים עֶשְׂרֵ֣ה אֲבָנִ֗ים הֵקִ֣ים יְהוֹשֻׁ֘עַ֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ תַּ֗חַת מַצַּב֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הַבְּרִ֑ית וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+    "original": "<span data-strong=\"H8147\">וּשְׁתֵּ֧ים</span> <span data-strong=\"H6240\">עֶשְׂרֵ֣ה</span> <span data-strong=\"H68\">אֲבָנִ֗ים</span> <span data-strong=\"H6965\">הֵקִ֣ים</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֘עַ֮</span> <span data-strong=\"H8432\">בְּת֣וֹךְ</span> <span data-strong=\"H3383\">הַיַּרְדֵּן֒</span> <span data-strong=\"H8478\">תַּ֗חַת</span> <span data-strong=\"H4673\">מַצַּב֙</span> <span data-strong=\"H7272\">רַגְלֵ֣י</span> <span data-strong=\"H3548\">הַכֹּהֲנִ֔ים</span> <span data-strong=\"H5375\">נֹשְׂאֵ֖י</span> <span data-strong=\"H727\">אֲר֣וֹן</span> <span data-strong=\"H1285\">הַבְּרִ֑ית</span> <span data-strong=\"H1961\">וַיִּ֣הְיוּ</span> <span data-strong=\"H8033\">שָׁ֔ם</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H3117\">הַיּ֥וֹם</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "vsheteym 'esereh 'avaniym hekiym yehvoshu'a vetvokhe hayareden tahat matsav rageley hakhohaniym nose'ey 'arvon haveriyt vayiheyv sham 'ad hayvom hazeh.",
     "translation": "Ergueram doze pedras Josué no meio do Jordão, debaixo das plantas dos pés dos sacerdotes que carregavam o Arca da Aliança, e permaneceram ali até este dia.\n\n**Revisão:**  \nErgeu duas e dez pedras Josué no meio do Jordão, sob os pés dos sacerdotes que sustentavam a Arca da Aliança, e ficaram lá até o presente dia."
   },
   {
     "verse": 10,
-    "original": "וְהַכֹּהֲנִ֞ים נֹשְׂאֵ֣י הָֽאָר֗וֹן עֹמְדִים֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ עַ֣ד תֹּ֣ם כׇּֽל־הַ֠דָּבָ֠ר אֲשֶׁר־צִוָּ֨ה יְהֹוָ֤ה אֶת־יְהוֹשֻׁ֙עַ֙ לְדַבֵּ֣ר אֶל־הָעָ֔ם כְּכֹ֛ל אֲשֶׁר־צִוָּ֥ה מֹשֶׁ֖ה אֶת־יְהוֹשֻׁ֑עַ וַיְמַהֲר֥וּ הָעָ֖ם וַיַּעֲבֹֽרוּ׃",
+    "original": "<span data-strong=\"H3548\">וְהַכֹּהֲנִ֞ים</span> <span data-strong=\"H5375\">נֹשְׂאֵ֣י</span> <span data-strong=\"H727\">הָֽאָר֗וֹן</span> <span data-strong=\"H5975\">עֹמְדִים֮</span> <span data-strong=\"H8432\">בְּת֣וֹךְ</span> <span data-strong=\"H3383\">הַיַּרְדֵּן֒</span> <span data-strong=\"H5704\">עַ֣ד</span> <span data-strong=\"H8552\">תֹּ֣ם</span> <span data-strong=\"H3605\">כׇּֽל</span>־<span data-strong=\"H1697\">הַ֠דָּבָ֠ר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6680\">צִוָּ֨ה</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֙עַ֙</span> <span data-strong=\"H1696\">לְדַבֵּ֣ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H3605\">כְּכֹ֛ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H4872\">מֹשֶׁ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֑עַ</span> <span data-strong=\"H4116\">וַיְמַהֲר֥וּ</span> <span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H5674\">וַיַּעֲבֹֽרוּ׃</span>",
     "transliteration": "vehakhohaniym nose'ey ha'arvon 'omediym vetvokhe hayareden 'ad tom khol-hadavar 'asher-tsivah yehovah 'et-yehvoshu'a ledaver 'el-ha'am khekhol 'asher-tsivah mosheh 'et-yehvoshu'a vayemaharv ha'am vaya'avorv.",
     "translation": "E os sacerdotes que carregam a arca estavam de pé no meio do Jordão, até o fim de toda a palavra que Jeová ordenou a Josué dirigir ao povo, conforme tudo quanto Moisés dera ordem a Josué. O povo logo se apressou e passou."
   },
   {
     "verse": 11,
-    "original": "וַיְהִ֛י כַּֽאֲשֶׁר־תַּ֥ם כׇּל־הָעָ֖ם לַעֲב֑וֹר וַיַּעֲבֹ֧ר אֲרוֹן־יְהֹוָ֛ה וְהַכֹּהֲנִ֖ים לִפְנֵ֥י הָעָֽם׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֛י</span> <span data-strong=\"H834\">כַּֽאֲשֶׁר</span>־<span data-strong=\"H8552\">תַּ֥ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H5674\">לַעֲב֑וֹר</span> <span data-strong=\"H5674\">וַיַּעֲבֹ֧ר</span> <span data-strong=\"H727\">אֲרוֹן</span>־<span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H3548\">וְהַכֹּהֲנִ֖ים</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H5971\">הָעָֽם׃</span>",
     "transliteration": "vayehiy kha'asher-tam khol-ha'am la'avvor vaya'avor 'arvon-yehovah vehakhohaniym lifeney ha'am.",
     "translation": "E foi quando todo o povo terminou de passar, que a arca do Senhor e os sacerdotes passaram adiante do povo."
   },
   {
     "verse": 12,
-    "original": "וַ֠יַּעַבְר֠וּ בְּנֵֽי־רְאוּבֵ֨ן וּבְנֵי־גָ֜ד וַחֲצִ֨י שֵׁ֤בֶט הַֽמְנַשֶּׁה֙ חֲמֻשִׁ֔ים לִפְנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ם מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H5674\">וַ֠יַּעַבְר֠וּ</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H7205\">רְאוּבֵ֨ן</span> <span data-strong=\"H1121\">וּבְנֵי</span>־<span data-strong=\"H1410\">גָ֜ד</span> <span data-strong=\"H2677\">וַחֲצִ֨י</span> <span data-strong=\"H7626\">שֵׁ֤בֶט</span> <span data-strong=\"H4519\">הַֽמְנַשֶּׁה֙</span> <span data-strong=\"H2571\">חֲמֻשִׁ֔ים</span> <span data-strong=\"H6440\">לִפְנֵ֖י</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H1696\">דִּבֶּ֥ר</span> <span data-strong=\"H3963\">אֲלֵיהֶ֖ם</span> <span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vaya'averv veney-re'vven vveney-gad vahatsiy shevet hamenasheh hamushiym lifeney veney yisera'el kha'asher diver 'aleyhem mosheh.",
     "translation": "E passaram os filhos de Rúben e os filhos de Gade, e a metade da tribo de Manassés, equipados para a guerra, diante dos filhos de Israel, conforme Moisés lhes havia ordenado."
   },
@@ -85,19 +85,19 @@
   },
   {
     "verse": 15,
-    "original": "וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3091\">יְהוֹשֻׁ֖עַ</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayo'mer yehovah 'el-yehvoshu'a le'mor.",
     "translation": "E disse o Senhor a Josué, dizendo:"
   },
   {
     "verse": 16,
-    "original": "צַוֵּה֙ אֶת־הַכֹּ֣הֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הָעֵד֑וּת וְיַעֲל֖וּ מִן־הַיַּרְדֵּֽן׃",
+    "original": "<span data-strong=\"H6680\">צַוֵּה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3548\">הַכֹּ֣הֲנִ֔ים</span> <span data-strong=\"H5375\">נֹשְׂאֵ֖י</span> <span data-strong=\"H727\">אֲר֣וֹן</span> <span data-strong=\"H5715\">הָעֵד֑וּת</span> <span data-strong=\"H5927\">וְיַעֲל֖וּ</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3383\">הַיַּרְדֵּֽן׃</span>",
     "transliteration": "tsaveh 'et-hakhohaniym nose'ey 'arvon ha'edvt veya'alv min-hayareden.",
     "translation": "Ordena aos sacerdotes, portadores da arca do testemunho, que subam do Jordão."
   },
   {
     "verse": 17,
-    "original": "וַיְצַ֣ו יְהוֹשֻׁ֔עַ אֶת־הַכֹּהֲנִ֖ים לֵאמֹ֑ר עֲל֖וּ מִן־הַיַּרְדֵּֽן׃",
+    "original": "<span data-strong=\"H6680\">וַיְצַ֣ו</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֔עַ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3548\">הַכֹּהֲנִ֖ים</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H5927\">עֲל֖וּ</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3383\">הַיַּרְדֵּֽן׃</span>",
     "transliteration": "vayetsav yehvoshu'a 'et-hakhohaniym le'mor 'alv min-hayareden.",
     "translation": "E Josué ordenou aos sacerdotes: Subam do Jordão."
   },
@@ -109,31 +109,31 @@
   },
   {
     "verse": 19,
-    "original": "וְהָעָ֗ם עָלוּ֙ מִן־הַיַּרְדֵּ֔ן בֶּעָשׂ֖וֹר לַחֹ֣דֶשׁ הָרִאשׁ֑וֹן וַֽיַּחֲנוּ֙ בַּגִּלְגָּ֔ל בִּקְצֵ֖ה מִזְרַ֥ח יְרִיחֽוֹ׃",
+    "original": "<span data-strong=\"H5971\">וְהָעָ֗ם</span> <span data-strong=\"H5927\">עָלוּ֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3383\">הַיַּרְדֵּ֔ן</span> <span data-strong=\"H6218\">בֶּעָשׂ֖וֹר</span> <span data-strong=\"H2320\">לַחֹ֣דֶשׁ</span> <span data-strong=\"H7223\">הָרִאשׁ֑וֹן</span> <span data-strong=\"H2583\">וַֽיַּחֲנוּ֙</span> <span data-strong=\"H1537\">בַּגִּלְגָּ֔ל</span> <span data-strong=\"H7097\">בִּקְצֵ֖ה</span> <span data-strong=\"H4217\">מִזְרַ֥ח</span> <span data-strong=\"H3405\">יְרִיחֽוֹ׃</span>",
     "transliteration": "veha'am 'alv min-hayareden ve'asvor lahodesh hari'shvon vayahanv vagilegal viketseh mizerah yeriyhvo.",
     "translation": "E o povo subiu do Jordão no décimo dia do primeiro mês, e acamparam em Gilgal, ao leste de Jericó."
   },
   {
     "verse": 20,
-    "original": "וְאֵת֩ שְׁתֵּ֨ים עֶשְׂרֵ֤ה הָֽאֲבָנִים֙ הָאֵ֔לֶּה אֲשֶׁ֥ר לָקְח֖וּ מִן־הַיַּרְדֵּ֑ן הֵקִ֥ים יְהוֹשֻׁ֖עַ בַּגִּלְגָּֽל׃",
+    "original": "<span data-strong=\"H853\">וְאֵת֩</span> <span data-strong=\"H8147\">שְׁתֵּ֨ים</span> <span data-strong=\"H6240\">עֶשְׂרֵ֤ה</span> <span data-strong=\"H68\">הָֽאֲבָנִים֙</span> <span data-strong=\"H428\">הָאֵ֔לֶּה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3947\">לָקְח֖וּ</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H3383\">הַיַּרְדֵּ֑ן</span> <span data-strong=\"H6965\">הֵקִ֥ים</span> <span data-strong=\"H3091\">יְהוֹשֻׁ֖עַ</span> <span data-strong=\"H1537\">בַּגִּלְגָּֽל׃</span>",
     "transliteration": "ve'et sheteym 'esereh ha'avaniym ha'eleh 'asher lakehv min-hayareden hekiym yehvoshu'a vagilegal.",
     "translation": "E as doze pedras que tomaram do rio Jordão, Josué as erigiu em Gilgal."
   },
   {
     "verse": 21,
-    "original": "וַיֹּ֛אמֶר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר אֲשֶׁר֩ יִשְׁאָל֨וּן בְּנֵיכֶ֤ם מָחָר֙ אֶת־אֲבוֹתָ֣ם לֵאמֹ֔ר מָ֖ה הָאֲבָנִ֥ים הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֛אמֶר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H834\">אֲשֶׁר֩</span> <span data-strong=\"H4993\">יִשְׁאָל֨וּן</span> <span data-strong=\"H3641\">בְּנֵיכֶ֤ם</span> <span data-strong=\"H4279\">מָחָר֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">אֲבוֹתָ֣ם</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H4100\">מָ֖ה</span> <span data-strong=\"H68\">הָאֲבָנִ֥ים</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "vayo'mer 'el-veney yisera'el le'mor 'asher yishe'alvn veneykhem mahar 'et-'avvotam le'mor mah ha'avaniym ha'eleh.",
     "translation": "E disse aos filhos de Israel: Certamente vossos filhos perguntarão a vós, seus pais, no dia de amanhã: Que são estas pedras?"
   },
   {
     "verse": 22,
-    "original": "וְהוֹדַעְתֶּ֖ם אֶת־בְּנֵיכֶ֣ם לֵאמֹ֑ר בַּיַּבָּשָׁה֙ עָבַ֣ר יִשְׂרָאֵ֔ל אֶת־הַיַּרְדֵּ֖ן הַזֶּֽה׃",
+    "original": "<span data-strong=\"H3045\">וְהוֹדַעְתֶּ֖ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3641\">בְּנֵיכֶ֣ם</span> <span data-strong=\"H559\">לֵאמֹ֑ר</span> <span data-strong=\"H3004\">בַּיַּבָּשָׁה֙</span> <span data-strong=\"H5674\">עָבַ֣ר</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3383\">הַיַּרְדֵּ֖ן</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "vehvoda'etem 'et-veneykhem le'mor vayavashah 'avar yisera'el 'et-hayareden hazeh.",
     "translation": "E anunciareis aos vossos filhos, dizendo: Por terra seca passou Israel este Jordão."
   },
   {
     "verse": 23,
-    "original": "אֲשֶׁר־הוֹבִישׁ֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֜ם אֶת־מֵ֧י הַיַּרְדֵּ֛ן מִפְּנֵיכֶ֖ם עַֽד־עׇבְרְכֶ֑ם כַּאֲשֶׁ֣ר עָשָׂה֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֧ם לְיַם־ס֛וּף אֲשֶׁר־הוֹבִ֥ישׁ מִפָּנֵ֖ינוּ עַד־עׇבְרֵֽנוּ׃",
+    "original": "<span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3001\">הוֹבִישׁ֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶ֜ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4325\">מֵ֧י</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֛ן</span> <span data-strong=\"H3641\">מִפְּנֵיכֶ֖ם</span> <span data-strong=\"H5704\">עַֽד</span>־<span data-strong=\"H3641\">עׇבְרְכֶ֑ם</span> <span data-strong=\"H834\">כַּאֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂה֩</span> <span data-strong=\"H3068\">יְהֹוָ֨ה</span> <span data-strong=\"H3641\">אֱלֹהֵיכֶ֧ם</span> <span data-strong=\"H3220\">לְיַם</span>־<span data-strong=\"H5488\">ס֛וּף</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H3001\">הוֹבִ֥ישׁ</span> <span data-strong=\"H5105\">מִפָּנֵ֖ינוּ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5105\">עׇבְרֵֽנוּ׃</span>",
     "transliteration": "'asher-hvoviysh yehovah 'eloheykhem 'et-mey hayareden mifeneykhem 'ad-'overekhem kha'asher 'asah yehovah 'eloheykhem leyam-svf 'asher-hvoviysh mifaneynv 'ad-'overenv.",
     "translation": "Que o Senhor, vosso Deus, desfez as águas do Jordão diante de vós até passardes, como o Senhor, vosso Deus, fez com o Mar Vermelho que desfez diante de nós até que o atravessássemos."
   },

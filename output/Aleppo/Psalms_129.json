@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת רַ֭בַּת צְרָר֣וּנִי מִנְּעוּרַ֑י יֹאמַר־נָ֝֗א יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H7892\">שִׁ֗יר</span> <span data-strong=\"H4609\">הַֽמַּ֫עֲל֥וֹת</span> <span data-strong=\"H7227\">רַ֭בַּת</span> <span data-strong=\"H5204\">צְרָר֣וּנִי</span> <span data-strong=\"H2967\">מִנְּעוּרַ֑י</span> <span data-strong=\"H559\">יֹאמַר</span>־<span data-strong=\"H4994\">נָ֝֗א</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "shiyr hama'alvot ravat tserarvniy mine'vray yo'mar-na' yisera'el.",
     "translation": "Cântico dos degraus: Muitos me assaltaram desde a minha juventude; diga-se agora, ó Israel:"
   },
   {
     "verse": 2,
-    "original": "רַ֭בַּת צְרָר֣וּנִי מִנְּעוּרָ֑י גַּ֝֗ם לֹא־יָ֥כְלוּ לִֽי׃",
+    "original": "<span data-strong=\"H7227\">רַ֭בַּת</span> <span data-strong=\"H5204\">צְרָר֣וּנִי</span> <span data-strong=\"H2967\">מִנְּעוּרָ֑י</span> <span data-strong=\"H1571\">גַּ֝֗ם</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3201\">יָ֥כְלוּ</span> <span data-strong=\"H2967\">לִֽי׃</span>",
     "transliteration": "ravat tserarvniy mine'vray gam lo'-yakhelv liy.",
     "translation": "Grande foi a angústia que me atingiu desde minha juventude, sim, quase me consumiram."
   },
@@ -19,25 +19,25 @@
   },
   {
     "verse": 4,
-    "original": "יְהֹוָ֥ה צַדִּ֑יק קִ֝צֵּ֗ץ עֲב֣וֹת רְשָׁעִֽים׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H6662\">צַדִּ֑יק</span> <span data-strong=\"H7112\">קִ֝צֵּ֗ץ</span> <span data-strong=\"H5688\">עֲב֣וֹת</span> <span data-strong=\"H7563\">רְשָׁעִֽים׃</span>",
     "transliteration": "yehovah tsadiyk kitsets 'avvot resha'iym.",
     "translation": "Javé é justo, corta as cordas dos ímpios."
   },
   {
     "verse": 5,
-    "original": "יֵ֭בֹשׁוּ וְיִסֹּ֣גוּ אָח֑וֹר כֹּ֝֗ל שֹׂנְאֵ֥י צִיּֽוֹן׃",
+    "original": "<span data-strong=\"H954\">יֵ֭בֹשׁוּ</span> <span data-strong=\"H5472\">וְיִסֹּ֣גוּ</span> <span data-strong=\"H268\">אָח֑וֹר</span> <span data-strong=\"H3605\">כֹּ֝֗ל</span> <span data-strong=\"H8130\">שֹׂנְאֵ֥י</span> <span data-strong=\"H6726\">צִיּֽוֹן׃</span>",
     "transliteration": "yevoshv veyisogv 'ahvor khol sone'ey tsiyvon.",
     "translation": "Envergonhem-se e recuem para trás, todos os inimigos de Sião."
   },
   {
     "verse": 6,
-    "original": "יִ֭הְיוּ כַּחֲצִ֣יר גַּגּ֑וֹת שֶׁקַּדְמַ֖ת שָׁלַ֣ף יָבֵֽשׁ׃",
+    "original": "<span data-strong=\"H1961\">יִ֭הְיוּ</span> <span data-strong=\"H2682\">כַּחֲצִ֣יר</span> <span data-strong=\"H1406\">גַּגּ֑וֹת</span> <span data-strong=\"H6927\">שֶׁקַּדְמַ֖ת</span> <span data-strong=\"H8025\">שָׁלַ֣ף</span> <span data-strong=\"H3001\">יָבֵֽשׁ׃</span>",
     "transliteration": "yiheyv khahatsiyr gagvot shekademat shalaf yavesh.",
     "translation": "Sejam como a erva dos telhados, que murcha antes do tempo."
   },
   {
     "verse": 7,
-    "original": "שֶׁלֹּ֤א מִלֵּ֖א כַפּ֥וֹ קוֹצֵ֗ר וְחִצְנ֥וֹ מְעַמֵּֽר׃",
+    "original": "<span data-strong=\"H3808\">שֶׁלֹּ֤א</span> <span data-strong=\"H4390\">מִלֵּ֖א</span> <span data-strong=\"H2050\">כַפּ֥וֹ</span> <span data-strong=\"H7114\">קוֹצֵ֗ר</span> <span data-strong=\"H2050\">וְחִצְנ֥וֹ</span> <span data-strong=\"H6014\">מְעַמֵּֽר׃</span>",
     "transliteration": "shelo' mile' khafvo kvotser vehitsenvo me'amer.",
     "translation": "Não enche a sua mão o ceifeiro e o seu feixe não amontoa."
   },

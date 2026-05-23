@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וִֽישַׁלְּחוּ֙ מִן־הַֽמַּחֲנֶ֔ה כׇּל־צָר֖וּעַ וְכׇל־זָ֑ב וְכֹ֖ל טָמֵ֥א לָנָֽפֶשׁ׃",
+    "original": "<span data-strong=\"H6680\">צַ֚ו</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H7971\">וִֽישַׁלְּחוּ֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H4264\">הַֽמַּחֲנֶ֔ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6879\">צָר֖וּעַ</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H2100\">זָ֑ב</span> <span data-strong=\"H3605\">וְכֹ֖ל</span> <span data-strong=\"H2931\">טָמֵ֥א</span> <span data-strong=\"H5315\">לָנָֽפֶשׁ׃</span>",
     "transliteration": "tsav 'et-veney yisera'el viyshalehv min-hamahaneh khol-tsarv'a vekhol-zav vekhol tame' lanafesh.",
     "translation": "Ordena aos filhos de Israel que mandem fora do acampamento todo aquele que tem lepra, todo aquele que tem um fluxo e qualquer impuro pela alma."
   },
   {
     "verse": 3,
-    "original": "מִזָּכָ֤ר עַד־נְקֵבָה֙ תְּשַׁלֵּ֔חוּ אֶל־מִח֥וּץ לַֽמַּחֲנֶ֖ה תְּשַׁלְּח֑וּם וְלֹ֤א יְטַמְּאוּ֙ אֶת־מַ֣חֲנֵיהֶ֔ם אֲשֶׁ֥ר אֲנִ֖י שֹׁכֵ֥ן בְּתוֹכָֽם׃",
+    "original": "<span data-strong=\"H2145\">מִזָּכָ֤ר</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5347\">נְקֵבָה֙</span> <span data-strong=\"H7971\">תְּשַׁלֵּ֔חוּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֥וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶ֖ה</span> <span data-strong=\"H3963\">תְּשַׁלְּח֑וּם</span> <span data-strong=\"H3808\">וְלֹ֤א</span> <span data-strong=\"H2930\">יְטַמְּאוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">מַ֣חֲנֵיהֶ֔ם</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H589\">אֲנִ֖י</span> <span data-strong=\"H7931\">שֹׁכֵ֥ן</span> <span data-strong=\"H3963\">בְּתוֹכָֽם׃</span>",
     "transliteration": "mizakhar 'ad-nekevah teshalehv 'el-mihvts lamahaneh teshalehvm velo' yetame'v 'et-mahaneyhem 'asher 'aniy shokhen vetvokham.",
     "translation": "Do macho à fêmea, lanças fora do arraial; não os deixes contaminar seus acampamentos, onde Eu habito no meio deles."
   },
@@ -25,31 +25,31 @@
   },
   {
     "verse": 5,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 6,
-    "original": "דַּבֵּר֮ אֶל־בְּנֵ֣י יִשְׂרָאֵל֒ אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכׇּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהֹוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּר֮</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֒</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H176\">אֽוֹ</span>־<span data-strong=\"H802\">אִשָּׁ֗ה</span> <span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H6213\">יַעֲשׂוּ֙</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H2403\">חַטֹּ֣את</span> <span data-strong=\"H120\">הָֽאָדָ֔ם</span> <span data-strong=\"H4603\">לִמְעֹ֥ל</span> <span data-strong=\"H4604\">מַ֖עַל</span> <span data-strong=\"H3068\">בַּיהֹוָ֑ה</span> <span data-strong=\"H816\">וְאָֽשְׁמָ֖ה</span> <span data-strong=\"H5315\">הַנֶּ֥פֶשׁ</span> <span data-strong=\"H1931\">הַהִֽוא׃</span>",
     "transliteration": "daver 'el-veney yisera'el 'iysh 'vo-'ishah khiy ya'asv mikhol-hato't ha'adam lime'ol ma'al vayhovah ve'ashemah hanefesh hahiv'.",
     "translation": "Fala aos filhos de Israel: se qualquer homem ou mulher pecar cometendo algum dos pecados do ser humano, ofendendo ao Senhor, e aquele ser se tornar culpado."
   },
   {
     "verse": 7,
-    "original": "וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒ וְהֵשִׁ֤יב אֶת־אֲשָׁמוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִישִׁת֖וֹ יֹסֵ֣ף עָלָ֑יו וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֽוֹ׃",
+    "original": "<span data-strong=\"H3034\">וְהִתְוַדּ֗וּ</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H3963\">חַטָּאתָם֮</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשׂוּ֒</span> <span data-strong=\"H7725\">וְהֵשִׁ֤יב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אֲשָׁמוֹ֙</span> <span data-strong=\"H2050\">בְּרֹאשׁ֔וֹ</span> <span data-strong=\"H2050\">וַחֲמִישִׁת֖וֹ</span> <span data-strong=\"H3254\">יֹסֵ֣ף</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H5414\">וְנָתַ֕ן</span> <span data-strong=\"H834\">לַאֲשֶׁ֖ר</span> <span data-strong=\"H816\">אָשַׁ֥ם</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vehitevadv 'et-hata'tam 'asher 'asv veheshiyv 'et-'ashamvo vero'shvo vahamiyshitvo yosef 'alayv venatan la'asher 'asham lvo.",
     "translation": "E confessem a sua culpa que fizeram, e restituam o principal sobre ele, acrescentando-lhe um quinto; e darão ao ofendido."
   },
   {
     "verse": 8,
-    "original": "וְאִם־אֵ֨ין לָאִ֜ישׁ גֹּאֵ֗ל לְהָשִׁ֤יב הָאָשָׁם֙ אֵלָ֔יו הָאָשָׁ֛ם הַמּוּשָׁ֥ב לַיהֹוָ֖ה לַכֹּהֵ֑ן מִלְּבַ֗ד אֵ֚יל הַכִּפֻּרִ֔ים אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ עָלָֽיו׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H369\">אֵ֨ין</span> <span data-strong=\"H376\">לָאִ֜ישׁ</span> <span data-strong=\"H1350\">גֹּאֵ֗ל</span> <span data-strong=\"H7725\">לְהָשִׁ֤יב</span> <span data-strong=\"H817\">הָאָשָׁם֙</span> <span data-strong=\"H2050\">אֵלָ֔יו</span> <span data-strong=\"H817\">הָאָשָׁ֛ם</span> <span data-strong=\"H7725\">הַמּוּשָׁ֥ב</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H3548\">לַכֹּהֵ֑ן</span> <span data-strong=\"H905\">מִלְּבַ֗ד</span> <span data-strong=\"H352\">אֵ֚יל</span> <span data-strong=\"H3725\">הַכִּפֻּרִ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3722\">יְכַפֶּר</span>־<span data-strong=\"H2050\">בּ֖וֹ</span> <span data-strong=\"H2050\">עָלָֽיו׃</span>",
     "transliteration": "ve'im-'eyn la'iysh go'el lehashiyv ha'asham 'elayv ha'asham hamvshav layhovah lakhohen milevad 'eyl hakhifuriym 'asher yekhafer-vvo 'alayv.",
     "translation": "E se não houver redentor para restituir a culpa a ele, a culpa estabelecida será ao Senhor ao sacerdote, além do carneiro da expiação com que se fará expiação por ele."
   },
   {
     "verse": 9,
-    "original": "וְכׇל־תְּרוּמָ֞ה לְכׇל־קׇדְשֵׁ֧י בְנֵי־יִשְׂרָאֵ֛ל אֲשֶׁר־יַקְרִ֥יבוּ לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃",
+    "original": "<span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H8641\">תְּרוּמָ֞ה</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H6944\">קׇדְשֵׁ֧י</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H7126\">יַקְרִ֥יבוּ</span> <span data-strong=\"H3548\">לַכֹּהֵ֖ן</span> <span data-strong=\"H2050\">ל֥וֹ</span> <span data-strong=\"H1961\">יִהְיֶֽה׃</span>",
     "transliteration": "vekhol-tervmah lekhol-kodeshey veney-yisera'el 'asher-yakeriyvv lakhohen lvo yiheyeh.",
     "translation": "E toda oferta para todos os santos de Israel que eles trouxerem ao sacerdote lhe pertencerá."
   },
@@ -61,67 +61,67 @@
   },
   {
     "verse": 11,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 12,
-    "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי־תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃",
+    "original": "<span data-strong=\"H1696\">דַּבֵּר֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H559\">וְאָמַרְתָּ֖</span> <span data-strong=\"H3963\">אֲלֵהֶ֑ם</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7847\">תִשְׂטֶ֣ה</span> <span data-strong=\"H2050\">אִשְׁתּ֔וֹ</span> <span data-strong=\"H4603\">וּמָעֲלָ֥ה</span> <span data-strong=\"H2050\">ב֖וֹ</span> <span data-strong=\"H4604\">מָֽעַל׃</span>",
     "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem 'iysh 'iysh khiy-tiseteh 'ishetvo vma'alah vvo ma'al.",
     "translation": "Fala aos filhos de Israel e lhes dirás: Se qualquer homem desviar sua mulher, e ela lhe for infiel."
   },
   {
     "verse": 13,
-    "original": "וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־זֶ֒רַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃",
+    "original": "<span data-strong=\"H7901\">וְשָׁכַ֨ב</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H1886\">אֹתָהּ֮</span> <span data-strong=\"H7902\">שִׁכְבַת</span>־<span data-strong=\"H2233\">זֶ֒רַע֒</span> <span data-strong=\"H5956\">וְנֶעְלַם֙</span> <span data-strong=\"H5869\">מֵעֵינֵ֣י</span> <span data-strong=\"H1886\">אִישָׁ֔הּ</span> <span data-strong=\"H5641\">וְנִסְתְּרָ֖ה</span> <span data-strong=\"H1931\">וְהִ֣יא</span> <span data-strong=\"H2930\">נִטְמָ֑אָה</span> <span data-strong=\"H5707\">וְעֵד֙</span> <span data-strong=\"H369\">אֵ֣ין</span> <span data-strong=\"H1886\">בָּ֔הּ</span> <span data-strong=\"H1931\">וְהִ֖וא</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H8610\">נִתְפָּֽשָׂה׃</span>",
     "transliteration": "veshakhav 'iysh 'otah shikhevat-zera' vene'elam me'eyney 'iyshah veniseterah vehiy' nitema'ah ve'ed 'eyn vah vehiv' lo' nitefasah.",
     "translation": "E deitar-se-á um homem com ela, em ato procriador, e se lhe esconder dos olhos do seu marido, e se o fizer ocultamente, e ela for contaminada, e não houver testemunha contra ela, nem tenha sido surpreendida."
   },
   {
     "verse": 14,
-    "original": "וְעָבַ֨ר עָלָ֧יו רֽוּחַ־קִנְאָ֛ה וְקִנֵּ֥א אֶת־אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה אוֹ־עָבַ֨ר עָלָ֤יו רֽוּחַ־קִנְאָה֙ וְקִנֵּ֣א אֶת־אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃",
+    "original": "<span data-strong=\"H5674\">וְעָבַ֨ר</span> <span data-strong=\"H2050\">עָלָ֧יו</span> <span data-strong=\"H7307\">רֽוּחַ</span>־<span data-strong=\"H7068\">קִנְאָ֛ה</span> <span data-strong=\"H7065\">וְקִנֵּ֥א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אִשְׁתּ֖וֹ</span> <span data-strong=\"H1931\">וְהִ֣וא</span> <span data-strong=\"H2930\">נִטְמָ֑אָה</span> <span data-strong=\"H176\">אוֹ</span>־<span data-strong=\"H5674\">עָבַ֨ר</span> <span data-strong=\"H2050\">עָלָ֤יו</span> <span data-strong=\"H7307\">רֽוּחַ</span>־<span data-strong=\"H7068\">קִנְאָה֙</span> <span data-strong=\"H7065\">וְקִנֵּ֣א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אִשְׁתּ֔וֹ</span> <span data-strong=\"H1931\">וְהִ֖יא</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H2930\">נִטְמָֽאָה׃</span>",
     "transliteration": "ve'avar 'alayv rvha-kine'ah vekine' 'et-'ishetvo vehiv' nitema'ah 'vo-'avar 'alayv rvha-kine'ah vekine' 'et-'ishetvo vehiy' lo' nitema'ah.",
     "translation": "E passou sobre ele um espírito de ciúme, e ficou ciumento com sua mulher, e ela se contaminou; ou passou sobre ele um espírito de ciúme, e ficou ciumento com sua mulher, mas ela não se contaminou."
   },
   {
     "verse": 15,
-    "original": "וְהֵבִ֨יא הָאִ֣ישׁ אֶת־אִשְׁתּוֹ֮ אֶל־הַכֹּהֵן֒ וְהֵבִ֤יא אֶת־קׇרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים לֹֽא־יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה כִּֽי־מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֺֽן׃",
+    "original": "<span data-strong=\"H935\">וְהֵבִ֨יא</span> <span data-strong=\"H376\">הָאִ֣ישׁ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אִשְׁתּוֹ֮</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3548\">הַכֹּהֵן֒</span> <span data-strong=\"H935\">וְהֵבִ֤יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">קׇרְבָּנָהּ֙</span> <span data-strong=\"H1886\">עָלֶ֔יהָ</span> <span data-strong=\"H6224\">עֲשִׂירִ֥ת</span> <span data-strong=\"H374\">הָאֵיפָ֖ה</span> <span data-strong=\"H7058\">קֶ֣מַח</span> <span data-strong=\"H8184\">שְׂעֹרִ֑ים</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3332\">יִצֹ֨ק</span> <span data-strong=\"H2050\">עָלָ֜יו</span> <span data-strong=\"H8081\">שֶׁ֗מֶן</span> <span data-strong=\"H3808\">וְלֹֽא</span>־<span data-strong=\"H5414\">יִתֵּ֤ן</span> <span data-strong=\"H2050\">עָלָיו֙</span> <span data-strong=\"H3828\">לְבֹנָ֔ה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H4503\">מִנְחַ֤ת</span> <span data-strong=\"H7068\">קְנָאֹת֙</span> <span data-strong=\"H1931\">ה֔וּא</span> <span data-strong=\"H4503\">מִנְחַ֥ת</span> <span data-strong=\"H2146\">זִכָּר֖וֹן</span> <span data-strong=\"H2142\">מַזְכֶּ֥רֶת</span> <span data-strong=\"H5771\">עָוֺֽן׃</span>",
     "transliteration": "veheviy' ha'iysh 'et-'ishetvo 'el-hakhohen veheviy' 'et-korevanah 'aleyha 'asiyrit ha'eyfah kemah se'oriym lo'-yitsok 'alayv shemen velo'-yiten 'alayv levonah khiy-minehat kena'ot hv' minehat zikharvon mazekheret 'avon.",
     "translation": "E o homem trará sua mulher ao sacerdote, e ele trará a oferta sobre ela: uma décima de efá de farinha de cevada; não se derramará óleo sobre isso, nem se colocará incenso sobre isso, pois é oferta da ciúmes, oferta de memória que acusa o pecado."
   },
   {
     "verse": 16,
-    "original": "וְהִקְרִ֥יב אֹתָ֖הּ הַכֹּהֵ֑ן וְהֶֽעֱמִדָ֖הּ לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H7126\">וְהִקְרִ֥יב</span> <span data-strong=\"H1886\">אֹתָ֖הּ</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H1886\">וְהֶֽעֱמִדָ֖הּ</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vehikeriyv 'otah hakhohen vehe'emidah lifeney yehovah.",
     "translation": "E o sacerdote a oferecerá e a porá diante do Senhor."
   },
   {
     "verse": 17,
-    "original": "וְלָקַ֧ח הַכֹּהֵ֛ן מַ֥יִם קְדֹשִׁ֖ים בִּכְלִי־חָ֑רֶשׂ וּמִן־הֶֽעָפָ֗ר אֲשֶׁ֤ר יִהְיֶה֙ בְּקַרְקַ֣ע הַמִּשְׁכָּ֔ן יִקַּ֥ח הַכֹּהֵ֖ן וְנָתַ֥ן אֶל־הַמָּֽיִם׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֧ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H4325\">מַ֥יִם</span> <span data-strong=\"H6918\">קְדֹשִׁ֖ים</span> <span data-strong=\"H3627\">בִּכְלִי</span>־<span data-strong=\"H2789\">חָ֑רֶשׂ</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H6083\">הֶֽעָפָ֗ר</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H1961\">יִהְיֶה֙</span> <span data-strong=\"H7172\">בְּקַרְקַ֣ע</span> <span data-strong=\"H4908\">הַמִּשְׁכָּ֔ן</span> <span data-strong=\"H3947\">יִקַּ֥ח</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H5414\">וְנָתַ֥ן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4325\">הַמָּֽיִם׃</span>",
     "transliteration": "velakah hakhohen mayim kedoshiym vikheliy-hares vmin-he'afar 'asher yiheyeh vekareka' hamishekhan yikah hakhohen venatan 'el-hamayim.",
     "translation": "E o sacerdote tomará águas santas em um vaso de barro e da poeira que estiver no pavimento do Tabernáculo, o sacerdote a tomará e colocará nas águas."
   },
   {
     "verse": 18,
-    "original": "וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ לִפְנֵ֣י יְהֹוָה֒ וּפָרַע֙ אֶת־רֹ֣אשׁ הָֽאִשָּׁ֔ה וְנָתַ֣ן עַל־כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִֽים׃",
+    "original": "<span data-strong=\"H5975\">וְהֶעֱמִ֨יד</span> <span data-strong=\"H3548\">הַכֹּהֵ֥ן</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H802\">הָאִשָּׁה֮</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָה֒</span> <span data-strong=\"H6544\">וּפָרַע֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7218\">רֹ֣אשׁ</span> <span data-strong=\"H802\">הָֽאִשָּׁ֔ה</span> <span data-strong=\"H5414\">וְנָתַ֣ן</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1886\">כַּפֶּ֗יהָ</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H4503\">מִנְחַ֣ת</span> <span data-strong=\"H2146\">הַזִּכָּר֔וֹן</span> <span data-strong=\"H4503\">מִנְחַ֥ת</span> <span data-strong=\"H7068\">קְנָאֹ֖ת</span> <span data-strong=\"H1931\">הִ֑וא</span> <span data-strong=\"H3027\">וּבְיַ֤ד</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H1961\">יִהְי֔וּ</span> <span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H4751\">הַמָּרִ֖ים</span> <span data-strong=\"H779\">הַמְאָֽרְרִֽים׃</span>",
     "transliteration": "vehe'emiyd hakhohen 'et-ha'ishah lifeney yehovah vfara' 'et-ro'sh ha'ishah venatan 'al-khafeyha 'et minehat hazikharvon minehat kena'ot hiv' vveyad hakhohen yiheyv mey hamariym hame'areriym.",
     "translation": "E o sacerdote apresentará a mulher perante o Senhor, e desarrumará o cabelo da mulher; então porá em suas mãos a oferta do memorial, oferta de ciúmes é esta. E na mão do sacerdote estarão as águas amargas que causam maldição."
   },
   {
     "verse": 19,
-    "original": "וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל־הָֽאִשָּׁה֙ אִם־לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם־לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרְרִ֖ים הָאֵֽלֶּה׃",
+    "original": "<span data-strong=\"H7650\">וְהִשְׁבִּ֨יעַ</span> <span data-strong=\"H1886\">אֹתָ֜הּ</span> <span data-strong=\"H3548\">הַכֹּהֵ֗ן</span> <span data-strong=\"H559\">וְאָמַ֤ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H802\">הָֽאִשָּׁה֙</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H3808\">לֹ֨א</span> <span data-strong=\"H7901\">שָׁכַ֥ב</span> <span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H3509\">אֹתָ֔ךְ</span> <span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H7847\">שָׂטִ֛ית</span> <span data-strong=\"H2932\">טֻמְאָ֖ה</span> <span data-strong=\"H8478\">תַּ֣חַת</span> <span data-strong=\"H3509\">אִישֵׁ֑ךְ</span> <span data-strong=\"H5352\">הִנָּקִ֕י</span> <span data-strong=\"H4325\">מִמֵּ֛י</span> <span data-strong=\"H4751\">הַמָּרִ֥ים</span> <span data-strong=\"H779\">הַֽמְאָרְרִ֖ים</span> <span data-strong=\"H428\">הָאֵֽלֶּה׃</span>",
     "transliteration": "vehisheviy'a 'otah hakhohen ve'amar 'el-ha'ishah 'im-lo' shakhav 'iysh 'otakhe ve'im-lo' satiyt tume'ah tahat 'iyshekhe hinakiy mimey hamariym hame'areriym ha'eleh.",
     "translation": "E o sacerdote jurará à mulher, dizendo-lhe: Se nenhum homem se deitou com você e se você não contaminou-se com impureza sob seu marido, seja purificada destas águas amargas que causam maldição."
   },
   {
     "verse": 20,
-    "original": "וְאַ֗תְּ כִּ֥י שָׂטִ֛ית תַּ֥חַת אִישֵׁ֖ךְ וְכִ֣י נִטְמֵ֑את וַיִּתֵּ֨ן אִ֥ישׁ בָּךְ֙ אֶת־שְׁכׇבְתּ֔וֹ מִֽבַּלְעֲדֵ֖י אִישֵֽׁךְ׃",
+    "original": "<span data-strong=\"H859\">וְאַ֗תְּ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H7847\">שָׂטִ֛ית</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H3509\">אִישֵׁ֖ךְ</span> <span data-strong=\"H3588\">וְכִ֣י</span> <span data-strong=\"H2930\">נִטְמֵ֑את</span> <span data-strong=\"H5414\">וַיִּתֵּ֨ן</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H3509\">בָּךְ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">שְׁכׇבְתּ֔וֹ</span> <span data-strong=\"H1107\">מִֽבַּלְעֲדֵ֖י</span> <span data-strong=\"H3509\">אִישֵֽׁךְ׃</span>",
     "transliteration": "ve'ate khiy satiyt tahat 'iyshekhe vekhiy niteme't vayiten 'iysh vakhe 'et-shekhovetvo mivale'adey 'iyshekhe.",
     "translation": "E tu, por teres sido adúltera em lugar de teu marido, e por tua imundícia, um homem depositou sua cama contigo além de teu marido."
   },
   {
     "verse": 21,
-    "original": "וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה יִתֵּ֨ן יְהֹוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהֹוָ֤ה אֶת־יְרֵכֵךְ֙ נֹפֶ֔לֶת וְאֶת־בִּטְנֵ֖ךְ צָבָֽה׃",
+    "original": "<span data-strong=\"H7650\">וְהִשְׁבִּ֨יעַ</span> <span data-strong=\"H3548\">הַכֹּהֵ֥ן</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H802\">הָאִשָּׁה֮</span> <span data-strong=\"H7621\">בִּשְׁבֻעַ֣ת</span> <span data-strong=\"H423\">הָאָלָה֒</span> <span data-strong=\"H559\">וְאָמַ֤ר</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H802\">לָֽאִשָּׁ֔ה</span> <span data-strong=\"H5414\">יִתֵּ֨ן</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">אוֹתָ֛ךְ</span> <span data-strong=\"H423\">לְאָלָ֥ה</span> <span data-strong=\"H7621\">וְלִשְׁבֻעָ֖ה</span> <span data-strong=\"H8432\">בְּת֣וֹךְ</span> <span data-strong=\"H3509\">עַמֵּ֑ךְ</span> <span data-strong=\"H5414\">בְּתֵ֨ת</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">יְרֵכֵךְ֙</span> <span data-strong=\"H5307\">נֹפֶ֔לֶת</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3509\">בִּטְנֵ֖ךְ</span> <span data-strong=\"H6639\">צָבָֽה׃</span>",
     "transliteration": "vehisheviy'a hakhohen 'et-ha'ishah vishevu'at ha'alah ve'amar hakhohen la'ishah yiten yehovah 'votakhe le'alah velishevu'ah vetvokhe 'amekhe vetet yehovah 'et-yerekhekhe nofelet ve'et-vitenekhe tsavah.",
     "translation": "E o sacerdote jurará a mulher com juramento de maldição, e o sacerdote dirá à mulher: Que o Senhor te faça uma maldição e um juramento no meio do teu povo! Que o Senhor te dê coxas descompensadas e ventre inchado!"
   },
@@ -133,49 +133,49 @@
   },
   {
     "verse": 23,
-    "original": "וְ֠כָתַ֠ב אֶת־הָאָלֹ֥ת הָאֵ֛לֶּה הַכֹּהֵ֖ן בַּסֵּ֑פֶר וּמָחָ֖ה אֶל־מֵ֥י הַמָּרִֽים׃",
+    "original": "<span data-strong=\"H3789\">וְ֠כָתַ֠ב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H423\">הָאָלֹ֥ת</span> <span data-strong=\"H428\">הָאֵ֛לֶּה</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H5612\">בַּסֵּ֑פֶר</span> <span data-strong=\"H4229\">וּמָחָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H4751\">הַמָּרִֽים׃</span>",
     "transliteration": "vekhatav 'et-ha'alot ha'eleh hakhohen vasefer vmahah 'el-mey hamariym.",
     "translation": "E o sacerdote escreverá essas maldições num livro e as apagará nas águas amargas."
   },
   {
     "verse": 24,
-    "original": "וְהִשְׁקָה֙ אֶת־הָ֣אִשָּׁ֔ה אֶת־מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִ֑ים וּבָ֥אוּ בָ֛הּ הַמַּ֥יִם הַֽמְאָרְרִ֖ים לְמָרִֽים׃",
+    "original": "<span data-strong=\"H8248\">וְהִשְׁקָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H802\">הָ֣אִשָּׁ֔ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4325\">מֵ֥י</span> <span data-strong=\"H4751\">הַמָּרִ֖ים</span> <span data-strong=\"H779\">הַמְאָֽרְרִ֑ים</span> <span data-strong=\"H935\">וּבָ֥אוּ</span> <span data-strong=\"H1886\">בָ֛הּ</span> <span data-strong=\"H4325\">הַמַּ֥יִם</span> <span data-strong=\"H779\">הַֽמְאָרְרִ֖ים</span> <span data-strong=\"H4751\">לְמָרִֽים׃</span>",
     "transliteration": "vehishekah 'et-ha'ishah 'et-mey hamariym hame'areriym vva'v vah hamayim hame'areriym lemariym.",
     "translation": "E faça beber à mulher as águas da maldição, amarguradas; e entrarão nela as águas amarguradas como maldições."
   },
   {
     "verse": 25,
-    "original": "וְלָקַ֤ח הַכֹּהֵן֙ מִיַּ֣ד הָֽאִשָּׁ֔ה אֵ֖ת מִנְחַ֣ת הַקְּנָאֹ֑ת וְהֵנִ֤יף אֶת־הַמִּנְחָה֙ לִפְנֵ֣י יְהֹוָ֔ה וְהִקְרִ֥יב אֹתָ֖הּ אֶל־הַמִּזְבֵּֽחַ׃",
+    "original": "<span data-strong=\"H3947\">וְלָקַ֤ח</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H3027\">מִיַּ֣ד</span> <span data-strong=\"H802\">הָֽאִשָּׁ֔ה</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H4503\">מִנְחַ֣ת</span> <span data-strong=\"H7068\">הַקְּנָאֹ֑ת</span> <span data-strong=\"H5130\">וְהֵנִ֤יף</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4503\">הַמִּנְחָה֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H7126\">וְהִקְרִ֥יב</span> <span data-strong=\"H1886\">אֹתָ֖הּ</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4196\">הַמִּזְבֵּֽחַ׃</span>",
     "transliteration": "velakah hakhohen miyad ha'ishah 'et minehat hakena'ot veheniyf 'et-haminehah lifeney yehovah vehikeriyv 'otah 'el-hamizeveha.",
     "translation": "E o sacerdote tomará da mão da mulher a oferta das suspeitas, e ele a elevará a oferta perante YHWH, e a oferecerá ao altar."
   },
   {
     "verse": 26,
-    "original": "וְקָמַ֨ץ הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה וְאַחַ֛ר יַשְׁקֶ֥ה אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃",
+    "original": "<span data-strong=\"H7061\">וְקָמַ֨ץ</span> <span data-strong=\"H3548\">הַכֹּהֵ֤ן</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H4503\">הַמִּנְחָה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1886\">אַזְכָּ֣רָתָ֔הּ</span> <span data-strong=\"H6999\">וְהִקְטִ֖יר</span> <span data-strong=\"H1886\">הַמִּזְבֵּ֑חָה</span> <span data-strong=\"H310\">וְאַחַ֛ר</span> <span data-strong=\"H8248\">יַשְׁקֶ֥ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H802\">הָאִשָּׁ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4325\">הַמָּֽיִם׃</span>",
     "transliteration": "vekamats hakhohen min-haminehah 'et-'azekharatah vehiketiyr hamizevehah ve'ahar yashekeh 'et-ha'ishah 'et-hamayim.",
     "translation": "E o sacerdote tomará da oferta pelo fogo a porção de memória, e queimá-la-á sobre o altar; depois fará beber à mulher as águas."
   },
   {
     "verse": 27,
-    "original": "וְהִשְׁקָ֣הּ אֶת־הַמַּ֗יִם וְהָיְתָ֣ה אִֽם־נִטְמְאָה֮ וַתִּמְעֹ֣ל מַ֣עַל בְּאִישָׁהּ֒ וּבָ֨אוּ בָ֜הּ הַמַּ֤יִם הַמְאָֽרְרִים֙ לְמָרִ֔ים וְצָבְתָ֣ה בִטְנָ֔הּ וְנָפְלָ֖ה יְרֵכָ֑הּ וְהָיְתָ֧ה הָאִשָּׁ֛ה לְאָלָ֖ה בְּקֶ֥רֶב עַמָּֽהּ׃",
+    "original": "<span data-strong=\"H1886\">וְהִשְׁקָ֣הּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4325\">הַמַּ֗יִם</span> <span data-strong=\"H1961\">וְהָיְתָ֣ה</span> <span data-strong=\"H518\">אִֽם</span>־<span data-strong=\"H2930\">נִטְמְאָה֮</span> <span data-strong=\"H4603\">וַתִּמְעֹ֣ל</span> <span data-strong=\"H4604\">מַ֣עַל</span> <span data-strong=\"H1886\">בְּאִישָׁהּ֒</span> <span data-strong=\"H935\">וּבָ֨אוּ</span> <span data-strong=\"H1886\">בָ֜הּ</span> <span data-strong=\"H4325\">הַמַּ֤יִם</span> <span data-strong=\"H779\">הַמְאָֽרְרִים֙</span> <span data-strong=\"H4751\">לְמָרִ֔ים</span> <span data-strong=\"H6638\">וְצָבְתָ֣ה</span> <span data-strong=\"H1886\">בִטְנָ֔הּ</span> <span data-strong=\"H5307\">וְנָפְלָ֖ה</span> <span data-strong=\"H1886\">יְרֵכָ֑הּ</span> <span data-strong=\"H1961\">וְהָיְתָ֧ה</span> <span data-strong=\"H802\">הָאִשָּׁ֛ה</span> <span data-strong=\"H423\">לְאָלָ֖ה</span> <span data-strong=\"H7130\">בְּקֶ֥רֶב</span> <span data-strong=\"H1886\">עַמָּֽהּ׃</span>",
     "transliteration": "vehishekah 'et-hamayim vehayetah 'im-niteme'ah vatime'ol ma'al ve'iyshah vva'v vah hamayim hame'areriym lemariym vetsavetah vitenah venafelah yerekhah vehayetah ha'ishah le'alah vekerev 'amah.",
     "translation": "E lhe dê as águas, e se foi contaminada e tiver sido infiel ao seu marido, as águas amargas e malditas entrarão nela e sua barriga inchará e suas coxas cairão, e essa mulher será maldição no meio do seu povo."
   },
   {
     "verse": 28,
-    "original": "וְאִם־לֹ֤א נִטְמְאָה֙ הָֽאִשָּׁ֔ה וּטְהֹרָ֖ה הִ֑וא וְנִקְּתָ֖ה וְנִזְרְעָ֥ה זָֽרַע׃",
+    "original": "<span data-strong=\"H518\">וְאִם</span>־<span data-strong=\"H3808\">לֹ֤א</span> <span data-strong=\"H2930\">נִטְמְאָה֙</span> <span data-strong=\"H802\">הָֽאִשָּׁ֔ה</span> <span data-strong=\"H2889\">וּטְהֹרָ֖ה</span> <span data-strong=\"H1931\">הִ֑וא</span> <span data-strong=\"H5352\">וְנִקְּתָ֖ה</span> <span data-strong=\"H2232\">וְנִזְרְעָ֥ה</span> <span data-strong=\"H2233\">זָֽרַע׃</span>",
     "transliteration": "ve'im-lo' niteme'ah ha'ishah vtehorah hiv' veniketah venizere'ah zara'.",
     "translation": "E se a mulher não for contaminada e for pura, será absolvida e conceberá semente."
   },
   {
     "verse": 29,
-    "original": "זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃",
+    "original": "<span data-strong=\"H2063\">זֹ֥את</span> <span data-strong=\"H8451\">תּוֹרַ֖ת</span> <span data-strong=\"H7068\">הַקְּנָאֹ֑ת</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H7847\">תִּשְׂטֶ֥ה</span> <span data-strong=\"H802\">אִשָּׁ֛ה</span> <span data-strong=\"H8478\">תַּ֥חַת</span> <span data-strong=\"H1886\">אִישָׁ֖הּ</span> <span data-strong=\"H2930\">וְנִטְמָֽאָה׃</span>",
     "transliteration": "zo't tvorat hakena'ot 'asher tiseteh 'ishah tahat 'iyshah venitema'ah.",
     "translation": "Esta é a lei dos ciúmes com que uma mulher se desviar sob seu marido e se contaminar:"
   },
   {
     "verse": 30,
-    "original": "א֣וֹ אִ֗ישׁ אֲשֶׁ֨ר תַּעֲבֹ֥ר עָלָ֛יו ר֥וּחַ קִנְאָ֖ה וְקִנֵּ֣א אֶת־אִשְׁתּ֑וֹ וְהֶעֱמִ֤יד אֶת־הָֽאִשָּׁה֙ לִפְנֵ֣י יְהֹוָ֔ה וְעָ֤שָׂה לָהּ֙ הַכֹּהֵ֔ן אֵ֥ת כׇּל־הַתּוֹרָ֖ה הַזֹּֽאת׃",
+    "original": "<span data-strong=\"H176\">א֣וֹ</span> <span data-strong=\"H376\">אִ֗ישׁ</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H5674\">תַּעֲבֹ֥ר</span> <span data-strong=\"H2050\">עָלָ֛יו</span> <span data-strong=\"H7307\">ר֥וּחַ</span> <span data-strong=\"H7068\">קִנְאָ֖ה</span> <span data-strong=\"H7065\">וְקִנֵּ֣א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">אִשְׁתּ֑וֹ</span> <span data-strong=\"H5975\">וְהֶעֱמִ֤יד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H802\">הָֽאִשָּׁה֙</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H6213\">וְעָ֤שָׂה</span> <span data-strong=\"H1886\">לָהּ֙</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H853\">אֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H8451\">הַתּוֹרָ֖ה</span> <span data-strong=\"H2063\">הַזֹּֽאת׃</span>",
     "transliteration": "'vo 'iysh 'asher ta'avor 'alayv rvha kine'ah vekine' 'et-'ishetvo vehe'emiyd 'et-ha'ishah lifeney yehovah ve'asah lah hakhohen 'et khol-hatvorah hazo't.",
     "translation": "Ou homem sobre o qual passar ciúmes e ele se ciumar de sua mulher, e fizer comparecer a mulher perante o Senhor, e o sacerdote fará com ela toda esta lei."
   },

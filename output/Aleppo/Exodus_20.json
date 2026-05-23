@@ -7,13 +7,13 @@
   },
   {
     "verse": 2,
-    "original": "אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃",
+    "original": "<span data-strong=\"H595\">אָֽנֹכִ֖י֙</span> <span data-strong=\"H3068\">יְהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑֔יךָ</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3509\">הוֹצֵאתִ֛יךָ</span> <span data-strong=\"H776\">מֵאֶ֥רֶץ</span> <span data-strong=\"H4714\">מִצְרַ֖יִם</span> <span data-strong=\"H1004\">מִבֵּ֣֥ית</span> <span data-strong=\"H5650\">עֲבָדִ֑͏ֽים׃</span>",
     "transliteration": "'anokhiy yehovah 'eloheykha 'asher hvotse'tiykha me'erets mitserayim miveyt 'avadiym.",
     "translation": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão."
   },
   {
     "verse": 3,
-    "original": "לֹֽ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃",
+    "original": "<span data-strong=\"H3808\">לֹֽ֣א</span>־<span data-strong=\"H1961\">יִהְיֶ֥͏ֽה</span>־<span data-strong=\"H3509\">לְךָ֛֩</span> <span data-strong=\"H430\">אֱלֹהִ֥֨ים</span> <span data-strong=\"H312\">אֲחֵרִ֖֜ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2967\">פָּנָֽ͏ַ֗י׃</span>",
     "transliteration": "lo'-yiheyeh-lekha 'elohiym 'aheriym 'al-fanaay.",
     "translation": "Não terás outros deuses diante de mim."
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "לֹֽא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָֽנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃",
+    "original": "<span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H7812\">תִשְׁתַּחֲוֶ֥֣ה</span> <span data-strong=\"H3963\">לָהֶ֖ם֮</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3963\">תׇעׇבְדֵ֑ם֒</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H595\">אָֽנֹכִ֞י</span> <span data-strong=\"H3068\">יְהֹוָ֤ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֙יךָ֙</span> <span data-strong=\"H410\">אֵ֣ל</span> <span data-strong=\"H7067\">קַנָּ֔א</span> <span data-strong=\"H6485\">פֹּ֠קֵ֠ד</span> <span data-strong=\"H5771\">עֲוֺ֨ן</span> <span data-strong=\"H1\">אָבֹ֧ת</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1121\">בָּנִ֛ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8029\">שִׁלֵּשִׁ֥ים</span> <span data-strong=\"H5921\">וְעַל</span>־<span data-strong=\"H7256\">רִבֵּעִ֖ים</span> <span data-strong=\"H2967\">לְשֹׂנְאָֽ֑י׃</span>",
     "transliteration": "lo'-tishetahaveh lahem velo' to'ovedem khiy 'anokhiy yehovah 'eloheykha 'el kana' foked 'avon 'avot 'al-vaniym 'al-shileshiym ve'al-rive'iym lesone'ay.",
     "translation": "Não os adores, nem os sirvas; pois eu sou o SENHOR teu Deus, Deus zeloso, que visita a iniqüidade dos pais nos filhos, nos netos e nas gerações subsequentes, dos que me odeiam."
   },
@@ -43,19 +43,19 @@
   },
   {
     "verse": 8,
-    "original": "זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃",
+    "original": "<span data-strong=\"H2142\">זָכ֛וֹר֩</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3117\">י֥֨וֹם</span> <span data-strong=\"H7676\">הַשַּׁבָּ֖֜ת</span> <span data-strong=\"H2050\">לְקַדְּשֽׁ֗וֹ׃</span>",
     "transliteration": "zakhvor 'et-yvom hashavat lekadeshvo.",
     "translation": "Lembrai-vos do dia de sábado para santificá-lo."
   },
   {
     "verse": 9,
-    "original": "שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃",
+    "original": "<span data-strong=\"H8337\">שֵׁ֤֣שֶׁת</span> <span data-strong=\"H3117\">יָמִ֣ים֙</span> <span data-strong=\"H5647\">תַּֽעֲבֹ֔ד֮</span> <span data-strong=\"H6213\">וְעָשִׂ֖֣יתָ</span> <span data-strong=\"H3605\">כׇּֿל</span>־<span data-strong=\"H3509\">מְלַאכְתֶּֽךָ֒׃</span>",
     "transliteration": "sheshet yamiym ta'avod ve'asiyta khol-mela'khetekha.",
     "translation": "Seis dias trabalharás e farás toda a tua obra."
   },
   {
     "verse": 10,
-    "original": "וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת&thinsp;<b>׀</b> לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־תַעֲשֶׂ֣֨ה כׇל־מְלָאכָ֜֡ה אַתָּ֣ה&thinsp;<b>׀</b> וּבִנְךָ֣͏ֽ־וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ׃",
+    "original": "<span data-strong=\"H3117\">וְי֨וֹם֙</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔֜י</span> <span data-strong=\"H7676\">שַׁבָּ֖֣ת&thinsp;<b>׀</b></span> <span data-strong=\"H3068\">לַיהֹוָ֣ה</span> <span data-strong=\"H3509\">אֱלֹהֶ֑֗יךָ</span> <span data-strong=\"H3808\">לֹֽ֣א</span>־<span data-strong=\"H6213\">תַעֲשֶׂ֣֨ה</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H4399\">מְלָאכָ֜֡ה</span> <span data-strong=\"H859\">אַתָּ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H3509\">וּבִנְךָ֣͏ֽ</span>־<span data-strong=\"H3509\">וּ֠בִתֶּ֗ךָ</span> <span data-strong=\"H3509\">עַבְדְּךָ֤֨</span> <span data-strong=\"H3509\">וַאֲמָֽתְךָ֜֙</span> <span data-strong=\"H3509\">וּבְהֶמְתֶּ֔֗ךָ</span> <span data-strong=\"H3509\">וְגֵרְךָ֖֙</span> <span data-strong=\"H834\">אֲשֶׁ֥֣ר</span> <span data-strong=\"H3509\">בִּשְׁעָרֶֽ֔יךָ׃</span>",
     "transliteration": "veyvom hasheviy'iy shavat&thinsp;<b>|</b> layhovah 'eloheykha lo'-ta'aseh khol-mela'khah 'atah&thinsp;<b>|</b> vvinekha-vvitekha 'avedekha va'amatekha vvehemetekha vegerekha 'asher vishe'areykha.",
     "translation": "E no sétimo dia, Sabbath para o Senhor teu Deus, não farás qualquer obra, tu e teu filho e tua filha, teu servo e tua serva e teus animais e o estrangeiro que está em teus portões."
   },

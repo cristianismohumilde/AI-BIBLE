@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "שִׁ֗יר לַֽמַּ֫עֲל֥וֹת אֶשָּׂ֣א עֵ֭ינַי אֶל־הֶהָרִ֑ים מֵ֝אַ֗יִן יָבֹ֥א עֶזְרִֽי׃",
+    "original": "<span data-strong=\"H7892\">שִׁ֗יר</span> <span data-strong=\"H4609\">לַֽמַּ֫עֲל֥וֹת</span> <span data-strong=\"H5375\">אֶשָּׂ֣א</span> <span data-strong=\"H2967\">עֵ֭ינַי</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2022\">הֶהָרִ֑ים</span> <span data-strong=\"H370\">מֵ֝אַ֗יִן</span> <span data-strong=\"H935\">יָבֹ֥א</span> <span data-strong=\"H2967\">עֶזְרִֽי׃</span>",
     "transliteration": "shiyr lama'alvot 'esa' 'eynay 'el-hehariym me'ayin yavo' 'ezeriy.",
     "translation": "Cântico dos degraus. Elevarei os meus olhos aos montes; de onde virá o meu auxílio?"
   },
   {
     "verse": 2,
-    "original": "עֶ֭זְרִי מֵעִ֣ם יְהֹוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H2967\">עֶ֭זְרִי</span> <span data-strong=\"H5973\">מֵעִ֣ם</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H6213\">עֹ֝שֵׂ֗ה</span> <span data-strong=\"H8064\">שָׁמַ֥יִם</span> <span data-strong=\"H776\">וָאָֽרֶץ׃</span>",
     "transliteration": "'ezeriy me'im yehovah 'oseh shamayim va'arets.",
     "translation": "Meu auxílio vem do Senhor, que faz os céus e a terra."
   },
   {
     "verse": 3,
-    "original": "אַל־יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל־יָ֝נ֗וּם שֹׁמְרֶֽךָ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5414\">יִתֵּ֣ן</span> <span data-strong=\"H4131\">לַמּ֣וֹט</span> <span data-strong=\"H3509\">רַגְלֶ֑ךָ</span> <span data-strong=\"H408\">אַל</span>־<span data-strong=\"H5123\">יָ֝נ֗וּם</span> <span data-strong=\"H3509\">שֹׁמְרֶֽךָ׃</span>",
     "transliteration": "'al-yiten lamvot ragelekha 'al-yanvm shomerekha.",
     "translation": "Não deixe que seu pé vacile; não adormça o que te guarda."
   },
   {
     "verse": 4,
-    "original": "הִנֵּ֣ה לֹֽא־יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H2009\">הִנֵּ֣ה</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H5123\">יָ֭נוּם</span> <span data-strong=\"H3808\">וְלֹ֣א</span> <span data-strong=\"H3462\">יִישָׁ֑ן</span> <span data-strong=\"H8104\">שׁ֝וֹמֵ֗ר</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "hineh lo'-yanvm velo' yiyshan shvomer yisera'el.",
     "translation": "Eis, não dorme nem descansa, guardião de Israel."
   },
   {
     "verse": 5,
-    "original": "יְהֹוָ֥ה שֹׁמְרֶ֑ךָ יְהֹוָ֥ה צִ֝לְּךָ֗ עַל־יַ֥ד יְמִינֶֽךָ׃",
+    "original": "<span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">שֹׁמְרֶ֑ךָ</span> <span data-strong=\"H3068\">יְהֹוָ֥ה</span> <span data-strong=\"H3509\">צִ֝לְּךָ֗</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3027\">יַ֥ד</span> <span data-strong=\"H3509\">יְמִינֶֽךָ׃</span>",
     "transliteration": "yehovah shomerekha yehovah tsilekha 'al-yad yemiynekha.",
     "translation": "O Senhor te guarda; o Senhor é a tua sombra à direita de ti."
   },
   {
     "verse": 6,
-    "original": "יוֹמָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא־יַכֶּ֗כָּה וְיָרֵ֥חַ בַּלָּֽיְלָה׃",
+    "original": "<span data-strong=\"H3119\">יוֹמָ֗ם</span> <span data-strong=\"H8121\">הַשֶּׁ֥מֶשׁ</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3509\">יַכֶּ֗כָּה</span> <span data-strong=\"H3394\">וְיָרֵ֥חַ</span> <span data-strong=\"H3915\">בַּלָּֽיְלָה׃</span>",
     "transliteration": "yvomam hashemesh lo'-yakhekhah veyareha valayelah.",
     "translation": "De dia, o sol não te ferirá, nem a lua de noite."
   },
   {
     "verse": 7,
-    "original": "יְֽהֹוָ֗ה יִשְׁמׇרְךָ֥ מִכׇּל־רָ֑ע יִ֝שְׁמֹ֗ר אֶת־נַפְשֶֽׁךָ׃",
+    "original": "<span data-strong=\"H3068\">יְֽהֹוָ֗ה</span> <span data-strong=\"H3509\">יִשְׁמׇרְךָ֥</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H7451\">רָ֑ע</span> <span data-strong=\"H8104\">יִ֝שְׁמֹ֗ר</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">נַפְשֶֽׁךָ׃</span>",
     "transliteration": "yehovah yishemorekha mikhol-ra' yishemor 'et-nafeshekha.",
     "translation": "O Senhor te guarde de todo o mal; ele preserve tua alma."
   },

@@ -1,13 +1,13 @@
 [
   {
     "verse": 1,
-    "original": "מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהֹוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ׃",
+    "original": "<span data-strong=\"H3976\">מֹאזְנֵ֣י</span> <span data-strong=\"H4820\">מִ֭רְמָה</span> <span data-strong=\"H8441\">תּוֹעֲבַ֣ת</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H68\">וְאֶ֖בֶן</span> <span data-strong=\"H8003\">שְׁלֵמָ֣ה</span> <span data-strong=\"H2050\">רְצוֹנֽוֹ׃</span>",
     "transliteration": "mo'zeney miremah tvo'avat yehovah ve'even shelemah retsvonvo.",
     "translation": "Peseiras de engano são abomináveis ao Senhor, mas pesa justa é seu desejo."
   },
   {
     "verse": 2,
-    "original": "בָּֽא־זָ֭דוֹן וַיָּבֹ֣א קָל֑וֹן וְֽאֶת־צְנוּעִ֥ים חׇכְמָֽה׃",
+    "original": "<span data-strong=\"H935\">בָּֽא</span>־<span data-strong=\"H2087\">זָ֭דוֹן</span> <span data-strong=\"H935\">וַיָּבֹ֣א</span> <span data-strong=\"H7036\">קָל֑וֹן</span> <span data-strong=\"H854\">וְֽאֶת</span>־<span data-strong=\"H6800\">צְנוּעִ֥ים</span> <span data-strong=\"H2451\">חׇכְמָֽה׃</span>",
     "transliteration": "va'-zadvon vayavo' kalvon ve'et-tsenv'iym hokhemah.",
     "translation": "Entrou o orgulho e veio a desonra, mas com os humildes está a sabedoria."
   },
@@ -19,169 +19,169 @@
   },
   {
     "verse": 4,
-    "original": "לֹא־יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3276\">יוֹעִ֣יל</span> <span data-strong=\"H1952\">ה֭וֹן</span> <span data-strong=\"H3117\">בְּי֣וֹם</span> <span data-strong=\"H5678\">עֶבְרָ֑ה</span> <span data-strong=\"H6666\">וּ֝צְדָקָ֗ה</span> <span data-strong=\"H5337\">תַּצִּ֥יל</span> <span data-strong=\"H4194\">מִמָּֽוֶת׃</span>",
     "transliteration": "lo'-yvo'iyl hvon veyvom 'everah vtsedakah tatsiyl mimavet.",
     "translation": "Não ajuda a riqueza no dia da cólera, mas a justiça livra da morte."
   },
   {
     "verse": 5,
-    "original": "צִדְקַ֣ת תָּ֭מִים תְּיַשֵּׁ֣ר דַּרְכּ֑וֹ וּ֝בְרִשְׁעָת֗וֹ יִפֹּ֥ל רָשָֽׁע׃",
+    "original": "<span data-strong=\"H6666\">צִדְקַ֣ת</span> <span data-strong=\"H8549\">תָּ֭מִים</span> <span data-strong=\"H3474\">תְּיַשֵּׁ֣ר</span> <span data-strong=\"H2050\">דַּרְכּ֑וֹ</span> <span data-strong=\"H2050\">וּ֝בְרִשְׁעָת֗וֹ</span> <span data-strong=\"H5307\">יִפֹּ֥ל</span> <span data-strong=\"H7563\">רָשָֽׁע׃</span>",
     "transliteration": "tsidekat tamiym teyasher darekhvo vverishe'atvo yifol rasha'.",
     "translation": "A justiça dos íntegros endireitará seu caminho, mas pelo seu pecado o impío cairá."
   },
   {
     "verse": 6,
-    "original": "צִדְקַ֣ת יְ֭שָׁרִים תַּצִּילֵ֑ם וּ֝בְהַוַּ֗ת בֹּגְדִ֥ים יִלָּכֵֽדוּ׃",
+    "original": "<span data-strong=\"H6666\">צִדְקַ֣ת</span> <span data-strong=\"H3477\">יְ֭שָׁרִים</span> <span data-strong=\"H3963\">תַּצִּילֵ֑ם</span> <span data-strong=\"H1942\">וּ֝בְהַוַּ֗ת</span> <span data-strong=\"H898\">בֹּגְדִ֥ים</span> <span data-strong=\"H3920\">יִלָּכֵֽדוּ׃</span>",
     "transliteration": "tsidekat yeshariym tatsiylem vvehavat vogediym yilakhedv.",
     "translation": "A justiça dos retos os salvará, mas pelo engano dos traidores eles serão presos."
   },
   {
     "verse": 7,
-    "original": "בְּמ֤וֹת אָדָ֣ם רָ֭שָׁע תֹּאבַ֣ד תִּקְוָ֑ה וְתוֹחֶ֖לֶת אוֹנִ֣ים אָבָֽדָה׃",
+    "original": "<span data-strong=\"H4194\">בְּמ֤וֹת</span> <span data-strong=\"H120\">אָדָ֣ם</span> <span data-strong=\"H7563\">רָ֭שָׁע</span> <span data-strong=\"H6\">תֹּאבַ֣ד</span> <span data-strong=\"H8615\">תִּקְוָ֑ה</span> <span data-strong=\"H8431\">וְתוֹחֶ֖לֶת</span> <span data-strong=\"H202\">אוֹנִ֣ים</span> <span data-strong=\"H6\">אָבָֽדָה׃</span>",
     "transliteration": "vemvot 'adam rasha' to'vad tikevah vetvohelet 'voniym 'avadah.",
     "translation": "Com a morte do ímpio se perde a esperança, e a expectativa dos ricos se desvanece."
   },
   {
     "verse": 8,
-    "original": "צַ֭דִּיק מִצָּרָ֣ה נֶחֱלָ֑ץ וַיָּבֹ֖א רָשָׁ֣ע תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H6662\">צַ֭דִּיק</span> <span data-strong=\"H6869\">מִצָּרָ֣ה</span> <span data-strong=\"H2502\">נֶחֱלָ֑ץ</span> <span data-strong=\"H935\">וַיָּבֹ֖א</span> <span data-strong=\"H7563\">רָשָׁ֣ע</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "tsadiyk mitsarah nehelats vayavo' rasha' tahetayv.",
     "translation": "O justo é resgatado do angustiante aperto, e o ímpio vem em seu lugar."
   },
   {
     "verse": 9,
-    "original": "בְּפֶ֗ה חָ֭נֵף יַשְׁחִ֣ת רֵעֵ֑הוּ וּ֝בְדַ֗עַת צַדִּיקִ֥ים יֵחָלֵֽצוּ׃",
+    "original": "<span data-strong=\"H6310\">בְּפֶ֗ה</span> <span data-strong=\"H2611\">חָ֭נֵף</span> <span data-strong=\"H7843\">יַשְׁחִ֣ת</span> <span data-strong=\"H1930\">רֵעֵ֑הוּ</span> <span data-strong=\"H1847\">וּ֝בְדַ֗עַת</span> <span data-strong=\"H6662\">צַדִּיקִ֥ים</span> <span data-strong=\"H2502\">יֵחָלֵֽצוּ׃</span>",
     "transliteration": "vefeh hanef yashehit re'ehv vveda'at tsadiykiym yehaletsv.",
     "translation": "Na boca do ímpio se destrói o amigo, mas no conhecimento dos retos se livram."
   },
   {
     "verse": 10,
-    "original": "בְּט֣וּב צַ֭דִּיקִים תַּעֲלֹ֣ץ קִרְיָ֑ה וּבַאֲבֹ֖ד רְשָׁעִ֣ים רִנָּֽה׃",
+    "original": "<span data-strong=\"H2898\">בְּט֣וּב</span> <span data-strong=\"H6662\">צַ֭דִּיקִים</span> <span data-strong=\"H5970\">תַּעֲלֹ֣ץ</span> <span data-strong=\"H7151\">קִרְיָ֑ה</span> <span data-strong=\"H6\">וּבַאֲבֹ֖ד</span> <span data-strong=\"H7563\">רְשָׁעִ֣ים</span> <span data-strong=\"H7440\">רִנָּֽה׃</span>",
     "transliteration": "vetvv tsadiykiym ta'alots kireyah vva'avod resha'iym rinah.",
     "translation": "Com o bem dos justos a cidade se alegra, e com a ruína dos perversos há júbilo."
   },
   {
     "verse": 11,
-    "original": "בְּבִרְכַּ֣ת יְ֭שָׁרִים תָּר֣וּם קָ֑רֶת וּבְפִ֥י רְ֝שָׁעִ֗ים תֵּהָרֵֽס׃",
+    "original": "<span data-strong=\"H1293\">בְּבִרְכַּ֣ת</span> <span data-strong=\"H3477\">יְ֭שָׁרִים</span> <span data-strong=\"H7311\">תָּר֣וּם</span> <span data-strong=\"H7176\">קָ֑רֶת</span> <span data-strong=\"H6310\">וּבְפִ֥י</span> <span data-strong=\"H7563\">רְ֝שָׁעִ֗ים</span> <span data-strong=\"H2040\">תֵּהָרֵֽס׃</span>",
     "transliteration": "vevirekhat yeshariym tarvm karet vvefiy resha'iym tehares.",
     "translation": "Na bênção dos justos se eleva a fortuna, mas na boca dos ímpios será destruída."
   },
   {
     "verse": 12,
-    "original": "בׇּז־לְרֵעֵ֥הוּ חֲסַר־לֵ֑ב וְאִ֖ישׁ תְּבוּנ֣וֹת יַחֲרִֽישׁ׃",
+    "original": "<span data-strong=\"H936\">בׇּז</span>־<span data-strong=\"H1930\">לְרֵעֵ֥הוּ</span> <span data-strong=\"H2638\">חֲסַר</span>־<span data-strong=\"H3820\">לֵ֑ב</span> <span data-strong=\"H376\">וְאִ֖ישׁ</span> <span data-strong=\"H8394\">תְּבוּנ֣וֹת</span> <span data-strong=\"H2790\">יַחֲרִֽישׁ׃</span>",
     "transliteration": "voz-lere'ehv hasar-lev ve'iysh tevvnvot yahariysh.",
     "translation": "No amigo falta coração, mas o homem de entendimento guardará silêncio."
   },
   {
     "verse": 13,
-    "original": "הוֹלֵ֣ךְ רָ֭כִיל מְגַלֶּה־סּ֑וֹד וְנֶאֱמַן־ר֝֗וּחַ מְכַסֶּ֥ה דָבָֽר׃",
+    "original": "<span data-strong=\"H1980\">הוֹלֵ֣ךְ</span> <span data-strong=\"H7400\">רָ֭כִיל</span> <span data-strong=\"H1540\">מְגַלֶּה</span>־<span data-strong=\"H5475\">סּ֑וֹד</span> <span data-strong=\"H539\">וְנֶאֱמַן</span>־<span data-strong=\"H7307\">ר֝֗וּחַ</span> <span data-strong=\"H3680\">מְכַסֶּ֥ה</span> <span data-strong=\"H1697\">דָבָֽר׃</span>",
     "transliteration": "hvolekhe rakhiyl megaleh-svod vene'eman-rvha mekhaseh davar.",
     "translation": "Que anda como caluniador revela segredos, mas o fiel em espírito esconde a palavra."
   },
   {
     "verse": 14,
-    "original": "בְּאֵ֣ין תַּ֭חְבֻּלוֹת יִפׇּל־עָ֑ם וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃",
+    "original": "<span data-strong=\"H369\">בְּאֵ֣ין</span> <span data-strong=\"H8458\">תַּ֭חְבֻּלוֹת</span> <span data-strong=\"H5307\">יִפׇּל</span>־<span data-strong=\"H5971\">עָ֑ם</span> <span data-strong=\"H8668\">וּ֝תְשׁוּעָ֗ה</span> <span data-strong=\"H7230\">בְּרֹ֣ב</span> <span data-strong=\"H3289\">יוֹעֵֽץ׃</span>",
     "transliteration": "ve'eyn tahevulvot yifol-'am vteshv'ah verov yvo'ets.",
     "translation": "Sem conselheiros, o povo cairá; porém, com muitos aconselhadores, prevalecerá a salvação."
   },
   {
     "verse": 15,
-    "original": "רַע־יֵ֭רוֹעַ כִּי־עָ֣רַב זָ֑ר וְשֹׂנֵ֖א תֹקְעִ֣ים בּוֹטֵֽחַ׃",
+    "original": "<span data-strong=\"H7451\">רַע</span>־<span data-strong=\"H7489\">יֵ֭רוֹעַ</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H6148\">עָ֣רַב</span> <span data-strong=\"H2114\">זָ֑ר</span> <span data-strong=\"H8130\">וְשֹׂנֵ֖א</span> <span data-strong=\"H8628\">תֹקְעִ֣ים</span> <span data-strong=\"H982\">בּוֹטֵֽחַ׃</span>",
     "transliteration": "ra'-yervo'a khiy-'arav zar vesone' toke'iym vvoteha.",
     "translation": "Mal se alegra o malvado, pois o estrangeiro foi abatido; e o inimigo aumenta seus murmuradores contra o confiante."
   },
   {
     "verse": 16,
-    "original": "אֵֽשֶׁת־חֵ֭ן תִּתְמֹ֣ךְ כָּב֑וֹד וְ֝עָרִיצִ֗ים יִתְמְכוּ־עֹֽשֶׁר׃",
+    "original": "<span data-strong=\"H802\">אֵֽשֶׁת</span>־<span data-strong=\"H2580\">חֵ֭ן</span> <span data-strong=\"H8551\">תִּתְמֹ֣ךְ</span> <span data-strong=\"H3519\">כָּב֑וֹד</span> <span data-strong=\"H6184\">וְ֝עָרִיצִ֗ים</span> <span data-strong=\"H8551\">יִתְמְכוּ</span>־<span data-strong=\"H6239\">עֹֽשֶׁר׃</span>",
     "transliteration": "'eshet-hen titemokhe khavvod ve'ariytsiym yitemekhv-'osher.",
     "translation": "Mulher de graça, manterás honra; e os ricos guardarão a riqueza."
   },
   {
     "verse": 17,
-    "original": "גֹּמֵ֣ל נַ֭פְשׁוֹ אִ֣ישׁ חָ֑סֶד וְעֹכֵ֥ר שְׁ֝אֵר֗וֹ אַכְזָרִֽי׃",
+    "original": "<span data-strong=\"H1580\">גֹּמֵ֣ל</span> <span data-strong=\"H2050\">נַ֭פְשׁוֹ</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H2617\">חָ֑סֶד</span> <span data-strong=\"H5916\">וְעֹכֵ֥ר</span> <span data-strong=\"H2050\">שְׁ֝אֵר֗וֹ</span> <span data-strong=\"H394\">אַכְזָרִֽי׃</span>",
     "transliteration": "gomel nafeshvo 'iysh hased ve'okher she'ervo 'akhezariy.",
     "translation": "Quem beneficia sua alma é homem de misericórdia, e quem impõe seu restante é cruel."
   },
   {
     "verse": 18,
-    "original": "רָשָׁ֗ע עֹשֶׂ֥ה פְעֻלַּת־שָׁ֑קֶר וְזֹרֵ֥עַ צְ֝דָקָ֗ה שֶׂ֣כֶר אֱמֶֽת׃",
+    "original": "<span data-strong=\"H7563\">רָשָׁ֗ע</span> <span data-strong=\"H6213\">עֹשֶׂ֥ה</span> <span data-strong=\"H6468\">פְעֻלַּת</span>־<span data-strong=\"H8267\">שָׁ֑קֶר</span> <span data-strong=\"H2232\">וְזֹרֵ֥עַ</span> <span data-strong=\"H6666\">צְ֝דָקָ֗ה</span> <span data-strong=\"H7938\">שֶׂ֣כֶר</span> <span data-strong=\"H571\">אֱמֶֽת׃</span>",
     "transliteration": "rasha' 'oseh fe'ulat-shaker vezore'a tsedakah sekher 'emet.",
     "translation": "Perverso faz obra de mentira, e semeia justiça, mas é verdade enganosa."
   },
   {
     "verse": 19,
-    "original": "כֵּן־צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ׃",
+    "original": "<span data-strong=\"H3651\">כֵּן</span>־<span data-strong=\"H6666\">צְדָקָ֥ה</span> <span data-strong=\"H2416\">לְחַיִּ֑ים</span> <span data-strong=\"H7291\">וּמְרַדֵּ֖ף</span> <span data-strong=\"H7451\">רָעָ֣ה</span> <span data-strong=\"H2050\">לְמוֹתֽוֹ׃</span>",
     "transliteration": "khen-tsedakah lehayiym vmeradef ra'ah lemvotvo.",
     "translation": "Assim é a justiça para a vida, e quem persegue o mal morrerá."
   },
   {
     "verse": 20,
-    "original": "תּוֹעֲבַ֣ת יְ֭הֹוָה עִקְּשֵׁי־לֵ֑ב וּ֝רְצוֹנ֗וֹ תְּמִ֣ימֵי דָֽרֶךְ׃",
+    "original": "<span data-strong=\"H8441\">תּוֹעֲבַ֣ת</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H6141\">עִקְּשֵׁי</span>־<span data-strong=\"H3820\">לֵ֑ב</span> <span data-strong=\"H2050\">וּ֝רְצוֹנ֗וֹ</span> <span data-strong=\"H8549\">תְּמִ֣ימֵי</span> <span data-strong=\"H1870\">דָֽרֶךְ׃</span>",
     "transliteration": "tvo'avat yehovah 'ikeshey-lev vretsvonvo temiymey darekhe.",
     "translation": "Abominável ao Senhor é quem se endurece de coração, mas o seu desejo está sobre os perfeitos de caminho."
   },
   {
     "verse": 21,
-    "original": "יָ֣ד לְ֭יָד לֹא־יִנָּ֣קֶה רָּ֑ע וְזֶ֖רַע צַדִּיקִ֣ים נִמְלָֽט׃",
+    "original": "<span data-strong=\"H3027\">יָ֣ד</span> <span data-strong=\"H3027\">לְ֭יָד</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5352\">יִנָּ֣קֶה</span> <span data-strong=\"H7451\">רָּ֑ע</span> <span data-strong=\"H2233\">וְזֶ֖רַע</span> <span data-strong=\"H6662\">צַדִּיקִ֣ים</span> <span data-strong=\"H4422\">נִמְלָֽט׃</span>",
     "transliteration": "yad leyad lo'-yinakeh ra' vezera' tsadiykiym nimelat.",
     "translation": "Mão por mão, o mal não é purgado; mas a semente dos retos se livra."
   },
   {
     "verse": 22,
-    "original": "נֶ֣זֶם זָ֭הָב בְּאַ֣ף חֲזִ֑יר אִשָּׁ֥ה יָ֝פָ֗ה וְסָ֣רַת טָֽעַם׃",
+    "original": "<span data-strong=\"H5141\">נֶ֣זֶם</span> <span data-strong=\"H2091\">זָ֭הָב</span> <span data-strong=\"H639\">בְּאַ֣ף</span> <span data-strong=\"H2386\">חֲזִ֑יר</span> <span data-strong=\"H802\">אִשָּׁ֥ה</span> <span data-strong=\"H3303\">יָ֝פָ֗ה</span> <span data-strong=\"H5493\">וְסָ֣רַת</span> <span data-strong=\"H2940\">טָֽעַם׃</span>",
     "transliteration": "nezem zahav ve'af haziyr 'ishah yafah vesarat ta'am.",
     "translation": "Um anel de ouro no focinho de um javali, uma mulher bonita que age sem juízo."
   },
   {
     "verse": 23,
-    "original": "תַּאֲוַ֣ת צַדִּיקִ֣ים אַךְ־ט֑וֹב תִּקְוַ֖ת רְשָׁעִ֣ים עֶבְרָֽה׃",
+    "original": "<span data-strong=\"H8378\">תַּאֲוַ֣ת</span> <span data-strong=\"H6662\">צַדִּיקִ֣ים</span> <span data-strong=\"H389\">אַךְ</span>־<span data-strong=\"H2896\">ט֑וֹב</span> <span data-strong=\"H8615\">תִּקְוַ֖ת</span> <span data-strong=\"H7563\">רְשָׁעִ֣ים</span> <span data-strong=\"H5678\">עֶבְרָֽה׃</span>",
     "transliteration": "ta'avat tsadiykiym 'akhe-tvov tikevat resha'iym 'everah.",
     "translation": "O desejo dos justos é apenas o bem, mas a esperança dos perversos é perversão."
   },
   {
     "verse": 24,
-    "original": "יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ־לְמַחְסֽוֹר׃",
+    "original": "<span data-strong=\"H3426\">יֵ֣שׁ</span> <span data-strong=\"H6340\">מְ֭פַזֵּר</span> <span data-strong=\"H3254\">וְנוֹסָ֥ף</span> <span data-strong=\"H5750\">ע֑וֹד</span> <span data-strong=\"H2820\">וְחֹשֵׂ֥ךְ</span> <span data-strong=\"H3476\">מִ֝יֹּ֗שֶׁר</span> <span data-strong=\"H389\">אַךְ</span>־<span data-strong=\"H4270\">לְמַחְסֽוֹר׃</span>",
     "transliteration": "yesh mefazer venvosaf 'vod vehosekhe miyosher 'akhe-lemahesvor.",
     "translation": "Há quem espalhe e, no entanto, cresce mais; há quem retenha o que é justo, mas acaba na penúria."
   },
   {
     "verse": 25,
-    "original": "נֶֽפֶשׁ־בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם־ה֥וּא יוֹרֶֽא׃",
+    "original": "<span data-strong=\"H5315\">נֶֽפֶשׁ</span>־<span data-strong=\"H1293\">בְּרָכָ֥ה</span> <span data-strong=\"H1878\">תְדֻשָּׁ֑ן</span> <span data-strong=\"H7301\">וּ֝מַרְוֶ֗ה</span> <span data-strong=\"H1571\">גַּם</span>־<span data-strong=\"H1931\">ה֥וּא</span> <span data-strong=\"H3384\">יוֹרֶֽא׃</span>",
     "transliteration": "nefesh-verakhah tedushan vmareveh gam-hv' yvore'.",
     "translation": "Alma de bênção os abençoará, e aquele que sacia também fará chover."
   },
   {
     "verse": 26,
-    "original": "מֹ֣נֵֽעַ בָּ֭ר יִקְּבֻ֣הוּ לְא֑וֹם וּ֝בְרָכָ֗ה לְרֹ֣אשׁ מַשְׁבִּֽיר׃",
+    "original": "<span data-strong=\"H4513\">מֹ֣נֵֽעַ</span> <span data-strong=\"H1250\">בָּ֭ר</span> <span data-strong=\"H1930\">יִקְּבֻ֣הוּ</span> <span data-strong=\"H3816\">לְא֑וֹם</span> <span data-strong=\"H1293\">וּ֝בְרָכָ֗ה</span> <span data-strong=\"H7218\">לְרֹ֣אשׁ</span> <span data-strong=\"H7666\">מַשְׁבִּֽיר׃</span>",
     "transliteration": "mone'a var yikevuhv le'vom vverakhah lero'sh masheviyr.",
     "translation": "Rejeitado entre os pastores, serão obrigados a carregar seus corpos como algozes; mas bênção repousará sobre a cabeça do quebrantador."
   },
   {
     "verse": 27,
-    "original": "שֹׁ֣חֵֽר ט֭וֹב יְבַקֵּ֣שׁ רָצ֑וֹן וְדֹרֵ֖שׁ רָעָ֣ה תְבוֹאֶֽנּוּ׃",
+    "original": "<span data-strong=\"H7836\">שֹׁ֣חֵֽר</span> <span data-strong=\"H2896\">ט֭וֹב</span> <span data-strong=\"H1245\">יְבַקֵּ֣שׁ</span> <span data-strong=\"H7522\">רָצ֑וֹן</span> <span data-strong=\"H1875\">וְדֹרֵ֖שׁ</span> <span data-strong=\"H7451\">רָעָ֣ה</span> <span data-strong=\"H5105\">תְבוֹאֶֽנּוּ׃</span>",
     "transliteration": "shoher tvov yevakesh ratsvon vedoresh ra'ah tevvo'env.",
     "translation": "Aquele que busca o bem almeja o favor, mas quem procura o mal sobre ele virá."
   },
   {
     "verse": 28,
-    "original": "בּוֹטֵ֣חַ בְּ֭עׇשְׁרוֹ ה֣וּא יִפּ֑וֹל וְ֝כֶעָלֶ֗ה צַדִּיקִ֥ים יִפְרָֽחוּ׃",
+    "original": "<span data-strong=\"H982\">בּוֹטֵ֣חַ</span> <span data-strong=\"H2050\">בְּ֭עׇשְׁרוֹ</span> <span data-strong=\"H1931\">ה֣וּא</span> <span data-strong=\"H5307\">יִפּ֑וֹל</span> <span data-strong=\"H5929\">וְ֝כֶעָלֶ֗ה</span> <span data-strong=\"H6662\">צַדִּיקִ֥ים</span> <span data-strong=\"H6524\">יִפְרָֽחוּ׃</span>",
     "transliteration": "vvoteha ve'oshervo hv' yifvol vekhe'aleh tsadiykiym yiferahv.",
     "translation": "Nele que confia em sua riqueza cairá, mas os justos florescerão como a oliveira verdadeira."
   },
   {
     "verse": 29,
-    "original": "עֹכֵ֣ר בֵּ֭יתוֹ יִנְחַל־ר֑וּחַ וְעֶ֥בֶד אֱ֝וִ֗יל לַֽחֲכַם־לֵֽב׃",
+    "original": "<span data-strong=\"H5916\">עֹכֵ֣ר</span> <span data-strong=\"H2050\">בֵּ֭יתוֹ</span> <span data-strong=\"H5157\">יִנְחַל</span>־<span data-strong=\"H7307\">ר֑וּחַ</span> <span data-strong=\"H5650\">וְעֶ֥בֶד</span> <span data-strong=\"H191\">אֱ֝וִ֗יל</span> <span data-strong=\"H2450\">לַֽחֲכַם</span>־<span data-strong=\"H3820\">לֵֽב׃</span>",
     "transliteration": "'okher veytvo yinehal-rvha ve'eved 'eviyl lahakham-lev.",
     "translation": "Quem desfaz sua casa herdará ventos, e servo de insensato será o homem prudente."
   },
   {
     "verse": 30,
-    "original": "פְּֽרִי־צַ֭דִּיק עֵ֣ץ חַיִּ֑ים וְלֹקֵ֖חַ נְפָשׁ֣וֹת חָכָֽם׃",
+    "original": "<span data-strong=\"H6529\">פְּֽרִי</span>־<span data-strong=\"H6662\">צַ֭דִּיק</span> <span data-strong=\"H6086\">עֵ֣ץ</span> <span data-strong=\"H2416\">חַיִּ֑ים</span> <span data-strong=\"H3947\">וְלֹקֵ֖חַ</span> <span data-strong=\"H5315\">נְפָשׁ֣וֹת</span> <span data-strong=\"H2450\">חָכָֽם׃</span>",
     "transliteration": "feriy-tsadiyk 'ets hayiym velokeha nefashvot hakham.",
     "translation": "O fruto do justo é uma árvore de vida, e o sábio conquista almas."
   },
   {
     "verse": 31,
-    "original": "הֵ֣ן צַ֭דִּיק בָּאָ֣רֶץ יְשֻׁלָּ֑ם אַ֝֗ף כִּֽי־רָשָׁ֥ע וְחוֹטֵֽא׃",
+    "original": "<span data-strong=\"H2005\">הֵ֣ן</span> <span data-strong=\"H6662\">צַ֭דִּיק</span> <span data-strong=\"H776\">בָּאָ֣רֶץ</span> <span data-strong=\"H7999\">יְשֻׁלָּ֑ם</span> <span data-strong=\"H637\">אַ֝֗ף</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7563\">רָשָׁ֥ע</span> <span data-strong=\"H2398\">וְחוֹטֵֽא׃</span>",
     "transliteration": "hen tsadiyk va'arets yeshulam 'af khiy-rasha' vehvote'.",
     "translation": "Eis o justo na terra será estabelecido; ainda que seja perverso e pecador."
   }

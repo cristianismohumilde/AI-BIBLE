@@ -1,67 +1,67 @@
 [
   {
     "verse": 1,
-    "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֥ר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
-    "original": "נְקֹ֗ם נִקְמַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מֵאֵ֖ת הַמִּדְיָנִ֑ים אַחַ֖ר תֵּאָסֵ֥ף אֶל־עַמֶּֽיךָ׃",
+    "original": "<span data-strong=\"H5358\">נְקֹ֗ם</span> <span data-strong=\"H5360\">נִקְמַת֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H854\">מֵאֵ֖ת</span> <span data-strong=\"H4084\">הַמִּדְיָנִ֑ים</span> <span data-strong=\"H310\">אַחַ֖ר</span> <span data-strong=\"H622\">תֵּאָסֵ֥ף</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3509\">עַמֶּֽיךָ׃</span>",
     "transliteration": "nekom nikemat veney yisera'el me'et hamideyaniym 'ahar te'asef 'el-'ameykha.",
     "translation": "Vingai a vingança dos filhos de Israel dos midianitas; depois sereis recolhido ao vosso povo."
   },
   {
     "verse": 3,
-    "original": "וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל־הָעָ֣ם לֵאמֹ֔ר הֵחָלְצ֧וּ מֵאִתְּכֶ֛ם אֲנָשִׁ֖ים לַצָּבָ֑א וְיִהְיוּ֙ עַל־מִדְיָ֔ן לָתֵ֥ת נִקְמַת־יְהֹוָ֖ה בְּמִדְיָֽן׃",
+    "original": "<span data-strong=\"H1696\">וַיְדַבֵּ֤ר</span> <span data-strong=\"H4872\">מֹשֶׁה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5971\">הָעָ֣ם</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H2502\">הֵחָלְצ֧וּ</span> <span data-strong=\"H3641\">מֵאִתְּכֶ֛ם</span> <span data-strong=\"H376\">אֲנָשִׁ֖ים</span> <span data-strong=\"H6635\">לַצָּבָ֑א</span> <span data-strong=\"H1961\">וְיִהְיוּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4080\">מִדְיָ֔ן</span> <span data-strong=\"H5414\">לָתֵ֥ת</span> <span data-strong=\"H5360\">נִקְמַת</span>־<span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H4080\">בְּמִדְיָֽן׃</span>",
     "transliteration": "vayedaver mosheh 'el-ha'am le'mor hehaletsv me'itekhem 'anashiym latsava' veyiheyv 'al-mideyan latet nikemat-yehovah vemideyan.",
     "translation": "E Moisés falou ao povo, dizendo: Escolhei dentre vós homens para a batalha, e sejam sobre Midiã para dar à Jehovah a sua vingança em Midiã.\n\nCorreção:\nE Moisés falou ao povo, dizendo: Escolgai dentre vós homens para o exército, e esteja sobre Midiã para dar a Jeová a vossa vingança contra Midiã."
   },
   {
     "verse": 4,
-    "original": "אֶ֚לֶף לַמַּטֶּ֔ה אֶ֖לֶף לַמַּטֶּ֑ה לְכֹל֙ מַטּ֣וֹת יִשְׂרָאֵ֔ל תִּשְׁלְח֖וּ לַצָּבָֽא׃",
+    "original": "<span data-strong=\"H505\">אֶ֚לֶף</span> <span data-strong=\"H4294\">לַמַּטֶּ֔ה</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H4294\">לַמַּטֶּ֑ה</span> <span data-strong=\"H3605\">לְכֹל֙</span> <span data-strong=\"H4294\">מַטּ֣וֹת</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H7971\">תִּשְׁלְח֖וּ</span> <span data-strong=\"H6635\">לַצָּבָֽא׃</span>",
     "transliteration": "'elef lamateh 'elef lamateh lekhol matvot yisera'el tishelehv latsava'.",
     "translation": "Mil por tribo, mil por tribo, para todas as tribos de Israel, enviarão ao exército."
   },
   {
     "verse": 5,
-    "original": "וַיִּמָּֽסְרוּ֙ מֵאַלְפֵ֣י יִשְׂרָאֵ֔ל אֶ֖לֶף לַמַּטֶּ֑ה שְׁנֵים־עָשָׂ֥ר אֶ֖לֶף חֲלוּצֵ֥י צָבָֽא׃",
+    "original": "<span data-strong=\"H4560\">וַיִּמָּֽסְרוּ֙</span> <span data-strong=\"H505\">מֵאַלְפֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H4294\">לַמַּטֶּ֑ה</span> <span data-strong=\"H8147\">שְׁנֵים</span>־<span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H2502\">חֲלוּצֵ֥י</span> <span data-strong=\"H6635\">צָבָֽא׃</span>",
     "transliteration": "vayimaserv me'alefey yisera'el 'elef lamateh sheneym-'asar 'elef halvtsey tsava'.",
     "translation": "E deram de milhares de Israel, um milhar por tribo, doze mil, guerreiros valorosos para o exército."
   },
   {
     "verse": 6,
-    "original": "וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה אֶ֥לֶף לַמַּטֶּ֖ה לַצָּבָ֑א אֹ֠תָ֠ם וְאֶת־פִּ֨ינְחָ֜ס בֶּן־אֶלְעָזָ֤ר הַכֹּהֵן֙ לַצָּבָ֔א וּכְלֵ֥י הַקֹּ֛דֶשׁ וַחֲצֹצְר֥וֹת הַתְּרוּעָ֖ה בְּיָדֽוֹ׃",
+    "original": "<span data-strong=\"H7971\">וַיִּשְׁלַ֨ח</span> <span data-strong=\"H3963\">אֹתָ֥ם</span> <span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H505\">אֶ֥לֶף</span> <span data-strong=\"H4294\">לַמַּטֶּ֖ה</span> <span data-strong=\"H6635\">לַצָּבָ֑א</span> <span data-strong=\"H3963\">אֹ֠תָ֠ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H6372\">פִּ֨ינְחָ֜ס</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H499\">אֶלְעָזָ֤ר</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H6635\">לַצָּבָ֔א</span> <span data-strong=\"H3627\">וּכְלֵ֥י</span> <span data-strong=\"H6944\">הַקֹּ֛דֶשׁ</span> <span data-strong=\"H2689\">וַחֲצֹצְר֥וֹת</span> <span data-strong=\"H8643\">הַתְּרוּעָ֖ה</span> <span data-strong=\"H2050\">בְּיָדֽוֹ׃</span>",
     "transliteration": "vayishelah 'otam mosheh 'elef lamateh latsava' 'otam ve'et-fiynehas ven-'ele'azar hakhohen latsava' vkheley hakodesh vahatsotservot haterv'ah veyadvo.",
     "translation": "E Moisés os enviou, mil por tribo, ao exército; com eles, Finéias, filho de Eleazar, o sacerdote, para o exército, e levaram consigo os utensílios sagrados e as trombetas de arremesso na mão."
   },
   {
     "verse": 7,
-    "original": "וַֽיִּצְבְּאוּ֙ עַל־מִדְיָ֔ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה וַיַּֽהַרְג֖וּ כׇּל־זָכָֽר׃",
+    "original": "<span data-strong=\"H6633\">וַֽיִּצְבְּאוּ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4080\">מִדְיָ֔ן</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H2026\">וַיַּֽהַרְג֖וּ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2145\">זָכָֽר׃</span>",
     "transliteration": "vayitseve'v 'al-mideyan kha'asher tsivah yehovah 'et-mosheh vayaharegv khol-zakhar.",
     "translation": "Eles se organizaram contra Madiã, conforme ordenou o Senhor a Moisés, e mataram todos os machos."
   },
   {
     "verse": 8,
-    "original": "וְאֶת־מַלְכֵ֨י מִדְיָ֜ן הָרְג֣וּ עַל־חַלְלֵיהֶ֗ם אֶת־אֱוִ֤י וְאֶת־רֶ֙קֶם֙ וְאֶת־צ֤וּר וְאֶת־חוּר֙ וְאֶת־רֶ֔בַע חֲמֵ֖שֶׁת מַלְכֵ֣י מִדְיָ֑ן וְאֵת֙ בִּלְעָ֣ם בֶּן־בְּע֔וֹר הָרְג֖וּ בֶּחָֽרֶב׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H4428\">מַלְכֵ֨י</span> <span data-strong=\"H4080\">מִדְיָ֜ן</span> <span data-strong=\"H2026\">הָרְג֣וּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">חַלְלֵיהֶ֗ם</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H189\">אֱוִ֤י</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7552\">רֶ֙קֶם֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H6698\">צ֤וּר</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H2354\">חוּר֙</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H7254\">רֶ֔בַע</span> <span data-strong=\"H2568\">חֲמֵ֖שֶׁת</span> <span data-strong=\"H4428\">מַלְכֵ֣י</span> <span data-strong=\"H4080\">מִדְיָ֑ן</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H1109\">בִּלְעָ֣ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H1160\">בְּע֔וֹר</span> <span data-strong=\"H2026\">הָרְג֖וּ</span> <span data-strong=\"H2719\">בֶּחָֽרֶב׃</span>",
     "transliteration": "ve'et-malekhey mideyan haregv 'al-haleleyhem 'et-'eviy ve'et-rekem ve'et-tsvr ve'et-hvr ve'et-reva' hameshet malekhey mideyan ve'et vile'am ven-ve'vor haregv veharev.",
     "translation": "E mataram os reis de Madiã sobre seus cadáveres, a Evi e Requem, Zur e Hur, e Reba, cinco reis de Madiã; também Bilãm, filho de Beor, mataram à espada."
   },
   {
     "verse": 9,
-    "original": "וַיִּשְׁבּ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־נְשֵׁ֥י מִדְיָ֖ן וְאֶת־טַפָּ֑ם וְאֵ֨ת כׇּל־בְּהֶמְתָּ֧ם וְאֶת־כׇּל־מִקְנֵהֶ֛ם וְאֶת־כׇּל־חֵילָ֖ם בָּזָֽזוּ׃",
+    "original": "<span data-strong=\"H7617\">וַיִּשְׁבּ֧וּ</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H802\">נְשֵׁ֥י</span> <span data-strong=\"H4080\">מִדְיָ֖ן</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3963\">טַפָּ֑ם</span> <span data-strong=\"H853\">וְאֵ֨ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">בְּהֶמְתָּ֧ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">מִקְנֵהֶ֛ם</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">חֵילָ֖ם</span> <span data-strong=\"H962\">בָּזָֽזוּ׃</span>",
     "transliteration": "vayishevv veney-yisera'el 'et-neshey mideyan ve'et-tafam ve'et khol-vehemetam ve'et-khol-mikenehem ve'et-khol-heylam vazazv.",
     "translation": "E os filhos de Israel capturaram as mulheres de Midian e suas crianças, e tomaram para si todo o gado e todos os rebanhos, e despojaram toda a riqueza deles."
   },
   {
     "verse": 10,
-    "original": "וְאֵ֤ת כׇּל־עָרֵיהֶם֙ בְּמ֣וֹשְׁבֹתָ֔ם וְאֵ֖ת כׇּל־טִֽירֹתָ֑ם שָׂרְפ֖וּ בָּאֵֽשׁ׃",
+    "original": "<span data-strong=\"H853\">וְאֵ֤ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">עָרֵיהֶם֙</span> <span data-strong=\"H3963\">בְּמ֣וֹשְׁבֹתָ֔ם</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3963\">טִֽירֹתָ֑ם</span> <span data-strong=\"H8313\">שָׂרְפ֖וּ</span> <span data-strong=\"H784\">בָּאֵֽשׁ׃</span>",
     "transliteration": "ve'et khol-'areyhem vemvoshevotam ve'et khol-tiyrotam sarefv va'esh.",
     "translation": "E com todas as suas cidades em seus assentamentos, e com todas as suas torres, eles incendiaram."
   },
   {
     "verse": 11,
-    "original": "וַיִּקְחוּ֙ אֶת־כׇּל־הַשָּׁלָ֔ל וְאֵ֖ת כׇּל־הַמַּלְק֑וֹחַ בָּאָדָ֖ם וּבַבְּהֵמָֽה׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקְחוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7998\">הַשָּׁלָ֔ל</span> <span data-strong=\"H853\">וְאֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H4455\">הַמַּלְק֑וֹחַ</span> <span data-strong=\"H120\">בָּאָדָ֖ם</span> <span data-strong=\"H929\">וּבַבְּהֵמָֽה׃</span>",
     "transliteration": "vayikehv 'et-khol-hashalal ve'et khol-hamalekvoha va'adam vvavehemah.",
     "translation": "E tomaram todo o despojo e toda a presa, do homem e do animal."
   },
@@ -73,43 +73,43 @@
   },
   {
     "verse": 13,
-    "original": "וַיֵּ֨צְא֜וּ מֹשֶׁ֨ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן וְכׇל־נְשִׂיאֵ֥י הָעֵדָ֖ה לִקְרָאתָ֑ם אֶל־מִח֖וּץ לַֽמַּחֲנֶֽה׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּ֨צְא֜וּ</span> <span data-strong=\"H4872\">מֹשֶׁ֨ה</span> <span data-strong=\"H499\">וְאֶלְעָזָ֧ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H5387\">נְשִׂיאֵ֥י</span> <span data-strong=\"H5712\">הָעֵדָ֖ה</span> <span data-strong=\"H3963\">לִקְרָאתָ֑ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2351\">מִח֖וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶֽה׃</span>",
     "transliteration": "vayetse'v mosheh ve'ele'azar hakhohen vekhol-nesiy'ey ha'edah likera'tam 'el-mihvts lamahaneh.",
     "translation": "E saíram Moisés e Eleazar, o sacerdote, e todos os príncipes da congregação para ao seu encontro, fora do arraial."
   },
   {
     "verse": 14,
-    "original": "וַיִּקְצֹ֣ף מֹשֶׁ֔ה עַ֖ל פְּקוּדֵ֣י הֶחָ֑יִל שָׂרֵ֤י הָאֲלָפִים֙ וְשָׂרֵ֣י הַמֵּא֔וֹת הַבָּאִ֖ים מִצְּבָ֥א הַמִּלְחָמָֽה׃",
+    "original": "<span data-strong=\"H7107\">וַיִּקְצֹ֣ף</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H6485\">פְּקוּדֵ֣י</span> <span data-strong=\"H2428\">הֶחָ֑יִל</span> <span data-strong=\"H8269\">שָׂרֵ֤י</span> <span data-strong=\"H505\">הָאֲלָפִים֙</span> <span data-strong=\"H8269\">וְשָׂרֵ֣י</span> <span data-strong=\"H3967\">הַמֵּא֔וֹת</span> <span data-strong=\"H935\">הַבָּאִ֖ים</span> <span data-strong=\"H6635\">מִצְּבָ֥א</span> <span data-strong=\"H4421\">הַמִּלְחָמָֽה׃</span>",
     "transliteration": "vayiketsof mosheh 'al fekvdey hehayil sarey ha'alafiym vesarey hame'vot hava'iym mitseva' hamilehamah.",
     "translation": "E Moisés se indignou contra os oficiais dos milhares e os comandantes dos cem que vinham do serviço militar, que regressavam da batalha."
   },
   {
     "verse": 15,
-    "original": "וַיֹּ֥אמֶר אֲלֵיהֶ֖ם מֹשֶׁ֑ה הַֽחִיִּיתֶ֖ם כׇּל־נְקֵבָֽה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H3963\">אֲלֵיהֶ֖ם</span> <span data-strong=\"H4872\">מֹשֶׁ֑ה</span> <span data-strong=\"H2421\">הַֽחִיִּיתֶ֖ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5347\">נְקֵבָֽה׃</span>",
     "transliteration": "vayo'mer 'aleyhem mosheh hahiyiytem khol-nekevah.",
     "translation": "E Moisés lhes disse: Conservastes todas as fêmeas?"
   },
   {
     "verse": 16,
-    "original": "הֵ֣ן הֵ֜נָּה הָי֨וּ לִבְנֵ֤י יִשְׂרָאֵל֙ בִּדְבַ֣ר בִּלְעָ֔ם לִמְסׇר־מַ֥עַל בַּיהֹוָ֖ה עַל־דְּבַר־פְּע֑וֹר וַתְּהִ֥י הַמַּגֵּפָ֖ה בַּעֲדַ֥ת יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H2005\">הֵ֣ן</span> <span data-strong=\"H2007\">הֵ֜נָּה</span> <span data-strong=\"H1961\">הָי֨וּ</span> <span data-strong=\"H1121\">לִבְנֵ֤י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H1697\">בִּדְבַ֣ר</span> <span data-strong=\"H1109\">בִּלְעָ֔ם</span> <span data-strong=\"H4560\">לִמְסׇר</span>־<span data-strong=\"H4604\">מַ֥עַל</span> <span data-strong=\"H3068\">בַּיהֹוָ֖ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1697\">דְּבַר</span>־<span data-strong=\"H6465\">פְּע֑וֹר</span> <span data-strong=\"H1961\">וַתְּהִ֥י</span> <span data-strong=\"H4046\">הַמַּגֵּפָ֖ה</span> <span data-strong=\"H5712\">בַּעֲדַ֥ת</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "hen henah hayv liveney yisera'el videvar vile'am limesor-ma'al vayhovah 'al-devar-fe'vor vatehiy hamagefah va'adat yehovah.",
     "translation": "Eis que os filhos de Israel estiveram por causa de Balaão para provocar transgressão ao Senhor, em relação à questão de Peor; e veio a peste sobre a congregação do Senhor."
   },
   {
     "verse": 17,
-    "original": "וְעַתָּ֕ה הִרְג֥וּ כׇל־זָכָ֖ר בַּטָּ֑ף וְכׇל־אִשָּׁ֗ה יֹדַ֥עַת אִ֛ישׁ לְמִשְׁכַּ֥ב זָכָ֖ר הֲרֹֽגוּ׃",
+    "original": "<span data-strong=\"H6258\">וְעַתָּ֕ה</span> <span data-strong=\"H2026\">הִרְג֥וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H2145\">זָכָ֖ר</span> <span data-strong=\"H2945\">בַּטָּ֑ף</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H802\">אִשָּׁ֗ה</span> <span data-strong=\"H3045\">יֹדַ֥עַת</span> <span data-strong=\"H376\">אִ֛ישׁ</span> <span data-strong=\"H4904\">לְמִשְׁכַּ֥ב</span> <span data-strong=\"H2145\">זָכָ֖ר</span> <span data-strong=\"H2026\">הֲרֹֽגוּ׃</span>",
     "transliteration": "ve'atah hiregv khol-zakhar vataf vekhol-'ishah yoda'at 'iysh lemishekhav zakhar harogv.",
     "translation": "E agora, matai todo macho entre os meninos, e toda mulher que conheceu homem para o leito masculino, matai."
   },
   {
     "verse": 18,
-    "original": "וְכֹל֙ הַטַּ֣ף בַּנָּשִׁ֔ים אֲשֶׁ֥ר לֹא־יָדְע֖וּ מִשְׁכַּ֣ב זָכָ֑ר הַחֲי֖וּ לָכֶֽם׃",
+    "original": "<span data-strong=\"H3605\">וְכֹל֙</span> <span data-strong=\"H2945\">הַטַּ֣ף</span> <span data-strong=\"H802\">בַּנָּשִׁ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3045\">יָדְע֖וּ</span> <span data-strong=\"H4904\">מִשְׁכַּ֣ב</span> <span data-strong=\"H2145\">זָכָ֑ר</span> <span data-strong=\"H2421\">הַחֲי֖וּ</span> <span data-strong=\"H3641\">לָכֶֽם׃</span>",
     "transliteration": "vekhol hataf vanashiym 'asher lo'-yade'v mishekhav zakhar hahayv lakhem.",
     "translation": "E toda a criançada das mulheres que não conheceu o leito do macho, conservai viva para vós."
   },
   {
     "verse": 19,
-    "original": "וְאַתֶּ֗ם חֲנ֛וּ מִח֥וּץ לַֽמַּחֲנֶ֖ה שִׁבְעַ֣ת יָמִ֑ים כֹּל֩ הֹרֵ֨ג נֶ֜פֶשׁ וְכֹ֣ל&thinsp;<b>׀</b> נֹגֵ֣עַ בֶּֽחָלָ֗ל תִּֽתְחַטְּא֞וּ בַּיּ֤וֹם הַשְּׁלִישִׁי֙ וּבַיּ֣וֹם הַשְּׁבִיעִ֔י אַתֶּ֖ם וּשְׁבִיכֶֽם׃",
+    "original": "<span data-strong=\"H859\">וְאַתֶּ֗ם</span> <span data-strong=\"H2583\">חֲנ֛וּ</span> <span data-strong=\"H2351\">מִח֥וּץ</span> <span data-strong=\"H4264\">לַֽמַּחֲנֶ֖ה</span> <span data-strong=\"H7651\">שִׁבְעַ֣ת</span> <span data-strong=\"H3117\">יָמִ֑ים</span> <span data-strong=\"H3605\">כֹּל֩</span> <span data-strong=\"H2026\">הֹרֵ֨ג</span> <span data-strong=\"H5315\">נֶ֜פֶשׁ</span> <span data-strong=\"H3605\">וְכֹ֣ל&thinsp;<b>׀</b></span> <span data-strong=\"H5060\">נֹגֵ֣עַ</span> <span data-strong=\"H2491\">בֶּֽחָלָ֗ל</span> <span data-strong=\"H2398\">תִּֽתְחַטְּא֞וּ</span> <span data-strong=\"H3117\">בַּיּ֤וֹם</span> <span data-strong=\"H7992\">הַשְּׁלִישִׁי֙</span> <span data-strong=\"H3117\">וּבַיּ֣וֹם</span> <span data-strong=\"H7637\">הַשְּׁבִיעִ֔י</span> <span data-strong=\"H859\">אַתֶּ֖ם</span> <span data-strong=\"H3641\">וּשְׁבִיכֶֽם׃</span>",
     "transliteration": "ve'atem hanv mihvts lamahaneh shive'at yamiym khol horeg nefesh vekhol&thinsp;<b>|</b> noge'a vehalal titehate'v vayvom hasheliyshiy vvayvom hasheviy'iy 'atem vsheviykhem.",
     "translation": "E vós acampareis fora do arraial por sete dias; todo aquele que matar alguma alma e todo aquele que tocar em cadáver, purificar-se-ão no terceiro dia e no sétimo dia, vós e as vossas gerações."
   },
@@ -121,19 +121,19 @@
   },
   {
     "verse": 21,
-    "original": "וַיֹּ֨אמֶר אֶלְעָזָ֤ר הַכֹּהֵן֙ אֶל־אַנְשֵׁ֣י הַצָּבָ֔א הַבָּאִ֖ים לַמִּלְחָמָ֑ה זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H499\">אֶלְעָזָ֤ר</span> <span data-strong=\"H3548\">הַכֹּהֵן֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H376\">אַנְשֵׁ֣י</span> <span data-strong=\"H6635\">הַצָּבָ֔א</span> <span data-strong=\"H935\">הַבָּאִ֖ים</span> <span data-strong=\"H4421\">לַמִּלְחָמָ֑ה</span> <span data-strong=\"H2063\">זֹ֚את</span> <span data-strong=\"H2708\">חֻקַּ֣ת</span> <span data-strong=\"H8451\">הַתּוֹרָ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayo'mer 'ele'azar hakhohen 'el-'aneshey hatsava' hava'iym lamilehamah zo't hukat hatvorah 'asher-tsivah yehovah 'et-mosheh.",
     "translation": "E disse o sacerdote Elazar aos homens do exército que vinham da batalha: Esta é a estatuuta da lei, que o Senhor ordenou a Moisés."
   },
   {
     "verse": 22,
-    "original": "אַ֥ךְ אֶת־הַזָּהָ֖ב וְאֶת־הַכָּ֑סֶף אֶֽת־הַנְּחֹ֙שֶׁת֙ אֶת־הַבַּרְזֶ֔ל אֶֽת־הַבְּדִ֖יל וְאֶת־הָעֹפָֽרֶת׃",
+    "original": "<span data-strong=\"H389\">אַ֥ךְ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2091\">הַזָּהָ֖ב</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H3701\">הַכָּ֑סֶף</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H5178\">הַנְּחֹ֙שֶׁת֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1270\">הַבַּרְזֶ֔ל</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H913\">הַבְּדִ֖יל</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H5777\">הָעֹפָֽרֶת׃</span>",
     "transliteration": "'akhe 'et-hazahav ve'et-hakhasef 'et-hanehoshet 'et-havarezel 'et-havediyl ve'et-ha'ofaret.",
     "translation": "Mas o ouro e a prata, o cobre, o ferro, o estanho e a pedra de cincrão."
   },
   {
     "verse": 23,
-    "original": "כׇּל־דָּבָ֞ר אֲשֶׁר־יָבֹ֣א בָאֵ֗שׁ תַּעֲבִ֤ירוּ בָאֵשׁ֙ וְטָהֵ֔ר אַ֕ךְ בְּמֵ֥י נִדָּ֖ה יִתְחַטָּ֑א וְכֹ֨ל אֲשֶׁ֧ר לֹֽא־יָבֹ֛א בָּאֵ֖שׁ תַּעֲבִ֥ירוּ בַמָּֽיִם׃",
+    "original": "<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1697\">דָּבָ֞ר</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H935\">יָבֹ֣א</span> <span data-strong=\"H784\">בָאֵ֗שׁ</span> <span data-strong=\"H5674\">תַּעֲבִ֤ירוּ</span> <span data-strong=\"H784\">בָאֵשׁ֙</span> <span data-strong=\"H2891\">וְטָהֵ֔ר</span> <span data-strong=\"H389\">אַ֕ךְ</span> <span data-strong=\"H4325\">בְּמֵ֥י</span> <span data-strong=\"H5079\">נִדָּ֖ה</span> <span data-strong=\"H2398\">יִתְחַטָּ֑א</span> <span data-strong=\"H3605\">וְכֹ֨ל</span> <span data-strong=\"H834\">אֲשֶׁ֧ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H935\">יָבֹ֛א</span> <span data-strong=\"H784\">בָּאֵ֖שׁ</span> <span data-strong=\"H5674\">תַּעֲבִ֥ירוּ</span> <span data-strong=\"H4325\">בַמָּֽיִם׃</span>",
     "transliteration": "khol-davar 'asher-yavo' va'esh ta'aviyrv va'esh vetaher 'akhe vemey nidah yitehata' vekhol 'asher lo'-yavo' va'esh ta'aviyrv vamayim.",
     "translation": "Todas as coisas que entrarem no fogo, passai pelo fogo e serão purificadas; contudo, nas águas do parto se contaminarão. E todas as coisas que não puderem entrar no fogo, passai pelas águas."
   },
@@ -145,175 +145,175 @@
   },
   {
     "verse": 25,
-    "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֥אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֥ה</span> <span data-strong=\"H559\">לֵּאמֹֽר׃</span>",
     "transliteration": "vayo'mer yehovah 'el-mosheh le'mor.",
     "translation": "E disse o Senhor a Moisés, dizendo:"
   },
   {
     "verse": 26,
-    "original": "שָׂ֗א אֵ֣ת רֹ֤אשׁ מַלְק֙וֹחַ֙ הַשְּׁבִ֔י בָּאָדָ֖ם וּבַבְּהֵמָ֑ה אַתָּה֙ וְאֶלְעָזָ֣ר הַכֹּהֵ֔ן וְרָאשֵׁ֖י אֲב֥וֹת הָעֵדָֽה׃",
+    "original": "<span data-strong=\"H5375\">שָׂ֗א</span> <span data-strong=\"H853\">אֵ֣ת</span> <span data-strong=\"H7218\">רֹ֤אשׁ</span> <span data-strong=\"H4455\">מַלְק֙וֹחַ֙</span> <span data-strong=\"H7628\">הַשְּׁבִ֔י</span> <span data-strong=\"H120\">בָּאָדָ֖ם</span> <span data-strong=\"H929\">וּבַבְּהֵמָ֑ה</span> <span data-strong=\"H859\">אַתָּה֙</span> <span data-strong=\"H499\">וְאֶלְעָזָ֣ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֔ן</span> <span data-strong=\"H7218\">וְרָאשֵׁ֖י</span> <span data-strong=\"H1\">אֲב֥וֹת</span> <span data-strong=\"H5712\">הָעֵדָֽה׃</span>",
     "transliteration": "sa' 'et ro'sh malekvoha hasheviy va'adam vvavehemah 'atah ve'ele'azar hakhohen vera'shey 'avvot ha'edah.",
     "translation": "Leva os cabeças dos redimidos do resgate, seja no homem ou na fera; tu e Eleazar o sacerdote e os cabeças das casas da congregação.\n\nCorreção:\nLeva os chefes dos redimidos do resgate, quer nos homens ou nas feras; tu, e Eleazar o sacerdote, e os chefes das casas da congregação."
   },
   {
     "verse": 27,
-    "original": "וְחָצִ֙יתָ֙ אֶת־הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כׇּל־הָעֵדָֽה׃",
+    "original": "<span data-strong=\"H2673\">וְחָצִ֙יתָ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4455\">הַמַּלְק֔וֹחַ</span> <span data-strong=\"H996\">בֵּ֚ין</span> <span data-strong=\"H8610\">תֹּפְשֵׂ֣י</span> <span data-strong=\"H4421\">הַמִּלְחָמָ֔ה</span> <span data-strong=\"H3318\">הַיֹּצְאִ֖ים</span> <span data-strong=\"H6635\">לַצָּבָ֑א</span> <span data-strong=\"H996\">וּבֵ֖ין</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5712\">הָעֵדָֽה׃</span>",
     "transliteration": "vehatsiyta 'et-hamalekvoha veyn tofesey hamilehamah hayotse'iym latsava' vveyn khol-ha'edah.",
     "translation": "E dividirás o despojo entre os que saíram à guerra e entre todo o povo."
   },
   {
     "verse": 28,
-    "original": "וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהֹוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן־הָאָדָם֙ וּמִן־הַבָּקָ֔ר וּמִן־הַחֲמֹרִ֖ים וּמִן־הַצֹּֽאן׃",
+    "original": "<span data-strong=\"H7311\">וַהֲרֵמֹתָ֨</span> <span data-strong=\"H4371\">מֶ֜כֶס</span> <span data-strong=\"H3068\">לַֽיהֹוָ֗ה</span> <span data-strong=\"H854\">מֵאֵ֞ת</span> <span data-strong=\"H376\">אַנְשֵׁ֤י</span> <span data-strong=\"H4421\">הַמִּלְחָמָה֙</span> <span data-strong=\"H3318\">הַיֹּצְאִ֣ים</span> <span data-strong=\"H6635\">לַצָּבָ֔א</span> <span data-strong=\"H259\">אֶחָ֣ד</span> <span data-strong=\"H5315\">נֶ֔פֶשׁ</span> <span data-strong=\"H2568\">מֵחֲמֵ֖שׁ</span> <span data-strong=\"H3967\">הַמֵּא֑וֹת</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H120\">הָאָדָם֙</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H1241\">הַבָּקָ֔ר</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H2543\">הַחֲמֹרִ֖ים</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H6629\">הַצֹּֽאן׃</span>",
     "transliteration": "vaharemota mekhes layhovah me'et 'aneshey hamilehamah hayotse'iym latsava' 'ehad nefesh mehamesh hame'vot min-ha'adam vmin-havakar vmin-hahamoriym vmin-hatso'n.",
     "translation": "E elevarás um imposto ao Senhor de entre os homens da guerra que saem para o exército, uma alma por quinhentos, tanto do homem como das vacas e dos jumentos e das ovelhas."
   },
   {
     "verse": 29,
-    "original": "מִמַּֽחֲצִיתָ֖ם תִּקָּ֑חוּ וְנָתַתָּ֛ה לְאֶלְעָזָ֥ר הַכֹּהֵ֖ן תְּרוּמַ֥ת יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H3963\">מִמַּֽחֲצִיתָ֖ם</span> <span data-strong=\"H3947\">תִּקָּ֑חוּ</span> <span data-strong=\"H5414\">וְנָתַתָּ֛ה</span> <span data-strong=\"H499\">לְאֶלְעָזָ֥ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֖ן</span> <span data-strong=\"H8641\">תְּרוּמַ֥ת</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "mimahatsiytam tikahv venatatah le'ele'azar hakhohen tervmat yehovah.",
     "translation": "Da metade dela, tomareis e dareis a Eleazar o sacerdote como oferta ao Senhor."
   },
   {
     "verse": 30,
-    "original": "וּמִמַּחֲצִ֨ת בְּנֵֽי־יִשְׂרָאֵ֜ל תִּקַּ֣ח&thinsp;<b>׀</b> אֶחָ֣ד&thinsp;<b>׀</b> אָחֻ֣ז מִן־הַחֲמִשִּׁ֗ים מִן־הָאָדָ֧ם מִן־הַבָּקָ֛ר מִן־הַחֲמֹרִ֥ים וּמִן־הַצֹּ֖אן מִכׇּל־הַבְּהֵמָ֑ה וְנָתַתָּ֤ה אֹתָם֙ לַלְוִיִּ֔ם שֹׁמְרֵ֕י מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H4276\">וּמִמַּחֲצִ֨ת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֜ל</span> <span data-strong=\"H3947\">תִּקַּ֣ח&thinsp;<b>׀</b></span> <span data-strong=\"H259\">אֶחָ֣ד&thinsp;<b>׀</b></span> <span data-strong=\"H270\">אָחֻ֣ז</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H2572\">הַחֲמִשִּׁ֗ים</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H120\">הָאָדָ֧ם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H1241\">הַבָּקָ֛ר</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H2543\">הַחֲמֹרִ֥ים</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H6629\">הַצֹּ֖אן</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H929\">הַבְּהֵמָ֑ה</span> <span data-strong=\"H5414\">וְנָתַתָּ֤ה</span> <span data-strong=\"H3963\">אֹתָם֙</span> <span data-strong=\"H3881\">לַלְוִיִּ֔ם</span> <span data-strong=\"H8104\">שֹׁמְרֵ֕י</span> <span data-strong=\"H4931\">מִשְׁמֶ֖רֶת</span> <span data-strong=\"H4908\">מִשְׁכַּ֥ן</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vmimahatsit veney-yisera'el tikah&thinsp;<b>|</b> 'ehad&thinsp;<b>|</b> 'ahuz min-hahamishiym min-ha'adam min-havakar min-hahamoriym vmin-hatso'n mikhol-havehemah venatatah 'otam laleviyim shomerey mishemeret mishekhan yehovah.",
     "translation": "E da meia parte dos filhos de Israel tomarás um achuz, de cada cinquenta das pessoas, das vacas, dos jumentos e das ovelhas, de toda a besta, e os darás aos levitas, guardiões do encargo da tenda de encontro ao Senhor."
   },
   {
     "verse": 31,
-    "original": "וַיַּ֣עַשׂ מֹשֶׁ֔ה וְאֶלְעָזָ֖ר הַכֹּהֵ֑ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֣עַשׂ</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H499\">וְאֶלְעָזָ֖ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vaya'as mosheh ve'ele'azar hakhohen kha'asher tsivah yehovah 'et-mosheh.",
     "translation": "E fizeram Moisés e Eleazar o sacerdote conforme ordenou o Senhor a Moisés."
   },
   {
     "verse": 32,
-    "original": "וַֽיְהִי֙ הַמַּלְק֔וֹחַ יֶ֣תֶר הַבָּ֔ז אֲשֶׁ֥ר בָּזְז֖וּ עַ֣ם הַצָּבָ֑א צֹ֗אן שֵׁשׁ־מֵא֥וֹת אֶ֛לֶף וְשִׁבְעִ֥ים אֶ֖לֶף וַחֲמֵ֥שֶׁת אֲלָפִֽים׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H4455\">הַמַּלְק֔וֹחַ</span> <span data-strong=\"H3499\">יֶ֣תֶר</span> <span data-strong=\"H957\">הַבָּ֔ז</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H962\">בָּזְז֖וּ</span> <span data-strong=\"H5971\">עַ֣ם</span> <span data-strong=\"H6635\">הַצָּבָ֑א</span> <span data-strong=\"H6629\">צֹ֗אן</span> <span data-strong=\"H8337\">שֵׁשׁ</span>־<span data-strong=\"H3967\">מֵא֥וֹת</span> <span data-strong=\"H505\">אֶ֛לֶף</span> <span data-strong=\"H7657\">וְשִׁבְעִ֥ים</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H2568\">וַחֲמֵ֥שֶׁת</span> <span data-strong=\"H505\">אֲלָפִֽים׃</span>",
     "transliteration": "vayehiy hamalekvoha yeter havaz 'asher vazezv 'am hatsava' tso'n shesh-me'vot 'elef veshive'iym 'elef vahameshet 'alafiym.",
     "translation": "E foi o saque em excesso do despojo que o exército despojou: rebanhos, seiscentos e setenta e cinco mil."
   },
   {
     "verse": 33,
-    "original": "וּבָקָ֕ר שְׁנַ֥יִם וְשִׁבְעִ֖ים אָֽלֶף׃",
+    "original": "<span data-strong=\"H1241\">וּבָקָ֕ר</span> <span data-strong=\"H8147\">שְׁנַ֥יִם</span> <span data-strong=\"H7657\">וְשִׁבְעִ֖ים</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "vvakar shenayim veshive'iym 'alef.",
     "translation": "E bois, setenta e dois mil."
   },
   {
     "verse": 34,
-    "original": "וַחֲמֹרִ֕ים אֶחָ֥ד וְשִׁשִּׁ֖ים אָֽלֶף׃",
+    "original": "<span data-strong=\"H2543\">וַחֲמֹרִ֕ים</span> <span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H8346\">וְשִׁשִּׁ֖ים</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "vahamoriym 'ehad veshishiym 'alef.",
     "translation": "E jumentos, sessenta e um mil."
   },
   {
     "verse": 35,
-    "original": "וְנֶ֣פֶשׁ אָדָ֔ם מִ֨ן־הַנָּשִׁ֔ים אֲשֶׁ֥ר לֹֽא־יָדְע֖וּ מִשְׁכַּ֣ב זָכָ֑ר כׇּל־נֶ֕פֶשׁ שְׁנַ֥יִם וּשְׁלֹשִׁ֖ים אָֽלֶף׃",
+    "original": "<span data-strong=\"H5315\">וְנֶ֣פֶשׁ</span> <span data-strong=\"H120\">אָדָ֔ם</span> <span data-strong=\"H4480\">מִ֨ן</span>־<span data-strong=\"H802\">הַנָּשִׁ֔ים</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3045\">יָדְע֖וּ</span> <span data-strong=\"H4904\">מִשְׁכַּ֣ב</span> <span data-strong=\"H2145\">זָכָ֑ר</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5315\">נֶ֕פֶשׁ</span> <span data-strong=\"H8147\">שְׁנַ֥יִם</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֖ים</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "venefesh 'adam min-hanashiym 'asher lo'-yade'v mishekhav zakhar khol-nefesh shenayim vsheloshiym 'alef.",
     "translation": "E a alma dos homens, das mulheres que não conheceram o leito do macho, duas e trinta mil almas."
   },
   {
     "verse": 36,
-    "original": "וַתְּהִי֙ הַֽמֶּחֱצָ֔ה חֵ֕לֶק הַיֹּצְאִ֖ים בַּצָּבָ֑א מִסְפַּ֣ר הַצֹּ֗אן שְׁלֹשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹשִׁ֣ים אֶ֔לֶף וְשִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+    "original": "<span data-strong=\"H1961\">וַתְּהִי֙</span> <span data-strong=\"H4275\">הַֽמֶּחֱצָ֔ה</span> <span data-strong=\"H2506\">חֵ֕לֶק</span> <span data-strong=\"H3318\">הַיֹּצְאִ֖ים</span> <span data-strong=\"H6635\">בַּצָּבָ֑א</span> <span data-strong=\"H4557\">מִסְפַּ֣ר</span> <span data-strong=\"H6629\">הַצֹּ֗אן</span> <span data-strong=\"H7969\">שְׁלֹשׁ</span>־<span data-strong=\"H3967\">מֵא֥וֹת</span> <span data-strong=\"H505\">אֶ֙לֶף֙</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֣ים</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H7651\">וְשִׁבְעַ֥ת</span> <span data-strong=\"H505\">אֲלָפִ֖ים</span> <span data-strong=\"H2568\">וַחֲמֵ֥שׁ</span> <span data-strong=\"H3967\">מֵאֽוֹת׃</span>",
     "transliteration": "vatehiy hamehetsah helek hayotse'iym vatsava' misefar hatso'n shelosh-me'vot 'elef vsheloshiym 'elef veshive'at 'alafiym vahamesh me'vot.",
     "translation": "E a metade do exército que saiu foi o número de ovelhas: trezentos mil, trinta mil, sete mil e quinhentas."
   },
   {
     "verse": 37,
-    "original": "וַיְהִ֛י הַמֶּ֥כֶס לַֽיהֹוָ֖ה מִן־הַצֹּ֑אן שֵׁ֥שׁ מֵא֖וֹת חָמֵ֥שׁ וְשִׁבְעִֽים׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֛י</span> <span data-strong=\"H4371\">הַמֶּ֥כֶס</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6629\">הַצֹּ֑אן</span> <span data-strong=\"H8337\">שֵׁ֥שׁ</span> <span data-strong=\"H3967\">מֵא֖וֹת</span> <span data-strong=\"H2568\">חָמֵ֥שׁ</span> <span data-strong=\"H7657\">וְשִׁבְעִֽים׃</span>",
     "transliteration": "vayehiy hamekhes layhovah min-hatso'n shesh me'vot hamesh veshive'iym.",
     "translation": "E o dízimo do SENHOR das ovelhas foi seiscentos e setenta."
   },
   {
     "verse": 38,
-    "original": "וְהַ֨בָּקָ֔ר שִׁשָּׁ֥ה וּשְׁלֹשִׁ֖ים אָ֑לֶף וּמִכְסָ֥ם לַיהֹוָ֖ה שְׁנַ֥יִם וְשִׁבְעִֽים׃",
+    "original": "<span data-strong=\"H1241\">וְהַ֨בָּקָ֔ר</span> <span data-strong=\"H8337\">שִׁשָּׁ֥ה</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֖ים</span> <span data-strong=\"H505\">אָ֑לֶף</span> <span data-strong=\"H3963\">וּמִכְסָ֥ם</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H8147\">שְׁנַ֥יִם</span> <span data-strong=\"H7657\">וְשִׁבְעִֽים׃</span>",
     "transliteration": "vehavakar shishah vsheloshiym 'alef vmikhesam layhovah shenayim veshive'iym.",
     "translation": "E os bois, trinta e seis mil; e o resgate para o Senhor, setenta e dois."
   },
   {
     "verse": 39,
-    "original": "וַחֲמֹרִ֕ים שְׁלֹשִׁ֥ים אֶ֖לֶף וַחֲמֵ֣שׁ מֵא֑וֹת וּמִכְסָ֥ם לַֽיהֹוָ֖ה אֶחָ֥ד וְשִׁשִּֽׁים׃",
+    "original": "<span data-strong=\"H2543\">וַחֲמֹרִ֕ים</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֥ים</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H2568\">וַחֲמֵ֣שׁ</span> <span data-strong=\"H3967\">מֵא֑וֹת</span> <span data-strong=\"H3963\">וּמִכְסָ֥ם</span> <span data-strong=\"H3068\">לַֽיהֹוָ֖ה</span> <span data-strong=\"H259\">אֶחָ֥ד</span> <span data-strong=\"H8346\">וְשִׁשִּֽׁים׃</span>",
     "transliteration": "vahamoriym sheloshiym 'elef vahamesh me'vot vmikhesam layhovah 'ehad veshishiym.",
     "translation": "E jumentos trinta mil e quinhentos, e seus impostos para o Senhor, sessenta e um."
   },
   {
     "verse": 40,
-    "original": "וְנֶ֣פֶשׁ אָדָ֔ם שִׁשָּׁ֥ה עָשָׂ֖ר אָ֑לֶף וּמִכְסָם֙ לַֽיהֹוָ֔ה שְׁנַ֥יִם וּשְׁלֹשִׁ֖ים נָֽפֶשׁ׃",
+    "original": "<span data-strong=\"H5315\">וְנֶ֣פֶשׁ</span> <span data-strong=\"H120\">אָדָ֔ם</span> <span data-strong=\"H8337\">שִׁשָּׁ֥ה</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H505\">אָ֑לֶף</span> <span data-strong=\"H3963\">וּמִכְסָם֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H8147\">שְׁנַ֥יִם</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֖ים</span> <span data-strong=\"H5315\">נָֽפֶשׁ׃</span>",
     "transliteration": "venefesh 'adam shishah 'asar 'alef vmikhesam layhovah shenayim vsheloshiym nafesh.",
     "translation": "E a alma dos homens foi vinte e seis mil, e os contados do Senhor eram trinta e duas almas."
   },
   {
     "verse": 41,
-    "original": "וַיִּתֵּ֣ן מֹשֶׁ֗ה אֶת־מֶ֙כֶס֙ תְּרוּמַ֣ת יְהֹוָ֔ה לְאֶלְעָזָ֖ר הַכֹּהֵ֑ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H5414\">וַיִּתֵּ֣ן</span> <span data-strong=\"H4872\">מֹשֶׁ֗ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4371\">מֶ֙כֶס֙</span> <span data-strong=\"H8641\">תְּרוּמַ֣ת</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H499\">לְאֶלְעָזָ֖ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֑ן</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayiten mosheh 'et-mekhes tervmat yehovah le'ele'azar hakhohen kha'asher tsivah yehovah 'et-mosheh.",
     "translation": "E Moisés deu a Eleazar, o sacerdote, a oferta da contribuição ao Senhor, conforme ordenou o Senhor a Moisés."
   },
   {
     "verse": 42,
-    "original": "וּמִֽמַּחֲצִ֖ית בְּנֵ֣י יִשְׂרָאֵ֑ל אֲשֶׁר֙ חָצָ֣ה מֹשֶׁ֔ה מִן־הָאֲנָשִׁ֖ים הַצֹּבְאִֽים׃",
+    "original": "<span data-strong=\"H4276\">וּמִֽמַּחֲצִ֖ית</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H2673\">חָצָ֣ה</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H376\">הָאֲנָשִׁ֖ים</span> <span data-strong=\"H6633\">הַצֹּבְאִֽים׃</span>",
     "transliteration": "vmimahatsiyt veney yisera'el 'asher hatsah mosheh min-ha'anashiym hatsove'iym.",
     "translation": "E da metade dos filhos de Israel, que Moisés separou do meio dos homens aptos para a guerra."
   },
   {
     "verse": 43,
-    "original": "וַתְּהִ֛י מֶחֱצַ֥ת הָעֵדָ֖ה מִן־הַצֹּ֑אן שְׁלֹשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹשִׁ֣ים אֶ֔לֶף שִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+    "original": "<span data-strong=\"H1961\">וַתְּהִ֛י</span> <span data-strong=\"H4275\">מֶחֱצַ֥ת</span> <span data-strong=\"H5712\">הָעֵדָ֖ה</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6629\">הַצֹּ֑אן</span> <span data-strong=\"H7969\">שְׁלֹשׁ</span>־<span data-strong=\"H3967\">מֵא֥וֹת</span> <span data-strong=\"H505\">אֶ֙לֶף֙</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֣ים</span> <span data-strong=\"H505\">אֶ֔לֶף</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H505\">אֲלָפִ֖ים</span> <span data-strong=\"H2568\">וַחֲמֵ֥שׁ</span> <span data-strong=\"H3967\">מֵאֽוֹת׃</span>",
     "transliteration": "vatehiy mehetsat ha'edah min-hatso'n shelosh-me'vot 'elef vsheloshiym 'elef shive'at 'alafiym vahamesh me'vot.",
     "translation": "E foi a metade da congregação do rebanho, trezentos e trinta mil setecentos e quinhentos."
   },
   {
     "verse": 44,
-    "original": "וּבָקָ֕ר שִׁשָּׁ֥ה וּשְׁלֹשִׁ֖ים אָֽלֶף׃",
+    "original": "<span data-strong=\"H1241\">וּבָקָ֕ר</span> <span data-strong=\"H8337\">שִׁשָּׁ֥ה</span> <span data-strong=\"H7970\">וּשְׁלֹשִׁ֖ים</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "vvakar shishah vsheloshiym 'alef.",
     "translation": "E gado, trinta e seis mil."
   },
   {
     "verse": 45,
-    "original": "וַחֲמֹרִ֕ים שְׁלֹשִׁ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+    "original": "<span data-strong=\"H2543\">וַחֲמֹרִ֕ים</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֥ים</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H2568\">וַחֲמֵ֥שׁ</span> <span data-strong=\"H3967\">מֵאֽוֹת׃</span>",
     "transliteration": "vahamoriym sheloshiym 'elef vahamesh me'vot.",
     "translation": "E jumentos trinta mil e quinhentos."
   },
   {
     "verse": 46,
-    "original": "וְנֶ֣פֶשׁ אָדָ֔ם שִׁשָּׁ֥ה עָשָׂ֖ר אָֽלֶף׃",
+    "original": "<span data-strong=\"H5315\">וְנֶ֣פֶשׁ</span> <span data-strong=\"H120\">אָדָ֔ם</span> <span data-strong=\"H8337\">שִׁשָּׁ֥ה</span> <span data-strong=\"H6240\">עָשָׂ֖ר</span> <span data-strong=\"H505\">אָֽלֶף׃</span>",
     "transliteration": "venefesh 'adam shishah 'asar 'alef.",
     "translation": "E a alma do homem foi dezesseis mil."
   },
   {
     "verse": 47,
-    "original": "וַיִּקַּ֨ח מֹשֶׁ֜ה מִמַּחֲצִ֣ת בְּנֵֽי־יִשְׂרָאֵ֗ל אֶת־הָֽאָחֻז֙ אֶחָ֣ד מִן־הַחֲמִשִּׁ֔ים מִן־הָאָדָ֖ם וּמִן־הַבְּהֵמָ֑ה וַיִּתֵּ֨ן אֹתָ֜ם לַלְוִיִּ֗ם שֹֽׁמְרֵי֙ מִשְׁמֶ֙רֶת֙ מִשְׁכַּ֣ן יְהֹוָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H4872\">מֹשֶׁ֜ה</span> <span data-strong=\"H4276\">מִמַּחֲצִ֣ת</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֗ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H270\">הָֽאָחֻז֙</span> <span data-strong=\"H259\">אֶחָ֣ד</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H2572\">הַחֲמִשִּׁ֔ים</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H120\">הָאָדָ֖ם</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H929\">הַבְּהֵמָ֑ה</span> <span data-strong=\"H5414\">וַיִּתֵּ֨ן</span> <span data-strong=\"H3963\">אֹתָ֜ם</span> <span data-strong=\"H3881\">לַלְוִיִּ֗ם</span> <span data-strong=\"H8104\">שֹֽׁמְרֵי֙</span> <span data-strong=\"H4931\">מִשְׁמֶ֙רֶת֙</span> <span data-strong=\"H4908\">מִשְׁכַּ֣ן</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayikah mosheh mimahatsit veney-yisera'el 'et-ha'ahuz 'ehad min-hahamishiym min-ha'adam vmin-havehemah vayiten 'otam laleviyim shomerey mishemeret mishekhan yehovah kha'asher tsivah yehovah 'et-mosheh.",
     "translation": "E Moisés tomou da meia tribo de Israel um achuz, um de cinquenta, tanto do homem como dos animais, e os deu aos levitas, que guardavam a guarda da tenda da presença do Senhor, conforme ordenara o Senhor a Moisés."
   },
   {
     "verse": 48,
-    "original": "וַֽיִּקְרְבוּ֙ אֶל־מֹשֶׁ֔ה הַפְּקֻדִ֕ים אֲשֶׁ֖ר לְאַלְפֵ֣י הַצָּבָ֑א שָׂרֵ֥י הָאֲלָפִ֖ים וְשָׂרֵ֥י הַמֵּאֽוֹת׃",
+    "original": "<span data-strong=\"H7126\">וַֽיִּקְרְבוּ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H6485\">הַפְּקֻדִ֕ים</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H505\">לְאַלְפֵ֣י</span> <span data-strong=\"H6635\">הַצָּבָ֑א</span> <span data-strong=\"H8269\">שָׂרֵ֥י</span> <span data-strong=\"H505\">הָאֲלָפִ֖ים</span> <span data-strong=\"H8269\">וְשָׂרֵ֥י</span> <span data-strong=\"H3967\">הַמֵּאֽוֹת׃</span>",
     "transliteration": "vayikerevv 'el-mosheh hafekudiym 'asher le'alefey hatsava' sarey ha'alafiym vesarey hame'vot.",
     "translation": "E aproximaram-se de Moisés os piquadim que estavam sobre os milhares do exército, os chefes dos mil e os chefes das centenas."
   },
   {
     "verse": 49,
-    "original": "וַיֹּֽאמְרוּ֙ אֶל־מֹשֶׁ֔ה עֲבָדֶ֣יךָ נָֽשְׂא֗וּ אֶת־רֹ֛אשׁ אַנְשֵׁ֥י הַמִּלְחָמָ֖ה אֲשֶׁ֣ר בְּיָדֵ֑נוּ וְלֹא־נִפְקַ֥ד מִמֶּ֖נּוּ אִֽישׁ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּֽאמְרוּ֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H3509\">עֲבָדֶ֣יךָ</span> <span data-strong=\"H5375\">נָֽשְׂא֗וּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7218\">רֹ֛אשׁ</span> <span data-strong=\"H376\">אַנְשֵׁ֥י</span> <span data-strong=\"H4421\">הַמִּלְחָמָ֖ה</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H5105\">בְּיָדֵ֑נוּ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H6485\">נִפְקַ֥ד</span> <span data-strong=\"H5105\">מִמֶּ֖נּוּ</span> <span data-strong=\"H376\">אִֽישׁ׃</span>",
     "transliteration": "vayo'merv 'el-mosheh 'avadeykha nase'v 'et-ro'sh 'aneshey hamilehamah 'asher veyadenv velo'-nifekad mimenv 'iysh.",
     "translation": "E disseram a Moisés: Teus servos fizeram o levantamento dos homens de guerra que estão conosco, e não falta nenhum deles."
   },
   {
     "verse": 50,
-    "original": "וַנַּקְרֵ֞ב אֶת־קׇרְבַּ֣ן יְהֹוָ֗ה אִישׁ֩ אֲשֶׁ֨ר מָצָ֤א כְלִֽי־זָהָב֙ אֶצְעָדָ֣ה וְצָמִ֔יד טַבַּ֖עַת עָגִ֣יל וְכוּמָ֑ז לְכַפֵּ֥ר עַל־נַפְשֹׁתֵ֖ינוּ לִפְנֵ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H7126\">וַנַּקְרֵ֞ב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H7133\">קׇרְבַּ֣ן</span> <span data-strong=\"H3068\">יְהֹוָ֗ה</span> <span data-strong=\"H376\">אִישׁ֩</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H4672\">מָצָ֤א</span> <span data-strong=\"H3627\">כְלִֽי</span>־<span data-strong=\"H2091\">זָהָב֙</span> <span data-strong=\"H685\">אֶצְעָדָ֣ה</span> <span data-strong=\"H6781\">וְצָמִ֔יד</span> <span data-strong=\"H2885\">טַבַּ֖עַת</span> <span data-strong=\"H5694\">עָגִ֣יל</span> <span data-strong=\"H3558\">וְכוּמָ֑ז</span> <span data-strong=\"H3722\">לְכַפֵּ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5105\">נַפְשֹׁתֵ֖ינוּ</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vanakerev 'et-korevan yehovah 'iysh 'asher matsa' kheliy-zahav 'etse'adah vetsamiyd tava'at 'agiyl vekhvmaz lekhafer 'al-nafeshoteynv lifeney yehovah.",
     "translation": "E aproximamos a oferta ao Senhor, cada um que havia encontrado vasos de ouro, pingentes e colares, anéis e braceletes, para expiar nossas almas diante do Senhor."
   },
   {
     "verse": 51,
-    "original": "וַיִּקַּ֨ח מֹשֶׁ֜ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן אֶת־הַזָּהָ֖ב מֵֽאִתָּ֑ם כֹּ֖ל כְּלִ֥י מַעֲשֶֽׂה׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H4872\">מֹשֶׁ֜ה</span> <span data-strong=\"H499\">וְאֶלְעָזָ֧ר</span> <span data-strong=\"H3548\">הַכֹּהֵ֛ן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2091\">הַזָּהָ֖ב</span> <span data-strong=\"H3963\">מֵֽאִתָּ֑ם</span> <span data-strong=\"H3605\">כֹּ֖ל</span> <span data-strong=\"H3627\">כְּלִ֥י</span> <span data-strong=\"H4639\">מַעֲשֶֽׂה׃</span>",
     "transliteration": "vayikah mosheh ve'ele'azar hakhohen 'et-hazahav me'itam khol kheliy ma'aseh.",
     "translation": "E Moisés e Eleazar, o sacerdote, tomaram deles o ouro, todo utensílio de obra."
   },
   {
     "verse": 52,
-    "original": "וַיְהִ֣י&thinsp;<b>׀</b> כׇּל־זְהַ֣ב הַתְּרוּמָ֗ה אֲשֶׁ֤ר הֵרִ֙ימוּ֙ לַֽיהֹוָ֔ה שִׁשָּׁ֨ה עָשָׂ֥ר אֶ֛לֶף שְׁבַע־מֵא֥וֹת וַחֲמִשִּׁ֖ים שָׁ֑קֶל מֵאֵת֙ שָׂרֵ֣י הָֽאֲלָפִ֔ים וּמֵאֵ֖ת שָׂרֵ֥י הַמֵּאֽוֹת׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֣י&thinsp;<b>׀</b></span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2091\">זְהַ֣ב</span> <span data-strong=\"H8641\">הַתְּרוּמָ֗ה</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H7311\">הֵרִ֙ימוּ֙</span> <span data-strong=\"H3068\">לַֽיהֹוָ֔ה</span> <span data-strong=\"H8337\">שִׁשָּׁ֨ה</span> <span data-strong=\"H6240\">עָשָׂ֥ר</span> <span data-strong=\"H505\">אֶ֛לֶף</span> <span data-strong=\"H7651\">שְׁבַע</span>־<span data-strong=\"H3967\">מֵא֥וֹת</span> <span data-strong=\"H2572\">וַחֲמִשִּׁ֖ים</span> <span data-strong=\"H8255\">שָׁ֑קֶל</span> <span data-strong=\"H854\">מֵאֵת֙</span> <span data-strong=\"H8269\">שָׂרֵ֣י</span> <span data-strong=\"H505\">הָֽאֲלָפִ֔ים</span> <span data-strong=\"H854\">וּמֵאֵ֖ת</span> <span data-strong=\"H8269\">שָׂרֵ֥י</span> <span data-strong=\"H3967\">הַמֵּאֽוֹת׃</span>",
     "transliteration": "vayehiy&thinsp;<b>|</b> khol-zehav hatervmah 'asher heriymv layhovah shishah 'asar 'elef sheva'-me'vot vahamishiym shakel me'et sarey ha'alafiym vme'et sarey hame'vot.",
     "translation": "E foi todo o ouro da oferta que levantaram para o Senhor, sessenta e um mil setecentos e cinquenta siclos, do lado dos príncipes das milhares e dos príncipes dos cem."
   },
   {
     "verse": 53,
-    "original": "אַנְשֵׁי֙ הַצָּבָ֔א בָּזְז֖וּ אִ֥ישׁ לֽוֹ׃",
+    "original": "<span data-strong=\"H376\">אַנְשֵׁי֙</span> <span data-strong=\"H6635\">הַצָּבָ֔א</span> <span data-strong=\"H962\">בָּזְז֖וּ</span> <span data-strong=\"H376\">אִ֥ישׁ</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "'aneshey hatsava' vazezv 'iysh lvo.",
     "translation": "Os homens do exército saquearam cada um por si."
   },

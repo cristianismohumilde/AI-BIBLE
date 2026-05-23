@@ -7,19 +7,19 @@
   },
   {
     "verse": 2,
-    "original": "כְּעֶ֥בֶד יִשְׁאַף־צֵ֑ל וּ֝כְשָׂכִ֗יר יְקַוֶּ֥ה פׇעֳלֽוֹ׃",
+    "original": "<span data-strong=\"H5650\">כְּעֶ֥בֶד</span> <span data-strong=\"H7602\">יִשְׁאַף</span>־<span data-strong=\"H6738\">צֵ֑ל</span> <span data-strong=\"H7916\">וּ֝כְשָׂכִ֗יר</span> <span data-strong=\"H6960\">יְקַוֶּ֥ה</span> <span data-strong=\"H2050\">פׇעֳלֽוֹ׃</span>",
     "transliteration": "khe'eved yishe'af-tsel vkhesakhiyr yekaveh fo'olvo.",
     "translation": "Como o escravo suspira pela sombra, e como o mercenário espera seu salário."
   },
   {
     "verse": 3,
-    "original": "כֵּ֤ן הׇנְחַ֣לְתִּי לִ֭י יַרְחֵי־שָׁ֑וְא וְלֵיל֥וֹת עָ֝מָ֗ל מִנּוּ־לִֽי׃",
+    "original": "<span data-strong=\"H3651\">כֵּ֤ן</span> <span data-strong=\"H5157\">הׇנְחַ֣לְתִּי</span> <span data-strong=\"H2967\">לִ֭י</span> <span data-strong=\"H3391\">יַרְחֵי</span>־<span data-strong=\"H7723\">שָׁ֑וְא</span> <span data-strong=\"H3915\">וְלֵיל֥וֹת</span> <span data-strong=\"H5999\">עָ֝מָ֗ל</span> <span data-strong=\"H4487\">מִנּוּ</span>־<span data-strong=\"H2967\">לִֽי׃</span>",
     "transliteration": "khen honehaletiy liy yarehey-shave' veleylvot 'amal minv-liy.",
     "translation": "Assim me repartiram meses de vaidade e noites de angústia."
   },
   {
     "verse": 4,
-    "original": "אִם־שָׁכַ֗בְתִּי וְאָמַ֗רְתִּי מָתַ֣י אָ֭קוּם וּמִדַּד־עָ֑רֶב וְשָׂבַ֖עְתִּי נְדֻדִ֣ים עֲדֵי־נָֽשֶׁף׃",
+    "original": "<span data-strong=\"H518\">אִם</span>־<span data-strong=\"H7901\">שָׁכַ֗בְתִּי</span> <span data-strong=\"H559\">וְאָמַ֗רְתִּי</span> <span data-strong=\"H4970\">מָתַ֣י</span> <span data-strong=\"H6965\">אָ֭קוּם</span> <span data-strong=\"H4058\">וּמִדַּד</span>־<span data-strong=\"H6153\">עָ֑רֶב</span> <span data-strong=\"H7646\">וְשָׂבַ֖עְתִּי</span> <span data-strong=\"H5076\">נְדֻדִ֣ים</span> <span data-strong=\"H5704\">עֲדֵי</span>־<span data-strong=\"H5399\">נָֽשֶׁף׃</span>",
     "transliteration": "'im-shakhavetiy ve'amaretiy matay 'akvm vmidad-'arev vesava'etiy nedudiym 'adey-nashef.",
     "translation": "Se deitei e disse: Quando me levantarei? Medindo a noitice, e fartando-me de sonhos até o amanhecer."
   },
@@ -31,31 +31,31 @@
   },
   {
     "verse": 6,
-    "original": "יָמַ֣י קַ֭לּוּ מִנִּי־אָ֑רֶג וַ֝יִּכְל֗וּ בְּאֶ֣פֶס תִּקְוָֽה׃",
+    "original": "<span data-strong=\"H2967\">יָמַ֣י</span> <span data-strong=\"H7043\">קַ֭לּוּ</span> <span data-strong=\"H4480\">מִנִּי</span>־<span data-strong=\"H708\">אָ֑רֶג</span> <span data-strong=\"H3615\">וַ֝יִּכְל֗וּ</span> <span data-strong=\"H657\">בְּאֶ֣פֶס</span> <span data-strong=\"H8615\">תִּקְוָֽה׃</span>",
     "transliteration": "yamay kalv miniy-'areg vayikhelv ve'efes tikevah.",
     "translation": "Meus dias são mais curtos que uma teia, e terminam sem esperança."
   },
   {
     "verse": 7,
-    "original": "זְ֭כֹר כִּי־ר֣וּחַ חַיָּ֑י לֹא־תָשׁ֥וּב עֵ֝ינִ֗י לִרְא֥וֹת טֽוֹב׃",
+    "original": "<span data-strong=\"H2142\">זְ֭כֹר</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H7307\">ר֣וּחַ</span> <span data-strong=\"H2967\">חַיָּ֑י</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7725\">תָשׁ֥וּב</span> <span data-strong=\"H2967\">עֵ֝ינִ֗י</span> <span data-strong=\"H7200\">לִרְא֥וֹת</span> <span data-strong=\"H2896\">טֽוֹב׃</span>",
     "transliteration": "zekhor khiy-rvha hayay lo'-tashvv 'eyniy lire'vot tvov.",
     "translation": "Lembra-te de que o meu espírito é a vida minha; não me farás ver o bem."
   },
   {
     "verse": 8,
-    "original": "לֹא־תְ֭שׁוּרֵנִי עֵ֣ין רֹ֑אִי עֵינֶ֖יךָ בִּ֣י וְאֵינֶֽנִּי׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5204\">תְ֭שׁוּרֵנִי</span> <span data-strong=\"H5869\">עֵ֣ין</span> <span data-strong=\"H7200\">רֹ֑אִי</span> <span data-strong=\"H3509\">עֵינֶ֖יךָ</span> <span data-strong=\"H2967\">בִּ֣י</span> <span data-strong=\"H2967\">וְאֵינֶֽנִּי׃</span>",
     "transliteration": "lo'-teshvreniy 'eyn ro'iy 'eyneykha viy ve'eyneniy.",
     "translation": "Não me ignores, ó Vidente, pois teus olhos estão comigo e eu não sou invisível."
   },
   {
     "verse": 9,
-    "original": "כָּלָ֣ה עָ֭נָן וַיֵּלַ֑ךְ כֵּ֥ן יוֹרֵ֥ד שְׁ֝א֗וֹל לֹ֣א יַעֲלֶֽה׃",
+    "original": "<span data-strong=\"H3615\">כָּלָ֣ה</span> <span data-strong=\"H6051\">עָ֭נָן</span> <span data-strong=\"H1980\">וַיֵּלַ֑ךְ</span> <span data-strong=\"H3651\">כֵּ֥ן</span> <span data-strong=\"H3381\">יוֹרֵ֥ד</span> <span data-strong=\"H7585\">שְׁ֝א֗וֹל</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5927\">יַעֲלֶֽה׃</span>",
     "transliteration": "khalah 'anan vayelakhe khen yvored she'vol lo' ya'aleh.",
     "translation": "Desfez-se a nuvem e se foi; assim desce o Sheol, não subirá."
   },
   {
     "verse": 10,
-    "original": "לֹא־יָשׁ֣וּב ע֣וֹד לְבֵית֑וֹ וְלֹא־יַכִּירֶ֖נּוּ ע֣וֹד מְקֹמֽוֹ׃",
+    "original": "<span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7725\">יָשׁ֣וּב</span> <span data-strong=\"H5750\">ע֣וֹד</span> <span data-strong=\"H2050\">לְבֵית֑וֹ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H5105\">יַכִּירֶ֖נּוּ</span> <span data-strong=\"H5750\">ע֣וֹד</span> <span data-strong=\"H2050\">מְקֹמֽוֹ׃</span>",
     "transliteration": "lo'-yashvv 'vod leveytvo velo'-yakhiyrenv 'vod mekomvo.",
     "translation": "Não voltará mais para sua casa, nem conhecerá novamente seu lugar."
   },
@@ -67,55 +67,55 @@
   },
   {
     "verse": 12,
-    "original": "הֲֽיָם־אָ֭נִי אִם־תַּנִּ֑ין כִּֽי־תָשִׂ֖ים עָלַ֣י מִשְׁמָֽר׃",
+    "original": "<span data-strong=\"H3220\">הֲֽיָם</span>־<span data-strong=\"H589\">אָ֭נִי</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H8577\">תַּנִּ֑ין</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7760\">תָשִׂ֖ים</span> <span data-strong=\"H2967\">עָלַ֣י</span> <span data-strong=\"H4929\">מִשְׁמָֽר׃</span>",
     "transliteration": "hayam-'aniy 'im-taniyn khiy-tasiym 'alay mishemar.",
     "translation": "Sou eu o mar, ou um monstro do abismo, para que tu coloques sobre mim uma vigilância?"
   },
   {
     "verse": 13,
-    "original": "כִּֽי־אָ֭מַרְתִּי תְּנַחֲמֵ֣נִי עַרְשִׂ֑י יִשָּׂ֥א בְ֝שִׂיחִ֗י מִשְׁכָּבִֽי׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H559\">אָ֭מַרְתִּי</span> <span data-strong=\"H5204\">תְּנַחֲמֵ֣נִי</span> <span data-strong=\"H2967\">עַרְשִׂ֑י</span> <span data-strong=\"H5375\">יִשָּׂ֥א</span> <span data-strong=\"H2967\">בְ֝שִׂיחִ֗י</span> <span data-strong=\"H2967\">מִשְׁכָּבִֽי׃</span>",
     "transliteration": "khiy-'amaretiy tenahameniy 'aresiy yisa' vesiyhiy mishekhaviy.",
     "translation": "Pois disse: Amorteceria-se meu trono, elevava-se minha angústia sobre meu leito."
   },
   {
     "verse": 14,
-    "original": "וְחִתַּתַּ֥נִי בַחֲלֹמ֑וֹת וּֽמֵחֶזְיֹנ֥וֹת תְּבַעֲתַֽנִּי׃",
+    "original": "<span data-strong=\"H5204\">וְחִתַּתַּ֥נִי</span> <span data-strong=\"H2472\">בַחֲלֹמ֑וֹת</span> <span data-strong=\"H2384\">וּֽמֵחֶזְיֹנ֥וֹת</span> <span data-strong=\"H5204\">תְּבַעֲתַֽנִּי׃</span>",
     "transliteration": "vehitataniy vahalomvot vmehezeyonvot teva'ataniy.",
     "translation": "E me atemorizou com visões e em sonhos me assustou."
   },
   {
     "verse": 15,
-    "original": "וַתִּבְחַ֣ר מַחֲנָ֣ק נַפְשִׁ֑י מָ֝֗וֶת מֵעַצְמוֹתָֽי׃",
+    "original": "<span data-strong=\"H977\">וַתִּבְחַ֣ר</span> <span data-strong=\"H4267\">מַחֲנָ֣ק</span> <span data-strong=\"H2967\">נַפְשִׁ֑י</span> <span data-strong=\"H4194\">מָ֝֗וֶת</span> <span data-strong=\"H2967\">מֵעַצְמוֹתָֽי׃</span>",
     "transliteration": "vativehar mahanak nafeshiy mavet me'atsemvotay.",
     "translation": "E escolhi o aperto da minha alma, a morte, em vez dos meus ossos."
   },
   {
     "verse": 16,
-    "original": "מָ֭אַסְתִּי לֹא־לְעֹלָ֣ם אֶחְיֶ֑ה חֲדַ֥ל מִ֝מֶּ֗נִּי כִּי־הֶ֥בֶל יָמָֽי׃",
+    "original": "<span data-strong=\"H3988\">מָ֭אַסְתִּי</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H5769\">לְעֹלָ֣ם</span> <span data-strong=\"H2421\">אֶחְיֶ֑ה</span> <span data-strong=\"H2308\">חֲדַ֥ל</span> <span data-strong=\"H2967\">מִ֝מֶּ֗נִּי</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1892\">הֶ֥בֶל</span> <span data-strong=\"H2967\">יָמָֽי׃</span>",
     "transliteration": "ma'asetiy lo'-le'olam 'eheyeh hadal mimeniy khiy-hevel yamay.",
     "translation": "Rejeitei, não para sempre, viver; afasta-te de mim, pois meus dias são vapor."
   },
   {
     "verse": 17,
-    "original": "מָֽה־אֱ֭נוֹשׁ כִּ֣י תְגַדְּלֶ֑נּוּ וְכִֽי־תָשִׁ֖ית אֵלָ֣יו לִבֶּֽךָ׃",
+    "original": "<span data-strong=\"H4100\">מָֽה</span>־<span data-strong=\"H582\">אֱ֭נוֹשׁ</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5105\">תְגַדְּלֶ֑נּוּ</span> <span data-strong=\"H3588\">וְכִֽי</span>־<span data-strong=\"H7896\">תָשִׁ֖ית</span> <span data-strong=\"H2050\">אֵלָ֣יו</span> <span data-strong=\"H3509\">לִבֶּֽךָ׃</span>",
     "transliteration": "mah-'envosh khiy tegadelenv vekhiy-tashiyt 'elayv livekha.",
     "translation": "Que é o homem, para que o engrandecas, e para que lhe inclinas os teus cuidados?"
   },
   {
     "verse": 18,
-    "original": "וַתִּפְקְדֶ֥נּוּ לִבְקָרִ֑ים לִ֝רְגָעִ֗ים תִּבְחָנֶֽנּוּ׃",
+    "original": "<span data-strong=\"H5105\">וַתִּפְקְדֶ֥נּוּ</span> <span data-strong=\"H1242\">לִבְקָרִ֑ים</span> <span data-strong=\"H7281\">לִ֝רְגָעִ֗ים</span> <span data-strong=\"H5105\">תִּבְחָנֶֽנּוּ׃</span>",
     "transliteration": "vatifekedenv livekariym lirega'iym tivehanenv.",
     "translation": "E o provou nos vales, nos regatos o experimentou."
   },
   {
     "verse": 19,
-    "original": "כַּ֭מָּה לֹא־תִשְׁעֶ֣ה מִמֶּ֑נִּי לֹֽא־תַ֝רְפֵּ֗נִי עַד־בִּלְעִ֥י רֻקִּֽי׃",
+    "original": "<span data-strong=\"H4100\">כַּ֭מָּה</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H8159\">תִשְׁעֶ֣ה</span> <span data-strong=\"H2967\">מִמֶּ֑נִּי</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H5204\">תַ֝רְפֵּ֗נִי</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5204\">בִּלְעִ֥י</span> <span data-strong=\"H2967\">רֻקִּֽי׃</span>",
     "transliteration": "khamah lo'-tishe'eh mimeniy lo'-tarefeniy 'ad-vile'iy rukiy.",
     "translation": "Quantas não rejeitarás de mim? Não me afastarás até que eu consuma meu riso."
   },
   {
     "verse": 20,
-    "original": "חָטָ֡אתִי מָ֤ה אֶפְעַ֨ל&thinsp;<b>׀</b> לָךְ֮ נֹצֵ֢ר הָ֫אָדָ֥ם לָ֤מָה שַׂמְתַּ֣נִי לְמִפְגָּ֣ע לָ֑ךְ וָאֶהְיֶ֖ה עָלַ֣י לְמַשָּֽׂא׃",
+    "original": "<span data-strong=\"H2398\">חָטָ֡אתִי</span> <span data-strong=\"H4100\">מָ֤ה</span> <span data-strong=\"H6466\">אֶפְעַ֨ל&thinsp;<b>׀</b></span> <span data-strong=\"H3509\">לָךְ֮</span> <span data-strong=\"H5341\">נֹצֵ֢ר</span> <span data-strong=\"H120\">הָ֫אָדָ֥ם</span> <span data-strong=\"H4100\">לָ֤מָה</span> <span data-strong=\"H5204\">שַׂמְתַּ֣נִי</span> <span data-strong=\"H4645\">לְמִפְגָּ֣ע</span> <span data-strong=\"H3509\">לָ֑ךְ</span> <span data-strong=\"H1961\">וָאֶהְיֶ֖ה</span> <span data-strong=\"H2967\">עָלַ֣י</span> <span data-strong=\"H4853\">לְמַשָּֽׂא׃</span>",
     "transliteration": "hata'tiy mah 'efe'al&thinsp;<b>|</b> lakhe notser ha'adam lamah sametaniy lemifega' lakhe va'eheyeh 'alay lemasa'.",
     "translation": "Peci, que farei contigo, guardião do homem? Por que me fizeste uma pedra de tropeço e fui para ti carga pesada?"
   },

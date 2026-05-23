@@ -1,43 +1,43 @@
 [
   {
     "verse": 1,
-    "original": "תְּפִלָּה֮ לְמֹשֶׁ֢ה אִֽישׁ־הָאֱלֹ֫הִ֥ים אֲֽדֹנָ֗י מָע֣וֹן אַ֭תָּה הָיִ֥יתָ לָּ֗נוּ בְּדֹ֣ר וָדֹֽר׃",
+    "original": "<span data-strong=\"H8605\">תְּפִלָּה֮</span> <span data-strong=\"H4872\">לְמֹשֶׁ֢ה</span> <span data-strong=\"H376\">אִֽישׁ</span>־<span data-strong=\"H430\">הָאֱלֹ֫הִ֥ים</span> <span data-strong=\"H2967\">אֲֽדֹנָ֗י</span> <span data-strong=\"H4583\">מָע֣וֹן</span> <span data-strong=\"H859\">אַ֭תָּה</span> <span data-strong=\"H1961\">הָיִ֥יתָ</span> <span data-strong=\"H5105\">לָּ֗נוּ</span> <span data-strong=\"H1755\">בְּדֹ֣ר</span> <span data-strong=\"H1755\">וָדֹֽר׃</span>",
     "transliteration": "tefilah lemosheh 'iysh-ha'elohiym 'adonay ma'von 'atah hayiyta lanv vedor vador.",
     "translation": "Oração de Moisés, homem de Deus: Senhor, tu foste refúgio nosso, de geração em geração."
   },
   {
     "verse": 2,
-    "original": "בְּטֶ֤רֶם&thinsp;<b>׀</b> הָ֘רִ֤ים יֻלָּ֗דוּ וַתְּח֣וֹלֵֽל אֶ֣רֶץ וְתֵבֵ֑ל וּֽמֵעוֹלָ֥ם עַד־ע֝וֹלָ֗ם אַתָּ֥ה אֵֽל׃",
+    "original": "<span data-strong=\"H2962\">בְּטֶ֤רֶם&thinsp;<b>׀</b></span> <span data-strong=\"H2022\">הָ֘רִ֤ים</span> <span data-strong=\"H3205\">יֻלָּ֗דוּ</span> <span data-strong=\"H2342\">וַתְּח֣וֹלֵֽל</span> <span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H8398\">וְתֵבֵ֑ל</span> <span data-strong=\"H5769\">וּֽמֵעוֹלָ֥ם</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H5769\">ע֝וֹלָ֗ם</span> <span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H410\">אֵֽל׃</span>",
     "transliteration": "veterem&thinsp;<b>|</b> hariym yuladv vatehvolel 'erets vetevel vme'volam 'ad-'volam 'atah 'el.",
     "translation": "Antes que os montes fossem gerados, e tu formasses a terra e o mundo, de eternidade a eternidade, tu és Deus."
   },
   {
     "verse": 3,
-    "original": "תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד־דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵֽי־אָדָֽם׃",
+    "original": "<span data-strong=\"H7725\">תָּשֵׁ֣ב</span> <span data-strong=\"H582\">אֱ֭נוֹשׁ</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1793\">דַּכָּ֑א</span> <span data-strong=\"H559\">וַ֝תֹּ֗אמֶר</span> <span data-strong=\"H7725\">שׁ֣וּבוּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H120\">אָדָֽם׃</span>",
     "transliteration": "tashev 'envosh 'ad-dakha' vato'mer shvvv veney-'adam.",
     "translation": "O homem retorna ao pó, e se diz: Voltem, filhos dos homens."
   },
   {
     "verse": 4,
-    "original": "כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י</span> <span data-strong=\"H505\">אֶ֪לֶף</span> <span data-strong=\"H8141\">שָׁנִ֡ים</span> <span data-strong=\"H3509\">בְּֽעֵינֶ֗יךָ</span> <span data-strong=\"H3117\">כְּי֣וֹם</span> <span data-strong=\"H865\">אֶ֭תְמוֹל</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5674\">יַעֲבֹ֑ר</span> <span data-strong=\"H821\">וְאַשְׁמוּרָ֥ה</span> <span data-strong=\"H3915\">בַלָּֽיְלָה׃</span>",
     "transliteration": "khiy 'elef shaniym ve'eyneykha kheyvom 'etemvol khiy ya'avor ve'ashemvrah valayelah.",
     "translation": "Pois mil anos são para ti como um dia passado, como uma vigília na noite."
   },
   {
     "verse": 5,
-    "original": "זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף׃",
+    "original": "<span data-strong=\"H3963\">זְ֭רַמְתָּם</span> <span data-strong=\"H8142\">שֵׁנָ֣ה</span> <span data-strong=\"H1961\">יִהְי֑וּ</span> <span data-strong=\"H1242\">בַּ֝בֹּ֗קֶר</span> <span data-strong=\"H2682\">כֶּחָצִ֥יר</span> <span data-strong=\"H2498\">יַחֲלֹֽף׃</span>",
     "transliteration": "zerametam shenah yiheyv vavoker khehatsiyr yahalof.",
     "translation": "Seu fluxo será noite, e pela manhã eles serão como a grama que se transforma."
   },
   {
     "verse": 6,
-    "original": "בַּ֭בֹּקֶר יָצִ֣יץ וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ׃",
+    "original": "<span data-strong=\"H1242\">בַּ֭בֹּקֶר</span> <span data-strong=\"H6692\">יָצִ֣יץ</span> <span data-strong=\"H2498\">וְחָלָ֑ף</span> <span data-strong=\"H6153\">לָ֝עֶ֗רֶב</span> <span data-strong=\"H4448\">יְמוֹלֵ֥ל</span> <span data-strong=\"H3001\">וְיָבֵֽשׁ׃</span>",
     "transliteration": "vavoker yatsiyts vehalaf la'erev yemvolel veyavesh.",
     "translation": "De manhã floresce e se desvanece; à noite murcha e seca."
   },
   {
     "verse": 7,
-    "original": "כִּי־כָלִ֥ינוּ בְאַפֶּ֑ךָ וּֽבַחֲמָתְךָ֥ נִבְהָֽלְנוּ׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H3615\">כָלִ֥ינוּ</span> <span data-strong=\"H3509\">בְאַפֶּ֑ךָ</span> <span data-strong=\"H3509\">וּֽבַחֲמָתְךָ֥</span> <span data-strong=\"H926\">נִבְהָֽלְנוּ׃</span>",
     "transliteration": "khiy-khaliynv ve'afekha vvahamatekha nivehalenv.",
     "translation": "Pois estamos consumidos pela tua ira e perturbados pela tua cólera."
   },
@@ -49,49 +49,49 @@
   },
   {
     "verse": 9,
-    "original": "כִּ֣י כׇל־יָ֭מֵינוּ פָּנ֣וּ בְעֶבְרָתֶ֑ךָ כִּלִּ֖ינוּ שָׁנֵ֣ינוּ כְמוֹ־הֶֽגֶה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5105\">יָ֭מֵינוּ</span> <span data-strong=\"H6437\">פָּנ֣וּ</span> <span data-strong=\"H3509\">בְעֶבְרָתֶ֑ךָ</span> <span data-strong=\"H3615\">כִּלִּ֖ינוּ</span> <span data-strong=\"H5105\">שָׁנֵ֣ינוּ</span> <span data-strong=\"H3644\">כְמוֹ</span>־<span data-strong=\"H1899\">הֶֽגֶה׃</span>",
     "transliteration": "khiy khol-yameynv fanv ve'everatekha khiliynv shaneynv khemvo-hegeh.",
     "translation": "Pois todos os nossos dias declinam na tua ira; consumimos os nossos anos como um suspiro."
   },
   {
     "verse": 10,
-    "original": "יְמֵֽי־שְׁנוֹתֵ֨ינוּ בָהֶ֥ם שִׁבְעִ֪ים שָׁנָ֡ה וְאִ֤ם בִּגְבוּרֹ֨ת&thinsp;<b>׀</b> שְׁמ֘וֹנִ֤ים שָׁנָ֗ה וְ֭רׇהְבָּם עָמָ֣ל וָאָ֑וֶן כִּי־גָ֥ז חִ֝֗ישׁ וַנָּעֻֽפָה׃",
+    "original": "<span data-strong=\"H3117\">יְמֵֽי</span>־<span data-strong=\"H5105\">שְׁנוֹתֵ֨ינוּ</span> <span data-strong=\"H3963\">בָהֶ֥ם</span> <span data-strong=\"H7657\">שִׁבְעִ֪ים</span> <span data-strong=\"H8141\">שָׁנָ֡ה</span> <span data-strong=\"H518\">וְאִ֤ם</span> <span data-strong=\"H1369\">בִּגְבוּרֹ֨ת&thinsp;<b>׀</b></span> <span data-strong=\"H8084\">שְׁמ֘וֹנִ֤ים</span> <span data-strong=\"H8141\">שָׁנָ֗ה</span> <span data-strong=\"H3963\">וְ֭רׇהְבָּם</span> <span data-strong=\"H5999\">עָמָ֣ל</span> <span data-strong=\"H205\">וָאָ֑וֶן</span> <span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H1468\">גָ֥ז</span> <span data-strong=\"H2440\">חִ֝֗ישׁ</span> <span data-strong=\"H1886\">וַנָּעֻֽפָה׃</span>",
     "transliteration": "yemey-shenvoteynv vahem shive'iym shanah ve'im vigevvrot&thinsp;<b>|</b> shemvoniym shanah verohevam 'amal va'aven khiy-gaz hiysh vana'ufah.",
     "translation": "Os dias de nossas vidas são setenta anos, e se em força chegam a oitenta, seu orgulho é trabalho e opressão; porque depressa passa, e voamos embora."
   },
   {
     "verse": 11,
-    "original": "מִֽי־י֭וֹדֵעַ עֹ֣ז אַפֶּ֑ךָ וּ֝כְיִרְאָתְךָ֗ עֶבְרָתֶֽךָ׃",
+    "original": "<span data-strong=\"H4310\">מִֽי</span>־<span data-strong=\"H3045\">י֭וֹדֵעַ</span> <span data-strong=\"H5797\">עֹ֣ז</span> <span data-strong=\"H3509\">אַפֶּ֑ךָ</span> <span data-strong=\"H3509\">וּ֝כְיִרְאָתְךָ֗</span> <span data-strong=\"H3509\">עֶבְרָתֶֽךָ׃</span>",
     "transliteration": "miy-yvode'a 'oz 'afekha vkheyire'atekha 'everatekha.",
     "translation": "Quem conhece a força de tua ira, e conforme teu temor, tua cólera?"
   },
   {
     "verse": 12,
-    "original": "לִמְנ֣וֹת יָ֭מֵינוּ כֵּ֣ן הוֹדַ֑ע וְ֝נָבִ֗א לְבַ֣ב חׇכְמָֽה׃",
+    "original": "<span data-strong=\"H4487\">לִמְנ֣וֹת</span> <span data-strong=\"H5105\">יָ֭מֵינוּ</span> <span data-strong=\"H3651\">כֵּ֣ן</span> <span data-strong=\"H3045\">הוֹדַ֑ע</span> <span data-strong=\"H935\">וְ֝נָבִ֗א</span> <span data-strong=\"H3824\">לְבַ֣ב</span> <span data-strong=\"H2451\">חׇכְמָֽה׃</span>",
     "transliteration": "limenvot yameynv khen hvoda' venavi' levav hokhemah.",
     "translation": "Contando nossos dias assim, faze-nos conhecer, para que tenhamos um coração de sabedoria."
   },
   {
     "verse": 13,
-    "original": "שׁוּבָ֣ה יְ֭הֹוָה עַד־מָתָ֑י וְ֝הִנָּחֵ֗ם עַל־עֲבָדֶֽיךָ׃",
+    "original": "<span data-strong=\"H1886\">שׁוּבָ֣ה</span> <span data-strong=\"H3068\">יְ֭הֹוָה</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4970\">מָתָ֑י</span> <span data-strong=\"H5162\">וְ֝הִנָּחֵ֗ם</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3509\">עֲבָדֶֽיךָ׃</span>",
     "transliteration": "shvvah yehovah 'ad-matay vehinahem 'al-'avadeykha.",
     "translation": "Volta, Senhor, até quando? Tem misericórdia dos teus servos."
   },
   {
     "verse": 14,
-    "original": "שַׂבְּעֵ֣נוּ בַבֹּ֣קֶר חַסְדֶּ֑ךָ וּֽנְרַנְּנָ֥ה וְ֝נִשְׂמְחָ֗ה בְּכׇל־יָמֵֽינוּ׃",
+    "original": "<span data-strong=\"H5105\">שַׂבְּעֵ֣נוּ</span> <span data-strong=\"H1242\">בַבֹּ֣קֶר</span> <span data-strong=\"H3509\">חַסְדֶּ֑ךָ</span> <span data-strong=\"H7442\">וּֽנְרַנְּנָ֥ה</span> <span data-strong=\"H8055\">וְ֝נִשְׂמְחָ֗ה</span> <span data-strong=\"H3605\">בְּכׇל</span>־<span data-strong=\"H5105\">יָמֵֽינוּ׃</span>",
     "transliteration": "save'env vavoker hasedekha vneranenah venisemehah vekhol-yameynv.",
     "translation": "Saciem-nos pela manhã com tua benignidade, e nos regozijaremos e nos alegraremos todos os nossos dias."
   },
   {
     "verse": 15,
-    "original": "שַׂ֭מְּחֵנוּ כִּימ֣וֹת עִנִּיתָ֑נוּ שְׁ֝נ֗וֹת רָאִ֥ינוּ רָעָֽה׃",
+    "original": "<span data-strong=\"H5105\">שַׂ֭מְּחֵנוּ</span> <span data-strong=\"H3117\">כִּימ֣וֹת</span> <span data-strong=\"H5105\">עִנִּיתָ֑נוּ</span> <span data-strong=\"H8141\">שְׁ֝נ֗וֹת</span> <span data-strong=\"H7200\">רָאִ֥ינוּ</span> <span data-strong=\"H7451\">רָעָֽה׃</span>",
     "transliteration": "samehenv khiymvot 'iniytanv shenvot ra'iynv ra'ah.",
     "translation": "Alegrai-nos conforme os dias em que nos afligistes; anos em que vimos adversidade."
   },
   {
     "verse": 16,
-    "original": "יֵרָאֶ֣ה אֶל־עֲבָדֶ֣יךָ פׇעֳלֶ֑ךָ וַ֝הֲדָרְךָ֗ עַל־בְּנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H7200\">יֵרָאֶ֣ה</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3509\">עֲבָדֶ֣יךָ</span> <span data-strong=\"H3509\">פׇעֳלֶ֑ךָ</span> <span data-strong=\"H3509\">וַ֝הֲדָרְךָ֗</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3963\">בְּנֵיהֶֽם׃</span>",
     "transliteration": "yera'eh 'el-'avadeykha fo'olekha vahadarekha 'al-veneyhem.",
     "translation": "Seja manifestado diante dos teus servos a tua obra, e o teu esplendor sobre seus filhos."
   },

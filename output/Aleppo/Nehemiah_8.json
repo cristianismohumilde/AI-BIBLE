@@ -1,19 +1,19 @@
 [
   {
     "verse": 1,
-    "original": "וַיֵּאָסְפ֤וּ כׇל־הָעָם֙ כְּאִ֣ישׁ אֶחָ֔ד אֶל־הָ֣רְח֔וֹב אֲשֶׁ֖ר לִפְנֵ֣י שַֽׁעַר־הַמָּ֑יִם וַיֹּֽאמְרוּ֙ לְעֶזְרָ֣א הַסֹּפֵ֔ר לְהָבִ֗יא אֶת־סֵ֙פֶר֙ תּוֹרַ֣ת מֹשֶׁ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H622\">וַיֵּאָסְפ֤וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H376\">כְּאִ֣ישׁ</span> <span data-strong=\"H259\">אֶחָ֔ד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H7339\">הָ֣רְח֔וֹב</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H8179\">שַֽׁעַר</span>־<span data-strong=\"H4325\">הַמָּ֑יִם</span> <span data-strong=\"H559\">וַיֹּֽאמְרוּ֙</span> <span data-strong=\"H5830\">לְעֶזְרָ֣א</span> <span data-strong=\"H5608\">הַסֹּפֵ֔ר</span> <span data-strong=\"H935\">לְהָבִ֗יא</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5612\">סֵ֙פֶר֙</span> <span data-strong=\"H8451\">תּוֹרַ֣ת</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vaye'asefv khol-ha'am khe'iysh 'ehad 'el-harehvov 'asher lifeney sha'ar-hamayim vayo'merv le'ezera' hasofer lehaviy' 'et-sefer tvorat mosheh 'asher-tsivah yehovah 'et-yisera'el.",
     "translation": "E reuniram-se todos como um só homem à praça que ficava diante da porta das águas e disseram a Esdras, o escriba: “Traga o livro da Torá de Moisés, que o Senhor ordenou a Israel.”"
   },
   {
     "verse": 2,
-    "original": "וַיָּבִ֣יא עֶזְרָ֣א הַ֠כֹּהֵ֠ן אֶֽת־הַתּוֹרָ֞ה לִפְנֵ֤י הַקָּהָל֙ מֵאִ֣ישׁ וְעַד־אִשָּׁ֔ה וְכֹ֖ל מֵבִ֣ין לִשְׁמֹ֑עַ בְּי֥וֹם אֶחָ֖ד לַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃",
+    "original": "<span data-strong=\"H935\">וַיָּבִ֣יא</span> <span data-strong=\"H5830\">עֶזְרָ֣א</span> <span data-strong=\"H3548\">הַ֠כֹּהֵ֠ן</span> <span data-strong=\"H853\">אֶֽת</span>־<span data-strong=\"H8451\">הַתּוֹרָ֞ה</span> <span data-strong=\"H6440\">לִפְנֵ֤י</span> <span data-strong=\"H6951\">הַקָּהָל֙</span> <span data-strong=\"H376\">מֵאִ֣ישׁ</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H802\">אִשָּׁ֔ה</span> <span data-strong=\"H3605\">וְכֹ֖ל</span> <span data-strong=\"H995\">מֵבִ֣ין</span> <span data-strong=\"H8085\">לִשְׁמֹ֑עַ</span> <span data-strong=\"H3117\">בְּי֥וֹם</span> <span data-strong=\"H259\">אֶחָ֖ד</span> <span data-strong=\"H2320\">לַחֹ֥דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִֽי׃</span>",
     "transliteration": "vayaviy' 'ezera' hakhohen 'et-hatvorah lifeney hakahal me'iysh ve'ad-'ishah vekhol meviyn lishemo'a veyvom 'ehad lahodesh hasheviy'iy.",
     "translation": "Ezra, o sacerdote, trouxe a Torá diante da congregação, de cada homem e mulher que podia compreender para ouvir, no primeiro dia do sétimo mês."
   },
   {
     "verse": 3,
-    "original": "וַיִּקְרָא־בוֹ֩ לִפְנֵ֨י הָרְח֜וֹב אֲשֶׁ֣ר&thinsp;<b>׀</b> לִפְנֵ֣י שַֽׁעַר־הַמַּ֗יִם מִן־הָאוֹר֙ עַד־מַחֲצִ֣ית הַיּ֔וֹם נֶ֛גֶד הָאֲנָשִׁ֥ים וְהַנָּשִׁ֖ים וְהַמְּבִינִ֑ים וְאׇזְנֵ֥י כׇל־הָעָ֖ם אֶל־סֵ֥פֶר הַתּוֹרָֽה׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָא</span>־<span data-strong=\"H2050\">בוֹ֩</span> <span data-strong=\"H6440\">לִפְנֵ֨י</span> <span data-strong=\"H7339\">הָרְח֜וֹב</span> <span data-strong=\"H834\">אֲשֶׁ֣ר&thinsp;<b>׀</b></span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H8179\">שַֽׁעַר</span>־<span data-strong=\"H4325\">הַמַּ֗יִם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H216\">הָאוֹר֙</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4276\">מַחֲצִ֣ית</span> <span data-strong=\"H3117\">הַיּ֔וֹם</span> <span data-strong=\"H5048\">נֶ֛גֶד</span> <span data-strong=\"H376\">הָאֲנָשִׁ֥ים</span> <span data-strong=\"H802\">וְהַנָּשִׁ֖ים</span> <span data-strong=\"H995\">וְהַמְּבִינִ֑ים</span> <span data-strong=\"H241\">וְאׇזְנֵ֥י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5612\">סֵ֥פֶר</span> <span data-strong=\"H8451\">הַתּוֹרָֽה׃</span>",
     "transliteration": "vayikera'-vvo lifeney harehvov 'asher&thinsp;<b>|</b> lifeney sha'ar-hamayim min-ha'vor 'ad-mahatsiyt hayvom neged ha'anashiym vehanashiym vehameviyniym ve'ozeney khol-ha'am 'el-sefer hatvorah.",
     "translation": "E ele leu diante da praça, na frente da porta das águas, desde a alvorada até a metade do dia, à vista dos homens e mulheres e dos que entendem; e as orelhas de todo o povo estavam voltadas para o livro da Torá."
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "וַיִּפְתַּ֨ח עֶזְרָ֤א הַסֵּ֙פֶר֙ לְעֵינֵ֣י כׇל־הָעָ֔ם כִּֽי־מֵעַ֥ל כׇּל־הָעָ֖ם הָיָ֑ה וּכְפִתְח֖וֹ עָֽמְד֥וּ כׇל־הָעָֽם׃",
+    "original": "<span data-strong=\"H6605\">וַיִּפְתַּ֨ח</span> <span data-strong=\"H5830\">עֶזְרָ֤א</span> <span data-strong=\"H5612\">הַסֵּ֙פֶר֙</span> <span data-strong=\"H5869\">לְעֵינֵ֣י</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5921\">מֵעַ֥ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5971\">הָעָ֖ם</span> <span data-strong=\"H1961\">הָיָ֑ה</span> <span data-strong=\"H2050\">וּכְפִתְח֖וֹ</span> <span data-strong=\"H5975\">עָֽמְד֥וּ</span> <span data-strong=\"H3605\">כׇל</span>־<span data-strong=\"H5971\">הָעָֽם׃</span>",
     "transliteration": "vayifetah 'ezera' hasefer le'eyney khol-ha'am khiy-me'al khol-ha'am hayah vkhefitehvo 'amedv khol-ha'am.",
     "translation": "Ezra abriu o livro diante de todos os povos, pois estava acima de todo o povo; e quando ele o abriu, todos os povos se levantaram."
   },
@@ -55,13 +55,13 @@
   },
   {
     "verse": 10,
-    "original": "וַיֹּ֣אמֶר לָהֶ֡ם לְכוּ֩ אִכְל֨וּ מַשְׁמַנִּ֜ים וּשְׁת֣וּ מַֽמְתַקִּ֗ים וְשִׁלְח֤וּ מָנוֹת֙ לְאֵ֣ין נָכ֣וֹן ל֔וֹ כִּֽי־קָד֥וֹשׁ הַיּ֖וֹם לַאֲדֹנֵ֑ינוּ וְאַל־תֵּ֣עָצֵ֔בוּ כִּֽי־חֶדְוַ֥ת יְהֹוָ֖ה הִ֥יא מָֽעֻזְּכֶֽם׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֣אמֶר</span> <span data-strong=\"H3963\">לָהֶ֡ם</span> <span data-strong=\"H1980\">לְכוּ֩</span> <span data-strong=\"H398\">אִכְל֨וּ</span> <span data-strong=\"H4924\">מַשְׁמַנִּ֜ים</span> <span data-strong=\"H8354\">וּשְׁת֣וּ</span> <span data-strong=\"H4477\">מַֽמְתַקִּ֗ים</span> <span data-strong=\"H7971\">וְשִׁלְח֤וּ</span> <span data-strong=\"H4490\">מָנוֹת֙</span> <span data-strong=\"H369\">לְאֵ֣ין</span> <span data-strong=\"H3559\">נָכ֣וֹן</span> <span data-strong=\"H2050\">ל֔וֹ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6918\">קָד֥וֹשׁ</span> <span data-strong=\"H3117\">הַיּ֖וֹם</span> <span data-strong=\"H5105\">לַאֲדֹנֵ֑ינוּ</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H6087\">תֵּ֣עָצֵ֔בוּ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2304\">חֶדְוַ֥ת</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H1931\">הִ֥יא</span> <span data-strong=\"H3641\">מָֽעֻזְּכֶֽם׃</span>",
     "transliteration": "vayo'mer lahem lekhv 'ikhelv mashemaniym vshetv mametakiym veshilehv manvot le'eyn nakhvon lvo khiy-kadvosh hayvom la'adoneynv ve'al-te'atsevv khiy-hedevat yehovah hiy' ma'uzekhem.",
     "translation": "E disse-lhes: Ide, comei as coisas gordas e bebei as coisas doces, e enviai porções àquele que nada tem; pois santo é este dia ao nosso Senhor, e não vos entristeçais, porque a alegria do Senhor é a vossa fortaleza."
   },
   {
     "verse": 11,
-    "original": "וְהַלְוִיִּ֞ם מַחְשִׁ֤ים לְכׇל־הָעָם֙ לֵאמֹ֣ר הַ֔סּוּ כִּ֥י הַיּ֖וֹם קָדֹ֑שׁ וְאַל־תֵּעָצֵֽבוּ׃",
+    "original": "<span data-strong=\"H3881\">וְהַלְוִיִּ֞ם</span> <span data-strong=\"H2814\">מַחְשִׁ֤ים</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H559\">לֵאמֹ֣ר</span> <span data-strong=\"H2013\">הַ֔סּוּ</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H3117\">הַיּ֖וֹם</span> <span data-strong=\"H6918\">קָדֹ֑שׁ</span> <span data-strong=\"H408\">וְאַל</span>־<span data-strong=\"H6087\">תֵּעָצֵֽבוּ׃</span>",
     "transliteration": "vehaleviyim maheshiym lekhol-ha'am le'mor hasv khiy hayvom kadosh ve'al-te'atsevv.",
     "translation": "E os levitas faziam cessar a violência contra todo o povo, dizendo: \"Afastai-vos, pois este dia é santo; não vos entristeçais.\""
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "וּבַיּ֣וֹם הַשֵּׁנִ֡י נֶאֶסְפוּ֩ רָאשֵׁ֨י הָאָב֜וֹת לְכׇל־הָעָ֗ם הַכֹּֽהֲנִים֙ וְהַלְוִיִּ֔ם אֶל־עֶזְרָ֖א הַסֹּפֵ֑ר וּלְהַשְׂכִּ֖יל אֶל־דִּבְרֵ֥י הַתּוֹרָֽה׃",
+    "original": "<span data-strong=\"H3117\">וּבַיּ֣וֹם</span> <span data-strong=\"H8145\">הַשֵּׁנִ֡י</span> <span data-strong=\"H622\">נֶאֶסְפוּ֩</span> <span data-strong=\"H7218\">רָאשֵׁ֨י</span> <span data-strong=\"H1\">הָאָב֜וֹת</span> <span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H5971\">הָעָ֗ם</span> <span data-strong=\"H3548\">הַכֹּֽהֲנִים֙</span> <span data-strong=\"H3881\">וְהַלְוִיִּ֔ם</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H5830\">עֶזְרָ֖א</span> <span data-strong=\"H5608\">הַסֹּפֵ֑ר</span> <span data-strong=\"H7919\">וּלְהַשְׂכִּ֖יל</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H8451\">הַתּוֹרָֽה׃</span>",
     "transliteration": "vvayvom hasheniy ne'esefv ra'shey ha'avvot lekhol-ha'am hakhohaniym vehaleviyim 'el-'ezera' hasofer vlehasekhiyl 'el-diverey hatvorah.",
     "translation": "E no segundo dia se ajuntaram os chefes de todos os pais, os sacerdotes e os levitas, a Ezrá, o escriba, para entenderem as palavras da lei."
   },
   {
     "verse": 14,
-    "original": "וַֽיִּמְצְא֖וּ כָּת֣וּב בַּתּוֹרָ֑ה אֲשֶׁ֨ר צִוָּ֤ה יְהֹוָה֙ בְּיַד־מֹשֶׁ֔ה אֲשֶׁר֩ יֵשְׁב֨וּ בְנֵֽי־יִשְׂרָאֵ֧ל בַּסֻּכּ֛וֹת בֶּחָ֖ג בַּחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃",
+    "original": "<span data-strong=\"H4672\">וַֽיִּמְצְא֖וּ</span> <span data-strong=\"H3789\">כָּת֣וּב</span> <span data-strong=\"H8451\">בַּתּוֹרָ֑ה</span> <span data-strong=\"H834\">אֲשֶׁ֨ר</span> <span data-strong=\"H6680\">צִוָּ֤ה</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H3027\">בְּיַד</span>־<span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H834\">אֲשֶׁר֩</span> <span data-strong=\"H3427\">יֵשְׁב֨וּ</span> <span data-strong=\"H1121\">בְנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֧ל</span> <span data-strong=\"H5521\">בַּסֻּכּ֛וֹת</span> <span data-strong=\"H2282\">בֶּחָ֖ג</span> <span data-strong=\"H2320\">בַּחֹ֥דֶשׁ</span> <span data-strong=\"H7637\">הַשְּׁבִיעִֽי׃</span>",
     "transliteration": "vayimetse'v khatvv vatvorah 'asher tsivah yehovah veyad-mosheh 'asher yeshevv veney-yisera'el vasukhvot vehag vahodesh hasheviy'iy.",
     "translation": "E encontraram escrito na Torá, que o SENHOR ordenara por meio de Moisés, que os filhos de Israel habitassem em tendas durante a festa no mês sétimo."
   },
@@ -103,7 +103,7 @@
   },
   {
     "verse": 18,
-    "original": "וַ֠יִּקְרָ֠א בְּסֵ֨פֶר תּוֹרַ֤ת הָאֱלֹהִים֙ י֣וֹם&thinsp;<small>׀</small>&thinsp;בְּי֔וֹם מִן־הַיּוֹם֙ הָֽרִאשׁ֔וֹן עַ֖ד הַיּ֣וֹם הָאַחֲר֑וֹן וַיַּֽעֲשׂוּ־חָג֙ שִׁבְעַ֣ת יָמִ֔ים וּבַיּ֧וֹם הַשְּׁמִינִ֛י עֲצֶ֖רֶת כַּמִּשְׁפָּֽט׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "original": "<span data-strong=\"H7121\">וַ֠יִּקְרָ֠א</span> <span data-strong=\"H5612\">בְּסֵ֨פֶר</span> <span data-strong=\"H8451\">תּוֹרַ֤ת</span> <span data-strong=\"H430\">הָאֱלֹהִים֙</span> <span data-strong=\"H3117\">י֣וֹם&thinsp;<small>׀</small>&thinsp;בְּי֔וֹם</span> <span data-strong=\"H3117\">מִן</span>־<span data-strong=\"H4480\">הַיּוֹם֙</span> <span data-strong=\"H3117\">הָֽרִאשׁ֔וֹן</span> <span data-strong=\"H7223\">עַ֖ד</span> <span data-strong=\"H5704\">הַיּ֣וֹם</span> <span data-strong=\"H3117\">הָאַחֲר֑וֹן</span> <span data-strong=\"H314\">וַיַּֽעֲשׂוּ</span>־<span data-strong=\"H6213\">חָג֙</span> <span data-strong=\"H2282\">שִׁבְעַ֣ת</span> <span data-strong=\"H7651\">יָמִ֔ים</span> <span data-strong=\"H3117\">וּבַיּ֧וֹם</span> <span data-strong=\"H3117\">הַשְּׁמִינִ֛י</span> <span data-strong=\"H8066\">עֲצֶ֖רֶת</span> <span data-strong=\"H6116\">כַּמִּשְׁפָּֽט׃&nbsp;<span</span> <span data-strong=\"H4941\">class=\"mam-spi-pe\">{פ}</span><br></span>",
     "transliteration": "vayikera' vesefer tvorat ha'elohiym yvom&thinsp;<small>|</small>&thinsp;veyvom min-hayvom hari'shvon 'ad hayvom ha'aharvon vaya'asv-hag shive'at yamiym vvayvom hashemiyniy 'atseret khamishefat.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E leu no livro da Torá do Deus cada dia, de manhã à tarde; e fizeram um festival sete dias, e no oitavo dia houve uma assembleia solene, conforme a lei."
   }

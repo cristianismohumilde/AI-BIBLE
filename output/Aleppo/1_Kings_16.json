@@ -1,37 +1,37 @@
 [
   {
     "verse": 1,
-    "original": "וַיְהִ֤י דְבַר־יְהֹוָה֙ אֶל־יֵה֣וּא בֶן־חֲנָ֔נִי עַל־בַּעְשָׁ֖א לֵאמֹֽר׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֤י</span> <span data-strong=\"H1697\">דְבַר</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H3058\">יֵה֣וּא</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H2607\">חֲנָ֔נִי</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1201\">בַּעְשָׁ֖א</span> <span data-strong=\"H559\">לֵאמֹֽר׃</span>",
     "transliteration": "vayehiy devar-yehovah 'el-yehv' ven-hananiy 'al-va'esha' le'mor.",
     "translation": "E veio a palavra do Senhor a Jeú, filho de Hanani, contra Baásá, dizendo:"
   },
   {
     "verse": 2,
-    "original": "יַ֗עַן אֲשֶׁ֤ר הֲרִימֹתִ֙יךָ֙ מִן־הֶ֣עָפָ֔ר וָאֶתֶּנְךָ֣ נָגִ֔יד עַ֖ל עַמִּ֣י יִשְׂרָאֵ֑ל וַתֵּ֣לֶךְ&thinsp;<b>׀</b> בְּדֶ֣רֶךְ יָרׇבְעָ֗ם וַֽתַּחֲטִא֙ אֶת־עַמִּ֣י יִשְׂרָאֵ֔ל לְהַכְעִיסֵ֖נִי בְּחַטֹּאתָֽם׃",
+    "original": "<span data-strong=\"H3282\">יַ֗עַן</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H3509\">הֲרִימֹתִ֙יךָ֙</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H6083\">הֶ֣עָפָ֔ר</span> <span data-strong=\"H3509\">וָאֶתֶּנְךָ֣</span> <span data-strong=\"H5057\">נָגִ֔יד</span> <span data-strong=\"H5921\">עַ֖ל</span> <span data-strong=\"H2967\">עַמִּ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֑ל</span> <span data-strong=\"H1980\">וַתֵּ֣לֶךְ&thinsp;<b>׀</b></span> <span data-strong=\"H1870\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H3379\">יָרׇבְעָ֗ם</span> <span data-strong=\"H2398\">וַֽתַּחֲטִא֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2967\">עַמִּ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H5204\">לְהַכְעִיסֵ֖נִי</span> <span data-strong=\"H3963\">בְּחַטֹּאתָֽם׃</span>",
     "transliteration": "ya'an 'asher hariymotiykha min-he'afar va'etenekha nagiyd 'al 'amiy yisera'el vatelekhe&thinsp;<b>|</b> vederekhe yarove'am vatahati' 'et-'amiy yisera'el lehakhe'iyseniy vehato'tam.",
     "translation": "Porque eu te ergui do pó e te fiz governante sobre o meu povo Israel, e tu vais pelo caminho de Jeroboão e faz pecar o meu povo Israel me provocando à ira com a sua iniquidade."
   },
   {
     "verse": 3,
-    "original": "הִנְנִ֥י מַבְעִ֛יר אַחֲרֵ֥י בַעְשָׁ֖א וְאַחֲרֵ֣י בֵית֑וֹ וְנָֽתַתִּי֙ אֶת־בֵּ֣יתְךָ֔ כְּבֵ֖ית יָרׇבְעָ֥ם בֶּן־נְבָֽט׃",
+    "original": "<span data-strong=\"H2967\">הִנְנִ֥י</span> <span data-strong=\"H1197\">מַבְעִ֛יר</span> <span data-strong=\"H310\">אַחֲרֵ֥י</span> <span data-strong=\"H1201\">בַעְשָׁ֖א</span> <span data-strong=\"H310\">וְאַחֲרֵ֣י</span> <span data-strong=\"H2050\">בֵית֑וֹ</span> <span data-strong=\"H5414\">וְנָֽתַתִּי֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">בֵּ֣יתְךָ֔</span> <span data-strong=\"H1004\">כְּבֵ֖ית</span> <span data-strong=\"H3379\">יָרׇבְעָ֥ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5028\">נְבָֽט׃</span>",
     "transliteration": "hineniy mave'iyr 'aharey va'esha' ve'aharey veytvo venatatiy 'et-veytekha kheveyt yarove'am ven-nevat.",
     "translation": "Eis que eu apago a Baás e sua casa, mas estabelecerei tua casa como a casa de Jeroboão filho de Nebat."
   },
   {
     "verse": 4,
-    "original": "הַמֵּ֤ת לְבַעְשָׁא֙ בָּעִ֔יר יֹאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּ֥ת לוֹ֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ ע֥וֹף הַשָּׁמָֽיִם׃",
+    "original": "<span data-strong=\"H4191\">הַמֵּ֤ת</span> <span data-strong=\"H1201\">לְבַעְשָׁא֙</span> <span data-strong=\"H5892\">בָּעִ֔יר</span> <span data-strong=\"H398\">יֹאכְל֖וּ</span> <span data-strong=\"H3611\">הַכְּלָבִ֑ים</span> <span data-strong=\"H4191\">וְהַמֵּ֥ת</span> <span data-strong=\"H2050\">לוֹ֙</span> <span data-strong=\"H7704\">בַּשָּׂדֶ֔ה</span> <span data-strong=\"H398\">יֹאכְל֖וּ</span> <span data-strong=\"H5775\">ע֥וֹף</span> <span data-strong=\"H8064\">הַשָּׁמָֽיִם׃</span>",
     "transliteration": "hamet leva'esha' va'iyr yo'khelv hakhelaviym vehamet lvo vasadeh yo'khelv 'vof hashamayim.",
     "translation": "O morto na cidade, os cães o comerão; e o que morrer no campo, as aves dos céus o devorarão."
   },
   {
     "verse": 5,
-    "original": "וְיֶ֨תֶר דִּבְרֵ֥י בַעְשָׁ֛א וַאֲשֶׁ֥ר עָשָׂ֖ה וּגְבוּרָת֑וֹ הֲלֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֨תֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H1201\">בַעְשָׁ֛א</span> <span data-strong=\"H834\">וַאֲשֶׁ֥ר</span> <span data-strong=\"H6213\">עָשָׂ֖ה</span> <span data-strong=\"H2050\">וּגְבוּרָת֑וֹ</span> <span data-strong=\"H3808\">הֲלֹא</span>־<span data-strong=\"H1992\">הֵ֣ם</span> <span data-strong=\"H3789\">כְּתוּבִ֗ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֛פֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3117\">הַיָּמִ֖ים</span> <span data-strong=\"H4428\">לְמַלְכֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "veyeter diverey va'esha' va'asher 'asah vgevvratvo halo'-hem khetvviym 'al-sefer diverey hayamiym lemalekhey yisera'el.",
     "translation": "E as demais palavras de Baasa e o que fez e sua bravura, não estão escritos no livro das crônicas dos reis de Israel?"
   },
   {
     "verse": 6,
-    "original": "וַיִּשְׁכַּ֤ב בַּעְשָׁא֙ עִם־אֲבֹתָ֔יו וַיִּקָּבֵ֖ר בְּתִרְצָ֑ה וַיִּמְלֹ֛ךְ אֵלָ֥ה בְנ֖וֹ תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H7901\">וַיִּשְׁכַּ֤ב</span> <span data-strong=\"H1201\">בַּעְשָׁא֙</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2050\">אֲבֹתָ֔יו</span> <span data-strong=\"H6912\">וַיִּקָּבֵ֖ר</span> <span data-strong=\"H8656\">בְּתִרְצָ֑ה</span> <span data-strong=\"H4427\">וַיִּמְלֹ֛ךְ</span> <span data-strong=\"H425\">אֵלָ֥ה</span> <span data-strong=\"H2050\">בְנ֖וֹ</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "vayishekhav va'esha' 'im-'avotayv vayikaver vetiretsah vayimelokhe 'elah venvo tahetayv.",
     "translation": "E Asa se deitou com seus pais, e foi sepultado em Tirtsa; então Elá, seu filho, reinou em seu lugar."
   },
@@ -43,37 +43,37 @@
   },
   {
     "verse": 8,
-    "original": "בִּשְׁנַ֨ת עֶשְׂרִ֤ים וָשֵׁשׁ֙ שָׁנָ֔ה לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַ֠ךְ אֵלָ֨ה בֶן־בַּעְשָׁ֧א עַל־יִשְׂרָאֵ֛ל בְּתִרְצָ֖ה שְׁנָתָֽיִם׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַ֨ת</span> <span data-strong=\"H6242\">עֶשְׂרִ֤ים</span> <span data-strong=\"H8337\">וָשֵׁשׁ֙</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H609\">לְאָסָ֖א</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H4427\">מָ֠לַ֠ךְ</span> <span data-strong=\"H425\">אֵלָ֨ה</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H1201\">בַּעְשָׁ֧א</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H8656\">בְּתִרְצָ֖ה</span> <span data-strong=\"H8141\">שְׁנָתָֽיִם׃</span>",
     "transliteration": "vishenat 'eseriym vashesh shanah le'asa' melekhe yehvdah malakhe 'elah ven-va'esha' 'al-yisera'el vetiretsah shenatayim.",
     "translation": "No vigésimo sexto ano do reinado de Asa, rei de Judá, Elá, filho de Baás, reinou sobre Israel em Tirza por dois anos."
   },
   {
     "verse": 9,
-    "original": "וַיִּקְשֹׁ֤ר עָלָיו֙ עַבְדּ֣וֹ זִמְרִ֔י שַׂ֖ר מַחֲצִ֣ית הָרָ֑כֶב וְה֤וּא בְתִרְצָה֙ שֹׁתֶ֣ה שִׁכּ֔וֹר בֵּ֣ית אַרְצָ֔א אֲשֶׁ֥ר עַל־הַבַּ֖יִת בְּתִרְצָֽה׃",
+    "original": "<span data-strong=\"H7194\">וַיִּקְשֹׁ֤ר</span> <span data-strong=\"H2050\">עָלָיו֙</span> <span data-strong=\"H2050\">עַבְדּ֣וֹ</span> <span data-strong=\"H2174\">זִמְרִ֔י</span> <span data-strong=\"H8269\">שַׂ֖ר</span> <span data-strong=\"H4276\">מַחֲצִ֣ית</span> <span data-strong=\"H7393\">הָרָ֑כֶב</span> <span data-strong=\"H1931\">וְה֤וּא</span> <span data-strong=\"H8656\">בְתִרְצָה֙</span> <span data-strong=\"H8354\">שֹׁתֶ֣ה</span> <span data-strong=\"H7910\">שִׁכּ֔וֹר</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H777\">אַרְצָ֔א</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H1004\">הַבַּ֖יִת</span> <span data-strong=\"H8656\">בְּתִרְצָֽה׃</span>",
     "transliteration": "vayikeshor 'alayv 'avedvo zimeriy sar mahatsiyt harakhev vehv' vetiretsah shoteh shikhvor veyt 'aretsa' 'asher 'al-havayit vetiretsah.",
     "translation": "E seu servo Zimri, capitão da metade do exército de cavaleiros, conspirou contra ele; e ele estava em Tirza, bebendo embriagado na casa de Arza, que era o administrador da casa em Tirza."
   },
   {
     "verse": 10,
-    "original": "וַיָּבֹ֤א זִמְרִי֙ וַיַּכֵּ֣הוּ וַיְמִיתֵ֔הוּ בִּשְׁנַת֙ עֶשְׂרִ֣ים וָשֶׁ֔בַע לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה וַיִּמְלֹ֖ךְ תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H935\">וַיָּבֹ֤א</span> <span data-strong=\"H2174\">זִמְרִי֙</span> <span data-strong=\"H1930\">וַיַּכֵּ֣הוּ</span> <span data-strong=\"H1930\">וַיְמִיתֵ֔הוּ</span> <span data-strong=\"H8141\">בִּשְׁנַת֙</span> <span data-strong=\"H6242\">עֶשְׂרִ֣ים</span> <span data-strong=\"H7651\">וָשֶׁ֔בַע</span> <span data-strong=\"H609\">לְאָסָ֖א</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H4427\">וַיִּמְלֹ֖ךְ</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "vayavo' zimeriy vayakhehv vayemiytehv vishenat 'eseriym vasheva' le'asa' melekhe yehvdah vayimelokhe tahetayv.",
     "translation": "E veio Zimri e o feriu, e matou-o no vigésimo sétimo ano de Asa, rei de Judá, e reinou em seu lugar."
   },
   {
     "verse": 11,
-    "original": "וַיְהִ֨י בְמׇלְכ֜וֹ כְּשִׁבְתּ֣וֹ עַל־כִּסְא֗וֹ הִכָּה֙ אֶת־כׇּל־בֵּ֣ית בַּעְשָׁ֔א לֹא־הִשְׁאִ֥יר ל֖וֹ מַשְׁתִּ֣ין בְּקִ֑יר וְגֹאֲלָ֖יו וְרֵעֵֽהוּ׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֨י</span> <span data-strong=\"H2050\">בְמׇלְכ֜וֹ</span> <span data-strong=\"H2050\">כְּשִׁבְתּ֣וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">כִּסְא֗וֹ</span> <span data-strong=\"H5221\">הִכָּה֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H1201\">בַּעְשָׁ֔א</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H7604\">הִשְׁאִ֥יר</span> <span data-strong=\"H2050\">ל֖וֹ</span> <span data-strong=\"H8366\">מַשְׁתִּ֣ין</span> <span data-strong=\"H7023\">בְּקִ֑יר</span> <span data-strong=\"H2050\">וְגֹאֲלָ֖יו</span> <span data-strong=\"H1930\">וְרֵעֵֽהוּ׃</span>",
     "transliteration": "vayehiy vemolekhvo kheshivetvo 'al-khise'vo hikhah 'et-khol-veyt va'esha' lo'-hishe'iyr lvo mashetiyn vekiyr vego'alayv vere'ehv.",
     "translation": "E sucedeu, no seu reinado, quando se assentou sobre o seu trono, que feriu toda a casa de Baasa; não lhe deixou nem sequer quem descobrisse ou escondesse. E também os seus avogados e os seus amigos."
   },
   {
     "verse": 12,
-    "original": "וַיַּשְׁמֵ֣ד זִמְרִ֔י אֵ֖ת כׇּל־בֵּ֣ית בַּעְשָׁ֑א כִּדְבַ֤ר יְהֹוָה֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֶל־בַּעְשָׁ֔א בְּיַ֖ד יֵה֥וּא הַנָּבִֽיא׃",
+    "original": "<span data-strong=\"H8045\">וַיַּשְׁמֵ֣ד</span> <span data-strong=\"H2174\">זִמְרִ֔י</span> <span data-strong=\"H853\">אֵ֖ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H1201\">בַּעְשָׁ֑א</span> <span data-strong=\"H1697\">כִּדְבַ֤ר</span> <span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1696\">דִּבֶּ֣ר</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H1201\">בַּעְשָׁ֔א</span> <span data-strong=\"H3027\">בְּיַ֖ד</span> <span data-strong=\"H3058\">יֵה֥וּא</span> <span data-strong=\"H5030\">הַנָּבִֽיא׃</span>",
     "transliteration": "vayashemed zimeriy 'et khol-veyt va'esha' khidevar yehovah 'asher diver 'el-va'esha' veyad yehv' hanaviy'.",
     "translation": "E Zimri destruiu toda a casa de Baasa, conforme a palavra do Senhor que havia falado a Baasa pela mão do profeta Jotão."
   },
   {
     "verse": 13,
-    "original": "אֶ֚ל כׇּל־חַטֹּ֣אות בַּעְשָׁ֔א וְחַטֹּ֖אות אֵלָ֣ה בְנ֑וֹ אֲשֶׁ֣ר חָטְא֗וּ וַאֲשֶׁ֤ר הֶחֱטִ֙יאוּ֙ אֶת־יִשְׂרָאֵ֔ל לְהַכְעִ֗יס אֶת־יְהֹוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל בְּהַבְלֵיהֶֽם׃",
+    "original": "<span data-strong=\"H413\">אֶ֚ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2403\">חַטֹּ֣אות</span> <span data-strong=\"H1201\">בַּעְשָׁ֔א</span> <span data-strong=\"H2403\">וְחַטֹּ֖אות</span> <span data-strong=\"H425\">אֵלָ֣ה</span> <span data-strong=\"H2050\">בְנ֑וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H2398\">חָטְא֗וּ</span> <span data-strong=\"H834\">וַאֲשֶׁ֤ר</span> <span data-strong=\"H2398\">הֶחֱטִ֙יאוּ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3707\">לְהַכְעִ֗יס</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H3963\">בְּהַבְלֵיהֶֽם׃</span>",
     "transliteration": "'el khol-hato'vt va'esha' vehato'vt 'elah venvo 'asher hate'v va'asher hehetiy'v 'et-yisera'el lehakhe'iys 'et-yehovah 'elohey yisera'el vehaveleyhem.",
     "translation": "Para todos os pecados de Baasha e os pecados de Eleá, seu filho, que pecaram e fizeram Israel pecar, provocando a ira do Senhor Deus de Israel com suas vaidades."
   },
@@ -85,31 +85,31 @@
   },
   {
     "verse": 15,
-    "original": "בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה וְהָעָ֣ם חֹנִ֔ים עַֽל־גִּבְּת֖וֹן אֲשֶׁ֥ר לַפְּלִשְׁתִּֽים׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַת֩</span> <span data-strong=\"H6242\">עֶשְׂרִ֨ים</span> <span data-strong=\"H7651\">וָשֶׁ֜בַע</span> <span data-strong=\"H8141\">שָׁנָ֗ה</span> <span data-strong=\"H609\">לְאָסָא֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H4427\">מָלַ֥ךְ</span> <span data-strong=\"H2174\">זִמְרִ֛י</span> <span data-strong=\"H7651\">שִׁבְעַ֥ת</span> <span data-strong=\"H3117\">יָמִ֖ים</span> <span data-strong=\"H8656\">בְּתִרְצָ֑ה</span> <span data-strong=\"H5971\">וְהָעָ֣ם</span> <span data-strong=\"H2583\">חֹנִ֔ים</span> <span data-strong=\"H5921\">עַֽל</span>־<span data-strong=\"H1405\">גִּבְּת֖וֹן</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H6430\">לַפְּלִשְׁתִּֽים׃</span>",
     "transliteration": "vishenat 'eseriym vasheva' shanah le'asa' melekhe yehvdah malakhe zimeriy shive'at yamiym vetiretsah veha'am honiym 'al-givetvon 'asher lafelishetiym.",
     "translation": "No vigésimo sétimo ano do reinado de Asa, rei de Judá, Zimri foi rei por sete dias em Tirtsa. E o povo estava acampado junto a Gibeom, que pertence aos filisteus."
   },
   {
     "verse": 16,
-    "original": "וַיִּשְׁמַ֤ע הָעָם֙ הַחֹנִ֣ים לֵאמֹ֔ר קָשַׁ֣ר זִמְרִ֔י וְגַ֖ם הִכָּ֣ה אֶת־הַמֶּ֑לֶךְ וַיַּמְלִ֣כוּ כׇֽל־יִ֠שְׂרָאֵ֠ל אֶת־עׇמְרִ֨י שַׂר־צָבָ֧א עַל־יִשְׂרָאֵ֛ל בַּיּ֥וֹם הַה֖וּא בַּֽמַּחֲנֶֽה׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשְׁמַ֤ע</span> <span data-strong=\"H5971\">הָעָם֙</span> <span data-strong=\"H2583\">הַחֹנִ֣ים</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H7194\">קָשַׁ֣ר</span> <span data-strong=\"H2174\">זִמְרִ֔י</span> <span data-strong=\"H1571\">וְגַ֖ם</span> <span data-strong=\"H5221\">הִכָּ֣ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H4427\">וַיַּמְלִ֣כוּ</span> <span data-strong=\"H3605\">כׇֽל</span>־<span data-strong=\"H3478\">יִ֠שְׂרָאֵ֠ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H6018\">עׇמְרִ֨י</span> <span data-strong=\"H8269\">שַׂר</span>־<span data-strong=\"H6635\">צָבָ֧א</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֛ל</span> <span data-strong=\"H3117\">בַּיּ֥וֹם</span> <span data-strong=\"H1931\">הַה֖וּא</span> <span data-strong=\"H4264\">בַּֽמַּחֲנֶֽה׃</span>",
     "transliteration": "vayishema' ha'am hahoniym le'mor kashar zimeriy vegam hikhah 'et-hamelekhe vayamelikhv khol-yisera'el 'et-'omeriy sar-tsava' 'al-yisera'el vayvom hahv' vamahaneh.",
     "translation": "E o povo acampado ouviu dizer que Zimri havia amarrado [ou feito], e também feriu o rei; então todo Israel consagrou Omrí, capitão do exército, como rei sobre Israel naquele dia no acampamento."
   },
   {
     "verse": 17,
-    "original": "וַיַּעֲלֶ֥ה עׇמְרִ֛י וְכׇל־יִשְׂרָאֵ֥ל עִמּ֖וֹ מִֽגִּבְּת֑וֹן וַיָּצֻ֖רוּ עַל־תִּרְצָֽה׃",
+    "original": "<span data-strong=\"H5927\">וַיַּעֲלֶ֥ה</span> <span data-strong=\"H6018\">עׇמְרִ֛י</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֥ל</span> <span data-strong=\"H2050\">עִמּ֖וֹ</span> <span data-strong=\"H1405\">מִֽגִּבְּת֑וֹן</span> <span data-strong=\"H6696\">וַיָּצֻ֖רוּ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H8656\">תִּרְצָֽה׃</span>",
     "transliteration": "vaya'aleh 'omeriy vekhol-yisera'el 'imvo migivetvon vayatsurv 'al-tiretsah.",
     "translation": "E subiu Amri com todo Israel consigo de Gibeá e sitiaram Tirza."
   },
   {
     "verse": 18,
-    "original": "וַיְהִ֞י כִּרְא֤וֹת זִמְרִי֙ כִּֽי־נִלְכְּדָ֣ה הָעִ֔יר וַיָּבֹ֖א אֶל־אַרְמ֣וֹן בֵּית־הַמֶּ֑לֶךְ וַיִּשְׂרֹ֨ף עָלָ֧יו אֶת־בֵּֽית־מֶ֛לֶךְ בָּאֵ֖שׁ וַיָּמֹֽת׃",
+    "original": "<span data-strong=\"H1961\">וַיְהִ֞י</span> <span data-strong=\"H7200\">כִּרְא֤וֹת</span> <span data-strong=\"H2174\">זִמְרִי֙</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H3920\">נִלְכְּדָ֣ה</span> <span data-strong=\"H5892\">הָעִ֔יר</span> <span data-strong=\"H935\">וַיָּבֹ֖א</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H759\">אַרְמ֣וֹן</span> <span data-strong=\"H1004\">בֵּית</span>־<span data-strong=\"H4428\">הַמֶּ֑לֶךְ</span> <span data-strong=\"H8313\">וַיִּשְׂרֹ֨ף</span> <span data-strong=\"H2050\">עָלָ֧יו</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1004\">בֵּֽית</span>־<span data-strong=\"H4428\">מֶ֛לֶךְ</span> <span data-strong=\"H784\">בָּאֵ֖שׁ</span> <span data-strong=\"H4191\">וַיָּמֹֽת׃</span>",
     "transliteration": "vayehiy khire'vot zimeriy khiy-nilekhedah ha'iyr vayavo' 'el-'aremvon veyt-hamelekhe vayiserof 'alayv 'et-veyt-melekhe va'esh vayamot.",
     "translation": "E foi quando Zimri viu que a cidade era tomada, e entrou no átrio do palácio real; ali ateou fogo ao palácio com o rei nele, e morreu."
   },
   {
     "verse": 19,
-    "original": "עַל־חַטֹּאתָיו֙ אֲשֶׁ֣ר חָטָ֔א לַעֲשׂ֥וֹת הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה לָלֶ֙כֶת֙ בְּדֶ֣רֶךְ יָרׇבְעָ֔ם וּבְחַטָּאתוֹ֙ אֲשֶׁ֣ר עָשָׂ֔ה לְהַחֲטִ֖יא אֶת־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־חַטֹּאתָיו֙ <span data-strong=\"H2050\">אֲשֶׁ֣ר</span> <span data-strong=\"H834\">חָטָ֔א</span> <span data-strong=\"H2398\">לַעֲשׂ֥וֹת</span> <span data-strong=\"H6213\">הָרַ֖ע</span> <span data-strong=\"H7451\">בְּעֵינֵ֣י</span> <span data-strong=\"H5869\">יְהֹוָ֑ה</span> <span data-strong=\"H3068\">לָלֶ֙כֶת֙</span> <span data-strong=\"H1980\">בְּדֶ֣רֶךְ</span> <span data-strong=\"H1870\">יָרׇבְעָ֔ם</span> <span data-strong=\"H3379\">וּבְחַטָּאתוֹ֙</span> <span data-strong=\"H2050\">אֲשֶׁ֣ר</span> <span data-strong=\"H834\">עָשָׂ֔ה</span> <span data-strong=\"H6213\">לְהַחֲטִ֖יא</span> <span data-strong=\"H2398\">אֶת</span>־<span data-strong=\"H853\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "'al-hato'tayv 'asher hata' la'asvot hara' ve'eyney yehovah lalekhet vederekhe yarove'am vvehata'tvo 'asher 'asah lehahatiy' 'et-yisera'el.",
     "translation": "Pelo pecado que ele cometeu, fazendo o mal aos olhos do Senhor, andando no caminho de Jeroboão e em sua própria iniqüidade, que fez para desviar Israel."
   },
@@ -121,7 +121,7 @@
   },
   {
     "verse": 21,
-    "original": "אָ֧ז יֵחָלֵ֛ק הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי חֲצִ֨י הָעָ֜ם הָ֠יָ֠ה אַחֲרֵ֨י תִבְנִ֤י בֶן־גִּינַת֙ לְהַמְלִיכ֔וֹ וְהַחֲצִ֖י אַחֲרֵ֥י עׇמְרִֽי׃",
+    "original": "<span data-strong=\"H227\">אָ֧ז</span> <span data-strong=\"H2505\">יֵחָלֵ֛ק</span> <span data-strong=\"H5971\">הָעָ֥ם</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֖ל</span> <span data-strong=\"H2677\">לַחֵ֑צִי</span> <span data-strong=\"H2677\">חֲצִ֨י</span> <span data-strong=\"H5971\">הָעָ֜ם</span> <span data-strong=\"H1961\">הָ֠יָ֠ה</span> <span data-strong=\"H310\">אַחֲרֵ֨י</span> <span data-strong=\"H8402\">תִבְנִ֤י</span> <span data-strong=\"H1121\">בֶן</span>־<span data-strong=\"H1527\">גִּינַת֙</span> <span data-strong=\"H2050\">לְהַמְלִיכ֔וֹ</span> <span data-strong=\"H2677\">וְהַחֲצִ֖י</span> <span data-strong=\"H310\">אַחֲרֵ֥י</span> <span data-strong=\"H6018\">עׇמְרִֽי׃</span>",
     "transliteration": "'az yehalek ha'am yisera'el lahetsiy hatsiy ha'am hayah 'aharey tiveniy ven-giynat lehameliykhvo vehahatsiy 'aharey 'omeriy.",
     "translation": "Então o povo de Israel se dividiu ao meio. Metade do povo seguiu Tibeate, filho de Guinat, para fazê-lo rei; e a outra metade seguiu Amri."
   },
@@ -133,19 +133,19 @@
   },
   {
     "verse": 23,
-    "original": "בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וְאַחַ֜ת שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֤ךְ עׇמְרִי֙ עַל־יִשְׂרָאֵ֔ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה שָׁנָ֑ה בְּתִרְצָ֖ה מָלַ֥ךְ שֵׁשׁ־שָׁנִֽים׃",
+    "original": "<span data-strong=\"H8141\">בִּשְׁנַת֩</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֨ים</span> <span data-strong=\"H259\">וְאַחַ֜ת</span> <span data-strong=\"H8141\">שָׁנָ֗ה</span> <span data-strong=\"H609\">לְאָסָא֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H4427\">מָלַ֤ךְ</span> <span data-strong=\"H6018\">עׇמְרִי֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H8147\">שְׁתֵּ֥ים</span> <span data-strong=\"H6240\">עֶשְׂרֵ֖ה</span> <span data-strong=\"H8141\">שָׁנָ֑ה</span> <span data-strong=\"H8656\">בְּתִרְצָ֖ה</span> <span data-strong=\"H4427\">מָלַ֥ךְ</span> <span data-strong=\"H8337\">שֵׁשׁ</span>־<span data-strong=\"H8141\">שָׁנִֽים׃</span>",
     "transliteration": "vishenat sheloshiym ve'ahat shanah le'asa' melekhe yehvdah malakhe 'omeriy 'al-yisera'el sheteym 'esereh shanah vetiretsah malakhe shesh-shaniym.",
     "translation": "No trigésimo primeiro ano do reinado de Asa, rei de Judá, Omri foi rei sobre Israel por doze anos. Em Tirsá, reinou seis anos."
   },
   {
     "verse": 24,
-    "original": "וַיִּ֜קֶן אֶת־הָהָ֥ר שֹׁמְר֛וֹן מֵ֥אֶת שֶׁ֖מֶר בְּכִכְּרַ֣יִם כָּ֑סֶף וַיִּ֙בֶן֙ אֶת־הָהָ֔ר וַיִּקְרָ֗א אֶת־שֵׁ֤ם הָעִיר֙ אֲשֶׁ֣ר בָּנָ֔ה עַ֣ל שֶׁם־שֶׁ֔מֶר אֲדֹנֵ֖י הָהָ֥ר שֹׁמְרֽוֹן׃",
+    "original": "<span data-strong=\"H7069\">וַיִּ֜קֶן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2022\">הָהָ֥ר</span> <span data-strong=\"H8111\">שֹׁמְר֛וֹן</span> <span data-strong=\"H854\">מֵ֥אֶת</span> <span data-strong=\"H8106\">שֶׁ֖מֶר</span> <span data-strong=\"H3603\">בְּכִכְּרַ֣יִם</span> <span data-strong=\"H3701\">כָּ֑סֶף</span> <span data-strong=\"H1129\">וַיִּ֙בֶן֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2022\">הָהָ֔ר</span> <span data-strong=\"H7121\">וַיִּקְרָ֗א</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H8034\">שֵׁ֤ם</span> <span data-strong=\"H5892\">הָעִיר֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H1129\">בָּנָ֔ה</span> <span data-strong=\"H5921\">עַ֣ל</span> <span data-strong=\"H8034\">שֶׁם</span>־<span data-strong=\"H8106\">שֶׁ֔מֶר</span> <span data-strong=\"H113\">אֲדֹנֵ֖י</span> <span data-strong=\"H2022\">הָהָ֥ר</span> <span data-strong=\"H8111\">שֹׁמְרֽוֹן׃</span>",
     "transliteration": "vayiken 'et-hahar shomervon me'et shemer vekhikherayim khasef vayiven 'et-hahar vayikera' 'et-shem ha'iyr 'asher vanah 'al shem-shemer 'adoney hahar shomervon.",
     "translation": "E adquiriu o monte Shomeron de Semer por cem moedas de prata. E edificou sobre ele, e chamou o nome da cidade que construiu, segundo o nome de Semer, \"Senhor do Monte Shomeron\"."
   },
   {
     "verse": 25,
-    "original": "וַיַּעֲשֶׂ֥ה עׇמְרִ֛י הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה וַיָּ֕רַע מִכֹּ֖ל אֲשֶׁ֥ר לְפָנָֽיו׃",
+    "original": "<span data-strong=\"H6213\">וַיַּעֲשֶׂ֥ה</span> <span data-strong=\"H6018\">עׇמְרִ֛י</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H7489\">וַיָּ֕רַע</span> <span data-strong=\"H3605\">מִכֹּ֖ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2050\">לְפָנָֽיו׃</span>",
     "transliteration": "vaya'aseh 'omeriy hara' ve'eyney yehovah vayara' mikhol 'asher lefanayv.",
     "translation": "E Amri fez o que era mau aos olhos do Senhor, e agiu pior do que todos os que o antecederam."
   },
@@ -157,7 +157,7 @@
   },
   {
     "verse": 27,
-    "original": "וְיֶ֨תֶר דִּבְרֵ֤י עׇמְרִי֙ אֲשֶׁ֣ר עָשָׂ֔ה וּגְבוּרָת֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3499\">וְיֶ֨תֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֤י</span> <span data-strong=\"H6018\">עׇמְרִי֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֔ה</span> <span data-strong=\"H2050\">וּגְבוּרָת֖וֹ</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H6213\">עָשָׂ֑ה</span> <span data-strong=\"H3808\">הֲלֹא</span>־<span data-strong=\"H1992\">הֵ֣ם</span> <span data-strong=\"H3789\">כְּתוּבִ֗ים</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H5612\">סֵ֛פֶר</span> <span data-strong=\"H1697\">דִּבְרֵ֥י</span> <span data-strong=\"H3117\">הַיָּמִ֖ים</span> <span data-strong=\"H4428\">לְמַלְכֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "veyeter diverey 'omeriy 'asher 'asah vgevvratvo 'asher 'asah halo'-hem khetvviym 'al-sefer diverey hayamiym lemalekhey yisera'el.",
     "translation": "E as demais palavras de Amri, tudo quanto fez, e sua poderosa valentia, porventura não estão escritas no livro das crônicas dos reis de Israel?"
   },
@@ -169,31 +169,31 @@
   },
   {
     "verse": 29,
-    "original": "וְאַחְאָ֣ב בֶּן־עׇמְרִ֗י מָלַךְ֙ עַל־יִשְׂרָאֵ֔ל בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וּשְׁמֹנֶה֙ שָׁנָ֔ה לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה וַ֠יִּמְלֹ֠ךְ אַחְאָ֨ב בֶּן־עׇמְרִ֤י עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְר֔וֹן עֶשְׂרִ֥ים וּשְׁתַּ֖יִם שָׁנָֽה׃",
+    "original": "<span data-strong=\"H256\">וְאַחְאָ֣ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6018\">עׇמְרִ֗י</span> <span data-strong=\"H4427\">מָלַךְ֙</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H8141\">בִּשְׁנַ֨ת</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֤ים</span> <span data-strong=\"H8083\">וּשְׁמֹנֶה֙</span> <span data-strong=\"H8141\">שָׁנָ֔ה</span> <span data-strong=\"H609\">לְאָסָ֖א</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H3063\">יְהוּדָ֑ה</span> <span data-strong=\"H4427\">וַ֠יִּמְלֹ֠ךְ</span> <span data-strong=\"H256\">אַחְאָ֨ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6018\">עׇמְרִ֤י</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H8111\">בְּשֹׁ֣מְר֔וֹן</span> <span data-strong=\"H6242\">עֶשְׂרִ֥ים</span> <span data-strong=\"H8147\">וּשְׁתַּ֖יִם</span> <span data-strong=\"H8141\">שָׁנָֽה׃</span>",
     "transliteration": "ve'ahe'av ven-'omeriy malakhe 'al-yisera'el vishenat sheloshiym vshemoneh shanah le'asa' melekhe yehvdah vayimelokhe 'ahe'av ven-'omeriy 'al-yisera'el veshomervon 'eseriym vshetayim shanah.",
     "translation": "E Acabe, filho de Omri, reinou sobre Israel no trigésimo oitavo ano do reinado de Asa, rei de Judá. E Acabe, filho de Omri, reinou sobre Israel em Samaria por vinte e dois anos."
   },
   {
     "verse": 30,
-    "original": "וַיַּ֨עַשׂ אַחְאָ֧ב בֶּן־עׇמְרִ֛י הָרַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה מִכֹּ֖ל אֲשֶׁ֥ר לְפָנָֽיו׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֨עַשׂ</span> <span data-strong=\"H256\">אַחְאָ֧ב</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H6018\">עׇמְרִ֛י</span> <span data-strong=\"H7451\">הָרַ֖ע</span> <span data-strong=\"H5869\">בְּעֵינֵ֣י</span> <span data-strong=\"H3068\">יְהֹוָ֑ה</span> <span data-strong=\"H3605\">מִכֹּ֖ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H2050\">לְפָנָֽיו׃</span>",
     "transliteration": "vaya'as 'ahe'av ven-'omeriy hara' ve'eyney yehovah mikhol 'asher lefanayv.",
     "translation": "E Acabe, filho de Omri, fez o mal perante os olhos do Senhor, mais do que todos os que o antecederam."
   },
   {
     "verse": 31,
-    "original": "וַֽיְהִי֙ הֲנָקֵ֣ל לֶכְתּ֔וֹ בְּחַטֹּ֖אות יָרׇבְעָ֣ם בֶּן־נְבָ֑ט וַיִּקַּ֨ח אִשָּׁ֜ה אֶת־אִיזֶ֗בֶל בַּת־אֶתְבַּ֙עַל֙ מֶ֣לֶךְ צִידֹנִ֔ים וַיֵּ֙לֶךְ֙ וַיַּעֲבֹ֣ד אֶת־הַבַּ֔עַל וַיִּשְׁתַּ֖חוּ לֽוֹ׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H7043\">הֲנָקֵ֣ל</span> <span data-strong=\"H2050\">לֶכְתּ֔וֹ</span> <span data-strong=\"H2403\">בְּחַטֹּ֖אות</span> <span data-strong=\"H3379\">יָרׇבְעָ֣ם</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5028\">נְבָ֑ט</span> <span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H802\">אִשָּׁ֜ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H348\">אִיזֶ֗בֶל</span> <span data-strong=\"H1323\">בַּת</span>־<span data-strong=\"H856\">אֶתְבַּ֙עַל֙</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H6722\">צִידֹנִ֔ים</span> <span data-strong=\"H1980\">וַיֵּ֙לֶךְ֙</span> <span data-strong=\"H5647\">וַיַּעֲבֹ֣ד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1168\">הַבַּ֔עַל</span> <span data-strong=\"H7812\">וַיִּשְׁתַּ֖חוּ</span> <span data-strong=\"H2050\">לֽוֹ׃</span>",
     "transliteration": "vayehiy hanakel lekhetvo vehato'vt yarove'am ven-nevat vayikah 'ishah 'et-'iyzevel vat-'eteva'al melekhe tsiydoniym vayelekhe vaya'avod 'et-hava'al vayishetahv lvo.",
     "translation": "E foi por causa da leveza do caminhar de Acabe, filho de Omri, nos pecados de Jeroboão, filho de Nebate, que ele tomou em casamento Izabel, filha de Etbaal, rei dos sidônios, e seguiu a Baal, adorando-o."
   },
   {
     "verse": 32,
-    "original": "וַיָּ֥קֶם מִזְבֵּ֖חַ לַבָּ֑עַל בֵּ֣ית הַבַּ֔עַל אֲשֶׁ֥ר בָּנָ֖ה בְּשֹׁמְרֽוֹן׃",
+    "original": "<span data-strong=\"H6965\">וַיָּ֥קֶם</span> <span data-strong=\"H4196\">מִזְבֵּ֖חַ</span> <span data-strong=\"H1168\">לַבָּ֑עַל</span> <span data-strong=\"H1004\">בֵּ֣ית</span> <span data-strong=\"H1168\">הַבַּ֔עַל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1129\">בָּנָ֖ה</span> <span data-strong=\"H8111\">בְּשֹׁמְרֽוֹן׃</span>",
     "transliteration": "vayakem mizeveha lava'al veyt hava'al 'asher vanah veshomervon.",
     "translation": "E ergueu um altar para o Baal, na Casa do Baal que edificou em Samaria."
   },
   {
     "verse": 33,
-    "original": "וַיַּ֥עַשׂ אַחְאָ֖ב אֶת־הָאֲשֵׁרָ֑ה וַיּ֨וֹסֶף אַחְאָ֜ב לַעֲשׂ֗וֹת לְהַכְעִיס֙ אֶת־יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל מִכֹּל֙ מַלְכֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הָי֖וּ לְפָנָֽיו׃",
+    "original": "<span data-strong=\"H6213\">וַיַּ֥עַשׂ</span> <span data-strong=\"H256\">אַחְאָ֖ב</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H842\">הָאֲשֵׁרָ֑ה</span> <span data-strong=\"H3254\">וַיּ֨וֹסֶף</span> <span data-strong=\"H256\">אַחְאָ֜ב</span> <span data-strong=\"H6213\">לַעֲשׂ֗וֹת</span> <span data-strong=\"H3707\">לְהַכְעִיס֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3068\">יְהֹוָה֙</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H3605\">מִכֹּל֙</span> <span data-strong=\"H4428\">מַלְכֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H1961\">הָי֖וּ</span> <span data-strong=\"H2050\">לְפָנָֽיו׃</span>",
     "transliteration": "vaya'as 'ahe'av 'et-ha'asherah vayvosef 'ahe'av la'asvot lehakhe'iys 'et-yehovah 'elohey yisera'el mikhol malekhey yisera'el 'asher hayv lefanayv.",
     "translation": "Acaz fez a Asera, e Acaz acrescentou à obra de provocar ira ao Senhor Deus de Israel, mais do que todos os reis de Israel que vieram antes dele.\n\nNota Interna: O nome próprio correto seria \"Acab\" (Achav), mantendo coerência com o texto original em hebraico. No entanto, a solicitação foi manter o uso tradicional no português brasileiro, embora este não seja gramatical ou filologicamente preciso."
   },

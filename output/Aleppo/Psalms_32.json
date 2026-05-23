@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "לְדָוִ֗ד מַ֫שְׂכִּ֥יל אַשְׁרֵ֥י נְֽשׂוּי־פֶּ֗שַׁע כְּס֣וּי חֲטָאָֽה׃",
+    "original": "<span data-strong=\"H1732\">לְדָוִ֗ד</span> <span data-strong=\"H4905\">מַ֫שְׂכִּ֥יל</span> <span data-strong=\"H835\">אַשְׁרֵ֥י</span> <span data-strong=\"H5375\">נְֽשׂוּי</span>־<span data-strong=\"H6588\">פֶּ֗שַׁע</span> <span data-strong=\"H3680\">כְּס֣וּי</span> <span data-strong=\"H2401\">חֲטָאָֽה׃</span>",
     "transliteration": "ledavid masekhiyl 'asherey nesvy-fesha' khesvy hata'ah.",
     "translation": "Feliz o que é absolvido do pecado, coberto da iniquidade."
   },
@@ -13,49 +13,49 @@
   },
   {
     "verse": 3,
-    "original": "כִּֽי־הֶ֭חֱרַשְׁתִּי בָּל֣וּ עֲצָמָ֑י בְּ֝שַׁאֲגָתִ֗י כׇּל־הַיּֽוֹם׃",
+    "original": "<span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H2790\">הֶ֭חֱרַשְׁתִּי</span> <span data-strong=\"H1086\">בָּל֣וּ</span> <span data-strong=\"H2967\">עֲצָמָ֑י</span> <span data-strong=\"H2967\">בְּ֝שַׁאֲגָתִ֗י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">הַיּֽוֹם׃</span>",
     "transliteration": "khiy-heherashetiy valv 'atsamay vesha'agatiy khol-hayvom.",
     "translation": "Pois, calado, meus ossos se consomem; pelo meu gemer todo o dia."
   },
   {
     "verse": 4,
-    "original": "כִּ֤י&thinsp;<b>׀</b> יוֹמָ֣ם וָלַיְלָה֮ תִּכְבַּ֥ד עָלַ֗י יָ֫דֶ֥ךָ נֶהְפַּ֥ךְ לְשַׁדִּ֑י בְּחַרְבֹ֖נֵי קַ֣יִץ סֶֽלָה׃",
+    "original": "<span data-strong=\"H3588\">כִּ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H3119\">יוֹמָ֣ם</span> <span data-strong=\"H3915\">וָלַיְלָה֮</span> <span data-strong=\"H3513\">תִּכְבַּ֥ד</span> <span data-strong=\"H2967\">עָלַ֗י</span> <span data-strong=\"H3509\">יָ֫דֶ֥ךָ</span> <span data-strong=\"H2015\">נֶהְפַּ֥ךְ</span> <span data-strong=\"H2967\">לְשַׁדִּ֑י</span> <span data-strong=\"H2725\">בְּחַרְבֹ֖נֵי</span> <span data-strong=\"H7019\">קַ֣יִץ</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "khiy&thinsp;<b>|</b> yvomam valayelah tikhevad 'alay yadekha nehefakhe leshadiy veharevoney kayits selah.",
     "translation": "Pois de dia e de noite te pesa sobre mim, tua mão se transformou em adversária, com os dardos do verão. Selá."
   },
   {
     "verse": 5,
-    "original": "חַטָּאתִ֨י אוֹדִ֪יעֲךָ֡ וַעֲ֘וֺנִ֤י לֹֽא־כִסִּ֗יתִי אָמַ֗רְתִּי אוֹדֶ֤ה עֲלֵ֣י פְ֭שָׁעַי לַיהֹוָ֑ה וְאַתָּ֨ה נָ֘שָׂ֤אתָ עֲוֺ֖ן חַטָּאתִ֣י סֶֽלָה׃",
+    "original": "<span data-strong=\"H2967\">חַטָּאתִ֨י</span> <span data-strong=\"H3509\">אוֹדִ֪יעֲךָ֡</span> <span data-strong=\"H2967\">וַעֲ֘וֺנִ֤י</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3680\">כִסִּ֗יתִי</span> <span data-strong=\"H559\">אָמַ֗רְתִּי</span> <span data-strong=\"H3034\">אוֹדֶ֤ה</span> <span data-strong=\"H5921\">עֲלֵ֣י</span> <span data-strong=\"H2967\">פְ֭שָׁעַי</span> <span data-strong=\"H3068\">לַיהֹוָ֑ה</span> <span data-strong=\"H859\">וְאַתָּ֨ה</span> <span data-strong=\"H5375\">נָ֘שָׂ֤אתָ</span> <span data-strong=\"H5771\">עֲוֺ֖ן</span> <span data-strong=\"H2967\">חַטָּאתִ֣י</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "hata'tiy 'vodiy'akha va'avoniy lo'-khisiytiy 'amaretiy 'vodeh 'aley fesha'ay layhovah ve'atah nasa'ta 'avon hata'tiy selah.",
     "translation": "Pequei e declarei-o, não ocultei meu pecado. Disse: confessarei minhas iniquidades ao Senhor; e tu perdoaste a culpa da minha transgressão, selah."
   },
   {
     "verse": 6,
-    "original": "עַל־זֹ֡את יִתְפַּלֵּ֬ל כׇּל־חָסִ֨יד&thinsp;<b>׀</b> אֵלֶיךָ֮ לְעֵ֢ת מְ֫צֹ֥א רַ֗ק לְ֭שֵׁטֶף מַ֣יִם רַבִּ֑ים אֵ֝לָ֗יו לֹ֣א יַגִּֽיעוּ׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2063\">זֹ֡את</span> <span data-strong=\"H6419\">יִתְפַּלֵּ֬ל</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H2623\">חָסִ֨יד&thinsp;<b>׀</b></span> <span data-strong=\"H3509\">אֵלֶיךָ֮</span> <span data-strong=\"H6256\">לְעֵ֢ת</span> <span data-strong=\"H4672\">מְ֫צֹ֥א</span> <span data-strong=\"H7535\">רַ֗ק</span> <span data-strong=\"H7858\">לְ֭שֵׁטֶף</span> <span data-strong=\"H4325\">מַ֣יִם</span> <span data-strong=\"H7227\">רַבִּ֑ים</span> <span data-strong=\"H2050\">אֵ֝לָ֗יו</span> <span data-strong=\"H3808\">לֹ֣א</span> <span data-strong=\"H5060\">יַגִּֽיעוּ׃</span>",
     "transliteration": "'al-zo't yitefalel khol-hasiyd&thinsp;<b>|</b> 'eleykha le'et metso' rak leshetef mayim raviym 'elayv lo' yagiy'v.",
     "translation": "Por isso, todo piedoso te implorará no tempo de encontrar apenas a torrente de muitas águas; sobre ele não chegarão."
   },
   {
     "verse": 7,
-    "original": "אַתָּ֤ה&thinsp;<b>׀</b> סֵ֥תֶר לִי֮ מִצַּ֢ר תִּ֫צְּרֵ֥נִי רׇנֵּ֥י פַלֵּ֑ט תְּס֖וֹבְבֵ֣נִי סֶֽלָה׃",
+    "original": "<span data-strong=\"H859\">אַתָּ֤ה&thinsp;<b>׀</b></span> <span data-strong=\"H5643\">סֵ֥תֶר</span> <span data-strong=\"H2967\">לִי֮</span> <span data-strong=\"H6862\">מִצַּ֢ר</span> <span data-strong=\"H5204\">תִּ֫צְּרֵ֥נִי</span> <span data-strong=\"H7438\">רׇנֵּ֥י</span> <span data-strong=\"H6403\">פַלֵּ֑ט</span> <span data-strong=\"H5204\">תְּס֖וֹבְבֵ֣נִי</span> <span data-strong=\"H5542\">סֶֽלָה׃</span>",
     "transliteration": "'atah&thinsp;<b>|</b> seter liy mitsar titsereniy roney falet tesvoveveniy selah.",
     "translation": "Tu és meu esconderijo; livras-me da tribulação, cercas-me com cânticos de libertação, envolves-me, selá."
   },
   {
     "verse": 8,
-    "original": "אַשְׂכִּֽילְךָ֨&thinsp;<b>׀</b> וְֽאוֹרְךָ֗ בְּדֶֽרֶךְ־ז֥וּ תֵלֵ֑ךְ אִיעֲצָ֖ה עָלֶ֣יךָ עֵינִֽי׃",
+    "original": "<span data-strong=\"H3509\">אַשְׂכִּֽילְךָ֨&thinsp;<b>׀</b></span> <span data-strong=\"H3509\">וְֽאוֹרְךָ֗</span> <span data-strong=\"H1870\">בְּדֶֽרֶךְ</span>־<span data-strong=\"H2098\">ז֥וּ</span> <span data-strong=\"H1980\">תֵלֵ֑ךְ</span> <span data-strong=\"H3289\">אִיעֲצָ֖ה</span> <span data-strong=\"H3509\">עָלֶ֣יךָ</span> <span data-strong=\"H2967\">עֵינִֽי׃</span>",
     "transliteration": "'asekhiylekha&thinsp;<b>|</b> ve'vorekha vederekhe-zv telekhe 'iy'atsah 'aleykha 'eyniy.",
     "translation": "Esfariar-te-ei, e a tua luz no caminho deste andarás; conselho sobre ti puseste os meus olhos."
   },
   {
     "verse": 9,
-    "original": "אַל־תִּהְי֤וּ&thinsp;<b>׀</b> כְּס֥וּס כְּפֶרֶד֮ אֵ֤ין הָ֫בִ֥ין בְּמֶתֶג־וָרֶ֣סֶן עֶדְי֣וֹ לִבְל֑וֹם בַּ֝֗ל קְרֹ֣ב אֵלֶֽיךָ׃",
+    "original": "<span data-strong=\"H408\">אַל</span>־<span data-strong=\"H1961\">תִּהְי֤וּ&thinsp;<b>׀</b></span> <span data-strong=\"H5483\">כְּס֥וּס</span> <span data-strong=\"H6505\">כְּפֶרֶד֮</span> <span data-strong=\"H369\">אֵ֤ין</span> <span data-strong=\"H995\">הָ֫בִ֥ין</span> <span data-strong=\"H4964\">בְּמֶתֶג</span>־<span data-strong=\"H7448\">וָרֶ֣סֶן</span> <span data-strong=\"H2050\">עֶדְי֣וֹ</span> <span data-strong=\"H1102\">לִבְל֑וֹם</span> <span data-strong=\"H1077\">בַּ֝֗ל</span> <span data-strong=\"H7126\">קְרֹ֣ב</span> <span data-strong=\"H3509\">אֵלֶֽיךָ׃</span>",
     "transliteration": "'al-tiheyv&thinsp;<b>|</b> khesvs khefered 'eyn haviyn vemeteg-varesen 'edeyvo livelvom val kerov 'eleykha.",
     "translation": "Não sejam como o cavalo ou a mula, que não compreendem, com freio e rédea para os domar; de outra forma, não se aproximarão de ti."
   },
   {
     "verse": 10,
-    "original": "רַבִּ֥ים מַכְאוֹבִ֗ים לָ֫רָשָׁ֥ע וְהַבּוֹטֵ֥חַ בַּֽיהֹוָ֑ה חֶ֝֗סֶד יְסוֹבְבֶֽנּוּ׃",
+    "original": "<span data-strong=\"H7227\">רַבִּ֥ים</span> <span data-strong=\"H4341\">מַכְאוֹבִ֗ים</span> <span data-strong=\"H7563\">לָ֫רָשָׁ֥ע</span> <span data-strong=\"H982\">וְהַבּוֹטֵ֥חַ</span> <span data-strong=\"H3068\">בַּֽיהֹוָ֑ה</span> <span data-strong=\"H2617\">חֶ֝֗סֶד</span> <span data-strong=\"H5105\">יְסוֹבְבֶֽנּוּ׃</span>",
     "transliteration": "raviym makhe'voviym larasha' vehavvoteha vayhovah hesed yesvovevenv.",
     "translation": "Muitos são os tormentos do ímpio, mas ao que confia no Senhor cercam-no misericórdias."
   },

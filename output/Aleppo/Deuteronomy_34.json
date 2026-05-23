@@ -1,73 +1,73 @@
 [
   {
     "verse": 1,
-    "original": "וַיַּ֨עַל מֹשֶׁ֜ה מֵעַרְבֹ֤ת מוֹאָב֙ אֶל־הַ֣ר נְב֔וֹ רֹ֚אשׁ הַפִּסְגָּ֔ה אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וַיַּרְאֵ֨הוּ יְהֹוָ֧ה אֶת־כׇּל־הָאָ֛רֶץ אֶת־הַגִּלְעָ֖ד עַד־דָּֽן׃",
+    "original": "<span data-strong=\"H5927\">וַיַּ֨עַל</span> <span data-strong=\"H4872\">מֹשֶׁ֜ה</span> <span data-strong=\"H6160\">מֵעַרְבֹ֤ת</span> <span data-strong=\"H4124\">מוֹאָב֙</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2022\">הַ֣ר</span> <span data-strong=\"H5015\">נְב֔וֹ</span> <span data-strong=\"H7218\">רֹ֚אשׁ</span> <span data-strong=\"H6449\">הַפִּסְגָּ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6440\">פְּנֵ֣י</span> <span data-strong=\"H3405\">יְרֵח֑וֹ</span> <span data-strong=\"H1930\">וַיַּרְאֵ֨הוּ</span> <span data-strong=\"H3068\">יְהֹוָ֧ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">הָאָ֛רֶץ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H1568\">הַגִּלְעָ֖ד</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H1835\">דָּֽן׃</span>",
     "transliteration": "vaya'al mosheh me'arevot mvo'av 'el-har nevvo ro'sh hafisegah 'asher 'al-feney yerehvo vayare'ehv yehovah 'et-khol-ha'arets 'et-hagile'ad 'ad-dan.",
     "translation": "E subiu Moisés dos arredores de Moabe ao monte Nebo, ao cume do Pisga, que se eleva sobre Jericó; e o Senhor lhe mostrou toda a terra: o Gileade até Dan."
   },
   {
     "verse": 2,
-    "original": "וְאֵת֙ כׇּל־נַפְתָּלִ֔י וְאֶת־אֶ֥רֶץ אֶפְרַ֖יִם וּמְנַשֶּׁ֑ה וְאֵת֙ כׇּל־אֶ֣רֶץ יְהוּדָ֔ה עַ֖ד הַיָּ֥ם הָאַחֲרֽוֹן׃",
+    "original": "<span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H5321\">נַפְתָּלִ֔י</span> <span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H776\">אֶ֥רֶץ</span> <span data-strong=\"H669\">אֶפְרַ֖יִם</span> <span data-strong=\"H4519\">וּמְנַשֶּׁ֑ה</span> <span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H3063\">יְהוּדָ֔ה</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H3220\">הַיָּ֥ם</span> <span data-strong=\"H314\">הָאַחֲרֽוֹן׃</span>",
     "transliteration": "ve'et khol-nafetaliy ve'et-'erets 'eferayim vmenasheh ve'et khol-'erets yehvdah 'ad hayam ha'aharvon.",
     "translation": "E toda a Naftali, e a terra de Efraim e Manassés, e toda a terra de Judá até ao mar do Ocidente."
   },
   {
     "verse": 3,
-    "original": "וְאֶת־הַנֶּ֗גֶב וְֽאֶת־הַכִּכָּ֞ר בִּקְעַ֧ת יְרֵח֛וֹ עִ֥יר הַתְּמָרִ֖ים עַד־צֹֽעַר׃",
+    "original": "<span data-strong=\"H853\">וְאֶת</span>־<span data-strong=\"H5045\">הַנֶּ֗גֶב</span> <span data-strong=\"H853\">וְֽאֶת</span>־<span data-strong=\"H3603\">הַכִּכָּ֞ר</span> <span data-strong=\"H1237\">בִּקְעַ֧ת</span> <span data-strong=\"H3405\">יְרֵח֛וֹ</span> <span data-strong=\"H5892\">עִ֥יר</span> <span data-strong=\"H8558\">הַתְּמָרִ֖ים</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H6820\">צֹֽעַר׃</span>",
     "transliteration": "ve'et-hanegev ve'et-hakhikhar vike'at yerehvo 'iyr hatemariym 'ad-tso'ar.",
     "translation": "E o Neguebe, e a Cirene, a vales de Jericó, cidade dos palmeiros, até Tsôar."
   },
   {
     "verse": 4,
-    "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלָ֗יו זֹ֤את הָאָ֙רֶץ֙ אֲשֶׁ֣ר נִ֠שְׁבַּ֠עְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶ֑נָּה הֶרְאִיתִ֣יךָ בְעֵינֶ֔יךָ וְשָׁ֖מָּה לֹ֥א תַעֲבֹֽר׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H3068\">יְהֹוָ֜ה</span> <span data-strong=\"H2050\">אֵלָ֗יו</span> <span data-strong=\"H2063\">זֹ֤את</span> <span data-strong=\"H776\">הָאָ֙רֶץ֙</span> <span data-strong=\"H834\">אֲשֶׁ֣ר</span> <span data-strong=\"H7650\">נִ֠שְׁבַּ֠עְתִּי</span> <span data-strong=\"H85\">לְאַבְרָהָ֨ם</span> <span data-strong=\"H3327\">לְיִצְחָ֤ק</span> <span data-strong=\"H3290\">וּֽלְיַעֲקֹב֙</span> <span data-strong=\"H559\">לֵאמֹ֔ר</span> <span data-strong=\"H3509\">לְזַרְעֲךָ֖</span> <span data-strong=\"H1886\">אֶתְּנֶ֑נָּה</span> <span data-strong=\"H3509\">הֶרְאִיתִ֣יךָ</span> <span data-strong=\"H3509\">בְעֵינֶ֔יךָ</span> <span data-strong=\"H1886\">וְשָׁ֖מָּה</span> <span data-strong=\"H3808\">לֹ֥א</span> <span data-strong=\"H5674\">תַעֲבֹֽר׃</span>",
     "transliteration": "vayo'mer yehovah 'elayv zo't ha'arets 'asher nisheva'etiy le'averaham leyitsehak vleya'akov le'mor lezare'akha 'etenenah here'iytiykha ve'eyneykha veshamah lo' ta'avor.",
     "translation": "E disse o Senhor a ele: Esta é a terra de que jurei a Abraão, a Isaque e a Jacó, dizendo: À tua semente a darei. Fizeste ver isso com os teus olhos; porém tu não passarás nela."
   },
   {
     "verse": 5,
-    "original": "וַיָּ֨מׇת שָׁ֜ם מֹשֶׁ֧ה עֶבֶד־יְהֹוָ֛ה בְּאֶ֥רֶץ מוֹאָ֖ב עַל־פִּ֥י יְהֹוָֽה׃",
+    "original": "<span data-strong=\"H4191\">וַיָּ֨מׇת</span> <span data-strong=\"H8033\">שָׁ֜ם</span> <span data-strong=\"H4872\">מֹשֶׁ֧ה</span> <span data-strong=\"H5650\">עֶבֶד</span>־<span data-strong=\"H3068\">יְהֹוָ֛ה</span> <span data-strong=\"H776\">בְּאֶ֥רֶץ</span> <span data-strong=\"H4124\">מוֹאָ֖ב</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H6310\">פִּ֥י</span> <span data-strong=\"H3068\">יְהֹוָֽה׃</span>",
     "transliteration": "vayamot sham mosheh 'eved-yehovah ve'erets mvo'av 'al-fiy yehovah.",
     "translation": "E morreu ali Moisés, servo do Senhor, na terra de Moabe, conforme a palavra do Senhor."
   },
   {
     "verse": 6,
-    "original": "וַיִּקְבֹּ֨ר אֹת֤וֹ בַגַּי֙ בְּאֶ֣רֶץ מוֹאָ֔ב מ֖וּל בֵּ֣ית פְּע֑וֹר וְלֹא־יָדַ֥ע אִישׁ֙ אֶת־קְבֻ֣רָת֔וֹ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+    "original": "<span data-strong=\"H6912\">וַיִּקְבֹּ֨ר</span> <span data-strong=\"H2050\">אֹת֤וֹ</span> <span data-strong=\"H1516\">בַגַּי֙</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H4124\">מוֹאָ֔ב</span> <span data-strong=\"H4136\">מ֖וּל</span> <span data-strong=\"H1047\">בֵּ֣ית</span> <span data-strong=\"H1047\">פְּע֑וֹר</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H3045\">יָדַ֥ע</span> <span data-strong=\"H376\">אִישׁ֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">קְבֻ֣רָת֔וֹ</span> <span data-strong=\"H5704\">עַ֖ד</span> <span data-strong=\"H3117\">הַיּ֥וֹם</span> <span data-strong=\"H2088\">הַזֶּֽה׃</span>",
     "transliteration": "vayikevor 'otvo vagay ve'erets mvo'av mvl veyt fe'vor velo'-yada' 'iysh 'et-kevuratvo 'ad hayvom hazeh.",
     "translation": "E o enterrou na várzea, no país de Moabe, defronte de Bete-Peor; e não se sabe até hoje o lugar da sepultura dele."
   },
   {
     "verse": 7,
-    "original": "וּמֹשֶׁ֗ה בֶּן־מֵאָ֧ה וְעֶשְׂרִ֛ים שָׁנָ֖ה בְּמֹת֑וֹ לֹא־כָהֲתָ֥ה עֵינ֖וֹ וְלֹא־נָ֥ס לֵחֹֽה׃",
+    "original": "<span data-strong=\"H4872\">וּמֹשֶׁ֗ה</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H3967\">מֵאָ֧ה</span> <span data-strong=\"H6242\">וְעֶשְׂרִ֛ים</span> <span data-strong=\"H8141\">שָׁנָ֖ה</span> <span data-strong=\"H2050\">בְּמֹת֑וֹ</span> <span data-strong=\"H3808\">לֹא</span>־<span data-strong=\"H3543\">כָהֲתָ֥ה</span> <span data-strong=\"H2050\">עֵינ֖וֹ</span> <span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H5127\">נָ֥ס</span> <span data-strong=\"H2050\">לֵחֹֽה׃</span>",
     "transliteration": "vmosheh ven-me'ah ve'eseriym shanah vemotvo lo'-khahatah 'eynvo velo'-nas lehoh.",
     "translation": "E Moisés tinha cem e vinte anos quando morreu; seus olhos não eram embotados, nem havia declínio em sua força."
   },
   {
     "verse": 8,
-    "original": "וַיִּבְכּוּ֩ בְנֵ֨י יִשְׂרָאֵ֧ל אֶת־מֹשֶׁ֛ה בְּעַֽרְבֹ֥ת מוֹאָ֖ב שְׁלֹשִׁ֣ים י֑וֹם וַֽיִּתְּמ֔וּ יְמֵ֥י בְכִ֖י אֵ֥בֶל מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H1058\">וַיִּבְכּוּ֩</span> <span data-strong=\"H1121\">בְנֵ֨י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֧ל</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H6160\">בְּעַֽרְבֹ֥ת</span> <span data-strong=\"H4124\">מוֹאָ֖ב</span> <span data-strong=\"H7970\">שְׁלֹשִׁ֣ים</span> <span data-strong=\"H3117\">י֑וֹם</span> <span data-strong=\"H8552\">וַֽיִּתְּמ֔וּ</span> <span data-strong=\"H3117\">יְמֵ֥י</span> <span data-strong=\"H1065\">בְכִ֖י</span> <span data-strong=\"H60\">אֵ֥בֶל</span> <span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "vayivekhv veney yisera'el 'et-mosheh ve'arevot mvo'av sheloshiym yvom vayitemv yemey vekhiy 'evel mosheh.",
     "translation": "E choraram os filhos de Israel por Moisés nos planaltos de Moáv durante trinta dias, e se cumpriram os dias do pranto e da lamentação por Moisés."
   },
   {
     "verse": 9,
-    "original": "וִיהוֹשֻׁ֣עַ בִּן־נ֗וּן מָלֵא֙ ר֣וּחַ חׇכְמָ֔ה כִּֽי־סָמַ֥ךְ מֹשֶׁ֛ה אֶת־יָדָ֖יו עָלָ֑יו וַיִּשְׁמְע֨וּ אֵלָ֤יו בְּנֵֽי־יִשְׂרָאֵל֙ וַֽיַּעֲשׂ֔וּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+    "original": "<span data-strong=\"H3091\">וִיהוֹשֻׁ֣עַ</span> <span data-strong=\"H1121\">בִּן</span>־<span data-strong=\"H5126\">נ֗וּן</span> <span data-strong=\"H4390\">מָלֵא֙</span> <span data-strong=\"H7307\">ר֣וּחַ</span> <span data-strong=\"H2451\">חׇכְמָ֔ה</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H5564\">סָמַ֥ךְ</span> <span data-strong=\"H4872\">מֹשֶׁ֛ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H2050\">יָדָ֖יו</span> <span data-strong=\"H2050\">עָלָ֑יו</span> <span data-strong=\"H8085\">וַיִּשְׁמְע֨וּ</span> <span data-strong=\"H2050\">אֵלָ֤יו</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H6213\">וַֽיַּעֲשׂ֔וּ</span> <span data-strong=\"H834\">כַּאֲשֶׁ֛ר</span> <span data-strong=\"H6680\">צִוָּ֥ה</span> <span data-strong=\"H3068\">יְהֹוָ֖ה</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H4872\">מֹשֶֽׁה׃</span>",
     "transliteration": "viyhvoshu'a vin-nvn male' rvha hokhemah khiy-samakhe mosheh 'et-yadayv 'alayv vayisheme'v 'elayv veney-yisera'el vaya'asv kha'asher tsivah yehovah 'et-mosheh.",
     "translation": "E Josué, filho de Num, estava cheio do espírito da sabedoria, porque Moisés havia imposto as mãos sobre ele; os filhos de Israel lhe obedeciam e faziam conforme ordenara o Senhor a Moisés."
   },
   {
     "verse": 10,
-    "original": "וְלֹא־קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהֹוָ֔ה פָּנִ֖ים אֶל־פָּנִֽים׃",
+    "original": "<span data-strong=\"H3808\">וְלֹא</span>־<span data-strong=\"H6965\">קָ֨ם</span> <span data-strong=\"H5030\">נָבִ֥יא</span> <span data-strong=\"H5750\">ע֛וֹד</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֖ל</span> <span data-strong=\"H4872\">כְּמֹשֶׁ֑ה</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H2050\">יְדָע֣וֹ</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H6440\">פָּנִ֖ים</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H6440\">פָּנִֽים׃</span>",
     "transliteration": "velo'-kam naviy' 'vod veyisera'el khemosheh 'asher yeda'vo yehovah faniym 'el-faniym.",
     "translation": "E não mais se levantou em Israel profeta como Moisés, a quem o Senhor conhecia face a face."
   },
   {
     "verse": 11,
-    "original": "לְכׇל־הָ֨אֹתֹ֜ת וְהַמּוֹפְתִ֗ים אֲשֶׁ֤ר שְׁלָחוֹ֙ יְהֹוָ֔ה לַעֲשׂ֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם לְפַרְעֹ֥ה וּלְכׇל־עֲבָדָ֖יו וּלְכׇל־אַרְצֽוֹ׃",
+    "original": "<span data-strong=\"H3605\">לְכׇל</span>־<span data-strong=\"H226\">הָ֨אֹתֹ֜ת</span> <span data-strong=\"H4159\">וְהַמּוֹפְתִ֗ים</span> <span data-strong=\"H834\">אֲשֶׁ֤ר</span> <span data-strong=\"H2050\">שְׁלָחוֹ֙</span> <span data-strong=\"H3068\">יְהֹוָ֔ה</span> <span data-strong=\"H6213\">לַעֲשׂ֖וֹת</span> <span data-strong=\"H776\">בְּאֶ֣רֶץ</span> <span data-strong=\"H4714\">מִצְרָ֑יִם</span> <span data-strong=\"H6547\">לְפַרְעֹ֥ה</span> <span data-strong=\"H3605\">וּלְכׇל</span>־<span data-strong=\"H2050\">עֲבָדָ֖יו</span> <span data-strong=\"H3605\">וּלְכׇל</span>־<span data-strong=\"H2050\">אַרְצֽוֹ׃</span>",
     "transliteration": "lekhol-ha'otot vehamvofetiym 'asher shelahvo yehovah la'asvot ve'erets mitserayim lefare'oh vlekhol-'avadayv vlekhol-'aretsvo.",
     "translation": "Para todas as maravilhas e sinais que o Senhor enviou para fazer na terra do Egito, a Faraó, seus servos e toda a sua terra."
   },
   {
     "verse": 12,
-    "original": "וּלְכֹל֙ הַיָּ֣ד הַחֲזָקָ֔ה וּלְכֹ֖ל הַמּוֹרָ֣א הַגָּד֑וֹל אֲשֶׁר֙ עָשָׂ֣ה מֹשֶׁ֔ה לְעֵינֵ֖י כׇּל־יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H3605\">וּלְכֹל֙</span> <span data-strong=\"H3027\">הַיָּ֣ד</span> <span data-strong=\"H2389\">הַחֲזָקָ֔ה</span> <span data-strong=\"H3605\">וּלְכֹ֖ל</span> <span data-strong=\"H4172\">הַמּוֹרָ֣א</span> <span data-strong=\"H1419\">הַגָּד֑וֹל</span> <span data-strong=\"H834\">אֲשֶׁר֙</span> <span data-strong=\"H6213\">עָשָׂ֣ה</span> <span data-strong=\"H4872\">מֹשֶׁ֔ה</span> <span data-strong=\"H5869\">לְעֵינֵ֖י</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vlekhol hayad hahazakah vlekhol hamvora' hagadvol 'asher 'asah mosheh le'eyney khol-yisera'el.",
     "translation": "E para toda a mão forte e para todo o grande terror que Moisés realizou diante de todos os olhos de Israel."
   }

@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "וַֽיִּשְׁמְע֔וּ צָרֵ֥י יְהוּדָ֖ה וּבִנְיָמִ֑ן כִּֽי־בְנֵ֤י הַגּוֹלָה֙ בּוֹנִ֣ים הֵיכָ֔ל לַיהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+    "original": "<span data-strong=\"H8085\">וַֽיִּשְׁמְע֔וּ</span> <span data-strong=\"H6862\">צָרֵ֥י</span> <span data-strong=\"H3063\">יְהוּדָ֖ה</span> <span data-strong=\"H1144\">וּבִנְיָמִ֑ן</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1121\">בְנֵ֤י</span> <span data-strong=\"H1473\">הַגּוֹלָה֙</span> <span data-strong=\"H1129\">בּוֹנִ֣ים</span> <span data-strong=\"H1964\">הֵיכָ֔ל</span> <span data-strong=\"H3068\">לַיהֹוָ֖ה</span> <span data-strong=\"H430\">אֱלֹהֵ֥י</span> <span data-strong=\"H3478\">יִשְׂרָאֵֽל׃</span>",
     "transliteration": "vayisheme'v tsarey yehvdah vvineyamin khiy-veney hagvolah vvoniym heykhal layhovah 'elohey yisera'el.",
     "translation": "E ouviram os inimigos de Judá e Benjamin que os filhos do exílio estavam edificando o templo ao Senhor, Deus de Israel."
   },
@@ -13,7 +13,7 @@
   },
   {
     "verse": 3,
-    "original": "וַיֹּ֩אמֶר֩ לָהֶ֨ם זְרֻבָּבֶ֜ל וְיֵשׁ֗וּעַ וּשְׁאָ֨ר רָאשֵׁ֤י הָֽאָבוֹת֙ לְיִשְׂרָאֵ֔ל לֹֽא־לָכֶ֣ם וָלָ֔נוּ לִבְנ֥וֹת בַּ֖יִת לֵאלֹהֵ֑ינוּ כִּי֩ אֲנַ֨חְנוּ יַ֜חַד נִבְנֶ֗ה לַֽיהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כַּאֲשֶׁ֣ר צִוָּ֔נוּ הַמֶּ֖לֶךְ כּ֥וֹרֶשׁ מֶֽלֶךְ־פָּרָֽס׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֩אמֶר֩</span> <span data-strong=\"H3963\">לָהֶ֨ם</span> <span data-strong=\"H2216\">זְרֻבָּבֶ֜ל</span> <span data-strong=\"H3442\">וְיֵשׁ֗וּעַ</span> <span data-strong=\"H7605\">וּשְׁאָ֨ר</span> <span data-strong=\"H7218\">רָאשֵׁ֤י</span> <span data-strong=\"H1\">הָֽאָבוֹת֙</span> <span data-strong=\"H3478\">לְיִשְׂרָאֵ֔ל</span> <span data-strong=\"H3808\">לֹֽא</span>־<span data-strong=\"H3641\">לָכֶ֣ם</span> <span data-strong=\"H5105\">וָלָ֔נוּ</span> <span data-strong=\"H1129\">לִבְנ֥וֹת</span> <span data-strong=\"H1004\">בַּ֖יִת</span> <span data-strong=\"H5105\">לֵאלֹהֵ֑ינוּ</span> <span data-strong=\"H3588\">כִּי֩</span> <span data-strong=\"H587\">אֲנַ֨חְנוּ</span> <span data-strong=\"H3162\">יַ֜חַד</span> <span data-strong=\"H1129\">נִבְנֶ֗ה</span> <span data-strong=\"H3068\">לַֽיהֹוָה֙</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵ֔ל</span> <span data-strong=\"H834\">כַּאֲשֶׁ֣ר</span> <span data-strong=\"H5105\">צִוָּ֔נוּ</span> <span data-strong=\"H4428\">הַמֶּ֖לֶךְ</span> <span data-strong=\"H3566\">כּ֥וֹרֶשׁ</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H6539\">פָּרָֽס׃</span>",
     "transliteration": "vayo'mer lahem zeruvavel veyeshv'a vshe'ar ra'shey ha'avvot leyisera'el lo'-lakhem valanv livenvot vayit le'loheynv khiy 'anahenv yahad niveneh layhovah 'elohey yisera'el kha'asher tsivanv hamelekhe khvoresh melekhe-faras.",
     "translation": "Zorobabel e Jesua disseram-lhes, juntamente com os demais chefes das casas paternas de Israel: \"Não para vocês nem para nós é a construção do Templo ao nosso Deus; porque juntos o edificaremos ao Senhor, Deus de Israel, como nos ordenou o rei Ciro, rei da Pérsia.\""
   },
@@ -25,7 +25,7 @@
   },
   {
     "verse": 5,
-    "original": "וְסֹכְרִ֧ים עֲלֵיהֶ֛ם יוֹעֲצִ֖ים לְהָפֵ֣ר עֲצָתָ֑ם כׇּל־יְמֵ֗י כּ֚וֹרֶשׁ מֶ֣לֶךְ פָּרַ֔ס וְעַד־מַלְכ֖וּת דָּרְיָ֥וֶשׁ מֶֽלֶךְ־פָּרָֽס׃",
+    "original": "<span data-strong=\"H7936\">וְסֹכְרִ֧ים</span> <span data-strong=\"H3963\">עֲלֵיהֶ֛ם</span> <span data-strong=\"H3289\">יוֹעֲצִ֖ים</span> <span data-strong=\"H6565\">לְהָפֵ֣ר</span> <span data-strong=\"H3963\">עֲצָתָ֑ם</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3117\">יְמֵ֗י</span> <span data-strong=\"H3566\">כּ֚וֹרֶשׁ</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H6539\">פָּרַ֔ס</span> <span data-strong=\"H5704\">וְעַד</span>־<span data-strong=\"H4438\">מַלְכ֖וּת</span> <span data-strong=\"H1867\">דָּרְיָ֥וֶשׁ</span> <span data-strong=\"H4428\">מֶֽלֶךְ</span>־<span data-strong=\"H6539\">פָּרָֽס׃</span>",
     "transliteration": "vesokheriym 'aleyhem yvo'atsiym lehafer 'atsatam khol-yemey khvoresh melekhe faras ve'ad-malekhvt dareyavesh melekhe-faras.",
     "translation": "E tomam conselheiros contra eles para anular seu plano, em todos os dias do reinado de Ciro, rei da Pérsia, e até o domínio de Dario, rei da Pérsia."
   },
@@ -43,7 +43,7 @@
   },
   {
     "verse": 8,
-    "original": "רְח֣וּם בְּעֵל־טְעֵ֗ם וְשִׁמְשַׁי֙ סָֽפְרָ֔א כְּתַ֛בוּ אִגְּרָ֥ה חֲדָ֖ה עַל־יְרוּשְׁלֶ֑ם לְאַרְתַּחְשַׁ֥שְׂתְּא מַלְכָּ֖א כְּנֵֽמָא׃",
+    "original": "<span data-strong=\"H7348\">רְח֣וּם</span> <span data-strong=\"H1169\">בְּעֵל</span>־<span data-strong=\"H2942\">טְעֵ֗ם</span> <span data-strong=\"H8124\">וְשִׁמְשַׁי֙</span> <span data-strong=\"H1\">סָֽפְרָ֔א</span> <span data-strong=\"H3790\">כְּתַ֛בוּ</span> <span data-strong=\"H104\">אִגְּרָ֥ה</span> <span data-strong=\"H2298\">חֲדָ֖ה</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H3390\">יְרוּשְׁלֶ֑ם</span> <span data-strong=\"H783\">לְאַרְתַּחְשַׁ֥שְׂתְּא</span> <span data-strong=\"H1\">מַלְכָּ֖א</span> <span data-strong=\"H3660\">כְּנֵֽמָא׃</span>",
     "transliteration": "rehvm ve'el-te'em veshimeshay safera' khetavv 'igerah hadah 'al-yervshelem le'aretaheshasete' malekha' khenema'.",
     "translation": "Misericordioso Senhor do sabor, e Shimshai o escriba, escreveram uma nova carta sobre Jerusalém para Artaxerxes, o rei, assim dizendo:"
   },
@@ -55,7 +55,7 @@
   },
   {
     "verse": 10,
-    "original": "וּשְׁאָ֣ר אֻמַּיָּ֗א דִּ֤י הַגְלִי֙ אׇסְנַפַּר֙ רַבָּ֣א וְיַקִּירָ֔א וְהוֹתֵ֣ב הִמּ֔וֹ בְּקִרְיָ֖ה דִּ֣י שָׁמְרָ֑יִן וּשְׁאָ֥ר עֲבַֽר־נַהֲרָ֖ה וּכְעֶֽנֶת׃",
+    "original": "<span data-strong=\"H7606\">וּשְׁאָ֣ר</span> <span data-strong=\"H1\">אֻמַּיָּ֗א</span> <span data-strong=\"H1768\">דִּ֤י</span> <span data-strong=\"H1541\">הַגְלִי֙</span> <span data-strong=\"H620\">אׇסְנַפַּר֙</span> <span data-strong=\"H1\">רַבָּ֣א</span> <span data-strong=\"H1\">וְיַקִּירָ֔א</span> <span data-strong=\"H3488\">וְהוֹתֵ֣ב</span> <span data-strong=\"H1994\">הִמּ֔וֹ</span> <span data-strong=\"H7149\">בְּקִרְיָ֖ה</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H8115\">שָׁמְרָ֑יִן</span> <span data-strong=\"H7606\">וּשְׁאָ֥ר</span> <span data-strong=\"H5675\">עֲבַֽר</span>־<span data-strong=\"H1\">נַהֲרָ֖ה</span> <span data-strong=\"H3706\">וּכְעֶֽנֶת׃</span>",
     "transliteration": "vshe'ar 'umaya' diy hageliy 'osenafar rava' veyakiyra' vehvotev himvo vekireyah diy shamerayin vshe'ar 'avar-naharah vkhe'enet.",
     "translation": "E o resto das nações que Assuero, rei poderoso e nobre, deportou e estabeleceu na cidade de Samaria, e o resto além do rio e em Canaã."
   },
@@ -79,13 +79,13 @@
   },
   {
     "verse": 14,
-    "original": "כְּעַ֗ן כׇּל־קֳבֵל֙ דִּֽי־מְלַ֤ח הֵֽיכְלָא֙ מְלַ֔חְנָא וְעַרְוַ֣ת מַלְכָּ֔א לָ֥א אֲֽרִֽיךְ־לַ֖נָא לְמֶֽחֱזֵ֑א עַ֨ל־דְּנָ֔ה שְׁלַ֖חְנָא וְהוֹדַ֥עְנָא לְמַלְכָּֽא׃",
+    "original": "<span data-strong=\"H3705\">כְּעַ֗ן</span> <span data-strong=\"H3807\">כׇּל</span>־<span data-strong=\"H6903\">קֳבֵל֙</span> <span data-strong=\"H1768\">דִּֽי</span>־<span data-strong=\"H4416\">מְלַ֤ח</span> <span data-strong=\"H1\">הֵֽיכְלָא֙</span> <span data-strong=\"H4415\">מְלַ֔חְנָא</span> <span data-strong=\"H6173\">וְעַרְוַ֣ת</span> <span data-strong=\"H1\">מַלְכָּ֔א</span> <span data-strong=\"H3809\">לָ֥א</span> <span data-strong=\"H749\">אֲֽרִֽיךְ</span>־<span data-strong=\"H4996\">לַ֖נָא</span> <span data-strong=\"H2370\">לְמֶֽחֱזֵ֑א</span> <span data-strong=\"H5922\">עַ֨ל</span>־<span data-strong=\"H1836\">דְּנָ֔ה</span> <span data-strong=\"H7972\">שְׁלַ֖חְנָא</span> <span data-strong=\"H3046\">וְהוֹדַ֥עְנָא</span> <span data-strong=\"H1\">לְמַלְכָּֽא׃</span>",
     "transliteration": "khe'an khol-kovel diy-melah heykhela' melahena' ve'arevat malekha' la' 'ariykhe-lana' lemeheze' 'al-denah shelahena' vehvoda'ena' lemalekha'.",
     "translation": "Como agora, todo que recebe a salvação do templo se corrompeu, e a nudez do rei não foi coberta para ser vista; por isso enviaremos e daremos aviso ao rei."
   },
   {
     "verse": 15,
-    "original": "דִּ֡י יְבַקַּר֩ בִּֽסְפַר־דׇּכְרָ֨נַיָּ֜א דִּ֣י אֲבָהָתָ֗ךְ וּ֠תְהַשְׁכַּ֠ח בִּסְפַ֣ר דׇּכְרָנַיָּא֮ וְתִנְדַּע֒ דִּי֩ קִרְיְתָ֨א דָ֜ךְ קִרְיָ֣א מָֽרָדָ֗א וּֽמְהַנְזְקַ֤ת מַלְכִין֙ וּמְדִנָ֔ן וְאֶשְׁתַּדּוּר֙ עָבְדִ֣ין בְּגַוַּ֔הּ מִן־יוֹמָ֖ת עָלְמָ֑א עַ֨ל־דְּנָ֔ה קִרְיְתָ֥א דָ֖ךְ הׇֽחָרְבַֽת׃",
+    "original": "<span data-strong=\"H1768\">דִּ֡י</span> <span data-strong=\"H1240\">יְבַקַּר֩</span> <span data-strong=\"H5609\">בִּֽסְפַר</span>־<span data-strong=\"H1\">דׇּכְרָ֨נַיָּ֜א</span> <span data-strong=\"H1768\">דִּ֣י</span> <span data-strong=\"H3509\">אֲבָהָתָ֗ךְ</span> <span data-strong=\"H7912\">וּ֠תְהַשְׁכַּ֠ח</span> <span data-strong=\"H5609\">בִּסְפַ֣ר</span> <span data-strong=\"H1\">דׇּכְרָנַיָּא֮</span> <span data-strong=\"H3046\">וְתִנְדַּע֒</span> <span data-strong=\"H1768\">דִּי֩</span> <span data-strong=\"H1\">קִרְיְתָ֨א</span> <span data-strong=\"H1791\">דָ֜ךְ</span> <span data-strong=\"H7149\">קִרְיָ֣א</span> <span data-strong=\"H4779\">מָֽרָדָ֗א</span> <span data-strong=\"H5142\">וּֽמְהַנְזְקַ֤ת</span> <span data-strong=\"H4430\">מַלְכִין֙</span> <span data-strong=\"H4083\">וּמְדִנָ֔ן</span> <span data-strong=\"H849\">וְאֶשְׁתַּדּוּר֙</span> <span data-strong=\"H5648\">עָבְדִ֣ין</span> <span data-strong=\"H1886\">בְּגַוַּ֔הּ</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H3118\">יוֹמָ֖ת</span> <span data-strong=\"H1\">עָלְמָ֑א</span> <span data-strong=\"H5922\">עַ֨ל</span>־<span data-strong=\"H1836\">דְּנָ֔ה</span> <span data-strong=\"H1\">קִרְיְתָ֥א</span> <span data-strong=\"H1791\">דָ֖ךְ</span> <span data-strong=\"H2718\">הׇֽחָרְבַֽת׃</span>",
     "transliteration": "diy yevakar visefar-dokheranaya' diy 'avahatakhe vtehashekhah visefar dokheranaya' vetineda' diy kireyeta' dakhe kireya' marada' vmehanezekat malekhiyn vmedinan ve'eshetadvr 'avediyn vegavah min-yvomat 'alema' 'al-denah kireyeta' dakhe hoharevat.",
     "translation": "Que procure os registros dos antepassados de teu pai, e esquecerás os registros dos antepassados, e saberás que tua cidade é uma cidade rebelde, e devastadora de reis e povos, e servos perseverarão nela desde o dia eterno; por isso essa tua cidade foi destruída pela espada."
   },
@@ -103,25 +103,25 @@
   },
   {
     "verse": 18,
-    "original": "נִשְׁתְּוָנָ֕א דִּ֥י שְׁלַחְתּ֖וּן עֲלֶ֑ינָא מְפָרַ֥שׁ קֱרִ֖י קׇדָמָֽי׃",
+    "original": "<span data-strong=\"H1\">נִשְׁתְּוָנָ֕א</span> <span data-strong=\"H1768\">דִּ֥י</span> <span data-strong=\"H7972\">שְׁלַחְתּ֖וּן</span> <span data-strong=\"H4996\">עֲלֶ֑ינָא</span> <span data-strong=\"H6568\">מְפָרַ֥שׁ</span> <span data-strong=\"H7123\">קֱרִ֖י</span> <span data-strong=\"H2967\">קׇדָמָֽי׃</span>",
     "transliteration": "nishetevana' diy shelahetvn 'aleyna' mefarash keriy kodamay.",
     "translation": "A mensagem que vocês me enviaram é clara diante de mim."
   },
   {
     "verse": 19,
-    "original": "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ וּבַקַּ֣רוּ וְהַשְׁכַּ֔חוּ דִּ֚י קִרְיְתָ֣א דָ֔ךְ מִן־יוֹמָת֙ עָֽלְמָ֔א עַל־מַלְכִ֖ין מִֽתְנַשְּׂאָ֑ה וּמְרַ֥ד וְאֶשְׁתַּדּ֖וּר מִתְעֲבֶד־בַּֽהּ׃",
+    "original": "<span data-strong=\"H2967\">וּמִנִּי֮</span> <span data-strong=\"H7761\">שִׂ֣ים</span> <span data-strong=\"H2942\">טְעֵם֒</span> <span data-strong=\"H1240\">וּבַקַּ֣רוּ</span> <span data-strong=\"H7912\">וְהַשְׁכַּ֔חוּ</span> <span data-strong=\"H1768\">דִּ֚י</span> <span data-strong=\"H1\">קִרְיְתָ֣א</span> <span data-strong=\"H1791\">דָ֔ךְ</span> <span data-strong=\"H4481\">מִן</span>־<span data-strong=\"H3118\">יוֹמָת֙</span> <span data-strong=\"H1\">עָֽלְמָ֔א</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H4430\">מַלְכִ֖ין</span> <span data-strong=\"H5376\">מִֽתְנַשְּׂאָ֑ה</span> <span data-strong=\"H4776\">וּמְרַ֥ד</span> <span data-strong=\"H849\">וְאֶשְׁתַּדּ֖וּר</span> <span data-strong=\"H5648\">מִתְעֲבֶד</span>־<span data-strong=\"H1886\">בַּֽהּ׃</span>",
     "transliteration": "vminiy siym te'em vvakarv vehashekhahv diy kireyeta' dakhe min-yvomat 'alema' 'al-malekhiyn mitenase'ah vmerad ve'eshetadvr mite'aved-vah.",
     "translation": "E da minha boca designe o sabor, e procurei e aprendeu que esta cidade desde os dias do mundo é para reis se exaltarem, e rebelam-se e alternadamente se servem dela."
   },
   {
     "verse": 20,
-    "original": "וּמַלְכִ֣ין תַּקִּיפִ֗ין הֲווֹ֙ עַל־יְר֣וּשְׁלֶ֔ם וְשַׁ֨לִּיטִ֔ין בְּכֹ֖ל עֲבַ֣ר נַהֲרָ֑ה וּמִדָּ֥ה בְל֛וֹ וַהֲלָ֖ךְ מִתְיְהֵ֥ב לְהֽוֹן׃",
+    "original": "<span data-strong=\"H4430\">וּמַלְכִ֣ין</span> <span data-strong=\"H8624\">תַּקִּיפִ֗ין</span> <span data-strong=\"H1934\">הֲווֹ֙</span> <span data-strong=\"H5922\">עַל</span>־<span data-strong=\"H3390\">יְר֣וּשְׁלֶ֔ם</span> <span data-strong=\"H7990\">וְשַׁ֨לִּיטִ֔ין</span> <span data-strong=\"H3606\">בְּכֹ֖ל</span> <span data-strong=\"H5675\">עֲבַ֣ר</span> <span data-strong=\"H1\">נַהֲרָ֑ה</span> <span data-strong=\"H4061\">וּמִדָּ֥ה</span> <span data-strong=\"H1093\">בְל֛וֹ</span> <span data-strong=\"H1983\">וַהֲלָ֖ךְ</span> <span data-strong=\"H3052\">מִתְיְהֵ֥ב</span> <span data-strong=\"H1952\">לְהֽוֹן׃</span>",
     "transliteration": "vmalekhiyn takiyfiyn havvo 'al-yervshelem veshaliytiyn vekhol 'avar naharah vmidah velvo vahalakhe miteyehev lehvon.",
     "translation": "E reis poderosos estavam sobre Jerusalém, e governantes em todo o além do rio, e a medida dele e a ordem foram concedidas a eles."
   },
   {
     "verse": 21,
-    "original": "כְּעַן֙ שִׂ֣ימוּ טְּעֵ֔ם לְבַטָּלָ֖א גֻּבְרַיָּ֣א אִלֵּ֑ךְ וְקִרְיְתָ֥א דָךְ֙ לָ֣א תִתְבְּנֵ֔א עַד־מִנִּ֖י טַעְמָ֥א יִתְּשָֽׂם׃",
+    "original": "<span data-strong=\"H3705\">כְּעַן֙</span> <span data-strong=\"H7761\">שִׂ֣ימוּ</span> <span data-strong=\"H2942\">טְּעֵ֔ם</span> <span data-strong=\"H989\">לְבַטָּלָ֖א</span> <span data-strong=\"H1\">גֻּבְרַיָּ֣א</span> <span data-strong=\"H479\">אִלֵּ֑ךְ</span> <span data-strong=\"H1\">וְקִרְיְתָ֥א</span> <span data-strong=\"H1791\">דָךְ֙</span> <span data-strong=\"H3809\">לָ֣א</span> <span data-strong=\"H1124\">תִתְבְּנֵ֔א</span> <span data-strong=\"H5705\">עַד</span>־<span data-strong=\"H2967\">מִנִּ֖י</span> <span data-strong=\"H1\">טַעְמָ֥א</span> <span data-strong=\"H7761\">יִתְּשָֽׂם׃</span>",
     "transliteration": "khe'an siymv te'em levatala' guveraya' 'ilekhe vekireyeta' dakhe la' titevene' 'ad-miniy ta'ema' yitesam.",
     "translation": ""
   },

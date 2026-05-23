@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "בְּצֵ֣את יִ֭שְׂרָאֵל מִמִּצְרָ֑יִם בֵּ֥ית יַ֝עֲקֹ֗ב מֵעַ֥ם לֹעֵֽז׃",
+    "original": "<span data-strong=\"H3318\">בְּצֵ֣את</span> <span data-strong=\"H3478\">יִ֭שְׂרָאֵל</span> <span data-strong=\"H4714\">מִמִּצְרָ֑יִם</span> <span data-strong=\"H1004\">בֵּ֥ית</span> <span data-strong=\"H3290\">יַ֝עֲקֹ֗ב</span> <span data-strong=\"H5971\">מֵעַ֥ם</span> <span data-strong=\"H3937\">לֹעֵֽז׃</span>",
     "transliteration": "vetse't yisera'el mimitserayim veyt ya'akov me'am lo'ez.",
     "translation": "Ao sair Israel do Egito, a casa de Jacó do povo estrangeiro."
   },
   {
     "verse": 2,
-    "original": "הָיְתָ֣ה יְהוּדָ֣ה לְקׇדְשׁ֑וֹ יִ֝שְׂרָאֵ֗ל מַמְשְׁלוֹתָֽיו׃",
+    "original": "<span data-strong=\"H1961\">הָיְתָ֣ה</span> <span data-strong=\"H3063\">יְהוּדָ֣ה</span> <span data-strong=\"H2050\">לְקׇדְשׁ֑וֹ</span> <span data-strong=\"H3478\">יִ֝שְׂרָאֵ֗ל</span> <span data-strong=\"H2050\">מַמְשְׁלוֹתָֽיו׃</span>",
     "transliteration": "hayetah yehvdah lekodeshvo yisera'el mameshelvotayv.",
     "translation": "Judá foi o seu santuário, Israel, os domínios do seu poder."
   },
   {
     "verse": 3,
-    "original": "הַיָּ֣ם רָ֭אָה וַיָּנֹ֑ס הַ֝יַּרְדֵּ֗ן יִסֹּ֥ב לְאָחֽוֹר׃",
+    "original": "<span data-strong=\"H3220\">הַיָּ֣ם</span> <span data-strong=\"H7200\">רָ֭אָה</span> <span data-strong=\"H5127\">וַיָּנֹ֑ס</span> <span data-strong=\"H3383\">הַ֝יַּרְדֵּ֗ן</span> <span data-strong=\"H5437\">יִסֹּ֥ב</span> <span data-strong=\"H268\">לְאָחֽוֹר׃</span>",
     "transliteration": "hayam ra'ah vayanos hayareden yisov le'ahvor.",
     "translation": "O mar viu e fugiu, o Jordão retrocedeu."
   },
   {
     "verse": 4,
-    "original": "הֶ֭הָרִים רָקְד֣וּ כְאֵילִ֑ים גְּ֝בָע֗וֹת כִּבְנֵי־צֹֽאן׃",
+    "original": "<span data-strong=\"H2022\">הֶ֭הָרִים</span> <span data-strong=\"H7540\">רָקְד֣וּ</span> <span data-strong=\"H352\">כְאֵילִ֑ים</span> <span data-strong=\"H1389\">גְּ֝בָע֗וֹת</span> <span data-strong=\"H1121\">כִּבְנֵי</span>־<span data-strong=\"H6629\">צֹֽאן׃</span>",
     "transliteration": "hehariym rakedv khe'eyliym geva'vot khiveney-tso'n.",
     "translation": "Os montes dançaram como bodes, os outeiros como cordeiros."
   },
   {
     "verse": 5,
-    "original": "מַה־לְּךָ֣ הַ֭יָּם כִּ֣י תָנ֑וּס הַ֝יַּרְדֵּ֗ן תִּסֹּ֥ב לְאָחֽוֹר׃",
+    "original": "<span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3509\">לְּךָ֣</span> <span data-strong=\"H3220\">הַ֭יָּם</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5127\">תָנ֑וּס</span> <span data-strong=\"H3383\">הַ֝יַּרְדֵּ֗ן</span> <span data-strong=\"H5437\">תִּסֹּ֥ב</span> <span data-strong=\"H268\">לְאָחֽוֹר׃</span>",
     "transliteration": "mah-lekha hayam khiy tanvs hayareden tisov le'ahvor.",
     "translation": "O que te perturba, ó mar, para que fujas? Ó Jordão, por que voltas para trás?"
   },
   {
     "verse": 6,
-    "original": "הֶ֭הָרִים תִּרְקְד֣וּ כְאֵילִ֑ים גְּ֝בָע֗וֹת כִּבְנֵי־צֹֽאן׃",
+    "original": "<span data-strong=\"H2022\">הֶ֭הָרִים</span> <span data-strong=\"H7540\">תִּרְקְד֣וּ</span> <span data-strong=\"H352\">כְאֵילִ֑ים</span> <span data-strong=\"H1389\">גְּ֝בָע֗וֹת</span> <span data-strong=\"H1121\">כִּבְנֵי</span>־<span data-strong=\"H6629\">צֹֽאן׃</span>",
     "transliteration": "hehariym tirekedv khe'eyliym geva'vot khiveney-tso'n.",
     "translation": "Montanhas, dançai como bodes; colinas, como cordeiros."
   },
   {
     "verse": 7,
-    "original": "מִלִּפְנֵ֣י אָ֭דוֹן ח֣וּלִי אָ֑רֶץ מִ֝לִּפְנֵ֗י אֱל֣וֹהַּ יַעֲקֹֽב׃",
+    "original": "<span data-strong=\"H6440\">מִלִּפְנֵ֣י</span> <span data-strong=\"H113\">אָ֭דוֹן</span> <span data-strong=\"H2342\">ח֣וּלִי</span> <span data-strong=\"H776\">אָ֑רֶץ</span> <span data-strong=\"H6440\">מִ֝לִּפְנֵ֗י</span> <span data-strong=\"H433\">אֱל֣וֹהַּ</span> <span data-strong=\"H3290\">יַעֲקֹֽב׃</span>",
     "transliteration": "milifeney 'advon hvliy 'arets milifeney 'elvoha ya'akov.",
     "translation": "Diante do Senhor, a terra treme; diante de Deus de Jacó."
   },
   {
     "verse": 8,
-    "original": "הַהֹפְכִ֣י הַצּ֣וּר אֲגַם־מָ֑יִם חַ֝לָּמִ֗ישׁ לְמַעְיְנוֹ־מָֽיִם׃",
+    "original": "<span data-strong=\"H2015\">הַהֹפְכִ֣י</span> <span data-strong=\"H6697\">הַצּ֣וּר</span> <span data-strong=\"H98\">אֲגַם</span>־<span data-strong=\"H4325\">מָ֑יִם</span> <span data-strong=\"H2496\">חַ֝לָּמִ֗ישׁ</span> <span data-strong=\"H2050\">לְמַעְיְנוֹ</span>־<span data-strong=\"H4325\">מָֽיִם׃</span>",
     "transliteration": "hahofekhiy hatsvr 'agam-mayim halamiysh lema'eyenvo-mayim.",
     "translation": "Volta a rocha em lago de águas, pedra dura em fonte de águas."
   }

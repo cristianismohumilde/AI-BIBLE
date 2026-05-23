@@ -1,25 +1,25 @@
 [
   {
     "verse": 1,
-    "original": "וַֽיְהִי֙ אַחֲרֵי־כֵ֔ן וַיָּ֕מׇת נָחָ֖שׁ מֶ֣לֶךְ בְּנֵֽי־עַמּ֑וֹן וַיִּמְלֹ֥ךְ בְּנ֖וֹ תַּחְתָּֽיו׃",
+    "original": "<span data-strong=\"H1961\">וַֽיְהִי֙</span> <span data-strong=\"H310\">אַחֲרֵי</span>־<span data-strong=\"H3651\">כֵ֔ן</span> <span data-strong=\"H4191\">וַיָּ֕מׇת</span> <span data-strong=\"H5176\">נָחָ֖שׁ</span> <span data-strong=\"H4428\">מֶ֣לֶךְ</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H5983\">עַמּ֑וֹן</span> <span data-strong=\"H4427\">וַיִּמְלֹ֥ךְ</span> <span data-strong=\"H2050\">בְּנ֖וֹ</span> <span data-strong=\"H2050\">תַּחְתָּֽיו׃</span>",
     "transliteration": "vayehiy 'aharey-khen vayamot nahash melekhe veney-'amvon vayimelokhe venvo tahetayv.",
     "translation": "E sucedeu depois disso que morreu Nahash, rei dos filhos de Amom, e seu filho reinou no seu lugar."
   },
   {
     "verse": 2,
-    "original": "וַיֹּ֨אמֶר דָּוִ֜יד אֶעֱשֶׂה־חֶ֣סֶד&thinsp;<b>׀</b> עִם־חָנ֣וּן בֶּן־נָחָ֗שׁ כִּֽי־עָשָׂ֨ה אָבִ֤יו עִמִּי֙ חֶ֔סֶד וַיִּשְׁלַ֥ח דָּוִ֛יד מַלְאָכִ֖ים לְנַחֲמ֣וֹ עַל־אָבִ֑יו וַיָּבֹ֩אוּ֩ עַבְדֵ֨י דָוִ֜יד אֶל־אֶ֧רֶץ בְּנֵֽי־עַמּ֛וֹן אֶל־חָנ֖וּן לְנַחֲמֽוֹ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֨אמֶר</span> <span data-strong=\"H1732\">דָּוִ֜יד</span> <span data-strong=\"H6213\">אֶעֱשֶׂה</span>־<span data-strong=\"H2617\">חֶ֣סֶד&thinsp;<b>׀</b></span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H2586\">חָנ֣וּן</span> <span data-strong=\"H1121\">בֶּן</span>־<span data-strong=\"H5176\">נָחָ֗שׁ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H6213\">עָשָׂ֨ה</span> <span data-strong=\"H2050\">אָבִ֤יו</span> <span data-strong=\"H2967\">עִמִּי֙</span> <span data-strong=\"H2617\">חֶ֔סֶד</span> <span data-strong=\"H7971\">וַיִּשְׁלַ֥ח</span> <span data-strong=\"H1732\">דָּוִ֛יד</span> <span data-strong=\"H4397\">מַלְאָכִ֖ים</span> <span data-strong=\"H2050\">לְנַחֲמ֣וֹ</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H2050\">אָבִ֑יו</span> <span data-strong=\"H935\">וַיָּבֹ֩אוּ֩</span> <span data-strong=\"H5650\">עַבְדֵ֨י</span> <span data-strong=\"H1732\">דָוִ֜יד</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H776\">אֶ֧רֶץ</span> <span data-strong=\"H1121\">בְּנֵֽי</span>־<span data-strong=\"H5983\">עַמּ֛וֹן</span> <span data-strong=\"H413\">אֶל</span>־<span data-strong=\"H2586\">חָנ֖וּן</span> <span data-strong=\"H2050\">לְנַחֲמֽוֹ׃</span>",
     "transliteration": "vayo'mer daviyd 'e'eseh-hesed&thinsp;<b>|</b> 'im-hanvn ven-nahash khiy-'asah 'aviyv 'imiy hesed vayishelah daviyd male'akhiym lenahamvo 'al-'aviyv vayavo'v 'avedey daviyd 'el-'erets veney-'amvon 'el-hanvn lenahamvo.",
     "translation": "E Davi disse: Farei bondade com Hanun, filho de Naas, porque seu pai fez bondade comigo. E enviou Davi mensageiros para consolar Hanun a respeito de seu pai. Os servos de Davi foram à terra dos filhos de Amom, a Hanun, para consolá-lo."
   },
   {
     "verse": 3,
-    "original": "וַיֹּאמְרוּ֩ שָׂרֵ֨י בְנֵי־עַמּ֜וֹן לְחָנ֗וּן הַֽמְכַבֵּ֨ד דָּוִ֤יד אֶת־אָבִ֙יךָ֙ בְּעֵינֶ֔יךָ כִּֽי־שָׁלַ֥ח לְךָ֖ מְנַחֲמִ֑ים הֲלֹ֡א בַּ֠עֲב֠וּר לַחְקֹ֨ר וְלַהֲפֹ֤ךְ וּלְרַגֵּל֙ הָאָ֔רֶץ בָּ֥אוּ עֲבָדָ֖יו אֵלֶֽיךָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּאמְרוּ֩</span> <span data-strong=\"H8269\">שָׂרֵ֨י</span> <span data-strong=\"H1121\">בְנֵי</span>־<span data-strong=\"H5983\">עַמּ֜וֹן</span> <span data-strong=\"H2586\">לְחָנ֗וּן</span> <span data-strong=\"H3513\">הַֽמְכַבֵּ֨ד</span> <span data-strong=\"H1732\">דָּוִ֤יד</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3509\">אָבִ֙יךָ֙</span> <span data-strong=\"H3509\">בְּעֵינֶ֔יךָ</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H7971\">שָׁלַ֥ח</span> <span data-strong=\"H3509\">לְךָ֖</span> <span data-strong=\"H5162\">מְנַחֲמִ֑ים</span> <span data-strong=\"H3808\">הֲלֹ֡א</span> <span data-strong=\"H5668\">בַּ֠עֲב֠וּר</span> <span data-strong=\"H2713\">לַחְקֹ֨ר</span> <span data-strong=\"H2015\">וְלַהֲפֹ֤ךְ</span> <span data-strong=\"H7270\">וּלְרַגֵּל֙</span> <span data-strong=\"H776\">הָאָ֔רֶץ</span> <span data-strong=\"H935\">בָּ֥אוּ</span> <span data-strong=\"H2050\">עֲבָדָ֖יו</span> <span data-strong=\"H3509\">אֵלֶֽיךָ׃</span>",
     "transliteration": "vayo'merv sarey veney-'amvon lehanvn hamekhaved daviyd 'et-'aviykha ve'eyneykha khiy-shalah lekha menahamiym halo' va'avvr lahekor velahafokhe vleragel ha'arets va'v 'avadayv 'eleykha.",
     "translation": "E disseram os príncipes dos filhos de Amom a Hanun: \"Ora, Davi honrou teu pai diante de ti ao enviar-te consoladores; mas na verdade veio seu servo para espiar e reconhecer e vaguear por toda a terra\"."
   },
   {
     "verse": 4,
-    "original": "וַיִּקַּ֨ח חָנ֜וּן אֶת־עַבְדֵ֤י דָוִיד֙ וַֽיְגַלְּחֵ֔ם וַיִּכְרֹ֧ת אֶת־מַדְוֵיהֶ֛ם בַּחֵ֖צִי עַד־הַמִּפְשָׂעָ֑ה וַֽיְשַׁלְּחֵֽם׃",
+    "original": "<span data-strong=\"H3947\">וַיִּקַּ֨ח</span> <span data-strong=\"H2586\">חָנ֜וּן</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H5650\">עַבְדֵ֤י</span> <span data-strong=\"H1732\">דָוִיד֙</span> <span data-strong=\"H3963\">וַֽיְגַלְּחֵ֔ם</span> <span data-strong=\"H3772\">וַיִּכְרֹ֧ת</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3963\">מַדְוֵיהֶ֛ם</span> <span data-strong=\"H2677\">בַּחֵ֖צִי</span> <span data-strong=\"H5704\">עַד</span>־<span data-strong=\"H4667\">הַמִּפְשָׂעָ֑ה</span> <span data-strong=\"H3963\">וַֽיְשַׁלְּחֵֽם׃</span>",
     "transliteration": "vayikah hanvn 'et-'avedey daviyd vayegalehem vayikherot 'et-madeveyhem vahetsiy 'ad-hamifesa'ah vayeshalehem.",
     "translation": "E Hanún tomou os servos de Davi, e os barbeou, e cortou suas vestes pela metade até a nádega, e os enviou."
   },
@@ -31,7 +31,7 @@
   },
   {
     "verse": 6,
-    "original": "וַיִּרְאוּ֙ בְּנֵ֣י עַמּ֔וֹן כִּ֥י הִֽתְבָּאֲשׁ֖וּ עִם־דָּוִ֑יד וַיִּשְׁלַ֣ח חָ֠נ֠וּן וּבְנֵ֨י עַמּ֜וֹן אֶ֣לֶף כִּכַּר־כֶּ֗סֶף לִשְׂכֹּ֣ר לָ֠הֶ֠ם מִן־אֲרַ֨ם נַהֲרַ֜יִם וּמִן־אֲרַ֤ם מַֽעֲכָה֙ וּמִצּוֹבָ֔ה רֶ֖כֶב וּפָרָשִֽׁים׃",
+    "original": "<span data-strong=\"H7200\">וַיִּרְאוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5983\">עַמּ֔וֹן</span> <span data-strong=\"H3588\">כִּ֥י</span> <span data-strong=\"H887\">הִֽתְבָּאֲשׁ֖וּ</span> <span data-strong=\"H5973\">עִם</span>־<span data-strong=\"H1732\">דָּוִ֑יד</span> <span data-strong=\"H7971\">וַיִּשְׁלַ֣ח</span> <span data-strong=\"H2586\">חָ֠נ֠וּן</span> <span data-strong=\"H1121\">וּבְנֵ֨י</span> <span data-strong=\"H5983\">עַמּ֜וֹן</span> <span data-strong=\"H505\">אֶ֣לֶף</span> <span data-strong=\"H3603\">כִּכַּר</span>־<span data-strong=\"H3701\">כֶּ֗סֶף</span> <span data-strong=\"H7936\">לִשְׂכֹּ֣ר</span> <span data-strong=\"H3963\">לָ֠הֶ֠ם</span> <span data-strong=\"H4480\">מִן</span>־<span data-strong=\"H763\">אֲרַ֨ם</span> <span data-strong=\"H763\">נַהֲרַ֜יִם</span> <span data-strong=\"H4480\">וּמִן</span>־<span data-strong=\"H758\">אֲרַ֤ם</span> <span data-strong=\"H758\">מַֽעֲכָה֙</span> <span data-strong=\"H6678\">וּמִצּוֹבָ֔ה</span> <span data-strong=\"H7393\">רֶ֖כֶב</span> <span data-strong=\"H6571\">וּפָרָשִֽׁים׃</span>",
     "transliteration": "vayire'v veney 'amvon khiy hiteva'ashv 'im-daviyd vayishelah hanvn vveney 'amvon 'elef khikhar-khesef lisekhor lahem min-'aram naharayim vmin-'aram ma'akhah vmitsvovah rekhev vfarashiym.",
     "translation": "E os filhos de Amom viram que haviam se ligado a Davi, e enviaram Hanun, juntamente com os filhos de Amom, mil talentos de prata para contratar para eles carros e cavaleiros do Arame de Naaraíme e do Arame de Maaca, e de Tsova."
   },
@@ -43,43 +43,43 @@
   },
   {
     "verse": 8,
-    "original": "וַיִּשְׁמַ֖ע דָּוִ֑יד וַיִּשְׁלַח֙ אֶת־יוֹאָ֔ב וְאֵ֥ת כׇּל־צָבָ֖א הַגִּבּוֹרִֽים׃",
+    "original": "<span data-strong=\"H8085\">וַיִּשְׁמַ֖ע</span> <span data-strong=\"H1732\">דָּוִ֑יד</span> <span data-strong=\"H7971\">וַיִּשְׁלַח֙</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3097\">יוֹאָ֔ב</span> <span data-strong=\"H853\">וְאֵ֥ת</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H6635\">צָבָ֖א</span> <span data-strong=\"H1368\">הַגִּבּוֹרִֽים׃</span>",
     "transliteration": "vayishema' daviyd vayishelah 'et-yvo'av ve'et khol-tsava' hagivvoriym.",
     "translation": "E Davi ouviu e enviou Joabe e todo o exército dos valentes."
   },
   {
     "verse": 9,
-    "original": "וַיֵּֽצְאוּ֙ בְּנֵ֣י עַמּ֔וֹן וַיַּעַרְכ֥וּ מִלְחָמָ֖ה פֶּ֣תַח הָעִ֑יר וְהַמְּלָכִ֣ים אֲשֶׁר־בָּ֔אוּ לְבַדָּ֖ם בַּשָּׂדֶֽה׃",
+    "original": "<span data-strong=\"H3318\">וַיֵּֽצְאוּ֙</span> <span data-strong=\"H1121\">בְּנֵ֣י</span> <span data-strong=\"H5983\">עַמּ֔וֹן</span> <span data-strong=\"H6186\">וַיַּעַרְכ֥וּ</span> <span data-strong=\"H4421\">מִלְחָמָ֖ה</span> <span data-strong=\"H6607\">פֶּ֣תַח</span> <span data-strong=\"H5892\">הָעִ֑יר</span> <span data-strong=\"H4428\">וְהַמְּלָכִ֣ים</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H935\">בָּ֔אוּ</span> <span data-strong=\"H3963\">לְבַדָּ֖ם</span> <span data-strong=\"H7704\">בַּשָּׂדֶֽה׃</span>",
     "transliteration": "vayetse'v veney 'amvon vaya'arekhv milehamah fetah ha'iyr vehamelakhiym 'asher-va'v levadam vasadeh.",
     "translation": "E saíram os filhos de Amom e se prepararam para a guerra à entrada da cidade, mas os reis que haviam vindo permaneceram no campo."
   },
   {
     "verse": 10,
-    "original": "וַיַּ֣רְא יוֹאָ֗ב כִּֽי־הָיְתָ֧ה פְנֵֽי־הַמִּלְחָמָ֛ה אֵלָ֖יו פָּנִ֣ים וְאָח֑וֹר וַיִּבְחַ֗ר מִכׇּל־בָּחוּר֙ בְּיִשְׂרָאֵ֔ל וַֽיַּעֲרֹ֖ךְ לִקְרַ֥את אֲרָֽם׃",
+    "original": "<span data-strong=\"H7200\">וַיַּ֣רְא</span> <span data-strong=\"H3097\">יוֹאָ֗ב</span> <span data-strong=\"H3588\">כִּֽי</span>־<span data-strong=\"H1961\">הָיְתָ֧ה</span> <span data-strong=\"H6440\">פְנֵֽי</span>־<span data-strong=\"H4421\">הַמִּלְחָמָ֛ה</span> <span data-strong=\"H2050\">אֵלָ֖יו</span> <span data-strong=\"H6440\">פָּנִ֣ים</span> <span data-strong=\"H268\">וְאָח֑וֹר</span> <span data-strong=\"H977\">וַיִּבְחַ֗ר</span> <span data-strong=\"H3605\">מִכׇּל</span>־<span data-strong=\"H977\">בָּחוּר֙</span> <span data-strong=\"H3478\">בְּיִשְׂרָאֵ֔ל</span> <span data-strong=\"H6186\">וַֽיַּעֲרֹ֖ךְ</span> <span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H758\">אֲרָֽם׃</span>",
     "transliteration": "vayare' yvo'av khiy-hayetah feney-hamilehamah 'elayv faniym ve'ahvor vayivehar mikhol-vahvr veyisera'el vaya'arokhe likera't 'aram.",
     "translation": "E Joabe viu que a guerra se apresentava contra ele de frente e por trás, escolheu dentre todos os valentes de Israel e dispôs-se para enfrentar a Aram."
   },
   {
     "verse": 11,
-    "original": "וְאֵת֙ יֶ֣תֶר הָעָ֔ם נָתַ֕ן בְּיַ֖ד אַבְשַׁ֣י אָחִ֑יו וַיַּ֣עַרְכ֔וּ לִקְרַ֖את בְּנֵ֥י עַמּֽוֹן׃",
+    "original": "<span data-strong=\"H853\">וְאֵת֙</span> <span data-strong=\"H3499\">יֶ֣תֶר</span> <span data-strong=\"H5971\">הָעָ֔ם</span> <span data-strong=\"H5414\">נָתַ֕ן</span> <span data-strong=\"H3027\">בְּיַ֖ד</span> <span data-strong=\"H52\">אַבְשַׁ֣י</span> <span data-strong=\"H2050\">אָחִ֑יו</span> <span data-strong=\"H6186\">וַיַּ֣עַרְכ֔וּ</span> <span data-strong=\"H7122\">לִקְרַ֖את</span> <span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5983\">עַמּֽוֹן׃</span>",
     "transliteration": "ve'et yeter ha'am natan veyad 'aveshay 'ahiyv vaya'arekhv likera't veney 'amvon.",
     "translation": "E a restante da multidão ele deu na mão de Abisai, seu irmão, e eles se organizaram para enfrentar os filhos de Amom."
   },
   {
     "verse": 12,
-    "original": "וַיֹּ֗אמֶר אִם־תֶּחֱזַ֤ק מִמֶּ֙נִּי֙ אֲרָ֔ם וְהָיִ֥יתָ לִּ֖י לִתְשׁוּעָ֑ה&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְאִם־בְּנֵ֥י עַמּ֛וֹן יֶחֶזְק֥וּ מִמְּךָ֖ וְהוֹשַׁעְתִּֽיךָ׃",
+    "original": "<span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H518\">אִם</span>־<span data-strong=\"H2388\">תֶּחֱזַ֤ק</span> <span data-strong=\"H2967\">מִמֶּ֙נִּי֙</span> <span data-strong=\"H758\">אֲרָ֔ם</span> <span data-strong=\"H1961\">וְהָיִ֥יתָ</span> <span data-strong=\"H2967\">לִּ֖י</span> <span data-strong=\"H8668\">לִתְשׁוּעָ֑ה&nbsp;<span</span> <span data-strong=\"H518\">class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְאִם</span>־<span data-strong=\"H1121\">בְּנֵ֥י</span> <span data-strong=\"H5983\">עַמּ֛וֹן</span> <span data-strong=\"H2388\">יֶחֶזְק֥וּ</span> <span data-strong=\"H3509\">מִמְּךָ֖</span> <span data-strong=\"H3509\">וְהוֹשַׁעְתִּֽיךָ׃</span>",
     "transliteration": "vayo'mer 'im-tehezak mimeniy 'aram vehayiyta liy liteshv'ah&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ve'im-veney 'amvon yehezekv mimekha vehvosha'etiykha.",
     "translation": "E disse: Se Arã se fortalecer contra mim, tu serás minha salvação; e se os filhos de Amom se fortalecerem contra ti, eu te livrarei."
   },
   {
     "verse": 13,
-    "original": "חֲזַ֤ק וְנִֽתְחַזְּקָה֙ בְּעַד־עַמֵּ֔נוּ וּבְעַ֖ד עָרֵ֣י אֱלֹהֵ֑ינוּ וַֽיהֹוָ֔ה הַטּ֥וֹב בְּעֵינָ֖יו יַעֲשֶֽׂה׃",
+    "original": "<span data-strong=\"H2388\">חֲזַ֤ק</span> <span data-strong=\"H2388\">וְנִֽתְחַזְּקָה֙</span> <span data-strong=\"H1157\">בְּעַד</span>־<span data-strong=\"H5105\">עַמֵּ֔נוּ</span> <span data-strong=\"H1157\">וּבְעַ֖ד</span> <span data-strong=\"H5892\">עָרֵ֣י</span> <span data-strong=\"H5105\">אֱלֹהֵ֑ינוּ</span> <span data-strong=\"H3068\">וַֽיהֹוָ֔ה</span> <span data-strong=\"H2896\">הַטּ֥וֹב</span> <span data-strong=\"H2050\">בְּעֵינָ֖יו</span> <span data-strong=\"H6213\">יַעֲשֶֽׂה׃</span>",
     "transliteration": "hazak venitehazekah ve'ad-'amenv vve'ad 'arey 'eloheynv vayhovah hatvov ve'eynayv ya'aseh.",
     "translation": "Fortalece-te e fortifiquemo-nos por amor ao nosso povo e às cidades do nosso Deus, e o Senhor fará o que lhe apraz."
   },
   {
     "verse": 14,
-    "original": "וַיִּגַּ֨שׁ יוֹאָ֜ב וְהָעָ֧ם אֲשֶׁר־עִמּ֛וֹ לִפְנֵ֥י אֲרָ֖ם לַמִּלְחָמָ֑ה וַיָּנ֖וּסוּ מִפָּנָֽיו׃",
+    "original": "<span data-strong=\"H5066\">וַיִּגַּ֨שׁ</span> <span data-strong=\"H3097\">יוֹאָ֜ב</span> <span data-strong=\"H5971\">וְהָעָ֧ם</span> <span data-strong=\"H834\">אֲשֶׁר</span>־<span data-strong=\"H2050\">עִמּ֛וֹ</span> <span data-strong=\"H6440\">לִפְנֵ֥י</span> <span data-strong=\"H758\">אֲרָ֖ם</span> <span data-strong=\"H4421\">לַמִּלְחָמָ֑ה</span> <span data-strong=\"H5127\">וַיָּנ֖וּסוּ</span> <span data-strong=\"H2050\">מִפָּנָֽיו׃</span>",
     "transliteration": "vayigash yvo'av veha'am 'asher-'imvo lifeney 'aram lamilehamah vayanvsv mifanayv.",
     "translation": "E Joabe e o povo que estava com ele se aproximaram diante dos arameus para a batalha, e eles fugiram de sua presença."
   },
@@ -91,19 +91,19 @@
   },
   {
     "verse": 16,
-    "original": "וַיַּ֣רְא אֲרָ֗ם כִּ֣י נִגְּפוּ֮ לִפְנֵ֣י יִשְׂרָאֵל֒ וַֽיִּשְׁלְחוּ֙ מַלְאָכִ֔ים וַיּוֹצִ֣יאוּ אֶת־אֲרָ֔ם אֲשֶׁ֖ר מֵעֵ֣בֶר הַנָּהָ֑ר וְשׁוֹפַ֛ךְ שַׂר־צְבָ֥א הֲדַדְעֶ֖זֶר לִפְנֵיהֶֽם׃",
+    "original": "<span data-strong=\"H7200\">וַיַּ֣רְא</span> <span data-strong=\"H758\">אֲרָ֗ם</span> <span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H5062\">נִגְּפוּ֮</span> <span data-strong=\"H6440\">לִפְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֒</span> <span data-strong=\"H7971\">וַֽיִּשְׁלְחוּ֙</span> <span data-strong=\"H4397\">מַלְאָכִ֔ים</span> <span data-strong=\"H3318\">וַיּוֹצִ֣יאוּ</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H758\">אֲרָ֔ם</span> <span data-strong=\"H834\">אֲשֶׁ֖ר</span> <span data-strong=\"H5676\">מֵעֵ֣בֶר</span> <span data-strong=\"H5104\">הַנָּהָ֑ר</span> <span data-strong=\"H7780\">וְשׁוֹפַ֛ךְ</span> <span data-strong=\"H8269\">שַׂר</span>־<span data-strong=\"H6635\">צְבָ֥א</span> <span data-strong=\"H1909\">הֲדַדְעֶ֖זֶר</span> <span data-strong=\"H3963\">לִפְנֵיהֶֽם׃</span>",
     "transliteration": "vayare' 'aram khiy nigefv lifeney yisera'el vayishelehv male'akhiym vayvotsiy'v 'et-'aram 'asher me'ever hanahar veshvofakhe sar-tseva' hadade'ezer lifeneyhem.",
     "translation": "E Arã viu que era ferido diante de Israel, e enviou mensageiros, fazendo sair os arameus que estavam além do rio. E o comandante em chefe Hadadezer foi derrotado diante dele."
   },
   {
     "verse": 17,
-    "original": "וַיֻּגַּ֣ד לְדָוִ֗יד וַיֶּאֱסֹ֤ף אֶת־כׇּל־יִשְׂרָאֵל֙ וַיַּעֲבֹ֣ר הַיַּרְדֵּ֔ן וַיָּבֹ֣א אֲלֵהֶ֔ם וַֽיַּעֲרֹ֖ךְ אֲלֵהֶ֑ם וַיַּעֲרֹ֨ךְ דָּוִ֜יד לִקְרַ֤את אֲרָם֙ מִלְחָמָ֔ה וַיִּֽלָּחֲמ֖וּ עִמּֽוֹ׃",
+    "original": "<span data-strong=\"H5046\">וַיֻּגַּ֣ד</span> <span data-strong=\"H1732\">לְדָוִ֗יד</span> <span data-strong=\"H622\">וַיֶּאֱסֹ֤ף</span> <span data-strong=\"H853\">אֶת</span>־<span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3478\">יִשְׂרָאֵל֙</span> <span data-strong=\"H5674\">וַיַּעֲבֹ֣ר</span> <span data-strong=\"H3383\">הַיַּרְדֵּ֔ן</span> <span data-strong=\"H935\">וַיָּבֹ֣א</span> <span data-strong=\"H3963\">אֲלֵהֶ֔ם</span> <span data-strong=\"H6186\">וַֽיַּעֲרֹ֖ךְ</span> <span data-strong=\"H3963\">אֲלֵהֶ֑ם</span> <span data-strong=\"H6186\">וַיַּעֲרֹ֨ךְ</span> <span data-strong=\"H1732\">דָּוִ֜יד</span> <span data-strong=\"H7122\">לִקְרַ֤את</span> <span data-strong=\"H758\">אֲרָם֙</span> <span data-strong=\"H4421\">מִלְחָמָ֔ה</span> <span data-strong=\"H3898\">וַיִּֽלָּחֲמ֖וּ</span> <span data-strong=\"H2050\">עִמּֽוֹ׃</span>",
     "transliteration": "vayugad ledaviyd vaye'esof 'et-khol-yisera'el vaya'avor hayareden vayavo' 'alehem vaya'arokhe 'alehem vaya'arokhe daviyd likera't 'aram milehamah vayilahamv 'imvo.",
     "translation": "E foi comunicado a Davi, e ele reuniu todo Israel, atravessou o Jordão, chegou até eles e os posicionou contra os inimigos. E Davi se preparou para lutar contra os arameus em batalha, e lutaram com ele."
   },
   {
     "verse": 18,
-    "original": "וַיָּ֣נׇס אֲרָם֮ מִלִּפְנֵ֣י יִשְׂרָאֵל֒ וַיַּהֲרֹ֨ג דָּוִ֜יד מֵאֲרָ֗ם שִׁבְעַ֤ת אֲלָפִים֙ רֶ֔כֶב וְאַרְבָּעִ֥ים אֶ֖לֶף אִ֣ישׁ רַגְלִ֑י וְאֵ֛ת שׁוֹפַ֥ךְ שַֽׂר־הַצָּבָ֖א הֵמִֽית׃",
+    "original": "<span data-strong=\"H5127\">וַיָּ֣נׇס</span> <span data-strong=\"H758\">אֲרָם֮</span> <span data-strong=\"H6440\">מִלִּפְנֵ֣י</span> <span data-strong=\"H3478\">יִשְׂרָאֵל֒</span> <span data-strong=\"H2026\">וַיַּהֲרֹ֨ג</span> <span data-strong=\"H1732\">דָּוִ֜יד</span> <span data-strong=\"H758\">מֵאֲרָ֗ם</span> <span data-strong=\"H7651\">שִׁבְעַ֤ת</span> <span data-strong=\"H505\">אֲלָפִים֙</span> <span data-strong=\"H7393\">רֶ֔כֶב</span> <span data-strong=\"H705\">וְאַרְבָּעִ֥ים</span> <span data-strong=\"H505\">אֶ֖לֶף</span> <span data-strong=\"H376\">אִ֣ישׁ</span> <span data-strong=\"H7273\">רַגְלִ֑י</span> <span data-strong=\"H853\">וְאֵ֛ת</span> <span data-strong=\"H7780\">שׁוֹפַ֥ךְ</span> <span data-strong=\"H8269\">שַֽׂר</span>־<span data-strong=\"H6635\">הַצָּבָ֖א</span> <span data-strong=\"H4191\">הֵמִֽית׃</span>",
     "transliteration": "vayanos 'aram milifeney yisera'el vayaharog daviyd me'aram shive'at 'alafiym rekhev ve'areva'iym 'elef 'iysh rageliy ve'et shvofakhe sar-hatsava' hemiyt.",
     "translation": "E os arameus fugiram diante de Israel, e Davi feriu dos arameus sete mil carros e quarenta mil homens a pé, e matou o comandante do exército Shophach."
   },

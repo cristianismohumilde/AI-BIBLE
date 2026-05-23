@@ -1,49 +1,49 @@
 [
   {
     "verse": 1,
-    "original": "לַמְנַצֵּ֥חַ מִזְמ֗וֹר לְדָוִ֥ד שִֽׁיר׃",
+    "original": "<span data-strong=\"H5329\">לַמְנַצֵּ֥חַ</span> <span data-strong=\"H4210\">מִזְמ֗וֹר</span> <span data-strong=\"H1732\">לְדָוִ֥ד</span> <span data-strong=\"H7892\">שִֽׁיר׃</span>",
     "transliteration": "lamenatseha mizemvor ledavid shiyr.",
     "translation": "Para o instrumentista; poema de Davi, uma canção."
   },
   {
     "verse": 2,
-    "original": "לְךָ֤ דֻֽמִיָּ֬ה תְהִלָּ֓ה אֱלֹ֘הִ֥ים בְּצִיּ֑וֹן וּ֝לְךָ֗ יְשֻׁלַּם־נֶֽדֶר׃",
+    "original": "<span data-strong=\"H3509\">לְךָ֤</span> <span data-strong=\"H1747\">דֻֽמִיָּ֬ה</span> <span data-strong=\"H8416\">תְהִלָּ֓ה</span> <span data-strong=\"H430\">אֱלֹ֘הִ֥ים</span> <span data-strong=\"H6726\">בְּצִיּ֑וֹן</span> <span data-strong=\"H3509\">וּ֝לְךָ֗</span> <span data-strong=\"H7999\">יְשֻׁלַּם</span>־<span data-strong=\"H5088\">נֶֽדֶר׃</span>",
     "transliteration": "lekha dumiyah tehilah 'elohiym vetsiyvon vlekha yeshulam-neder.",
     "translation": "A ti, em Sião, cabe o silêncio da glória, ó Deus; e a ti será pago o voto."
   },
   {
     "verse": 3,
-    "original": "שֹׁמֵ֥עַ תְּפִלָּ֑ה עָ֝דֶ֗יךָ כׇּל־בָּשָׂ֥ר יָבֹֽאוּ׃",
+    "original": "<span data-strong=\"H8085\">שֹׁמֵ֥עַ</span> <span data-strong=\"H8605\">תְּפִלָּ֑ה</span> <span data-strong=\"H3509\">עָ֝דֶ֗יךָ</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H1320\">בָּשָׂ֥ר</span> <span data-strong=\"H935\">יָבֹֽאוּ׃</span>",
     "transliteration": "shome'a tefilah 'adeykha khol-vasar yavo'v.",
     "translation": "Ouvido da oração, a ti virá toda carne."
   },
   {
     "verse": 4,
-    "original": "דִּבְרֵ֣י עֲ֭וֺנֹת גָּ֣בְרוּ מֶ֑נִּי פְּ֝שָׁעֵ֗ינוּ אַתָּ֥ה תְכַפְּרֵֽם׃",
+    "original": "<span data-strong=\"H1697\">דִּבְרֵ֣י</span> <span data-strong=\"H5771\">עֲ֭וֺנֹת</span> <span data-strong=\"H1396\">גָּ֣בְרוּ</span> <span data-strong=\"H2967\">מֶ֑נִּי</span> <span data-strong=\"H5105\">פְּ֝שָׁעֵ֗ינוּ</span> <span data-strong=\"H859\">אַתָּ֥ה</span> <span data-strong=\"H3963\">תְכַפְּרֵֽם׃</span>",
     "transliteration": "diverey 'avonot gaverv meniy fesha'eynv 'atah tekhaferem.",
     "translation": "Palavras de iniquidades me dominaram, mas tu perdoarás nossos pecados."
   },
   {
     "verse": 5,
-    "original": "אַשְׁרֵ֤י&thinsp;<b>׀</b> תִּ֥בְחַ֣ר וּתְקָרֵב֮ יִשְׁכֹּ֢ן חֲצֵ֫רֶ֥יךָ נִ֭שְׂבְּעָה בְּט֣וּב בֵּיתֶ֑ךָ קְ֝דֹ֗שׁ הֵיכָלֶֽךָ׃",
+    "original": "<span data-strong=\"H835\">אַשְׁרֵ֤י&thinsp;<b>׀</b></span> <span data-strong=\"H977\">תִּ֥בְחַ֣ר</span> <span data-strong=\"H7126\">וּתְקָרֵב֮</span> <span data-strong=\"H7931\">יִשְׁכֹּ֢ן</span> <span data-strong=\"H3509\">חֲצֵ֫רֶ֥יךָ</span> <span data-strong=\"H7646\">נִ֭שְׂבְּעָה</span> <span data-strong=\"H2898\">בְּט֣וּב</span> <span data-strong=\"H3509\">בֵּיתֶ֑ךָ</span> <span data-strong=\"H6918\">קְ֝דֹ֗שׁ</span> <span data-strong=\"H3509\">הֵיכָלֶֽךָ׃</span>",
     "transliteration": "'asherey&thinsp;<b>|</b> tivehar vtekarev yishekhon hatsereykha niseve'ah vetvv veytekha kedosh heykhalekha.",
     "translation": "Bem-aventurado escolhe e se aproxima; habitarão as tuas casas; fartar-se-ão do bem da tua casa; santo é o teu santuário."
   },
   {
     "verse": 6,
-    "original": "נ֤וֹרָא֨וֹת&thinsp;<b>׀</b> בְּצֶ֣דֶק תַּ֭עֲנֵנוּ אֱלֹהֵ֣י יִשְׁעֵ֑נוּ מִבְטָ֥ח כׇּל־קַצְוֵי־אֶ֝֗רֶץ וְיָ֣ם רְחֹקִֽים׃",
+    "original": "<span data-strong=\"H3372\">נ֤וֹרָא֨וֹת&thinsp;<b>׀</b></span> <span data-strong=\"H6664\">בְּצֶ֣דֶק</span> <span data-strong=\"H5105\">תַּ֭עֲנֵנוּ</span> <span data-strong=\"H430\">אֱלֹהֵ֣י</span> <span data-strong=\"H5105\">יִשְׁעֵ֑נוּ</span> <span data-strong=\"H4009\">מִבְטָ֥ח</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H7099\">קַצְוֵי</span>־<span data-strong=\"H776\">אֶ֝֗רֶץ</span> <span data-strong=\"H3220\">וְיָ֣ם</span> <span data-strong=\"H7350\">רְחֹקִֽים׃</span>",
     "transliteration": "nvora'vot&thinsp;<b>|</b> vetsedek ta'anenv 'elohey yishe'env mivetah khol-katsevey-'erets veyam rehokiym.",
     "translation": "Horripilantes em justiça nos responde, ó Deus de nosso socorro, refúgio de todos os confins da terra e dos mares distantes."
   },
   {
     "verse": 7,
-    "original": "מֵכִ֣ין הָרִ֣ים בְּכֹח֑וֹ נֶ֝אְזָ֗ר בִּגְבוּרָֽה׃",
+    "original": "<span data-strong=\"H3559\">מֵכִ֣ין</span> <span data-strong=\"H2022\">הָרִ֣ים</span> <span data-strong=\"H2050\">בְּכֹח֑וֹ</span> <span data-strong=\"H247\">נֶ֝אְזָ֗ר</span> <span data-strong=\"H1369\">בִּגְבוּרָֽה׃</span>",
     "transliteration": "mekhiyn hariym vekhohvo ne'ezar vigevvrah.",
     "translation": "Preparou os montes na sua força, cingindo-se em poder."
   },
   {
     "verse": 8,
-    "original": "מַשְׁבִּ֤יחַ&thinsp;<b>׀</b> שְׁא֣וֹן יַ֭מִּים שְׁא֥וֹן גַּלֵּיהֶ֗ם וַהֲמ֥וֹן לְאֻמִּֽים׃",
+    "original": "<span data-strong=\"H7623\">מַשְׁבִּ֤יחַ&thinsp;<b>׀</b></span> <span data-strong=\"H7588\">שְׁא֣וֹן</span> <span data-strong=\"H3220\">יַ֭מִּים</span> <span data-strong=\"H7588\">שְׁא֥וֹן</span> <span data-strong=\"H3963\">גַּלֵּיהֶ֗ם</span> <span data-strong=\"H1995\">וַהֲמ֥וֹן</span> <span data-strong=\"H3816\">לְאֻמִּֽים׃</span>",
     "transliteration": "masheviyha&thinsp;<b>|</b> she'von yamiym she'von galeyhem vahamvon le'umiym.",
     "translation": "Louva&thinsp;<b>׀</b> o ruído dos mares, o tumulto de suas ondas e o barulho das nações."
   },
@@ -61,19 +61,19 @@
   },
   {
     "verse": 11,
-    "original": "תְּלָמֶ֣יהָ רַ֭וֵּה נַחֵ֣ת גְּדוּדֶ֑הָ בִּרְבִיבִ֥ים תְּ֝מֹגְגֶ֗נָּה צִמְחָ֥הּ תְּבָרֵֽךְ׃",
+    "original": "<span data-strong=\"H1886\">תְּלָמֶ֣יהָ</span> <span data-strong=\"H7301\">רַ֭וֵּה</span> <span data-strong=\"H5181\">נַחֵ֣ת</span> <span data-strong=\"H1886\">גְּדוּדֶ֑הָ</span> <span data-strong=\"H7241\">בִּרְבִיבִ֥ים</span> <span data-strong=\"H5089\">תְּ֝מֹגְגֶ֗נָּה</span> <span data-strong=\"H1886\">צִמְחָ֥הּ</span> <span data-strong=\"H1288\">תְּבָרֵֽךְ׃</span>",
     "transliteration": "telameyha raveh nahet gedvdeha vireviyviym temogegenah tsimehah tevarekhe.",
     "translation": "Suas criancinhas são numerosas; seu fruto se multiplica como o capim; e sua glória é exaltada na terra."
   },
   {
     "verse": 12,
-    "original": "עִ֭טַּרְתָּ שְׁנַ֣ת טוֹבָתֶ֑ךָ וּ֝מַעְגָּלֶ֗יךָ יִרְעֲפ֥וּן דָּֽשֶׁן׃",
+    "original": "<span data-strong=\"H5849\">עִ֭טַּרְתָּ</span> <span data-strong=\"H8141\">שְׁנַ֣ת</span> <span data-strong=\"H3509\">טוֹבָתֶ֑ךָ</span> <span data-strong=\"H3509\">וּ֝מַעְגָּלֶ֗יךָ</span> <span data-strong=\"H4993\">יִרְעֲפ֥וּן</span> <span data-strong=\"H1880\">דָּֽשֶׁן׃</span>",
     "transliteration": "'itareta shenat tvovatekha vma'egaleykha yire'afvn dashen.",
     "translation": "Coroades-te o ano da tua bondade, e os teus carros transbordem de sebo."
   },
   {
     "verse": 13,
-    "original": "יִ֭רְעֲפוּ נְא֣וֹת מִדְבָּ֑ר וְ֝גִ֗יל גְּבָע֥וֹת תַּחְגֹּֽרְנָה׃",
+    "original": "<span data-strong=\"H7491\">יִ֭רְעֲפוּ</span> <span data-strong=\"H4999\">נְא֣וֹת</span> <span data-strong=\"H4057\">מִדְבָּ֑ר</span> <span data-strong=\"H1524\">וְ֝גִ֗יל</span> <span data-strong=\"H1389\">גְּבָע֥וֹת</span> <span data-strong=\"H2296\">תַּחְגֹּֽרְנָה׃</span>",
     "transliteration": "yire'afv ne'vot midevar vegiyl geva'vot tahegorenah.",
     "translation": "Secarão as tendas do deserto, mas as colinas se regozijarão e florescerão."
   },

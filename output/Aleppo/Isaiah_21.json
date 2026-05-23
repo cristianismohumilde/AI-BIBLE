@@ -1,7 +1,7 @@
 [
   {
     "verse": 1,
-    "original": "מַשָּׂ֖א מִדְבַּר־יָ֑ם כְּסוּפ֤וֹת בַּנֶּ֙גֶב֙ לַחֲלֹ֔ף מִמִּדְבָּ֣ר בָּ֔א מֵאֶ֖רֶץ נוֹרָאָֽה׃",
+    "original": "<span data-strong=\"H4853\">מַשָּׂ֖א</span> <span data-strong=\"H4057\">מִדְבַּר</span>־<span data-strong=\"H3220\">יָ֑ם</span> <span data-strong=\"H5492\">כְּסוּפ֤וֹת</span> <span data-strong=\"H5045\">בַּנֶּ֙גֶב֙</span> <span data-strong=\"H2498\">לַחֲלֹ֔ף</span> <span data-strong=\"H4057\">מִמִּדְבָּ֣ר</span> <span data-strong=\"H935\">בָּ֔א</span> <span data-strong=\"H776\">מֵאֶ֖רֶץ</span> <span data-strong=\"H3372\">נוֹרָאָֽה׃</span>",
     "transliteration": "masa' midevar-yam khesvfvot vanegev lahalof mimidevar va' me'erets nvora'ah.",
     "translation": "Profecia do deserto da mar, cidades fortificadas no sul se mudam de um deserto que vem de uma terra terrível."
   },
@@ -13,13 +13,13 @@
   },
   {
     "verse": 3,
-    "original": "עַל־כֵּ֗ן מָלְא֤וּ מׇתְנַי֙ חַלְחָלָ֔ה צִירִ֣ים אֲחָז֔וּנִי כְּצִירֵ֖י יוֹלֵדָ֑ה נַעֲוֵ֣יתִי מִשְּׁמֹ֔עַ נִבְהַ֖לְתִּי מֵרְאֽוֹת׃",
+    "original": "<span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H3651\">כֵּ֗ן</span> <span data-strong=\"H4390\">מָלְא֤וּ</span> <span data-strong=\"H2967\">מׇתְנַי֙</span> <span data-strong=\"H2479\">חַלְחָלָ֔ה</span> <span data-strong=\"H6735\">צִירִ֣ים</span> <span data-strong=\"H5204\">אֲחָז֔וּנִי</span> <span data-strong=\"H6735\">כְּצִירֵ֖י</span> <span data-strong=\"H3205\">יוֹלֵדָ֑ה</span> <span data-strong=\"H5753\">נַעֲוֵ֣יתִי</span> <span data-strong=\"H8085\">מִשְּׁמֹ֔עַ</span> <span data-strong=\"H926\">נִבְהַ֖לְתִּי</span> <span data-strong=\"H7200\">מֵרְאֽוֹת׃</span>",
     "transliteration": "'al-khen male'v motenay halehalah tsiyriym 'ahazvniy khetsiyrey yvoledah na'aveytiy mishemo'a nivehaletiy mere'vot.",
     "translation": "Por isso, me encheram as costas de chicotadas, prenderam-me com correntes como se fosse uma que dá à luz; feri-se os meus ouvidos, tremi de pavor diante da visão."
   },
   {
     "verse": 4,
-    "original": "תָּעָ֣ה לְבָבִ֔י פַּלָּצ֖וּת בִּֽעֲתָ֑תְנִי אֵ֚ת נֶ֣שֶׁף חִשְׁקִ֔י שָׂ֥ם לִ֖י לַחֲרָדָֽה׃",
+    "original": "<span data-strong=\"H8582\">תָּעָ֣ה</span> <span data-strong=\"H2967\">לְבָבִ֔י</span> <span data-strong=\"H6427\">פַּלָּצ֖וּת</span> <span data-strong=\"H5204\">בִּֽעֲתָ֑תְנִי</span> <span data-strong=\"H853\">אֵ֚ת</span> <span data-strong=\"H5399\">נֶ֣שֶׁף</span> <span data-strong=\"H2967\">חִשְׁקִ֔י</span> <span data-strong=\"H7760\">שָׂ֥ם</span> <span data-strong=\"H2967\">לִ֖י</span> <span data-strong=\"H2731\">לַחֲרָדָֽה׃</span>",
     "transliteration": "ta'ah levaviy falatsvt vi'atateniy 'et neshef hishekiy sam liy laharadah.",
     "translation": "Enganou-me meu coração, abriu-se a fonte das minhas queixas; a tristeza da minha alma se tornou para mim tremor."
   },
@@ -31,25 +31,25 @@
   },
   {
     "verse": 6,
-    "original": "כִּ֣י כֹ֥ה אָמַ֛ר אֵלַ֖י אֲדֹנָ֑י לֵ֚ךְ הַעֲמֵ֣ד הַֽמְצַפֶּ֔ה אֲשֶׁ֥ר יִרְאֶ֖ה יַגִּֽיד׃",
+    "original": "<span data-strong=\"H3588\">כִּ֣י</span> <span data-strong=\"H3541\">כֹ֥ה</span> <span data-strong=\"H559\">אָמַ֛ר</span> <span data-strong=\"H2967\">אֵלַ֖י</span> <span data-strong=\"H2967\">אֲדֹנָ֑י</span> <span data-strong=\"H1980\">לֵ֚ךְ</span> <span data-strong=\"H5975\">הַעֲמֵ֣ד</span> <span data-strong=\"H6822\">הַֽמְצַפֶּ֔ה</span> <span data-strong=\"H834\">אֲשֶׁ֥ר</span> <span data-strong=\"H7200\">יִרְאֶ֖ה</span> <span data-strong=\"H5046\">יַגִּֽיד׃</span>",
     "transliteration": "khiy khoh 'amar 'elay 'adonay lekhe ha'amed hametsafeh 'asher yire'eh yagiyd.",
     "translation": "Porque assim disse o Senhor a mim: Vai, põe o vigia que vendo anuncie."
   },
   {
     "verse": 7,
-    "original": "וְרָ֣אָה רֶ֗כֶב צֶ֚מֶד פָּרָשִׁ֔ים רֶ֥כֶב חֲמ֖וֹר רֶ֣כֶב גָּמָ֑ל וְהִקְשִׁ֥יב קֶ֖שֶׁב רַב־קָֽשֶׁב׃",
+    "original": "<span data-strong=\"H7200\">וְרָ֣אָה</span> <span data-strong=\"H7393\">רֶ֗כֶב</span> <span data-strong=\"H6776\">צֶ֚מֶד</span> <span data-strong=\"H6571\">פָּרָשִׁ֔ים</span> <span data-strong=\"H7393\">רֶ֥כֶב</span> <span data-strong=\"H2543\">חֲמ֖וֹר</span> <span data-strong=\"H7393\">רֶ֣כֶב</span> <span data-strong=\"H1581\">גָּמָ֑ל</span> <span data-strong=\"H7181\">וְהִקְשִׁ֥יב</span> <span data-strong=\"H7182\">קֶ֖שֶׁב</span> <span data-strong=\"H7227\">רַב</span>־<span data-strong=\"H7182\">קָֽשֶׁב׃</span>",
     "transliteration": "vera'ah rekhev tsemed farashiym rekhev hamvor rekhev gamal vehikeshiyv keshev rav-kashev.",
     "translation": "E viu carros puxados por juntas de cavalos, carros puxados por jumentos, carros puxados por camelos, e atendeu a um que presta muita atenção."
   },
   {
     "verse": 8,
-    "original": "וַיִּקְרָ֖א אַרְיֵ֑ה עַל־מִצְפֶּ֣ה&thinsp;<b>׀</b> אֲדֹנָ֗י אָנֹכִ֞י עֹמֵ֤ד תָּמִיד֙ יוֹמָ֔ם וְעַ֨ל־מִשְׁמַרְתִּ֔י אָנֹכִ֥י נִצָּ֖ב כׇּל־הַלֵּילֽוֹת׃",
+    "original": "<span data-strong=\"H7121\">וַיִּקְרָ֖א</span> <span data-strong=\"H738\">אַרְיֵ֑ה</span> <span data-strong=\"H5921\">עַל</span>־<span data-strong=\"H4707\">מִצְפֶּ֣ה&thinsp;<b>׀</b></span> <span data-strong=\"H2967\">אֲדֹנָ֗י</span> <span data-strong=\"H595\">אָנֹכִ֞י</span> <span data-strong=\"H5975\">עֹמֵ֤ד</span> <span data-strong=\"H8548\">תָּמִיד֙</span> <span data-strong=\"H3119\">יוֹמָ֔ם</span> <span data-strong=\"H5921\">וְעַ֨ל</span>־<span data-strong=\"H2967\">מִשְׁמַרְתִּ֔י</span> <span data-strong=\"H595\">אָנֹכִ֥י</span> <span data-strong=\"H5324\">נִצָּ֖ב</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3915\">הַלֵּילֽוֹת׃</span>",
     "transliteration": "vayikera' 'areyeh 'al-mitsefeh&thinsp;<b>|</b> 'adonay 'anokhiy 'omed tamiyd yvomam ve'al-mishemaretiy 'anokhiy nitsav khol-haleylvot.",
     "translation": "E ele clamou como leão sobre a vigília do Senhor; eu estou sempre em pé durante o dia e em minha guarda fico postado toda a noite."
   },
   {
     "verse": 9,
-    "original": "וְהִנֵּה־זֶ֥ה בָא֙ רֶ֣כֶב אִ֔ישׁ צֶ֖מֶד פָּרָשִׁ֑ים וַיַּ֣עַן וַיֹּ֗אמֶר נָפְלָ֤ה נָֽפְלָה֙ בָּבֶ֔ל וְכׇל־פְּסִילֵ֥י אֱלֹהֶ֖יהָ שִׁבַּ֥ר לָאָֽרֶץ׃",
+    "original": "<span data-strong=\"H2009\">וְהִנֵּה</span>־<span data-strong=\"H2088\">זֶ֥ה</span> <span data-strong=\"H935\">בָא֙</span> <span data-strong=\"H7393\">רֶ֣כֶב</span> <span data-strong=\"H376\">אִ֔ישׁ</span> <span data-strong=\"H6776\">צֶ֖מֶד</span> <span data-strong=\"H6571\">פָּרָשִׁ֑ים</span> <span data-strong=\"H6030\">וַיַּ֣עַן</span> <span data-strong=\"H559\">וַיֹּ֗אמֶר</span> <span data-strong=\"H5307\">נָפְלָ֤ה</span> <span data-strong=\"H5307\">נָֽפְלָה֙</span> <span data-strong=\"H894\">בָּבֶ֔ל</span> <span data-strong=\"H3605\">וְכׇל</span>־<span data-strong=\"H6456\">פְּסִילֵ֥י</span> <span data-strong=\"H1886\">אֱלֹהֶ֖יהָ</span> <span data-strong=\"H7665\">שִׁבַּ֥ר</span> <span data-strong=\"H776\">לָאָֽרֶץ׃</span>",
     "transliteration": "vehineh-zeh va' rekhev 'iysh tsemed farashiym vaya'an vayo'mer nafelah nafelah vavel vekhol-fesiyley 'eloheyha shivar la'arets.",
     "translation": "Eis que ele vem com carruagem, par de cavalos. E respondeu e disse: Caiu, caiu Babilônia; e todos os seus ídolos foram derrubados na terra."
   },
@@ -61,7 +61,7 @@
   },
   {
     "verse": 11,
-    "original": "מַשָּׂ֖א דּוּמָ֑ה אֵלַי֙ קֹרֵ֣א מִשֵּׂעִ֔יר שֹׁמֵר֙ מַה־מִּלַּ֔יְלָה שֹׁמֵ֖ר מַה־מִּלֵּֽיל׃",
+    "original": "<span data-strong=\"H4853\">מַשָּׂ֖א</span> <span data-strong=\"H1746\">דּוּמָ֑ה</span> <span data-strong=\"H2967\">אֵלַי֙</span> <span data-strong=\"H7121\">קֹרֵ֣א</span> <span data-strong=\"H8165\">מִשֵּׂעִ֔יר</span> <span data-strong=\"H8104\">שֹׁמֵר֙</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3915\">מִּלַּ֔יְלָה</span> <span data-strong=\"H8104\">שֹׁמֵ֖ר</span> <span data-strong=\"H4100\">מַה</span>־<span data-strong=\"H3915\">מִּלֵּֽיל׃</span>",
     "transliteration": "masa' dvmah 'elay kore' mise'iyr shomer mah-milayelah shomer mah-mileyl.",
     "translation": "Pesar de Dumah: Ao meu ouvido vem um grito do Seir; quem pergunta pela vigília? Quem espera pelos seus turnos?"
   },
@@ -73,13 +73,13 @@
   },
   {
     "verse": 13,
-    "original": "מַשָּׂ֖א בַּעְרָ֑ב בַּיַּ֤עַר בַּעְרַב֙ תָּלִ֔ינוּ אֹרְח֖וֹת דְּדָנִֽים׃",
+    "original": "<span data-strong=\"H4853\">מַשָּׂ֖א</span> <span data-strong=\"H6152\">בַּעְרָ֑ב</span> <span data-strong=\"H3293\">בַּיַּ֤עַר</span> <span data-strong=\"H6152\">בַּעְרַב֙</span> <span data-strong=\"H3885\">תָּלִ֔ינוּ</span> <span data-strong=\"H736\">אֹרְח֖וֹת</span> <span data-strong=\"H1720\">דְּדָנִֽים׃</span>",
     "transliteration": "masa' va'erav vaya'ar va'erav taliynv 'orehvot dedaniym.",
     "translation": "Peso de Beeraab no bosque de Beeraab nos suspenderemos, veredas dos dedanos."
   },
   {
     "verse": 14,
-    "original": "לִקְרַ֥את צָמֵ֖א הֵתָ֣יוּ מָ֑יִם יֹֽשְׁבֵי֙ אֶ֣רֶץ תֵּימָ֔א בְּלַחְמ֖וֹ קִדְּמ֥וּ נֹדֵֽד׃",
+    "original": "<span data-strong=\"H7122\">לִקְרַ֥את</span> <span data-strong=\"H6771\">צָמֵ֖א</span> <span data-strong=\"H857\">הֵתָ֣יוּ</span> <span data-strong=\"H4325\">מָ֑יִם</span> <span data-strong=\"H3427\">יֹֽשְׁבֵי֙</span> <span data-strong=\"H776\">אֶ֣רֶץ</span> <span data-strong=\"H8485\">תֵּימָ֔א</span> <span data-strong=\"H2050\">בְּלַחְמ֖וֹ</span> <span data-strong=\"H6923\">קִדְּמ֥וּ</span> <span data-strong=\"H5074\">נֹדֵֽד׃</span>",
     "transliteration": "likera't tsame' hetayv mayim yoshevey 'erets teyma' velahemvo kidemv noded.",
     "translation": "Para o sedento derramaram água, habitantes da terra de Têma; com seu pão prepararam abrigo para o errante."
   },
@@ -91,7 +91,7 @@
   },
   {
     "verse": 16,
-    "original": "כִּי־כֹ֛ה אָמַ֥ר אֲדֹנָ֖י אֵלָ֑י בְּע֤וֹד שָׁנָה֙ כִּשְׁנֵ֣י שָׂכִ֔יר וְכָלָ֖ה כׇּל־כְּב֥וֹד קֵדָֽר׃",
+    "original": "<span data-strong=\"H3588\">כִּי</span>־<span data-strong=\"H3541\">כֹ֛ה</span> <span data-strong=\"H559\">אָמַ֥ר</span> <span data-strong=\"H2967\">אֲדֹנָ֖י</span> <span data-strong=\"H2967\">אֵלָ֑י</span> <span data-strong=\"H5750\">בְּע֤וֹד</span> <span data-strong=\"H8141\">שָׁנָה֙</span> <span data-strong=\"H8141\">כִּשְׁנֵ֣י</span> <span data-strong=\"H7916\">שָׂכִ֔יר</span> <span data-strong=\"H3615\">וְכָלָ֖ה</span> <span data-strong=\"H3605\">כׇּל</span>־<span data-strong=\"H3519\">כְּב֥וֹד</span> <span data-strong=\"H6938\">קֵדָֽר׃</span>",
     "transliteration": "khiy-khoh 'amar 'adonay 'elay ve'vod shanah khisheney sakhiyr vekhalah khol-khevvod kedar.",
     "translation": "Pois assim diz o Senhor meu: Ainda um ano, sim, os anos de um arrendador; e se consumirá toda a glória de Quedar."
   },
