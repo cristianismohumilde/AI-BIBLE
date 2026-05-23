@@ -787,16 +787,22 @@
             <div class="control-group">
                 <label for="select-manuscript">Manuscrito Fonte</label>
                 <select id="select-manuscript" aria-label="Selecione o manuscrito bíblico fonte">
-                    <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
-                    <option value="LXX">Septuaginta (LXX - Grego)</option>
-                    <option value="DSS">Manuscritos do Mar Morto (DSS)</option>
-                    <option value="Apocrypha">Apócrifos (4 Esdras / VUL)</option>
-                    <option value="Geez">Ge'ez (Etiópico)</option>
-                    <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
-                    <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
-                    <option value="Peshitta_Syriac">Peshitta Siríaca (Siríaco)</option>
-                    <option value="Coptic_Sahidic">Copta Saídico</option>
-                    <option value="Armenian_Eastern">Armênio Oriental</option>
+                    <optgroup label="Antigo Testamento">
+                        <option value="Aleppo" selected>Códice de Aleppo (Hebraico)</option>
+                        <option value="DSS">Manuscritos do Mar Morto (DSS)</option>
+                        <option value="Targum_Onkelos">Targum Onkelos (Aramaico)</option>
+                    </optgroup>
+                    <optgroup label="Novo Testamento">
+                        <option value="Peshitta_Syriac">Peshitta Siríaca (Siríaco)</option>
+                        <option value="Coptic_Sahidic">Copta Saídico</option>
+                        <option value="Armenian_Eastern">Armênio Oriental</option>
+                        <option value="BYZ">Texto Bizantino (BYZ - Grego)</option>
+                    </optgroup>
+                    <optgroup label="Deuterocanônicos e Textos Antigos">
+                        <option value="LXX">Septuaginta (LXX - Grego)</option>
+                        <option value="Geez">Ge'ez (Etiópico)</option>
+                        <option value="Apocrypha">Apócrifos (4 Esdras / VUL)</option>
+                    </optgroup>
                 </select>
             </div>
             
@@ -1028,12 +1034,16 @@
                 "Isaiah": 66, "Habakkuk": 3, "1QS": 11, "1QM": 19, "1QH": 28
             },
             "Apocrypha": {
-                "4_Esdras": 16, "Oração_de_Manassés": 1, "Salmo_151": 1
+                "4_Esdras": 16
             },
-            "BYZ": NT_STRUCTURE,
+            "BYZ": {
+                "1_Corinthians": 16, "Revelation": 22
+            },
             "Geez": GEEZ_STRUCTURE,
             "Coptic_Sahidic": NT_STRUCTURE,
-            "Armenian_Eastern": NT_STRUCTURE,
+            "Armenian_Eastern": {
+                "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21
+            },
             "Peshitta_Syriac": NT_STRUCTURE,
             "Targum_Onkelos": {
                 "Genesis": 50
