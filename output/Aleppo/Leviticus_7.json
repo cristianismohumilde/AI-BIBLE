@@ -2,191 +2,229 @@
   {
     "verse": 1,
     "original": "וְזֹ֥את תּוֹרַ֖ת הָאָשָׁ֑ם קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+    "transliteration": "vezo't tvorat ha'asham kodesh kodashiym hv'.",
     "translation": "E esta é a lei da oferta de paz: coisa santíssima é."
   },
   {
     "verse": 2,
     "original": "בִּמְק֗וֹם אֲשֶׁ֤ר יִשְׁחֲטוּ֙ אֶת־הָ֣עֹלָ֔ה יִשְׁחֲט֖וּ אֶת־הָאָשָׁ֑ם וְאֶת־דָּמ֛וֹ יִזְרֹ֥ק עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+    "transliteration": "vimekvom 'asher yishehatv 'et-ha'olah yishehatv 'et-ha'asham ve'et-damvo yizerok 'al-hamizeveha saviyv.",
     "translation": "No lugar onde se imola a oferta queima toda, será imolada a oferta da culpa; e seu sangue será derramado ao redor do altar."
   },
   {
     "verse": 3,
     "original": "וְאֵ֥ת כׇּל־חֶלְבּ֖וֹ יַקְרִ֣יב מִמֶּ֑נּוּ אֵ֚ת הָֽאַלְיָ֔ה וְאֶת־הַחֵ֖לֶב הַֽמְכַסֶּ֥ה אֶת־הַקֶּֽרֶב׃",
+    "transliteration": "ve'et khol-helevvo yakeriyv mimenv 'et ha'aleyah ve'et-hahelev hamekhaseh 'et-hakerev.",
     "translation": "E toda a sua gordura trará dele, a agália e a gordura que cobre o flanco."
   },
   {
     "verse": 4,
     "original": "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן אֲשֶׁ֖ר עַל־הַכְּסָלִ֑ים וְאֶת־הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד עַל־הַכְּלָיֹ֖ת יְסִירֶֽנָּה׃",
+    "transliteration": "ve'et shetey hakhelayot ve'et-hahelev 'asher 'aleyhen 'asher 'al-hakhesaliym ve'et-hayoteret 'al-hakhaved 'al-hakhelayot yesiyrenah.",
     "translation": "E as duas vísceras e a gordura que nelas está, que está sobre os rins, e o que sobra do fígado sobre as vísceras ele removerá."
   },
   {
     "verse": 5,
     "original": "וְהִקְטִ֨יר אֹתָ֤ם הַכֹּהֵן֙ הַמִּזְבֵּ֔חָה אִשֶּׁ֖ה לַיהֹוָ֑ה אָשָׁ֖ם הֽוּא׃",
+    "transliteration": "vehiketiyr 'otam hakhohen hamizevehah 'isheh layhovah 'asham hv'.",
     "translation": "E o sacerdote os queimará no altar, uma oferta ardente ao SENHOR; é um sacrifício de culpa."
   },
   {
     "verse": 6,
     "original": "כׇּל־זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכְלֶ֑נּוּ בְּמָק֤וֹם קָדוֹשׁ֙ יֵאָכֵ֔ל קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+    "transliteration": "khol-zakhar vakhohaniym yo'khelenv vemakvom kadvosh ye'akhel kodesh kodashiym hv'.",
     "translation": "Todo macho entre os sacerdotes o comerá; no lugar sagrado será comido, porque é santíssimo."
   },
   {
     "verse": 7,
     "original": "כַּֽחַטָּאת֙ כָּֽאָשָׁ֔ם תּוֹרָ֥ה אַחַ֖ת לָהֶ֑ם הַכֹּהֵ֛ן אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ ל֥וֹ יִהְיֶֽה׃",
+    "transliteration": "khahata't kha'asham tvorah 'ahat lahem hakhohen 'asher yekhafer-vvo lvo yiheyeh.",
     "translation": "Como oferta pelo pecado, como oferta pela culpa, há uma lei única para ambos; o sacerdote que fizer a expiação será aquele."
   },
   {
     "verse": 8,
     "original": "וְהַ֨כֹּהֵ֔ן הַמַּקְרִ֖יב אֶת־עֹ֣לַת אִ֑ישׁ ע֤וֹר הָֽעֹלָה֙ אֲשֶׁ֣ר הִקְרִ֔יב לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃",
+    "transliteration": "vehakhohen hamakeriyv 'et-'olat 'iysh 'vor ha'olah 'asher hikeriyv lakhohen lvo yiheyeh.",
     "translation": "E o sacerdote que oferecer a oferta queimar de um homem, a pele da oferta queimada que ele ofereceu, ao sacerdote será."
   },
   {
     "verse": 9,
     "original": "וְכׇל־מִנְחָ֗ה אֲשֶׁ֤ר תֵּֽאָפֶה֙ בַּתַּנּ֔וּר וְכׇל־נַעֲשָׂ֥ה בַמַּרְחֶ֖שֶׁת וְעַֽל־מַחֲבַ֑ת לַכֹּהֵ֛ן הַמַּקְרִ֥יב אֹתָ֖הּ ל֥וֹ תִֽהְיֶֽה׃",
+    "transliteration": "vekhol-minehah 'asher te'afeh vatanvr vekhol-na'asah vamareheshet ve'al-mahavat lakhohen hamakeriyv 'otah lvo tiheyeh.",
     "translation": "E toda oferta que for assada no forno e tudo o que for preparado na panela de barro ou sobre a tábua de madeira pertencerá ao sacerdote que a apresentar; ele mesmo a possuirá."
   },
   {
     "verse": 10,
     "original": "וְכׇל־מִנְחָ֥ה בְלוּלָֽה־בַשֶּׁ֖מֶן וַחֲרֵבָ֑ה לְכׇל־בְּנֵ֧י אַהֲרֹ֛ן תִּהְיֶ֖ה אִ֥ישׁ כְּאָחִֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vekhol-minehah velvlah-vashemen vaharevah lekhol-veney 'aharon tiheyeh 'iysh khe'ahiyv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E toda oferta de cereal misturada com azeite e queimada será para todos os filhos de Arão igual, um ao outro."
   },
   {
     "verse": 11,
     "original": "וְזֹ֥את תּוֹרַ֖ת זֶ֣בַח הַשְּׁלָמִ֑ים אֲשֶׁ֥ר יַקְרִ֖יב לַיהֹוָֽה׃",
+    "transliteration": "vezo't tvorat zevah hashelamiym 'asher yakeriyv layhovah.",
     "translation": "E esta é a lei do sacrifício da paz, que有人试图将这段文字翻译成葡萄牙语，但似乎在处理指示时出现了一些混淆，因为原文是希伯来文，而回复却开始用中文进行解释。根据您的要求和原始文本的指示，以下是经过严格学术审查后的翻译：\n\nE esta é a lei do sacrifício da paz, que se oferecerá ao Senhor."
   },
   {
     "verse": 12,
     "original": "אִ֣ם עַל־תּוֹדָה֮ יַקְרִיבֶ֒נּוּ֒ וְהִקְרִ֣יב&thinsp;<b>׀</b> עַל־זֶ֣בַח הַתּוֹדָ֗ה חַלּ֤וֹת מַצּוֹת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וְסֹ֣לֶת מֻרְבֶּ֔כֶת חַלֹּ֖ת בְּלוּלֹ֥ת בַּשָּֽׁמֶן׃",
+    "transliteration": "'im 'al-tvodah yakeriyvenv vehikeriyv&thinsp;<b>|</b> 'al-zevah hatvodah halvot matsvot velvlot vashemen vrekiykey matsvot meshuhiym vashamen vesolet murevekhet halot velvlot vashamen.",
     "translation": "Se oferecerá como sacrifício de ação de graças, e ao oferecer o sacrifício da ação de graças, oferecerá pães sem fermento untos em azeite, e bolos de flor de farinha amassada com azeite, e oblações soerguidas, pães sem fermento untos em azeite."
   },
   {
     "verse": 13,
     "original": "עַל־חַלֹּת֙ לֶ֣חֶם חָמֵ֔ץ יַקְרִ֖יב קׇרְבָּנ֑וֹ עַל־זֶ֖בַח תּוֹדַ֥ת שְׁלָמָֽיו׃",
+    "transliteration": "'al-halot lehem hamets yakeriyv korevanvo 'al-zevah tvodat shelamayv.",
     "translation": "Sobre pães de fermento oferecerá sua oferta, sobre o sacrifício de ação de graças das suas oferendas pacíficas."
   },
   {
     "verse": 14,
     "original": "וְהִקְרִ֨יב מִמֶּ֤נּוּ אֶחָד֙ מִכׇּל־קׇרְבָּ֔ן תְּרוּמָ֖ה לַיהֹוָ֑ה לַכֹּהֵ֗ן הַזֹּרֵ֛ק אֶת־דַּ֥ם הַשְּׁלָמִ֖ים ל֥וֹ יִהְיֶֽה׃",
+    "transliteration": "vehikeriyv mimenv 'ehad mikhol-korevan tervmah layhovah lakhohen hazorek 'et-dam hashelamiym lvo yiheyeh.",
     "translation": "E dele trará um de cada sacrifício, oferta de primeira parte ao Senhor; para o sacerdote que derramar o sangue das ofertas pacíficas, a ele será."
   },
   {
     "verse": 15,
     "original": "וּבְשַׂ֗ר זֶ֚בַח תּוֹדַ֣ת שְׁלָמָ֔יו בְּי֥וֹם קׇרְבָּנ֖וֹ יֵאָכֵ֑ל לֹֽא־יַנִּ֥יחַ מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃",
+    "transliteration": "vvesar zevah tvodat shelamayv veyvom korevanvo ye'akhel lo'-yaniyha mimenv 'ad-voker.",
     "translation": "E a carne do sacrifício de ação de graças dos seus pacíficos, no dia da sua oferta, será comida; nada dele deixará até pela manhã."
   },
   {
     "verse": 16,
     "original": "וְאִם־נֶ֣דֶר&thinsp;<b>׀</b> א֣וֹ נְדָבָ֗ה זֶ֚בַח קׇרְבָּנ֔וֹ בְּי֛וֹם הַקְרִיב֥וֹ אֶת־זִבְח֖וֹ יֵאָכֵ֑ל וּמִֽמׇּחֳרָ֔ת וְהַנּוֹתָ֥ר מִמֶּ֖נּוּ יֵאָכֵֽל׃",
+    "transliteration": "ve'im-neder&thinsp;<b>|</b> 'vo nedavah zevah korevanvo veyvom hakeriyvvo 'et-zivehvo ye'akhel vmimohorat vehanvotar mimenv ye'akhel.",
     "translation": "E se for um voto ou oferta voluntária, sacrifício da sua oblação, no dia em que trouxer seu sacrifício será comido, e do dia seguinte, e o resto dele será comido."
   },
   {
     "verse": 17,
     "original": "וְהַנּוֹתָ֖ר מִבְּשַׂ֣ר הַזָּ֑בַח בַּיּוֹם֙ הַשְּׁלִישִׁ֔י בָּאֵ֖שׁ יִשָּׂרֵֽף׃",
+    "transliteration": "vehanvotar mivesar hazavah vayvom hasheliyshiy va'esh yisaref.",
     "translation": "E o que restar da carne do sacrifício no terceiro dia, com fogo será consumido."
   },
   {
     "verse": 18,
     "original": "וְאִ֣ם הֵאָכֹ֣ל יֵ֠אָכֵ֠ל מִבְּשַׂר־זֶ֨בַח שְׁלָמָ֜יו בַּיּ֣וֹם הַשְּׁלִישִׁי֮ לֹ֣א יֵרָצֶה֒ הַמַּקְרִ֣יב אֹת֗וֹ לֹ֧א יֵחָשֵׁ֛ב ל֖וֹ פִּגּ֣וּל יִהְיֶ֑ה וְהַנֶּ֛פֶשׁ הָאֹכֶ֥לֶת מִמֶּ֖נּוּ עֲוֺנָ֥הּ תִּשָּֽׂא׃",
+    "transliteration": "ve'im he'akhol ye'akhel mivesar-zevah shelamayv vayvom hasheliyshiy lo' yeratseh hamakeriyv 'otvo lo' yehashev lvo figvl yiheyeh vehanefesh ha'okhelet mimenv 'avonah tisa'.",
     "translation": "E se for comido da carne do sacrifício de paz no terceiro dia, não será aceito; quem ofereceu isso, não será contado, será abominação, e a alma que comer dele carregará sua iniquidade."
   },
   {
     "verse": 19,
     "original": "וְהַבָּשָׂ֞ר אֲשֶׁר־יִגַּ֤ע בְּכׇל־טָמֵא֙ לֹ֣א יֵֽאָכֵ֔ל בָּאֵ֖שׁ יִשָּׂרֵ֑ף וְהַ֨בָּשָׂ֔ר כׇּל־טָה֖וֹר יֹאכַ֥ל בָּשָֽׂר׃",
+    "transliteration": "vehavasar 'asher-yiga' vekhol-tame' lo' ye'akhel va'esh yisaref vehavasar khol-tahvor yo'khal vasar.",
     "translation": "E a carne que tocar em qualquer coisa impura não será comida; no fogo será consumida. E a carne, toda pura, comerão."
   },
   {
     "verse": 20,
     "original": "וְהַנֶּ֜פֶשׁ אֲשֶׁר־תֹּאכַ֣ל בָּשָׂ֗ר מִזֶּ֤בַח הַשְּׁלָמִים֙ אֲשֶׁ֣ר לַיהֹוָ֔ה וְטֻמְאָת֖וֹ עָלָ֑יו וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃",
+    "transliteration": "vehanefesh 'asher-to'khal vasar mizevah hashelamiym 'asher layhovah vetume'atvo 'alayv venikheretah hanefesh hahiv' me'ameyha.",
     "translation": "E a alma que comer carne do sacrifício de paz oferecido ao Senhor, com sua impureza sobre si, essa alma será cortada do seu povo."
   },
   {
     "verse": 21,
     "original": "וְנֶ֜פֶשׁ כִּֽי־תִגַּ֣ע בְּכׇל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ א֣וֹ&thinsp;<b>׀</b> בִּבְהֵמָ֣ה טְמֵאָ֗ה א֚וֹ בְּכׇל־שֶׁ֣קֶץ טָמֵ֔א וְאָכַ֛ל מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לַיהֹוָ֑ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br><sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(אין פרשה בספרי ספרד ואשכנז)</i>",
+    "transliteration": "venefesh khiy-tiga' vekhol-tame' vetume'at 'adam 'vo&thinsp;<b>|</b> vivehemah teme'ah 'vo vekhol-shekets tame' ve'akhal mivesar-zevah hashelamiym 'asher layhovah venikheretah hanefesh hahiv' me'ameyha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br><sup class=\"footnote-marker\">*</sup><i class=\"footnote\">('yn frsh vsfry sfrd v'skhnz)</i>",
     "translation": "E a alma que tocar em todo impuro, na impureza do ser humano ou na impureza da besta impura, ou em qualquer abominação impura, e comer da carne do sacrifício de paz que é para o Senhor, essa alma será cortada do seu povo."
   },
   {
     "verse": 22,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 23,
     "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כׇּל־חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ׃",
+    "transliteration": "daver 'el-veney yisera'el le'mor khol-helev shvor vekhesev va'ez lo' to'khelv.",
     "translation": "Fala aos filhos de Israel, dizendo: Qualquer gordura de boi, carneiro ou cabra não comereis."
   },
   {
     "verse": 24,
     "original": "וְחֵ֤לֶב נְבֵלָה֙ וְחֵ֣לֶב טְרֵפָ֔ה יֵעָשֶׂ֖ה לְכׇל־מְלָאכָ֑ה וְאָכֹ֖ל לֹ֥א תֹאכְלֻֽהוּ׃",
+    "transliteration": "vehelev nevelah vehelev terefah ye'aseh lekhol-mela'khah ve'akhol lo' to'kheluhv.",
     "translation": "E a gordura da carniça e a gordura do que foi despedaçado será usada para toda obra, mas vocês não comerão isso."
   },
   {
     "verse": 25,
     "original": "כִּ֚י כׇּל־אֹכֵ֣ל חֵ֔לֶב מִ֨ן־הַבְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהֹוָ֑ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ׃",
+    "transliteration": "khiy khol-'okhel helev min-havehemah 'asher yakeriyv mimenah 'isheh layhovah venikheretah hanefesh ha'okhelet me'ameyha.",
     "translation": "Pois toda alma que comer gordura da besta, dentre as quais se oferecerá fumo a Jehovah, será cortada do seu povo."
   },
   {
     "verse": 26,
     "original": "וְכׇל־דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה׃",
+    "transliteration": "vekhol-dam lo' to'khelv vekhol mvoshevoteykhem la'vof velavehemah.",
     "translation": "E nenhum sangue comereis em toda a vossa morada, seja de ave ou de animal."
   },
   {
     "verse": 27,
     "original": "כׇּל־נֶ֖פֶשׁ אֲשֶׁר־תֹּאכַ֣ל כׇּל־דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br><sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(אין פרשה בספרי תימן)</i>",
+    "transliteration": "khol-nefesh 'asher-to'khal khol-dam venikheretah hanefesh hahiv' me'ameyha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br><sup class=\"footnote-marker\">*</sup><i class=\"footnote\">('yn frsh vsfry tymn)</i>",
     "translation": "Qualquer alma que comer sangue, essa alma será cortada do seu povo."
   },
   {
     "verse": 28,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 29,
     "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הַמַּקְרִ֞יב אֶת־זֶ֤בַח שְׁלָמָיו֙ לַיהֹוָ֔ה יָבִ֧יא אֶת־קׇרְבָּנ֛וֹ לַיהֹוָ֖ה מִזֶּ֥בַח שְׁלָמָֽיו׃",
+    "transliteration": "daver 'el-veney yisera'el le'mor hamakeriyv 'et-zevah shelamayv layhovah yaviy' 'et-korevanvo layhovah mizevah shelamayv.",
     "translation": "Fala aos filhos de Israel, dizendo: Quem oferecer seu sacrifício de paz ao Senhor trará sua oferenda ao Senhor do seu sacrifício de paz."
   },
   {
     "verse": 30,
     "original": "יָדָ֣יו תְּבִיאֶ֔ינָה אֵ֖ת אִשֵּׁ֣י יְהֹוָ֑ה אֶת־הַחֵ֤לֶב עַל־הֶֽחָזֶה֙ יְבִיאֶ֔נּוּ אֵ֣ת הֶחָזֶ֗ה לְהָנִ֥יף אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+    "transliteration": "yadayv teviy'eynah 'et 'ishey yehovah 'et-hahelev 'al-hehazeh yeviy'env 'et hehazeh lehaniyf 'otvo tenvfah lifeney yehovah.",
     "translation": "Suas mãos trarão os incensos do Senhor; o sebo sobre o mamilário trará, com o mamilário para elevar como oferenda de elevação diante do Senhor."
   },
   {
     "verse": 31,
     "original": "וְהִקְטִ֧יר הַכֹּהֵ֛ן אֶת־הַחֵ֖לֶב הַמִּזְבֵּ֑חָה וְהָיָה֙ הֶֽחָזֶ֔ה לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+    "transliteration": "vehiketiyr hakhohen 'et-hahelev hamizevehah vehayah hehazeh le'aharon vlevanayv.",
     "translation": "E o sacerdote queimará a gordura sobre o altar, e a coxa será para Aarão e seus filhos."
   },
   {
     "verse": 32,
     "original": "וְאֵת֙ שׁ֣וֹק הַיָּמִ֔ין תִּתְּנ֥וּ תְרוּמָ֖ה לַכֹּהֵ֑ן מִזִּבְחֵ֖י שַׁלְמֵיכֶֽם׃",
+    "transliteration": "ve'et shvok hayamiyn titenv tervmah lakhohen mizivehey shalemeykhem.",
     "translation": "E a coxa direita ofereceis em oferta ao sacerdote dos sacrifícios das vossas ofertas pacíficas."
   },
   {
     "verse": 33,
     "original": "הַמַּקְרִ֞יב אֶת־דַּ֧ם הַשְּׁלָמִ֛ים וְאֶת־הַחֵ֖לֶב מִבְּנֵ֣י אַהֲרֹ֑ן ל֧וֹ תִהְיֶ֛ה שׁ֥וֹק הַיָּמִ֖ין לְמָנָֽה׃",
+    "transliteration": "hamakeriyv 'et-dam hashelamiym ve'et-hahelev miveney 'aharon lvo tiheyeh shvok hayamiyn lemanah.",
     "translation": "Quem oferecer o sangue das ofertas pacíficas e a gordura dos filhos de Arão, a ele pertencerá a coxa direita como porção."
   },
   {
     "verse": 34,
     "original": "כִּי֩ אֶת־חֲזֵ֨ה הַתְּנוּפָ֜ה וְאֵ֣ת&thinsp;<b>׀</b> שׁ֣וֹק הַתְּרוּמָ֗ה לָקַ֙חְתִּי֙ מֵאֵ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל מִזִּבְחֵ֖י שַׁלְמֵיהֶ֑ם וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "khiy 'et-hazeh hatenvfah ve'et&thinsp;<b>|</b> shvok hatervmah lakahetiy me'et veney-yisera'el mizivehey shalemeyhem va'eten 'otam le'aharon hakhohen vlevanayv lehok-'volam me'et veney yisera'el.",
     "translation": "Porque tomei o manto da elevação e a coxa da oferta devida, dos filhos de Israel, dos altares dos seus sacrifícios pacíficos; dei-os a Aarão, o sacerdote, e aos seus filhos para sempre, como uma porção eterna dos filhos de Israel."
   },
   {
     "verse": 35,
     "original": "זֹ֣את מִשְׁחַ֤ת אַהֲרֹן֙ וּמִשְׁחַ֣ת בָּנָ֔יו מֵאִשֵּׁ֖י יְהֹוָ֑ה בְּיוֹם֙ הִקְרִ֣יב אֹתָ֔ם לְכַהֵ֖ן לַיהֹוָֽה׃",
+    "transliteration": "zo't mishehat 'aharon vmishehat vanayv me'ishey yehovah veyvom hikeriyv 'otam lekhahen layhovah.",
     "translation": "Esta é a consagração de Arão e a consagração de seus filhos, dos incensos de Jehovah, no dia em que os apresentou para sacerdotes do Senhor."
   },
   {
     "verse": 36,
     "original": "אֲשֶׁר֩ צִוָּ֨ה יְהֹוָ֜ה לָתֵ֣ת לָהֶ֗ם בְּיוֹם֙ מׇשְׁח֣וֹ אֹתָ֔ם מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתָֽם׃",
+    "transliteration": "'asher tsivah yehovah latet lahem veyvom moshehvo 'otam me'et veney yisera'el hukat 'volam ledorotam.",
     "translation": "que o Senhor ordenou dar-lhes no dia de sua unção, dos filhos de Israel, estatuto eterno por suas gerações."
   },
   {
     "verse": 37,
     "original": "זֹ֣את הַתּוֹרָ֗ה לָֽעֹלָה֙ לַמִּנְחָ֔ה וְלַֽחַטָּ֖את וְלָאָשָׁ֑ם וְלַ֨מִּלּוּאִ֔ים וּלְזֶ֖בַח הַשְּׁלָמִֽים׃",
+    "transliteration": "zo't hatvorah la'olah laminehah velahata't vela'asham velamilv'iym vlezevah hashelamiym.",
     "translation": "Esta é a Torá para a oferta holocausto, para a oferenda de cereal, e para o sacrifício pelo pecado e pelo resgate, e para as oferendas de consagração e para o sacrifício pacífico."
   },
   {
     "verse": 38,
     "original": "אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה בְּהַ֣ר סִינָ֑י בְּי֨וֹם צַוֺּת֜וֹ אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל לְהַקְרִ֧יב אֶת־קׇרְבְּנֵיהֶ֛ם לַיהֹוָ֖ה בְּמִדְבַּ֥ר סִינָֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'asher tsivah yehovah 'et-mosheh vehar siynay veyvom tsavotvo 'et-veney yisera'el lehakeriyv 'et-koreveneyhem layhovah vemidevar siynay.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "que o Senhor ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel oferecerem suas oferendas ao Senhor no deserto de Sinai."
   }
 ]

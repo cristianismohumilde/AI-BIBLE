@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "בָּרוּךְ אֵל יִשְׂרָאֵל",
+    "transliteration": "varvkhe 'el yisera'el",
     "translation": "Bendito seja Deus de Israel"
   },
   {
     "verse": 2,
     "original": "הַשּׁוֹמֵר חֶסֶד לִבְרִיתוֹ",
+    "transliteration": "hashvomer hesed liveriytvo",
     "translation": "O guardião da misericórdia para sua aliança..."
   },
   {
     "verse": 3,
     "original": "וּמוֹעֲדֵי יְשׁוּעָה",
+    "transliteration": "vmvo'adey yeshv'ah",
     "translation": "E as ocasiões da salvação"
   },
   {
     "verse": 4,
     "original": "לְעַמּוֹ הַנִּגְאָלִים",
+    "transliteration": "le'amvo hanige'aliym",
     "translation": "aos seus povos redimidos"
   },
   {
     "verse": 5,
     "original": "וְקָרָא אֶת הַשֵּׁם",
+    "transliteration": "vekara' 'et hasehm",
     "translation": "e clamará pelo Nome"
   },
   {
     "verse": 6,
     "original": "שֵׁם אֵל יִשְׂרָאֵל",
+    "transliteration": "sehm 'el yisera'el",
     "translation": "Nome de Deus de Israel"
   },
   {
     "verse": 7,
     "original": "וּבְיָד מֶלֶךְ הַכָּבוֹד",
+    "transliteration": "vveyad melekhe hakhavvod",
     "translation": "E na mão do rei da glória"
   },
   {
     "verse": 8,
     "original": "נִלְחָמִים בֶּן אוֹר",
+    "transliteration": "nilehamiym ven 'vor",
     "translation": "Lutam filho da luz\n\nNota: A frase mantém-se igual ao rascunho original porque a solicitação especifica que se o rascunho estiver perfeito, deve repetir exatamente o rascunho. No entanto, é importante notar que uma tradução mais precisa e fiel ao contexto hebraico poderia ser \"Lutam pelo filho da luz\" ou \"Combatem pela luz\", dependendo do contexto mais amplo do manuscrito em questão. Essa observação não foi incluída de acordo com as instruções específicas."
   },
   {
     "verse": 9,
     "original": "לְמַעַן שִׂמְחַת כֹּל",
+    "transliteration": "lema'an simehat khol",
     "translation": "para alegria de todos"
   },
   {
     "verse": 10,
     "original": "מוֹשַׁב קֹדֶשׁ לְדוֹר דּוֹרִים",
+    "transliteration": "mvosahv kodesh ledvor dvoriym",
     "translation": "Assento de santidade para geração após geração..."
   }
 ]

@@ -2,141 +2,169 @@
   {
     "verse": 1,
     "original": "גַּם־אֵ֭לֶּה מִשְׁלֵ֣י שְׁלֹמֹ֑ה אֲשֶׁ֥ר הֶ֝עְתִּ֗יקוּ אַנְשֵׁ֤י&thinsp;<b>׀</b> חִזְקִיָּ֬ה מֶלֶךְ־יְהוּדָֽה׃",
+    "transliteration": "gam-'eleh misheley shelomoh 'asher he'etiykv 'aneshey&thinsp;<b>|</b> hizekiyah melekhe-yehvdah.",
     "translation": "Também estes são ditos de Salomão que os homens de Ezequias, rei de Judá, transmitiram."
   },
   {
     "verse": 2,
     "original": "כְּבֹ֣ד אֱ֭לֹהִים הַסְתֵּ֣ר דָּבָ֑ר וּכְבֹ֥ד מְ֝לָכִ֗ים חֲקֹ֣ר דָּבָֽר׃",
+    "transliteration": "khevod 'elohiym haseter davar vkhevod melakhiym hakor davar.",
     "translation": "A glória de Deus é esconder o assunto, e a glória dos reis é investigar o assunto."
   },
   {
     "verse": 3,
     "original": "שָׁמַ֣יִם לָ֭רוּם וָאָ֣רֶץ לָעֹ֑מֶק וְלֵ֥ב מְ֝לָכִ֗ים אֵ֣ין חֵֽקֶר׃",
+    "transliteration": "shamayim larvm va'arets la'omek velev melakhiym 'eyn heker.",
     "translation": "Os céus estão altos, e a terra é profunda, mas o coração dos reis é insondável."
   },
   {
     "verse": 4,
     "original": "הָג֣וֹ סִיגִ֣ים מִכָּ֑סֶף וַיֵּצֵ֖א לַצֹּרֵ֣ף כֶּֽלִי׃",
+    "transliteration": "hagvo siygiym mikhasef vayetse' latsoref kheliy.",
     "translation": "Falam os purificadores de prata e sai o vaso para o fundidor."
   },
   {
     "verse": 5,
     "original": "הָג֣וֹ רָ֭שָׁע לִפְנֵי־מֶ֑לֶךְ וְיִכּ֖וֹן בַּצֶּ֣דֶק כִּסְאֽוֹ׃",
+    "transliteration": "hagvo rasha' lifeney-melekhe veyikhvon vatsedek khise'vo.",
     "translation": "O ímpio murmura diante do rei, mas seu trono se estabelece na justiça."
   },
   {
     "verse": 6,
     "original": "אַל־תִּתְהַדַּ֥ר לִפְנֵי־מֶ֑לֶךְ וּבִמְק֥וֹם גְּ֝דֹלִ֗ים אַֽל־תַּעֲמֹֽד׃",
+    "transliteration": "'al-titehadar lifeney-melekhe vvimekvom gedoliym 'al-ta'amod.",
     "translation": "Não te exaltes diante do rei, e no lugar dos grandes não te ponhas."
   },
   {
     "verse": 7,
     "original": "כִּ֤י ט֥וֹב אֲמׇר־לְךָ֗ עֲֽלֵ֫ה<span class=\"mam-implicit-maqaf\">־</span>הֵ֥נָּה מֵ֭הַשְׁפִּ֣ילְךָ לִפְנֵ֣י נָדִ֑יב אֲשֶׁ֖ר רָא֣וּ עֵינֶֽיךָ׃",
+    "transliteration": "khiy tvov 'amor-lekha 'aleh<span class=\"mam-implicit-maqaf\">-</span>henah mehashefiylekha lifeney nadiyv 'asher ra'v 'eyneykha.",
     "translation": "Pois é melhor que te seja dito: sobe, do que ser humilhado na presença de um nobre a quem os teus olhos viram."
   },
   {
     "verse": 8,
     "original": "אַל־תֵּצֵ֥א לָרִ֗ב מַ֫הֵ֥ר פֶּ֣ן מַה־תַּ֭עֲשֶׂה בְּאַחֲרִיתָ֑הּ בְּהַכְלִ֖ים אֹתְךָ֣ רֵעֶֽךָ׃",
+    "transliteration": "'al-tetse' lariv maher fen mah-ta'aseh ve'ahariytah vehakheliym 'otekha re'ekha.",
     "translation": "Não saias à contenda, meu filho, para evitar que te apanhe aquilo que farás ao final, quando o teu adversário subtrai de ti."
   },
   {
     "verse": 9,
     "original": "רִ֭יבְךָ רִ֣יב אֶת־רֵעֶ֑ךָ וְס֖וֹד אַחֵ֣ר אַל־תְּגָֽל׃",
+    "transliteration": "riyvekha riyv 'et-re'ekha vesvod 'aher 'al-tegal.",
     "translation": "Tua contenda, contenda com teu vizinho; mas não divulgues o segredo de outrem."
   },
   {
     "verse": 10,
     "original": "פֶּֽן־יְחַסֶּדְךָ֥ שֹׁמֵ֑עַ וְ֝דִבָּתְךָ֗ לֹ֣א תָשֽׁוּב׃",
+    "transliteration": "fen-yehasedekha shome'a vedivatekha lo' tashvv.",
     "translation": "Temo que tua benignidade ouça, e a palavra de tua boca não volte sem efeito."
   },
   {
     "verse": 11,
     "original": "תַּפּוּחֵ֣י זָ֭הָב בְּמַשְׂכִּיּ֣וֹת כָּ֑סֶף דָּ֝בָ֗ר דָּבֻ֥ר עַל־אׇפְנָֽיו׃",
+    "transliteration": "tafvhey zahav vemasekhiyvot khasef davar davur 'al-'ofenayv.",
     "translation": "Maçãs de ouro em finas treliças de prata; palavra esplendorosa sobre os seus teto**s**."
   },
   {
     "verse": 12,
     "original": "נֶ֣זֶם זָ֭הָב וַחֲלִי־כָ֑תֶם מוֹכִ֥יחַ חָ֝כָ֗ם עַל־אֹ֥זֶן שֹׁמָֽעַת׃",
+    "transliteration": "nezem zahav vahaliy-khatem mvokhiyha hakham 'al-'ozen shoma'at.",
     "translation": "Colar de ouro e bracelete de incenso, repreensão ao sábio na orelha daquele que ouve."
   },
   {
     "verse": 13,
     "original": "כְּצִנַּת־שֶׁ֨לֶג&thinsp;<b>׀</b> בְּי֬וֹם קָצִ֗יר צִ֣יר נֶ֭אֱמָן לְשֹׁלְחָ֑יו וְנֶ֖פֶשׁ אֲדֹנָ֣יו יָשִֽׁיב׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khetsinat-sheleg&thinsp;<b>|</b> veyvom katsiyr tsiyr ne'eman lesholehayv venefesh 'adonayv yashiyv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Como a neve no dia do ceifeiro, assim é o servo fiel que age conforme as ordens de seu senhor; ele preserva a alma de seu dono."
   },
   {
     "verse": 14,
     "original": "נְשִׂיאִ֣ים וְ֭רוּחַ וְגֶ֣שֶׁם אָ֑יִן אִ֥ישׁ מִ֝תְהַלֵּ֗ל בְּמַתַּת־שָֽׁקֶר׃",
+    "transliteration": "nesiy'iym vervha vegeshem 'ayin 'iysh mitehalel vematat-shaker.",
     "translation": "Príncipes e espíritos, e a chuva não existe; o homem se vangloria na dádiva de mentira."
   },
   {
     "verse": 15,
     "original": "בְּאֹ֣רֶךְ אַ֭פַּיִם יְפֻתֶּ֣ה קָצִ֑ין וְלָשׁ֥וֹן רַ֝כָּ֗ה תִּשְׁבׇּר־גָּֽרֶם׃",
+    "transliteration": "ve'orekhe 'afayim yefuteh katsiyn velashvon rakhah tishevor-garem.",
     "translation": "Com longanimidade será corrigido o governante, e pela língua mansa se quebra a ira."
   },
   {
     "verse": 16,
     "original": "דְּבַ֣שׁ מָ֭צָאתָ אֱכֹ֣ל דַּיֶּ֑ךָּ פֶּן־תִּ֝שְׂבָּעֶ֗נּוּ וַהֲקֵאתֽוֹ׃",
+    "transliteration": "devash matsa'ta 'ekhol dayekha fen-tiseva'env vahake'tvo.",
     "translation": "Achaste mel, comê-lo-ás; mas que tua fartura não te faça vomitar."
   },
   {
     "verse": 17,
     "original": "הֹקַ֣ר רַ֭גְלְךָ מִבֵּ֣ית רֵעֶ֑ךָ פֶּן־יִ֝שְׂבָּעֲךָ֗ וּשְׂנֵאֶֽךָ׃",
+    "transliteration": "hokar ragelekha miveyt re'ekha fen-yiseva'akha vsene'ekha.",
     "translation": "Retira o teu pé da casa do teu amigo, para que ele não se sacie de ti e venha a te odiar."
   },
   {
     "verse": 18,
     "original": "מֵפִ֣יץ וְ֭חֶרֶב וְחֵ֣ץ שָׁנ֑וּן אִ֥ישׁ עֹנֶ֥ה בְ֝רֵעֵ֗הוּ עֵ֣ד שָֽׁקֶר׃",
+    "transliteration": "mefiyts veherev vehets shanvn 'iysh 'oneh vere'ehv 'ed shaker.",
     "translation": "Da dispersão e da espada, e da seta afiada; um homem responde ao seu companheiro com falso testemunho."
   },
   {
     "verse": 19,
     "original": "שֵׁ֣ן רֹ֭עָה וְרֶ֣גֶל מוּעָ֑דֶת מִבְטָ֥ח בּ֝וֹגֵ֗ד בְּי֣וֹם צָרָֽה׃",
+    "transliteration": "shen ro'ah veregel mv'adet mivetah vvoged veyvom tsarah.",
     "translation": "Dente de viperino e pé desequilibrado, confiança em traidores no dia da angústia."
   },
   {
     "verse": 20,
     "original": "מַ֥עֲדֶה־בֶּ֨גֶד&thinsp;<b>׀</b> בְּי֣וֹם קָ֭רָה חֹ֣מֶץ עַל־נָ֑תֶר וְשָׁ֥ר בַּ֝שִּׁרִ֗ים עַ֣ל לֶב־רָֽע׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ma'adeh-veged&thinsp;<b>|</b> veyvom karah homets 'al-nater veshar vashiriym 'al lev-ra'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Maadé-beged, no dia em que a perversidade se torna como vinagre sobre niter; e cantam canções com coração mau."
   },
   {
     "verse": 21,
     "original": "אִם־רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם־צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם׃",
+    "transliteration": "'im-ra'ev sona'akha ha'akhilehv lahem ve'im-tsame' hashekehv mayim.",
     "translation": "Se teu inimigo tem fome, alimenta-o com pão; se tem sede, dá-lhe água a beber."
   },
   {
     "verse": 22,
     "original": "כִּ֤י גֶחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל־רֹאשׁ֑וֹ וַ֝יהֹוָ֗ה יְשַׁלֶּם־לָֽךְ׃",
+    "transliteration": "khiy gehaliym 'atah hoteh 'al-ro'shvo vayhovah yeshalem-lakhe.",
     "translation": "Pois Tu, ó Senhor, lançaste brasas sobre sua cabeça, e o SENHOR te recompensará."
   },
   {
     "verse": 23,
     "original": "ר֣וּחַ צָ֭פוֹן תְּח֣וֹלֵֽל גָּ֑שֶׁם וּפָנִ֥ים נִ֝זְעָמִ֗ים לְשׁ֣וֹן סָֽתֶר׃",
+    "transliteration": "rvha tsafvon tehvolel gashem vfaniym nize'amiym leshvon sater.",
     "translation": "Vento do norte traz chuva, e rosto severo, torrente de contendas."
   },
   {
     "verse": 24,
     "original": "ט֗וֹב שֶׁ֥בֶת עַל־פִּנַּת־גָּ֑ג מֵאֵ֥שֶׁת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מדונים)</span> <span class=\"mam-kq-q\">[מִ֝דְיָנִ֗ים]</span></span> וּבֵ֥ית חָֽבֶר׃",
+    "transliteration": "tvov shevet 'al-finat-gag me'eshet <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mdvnym)</span> <span class=\"mam-kq-q\">[mideyaniym]</span></span> vveyt haver.",
     "translation": "Melhor é assentar-se na extremidade do telhado Do que estar na casa com a mulher de contendores."
   },
   {
     "verse": 25,
     "original": "מַ֣יִם קָ֭רִים עַל־נֶ֣פֶשׁ עֲיֵפָ֑ה וּשְׁמוּעָ֥ה ט֝וֹבָ֗ה מֵאֶ֥רֶץ מֶרְחָֽק׃",
+    "transliteration": "mayim kariym 'al-nefesh 'ayefah vshemv'ah tvovah me'erets merehak.",
     "translation": "Águas frescas para a alma cansada e uma boa notícia da terra distante."
   },
   {
     "verse": 26,
     "original": "מַעְיָ֣ן נִ֭רְפָּשׂ וּמָק֣וֹר מׇשְׁחָ֑ת צַ֝דִּ֗יק מָ֣ט לִפְנֵֽי־רָשָֽׁע׃",
+    "transliteration": "ma'eyan nirefas vmakvor moshehat tsadiyk mat lifeney-rasha'.",
     "translation": "Manancial descansado e fonte viva, o justo se inclina diante do ímpio."
   },
   {
     "verse": 27,
     "original": "אָ֘כֹ֤ל דְּבַ֣שׁ הַרְבּ֣וֹת לֹא־ט֑וֹב וְחֵ֖קֶר כְּבֹדָ֣ם כָּבֽוֹד׃",
+    "transliteration": "'akhol devash harevvot lo'-tvov veheker khevodam khavvod.",
     "translation": "Comer muitos mel não é bom, e a busca pela glória traz honra.\n\nCorreção:\nComer muito mel não é bom, e a busca à glória traz honra."
   },
   {
     "verse": 28,
     "original": "עִ֣יר פְּ֭רוּצָה אֵ֣ין חוֹמָ֑ה אִ֝֗ישׁ אֲשֶׁ֤ר אֵ֖ין מַעְצָ֣ר לְרוּחֽוֹ׃",
+    "transliteration": "'iyr fervtsah 'eyn hvomah 'iysh 'asher 'eyn ma'etsar lervhvo.",
     "translation": "Uma cidade sem muros, um homem que não tem freio para seu espírito."
   }
 ]

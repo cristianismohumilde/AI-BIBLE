@@ -2,201 +2,241 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
     "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃",
+    "transliteration": "daver 'el-veney yisera'el veyikehv-liy tervmah me'et khol-'iysh 'asher yidevenv livvo tikehv 'et-tervmatiy.",
     "translation": "Fala aos filhos de Israel e que eles me ofereçam uma oferta voluntária; de cada homem cujo coração o mova, receberão a minha oferta voluntária."
   },
   {
     "verse": 3,
     "original": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
+    "transliteration": "vezo't hatervmah 'asher tikehv me'itam zahav vakhesef vnehoshet.",
     "translation": "E esta é a oferta que tomarão dela: ouro, prata e bronze."
   },
   {
     "verse": 4,
     "original": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
+    "transliteration": "vtekhelet ve'aregaman vetvola'at shaniy veshesh ve'iziym.",
     "translation": "e azul e púrpura e carmesim e fina linho e cabras.\n\nA tradução apresentada não necessita de alterações gramaticais ou de número, já que a estrutura do hebraico antigo para essa frase é essencialmente nominal, sem verbos explícitos. No entanto, para adequar melhor o estilo linguístico solene e formal em português, a tradução pode ser ligeiramente ajustada:\n\ne azul, e púrpura, e carmesim, e linho fino, e cabras.\n\nEsta versão mantém a fidelidade ao original hebraico, preserva o rigor acadêmico requerido e aprofunda a qualidade teológica do texto."
   },
   {
     "verse": 5,
     "original": "וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃",
+    "transliteration": "ve'orot 'eylim me'odamiym ve'orot tehashiym va'atsey shitiym.",
     "translation": "E as peles de carneiros vermelhas, e as peles de tachash, e os madeiros de setim."
   },
   {
     "verse": 6,
     "original": "שֶׁ֖מֶן לַמָּאֹ֑ר בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
+    "transliteration": "shemen lama'or vesamiym leshemen hamishehah veliketoret hasamiym.",
     "translation": "Azeite para a luz, perfumes para o óleo da uncisão e incenso de especiarias."
   },
   {
     "verse": 7,
     "original": "אַבְנֵי־שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
+    "transliteration": "'aveney-shoham ve'aveney milu'iym la'efod velahoshen.",
     "translation": "Pedras de Šōham e pedras de enchimento, para o efode e para o peitoral."
   },
   {
     "verse": 8,
     "original": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃",
+    "transliteration": "ve'asv liy mikedash veshakhanetiy vetvokham.",
     "translation": "E façam-me um santuário, e habitarei no meio deles."
   },
   {
     "verse": 9,
     "original": "כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כׇּל־כֵּלָ֑יו וְכֵ֖ן תַּעֲשֽׂוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khekhol 'asher 'aniy mare'eh 'votekha 'et taveniyt hamishekhan ve'et taveniyt khol-khelayv vekhen ta'asv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Como tudo o que eu te mostrarei, a forma do tabernáculo e a forma de todos os seus utensílios, assim fareis."
   },
   {
     "verse": 10,
     "original": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+    "transliteration": "ve'asv 'arvon 'atsey shitiym 'amatayim vahetsiy 'orekhvo ve'amah vahetsiy rohevvo ve'amah vahetsiy komatvo.",
     "translation": "E farão uma arca de madeira de acácia; o seu comprimento será dois côvados e meio, a sua largura um côvado e meio, e a sua altura um côvado e meio."
   },
   {
     "verse": 11,
     "original": "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+    "transliteration": "vetsifiyta 'otvo zahav tahvor mivayit vmihvts tetsafenv ve'asiyta 'alayv zer zahav saviyv.",
     "translation": "E o revestirás de ouro puro, tanto por dentro quanto por fora, e farás sobre ele um zinzane de ouro ao redor."
   },
   {
     "verse": 12,
     "original": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+    "transliteration": "veyatsaketa lvo 'areva' tave'ot zahav venatatah 'al 'areva' fa'amotayv vshetey tava'ot 'al-tsale'vo ha'ehat vshetey tava'ot 'al-tsale'vo hasheniyt.",
     "translation": "E derreterás quatro argolas de ouro e as porás sobre as quatro extremidades dele; duas argolas na lateral uma, e duas argolas na lateral segunda."
   },
   {
     "verse": 13,
     "original": "וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
+    "transliteration": "ve'asiyta vadey 'atsey shitiym vetsifiyta 'otam zahav.",
     "translation": "E farás os tábuados de madeira de shittim e os cobrirás com ouro."
   },
   {
     "verse": 14,
     "original": "וְהֵבֵאתָ֤ אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֥את אֶת־הָאָרֹ֖ן בָּהֶֽם׃",
+    "transliteration": "veheve'ta 'et-havadiym vatava'ot 'al tsale'ot ha'aron lase't 'et-ha'aron vahem.",
     "translation": "E levarás os varais nos anéis, às laterais do arca, para levá-la por eles."
   },
   {
     "verse": 15,
     "original": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃",
+    "transliteration": "vetave'ot ha'aron yiheyv havadiym lo' yasurv mimenv.",
     "translation": "Nos anéis do arca estarão os varais; não se apartarão dela."
   },
   {
     "verse": 16,
     "original": "וְנָתַתָּ֖ אֶל־הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+    "transliteration": "venatata 'el-ha'aron 'et ha'edut 'asher 'eten 'eleykha.",
     "translation": "E darás à arca o testemunho que eu te darei."
   },
   {
     "verse": 17,
     "original": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+    "transliteration": "ve'asiyta khaforet zahav tahvor 'amatayim vahetsiy 'orekhah ve'amah vahetsiy rohevah.",
     "translation": "E farás a propiciatória de ouro puro, dois côvados e meio o seu comprimento, e um côvado e meio a sua largura."
   },
   {
     "verse": 18,
     "original": "וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+    "transliteration": "ve'asiyta shenayim kheruviym zahav mikeshah ta'aseh 'otam misheney ketsvot hakhaforet.",
     "translation": "E farás dois querubins de ouro batido, fazendo-os nos dois extremos do propiciatório."
   },
   {
     "verse": 19,
     "original": "וַ֠עֲשֵׂ֠ה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־הַכְּרֻבִ֖ים עַל־שְׁנֵ֥י קְצוֹתָֽיו׃",
+    "transliteration": "va'aseh khervv 'ehad mikatsah mizeh vkhervv-'ehad mikatsah mizeh min-hakhaforet ta'asv 'et-hakheruviym 'al-sheney ketsvotayv.",
     "translation": "E faça um querubim em uma extremidade e um querubim na outra extremidade; façam os querubins nas duas extremidades do propiciatório."
   },
   {
     "verse": 20,
     "original": "וְהָי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
+    "transliteration": "vehayv hakheruviym foresey khenafayim lema'elah sokhekhiym vekhanefeyhem 'al-hakhaforet vfeneyhem 'iysh 'el-'ahiyv 'el-hakhaforet yiheyv feney hakheruviym.",
     "translation": "E os querubins estendiam as suas asas para cima, cobrindo com elas o propiciatório; e seus rostos um diante do outro, voltados para o propiciatório, ficavam os rostos dos querubins."
   },
   {
     "verse": 21,
     "original": "וְנָתַתָּ֧ אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָ֑עְלָה וְאֶל־הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־הָ֣עֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+    "transliteration": "venatata 'et-hakhaforet 'al-ha'aron milema'elah ve'el-ha'aron titen 'et-ha'edut 'asher 'eten 'eleykha.",
     "translation": "E tu porás o propiciatório sobre a arca acima, e no interior da arca porás o testemunho que eu te darei."
   },
   {
     "verse": 22,
     "original": "וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒ וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־אֲר֣וֹן הָעֵדֻ֑ת אֵ֣ת כׇּל־אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "venvo'adetiy lekha sham vedivaretiy 'itekha me'al hakhaforet miveyn sheney hakheruviym 'asher 'al-'arvon ha'edut 'et khol-'asher 'atsaveh 'votekha 'el-veney yisera'el.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E ali me congregarei contigo e falarei contigo do alto do propiciatório, entre os querubins que estão sobre a arca da aliança; tudo aquilo que te ordenarei a respeito dos filhos de Israel."
   },
   {
     "verse": 23,
     "original": "וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+    "transliteration": "ve'asiyta shulehan 'atsey shitiym 'amatayim 'orekhvo ve'amah rohevvo ve'amah vahetsiy komatvo.",
     "translation": "E farás uma mesa de madeira de acácia; dois côvados o seu comprimento, e um côvado a sua largura, e um côvado e meio a sua altura."
   },
   {
     "verse": 24,
     "original": "וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+    "transliteration": "vetsifiyta 'otvo zahav tahvor ve'asiyta lvo zer zahav saviyv.",
     "translation": "E o revestirás de ouro puro, e farás para ele um zimbo de ouro ao redor."
   },
   {
     "verse": 25,
     "original": "וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+    "transliteration": "ve'asiyta lvo misegeret tofah saviyv ve'asiyta zer-zahav lemisegaretvo saviyv.",
     "translation": "E farás para ele uma borda de um palmo ao redor, e farás uma faixa de ouro para a borda ao redor."
   },
   {
     "verse": 26,
     "original": "וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+    "transliteration": "ve'asiyta lvo 'areva' tave'ot zahav venatata 'et-hatava'ot 'al 'areva' hafe'ot 'asher le'areva' ragelayv.",
     "translation": "E farás para ele quatro argolas de ouro, e porás as argolas sobre as quatro pontas que estão nos quatro pés."
   },
   {
     "verse": 27,
     "original": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+    "transliteration": "le'umat hamisegeret tiheyeyna hatava'ot levatiym levadiym lase't 'et-hashulehan.",
     "translation": "Contra a borda, estarão as argolas, para casas separadas, para levar a mesa."
   },
   {
     "verse": 28,
     "original": "וְעָשִׂ֤יתָ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא־בָ֖ם אֶת־הַשֻּׁלְחָֽן׃",
+    "transliteration": "ve'asiyta 'et-havadiym 'atsey shitiym vetsifiyta 'otam zahav venisa'-vam 'et-hashulehan.",
     "translation": "E farás as vergas de madeira de setim, e as cobrirás com ouro, e por elas levarão a arca da aliança."
   },
   {
     "verse": 29,
     "original": "וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם׃",
+    "transliteration": "ve'asiyta ke'arotayv vekhafotayv vkesvotayv vmenakiyotayv 'asher yusakhe vahen zahav tahvor ta'aseh 'otam.",
     "translation": "E farás suas taças e seus pratos, e suas colheres, e seus jarros para derramar as libações; em ouro puro os farás."
   },
   {
     "verse": 30,
     "original": "וְנָתַתָּ֧ עַֽל־הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "venatata 'al-hashulehan lehem faniym lefanay tamiyd.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E porás sobre a mesa o pão da face perante mim continuamente."
   },
   {
     "verse": 31,
     "original": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה)</i> הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃",
+    "transliteration": "ve'asiyta menorat zahav tahvor mikeshah te'aseh<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(vsfry sfrd v'skhnz tey'aseh)</i> hamenvorah yerekhah vekanah geviy'eyha khafetoreyha vferaheyha mimenah yiheyv.",
     "translation": "E farás a lâmpada de ouro puro; a lâmpada será feita de uma peça, o seu abajur e o seu corrimão, os seus copos, os seus botões e as suas flores serão da mesma peça."
   },
   {
     "verse": 32,
     "original": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה&thinsp;<b>׀</b> קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+    "transliteration": "veshishah kaniym yotse'iym mitsideyha sheloshah&thinsp;<b>|</b> keney menorah mitsidah ha'ehad vsheloshah keney menorah mitsidah hasheniy.",
     "translation": "E seis canais saem de seus lados, três talos do candelabro do seu primeiro lado, e três talos do candelabro do seu segundo lado."
   },
   {
     "verse": 33,
     "original": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+    "transliteration": "sheloshah gevi'iym meshukadiym vakaneh ha'ehad khafetor vaferah vsheloshah gevi'iym meshukadiym vakaneh ha'ehad khafetor vafarah khen lesheshet hakaniym hayotse'iym min-hamenorah.",
     "translation": "Três cálices esculpidos com padrões de botão e flor em cada um dos seis tubos que saíam da menorá; três cálices esculpidos com padrões de botão e flor."
   },
   {
     "verse": 34,
     "original": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+    "transliteration": "vvamenorah 'areva'ah gevi'iym meshukadiym khafetoreyha vferaheyha.",
     "translation": "E na menora havia quatro copos, talhados em forma de cálice, com seus ornamentos e pétalas."
   },
   {
     "verse": 35,
     "original": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+    "transliteration": "vekhafetor tahat sheney hakaniym mimenah vekhafetor tahat sheney hakaniym mimenah vekhafetor tahat-sheney hakaniym mimenah lesheshet hakaniym hayotse'iym min-hamenorah.",
     "translation": "E havia um botão debaixo de cada um dos dois braços que saíam dela, e um botão debaixo dos outros dois braços que saíam dela, e um botão debaixo dos últimos dois braços que saíam dela; seis braços saíam dessa menora."
   },
   {
     "verse": 36,
     "original": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+    "transliteration": "khafetoreyhem vkenotam mimenah yiheyv khulah mikeshah 'ahat zahav tahvor.",
     "translation": "Suas asas e suas alças dela serão toda uma obra de ouro puro."
   },
   {
     "verse": 37,
     "original": "וְעָשִׂ֥יתָ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וְהֶֽעֱלָה֙ אֶת־נֵ֣רֹתֶ֔יהָ וְהֵאִ֖יר עַל־עֵ֥בֶר פָּנֶֽיהָ׃",
+    "transliteration": "ve'asiyta 'et-neroteyha shive'ah vehe'elah 'et-neroteyha vehe'iyr 'al-'ever faneyha.",
     "translation": "E farás sete lampiões, e os suslevarás, de modo que iluminem diante da sua face."
   },
   {
     "verse": 38,
     "original": "וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
+    "transliteration": "vmalekaheyha vmahetoteyha zahav tahvor.",
     "translation": "E suas taças e seus incensários eram de ouro puro."
   },
   {
     "verse": 39,
     "original": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר יַעֲשֶׂ֣ה אֹתָ֑הּ אֵ֥ת כׇּל־הַכֵּלִ֖ים הָאֵֽלֶּה׃",
+    "transliteration": "khikhar zahav tahvor ya'aseh 'otah 'et khol-hakheliym ha'eleh.",
     "translation": "Ele fará isso com um círculo de ouro puro, com todos esses utensílios."
   },
   {
     "verse": 40,
     "original": "וּרְאֵ֖ה וַעֲשֵׂ֑ה בְּתַ֨בְנִיתָ֔ם אֲשֶׁר־אַתָּ֥ה מׇרְאֶ֖ה בָּהָֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vre'eh va'aseh vetaveniytam 'asher-'atah more'eh vahar.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E vê e faze conforme o modelo que te é mostrado no monte."
   }
 ]

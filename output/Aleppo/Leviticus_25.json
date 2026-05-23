@@ -2,276 +2,331 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh vehar siynay le'mor.",
     "translation": "E o Senhor falou a Moisés no monte Sinai, dizendo:"
   },
   {
     "verse": 2,
     "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּ֤י תָבֹ֙אוּ֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן לָכֶ֑ם וְשָׁבְתָ֣ה הָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָֽה׃",
+    "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem khiy tavo'v 'el-ha'arets 'asher 'aniy noten lakhem veshavetah ha'arets shavat layhovah.",
     "translation": "Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra que vos dou, a terra descansará ao Senhor."
   },
   {
     "verse": 3,
     "original": "שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְמֹ֣ר כַּרְמֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+    "transliteration": "shesh shaniym tizera' sadekha veshesh shaniym tizemor kharemekha ve'asafeta 'et-tevv'atah.",
     "translation": "Seis anos semearás o teu campo e seis anos podarás a tua vinha, e recolherás o seu fruto."
   },
   {
     "verse": 4,
     "original": "וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָ֑ה שָֽׂדְךָ֙ לֹ֣א תִזְרָ֔ע וְכַרְמְךָ֖ לֹ֥א תִזְמֹֽר׃",
+    "transliteration": "vvashanah hasheviy'it shavat shavatvon yiheyeh la'arets shavat layhovah sadekha lo' tizera' vekharemekha lo' tizemor.",
     "translation": "E no sétimo ano será um descanso dos descansos para a terra, descanso ao Senhor; não semearás tua vinha e não podarás teu olival."
   },
   {
     "verse": 5,
     "original": "אֵ֣ת סְפִ֤יחַ קְצִֽירְךָ֙ לֹ֣א תִקְצ֔וֹר וְאֶת־עִנְּבֵ֥י נְזִירֶ֖ךָ לֹ֣א תִבְצֹ֑ר שְׁנַ֥ת שַׁבָּת֖וֹן יִהְיֶ֥ה לָאָֽרֶץ׃",
+    "transliteration": "'et sefiyha ketsiyrekha lo' tiketsvor ve'et-'inevey neziyrekha lo' tivetsor shenat shavatvon yiheyeh la'arets.",
     "translation": "Não ceifará o que sobe do teu corte, nem colherás os grãos deixados na tua vindima; será um ano de descanso sagrado para a terra."
   },
   {
     "verse": 6,
     "original": "וְ֠הָיְתָ֠ה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאׇכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתוֹשָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃",
+    "transliteration": "vehayetah shavat ha'arets lakhem le'okhelah lekha vle'avedekha vela'amatekha velisekhiyrekha vletvoshavekha hagariym 'imakhe.",
     "translation": "Será que a terra vos servirá para comer, a ti e ao teu servo, e à tua serva, e ao teu trabalhador contratado e ao estrangeiro que habita contigo."
   },
   {
     "verse": 7,
     "original": "וְלִ֨בְהֶמְתְּךָ֔ וְלַֽחַיָּ֖ה אֲשֶׁ֣ר בְּאַרְצֶ֑ךָ תִּהְיֶ֥ה כׇל־תְּבוּאָתָ֖הּ לֶאֱכֹֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "velivehemetekha velahayah 'asher ve'aretsekha tiheyeh khol-tevv'atah le'ekhol.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E para a tua geração de animais, e para as feras que estão na tua terra, toda a sua colheita será para comer.\n\nDetecção de necessidade de correção:\n\nE para os teus animais, e para as feras que estão na tua terra, toda a sua colheita será para comer."
   },
   {
     "verse": 8,
     "original": "וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃",
+    "transliteration": "vesafareta lekha sheva' shavetot shaniym sheva' shaniym sheva' fe'amiym vehayv lekha yemey sheva' shavetot hashaniym tesha' ve'areva'iym shanah.",
     "translation": "E contarás sete sábados de anos, sete anos sete vezes; e serão para ti os dias dos setenta sábados de anos, quarenta e nove anos."
   },
   {
     "verse": 9,
     "original": "וְהַֽעֲבַרְתָּ֞ שׁוֹפַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשׂ֖וֹר לַחֹ֑דֶשׁ בְּיוֹם֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שׁוֹפָ֖ר בְּכׇל־אַרְצְכֶֽם׃",
+    "transliteration": "veha'avareta shvofar terv'ah vahodesh hashevi'iy ve'asvor lahodesh veyvom hakhifuriym ta'aviyrv shvofar vekhol-'aretsekhem.",
     "translation": "E fareis soar o shofar de arroio no mês sétimo, no dia dez do mês, no Dia da Expiação, fazei soar o shofar em toda a vossa terra."
   },
   {
     "verse": 10,
     "original": "וְקִדַּשְׁתֶּ֗ם אֵ֣ת שְׁנַ֤ת הַחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם דְּר֛וֹר בָּאָ֖רֶץ לְכׇל־יֹשְׁבֶ֑יהָ יוֹבֵ֥ל הִוא֙ תִּהְיֶ֣ה לָכֶ֔ם וְשַׁבְתֶּ֗ם אִ֚ישׁ אֶל־אֲחֻזָּת֔וֹ וְאִ֥ישׁ אֶל־מִשְׁפַּחְתּ֖וֹ תָּשֻֽׁבוּ׃",
+    "transliteration": "vekidashetem 'et shenat hahamishiym shanah vkera'tem dervor va'arets lekhol-yosheveyha yvovel hiv' tiheyeh lakhem veshavetem 'iysh 'el-'ahuzatvo ve'iysh 'el-mishefahetvo tashuvv.",
     "translation": "E santificareis o ano do cinquentenário, e proclamareis liberdade na terra para todos os seus habitantes; será um jubileu para vós, e cada homem voltará à sua possessão, e cada um retornará à sua família."
   },
   {
     "verse": 11,
     "original": "יוֹבֵ֣ל הִ֗וא שְׁנַ֛ת הַחֲמִשִּׁ֥ים שָׁנָ֖ה תִּהְיֶ֣ה לָכֶ֑ם לֹ֣א תִזְרָ֔עוּ וְלֹ֤א תִקְצְרוּ֙ אֶת־סְפִיחֶ֔יהָ וְלֹ֥א תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃",
+    "transliteration": "yvovel hiv' shenat hahamishiym shanah tiheyeh lakhem lo' tizera'v velo' tiketserv 'et-sefiyheyha velo' tivetserv 'et-nezireyha.",
     "translation": "É o Jubileu, o ano da quinquagésima safra vos será; não semeareis nem seguireis os que cresceram espontaneamente, e nem colhereis aquilo que se sobressai."
   },
   {
     "verse": 12,
     "original": "כִּ֚י יוֹבֵ֣ל הִ֔וא קֹ֖דֶשׁ תִּהְיֶ֣ה לָכֶ֑ם מִ֨ן־הַשָּׂדֶ֔ה תֹּאכְל֖וּ אֶת־תְּבוּאָתָֽהּ׃",
+    "transliteration": "khiy yvovel hiv' kodesh tiheyeh lakhem min-hasadeh to'khelv 'et-tevv'atah.",
     "translation": "Pois é jubileu, santo será para vós; do campo comer-eis sua colheita."
   },
   {
     "verse": 13,
     "original": "בִּשְׁנַ֥ת הַיּוֹבֵ֖ל הַזֹּ֑את תָּשֻׁ֕בוּ אִ֖ישׁ אֶל־אֲחֻזָּתֽוֹ׃",
+    "transliteration": "vishenat hayvovel hazo't tashuvv 'iysh 'el-'ahuzatvo.",
     "translation": "Neste ano do jubileu, cada um voltará para sua possessão."
   },
   {
     "verse": 14,
     "original": "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣ד עֲמִיתֶ֑ךָ אַל־תּוֹנ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃",
+    "transliteration": "vekhiy-timekherv mimekhar la'amiytekha 'vo kanoh miyad 'amiytekha 'al-tvonv 'iysh 'et-'ahiyv.",
     "translation": "E quando venderdes alguma coisa ao vosso irmão, ou comprardes de mão do vosso irmão, não oprimeis o outro; porque sois filhos do mesmo pai."
   },
   {
     "verse": 15,
     "original": "בְּמִסְפַּ֤ר שָׁנִים֙ אַחַ֣ר הַיּוֹבֵ֔ל תִּקְנֶ֖ה מֵאֵ֣ת עֲמִיתֶ֑ךָ בְּמִסְפַּ֥ר שְׁנֵֽי־תְבוּאֹ֖ת יִמְכׇּר־לָֽךְ׃",
+    "transliteration": "vemisefar shaniym 'ahar hayvovel tikeneh me'et 'amiytekha vemisefar sheney-tevv'ot yimekhor-lakhe.",
     "translation": "No número de anos após o jubileu, adquirirás de teu próximo; no número dos anos da produção ele te venderá."
   },
   {
     "verse": 16,
     "original": "לְפִ֣י&thinsp;<b>׀</b> רֹ֣ב הַשָּׁנִ֗ים תַּרְבֶּה֙ מִקְנָת֔וֹ וּלְפִי֙ מְעֹ֣ט הַשָּׁנִ֔ים תַּמְעִ֖יט מִקְנָת֑וֹ כִּ֚י מִסְפַּ֣ר תְּבוּאֹ֔ת ה֥וּא מֹכֵ֖ר לָֽךְ׃",
+    "transliteration": "lefiy&thinsp;<b>|</b> rov hashaniym tareveh mikenatvo vlefiy me'ot hashaniym tame'iyt mikenatvo khiy misefar tevv'ot hv' mokher lakhe.",
     "translation": "Segundo a abundância dos anos, ele aumentará seu rebanho; e segundo a escassez dos anos, ele diminuirá seu rebanho; pois pelo número das colheitas é que te venderá."
   },
   {
     "verse": 17,
     "original": "וְלֹ֤א תוֹנוּ֙ אִ֣ישׁ אֶת־עֲמִית֔וֹ וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "velo' tvonv 'iysh 'et-'amiytvo veyare'ta me'eloheykha khiy 'aniy yehovah 'eloheykhem.",
     "translation": "E não oprimireis o vosso próximo, e temereis ao vosso Deus; pois eu sou o Senhor vosso Deus."
   },
   {
     "verse": 18,
     "original": "וַעֲשִׂיתֶם֙ אֶת־חֻקֹּתַ֔י וְאֶת־מִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶ֣ם אֹתָ֑ם וִֽישַׁבְתֶּ֥ם עַל־הָאָ֖רֶץ לָבֶֽטַח׃",
+    "transliteration": "va'asiytem 'et-hukotay ve'et-mishefatay tishemerv va'asiytem 'otam viyshavetem 'al-ha'arets lavetah.",
     "translation": "E fareis os meus estatutos e guardareis as minhas ordenanças, e as cumprireis; e habitareis na terra em segurança."
   },
   {
     "verse": 19,
     "original": "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח עָלֶֽיהָ׃",
+    "transliteration": "venatenah ha'arets fireyah va'akhaletem lasova' viyshavetem lavetah 'aleyha.",
     "translation": "E a terra dará o seu fruto, e comereis até saciar-vos e habitareis em segurança sobre ela."
   },
   {
     "verse": 20,
     "original": "וְכִ֣י תֹאמְר֔וּ מַה־נֹּאכַ֖ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת הֵ֚ן לֹ֣א נִזְרָ֔ע וְלֹ֥א נֶאֱסֹ֖ף אֶת־תְּבוּאָתֵֽנוּ׃",
+    "transliteration": "vekhiy to'merv mah-no'khal vashanah hasheviy'it hen lo' nizera' velo' ne'esof 'et-tevv'atenv.",
     "translation": "E quando disserdes: O que comeremos no sétimo ano, pois não semaremos nem colheremos a nossa ceifa?"
   },
   {
     "verse": 21,
     "original": "וְצִוִּ֤יתִי אֶת־בִּרְכָתִי֙ לָכֶ֔ם בַּשָּׁנָ֖ה הַשִּׁשִּׁ֑ית וְעָשָׂת֙ אֶת־הַתְּבוּאָ֔ה לִשְׁלֹ֖שׁ הַשָּׁנִֽים׃",
+    "transliteration": "vetsiviytiy 'et-virekhatiy lakhem vashanah hashishiyt ve'asat 'et-hatevv'ah lishelosh hashaniym.",
     "translation": "E ordenarei a minha bênção sobre vós no sexto ano, e fará a colheita para três anos."
   },
   {
     "verse": 22,
     "original": "וּזְרַעְתֶּ֗ם אֵ֚ת הַשָּׁנָ֣ה הַשְּׁמִינִ֔ת וַאֲכַלְתֶּ֖ם מִן־הַתְּבוּאָ֣ה יָשָׁ֑ן עַ֣ד&thinsp;<b>׀</b> הַשָּׁנָ֣ה הַתְּשִׁיעִ֗ת עַד־בּוֹא֙ תְּב֣וּאָתָ֔הּ תֹּאכְל֖וּ יָשָֽׁן׃",
+    "transliteration": "vzera'etem 'et hashanah hashemiynit va'akhaletem min-hatevv'ah yashan 'ad&thinsp;<b>|</b> hashanah hateshiy'it 'ad-vvo' tevv'atah to'khelv yashan.",
     "translation": "E semeareis na oitava safra, e comereis do fruto antigo, até que venha a nova safra no nono ano; comereis do antigo."
   },
   {
     "verse": 23,
     "original": "וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי־לִ֖י הָאָ֑רֶץ כִּֽי־גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽי׃",
+    "transliteration": "veha'arets lo' timakher litsemitut khiy-liy ha'arets khiy-geriym vetvoshaviym 'atem 'imadiy.",
     "translation": "E a terra não se venderá para sempre, pois minha é a terra; vocês são estrangeiros e moradores temporários junto a mim."
   },
   {
     "verse": 24,
     "original": "וּבְכֹ֖ל אֶ֣רֶץ אֲחֻזַּתְכֶ֑ם גְּאֻלָּ֖ה תִּתְּנ֥וּ לָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vvekhol 'erets 'ahuzatekhem ge'ulah titenv la'arets.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E em toda a terra da vossa possessão, remissão dareis à terra."
   },
   {
     "verse": 25,
     "original": "כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃",
+    "transliteration": "khiy-yamvkhe 'ahiykha vmakhar me'ahuzatvo vva' go'alvo hakarov 'elayv vega'al 'et mimekhar 'ahiyv.",
     "translation": "Porque teu irmão se pobreou e vendeu da sua possessão, e vier seu próximo redentor, aquele que tem direito de redimir, e resgatará a venda do seu irmão."
   },
   {
     "verse": 26,
     "original": "וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־לּ֖וֹ גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָד֔וֹ וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֽוֹ׃",
+    "transliteration": "ve'iysh khiy lo' yiheyeh-lvo go'el vehisiygah yadvo vmatsa' khedey ge'ulatvo.",
     "translation": "E todo homem que não tiver redentor, e sua mão alcançar e achar com que resgatar-se:\n\nEste texto já está correto conforme os critérios estabelecidos. No entanto, para melhor adequação ao rigor acadêmico solicitado, sugere-se uma ligeira modificação para maior solenidade e fidelidade contextual:\n\nE todo homem que não tiver redentor, e sua mão alcançar e achar com que resgatar-se:"
   },
   {
     "verse": 27,
     "original": "וְחִשַּׁב֙ אֶת־שְׁנֵ֣י מִמְכָּר֔וֹ וְהֵשִׁיב֙ אֶת־הָ֣עֹדֵ֔ף לָאִ֖ישׁ אֲשֶׁ֣ר מָֽכַר־ל֑וֹ וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃",
+    "transliteration": "vehishav 'et-sheney mimekharvo veheshiyv 'et-ha'odef la'iysh 'asher makhar-lvo veshav la'ahuzatvo.",
     "translation": "E calculará os anos de sua venda, e restituirá o excedente ao homem a quem vendeu, e voltará para a sua possessão."
   },
   {
     "verse": 28,
     "original": "וְאִ֨ם לֹֽא־מָצְאָ֜ה יָד֗וֹ דֵּי֮ הָשִׁ֣יב לוֹ֒ וְהָיָ֣ה מִמְכָּר֗וֹ בְּיַד֙ הַקֹּנֶ֣ה אֹת֔וֹ עַ֖ד שְׁנַ֣ת הַיּוֹבֵ֑ל וְיָצָא֙ בַּיֹּבֵ֔ל וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'im lo'-matse'ah yadvo dey hashiyv lvo vehayah mimekharvo veyad hakoneh 'otvo 'ad shenat hayvovel veyatsa' vayovel veshav la'ahuzatvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E se não for bastante a sua mão para restituí-lo, será vendido na posse do comprador até ao ano da jubileu, e sairá na jubileu, e voltará à sua possessão."
   },
   {
     "verse": 29,
     "original": "וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃",
+    "transliteration": "ve'iysh khiy-yimekhor veyt-mvoshav 'iyr hvomah vehayetah ge'ulatvo 'ad-tom shenat mimekharvo yamiym tiheyeh ge'ulatvo.",
     "translation": "E se um homem vender a casa da sua aldeia amuralhada, então haverá redenção dela até ao fim do ano de sua venda; será tempo para sua redenção."
   },
   {
     "verse": 30,
     "original": "וְאִ֣ם לֹֽא־יִגָּאֵ֗ל עַד־מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָ֠ם הַבַּ֨יִת אֲשֶׁר־בָּעִ֜יר אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ל֣וֹ]</span> <span class=\"mam-kq-k\">(לא)</span></span> חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל׃",
+    "transliteration": "ve'im lo'-yiga'el 'ad-melo't lvo shanah temiymah vekam havayit 'asher-va'iyr 'asher-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[lvo]</span> <span class=\"mam-kq-k\">(l')</span></span> homah latsemiytut lakoneh 'otvo ledorotayv lo' yetse' vayovel.",
     "translation": "E se não tiver redentor até a conclusão de um ano integral, então se levantará a casa que estiver na cidade cercada por muro para permanecer eternamente com o comprador, e não sairá no Jubileu."
   },
   {
     "verse": 31,
     "original": "וּבָתֵּ֣י הַחֲצֵרִ֗ים אֲשֶׁ֨ר אֵין־לָהֶ֤ם חֹמָה֙ סָבִ֔יב עַל־שְׂדֵ֥ה הָאָ֖רֶץ יֵחָשֵׁ֑ב גְּאֻלָּה֙ תִּהְיֶה־לּ֔וֹ וּבַיֹּבֵ֖ל יֵצֵֽא׃",
+    "transliteration": "vvatey hahatseriym 'asher 'eyn-lahem homah saviyv 'al-sedeh ha'arets yehashev ge'ulah tiheyeh-lvo vvayovel yetse'.",
     "translation": "E as casas dos pátios que não têm muro ao redor, no campo da terra, serão computadas; a sua redenção lhe pertencerá, e na jubileu sairá.\n\nCorreção:\nE as casas dos pátios que não têm muro ao redor, no campo da terra, serão computadas; a sua redenção lhe pertencerá, e na Jubileu será libertado."
   },
   {
     "verse": 32,
     "original": "וְעָרֵי֙ הַלְוִיִּ֔ם בָּתֵּ֖י עָרֵ֣י אֲחֻזָּתָ֑ם גְּאֻלַּ֥ת עוֹלָ֖ם תִּהְיֶ֥ה לַלְוִיִּֽם׃",
+    "transliteration": "ve'arey haleviyim vatey 'arey 'ahuzatam ge'ulat 'volam tiheyeh laleviyim.",
     "translation": "E as cidades dos levitas, as casas nas cidades de sua possessão, serão redenção eterna para os levitas."
   },
   {
     "verse": 33,
     "original": "וַאֲשֶׁ֤ר יִגְאַל֙ מִן־הַלְוִיִּ֔ם וְיָצָ֧א מִמְכַּר־בַּ֛יִת וְעִ֥יר אֲחֻזָּת֖וֹ בַּיֹּבֵ֑ל כִּ֣י בָתֵּ֞י עָרֵ֣י הַלְוִיִּ֗ם הִ֚וא אֲחֻזָּתָ֔ם בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "va'asher yige'al min-haleviyim veyatsa' mimekhar-vayit ve'iyr 'ahuzatvo vayovel khiy vatey 'arey haleviyim hiv' 'ahuzatam vetvokhe veney yisera'el.",
     "translation": "E aquele que resgatar dos levitas, sairá da venda de sua casa e da cidade de sua possessão no Jubileu; pois as casas das cidades dos levitas são a sua possessão entre os filhos de Israel."
   },
   {
     "verse": 34,
     "original": "וּֽשְׂדֵ֛ה מִגְרַ֥שׁ עָרֵיהֶ֖ם לֹ֣א יִמָּכֵ֑ר כִּֽי־אֲחֻזַּ֥ת עוֹלָ֛ם ה֖וּא לָהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vsedeh migerash 'areyhem lo' yimakher khiy-'ahuzat 'volam hv' lahem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o campo do território de suas cidades não venderão, pois é possessão eterna para eles."
   },
   {
     "verse": 35,
     "original": "וְכִֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃",
+    "transliteration": "vekhiy-yamvkhe 'ahiykha vmatah yadvo 'imakhe vehehezaketa vvo ger vetvoshav vahay 'imakhe.",
     "translation": "E quando teu irmão for pobre e sua mão declinar junto a ti, estende-lhe ajuda, e ele viverá contigo como estrangeiro e habitante."
   },
   {
     "verse": 36,
     "original": "אַל־תִּקַּ֤ח מֵֽאִתּוֹ֙ נֶ֣שֶׁךְ וְתַרְבִּ֔ית וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ וְחֵ֥י אָחִ֖יךָ עִמָּֽךְ׃",
+    "transliteration": "'al-tikah me'itvo neshekhe vetareviyt veyare'ta me'eloheykha vehey 'ahiykha 'imakhe.",
     "translation": "Não lhe tomarás usura e aumento; e temerás ao teu Deus, e o teu irmão viverá contigo."
   },
   {
     "verse": 37,
     "original": "אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־תִתֵּ֥ן ל֖וֹ בְּנֶ֑שֶׁךְ וּבְמַרְבִּ֖ית לֹא־תִתֵּ֥ן אׇכְלֶֽךָ׃",
+    "transliteration": "'et-khasefekha lo'-titen lvo veneshekhe vvemareviyt lo'-titen 'okhelekha.",
     "translation": "Teu dinheiro não darás a ele com juros, e teu mantimento não darás com aumento."
   },
   {
     "verse": 38,
     "original": "אֲנִ֗י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֤ת לָכֶם֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'aniy yehovah 'eloheykhem 'asher-hvotse'tiy 'etekhem me'erets mitserayim latet lakhem 'et-'erets khena'an liheyvot lakhem le'lohiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eu sou o Senhor, vosso Deus, que vos tirou da terra do Egito para dar-vos a terra dos Cananeus e ser vosso Deus."
   },
   {
     "verse": 39,
     "original": "וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃",
+    "transliteration": "vekhiy-yamvkhe 'ahiykha 'imakhe venimekhar-lakhe lo'-ta'avod vvo 'avodat 'aved.",
     "translation": "E quando teu irmão for pobre e vender-se a ti, não o servirás como servo;"
   },
   {
     "verse": 40,
     "original": "כְּשָׂכִ֥יר כְּתוֹשָׁ֖ב יִהְיֶ֣ה עִמָּ֑ךְ עַד־שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃",
+    "transliteration": "khesakhiyr khetvoshav yiheyeh 'imakhe 'ad-shenat hayovel ya'avod 'imakhe.",
     "translation": "Como um mercenário, por escrito, ele será contigo; até o ano do jubileu servirá contigo."
   },
   {
     "verse": 41,
     "original": "וְיָצָא֙ מֵֽעִמָּ֔ךְ ה֖וּא וּבָנָ֣יו עִמּ֑וֹ וְשָׁב֙ אֶל־מִשְׁפַּחְתּ֔וֹ וְאֶל־אֲחֻזַּ֥ת אֲבֹתָ֖יו יָשֽׁוּב׃",
+    "transliteration": "veyatsa' me'imakhe hv' vvanayv 'imvo veshav 'el-mishefahetvo ve'el-'ahuzat 'avotayv yashvv.",
     "translation": "E sairá de ti, ele e seus filhos com ele, e voltará à sua família, e à possessão dos seus antepassados regressará."
   },
   {
     "verse": 42,
     "original": "כִּֽי־עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד׃",
+    "transliteration": "khiy-'avaday hem 'asher-hvotse'tiy 'otam me'erets mitserayim lo' yimakherv mimekheret 'aved.",
     "translation": "Pois servos são eles, que eu os tirei da terra do Egito; não serão vendidos como a venda de escravo."
   },
   {
     "verse": 43,
     "original": "לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָ֑רֶךְ וְיָרֵ֖אתָ מֵאֱלֹהֶֽיךָ׃",
+    "transliteration": "lo'-tiredeh vvo vefarekhe veyare'ta me'eloheykha.",
     "translation": "Não o afligirás com dureza, e temerás ao teu Deus."
   },
   {
     "verse": 44,
     "original": "וְעַבְדְּךָ֥ וַאֲמָתְךָ֖ אֲשֶׁ֣ר יִהְיוּ־לָ֑ךְ מֵאֵ֣ת הַגּוֹיִ֗ם אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם מֵהֶ֥ם תִּקְנ֖וּ עֶ֥בֶד וְאָמָֽה׃",
+    "transliteration": "ve'avedekha va'amatekha 'asher yiheyv-lakhe me'et hagvoyim 'asher seviyvoteykhem mehem tikenv 'eved ve'amah.",
     "translation": "E o servo e a serva que vierem a ser vossos, do meio das nações que vos cercam, desses comprareis servo e serva."
   },
   {
     "verse": 45,
     "original": "וְ֠גַ֠ם מִבְּנֵ֨י הַתּוֹשָׁבִ֜ים הַגָּרִ֤ים עִמָּכֶם֙ מֵהֶ֣ם תִּקְנ֔וּ וּמִמִּשְׁפַּחְתָּם֙ אֲשֶׁ֣ר עִמָּכֶ֔ם אֲשֶׁ֥ר הוֹלִ֖ידוּ בְּאַרְצְכֶ֑ם וְהָי֥וּ לָכֶ֖ם לַֽאֲחֻזָּֽה׃",
+    "transliteration": "vegam miveney hatvoshaviym hagariym 'imakhem mehem tikenv vmimishefahetam 'asher 'imakhem 'asher hvoliydv ve'aretsekhem vehayv lakhem la'ahuzah.",
     "translation": "E também dos filhos dos estrangeiros que habitam convosco, deles comprareis, e da família deles que está convosco, os quais nasceram no vosso país; e serão vossos para sempre."
   },
   {
     "verse": 46,
     "original": "וְהִתְנַחַלְתֶּ֨ם אֹתָ֜ם לִבְנֵיכֶ֤ם אַחֲרֵיכֶם֙ לָרֶ֣שֶׁת אֲחֻזָּ֔ה לְעֹלָ֖ם בָּהֶ֣ם תַּעֲבֹ֑דוּ וּבְאַ֨חֵיכֶ֤ם בְּנֵֽי־יִשְׂרָאֵל֙ אִ֣ישׁ בְּאָחִ֔יו לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָֽרֶךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehitenahaletem 'otam liveneykhem 'ahareykhem lareshet 'ahuzah le'olam vahem ta'avodv vve'aheykhem veney-yisera'el 'iysh ve'ahiyv lo'-tiredeh vvo vefarekhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os herdareis para vossos filhos depois de vós como possessão perpétua; entre eles servireis, e ao vosso irmão, filho de Israel, não o oprimireis com dureza."
   },
   {
     "verse": 47,
     "original": "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃",
+    "transliteration": "vekhiy tasiyg yad ger vetvoshav 'imakhe vmakhe 'ahiykha 'imvo venimekhar leger tvoshav 'imakhe 'vo le'eker mishefahat ger.",
     "translation": "E quando a mão de um estrangeiro ou residente entre vós se estender, e teu irmão se lhe vender, ele será vendido ao residente entre vós, ou ao que for da família do estrangeiro."
   },
   {
     "verse": 48,
     "original": "אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה־לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ׃",
+    "transliteration": "'aharey nimekhar ge'ulah tiheyeh-lvo 'ehad me'ehayv yige'alenv.",
     "translation": "Depois de vendido, haverá redenção para ele; um de seus irmãos o resgatará."
   },
   {
     "verse": 49,
     "original": "אוֹ־דֹד֞וֹ א֤וֹ בֶן־דֹּדוֹ֙ יִגְאָלֶ֔נּוּ אֽוֹ־מִשְּׁאֵ֧ר בְּשָׂר֛וֹ מִמִּשְׁפַּחְתּ֖וֹ יִגְאָלֶ֑נּוּ אֽוֹ־הִשִּׂ֥יגָה יָד֖וֹ וְנִגְאָֽל׃",
+    "transliteration": "'vo-dodvo 'vo ven-dodvo yige'alenv 'vo-mishe'er vesarvo mimishefahetvo yige'alenv 'vo-hisiygah yadvo venige'al.",
     "translation": "Ou seu tio, ou o filho de seu tio, o redimira; ou da sobrevivência de sua carne, de sua família, o resgataria; ou quando estendeu a mão, seria redimido."
   },
   {
     "verse": 50,
     "original": "וְחִשַּׁב֙ עִם־קֹנֵ֔הוּ מִשְּׁנַת֙ הִמָּ֣כְרוֹ ל֔וֹ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְהָיָ֞ה כֶּ֤סֶף מִמְכָּרוֹ֙ בְּמִסְפַּ֣ר שָׁנִ֔ים כִּימֵ֥י שָׂכִ֖יר יִהְיֶ֥ה עִמּֽוֹ׃",
+    "transliteration": "vehishav 'im-konehv mishenat himakhervo lvo 'ad shenat hayovel vehayah khesef mimekharvo vemisefar shaniym khiymey sakhiyr yiheyeh 'imvo.",
     "translation": "E calculará com seu comprador, do ano em que foi vendido até ao ano da jubileu; e será o dinheiro de sua venda conforme o número de anos, como os dias de um mercenário estará com ele."
   },
   {
     "verse": 51,
     "original": "אִם־ע֥וֹד רַבּ֖וֹת בַּשָּׁנִ֑ים לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּת֔וֹ מִכֶּ֖סֶף מִקְנָתֽוֹ׃",
+    "transliteration": "'im-'vod ravvot vashaniym lefiyhen yashiyv ge'ulatvo mikhesef mikenatvo.",
     "translation": "Se ainda há muitos anos para esperar, por elas restaurará sua redenção, pagando prata pelo resgate."
   },
   {
     "verse": 52,
     "original": "וְאִם־מְעַ֞ט נִשְׁאַ֧ר בַּשָּׁנִ֛ים עַד־שְׁנַ֥ת הַיֹּבֵ֖ל וְחִשַּׁב־ל֑וֹ כְּפִ֣י שָׁנָ֔יו יָשִׁ֖יב אֶת־גְּאֻלָּתֽוֹ׃",
+    "transliteration": "ve'im-me'at nishe'ar vashaniym 'ad-shenat hayovel vehishav-lvo khefiy shanayv yashiyv 'et-ge'ulatvo.",
     "translation": "E se for pouco o tempo restante até ao ano da jubileu, contará os anos correspondentes e devolverá a sua redenção."
   },
   {
     "verse": 53,
     "original": "כִּשְׂכִ֥יר שָׁנָ֛ה בְּשָׁנָ֖ה יִהְיֶ֣ה עִמּ֑וֹ לֹֽא־יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ לְעֵינֶֽיךָ׃",
+    "transliteration": "khisekhiyr shanah veshanah yiheyeh 'imvo lo'-yiredenv veferekhe le'eyneykha.",
     "translation": "Como um trabalhador assalariado, ano após ano estará com ele; não o tratarás com rigor diante dos teus olhos."
   },
   {
     "verse": 54,
     "original": "וְאִם־לֹ֥א יִגָּאֵ֖ל בְּאֵ֑לֶּה וְיָצָא֙ בִּשְׁנַ֣ת הַיֹּבֵ֔ל ה֖וּא וּבָנָ֥יו עִמּֽוֹ׃",
+    "transliteration": "ve'im-lo' yiga'el ve'eleh veyatsa' vishenat hayovel hv' vvanayv 'imvo.",
     "translation": "E se não tiver redimidor com estes, sairá no jubileu, ele e seus filhos com ele."
   },
   {
     "verse": 55,
     "original": "כִּֽי־לִ֤י בְנֵֽי־יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "khiy-liy veney-yisera'el 'avadiym 'avaday hem 'asher-hvotse'tiy 'votam me'erets mitserayim 'aniy yehovah 'eloheykhem.",
     "translation": "Pois os filhos de Israel são meus servos, meus servos eles são, a quem eu tirei da terra do Egito; Eu sou o Senhor vosso Deus."
   }
 ]

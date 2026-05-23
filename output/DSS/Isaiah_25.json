@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "יהוה אלוהי אתה ארוממך אודה שמך כי עשיתה פלא אצית מרחוק אמונה אמן",
+    "transliteration": "yhvh 'lvhy 'th 'rvmmkh 'vdh smkh khy 'syth fl' 'tsyt mrhvk 'mvnh 'mn",
     "translation": "Ó Senhor, meu Deus, tu és exaltado; eu te louvarei, engrandecerei teu nome, porque fizeste maravilhas, acendeste de longe a fé, fiel."
   },
   {
     "verse": 2,
     "original": "כי שמתה מעיר לגל קריה בצורה למפלה ארמון זרים מעיר לעולם לוא יבנה",
+    "transliteration": "khy smth m'yr lgl kryh vtsvrh lmflh 'rmvn zrym m'yr l'vlm lv' yvnh",
     "translation": "Porque tu desferiste à cidade fortificada, reduzindo-a a ruína; transformaste a cidadela em montão de escombros, o palácio estrangeiro que jamais se reconstruirá."
   },
   {
     "verse": 3,
     "original": "עלכן יכבדוך עמ עז קרית גוים עריצים ייראוך",
+    "transliteration": "'lkhn ykhvdvkh 'm 'z kryt gvym 'rytsym yyr'vkh",
     "translation": "Portanto, ele vos glorificará com força; cidade das nações poderosas ter-vos-ão em temor."
   },
   {
     "verse": 4,
     "original": "כי הייתה מעוז לדל מעוז לאביון בצר לו ומחסה מזרם צל מחורב כי רוח עריצים כזרם קיר",
+    "transliteration": "khy hyyth m'vz ldl m'vz l'vyvn vtsr lv vmhsh mzrm tsl mhvrv khy rvh 'rytsym khzrm kyr",
     "translation": "Porque foi refúgio ao pobre, abrigo ao necessitado; um esconderijo de tempestade e sombra de fadiga. Porque a rajada dos violentos é como torrente em seara..."
   },
   {
     "verse": 5,
     "original": "כחורב בציון שאון זרים תכניע חורב בצל עב זמיר עריצים יענה",
+    "transliteration": "khhvrv vtsyvn s'vn zrym tkhny' hvrv vtsl 'v zmyr 'rytsym y'nh",
     "translation": "Como um eco em Sião, fará cessar o ruído dos estrangeiros; como a sombra de uma ave protetora, dissipará a violência dos opressores."
   },
   {
     "verse": 6,
     "original": "ועשה יהוה צבאות לכול העמים בהר הזה משתה שמנים משתה שמרים שמנים ממחים שמרים מזוקקים",
+    "transliteration": "v'sh yhvh tsv'vt lkhvl h'mym vhr hzh msth smnym msth smrym smnym mmhym smrym mzvkkym",
     "translation": "E fará Jehovah dos Exércitos, sobre este monte, para todos os povos, uma ceia de vinhos claros, um banquete de carnes gordas, vinhos puríssimos, esclarecidos."
   },
   {
     "verse": 7,
     "original": "ובלע בהר הזה פנו הלוט הלוט על כול העמים והמסכה הנסוכה",
+    "transliteration": "vvl' vhr hzh fnv hlvt hlvt 'l khvl h'mym vhmskhh hnsvkhh",
     "translation": "E na montanha deste lugar, devorará todo o véu que cobre todos os povos e o lenço com que se cobrem todos os gentios."
   },
   {
     "verse": 8,
     "original": "על כול הגואים בלע המות לנצח ומחה אדוני יהוה דמעה מעל כול פנים וחרפת עמו יסיר מעל כול הארץ כי יהוה דבר",
+    "transliteration": "'l khvl hgv'ym vl' hmvt lntsh vmhh 'dvny yhvh dm'h m'l khvl fnym vhrft 'mv ysyr m'l khvl h'rts khy yhvh dvr",
     "translation": "Sobre todos os povos, devorou a morte para sempre; e o Senhor Deus enxugou as lágrimas de todo rosto e afastará a vergonha do seu povo de sobre toda a terra, pois o Senhor falou."
   },
   {
     "verse": 9,
     "original": "ואמרת ביום ההוא הנה יהוה אלוהינו זה קוינו לו ויושיענו זה יהוה קוינו לו נגילה ונשמח בישועתו כי תנוח יד יהוה",
+    "transliteration": "v'mrt vyvm hhv' hnh yhvh 'lvhynv zh kvynv lv vyvsy'nv zh yhvh kvynv lv ngylh vnsmh vysv'tv khy tnvh yd yhvh",
     "translation": "E dirás no dia aquele: Eis o Senhor, nosso Deus; nele esperamos, e ele nos salvará. Nele esperamos, e exultaremos em sua salvação; pois repousará a mão do Senhor."
   },
   {
     "verse": 10,
     "original": "בהר הזה ונדוש מואב תחתיו כהדוש מתבן במי מדמנה",
+    "transliteration": "vhr hzh vndvs mv'v thtyv khhdvs mtvn vmy mdmnh",
     "translation": "Neste monte será pisado Moabe sob ele como se pisa trigo nas águas de Madmã..."
   },
   {
     "verse": 11,
     "original": "ופרש ידיו בקרבו כאשר יפרוש השוחה לשחות והשפיל גאותו עם ארבות ידיו",
+    "transliteration": "vfrs ydyv vkrvv kh'sr yfrvs hsvhh lshvt vhsfyl g'vtv 'm 'rvvt ydyv",
     "translation": "E espalhou suas mãos no meio dele, como se um nadador espalhasse as águas para nadar, e abaixou sua soberba com as dobras de suas mãos."
   },
   {
     "verse": 12,
     "original": "ומבצר משגב חומותיך השחה השפיל יגיע לארץ עד עפר",
+    "transliteration": "vmvtsr msgv hvmvtykh hshh hsfyl ygy' l'rts 'd 'fr",
     "translation": "e no forte onde te confiavas, destruirão as tuas muralhas; abaterão, descerão até ao pó."
   }
 ]

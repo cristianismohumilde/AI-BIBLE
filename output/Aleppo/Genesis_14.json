@@ -2,121 +2,145 @@
   {
     "verse": 1,
     "original": "וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר כְּדׇרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃",
+    "transliteration": "vayehiy viymey 'amerafel melekhe-shine'ar 'areyvokhe melekhe 'elasar khedorela'omer melekhe 'eylam vetide'al melekhe gvoyim.",
     "translation": "E foi nos dias de Amrafel, rei de Shin'ar, Ariok, rei de Elasar, Qedoraomér, rei de Elam, e Tedal, rei das Nações."
   },
   {
     "verse": 2,
     "original": "עָשׂ֣וּ מִלְחָמָ֗ה אֶת־בֶּ֙רַע֙ מֶ֣לֶךְ סְדֹ֔ם וְאֶת־בִּרְשַׁ֖ע מֶ֣לֶךְ עֲמֹרָ֑ה שִׁנְאָ֣ב&thinsp;<b>׀</b> מֶ֣לֶךְ אַדְמָ֗ה וְשֶׁמְאֵ֙בֶר֙ מֶ֣לֶךְ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(צביים)</span> <span class=\"mam-kq-q\">[צְבוֹיִ֔ם]</span></span> וּמֶ֥לֶךְ בֶּ֖לַע הִיא־צֹֽעַר׃",
+    "transliteration": "'asv milehamah 'et-vera' melekhe sedom ve'et-viresha' melekhe 'amorah shine'av&thinsp;<b>|</b> melekhe 'ademah vesheme'ever melekhe <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tsvyym)</span> <span class=\"mam-kq-q\">[tsevvoyim]</span></span> vmelekhe vela' hiy'-tso'ar.",
     "translation": "Eles fizeram guerra contra Berá, rei de Sodoma, e contra Birsá, rei de Amora, e contra Shinav, rei de Adma, e contra Semeverebe, rei de Seboim, e contra o rei de Bela, que é Zoar."
   },
   {
     "verse": 3,
     "original": "כׇּל־אֵ֙לֶּה֙ חָֽבְר֔וּ אֶל־עֵ֖מֶק הַשִּׂדִּ֑ים ה֖וּא יָ֥ם הַמֶּֽלַח׃",
+    "transliteration": "khol-'eleh haverv 'el-'emek hasidiym hv' yam hamelah.",
     "translation": "Todos estes se uniram no vale dos Siddim, que é o Mar Salgado."
   },
   {
     "verse": 4,
     "original": "שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ אֶת־כְּדׇרְלָעֹ֑מֶר וּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה מָרָֽדוּ׃",
+    "transliteration": "sheteym 'esereh shanah 'avedv 'et-khedorela'omer vshelosh-'esereh shanah maradv.",
     "translation": "Doze anos serviram a Quedarlaomer; na trezeira ano, porém, rebelaram-se."
   },
   {
     "verse": 5,
     "original": "וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדׇרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּכּ֤וּ אֶת־רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת־הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם׃",
+    "transliteration": "vve'areva' 'esereh shanah va' khedorela'omer vehamelakhiym 'asher 'itvo vayakhv 'et-refa'iym ve'asheterot karenayim ve'et-hazvziym veham ve'et ha'eymiym veshaveh kireyatayim.",
     "translation": "E no ano décimo-fourth, veio Quedarlaomer e os reis que estavam com ele, e eles derrotaram os refains em Ashteroth-Carnaim e aos zuzim em Ham e aos emims em Shave-Kiriataim. \n\nNota: A palavra \"décimo-quarto\" foi mantida no formato numérico-hybrid (décimo-fourth) para manter a estrutura da instrução, porém, em uma tradução rigorosa e acadêmica correta, deveria ser \"em o ano décimo-fourth\". O termo \"Shave-Kiriataim\" foi mantido conforme a transcrição direta dos textos originais."
   },
   {
     "verse": 6,
     "original": "וְאֶת־הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר עַ֚ד אֵ֣יל פָּארָ֔ן אֲשֶׁ֖ר עַל־הַמִּדְבָּֽר׃",
+    "transliteration": "ve'et-hahoriy vehareram se'iyr 'ad 'eyl fa'ran 'asher 'al-hamidevar.",
     "translation": "E aos horitas nas montanhas de Seir, até à porta de Farã, que está sobre o deserto."
   },
   {
     "verse": 7,
     "original": "וַ֠יָּשֻׁ֠בוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַיַּכּ֕וּ אֶֽת־כׇּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַיֹּשֵׁ֖ב בְּחַֽצְצֹ֥ן תָּמָֽר׃",
+    "transliteration": "vayashuvv vayavo'v 'el-'eyn mishefat hiv' kadesh vayakhv 'et-khol-sedeh ha'amalekiy vegam 'et-ha'emoriy hayoshev vehatsetson tamar.",
     "translation": "E voltaram e chegaram à fonte da justiça, que é Kadesh, e feriram todo o campo dos amalequitas; também aos amorreus que habitavam em Hazazon-tamar."
   },
   {
     "verse": 8,
     "original": "וַיֵּצֵ֨א מֶֽלֶךְ־סְדֹ֜ם וּמֶ֣לֶךְ עֲמֹרָ֗ה וּמֶ֤לֶךְ אַדְמָה֙ וּמֶ֣לֶךְ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(צביים)</span> <span class=\"mam-kq-q\">[צְבוֹיִ֔ם]</span></span> וּמֶ֥לֶךְ בֶּ֖לַע הִוא־צֹ֑עַר וַיַּֽעַרְכ֤וּ אִתָּם֙ מִלְחָמָ֔ה בְּעֵ֖מֶק הַשִּׂדִּֽים׃",
+    "transliteration": "vayetse' melekhe-sedom vmelekhe 'amorah vmelekhe 'ademah vmelekhe <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tsvyym)</span> <span class=\"mam-kq-q\">[tsevvoyim]</span></span> vmelekhe vela' hiv'-tso'ar vaya'arekhv 'itam milehamah ve'emek hasidiym.",
     "translation": "E saiu o rei de Sodoma e o rei de Amorra, e o rei de Adma e o rei de Seboim, e o rei de Bela que é Zoar, e alinharam-se para a guerra na campina de Siddim."
   },
   {
     "verse": 9,
     "original": "אֵ֣ת כְּדׇרְלָעֹ֜מֶר מֶ֣לֶךְ עֵילָ֗ם וְתִדְעָל֙ מֶ֣לֶךְ גּוֹיִ֔ם וְאַמְרָפֶל֙ מֶ֣לֶךְ שִׁנְעָ֔ר וְאַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר אַרְבָּעָ֥ה מְלָכִ֖ים אֶת־הַחֲמִשָּֽׁה׃",
+    "transliteration": "'et khedorela'omer melekhe 'eylam vetide'al melekhe gvoyim ve'amerafel melekhe shine'ar ve'areyvokhe melekhe 'elasar 'areva'ah melakhiym 'et-hahamishah.",
     "translation": "Com Cedoralom, rei de Elão, e Tedal, rei dos povos, e Amrafel, rei de Sinear, e Arioc, rei de Elassar, quatro reis contra os cinco."
   },
   {
     "verse": 10,
     "original": "וְעֵ֣מֶק הַשִּׂדִּ֗ים בֶּֽאֱרֹ֤ת בֶּאֱרֹת֙ חֵמָ֔ר וַיָּנֻ֛סוּ מֶֽלֶךְ־סְדֹ֥ם וַעֲמֹרָ֖ה וַיִּפְּלוּ־שָׁ֑מָּה וְהַנִּשְׁאָרִ֖ים הֶ֥רָה נָּֽסוּ׃",
+    "transliteration": "ve'emek hasidiym ve'erot ve'erot hemar vayanusv melekhe-sedom va'amorah vayifelv-shamah vehanishe'ariym herah nasv.",
     "translation": "E o vale dos Soditas estava cheio de poços de betume; e o rei de Sodoma e o rei de Amom fugiram, e caíram ali; mas os que sobreviveram fugiram para as montanhas."
   },
   {
     "verse": 11,
     "original": "וַ֠יִּקְח֠וּ אֶת־כׇּל־רְכֻ֨שׁ סְדֹ֧ם וַעֲמֹרָ֛ה וְאֶת־כׇּל־אׇכְלָ֖ם וַיֵּלֵֽכוּ׃",
+    "transliteration": "vayikehv 'et-khol-rekhush sedom va'amorah ve'et-khol-'okhelam vayelekhv.",
     "translation": "Eles tomaram todo o tesouro de Sodoma e Gomorra, com todos os seus alimentos, e partiram."
   },
   {
     "verse": 12,
     "original": "וַיִּקְח֨וּ אֶת־ל֧וֹט וְאֶת־רְכֻשׁ֛וֹ בֶּן־אֲחִ֥י אַבְרָ֖ם וַיֵּלֵ֑כוּ וְה֥וּא יֹשֵׁ֖ב בִּסְדֹֽם׃",
+    "transliteration": "vayikehv 'et-lvot ve'et-rekhushvo ven-'ahiy 'averam vayelekhv vehv' yoshev visedom.",
     "translation": "E tomaram a Lot e seu sustento, sobrinho de Abrão; e partiram, ele habitando em Sodoma.\n\nNotas: Embora a tradução esteja razoavelmente correta em termos contextuais, houve uma pequena imprecisão na tradução de \"r'chuso\" (seu sustento) para o contexto mais amplo e preciso de \"sua propriedade\" ou \"seu patrimônio\", que é mais fiel ao hebraico antigo. No entanto, dada a instrução estrita de não fornecer explicações adicionais, será omitida qualquer alteração adicional além do texto originalmente solicitado.\n\nE tomaram a Lot e seu sustento, sobrinho de Abrão; e partiram, ele habitando em Sodoma."
   },
   {
     "verse": 13,
     "original": "וַיָּבֹא֙ הַפָּלִ֔יט וַיַּגֵּ֖ד לְאַבְרָ֣ם הָעִבְרִ֑י וְהוּא֩ שֹׁכֵ֨ן בְּאֵֽלֹנֵ֜י מַמְרֵ֣א הָאֱמֹרִ֗י אֲחִ֤י אֶשְׁכֹּל֙ וַאֲחִ֣י עָנֵ֔ר וְהֵ֖ם בַּעֲלֵ֥י בְרִית־אַבְרָֽם׃",
+    "transliteration": "vayavo' hafaliyt vayaged le'averam ha'iveriy vehv' shokhen ve'eloney mamere' ha'emoriy 'ahiy 'eshekhol va'ahiy 'aner vehem va'aley veriyt-'averam.",
     "translation": "E veio o que escapou e contou a Abrão, o hebreu; ele morava nos carvalhos de Mamre, o amorreu, irmão de Eshcol e irmão de Aner, os quais eram aliados de Abrão."
   },
   {
     "verse": 14,
     "original": "וַיִּשְׁמַ֣ע אַבְרָ֔ם כִּ֥י נִשְׁבָּ֖ה אָחִ֑יו וַיָּ֨רֶק אֶת־חֲנִיכָ֜יו יְלִידֵ֣י בֵית֗וֹ שְׁמֹנָ֤ה עָשָׂר֙ וּשְׁלֹ֣שׁ מֵא֔וֹת וַיִּרְדֹּ֖ף עַד־דָּֽן׃",
+    "transliteration": "vayishema' 'averam khiy nishevah 'ahiyv vayarek 'et-haniykhayv yeliydey veytvo shemonah 'asar vshelosh me'vot vayiredof 'ad-dan.",
     "translation": "E Abraão ouviu que seu irmão era preso, e ele despachou seus treinados, nascidos em sua casa, trezentos e dezoito, e foi em perseguição até Dan.\n\nCorreção:\nE Abraão ouviu que seu irmão havia sido capturado, e ele mobilizou seus jovens treinados, nascidos em sua casa, trezentos e dezoito, e partiu em perseguição até Dan."
   },
   {
     "verse": 15,
     "original": "וַיֵּחָלֵ֨ק עֲלֵיהֶ֧ם&thinsp;<small>׀</small>&thinsp;לַ֛יְלָה ה֥וּא וַעֲבָדָ֖יו וַיַּכֵּ֑ם וַֽיִּרְדְּפֵם֙ עַד־חוֹבָ֔ה אֲשֶׁ֥ר מִשְּׂמֹ֖אל לְדַמָּֽשֶׂק׃",
+    "transliteration": "vayehalek 'aleyhem&thinsp;<small>|</small>&thinsp;layelah hv' va'avadayv vayakhem vayiredefem 'ad-hvovah 'asher misemo'l ledamasek.",
     "translation": "E dividiu-se sobre eles de noite ele e seus servos, e os feriu, perseguindo-os até Hobá, que está ao norte de Damasco."
   },
   {
     "verse": 16,
     "original": "וַיָּ֕שֶׁב אֵ֖ת כׇּל־הָרְכֻ֑שׁ וְגַם֩ אֶת־ל֨וֹט אָחִ֤יו וּרְכֻשׁוֹ֙ הֵשִׁ֔יב וְגַ֥ם אֶת־הַנָּשִׁ֖ים וְאֶת־הָעָֽם׃",
+    "transliteration": "vayashev 'et khol-harekhush vegam 'et-lvot 'ahiyv vrekhushvo heshiyv vegam 'et-hanashiym ve'et-ha'am.",
     "translation": "E restaurou toda a possessão, e também Ló, seu irmão, com sua possessão, e as mulheres e o povo."
   },
   {
     "verse": 17,
     "original": "וַיֵּצֵ֣א מֶֽלֶךְ־סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־כְּדׇרְלָעֹ֔מֶר וְאֶת־הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃",
+    "transliteration": "vayetse' melekhe-sedom likera'tvo 'aharey shvvvo mehakhvot 'et-khedorela'omer ve'et-hamelakhiym 'asher 'itvo 'el-'emek shaveh hv' 'emek hamelekhe.",
     "translation": "E saiu o rei de Sodoma ao seu encontro, depois que ele voltou da derrotar Qedoralom e os reis que estavam com ele, até o Vale de Shave, que é o Vale do Rei."
   },
   {
     "verse": 18,
     "original": "וּמַלְכִּי־צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃",
+    "transliteration": "vmalekhiy-tsedek melekhe shalem hvotsiy' lehem vayayin vehv' khohen le'el 'eleyvon.",
     "translation": "E Melquisedeque, rei de Salém, trouxe pão e vinho; ele era sacerdote do Deus Altíssimo."
   },
   {
     "verse": 19,
     "original": "וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+    "transliteration": "vayevarekhehv vayo'mar varvkhe 'averam le'el 'eleyvon koneh shamayim va'arets.",
     "translation": "E abençoou-o, dizendo: Abençoado seja Abrão por Deus Altíssimo, possuidor dos céus e da terra."
   },
   {
     "verse": 20,
     "original": "וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר־מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן־ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃",
+    "transliteration": "vvarvkhe 'el 'eleyvon 'asher-migen tsareykha veyadekha vayiten-lvo ma'aser mikhol.",
     "translation": "E bendito seja o Deus Altíssimo, que entregou teus inimigos em tuas mãos; e ele lhe deu um dízimo de tudo."
   },
   {
     "verse": 21,
     "original": "וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם תֶּן־לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־לָֽךְ׃",
+    "transliteration": "vayo'mer melekhe-sedom 'el-'averam ten-liy hanefesh veharekhush kah-lakhe.",
     "translation": "E disse o rei de Sodoma a Abrão: Dá-me as pessoas, mas toma para ti o tesouro."
   },
   {
     "verse": 22,
     "original": "וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־מֶ֣לֶךְ סְדֹ֑ם הֲרִמֹ֨תִי יָדִ֤י אֶל־יְהֹוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+    "transliteration": "vayo'mer 'averam 'el-melekhe sedom harimotiy yadiy 'el-yehovah 'el 'eleyvon koneh shamayim va'arets.",
     "translation": "E Abraão disse ao rei de Sodoma: \"Jurei ao Senhor, Deus Altíssimo, Possuidor do céu e da terra.\""
   },
   {
     "verse": 23,
     "original": "אִם־מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־נַ֔עַל וְאִם־אֶקַּ֖ח מִכׇּל־אֲשֶׁר־לָ֑ךְ וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־אַבְרָֽם׃",
+    "transliteration": "'im-mihvt ve'ad servokhe-na'al ve'im-'ekah mikhol-'asher-lakhe velo' to'mar 'aniy he'esharetiy 'et-'averam.",
     "translation": "Se de um fio até a correia do calcanhar de uma sandália, e se tomar algo de tudo o que é teu, não dirás: Eu enriqueci a Abraão."
   },
   {
     "verse": 24,
     "original": "בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vile'aday rak 'asher 'akhelv hane'ariym vehelek ha'anashiym 'asher halekhv 'itiy 'aner 'eshekhol vmamere' hem yikehv helekam.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Além disso, somente o que comeram os jovens e a parte dos homens que vieram comigo: Eneque, Escol e Mamer tomarão sua parte."
   }
 ]

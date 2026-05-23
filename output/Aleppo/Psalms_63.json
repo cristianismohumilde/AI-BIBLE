@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "מִזְמ֥וֹר לְדָוִ֑ד בִּ֝הְיוֹת֗וֹ בְּמִדְבַּ֥ר יְהוּדָֽה׃",
+    "transliteration": "mizemvor ledavid viheyvotvo vemidevar yehvdah.",
     "translation": "Salmo de Davi quando ele estava no deserto de Judá."
   },
   {
     "verse": 2,
     "original": "אֱלֹהִ֤ים&thinsp;<b>׀</b> אֵלִ֥י אַתָּ֗ה אֲֽשַׁ֫חֲרֶ֥ךָּ צָמְאָ֬ה לְךָ֨&thinsp;<b>׀</b> נַפְשִׁ֗י כָּמַ֣הּ לְךָ֣ בְשָׂרִ֑י בְּאֶרֶץ־צִיָּ֖ה וְעָיֵ֣ף בְּלִי־מָֽיִם׃",
+    "transliteration": "'elohiym&thinsp;<b>|</b> 'eliy 'atah 'ashaharekha tsame'ah lekha&thinsp;<b>|</b> nafeshiy khamah lekha vesariy ve'erets-tsiyah ve'ayef veliy-mayim.",
     "translation": "Deus meu, tu és ele; minha alma tem sede de ti, em ti se regozija a minha carne, como em terra árida e cansada sem água."
   },
   {
     "verse": 3,
     "original": "כֵּ֭ן בַּקֹּ֣דֶשׁ חֲזִיתִ֑ךָ לִרְא֥וֹת עֻ֝זְּךָ֗ וּכְבוֹדֶֽךָ׃",
+    "transliteration": "khen vakodesh haziytikha lire'vot 'uzekha vkhevvodekha.",
     "translation": "Assim no santuário vi-te, para contemplar a tua força e a tua glória."
   },
   {
     "verse": 4,
     "original": "כִּי־ט֣וֹב חַ֭סְדְּךָ מֵחַיִּ֗ים שְׂפָתַ֥י יְשַׁבְּחֽוּנְךָ׃",
+    "transliteration": "khiy-tvov hasedekha mehayiym sefatay yeshavehvnekha.",
     "translation": "Pois o teu amor é melhor que a vida; meus lábios te louvarão."
   },
   {
     "verse": 5,
     "original": "כֵּ֣ן אֲבָרֶכְךָ֣ בְחַיָּ֑י בְּ֝שִׁמְךָ֗ אֶשָּׂ֥א כַפָּֽי׃",
+    "transliteration": "khen 'avarekhekha vehayay veshimekha 'esa' khafay.",
     "translation": "Assim te abençoarei na minha vida; em teu nome levantarei minhas mãos."
   },
   {
     "verse": 6,
     "original": "כְּמ֤וֹ חֵ֣לֶב וָ֭דֶשֶׁן תִּשְׂבַּ֣ע נַפְשִׁ֑י וְשִׂפְתֵ֥י רְ֝נָנ֗וֹת יְהַלֶּל־פִּֽי׃",
+    "transliteration": "khemvo helev vadeshen tiseva' nafeshiy vesifetey renanvot yehalel-fiy.",
     "translation": "Como a gordura e o sebo, minha alma será saciada, e meus lábios proclamarão louvor."
   },
   {
     "verse": 7,
     "original": "אִם־זְכַרְתִּ֥יךָ עַל־יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה־בָּֽךְ׃",
+    "transliteration": "'im-zekharetiykha 'al-yetsv'ay ve'ashemurvot 'ehegeh-vakhe.",
     "translation": "Se te recordar em minha cama, e à meia-noite meditar contigo."
   },
   {
     "verse": 8,
     "original": "כִּֽי־הָיִ֣יתָ עֶזְרָ֣תָה לִּ֑י וּבְצֵ֖ל כְּנָפֶ֣יךָ אֲרַנֵּֽן׃",
+    "transliteration": "khiy-hayiyta 'ezeratah liy vvetsel khenafeykha 'aranen.",
     "translation": "Pois foste tu a minha ajuda, e no abrigo das tuas asas me cantarei."
   },
   {
     "verse": 9,
     "original": "דָּבְקָ֣ה נַפְשִׁ֣י אַחֲרֶ֑יךָ בִּ֝֗י תָּמְכָ֥ה יְמִינֶֽךָ׃",
+    "transliteration": "davekah nafeshiy 'ahareykha viy tamekhah yemiynekha.",
     "translation": "Minha alma se apega a ti, ó Senhor; tua direita me sustentará."
   },
   {
     "verse": 10,
     "original": "וְהֵ֗מָּה לְ֭שׁוֹאָה יְבַקְשׁ֣וּ נַפְשִׁ֑י יָ֝בֹ֗אוּ בְּֽתַחְתִּיּ֥וֹת הָאָֽרֶץ׃",
+    "transliteration": "vehemah leshvo'ah yevakeshv nafeshiy yavo'v vetahetiyvot ha'arets.",
     "translation": "Eles me buscam para a destruição; descem até os abismos da terra."
   },
   {
     "verse": 11,
     "original": "יַגִּירֻ֥הוּ עַל־יְדֵי־חָ֑רֶב מְנָ֖ת שֻׁעָלִ֣ים יִהְיֽוּ׃",
+    "transliteration": "yagiyruhv 'al-yedey-harev menat shu'aliym yiheyv.",
     "translation": "Eles o farão passar pelo fio da espada; ele será como a ração dos javalis."
   },
   {
     "verse": 12,
     "original": "וְהַמֶּלֶךְ֮ יִשְׂמַ֢ח בֵּאלֹ֫הִ֥ים יִ֭תְהַלֵּל כׇּל־הַנִּשְׁבָּ֣ע בּ֑וֹ כִּ֥י יִ֝סָּכֵ֗ר פִּ֣י דוֹבְרֵי־שָֽׁקֶר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehamelekhe yisemah ve'lohiym yitehalel khol-hanisheva' vvo khiy yisakher fiy dvoverey-shaker.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o rei se alegra em Deus; exulta todo aquele que jura pelo seu nome, pois se cala a boca dos que falam mentiras."
   }
 ]

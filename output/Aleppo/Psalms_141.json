@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "מִזְמ֗וֹר לְדָ֫וִ֥ד יְהֹוָ֣ה קְ֭רָאתִיךָ ח֣וּשָׁה לִּ֑י הַאֲזִ֥ינָה ק֝וֹלִ֗י בְּקׇרְאִי־לָֽךְ׃",
+    "transliteration": "mizemvor ledavid yehovah kera'tiykha hvshah liy ha'aziynah kvoliy vekore'iy-lakhe.",
     "translation": "Salmo de Davi. Senhor, eu te invoquei; sê atento para mim, ouve a minha voz quando te clamo."
   },
   {
     "verse": 2,
     "original": "תִּכּ֤וֹן תְּפִלָּתִ֣י קְטֹ֣רֶת לְפָנֶ֑יךָ מַֽשְׂאַ֥ת כַּ֝פַּ֗י מִנְחַת־עָֽרֶב׃",
+    "transliteration": "tikhvon tefilatiy ketoret lefaneykha mase'at khafay minehat-'arev.",
     "translation": "Seja minha oração como incenso diante de ti, a elevação das minhas mãos como oferenda da tarde."
   },
   {
     "verse": 3,
     "original": "שִׁיתָ֣ה יְ֭הֹוָה שׇׁמְרָ֣ה לְפִ֑י נִ֝צְּרָ֗ה עַל־דַּ֥ל שְׂפָתָֽי׃",
+    "transliteration": "shiytah yehovah shomerah lefiy nitserah 'al-dal sefatay.",
     "translation": "põe jehová guardião para minha boca, guarda sobre os lábios do pobre."
   },
   {
     "verse": 4,
     "original": "אַל־תַּט־לִבִּ֨י לְדָבָ֪ר&thinsp;<small>׀</small>&thinsp;רָ֡ע לְהִתְע֘וֹלֵ֤ל עֲלִל֨וֹת&thinsp;<b>׀</b> בְּרֶ֗שַׁע אֶת־אִישִׁ֥ים פֹּעֲלֵי־אָ֑וֶן וּבַל־אֶ֝לְחַ֗ם בְּמַנְעַמֵּיהֶֽם׃",
+    "transliteration": "'al-tat-liviy ledavar&thinsp;<small>|</small>&thinsp;ra' lehite'volel 'alilvot&thinsp;<b>|</b> veresha' 'et-'iyshiym fo'aley-'aven vval-'eleham vemane'ameyhem.",
     "translation": "Não inclines meu coração para o mal, para me associar com conspiradores; não tenha parte com os que praticam a iniquidade e não lute contra seus opressores."
   },
   {
     "verse": 5,
     "original": "יֶ֥הֶלְמֵֽנִי<span class=\"mam-implicit-maqaf\">־</span>צַדִּ֨יק&thinsp;<b>׀</b> חֶ֡סֶד וְֽיוֹכִיחֵ֗נִי שֶׁ֣מֶן רֹ֭אשׁ אַל־יָנִ֣י רֹאשִׁ֑י כִּי־ע֥וֹד וּ֝תְפִלָּתִ֗י בְּרָעוֹתֵיהֶֽם׃",
+    "transliteration": "yehelemeniy<span class=\"mam-implicit-maqaf\">-</span>tsadiyk&thinsp;<b>|</b> hesed veyvokhiyheniy shemen ro'sh 'al-yaniy ro'shiy khiy-'vod vtefilatiy vera'voteyhem.",
     "translation": "Deseje-me justiça, ó Deus! E me ensine com bondade; use a unção da cabeça sobre mim e não menospreze minha oração, porque ainda em suas adversidades minha súplica persiste."
   },
   {
     "verse": 6,
     "original": "נִשְׁמְט֣וּ בִֽידֵי־סֶ֭לַע שֹׁפְטֵיהֶ֑ם וְשָׁמְע֥וּ אֲ֝מָרַ֗י כִּ֣י נָעֵֽמוּ׃",
+    "transliteration": "nishemetv viydey-sela' shofeteyhem veshame'v 'amaray khiy na'emv.",
     "translation": "Caíram nas mãos da rocha os seus juízes, e ouviram palavras de consolo, pois se acalmaram."
   },
   {
     "verse": 7,
     "original": "כְּמ֤וֹ פֹלֵ֣חַ וּבֹקֵ֣עַ בָּאָ֑רֶץ נִפְזְר֥וּ עֲ֝צָמֵ֗ינוּ לְפִ֣י שְׁאֽוֹל׃",
+    "transliteration": "khemvo foleha vvoke'a va'arets nifezerv 'atsameynv lefiy she'vol.",
     "translation": "Como o que cava e fende a terra, nossas entranhas se despedaçam à boca do Abismo."
   },
   {
     "verse": 8,
     "original": "כִּ֤י אֵלֶ֨יךָ&thinsp;<b>׀</b> יֱהֹוִ֣ה אֲדֹנָ֣י עֵינָ֑י בְּכָ֥ה חָ֝סִ֗יתִי אַל־תְּעַ֥ר נַפְשִֽׁי׃",
+    "transliteration": "khiy 'eleykha&thinsp;<b>|</b> yehovih 'adonay 'eynay vekhah hasiytiy 'al-te'ar nafeshiy.",
     "translation": "Pois para ti, Senhor, meu Deus, dirijo meus olhos; em ti busco refúgio; não te deixes perturbar minha alma."
   },
   {
     "verse": 9,
     "original": "שׇׁמְרֵ֗נִי מִ֣ידֵי פַ֭ח יָ֣קְשׁוּ לִ֑י וּ֝מֹקְשׁ֗וֹת פֹּ֣עֲלֵי אָֽוֶן׃",
+    "transliteration": "shomereniy miydey fah yakeshv liy vmokeshvot fo'aley 'aven.",
     "translation": "Guarda-me dos laços que me preparam, e das armadilhas dos operadores de iniqüidade."
   },
   {
     "verse": 10,
     "original": "יִפְּל֣וּ בְמַכְמֹרָ֣יו רְשָׁעִ֑ים יַ֥חַד אָ֝נֹכִ֗י עַֽד־אֶעֱבֽוֹר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yifelv vemakhemorayv resha'iym yahad 'anokhiy 'ad-'e'evvor.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Os perversos se emaranharão em suas próprias armadilhas; juntos cairão até que eu os supere."
   }
 ]

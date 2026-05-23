@@ -2,186 +2,223 @@
   {
     "verse": 1,
     "original": "αὕτη ἡ βίβλος τῶν προσταγμάτων τοῦ θεοῦ καὶ ὁ νόμος ὁ ὑπάρχων εἰς τὸν αἰῶνα πάντες οἱ κρατοῦντες αὐτῆς εἰς ζωήν οἱ δὲ καταλείποντες αὐτὴν ἀποθανοῦνται ",
+    "transliteration": "ahyti hi vivlos ton prostagmaton toy theoy kai ho nomos ho hyparchon eis ton aiona pantes ohi kratoyntes aytis eis zoin ohi de kataleipontes aytin apothanoyntai ",
     "translation": "Este é o livro das ordens de Deus e a lei que permanece para sempre; todos os que a guardam vivem, mas os que a abandonam morrerão."
   },
   {
     "verse": 2,
     "original": "ἐπιστρέφου Ιακωβ καὶ ἐπιλαβοῦ αὐτῆς διόδευσον πρὸς τὴν λάμψιν κατέναντι τοῦ φωτὸς αὐτῆς ",
+    "transliteration": "epistrefoy Iakov kai epilavoy aytis diodeyson pros tin lampsin katenanti toy fotos aytis ",
     "translation": "Volta, Jacó, e toma-a em teu caminho; dirige-te à luz que brilha diante da sua face."
   },
   {
     "verse": 3,
     "original": "μὴ δῷς ἑτέρῳ τὴν δόξαν σου καὶ τὰ συμφέροντά σοι ἔθνει ἀλλοτρίῳ ",
+    "transliteration": "mi dos hetero tin doxan soy kai ta symferonta soi ethnei allotrio ",
     "translation": "Não dês à outra pessoa a tua glória e os teus bens ao povo estrangeiro."
   },
   {
     "verse": 4,
     "original": "μακάριοί ἐσμεν Ισραηλ ὅτι τὰ ἀρεστὰ τῷ θεῷ ἡμῖν γνωστά ἐστιν ",
+    "transliteration": "makarioi esmen Israil hoti ta aresta to theo himin gnosta estin ",
     "translation": "Bem-aventurados somos nós, Israel, pois nos são conhecidos os preceitos agradáveis ao Senhor."
   },
   {
     "verse": 5,
     "original": "θαρσεῖτε λαός μου μνημόσυνον Ισραηλ ",
+    "transliteration": "tharseite laos moy mnimosynon Israil ",
     "translation": "Alegrai-vos, povo meu, memória de Israel."
   },
   {
     "verse": 6,
     "original": "ἐπράθητε τοῖς ἔθνεσιν οὐκ εἰς ἀπώλειαν διὰ δὲ τὸ παροργίσαι ὑμᾶς τὸν θεὸν παρεδόθητε τοῖς ὑπεναντίοις ",
+    "transliteration": "eprathite tois ethnesin oyk eis apoleian dia de to parorgisai hymas ton theon paredothite tois hypenantiois ",
     "translation": "Vendestes-vos às nações, não para destruição, mas por haverdes provocado a ira de Deus, fostes entregues aos vossos inimigos."
   },
   {
     "verse": 7,
     "original": "παρωξύνατε γὰρ τὸν ποιήσαντα ὑμᾶς θύσαντες δαιμονίοις καὶ οὐ θεῷ ",
+    "transliteration": "paroxynate gar ton poiisanta hymas thysantes daimoniois kai oy theo ",
     "translation": "Vocês irritaram aquele que vos criou, oferecendo sacrifícios a demônios e não a Deus."
   },
   {
     "verse": 8,
     "original": "ἐπελάθεσθε δὲ τὸν τροφεύσαντα ὑμᾶς θεὸν αἰώνιον ἐλυπήσατε δὲ καὶ τὴν ἐκθρέψασαν ὑμᾶς Ιερουσαλημ ",
+    "transliteration": "epelathesthe de ton trofeysanta hymas theon aionion elypisate de kai tin ekthrepsasan hymas Ieroysalim ",
     "translation": "Vocês se esqueceram do Deus eterno que vos alimentou e entristeceram Jerusalém, que vos criou. \n\nA frase original em grego não menciona explicitamente a ideia de \"criar\", mas sim a ideia de criar ou nutrir (ἐκθρέψασαν). Por isso, a tradução corrigida é:\n\nVocês se esqueceram do Deus eterno que vos alimentou e entristeceram Jerusalém, que vos criou e alimentou."
   },
   {
     "verse": 9,
     "original": "εἶδεν γὰρ τὴν ἐπελθοῦσαν ὑμῖν ὀργὴν παρὰ τοῦ θεοῦ καὶ εἶπεν ἀκούσατε αἱ πάροικοι Σιων ἐπήγαγέν μοι ὁ θεὸς πένθος μέγα ",
+    "transliteration": "eiden gar tin epelthoysan hymin orgin para toy theoy kai eipen akoysate ahi paroikoi Sion epigagen moi ho theos penthos mega ",
     "translation": "Pois ele viu a ira que veio sobre vocês do Senhor e disse: ouçam, ó estrangeiras de Sião; Deus trouxe-me grande lamento."
   },
   {
     "verse": 10,
     "original": "εἶδον γὰρ τὴν αἰχμαλωσίαν τῶν υἱῶν μου καὶ τῶν θυγατέρων ἣν ἐπήγαγεν αὐτοῖς ὁ αἰώνιος ",
+    "transliteration": "eidon gar tin aichmalosian ton yhion moy kai ton thygateron hin epigagen aytois ho aionios ",
     "translation": "Pois vi a captividade dos meus filhos e das minhas filhas que o Eterno impôs sobre eles."
   },
   {
     "verse": 11,
     "original": "ἔθρεψα γὰρ αὐτοὺς μετ’ εὐφροσύνης ἐξαπέστειλα δὲ μετὰ κλαυθμοῦ καὶ πένθους ",
+    "transliteration": "ethrepsa gar aytoys met' eyfrosynis exapesteila de meta klaythmoy kai penthoys ",
     "translation": "Pois os alimentei com alegria, mas os enviei com pranto e lamento."
   },
   {
     "verse": 12,
     "original": "μηδεὶς ἐπιχαιρέτω μοι τῇ χήρᾳ καὶ καταλειφθείσῃ ὑπὸ πολλῶν ἠρημώθην διὰ τὰς ἁμαρτίας τῶν τέκνων μου διότι ἐξέκλιναν ἐκ νόμου θεοῦ ",
+    "transliteration": "mideis epichaireto moi ti chira kai kataleiftheisi hypo pollon irimothin dia tas hamartias ton teknon moy dioti exeklinan ek nomoy theoy ",
     "translation": "Ninguém se regozije comigo por ser viúva e deixada por muitos; desolada fui pela causa das iniquidades dos meus filhos, pois eles se apartaram da lei de Deus."
   },
   {
     "verse": 13,
     "original": "δικαιώματα δὲ αὐτοῦ οὐκ ἔγνωσαν οὐδὲ ἐπορεύθησαν ὁδοῖς ἐντολῶν θεοῦ οὐδὲ τρίβους παιδείας ἐν δικαιοσύνῃ αὐτοῦ ἐπέβησαν ",
+    "transliteration": "dikaiomata de aytoy oyk egnosan oyde eporeythisan hodois entolon theoy oyde trivoys paideias en dikaiosyni aytoy epevisan ",
     "translation": "Eles não reconheceram suas justiças, nem seguiram os caminhos de seus preceitos divinos, nem entraram nas veredas da instrução em sua retidão."
   },
   {
     "verse": 14,
     "original": "ἐλθάτωσαν αἱ πάροικοι Σιων καὶ μνήσθητε τὴν αἰχμαλωσίαν τῶν υἱῶν μου καὶ θυγατέρων ἣν ἐπήγαγεν αὐτοῖς ὁ αἰώνιος ",
+    "transliteration": "elthatosan ahi paroikoi Sion kai mnisthite tin aichmalosian ton yhion moy kai thygateron hin epigagen aytois ho aionios ",
     "translation": "Sejam bem-vindos os estrangeiros de Sião e recordai a captividade dos meus filhos e das minhas filhas que o Eterno lhes impôs."
   },
   {
     "verse": 15,
     "original": "ἐπήγαγεν γὰρ ἐπ’ αὐτοὺς ἔθνος μακρόθεν ἔθνος ἀναιδὲς καὶ ἀλλόγλωσσον οἳ οὐκ ᾐσχύνθησαν πρεσβύτην οὐδὲ παιδίον ἠλέησαν ",
+    "transliteration": "epigagen gar ep' aytoys ethnos makrothen ethnos anaides kai alloglosson ohi oyk ischynthisan presvytin oyde paidion ileisan ",
     "translation": "Pois ele trouxe sobre eles uma nação de longe, uma nação sem pudor e de outra língua, que não se envergonhou do ancião nem teve piedade da criança."
   },
   {
     "verse": 16,
     "original": "καὶ ἀπήγαγον τοὺς ἀγαπητοὺς τῆς χήρας καὶ ἀπὸ τῶν θυγατέρων τὴν μόνην ἠρήμωσαν ",
+    "transliteration": "kai apigagon toys agapitoys tis chiras kai apo ton thygateron tin monin irimosan ",
     "translation": "E levaram os amados da viúva e, das filhas, deixaram-na só."
   },
   {
     "verse": 17,
     "original": "ἐγὼ δὲ τί δυνατὴ βοηθῆσαι ὑμῖν ",
+    "transliteration": "ego de ti dynati voithisai hymin ",
     "translation": "Mas eu, o que posso fazer por vocês?"
   },
   {
     "verse": 18,
     "original": "ὁ γὰρ ἐπαγαγὼν τὰ κακὰ ὑμῖν ἐξελεῖται ὑμᾶς ἐκ χειρὸς ἐχθρῶν ὑμῶν ",
+    "transliteration": "ho gar epagagon ta kaka hymin exeleitai hymas ek cheiros echthron hymon ",
     "translation": "Pois aquele que trouxe o mal sobre vocês os livrará da mão de seus inimigos."
   },
   {
     "verse": 19,
     "original": "βαδίζετε τέκνα βαδίζετε ἐγὼ γὰρ κατελείφθην ἔρημος ",
+    "transliteration": "vadizete tekna vadizete ego gar kateleifthin erimos ",
     "translation": "Caminhais, ó filhos, caminhai, pois fui deixado só."
   },
   {
     "verse": 20,
     "original": "ἐξεδυσάμην τὴν στολὴν τῆς εἰρήνης ἐνεδυσάμην δὲ σάκκον τῆς δεήσεώς μου κεκράξομαι πρὸς τὸν αἰώνιον ἐν ταῖς ἡμέραις μου ",
+    "transliteration": "exedysamin tin stolin tis eirinis enedysamin de sakkon tis deiseos moy kekraxomai pros ton aionion en tais himerais moy ",
     "translation": "Despojei-me da veste da paz, revesti-me porém do saco da minha súplica e clamarei ao Eterno nos meus dias."
   },
   {
     "verse": 21,
     "original": "θαρσεῖτε τέκνα βοήσατε πρὸς τὸν θεόν καὶ ἐξελεῖται ὑμᾶς ἐκ δυναστείας ἐκ χειρὸς ἐχθρῶν ",
+    "transliteration": "tharseite tekna voisate pros ton theon kai exeleitai hymas ek dynasteias ek cheiros echthron ",
     "translation": "Alegrai-vos, filhos; clamai ao Deus, e ele vos livrará do domínio, da mão dos inimigos."
   },
   {
     "verse": 22,
     "original": "ἐγὼ γὰρ ἤλπισα ἐπὶ τῷ αἰωνίῳ τὴν σωτηρίαν ὑμῶν καὶ ἦλθέν μοι χαρὰ παρὰ τοῦ ἁγίου ἐπὶ τῇ ἐλεημοσύνῃ ἣ ἥξει ὑμῖν ἐν τάχει παρὰ τοῦ αἰωνίου σωτῆρος ὑμῶν ",
+    "transliteration": "ego gar ilpisa epi to aionio tin sotirian hymon kai ilthen moi chara para toy hagioy epi ti eleimosyni hi hixei hymin en tachei para toy aionioy sotiros hymon ",
     "translation": "Pois se nutriu esperança eterna na vossa salvação, e alegrava-se pelo santo, pela caridade que logo vos virá do eterno salvador vosso."
   },
   {
     "verse": 23,
     "original": "ἐξέπεμψα γὰρ ὑμᾶς μετὰ πένθους καὶ κλαυθμοῦ ἀποδώσει δέ μοι ὁ θεὸς ὑμᾶς μετὰ χαρμοσύνης καὶ εὐφροσύνης εἰς τὸν αἰῶνα ",
+    "transliteration": "exepempsa gar hymas meta penthoys kai klaythmoy apodosei de moi ho theos hymas meta charmosynis kai eyfrosynis eis ton aiona ",
     "translation": "Enviei-vos com tristeza e pranto; Deus, porém, vos devolverá com alegria e gozo eternamente."
   },
   {
     "verse": 24,
     "original": "ὥσπερ γὰρ νῦν ἑωράκασιν αἱ πάροικοι Σιων τὴν ὑμετέραν αἰχμαλωσίαν οὕτως ὄψονται ἐν τάχει τὴν παρὰ τοῦ θεοῦ ὑμῶν σωτηρίαν ἣ ἐπελεύσεται ὑμῖν μετὰ δόξης μεγάλης καὶ λαμπρότητος τοῦ αἰωνίου ",
+    "transliteration": "hosper gar nyn heorakasin ahi paroikoi Sion tin hymeteran aichmalosian ohytos opsontai en tachei tin para toy theoy hymon sotirian hi epeleysetai hymin meta doxis megalis kai lamprotitos toy aionioy ",
     "translation": "Assim como agora as estrangeiras de Sião têm visto a vossa captividade, assim verão em breve a vossa salvação que vos virá do vosso Deus com grande glória e esplendor eterno."
   },
   {
     "verse": 25,
     "original": "τέκνα μακροθυμήσατε τὴν παρὰ τοῦ θεοῦ ἐπελθοῦσαν ὑμῖν ὀργήν κατεδίωξέν σε ὁ ἐχθρός σου καὶ ὄψει αὐτοῦ τὴν ἀπώλειαν ἐν τάχει καὶ ἐπὶ τραχήλους αὐτῶν ἐπιβήσῃ ",
+    "transliteration": "tekna makrothymisate tin para toy theoy epelthoysan hymin orgin katedioxen se ho echthros soy kai opsei aytoy tin apoleian en tachei kai epi trachiloys ayton epivisi ",
     "translation": "Ó filhos, tenham paciência com a ira que o Senhor trouxe sobre vocês. O vosso inimigo vos perseguiu, mas verão sua destruição em breve; e sobre suas cabeças vós reinarás."
   },
   {
     "verse": 26,
     "original": "οἱ τρυφεροί μου ἐπορεύθησαν ὁδοὺς τραχείας ἤρθησαν ὡς ποίμνιον ἡρπασμένον ὑπὸ ἐχθρῶν ",
+    "transliteration": "ohi tryferoi moy eporeythisan hodoys tracheias irthisan hos poimnion hirpasmenon hypo echthron ",
     "translation": "Os meus prósperos seguiram caminhos íngremes, foram levados como rebanho roubado pelos inimigos."
   },
   {
     "verse": 27,
     "original": "θαρσήσατε τέκνα καὶ βοήσατε πρὸς τὸν θεόν ἔσται γὰρ ὑμῶν ὑπὸ τοῦ ἐπάγοντος μνεία ",
+    "transliteration": "tharsisate tekna kai voisate pros ton theon estai gar hymon hypo toy epagontos mneia ",
     "translation": "Alegrai-vos, filhos, e clamai ao Deus, pois haverá lembrança de vós por aquele que vem."
   },
   {
     "verse": 28,
     "original": "ὥσπερ γὰρ ἐγένετο ἡ διάνοια ὑμῶν εἰς τὸ πλανηθῆναι ἀπὸ τοῦ θεοῦ δεκαπλασιάσατε ἐπιστραφέντες ζητῆσαι αὐτόν ",
+    "transliteration": "hosper gar egeneto hi dianoia hymon eis to planithinai apo toy theoy dekaplasiasate epistrafentes zitisai ayton ",
     "translation": "Assim como vosso coração se inclinou para serdes desviados do Senhor, dez vezes mais buscai-o voltando-vos para ele."
   },
   {
     "verse": 29,
     "original": "ὁ γὰρ ἐπαγαγὼν ὑμῖν τὰ κακὰ ἐπάξει ὑμῖν τὴν αἰώνιον εὐφροσύνην μετὰ τῆς σωτηρίας ὑμῶν ",
+    "transliteration": "ho gar epagagon hymin ta kaka epaxei hymin tin aionion eyfrosynin meta tis sotirias hymon ",
     "translation": "Pois aquele que trouxe sobre vós o mal trará para vós a eterna alegria com a vossa salvação."
   },
   {
     "verse": 30,
     "original": "θάρσει Ιερουσαλημ παρακαλέσει σε ὁ ὀνομάσας σε ",
+    "transliteration": "tharsei Ieroysalim parakalesei se ho onomasas se ",
     "translation": "Alegra-te, Jerusalém, pois aquele que te chamou consolará a ti."
   },
   {
     "verse": 31,
     "original": "δείλαιοι οἱ σὲ κακώσαντες καὶ ἐπιχαρέντες τῇ σῇ πτώσει ",
+    "transliteration": "deilaioi ohi se kakosantes kai epicharentes ti si ptosei ",
     "translation": "Os que te maltrataram se envergonharão e os que exultavam com a tua queda serão cobertos de vergonha."
   },
   {
     "verse": 32,
     "original": "δείλαιαι αἱ πόλεις αἷς ἐδούλευσαν τὰ τέκνα σου δειλαία ἡ δεξαμένη τοὺς υἱούς σου ",
+    "transliteration": "deilaiai ahi poleis ahis edoyleysan ta tekna soy deilaia hi dexameni toys yhioys soy ",
     "translation": "As cidades em que teus filhos foram escravizados se tornarão humildes, e a que recebeu teus filhos ficará abatida."
   },
   {
     "verse": 33,
     "original": "ὥσπερ γὰρ ἐχάρη ἐπὶ τῇ σῇ πτώσει καὶ εὐφράνθη ἐπὶ τῷ πτώματί σου οὕτως λυπηθήσεται ἐπὶ τῇ ἑαυτῆς ἐρημίᾳ ",
+    "transliteration": "hosper gar echari epi ti si ptosei kai eyfranthi epi to ptomati soy ohytos lypithisetai epi ti heaytis erimia ",
     "translation": "Assim como se alegraram com a tua queda e exultaram diante do teu desastre, assim lamentarão por sua própria desolação."
   },
   {
     "verse": 34,
     "original": "καὶ περιελῶ αὐτῆς τὸ ἀγαλλίαμα τῆς πολυοχλίας καὶ τὸ ἀγαυρίαμα αὐτῆς ἔσται εἰς πένθος ",
+    "transliteration": "kai perielo aytis to agalliama tis polyochlias kai to agayriama aytis estai eis penthos ",
     "translation": "E tirarei dela a alegria da multidão, e o seu orgulho se converterá em luto."
   },
   {
     "verse": 35,
     "original": "πῦρ γὰρ ἐπελεύσεται αὐτῇ παρὰ τοῦ αἰωνίου εἰς ἡμέρας μακράς καὶ κατοικηθήσεται ὑπὸ δαιμονίων τὸν πλείονα χρόνον ",
+    "transliteration": "pyr gar epeleysetai ayti para toy aionioy eis himeras makras kai katoikithisetai hypo daimonion ton pleiona chronon ",
     "translation": "Pois fogo descerá sobre ela do eterno para dias longos, e será habitada por espíritos malignos por um tempo maior."
   },
   {
     "verse": 36,
     "original": "περίβλεψαι πρὸς ἀνατολάς Ιερουσαλημ καὶ ἰδὲ τὴν εὐφροσύνην τὴν παρὰ τοῦ θεοῦ σοι ἐρχομένην ",
+    "transliteration": "perivlepsai pros anatolas Ieroysalim kai ide tin eyfrosynin tin para toy theoy soi erchomenin ",
     "translation": "Olha para o oriente, Jerusalém, e vê a alegria que te vem de Deus."
   },
   {
     "verse": 37,
     "original": "ἰδοὺ ἔρχονται οἱ υἱοί σου οὓς ἐξαπέστειλας ἔρχονται συνηγμένοι ἀπ’ ἀνατολῶν ἕως δυσμῶν τῷ ῥήματι τοῦ ἁγίου χαίροντες τῇ τοῦ θεοῦ δόξῃ ",
+    "transliteration": "idoy erchontai ohi yhioi soy ohys exapesteilas erchontai synigmenoi ap' anatolon heos dysmon to rhimati toy hagioy chairontes ti toy theoy doxi ",
     "translation": "Eis que vêm teus filhos a quem tu enviaste, vindos de oriente a ocidente com a palavra do Santo, regozijando-se na glória de Deus."
   }
 ]

@@ -2,56 +2,67 @@
   {
     "verse": 1,
     "original": "לְ֭כוּ נְרַנְּנָ֣ה לַיהֹוָ֑ה נָ֝רִ֗יעָה לְצ֣וּר יִשְׁעֵֽנוּ׃",
+    "transliteration": "lekhv neranenah layhovah nariy'ah letsvr yishe'env.",
     "translation": "Vinde, cantemos ao Senhor; aclamemos ao Rocha da nossa salvação."
   },
   {
     "verse": 2,
     "original": "נְקַדְּמָ֣ה פָנָ֣יו בְּתוֹדָ֑ה בִּ֝זְמִר֗וֹת נָרִ֥יעַֽ לֽוֹ׃",
+    "transliteration": "nekademah fanayv vetvodah vizemirvot nariy'a lvo.",
     "translation": "Antecipe-lhe sua face com louvor; nos salmos, exaltá-lo-ão."
   },
   {
     "verse": 3,
     "original": "כִּ֤י אֵ֣ל גָּד֣וֹל יְהֹוָ֑ה וּמֶ֥לֶךְ גָּ֝ד֗וֹל עַל־כׇּל־אֱלֹהִֽים׃",
+    "transliteration": "khiy 'el gadvol yehovah vmelekhe gadvol 'al-khol-'elohiym.",
     "translation": "Pois o Senhor é um grande Deus, e Rei sobre todos os deuses."
   },
   {
     "verse": 4,
     "original": "אֲשֶׁ֣ר בְּ֭יָדוֹ מֶחְקְרֵי־אָ֑רֶץ וְתוֹעֲפֹ֖ת הָרִ֣ים לֽוֹ׃",
+    "transliteration": "'asher veyadvo mehekerey-'arets vetvo'afot hariym lvo.",
     "translation": "cuja mão mede a terra, e as toapas dos montes lhe pertencem."
   },
   {
     "verse": 5,
     "original": "אֲשֶׁר־ל֣וֹ הַ֭יָּם וְה֣וּא עָשָׂ֑הוּ וְ֝יַבֶּ֗שֶׁת יָדָ֥יו יָצָֽרוּ׃",
+    "transliteration": "'asher-lvo hayam vehv' 'asahv veyaveshet yadayv yatsarv.",
     "translation": "do qual é o mar, e ele o fez; e as secas, suas mãos as formaram."
   },
   {
     "verse": 6,
     "original": "בֹּ֭אוּ נִשְׁתַּחֲוֶ֣ה וְנִכְרָ֑עָה נִ֝בְרְכָ֗ה לִֽפְנֵי־יְהֹוָ֥ה עֹשֵֽׂנוּ׃",
+    "transliteration": "vo'v nishetahaveh venikhera'ah niverekhah lifeney-yehovah 'osenv.",
     "translation": "Venham, prostremo-nos e ajoelhemos,  \nbendigamos diante do Senhor, que nos fez."
   },
   {
     "verse": 7,
     "original": "כִּ֘י<span class=\"mam-implicit-maqaf\">־</span>ה֤וּא אֱלֹהֵ֗ינוּ וַאֲנַ֤חְנוּ עַ֣ם מַ֭רְעִיתוֹ וְצֹ֣אן יָד֑וֹ הַ֝יּ֗וֹם אִֽם־בְּקֹל֥וֹ תִשְׁמָֽעוּ׃",
+    "transliteration": "khiy<span class=\"mam-implicit-maqaf\">-</span>hv' 'eloheynv va'anahenv 'am mare'iytvo vetso'n yadvo hayvom 'im-vekolvo tishema'v.",
     "translation": "Pois ele é nosso Deus, e nós o rebanho de sua pastagem, e a ovelha da sua mão. Hoje, se em sua voz ouvirdes!"
   },
   {
     "verse": 8,
     "original": "אַל־תַּקְשׁ֣וּ לְ֭בַבְכֶם כִּמְרִיבָ֑ה כְּי֥וֹם מַ֝סָּ֗ה בַּמִּדְבָּֽר׃",
+    "transliteration": "'al-takeshv levavekhem khimeriyvah kheyvom masah vamidevar.",
     "translation": "Não endureçais vossos corações como em rebeldia, como no dia da provação, no deserto."
   },
   {
     "verse": 9,
     "original": "אֲשֶׁ֣ר נִ֭סּוּנִי אֲבֽוֹתֵיכֶ֑ם בְּ֝חָנ֗וּנִי גַּם־רָא֥וּ פׇעֳלִֽי׃",
+    "transliteration": "'asher nisvniy 'avvoteykhem vehanvniy gam-ra'v fo'oliy.",
     "translation": "Que vossos pais me provaram, e me tentaram, e viram minha obra."
   },
   {
     "verse": 10,
     "original": "אַרְבָּ֘עִ֤ים שָׁנָ֨ה&thinsp;<b>׀</b> אָ֘ק֤וּט בְּד֗וֹר וָאֹמַ֗ר עַ֤ם תֹּעֵ֣י לֵבָ֣ב הֵ֑ם וְ֝הֵ֗ם לֹא־יָדְע֥וּ דְרָכָֽי׃",
+    "transliteration": "'areva'iym shanah&thinsp;<b>|</b> 'akvt vedvor va'omar 'am to'ey levav hem vehem lo'-yade'v derakhay.",
     "translation": "Quarenta anos eu carreguei aquela geração, dizendo: Povo de coração errante são eles, e não conhecem os meus caminhos."
   },
   {
     "verse": 11,
     "original": "אֲשֶׁר־נִשְׁבַּ֥עְתִּי בְאַפִּ֑י אִם־יְ֝בֹא֗וּן אֶל־מְנוּחָתִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'asher-nisheva'etiy ve'afiy 'im-yevo'vn 'el-menvhatiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "porque jurei pela minha ira que eles não entrarão na minha repouso."
   }
 ]

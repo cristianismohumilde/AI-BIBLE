@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "ישמח",
+    "transliteration": "ysmh",
     "translation": "Aleluia"
   },
   {
     "verse": 2,
     "original": "ויגיל ויענני יהוה ויאמר כתוב חזון ובאר על הלחות למען ירוץ קורא בו",
+    "transliteration": "vygyl vy'nny yhvh vy'mr khtvv hzvn vv'r 'l hlhvt lm'n yrvts kvr' vv",
     "translation": "E alegrar-se-á e responder-me-á o Senhor, dizendo: Escreve a visão e faz clara sobre ela para que corra aquele que nela lê."
   },
   {
     "verse": 3,
     "original": "כי עוד חזון למועד ויפח לקץ ולא יכזב אם יתמהמה חכה לו כי בא יבא לא יאחר",
+    "transliteration": "khy 'vd hzvn lmv'd vyfh lkts vl' ykhzv 'm ytmhmh hkhh lv khy v' yv' l' y'hr",
     "translation": "Porque ainda há visão pelo tempo determinado, e para o fim se confirmará; não mentirá. Se tardar, espera por ele, porque certamente virá e não atrasará."
   },
   {
     "verse": 4,
     "original": "הנה עפלה לא ישרה נפשו בו וצדיק באמונתו יחיה",
+    "transliteration": "hnh 'flh l' ysrh nfsv vv vtsdyk v'mvntv yhyh",
     "translation": "Eis, porém, o ímpio não tem firmeza; mas o justo viverá pela sua fé."
   },
   {
     "verse": 5,
     "original": "ותשליכני מצולה בלבב ימים ונהר יסבבני כול משבריכה וגליכה עלי עברו ואני אמרתי נגרשתי מנגד עיניך אכה אסף להביט אל היכל קודשך אפפני מים ד נפש תהום יסבבני סוף חבוש לראשי לקצבי הרים ירדתי הארץ ברחיה בעדי לעולם ותעל משחת חיי נפשי יהוה אלוהי בהתעטף עלי נפשי את יהוה זכרתי ותבוא אליכה משמרים הבלי שוא חסודם יעזובו ואני בקול תודה אזבחה לך אשר נדרתי אשלם ישועתה ליהוה ויאמר יהוה לדג ויקא את יונה אל היבשה ויהי דבר יהוה אל יונה שנית לאמר קום לכה אל נינוה העיר הגדולה וקרא אליה את הקריאה אשר אנוכי דובר אליכה ויקום",
+    "transliteration": "vtslykhny mtsvlh vlvv ymym vnhr ysvvny khvl msvrykhh vglykhh 'ly 'vrv v'ny 'mrty ngrsty mngd 'ynykh 'khh 'sf lhvyt 'l hykhl kvdskh 'ffny mym d nfs thvm ysvvny svf hvvs lr'sy lktsvy hrym yrdty h'rts vrhyh v'dy l'vlm vt'l msht hyy nfsy yhvh 'lvhy vht'tf 'ly nfsy 't yhvh zkhrty vtvv' 'lykhh msmrym hvly sv' hsvdm y'zvvv v'ny vkvl tvdh 'zvhh lkh 'sr ndrty 'slm ysv'th lyhvh vy'mr yhvh ldg vyk' 't yvnh 'l hyvsh vyhy dvr yhvh 'l yvnh snyt l'mr kvm lkhh 'l nynvh h'yr hgdvlh vkr' 'lyh 't hkry'h 'sr 'nvkhy dvvr 'lykhh vykvm",
     "translation": "E me lançaram ao abismo no coração dos mares, e o rio me envolveu em toda a sua torrente; as ondas passaram sobre mim. Disse eu: Afastado fui do teu olhar! Isso é desespero! Mas entrarei de novo no templo da tua santidade... Os líquidos se fecharam sobre minha cabeça, cobrindo-me a cabeça como uma jangada; desci à linha mais profunda dos montes-rochedos. A terra estava em reboliço e eu, sem fim, me afundava na agitação de minha vida. Mas minha alma, ó Senhor meu Deus, se reveste de ti; e recordo-me do Senhor entre as trevas da minha alma. E vêm a mim os socorros dos teus tempos, não em vão, quando te invoco: os meus louvores não desistem... Obrigado pagar o que prometi em sacrifício ao Senhor pelas suas salvações. Disse então o Senhor à grande peixe: \"Arroja a Jonas à terra!\" E assim foi feito. Então disse o Senhor a Jonas, pela segunda vez: Levanta-te e vai para Nínive, a grande cidade, e proclama-lhe a palavra que eu te ordeno! E Jonas se levantou..."
   },
   {
     "verse": 6,
     "original": "כל העמים הלוא אלה כלם עליו משל ישאו ומליצה חידות לו ויאמר הוי המרבה לא לו עד מתי",
+    "transliteration": "khl h'mym hlv' 'lh khlm 'lyv msl ys'v vmlytsh hydvt lv vy'mr hvy hmrvh l' lv 'd mty",
     "translation": "Todo povo, lōʾ eles sobre ele levarão o jugo e as parábolas de zombaria. E dirá: Ai do que amassa o que não é seu! Até quando?"
   },
   {
     "verse": 15,
     "original": "משל ישאו ומליצה חידות לו ויאמר הוי",
+    "transliteration": "msl ys'v vmlytsh hydvt lv vy'mr hvy",
     "translation": "Porventura se levantará um poeta e lhe dirá palavras enigmáticas e ditos encobertos, e dirá: Ai!"
   },
   {
     "verse": 16,
     "original": "המרבה לא לו עד מתי ומכביד",
+    "transliteration": "hmrvh l' lv 'd mty vmkhvyd",
     "translation": "O que multiplica... até quando? E torna pesado..."
   },
   {
     "verse": 17,
     "original": "עליו עבטיט הלוא פתע יקומו נשכיך ויקצו מזעזעיך והיית למשסות למו כי אתה שלות גוים רבים ישלוך כל יתר עמים מדמי אדם וחמס ארץ קריה וכל ישבי בה",
+    "transliteration": "'lyv 'vtyt hlv' ft' ykvmv nskhykh vyktsv mz'z'ykh vhyyt lmssvt lmv khy 'th slvt gvym rvym yslvkh khl ytr 'mym mdmy 'dm vhms 'rts kryh vkhl ysvy vh",
     "translation": "...sobre ele, oh, que de repente se levantem os teus devoradores e se perturbem os teus adversários; e tu serás uma desonra para eles, pois foste o saqueador de muitas nações; tudo o que resta aos povos é sangue humano e pilhagem da terra, cidade e todos os seus habitantes..."
   },
   {
     "verse": 18,
     "original": "הוי בצע בצע רע לביתו לשום במרום קנו להנצל מכף רע יעצת בשת לביתך קצות עמים רבים וחוטא נפשך כי אבן מקיר תזעק וכפיס מעץ יעננה פסל כי פסלו יצרו מסכה ומורה שקר כי בטח יצר יצרו עליו לעשות אלילים אלמים",
+    "transliteration": "hvy vts' vts' r' lvytv lsvm vmrvm knv lhntsl mkhf r' y'tst vst lvytkh ktsvt 'mym rvym vhvt' nfskh khy 'vn mkyr tz'k vkhfys m'ts y'nnh fsl khy fslv ytsrv mskhh vmvrh skr khy vth ytsr ytsrv 'lyv l'svt 'lylym 'lmym",
     "translation": "Vede, aquele que adquire riquezas iníquas para sua casa, elevando-a em alturas; tomando refúgio numa vã segurança como um escudo de demolição! Ó desonra sobre vossa casa, cume entre muitos povos e a culpa de vosso próprio espírito! Porque uma pedra de sua própria parede clama contra vós, e uma viga de madeira responde. Porque o ídolo que eles fizeram é um molde enganoso, dando falsa instrução; pois aquele em quem confiaram forjou-o para fazer deuses mudos."
   },
   {
     "verse": 19,
     "original": "הוי אמר לעץ הקיצה עורי לאבן דומם הוא יורה הנה הוא תפוש זהב וכסף וכל רוח אין בקרבו",
+    "transliteration": "hvy 'mr l'ts hkytsh 'vry l'vn dvmm hv' yvrh hnh hv' tfvs zhv vkhsf vkhl rvh 'yn vkrvv",
     "translation": "Ó, dize à madeira que desperte, acorda! A pedra imóvel pode dar instrução? Eis que é revestida de ouro e prata, mas não há fôlego em seu interior."
   },
   {
     "verse": 20,
     "original": "ויהוה בהיכל קדשו הס מפניו כל הארץ",
+    "transliteration": "vyhvh vhykhl kdsv hs mfnyv khl h'rts",
     "translation": "E o Senhor está no seu santuário; que toda a terra tremenda diante dele."
   }
 ]

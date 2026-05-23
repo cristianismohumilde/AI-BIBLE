@@ -2,121 +2,145 @@
   {
     "verse": 1,
     "original": "וַֽיְהִי֙ כַּאֲשֶׁר־תַּ֣מּוּ כׇל־הַגּ֔וֹי לַעֲב֖וֹר אֶת־הַיַּרְדֵּ֑ן&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "transliteration": "vayehiy kha'asher-tamv khol-hagvoy la'avvor 'et-hayareden&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>vayo'mer yehovah 'el-yehvoshu'a le'mor.",
     "translation": "E sucedeu que, quando todo o povo acabou de passar o Jordão, o Senhor disse a Josué, dizendo:"
   },
   {
     "verse": 2,
     "original": "קְח֤וּ לָכֶם֙ מִן־הָעָ֔ם שְׁנֵ֥ים עָשָׂ֖ר אֲנָשִׁ֑ים אִישׁ־אֶחָ֥ד אִישׁ־אֶחָ֖ד מִשָּֽׁבֶט׃",
+    "transliteration": "kehv lakhem min-ha'am sheneym 'asar 'anashiym 'iysh-'ehad 'iysh-'ehad mishavet.",
     "translation": "Tomai de entre o povo doze homens, um por cada tribo."
   },
   {
     "verse": 3,
     "original": "וְצַוּ֣וּ אוֹתָם֮ לֵאמֹר֒ שְׂאֽוּ־לָכֶ֨ם מִזֶּ֜ה מִתּ֣וֹךְ הַיַּרְדֵּ֗ן מִמַּצַּב֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים הָכִ֖ין שְׁתֵּים־עֶשְׂרֵ֣ה אֲבָנִ֑ים וְהַעֲבַרְתֶּ֤ם אוֹתָם֙ עִמָּכֶ֔ם וְהִנַּחְתֶּ֣ם אוֹתָ֔ם בַּמָּל֕וֹן אֲשֶׁר־תָּלִ֥ינוּ ב֖וֹ הַלָּֽיְלָה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vetsavv 'votam le'mor se'v-lakhem mizeh mitvokhe hayareden mimatsav rageley hakhohaniym hakhiyn sheteym-'esereh 'avaniym veha'avaretem 'votam 'imakhem vehinahetem 'votam vamalvon 'asher-taliynv vvo halayelah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E ordenei-lhes, dizendo: Tomem dali do meio do Jordão, da parte das plantas dos pés dos sacerdotes, doze pedras e levem-nas consigo, e as ponham no lugar onde acamparem esta noite."
   },
   {
     "verse": 4,
     "original": "וַיִּקְרָ֣א יְהוֹשֻׁ֗עַ אֶל־שְׁנֵ֤ים הֶעָשָׂר֙ אִ֔ישׁ אֲשֶׁ֥ר הֵכִ֖ין מִבְּנֵ֣י יִשְׂרָאֵ֑ל אִישׁ־אֶחָ֥ד אִישׁ־אֶחָ֖ד מִשָּֽׁבֶט׃",
+    "transliteration": "vayikera' yehvoshu'a 'el-sheneym he'asar 'iysh 'asher hekhiyn miveney yisera'el 'iysh-'ehad 'iysh-'ehad mishavet.",
     "translation": "E Josué chamou os doze homens, dos quais um de cada tribo de Israel foi designado, um por um, de cada tribo."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֤אמֶר לָהֶם֙ יְהוֹשֻׁ֔עַ עִ֠בְר֠וּ לִפְנֵ֨י אֲר֧וֹן יְהֹוָ֛ה אֱלֹהֵיכֶ֖ם אֶל־תּ֣וֹךְ הַיַּרְדֵּ֑ן וְהָרִ֨ימוּ לָכֶ֜ם אִ֣ישׁ אֶ֤בֶן אַחַת֙ עַל־שִׁכְמ֔וֹ לְמִסְפַּ֖ר שִׁבְטֵ֥י בְנֵֽי־יִשְׂרָאֵֽל׃",
+    "transliteration": "vayo'mer lahem yehvoshu'a 'iverv lifeney 'arvon yehovah 'eloheykhem 'el-tvokhe hayareden vehariymv lakhem 'iysh 'even 'ahat 'al-shikhemvo lemisefar shivetey veney-yisera'el.",
     "translation": "E disse-lhes Josué: Passem à frente do arco do Senhor, vosso Deus, para o meio do Jordão; e levante cada um de vós uma pedra sobre o ombro, conforme o número das tribos dos filhos de Israel."
   },
   {
     "verse": 6,
     "original": "לְמַ֗עַן תִּֽהְיֶ֛ה זֹ֥את א֖וֹת בְּקִרְבְּכֶ֑ם כִּֽי־יִשְׁאָל֨וּן בְּנֵיכֶ֤ם מָחָר֙ לֵאמֹ֔ר מָ֛ה הָֽאֲבָנִ֥ים הָאֵ֖לֶּה לָכֶֽם׃",
+    "transliteration": "lema'an tiheyeh zo't 'vot vekirevekhem khiy-yishe'alvn veneykhem mahar le'mor mah ha'avaniym ha'eleh lakhem.",
     "translation": "Para que isto seja sinal entre vós, quando vossos filhos vos perguntarem amanhã dizendo: Que são estas pedras para vós?"
   },
   {
     "verse": 7,
     "original": "וַאֲמַרְתֶּ֣ם לָהֶ֗ם אֲשֶׁ֨ר נִכְרְת֜וּ מֵימֵ֤י הַיַּרְדֵּן֙ מִפְּנֵי֙ אֲר֣וֹן בְּרִית־יְהֹוָ֔ה בְּעׇבְרוֹ֙ בַּיַּרְדֵּ֔ן נִכְרְת֖וּ מֵ֣י הַיַּרְדֵּ֑ן וְ֠הָי֠וּ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּר֛וֹן לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־עוֹלָֽם׃",
+    "transliteration": "va'amaretem lahem 'asher nikheretv meymey hayareden mifeney 'arvon veriyt-yehovah ve'overvo vayareden nikheretv mey hayareden vehayv ha'avaniym ha'eleh lezikharvon liveney yisera'el 'ad-'volam.",
     "translation": "E direis a eles que as águas do Jordão foram cortadas diante do Arca da Aliança do Senhor, quando ele atravessou o Jordão; e as águas do Jordão foram cortadas, permanecendo estas pedras como memorial para os filhos de Israel para sempre."
   },
   {
     "verse": 8,
     "original": "וַיַּעֲשׂוּ־כֵ֣ן בְּנֵֽי־יִשְׂרָאֵל֮ כַּאֲשֶׁ֣ר צִוָּ֣ה יְהוֹשֻׁ֒עַ֒ וַיִּשְׂא֡וּ שְׁתֵּֽי־עֶשְׂרֵ֨ה אֲבָנִ֜ים מִתּ֣וֹךְ הַיַּרְדֵּ֗ן כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהֹוָה֙ אֶל־יְהוֹשֻׁ֔עַ לְמִסְפַּ֖ר שִׁבְטֵ֣י בְנֵֽי־יִשְׂרָאֵ֑ל וַיַּעֲבִר֤וּם עִמָּם֙ אֶל־הַמָּל֔וֹן וַיַּנִּח֖וּם שָֽׁם׃",
+    "transliteration": "vaya'asv-khen veney-yisera'el kha'asher tsivah yehvoshu'a vayise'v shetey-'esereh 'avaniym mitvokhe hayareden kha'asher diver yehovah 'el-yehvoshu'a lemisefar shivetey veney-yisera'el vaya'avirvm 'imam 'el-hamalvon vayanihvm sham.",
     "translation": "E os filhos de Israel fizeram conforme ordenara Josué, e levantaram do meio do Jordão doze pedras, conforme o Senhor havia dito a Josué, conforme o número das tribos dos filhos de Israel; as trouxeram consigo para o acampamento, e as depositaram ali."
   },
   {
     "verse": 9,
     "original": "וּשְׁתֵּ֧ים עֶשְׂרֵ֣ה אֲבָנִ֗ים הֵקִ֣ים יְהוֹשֻׁ֘עַ֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ תַּ֗חַת מַצַּב֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הַבְּרִ֑ית וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+    "transliteration": "vsheteym 'esereh 'avaniym hekiym yehvoshu'a vetvokhe hayareden tahat matsav rageley hakhohaniym nose'ey 'arvon haveriyt vayiheyv sham 'ad hayvom hazeh.",
     "translation": "Ergueram doze pedras Josué no meio do Jordão, debaixo das plantas dos pés dos sacerdotes que carregavam o Arca da Aliança, e permaneceram ali até este dia.\n\n**Revisão:**  \nErgeu duas e dez pedras Josué no meio do Jordão, sob os pés dos sacerdotes que sustentavam a Arca da Aliança, e ficaram lá até o presente dia."
   },
   {
     "verse": 10,
     "original": "וְהַכֹּהֲנִ֞ים נֹשְׂאֵ֣י הָֽאָר֗וֹן עֹמְדִים֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ עַ֣ד תֹּ֣ם כׇּֽל־הַ֠דָּבָ֠ר אֲשֶׁר־צִוָּ֨ה יְהֹוָ֤ה אֶת־יְהוֹשֻׁ֙עַ֙ לְדַבֵּ֣ר אֶל־הָעָ֔ם כְּכֹ֛ל אֲשֶׁר־צִוָּ֥ה מֹשֶׁ֖ה אֶת־יְהוֹשֻׁ֑עַ וַיְמַהֲר֥וּ הָעָ֖ם וַיַּעֲבֹֽרוּ׃",
+    "transliteration": "vehakhohaniym nose'ey ha'arvon 'omediym vetvokhe hayareden 'ad tom khol-hadavar 'asher-tsivah yehovah 'et-yehvoshu'a ledaver 'el-ha'am khekhol 'asher-tsivah mosheh 'et-yehvoshu'a vayemaharv ha'am vaya'avorv.",
     "translation": "E os sacerdotes que carregam a arca estavam de pé no meio do Jordão, até o fim de toda a palavra que Jeová ordenou a Josué dirigir ao povo, conforme tudo quanto Moisés dera ordem a Josué. O povo logo se apressou e passou."
   },
   {
     "verse": 11,
     "original": "וַיְהִ֛י כַּֽאֲשֶׁר־תַּ֥ם כׇּל־הָעָ֖ם לַעֲב֑וֹר וַיַּעֲבֹ֧ר אֲרוֹן־יְהֹוָ֛ה וְהַכֹּהֲנִ֖ים לִפְנֵ֥י הָעָֽם׃",
+    "transliteration": "vayehiy kha'asher-tam khol-ha'am la'avvor vaya'avor 'arvon-yehovah vehakhohaniym lifeney ha'am.",
     "translation": "E foi quando todo o povo terminou de passar, que a arca do Senhor e os sacerdotes passaram adiante do povo."
   },
   {
     "verse": 12,
     "original": "וַ֠יַּעַבְר֠וּ בְּנֵֽי־רְאוּבֵ֨ן וּבְנֵי־גָ֜ד וַחֲצִ֨י שֵׁ֤בֶט הַֽמְנַשֶּׁה֙ חֲמֻשִׁ֔ים לִפְנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ם מֹשֶֽׁה׃",
+    "transliteration": "vaya'averv veney-re'vven vveney-gad vahatsiy shevet hamenasheh hamushiym lifeney veney yisera'el kha'asher diver 'aleyhem mosheh.",
     "translation": "E passaram os filhos de Rúben e os filhos de Gade, e a metade da tribo de Manassés, equipados para a guerra, diante dos filhos de Israel, conforme Moisés lhes havia ordenado."
   },
   {
     "verse": 13,
     "original": "כְּאַרְבָּעִ֥ים אֶ֖לֶף חֲלוּצֵ֣י הַצָּבָ֑א עָבְר֞וּ לִפְנֵ֤י יְהֹוָה֙ לַמִּלְחָמָ֔ה אֶ֖ל עַֽרְב֥וֹת יְרִיחֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khe'areva'iym 'elef halvtsey hatsava' 'averv lifeney yehovah lamilehamah 'el 'arevvot yeriyhvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Quarenta mil guerreiros valentes atravessaram diante do Senhor para a guerra, às planícies de Jericó."
   },
   {
     "verse": 14,
     "original": "בַּיּ֣וֹם הַה֗וּא גִּדַּ֤ל יְהֹוָה֙ אֶת־יְהוֹשֻׁ֔עַ בְּעֵינֵ֖י כׇּל־יִשְׂרָאֵ֑ל וַיִּֽרְא֣וּ אֹת֔וֹ כַּאֲשֶׁ֛ר יָֽרְא֥וּ אֶת־מֹשֶׁ֖ה כׇּל־יְמֵ֥י חַיָּֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayvom hahv' gidal yehovah 'et-yehvoshu'a ve'eyney khol-yisera'el vayire'v 'otvo kha'asher yare'v 'et-mosheh khol-yemey hayayv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Nesse dia, o Senhor engrandeceu a Josué aos olhos de todo Israel; e eles o viram como haviam visto a Moisés todos os dias da sua vida."
   },
   {
     "verse": 15,
     "original": "וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "transliteration": "vayo'mer yehovah 'el-yehvoshu'a le'mor.",
     "translation": "E disse o Senhor a Josué, dizendo:"
   },
   {
     "verse": 16,
     "original": "צַוֵּה֙ אֶת־הַכֹּ֣הֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הָעֵד֑וּת וְיַעֲל֖וּ מִן־הַיַּרְדֵּֽן׃",
+    "transliteration": "tsaveh 'et-hakhohaniym nose'ey 'arvon ha'edvt veya'alv min-hayareden.",
     "translation": "Ordena aos sacerdotes, portadores da arca do testemunho, que subam do Jordão."
   },
   {
     "verse": 17,
     "original": "וַיְצַ֣ו יְהוֹשֻׁ֔עַ אֶת־הַכֹּהֲנִ֖ים לֵאמֹ֑ר עֲל֖וּ מִן־הַיַּרְדֵּֽן׃",
+    "transliteration": "vayetsav yehvoshu'a 'et-hakhohaniym le'mor 'alv min-hayareden.",
     "translation": "E Josué ordenou aos sacerdotes: Subam do Jordão."
   },
   {
     "verse": 18,
     "original": "וַ֠יְהִ֠י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בעלות)</span> <span class=\"mam-kq-q\">[כַּעֲל֨וֹת]</span></span> הַכֹּהֲנִ֜ים נֹשְׂאֵ֨י אֲר֤וֹן בְּרִית־יְהֹוָה֙ מִתּ֣וֹךְ הַיַּרְדֵּ֔ן נִתְּק֗וּ כַּפּוֹת֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים אֶ֖ל הֶחָרָבָ֑ה וַיָּשֻׁ֤בוּ מֵֽי־הַיַּרְדֵּן֙ לִמְקוֹמָ֔ם וַיֵּלְכ֥וּ כִתְמוֹל־שִׁלְשׁ֖וֹם עַל־כׇּל־גְּדוֹתָֽיו׃",
+    "transliteration": "vayehiy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'lvt)</span> <span class=\"mam-kq-q\">[kha'alvot]</span></span> hakhohaniym nose'ey 'arvon veriyt-yehovah mitvokhe hayareden nitekv khafvot rageley hakhohaniym 'el heharavah vayashuvv mey-hayareden limekvomam vayelekhv khitemvol-shileshvom 'al-khol-gedvotayv.",
     "translation": "E aconteceu que, quando os sacerdotes que carregavam a arca da aliança do Senhor subiam do meio do Jordão, as plantas dos pés dos sacerdotes tocaram o solo seco, e as águas do Jordão voltaram às suas margens, correndo como antes sobre todos os seus leitos."
   },
   {
     "verse": 19,
     "original": "וְהָעָ֗ם עָלוּ֙ מִן־הַיַּרְדֵּ֔ן בֶּעָשׂ֖וֹר לַחֹ֣דֶשׁ הָרִאשׁ֑וֹן וַֽיַּחֲנוּ֙ בַּגִּלְגָּ֔ל בִּקְצֵ֖ה מִזְרַ֥ח יְרִיחֽוֹ׃",
+    "transliteration": "veha'am 'alv min-hayareden ve'asvor lahodesh hari'shvon vayahanv vagilegal viketseh mizerah yeriyhvo.",
     "translation": "E o povo subiu do Jordão no décimo dia do primeiro mês, e acamparam em Gilgal, ao leste de Jericó."
   },
   {
     "verse": 20,
     "original": "וְאֵת֩ שְׁתֵּ֨ים עֶשְׂרֵ֤ה הָֽאֲבָנִים֙ הָאֵ֔לֶּה אֲשֶׁ֥ר לָקְח֖וּ מִן־הַיַּרְדֵּ֑ן הֵקִ֥ים יְהוֹשֻׁ֖עַ בַּגִּלְגָּֽל׃",
+    "transliteration": "ve'et sheteym 'esereh ha'avaniym ha'eleh 'asher lakehv min-hayareden hekiym yehvoshu'a vagilegal.",
     "translation": "E as doze pedras que tomaram do rio Jordão, Josué as erigiu em Gilgal."
   },
   {
     "verse": 21,
     "original": "וַיֹּ֛אמֶר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר אֲשֶׁר֩ יִשְׁאָל֨וּן בְּנֵיכֶ֤ם מָחָר֙ אֶת־אֲבוֹתָ֣ם לֵאמֹ֔ר מָ֖ה הָאֲבָנִ֥ים הָאֵֽלֶּה׃",
+    "transliteration": "vayo'mer 'el-veney yisera'el le'mor 'asher yishe'alvn veneykhem mahar 'et-'avvotam le'mor mah ha'avaniym ha'eleh.",
     "translation": "E disse aos filhos de Israel: Certamente vossos filhos perguntarão a vós, seus pais, no dia de amanhã: Que são estas pedras?"
   },
   {
     "verse": 22,
     "original": "וְהוֹדַעְתֶּ֖ם אֶת־בְּנֵיכֶ֣ם לֵאמֹ֑ר בַּיַּבָּשָׁה֙ עָבַ֣ר יִשְׂרָאֵ֔ל אֶת־הַיַּרְדֵּ֖ן הַזֶּֽה׃",
+    "transliteration": "vehvoda'etem 'et-veneykhem le'mor vayavashah 'avar yisera'el 'et-hayareden hazeh.",
     "translation": "E anunciareis aos vossos filhos, dizendo: Por terra seca passou Israel este Jordão."
   },
   {
     "verse": 23,
     "original": "אֲשֶׁר־הוֹבִישׁ֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֜ם אֶת־מֵ֧י הַיַּרְדֵּ֛ן מִפְּנֵיכֶ֖ם עַֽד־עׇבְרְכֶ֑ם כַּאֲשֶׁ֣ר עָשָׂה֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֧ם לְיַם־ס֛וּף אֲשֶׁר־הוֹבִ֥ישׁ מִפָּנֵ֖ינוּ עַד־עׇבְרֵֽנוּ׃",
+    "transliteration": "'asher-hvoviysh yehovah 'eloheykhem 'et-mey hayareden mifeneykhem 'ad-'overekhem kha'asher 'asah yehovah 'eloheykhem leyam-svf 'asher-hvoviysh mifaneynv 'ad-'overenv.",
     "translation": "Que o Senhor, vosso Deus, desfez as águas do Jordão diante de vós até passardes, como o Senhor, vosso Deus, fez com o Mar Vermelho que desfez diante de nós até que o atravessássemos."
   },
   {
     "verse": 24,
     "original": "לְ֠מַ֠עַן דַּ֜עַת כׇּל־עַמֵּ֤י הָאָ֙רֶץ֙ אֶת־יַ֣ד יְהֹוָ֔ה כִּ֥י חֲזָקָ֖ה הִ֑יא לְמַ֧עַן יְרָאתֶ֛ם אֶת־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם כׇּל־הַיָּמִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lema'an da'at khol-'amey ha'arets 'et-yad yehovah khiy hazakah hiy' lema'an yera'tem 'et-yehovah 'eloheykhem khol-hayamiym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para que todos os povos da terra conheçam a mão do Senhor, pois é poderosa; para que temais ao Senhor, vosso Deus, todos os dias."
   }
 ]

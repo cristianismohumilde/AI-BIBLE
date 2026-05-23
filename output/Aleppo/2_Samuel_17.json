@@ -2,146 +2,175 @@
   {
     "verse": 1,
     "original": "וַיֹּ֥אמֶר אֲחִיתֹ֖פֶל אֶל־אַבְשָׁל֑וֹם אֶבְחֲרָ֣ה נָּ֗א שְׁנֵים־עָשָׂ֥ר אֶ֙לֶף֙ אִ֔ישׁ וְאָק֛וּמָה וְאֶרְדְּפָ֥ה אַֽחֲרֵי־דָוִ֖ד הַלָּֽיְלָה׃",
+    "transliteration": "vayo'mer 'ahiytofel 'el-'aveshalvom 'eveharah na' sheneym-'asar 'elef 'iysh ve'akvmah ve'eredefah 'aharey-david halayelah.",
     "translation": "E Aitofel disse a Absalão: Darei doze mil homens, levantarei e perseguirei a Davi de noite."
   },
   {
     "verse": 2,
     "original": "וְאָב֣וֹא עָלָ֗יו וְה֤וּא יָגֵ֙עַ֙ וּרְפֵ֣ה יָדַ֔יִם וְהַחֲרַדְתִּ֣י אֹת֔וֹ וְנָ֖ס כׇּל־הָעָ֣ם אֲשֶׁר־אִתּ֑וֹ וְהִכֵּיתִ֥י אֶת־הַמֶּ֖לֶךְ לְבַדּֽוֹ׃",
+    "transliteration": "ve'avvo' 'alayv vehv' yage'a vrefeh yadayim vehaharadetiy 'otvo venas khol-ha'am 'asher-'itvo vehikheytiy 'et-hamelekhe levadvo.",
     "translation": "E eu entrarei contra ele, e ele será atingido, e suas mãos se enfraquecerão, e o farei tremer, e toda a multidão que está com ele fugirá, e ferirei somente ao rei."
   },
   {
     "verse": 3,
     "original": "וְאָשִׁ֥יבָה כׇל־הָעָ֖ם אֵלֶ֑יךָ כְּשׁ֣וּב הַכֹּ֔ל הָאִישׁ֙ אֲשֶׁ֣ר אַתָּ֣ה מְבַקֵּ֔שׁ כׇּל־הָעָ֖ם יִהְיֶ֥ה שָׁלֽוֹם׃",
+    "transliteration": "ve'ashiyvah khol-ha'am 'eleykha kheshvv hakhol ha'iysh 'asher 'atah mevakesh khol-ha'am yiheyeh shalvom.",
     "translation": "E farei retornar todo o povo até ti; assim, quando todos voltarem, a pessoa que buscas estará presente, e todo o povo será em paz."
   },
   {
     "verse": 4,
     "original": "וַיִּישַׁ֥ר הַדָּבָ֖ר בְּעֵינֵ֣י אַבְשָׁלֹ֑ם וּבְעֵינֵ֖י כׇּל־זִקְנֵ֥י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayiyshar hadavar ve'eyney 'aveshalom vve'eyney khol-zikeney yisera'el.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o assunto foi favorável aos olhos de Absalão, e também aos olhos de todos os anciãos de Israel."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֙אמֶר֙ אַבְשָׁל֔וֹם קְרָ֣א נָ֔א גַּ֖ם לְחוּשַׁ֣י הָאַרְכִּ֑י וְנִשְׁמְעָ֥ה מַה־בְּפִ֖יו גַּם־הֽוּא׃",
+    "transliteration": "vayo'mer 'aveshalvom kera' na' gam lehvshay ha'arekhiy venisheme'ah mah-vefiyv gam-hv'.",
     "translation": "E Absalão disse: Chama também a Hushai, o arquita, e ouviremos o que ele tem a dizer."
   },
   {
     "verse": 6,
     "original": "וַיָּבֹ֣א חוּשַׁי֮ אֶל־אַבְשָׁלוֹם֒ וַיֹּ֩אמֶר֩ אַבְשָׁל֨וֹם אֵלָ֜יו לֵאמֹ֗ר כַּדָּבָ֤ר הַזֶּה֙ דִּבֶּ֣ר אֲחִיתֹ֔פֶל הֲנַעֲשֶׂ֖ה אֶת־דְּבָר֑וֹ אִם־אַ֖יִן אַתָּ֥ה דַבֵּֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayavo' hvshay 'el-'aveshalvom vayo'mer 'aveshalvom 'elayv le'mor khadavar hazeh diver 'ahiytofel hana'aseh 'et-devarvo 'im-'ayin 'atah daver.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Hussai veio a Absalão, e Absalão lhe disse: Assim falou Aitofel; faremos conforme sua palavra? Se não, tu falarás."
   },
   {
     "verse": 7,
     "original": "וַיֹּ֥אמֶר חוּשַׁ֖י אֶל־אַבְשָׁל֑וֹם לֹֽא־טוֹבָ֧ה הָעֵצָ֛ה אֲשֶׁר־יָעַ֥ץ אֲחִיתֹ֖פֶל בַּפַּ֥עַם הַזֹּֽאת׃",
+    "transliteration": "vayo'mer hvshay 'el-'aveshalvom lo'-tvovah ha'etsah 'asher-ya'ats 'ahiytofel vafa'am hazo't.",
     "translation": "E Husai disse a Absalão: Não é boa aconselhagem que Aitofel deu nesta ocasião."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֣אמֶר חוּשַׁ֗י אַתָּ֣ה יָ֠דַ֠עְתָּ אֶת־אָבִ֨יךָ וְאֶת־אֲנָשָׁ֜יו כִּ֧י גִבֹּרִ֣ים הֵ֗מָּה וּמָרֵ֥י נֶ֙פֶשׁ֙ הֵ֔מָּה כְּדֹ֥ב שַׁכּ֖וּל בַּשָּׂדֶ֑ה וְאָבִ֙יךָ֙ אִ֣ישׁ מִלְחָמָ֔ה וְלֹ֥א יָלִ֖ין אֶת־הָעָֽם׃",
+    "transliteration": "vayo'mer hvshay 'atah yada'eta 'et-'aviykha ve'et-'anashayv khiy givoriym hemah vmarey nefesh hemah khedov shakhvl vasadeh ve'aviykha 'iysh milehamah velo' yaliyn 'et-ha'am.",
     "translation": "E disse Huçai: Tu sabes como teu pai e seus homens são valentes e obstinados, como um urso ferido no campo; e teu pai é homem de guerra e não passará a noite com o povo."
   },
   {
     "verse": 9,
     "original": "הִנֵּ֨ה עַתָּ֤ה הֽוּא־נֶחְבָּא֙ בְּאַחַ֣ת הַפְּחָתִ֔ים א֖וֹ בְּאַחַ֣ד הַמְּקוֹמֹ֑ת וְהָיָ֗ה כִּנְפֹ֤ל בָּהֶם֙ בַּתְּחִלָּ֔ה וְשָׁמַ֤ע הַשֹּׁמֵ֙עַ֙ וְאָמַ֔ר הָֽיְתָה֙ מַגֵּפָ֔ה בָּעָ֕ם אֲשֶׁ֖ר אַחֲרֵ֥י אַבְשָׁלֹֽם׃",
+    "transliteration": "hineh 'atah hv'-neheva' ve'ahat hafehatiym 'vo ve'ahad hamekvomot vehayah khinefol vahem vatehilah veshama' hashome'a ve'amar hayetah magefah va'am 'asher 'aharey 'aveshalom.",
     "translation": "Eis que agora ele se esconde em uma das cisternas ou em um dos lugares, e acontecerá que ao caírem nelas primeiro, o ouvinte ouvirá e dirá: Havia uma peste no povo que seguiu Absalão."
   },
   {
     "verse": 10,
     "original": "וְה֣וּא גַם־בֶּן־חַ֗יִל אֲשֶׁ֥ר לִבּ֛וֹ כְּלֵ֥ב הָאַרְיֵ֖ה הִמֵּ֣ס יִמָּ֑ס כִּֽי־יֹדֵ֤עַ כׇּל־יִשְׂרָאֵל֙ כִּי־גִבּ֣וֹר אָבִ֔יךָ וּבְנֵי־חַ֖יִל אֲשֶׁ֥ר אִתּֽוֹ׃",
+    "transliteration": "vehv' gam-ven-hayil 'asher livvo khelev ha'areyeh himes yimas khiy-yode'a khol-yisera'el khiy-givvor 'aviykha vveney-hayil 'asher 'itvo.",
     "translation": "E ele é um homem de valor, cujo coração é como o coração do leão que se despedaça; pois todo Israel sabe que teu pai é guerreiro e os homens de valor estão com ele."
   },
   {
     "verse": 11,
     "original": "כִּ֣י יָעַ֗צְתִּי הֵ֠אָסֹ֠ף יֵאָסֵ֨ף עָלֶ֤יךָ כׇל־יִשְׂרָאֵל֙ מִדָּן֙ וְעַד־בְּאֵ֣ר שֶׁ֔בַע כַּח֥וֹל אֲשֶׁר־עַל־הַיָּ֖ם לָרֹ֑ב וּפָנֶ֥יךָ הֹלְכִ֖ים בַּקְרָֽב׃",
+    "transliteration": "khiy ya'atsetiy he'asof ye'asef 'aleykha khol-yisera'el midan ve'ad-ve'er sheva' khahvol 'asher-'al-hayam larov vfaneykha holekhiym vakerav.",
     "translation": "Pois determinei que todos os israelitas se ajuntarão contra ti, do deserto de Quedem até Beér Sheva, como a areia que está na praia do mar em quantidade, e tua face caminhará para a batalha."
   },
   {
     "verse": 12,
     "original": "וּבָ֣אנוּ אֵלָ֗יו <span class=\"mam-kq\"><span class=\"mam-kq-k\">(באחת)</span> <span class=\"mam-kq-q\">[בְּאַחַ֤ד]</span></span> הַמְּקוֹמֹת֙ אֲשֶׁ֣ר נִמְצָ֣א שָׁ֔ם וְנַ֣חְנוּ עָלָ֔יו כַּאֲשֶׁ֛ר יִפֹּ֥ל הַטַּ֖ל עַל־הָאֲדָמָ֑ה וְלֹא־נ֥וֹתַר בּ֛וֹ וּבְכׇל־הָאֲנָשִׁ֥ים אֲשֶׁר־אִתּ֖וֹ גַּם־אֶחָֽד׃",
+    "transliteration": "vva'nv 'elayv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'ht)</span> <span class=\"mam-kq-q\">[ve'ahad]</span></span> hamekvomot 'asher nimetsa' sham venahenv 'alayv kha'asher yifol hatal 'al-ha'adamah velo'-nvotar vvo vvekhol-ha'anashiym 'asher-'itvo gam-'ehad.",
     "translation": "E viemos até ele de uma vez nos lugares onde estava, e nos achamos sobre ele como cai o orvalho sobre a terra, e não restou nada nele nem em todos os homens que estavam com ele, nem um."
   },
   {
     "verse": 13,
     "original": "וְאִם־אֶל־עִיר֙ יֵאָסֵ֔ף וְהִשִּׂ֧יאוּ כׇֽל־יִשְׂרָאֵ֛ל אֶל־הָעִ֥יר הַהִ֖יא חֲבָלִ֑ים וְסָחַ֤בְנוּ אֹתוֹ֙ עַד־הַנַּ֔חַל עַ֛ד אֲשֶֽׁר־לֹֽא־נִמְצָ֥א שָׁ֖ם גַּם־צְרֽוֹר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-'el-'iyr ye'asef vehisiy'v khol-yisera'el 'el-ha'iyr hahiy' havaliym vesahavenv 'otvo 'ad-hanahal 'ad 'asher-lo'-nimetsa' sham gam-tservor.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se à cidade for juntado, e todo Israel lançar cordas sobre aquela cidade, puxá-la-ão até o rio, até que não seja achada ali sequer uma pregaria."
   },
   {
     "verse": 14,
     "original": "וַיֹּ֤אמֶר אַבְשָׁלוֹם֙ וְכׇל־אִ֣ישׁ יִשְׂרָאֵ֔ל טוֹבָ֗ה עֲצַת֙ חוּשַׁ֣י הָאַרְכִּ֔י מֵעֲצַ֖ת אֲחִיתֹ֑פֶל&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיהֹוָ֣ה צִוָּ֗ה לְהָפֵ֞ר אֶת־עֲצַ֤ת אֲחִיתֹ֙פֶל֙ הַטּוֹבָ֔ה לְבַעֲב֗וּר הָבִ֧יא יְהֹוָ֛ה אֶל־אַבְשָׁל֖וֹם אֶת־הָרָעָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer 'aveshalvom vekhol-'iysh yisera'el tvovah 'atsat hvshay ha'arekhiy me'atsat 'ahiytofel&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vayhovah tsivah lehafer 'et-'atsat 'ahiytofel hatvovah leva'avvr haviy' yehovah 'el-'aveshalvom 'et-hara'ah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Absalão e todo o Israel disseram: “Excelente é o conselho de Hushai, o arquita, mais do que o conselho de Aquisfél.” E יהוה ordenou para frustrar o bom conselho de Aquisfél, a fim de que יהוה trouxesse a Absalão a ruína."
   },
   {
     "verse": 15,
     "original": "וַיֹּ֣אמֶר חוּשַׁ֗י אֶל־צָד֤וֹק וְאֶל־אֶבְיָתָר֙ הַכֹּ֣הֲנִ֔ים כָּזֹ֣את וְכָזֹ֗את יָעַ֤ץ אֲחִיתֹ֙פֶל֙ אֶת־אַבְשָׁלֹ֔ם וְאֵ֖ת זִקְנֵ֣י יִשְׂרָאֵ֑ל וְכָזֹ֥את וְכָזֹ֖את יָעַ֥צְתִּי אָֽנִי׃",
+    "transliteration": "vayo'mer hvshay 'el-tsadvok ve'el-'eveyatar hakhohaniym khazo't vekhazo't ya'ats 'ahiytofel 'et-'aveshalom ve'et zikeney yisera'el vekhazo't vekhazo't ya'atsetiy 'aniy.",
     "translation": "E disse Husai aos sacerdotes Sadoc e Eviatar: Assim aconselhou Aquisfél ao Absalão e aos anciãos de Israel, e assim eu aconselhei."
   },
   {
     "verse": 16,
     "original": "וְעַתָּ֡ה שִׁלְח֣וּ מְהֵרָה֩ וְהַגִּ֨ידוּ לְדָוִ֜ד לֵאמֹ֗ר אַל־תָּ֤לֶן הַלַּ֙יְלָה֙ בְּעַֽרְב֣וֹת הַמִּדְבָּ֔ר וְגַ֖ם עָב֣וֹר תַּעֲב֑וֹר פֶּ֚ן יְבֻלַּ֣ע לַמֶּ֔לֶךְ וּלְכׇל־הָעָ֖ם אֲשֶׁ֥ר אִתּֽוֹ׃",
+    "transliteration": "ve'atah shilehv meherah vehagiydv ledavid le'mor 'al-talen halayelah ve'arevvot hamidevar vegam 'avvor ta'avvor fen yevula' lamelekhe vlekhol-ha'am 'asher 'itvo.",
     "translation": "E agora, apressai-vos e informai a Davi: Não permaneças esta noite nos arvós do deserto; passa também, para que não sejas engolido pelo rei junto com todo o povo que contigo está."
   },
   {
     "verse": 17,
     "original": "וִיהוֹנָתָ֨ן וַאֲחִימַ֜עַץ עֹמְדִ֣ים בְּעֵין־רֹגֵ֗ל וְהָלְכָ֤ה הַשִּׁפְחָה֙ וְהִגִּ֣ידָה לָהֶ֔ם וְהֵם֙ יֵֽלְכ֔וּ וְהִגִּ֖ידוּ לַמֶּ֣לֶךְ דָּוִ֑ד כִּ֣י לֹ֥א יוּכְל֛וּ לְהֵרָא֖וֹת לָב֥וֹא הָעִֽירָה׃",
+    "transliteration": "viyhvonatan va'ahiyma'ats 'omediym ve'eyn-rogel vehalekhah hashifehah vehigiydah lahem vehem yelekhv vehigiydv lamelekhe david khiy lo' yvkhelv lehera'vot lavvo' ha'iyrah.",
     "translation": "E Jonatã e Achiemez estavam em En-Rogel; a serva sairia para dar-lhes a notícia, e eles iriam informar ao rei Davi; pois não poderiam ser vistos entrando na cidade."
   },
   {
     "verse": 18,
     "original": "וַיַּ֤רְא אֹתָם֙ נַ֔עַר וַיַּגֵּ֖ד לְאַבְשָׁלֹ֑ם וַיֵּלְכוּ֩ שְׁנֵיהֶ֨ם מְהֵרָ֜ה וַיָּבֹ֣אוּ&thinsp;<b>׀</b> אֶל־בֵּֽית־אִ֣ישׁ בְּבַחוּרִ֗ים וְל֥וֹ בְאֵ֛ר בַּחֲצֵר֖וֹ וַיֵּ֥רְדוּ שָֽׁם׃",
+    "transliteration": "vayare' 'otam na'ar vayaged le'aveshalom vayelekhv sheneyhem meherah vayavo'v&thinsp;<b>|</b> 'el-veyt-'iysh vevahvriym velvo ve'er vahatservo vayeredv sham.",
     "translation": "E viu-os um jovem e anunciou a Absalão. Ambos se apressaram e chegaram à casa de um homem na cidade dos moços; havia ali uma cisterna no pátio, e desceram-lhe lá."
   },
   {
     "verse": 19,
     "original": "וַתִּקַּ֣ח הָאִשָּׁ֗ה וַתִּפְרֹ֤שׂ אֶת־הַמָּסָךְ֙ עַל־פְּנֵ֣י הַבְּאֵ֔ר וַתִּשְׁטַ֥ח עָלָ֖יו הָרִפ֑וֹת וְלֹ֥א נוֹדַ֖ע דָּבָֽר׃",
+    "transliteration": "vatikah ha'ishah vatiferos 'et-hamasakhe 'al-feney have'er vatishetah 'alayv harifvot velo' nvoda' davar.",
     "translation": "E a mulher tomou e estendeu o manto sobre a boca do poço, e se prostrou sobre ele em repouso, e não foi conhecido o assunto."
   },
   {
     "verse": 20,
     "original": "וַיָּבֹ֣אוּ עַבְדֵי֩ אַבְשָׁל֨וֹם אֶֽל־הָאִשָּׁ֜ה הַבַּ֗יְתָה וַיֹּֽאמְרוּ֙ אַיֵּ֗ה אֲחִימַ֙עַץ֙ וִיה֣וֹנָתָ֔ן וַתֹּ֤אמֶר לָהֶם֙ הָאִשָּׁ֔ה עָבְר֖וּ מִיכַ֣ל הַמָּ֑יִם וַיְבַקְשׁוּ֙ וְלֹ֣א מָצָ֔אוּ וַיָּשֻׁ֖בוּ יְרוּשָׁלָֽ͏ִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayavo'v 'avedey 'aveshalvom 'el-ha'ishah havayetah vayo'merv 'ayeh 'ahiyma'ats viyhvonatan vato'mer lahem ha'ishah 'averv miykhal hamayim vayevakeshv velo' matsa'v vayashuvv yervshalaim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E vieram os servos de Absalão à mulher em casa, e disseram: Onde estão Aquismaaz e Joananã? E a mulher lhes respondeu: Passaram além das águas. E eles buscaram e não acharam, e voltaram para Jerusalém."
   },
   {
     "verse": 21,
     "original": "וַיְהִ֣י&thinsp;<b>׀</b> אַחֲרֵ֣י לֶכְתָּ֗ם וַֽיַּעֲלוּ֙ מֵֽהַבְּאֵ֔ר וַיֵּ֣לְכ֔וּ וַיַּגִּ֖דוּ לַמֶּ֣לֶךְ דָּוִ֑ד וַיֹּאמְר֣וּ אֶל־דָּוִ֗ד ק֣וּמוּ וְעִבְר֤וּ מְהֵרָה֙ אֶת־הַמַּ֔יִם כִּי־כָ֛כָה יָעַ֥ץ עֲלֵיכֶ֖ם אֲחִיתֹֽפֶל׃",
+    "transliteration": "vayehiy&thinsp;<b>|</b> 'aharey lekhetam vaya'alv mehave'er vayelekhv vayagidv lamelekhe david vayo'merv 'el-david kvmv ve'iverv meherah 'et-hamayim khiy-khakhah ya'ats 'aleykhem 'ahiytofel.",
     "translation": "E aconteceu depois que partiram, subiram da cisterna e foram, e anunciaram ao rei Davi, dizendo: Levanta-te e atravessa apressadamente as águas, pois assim Ahitofel aconselhou contra vós."
   },
   {
     "verse": 22,
     "original": "וַיָּ֣קׇם דָּוִ֗ד וְכׇל־הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּעַבְר֖וּ אֶת־הַיַּרְדֵּ֑ן עַד־א֣וֹר הַבֹּ֗קֶר עַד־אַחַד֙ לֹ֣א נֶעְדָּ֔ר אֲשֶׁ֥ר לֹא־עָבַ֖ר אֶת־הַיַּרְדֵּֽן׃",
+    "transliteration": "vayakom david vekhol-ha'am 'asher 'itvo vaya'averv 'et-hayareden 'ad-'vor havoker 'ad-'ahad lo' ne'edar 'asher lo'-'avar 'et-hayareden.",
     "translation": "E Davi levantou-se, ele e todo o povo que estava com ele, e atravessaram o rio Jordão até a alvorada; não ficou para trás nenhum de todos os que atravessaram o Jordão."
   },
   {
     "verse": 23,
     "original": "וַאֲחִיתֹ֣פֶל רָאָ֗ה כִּ֣י לֹ֣א נֶעֶשְׂתָה֮ עֲצָתוֹ֒ וַיַּחֲבֹ֣שׁ אֶֽת־הַחֲמ֗וֹר וַיָּ֜קׇם וַיֵּ֤לֶךְ אֶל־בֵּיתוֹ֙ אֶל־עִיר֔וֹ וַיְצַ֥ו אֶל־בֵּית֖וֹ וַיֵּחָנַ֑ק וַיָּ֕מׇת וַיִּקָּבֵ֖ר בְּקֶ֥בֶר אָבִֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'ahiytofel ra'ah khiy lo' ne'esetah 'atsatvo vayahavosh 'et-hahamvor vayakom vayelekhe 'el-veytvo 'el-'iyrvo vayetsav 'el-veytvo vayehanak vayamot vayikaver vekever 'aviyv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Aquisafele viu que seu conselho não foi aceito, e selou o seu jumento e levantou-se e partiu para a sua casa, à cidade dele. E ordenou em sua casa e foi enforcado e morreu e foi sepultado no sepulcro de seu pai."
   },
   {
     "verse": 24,
     "original": "וְדָוִ֖ד בָּ֣א מַחֲנָ֑יְמָה וְאַבְשָׁלֹ֗ם עָבַר֙ אֶת־הַיַּרְדֵּ֔ן ה֕וּא וְכׇל־אִ֥ישׁ יִשְׂרָאֵ֖ל עִמּֽוֹ׃",
+    "transliteration": "vedavid va' mahanayemah ve'aveshalom 'avar 'et-hayareden hv' vekhol-'iysh yisera'el 'imvo.",
     "translation": "E Davi veio de Maquaneia e Absalão passou o Jordão, ele e todo homem de Israel com ele."
   },
   {
     "verse": 25,
     "original": "וְאֶת־עֲמָשָׂ֗א שָׂ֧ם אַבְשָׁלֹ֛ם תַּ֥חַת יוֹאָ֖ב עַל־הַצָּבָ֑א וַעֲמָשָׂ֣א בֶן־אִ֗ישׁ וּשְׁמוֹ֙ יִתְרָ֣א הַיִּשְׂרְאֵלִ֔י אֲשֶׁר־בָּא֙ אֶל־אֲבִיגַ֣ל בַּת־נָחָ֔שׁ אֲח֥וֹת צְרוּיָ֖ה אֵ֥ם יוֹאָֽב׃",
+    "transliteration": "ve'et-'amasa' sam 'aveshalom tahat yvo'av 'al-hatsava' va'amasa' ven-'iysh vshemvo yitera' hayisere'eliy 'asher-va' 'el-'aviygal vat-nahash 'ahvot tservyah 'em yvo'av.",
     "translation": "E a Amasa, Absalão pôs em lugar de Joabe sobre o exército. E Amasa era filho de homem cujo nome era Jeter, o israelita, que chegou até Abigail, filha de Natã, irmã de Zeruia, mãe de Joabe."
   },
   {
     "verse": 26,
     "original": "וַיִּ֤חַן יִשְׂרָאֵל֙ וְאַבְשָׁלֹ֔ם אֶ֖רֶץ הַגִּלְעָֽד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayihan yisera'el ve'aveshalom 'erets hagile'ad.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Israel e Absalão acamparam na terra de Gileade."
   },
   {
     "verse": 27,
     "original": "וַיְהִ֕י כְּב֥וֹא דָוִ֖ד מַחֲנָ֑יְמָה וְשֹׁבִ֨י בֶן־נָחָ֜שׁ מֵרַבַּ֣ת בְּנֵי־עַמּ֗וֹן וּמָכִ֤יר בֶּן־עַמִּיאֵל֙ מִלֹּ֣א דְבָ֔ר וּבַרְזִלַּ֥י הַגִּלְעָדִ֖י מֵרֹגְלִֽים׃",
+    "transliteration": "vayehiy khevvo' david mahanayemah veshoviy ven-nahash meravat veney-'amvon vmakhiyr ven-'amiy'el milo' devar vvarezilay hagile'adiy merogeliym.",
     "translation": "E sucedeu que, ao chegar Davi a Mахаnaim, Zobá, filho de Naás, do reino dos filhos de Amom, e Maquir, filho de Ammiel, de Lo-debar, e Barzilai, o gileadita, de Rogelim, vieram ao seu encontro."
   },
   {
     "verse": 28,
     "original": "מִשְׁכָּ֤ב וְסַפּוֹת֙ וּכְלִ֣י יוֹצֵ֔ר וְחִטִּ֥ים וּשְׂעֹרִ֖ים וְקֶ֣מַח וְקָלִ֑י וּפ֥וֹל וַעֲדָשִׁ֖ים וְקָלִֽי׃",
+    "transliteration": "mishekhav vesafvot vkheliy yvotser vehitiym vse'oriym vekemah vekaliy vfvol va'adashiym vekaliy.",
     "translation": "leito e travesseiros e objeto de formação e cevada e trigo e farinha e grão torrado e feijão e ervilha e grão torrado.\n\nA tradução está gramaticalmente correta em relação aos números e ao contexto. No entanto, para aprimorar o estilo linguístico solene e formal desejado:\n\nleito e travesseiros, objeto de formação, cevada e trigo, farinha e grão torrado, feijão e ervilha e grão torrado."
   },
   {
     "verse": 29,
     "original": "וּדְבַ֣שׁ וְחֶמְאָ֗ה וְצֹאן֙ וּשְׁפ֣וֹת בָּקָ֔ר הִגִּ֧ישׁוּ לְדָוִ֛ד וְלָעָ֥ם אֲשֶׁר־אִתּ֖וֹ לֶאֱכ֑וֹל כִּ֣י אָמְר֔וּ הָעָ֗ם רָעֵ֛ב וְעָיֵ֥ף וְצָמֵ֖א בַּמִּדְבָּֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vdevash veheme'ah vetso'n vshefvot vakar higiyshv ledavid vela'am 'asher-'itvo le'ekhvol khiy 'amerv ha'am ra'ev ve'ayef vetsame' vamidevar.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Mel e queijo, e cordeiros e seios de vaca, trouxeram a Davi e ao povo que estava com ele para comer; pois disseram: O povo tem fome, está cansado e tem sede no deserto."
   }
 ]

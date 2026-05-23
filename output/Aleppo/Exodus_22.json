@@ -2,151 +2,181 @@
   {
     "verse": 1,
     "original": "אִם־בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃",
+    "transliteration": "'im-vamaheteret yimatse' haganav vehukhah vamet 'eyn lvo damiym.",
     "translation": "Se o ladrão for encontrado no furo, e for golpeado até morrer, não haverá crime nele."
   },
   {
     "verse": 2,
     "original": "אִם־זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃",
+    "transliteration": "'im-zarehah hashemesh 'alayv damiym lvo shalem yeshalem 'im-'eyn lvo venimekhar vigenevatvo.",
     "translation": "Se sobre ele raiar o sol, terá dívidas contra si; pagará integralmente, se nada tiver, será vendido por seu roubo."
   },
   {
     "verse": 3,
     "original": "אִֽם־הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד־חֲמ֛וֹר עַד־שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם יְשַׁלֵּֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-himatse' timatse' veyadvo hagenevah mishvor 'ad-hamvor 'ad-seh hayiym shenayim yeshalem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se for encontrado na sua posse a coisa roubada, desde um boi até um jumento, até uma ovelha viva, ele pagará duplamente."
   },
   {
     "verse": 4,
     "original": "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־<span class=\"mam-kq-trivial\">בְּעִירֹ֔ה</span> וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy yave'er-'iysh sadeh 'vo-kherem veshilah 'et-<span class=\"mam-kq-trivial\">ve'iyroh</span> vvi'er visedeh 'aher meytav sadehv vmeytav kharemvo yeshalem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Porque se um homem enviar o fogo e consumir os campos ou as vinhas de outrem, ele deverá pagar com a melhor parte dos seus campos ou da sua vinha."
   },
   {
     "verse": 5,
     "original": "כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־הַבְּעֵרָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy-tetse' 'esh vmatse'ah kotsiym vene'ekhal gadiysh 'vo hakamah 'vo hasadeh shalem yeshalem hamave'ir 'et-have'erah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se sair fogo e encontrar espinhos, consumindo o monturo, ou a cevada, ou o campo, certamente pagará conforme o dano causado pelo incêndio."
   },
   {
     "verse": 6,
     "original": "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃",
+    "transliteration": "khiy-yiten 'iysh 'el-re'ehv khesef 'vo-kheliym lishemor vegunav miveyt ha'iysh 'im-yimatse' haganav yeshalem shenayim.",
     "translation": "Porque, se alguém der ao seu amigo prata ou utensílios para guardar e estes forem roubados da casa do homem, se o ladrão for encontrado, pagará o dobro."
   },
   {
     "verse": 7,
     "original": "אִם־לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־הַבַּ֖יִת אֶל־הָֽאֱלֹהִ֑ים אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃",
+    "transliteration": "'im-lo' yimatse' haganav venikerav va'al-havayit 'el-ha'elohiym 'im-lo' shalah yadvo vimele'khet re'ehv.",
     "translation": "Se não for encontrado o ladrão, o dono da casa se aproxima de Deus; se ele não estendeu a mão sobre as coisas do seu próximo."
   },
   {
     "verse": 8,
     "original": "עַֽל־כׇּל־דְּבַר־פֶּ֡שַׁע עַל־שׁ֡וֹר עַל־חֲ֠מ֠וֹר עַל־שֶׂ֨ה עַל־שַׂלְמָ֜ה עַל־כׇּל־אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'al-khol-devar-fesha' 'al-shvor 'al-hamvor 'al-seh 'al-salemah 'al-khol-'avedah 'asher yo'mar khiy-hv' zeh 'ad ha'elohiym yavo' devar-sheneyhem 'asher yareshiy'un 'elohiym yeshalem shenayim lere'ehv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Por toda palavra de transgressão, seja sobre boi, sobre jumento, sobre carneiro, sobre roupa, sobre qualquer perda que disser: \"Isto é meu\", virá a causa dos dois diante de Deus. Quem for condenado por Deus pagará o dobro ao seu próximo."
   },
   {
     "verse": 9,
     "original": "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־שׁ֥וֹר אוֹ־שֶׂ֛ה וְכׇל־בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־נִשְׁבַּ֥ר אוֹ־נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃",
+    "transliteration": "khiy-yiten 'iysh 'el-re'ehv hamvor 'vo-shvor 'vo-seh vekhol-vehemah lishemor vmet 'vo-nishevar 'vo-nishevah 'eyn ro'eh.",
     "translation": "Porque, se um homem der ao seu próximo um jumento ou um boi, uma ovelha ou qualquer animal para guardar, e morrer ou for ferido ou roubado, sem que haja testemunhas disso;"
   },
   {
     "verse": 10,
     "original": "שְׁבֻעַ֣ת יְהֹוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃",
+    "transliteration": "shevu'at yehovah tiheyeh veyn sheneyhem 'im-lo' shalah yadvo vimele'khet re'ehv velakah ve'alayv velo' yeshalem.",
     "translation": "Juramento do Senhor estará entre ambos, se não estendeu a mão na obra do seu próximo, e tomou por fiança e não pagou."
   },
   {
     "verse": 11,
     "original": "וְאִם־גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃",
+    "transliteration": "ve'im-ganov yiganev me'imvo yeshalem live'alayv.",
     "translation": "E se ele furtar dele seu dono, pagará ao seu senhor."
   },
   {
     "verse": 12,
     "original": "אִם־טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'im-tarof yitaref yevi'ehv 'ed haterefah lo' yeshalem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Se for rasgado [o rebanho], traga testemunha da rapina; do despedaçado não pagará."
   },
   {
     "verse": 13,
     "original": "וְכִֽי־יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־מֵ֑ת בְּעָלָ֥יו אֵין־עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃",
+    "transliteration": "vekhiy-yishe'al 'iysh me'im re'ehv venishevar 'vo-met ve'alayv 'eyn-'imvo shalem yeshalem.",
     "translation": "E, se um homem tomar algo do seu companheiro e este for quebrado ou morto na ausência de seu dono, ele o recompensará integralmente."
   },
   {
     "verse": 14,
     "original": "אִם־בְּעָלָ֥יו עִמּ֖וֹ לֹ֣א יְשַׁלֵּ֑ם אִם־שָׂכִ֣יר ה֔וּא בָּ֖א בִּשְׂכָרֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-ve'alayv 'imvo lo' yeshalem 'im-sakhiyr hv' va' visekharvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se o seu senhor não for restituído, então pagará com o seu salário."
   },
   {
     "verse": 15,
     "original": "וְכִֽי־יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃",
+    "transliteration": "vekhiy-yefateh 'iysh vetvlah 'asher lo'-'orasah veshakhav 'imah mahor yimeharenah lvo le'ishah.",
     "translation": "E se um homem seduzir uma virgem que não foi desposada e deitar-se com ela, ele dará dinheiro à moça como dote para sua esposa."
   },
   {
     "verse": 16,
     "original": "אִם־מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-ma'en yema'en 'aviyha letitah lvo khesef yishekol khemohar havetvlot.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se ela for rejeitada, ele não poderá casar-se com ela; seu pai lhe cobrará dinheiro como dote para virgens."
   },
   {
     "verse": 17,
     "original": "מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃",
+    "transliteration": "mekhashefah lo' tehayeh.",
     "translation": "Não deixarás viva a feiticeira."
   },
   {
     "verse": 18,
     "original": "כׇּל־שֹׁכֵ֥ב עִם־בְּהֵמָ֖ה מ֥וֹת יוּמָֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khol-shokhev 'im-vehemah mvot yvmat.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Todo que se deitar com um animal morrerá."
   },
   {
     "verse": 19,
     "original": "זֹבֵ֥חַ לָאֱלֹהִ֖ים יׇֽחֳרָ֑ם בִּלְתִּ֥י לַיהֹוָ֖ה לְבַדּֽוֹ׃",
+    "transliteration": "zoveha la'elohiym yohoram viletiy layhovah levadvo.",
     "translation": "Que sacrifica aos deuses deve ser aniquilado; isso não é para o Senhor somente."
   },
   {
     "verse": 20,
     "original": "וְגֵ֥ר לֹא־תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "veger lo'-tvoneh velo' tilehatsenv khiy-geriym heyiytem ve'erets mitserayim.",
     "translation": "E não oprimireis ao estrangeiro, nem o esmagareis; pois estrangeiros fostes na terra do Egito."
   },
   {
     "verse": 21,
     "original": "כׇּל־אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן׃",
+    "transliteration": "khol-'alemanah veyatvom lo' te'anvn.",
     "translation": "Não oprimireis nenhuma viúva ou órfão."
   },
   {
     "verse": 22,
     "original": "אִם־עַנֵּ֥ה תְעַנֶּ֖ה אֹת֑וֹ כִּ֣י אִם־צָעֹ֤ק יִצְעַק֙ אֵלַ֔י שָׁמֹ֥עַ אֶשְׁמַ֖ע צַעֲקָתֽוֹ׃",
+    "transliteration": "'im-'aneh te'aneh 'otvo khiy 'im-tsa'ok yitse'ak 'elay shamo'a 'eshema' tsa'akatvo.",
     "translation": "Se o afligires, se o oprimeis, certamente, quando ele clamar a mim, eu ouvirei sua voz."
   },
   {
     "verse": 23,
     "original": "וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veharah 'afiy veharagetiy 'etekhem veharev vehayv nesheykhem 'alemanvot vveneykhem yetomiym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E minha ira se acenderá, e vos matarei com a espada; e vossas mulheres serão viúvas, e vossos filhos órfãos."
   },
   {
     "verse": 24,
     "original": "אִם־כֶּ֣סֶף&thinsp;<b>׀</b> תַּלְוֶ֣ה אֶת־עַמִּ֗י אֶת־הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃",
+    "transliteration": "'im-khesef&thinsp;<b>|</b> taleveh 'et-'amiy 'et-he'aniy 'imakhe lo'-tiheyeh lvo khenosheh lo'-tesiymvn 'alayv neshekhe.",
     "translation": "Se empréstares dinheiro ao meu povo, ao necessitado que está contigo, não te tornes um opressor para ele; nem lhe cobrareis juros."
   },
   {
     "verse": 25,
     "original": "אִם־חָבֹ֥ל תַּחְבֹּ֖ל שַׂלְמַ֣ת רֵעֶ֑ךָ עַד־בֹּ֥א הַשֶּׁ֖מֶשׁ תְּשִׁיבֶ֥נּוּ לֽוֹ׃",
+    "transliteration": "'im-havol tahevol salemat re'ekha 'ad-vo' hashemesh teshiyvenv lvo.",
     "translation": "Se empenhares a capa do teu próximo como penhor, até o pôr-do-sol lhe devolverás."
   },
   {
     "verse": 26,
     "original": "כִּ֣י הִ֤וא <span class=\"mam-kq-trivial\">כְסוּתֹה֙</span> לְבַדָּ֔הּ הִ֥וא שִׂמְלָת֖וֹ לְעֹר֑וֹ בַּמֶּ֣ה יִשְׁכָּ֔ב וְהָיָה֙ כִּֽי־יִצְעַ֣ק אֵלַ֔י וְשָׁמַעְתִּ֖י כִּֽי־חַנּ֥וּן אָֽנִי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy hiv' <span class=\"mam-kq-trivial\">khesvtoh</span> levadah hiv' simelatvo le'orvo vameh yishekhav vehayah khiy-yitse'ak 'elay veshama'etiy khiy-hanvn 'aniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Pois ela é sua vestimenta única; é o manto que cobre sua nudez. Em que se deitará? Quando ele clamar a mim, ouvirei, pois sou misericordioso."
   },
   {
     "verse": 27,
     "original": "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
+    "transliteration": "'elohiym lo' tekalel venasiy' ve'amekha lo' ta'or.",
     "translation": "Deus não maldizereis, nem ao chefe do teu povo injuriarás."
   },
   {
     "verse": 28,
     "original": "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־לִֽי׃",
+    "transliteration": "mele'atekha vedime'akha lo' te'aher vekhvor vaneykha titen-liy.",
     "translation": "Teu tejo e tua lágrima não se atrasarão; o primogênito dos teus filhos me darás."
   },
   {
     "verse": 29,
     "original": "כֵּֽן־תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־לִֽי׃",
+    "transliteration": "khen-ta'aseh leshorekha letso'nekha shive'at yamiym yiheyeh 'im-'imvo vayvom hashemiyniy titenvo-liy.",
     "translation": "Assim farás com o bezerro e com a ovelha: sete dias estará com sua mãe; no dia oitavo se te dará a mim."
   },
   {
     "verse": 30,
     "original": "וְאַנְשֵׁי־קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'aneshey-kodesh tiheyvn liy vvasar vasadeh terefah lo' to'khelv lakhelev tashelikhvn 'otvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E sereis para mim um povo santo, e carne despedaçada no campo não comereis; ao cão a atirareis."
   }
 ]

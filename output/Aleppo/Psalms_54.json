@@ -2,46 +2,55 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֥חַ בִּנְגִינֹ֗ת מַשְׂכִּ֥יל לְדָוִֽד׃",
+    "transliteration": "lamenatseha vinegiynot masekhiyl ledavid.",
     "translation": "Ao diretor de música, com instrumentos de cordas; um poema reflexivo de Davi."
   },
   {
     "verse": 2,
     "original": "בְּבֹ֣א הַ֭זִּיפִים וַיֹּאמְר֣וּ לְשָׁא֑וּל הֲלֹ֥א דָ֝וִ֗ד מִסְתַּתֵּ֥ר עִמָּֽנוּ׃",
+    "transliteration": "vevo' haziyfiym vayo'merv lesha'vl halo' david misetater 'imanv.",
     "translation": "Quando vieram os zifeus e disseram a Saul: Acaso Davi não se esconde conosco?"
   },
   {
     "verse": 3,
     "original": "אֱ֭לֹהִים בְּשִׁמְךָ֣ הוֹשִׁיעֵ֑נִי וּבִגְבוּרָתְךָ֥ תְדִינֵֽנִי׃",
+    "transliteration": "'elohiym veshimekha hvoshiy'eniy vvigevvratekha tediyneniy.",
     "translation": "Deus, em teu nome nos livra, e com tua força nos julgarás."
   },
   {
     "verse": 4,
     "original": "אֱ֭לֹהִים שְׁמַ֣ע תְּפִלָּתִ֑י הַ֝אֲזִ֗ינָה לְאִמְרֵי־פִֽי׃",
+    "transliteration": "'elohiym shema' tefilatiy ha'aziynah le'imerey-fiy.",
     "translation": "Deus, ouve a minha oração; presta atenção às palavras da minha boca."
   },
   {
     "verse": 5,
     "original": "כִּ֤י זָרִ֨ים&thinsp;<b>׀</b> קָ֤מוּ עָלַ֗י וְֽ֭עָרִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י לֹ֤א שָׂ֨מוּ אֱלֹהִ֖ים לְנֶגְדָּ֣ם סֶֽלָה׃",
+    "transliteration": "khiy zariym&thinsp;<b>|</b> kamv 'alay ve'ariytsiym vikeshv nafeshiy lo' samv 'elohiym lenegedam selah.",
     "translation": "Pois estranhos se levantaram contra mim, e violentos buscaram minha vida; não puseram a Deus em frente deles. Selá."
   },
   {
     "verse": 6,
     "original": "הִנֵּ֣ה אֱ֭לֹהִים עֹזֵ֣ר לִ֑י אֲ֝דֹנָ֗י בְּֽסֹמְכֵ֥י נַפְשִֽׁי׃",
+    "transliteration": "hineh 'elohiym 'ozer liy 'adonay vesomekhey nafeshiy.",
     "translation": "Eis que Deus me auxilia; o Senhor é meu sustento."
   },
   {
     "verse": 7,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(ישוב)</span> <span class=\"mam-kq-q\">[יָשִׁ֣יב]</span></span> הָ֭רַע לְשֹׁרְרָ֑י בַּ֝אֲמִתְּךָ֗ הַצְמִיתֵֽם׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(ysvv)</span> <span class=\"mam-kq-q\">[yashiyv]</span></span> hara' leshoreray va'amitekha hatsemiytem.",
     "translation": "Devolve o mal aos meus adversários; em tua fidelidade, extingui-os."
   },
   {
     "verse": 8,
     "original": "בִּנְדָבָ֥ה אֶזְבְּחָה־לָּ֑ךְ א֤וֹדֶה<span class=\"mam-implicit-maqaf\">־</span>שִּׁמְךָ֖ יְהֹוָ֣ה כִּי־טֽוֹב׃",
+    "transliteration": "vinedavah 'ezevehah-lakhe 'vodeh<span class=\"mam-implicit-maqaf\">-</span>shimekha yehovah khiy-tvov.",
     "translation": "Em oferta voluntária trarei-te meu sacrifício, louvarei o teu nome, Senhor, pois és bom."
   },
   {
     "verse": 9,
     "original": "כִּ֣י מִכׇּל־צָ֭רָה הִצִּילָ֑נִי וּ֝בְאֹיְבַ֗י רָאֲתָ֥ה עֵינִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy mikhol-tsarah hitsiylaniy vve'oyevay ra'atah 'eyniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois de toda angústia me livrou, e sobre os meus inimigos a minha vista se regozijou."
   }
 ]

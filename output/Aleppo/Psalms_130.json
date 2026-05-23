@@ -2,41 +2,49 @@
   {
     "verse": 1,
     "original": "שִׁ֥יר הַֽמַּעֲל֑וֹת מִמַּעֲמַקִּ֖ים קְרָאתִ֣יךָ יְהֹוָֽה׃",
+    "transliteration": "shiyr hama'alvot mima'amakiym kera'tiykha yehovah.",
     "translation": "Cântico dos degraus. Do profundo clamei a ti, Senhor."
   },
   {
     "verse": 2,
     "original": "אֲדֹנָי֮ שִׁמְעָ֢ה בְק֫וֹלִ֥י תִּהְיֶ֣ינָה אׇ֭זְנֶיךָ קַשֻּׁב֑וֹת לְ֝ק֗וֹל תַּחֲנוּנָֽי׃",
+    "transliteration": "'adonay shime'ah vekvoliy tiheyeynah 'ozeneykha kashuvvot lekvol tahanvnay.",
     "translation": "Senhor, ouve a minha voz; inclina os teus ouvidos para a minha súplica."
   },
   {
     "verse": 3,
     "original": "אִם־עֲוֺנ֥וֹת תִּשְׁמׇר־יָ֑הּ אֲ֝דֹנָ֗י מִ֣י יַעֲמֹֽד׃",
+    "transliteration": "'im-'avonvot tishemor-yah 'adonay miy ya'amod.",
     "translation": "Se guardares, Senhor, os pecados, quem poderá resistir?"
   },
   {
     "verse": 4,
     "original": "כִּֽי־עִמְּךָ֥ הַסְּלִיחָ֑ה לְ֝מַ֗עַן תִּוָּרֵֽא׃",
+    "transliteration": "khiy-'imekha haseliyhah lema'an tivare'.",
     "translation": "Pois contigo está o perdão, para que sejas temido."
   },
   {
     "verse": 5,
     "original": "קִוִּ֣יתִי יְ֭הֹוָה קִוְּתָ֣ה נַפְשִׁ֑י וְֽלִדְבָר֥וֹ הוֹחָֽלְתִּי׃",
+    "transliteration": "kiviytiy yehovah kivetah nafeshiy velidevarvo hvohaletiy.",
     "translation": "Esperei pelo Senhor, minha alma o aguardou; e para a sua palavra esperei com ansiedade."
   },
   {
     "verse": 6,
     "original": "נַפְשִׁ֥י לַאדֹנָ֑י מִשֹּׁמְרִ֥ים לַ֝בֹּ֗קֶר שֹׁמְרִ֥ים לַבֹּֽקֶר׃",
+    "transliteration": "nafeshiy la'donay mishomeriym lavoker shomeriym lavoker.",
     "translation": "Minha alma pertence ao Senhor; sou guardião de manhã, guardião de manhã."
   },
   {
     "verse": 7,
     "original": "יַחֵ֥ל יִשְׂרָאֵ֗ל אֶל־יְ֫הֹוָ֥ה כִּֽי־עִם־יְהֹוָ֥ה הַחֶ֑סֶד וְהַרְבֵּ֖ה עִמּ֣וֹ פְדֽוּת׃",
+    "transliteration": "yahel yisera'el 'el-yehovah khiy-'im-yehovah hahesed vehareveh 'imvo fedvt.",
     "translation": "Israel espere no Senhor, pois nele há misericórdia e libertação em abundância."
   },
   {
     "verse": 8,
     "original": "וְ֭הוּא יִפְדֶּ֣ה אֶת־יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל עֲוֺנֹתָֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehv' yifedeh 'et-yisera'el mikhol 'avonotayv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Ele o redimirá de todos os pecados de Israel."
   }
 ]

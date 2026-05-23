@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "כיא כוה אמר יהוה שמורו משפט ועשו צדקה כיא קרובה ישועתי לבוא וצדקתי להגלות",
+    "transliteration": "khy' khvh 'mr yhvh smvrv msft v'sv tsdkh khy' krvvh ysv'ty lvv' vtsdkty lhglvt",
     "translation": "Porque assim disse o Senhor: Guardai o juízo e fazei justiça; porque breve virá a minha salvação, e a minha justiça se manifestará."
   },
   {
     "verse": 2,
     "original": "אשרי אנוש יעשה זואת ובן אדם יחזיק בה שומר שבת מחללה ושומר ידיו מעשות",
+    "transliteration": "'sry 'nvs y'sh zv't vvn 'dm yhzyk vh svmr svt mhllh vsvmr ydyv m'svt",
     "translation": "Bem-aventurado o varão que observa isso, e o filho do homem que nisso se agarra: guardar o sábado sem profaná-lo, e manter as mãos limpas de todo mal."
   },
   {
     "verse": 3,
     "original": "הנכר הנלוא אל יהוה לאמור הבדל יבדילני יהוה מעל עמו ואל יואמר הסריס הנה אנוכי עץ יבש",
+    "transliteration": "hnkhr hnlv' 'l yhvh l'mvr hvdl yvdylny yhvh m'l 'mv v'l yv'mr hsrys hnh 'nvkhy 'ts yvs",
     "translation": "...o estrangeiro que se apega ao Senhor, dizendo: \"O Senhor me separará dele, do seu povo?\" E não dirá o eunuco: \"Eis-me aqui, sou um tronco seco\"? ..."
   },
   {
     "verse": 4,
     "original": "כיא כוה אמר יהוה לסריסים אשר ישמורו את שבתותי ויבחורו באשר חפצתי ומחזיקים בבריתי",
+    "transliteration": "khy' khvh 'mr yhvh lsrysym 'sr ysmvrv 't svtvty vyvhvrv v'sr hftsty vmhzykym vvryty",
     "translation": "Porque assim diz o Senhor: sobre os eunucos que guardam os meus sábados, escolhem o que a mim agrada e se firmam na minha aliança..."
   },
   {
     "verse": 5,
     "original": "ונתתי להם בביתי ובחמתי יד ושם טוב מבנים ומבנות שם עולם אתן לו אשר לא יכרת",
+    "transliteration": "vntty lhm vvyty vvhmty yd vsm tvv mvnym vmvnvt sm 'vlm 'tn lv 'sr l' ykhrt",
     "translation": "E darei-lhes, em minha casa e em meu muro, uma posição e um nome melhores que os de filhos e de filhas; lhes darei um nome eterno, que não será cortado."
   },
   {
     "verse": 6,
     "original": "ובני הנכר הנלוים על יהוה לשרתו ולאהבה את שם יהוה להיות לו לעבדים כל שמר שבת מחללו ומחזיקים בבריתי",
+    "transliteration": "vvny hnkhr hnlvym 'l yhvh lsrtv vl'hvh 't sm yhvh lhyvt lv l'vdym khl smr svt mhllv vmhzykym vvryty",
     "translation": "E os filhos dos estrangeiros que se ligaram ao Senhor para servi-lo e amar o nome do Senhor, para serem-lhe servos, todo aquele que guarda os sábados sem profaná-los e segura firmemente a minha aliança..."
   },
   {
     "verse": 7,
     "original": "והביאתים אל הר קדשי ושמחתים בבית תפלתי עלתיהם וזבחיהם לרצון על מזבחי כי ביתי בית תפלה יקרא",
+    "transliteration": "vhvy'tym 'l hr kdsy vsmhtym vvyt tflty 'ltyhm vzvhyhm lrtsvn 'l mzvhy khy vyty vyt tflh ykr'",
     "translation": "E os trarei ao meu monte santo, e alegrá-los-ei em minha casa de oração; suas ofertas de manjares e seus sacrifícios serão aceitas sobre meus altares, pois a minha casa será chamada Casa de Oração."
   },
   {
     "verse": 8,
     "original": "לכול העמים נואמ אדוני יהוה מקבץ נדחי ישראל עוד אקבץ עליו לנקבציו",
+    "transliteration": "lkhvl h'mym nv'm 'dvny yhvh mkvts ndhy ysr'l 'vd 'kvts 'lyv lnkvtsyv",
     "translation": "Para todos os povos, diz o Senhor, o Eterno: Eu congrego os dispersos de Israel; ainda mais eu congregarei sobre eles aqueles que se juntam a eles."
   },
   {
     "verse": 9,
     "original": "כול חיות שדה אתיו לאכול וכול חיות ביער",
+    "transliteration": "khvl hyvt sdh 'tyv l'khvl vkhvl hyvt vy'r",
     "translation": "Todas as feras do campo são dele para comer, e todas as bestas da floresta..."
   },
   {
     "verse": 10,
     "original": "צפ עורים כלם לא ידעו כלם כלבים אלמים לא יכלו לנבח הזים שכבים אהב לנום",
+    "transliteration": "tsf 'vrym khlm l' yd'v khlm khlvym 'lmym l' ykhlv lnvh hzym skhvym 'hv lnvm",
     "translation": "Os vigias são cegos; todos ignoram, sim, eles são como cães mudos que não podem latir; adormecem, deitados, amando sonhar."
   },
   {
     "verse": 11,
     "original": "והכלבים עזי נפש לא ידעו שבעה והם רעים לא ידעו הבין כלם לדרכם פנו איש לבצעו מקצהו",
+    "transliteration": "vhkhlvym 'zy nfs l' yd'v sv'h vhm r'ym l' yd'v hvyn khlm ldrkhm fnv 'ys lvts'v mktshv",
     "translation": "E os cães, fortes de alma, não conhecem fartura; eles são pastores que não compreendem. Cada um volta ao seu próprio caminho, ó fim... de sua obra."
   },
   {
     "verse": 12,
     "original": "אתיו ונקח יין ונסבה שכר ויהי כזה היום ומחר גדול יתר מואד",
+    "transliteration": "'tyv vnkh yyn vnsvh skhr vyhy khzh hyvm vmhr gdvl ytr mv'd",
     "translation": "Venham, e tomemos vinho, e bebamos cerveja; seja assim este dia como aquele, ainda maior será o convívio."
   }
 ]

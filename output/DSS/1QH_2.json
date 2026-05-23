@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "בָּרוּךְ אַתָּה אֲדֹנָי",
+    "transliteration": "varvkhe 'atah 'adonay",
     "translation": "Bendito és Tu, Senhor."
   },
   {
     "verse": 2,
     "original": "אֵל הַדֵּעוֹת",
+    "transliteration": "'el hade'vot",
     "translation": "Deus dos conhecimentos"
   },
   {
     "verse": 3,
     "original": "אֲשֶׁר בְּחַסְדֶּךָ",
+    "transliteration": "'asehr vehasedekha",
     "translation": "que por teu amor"
   },
   {
     "verse": 4,
     "original": "גְּדוֹל נֶחֱמַדְתִּי",
+    "transliteration": "gedvol nehemadetiy",
     "translation": "Muito amado sou"
   },
   {
     "verse": 5,
     "original": "כִּי נוֹדַעְתָּ לִי",
+    "transliteration": "khiy nvoda'eta liy",
     "translation": "Pois me foste conhecido"
   },
   {
     "verse": 6,
     "original": "סוֹד אֱמֶת",
+    "transliteration": "svod 'emet",
     "translation": "Segredo da verdade"
   },
   {
     "verse": 7,
     "original": "וּבְדַעְתְּךָ הַנִּפְלָאָה",
+    "transliteration": "vveda'etekha hanifela'ah",
     "translation": "E com teu conhecimento maravilhoso"
   },
   {
     "verse": 8,
     "original": "עָשִׂיתָ אֵלֶּה",
+    "transliteration": "'asiyta 'eleh",
     "translation": "Fizeste isso"
   },
   {
     "verse": 9,
     "original": "לְרַחֵם עַל עֲבָדֶיךָ",
+    "transliteration": "lerahem 'al 'avadeykha",
     "translation": "Para ter misericórdia sobre teus servos..."
   },
   {
     "verse": 10,
     "original": "הַנִּדְכָּאִים לְפָנֶיךָ",
+    "transliteration": "hanidekha'iym lefaneykha",
     "translation": "Os decaídos diante de ti"
   }
 ]

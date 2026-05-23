@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "סֵדֶר הַכֹּהֲנִים",
+    "transliteration": "seder hakhohaniym",
     "translation": "Ordem dos sacerdotes"
   },
   {
     "verse": 2,
     "original": "עוֹמְדִים בֵּין הַמַּעֲרָכוֹת",
+    "transliteration": "'vomediym veyn hama'arakhvot",
     "translation": "...estando entre as fileiras..."
   },
   {
     "verse": 3,
     "original": "חֲגוֹר חֲגוֹרֵי פִשְׁתָּן",
+    "transliteration": "hagvor hagvorey fisehtan",
     "translation": "Cinge-te cingidores de linho"
   },
   {
     "verse": 4,
     "original": "כְּתֹנֶת פִּשְׁתָּן פָּתִיל",
+    "transliteration": "khetonet fisehtan fatiyl",
     "translation": "Veste de linho tecida"
   },
   {
     "verse": 5,
     "original": "מַחֲגֹרֶת שֵׁשׁ בֹּץ",
+    "transliteration": "mahagoret sehsh vots",
     "translation": "Cinto de linho fino..."
   },
   {
     "verse": 6,
     "original": "וְיָפִים עַל הָרֹאשׁ",
+    "transliteration": "veyafiym 'al haro'sh",
     "translation": "E belos sobre a cabeça"
   },
   {
     "verse": 7,
     "original": "מִצְנֶפֶת פִּשְׁתָּן",
+    "transliteration": "mitsenefet fisehtan",
     "translation": "Cíclio de linho"
   },
   {
     "verse": 8,
     "original": "לֹא לַעֲלוֹת עִם הַמִּלְחָמָה",
+    "transliteration": "lo' la'alvot 'im hamilehamah",
     "translation": "Não subir com os que fazem guerra..."
   },
   {
     "verse": 9,
     "original": "אֶלָּא לְקַדֵּשׁ",
+    "transliteration": "'ela' lekadesh",
     "translation": "mas para santificar"
   },
   {
     "verse": 10,
     "original": "לַעֲמֹד לִפְנֵי אֵל",
+    "transliteration": "la'amod lifeney 'el",
     "translation": "permanecer diante de Deus"
   }
 ]

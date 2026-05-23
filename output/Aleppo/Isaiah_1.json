@@ -2,156 +2,187 @@
   {
     "verse": 1,
     "original": "חֲזוֹן֙ יְשַֽׁעְיָ֣הוּ בֶן־אָמ֔וֹץ אֲשֶׁ֣ר חָזָ֔ה עַל־יְהוּדָ֖ה וִירֽוּשָׁלָ֑͏ִם בִּימֵ֨י עֻזִּיָּ֧הוּ יוֹתָ֛ם אָחָ֥ז יְחִזְקִיָּ֖הוּ מַלְכֵ֥י יְהוּדָֽה׃",
+    "transliteration": "hazvon yesha'eyahv ven-'amvots 'asher hazah 'al-yehvdah viyrvshalaim viymey 'uziyahv yvotam 'ahaz yehizekiyahv malekhey yehvdah.",
     "translation": "Visão de Isaías, filho de Amoz, que viu sobre Judá e Jerusalém nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá."
   },
   {
     "verse": 2,
     "original": "שִׁמְע֤וּ שָׁמַ֙יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהֹוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי וְהֵ֖ם פָּ֥שְׁעוּ בִֽי׃",
+    "transliteration": "shime'v shamayim veha'aziyniy 'erets khiy yehovah diver vaniym gidaletiy vervomametiy vehem fashe'v viy.",
     "translation": "Ouvi, céus, e presta atenção, terra, pois o Senhor fala: Eu cresci filhos e os exaltei, mas eles transgrediram contra mim."
   },
   {
     "verse": 3,
     "original": "יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן׃",
+    "transliteration": "yada' shvor konehv vahamvor 'evvs ve'alayv yisera'el lo' yada' 'amiy lo' hitevvonan.",
     "translation": "O boi conhece seu comprador, e o jumento o local do seu jugo; Israel, porém, não conheceu, meu povo não entendeu."
   },
   {
     "verse": 4,
     "original": "ה֣וֹי&thinsp;<b>׀</b> גּ֣וֹי חֹטֵ֗א עַ֚ם כֶּ֣בֶד עָוֺ֔ן זֶ֣רַע מְרֵעִ֔ים בָּנִ֖ים מַשְׁחִיתִ֑ים עָזְב֣וּ אֶת־יְהֹוָ֗ה נִֽאֲצ֛וּ אֶת־קְד֥וֹשׁ יִשְׂרָאֵ֖ל נָזֹ֥רוּ אָחֽוֹר׃",
+    "transliteration": "hvoy&thinsp;<b>|</b> gvoy hote' 'am kheved 'avon zera' mere'iym vaniym mashehiytiym 'azevv 'et-yehovah ni'atsv 'et-kedvosh yisera'el nazorv 'ahvor.",
     "translation": "Ai, povo pecador, nação de grande iniquidade, semente de malfeitores, filhos destruidores! Abandonaram ao SENHOR, desprezaram o Santo de Israel, se desviaram para trás."
   },
   {
     "verse": 5,
     "original": "עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כׇּל־רֹ֣אשׁ לׇֽחֳלִ֔י וְכׇל־לֵבָ֖ב דַּוָּֽי׃",
+    "transliteration": "'al meh tukhv 'vod tvosiyfv sarah khol-ro'sh loholiy vekhol-levav davay.",
     "translation": "Por que ainda vos corrompeis, multiplicando a rebelião? Todo o cabeça é leproso, e todo o coração está infecto. \n\nCorreção:\nPor que ainda vos corrompeis, multiplicando a rebelião? Toda a cabeça é leprosa, e todo o coração está infecto."
   },
   {
     "verse": 6,
     "original": "מִכַּף־רֶ֤גֶל וְעַד־רֹאשׁ֙ אֵֽין־בּ֣וֹ מְתֹ֔ם פֶּ֥צַע וְחַבּוּרָ֖ה וּמַכָּ֣ה טְרִיָּ֑ה לֹא־זֹ֙רוּ֙ וְלֹ֣א חֻבָּ֔שׁוּ וְלֹ֥א רֻכְּכָ֖ה בַּשָּֽׁמֶן׃",
+    "transliteration": "mikhaf-regel ve'ad-ro'sh 'eyn-vvo metom fetsa' vehavvrah vmakhah teriyah lo'-zorv velo' huvashv velo' rukhekhah vashamen.",
     "translation": "De ponta do pé até a cabeça, nele não há defeito algum; ferida, nem cicatriz, nem chaga fresca. Não foi cortado, nem vendado, e com óleo não foi ungido."
   },
   {
     "verse": 7,
     "original": "אַרְצְכֶ֣ם שְׁמָמָ֔ה עָרֵיכֶ֖ם שְׂרֻפ֣וֹת אֵ֑שׁ אַדְמַתְכֶ֗ם לְנֶגְדְּכֶם֙ זָרִים֙ אֹכְלִ֣ים אֹתָ֔הּ וּשְׁמָמָ֖ה כְּמַהְפֵּכַ֥ת זָרִֽים׃",
+    "transliteration": "'aretsekhem shemamah 'areykhem serufvot 'esh 'adematekhem lenegedekhem zariym 'okheliym 'otah vshemamah khemahefekhat zariym.",
     "translation": "A vossa terra está desolada, as vossas cidades consumidas pelo fogo; a vossa terra diante de vós é devorada por estranhos, e deserta como a inversão que os estrangeiros fazem."
   },
   {
     "verse": 8,
     "original": "וְנוֹתְרָ֥ה בַת־צִיּ֖וֹן כְּסֻכָּ֣ה בְכָ֑רֶם כִּמְלוּנָ֥ה בְמִקְשָׁ֖ה כְּעִ֥יר נְצוּרָֽה׃",
+    "transliteration": "venvoterah vat-tsiyvon khesukhah vekharem khimelvnah vemikeshah khe'iyr netsvrah.",
     "translation": "E resta em Sião como cabana no vinhedo, como tenda de guarda na horta, como cidade assolada."
   },
   {
     "verse": 9,
     "original": "לוּלֵי֙ יְהֹוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lvley yehovah tseva'vot hvotiyr lanv sariyd khime'at khisedom hayiynv la'amorah damiynv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Se o Senhor dos Exércitos não nos tivesse deixado um resquício, como Sodoma seríamos; a semelhança nossa seria com Gomorra."
   },
   {
     "verse": 10,
     "original": "שִׁמְע֥וּ דְבַר־יְהֹוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה׃",
+    "transliteration": "shime'v devar-yehovah ketsiyney sedom ha'aziynv tvorat 'eloheynv 'am 'amorah.",
     "translation": "Ouvi, ó governantes de Sodoma, a palavra do Senhor; dai ouvidos, povo de Gomorra, à lei do nosso Deus."
   },
   {
     "verse": 11,
     "original": "לָמָּה־לִּ֤י רֹב־זִבְחֵיכֶם֙ יֹאמַ֣ר יְהֹוָ֔ה שָׂבַ֛עְתִּי עֹל֥וֹת אֵילִ֖ים וְחֵ֣לֶב מְרִיאִ֑ים וְדַ֨ם פָּרִ֧ים וּכְבָשִׂ֛ים וְעַתּוּדִ֖ים לֹ֥א חָפָֽצְתִּי׃",
+    "transliteration": "lamah-liy rov-ziveheykhem yo'mar yehovah sava'etiy 'olvot 'eyliym vehelev meriy'iym vedam fariym vkhevasiym ve'atvdiym lo' hafatsetiy.",
     "translation": "Por que me importo com a abundância dos vossos sacrifícios? — declara o Senhor. Estou saciado com os holocaustos de cordeiros e a gordura de bois robustos; não tenho prazer no sangue de touros, cordeiros e bodes."
   },
   {
     "verse": 12,
     "original": "כִּ֣י תָבֹ֔אוּ לֵֽרָא֖וֹת פָּנָ֑י מִֽי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃",
+    "transliteration": "khiy tavo'v lera'vot fanay miy-vikesh zo't miyedekhem remos hatseray.",
     "translation": "Porque, quando vierdes para me ver, quem pediu isso de vossas mãos? Oprimir os meus cortiços."
   },
   {
     "verse": 13,
     "original": "לֹ֣א תוֹסִ֗יפוּ הָבִיא֙ מִנְחַת־שָׁ֔וְא קְטֹ֧רֶת תּוֹעֵבָ֛ה הִ֖יא לִ֑י חֹ֤דֶשׁ וְשַׁבָּת֙ קְרֹ֣א מִקְרָ֔א לֹא־אוּכַ֥ל אָ֖וֶן וַעֲצָרָֽה׃",
+    "transliteration": "lo' tvosiyfv haviy' minehat-shave' ketoret tvo'evah hiy' liy hodesh veshavat kero' mikera' lo'-'vkhal 'aven va'atsarah.",
     "translation": "Não acrescentareis mais ofertas vãs, pois perfume detestável é para mim; novo mês e sábado proclamais festas, não posso suportar a iniqüidade da assembleia."
   },
   {
     "verse": 14,
     "original": "חׇדְשֵׁיכֶ֤ם וּמֽוֹעֲדֵיכֶם֙ שָֽׂנְאָ֣ה נַפְשִׁ֔י הָי֥וּ עָלַ֖י לָטֹ֑רַח נִלְאֵ֖יתִי נְשֹֽׂא׃",
+    "transliteration": "hodesheykhem vmvo'adeykhem sane'ah nafeshiy hayv 'alay latorah nile'eytiy neso'.",
     "translation": "Vossos novos luas e vossos festivais minha alma os aborrece; foram sobre mim por carga, neles me cansei."
   },
   {
     "verse": 15,
     "original": "וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ יְדֵיכֶ֖ם דָּמִ֥ים מָלֵֽאוּ׃",
+    "transliteration": "vvefarisekhem khafeykhem 'a'eliym 'eynay mikhem gam khiy-tarevv tefilah 'eyneniy shome'a yedeykhem damiym male'v.",
     "translation": "E quando espalhais as vossas mãos, eu os escondo de vós; ainda que multipliqueis a oração, não vos ouvirei; as vossas mãos estão cheias de sangue."
   },
   {
     "verse": 16,
     "original": "רַֽחֲצוּ֙ הִזַּכּ֔וּ הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י חִדְל֖וּ הָרֵֽעַ׃",
+    "transliteration": "rahatsv hizakhv hasiyrv ro'a ma'aleleykhem mineged 'eynay hidelv hare'a.",
     "translation": "Lavai-vos, purificai-vos; afastai das vossas ações perversas diante dos meus olhos; cessai de fazer o mal."
   },
   {
     "verse": 17,
     "original": "לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "limedv heytev direshv mishefat 'asherv hamvots shifetv yatvom riyvv 'alemanah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Aprendei o que é bom, buscad justiça, protegei o oprimido, fazei justiça ao órfão, defendei a causa da viúva."
   },
   {
     "verse": 18,
     "original": "לְכוּ־נָ֛א וְנִוָּכְחָ֖ה יֹאמַ֣ר יְהֹוָ֑ה אִם־יִהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִֽהְיֽוּ׃",
+    "transliteration": "lekhv-na' venivakhehah yo'mar yehovah 'im-yiheyv hata'eykhem khashaniym khasheleg yaleviynv 'im-ya'ediymv khatvola' khatsemer yiheyv.",
     "translation": "Vinde, pois, e arguamos o caso, diz o Senhor: se vossos pecados são como a escarlate, serão como a neve branca; se são vermelhos como a púrpura, serão como a lã."
   },
   {
     "verse": 19,
     "original": "אִם־תֹּאב֖וּ וּשְׁמַעְתֶּ֑ם ט֥וּב הָאָ֖רֶץ תֹּאכֵֽלוּ׃",
+    "transliteration": "'im-to'vv vshema'etem tvv ha'arets to'khelv.",
     "translation": "Se quiserdes e ouvirdes, do bom da terra comereis."
   },
   {
     "verse": 20,
     "original": "וְאִם־תְּמָאֲנ֖וּ וּמְרִיתֶ֑ם חֶ֣רֶב תְּאֻכְּל֔וּ כִּ֛י פִּ֥י יְהֹוָ֖ה דִּבֵּֽר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-tema'anv vmeriytem herev te'ukhelv khiy fiy yehovah diver.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se desobedecerem e rebelarem-se, a espada os consumirá; pois a palavra do Senhor foi pronunciada."
   },
   {
     "verse": 21,
     "original": "אֵיכָה֙ הָיְתָ֣ה לְזוֹנָ֔ה קִרְיָ֖ה נֶאֱמָנָ֑ה מְלֵאֲתִ֣י מִשְׁפָּ֗ט צֶ֛דֶק יָלִ֥ין בָּ֖הּ וְעַתָּ֥ה מְרַצְּחִֽים׃",
+    "transliteration": "'eykhah hayetah lezvonah kireyah ne'emanah mele'atiy mishefat tsedek yaliyn vah ve'atah meratsehiym.",
     "translation": "Como se tornou uma meretriz, a cidade fiel! Cheia de justiça, havia repousado nela; mas agora há assassinos."
   },
   {
     "verse": 22,
     "original": "כַּסְפֵּ֖ךְ הָיָ֣ה לְסִיגִ֑ים סׇבְאֵ֖ךְ מָה֥וּל בַּמָּֽיִם׃",
+    "transliteration": "khasefekhe hayah lesiygiym sove'ekhe mahvl vamayim.",
     "translation": "Teu ouro se tornou dross; teu povo lodo nas águas."
   },
   {
     "verse": 23,
     "original": "שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹא־יָב֥וֹא אֲלֵיהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "sarayikhe svoreriym vehaverey ganaviym khulvo 'ohev shohad verodef shalemoniym yatvom lo' yishefotv veriyv 'alemanah lo'-yavvo' 'aleyhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Teus príncipes são rebeldes e companheiros de ladrões; todos amam suborno e perseguem presentes. Não julgam o órfão, nem a causa da viúva chega perante eles."
   },
   {
     "verse": 24,
     "original": "לָכֵ֗ן נְאֻ֤ם הָאָדוֹן֙ יְהֹוָ֣ה צְבָא֔וֹת אֲבִ֖יר יִשְׂרָאֵ֑ל ה֚וֹי אֶנָּחֵ֣ם מִצָּרַ֔י וְאִנָּקְמָ֖ה מֵאוֹיְבָֽי׃",
+    "transliteration": "lakhen ne'um ha'advon yehovah tseva'vot 'aviyr yisera'el hvoy 'enahem mitsaray ve'inakemah me'voyevay.",
     "translation": "Portanto, assim diz o Senhor dos Exércitos, o Poderoso de Israel: Ai daqueles que me consolam em relação aos egípcios e pretendem reconciliar-me com os meus inimigos."
   },
   {
     "verse": 25,
     "original": "וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ וְאֶצְרֹ֥ף כַּבֹּ֖ר סִיגָ֑יִךְ וְאָסִ֖ירָה כׇּל־בְּדִילָֽיִךְ׃",
+    "transliteration": "ve'ashiyvah yadiy 'alayikhe ve'etserof khavor siygayikhe ve'asiyrah khol-vediylayikhe.",
     "translation": "E estenderei minha mão sobre ti, e purgarei as tuas escórias, e tirarei de ti todo o chumbo."
   },
   {
     "verse": 26,
     "original": "וְאָשִׁ֤יבָה שֹׁפְטַ֙יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַֽחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃",
+    "transliteration": "ve'ashiyvah shofetayikhe khevari'shonah veyo'atsayikhe khevatehilah 'aharey-khen yikare' lakhe 'iyr hatsedek kireyah ne'emanah.",
     "translation": "E restaurarei teus juízes como no princípio, e os teus conselheiros como nos primeiros dias; depois serás chamada Cidade da Justiça, Fiel Cidade."
   },
   {
     "verse": 27,
     "original": "צִיּ֖וֹן בְּמִשְׁפָּ֣ט תִּפָּדֶ֑ה וְשָׁבֶ֖יהָ בִּצְדָקָֽה׃",
+    "transliteration": "tsiyvon vemishefat tifadeh veshaveyha vitsedakah.",
     "translation": "Sião será redimida pela justiça, e os seus retornados pela retidão."
   },
   {
     "verse": 28,
     "original": "וְשֶׁ֧בֶר פֹּשְׁעִ֛ים וְחַטָּאִ֖ים יַחְדָּ֑ו וְעֹזְבֵ֥י יְהֹוָ֖ה יִכְלֽוּ׃",
+    "transliteration": "veshever foshe'iym vehata'iym yahedav ve'ozevey yehovah yikhelv.",
     "translation": "E a quebra dos transgressores e pecadores será juntamente, e os que abandonam o Senhor perecerão."
   },
   {
     "verse": 29,
     "original": "כִּ֣י יֵבֹ֔שׁוּ מֵאֵילִ֖ים אֲשֶׁ֣ר חֲמַדְתֶּ֑ם וְתַ֨חְפְּר֔וּ מֵהַגַּנּ֖וֹת אֲשֶׁ֥ר בְּחַרְתֶּֽם׃",
+    "transliteration": "khiy yevoshv me'eyliym 'asher hamadetem vetaheferv mehaganvot 'asher veharetem.",
     "translation": "Pois se envergonharão dos carneiros que desejastes e se lamentarão pelos cercados que escolhestes."
   },
   {
     "verse": 30,
     "original": "כִּ֣י תִֽהְי֔וּ כְּאֵלָ֖ה נֹבֶ֣לֶת עָלֶ֑הָ וּֽכְגַנָּ֔ה אֲשֶׁר־מַ֖יִם אֵ֥ין לָֽהּ׃",
+    "transliteration": "khiy tiheyv khe'elah novelet 'aleha vkheganah 'asher-mayim 'eyn lah.",
     "translation": "Porque sereis como a hiedra que perde suas folhagens, e como o jardim que não tem água."
   },
   {
     "verse": 31,
     "original": "וְהָיָ֤ה הֶחָסֹן֙ לִנְעֹ֔רֶת וּפֹעֲל֖וֹ לְנִיצ֑וֹץ וּבָעֲר֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וְאֵ֥ין מְכַבֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehayah hehason line'oret vfo'alvo leniytsvots vva'arv sheneyhem yahedav ve'eyn mekhaveh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E será o forte para a jovem, e seu trabalho para faiscar; os dois juntos queimam, e ninguém apaga."
   }
 ]

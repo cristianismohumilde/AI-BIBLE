@@ -2,156 +2,187 @@
   {
     "verse": 1,
     "original": "דִּ֭בְרֵי לְמוּאֵ֣ל מֶ֑לֶךְ מַ֝שָּׂ֗א אֲֽשֶׁר־יִסְּרַ֥תּוּ אִמּֽוֹ׃",
+    "transliteration": "diverey lemv'el melekhe masa' 'asher-yiseratv 'imvo.",
     "translation": "Palavras de Lemuél, rei, ensinamento que a sua mãe lhe impôs:"
   },
   {
     "verse": 2,
     "original": "מַה־בְּ֭רִי וּמַֽה־בַּר־בִּטְנִ֑י וּ֝מֶ֗ה בַּר־נְדָרָֽי׃",
+    "transliteration": "mah-veriy vmah-var-viteniy vmeh var-nedaray.",
     "translation": "Quem sou eu e quem são os filhos do meu ventre, e qual é o fruto dos meus votos?"
   },
   {
     "verse": 3,
     "original": "אַל־תִּתֵּ֣ן לַנָּשִׁ֣ים חֵילֶ֑ךָ וּ֝דְרָכֶ֗יךָ לַֽמְח֥וֹת מְלָכִֽין׃",
+    "transliteration": "'al-titen lanashiym heylekha vderakheykha lamehvot melakhiyn.",
     "translation": "Não deis o vosso poder às mulheres, nem os vossos caminhos para extinguirem reis."
   },
   {
     "verse": 4,
     "original": "אַ֤ל לַֽמְלָכִ֨ים&thinsp;<b>׀</b> לְֽמוֹאֵ֗ל אַ֣ל לַֽמְלָכִ֣ים שְׁתוֹ־יָ֑יִן וּ֝לְרוֹזְנִ֗ים <span class=\"mam-kq\"><span class=\"mam-kq-k\">(או)</span> <span class=\"mam-kq-q\">[אֵ֣י]</span></span> שֵׁכָֽר׃",
+    "transliteration": "'al lamelakhiym&thinsp;<b>|</b> lemvo'el 'al lamelakhiym shetvo-yayin vlervozeniym <span class=\"mam-kq\"><span class=\"mam-kq-k\">('v)</span> <span class=\"mam-kq-q\">['ey]</span></span> shekhar.",
     "translation": "Não para os reis é dito: não para os reis beber vinho, e para os nobres não a bebida fermentada."
   },
   {
     "verse": 5,
     "original": "פֶּן־יִ֭שְׁתֶּה וְיִשְׁכַּ֣ח מְחֻקָּ֑ק וִ֝ישַׁנֶּ֗ה דִּ֣ין כׇּל־בְּנֵי־עֹֽנִי׃",
+    "transliteration": "fen-yisheteh veyishekhah mehukak viyshaneh diyn khol-veney-'oniy.",
     "translation": "Para que não beba e esqueça a lei, e altere o direito de todos os aflitos."
   },
   {
     "verse": 6,
     "original": "תְּנוּ־שֵׁכָ֥ר לְאוֹבֵ֑ד וְ֝יַ֗יִן לְמָ֣רֵי נָֽפֶשׁ׃",
+    "transliteration": "tenv-shekhar le'voved veyayin lemarey nafesh.",
     "translation": "Dai bebida forte ao que está desfalecendo e vinho àquele de espírito triste."
   },
   {
     "verse": 7,
     "original": "יִ֭שְׁתֶּה וְיִשְׁכַּ֣ח רִישׁ֑וֹ וַ֝עֲמָל֗וֹ לֹ֣א יִזְכׇּר־עֽוֹד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yisheteh veyishekhah riyshvo va'amalvo lo' yizekhor-'vod.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Beberá e esquecerá sua miséria, e seu trabalho não lhe lembrará mais."
   },
   {
     "verse": 8,
     "original": "פְּתַח־פִּ֥יךָ לְאִלֵּ֑ם אֶל־דִּ֝֗ין כׇּל־בְּנֵ֥י חֲלֽוֹף׃",
+    "transliteration": "fetah-fiykha le'ilem 'el-diyn khol-veney halvof.",
     "translation": "Abre tua boca para os mudos, na defesa de todos os filhos do desamparo."
   },
   {
     "verse": 9,
     "original": "פְּתַח־פִּ֥יךָ שְׁפׇט־צֶ֑דֶק וְ֝דִ֗ין עָנִ֥י וְאֶבְיֽוֹן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "fetah-fiykha shefot-tsedek vediyn 'aniy ve'eveyvon.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Abre tua boca em juízo de retidão, e faze o julgamento do necessitado e do pobre."
   },
   {
     "verse": 10,
     "original": "אֵֽשֶׁת־חַ֭יִל מִ֣י יִמְצָ֑א וְרָחֹ֖ק מִפְּנִינִ֣ים מִכְרָֽהּ׃",
+    "transliteration": "'eshet-hayil miy yimetsa' verahok mifeniyniym mikherah.",
     "translation": "Mulher de valor, quem a encontrará? E seu valor é mais que as pérolas."
   },
   {
     "verse": 11,
     "original": "בָּ֣טַח בָּ֭הּ לֵ֣ב בַּעְלָ֑הּ וְ֝שָׁלָ֗ל לֹ֣א יֶחְסָֽר׃",
+    "transliteration": "vatah vah lev va'elah veshalal lo' yehesar.",
     "translation": "Nele confia o coração do seu dono, e dele não faltará despojo."
   },
   {
     "verse": 12,
     "original": "גְּמָלַ֣תְהוּ ט֣וֹב וְלֹא־רָ֑ע כֹּ֝֗ל יְמֵ֣י חַיֶּֽיהָ׃",
+    "transliteration": "gemalatehv tvov velo'-ra' khol yemey hayeyha.",
     "translation": "Recompensou-o com bondade e não com mal, todos os dias de sua vida."
   },
   {
     "verse": 13,
     "original": "דָּ֭רְשָׁה צֶ֣מֶר וּפִשְׁתִּ֑ים וַ֝תַּ֗עַשׂ בְּחֵ֣פֶץ כַּפֶּֽיהָ׃",
+    "transliteration": "dareshah tsemer vfishetiym vata'as vehefets khafeyha.",
     "translation": "Ela buscou lã e linho, e trabalhou com prazer em suas mãos."
   },
   {
     "verse": 14,
     "original": "הָ֭יְתָה כׇּאֳנִיּ֣וֹת סוֹחֵ֑ר מִ֝מֶּרְחָ֗ק תָּבִ֥יא לַחְמָֽהּ׃",
+    "transliteration": "hayetah kho'oniyvot svoher mimerehak taviy' lahemah.",
     "translation": "Era como navios comerciantes, do longe trazia seu sustento."
   },
   {
     "verse": 15,
     "original": "וַתָּ֤קׇם&thinsp;<b>׀</b> בְּע֬וֹד לַ֗יְלָה וַתִּתֵּ֣ן טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃",
+    "transliteration": "vatakom&thinsp;<b>|</b> ve'vod layelah vatiten teref leveytah vehok lena'aroteyha.",
     "translation": "E levantou-se ainda de noite, e dava mantimento à sua casa, e porção às jovens servas."
   },
   {
     "verse": 16,
     "original": "זָמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(נטע)</span> <span class=\"mam-kq-q\">[נָ֣טְעָה]</span></span> כָּֽרֶם׃",
+    "transliteration": "zamemah sadeh vatikahehv miferiy khafeyha <span class=\"mam-kq\"><span class=\"mam-kq-k\">(nt')</span> <span class=\"mam-kq-q\">[nate'ah]</span></span> kharem.",
     "translation": "Onde planejou e o tomou; do fruto de suas mãos plantou um vinhedo."
   },
   {
     "verse": 17,
     "original": "חָֽגְרָ֣ה בְע֣וֹז מׇתְנֶ֑יהָ וַ֝תְּאַמֵּ֗ץ זְרוֹעֹתֶֽיהָ׃",
+    "transliteration": "hagerah ve'voz moteneyha vate'amets zervo'oteyha.",
     "translation": "Cingiu-se com força os lombos e fortaleceu seus braços."
   },
   {
     "verse": 18,
     "original": "טָ֭עֲמָה כִּי־ט֣וֹב סַחְרָ֑הּ לֹא־יִכְבֶּ֖ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בליל)</span> <span class=\"mam-kq-q\">[בַלַּ֣יְלָה]</span></span> נֵרָֽהּ׃",
+    "transliteration": "ta'amah khiy-tvov saherah lo'-yikheveh <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vlyl)</span> <span class=\"mam-kq-q\">[valayelah]</span></span> nerah.",
     "translation": "Gostou, pois bom é seu comércio; não se apagará sua luz [de noite]."
   },
   {
     "verse": 19,
     "original": "יָ֭דֶיהָ שִׁלְּחָ֣ה בַכִּישׁ֑וֹר וְ֝כַפֶּ֗יהָ תָּ֣מְכוּ פָֽלֶךְ׃",
+    "transliteration": "yadeyha shilehah vakhiyshvor vekhafeyha tamekhv falekhe.",
     "translation": "Suas mãos estenderam-se ao tear, e suas palmas sustentaram o fuso."
   },
   {
     "verse": 20,
     "original": "כַּ֭פָּהּ פָּֽרְשָׂ֣ה לֶעָנִ֑י וְ֝יָדֶ֗יהָ שִׁלְּחָ֥ה לָאֶבְיֽוֹן׃",
+    "transliteration": "khafah faresah le'aniy veyadeyha shilehah la'eveyvon.",
     "translation": "Sua mão se estende ao pobre, e suas mãos enviam presentes ao necessitado."
   },
   {
     "verse": 21,
     "original": "לֹא־תִירָ֣א לְבֵיתָ֣הּ מִשָּׁ֑לֶג כִּ֥י כׇל־בֵּ֝יתָ֗הּ לָבֻ֥שׁ שָׁנִֽים׃",
+    "transliteration": "lo'-tiyra' leveytah mishaleg khiy khol-veytah lavush shaniym.",
     "translation": "Não tema, sua casa não será ferida pelo neve, pois toda a sua casa está vestida de duas peles."
   },
   {
     "verse": 22,
     "original": "מַרְבַדִּ֥ים עָֽשְׂתָה־לָּ֑הּ שֵׁ֖שׁ וְאַרְגָּמָ֣ן לְבוּשָֽׁהּ׃",
+    "transliteration": "marevadiym 'asetah-lah shesh ve'aregaman levvshah.",
     "translation": "Mantos bordados fez para si; linho fino e púrpura são suas vestimentas."
   },
   {
     "verse": 23,
     "original": "נוֹדָ֣ע בַּשְּׁעָרִ֣ים בַּעְלָ֑הּ בְּ֝שִׁבְתּ֗וֹ עִם־זִקְנֵי־אָֽרֶץ׃",
+    "transliteration": "nvoda' vashe'ariym va'elah veshivetvo 'im-zikeney-'arets.",
     "translation": "Conhecida nos portões está a dona de casa, sentada com os anciãos da terra."
   },
   {
     "verse": 24,
     "original": "סָדִ֣ין עָ֭שְׂתָה וַתִּמְכֹּ֑ר וַ֝חֲג֗וֹר נָתְנָ֥ה לַֽכְּנַעֲנִֽי׃",
+    "transliteration": "sadiyn 'asetah vatimekhor vahagvor natenah lakhena'aniy.",
     "translation": "Vestes costurou e vendeu, e cingimento entregou ao cananeu."
   },
   {
     "verse": 25,
     "original": "עֹז־וְהָדָ֥ר לְבוּשָׁ֑הּ וַ֝תִּשְׂחַ֗ק לְי֣וֹם אַחֲרֽוֹן׃",
+    "transliteration": "'oz-vehadar levvshah vatisehak leyvom 'aharvon.",
     "translation": "Poder e esplendor são seu manto, e ela se regozija no último dia."
   },
   {
     "verse": 26,
     "original": "פִּ֭יהָ פָּתְחָ֣ה בְחׇכְמָ֑ה וְת֥וֹרַת חֶ֝֗סֶד עַל־לְשׁוֹנָֽהּ׃",
+    "transliteration": "fiyha fatehah vehokhemah vetvorat hesed 'al-leshvonah.",
     "translation": "Sua boca se abre em sabedoria, e a lei do amor está sobre sua língua."
   },
   {
     "verse": 27,
     "original": "צ֭וֹפִיָּה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הילכות)</span> <span class=\"mam-kq-q\">[הֲלִיכ֣וֹת]</span></span> בֵּיתָ֑הּ וְלֶ֥חֶם עַ֝צְל֗וּת לֹ֣א תֹאכֵֽל׃",
+    "transliteration": "tsvofiyah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hylkhvt)</span> <span class=\"mam-kq-q\">[haliykhvot]</span></span> veytah velehem 'atselvt lo' to'khel.",
     "translation": "Vigia os caminhos de sua casa, e do pão da preguiça não comerá."
   },
   {
     "verse": 28,
     "original": "קָ֣מוּ בָ֭נֶיהָ וַֽיְאַשְּׁר֑וּהָ בַּ֝עְלָ֗הּ וַֽיְהַלְלָֽהּ׃",
+    "transliteration": "kamv vaneyha vaye'ashervha va'elah vayehalelah.",
     "translation": "Levanta-te, seus filhos, e louva-a; seu marido também a exalta."
   },
   {
     "verse": 29,
     "original": "רַבּ֣וֹת בָּ֭נוֹת עָ֣שׂוּ חָ֑יִל וְ֝אַ֗תְּ עָלִ֥ית עַל־כֻּלָּֽנָה׃",
+    "transliteration": "ravvot vanvot 'asv hayil ve'ate 'aliyt 'al-khulanah.",
     "translation": "Muitas mulheres acumularam valentia, mas tu sobrepujaste todas."
   },
   {
     "verse": 30,
     "original": "שֶׁ֣קֶר הַ֭חֵן וְהֶ֣בֶל הַיֹּ֑פִי אִשָּׁ֥ה יִרְאַת־יְ֝הֹוָ֗ה הִ֣יא תִתְהַלָּֽל׃",
+    "transliteration": "sheker hahen vehevel hayofiy 'ishah yire'at-yehovah hiy' titehalal.",
     "translation": "Vaidade é a graça, e vazio o formosura; mulher que teme ao Senhor, ela será louvada."
   },
   {
     "verse": 31,
     "original": "תְּנוּ־לָ֭הּ מִפְּרִ֣י יָדֶ֑יהָ וִיהַלְל֖וּהָ בַשְּׁעָרִ֣ים מַֽעֲשֶֽׂיהָ׃",
+    "transliteration": "tenv-lah miferiy yadeyha viyhalelvha vashe'ariym ma'aseyha.",
     "translation": "Dêem-lhe o fruto de suas mãos e exaltem-na nas portas por seus atos."
   }
 ]

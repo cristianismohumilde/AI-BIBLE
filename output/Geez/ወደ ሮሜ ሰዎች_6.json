@@ -2,101 +2,121 @@
   {
     "verse": "1",
     "original": "እንግዲህ ምን እንላለን? ጸጋ እንዲበዛ በኃጢአት ጸንተን እንኑርን? አይደለም።",
+    "transliteration": "'ngdih mn 'nlalen? ts'ega 'ndibeza behat'i'at ts'enten 'nnurn? 'aydelem.",
     "translation": "O que vos admoesto então? Que com tais concupiscências vos sujeiteis à impureza? Certamente não."
   },
   {
     "verse": "2",
     "original": "ለኃጢአት የሞትን እኛ ወደ ፊት እንዴት አድርገን በእርሱ እንኖራለን?",
+    "transliteration": "lehat'i'at yemotn 'nya wede fit 'ndet 'adrgen be'rsu 'nnoralen?",
     "translation": "Para a redenção da morte nossa, como devemos ordenar a fé em que nos confiamos?"
   },
   {
     "verse": "3",
     "original": "ወይስ ከክርስቶስ ኢየሱስ ጋር አንድ እንሆን ዘንድ የተጠመቅን ሁላችን ከሞቱ ጋር አንድ እንሆን ዘንድ እንደ ተጠመቅን አታውቁምን?",
+    "transliteration": "weys kekrstos 'iyesus gar 'and 'nhon zend yetet'emek'n hulachn kemotu gar 'and 'nhon zend 'nde tet'emek'n 'atawk'umn?",
     "translation": "Ou seremos nós, que fomos unidos a Cristo Jesus em uma só substância, desunidos da morte também na mesma substância?"
   },
   {
     "verse": "4",
     "original": "እንግዲህ ክርስቶስ በአብ ክብር ከሙታን እንደ ተነሣ እንዲሁ እኛም በአዲስ ሕይወት እንድንመላለስ፥ ከሞቱ ጋር አንድ እንሆን ዘንድ በጥምቀት ከእርሱ ጋር ተቀበርን።",
+    "transliteration": "'ngdih krstos be'ab kbr kemutan 'nde tenesa 'ndihu 'nyam be'adis hywet 'ndnmelales, kemotu gar 'and 'nhon zend bet'mk'et ke'rsu gar tek'ebern.",
     "translation": "Assim como Cristo, pela vontade do Pai, se tornou obediência até à morte, nós também nos esforçamos por viver uma vida nova; unidos a ele na sua morte, fomos sepultados com ele pelo batismo."
   },
   {
     "verse": "5",
     "original": "ሞቱንም በሚመስል ሞት ከእርሱ ጋር ከተባበርን ትንሣኤውን በሚመስል ትንሣኤ ደግሞ ከእርሱ ጋር እንተባበራለን፤",
+    "transliteration": "motunm bemimesl mot ke'rsu gar ketebabern tnsa'ewn bemimesl tnsa'e degmo ke'rsu gar 'ntebaberalen;",
     "translation": "Morrer também, pensando na morte que se reconcilia conosco; e ser longamente afligido, pensando no longo sofrimento que se harmoniza connosco;"
   },
   {
     "verse": "6",
     "original": "ከእንግዲህስ ወዲያ ለኃጢአት እንዳንገዛ የኃጢአት ሥጋ ይሻር ዘንድ አሮጌው ሰዋችን ከእርሱ ጋር እንደ ተሰቀለ እናውቃለን፤ የሞተስ ከኃጢአቱ ጸድቋልና።",
+    "transliteration": "ke'ngdihs wediya lehat'i'at 'ndangeza yehat'i'at sga yshar zend 'arogew sewachn ke'rsu gar 'nde tesek'ele 'nawk'alen; yemotes kehat'i'atu ts'edk'walna.",
     "translation": "Da vossa parte, para a santificação, aprendei que o temor de Deus nos torna justos, assim como fomos reconciliados com ele e perseveramos; a morte foi despojada da sua santidade."
   },
   {
     "verse": "8",
     "original": "ነገር ግን ከክርስቶስ ጋር ከሞትን ከእርሱ ጋር ደግሞ በሕይወት እንድንኖር እናምናለን፤",
+    "transliteration": "neger gn kekrstos gar kemotn ke'rsu gar degmo behywet 'ndnnor 'namnalen;",
     "translation": "Mas a questão é que com Cristo estamos mortos para a lei, de modo que agora vivemos nele."
   },
   {
     "verse": "9",
     "original": "ክርስቶስ ከሙታን ተነሥቶ ወደ ፊት እንዳይሞት ሞትም ወደ ፊት እንዳይገዛው እናውቃለንና።",
+    "transliteration": "krstos kemutan tenesto wede fit 'ndaymot motm wede fit 'ndaygezaw 'nawk'alenna.",
     "translation": "Cristo, que se entregou por nós para nos libertar da morte e do pecado, para que não morramos na impureza nem sirvamos ao pecado, assim o fizemos."
   },
   {
     "verse": "10",
     "original": "መሞትን አንድ ጊዜ ፈጽሞ ለኃጢአት ሞቶአልና፤ በሕይወት መኖርን ግን ለእግዚአብሔር ይኖራል።",
+    "transliteration": "memotn 'and gize fets'mo lehat'i'at moto'alna; behywet menorn gn le'gzi'abher ynoral.",
     "translation": "Morrendo, uma vez por todas, ao mundo para a corrupção; vivendo, porém, para Deus."
   },
   {
     "verse": "11",
     "original": "እንዲሁም እናንተ ደግሞ ለኃጢአት እንደ ሞታችሁ፥ ግን በክርስቶስ ኢየሱስ በጌታችን ሆናችሁ ለእግዚአብሔር ሕያዋን እንደ ሆናችሁ ራሳችሁን ቈጠሩ።",
+    "transliteration": "'ndihum 'nante degmo lehat'i'at 'nde motachhu, gn bekrstos 'iyesus begetachn honachhu le'gzi'abher hyawan 'nde honachhu rasachhun k'wet'eru.",
     "translation": "Assim como vocês também se santifiquem em Cristo Jesus, pela verdadeira devoção, para que a vontade de Deus seja realizada através de suas obras."
   },
   {
     "verse": "12",
     "original": "እንግዲህ ለምኞቱ እንድትታዘዙ በሚሞት ሥጋችሁ ኃጢአት አይንገሥ፤",
+    "transliteration": "'ngdih lemnyotu 'ndttazezu bemimot sgachhu hat'i'at 'aynges;",
     "translation": "Por ti, suas contendas morrerão, e sua violência desaparecerá."
   },
   {
     "verse": "13",
     "original": "ብልቶቻችሁንም የዓመፃ የጦር ዕቃ አድርጋችሁ ለኃጢአት አታቅርቡ፥ ነገር ግን ከሙታን ተለይታችሁ በሕይወት እንደምትኖሩ ራሳችሁን ለእግዚአብሔር አቅርቡ፥ ብልቶቻችሁንም የጽድቅ የጦር ዕቃ አድርጋችሁ ለእግዚአብሔር አቅርቡ።",
+    "transliteration": "bltochachhunm ye`amets'a yet'or `k'a 'adrgachhu lehat'i'at 'atak'rbu, neger gn kemutan teleytachhu behywet 'ndemtnoru rasachhun le'gzi'abher 'ak'rbu, bltochachhunm yets'dk' yet'or `k'a 'adrgachhu le'gzi'abher 'ak'rbu.",
     "translation": "Com vossos corpos, pois, como os que já ressuscitaram dos mortos à santidade, apresentai-vos a Deus; e vossas partes de vida, assim também, ao serdes vivificados do vosso pecado, ofereceis a Deus; com vossos corpos ainda, como aqueles que andam na justiça, apresentai-vos a Deus."
   },
   {
     "verse": "14",
     "original": "ኃጢአት አይገዛችሁምና፤ ከጸጋ በታች እንጂ ከሕግ በታች አይደላችሁምና።",
+    "transliteration": "hat'i'at 'aygezachhumna; kets'ega betach 'nji kehg betach 'aydelachhumna.",
     "translation": "Amará que não tememos, nem do homem nos assustamos, nem da lei trememos."
   },
   {
     "verse": "15",
     "original": "እንግዲህ ምን ይሁን? ከጸጋ በታች እንጂ ከሕግ በታች ስላይደለን ኃጢአትን እንሥራን? አይደለም።",
+    "transliteration": "'ngdih mn yhun? kets'ega betach 'nji kehg betach slaydelen hat'i'atn 'nsran? 'aydelem.",
     "translation": "Quem sois vós, que julgais os outros e rejeitais a lei? Não sede injustos."
   },
   {
     "verse": "16",
     "original": "ለመታዘዝ ባሪያዎች እንድትሆኑ ራሳችሁን ለምታቀርቡለት፥ ለእርሱ ለምትታዘዙለት ባሪያዎች እንደ ሆናችሁ አታውቁምን? ወይም ለሞት የኃጢአት ባሪያዎች ወይም ለጽድቅ የመታዘዝ ባሪያዎች ናችሁ።",
+    "transliteration": "lemetazez bariyawoch 'ndthonu rasachhun lemtak'erbulet, le'rsu lemttazezulet bariyawoch 'nde honachhu 'atawk'umn? weym lemot yehat'i'at bariyawoch weym lets'dk' yemetazez bariyawoch nachhu.",
     "translation": "Para a reconciliação, vossos corpos se entregam para serem queimados. Ou para vosso pecado, os corpos se entregam para serem consumidos por fogo? Ou para a morte, corpos de impureza, ou para a justiça, corpos de santificação sois vós."
   },
   {
     "verse": "18",
     "original": "ስለ ሥጋችሁ ድካም እንደ ሰው ልማድ እላለሁ። ብልቶቻችሁ ዓመፃ ሊያደርጉ ለርኵስነትና ለዓመፃ ባሪያዎች አድርጋችሁ እንዳቀረባችሁ፥ እንደዚሁ ብልቶቻችሁ ሊቀደሱ ለጽድቅ ባሪያዎች አድርጋችሁ አሁን አቅርቡ።",
+    "transliteration": "sle sgachhu dkam 'nde sew lmad 'lalehu. bltochachhu `amets'a liyadergu lerkwisnetna le`amets'a bariyawoch 'adrgachhu 'ndak'erebachhu, 'ndezihu bltochachhu lik'edesu lets'dk' bariyawoch 'adrgachhu 'ahun 'ak'rbu.",
     "translation": "Por causa de vossas faltas, eu me tornei como um estranho diante de vós. Por vossos pecados, vosso santuário foi desolado e o lugar das vossas festas tornou-se em desolação. Assim, por vossos pecados, ele se voltará à justiça dos que nele esperam."
   },
   {
     "verse": "19",
     "original": "የኃጢአት ባሪያዎች ሳላችሁ ከጽድቅ ነፃ ነበራችሁና።",
+    "transliteration": "yehat'i'at bariyawoch salachhu kets'dk' nets'a neberachhuna.",
     "translation": "Vós, árvores de justiça, fostes plantadas e enraizastes-vos na retidão."
   },
   {
     "verse": "20",
     "original": "እንግዲህ ዛሬ ከምታፍሩበት ነገር ያን ጊዜ ምን ፍሬ ነበራችሁ? የዚህ ነገር መጨረሻው ሞት ነውና።",
+    "transliteration": "'ngdih zare kemtafrubet neger yan gize mn fre neberachhu? yezih neger mech'ereshaw mot newna.",
     "translation": "Vós, cujo orgulho era como um selo colocado, por qual motivo vos tornastes loucos naquele tempo? O fim desta coisa é a morte."
   },
   {
     "verse": "21",
     "original": "አሁን ግን ከኃጢአት አርነት ወጥታችሁ ለእግዚአብሔርም ተገዝታችሁ፥ ልትቀደሱ ፍሬ አላችሁ፤ መጨረሻውም የዘላለም ሕይወት ነው።",
+    "transliteration": "'ahun gn kehat'i'at 'arnet wet'tachhu le'gzi'abherm tegeztachhu, ltk'edesu fre 'alachhu; mech'ereshawm yezelalem hywet new.",
     "translation": "Então, após a purificação da água, oferecestes sacrifícios ao Senhor e louvastes; com isto eu concordei, mas o fim é a morte eterna."
   },
   {
     "verse": "22",
     "original": "የኃጢአት ደመወዝ ሞት ነውና፤ የእግዚአብሔር የጸጋ ስጦታ ግን በክርስቶስ ኢየሱስ በጌታችን የዘላለም ሕይወት ነው።",
+    "transliteration": "yehat'i'at demewez mot newna; ye'gzi'abher yets'ega st'ota gn bekrstos 'iyesus begetachn yezelalem hywet new.",
     "translation": "A morte é o salário do pecado, mas a dádiva de Deus é vida eterna em Cristo Jesus, nosso Senhor."
   }
 ]

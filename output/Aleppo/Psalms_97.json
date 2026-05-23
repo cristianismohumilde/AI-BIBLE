@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "יְהֹוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃",
+    "transliteration": "yehovah malakhe tagel ha'arets yisemehv 'iyiym raviym.",
     "translation": "O SENHOR reina, exulte a terra; regozijem-se muitas ilhas."
   },
   {
     "verse": 2,
     "original": "עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ׃",
+    "transliteration": "'anan va'arafel seviyvayv tsedek vmishefat mekhvon khise'vo.",
     "translation": "Nebulosa e escuridão o cercam; justiça e julgamento são o fundamento de seu trono."
   },
   {
     "verse": 3,
     "original": "אֵ֭שׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו׃",
+    "transliteration": "'esh lefanayv telekhe vtelahet saviyv tsarayv.",
     "translation": "Fogo diante dele avança e consome os que ao seu redor se opõem."
   },
   {
     "verse": 4,
     "original": "הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ׃",
+    "transliteration": "he'iyrv verakayv tevel ra'atah vatahel ha'arets.",
     "translation": "Iluminaram o mundo seus relâmpagos, viu e estremeceu a terra."
   },
   {
     "verse": 5,
     "original": "הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כׇּל־הָאָֽרֶץ׃",
+    "transliteration": "hariym khadvonag namasv milifeney yehovah milifeney 'advon khol-ha'arets.",
     "translation": "Montanhas como cera derretem diante do Senhor, diante do Senhor dono de toda a terra."
   },
   {
     "verse": 6,
     "original": "הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כׇל־הָעַמִּ֣ים כְּבוֹדֽוֹ׃",
+    "transliteration": "higiydv hashamayim tsidekvo vera'v khol-ha'amiym khevvodvo.",
     "translation": "Proclamem os céus sua justiça, e vejam todos os povos sua glória."
   },
   {
     "verse": 7,
     "original": "יֵבֹ֤שׁוּ&thinsp;<b>׀</b> כׇּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝֗וֹ כׇּל־אֱלֹהִֽים׃",
+    "transliteration": "yevoshv&thinsp;<b>|</b> khol-'ovedey fesel hamitehaleliym va'eliyliym hishetahavv-lvo khol-'elohiym.",
     "translation": "Envergonhem-se todos os servos de ídolos, que se regozijam em vaidades; adorem-no todos os deuses."
   },
   {
     "verse": 8,
     "original": "שָׁמְעָ֬ה וַתִּשְׂמַ֨ח&thinsp;<b>׀</b> צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה׃",
+    "transliteration": "shame'ah vatisemah&thinsp;<b>|</b> tsiyvon vatagelenah venvot yehvdah lema'an mishefateykha yehovah.",
     "translation": "Ouvindo, Sião se alegrou e as filhas de Judá se regozijaram, por causa dos teus juízos, Senhor."
   },
   {
     "verse": 9,
     "original": "כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כׇּל־הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־כׇּל־אֱלֹהִֽים׃",
+    "transliteration": "khiy-'atah yehovah 'eleyvon 'al-khol-ha'arets me'od na'aleyta 'al-khol-'elohiym.",
     "translation": "Pois tu, Senhor, és o Altíssimo sobre toda a terra, exaltado mui além de todos os deuses."
   },
   {
     "verse": 10,
     "original": "אֹֽהֲבֵ֥י יְהֹוָ֗ה שִׂנְא֫וּ<span class=\"mam-implicit-maqaf\">־</span>רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃",
+    "transliteration": "'ohavey yehovah sine'v<span class=\"mam-implicit-maqaf\">-</span>ra' shomer nafeshvot hasiydayv miyad resha'iym yatsiylem.",
     "translation": "Amantes do Senhor, odeiem o mal; guarda as almas dos seus piedosos; livra-os da mão dos perversos."
   },
   {
     "verse": 11,
     "original": "א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃",
+    "transliteration": "'vor zaru'a latsadiyk vleyisherey-lev simehah.",
     "translation": "Luz semeada para o justo e para os retos de coração, alegria."
   },
   {
     "verse": 12,
     "original": "שִׂמְח֣וּ צַ֭דִּיקִים בַּיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "simehv tsadiykiym vayhovah vehvodv lezekher kodeshvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Alegrai-vos, justos, no Senhor, e louvai-o em lembrança de sua santidade."
   }
 ]

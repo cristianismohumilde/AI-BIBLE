@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֥חַ עַֽל־הַגִּתִּ֗ית מִזְמ֥וֹר לְדָוִֽד׃",
+    "transliteration": "lamenatseha 'al-hagitiyt mizemvor ledavid.",
     "translation": "Para o maestro sobre a gitita, salmo de Davi."
   },
   {
     "verse": 2,
     "original": "יְהֹוָ֤ה אֲדֹנֵ֗ינוּ מָה־אַדִּ֣יר שִׁ֭מְךָ בְּכׇל־הָאָ֑רֶץ אֲשֶׁ֥ר תְּנָ֥ה ה֝וֹדְךָ֗ עַל־הַשָּׁמָֽיִם׃",
+    "transliteration": "yehovah 'adoneynv mah-'adiyr shimekha vekhol-ha'arets 'asher tenah hvodekha 'al-hashamayim.",
     "translation": "Senhor, nosso Deus, quão majestoso é teu nome em toda a terra! Quanto maiorais tu tua glória sobre os céus."
   },
   {
     "verse": 3,
     "original": "מִפִּ֤י עוֹלְלִ֨ים&thinsp;<b>׀</b> וְֽיֹנְקִים֮ יִסַּ֢דְתָּ֫ עֹ֥ז לְמַ֥עַן צוֹרְרֶ֑יךָ לְהַשְׁבִּ֥ית א֝וֹיֵ֗ב וּמִתְנַקֵּֽם׃",
+    "transliteration": "mifiy 'voleliym&thinsp;<b>|</b> veyonekiym yisadeta 'oz lema'an tsvorereykha lehasheviyt 'voyev vmitenakem.",
     "translation": "Da boca de lactantes e amamentados estabeleceste firmeza para que silences o inimigo e o vingador."
   },
   {
     "verse": 4,
     "original": "כִּֽי־אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣ה אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה׃",
+    "transliteration": "khiy-'ere'eh shameykha ma'aseh 'etseve'oteykha yareha vekhvokhaviym 'asher khvonanetah.",
     "translation": "Pois vejo os céus, obra dos teus dedos; lua e estrelas, que tu estabeleceste."
   },
   {
     "verse": 5,
     "original": "מָה־אֱנ֥וֹשׁ כִּֽי־תִזְכְּרֶ֑נּוּ וּבֶן־אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ׃",
+    "transliteration": "mah-'envosh khiy-tizekherenv vven-'adam khiy tifekedenv.",
     "translation": "Que é o homem para que dele te lembres, ou filho do homem, para que o visites?"
   },
   {
     "verse": 6,
     "original": "וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ׃",
+    "transliteration": "vatehaserehv me'at me'elohiym vekhavvod vehadar te'aterehv.",
     "translation": "E o fez pouco inferior aos deuses, coroa-lhe de glória e esplendor.\n\nNota: O texto original hebraico faz referência a \"Elōhîm\", que geralmente é traduzido como \"Deus\" em contextos monoteístas, mas pode ser interpretado como uma forma plural. Nesse contexto, a tradução \"deuses\" foi mantida para preservar a possível intenção plúrima ou exaltação divina. No entanto, se o contexto requer uma abordagem estritamente monoteísta, ajuste-se para \"Deus\"."
   },
   {
     "verse": 7,
     "original": "תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝֗ל שַׁ֣תָּה תַֽחַת־רַגְלָֽיו׃",
+    "transliteration": "tameshiylehv vema'asey yadeykha khol shatah tahat-ragelayv.",
     "translation": "Sujeitou-o às obras de tuas mãos; tudo colocaste debaixo de seus pés."
   },
   {
     "verse": 8,
     "original": "צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי׃",
+    "transliteration": "tsoneh va'alafiym khulam vegam vahamvot saday.",
     "translation": "Rebanhos de ovelhas e bois, sim, e também as feras do campo."
   },
   {
     "verse": 9,
     "original": "צִפּ֣וֹר שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם עֹ֝בֵ֗ר אׇרְח֥וֹת יַמִּֽים׃",
+    "transliteration": "tsifvor shamayim vdegey hayam 'over 'orehvot yamiym.",
     "translation": "A ave dos céus e os peixes do mar, que percorrem as veredas dos mares."
   },
   {
     "verse": 10,
     "original": "יְהֹוָ֥ה אֲדֹנֵ֑ינוּ מָה־אַדִּ֥יר שִׁ֝מְךָ֗ בְּכׇל־הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yehovah 'adoneynv mah-'adiyr shimekha vekhol-ha'arets.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Senhor, nosso Deus, quão majestoso é teu nome em toda a terra."
   }
 ]

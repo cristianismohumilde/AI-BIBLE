@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "εἰς τὸ τέλος ὑπὲρ τῶν ἀλλοιωθησομένων μαρτύριον τῷ Ασαφ ψαλμὸς ὑπὲρ τοῦ Ἀσσυρίου ",
+    "transliteration": "eis to telos hyper ton alloiothisomenon martyrion to Asaf psalmos hyper toy Assyrioy ",
     "translation": "Até o fim, para os que serão transformados, testemunho a Asafe: salmo contra o Assírio."
   },
   {
     "verse": 2,
     "original": "ὁ ποιμαίνων τὸν Ισραηλ πρόσχες ὁ ὁδηγῶν ὡσεὶ πρόβατα τὸν Ιωσηφ ὁ καθήμενος ἐπὶ τῶν χερουβιν ἐμφάνηθι ",
+    "transliteration": "ho poimainon ton Israil prosches ho hodigon hosei provata ton Iosif ho kathimenos epi ton cheroyvin emfanithi ",
     "translation": "Ó que apascentas Israel, mostra-te; ó que conduzes José como rebanho, tu que estás assentado sobre querubins, aparece."
   },
   {
     "verse": 3,
     "original": "ἐναντίον Εφραιμ καὶ Βενιαμιν καὶ Μανασση ἐξέγειρον τὴν δυναστείαν σου καὶ ἐλθὲ εἰς τὸ σῶσαι ἡμᾶς ",
+    "transliteration": "enantion Efraim kai Veniamin kai Manassi exegeiron tin dynasteian soy kai elthe eis to sosai himas ",
     "translation": "Diante de Efraim e Benjamim e Manassés, levanta o teu poder e vem para nos salvar."
   },
   {
     "verse": 4,
     "original": "ὁ θεός ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου καὶ σωθησόμεθα ",
+    "transliteration": "ho theos epistrepson himas kai epifanon to prosopon soy kai sothisometha ",
     "translation": "Deus, volta-te para nós e manifesta a tua face, e seremos salvos."
   },
   {
     "verse": 5,
     "original": "κύριε ὁ θεὸς τῶν δυνάμεων ἕως πότε ὀργίζῃ ἐπὶ τὴν προσευχὴν τοῦ δούλου σου ",
+    "transliteration": "kyrie ho theos ton dynameon heos pote orgizi epi tin proseychin toy doyloy soy ",
     "translation": "Senhor, Deus dos exércitos, até quando te iras contra a oração do teu servo?"
   },
   {
     "verse": 6,
     "original": "ψωμιεῖς ἡμᾶς ἄρτον δακρύων καὶ ποτιεῖς ἡμᾶς ἐν δάκρυσιν ἐν μέτρῳ ",
+    "transliteration": "psomieis himas arton dakryon kai potieis himas en dakrysin en metro ",
     "translation": "Nos fartais de pão de lágrimas e nos fazes beber com lágrimas em medida."
   },
   {
     "verse": 7,
     "original": "ἔθου ἡμᾶς εἰς ἀντιλογίαν τοῖς γείτοσιν ἡμῶν καὶ οἱ ἐχθροὶ ἡμῶν ἐμυκτήρισαν ἡμᾶς ",
+    "transliteration": "ethoy himas eis antilogian tois geitosin himon kai ohi echthroi himon emyktirisan himas ",
     "translation": "fazei-nos retornar a ti, ó Deus, e os nossos inimigos se envergonharão; façamos jactância sobre eles que nos injuriaram."
   },
   {
     "verse": 8,
     "original": "κύριε ὁ θεὸς τῶν δυνάμεων ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου καὶ σωθησόμεθα διάψαλμα ",
+    "transliteration": "kyrie ho theos ton dynameon epistrepson himas kai epifanon to prosopon soy kai sothisometha diapsalma ",
     "translation": "Senhor, Deus das forças, converte-nos e manifesta a tua face, e seremos salvos. Selá."
   },
   {
     "verse": 9,
     "original": "ἄμπελον ἐξ Αἰγύπτου μετῆρας ἐξέβαλες ἔθνη καὶ κατεφύτευσας αὐτήν ",
+    "transliteration": "ampelon ex Aigyptoy metiras exevales ethni kai katefyteysas aytin ",
     "translation": "vinha transplantaste de Egito, lançaste fora as nações e a implantaste"
   },
   {
     "verse": 10,
     "original": "ὡδοποίησας ἔμπροσθεν αὐτῆς καὶ κατεφύτευσας τὰς ῥίζας αὐτῆς καὶ ἐπλήσθη ἡ γῆ ",
+    "transliteration": "hodopoiisas emprosthen aytis kai katefyteysas tas rhizas aytis kai eplisthi hi gi ",
     "translation": "preparaste o caminho diante dela e plantaste as raízes dela e a terra foi satisfeita"
   },
   {
     "verse": 11,
     "original": "ἐκάλυψεν ὄρη ἡ σκιὰ αὐτῆς καὶ αἱ ἀναδενδράδες αὐτῆς τὰς κέδρους τοῦ θεοῦ ",
+    "transliteration": "ekalypsen ori hi skia aytis kai ahi anadendrades aytis tas kedroys toy theoy ",
     "translation": "A sombra dela cobriu os montes, e suas ramagens, os cedros de Deus."
   },
   {
     "verse": 12,
     "original": "ἐξέτεινεν τὰ κλήματα αὐτῆς ἕως θαλάσσης καὶ ἕως ποταμοῦ τὰς παραφυάδας αὐτῆς ",
+    "transliteration": "exeteinen ta klimata aytis heos thalassis kai heos potamoy tas parafyadas aytis ",
     "translation": "Estendeu seus ramos até o mar e até o rio suas brotações."
   },
   {
     "verse": 13,
     "original": "ἵνα τί καθεῖλες τὸν φραγμὸν αὐτῆς καὶ τρυγῶσιν αὐτὴν πάντες οἱ παραπορευόμενοι τὴν ὁδόν ",
+    "transliteration": "hina ti katheiles ton fragmon aytis kai trygosin aytin pantes ohi paraporeyomenoi tin hodon ",
     "translation": "por que destruíste o cercado dela, e todos os que passam pelo caminho a saqueiam?"
   },
   {
     "verse": 14,
     "original": "ἐλυμήνατο αὐτὴν σῦς ἐκ δρυμοῦ καὶ μονιὸς ἄγριος κατενεμήσατο αὐτήν ",
+    "transliteration": "elyminato aytin sys ek drymoy kai monios agrios katenemisato aytin ",
     "translation": "O javali da selva devastou-a, e a fera feroz dela se apoderou."
   },
   {
     "verse": 15,
     "original": "ὁ θεὸς τῶν δυνάμεων ἐπίστρεψον δή ἐπίβλεψον ἐξ οὐρανοῦ καὶ ἰδὲ καὶ ἐπίσκεψαι τὴν ἄμπελον ταύτην ",
+    "transliteration": "ho theos ton dynameon epistrepson di epivlepson ex oyranoy kai ide kai episkepsai tin ampelon taytin ",
     "translation": "Ó Deus das forças, volta-te e olha do céu, e considera esta vide."
   },
   {
     "verse": 16,
     "original": "καὶ κατάρτισαι αὐτήν ἣν ἐφύτευσεν ἡ δεξιά σου καὶ ἐπὶ υἱὸν ἀνθρώπου ὃν ἐκραταίωσας σεαυτῷ ",
+    "transliteration": "kai katartisai aytin hin efyteysen hi dexia soy kai epi yhion anthropoy hon ekrataiosas seayto ",
     "translation": "E completa a obra que tua direita começou, e sobre o filho do homem que fortaleceste para ti mesmo."
   },
   {
     "verse": 17,
     "original": "ἐμπεπυρισμένη πυρὶ καὶ ἀνεσκαμμένη ἀπὸ ἐπιτιμήσεως τοῦ προσώπου σου ἀπολοῦνται ",
+    "transliteration": "empepyrismeni pyri kai aneskammeni apo epitimiseos toy prosopoy soy apoloyntai ",
     "translation": "queimadas pelo fogo e esmagadas pela ira da tua face perecerão"
   },
   {
     "verse": 18,
     "original": "γενηθήτω ἡ χείρ σου ἐπ’ ἄνδρα δεξιᾶς σου καὶ ἐπὶ υἱὸν ἀνθρώπου ὃν ἐκραταίωσας σεαυτῷ ",
+    "transliteration": "genithito hi cheir soy ep' andra dexias soy kai epi yhion anthropoy hon ekrataiosas seayto ",
     "translation": "Seja realizada a tua mão sobre o homem da tua direita, e sobre o filho do homem que fortaleceste para ti."
   },
   {
     "verse": 19,
     "original": "καὶ οὐ μὴ ἀποστῶμεν ἀπὸ σοῦ ζωώσεις ἡμᾶς καὶ τὸ ὄνομά σου ἐπικαλεσόμεθα ",
+    "transliteration": "kai oy mi apostomen apo soy zooseis himas kai to onoma soy epikalesometha ",
     "translation": "E não nos apartaremos de ti; vivifica-nos, e invocaremos o teu nome."
   },
   {
     "verse": 20,
     "original": "κύριε ὁ θεὸς τῶν δυνάμεων ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου καὶ σωθησόμεθα ",
+    "transliteration": "kyrie ho theos ton dynameon epistrepson himas kai epifanon to prosopon soy kai sothisometha ",
     "translation": "Senhor, Deus das forças, volta para nós e manifesta a tua face, e seremos salvos."
   }
 ]

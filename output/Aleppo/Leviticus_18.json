@@ -2,151 +2,181 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
     "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem 'aniy yehovah 'eloheykhem.",
     "translation": "Fala aos filhos de Israel e dize-lhes: Eu sou o Senhor vosso Deus."
   },
   {
     "verse": 3,
     "original": "כְּמַעֲשֵׂ֧ה אֶֽרֶץ־מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם־בָּ֖הּ לֹ֣א תַעֲשׂ֑וּ וּכְמַעֲשֵׂ֣ה אֶֽרֶץ־כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ מֵבִ֨יא אֶתְכֶ֥ם שָׁ֙מָּה֙ לֹ֣א תַעֲשׂ֔וּ וּבְחֻקֹּתֵיהֶ֖ם לֹ֥א תֵלֵֽכוּ׃",
+    "transliteration": "khema'aseh 'erets-mitserayim 'asher yeshavetem-vah lo' ta'asv vkhema'aseh 'erets-khena'an 'asher 'aniy meviy' 'etekhem shamah lo' ta'asv vvehukoteyhem lo' telekhv.",
     "translation": "Como as obras da terra do Egito onde habitastes não fareis; nem como as obras da terra de Canaã para a qual eu vos trago fareis; e segundo suas leis não andareis."
   },
   {
     "verse": 4,
     "original": "אֶת־מִשְׁפָּטַ֧י תַּעֲשׂ֛וּ וְאֶת־חֻקֹּתַ֥י תִּשְׁמְר֖וּ לָלֶ֣כֶת בָּהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "'et-mishefatay ta'asv ve'et-hukotay tishemerv lalekhet vahem 'aniy yehovah 'eloheykhem.",
     "translation": "Meus preceitos fareis e as minhas leis guardareis, andando nelas; Eu sou o Senhor vosso Deus."
   },
   {
     "verse": 5,
     "original": "וּשְׁמַרְתֶּ֤ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י אֲשֶׁ֨ר יַעֲשֶׂ֥ה אֹתָ֛ם הָאָדָ֖ם וָחַ֣י בָּהֶ֑ם אֲנִ֖י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vshemaretem 'et-hukotay ve'et-mishefatay 'asher ya'aseh 'otam ha'adam vahay vahem 'aniy yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E guardareis os meus estatutos e os meus juízos; se os fizer o homem, neles viverá; Eu sou o Senhor."
   },
   {
     "verse": 6,
     "original": "אִ֥ישׁ אִישׁ֙ אֶל־כׇּל־שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'iysh 'iysh 'el-khol-she'er vesarvo lo' tikerevv legalvot 'erevah 'aniy yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Nenhum homem se aproximará de qualquer parente próximo para descobrir sua nudez, pois eu sou o Senhor."
   },
   {
     "verse": 7,
     "original": "עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'aviykha ve'erevat 'imekha lo' tegaleh 'imekha hiv' lo' tegaleh 'erevatah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez de teu pai e a nudez de tua mãe não descobrirás; ela é tua mãe, a nudez dela não descobrirás."
   },
   {
     "verse": 8,
     "original": "עֶרְוַ֥ת אֵֽשֶׁת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָבִ֖יךָ הִֽוא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'eshet-'aviykha lo' tegaleh 'erevat 'aviykha hiv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez da mulher de teu pai não descobrirás; a nudez de teu pai é isso."
   },
   {
     "verse": 9,
     "original": "עֶרְוַ֨ת אֲחֽוֹתְךָ֤ בַת־אָבִ֙יךָ֙ א֣וֹ בַת־אִמֶּ֔ךָ מוֹלֶ֣דֶת בַּ֔יִת א֖וֹ מוֹלֶ֣דֶת ח֑וּץ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽן׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'ahvotekha vat-'aviykha 'vo vat-'imekha mvoledet vayit 'vo mvoledet hvts lo' tegaleh 'erevatan.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez de tua irmã, filha de teu pai ou filha de tua mãe, parente nascida em casa ou fora dela, não descobrirás suas nudidades."
   },
   {
     "verse": 10,
     "original": "עֶרְוַ֤ת בַּת־בִּנְךָ֙ א֣וֹ בַֽת־בִּתְּךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ן כִּ֥י עֶרְוָתְךָ֖ הֵֽנָּה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat vat-vinekha 'vo vat-vitekha lo' tegaleh 'erevatan khiy 'erevatekha henah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez de tua filha ou de tua neta não descobrirás, pois a sua nudez é a tua."
   },
   {
     "verse": 11,
     "original": "עֶרְוַ֨ת בַּת־אֵ֤שֶׁת אָבִ֙יךָ֙ מוֹלֶ֣דֶת אָבִ֔יךָ אֲחוֹתְךָ֖ הִ֑וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat vat-'eshet 'aviykha mvoledet 'aviykha 'ahvotekha hiv' lo' tegaleh 'erevatah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez da filha de tua sogra, que é mãe do teu pai, ela é tua tia; não descobrirás sua nudez."
   },
   {
     "verse": 12,
     "original": "עֶרְוַ֥ת אֲחוֹת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה שְׁאֵ֥ר אָבִ֖יךָ הִֽוא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'ahvot-'aviykha lo' tegaleh she'er 'aviykha hiv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez da tua tia, filha de teu pai, não descobrirás."
   },
   {
     "verse": 13,
     "original": "עֶרְוַ֥ת אֲחֽוֹת־אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה כִּֽי־שְׁאֵ֥ר אִמְּךָ֖ הִֽוא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'ahvot-'imekha lo' tegaleh khiy-she'er 'imekha hiv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez de tua tia materna, não a descobrirás, pois tua tia é resto de tua mãe."
   },
   {
     "verse": 14,
     "original": "עֶרְוַ֥ת אֲחִֽי־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה אֶל־אִשְׁתּוֹ֙ לֹ֣א תִקְרָ֔ב דֹּדָֽתְךָ֖ הִֽוא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'ahiy-'aviykha lo' tegaleh 'el-'ishetvo lo' tikerav dodatekha hiv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez do teu tio não descobrirás; à sua mulher não te aproximarás, pois ela é tua tia."
   },
   {
     "verse": 15,
     "original": "עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat khalatekha lo' tegaleh 'eshet vinekha hiv' lo' tegaleh 'erevatah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez de tua nora não descobrirás; ela é esposa do teu filho; a sua nudez não revelarás."
   },
   {
     "verse": 16,
     "original": "עֶרְוַ֥ת אֵֽשֶׁת־אָחִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָחִ֖יךָ הִֽוא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'erevat 'eshet-'ahiykha lo' tegaleh 'erevat 'ahiykha hiv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A nudez da mulher do teu irmão não descobrirás, pois a nudez do teu irmão é essa."
   },
   {
     "verse": 17,
     "original": "עֶרְוַ֥ת אִשָּׁ֛ה וּבִתָּ֖הּ לֹ֣א תְגַלֵּ֑ה אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ לְגַלּ֣וֹת עֶרְוָתָ֔הּ שַׁאֲרָ֥ה הֵ֖נָּה זִמָּ֥ה הִֽוא׃",
+    "transliteration": "'erevat 'ishah vvitah lo' tegaleh 'et-vat-venah ve'et-vat-vitah lo' tikah legalvot 'erevatah sha'arah henah zimah hiv'.",
     "translation": "A nudez de uma mulher e da sua filha não descobrirás; nem tomarás a tua neta ou a tua neteça para descobrir a sua nudez, pois tal é abominação."
   },
   {
     "verse": 18,
     "original": "וְאִשָּׁ֥ה אֶל־אֲחֹתָ֖הּ לֹ֣א תִקָּ֑ח לִצְרֹ֗ר לְגַלּ֧וֹת עֶרְוָתָ֛הּ עָלֶ֖יהָ בְּחַיֶּֽיהָ׃",
+    "transliteration": "ve'ishah 'el-'ahotah lo' tikah litseror legalvot 'erevatah 'aleyha vehayeyha.",
     "translation": "E mulher alguma tomarás para ti frente à tua irmã, a fim de não descobrir sua nudez junto dela em vida dela."
   },
   {
     "verse": 19,
     "original": "וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ׃",
+    "transliteration": "ve'el-'ishah venidat tume'atah lo' tikerav legalvot 'erevatah.",
     "translation": "E à mulher na impureza da sua menstruação, não te aproximares para descobrir a nudez dela."
   },
   {
     "verse": 20,
     "original": "וְאֶל־אֵ֙שֶׁת֙ עֲמִֽיתְךָ֔ לֹא־תִתֵּ֥ן שְׁכׇבְתְּךָ֖ לְזָ֑רַע לְטׇמְאָה־בָֽהּ׃",
+    "transliteration": "ve'el-'eshet 'amiytekha lo'-titen shekhovetekha lezara' letome'ah-vah.",
     "translation": "E à mulher do teu próximo, não darás tua cama para gerar nela, para contaminá-la."
   },
   {
     "verse": 21,
     "original": "וּמִֽזַּרְעֲךָ֥ לֹא־תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "vmizare'akha lo'-titen leha'aviyr lamolekhe velo' tehalel 'et-shem 'eloheykha 'aniy yehovah.",
     "translation": "E dentre o teu semente não darás para fazer passar pelo fogo ao Moleque; nem profanarás o nome do teu Deus; eu sou o Senhor.\n\nNota: A palavra \"sêmen\" foi alterada para \"semente\", que é mais adequado e usado em traduções bíblicas em português. O restante da frase mantém-se sem alterações significativas, já que a estrutura e as demais palavras são corretas no contexto teológico e filológico."
   },
   {
     "verse": 22,
     "original": "וְאֶ֨ת־זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ֖ה הִֽוא׃",
+    "transliteration": "ve'et-zakhar lo' tishekhav mishekhevey 'ishah tvo'evah hiv'.",
     "translation": "E com o macho não te deitarás na deita da mulher; abominação é isso."
   },
   {
     "verse": 23,
     "original": "וּבְכׇל־בְּהֵמָ֛ה לֹא־תִתֵּ֥ן שְׁכׇבְתְּךָ֖ לְטׇמְאָה־בָ֑הּ וְאִשָּׁ֗ה לֹֽא־תַעֲמֹ֞ד לִפְנֵ֧י בְהֵמָ֛ה לְרִבְעָ֖הּ תֶּ֥בֶל הֽוּא׃",
+    "transliteration": "vvekhol-vehemah lo'-titen shekhovetekha letome'ah-vah ve'ishah lo'-ta'amod lifeney vehemah lerive'ah tevel hv'.",
     "translation": "E em toda a fera não deitarás tua cama, para não ser contaminado com ela; e mulher alguma se porá diante da fera para acasalar-se com ela: isso é perversão."
   },
   {
     "verse": 24,
     "original": "אַל־תִּֽטַּמְּא֖וּ בְּכׇל־אֵ֑לֶּה כִּ֤י בְכׇל־אֵ֙לֶּה֙ נִטְמְא֣וּ הַגּוֹיִ֔ם אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖חַ מִפְּנֵיכֶֽם׃",
+    "transliteration": "'al-titame'v vekhol-'eleh khiy vekhol-'eleh niteme'v hagvoyim 'asher-'aniy meshaleha mifeneykhem.",
     "translation": "Não vos contaminareis com todas estas coisas, pois por meio delas as nações que eu lanço de diante de vós se contaminaram."
   },
   {
     "verse": 25,
     "original": "וַתִּטְמָ֣א הָאָ֔רֶץ וָאֶפְקֹ֥ד עֲוֺנָ֖הּ עָלֶ֑יהָ וַתָּקִ֥א הָאָ֖רֶץ אֶת־יֹשְׁבֶֽיהָ׃",
+    "transliteration": "vatitema' ha'arets va'efekod 'avonah 'aleyha vataki' ha'arets 'et-yosheveyha.",
     "translation": "E a terra se contaminou, e eu castiguei seu pecado sobre ela; e a terra vomitou seus habitantes."
   },
   {
     "verse": 26,
     "original": "וּשְׁמַרְתֶּ֣ם אַתֶּ֗ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י וְלֹ֣א תַעֲשׂ֔וּ מִכֹּ֥ל הַתּוֹעֵבֹ֖ת הָאֵ֑לֶּה הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃",
+    "transliteration": "vshemaretem 'atem 'et-hukotay ve'et-mishefatay velo' ta'asv mikhol hatvo'evot ha'eleh ha'ezerah vehager hagar vetvokhekhem.",
     "translation": "E vós guardareis os meus estatutos e juízos, e não fareis dentre todas estas abominações; tanto o nativo quanto o estrangeiro que peregrina no meio de vós."
   },
   {
     "verse": 27,
     "original": "כִּ֚י אֶת־כׇּל־הַתּוֹעֵבֹ֣ת הָאֵ֔ל עָשׂ֥וּ אַנְשֵֽׁי־הָאָ֖רֶץ אֲשֶׁ֣ר לִפְנֵיכֶ֑ם וַתִּטְמָ֖א הָאָֽרֶץ׃",
+    "transliteration": "khiy 'et-khol-hatvo'evot ha'el 'asv 'aneshey-ha'arets 'asher lifeneykhem vatitema' ha'arets.",
     "translation": "Pois todas as abominações que aquele que é abominou, fizeram os habitantes da terra que vos precederam, e a terra se contaminou."
   },
   {
     "verse": 28,
     "original": "וְלֹֽא־תָקִ֤יא הָאָ֙רֶץ֙ אֶתְכֶ֔ם בְּטַֽמַּאֲכֶ֖ם אֹתָ֑הּ כַּאֲשֶׁ֥ר קָאָ֛ה אֶת־הַגּ֖וֹי אֲשֶׁ֥ר לִפְנֵיכֶֽם׃",
+    "transliteration": "velo'-takiy' ha'arets 'etekhem vetama'akhem 'otah kha'asher ka'ah 'et-hagvoy 'asher lifeneykhem.",
     "translation": "E a terra não vos vomitará por contaminardes-a, como vomitou as nações que foram antes de vós."
   },
   {
     "verse": 29,
     "original": "כִּ֚י כׇּל־אֲשֶׁ֣ר יַעֲשֶׂ֔ה מִכֹּ֥ל הַתּוֹעֵבֹ֖ת הָאֵ֑לֶּה וְנִכְרְת֛וּ הַנְּפָשׁ֥וֹת הָעֹשֹׂ֖ת מִקֶּ֥רֶב עַמָּֽם׃",
+    "transliteration": "khiy khol-'asher ya'aseh mikhol hatvo'evot ha'eleh venikheretv hanefashvot ha'osot mikerev 'amam.",
     "translation": "Porque toda alma que fizer de todas estas abominações será cortada das almas que fazem delas do meio do seu povo."
   },
   {
     "verse": 30,
     "original": "וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י לְבִלְתִּ֨י עֲשׂ֜וֹת מֵחֻקּ֤וֹת הַתּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִפְנֵיכֶ֔ם וְלֹ֥א תִֽטַּמְּא֖וּ בָּהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vshemaretem 'et-mishemaretiy leviletiy 'asvot mehukvot hatvo'evot 'asher na'asv lifeneykhem velo' titame'v vahem 'aniy yehovah 'eloheykhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E guardareis a minha guarda para não fazerdes as abominações cujas obras foram feitas diante de vós; e não vos contaminareis nelas. Eu sou o Senhor vosso Deus."
   }
 ]

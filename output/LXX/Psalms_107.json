@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "ᾠδὴ ψαλμοῦ τῷ Δαυιδ ",
+    "transliteration": "odi psalmoy to Dayid ",
     "translation": "Hino de Salmo para Davi"
   },
   {
     "verse": 2,
     "original": "ἑτοίμη ἡ καρδία μου ὁ θεός ἑτοίμη ἡ καρδία μου ᾄσομαι καὶ ψαλῶ ἐν τῇ δόξῃ μου ",
+    "transliteration": "hetoimi hi kardia moy ho theos hetoimi hi kardia moy asomai kai psalo en ti doxi moy ",
     "translation": "Pronta está o meu coração, ó Deus; pronta está o meu coração para cantar e tocar em tua glória."
   },
   {
     "verse": 3,
     "original": "ἐξεγέρθητι ψαλτήριον καὶ κιθάρα ἐξεγερθήσομαι ὄρθρου ",
+    "transliteration": "exegerthiti psaltirion kai kithara exegerthisomai orthroy ",
     "translation": "Levanta-te, cetra, e harpa, levantar-me-ei de madrugada."
   },
   {
     "verse": 4,
     "original": "ἐξομολογήσομαί σοι ἐν λαοῖς κύριε καὶ ψαλῶ σοι ἐν ἔθνεσιν ",
+    "transliteration": "exomologisomai soi en laois kyrie kai psalo soi en ethnesin ",
     "translation": "Confessarei a ti entre os povos, Senhor, e cantarei louvores a ti entre as nações."
   },
   {
     "verse": 5,
     "original": "ὅτι μέγα ἐπάνω τῶν οὐρανῶν τὸ ἔλεός σου καὶ ἕως τῶν νεφελῶν ἡ ἀλήθειά σου ",
+    "transliteration": "hoti mega epano ton oyranon to eleos soy kai heos ton nefelon hi alitheia soy ",
     "translation": "Pois o teu amor é maior que os céus e até às nuvens a tua fidelidade."
   },
   {
     "verse": 6,
     "original": "ὑψώθητι ἐπὶ τοὺς οὐρανούς ὁ θεός καὶ ἐπὶ πᾶσαν τὴν γῆν ἡ δόξα σου ",
+    "transliteration": "hypsothiti epi toys oyranoys ho theos kai epi pasan tin gin hi doxa soy ",
     "translation": "Exaltai-vos sobre os céus, ó Deus, e sobre toda a terra a vossa glória."
   },
   {
     "verse": 7,
     "original": "ὅπως ἂν ῥυσθῶσιν οἱ ἀγαπητοί σου σῶσον τῇ δεξιᾷ σου καὶ ἐπάκουσόν μου ",
+    "transliteration": "hopos an rhysthosin ohi agapitoi soy soson ti dexia soy kai epakoyson moy ",
     "translation": "Então livrai-vos os amados vosso, salvai com a destra vossa e atendei-me."
   },
   {
     "verse": 8,
     "original": "ὁ θεὸς ἐλάλησεν ἐν τῷ ἁγίῳ αὐτοῦ ὑψωθήσομαι καὶ διαμεριῶ Σικιμα καὶ τὴν κοιλάδα τῶν σκηνῶν διαμετρήσω ",
+    "transliteration": "ho theos elalisen en to hagio aytoy hypsothisomai kai diamerio Sikima kai tin koilada ton skinon diametriso ",
     "translation": "Deus falou no seu santo: Exaltarei-me e dividirei Siquém, e a vales das tendas medirei."
   },
   {
     "verse": 9,
     "original": "ἐμός ἐστιν Γαλααδ καὶ ἐμός ἐστιν Μανασση καὶ Εφραιμ ἀντίλημψις τῆς κεφαλῆς μου Ιουδας βασιλεύς μου ",
+    "transliteration": "emos estin Galaad kai emos estin Manassi kai Efraim antilimpsis tis kefalis moy Ioydas vasileys moy ",
     "translation": "Galaad é meu e Manassés também, e Efraim é o sustento da minha cabeça; Judá é o meu rei."
   },
   {
     "verse": 10,
     "original": "Μωαβ λέβης τῆς ἐλπίδος μου ἐπὶ τὴν Ιδουμαίαν ἐκτενῶ τὸ ὑπόδημά μου ἐμοὶ ἀλλόφυλοι ὑπετάγησαν ",
+    "transliteration": "Moav levis tis elpidos moy epi tin Idoymaian ekteno to hypodima moy emoi allofyloi hypetagisan ",
     "translation": "Moabe é o cântaro da minha esperança, estendi os meus passos sobre Idumaea, e os estrangeiros me obedeceram."
   },
   {
     "verse": 11,
     "original": "τίς ἀπάξει με εἰς πόλιν περιοχῆς τίς ὁδηγήσει με ἕως τῆς Ιδουμαίας ",
+    "transliteration": "tis apaxei me eis polin periochis tis hodigisei me heos tis Idoymaias ",
     "translation": "Quem me levará à cidade cercada? Quem me guiará até Iduméia?"
   },
   {
     "verse": 12,
     "original": "οὐχὶ σύ ὁ θεός ὁ ἀπωσάμενος ἡμᾶς καὶ οὐκ ἐξελεύσῃ ὁ θεός ἐν ταῖς δυνάμεσιν ἡμῶν ",
+    "transliteration": "oychi sy ho theos ho aposamenos himas kai oyk exeleysi ho theos en tais dynamesin himon ",
     "translation": "Não foste tu, ó Deus, aquele que nos repeliu? E não sairá Deus em nosso poder?"
   },
   {
     "verse": 13,
     "original": "δὸς ἡμῖν βοήθειαν ἐκ θλίψεως καὶ ματαία σωτηρία ἀνθρώπου ",
+    "transliteration": "dos himin voitheian ek thlipseos kai mataia sotiria anthropoy ",
     "translation": "Dê-nos auxílio da angústia, pois a salvação do homem é vaidade."
   },
   {
     "verse": 14,
     "original": "ἐν τῷ θεῷ ποιήσομεν δύναμιν καὶ αὐτὸς ἐξουδενώσει τοὺς ἐχθροὺς ἡμῶν ",
+    "transliteration": "en to theo poiisomen dynamin kai aytos exoydenosei toys echthroys himon ",
     "translation": "Nele faremos força, e Ele mesmo desdenhará os nossos inimigos."
   }
 ]

@@ -2,151 +2,181 @@
   {
     "verse": "1",
     "original": "ኢየሱስም ይህን ነገር ከፈጸመ በኋላ፥ ከገሊላ ሄዶ ወደ ይሁዳ አውራጃ ወደ ዮርዳኖስ ማዶ መጣ።",
+    "transliteration": "'iyesusm yhn neger kefets'eme behwala, kegelila hedo wede yhuda 'awraja wede yordanos mado met'a.",
     "translation": "Jesus, terminada essa palavra, partiu da Galileia para a Judeia além do Jordão."
   },
   {
     "verse": "2",
     "original": "ብዙ ሕዝብም ተከተሉት፥ በዚያም ፈወሳቸው።",
+    "transliteration": "bzu hzbm teketelut, beziyam fewesachew.",
     "translation": "Muitos, por causa destas palavras, disseram: \"Se assim for a situação entre o homem e sua esposa, não convém casar.\""
   },
   {
     "verse": "3",
     "original": "ፈሪሳውያንም ወደ እርሱ ቀረቡና ሲፈትኑት። ሰው በሆነው ምክንያት ሁሉ ሚስቱን ሊፈታ ተፈቅዶለታልን? አሉት።",
+    "transliteration": "ferisawyanm wede 'rsu k'erebuna sifetnut. sew behonew mknyat hulu mistun lifeta tefek'doletaln? 'alut.",
     "translation": "Os fariseus também se aproximaram dele para o testar, perguntando: Por que motivo Moisés ordenou dar um termo de divórcio e mandar embora a mulher?"
   },
   {
     "verse": "4",
     "original": "እርሱ ግን መልሶ እንዲህ አለ። ፈጣሪ በመጀመሪያ ወንድና ሴት አደረጋቸው፥",
+    "transliteration": "'rsu gn melso 'ndih 'ale. fet'ari bemejemeriya wendna set 'aderegachew,",
     "translation": "Então ele lhes disse: No início, o Criador fez-os homem e mulher."
   },
   {
     "verse": "5",
     "original": "አለም። ስለዚህ ሰው አባቱንና እናቱን ይተዋል፥ ከሚስቱም ጋር ይተባበራል፥ ሁለቱም አንድ ሥጋ ይሆናሉ የሚለውን ቃል አላነበባችሁምን?",
+    "transliteration": "'alem. slezih sew 'abatunna 'natun ytewal, kemistum gar ytebaberal, huletum 'and sga yhonalu yemilewn k'al 'alanebebachhumn?",
     "translation": "Por isso, o homem deixará pai e mãe, se unirá à sua mulher, e os dois serão uma só carne. Acaso não leram esta passagem?"
   },
   {
     "verse": "6",
     "original": "ስለዚህ አንድ ሥጋ ናቸው እንጂ ወደ ፊት ሁለት አይደሉም። እግዚአብሔር ያጣመረውን እንግዲህ ሰው አይለየው።",
+    "transliteration": "slezih 'and sga nachew 'nji wede fit hulet 'aydelum. 'gzi'abher yat'amerewn 'ngdih sew 'ayleyew.",
     "translation": "Por isso, o que Deus uniu, ninguém separe."
   },
   {
     "verse": "7",
     "original": "እነርሱም። እንኪያስ ሙሴ የፍችዋን ጽሕፈት ሰጥተው እንዲፈቱአት ስለ ምን አዘዘ? አሉት።",
+    "transliteration": "'nersum. 'nkiyas muse yefchwan ts'hfet set'tew 'ndifetu'at sle mn 'azeze? 'alut.",
     "translation": "Então, por que ordenou aquele mandamento? Disseram eles."
   },
   {
     "verse": "8",
     "original": "እርሱም። ሙሴስ ስለ ልባችሁ ጥንካሬ ሚስቶቻችሁን ትፈቱ ዘንድ ፈቀደላችሁ፤ ከጥንት ግን እንዲህ አልነበረም።",
+    "transliteration": "'rsum. muses sle lbachhu t'nkare mistochachhun tfetu zend fek'edelachhu; ket'nt gn 'ndih 'alneberem.",
     "translation": "Porque Moisés, por causa da dureza do vosso coração, permitiu que repudiasseis as vossas mulheres; mas desde o princípio não foi assim."
   },
   {
     "verse": "9",
     "original": "እኔ ግን እላችኋለሁ፥ ያለ ዝሙት ምክንያት ሚስቱን ፈትቶ ሌላዪቱን የሚያገባ ሁሉ ያመነዝራል፥ የተፈታችውንም የሚያገባ ያመነዝራል አላቸው።",
+    "transliteration": "'ne gn 'lachhwalehu, yale zmut mknyat mistun fetto lelayitun yemiyageba hulu yamenezral, yetefetachwnm yemiyageba yamenezral 'alachew.",
     "translation": "Eu, porém, vos digo que todo aquele que repudia a sua mulher, exceto por causa de imoralidade, e se casar com outra, adúltero se tornará; e quem se casar com a repudiada comete adultério."
   },
   {
     "verse": "10",
     "original": "ደቀ መዛሙርቱም። የባልና የሚስት ሥርዓት እንዲህ ከሆነ መጋባት አይጠቅምም አሉት።",
+    "transliteration": "dek'e mezamurtum. yebalna yemist sr`at 'ndih kehone megabat 'ayt'ek'mm 'alut.",
     "translation": "Pois os discípulos lhe disseram: Se é assim o caso daquele que se desliga de sua mulher, não convém casar-se."
   },
   {
     "verse": "11",
     "original": "እርሱ ግን። ይህ ነገር ለተሰጣቸው ነው እንጂ ለሁሉ አይደለም፤",
+    "transliteration": "'rsu gn. yh neger leteset'achew new 'nji lehulu 'aydelem;",
     "translation": "Ele, porém, disse: isto é para aqueles a quem foi dado; e não para todos."
   },
   {
     "verse": "12",
     "original": "በእናት ማኅፀን ጃንደረቦች ሆነው የተወለዱ አሉ፥ ሰውም የሰለባቸው ጃንደረቦች አሉ፥ ስለ መንግሥተ ሰማያትም ራሳቸውን የሰለቡ ጃንደረቦች አሉ። ሊቀበለው የሚችል ይቀበለው አላቸው።",
+    "transliteration": "be'nat mahts'en jandereboch honew yeteweledu 'alu, sewm yeselebachew jandereboch 'alu, sle mengste semayatm rasachewn yeselebu jandereboch 'alu. lik'ebelew yemichl yk'ebelew 'alachew.",
     "translation": "Porque há eunucos que nasceram assim desde o ventre de suas mães; e há eunucos feitos por mãos de homens; e há eunucos que se fizeram a si mesmos por causa dos céus do reino. Quem pode receber isto, receba-o."
   },
   {
     "verse": "13",
     "original": "በዚያን ጊዜ እጁን እንዲጭንባቸውና እንዲጸልይ ሕፃናትን ወደ እርሱ አመጡ፤ ደቀ መዛሙርቱም ገሠጹአቸው።",
+    "transliteration": "beziyan gize 'jun 'ndich'nbachewna 'ndits'ely hts'anatn wede 'rsu 'amet'u; dek'e mezamurtum gesets'u'achew.",
     "translation": "Nesses tempos, aproximaram-se dele crianças para que lhes imponha as mãos e ore; mas os discípulos repreendiam aqueles que se aproximavam."
   },
   {
     "verse": "14",
     "original": "ነገር ግን ኢየሱስ። ሕፃናትን ተዉአቸው፥ ወደ እኔም ይመጡ ዘንድ አትከልክሉአቸው፤ መንግሥተ ሰማያት እንደነዚህ ላሉ ናትና አለ፤",
+    "transliteration": "neger gn 'iyesus. hts'anatn tewu'achew, wede 'nem ymet'u zend 'atkelklu'achew; mengste semayat 'ndenezih lalu natna 'ale;",
     "translation": "Mas disse-lhes Jesus: Deixai vir a mim os pequeninos, e não os obstem; pois de tais é o reino dos céus."
   },
   {
     "verse": "15",
     "original": "እጁንም ጫነባቸውና ከዚያ ሄደ።",
+    "transliteration": "'junm ch'anebachewna keziya hede.",
     "translation": "Deixai vir a mim os pequeninos, e não os obstem, porque dela é o reino dos céus."
   },
   {
     "verse": "16",
     "original": "እነሆም፥ አንድ ሰው ቀርቦ። መምህር ሆይ፥ የዘላለምን ሕይወት እንዳገኝ ምን መልካም ነገር ላድርግ? አለው።",
+    "transliteration": "'nehom, 'and sew k'erbo. memhr hoy, yezelalemn hywet 'ndageny mn melkam neger ladrg? 'alew.",
     "translation": "Um homem se aproximou dele, perguntando: Mestre, que boa obra farei para herdar a vida eterna?"
   },
   {
     "verse": "17",
     "original": "እርሱም። ስለ መልካም ነገር ለምን ትጠይቀኛለህ? መልካም የሆነ አንድ ነው፤ ወደ ሕይወት መግባት ብትወድ ግን ትእዛዛትን ጠብቅ አለው።",
+    "transliteration": "'rsum. sle melkam neger lemn tt'eyk'enyaleh? melkam yehone 'and new; wede hywet megbat btwed gn t'zazatn t'ebk' 'alew.",
     "translation": "Por que me questionas sobre o bem? Um só é bom; pois Ele, o único, é Senhor do bem e está distante de todo pecado."
   },
   {
     "verse": "18",
     "original": "እርሱም። የትኞችን? አለው። ኢየሱስም። አትግደል፥ አታመንዝር፥ አትስረቅ፥ በሐሰት አትመስክር፥",
+    "transliteration": "'rsum. yetnyochn? 'alew. 'iyesusm. 'atgdel, 'atamenzr, 'atsrek', behaset 'atmeskr,",
     "translation": "Disse ele. Quais são os nossos mandamentos? Respondeu Jesus. Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças."
   },
   {
     "verse": "19",
     "original": "አባትህንና እናትህን አክብር፥ ባልንጀራህንም እንደ ራስህ ውደድ አለው።",
+    "transliteration": "'abathnna 'nathn 'akbr, balnjerahnm 'nde rash wded 'alew.",
     "translation": "Honra teu pai e tua mãe; amarás ao próximo como a ti mesmo."
   },
   {
     "verse": "20",
     "original": "ጐበዙም። ይህንማ ሁሉ ከሕፃንነቴ ጀምሬ ጠብቄአለሁ፥ ደግሞስ የሚጐድለኝ ምንድር ነው? አለው።",
+    "transliteration": "gwebezum. yhnma hulu kehts'annete jemre t'ebk'e'alehu, degmos yemigwedleny mndr new? 'alew.",
     "translation": "Ele disse: Eis que tudo tenho observado desde jovem; do que mais careço? Ele respondeu:"
   },
   {
     "verse": "21",
     "original": "ኢየሱስም። ፍጹም ልትሆን ብትወድ፥ ሂድና ያለህን ሸጠህ ለድሆች ስጥ፥ መዝገብም በሰማያት ታገኛለህ፥ መጥተህም ተከተለኝ አለው።",
+    "transliteration": "'iyesusm. fts'um lthon btwed, hidna yalehn shet'eh ledhoch st', mezgebm besemayat tagenyaleh, met'tehm teketeleny 'alew.",
     "translation": "Jesus respondeu: Se queres ser perfeito, vai, vende tudo o que tens, dá-o aos pobres e terás tesouro nos céus; depois vem e segue-me."
   },
   {
     "verse": "22",
     "original": "ጐበዙም ይህን ቃል በሰማ ጊዜ ብዙ ንብረት ነበረውና እያዘነ ሄደ።",
+    "transliteration": "gwebezum yhn k'al besema gize bzu nbret neberewna 'yazene hede.",
     "translation": "Ouvindo isto, o jovem se foi triste, pois possuía muitas possessões."
   },
   {
     "verse": "23",
     "original": "ኢየሱስም ለደቀ መዛሙርቱ። እውነት እላችኋለሁ፥ ለባለጠጋ ወደ መንግሥተ ሰማያት መግባት ጭንቅ ነው።",
+    "transliteration": "'iyesusm ledek'e mezamurtu. 'wnet 'lachhwalehu, lebalet'ega wede mengste semayat megbat ch'nk' new.",
     "translation": "Jesus lhes disse: Em verdade vos digo, para aquele que crê é fácil entrar no reino dos céus."
   },
   {
     "verse": "24",
     "original": "ዳግመኛም እላችኋለሁ፥ ባለጠጋ ወደ እግዚአብሔር መንግሥት ከሚገባ ግመል በመርፌ ቀዳዳ ቢገባ ይቀላል አለ።",
+    "transliteration": "dagmenyam 'lachhwalehu, balet'ega wede 'gzi'abher mengst kemigeba gmel bemerfe k'edada bigeba yk'elal 'ale.",
     "translation": "Mais fácil é um camelo passar pelo fundo de uma agulha do que um rico entrar no reino dos céus."
   },
   {
     "verse": "25",
     "original": "ደቀ መዛሙርቱም ሰምተው እጅግ ተገረሙና። እንኪያስ ማን ሊድን ይችላል? አሉ።",
+    "transliteration": "dek'e mezamurtum semtew 'jg tegeremuna. 'nkiyas man lidn ychlal? 'alu.",
     "translation": "Pois aos ricos entrarem no reino dos céus é coisa muito difícil. Pois disse eu, quem então poderá ser salvo?"
   },
   {
     "verse": "26",
     "original": "ኢየሱስም እነርሱን ተመልክቶ። ይህ በሰው ዘንድ አይቻልም በእግዚአብሔር ዘንድ ግን ሁሉ ይቻላል አላቸው።",
+    "transliteration": "'iyesusm 'nersun temelkto. yh besew zend 'aychalm be'gzi'abher zend gn hulu ychalal 'alachew.",
     "translation": "Jesus, porém, disse-lhes: Entre os homens isso é impossível, mas para Deus tudo é possível."
   },
   {
     "verse": "27",
     "original": "በዚያን ጊዜ ጴጥሮስ መልሶ። እነሆ፥ እኛ ሁሉን ትተን ተከተልንህ፤ እንኪያስ ምን እናገኝ ይሆን? አለው።",
+    "transliteration": "beziyan gize p'et'ros melso. 'neho, 'nya hulun tten teketelnh; 'nkiyas mn 'nageny yhon? 'alew.",
     "translation": "Naqueles dias, Pedro respondeu: Nós todos abandonamos tudo e te seguimos; então, que receberemos? Respondido foi."
   },
   {
     "verse": "28",
     "original": "ኢየሱስም እንዲህ አላቸው። እውነት እላችኋለሁ፥ እናንተስ የተከተላችሁኝ፥ በዳግመኛ ልደት የሰው ልጅ በክብሩ ዙፋን በሚቀመጥበት ጊዜ፥ እናንተ ደግሞ በአሥራ ሁለቱ የእስራኤል ነገድ ስትፈርዱ በአሥራ ሁለት ዙፋን ትቀመጣላችሁ።",
+    "transliteration": "'iyesusm 'ndih 'alachew. 'wnet 'lachhwalehu, 'nantes yeteketelachhuny, bedagmenya ldet yesew lj bekbru zufan bemik'emet'bet gize, 'nante degmo be'asra huletu ye'sra'el neged stferdu be'asra hulet zufan tk'emet'alachhu.",
     "translation": "Jesus disse assim: \"Em verdade vos digo, vós que me seguistes, quando o Filho do Homem se assentar em seu trono glorioso, também a vós darei para sentardes sobre doze tronos, julgando as doze tribos de Israel.\""
   },
   {
     "verse": "29",
     "original": "ስለ ስሜም ቤቶችን ወይም ወንድሞችን ወይም እኅቶችን ወይም አባትን ወይም እናትን ወይም ሚስትን ወይም ልጆችን ወይም እርሻን የተወ ሁሉ መቶ እጥፍ ይቀበላል የዘላለምንም ሕይወት ይወርሳል።",
+    "transliteration": "sle smem betochn weym wendmochn weym 'htochn weym 'abatn weym 'natn weym mistn weym ljochn weym 'rshan yetewe hulu meto 't'f yk'ebelal yezelalemnm hywet ywersal.",
     "translation": "Por causa dos céus, receberão cem vezes mais: casas e irmãos e mães e filhos e parentes e vida eterna, e sofrerão perseguições por causa do nome dele; e no fim da era, a vida eterna."
   },
   {
     "verse": "30",
     "original": "ነገር ግን ብዙዎቹ ፊተኞች ኋለኞች፥ ኋለኞችም ፊተኞች ይሆናሉ።",
+    "transliteration": "neger gn bzuwochu fitenyoch hwalenyoch, hwalenyochm fitenyoch yhonalu.",
     "translation": "Mas muitos que são primeiros serão últimos, e os últimos serão primeiros."
   }
 ]

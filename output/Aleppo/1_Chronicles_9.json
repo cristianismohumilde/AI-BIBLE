@@ -2,221 +2,265 @@
   {
     "verse": 1,
     "original": "וְכׇל־יִשְׂרָאֵל֙ הִתְיַחְשׂ֔וּ וְהִנָּ֣ם כְּתוּבִ֔ים עַל־סֵ֖פֶר מַלְכֵ֣י יִשְׂרָאֵ֑ל וִיהוּדָ֛ה הׇגְל֥וּ לְבָבֶ֖ל בְּמַעֲלָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vekhol-yisera'el hiteyahesv vehinam khetvviym 'al-sefer malekhey yisera'el viyhvdah hogelv levavel vema'alam.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E todo Israel se registrou, eis que estão escritos no livro dos reis de Israel, e Judá foi exilado para Babilônia por sua transgressão."
   },
   {
     "verse": 2,
     "original": "וְהַיּֽוֹשְׁבִים֙ הָרִ֣אשֹׁנִ֔ים אֲשֶׁ֥ר בַּאֲחֻזָּתָ֖ם בְּעָרֵיהֶ֑ם יִשְׂרָאֵל֙ הַכֹּ֣הֲנִ֔ים הַלְוִיִּ֖ם וְהַנְּתִינִֽים׃",
+    "transliteration": "vehayvosheviym hari'shoniym 'asher va'ahuzatam ve'areyhem yisera'el hakhohaniym haleviyim vehanetiyniym.",
     "translation": "E os que habitavam primeiro, na possessão de suas cidades, Israel, os sacerdotes, os levitas e os netinins."
   },
   {
     "verse": 3,
     "original": "וּבִירוּשָׁלַ֙͏ִם֙ יָֽשְׁב֔וּ מִן־בְּנֵ֥י יְהוּדָ֖ה וּמִן־בְּנֵ֣י בִנְיָמִ֑ן וּמִן־בְּנֵ֥י אֶפְרַ֖יִם וּמְנַשֶּֽׁה׃",
+    "transliteration": "vviyrvshalaim yashevv min-veney yehvdah vmin-veney vineyamin vmin-veney 'eferayim vmenasheh.",
     "translation": "E em Jerusalém habitaram os filhos de Judá e os filhos de Benjamin, e os filhos de Efraim e Manassés."
   },
   {
     "verse": 4,
     "original": "עוּתַ֨י בֶּן־עַמִּיה֤וּד בֶּן־עׇמְרִי֙ בֶּן־אִמְרִ֣י בֶן־<span class=\"mam-kq\"><span class=\"mam-kq-k\">(בנימן)</span>־<span class=\"mam-kq-q\">[בָּנִ֔י מִן־]</span></span>בְּנֵי־פֶ֖רֶץ בֶּן־יְהוּדָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'vtay ven-'amiyhvd ven-'omeriy ven-'imeriy ven-<span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnymn)</span>-<span class=\"mam-kq-q\">[vaniy min-]</span></span>veney-ferets ven-yehvdah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Uti ben Ammihud, ben Omri, ben Imri, ben Bni min Bnei Peretz, ben Yehudah."
   },
   {
     "verse": 5,
     "original": "וּמִן־הַשִּׁ֣ילוֹנִ֔י עֲשָׂיָ֥ה הַבְּכ֖וֹר וּבָנָֽיו׃",
+    "transliteration": "vmin-hashiylvoniy 'asayah havekhvor vvanayv.",
     "translation": "E de Seiloni, Asaías, o primogênito, e seus filhos."
   },
   {
     "verse": 6,
     "original": "וּמִן־בְּנֵי־זֶ֖רַח יְעוּאֵ֑ל וַאֲחֵיהֶ֖ם שֵׁשׁ־מֵא֥וֹת וְתִשְׁעִֽים׃",
+    "transliteration": "vmin-veney-zerah ye'v'el va'aheyhem shesh-me'vot vetishe'iym.",
     "translation": "E dentre os filhos de Zera, Jeuel e seus irmãos, seiscentos e noventa."
   },
   {
     "verse": 7,
     "original": "וּמִן־בְּנֵ֖י בִּנְיָמִ֑ן סַלּוּא֙ בֶּן־מְשֻׁלָּ֔ם בֶּן־הוֹדַוְיָ֖ה בֶּן־הַסְּנֻאָֽה׃",
+    "transliteration": "vmin-veney vineyamin salv' ven-meshulam ven-hvodaveyah ven-hasenu'ah.",
     "translation": "E dentre os filhos de Benjamim, Salu filho de Mesulam, filho de Hodaviá, filho de Hasenuá."
   },
   {
     "verse": 8,
     "original": "וְיִבְנְיָה֙ בֶּן־יְרֹחָ֔ם וְאֵלָ֥ה בֶן־עֻזִּ֖י בֶּן־מִכְרִ֑י וּמְשֻׁלָּם֙ בֶּן־שְׁפַטְיָ֔ה בֶּן־רְעוּאֵ֖ל בֶּן־יִבְנִיָּֽה׃",
+    "transliteration": "veyiveneyah ven-yeroham ve'elah ven-'uziy ven-mikheriy vmeshulam ven-shefateyah ven-re'v'el ven-yiveniyah.",
     "translation": "E Ben-Jeroão construiria, e Elá, filho de Uzi, filho de Mikri; e Meshullam, filho de Shefatya, filho de Reuel, filho de Ben-Yaani."
   },
   {
     "verse": 9,
     "original": "וַֽאֲחֵיהֶם֙ לְתֹ֣לְדוֹתָ֔ם תְּשַׁ֥ע מֵא֖וֹת וַחֲמִשִּׁ֣ים וְשִׁשָּׁ֑ה כׇּל־אֵ֣לֶּה אֲנָשִׁ֔ים רָאשֵׁ֥י אָב֖וֹת לְבֵ֥ית אֲבֹתֵיהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'aheyhem letoledvotam tesha' me'vot vahamishiym veshishah khol-'eleh 'anashiym ra'shey 'avvot leveyt 'avoteyhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E seus irmãos, segundo as suas gerações, novecentos e cinquenta e seis. Todos estes são homens, cabeças de pais para as casas de seus pais."
   },
   {
     "verse": 10,
     "original": "וּמִן־הַֽכֹּהֲנִ֑ים יְדַעְיָ֥ה וִיהוֹיָרִ֖יב וְיָכִֽין׃",
+    "transliteration": "vmin-hakhohaniym yeda'eyah viyhvoyariyv veyakhiyn.",
     "translation": "E dentre os sacerdotes, Jeudi e Joiaribe e Jacim."
   },
   {
     "verse": 11,
     "original": "וַעֲזַרְיָ֨ה בֶן־חִלְקִיָּ֜ה בֶּן־מְשֻׁלָּ֣ם בֶּן־צָד֗וֹק בֶּן־מְרָיוֹת֙ בֶּן־אֲחִיט֔וּב נְגִ֖יד בֵּ֥ית הָאֱלֹהִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'azareyah ven-hilekiyah ven-meshulam ven-tsadvok ven-merayvot ven-'ahiytvv negiyd veyt ha'elohiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Azarias, filho de Hilquias, filho de Mesulão, filho de Sadoc, filho de Meraiote, filho de Aquisube, chefe da casa de Deus."
   },
   {
     "verse": 12,
     "original": "וַעֲדָיָה֙ בֶּן־יְרֹחָ֔ם בֶּן־פַּשְׁח֖וּר בֶּן־מַלְכִּיָּ֑ה וּמַעְשַׂ֨י בֶּן־עֲדִיאֵ֧ל בֶּן־יַחְזֵ֛רָה בֶּן־מְשֻׁלָּ֥ם בֶּן־מְשִׁלֵּמִ֖ית בֶּן־אִמֵּֽר׃",
+    "transliteration": "va'adayah ven-yeroham ven-fashehvr ven-malekhiyah vma'esay ven-'adiy'el ven-yahezerah ven-meshulam ven-meshilemiyt ven-'imer.",
     "translation": "E Adaya, filho de Jeroham, filho de Pashhur, filho de Malkijah; e Maasá, filho de Adiel, filho de Jahzerah, filho de Mesulam, filho de Mesulimit, filho de Immer."
   },
   {
     "verse": 13,
     "original": "וַאֲחֵיהֶ֗ם רָאשִׁים֙ לְבֵ֣ית אֲבוֹתָ֔ם אֶ֕לֶף וּשְׁבַ֥ע מֵא֖וֹת וְשִׁשִּׁ֑ים גִּבּ֣וֹרֵי חֵ֔יל מְלֶ֖אכֶת עֲבוֹדַ֥ת בֵּית־הָאֱלֹהִֽים׃",
+    "transliteration": "va'aheyhem ra'shiym leveyt 'avvotam 'elef vsheva' me'vot veshishiym givvorey heyl mele'khet 'avvodat veyt-ha'elohiym.",
     "translation": "E seus irmãos, cabeças de suas casas paternas, mil e setecentos e sessenta, valentes homens, para a obra do serviço da casa do Deus."
   },
   {
     "verse": 14,
     "original": "וּמִֽן־הַלְוִיִּ֑ם שְׁמַֽעְיָ֧ה בֶן־חַשּׁ֛וּב בֶּן־עַזְרִיקָ֥ם בֶּן־חֲשַׁבְיָ֖ה מִן־בְּנֵ֥י מְרָרִֽי׃",
+    "transliteration": "vmin-haleviyim shema'eyah ven-hashvv ven-'azeriykam ven-hashaveyah min-veney merariy.",
     "translation": "E dentre os levitas, Shamaiá, filho de Hashuv, filho de Azrikam, filho de Hashavia, dos filhos de Merari."
   },
   {
     "verse": 15,
     "original": "וּבַקְבַּקַּ֥ר חֶ֖רֶשׁ וְגָלָ֑ל וּמַתַּנְיָה֙ בֶּן־מִיכָ֔א בֶּן־זִכְרִ֖י בֶּן־אָסָֽף׃",
+    "transliteration": "vvakevakar heresh vegalal vmataneyah ven-miykha' ven-zikheriy ven-'asaf.",
     "translation": "E Bacos, Cheresh e Galal; e Mattaniah, filho de Micaías, filho de Zaccur, filho de Asafe."
   },
   {
     "verse": 16,
     "original": "וְעֹֽבַדְיָה֙ בֶּֽן־שְׁמַעְיָ֔ה בֶּן־גָּלָ֖ל בֶּן־יְדוּת֑וּן וּבֶרֶכְיָ֤ה בֶן־אָסָא֙ בֶּן־אֶלְקָנָ֔ה הַיּוֹשֵׁ֖ב בְּחַצְרֵ֥י נְטוֹפָתִֽי׃",
+    "transliteration": "ve'ovadeyah ven-shema'eyah ven-galal ven-yedvtvn vverekheyah ven-'asa' ven-'elekanah hayvoshev vehatserey netvofatiy.",
     "translation": "E Obadias, filho de Semayá, filho de Galal, filho de Jedutún; e Berequias, filho de Asá, filho de Elcana, que morava nos cortiços de Netofati."
   },
   {
     "verse": 17,
     "original": "וְהַשֹּֽׁעֲרִים֙ שַׁלּ֣וּם וְעַקּ֔וּב וְטַלְמֹ֖ן וַאֲחִימָ֑ן וַאֲחִיהֶ֥ם שַׁלּ֖וּם הָרֹֽאשׁ׃",
+    "transliteration": "vehasho'ariym shalvm ve'akvv vetalemon va'ahiyman va'ahiyhem shalvm haro'sh.",
     "translation": "E as portas foram guardadas por Selum, Aqueu, Talmon, Ahiman e seus irmãos; Selum era o chefe."
   },
   {
     "verse": 18,
     "original": "וְֽעַד־הֵ֔נָּה בְּשַׁ֥עַר הַמֶּ֖לֶךְ מִזְרָ֑חָה הֵ֚מָּה הַשֹּׁ֣עֲרִ֔ים לְמַחֲנ֖וֹת בְּנֵ֥י לֵוִֽי׃",
+    "transliteration": "ve'ad-henah vesha'ar hamelekhe mizerahah hemah hasho'ariym lemahanvot veney leviy.",
     "translation": "E eis que junto à porta do rei, para o leste, ali estavam os porteiros dos acampamentos dos filhos de Levi."
   },
   {
     "verse": 19,
     "original": "וְשַׁלּ֣וּם בֶּן־ק֠וֹרֵ֠א בֶּן־אֶבְיָסָ֨ף בֶּן־קֹ֜רַח וְֽאֶחָ֧יו לְבֵית־אָבִ֣יו הַקׇּרְחִ֗ים עַ֚ל מְלֶ֣אכֶת הָעֲבוֹדָ֔ה שֹׁמְרֵ֥י הַסִּפִּ֖ים לָאֹ֑הֶל וַאֲבֹֽתֵיהֶם֙ עַל־מַחֲנֵ֣ה יְהֹוָ֔ה שֹׁמְרֵ֖י הַמָּבֽוֹא׃",
+    "transliteration": "veshalvm ven-kvore' ven-'eveyasaf ven-korah ve'ehayv leveyt-'aviyv hakorehiym 'al mele'khet ha'avvodah shomerey hasifiym la'ohel va'avoteyhem 'al-mahaneh yehovah shomerey hamavvo'.",
     "translation": "E Salum, filho de Corá, filho de Ebiasaf, filho de Core, e seus irmãos da casa de seu pai, os coréicos, sobre a obra do serviço, guardando as placas para a tenda; e seus pais sobre o acampamento do Senhor, guardando a entrada."
   },
   {
     "verse": 20,
     "original": "וּפִֽינְחָ֣ס בֶּן־אֶלְעָזָ֗ר נָגִ֨יד הָיָ֧ה עֲלֵיהֶ֛ם לְפָנִ֖ים יְהֹוָ֥ה&thinsp;<small>׀</small>&thinsp;עִמּֽוֹ׃",
+    "transliteration": "vfiynehas ven-'ele'azar nagiyd hayah 'aleyhem lefaniym yehovah&thinsp;<small>|</small>&thinsp;'imvo.",
     "translation": "E Finéias, filho de Eleazar, foi seu líder anteriormente, pois o Senhor estava com ele."
   },
   {
     "verse": 21,
     "original": "זְכַרְיָה֙ בֶּ֣ן מְשֶֽׁלֶמְיָ֔ה שֹׁעֵ֥ר פֶּ֖תַח לְאֹ֥הֶל מוֹעֵֽד׃",
+    "transliteration": "zekhareyah ven meshelemeyah sho'er fetah le'ohel mvo'ed.",
     "translation": "Zacarias, filho de Meselémia, guardião da entrada para a tenda do encontro."
   },
   {
     "verse": 22,
     "original": "כֻּלָּ֤ם הַבְּרוּרִים֙ לְשֹׁעֲרִ֣ים בַּסִּפִּ֔ים מָאתַ֖יִם וּשְׁנֵ֣ים עָשָׂ֑ר הֵ֤מָּה בְחַצְרֵיהֶם֙ הִתְיַחְשָׂ֔ם הֵ֣מָּה יִסַּ֥ד דָּוִ֛יד וּשְׁמוּאֵ֥ל הָרֹאֶ֖ה בֶּאֱמוּנָתָֽם׃",
+    "transliteration": "khulam havervriym lesho'ariym vasifiym ma'tayim vsheneym 'asar hemah vehatsereyhem hiteyahesam hemah yisad daviyd vshemv'el haro'eh ve'emvnatam.",
     "translation": "Todos os escolhidos para as portas nos degraus, duzentos e doze; eles se estabeleceram em suas cortes, Davi os fundou com Samuel o vidente pela sua fidelidade."
   },
   {
     "verse": 23,
     "original": "וְהֵ֨ם וּבְנֵיהֶ֜ם עַל־הַשְּׁעָרִ֧ים לְבֵית־יְהֹוָ֛ה לְבֵ֥ית הָאֹ֖הֶל לְמִשְׁמָרֽוֹת׃",
+    "transliteration": "vehem vveneyhem 'al-hashe'ariym leveyt-yehovah leveyt ha'ohel lemishemarvot.",
     "translation": "E eles e seus filhos estavam nas portas da casa do Senhor, na tenda da congregação, para as guardas."
   },
   {
     "verse": 24,
     "original": "לְאַרְבַּ֣ע רוּח֔וֹת יִהְי֖וּ הַשֹּׁעֲרִ֑ים מִזְרָ֥ח יָ֖מָּה צָפ֥וֹנָה וָנֶֽגְבָּה׃",
+    "transliteration": "le'areva' rvhvot yiheyv hasho'ariym mizerah yamah tsafvonah vanegevah.",
     "translation": "Haverão portas para os quatro ventos: leste, oeste, norte e sul."
   },
   {
     "verse": 25,
     "original": "וַאֲחֵיהֶ֨ם בְּחַצְרֵיהֶ֜ם לָב֨וֹא לְשִׁבְעַ֧ת הַיָּמִ֛ים מֵעֵ֥ת אֶל־עֵ֖ת עִם־אֵֽלֶּה׃",
+    "transliteration": "va'aheyhem vehatsereyhem lavvo' leshive'at hayamiym me'et 'el-'et 'im-'eleh.",
     "translation": "E seus irmãos em suas tendas vieram alternadamente por sete dias com estes."
   },
   {
     "verse": 26,
     "original": "כִּ֣י בֶאֱמוּנָ֞ה הֵ֗מָּה אַרְבַּ֙עַת֙ גִּבֹּרֵ֣י הַשֹּׁעֲרִ֔ים הֵ֖ם הַלְוִיִּ֑ם וְהָיוּ֙ עַל־הַלְּשָׁכ֔וֹת וְעַ֥ל הָאֹצְר֖וֹת בֵּ֥ית הָאֱלֹהִֽים׃",
+    "transliteration": "khiy ve'emvnah hemah 'areva'at givorey hasho'ariym hem haleviyim vehayv 'al-haleshakhvot ve'al ha'otservot veyt ha'elohiym.",
     "translation": "Pois pela fé eles são quatro valentes guardas da porta; eles são levitas e estarão sobre as câmaras e sobre os tesouros na casa de Deus."
   },
   {
     "verse": 27,
     "original": "וּסְבִיב֥וֹת בֵּית־הָאֱלֹהִ֖ים יָלִ֑ינוּ כִּֽי־עֲלֵיהֶ֣ם מִשְׁמֶ֔רֶת וְהֵ֥ם עַל־הַמַּפְתֵּ֖חַ וְלַבֹּ֥קֶר לַבֹּֽקֶר׃",
+    "transliteration": "vseviyvvot veyt-ha'elohiym yaliynv khiy-'aleyhem mishemeret vehem 'al-hamafeteha velavoker lavoker.",
     "translation": "E acampamos em redor da casa de Deus, pois sobre eles está a guarda e eles têm o controle das chaves; de madrugada até de madrugada."
   },
   {
     "verse": 28,
     "original": "וּמֵהֶ֖ם עַל־כְּלֵ֣י הָעֲבוֹדָ֑ה כִּֽי־בְמִסְפָּ֣ר יְבִיא֔וּם וּבְמִסְפָּ֖ר יוֹצִיאֽוּם׃",
+    "transliteration": "vmehem 'al-kheley ha'avvodah khiy-vemisefar yeviy'vm vvemisefar yvotsiy'vm.",
     "translation": "E dentre eles sobre os vasos do serviço, porque por número os trarão e por número os levarão."
   },
   {
     "verse": 29,
     "original": "וּמֵהֶ֗ם מְמֻנִּים֙ עַל־הַכֵּלִ֔ים וְעַ֖ל כׇּל־כְּלֵ֣י הַקֹּ֑דֶשׁ וְעַל־הַסֹּ֙לֶת֙ וְהַיַּ֣יִן וְהַשֶּׁ֔מֶן וְהַלְּבוֹנָ֖ה וְהַבְּשָׂמִֽים׃",
+    "transliteration": "vmehem memuniym 'al-hakheliym ve'al khol-kheley hakodesh ve'al-hasolet vehayayin vehashemen vehalevvonah vehavesamiym.",
     "translation": "E dentre eles, há encarregados dos vasos e de todos os instrumentos sagrados; sobre a farinha, o vinho, o óleo e a mirra, e sobre todas as especiarias."
   },
   {
     "verse": 30,
     "original": "וּמִן־בְּנֵי֙ הַכֹּ֣הֲנִ֔ים רֹקְחֵ֥י הַמִּרְקַ֖חַת לַבְּשָׂמִֽים׃",
+    "transliteration": "vmin-veney hakhohaniym rokehey hamirekahat lavesamiym.",
     "translation": "E dos filhos dos sacerdotes, os que preparavam o ungüento e as perfumarias."
   },
   {
     "verse": 31,
     "original": "וּמַתִּתְיָה֙ מִן־הַלְוִיִּ֔ם ה֥וּא הַבְּכ֖וֹר לְשַׁלֻּ֣ם הַקׇּרְחִ֑י בֶּאֱמוּנָ֕ה עַ֖ל מַעֲשֵׂ֥ה הַחֲבִתִּֽים׃",
+    "transliteration": "vmatiteyah min-haleviyim hv' havekhvor leshalum hakorehiy ve'emvnah 'al ma'aseh hahavitiym.",
     "translation": "E Matitias, dentre os levitas, era o primogênito de Selum, o coraíta, fielmente encarregado do trabalho com as tendas."
   },
   {
     "verse": 32,
     "original": "וּמִן־בְּנֵ֧י הַקְּהָתִ֛י מִן־אֲחֵיהֶ֖ם עַל־לֶ֣חֶם הַֽמַּעֲרָ֑כֶת לְהָכִ֖ין שַׁבַּ֥ת שַׁבָּֽת׃",
+    "transliteration": "vmin-veney hakehatiy min-'aheyhem 'al-lehem hama'arakhet lehakhiyn shavat shavat.",
     "translation": "E dos filhos de Coate, dentre seus irmãos, sobre o pão da disposição, para a preparação do sábado."
   },
   {
     "verse": 33,
     "original": "וְאֵ֣לֶּה הַ֠מְשֹׁרְרִ֠ים רָאשֵׁ֨י אָב֧וֹת לַלְוִיִּ֛ם בַּלְּשָׁכֹ֖ת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(פטירים)</span> <span class=\"mam-kq-q\">[פְּטוּרִ֑ים]</span></span> כִּֽי־יוֹמָ֥ם וָלַ֛יְלָה עֲלֵיהֶ֖ם בַּמְּלָאכָֽה׃",
+    "transliteration": "ve'eleh hameshoreriym ra'shey 'avvot laleviyim valeshakhot <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ftyrym)</span> <span class=\"mam-kq-q\">[fetvriym]</span></span> khiy-yvomam valayelah 'aleyhem vamela'khah.",
     "translation": "E estes são os cantores, cabeças de pais dos levitas nas câmaras, libertos, pois dia e noite sobre eles está o serviço."
   },
   {
     "verse": 34,
     "original": "אֵ֩לֶּה֩ רָאשֵׁ֨י הָאָב֧וֹת לַלְוִיִּ֛ם לְתֹלְדוֹתָ֖ם רָאשִׁ֑ים אֵ֖לֶּה יָשְׁב֥וּ בִירוּשָׁלָֽ͏ִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'eleh ra'shey ha'avvot laleviyim letoledvotam ra'shiym 'eleh yashevv viyrvshalaim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Estes são os chefes dos levitas, segundo suas gerações; estes habitaram em Jerusalém."
   },
   {
     "verse": 35,
     "original": "וּבְגִבְע֛וֹן יָשְׁב֥וּ אֲבִי־גִבְע֖וֹן <span class=\"mam-kq\"><span class=\"mam-kq-k\">(יעואל)</span> <span class=\"mam-kq-q\">[יְעִיאֵ֑ל]</span></span> וְשֵׁ֥ם אִשְׁתּ֖וֹ מַעֲכָֽה׃",
+    "transliteration": "vvegive'von yashevv 'aviy-give'von <span class=\"mam-kq\"><span class=\"mam-kq-k\">(y'v'l)</span> <span class=\"mam-kq-q\">[ye'iy'el]</span></span> veshem 'ishetvo ma'akhah.",
     "translation": "E em Gibeão habitaram Abi-Gibeão, Jeiel, e o nome de sua mulher era Maacá."
   },
   {
     "verse": 36,
     "original": "וּבְנ֥וֹ הַבְּכ֖וֹר עַבְדּ֑וֹן וְצ֣וּר וְקִ֔ישׁ וּבַ֥עַל וְנֵ֖ר וְנָדָֽב׃",
+    "transliteration": "vvenvo havekhvor 'avedvon vetsvr vekiysh vva'al vener venadav.",
     "translation": "E seu primogênito, Abdon; e Tsur e Qish, Baal e Ner e Nadav."
   },
   {
     "verse": 37,
     "original": "וּגְד֣וֹר וְאַחְי֔וֹ וּזְכַרְיָ֖ה וּמִקְלֽוֹת׃",
+    "transliteration": "vgedvor ve'aheyvo vzekhareyah vmikelvot.",
     "translation": "E Gedur e Ahio, e Zecarias e Mikloth."
   },
   {
     "verse": 38,
     "original": "וּמִקְל֖וֹת הוֹלִ֣יד אֶת־שִׁמְאָ֑ם וְאַף־הֵ֗ם נֶ֧גֶד אֲחֵיהֶ֛ם יָשְׁב֥וּ בִירוּשָׁלַ֖͏ִם עִם־אֲחֵיהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vmikelvot hvoliyd 'et-shime'am ve'af-hem neged 'aheyhem yashevv viyrvshalaim 'im-'aheyhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E dos seus cajados ele fez florescer os seus nomes, e também eles assentaram-se com os seus irmãos em Jerusalém."
   },
   {
     "verse": 39,
     "original": "וְנֵר֙ הוֹלִ֣יד אֶת־קִ֔ישׁ וְקִ֖ישׁ הוֹלִ֣יד אֶת־שָׁא֑וּל וְשָׁא֗וּל הוֹלִ֤יד אֶת־יְהֽוֹנָתָן֙ וְאֶת־מַלְכִּישׁ֔וּעַ וְאֶת־אֲבִינָדָ֖ב וְאֶת־אֶשְׁבָּֽעַל׃",
+    "transliteration": "vener hvoliyd 'et-kiysh vekiysh hvoliyd 'et-sha'vl vesha'vl hvoliyd 'et-yehvonatan ve'et-malekhiyshv'a ve'et-'aviynadav ve'et-'esheva'al.",
     "translation": "E Nér gerou a Qísh, e Qísh gerou a Shaúl, e Shaúl gerou a Yehonatan e a Malquisua, e a Abinadav e a Eshbaal."
   },
   {
     "verse": 40,
     "original": "וּבֶן־יְהוֹנָתָ֖ן מְרִ֣יב בָּ֑עַל וּמְרִי־בַ֖עַל הוֹלִ֥יד אֶת־מִיכָֽה׃",
+    "transliteration": "vven-yehvonatan meriyv va'al vmeriy-va'al hvoliyd 'et-miykhah.",
     "translation": "E o filho de Jônatas é Merib-baal, e Merib-baal gerou a Miqueias."
   },
   {
     "verse": 41,
     "original": "וּבְנֵ֖י מִיכָ֑ה פִּיתֹ֥ן וָמֶ֖לֶךְ וְתַחְרֵֽעַ׃",
+    "transliteration": "vveney miykhah fiyton vamelekhe vetahere'a.",
     "translation": "E os filhos de Miqueias são Fiten, Meléc e Taqureá."
   },
   {
     "verse": 42,
     "original": "וְאָחָז֙ הוֹלִ֣יד אֶת־יַעְרָ֔ה וְיַעְרָ֗ה הוֹלִ֛יד אֶת־עָלֶ֥מֶת וְאֶת־עַזְמָ֖וֶת וְאֶת־זִמְרִ֑י וְזִמְרִ֖י הוֹלִ֥יד אֶת־מוֹצָֽא׃",
+    "transliteration": "ve'ahaz hvoliyd 'et-ya'erah veya'erah hvoliyd 'et-'alemet ve'et-'azemavet ve'et-zimeriy vezimeriy hvoliyd 'et-mvotsa'.",
     "translation": "E Acaz gerou a Jara, e Jara gerou Alamete e Azmavete e Zimri, e Zimri gerou Mozá."
   },
   {
     "verse": 43,
     "original": "וּמוֹצָ֖א הוֹלִ֣יד אֶת־בִּנְעָ֑א וּרְפָיָ֥ה בְנ֛וֹ אֶלְעָשָׂ֥ה בְנ֖וֹ אָצֵ֥ל בְּנֽוֹ׃",
+    "transliteration": "vmvotsa' hvoliyd 'et-vine'a' vrefayah venvo 'ele'asah venvo 'atsel venvo.",
     "translation": "E Motzã gerou Bená, e Refaia seu filho, Elassã seu filho, Atsel seu filho."
   },
   {
     "verse": 44,
     "original": "וּלְאָצֵל֮ שִׁשָּׁ֣ה בָנִים֒ וְאֵ֣לֶּה שְׁמוֹתָ֗ם עַזְרִיקָ֥ם&thinsp;<small>׀</small>&thinsp;בֹּ֙כְרוּ֙ וְיִשְׁמָעֵ֣אל וּשְׁעַרְיָ֔ה וְעֹבַדְיָ֖ה וְחָנָ֑ן אֵ֖לֶּה בְּנֵ֥י אָצַֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vle'atsel shishah vaniym ve'eleh shemvotam 'azeriykam&thinsp;<small>|</small>&thinsp;vokherv veyishema'e'l vshe'areyah ve'ovadeyah vehanan 'eleh veney 'atsal.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Aziel teve seis filhos, e estes são os seus nomes: Azrikâm o primogênito, Ismael, Searyá, Obadias, e Hanan. Estes são os filhos de Aziel."
   }
 ]

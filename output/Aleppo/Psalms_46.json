@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֥חַ לִבְנֵי־קֹ֑רַח עַֽל־עֲלָמ֥וֹת שִֽׁיר׃",
+    "transliteration": "lamenatseha liveney-korah 'al-'alamvot shiyr.",
     "translation": "Ao diretor, para os filhos de Corá, sobre alamots, cântico."
   },
   {
     "verse": 2,
     "original": "אֱלֹהִ֣ים לָ֭נוּ מַחֲסֶ֣ה וָעֹ֑ז עֶזְרָ֥ה בְ֝צָר֗וֹת נִמְצָ֥א מְאֹֽד׃",
+    "transliteration": "'elohiym lanv mahaseh va'oz 'ezerah vetsarvot nimetsa' me'od.",
     "translation": "Deus é nosso refúgio e fortaleza, uma ajuda nas adversidades, sobremodo presente."
   },
   {
     "verse": 3,
     "original": "עַל־כֵּ֣ן לֹֽא־נִ֭ירָא בְּהָמִ֣יר אָ֑רֶץ וּבְמ֥וֹט הָ֝רִ֗ים בְּלֵ֣ב יַמִּֽים׃",
+    "transliteration": "'al-khen lo'-niyra' vehamiyr 'arets vvemvot hariym velev yamiym.",
     "translation": "Portanto, não foi visto no mundo tumultuado, nem em tremer de montes, nem no coração dos mares."
   },
   {
     "verse": 4,
     "original": "יֶהֱמ֣וּ יֶחְמְר֣וּ מֵימָ֑יו יִ֥רְעֲשֽׁוּ<span class=\"mam-implicit-maqaf\">־</span>הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃",
+    "transliteration": "yehemv yehemerv meymayv yire'ashv<span class=\"mam-implicit-maqaf\">-</span>hariym vega'avatvo selah.",
     "translation": "Bruxam, ardam seus águas; tremem os montes em sua glória. Selá."
   },
   {
     "verse": 5,
     "original": "נָהָ֗ר פְּלָגָ֗יו יְשַׂמְּח֥וּ עִיר־אֱלֹהִ֑ים קְ֝דֹ֗שׁ מִשְׁכְּנֵ֥י עֶלְיֽוֹן׃",
+    "transliteration": "nahar felagayv yesamehv 'iyr-'elohiym kedosh mishekheney 'eleyvon.",
     "translation": "O rio, suas divisões alegram a cidade de Deus, santuário, morada do Altíssimo."
   },
   {
     "verse": 6,
     "original": "אֱלֹהִ֣ים בְּ֭קִרְבָּהּ בַּל־תִּמּ֑וֹט יַעְזְרֶ֥הָ אֱ֝לֹהִ֗ים לִפְנ֥וֹת בֹּֽקֶר׃",
+    "transliteration": "'elohiym vekirevah val-timvot ya'ezereha 'elohiym lifenvot voker.",
     "translation": "Deus está no seu meio, e ela não vacila; Deus lhe dará auxílio ao romper da alvorada."
   },
   {
     "verse": 7,
     "original": "הָמ֣וּ ג֭וֹיִם מָ֣טוּ מַמְלָכ֑וֹת נָתַ֥ן בְּ֝קוֹל֗וֹ תָּמ֥וּג אָֽרֶץ׃",
+    "transliteration": "hamv gvoyim matv mamelakhvot natan vekvolvo tamvg 'arets.",
     "translation": "Gemiam os povos, abalam-se as nações; Ele faz ouvir Sua voz e a terra derrete."
   },
   {
     "verse": 8,
     "original": "יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃",
+    "transliteration": "yehovah tseva'vot 'imanv misegav-lanv 'elohey ya'akov selah.",
     "translation": "Javé dos Exércitos está conosco; fortaleza é para nós Deus de Jacó. Selá."
   },
   {
     "verse": 9,
     "original": "לְֽכוּ־חֲ֭זוּ מִפְעֲל֣וֹת יְהֹוָ֑ה אֲשֶׁר־שָׂ֖ם שַׁמּ֣וֹת בָּאָֽרֶץ׃",
+    "transliteration": "lekhv-hazv mife'alvot yehovah 'asher-sam shamvot va'arets.",
     "translation": "Vinde, contemplai as obras do Senhor, que fez na terra."
   },
   {
     "verse": 10,
     "original": "מַשְׁבִּ֥ית מִלְחָמוֹת֮ עַד־קְצֵ֢ה הָ֫אָ֥רֶץ קֶ֣שֶׁת יְ֭שַׁבֵּר וְקִצֵּ֣ץ חֲנִ֑ית עֲ֝גָל֗וֹת יִשְׂרֹ֥ף בָּאֵֽשׁ׃",
+    "transliteration": "masheviyt milehamvot 'ad-ketseh ha'arets keshet yeshaver vekitsets haniyt 'agalvot yiserof va'esh.",
     "translation": "Cessará a guerra até os confins da terra; o arco quebrarão e a lança despedaçarão; as carroças consumirão no fogo."
   },
   {
     "verse": 11,
     "original": "הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים אָר֥וּם בַּ֝גּוֹיִ֗ם אָר֥וּם בָּאָֽרֶץ׃",
+    "transliteration": "harefv vde'v khiy-'anokhiy 'elohiym 'arvm vagvoyim 'arvm va'arets.",
     "translation": "Calma-e-conhecei que eu sou Deus, exaltado entre as nações, exaltado sobre a terra."
   },
   {
     "verse": 12,
     "original": "יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yehovah tseva'vot 'imanv misegav-lanv 'elohey ya'akov selah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Javé dos Exércitos está conosco, fortaleza é para nós Deus de Jacó. Selá."
   }
 ]

@@ -2,236 +2,283 @@
   {
     "verse": 1,
     "original": "וַיִּקָּבְצ֧וּ כׇֽל־יִשְׂרָאֵ֛ל אֶל־דָּוִ֖יד חֶבְר֣וֹנָה לֵאמֹ֑ר הִנֵּ֛ה עַצְמְךָ֥ וּֽבְשָׂרְךָ֖ אֲנָֽחְנוּ׃",
+    "transliteration": "vayikavetsv khol-yisera'el 'el-daviyd hevervonah le'mor hineh 'atsemekha vvesarekha 'anahenv.",
     "translation": "E congregou-se todo Israel a Davi em Hebrom, dizendo: Eis que somos tua carne e teu sangue."
   },
   {
     "verse": 2,
     "original": "גַּם־תְּמ֣וֹל גַּם־שִׁלְשׁ֗וֹם גַּ֚ם בִּֽהְי֣וֹת שָׁא֣וּל מֶ֔לֶךְ אַתָּ֛ה הַמּוֹצִ֥יא וְהַמֵּבִ֖יא אֶת־יִשְׂרָאֵ֑ל וַיֹּ֩אמֶר֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ לְךָ֗ אַתָּ֨ה תִרְעֶ֤ה אֶת־עַמִּי֙ אֶת־יִשְׂרָאֵ֔ל וְאַתָּה֙ תִּֽהְיֶ֣ה נָגִ֔יד עַ֖ל עַמִּ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "gam-temvol gam-shileshvom gam viheyvot sha'vl melekhe 'atah hamvotsiy' vehameviy' 'et-yisera'el vayo'mer yehovah 'eloheykha lekha 'atah tire'eh 'et-'amiy 'et-yisera'el ve'atah tiheyeh nagiyd 'al 'amiy yisera'el.",
     "translation": "Também ontem, também de antigamente, quando Saul era rei, tu eras aquele que fazia sair e entrar Israel; e disse o Senhor teu Deus: Tu apascentarás o meu povo Israel; e tu serás príncipe sobre Israel."
   },
   {
     "verse": 3,
     "original": "וַ֠יָּבֹ֠אוּ כׇּל־זִקְנֵ֨י יִשְׂרָאֵ֤ל אֶל־הַמֶּ֙לֶךְ֙ חֶבְר֔וֹנָה וַיִּכְרֹת֩ לָהֶ֨ם דָּוִ֥יד בְּרִ֛ית בְּחֶבְר֖וֹן לִפְנֵ֣י יְהֹוָ֑ה וַיִּמְשְׁח֨וּ אֶת־דָּוִ֤יד לְמֶ֙לֶךְ֙ עַל־יִשְׂרָאֵ֔ל כִּדְבַ֥ר יְהֹוָ֖ה בְּיַד־שְׁמוּאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayavo'v khol-zikeney yisera'el 'el-hamelekhe hevervonah vayikherot lahem daviyd veriyt vehevervon lifeney yehovah vayimeshehv 'et-daviyd lemelekhe 'al-yisera'el khidevar yehovah veyad-shemv'el.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E vieram todos os anciãos de Israel a Hebrom, e ali Davi selou com eles uma aliança perante o Senhor em Hebrom. Então ungiram Davi como rei sobre Israel, conforme a palavra do Senhor proferida por meio de Samuel."
   },
   {
     "verse": 4,
     "original": "וַיֵּ֨לֶךְ דָּוִ֧יד וְכׇל־יִשְׂרָאֵ֛ל יְרוּשָׁלַ֖͏ִם הִ֣יא יְב֑וּס וְשָׁם֙ הַיְבוּסִ֔י יֹשְׁבֵ֖י הָאָֽרֶץ׃",
+    "transliteration": "vayelekhe daviyd vekhol-yisera'el yervshalaim hiy' yevvs vesham hayevvsiy yoshevey ha'arets.",
     "translation": "E Davi e todo Israel foram para Jerusalém, que é Jebus; e ali estavam os jebuseus, habitantes da terra."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֨אמְר֜וּ יֹשְׁבֵ֤י יְבוּס֙ לְדָוִ֔יד לֹ֥א תָב֖וֹא הֵ֑נָּה וַיִּלְכֹּ֤ד דָּוִיד֙ אֶת־מְצֻדַ֣ת צִיּ֔וֹן הִ֖יא עִ֥יר דָּוִֽיד׃",
+    "transliteration": "vayo'merv yoshevey yevvs ledaviyd lo' tavvo' henah vayilekhod daviyd 'et-metsudat tsiyvon hiy' 'iyr daviyd.",
     "translation": "E os habitantes de Jebus disseram a Davi: Não virás aqui. Mas Davi conquistou a fortaleza de Sião; ela é a cidade de Davi."
   },
   {
     "verse": 6,
     "original": "וַיֹּ֣אמֶר דָּוִ֔יד כׇּל־מַכֵּ֤ה יְבוּסִי֙ בָּרִ֣אשׁוֹנָ֔ה יִהְיֶ֥ה לְרֹ֖אשׁ וּלְשָׂ֑ר וַיַּ֧עַל בָּרִאשׁוֹנָ֛ה יוֹאָ֥ב בֶּן־צְרוּיָ֖ה וַיְהִ֥י לְרֹֽאשׁ׃",
+    "transliteration": "vayo'mer daviyd khol-makheh yevvsiy vari'shvonah yiheyeh lero'sh vlesar vaya'al vari'shvonah yvo'av ven-tservyah vayehiy lero'sh.",
     "translation": "Disse Davi: Todo aquele que ferir inicialmente o Jebuseu será chefe e governante. E subiu em primeiro lugar Joabe, filho de Zeruia, e foi feito chefe."
   },
   {
     "verse": 7,
     "original": "וַיֵּ֥שֶׁב דָּוִ֖יד בַּמְצָ֑ד עַל־כֵּ֥ן קָרְאוּ־ל֖וֹ עִ֥יר דָּוִֽיד׃",
+    "transliteration": "vayeshev daviyd vametsad 'al-khen kare'v-lvo 'iyr daviyd.",
     "translation": "E Davi habitou na fortaleza, por isso chamaram-lhe Cidade de Davi."
   },
   {
     "verse": 8,
     "original": "וַיִּ֤בֶן הָעִיר֙ מִסָּבִ֔יב מִן־הַמִּלּ֖וֹא וְעַד־הַסָּבִ֑יב וְיוֹאָ֕ב יְחַיֶּ֖ה אֶת־שְׁאָ֥ר הָעִֽיר׃",
+    "transliteration": "vayiven ha'iyr misaviyv min-hamilvo' ve'ad-hasaviyv veyvo'av yehayeh 'et-she'ar ha'iyr.",
     "translation": "E edificou a cidade ao redor, desde o rechamp até o circuito, e Joabe restaurava o resto da cidade."
   },
   {
     "verse": 9,
     "original": "וַיֵּ֥לֶךְ דָּוִ֖יד הָל֣וֹךְ וְגָד֑וֹל וַיהֹוָ֥ה צְבָא֖וֹת עִמּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayelekhe daviyd halvokhe vegadvol vayhovah tseva'vot 'imvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Davi prosperava cada vez mais, e o Senhor dos Exércitos estava com ele."
   },
   {
     "verse": 10,
     "original": "וְאֵ֨לֶּה רָאשֵׁ֤י הַגִּבֹּרִים֙ אֲשֶׁ֣ר לְדָוִ֔יד הַמִּתְחַזְּקִ֨ים עִמּ֧וֹ בְמַלְכוּת֛וֹ עִם־כׇּל־יִשְׂרָאֵ֖ל לְהַמְלִיכ֑וֹ כִּדְבַ֥ר יְהֹוָ֖ה עַל־יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'eleh ra'shey hagivoriym 'asher ledaviyd hamitehazekiym 'imvo vemalekhvtvo 'im-khol-yisera'el lehameliykhvo khidevar yehovah 'al-yisera'el.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E estes são os chefes dos valentes que estavam com Davi, os fortalecidos que lhe eram fiéis no seu reinado, juntamente com todo Israel para o ungir rei, conforme a palavra do Senhor sobre Israel."
   },
   {
     "verse": 11,
     "original": "וְאֵ֛לֶּה מִסְפַּ֥ר הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑יד יָֽשׇׁבְעָ֣ם בֶּן־חַכְמוֹנִ֗י רֹ֚אשׁ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(השלושים)</span> <span class=\"mam-kq-q\">[הַשָּׁ֣לִישִׁ֔ים]</span></span> הֽוּא־עוֹרֵ֧ר אֶת־חֲנִית֛וֹ עַל־שְׁלֹשׁ־מֵא֥וֹת חָלָ֖ל בְּפַ֥עַם אֶחָֽת׃",
+    "transliteration": "ve'eleh misefar hagivoriym 'asher ledaviyd yashove'am ven-hakhemvoniy ro'sh <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hslvsym)</span> <span class=\"mam-kq-q\">[hashaliyshiym]</span></span> hv'-'vorer 'et-haniytvo 'al-shelosh-me'vot halal vefa'am 'ehat.",
     "translation": "E eis o número dos valentes que estavam com Davi: Jashobeam, filho de Hacmoni, era o chefe dos trinta. Ele despertava sua lança contra trezentos mortos de uma só vez."
   },
   {
     "verse": 12,
     "original": "וְאַחֲרָ֛יו אֶלְעָזָ֥ר בֶּן־דּוֹד֖וֹ הָאֲחוֹחִ֑י ה֖וּא בִּשְׁלוֹשָׁ֥ה הַגִּבֹּרִֽים׃",
+    "transliteration": "ve'aharayv 'ele'azar ven-dvodvo ha'ahvohiy hv' vishelvoshah hagivoriym.",
     "translation": "E após ele, Elazar, filho de seu tio Ahoi; este era um dos três valentes."
   },
   {
     "verse": 13,
     "original": "הֽוּא־הָיָ֨ה עִם־דָּוִ֜יד בַּפַּ֣ס דַּמִּ֗ים וְהַפְּלִשְׁתִּים֙ נֶאֶסְפוּ־שָׁ֣ם לַמִּלְחָמָ֔ה וַתְּהִ֛י חֶלְקַ֥ת הַשָּׂדֶ֖ה מְלֵאָ֣ה שְׂעוֹרִ֑ים וְהָעָ֥ם נָ֖סוּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃",
+    "transliteration": "hv'-hayah 'im-daviyd vafas damiym vehafelishetiym ne'esefv-sham lamilehamah vatehiy helekat hasadeh mele'ah se'voriym veha'am nasv mifeney felishetiym.",
     "translation": "Ele estava com Davi no vale dos ceifadores, e os filisteus se ajuntaram ali para a batalha; o campo estava cheio de espigas de trigo, e o povo fugiu diante dos filisteus."
   },
   {
     "verse": 14,
     "original": "וַיִּֽתְיַצְּב֤וּ בְתוֹךְ־הַֽחֶלְקָה֙ וַיַּצִּיל֔וּהָ וַיַּכּ֖וּ אֶת־פְּלִשְׁתִּ֑ים וַיּ֥וֹשַׁע יְהֹוָ֖ה תְּשׁוּעָ֥ה גְדוֹלָֽה׃",
+    "transliteration": "vayiteyatsevv vetvokhe-hahelekah vayatsiylvha vayakhv 'et-felishetiym vayvosha' yehovah teshv'ah gedvolah.",
     "translation": "E firmaram-se no meio do campo, e a salvaram; e feriram os filisteus. E o Senhor outorgou uma vitória grandiosa."
   },
   {
     "verse": 15,
     "original": "וַיֵּרְד֡וּ שְֽׁלוֹשָׁה֩ מִן־הַשְּׁלוֹשִׁ֨ים רֹ֤אשׁ עַל־הַצֻּר֙ אֶל־דָּוִ֔יד אֶל־מְעָרַ֖ת עֲדֻלָּ֑ם וּמַחֲנֵ֣ה פְלִשְׁתִּ֔ים חֹנָ֖ה בְּעֵ֥מֶק רְפָאִֽים׃",
+    "transliteration": "vayeredv shelvoshah min-hashelvoshiym ro'sh 'al-hatsur 'el-daviyd 'el-me'arat 'adulam vmahaneh felishetiym honah ve'emek refa'iym.",
     "translation": "E desciam três dos trinta chefes à rocha para Davi, à caverna de Adulão; e o acampamento filisteu estava no vale de Refaim."
   },
   {
     "verse": 16,
     "original": "וְדָוִ֖יד אָ֣ז בַּמְּצוּדָ֑ה וּנְצִ֣יב פְּלִשְׁתִּ֔ים אָ֖ז בְּבֵ֥ית לָֽחֶם׃",
+    "transliteration": "vedaviyd 'az vametsvdah vnetsiyv felishetiym 'az veveyt lahem.",
     "translation": "E Davi então estava na fortaleza, e o chefe dos filisteus estava em Belém naquele dia."
   },
   {
     "verse": 17,
     "original": "וַיִּתְאָ֥ו דָּוִ֖יד וַיֹּאמַ֑ר מִ֚י יַשְׁקֵ֣נִי מַ֔יִם מִבּ֥וֹר בֵּֽית־לֶ֖חֶם אֲשֶׁ֥ר בַּשָּֽׁעַר׃",
+    "transliteration": "vayite'av daviyd vayo'mar miy yashekeniy mayim mivvor veyt-lehem 'asher vasha'ar.",
     "translation": "E Davi desejou e disse: Quem me dará águas do poço da porta de Belém?"
   },
   {
     "verse": 18,
     "original": "וַיִּבְקְע֨וּ הַשְּׁלֹשָׁ֜ה בְּמַחֲנֵ֣ה פְלִשְׁתִּ֗ים וַיִּֽשְׁאֲבוּ־מַ֙יִם֙ מִבּ֤וֹר בֵּֽית־לֶ֙חֶם֙ אֲשֶׁ֣ר בַּשַּׁ֔עַר וַיִּשְׂא֖וּ וַיָּבִ֣אוּ אֶל־דָּוִ֑יד וְלֹא־אָבָ֤ה דָוִיד֙ לִשְׁתּוֹתָ֔ם וַיְנַסֵּ֥ךְ אֹתָ֖ם לַיהֹוָֽה׃",
+    "transliteration": "vayiveke'v hasheloshah vemahaneh felishetiym vayishe'avv-mayim mivvor veyt-lehem 'asher vasha'ar vayise'v vayavi'v 'el-daviyd velo'-'avah daviyd lishetvotam vayenasekhe 'otam layhovah.",
     "translation": "E os três romperam pelo acampamento dos filisteus e tiraram água do poço de Belém que está junto à porta; mas Davi não quis beber dela, e a derramou como oferta ao Senhor."
   },
   {
     "verse": 19,
     "original": "וַיֹּ֡אמֶר חָלִ֩ילָה֩ לִּ֨י מֵאֱלֹהַ֜י מֵעֲשׂ֣וֹת זֹ֗את הֲדַ֣ם הָאֲנָשִׁים֩ הָאֵ֨לֶּה אֶשְׁתֶּ֤ה בְנַפְשׁוֹתָם֙ כִּ֣י בְנַפְשׁוֹתָ֣ם הֱבִיא֔וּם וְלֹ֥א אָבָ֖ה לִשְׁתּוֹתָ֑ם אֵ֣לֶּה עָשׂ֔וּ שְׁלֹ֖שֶׁת הַגִּבּוֹרִֽים׃",
+    "transliteration": "vayo'mer haliylah liy me'elohay me'asvot zo't hadam ha'anashiym ha'eleh 'esheteh venafeshvotam khiy venafeshvotam heviy'vm velo' 'avah lishetvotam 'eleh 'asv sheloshet hagivvoriym.",
     "translation": "E disse: Longe de mim, do meu Deus, fazer tal coisa; hei de beber o sangue desses homens com suas almas? Pois com suas almas os trouxeram. Não quis beber seu sangue; eis que eles mesmos o fizeram, esses três bravos."
   },
   {
     "verse": 20,
     "original": "וְאַבְשַׁ֣י אֲחִֽי־יוֹאָ֗ב ה֤וּא הָיָה֙ רֹ֣אשׁ הַשְּׁלוֹשָׁ֔ה וְהוּא֙ עוֹרֵ֣ר אֶת־חֲנִית֔וֹ עַל־שְׁלֹ֥שׁ מֵא֖וֹת חָלָ֑ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ולא)</span> <span class=\"mam-kq-q\">[וְלוֹ־]</span></span>שֵׁ֖ם בַּשְּׁלוֹשָֽׁה׃",
+    "transliteration": "ve'aveshay 'ahiy-yvo'av hv' hayah ro'sh hashelvoshah vehv' 'vorer 'et-haniytvo 'al-shelosh me'vot halal <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vl')</span> <span class=\"mam-kq-q\">[velvo-]</span></span>shem vashelvoshah.",
     "translation": "E Absalão, irmão de Joabe, era chefe dos três bravos; ele despertava sua lança sobre trezentos mortos; e seu nome está entre os três."
   },
   {
     "verse": 21,
     "original": "מִן־הַשְּׁלוֹשָׁ֤ה בַשְּׁנַ֙יִם֙ נִכְבָּ֔ד וַיְהִ֥י לָהֶ֖ם לְשָׂ֑ר וְעַד־הַשְּׁלוֹשָׁ֖ה לֹא־בָֽא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "min-hashelvoshah vashenayim nikhevad vayehiy lahem lesar ve'ad-hashelvoshah lo'-va'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Do três no dois é honrado, e foi-lhes por príncipe, e até ao terceiro não chegou."
   },
   {
     "verse": 22,
     "original": "בְּנָיָ֨ה בֶן־יְהוֹיָדָ֧ע בֶּן־אִֽישׁ־חַ֛יִל רַב־פְּעָלִ֖ים מִֽן־קַבְצְאֵ֑ל ה֣וּא הִכָּ֗ה אֵ֣ת שְׁנֵ֤י אֲרִיאֵל֙ מוֹאָ֔ב וְ֠ה֠וּא יָרַ֞ד וְהִכָּ֧ה אֶֽת־הָאֲרִ֛י בְּת֥וֹךְ הַבּ֖וֹר בְּי֥וֹם הַשָּֽׁלֶג׃",
+    "transliteration": "venayah ven-yehvoyada' ven-'iysh-hayil rav-fe'aliym min-kavetse'el hv' hikhah 'et sheney 'ariy'el mvo'av vehv' yarad vehikhah 'et-ha'ariy vetvokhe havvor veyvom hashaleg.",
     "translation": "Benaja, filho de Joiada, filho de um homem valente, um grande herói de Kabzeel, ele feriu dois leões de Moabe. Ele desceu e matou o leão no poço no dia da neve."
   },
   {
     "verse": 23,
     "original": "וְהֽוּא־הִכָּה֩ אֶת־הָאִ֨ישׁ הַמִּצְרִ֜י אִ֥ישׁ מִדָּ֣ה&thinsp;<b>׀</b> חָמֵ֣שׁ בָּאַמָּ֗ה וּבְיַ֨ד הַמִּצְרִ֤י חֲנִית֙ כִּמְנ֣וֹר אֹֽרְגִ֔ים וַיֵּ֥רֶד אֵלָ֖יו בַּשָּׁ֑בֶט וַיִּגְזֹ֤ל אֶֽת־הַחֲנִית֙ מִיַּ֣ד הַמִּצְרִ֔י וַיַּהַרְגֵ֖הוּ בַּחֲנִיתֽוֹ׃",
+    "transliteration": "vehv'-hikhah 'et-ha'iysh hamitseriy 'iysh midah&thinsp;<b>|</b> hamesh va'amah vveyad hamitseriy haniyt khimenvor 'oregiym vayered 'elayv vashavet vayigezol 'et-hahaniyt miyad hamitseriy vayaharegehv vahaniytvo.",
     "translation": "E ele feriu ao homem do Egito, um homem de medida e meio, e na mão do egípcio havia uma lança como minórea de tear, e desceu contra ele com a vara, e arrebatou a lança da mão do egípcio, e o matou com sua própria lança."
   },
   {
     "verse": 24,
     "original": "אֵ֣לֶּה עָשָׂ֔ה בְּנָיָ֖הוּ בֶּן־יְהוֹיָדָ֑ע וְלוֹ־שֵׁ֖ם בִּשְׁלוֹשָׁ֥ה הַגִּבֹּרִֽים׃",
+    "transliteration": "'eleh 'asah venayahv ven-yehvoyada' velvo-shem vishelvoshah hagivoriym.",
     "translation": "Estes foram feitos por Benaia, filho de Joiada; e ele tem nome entre os três valentes."
   },
   {
     "verse": 25,
     "original": "מִן־הַשְּׁלוֹשִׁ֗ים הִנּ֤וֹ נִכְבָּד֙ ה֔וּא וְאֶל־הַשְּׁלֹשָׁ֖ה לֹא־בָ֑א וַיְשִׂימֵ֥הוּ דָוִ֖יד עַל־מִשְׁמַעְתּֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "min-hashelvoshiym hinvo nikhevad hv' ve'el-hasheloshah lo'-va' vayesiymehv daviyd 'al-mishema'etvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Dos trinta ele era distinto, e ao trio não chegou. Davi o colocou sobre sua guarda."
   },
   {
     "verse": 26,
     "original": "וְגִבּוֹרֵ֖י הַחֲיָלִ֑ים עֲשָׂהאֵל֙ אֲחִ֣י יוֹאָ֔ב&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֶלְחָנָ֥ן בֶּן־דּוֹד֖וֹ מִבֵּ֥ית לָֽחֶם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vegivvorey hahayaliym 'asah'el 'ahiy yvo'av&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'elehanan ven-dvodvo miveyt lahem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os valentes do exército: Asaías, irmão de Joabe; Elcana, filho de seu tio, de Belém."
   },
   {
     "verse": 27,
     "original": "שַׁמּוֹת֙ הַהֲרוֹרִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חֶ֖לֶץ הַפְּלוֹנִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "shamvot haharvoriy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helets hafelvoniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Nomes do montanhês,&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;escudo do fulano.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 28,
     "original": "עִירָ֤א בֶן־עִקֵּשׁ֙ הַתְּקוֹעִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֲבִיעֶ֖זֶר הָעַנְּתוֹתִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'iyra' ven-'ikesh hatekvo'iy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'aviy'ezer ha'anetvotiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Irã, filho de Iqes, o Tequoeu; Aviezer, o Anatótita."
   },
   {
     "verse": 29,
     "original": "סִבְּכַי֙ הַחֻ֣שָׁתִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עִילַ֖י הָאֲחוֹחִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "sivekhay hahushatiy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iylay ha'ahvohiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Sibbaki o cushiti, Ulayi o acholi."
   },
   {
     "verse": 30,
     "original": "מַהְרַי֙ הַנְּטֹ֣פָתִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חֵ֥לֶד בֶּֽן־בַּעֲנָ֖ה הַנְּטוֹפָתִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "maheray hanetofatiy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heled ven-va'anah hanetvofatiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Apresse-se, Nefotita,&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cheldai filho de Baana, o Nefotita.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 31,
     "original": "אִיתַ֣י בֶּן־רִיבַ֗י מִגִּבְעַת֙ בְּנֵ֣י בִנְיָמִ֔ן&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בְּנָיָ֖ה הַפִּרְעָתֹנִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'iytay ven-riyvay migive'at veney vineyamin&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;venayah hafire'atoniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Ithai, filho de Ribai, da Gebá dos filhos de Benjamim; Benaia, o Piratônite."
   },
   {
     "verse": 32,
     "original": "חוּרַי֙ מִנַּ֣חֲלֵי גָ֔עַשׁ&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֲבִיאֵ֖ל הָעַרְבָתִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hvray minahaley ga'ash&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'aviy'el ha'arevatiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Meus amigos são como torrentes de tumulto,&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abiel o arbate.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 33,
     "original": "עַזְמָ֙וֶת֙ הַבַּ֣חֲרוּמִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֶלְיַחְבָּ֖א הַשַּׁעַלְבֹנִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'azemavet havaharvmiy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'eleyaheva' hasha'alevoniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "O firmamento do Bacharumi; Eliachava o Shaalboni."
   },
   {
     "verse": 34,
     "original": "בְּנֵ֗י הָשֵׁם֙ הַגִּ֣זוֹנִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יוֹנָתָ֥ן בֶּן־שָׁגֵ֖ה הַהֲרָרִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veney hashem hagizvoniy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yvonatan ven-shageh haharariy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Filhos do Senhor, o Gizonita.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonathan, filho de Shage, o Montanhes.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 35,
     "original": "אֲחִיאָ֧ם בֶּן־שָׂכָ֛ר הַהֲרָרִ֖י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֱלִיפַ֥ל בֶּן־אֽוּר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'ahiy'am ven-sakhar haharariy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'eliyfal ven-'vr.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Achiam, filho de Sachar, o montanhês;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elifal, filho de Ur."
   },
   {
     "verse": 36,
     "original": "חֵ֚פֶר הַמְּכֵ֣רָתִ֔י אֲחִיָּ֖ה הַפְּלֹנִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hefer hamekheratiy 'ahiyah hafeloniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Vaidade da minha venda, Ahitsia o tal."
   },
   {
     "verse": 37,
     "original": "חֶצְרוֹ֙ הַֽכַּרְמְלִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נַעֲרַ֖י בֶּן־אֶזְבָּֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hetservo hakharemeliy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;na'aray ven-'ezevay.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Chetreo do Carmelo, Naari filho de Ezevi."
   },
   {
     "verse": 38,
     "original": "יוֹאֵל֙ אֲחִ֣י נָתָ֔ן&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מִבְחָ֖ר בֶּן־הַגְרִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "yvo'el 'ahiy natan&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mivehar ven-hageriy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Joel, irmão de Natã,\neleito, filho de Geri."
   },
   {
     "verse": 39,
     "original": "צֶ֖לֶק הָעַמּוֹנִ֑י נַחְרַי֙ הַבֵּ֣רֹתִ֔י נֹשֵׂ֕א כְּלֵ֖י יוֹאָ֥ב בֶּן־צְרוּיָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "tselek ha'amvoniy naheray haverotiy nose' kheley yvo'av ven-tservyah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "O selo dos amonitas, Nachari eu feri, o portador dos utensílios de Yoav ben Tzruya."
   },
   {
     "verse": 40,
     "original": "עִירָא֙ הַיִּתְרִ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;גָּרֵ֖ב הַיִּתְרִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'iyra' hayiteriy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garev hayiteriy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Irã, o itrei; Garev, o itrei."
   },
   {
     "verse": 41,
     "original": "אֽוּרִיָּה֙ הַחִתִּ֔י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;זָבָ֖ד בֶּן־אַחְלָֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'vriyah hahitiy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zavad ven-'ahelay.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Uríia o hitita&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zabade filho de Acli.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 42,
     "original": "עֲדִינָ֨א בֶן־שִׁיזָ֜א הָראוּבֵנִ֗י רֹ֛אשׁ לָראוּבֵנִ֖י וְעָלָ֥יו שְׁלֹשִֽׁים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'adiyna' ven-shiyza' har'vveniy ro'sh lar'vveniy ve'alayv sheloshiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Adina, filho de Shiza, rubenita, é o líder dos rubenitas, e sobre ele estão registrados trinta mil."
   },
   {
     "verse": 43,
     "original": "חָנָן֙ בֶּֽן־מַעֲכָ֔ה וְיוֹשָׁפָ֖ט הַמִּתְנִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hanan ven-ma'akhah veyvoshafat hamiteniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Hanã, filho de Maaca, e Josafá o escriba."
   },
   {
     "verse": 44,
     "original": "עֻזִּיָּ֖א הָעַשְׁתְּרָתִ֑י&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שָׁמָע֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויעואל)</span> <span class=\"mam-kq-q\">[וִיעִיאֵ֔ל]</span></span> בְּנֵ֖י חוֹתָ֥ם הָעֲרֹעֵרִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'uziya' ha'asheteratiy&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shama' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vy'v'l)</span> <span class=\"mam-kq-q\">[viy'iy'el]</span></span> veney hvotam ha'aro'eriy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Uzzi, o Ashteráti; Shamá, filho de Joiéel, o Arourí."
   },
   {
     "verse": 45,
     "original": "יְדִֽיעֲאֵל֙ בֶּן־שִׁמְרִ֔י וְיֹחָ֥א אָחִ֖יו הַתִּיצִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "yediy'a'el ven-shimeriy veyoha' 'ahiyv hatiytsiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Jeúdia, filho de Semri, e Joá, seu irmão, o Tizita."
   },
   {
     "verse": 46,
     "original": "אֱלִיאֵל֙ הַֽמַּחֲוִ֔ים וִירִיבַ֥י וְיוֹשַׁוְיָ֖ה בְּנֵ֣י אֶלְנָ֑עַם&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְיִתְמָ֖ה הַמּוֹאָבִֽי׃",
+    "transliteration": "'eliy'el hamahaviym viyriyvay veyvoshaveyah veney 'elena'am&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;veyitemah hamvo'aviy.",
     "translation": "Eliel os construtores, e seus irmãos, e Josué, filhos de Elnaam; e Jedea o moabita."
   },
   {
     "verse": 47,
     "original": "אֱלִיאֵ֣ל וְעוֹבֵ֔ד&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְיַעֲשִׂיאֵ֖ל הַמְּצֹבָיָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'eliy'el ve'voved&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;veya'asiy'el hametsovayah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eliel e Obed, e Jaasiel os encarregados."
   }
 ]

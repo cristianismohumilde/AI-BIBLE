@@ -2,146 +2,175 @@
   {
     "verse": 1,
     "original": "הַחֲרִ֤ישׁוּ אֵלַי֙ אִיִּ֔ים וּלְאֻמִּ֖ים יַחֲלִ֣יפוּ כֹ֑חַ יִגְּשׁוּ֙ אָ֣ז יְדַבֵּ֔רוּ יַחְדָּ֖ו לַמִּשְׁפָּ֥ט נִקְרָֽבָה׃",
+    "transliteration": "hahariyshv 'elay 'iyiym vle'umiym yahaliyfv khoha yigeshv 'az yedaverv yahedav lamishefat nikeravah.",
     "translation": "Calai-vos diante de mim, ilhas; e as nações tragam a sua força. Aproximem-se, então falarão; juntos se encaminharão para o juízo."
   },
   {
     "verse": 2,
     "original": "מִ֤י הֵעִיר֙ מִמִּזְרָ֔ח צֶ֖דֶק יִקְרָאֵ֣הוּ לְרַגְל֑וֹ יִתֵּ֨ן לְפָנָ֤יו גּוֹיִם֙ וּמְלָכִ֣ים יַ֔רְדְּ יִתֵּ֤ן כֶּֽעָפָר֙ חַרְבּ֔וֹ כְּקַ֥שׁ נִדָּ֖ף קַשְׁתּֽוֹ׃",
+    "transliteration": "miy he'iyr mimizerah tsedek yikera'ehv leragelvo yiten lefanayv gvoyim vmelakhiym yarede yiten khe'afar harevvo khekash nidaf kashetvo.",
     "translation": "Quem despertou do leste a justiça que ele lhe chama aos pés? Ele lhe dá nações e faz reis cair; lhe dá como pó sua espada, como ferrugem varrida seu arco."
   },
   {
     "verse": 3,
     "original": "יִרְדְּפֵ֖ם יַעֲב֣וֹר שָׁל֑וֹם אֹ֥רַח בְּרַגְלָ֖יו לֹ֥א יָבֽוֹא׃",
+    "transliteration": "yiredefem ya'avvor shalvom 'orah veragelayv lo' yavvo'.",
     "translation": "Persegui-los fará; paz não virá, seu caminho com os pés não entrará."
   },
   {
     "verse": 4,
     "original": "מִֽי־פָעַ֣ל וְעָשָׂ֔ה קֹרֵ֥א הַדֹּר֖וֹת מֵרֹ֑אשׁ אֲנִ֤י יְהֹוָה֙ רִאשׁ֔וֹן וְאֶת־אַחֲרֹנִ֖ים אֲנִי־הֽוּא׃",
+    "transliteration": "miy-fa'al ve'asah kore' hadorvot mero'sh 'aniy yehovah ri'shvon ve'et-'aharoniym 'aniy-hv'.",
     "translation": "Quem opera e faz, chamando os séculos desde o princípio? Eu sou o Senhor, o Primeiro, e eu mesmo sou o Último."
   },
   {
     "verse": 5,
     "original": "רָא֤וּ אִיִּים֙ וְיִרָ֔אוּ קְצ֥וֹת הָאָ֖רֶץ יֶחֱרָ֑דוּ קָרְב֖וּ וַיֶּאֱתָיֽוּן׃",
+    "transliteration": "ra'v 'iyiym veyira'v ketsvot ha'arets yeheradv karevv vaye'etayvn.",
     "translation": "Viram os ídolos e temeram; extremos da terra estremeceram; aproximaram-se e vieram."
   },
   {
     "verse": 6,
     "original": "אִ֥ישׁ אֶת־רֵעֵ֖הוּ יַעְזֹ֑רוּ וּלְאָחִ֖יו יֹאמַ֥ר חֲזָֽק׃",
+    "transliteration": "'iysh 'et-re'ehv ya'ezorv vle'ahiyv yo'mar hazak.",
     "translation": "Homem auxiliará o seu companheiro, e ao seu irmão dirá: Fortalece-te."
   },
   {
     "verse": 7,
     "original": "וַיְחַזֵּ֤ק חָרָשׁ֙ אֶת־צֹרֵ֔ף מַחֲלִ֥יק פַּטִּ֖ישׁ אֶת־ה֣וֹלֶם פָּ֑עַם אֹמֵ֤ר לַדֶּ֙בֶק֙ ט֣וֹב ה֔וּא וַיְחַזְּקֵ֥הוּ בְמַסְמְרִ֖ים לֹ֥א יִמּֽוֹט׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayehazek harash 'et-tsoref mahaliyk fatiysh 'et-hvolem fa'am 'omer ladevek tvov hv' vayehazekehv vemasemeriym lo' yimvot.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E fortaleceu o ferreiro ao fundidor, alisando com martelo firme a bigorna. Dizendo à argila: “Está boa!”, e a firmou com pregos de maneira que não se moveria."
   },
   {
     "verse": 8,
     "original": "וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי׃",
+    "transliteration": "ve'atah yisera'el 'avediy ya'akov 'asher veharetiykha zera' 'averaham 'ohaviy.",
     "translation": "E tu, Israel, meu servo, Jacó, que escolhi, descendente de Abraão, meu amado."
   },
   {
     "verse": 9,
     "original": "אֲשֶׁ֤ר הֶחֱזַקְתִּ֙יךָ֙ מִקְצ֣וֹת הָאָ֔רֶץ וּמֵאֲצִילֶ֖יהָ קְרָאתִ֑יךָ וָאֹ֤מַר לְךָ֙ עַבְדִּי־אַ֔תָּה בְּחַרְתִּ֖יךָ וְלֹ֥א מְאַסְתִּֽיךָ׃",
+    "transliteration": "'asher hehezaketiykha miketsvot ha'arets vme'atsiyleyha kera'tiykha va'omar lekha 'avediy-'atah veharetiykha velo' me'asetiykha.",
     "translation": "Que te fortaleci das extremidades da terra e, de suas nobres famílias, te chamei; e te disse: Tu és o meu servo, escolhi-te e não te rejeitei."
   },
   {
     "verse": 10,
     "original": "אַל־תִּירָא֙ כִּ֣י עִמְּךָ־אָ֔נִי אַל־תִּשְׁתָּ֖ע כִּֽי־אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֙יךָ֙ אַף־עֲזַרְתִּ֔יךָ אַף־תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי׃",
+    "transliteration": "'al-tiyra' khiy 'imekha-'aniy 'al-tisheta' khiy-'aniy 'eloheykha 'imatsetiykha 'af-'azaretiykha 'af-temakhetiykha viymiyn tsidekiy.",
     "translation": "Não temas, pois contigo estou; não te perturbes, porque eu sou o teu Deus. Eu te fortaleço, ajudo e sustento-te com a minha destra justa."
   },
   {
     "verse": 11,
     "original": "הֵ֤ן יֵבֹ֙שׁוּ֙ וְיִכָּ֣לְמ֔וּ כֹּ֖ל הַנֶּחֱרִ֣ים בָּ֑ךְ יִהְי֥וּ כְאַ֛יִן וְיֹאבְד֖וּ אַנְשֵׁ֥י רִיבֶֽךָ׃",
+    "transliteration": "hen yevoshv veyikhalemv khol haneheriym vakhe yiheyv khe'ayin veyo'vedv 'aneshey riyvekha.",
     "translation": "Eis que se envergonharão e serão confundidos todos os teus transeuntes; serão como nada e perecerão os homens dos teus contenciosos."
   },
   {
     "verse": 12,
     "original": "תְּבַקְשֵׁם֙ וְלֹ֣א תִמְצָאֵ֔ם אַנְשֵׁ֖י מַצֻּתֶ֑ךָ יִהְי֥וּ כְאַ֛יִן וּכְאֶ֖פֶס אַנְשֵׁ֥י מִלְחַמְתֶּֽךָ׃",
+    "transliteration": "tevakeshem velo' timetsa'em 'aneshey matsutekha yiheyv khe'ayin vkhe'efes 'aneshey milehametekha.",
     "translation": "Buscá-los-eis e não os achareis; homens da tua aliança serão como sombra e como nada, homens da tua guerra."
   },
   {
     "verse": 13,
     "original": "כִּ֗י אֲנִ֛י יְהֹוָ֥ה אֱלֹהֶ֖יךָ מַחֲזִ֣יק יְמִינֶ֑ךָ הָאֹמֵ֥ר לְךָ֛ אַל־תִּירָ֖א אֲנִ֥י עֲזַרְתִּֽיךָ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy 'aniy yehovah 'eloheykha mahaziyk yemiynekha ha'omer lekha 'al-tiyra' 'aniy 'azaretiykha.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Porque eu sou o Senhor, teu Deus, que segura a tua mão direita, dizendo-te: não temas, pois eu te socorro."
   },
   {
     "verse": 14,
     "original": "אַל־תִּֽירְאִי֙ תּוֹלַ֣עַת יַעֲקֹ֔ב מְתֵ֖י יִשְׂרָאֵ֑ל אֲנִ֤י עֲזַרְתִּיךְ֙ נְאֻם־יְהֹוָ֔ה וְגֹאֲלֵ֖ךְ קְד֥וֹשׁ יִשְׂרָאֵֽל׃",
+    "transliteration": "'al-tiyre'iy tvola'at ya'akov metey yisera'el 'aniy 'azaretiykhe ne'um-yehovah vego'alekhe kedvosh yisera'el.",
     "translation": "Não temas, tu que eras como uma traça de Jacó, pouca coisa de Israel; Eu sou o teu auxílio, diz o Senhor, e o teu Redentor, o Santo de Israel."
   },
   {
     "verse": 15,
     "original": "הִנֵּ֣ה שַׂמְתִּ֗יךְ לְמוֹרַג֙ חָר֣וּץ חָדָ֔שׁ בַּ֖עַל פִּיפִיּ֑וֹת תָּד֤וּשׁ הָרִים֙ וְתָדֹ֔ק וּגְבָע֖וֹת כַּמֹּ֥ץ תָּשִֽׂים׃",
+    "transliteration": "hineh sametiykhe lemvorag harvts hadash va'al fiyfiyvot tadvsh hariym vetadok vgeva'vot khamots tasiym.",
     "translation": "Eis-te colocado como um machado afiado, senhor da floresta; varrerás montanhas e as derrubará, e as colinas serão como palha a ser espalhada."
   },
   {
     "verse": 16,
     "original": "תִּזְרֵם֙ וְר֣וּחַ תִּשָּׂאֵ֔ם וּסְעָרָ֖ה תָּפִ֣יץ אוֹתָ֑ם וְאַתָּה֙ תָּגִ֣יל בַּֽיהֹוָ֔ה בִּקְד֥וֹשׁ יִשְׂרָאֵ֖ל תִּתְהַלָּֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "tizerem vervha tisa'em vse'arah tafiyts 'votam ve'atah tagiyl vayhovah vikedvosh yisera'el titehalal.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eles serão como a palha diante do vento; o Espírito os levará, e o furacão os espalhará. Mas você se regozijará no Senhor, e exultará no Santo de Israel."
   },
   {
     "verse": 17,
     "original": "הָעֲנִיִּ֨ים וְהָאֶבְיוֹנִ֜ים מְבַקְשִׁ֥ים מַ֙יִם֙ וָאַ֔יִן לְשׁוֹנָ֖ם בַּצָּמָ֣א נָשָׁ֑תָּה אֲנִ֤י יְהֹוָה֙ אֶעֱנֵ֔ם אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֹ֥א אֶעֶזְבֵֽם׃",
+    "transliteration": "ha'aniyiym veha'eveyvoniym mevakeshiym mayim va'ayin leshvonam vatsama' nashatah 'aniy yehovah 'e'enem 'elohey yisera'el lo' 'e'ezevem.",
     "translation": "Os pobres e os necessitados buscam água, mas não há; a sua língua está ressequida de sede. Eu, o Senhor, os ouvirei; Deus de Israel, eu não os abandonarei."
   },
   {
     "verse": 18,
     "original": "אֶפְתַּ֤ח עַל־שְׁפָיִים֙ נְהָר֔וֹת וּבְת֥וֹךְ בְּקָע֖וֹת מַעְיָנ֑וֹת אָשִׂ֤ים מִדְבָּר֙ לַאֲגַם־מַ֔יִם וְאֶ֥רֶץ צִיָּ֖ה לְמוֹצָ֥אֵי מָֽיִם׃",
+    "transliteration": "'efetah 'al-shefayiym neharvot vvetvokhe veka'vot ma'eyanvot 'asiym midevar la'agam-mayim ve'erets tsiyah lemvotsa'ey mayim.",
     "translation": "Abro sobre os lábios rios, e no meio das ravinas faço brotar fontes. Transformo o deserto num lago de águas, e a terra seca em mananciais de água."
   },
   {
     "verse": 19,
     "original": "אֶתֵּ֤ן בַּמִּדְבָּר֙ אֶ֣רֶז שִׁטָּ֔ה וַהֲדַ֖ס וְעֵ֣ץ שָׁ֑מֶן אָשִׂ֣ים בָּעֲרָבָ֗ה בְּר֛וֹשׁ תִּדְהָ֥ר וּתְאַשּׁ֖וּר יַחְדָּֽו׃",
+    "transliteration": "'eten vamidevar 'erez shitah vahadas ve'ets shamen 'asiym va'aravah vervosh tidehar vte'ashvr yahedav.",
     "translation": "Darei no deserto cedro e acácia, laranjeira; farei na árida planície pinheiro robusto junto com cipreste."
   },
   {
     "verse": 20,
     "original": "לְמַ֧עַן יִרְא֣וּ וְיֵדְע֗וּ וְיָשִׂ֤ימוּ וְיַשְׂכִּ֙ילוּ֙ יַחְדָּ֔ו כִּ֥י יַד־יְהֹוָ֖ה עָ֣שְׂתָה זֹּ֑את וּקְד֥וֹשׁ יִשְׂרָאֵ֖ל בְּרָאָֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lema'an yire'v veyede'v veyasiymv veyasekhiylv yahedav khiy yad-yehovah 'asetah zo't vkedvosh yisera'el vera'ah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para que vejam e saibam, ponderem e entendam juntos, que a mão do Senhor fez isso e o Santo de Israel o criou."
   },
   {
     "verse": 21,
     "original": "קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהֹוָ֑ה הַגִּ֙ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב׃",
+    "transliteration": "karevv riyvekhem yo'mar yehovah hagiyshv 'atsumvoteykhem yo'mar melekhe ya'akov.",
     "translation": "Aproximai-vos com vosso julgamento, diz o Senhor; apresentai vossas provas, diz o Rei de Jacó."
   },
   {
     "verse": 22,
     "original": "יַגִּ֙ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת&thinsp;<b>׀</b> מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ וְנָשִׂ֤ימָה לִבֵּ֙נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ׃",
+    "transliteration": "yagiyshv veyagiydv lanv 'et 'asher tikereynah hari'shonvot&thinsp;<b>|</b> mah henah hagiydv venasiymah livenv venede'ah 'ahariytan 'vo hava'vot hashemiy'unv.",
     "translation": "Tragai e declarei o que profereis, primeiras coisas, quais sois. Declara-las, ponhamos o coração nelas e saibamos seu desfecho; ou as vindouras, fazei-nos ouvir."
   },
   {
     "verse": 23,
     "original": "הַגִּ֙ידוּ֙ הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף־תֵּיטִ֣יבוּ וְתָרֵ֔עוּ וְנִשְׁתָּ֖עָה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ונרא)</span> <span class=\"mam-kq-q\">[וְנִרְאֶ֥ה]</span></span> יַחְדָּֽו׃",
+    "transliteration": "hagiydv ha'otiyvot le'ahvor venede'ah khiy 'elohiym 'atem 'af-teytiyvv vetare'v venisheta'ah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnr')</span> <span class=\"mam-kq-q\">[venire'eh]</span></span> yahedav.",
     "translation": "Dêem-nos um sinal, revelem-se, e nós reconheceremos que sois deuses; façam algo maravilhoso, algo extraordinário, para que nos encontremos e vejamos juntos."
   },
   {
     "verse": 24,
     "original": "הֵן־אַתֶּ֣ם מֵאַ֔יִן וּפׇעׇלְכֶ֖ם מֵאָ֑פַע תּוֹעֵבָ֖ה יִבְחַ֥ר בָּכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hen-'atem me'ayin vfo'olekhem me'afa' tvo'evah yivehar vakhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eis que vós provindes do nada, e o trabalho de vós é de cinza; abominação ele escolherá em vós."
   },
   {
     "verse": 25,
     "original": "הַעִיר֤וֹתִי מִצָּפוֹן֙ וַיַּ֔את מִמִּזְרַח־שֶׁ֖מֶשׁ יִקְרָ֣א בִשְׁמִ֑י וְיָבֹ֤א סְגָנִים֙ כְּמוֹ־חֹ֔מֶר וּכְמ֥וֹ יוֹצֵ֖ר יִרְמׇס־טִֽיט׃",
+    "transliteration": "ha'iyrvotiy mitsafvon vaya't mimizerah-shemesh yikera' vishemiy veyavo' seganiym khemvo-homer vkhemvo yvotser yiremos-tiyt.",
     "translation": "Das cidades do norte vim eu, e da alvorada invocaram o meu nome. E vieram os príncipes como a escória; sim, como a argila que se amassa o rejeitado."
   },
   {
     "verse": 26,
     "original": "מִֽי־הִגִּ֤יד מֵרֹאשׁ֙ וְנֵדָ֔עָה וּמִלְּפָנִ֖ים וְנֹאמַ֣ר צַדִּ֑יק אַ֣ף אֵין־מַגִּ֗יד אַ֚ף אֵ֣ין מַשְׁמִ֔יעַ אַ֥ף אֵין־שֹׁמֵ֖עַ אִמְרֵיכֶֽם׃",
+    "transliteration": "miy-higiyd mero'sh veneda'ah vmilefaniym veno'mar tsadiyk 'af 'eyn-magiyd 'af 'eyn mashemiy'a 'af 'eyn-shome'a 'imereykhem.",
     "translation": "Quem anunciou desde o começo e nos fez saber? E de antemão, para que disssamos: Ele é justo? Também não houve quem anunciasse, nem quem revelasse, tampouco quem ouvisse as vossas palavras."
   },
   {
     "verse": 27,
     "original": "רִאשׁ֥וֹן לְצִיּ֖וֹן הִנֵּ֣ה הִנָּ֑ם וְלִירוּשָׁלַ֖͏ִם מְבַשֵּׂ֥ר אֶתֵּֽן׃",
+    "transliteration": "ri'shvon letsiyvon hineh hinam veliyrvshalaim mevaser 'eten.",
     "translation": "Primeiros para Sião, eis que eles vêm; e anunciarão a Jerusalém."
   },
   {
     "verse": 28,
     "original": "וְאֵ֙רֶא֙ וְאֵ֣ין אִ֔ישׁ וּמֵאֵ֖לֶּה וְאֵ֣ין יוֹעֵ֑ץ וְאֶשְׁאָלֵ֖ם וְיָשִׁ֥יבוּ דָבָֽר׃",
+    "transliteration": "ve'ere' ve'eyn 'iysh vme'eleh ve'eyn yvo'ets ve'eshe'alem veyashiyvv davar.",
     "translation": "E verei, e não havia homem; destes, não havia conselheiro; e lhes perguntaria, e responderiam palavra."
   },
   {
     "verse": 29,
     "original": "הֵ֣ן כֻּלָּ֔ם אָ֥וֶן אֶ֖פֶס מַעֲשֵׂיהֶ֑ם ר֥וּחַ וָתֹ֖הוּ נִסְכֵּיהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hen khulam 'aven 'efes ma'aseyhem rvha vatohv nisekheyhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eis que todos são vaidade, seus feitos são nada; suas oferendas, vento e vaidade."
   }
 ]

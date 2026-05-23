@@ -2,121 +2,145 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֣ר שָׁא֗וּל אֶל־יוֹנָתָ֤ן בְּנוֹ֙ וְאֶל־כׇּל־עֲבָדָ֔יו לְהָמִ֖ית אֶת־דָּוִ֑ד וִיהֽוֹנָתָן֙ בֶּן־שָׁא֔וּל חָפֵ֥ץ בְּדָוִ֖ד מְאֹֽד׃",
+    "transliteration": "vayedaver sha'vl 'el-yvonatan venvo ve'el-khol-'avadayv lehamiyt 'et-david viyhvonatan ven-sha'vl hafets vedavid me'od.",
     "translation": "E Saul falou a Jonatan, seu filho, e a todos os seus servos, para matar Davi; mas Jonatan, filho de Saul, amava muito a Davi."
   },
   {
     "verse": 2,
     "original": "וַיַּגֵּ֤ד יְהֽוֹנָתָן֙ לְדָוִ֣ד לֵאמֹ֔ר מְבַקֵּ֛שׁ שָׁא֥וּל אָבִ֖י לַהֲמִיתֶ֑ךָ וְעַתָּה֙ הִשָּׁמֶר־נָ֣א בַבֹּ֔קֶר וְיָשַׁבְתָּ֥ בַסֵּ֖תֶר וְנַחְבֵּֽאתָ׃",
+    "transliteration": "vayaged yehvonatan ledavid le'mor mevakesh sha'vl 'aviy lahamiytekha ve'atah hishamer-na' vavoker veyashaveta vaseter venaheve'ta.",
     "translation": "E Jonatas disse a Davi: \"Meu pai Saúl busca te matar. Agora, por favor, guarda-te pela manhã e esconde-te no esconderijo para que possas te esconder.\""
   },
   {
     "verse": 3,
     "original": "וַאֲנִ֨י אֵצֵ֜א וְעָמַדְתִּ֣י לְיַד־אָבִ֗י בַּשָּׂדֶה֙ אֲשֶׁ֣ר אַתָּ֣ה שָׁ֔ם וַאֲנִ֕י אֲדַבֵּ֥ר בְּךָ֖ אֶל־אָבִ֑י וְרָאִ֥יתִי מָ֖ה וְהִגַּ֥דְתִּי לָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'aniy 'etse' ve'amadetiy leyad-'aviy vasadeh 'asher 'atah sham va'aniy 'adaver vekha 'el-'aviy vera'iytiy mah vehigadetiy lakhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E eu sairei e ficarei junto ao meu pai no campo onde você estiver, e eu falarei sobre você ao meu pai, e verei o que acontecerá e lhe contarei."
   },
   {
     "verse": 4,
     "original": "וַיְדַבֵּ֨ר יְהוֹנָתָ֤ן בְּדָוִד֙ ט֔וֹב אֶל־שָׁא֖וּל אָבִ֑יו וַיֹּ֣אמֶר אֵ֠לָ֠יו אַל־יֶחֱטָ֨א הַמֶּ֜לֶךְ בְּעַבְדּ֣וֹ בְדָוִ֗ד כִּ֣י ל֤וֹא חָטָא֙ לָ֔ךְ וְכִ֥י מַעֲשָׂ֖יו טוֹב־לְךָ֥ מְאֹֽד׃",
+    "transliteration": "vayedaver yehvonatan vedavid tvov 'el-sha'vl 'aviyv vayo'mer 'elayv 'al-yeheta' hamelekhe ve'avedvo vedavid khiy lvo' hata' lakhe vekhiy ma'asayv tvov-lekha me'od.",
     "translation": "E Jonatas falou bem de Davi a Saul, seu pai, e disse-lhe: \"Que o rei não peque contra o seu servo Davi; pois ele não lhe fez mal, antes, suas ações têm sido muito boas para ti.\""
   },
   {
     "verse": 5,
     "original": "וַיָּ֩שֶׂם֩ אֶת־נַפְשׁ֨וֹ בְכַפּ֜וֹ וַיַּ֣ךְ אֶת־הַפְּלִשְׁתִּ֗י וַיַּ֨עַשׂ יְהֹוָ֜ה תְּשׁוּעָ֤ה גְדוֹלָה֙ לְכׇל־יִשְׂרָאֵ֔ל רָאִ֖יתָ וַתִּשְׂמָ֑ח וְלָ֤מָּה תֶֽחֱטָא֙ בְּדָ֣ם נָקִ֔י לְהָמִ֥ית אֶת־דָּוִ֖ד חִנָּֽם׃",
+    "transliteration": "vayasem 'et-nafeshvo vekhafvo vayakhe 'et-hafelishetiy vaya'as yehovah teshv'ah gedvolah lekhol-yisera'el ra'iyta vatisemah velamah teheta' vedam nakiy lehamiyt 'et-david hinam.",
     "translation": "E pôs sua alma em sua mão e feriu o filisteu; e o Senhor operou uma grande salvação para todo Israel; tu viste, e te alegaste. Por que pecas com sangue inocente, matando a Davi sem causa?"
   },
   {
     "verse": 6,
     "original": "וַיִּשְׁמַ֥ע שָׁא֖וּל בְּק֣וֹל יְהוֹנָתָ֑ן וַיִּשָּׁבַ֣ע שָׁא֔וּל חַי־יְהֹוָ֖ה אִם־יוּמָֽת׃",
+    "transliteration": "vayishema' sha'vl vekvol yehvonatan vayishava' sha'vl hay-yehovah 'im-yvmat.",
     "translation": "E Saul ouviu a voz de Jônatas, e Saul jurou: Vivo o Senhor, ele morrerá!"
   },
   {
     "verse": 7,
     "original": "וַיִּקְרָ֤א יְהוֹנָתָן֙ לְדָוִ֔ד וַיַּגֶּד־לוֹ֙ יְה֣וֹנָתָ֔ן אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיָּבֵ֨א יְהוֹנָתָ֤ן אֶת־דָּוִד֙ אֶל־שָׁא֔וּל וַיְהִ֥י לְפָנָ֖יו כְּאֶתְמ֥וֹל שִׁלְשֽׁוֹם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayikera' yehvonatan ledavid vayaged-lvo yehvonatan 'et khol-hadevariym ha'eleh vayave' yehvonatan 'et-david 'el-sha'vl vayehiy lefanayv khe'etemvol shileshvom.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Jonatã chamou a Davi, e Jonatã contou-lhe todas essas palavras. E Jonatã trouxe Davi até Saul, e ele se tornou diante dele como ontem e anteontem."
   },
   {
     "verse": 8,
     "original": "וַתּ֥וֹסֶף הַמִּלְחָמָ֖ה לִֽהְי֑וֹת וַיֵּצֵ֨א דָוִ֜ד וַיִּלָּ֣חֶם בַּפְּלִשְׁתִּ֗ים וַיַּ֤ךְ בָּהֶם֙ מַכָּ֣ה גְדוֹלָ֔ה וַיָּנֻ֖סוּ מִפָּנָֽיו׃",
+    "transliteration": "vatvosef hamilehamah liheyvot vayetse' david vayilahem vafelishetiym vayakhe vahem makhah gedvolah vayanusv mifanayv.",
     "translation": "E a guerra se prolongou, e Davi saiu e batalhou contra os filisteus, ferindo-os com grande derrota, e eles fugiram diante dele."
   },
   {
     "verse": 9,
     "original": "וַתְּהִי֩ ר֨וּחַ יְהֹוָ֤ה&thinsp;<small>׀</small>&thinsp;רָעָה֙ אֶל־שָׁא֔וּל וְהוּא֙ בְּבֵית֣וֹ יֹשֵׁ֔ב וַחֲנִית֖וֹ בְּיָד֑וֹ וְדָוִ֖ד מְנַגֵּ֥ן בְּיָֽד׃",
+    "transliteration": "vatehiy rvha yehovah&thinsp;<small>|</small>&thinsp;ra'ah 'el-sha'vl vehv' veveytvo yoshev vahaniytvo veyadvo vedavid menagen veyad.",
     "translation": "E veio sobre Saul um espírito maligno do Senhor, e ele estava em sua casa, sentado, e a lâmina em sua mão; e Davi tocava com sua mão."
   },
   {
     "verse": 10,
     "original": "וַיְבַקֵּ֨שׁ שָׁא֜וּל לְהַכּ֤וֹת בַּֽחֲנִית֙ בְּדָוִ֣ד וּבַקִּ֔יר וַיִּפְטַר֙ מִפְּנֵ֣י שָׁא֔וּל וַיַּ֥ךְ אֶֽת־הַחֲנִ֖ית בַּקִּ֑יר וְדָוִ֛ד נָ֥ס וַיִּמָּלֵ֖ט בַּלַּ֥יְלָה הֽוּא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayevakesh sha'vl lehakhvot vahaniyt vedavid vvakiyr vayifetar mifeney sha'vl vayakhe 'et-hahaniyt vakiyr vedavid nas vayimalet valayelah hv'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Saul procurou ferir Davi com a jabina, mas ele se desviou dele; e golpeou com a jabina a parede. E Davi escapou e fugiu naquela noite."
   },
   {
     "verse": 11,
     "original": "וַיִּשְׁלַח֩ שָׁא֨וּל מַלְאָכִ֜ים אֶל־בֵּ֤ית דָּוִד֙ לְשׇׁמְר֔וֹ וְלַהֲמִית֖וֹ בַּבֹּ֑קֶר וַתַּגֵּ֣ד לְדָוִ֗ד מִיכַ֤ל אִשְׁתּוֹ֙ לֵאמֹ֔ר אִם־אֵ֨ינְךָ֜ מְמַלֵּ֤ט אֶֽת־נַפְשְׁךָ֙ הַלַּ֔יְלָה מָחָ֖ר אַתָּ֥ה מוּמָֽת׃",
+    "transliteration": "vayishelah sha'vl male'akhiym 'el-veyt david leshomervo velahamiytvo vavoker vataged ledavid miykhal 'ishetvo le'mor 'im-'eynekha memalet 'et-nafeshekha halayelah mahar 'atah mvmat.",
     "translation": "E Saul enviou mensageiros à casa de Davi para guardá-lo e matá-lo pela manhã; contudo, Mical, sua esposa, o informou: \"Se tua alma não se salvar esta noite, certamente morrerás amanhã.\""
   },
   {
     "verse": 12,
     "original": "וַתֹּ֧רֶד מִיכַ֛ל אֶת־דָּוִ֖ד בְּעַ֣ד הַחַלּ֑וֹן וַיֵּ֥לֶךְ וַיִּבְרַ֖ח וַיִּמָּלֵֽט׃",
+    "transliteration": "vatored miykhal 'et-david ve'ad hahalvon vayelekhe vayiverah vayimalet.",
     "translation": "E Mical desceu Davi pela janela, e ele fugiu e escapou."
   },
   {
     "verse": 13,
     "original": "וַתִּקַּ֨ח מִיכַ֜ל אֶת־הַתְּרָפִ֗ים וַתָּ֙שֶׂם֙ אֶל־הַמִּטָּ֔ה וְאֵת֙ כְּבִ֣יר הָעִזִּ֔ים שָׂ֖מָה מְרַאֲשֹׁתָ֑יו וַתְּכַ֖ס בַּבָּֽגֶד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vatikah miykhal 'et-haterafiym vatasem 'el-hamitah ve'et kheviyr ha'iziym samah mera'ashotayv vatekhas vavaged.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Mical tomou os terafins e os colocou na cama; pôs sobre eles a pele de cabra e cobriu com o manto."
   },
   {
     "verse": 14,
     "original": "וַיִּשְׁלַ֥ח שָׁא֛וּל מַלְאָכִ֖ים לָקַ֣חַת אֶת־דָּוִ֑ד וַתֹּ֖אמֶר חֹלֶ֥ה הֽוּא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayishelah sha'vl male'akhiym lakahat 'et-david vato'mer holeh hv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Saul enviou mensageiros para pegar Davi, e disseram: Ele está doente."
   },
   {
     "verse": 15,
     "original": "וַיִּשְׁלַ֤ח שָׁאוּל֙ אֶת־הַמַּלְאָכִ֔ים לִרְא֥וֹת אֶת־דָּוִ֖ד לֵאמֹ֑ר הַעֲל֨וּ אֹת֧וֹ בַמִּטָּ֛ה אֵלַ֖י לַהֲמִתֽוֹ׃",
+    "transliteration": "vayishelah sha'vl 'et-hamale'akhiym lire'vot 'et-david le'mor ha'alv 'otvo vamitah 'elay lahamitvo.",
     "translation": "E Saul enviou mensageiros para verem a Davi, dizendo: Levem-no numa cama até mim para que eu o mate."
   },
   {
     "verse": 16,
     "original": "וַיָּבֹ֙אוּ֙ הַמַּלְאָכִ֔ים וְהִנֵּ֥ה הַתְּרָפִ֖ים אֶל־הַמִּטָּ֑ה וּכְבִ֥יר הָעִזִּ֖ים מְרַאֲשֹׁתָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayavo'v hamale'akhiym vehineh haterafiym 'el-hamitah vkheviyr ha'iziym mera'ashotayv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os anjos chegaram, e eis que os trapézios estavam sobre o leito, e a cabeça do bode maior estava sobre eles."
   },
   {
     "verse": 17,
     "original": "וַיֹּ֨אמֶר שָׁא֜וּל אֶל־מִיכַ֗ל לָ֤מָּה כָּ֙כָה֙ רִמִּיתִ֔נִי וַתְּשַׁלְּחִ֥י אֶת־אֹיְבִ֖י וַיִּמָּלֵ֑ט וַתֹּ֤אמֶר מִיכַל֙ אֶל־שָׁא֔וּל הוּא־אָמַ֥ר אֵלַ֛י שַׁלְּחִ֖נִי לָמָ֥ה אֲמִיתֵֽךְ׃",
+    "transliteration": "vayo'mer sha'vl 'el-miykhal lamah khakhah rimiytiniy vateshalehiy 'et-'oyeviy vayimalet vato'mer miykhal 'el-sha'vl hv'-'amar 'elay shalehiniy lamah 'amiytekhe.",
     "translation": "E disse Saul a Mical: Por que me enganaste assim, e enviaste o meu inimigo, que escapou? E Mical respondeu a Saul: Ele disse a mim: Envia-me; por que deves matar-te?"
   },
   {
     "verse": 18,
     "original": "וְדָוִ֨ד בָּרַ֜ח וַיִּמָּלֵ֗ט וַיָּבֹ֤א אֶל־שְׁמוּאֵל֙ הָרָמָ֔תָה וַיַּ֨גֶּד־ל֔וֹ אֵ֛ת כׇּל־אֲשֶׁ֥ר עָֽשָׂה־ל֖וֹ שָׁא֑וּל וַיֵּ֤לֶךְ הוּא֙ וּשְׁמוּאֵ֔ל וַיֵּשְׁב֖וּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בנוית)</span> <span class=\"mam-kq-q\">[בְּנָיֽוֹת]</span></span>׃",
+    "transliteration": "vedavid varah vayimalet vayavo' 'el-shemv'el haramatah vayaged-lvo 'et khol-'asher 'asah-lvo sha'vl vayelekhe hv' vshemv'el vayeshevv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnvyt)</span> <span class=\"mam-kq-q\">[venayvot]</span></span>.",
     "translation": "E Davi fugiu e escapou, e veio a Ramá ter com Samuel. E contou-lhe tudo o que Saul lhe fizera; e ele e Samuel foram-se assentar em Benjamim."
   },
   {
     "verse": 19,
     "original": "וַיֻּגַּ֥ד לְשָׁא֖וּל לֵאמֹ֑ר הִנֵּ֣ה דָוִ֔ד <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בנוית)</span> <span class=\"mam-kq-q\">[בְּנָי֖וֹת]</span></span> בָּרָמָֽה׃",
+    "transliteration": "vayugad lesha'vl le'mor hineh david <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnvyt)</span> <span class=\"mam-kq-q\">[venayvot]</span></span> varamah.",
     "translation": "E foi dito a Saul: Eis que Davi está em Benaias, em Ramá."
   },
   {
     "verse": 20,
     "original": "וַיִּשְׁלַ֨ח שָׁא֣וּל מַלְאָכִים֮ לָקַ֣חַת אֶת־דָּוִד֒ וַיַּ֗רְא אֶֽת־לַהֲקַ֤ת הַנְּבִיאִים֙ נִבְּאִ֔ים וּשְׁמוּאֵ֕ל עֹמֵ֥ד נִצָּ֖ב עֲלֵיהֶ֑ם וַתְּהִ֞י עַֽל־מַלְאֲכֵ֤י שָׁאוּל֙ ר֣וּחַ אֱלֹהִ֔ים וַיִּֽתְנַבְּא֖וּ גַּם־הֵֽמָּה׃",
+    "transliteration": "vayishelah sha'vl male'akhiym lakahat 'et-david vayare' 'et-lahakat haneviy'iym nive'iym vshemv'el 'omed nitsav 'aleyhem vatehiy 'al-male'akhey sha'vl rvha 'elohiym vayitenave'v gam-hemah.",
     "translation": "E Saul enviou mensageiros para pegar Davi, e viu a congregação dos profetas profetizando, e Samuel de pé sobre eles como mestre. Então veio sobre os mensageiros de Saul o espírito de Deus, e também eles profetizaram."
   },
   {
     "verse": 21,
     "original": "וַיַּגִּ֣דוּ לְשָׁא֗וּל וַיִּשְׁלַח֙ מַלְאָכִ֣ים אֲחֵרִ֔ים וַיִּֽתְנַבְּא֖וּ גַּם־הֵ֑מָּה&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיֹּ֣סֶף שָׁא֗וּל וַיִּשְׁלַח֙ מַלְאָכִ֣ים שְׁלִשִׁ֔ים וַיִּֽתְנַבְּא֖וּ גַּם־הֵֽמָּה׃",
+    "transliteration": "vayagidv lesha'vl vayishelah male'akhiym 'aheriym vayitenave'v gam-hemah&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vayosef sha'vl vayishelah male'akhiym shelishiym vayitenave'v gam-hemah.",
     "translation": "E foram dizer a Saul, e ele enviou outros mensageiros; estes também profetizaram.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saul ainda acrescentou e enviou mensageiros pela terceira vez, e eles também profetizaram."
   },
   {
     "verse": 22,
     "original": "וַיֵּ֨לֶךְ גַּם־ה֜וּא הָרָמָ֗תָה וַיָּבֹא֙ עַד־בּ֤וֹר הַגָּדוֹל֙ אֲשֶׁ֣ר בַּשֶּׂ֔כוּ וַיִּשְׁאַ֣ל וַיֹּ֔אמֶר אֵיפֹ֥ה שְׁמוּאֵ֖ל וְדָוִ֑ד וַיֹּ֕אמֶר הִנֵּ֖ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בנוית)</span> <span class=\"mam-kq-q\">[בְּנָי֥וֹת]</span></span> בָּרָמָֽה׃",
+    "transliteration": "vayelekhe gam-hv' haramatah vayavo' 'ad-vvor hagadvol 'asher vasekhv vayishe'al vayo'mer 'eyfoh shemv'el vedavid vayo'mer hineh <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnvyt)</span> <span class=\"mam-kq-q\">[venayvot]</span></span> varamah.",
     "translation": "E também subiu a Ramá e chegou até o grande poço que está em Secho, e perguntou: \"Onde estão Samuel e Davi?\" E disse: \"Eis que estão em Bneiot, em Ramá.\""
   },
   {
     "verse": 23,
     "original": "וַיֵּ֣לֶךְ שָׁ֔ם אֶל־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[נָי֖וֹת]</span> <span class=\"mam-kq-k\">(נוית)</span></span> בָּרָמָ֑ה וַתְּהִי֩ עָלָ֨יו גַּם־ה֜וּא ר֣וּחַ אֱלֹהִ֗ים וַיֵּ֤לֶךְ הָלוֹךְ֙ וַיִּתְנַבֵּ֔א עַד־בֹּא֖וֹ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בנוית)</span> <span class=\"mam-kq-q\">[בְּנָי֥וֹת]</span></span> בָּרָמָֽה׃",
+    "transliteration": "vayelekhe sham 'el-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[nayvot]</span> <span class=\"mam-kq-k\">(nvyt)</span></span> varamah vatehiy 'alayv gam-hv' rvha 'elohiym vayelekhe halvokhe vayitenave' 'ad-vo'vo <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnvyt)</span> <span class=\"mam-kq-q\">[venayvot]</span></span> varamah.",
     "translation": "E foi para lá, até Naioth em Ramá, e sobre ele também veio o Espírito de Deus, e ele seguiu profetizando até chegar a Benaiot em Ramá."
   },
   {
     "verse": 24,
     "original": "וַיִּפְשַׁ֨ט גַּם־ה֜וּא בְּגָדָ֗יו וַיִּתְנַבֵּ֤א גַם־הוּא֙ לִפְנֵ֣י שְׁמוּאֵ֔ל וַיִּפֹּ֣ל עָרֹ֔ם כׇּל־הַיּ֥וֹם הַה֖וּא וְכׇל־הַלָּ֑יְלָה עַל־כֵּן֙ יֹֽאמְר֔וּ הֲגַ֥ם שָׁא֖וּל בַּנְּבִיאִֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayifeshat gam-hv' vegadayv vayitenave' gam-hv' lifeney shemv'el vayifol 'arom khol-hayvom hahv' vekhol-halayelah 'al-khen yo'merv hagam sha'vl vaneviy'im.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E também ele se despojou das vestes e profetizou diante de Samuel. Despido, caiu durante todo o dia e toda a noite. Por isso dizem: Acaso Saul está entre os profetas?"
   }
 ]

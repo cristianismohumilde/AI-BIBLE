@@ -2,106 +2,127 @@
   {
     "verse": 1,
     "original": "וַיִּ֨מְלׇךְ־מֶ֔לֶךְ צִדְקִיָּ֖הוּ בֶּן־יֹאשִׁיָּ֑הוּ תַּ֗חַת כָּנְיָ֙הוּ֙ בֶּן־יְה֣וֹיָקִ֔ים אֲשֶׁ֥ר הִמְלִ֛יךְ נְבוּכַדְרֶאצַּ֥ר מֶלֶךְ־בָּבֶ֖ל בְּאֶ֥רֶץ יְהוּדָֽה׃",
+    "transliteration": "vayimelokhe-melekhe tsidekiyahv ven-yo'shiyahv tahat khaneyahv ven-yehvoyakiym 'asher himeliykhe nevvkhadere'tsar melekhe-vavel ve'erets yehvdah.",
     "translation": "E reinou Zedequias, filho de Josias, em vez de Jeoaquim, que Nabucodonosor, rei da Babilônia, tinha estabelecido na terra de Judá."
   },
   {
     "verse": 2,
     "original": "וְלֹ֥א שָׁמַ֛ע ה֥וּא וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ אֶל־דִּבְרֵ֣י יְהֹוָ֔ה אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד יִרְמְיָ֥הוּ הַנָּבִֽיא׃",
+    "transliteration": "velo' shama' hv' va'avadayv ve'am ha'arets 'el-diverey yehovah 'asher diver veyad yiremeyahv hanaviy'.",
     "translation": "E ele e seus servos e o povo da terra não ouviram as palavras do Senhor, que foram ditas pela mão de Jeremias, o profeta."
   },
   {
     "verse": 3,
     "original": "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ אֶת־יְהוּכַ֣ל בֶּן־שֶׁלֶמְיָ֗ה וְאֶת־צְפַנְיָ֤הוּ בֶן־מַעֲשֵׂיָה֙ הַכֹּהֵ֔ן אֶל־יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹ֑ר הִתְפַּלֶּל־נָ֣א בַעֲדֵ֔נוּ אֶל־יְהֹוָ֖ה אֱלֹהֵֽינוּ׃",
+    "transliteration": "vayishelah hamelekhe tsidekiyahv 'et-yehvkhal ven-shelemeyah ve'et-tsefaneyahv ven-ma'aseyah hakhohen 'el-yiremeyahv hanaviy' le'mor hitefalel-na' va'adenv 'el-yehovah 'eloheynv.",
     "translation": "E o rei Tsidkíyahu enviou a Yehucal, filho de Shélemyahu, e a Zefanyaú, filho de Maaséyah, o sacerdote, até Jeremias, o profeta, dizendo: Rogai, por favor, em nosso lugar a YHWH, nosso Deus."
   },
   {
     "verse": 4,
     "original": "וְיִרְמְיָ֕הוּ בָּ֥א וְיֹצֵ֖א בְּת֣וֹךְ הָעָ֑ם וְלֹא־נָתְנ֥וּ אֹת֖וֹ בֵּ֥ית <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הכליא)</span> <span class=\"mam-kq-q\">[הַכְּלֽוּא]</span></span>׃",
+    "transliteration": "veyiremeyahv va' veyotse' vetvokhe ha'am velo'-natenv 'otvo veyt <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hkhly')</span> <span class=\"mam-kq-q\">[hakhelv']</span></span>.",
     "translation": "Jeremias vinha e ia no meio do povo, e não o entregaram à casa de detenção."
   },
   {
     "verse": 5,
     "original": "וְחֵ֥יל פַּרְעֹ֖ה יָצָ֣א מִמִּצְרָ֑יִם וַיִּשְׁמְע֨וּ הַכַּשְׂדִּ֜ים הַצָּרִ֤ים עַל־יְרוּשָׁלַ֙͏ִם֙ אֶת־שִׁמְעָ֔ם וַיֵּ֣עָל֔וּ מֵעַ֖ל יְרוּשָׁלָֽ͏ִם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veheyl fare'oh yatsa' mimitserayim vayisheme'v hakhasediym hatsariym 'al-yervshalaim 'et-shime'am vaye'alv me'al yervshalaim.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o exército de Faraó saiu do Egito, e os caldeus inimigos de Jerusalém ouviram a notícia e subiram contra Jerusalém."
   },
   {
     "verse": 6,
     "original": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'el-yiremeyahv hanaviy' le'mor.",
     "translation": "E foi a palavra do Senhor ao profeta Jeremias dizendo:"
   },
   {
     "verse": 7,
     "original": "כֹּה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כֹּ֤ה תֹֽאמְרוּ֙ אֶל־מֶ֣לֶךְ יְהוּדָ֔ה הַשֹּׁלֵ֧חַ אֶתְכֶ֛ם אֵלַ֖י לְדׇרְשֵׁ֑נִי הִנֵּ֣ה&thinsp;<b>׀</b> חֵ֣יל פַּרְעֹ֗ה הַיֹּצֵ֤א לָכֶם֙ לְעֶזְרָ֔ה שָׁ֥ב לְאַרְצ֖וֹ מִצְרָֽיִם׃",
+    "transliteration": "khoh-'amar yehovah 'elohey yisera'el khoh to'merv 'el-melekhe yehvdah hasholeha 'etekhem 'elay ledoresheniy hineh&thinsp;<b>|</b> heyl fare'oh hayotse' lakhem le'ezerah shav le'aretsvo mitserayim.",
     "translation": "Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá que vos enviou a mim para me consultar: Eis que o exército de Faraó que saiu contra vós em socorro retornará à sua terra do Egito."
   },
   {
     "verse": 8,
     "original": "וְשָׁ֙בוּ֙ הַכַּשְׂדִּ֔ים וְנִלְחֲמ֖וּ עַל־הָעִ֣יר הַזֹּ֑את וּלְכָדֻ֖הָ וּשְׂרָפֻ֥הָ בָאֵֽשׁ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veshavv hakhasediym venilehamv 'al-ha'iyr hazo't vlekhaduha vserafuha va'esh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os caldeus voltarão e lutarão contra esta cidade, e a tomarão e a queimarão com fogo."
   },
   {
     "verse": 9,
     "original": "כֹּ֣ה&thinsp;<b>׀</b> אָמַ֣ר יְהֹוָ֗ה אַל־תַּשִּׁ֤אוּ נַפְשֹֽׁתֵיכֶם֙ לֵאמֹ֔ר הָלֹ֛ךְ יֵלְכ֥וּ מֵעָלֵ֖ינוּ הַכַּשְׂדִּ֑ים כִּי־לֹ֖א יֵלֵֽכוּ׃",
+    "transliteration": "khoh&thinsp;<b>|</b> 'amar yehovah 'al-tashi'v nafeshoteykhem le'mor halokhe yelekhv me'aleynv hakhasediym khiy-lo' yelekhv.",
     "translation": "Assim diz o Senhor: Não se enganem, pensando que os caldeus irão embora de vocês; pois eles não partirão."
   },
   {
     "verse": 10,
     "original": "כִּ֣י אִם־הִכִּיתֶ֞ם כׇּל־חֵ֤יל כַּשְׂדִּים֙ הַנִּלְחָמִ֣ים אִתְּכֶ֔ם וְנִ֨שְׁאֲרוּ־בָ֔ם אֲנָשִׁ֖ים מְדֻקָּרִ֑ים אִ֤ישׁ בְּאׇֽהֳלוֹ֙ יָק֔וּמוּ וְשָׂ֥רְפ֛וּ אֶת־הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃",
+    "transliteration": "khiy 'im-hikhiytem khol-heyl khasediym hanilehamiym 'itekhem venishe'arv-vam 'anashiym medukariym 'iysh ve'oholvo yakvmv vesarefv 'et-ha'iyr hazo't va'esh.",
     "translation": "Pois, se feristes todo o exército dos caldeus que combatiam convosco e entre eles restaram homens mutilados, cada um levantará-se em sua tenda e incendiarão esta cidade com fogo."
   },
   {
     "verse": 11,
     "original": "וְהָיָ֗ה בְּהֵעָלוֹת֙ חֵ֣יל הַכַּשְׂדִּ֔ים מֵעַ֖ל יְרוּשָׁלָ֑͏ִם מִפְּנֵ֖י חֵ֥יל פַּרְעֹֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehayah vehe'alvot heyl hakhasediym me'al yervshalaim mifeney heyl fare'oh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E sucederá que quando o exército dos caldeus se levantar de sobre Jerusalém por causa do exército de Faraó, então sairás."
   },
   {
     "verse": 12,
     "original": "וַיֵּצֵ֤א יִרְמְיָ֙הוּ֙ מִיר֣וּשָׁלַ֔͏ִם לָלֶ֖כֶת אֶ֣רֶץ בִּנְיָמִ֑ן לַחֲלִ֥ק מִשָּׁ֖ם בְּת֥וֹךְ הָעָֽם׃",
+    "transliteration": "vayetse' yiremeyahv miyrvshalaim lalekhet 'erets vineyamin lahalik misham vetvokhe ha'am.",
     "translation": "E Jeremias saiu de Jerusalém para ir à terra de Benjamim, a fim de se separar dali no meio do povo."
   },
   {
     "verse": 13,
     "original": "וַֽיְהִי־ה֞וּא בְּשַׁ֣עַר בִּנְיָמִ֗ן וְשָׁם֙ בַּ֣עַל פְּקִדֻ֔ת וּשְׁמוֹ֙ יִרְאִיָּ֔יה בֶּן־שֶׁלֶמְיָ֖ה בֶּן־חֲנַנְיָ֑ה וַיִּתְפֹּ֞שׂ אֶֽת־יִרְמְיָ֤הוּ הַנָּבִיא֙ לֵאמֹ֔ר אֶל־הַכַּשְׂדִּ֖ים אַתָּ֥ה נֹפֵֽל׃",
+    "transliteration": "vayehiy-hv' vesha'ar vineyamin vesham va'al fekidut vshemvo yire'iyayh ven-shelemeyah ven-hananeyah vayitefos 'et-yiremeyahv hanaviy' le'mor 'el-hakhasediym 'atah nofel.",
     "translation": "E ele estava na porta de Benjamim, e lá estava o homem responsável pelas guardas, cujo nome era Iriã, filho de Selémias, filho de Hananias. E este agarrou Jeremias, o profeta, dizendo: \"Vais trair os caldeus!\"."
   },
   {
     "verse": 14,
     "original": "וַיֹּ֨אמֶר יִרְמְיָ֜הוּ שֶׁ֗קֶר אֵינֶ֤נִּי נֹפֵל֙ עַל־הַכַּשְׂדִּ֔ים וְלֹ֥א שָׁמַ֖ע אֵלָ֑יו וַיִּתְפֹּ֤שׂ יִרְאִיָּיה֙ בְּיִרְמְיָ֔הוּ וַיְבִאֵ֖הוּ אֶל־הַשָּׂרִֽים׃",
+    "transliteration": "vayo'mer yiremeyahv sheker 'eyneniy nofel 'al-hakhasediym velo' shama' 'elayv vayitefos yire'iyayh veyiremeyahv vayevi'ehv 'el-hasariym.",
     "translation": "E Jeremias disse: \"Falso é isto; eu não cairia nas mãos dos caldeus\". Mas ele não lhe deu ouvidos. E Iraia tomou Jeremias e o trouxe aos oficiais."
   },
   {
     "verse": 15,
     "original": "וַיִּקְצְפ֧וּ הַשָּׂרִ֛ים עַֽל־יִרְמְיָ֖הוּ וְהִכּ֣וּ אֹת֑וֹ וְנָתְנ֨וּ אוֹת֜וֹ בֵּ֣ית הָאֵס֗וּר בֵּ֚ית יְהוֹנָתָ֣ן הַסֹּפֵ֔ר כִּי־אֹת֥וֹ עָשׂ֖וּ לְבֵ֥ית הַכֶּֽלֶא׃",
+    "transliteration": "vayiketsefv hasariym 'al-yiremeyahv vehikhv 'otvo venatenv 'votvo veyt ha'esvr veyt yehvonatan hasofer khiy-'otvo 'asv leveyt hakhele'.",
     "translation": "E os príncipes se iraram contra Jeremias e o feriram, e o colocaram na Casa do Cárcere, na casa de Jonathan, o escriba, pois ali fizeram uma cela."
   },
   {
     "verse": 16,
     "original": "כִּ֣י בָ֧א יִרְמְיָ֛הוּ אֶל־בֵּ֥ית הַבּ֖וֹר וְאֶל־הַחֲנֻי֑וֹת וַיֵּשֶׁב־שָׁ֥ם יִרְמְיָ֖הוּ יָמִ֥ים רַבִּֽים׃",
+    "transliteration": "khiy va' yiremeyahv 'el-veyt havvor ve'el-hahanuyvot vayeshev-sham yiremeyahv yamiym raviym.",
     "translation": "Porque Jeremias entrou na casa do poço e às celas, e Jeremias ali permaneceu por muitos dias."
   },
   {
     "verse": 17,
     "original": "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ וַיִּקָּחֵ֗הוּ וַיִּשְׁאָלֵ֨הוּ הַמֶּ֤לֶךְ בְּבֵיתוֹ֙ בַּסֵּ֔תֶר וַיֹּ֕אמֶר הֲיֵ֥שׁ דָּבָ֖ר מֵאֵ֣ת יְהֹוָ֑ה וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ יֵ֔שׁ וַיֹּ֕אמֶר בְּיַ֥ד מֶלֶךְ־בָּבֶ֖ל תִּנָּתֵֽן׃",
+    "transliteration": "vayishelah hamelekhe tsidekiyahv vayikahehv vayishe'alehv hamelekhe veveytvo vaseter vayo'mer hayesh davar me'et yehovah vayo'mer yiremeyahv yesh vayo'mer veyad melekhe-vavel tinaten.",
     "translation": "E o rei Zedequias enviou e o tomou, e o rei lhe perguntou em sua casa secretamente: Há alguma palavra do Senhor? E Jeremias respondeu: Há! E disse: Com certeza, ao rei de Babilônia te entregarão."
   },
   {
     "verse": 18,
     "original": "וַיֹּ֣אמֶר יִרְמְיָ֔הוּ אֶל־הַמֶּ֖לֶךְ צִדְקִיָּ֑הוּ מֶה֩ חָטָ֨אתִֽי לְךָ֤ וְלַעֲבָדֶ֙יךָ֙ וְלָעָ֣ם הַזֶּ֔ה כִּֽי־נְתַתֶּ֥ם אוֹתִ֖י אֶל־בֵּ֥ית הַכֶּֽלֶא׃",
+    "transliteration": "vayo'mer yiremeyahv 'el-hamelekhe tsidekiyahv meh hata'tiy lekha vela'avadeykha vela'am hazeh khiy-netatem 'votiy 'el-veyt hakhele'.",
     "translation": "Jeremias disse ao rei Zedequias: \"Qual foi o meu pecado contra ti, contra teus servos e contra este povo, que me entregaste à casa da prisão?\""
   },
   {
     "verse": 19,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(ואיו)</span> <span class=\"mam-kq-q\">[וְאַיֵּה֙]</span></span> נְבִ֣יאֵיכֶ֔ם אֲשֶׁר־נִבְּא֥וּ לָכֶ֖ם לֵאמֹ֑ר לֹא־יָבֹ֤א מֶֽלֶךְ־בָּבֶל֙ עֲלֵיכֶ֔ם וְעַ֖ל הָאָ֥רֶץ הַזֹּֽאת׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'yv)</span> <span class=\"mam-kq-q\">[ve'ayeh]</span></span> neviy'eykhem 'asher-nive'v lakhem le'mor lo'-yavo' melekhe-vavel 'aleykhem ve'al ha'arets hazo't.",
     "translation": "E onde estão vossos profetas que vos predisseram, dizendo: O rei de Babilônia não virá sobre vós e sobre esta terra?"
   },
   {
     "verse": 20,
     "original": "וְעַתָּ֕ה שְֽׁמַֽע־נָ֖א אֲדֹנִ֣י הַמֶּ֑לֶךְ תִּפׇּל־נָ֤א תְחִנָּתִי֙ לְפָנֶ֔יךָ וְאַל־תְּשִׁבֵ֗נִי בֵּ֚ית יְהוֹנָתָ֣ן הַסֹּפֵ֔ר וְלֹ֥א אָמ֖וּת שָֽׁם׃",
+    "transliteration": "ve'atah shema'-na' 'adoniy hamelekhe tifol-na' tehinatiy lefaneykha ve'al-teshiveniy veyt yehvonatan hasofer velo' 'amvt sham.",
     "translation": "E agora, ouve-me, meu senhor o rei; que minha súplica caia diante de ti e não me envies à casa do escriba Yonatã, para que eu não morra lá."
   },
   {
     "verse": 21,
     "original": "וַיְצַוֶּ֞ה הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ וַיַּפְקִ֣דוּ אֶֽת־יִרְמְיָ֘הוּ֮ בַּחֲצַ֣ר הַמַּטָּרָה֒ וְנָתֹן֩ ל֨וֹ כִכַּר־לֶ֤חֶם לַיּוֹם֙ מִח֣וּץ הָאֹפִ֔ים עַד־תֹּ֥ם כׇּל־הַלֶּ֖חֶם מִן־הָעִ֑יר וַיֵּ֣שֶׁב יִרְמְיָ֔הוּ בַּחֲצַ֖ר הַמַּטָּרָֽה׃",
+    "transliteration": "vayetsaveh hamelekhe tsidekiyahv vayafekidv 'et-yiremeyahv vahatsar hamatarah venaton lvo khikhar-lehem layvom mihvts ha'ofiym 'ad-tom khol-halehem min-ha'iyr vayeshev yiremeyahv vahatsar hamatarah.",
     "translation": "E o rei Tsidkiyahu deu ordem, e Yirmeyahu foi confinado na couraça da guarda; davam-lhe um siclo de pão por dia do padeiro, até se esgotar todo o pão da cidade, e Yirmeyahu permaneceu na couraça da guarda.\n\nDetecção de necessidade de revisão:\n\nE o rei Tsidkiyahu deu ordem, e Yirmeyahu foi confinado na couraça das guardas; davam-lhe um siclo de pão por dia do forno, até se esgotar todo o pão da cidade, e Yirmeyahu permaneceu na couraça das guardas."
   }
 ]

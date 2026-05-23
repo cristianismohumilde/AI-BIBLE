@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־אַבְרָ֔ם לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ אֶל־הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ׃",
+    "transliteration": "vayo'mer yehovah 'el-'averam lekhe-lekha me'aretsekha vmimvoladetekha vmiveyt 'aviykha 'el-ha'arets 'asher 'are'ekha.",
     "translation": "E disse o Senhor a Abrão: Sai da tua terra, da tua parentada e da casa do teu pai para a terra que eu te mostrarei."
   },
   {
     "verse": 2,
     "original": "וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל וַאֲבָ֣רֶכְךָ֔ וַאֲגַדְּלָ֖ה שְׁמֶ֑ךָ וֶהְיֵ֖ה בְּרָכָֽה׃",
+    "transliteration": "ve'e'esekha legvoy gadvol va'avarekhekha va'agadelah shemekha veheyeh verakhah.",
     "translation": "E te farei uma grande nação, e te abençoarei, e engrandecerei o teu nome, e tu serás uma bênção."
   },
   {
     "verse": 3,
     "original": "וַאֲבָֽרְכָה֙ מְבָ֣רְכֶ֔יךָ וּמְקַלֶּלְךָ֖ אָאֹ֑ר וְנִבְרְכ֣וּ בְךָ֔ כֹּ֖ל מִשְׁפְּחֹ֥ת הָאֲדָמָֽה׃",
+    "transliteration": "va'avarekhah mevarekheykha vmekalelekha 'a'or veniverekhv vekha khol mishefehot ha'adamah.",
     "translation": "E abençoarei os que te abençoarem, e amaldiçoarei os que te maldiçoem; e em ti serão benditas todas as nações da terra."
   },
   {
     "verse": 4,
     "original": "וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהֹוָ֔ה וַיֵּ֥לֶךְ אִתּ֖וֹ ל֑וֹט וְאַבְרָ֗ם בֶּן־חָמֵ֤שׁ שָׁנִים֙ וְשִׁבְעִ֣ים שָׁנָ֔ה בְּצֵאת֖וֹ מֵחָרָֽן׃",
+    "transliteration": "vayelekhe 'averam kha'asher diver 'elayv yehovah vayelekhe 'itvo lvot ve'averam ven-hamesh shaniym veshive'iym shanah vetse'tvo meharan.",
     "translation": "E Abrão foi conforme lhe falou o Senhor, e partiu com ele Lot. E Abrão era de setenta e cinco anos quando saiu de Harã."
   },
   {
     "verse": 5,
     "original": "וַיִּקַּ֣ח אַבְרָם֩ אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו וְאֶת־כׇּל־רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת־הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ בְחָרָ֑ן וַיֵּצְא֗וּ לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה כְּנָֽעַן׃",
+    "transliteration": "vayikah 'averam 'et-saray 'ishetvo ve'et-lvot ven-'ahiyv ve'et-khol-rekhvsham 'asher rakhashv ve'et-hanefesh 'asher-'asv veharan vayetse'v lalekhet 'aretsah khena'an vayavo'v 'aretsah khena'an.",
     "translation": "E tomou Abrão a Sarai, sua mulher, e a Lot, filho de seu irmão, e todo o seu patrimônio que haviam adquirido, e as almas que fizeram em Harã; e saíram para irem à terra de Canaã; e entraram na terra de Canaã."
   },
   {
     "verse": 6,
     "original": "וַיַּעֲבֹ֤ר אַבְרָם֙ בָּאָ֔רֶץ עַ֚ד מְק֣וֹם שְׁכֶ֔ם עַ֖ד אֵל֣וֹן מוֹרֶ֑ה וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ׃",
+    "transliteration": "vaya'avor 'averam va'arets 'ad mekvom shekhem 'ad 'elvon mvoreh vehakhena'aniy 'az va'arets.",
     "translation": "E Abraão passou pela terra até o lugar de Schechem, até o carvalho de Moreia; e os cananeus habitavam então na terra."
   },
   {
     "verse": 7,
     "original": "וַיֵּרָ֤א יְהֹוָה֙ אֶל־אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ לַיהֹוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו׃",
+    "transliteration": "vayera' yehovah 'el-'averam vayo'mer lezare'akha 'eten 'et-ha'arets hazo't vayiven sham mizeveha layhovah hanire'eh 'elayv.",
     "translation": "E o Senhor apareceu a Abraão, e disse: À tua descendência darei esta terra. E ali ele edificou um altar ao Senhor que lhe havia aparecido."
   },
   {
     "verse": 8,
     "original": "וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית־אֵ֖ל וַיֵּ֣ט אׇהֳלֹ֑ה בֵּֽית־אֵ֤ל מִיָּם֙ וְהָעַ֣י מִקֶּ֔דֶם וַיִּֽבֶן־שָׁ֤ם מִזְבֵּ֙חַ֙ לַֽיהֹוָ֔ה וַיִּקְרָ֖א בְּשֵׁ֥ם יְהֹוָֽה׃",
+    "transliteration": "vaya'etek misham haharah mikedem leveyt-'el vayet 'oholoh veyt-'el miyam veha'ay mikedem vayiven-sham mizeveha layhovah vayikera' veshem yehovah.",
     "translation": "Emoveu-se dali para Bet-El, voltando-se para lá; e armou sua tenda sendo que Bet-El estava ao ocidente e Ai ao oriente. Ali erigiu um altar ao Senhor, invocando o nome do Senhor."
   },
   {
     "verse": 9,
     "original": "וַיִּסַּ֣ע אַבְרָ֔ם הָל֥וֹךְ וְנָס֖וֹעַ הַנֶּֽגְבָּה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayisa' 'averam halvokhe venasvo'a hanegevah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Abrão partiu, indo e viajando para o Neguebe."
   },
   {
     "verse": 10,
     "original": "וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ׃",
+    "transliteration": "vayehiy ra'av va'arets vayered 'averam mitserayemah lagvr sham khiy-khaved hara'av va'arets.",
     "translation": "E houve fome na terra, e Abraão desceu ao Egito para ali habitar temporariamente, pois a fome era muito severa na terra."
   },
   {
     "verse": 11,
     "original": "וַיְהִ֕י כַּאֲשֶׁ֥ר הִקְרִ֖יב לָב֣וֹא מִצְרָ֑יְמָה וַיֹּ֙אמֶר֙ אֶל־שָׂרַ֣י אִשְׁתּ֔וֹ הִנֵּה־נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽתְּ׃",
+    "transliteration": "vayehiy kha'asher hikeriyv lavvo' mitserayemah vayo'mer 'el-saray 'ishetvo hineh-na' yada'etiy khiy 'ishah yefat-mare'eh 'ate.",
     "translation": "E aconteceu que, quando se aproximava de chegar ao Egito, disse a Sarai, sua mulher: Eis agora, sei que és uma mulher de formosa aparência."
   },
   {
     "verse": 12,
     "original": "וְהָיָ֗ה כִּֽי־יִרְא֤וּ אֹתָךְ֙ הַמִּצְרִ֔ים וְאָמְר֖וּ אִשְׁתּ֣וֹ זֹ֑את וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽוּ׃",
+    "transliteration": "vehayah khiy-yire'v 'otakhe hamitseriym ve'amerv 'ishetvo zo't veharegv 'otiy ve'otakhe yehayv.",
     "translation": "E sucederá que, quando os egípcios te virem e disserem: 'Este é seu marido', então me matarão, mas a ti deixarão viva."
   },
   {
     "verse": 13,
     "original": "אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ לְמַ֙עַן֙ יִֽיטַב־לִ֣י בַעֲבוּרֵ֔ךְ וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽךְ׃",
+    "transliteration": "'imeriy-na' 'ahotiy 'ate lema'an yiytav-liy va'avvrekhe vehayetah nafeshiy vigelalekhe.",
     "translation": "Dize-me, ó minha irmã, porventura falaste? Pois bem-me favoreces, e a minha alma vive por ti."
   },
   {
     "verse": 14,
     "original": "וַיְהִ֕י כְּב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָה וַיִּרְא֤וּ הַמִּצְרִים֙ אֶת־הָ֣אִשָּׁ֔ה כִּֽי־יָפָ֥ה הִ֖וא מְאֹֽד׃",
+    "transliteration": "vayehiy khevvo' 'averam mitserayemah vayire'v hamitseriym 'et-ha'ishah khiy-yafah hiv' me'od.",
     "translation": "E aconteceu que, ao chegar Abraão ao Egito, os egípcios viram a mulher, pois era muito bela."
   },
   {
     "verse": 15,
     "original": "וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל־פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה׃",
+    "transliteration": "vayire'v 'otah sarey fare'oh vayehalelv 'otah 'el-fare'oh vatukah ha'ishah veyt fare'oh.",
     "translation": "Viram-na os oficiais do faraó e elogiaram-na diante dele; de modo que a moça foi levada para a casa do faraó."
   },
   {
     "verse": 16,
     "original": "וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ וַֽיְהִי־ל֤וֹ צֹאן־וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַאֲתֹנֹ֖ת וּגְמַלִּֽים׃",
+    "transliteration": "vle'averam heytiyv va'avvrah vayehiy-lvo tso'n-vvakar vahamoriym va'avadiym vshefahot va'atonot vgemaliym.",
     "translation": "E a Abraão foi favorável por sua causa, e teve rebanhos de ovelhas e bois, jumentos, servos e servas, mulas e camelos."
   },
   {
     "verse": 17,
     "original": "וַיְנַגַּ֨ע יְהֹוָ֧ה&thinsp;<small>׀</small>&thinsp;אֶת־פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת־בֵּית֑וֹ עַל־דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם׃",
+    "transliteration": "vayenaga' yehovah&thinsp;<small>|</small>&thinsp;'et-fare'oh nega'iym gedoliym ve'et-veytvo 'al-devar saray 'eshet 'averam.",
     "translation": "E o Senhor atingiu ao faraó com pragas grandes e sua casa, por causa de Sarai, mulher de Abrão."
   },
   {
     "verse": 18,
     "original": "וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה־זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא־הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא׃",
+    "transliteration": "vayikera' fare'oh le'averam vayo'mer mah-zo't 'asiyta liy lamah lo'-higadeta liy khiy 'ishetekha hiv'.",
     "translation": "E o faraó chamou Abraão e lhe disse: Que é isto que tu fizeste comigo? Por que não me disseram que ela é tua esposa?"
   },
   {
     "verse": 19,
     "original": "לָמָ֤ה אָמַ֙רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ׃",
+    "transliteration": "lamah 'amareta 'ahotiy hiv' va'ekah 'otah liy le'ishah ve'atah hineh 'ishetekha kah valekhe.",
     "translation": "Por que disseste: \"Ela é minha irmã\", e assim eu a tomei como mulher? Agora, eis que tua esposa está diante de ti; toma-a e vai."
   },
   {
     "verse": 20,
     "original": "וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַֽיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־אִשְׁתּ֖וֹ וְאֶת־כׇּל־אֲשֶׁר־לֽוֹ׃",
+    "transliteration": "vayetsav 'alayv fare'oh 'anashiym vayeshalehv 'otvo ve'et-'ishetvo ve'et-khol-'asher-lvo.",
     "translation": "Então Faraó ordenou homens que o enviaram, e sua mulher, e tudo quanto possuía."
   }
 ]

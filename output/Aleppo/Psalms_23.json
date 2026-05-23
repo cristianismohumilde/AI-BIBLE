@@ -2,31 +2,37 @@
   {
     "verse": 1,
     "original": "מִזְמ֥וֹר לְדָוִ֑ד יְהֹוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר׃",
+    "transliteration": "mizemvor ledavid yehovah ro'iy lo' 'ehesar.",
     "translation": "Salmo de Davi. O Senhor é meu pastor; nada me faltará."
   },
   {
     "verse": 2,
     "original": "בִּנְא֣וֹת דֶּ֭שֶׁא יַרְבִּיצֵ֑נִי עַל־מֵ֖י מְנֻח֣וֹת יְנַהֲלֵֽנִי׃",
+    "transliteration": "vine'vot deshe' yareviytseniy 'al-mey menuhvot yenahaleniy.",
     "translation": "Nos prados verdes me faz repousar, junto às águas tranquilas me guia."
   },
   {
     "verse": 3,
     "original": "נַפְשִׁ֥י יְשׁוֹבֵ֑ב יַֽנְחֵ֥נִי בְמַעְגְּלֵי־צֶ֝֗דֶק לְמַ֣עַן שְׁמֽוֹ׃",
+    "transliteration": "nafeshiy yeshvovev yaneheniy vema'egeley-tsedek lema'an shemvo.",
     "translation": "Minha alma inclina-se; ele me guia nos circuitos da justiça, em razão do seu nome."
   },
   {
     "verse": 4,
     "original": "גַּ֤ם כִּֽי־אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־אִ֘ירָ֤א רָ֗ע כִּי־אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃",
+    "transliteration": "gam khiy-'elekhe vegey' tsalemavet lo'-'iyra' ra' khiy-'atah 'imadiy shivetekha vmishe'anetekha hemah yenahamuniy.",
     "translation": "Ainda que eu ande na vala da sombra da morte, não temerei mal algum; pois tu estás comigo; o teu cajado e a tua vara me consolam."
   },
   {
     "verse": 5,
     "original": "תַּעֲרֹ֬ךְ לְפָנַ֨י&thinsp;<b>׀</b> שֻׁלְחָ֗ן נֶ֥גֶד צֹרְרָ֑י דִּשַּׁ֥נְתָּ בַשֶּׁ֥מֶן רֹ֝אשִׁ֗י כּוֹסִ֥י רְוָיָֽה׃",
+    "transliteration": "ta'arokhe lefanay&thinsp;<b>|</b> shulehan neged tsoreray dishaneta vashemen ro'shiy khvosiy revayah.",
     "translation": "Prepararás à minha frente uma mesa contra os meus inimigos; ungiu com óleo a minha cabeça, e a minha taça transborda."
   },
   {
     "verse": 6,
     "original": "אַ֤ךְ&thinsp;<b>׀</b> ט֤וֹב וָחֶ֣סֶד יִ֭רְדְּפוּנִי כׇּל־יְמֵ֣י חַיָּ֑י וְשַׁבְתִּ֥י בְּבֵית־יְ֝הֹוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'akhe&thinsp;<b>|</b> tvov vahesed yiredefvniy khol-yemey hayay veshavetiy veveyt-yehovah le'orekhe yamiym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Contudo, bondade e misericórdia me perseguirão todos os dias da minha vida; habitarei na casa do Senhor por longos anos."
   }
 ]

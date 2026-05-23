@@ -2,186 +2,223 @@
   {
     "verse": 1,
     "original": "וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃",
+    "transliteration": "ve'eleh hamishefatiym 'asher tasiym lifeneyhem.",
     "translation": "E estes são os decretos que tu lhes porás diante."
   },
   {
     "verse": 2,
     "original": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחׇפְשִׁ֖י חִנָּֽם׃",
+    "transliteration": "khiy tikeneh 'eved 'iveriy shesh shaniym ya'avod vvashevi'it yetse' lahofeshiy hinam.",
     "translation": "Porque se comprares um escravo hebreu, seis anos ele servirá; e na sétima será liberado gratuitamente."
   },
   {
     "verse": 3,
     "original": "אִם־בְּגַפּ֥וֹ יָבֹ֖א בְּגַפּ֣וֹ יֵצֵ֑א אִם־בַּ֤עַל אִשָּׁה֙ ה֔וּא וְיָצְאָ֥ה אִשְׁתּ֖וֹ עִמּֽוֹ׃",
+    "transliteration": "'im-vegafvo yavo' vegafvo yetse' 'im-va'al 'ishah hv' veyatse'ah 'ishetvo 'imvo.",
     "translation": "Se entrará nela com o corpo, com o corpo sairá; se for marido de mulher, sua mulher sairá com ele."
   },
   {
     "verse": 4,
     "original": "אִם־אֲדֹנָיו֙ יִתֶּן־ל֣וֹ אִשָּׁ֔ה וְיָלְדָה־ל֥וֹ בָנִ֖ים א֣וֹ בָנ֑וֹת הָאִשָּׁ֣ה וִילָדֶ֗יהָ תִּהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א בְגַפּֽוֹ׃",
+    "transliteration": "'im-'adonayv yiten-lvo 'ishah veyaledah-lvo vaniym 'vo vanvot ha'ishah viyladeyha tiheyeh la'doneyha vehv' yetse' vegafvo.",
     "translation": "Se o seu senhor lhe der uma mulher e ela lhe der filhos ou filhas, a mulher e os seus filhos serão do seu senhor, mas ele sairá sozinho."
   },
   {
     "verse": 5,
     "original": "וְאִם־אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֙בְתִּי֙ אֶת־אֲדֹנִ֔י אֶת־אִשְׁתִּ֖י וְאֶת־בָּנָ֑י לֹ֥א אֵצֵ֖א חׇפְשִֽׁי׃",
+    "transliteration": "ve'im-'amor yo'mar ha'eved 'ahavetiy 'et-'adoniy 'et-'ishetiy ve'et-vanay lo' 'etse' hofeshiy.",
     "translation": "E se o servo disser: Amo ao meu senhor, à minha mulher e aos meus filhos; não sairei livre."
   },
   {
     "verse": 6,
     "original": "וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים וְהִגִּישׁוֹ֙ אֶל־הַדֶּ֔לֶת א֖וֹ אֶל־הַמְּזוּזָ֑ה וְרָצַ֨ע אֲדֹנָ֤יו אֶת־אׇזְנוֹ֙ בַּמַּרְצֵ֔עַ וַעֲבָד֖וֹ לְעֹלָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehigiyshvo 'adonayv 'el-ha'elohiym vehigiyshvo 'el-hadelet 'vo 'el-hamezvzah veratsa' 'adonayv 'et-'ozenvo vamaretse'a va'avadvo le'olam.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E seu senhor o levará diante dos deuses, e o levará à porta ou ao postigo, e seu senhor furará sua orelha com a perfuratriz, e ele servirá para sempre."
   },
   {
     "verse": 7,
     "original": "וְכִֽי־יִמְכֹּ֥ר אִ֛ישׁ אֶת־בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃",
+    "transliteration": "vekhiy-yimekhor 'iysh 'et-vitvo le'amah lo' tetse' khetse't ha'avadiym.",
     "translation": "E quando um homem vender sua filha como serva, ela não sairá conforme a saída dos servos."
   },
   {
     "verse": 8,
     "original": "אִם־רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ל֥וֹ]</span> <span class=\"mam-kq-k\">(לא)</span></span> יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נׇכְרִ֛י לֹא־יִמְשֹׁ֥ל לְמׇכְרָ֖הּ בְּבִגְדוֹ־בָֽהּ׃",
+    "transliteration": "'im-ra'ah ve'eyney 'adoneyha 'asher-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[lvo]</span> <span class=\"mam-kq-k\">(l')</span></span> ye'adah vehefedah le'am nokheriy lo'-yimeshol lemokherah vevigedvo-vah.",
     "translation": "Se for repugnante aos olhos de seu senhor que ela tenha sido comprometida, então ele lhe dará liberdade por dinheiro; a outorgá-la à posse de um estranho não a venderá, já que ele a ultrajou."
   },
   {
     "verse": 9,
     "original": "וְאִם־לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־לָּֽהּ׃",
+    "transliteration": "ve'im-livenvo yiy'adenah khemishefat havanvot ya'aseh-lah.",
     "translation": "E se ele a destinar ao seu filho, agirá em relação a ela conforme o direito das filhas."
   },
   {
     "verse": 10,
     "original": "אִם־אַחֶ֖רֶת יִֽקַּֽח־ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃",
+    "transliteration": "'im-'aheret yikah-lvo she'erah khesvtah ve'onatah lo' yigera'.",
     "translation": "Se tomar outra, ela manterá sua roupa e seu direito conjugal, não diminuirá."
   },
   {
     "verse": 11,
     "original": "וְאִ֨ם־שְׁלׇשׁ־אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'im-shelosh-'eleh lo' ya'aseh lah veyatse'ah hinam 'eyn khasef.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E se estes três ela não fizer, sairá sem dote, sem pagamento."
   },
   {
     "verse": 12,
     "original": "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃",
+    "transliteration": "makheh 'iysh vamet mvot yvmat.",
     "translation": "Quem ferir alguém e esta morrer, será morto."
   },
   {
     "verse": 13,
     "original": "וַאֲשֶׁר֙ לֹ֣א צָדָ֔ה וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָד֑וֹ וְשַׂמְתִּ֤י לְךָ֙ מָק֔וֹם אֲשֶׁ֥ר יָנ֖וּס שָֽׁמָּה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'asher lo' tsadah veha'elohiym 'inah leyadvo vesametiy lekha makvom 'asher yanvs shamah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E que não apontou, e Deus inclinou à sua mão; e porei para ti lugar onde se refugiará ali."
   },
   {
     "verse": 14,
     "original": "וְכִֽי־יָזִ֥ד אִ֛ישׁ עַל־רֵעֵ֖הוּ לְהׇרְג֣וֹ בְעׇרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vekhiy-yazid 'iysh 'al-re'ehv lehoregvo ve'oremah me'im mizevehiy tikahenv lamvt.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E se um homem deliberadamente ferir seu próximo de forma tramada, você o arrancará do meu altar para morrer."
   },
   {
     "verse": 15,
     "original": "וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vmakheh 'aviyv ve'imvo mvot yvmat.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quem ferir seu pai ou sua mãe, certamente morrerá."
   },
   {
     "verse": 16,
     "original": "וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vegonev 'iysh vmekharvo venimetsa' veyadvo mvot yvmat.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quem furtar alguém e o vender, se for achado em sua mão, morrerá."
   },
   {
     "verse": 17,
     "original": "וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vmekalel 'aviyv ve'imvo mvot yvmat.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quem amaldiçoar seu pai ou sua mãe certamente morrerá."
   },
   {
     "verse": 18,
     "original": "וְכִֽי־יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־אִישׁ֙ אֶת־רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃",
+    "transliteration": "vekhiy-yeriyvun 'anashiym vehikhah-'iysh 'et-re'ehv ve'even 'vo ve'egerof velo' yamvt venafal lemishekhav.",
     "translation": "E quando homens se contendassem, e um ferisse o seu companheiro com pedra ou punho, e ele não morresse, mas caísse sobre leito."
   },
   {
     "verse": 19,
     "original": "אִם־יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-yakvm vehitehalekhe vahvts 'al-mishe'anetvo venikah hamakheh rak shivetvo yiten verafo' yerafe'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se ele puder levantar e sair, apoiado em sua muleta, o que o feriu será inocentemente absolvido; apenas pagará a perda do tempo e providenciará a cura."
   },
   {
     "verse": 20,
     "original": "וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃",
+    "transliteration": "vekhiy-yakheh 'iysh 'et-'avedvo 'vo 'et-'amatvo vashevet vmet tahat yadvo nakom yinakem.",
     "translation": "E se um homem ferir seu servo ou sua serva com cetro, e morrer debaixo da sua mão, certamente será vingado."
   },
   {
     "verse": 21,
     "original": "אַ֥ךְ אִם־י֛וֹם א֥וֹ יוֹמַ֖יִם יַעֲמֹ֑ד לֹ֣א יֻקַּ֔ם כִּ֥י כַסְפּ֖וֹ הֽוּא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'akhe 'im-yvom 'vo yvomayim ya'amod lo' yukam khiy khasefvo hv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Mas se permanecer um dia ou dois, não será indenizado, pois é o seu dinheiro."
   },
   {
     "verse": 22,
     "original": "וְכִֽי־יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃",
+    "transliteration": "vekhiy-yinatsv 'anashiym venagefv 'ishah harah veyatse'v yeladeyha velo' yiheyeh 'asvon 'anvosh ye'anesh kha'asher yashiyt 'alayv va'al ha'ishah venatan vifeliliym.",
     "translation": "E quando homens brigarem e ferirem uma mulher grávida, fazendo que seus frutos saiam, mas não houver dano maior, ele será castigado conforme o marido da mulher lhe disser; e darão [a sentença] os juízes."
   },
   {
     "verse": 23,
     "original": "וְאִם־אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃",
+    "transliteration": "ve'im-'asvon yiheyeh venatatah nefesh tahat nafesh.",
     "translation": "E se houver um azar, darás alma por alma."
   },
   {
     "verse": 24,
     "original": "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃",
+    "transliteration": "'ayin tahat 'ayin shen tahat shen yad tahat yad regel tahat ragel.",
     "translation": "Olho por olho, dente por dente, mão por mão, pé por pé."
   },
   {
     "verse": 25,
     "original": "כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "kheviyah tahat kheviyah fetsa' tahat fatsa' havvrah tahat havvrah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Vidança por vidança, ferida por ferida, cicatriz por cicatriz."
   },
   {
     "verse": 26,
     "original": "וְכִֽי־יַכֶּ֨ה אִ֜ישׁ אֶת־עֵ֥ין עַבְדּ֛וֹ אֽוֹ־אֶת־עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחׇפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃",
+    "transliteration": "vekhiy-yakheh 'iysh 'et-'eyn 'avedvo 'vo-'et-'eyn 'amatvo veshihatah lahofeshiy yeshalehenv tahat 'eynvo.",
     "translation": "E quando um homem ferir o olho do seu servo ou o olho da sua serva, e o deteriorar, ele os libertará em compensação pelo olho."
   },
   {
     "verse": 27,
     "original": "וְאִם־שֵׁ֥ן עַבְדּ֛וֹ אֽוֹ־שֵׁ֥ן אֲמָת֖וֹ יַפִּ֑יל לַֽחׇפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת שִׁנּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-shen 'avedvo 'vo-shen 'amatvo yafiyl lahofeshiy yeshalehenv tahat shinvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se seu servo ou sua serva perder um dente, libertá-lo-á em compensação pelo dente."
   },
   {
     "verse": 28,
     "original": "וְכִֽי־יִגַּ֨ח שׁ֥וֹר אֶת־אִ֛ישׁ א֥וֹ אֶת־אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃",
+    "transliteration": "vekhiy-yigah shvor 'et-'iysh 'vo 'et-'ishah vamet sakvol yisakel hashvor velo' ye'akhel 'et-vesarvo vva'al hashvor nakiy.",
     "translation": "E se um boi esmagar um homem ou uma mulher e eles morrerem, apedrejar-se-á o boi, e não se comerá a sua carne; mas o dono do boi ficará isento."
   },
   {
     "verse": 29,
     "original": "וְאִ֡ם שׁוֹר֩ נַגָּ֨ח ה֜וּא מִתְּמֹ֣ל שִׁלְשֹׁ֗ם וְהוּעַ֤ד בִּבְעָלָיו֙ וְלֹ֣א יִשְׁמְרֶ֔נּוּ וְהֵמִ֥ית אִ֖ישׁ א֣וֹ אִשָּׁ֑ה הַשּׁוֹר֙ יִסָּקֵ֔ל וְגַם־בְּעָלָ֖יו יוּמָֽת׃",
+    "transliteration": "ve'im shvor nagah hv' mitemol shileshom vehv'ad vive'alayv velo' yishemerenv vehemiyt 'iysh 'vo 'ishah hashvor yisakel vegam-ve'alayv yvmat.",
     "translation": "E se o boi for um corneador desde ontem ou anteontem, e tiver sido testemunhado diante do seu dono, que não o guardou, e matar homem ou mulher, o boi será apedrejado e também o seu dono será morto."
   },
   {
     "verse": 30,
     "original": "אִם־כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר־יוּשַׁ֖ת עָלָֽיו׃",
+    "transliteration": "'im-khofer yvshat 'alayv venatan fideyon nafeshvo khekhol 'asher-yvshat 'alayv.",
     "translation": "Se um resgate for imposto sobre ele, então pagará a redenção da sua alma conforme tudo o que for imposto sobre ele."
   },
   {
     "verse": 31,
     "original": "אוֹ־בֵ֥ן יִגָּ֖ח אוֹ־בַ֣ת יִגָּ֑ח כַּמִּשְׁפָּ֥ט הַזֶּ֖ה יֵעָ֥שֶׂה לּֽוֹ׃",
+    "transliteration": "'vo-ven yigah 'vo-vat yigah khamishefat hazeh ye'aseh lvo.",
     "translation": "Ou filho será ofertado, ou filha será ofertada; conforme este juízo se fará para ele."
   },
   {
     "verse": 32,
     "original": "אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר א֣וֹ אָמָ֑ה כֶּ֣סֶף&thinsp;<b>׀</b> שְׁלֹשִׁ֣ים שְׁקָלִ֗ים יִתֵּן֙ לַֽאדֹנָ֔יו וְהַשּׁ֖וֹר יִסָּקֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-'eved yigah hashvor 'vo 'amah khesef&thinsp;<b>|</b> sheloshiym shekaliym yiten la'donayv vehashvor yisakel.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se o touro ferir um escravo ou uma serva, seu dono pagará trinta siclos de prata ao seu senhor, e o touro será apedrejado."
   },
   {
     "verse": 33,
     "original": "וְכִֽי־יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃",
+    "transliteration": "vekhiy-yifetah 'iysh vvor 'vo khiy-yikhereh 'iysh vor velo' yekhasenv venafal-shamah shvor 'vo hamvor.",
     "translation": "E quando um homem abrir uma cisterna ou a escavar e não a cobrir, e nela cair um boi ou um jumento."
   },
   {
     "verse": 34,
     "original": "בַּ֤עַל הַבּוֹר֙ יְשַׁלֵּ֔ם כֶּ֖סֶף יָשִׁ֣יב לִבְעָלָ֑יו וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'al havvor yeshalem khesef yashiyv live'alayv vehamet yiheyeh-lvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "O dono do poço resgatará, restituirá prata ao seu senhor, e o morto será dele."
   },
   {
     "verse": 35,
     "original": "וְכִֽי־יִגֹּ֧ף שֽׁוֹר־אִ֛ישׁ אֶת־שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־כַּסְפּ֔וֹ וְגַ֥ם אֶת־הַמֵּ֖ת יֶֽחֱצֽוּן׃",
+    "transliteration": "vekhiy-yigof shvor-'iysh 'et-shvor re'ehv vamet vmakherv 'et-hashvor hahay vehatsv 'et-khasefvo vegam 'et-hamet yehetsvn.",
     "translation": "E se um boi de alguém ferir o boi do seu próximo, e ele morrer, então venderão o boi vivo e dividirão o dinheiro; e também o morto dividirão."
   },
   {
     "verse": 36,
     "original": "א֣וֹ נוֹדַ֗ע כִּ֠י שׁ֣וֹר נַגָּ֥ח הוּא֙ מִתְּמ֣וֹל שִׁלְשֹׁ֔ם וְלֹ֥א יִשְׁמְרֶ֖נּוּ בְּעָלָ֑יו שַׁלֵּ֨ם יְשַׁלֵּ֥ם שׁוֹר֙ תַּ֣חַת הַשּׁ֔וֹר וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'vo nvoda' khiy shvor nagah hv' mitemvol shileshom velo' yishemerenv ve'alayv shalem yeshalem shvor tahat hashvor vehamet yiheyeh-lvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Ou se for conhecido que o touro é cornudo desde ontem e anteontem, e ainda assim seu dono não o guardou, pagará com boi por boi, mas o morto será do outro."
   },
   {
     "verse": 37,
     "original": "כִּ֤י יִגְנֹֽב־אִישׁ֙ שׁ֣וֹר אוֹ־שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע־צֹ֖אן תַּ֥חַת הַשֶּֽׂה׃",
+    "transliteration": "khiy yigenov-'iysh shvor 'vo-seh vtevahvo 'vo mekharvo hamishah vakar yeshalem tahat hashvor ve'areva'-tso'n tahat haseh.",
     "translation": "Porque se um homem roubou o touro ou a ovelha, e os degolou ou vendeu, pagará cinco bois por cada touro e quatro ovelhas por cada ovelha."
   }
 ]

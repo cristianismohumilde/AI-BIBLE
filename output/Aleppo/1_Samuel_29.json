@@ -2,56 +2,67 @@
   {
     "verse": 1,
     "original": "וַיִּקְבְּצ֧וּ פְלִשְׁתִּ֛ים אֶת־כׇּל־מַחֲנֵיהֶ֖ם אֲפֵ֑קָה וְיִשְׂרָאֵ֣ל חֹנִ֔ים בַּעַ֖יִן אֲשֶׁ֥ר בְּיִזְרְעֶֽאל׃",
+    "transliteration": "vayikevetsv felishetiym 'et-khol-mahaneyhem 'afekah veyisera'el honiym va'ayin 'asher veyizere'e'l.",
     "translation": "E os filisteus reuniram todo o seu exército em Afec, e Israel acampava na fonte que está em Jizreel."
   },
   {
     "verse": 2,
     "original": "וְסַרְנֵ֤י פְלִשְׁתִּים֙ עֹֽבְרִ֔ים לְמֵא֖וֹת וְלַאֲלָפִ֑ים וְדָוִ֣ד וַאֲנָשָׁ֗יו עֹ֥בְרִ֛ים בָּאַחֲרֹנָ֖ה עִם־אָכִֽישׁ׃",
+    "transliteration": "vesareney felishetiym 'overiym leme'vot vela'alafiym vedavid va'anashayv 'overiym va'aharonah 'im-'akhiysh.",
     "translation": "E os oficiais dos filisteus passavam em centenas e milhares, mas Davi e seus homens passavam por último com Aquis."
   },
   {
     "verse": 3,
     "original": "וַיֹּֽאמְרוּ֙ שָׂרֵ֣י פְלִשְׁתִּ֔ים מָ֖ה הָעִבְרִ֣ים הָאֵ֑לֶּה וַיֹּ֨אמֶר אָכִ֜ישׁ אֶל־שָׂרֵ֣י פְלִשְׁתִּ֗ים הֲלוֹא־זֶ֨ה דָוִ֜ד עֶ֣בֶד&thinsp;<b>׀</b> שָׁא֣וּל מֶלֶךְ־יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הָיָ֤ה אִתִּי֙ זֶ֤ה יָמִים֙ אוֹ־זֶ֣ה שָׁנִ֔ים וְלֹֽא־מָצָ֤אתִי בוֹ֙ מְא֔וּמָה מִיּ֥וֹם נׇפְל֖וֹ עַד־הַיּ֥וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayo'merv sarey felishetiym mah ha'iveriym ha'eleh vayo'mer 'akhiysh 'el-sarey felishetiym halvo'-zeh david 'eved&thinsp;<b>|</b> sha'vl melekhe-yisera'el 'asher hayah 'itiy zeh yamiym 'vo-zeh shaniym velo'-matsa'tiy vvo me'vmah miyvom nofelvo 'ad-hayvom hazeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os oficiais dos filisteus disseram: Que são esses hebreus? E Acis respondeu aos oficiais dos filisteus: Não é este Davi, servo de Saul, rei de Israel, que tem estado comigo estes dias ou anos? Nada malicioso achei nele desde o dia em que se juntou a mim até hoje."
   },
   {
     "verse": 4,
     "original": "וַיִּקְצְפ֨וּ עָלָ֜יו שָׂרֵ֣י פְלִשְׁתִּ֗ים וַיֹּ֣אמְרוּ לוֹ֩ שָׂרֵ֨י פְלִשְׁתִּ֜ים הָשֵׁ֣ב אֶת־הָאִ֗ישׁ וְיָשֹׁב֙ אֶל־מְקוֹמוֹ֙ אֲשֶׁ֣ר הִפְקַדְתּ֣וֹ שָׁ֔ם וְלֹא־יֵרֵ֤ד עִמָּ֙נוּ֙ בַּמִּלְחָמָ֔ה וְלֹא־יִֽהְיֶה־לָּ֥נוּ לְשָׂטָ֖ן בַּמִּלְחָמָ֑ה וּבַמֶּ֗ה יִתְרַצֶּ֥ה זֶה֙ אֶל־אֲדֹנָ֔יו הֲל֕וֹא בְּרָאשֵׁ֖י הָאֲנָשִׁ֥ים הָהֵֽם׃",
+    "transliteration": "vayiketsefv 'alayv sarey felishetiym vayo'merv lvo sarey felishetiym hashev 'et-ha'iysh veyashov 'el-mekvomvo 'asher hifekadetvo sham velo'-yered 'imanv vamilehamah velo'-yiheyeh-lanv lesatan vamilehamah vvameh yiteratseh zeh 'el-'adonayv halvo' vera'shey ha'anashiym hahem.",
     "translation": "E os príncipes dos filisteus se iraram contra ele, e os príncipes dos filisteus disseram a Davi: \"Retorna ao teu lugar, onde tu foste posto, e não desças com nossas hostes para a guerra; de maneira que tu não seja uma cilada contra nós na batalha. E como farás satisfação ao teu senhor? Acaso, não és um dos cabeças destes homens?\""
   },
   {
     "verse": 5,
     "original": "הֲלוֹא־זֶ֣ה דָוִ֔ד אֲשֶׁ֧ר יַעֲנוּ־ל֛וֹ בַּמְּחֹל֖וֹת לֵאמֹ֑ר הִכָּ֤ה שָׁאוּל֙ בַּאֲלָפָ֔יו וְדָוִ֖ד <span class=\"mam-kq-trivial\">בְּרִבְבֹתָֽו</span>׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "halvo'-zeh david 'asher ya'anv-lvo vameholvot le'mor hikhah sha'vl va'alafayv vedavid <span class=\"mam-kq-trivial\">verivevotav</span>.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Acaso não é este Davi, a quem se respondia em suas danças, dizendo: Feriu Saul entre milhares e Davi entre dez mil?"
   },
   {
     "verse": 6,
     "original": "וַיִּקְרָ֨א אָכִ֜ישׁ אֶל־דָּוִ֗ד וַיֹּ֣אמֶר אֵ֠לָ֠יו חַי־יְהֹוָ֞ה כִּֽי־יָשָׁ֣ר אַתָּ֗ה וְט֣וֹב בְּ֠עֵינַ֠י צֵאתְךָ֨ וּבֹאֲךָ֤ אִתִּי֙ בַּֽמַּחֲנֶ֔ה כִּ֠י לֹֽא־מָצָ֤אתִֽי בְךָ֙ רָעָ֔ה מִיּ֛וֹם בֹּאֲךָ֥ אֵלַ֖י עַד־הַיּ֣וֹם הַזֶּ֑ה וּבְעֵינֵ֥י הַסְּרָנִ֖ים לֹא־ט֥וֹב אָֽתָּה׃",
+    "transliteration": "vayikera' 'akhiysh 'el-david vayo'mer 'elayv hay-yehovah khiy-yashar 'atah vetvov ve'eynay tse'tekha vvo'akha 'itiy vamahaneh khiy lo'-matsa'tiy vekha ra'ah miyvom vo'akha 'elay 'ad-hayvom hazeh vve'eyney haseraniym lo'-tvov 'atah.",
     "translation": "E Acis chamou a Davi e disse-lhe: Vivo o Senhor, tu és reto; é bom aos meus olhos que saias e entres comigo no acampamento. Porque não achei em ti mal algum desde o dia da tua vinda até mim até ao presente dia; mas aos olhos dos oficiais não és bom."
   },
   {
     "verse": 7,
     "original": "וְעַתָּ֥ה שׁ֖וּב וְלֵ֣ךְ בְּשָׁל֑וֹם וְלֹא־תַעֲשֶׂ֣ה רָ֔ע בְּעֵינֵ֖י סַרְנֵ֥י פְלִשְׁתִּֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'atah shvv velekhe veshalvom velo'-ta'aseh ra' ve'eyney sareney felishetiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E agora retorna e vai em paz, e não pratiques mal diante dos oficiais filisteus."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֨אמֶר דָּוִ֜ד אֶל־אָכִ֗ישׁ כִּ֣י מֶ֤ה עָשִׂ֙יתִי֙ וּמַה־מָּצָ֣אתָ בְעַבְדְּךָ֔ מִיּוֹם֙ אֲשֶׁ֣ר הָיִ֣יתִי לְפָנֶ֔יךָ עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֣י לֹ֤א אָבוֹא֙ וְנִלְחַ֔מְתִּי בְּאֹיְבֵ֖י אֲדֹנִ֥י הַמֶּֽלֶךְ׃",
+    "transliteration": "vayo'mer david 'el-'akhiysh khiy meh 'asiytiy vmah-matsa'ta ve'avedekha miyvom 'asher hayiytiy lefaneykha 'ad hayvom hazeh khiy lo' 'avvo' venilehametiy ve'oyevey 'adoniy hamelekhe.",
     "translation": "E disse Davi a Aquis: Que fiz eu? E que encontraste em teu servo desde o dia em que vim diante de ti até este dia, para que entre na batalha contra os inimigos do meu senhor, o rei?"
   },
   {
     "verse": 9,
     "original": "וַיַּ֣עַן אָכִישׁ֮ וַיֹּ֣אמֶר אֶל־דָּוִד֒ יָדַ֕עְתִּי כִּ֣י ט֥וֹב אַתָּ֛ה בְּעֵינַ֖י כְּמַלְאַ֣ךְ אֱלֹהִ֑ים אַ֣ךְ שָׂרֵ֤י פְלִשְׁתִּים֙ אָֽמְר֔וּ לֹא־יַעֲלֶ֥ה עִמָּ֖נוּ בַּמִּלְחָמָֽה׃",
+    "transliteration": "vaya'an 'akhiysh vayo'mer 'el-david yada'etiy khiy tvov 'atah ve'eynay khemale'akhe 'elohiym 'akhe sarey felishetiym 'amerv lo'-ya'aleh 'imanv vamilehamah.",
     "translation": "Então Acis respondeu e disse a Davi: Conheço tua bondade diante dos meus olhos, como a de um mensageiro divino; contudo, os oficiais dos filisteus disseram que tu não subirás conosco à batalha."
   },
   {
     "verse": 10,
     "original": "וְעַתָּה֙ הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְעַבְדֵ֥י אֲדֹנֶ֖יךָ אֲשֶׁר־בָּ֣אוּ אִתָּ֑ךְ וְהִשְׁכַּמְתֶּ֣ם בַּבֹּ֔קֶר וְא֥וֹר לָכֶ֖ם וָלֵֽכוּ׃",
+    "transliteration": "ve'atah hashekhem vavoker ve'avedey 'adoneykha 'asher-va'v 'itakhe vehishekhametem vavoker ve'vor lakhem valekhv.",
     "translation": "E agora, desperta de madrugada; e os servos do teu senhor que vieram contigo, despertem de madrugada e ide com a luz convosco."
   },
   {
     "verse": 11,
     "original": "וַיַּשְׁכֵּ֨ם דָּוִ֜ד ה֤וּא וַאֲנָשָׁיו֙ לָלֶ֣כֶת בַּבֹּ֔קֶר לָשׁ֖וּב אֶל־אֶ֣רֶץ פְּלִשְׁתִּ֑ים וּפְלִשְׁתִּ֖ים עָל֥וּ יִזְרְעֶֽאל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayashekhem david hv' va'anashayv lalekhet vavoker lashvv 'el-'erets felishetiym vfelishetiym 'alv yizere'e'l.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Davi, ele e os seus homens, se levantaram de madrugada para voltar à terra dos filisteus; mas os filisteus subiram a Jizreel."
   }
 ]

@@ -2,81 +2,97 @@
   {
     "verse": 1,
     "original": "מִזְמ֥וֹר שִׁ֗יר לְי֣וֹם הַשַּׁבָּֽת׃",
+    "transliteration": "mizemvor shiyr leyvom hashavat.",
     "translation": "Cântico poema para o dia da sabat."
   },
   {
     "verse": 2,
     "original": "ט֗וֹב לְהֹד֥וֹת לַיהֹוָ֑ה וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן׃",
+    "transliteration": "tvov lehodvot layhovah vlezamer leshimekha 'eleyvon.",
     "translation": "Bom é dar graças ao Senhor e cantar ao teu nome, Altíssimo."
   },
   {
     "verse": 3,
     "original": "לְהַגִּ֣יד בַּבֹּ֣קֶר חַסְדֶּ֑ךָ וֶ֝אֱמ֥וּנָתְךָ֗ בַּלֵּילֽוֹת׃",
+    "transliteration": "lehagiyd vavoker hasedekha ve'emvnatekha valeylvot.",
     "translation": "Para anunciar pela manhã tua benignidade, e a fidelidade tua por as noites."
   },
   {
     "verse": 4,
     "original": "עֲֽלֵי־עָ֭שׂוֹר וַעֲלֵי־נָ֑בֶל עֲלֵ֖י הִגָּי֣וֹן בְּכִנּֽוֹר׃",
+    "transliteration": "'aley-'asvor va'aley-navel 'aley higayvon vekhinvor.",
     "translation": "Sobre dez, sobre o instrumento de cântico, com hinos e meditação na harpa."
   },
   {
     "verse": 5,
     "original": "כִּ֤י שִׂמַּחְתַּ֣נִי יְהֹוָ֣ה בְּפׇעֳלֶ֑ךָ בְּֽמַעֲשֵׂ֖י יָדֶ֣יךָ אֲרַנֵּֽן׃",
+    "transliteration": "khiy simahetaniy yehovah vefo'olekha vema'asey yadeykha 'aranen.",
     "translation": "Pois o Senhor me alegrou com tua obra; com os feitos de tuas mãos exultarei."
   },
   {
     "verse": 6,
     "original": "מַה־גָּדְל֣וּ מַעֲשֶׂ֣יךָ יְהֹוָ֑ה מְ֝אֹ֗ד עָמְק֥וּ מַחְשְׁבֹתֶֽיךָ׃",
+    "transliteration": "mah-gadelv ma'aseykha yehovah me'od 'amekv maheshevoteykha.",
     "translation": "Quão grandes são os teus feitos, Senhor! Muito profundas estão as tuas pensamentos.\n\nNota: Foi realizada uma pequena correção no plural e na estrutura para manter a fidelidade ao hebraico antigo. No entanto, \"pensamentos\" poderia ser melhor traduzido como \"conselhos\" ou \"deliberações\", de acordo com o contexto teológico mais amplo, mas essa é uma decisão de interpretação que excede as diretrizes fornecidas para a revisão gramatical e contextual do texto.\n\nDe acordo com as instruções para não fornecer explicações adicionais além da tradução corrigida, segue apenas o texto final ajustado:\n\nQuão grandes são os teus feitos, Senhor! Muito profundas estão as tuas deliberações."
   },
   {
     "verse": 7,
     "original": "אִֽישׁ־בַּ֭עַר לֹ֣א יֵדָ֑ע וּ֝כְסִ֗יל לֹא־יָבִ֥ין אֶת־זֹֽאת׃",
+    "transliteration": "'iysh-va'ar lo' yeda' vkhesiyl lo'-yaviyn 'et-zo't.",
     "translation": "Um homem brutio não entende, e o insensato não compreende isso."
   },
   {
     "verse": 8,
     "original": "בִּפְרֹ֤חַ רְשָׁעִ֨ים&thinsp;<b>׀</b> כְּמ֥וֹ־עֵ֗שֶׂב וַ֭יָּצִיצוּ כׇּל־פֹּ֣עֲלֵי אָ֑וֶן לְהִשָּׁמְדָ֥ם עֲדֵי־עַֽד׃",
+    "transliteration": "viferoha resha'iym&thinsp;<b>|</b> khemvo-'esev vayatsiytsv khol-fo'aley 'aven lehishamedam 'adey-'ad.",
     "translation": "Como os maus florescem como a erva, e todos os operários da iniquidade se exibem, para serem destruídos eternamente."
   },
   {
     "verse": 9,
     "original": "וְאַתָּ֥ה מָר֗וֹם לְעֹלָ֥ם יְהֹוָֽה׃",
+    "transliteration": "ve'atah marvom le'olam yehovah.",
     "translation": "E tu, Altíssimo, para sempre, Senhor."
   },
   {
     "verse": 10,
     "original": "כִּ֤י הִנֵּ֪ה אֹיְבֶ֡יךָ יְֽהֹוָ֗ה כִּֽי־הִנֵּ֣ה אֹיְבֶ֣יךָ יֹאבֵ֑דוּ יִ֝תְפָּרְד֗וּ כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃",
+    "transliteration": "khiy hineh 'oyeveykha yehovah khiy-hineh 'oyeveykha yo'vedv yitefaredv khol-fo'aley 'aven.",
     "translation": "Porque eis que teus inimigos, ó Senhor, perecerão; separam-se todos os operadores da iniqüidade."
   },
   {
     "verse": 11,
     "original": "וַתָּ֣רֶם כִּרְאֵ֣ים קַרְנִ֑י בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַעֲנָֽן׃",
+    "transliteration": "vatarem khire'eym kareniy valotiy veshemen ra'anan.",
     "translation": "E exaltaram as trombetas a minha força; o meu vigor foi multiplicado com o perfume do bálsamo."
   },
   {
     "verse": 12,
     "original": "וַתַּבֵּ֥ט עֵינִ֗י בְּשׁ֫וּרָ֥י בַּקָּמִ֖ים עָלַ֥י מְרֵעִ֗ים תִּשְׁמַ֥עְנָה אׇזְנָֽי׃",
+    "transliteration": "vatavet 'eyniy veshvray vakamiym 'alay mere'iym tishema'enah 'ozenay.",
     "translation": "E meu olho viu meus adversários, os que se levantavam contra mim, os perversos; com meus ouvidos ouvi."
   },
   {
     "verse": 13,
     "original": "צַ֭דִּיק כַּתָּמָ֣ר יִפְרָ֑ח כְּאֶ֖רֶז בַּלְּבָנ֣וֹן יִשְׂגֶּֽה׃",
+    "transliteration": "tsadiyk khatamar yiferah khe'erez valevanvon yisegeh.",
     "translation": "O justo florescerá como a palmeira, se erguerá como o cedro do Líbano."
   },
   {
     "verse": 14,
     "original": "שְׁ֭תוּלִים בְּבֵ֣ית יְהֹוָ֑ה בְּחַצְר֖וֹת אֱלֹהֵ֣ינוּ יַפְרִֽיחוּ׃",
+    "transliteration": "shetvliym veveyt yehovah vehatservot 'eloheynv yaferiyhv.",
     "translation": "Plantados na casa do Senhor, nos pátios do nosso Deus florescerão."
   },
   {
     "verse": 15,
     "original": "ע֭וֹד יְנוּב֣וּן בְּשֵׂיבָ֑ה דְּשֵׁנִ֖ים וְֽרַעֲנַנִּ֣ים יִהְיֽוּ׃",
+    "transliteration": "'vod yenvvvn veseyvah desheniym vera'ananiym yiheyv.",
     "translation": "Ainda florescerão na velhice, verdes e frondosos serão."
   },
   {
     "verse": 16,
     "original": "לְ֭הַגִּיד כִּֽי־יָשָׁ֣ר יְהֹוָ֑ה צ֝וּרִ֗י וְֽלֹא־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[עַוְלָ֥תָה]</span> <span class=\"mam-kq-k\">(עלתה)</span></span> בּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lehagiyd khiy-yashar yehovah tsvriy velo'-<span class=\"mam-kq\"><span class=\"mam-kq-q\">['avelatah]</span> <span class=\"mam-kq-k\">('lth)</span></span> vvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para declarar que o Senhor é reto; ele é minha rocha, e não há perversão nele."
   }
 ]

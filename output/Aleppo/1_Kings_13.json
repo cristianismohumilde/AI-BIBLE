@@ -2,171 +2,205 @@
   {
     "verse": 1,
     "original": "וְהִנֵּ֣ה&thinsp;<b>׀</b> אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִיהוּדָ֛ה בִּדְבַ֥ר יְהֹוָ֖ה אֶל־בֵּֽית־אֵ֑ל וְיָרׇבְעָ֛ם עֹמֵ֥ד עַל־הַמִּזְבֵּ֖חַ לְהַקְטִֽיר׃",
+    "transliteration": "vehineh&thinsp;<b>|</b> 'iysh 'elohiym va' miyhvdah videvar yehovah 'el-veyt-'el veyarove'am 'omed 'al-hamizeveha lehaketiyr.",
     "translation": "Eis um homem de Deus vindo de Judá para falar pela palavra do Senhor em Beit-El, e Jeroboão estava ali diante do altar para queimar incenso."
   },
   {
     "verse": 2,
     "original": "וַיִּקְרָ֤א עַל־הַמִּזְבֵּ֙חַ֙ בִּדְבַ֣ר יְהֹוָ֔ה וַיֹּ֙אמֶר֙ מִזְבֵּ֣חַ מִזְבֵּ֔חַ כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה הִנֵּה־בֵ֞ן נוֹלָ֤ד לְבֵית־דָּוִד֙ יֹאשִׁיָּ֣הֽוּ שְׁמ֔וֹ וְזָבַ֣ח עָלֶ֗יךָ אֶת־כֹּהֲנֵ֤י הַבָּמוֹת֙ הַמַּקְטִרִ֣ים עָלֶ֔יךָ וְעַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽיךָ׃",
+    "transliteration": "vayikera' 'al-hamizeveha videvar yehovah vayo'mer mizeveha mizeveha khoh 'amar yehovah hineh-ven nvolad leveyt-david yo'shiyahv shemvo vezavah 'aleykha 'et-khohaney havamvot hamaketiriym 'aleykha ve'atsemvot 'adam yiserefv 'aleykha.",
     "translation": "E chamou sobre o altar pelas palavras do Senhor, dizendo: Altar, altar, assim disse o Senhor: Eis que um filho nascerá à casa de Davi; Josias será seu nome, e ele sacrificará sobre ti os sacerdotes das alturas que queimam incenso sobre ti, e ossos humanos queimarão sobre ti."
   },
   {
     "verse": 3,
     "original": "וְנָתַן֩ בַּיּ֨וֹם הַה֤וּא מוֹפֵת֙ לֵאמֹ֔ר זֶ֣ה הַמּוֹפֵ֔ת אֲשֶׁ֖ר דִּבֶּ֣ר יְהֹוָ֑ה הִנֵּ֤ה הַמִּזְבֵּ֙חַ֙ נִקְרָ֔ע וְנִשְׁפַּ֖ךְ הַדֶּ֥שֶׁן אֲשֶׁר־עָלָֽיו׃",
+    "transliteration": "venatan vayvom hahv' mvofet le'mor zeh hamvofet 'asher diver yehovah hineh hamizeveha nikera' venishefakhe hadeshen 'asher-'alayv.",
     "translation": "E dará no dia aquele sinal, dizendo: Este é o sinal do qual falou o Senhor: eis que o altar será partido e o despeno que está sobre ele será derramado."
   },
   {
     "verse": 4,
     "original": "וַיְהִי֩ כִשְׁמֹ֨עַ הַמֶּ֜לֶךְ אֶת־דְּבַ֣ר אִישׁ־הָאֱלֹהִ֗ים אֲשֶׁ֨ר קָרָ֤א עַל־הַמִּזְבֵּ֙חַ֙ בְּבֵֽית־אֵ֔ל וַיִּשְׁלַ֨ח יָרׇבְעָ֧ם אֶת־יָד֛וֹ מֵעַ֥ל הַמִּזְבֵּ֖חַ לֵאמֹ֣ר&thinsp;<small>׀</small>&thinsp;תִּפְשֻׂ֑הוּ וַתִּיבַ֤שׁ יָדוֹ֙ אֲשֶׁ֣ר שָׁלַ֣ח עָלָ֔יו וְלֹ֥א יָכֹ֖ל לַהֲשִׁיבָ֥הּ אֵלָֽיו׃",
+    "transliteration": "vayehiy khishemo'a hamelekhe 'et-devar 'iysh-ha'elohiym 'asher kara' 'al-hamizeveha veveyt-'el vayishelah yarove'am 'et-yadvo me'al hamizeveha le'mor&thinsp;<small>|</small>&thinsp;tifesuhv vatiyvash yadvo 'asher shalah 'alayv velo' yakhol lahashiyvah 'elayv.",
     "translation": "E foi quando o rei ouviu a palavra do homem de Deus que havia profetizado sobre o altar em Betel, e Jeroboão estendeu sua mão para o altar dizendo: “Apanhem-no!”, mas sua mão se enrijeceu, e não pôde recolhê-la para si."
   },
   {
     "verse": 5,
     "original": "וְהַמִּזְבֵּ֣חַ נִקְרָ֔ע וַיִּשָּׁפֵ֥ךְ הַדֶּ֖שֶׁן מִן־הַמִּזְבֵּ֑חַ כַּמּוֹפֵ֗ת אֲשֶׁ֥ר נָתַ֛ן אִ֥ישׁ הָאֱלֹהִ֖ים בִּדְבַ֥ר יְהֹוָֽה׃",
+    "transliteration": "vehamizeveha nikera' vayishafekhe hadeshen min-hamizeveha khamvofet 'asher natan 'iysh ha'elohiym videvar yehovah.",
     "translation": "E o altar se rachou e a cinza do altar foi derramada diante dele, como ordenara o homem de Deus pela palavra do Senhor."
   },
   {
     "verse": 6,
     "original": "וַיַּ֨עַן הַמֶּ֜לֶךְ וַיֹּ֣אמֶר&thinsp;<b>׀</b> אֶל־אִ֣ישׁ הָאֱלֹהִ֗ים חַל־נָ֞א אֶת־פְּנֵ֨י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ וְהִתְפַּלֵּ֣ל בַּעֲדִ֔י וְתָשֹׁ֥ב יָדִ֖י אֵלָ֑י וַיְחַ֤ל אִישׁ־הָֽאֱלֹהִים֙ אֶת־פְּנֵ֣י יְהֹוָ֔ה וַתָּ֤שׇׁב יַד־הַמֶּ֙לֶךְ֙ אֵלָ֔יו וַתְּהִ֖י כְּבָרִאשֹׁנָֽה׃",
+    "transliteration": "vaya'an hamelekhe vayo'mer&thinsp;<b>|</b> 'el-'iysh ha'elohiym hal-na' 'et-feney yehovah 'eloheykha vehitefalel va'adiy vetashov yadiy 'elay vayehal 'iysh-ha'elohiym 'et-feney yehovah vatashov yad-hamelekhe 'elayv vatehiy khevari'shonah.",
     "translation": "E respondeu o rei e disse ao homem de Deus: \"Suplica, peço-te, pela face do Senhor teu Deus, e ora por mim; seja voltada para mim a minha mão\". E suplicou o homem de Deus pela face do Senhor; e foi restaurada a mão do rei, e ficou como antes."
   },
   {
     "verse": 7,
     "original": "וַיְדַבֵּ֤ר הַמֶּ֙לֶךְ֙ אֶל־אִ֣ישׁ הָאֱלֹהִ֔ים בֹּֽאָה־אִתִּ֥י הַבַּ֖יְתָה וּֽסְעָ֑דָה וְאֶתְּנָ֥ה לְךָ֖ מַתָּֽת׃",
+    "transliteration": "vayedaver hamelekhe 'el-'iysh ha'elohiym vo'ah-'itiy havayetah vse'adah ve'etenah lekha matat.",
     "translation": "E o rei falou ao homem de Deus: Vem comigo para a casa e come; darei a ti presente."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֤אמֶר אִישׁ־הָֽאֱלֹהִים֙ אֶל־הַמֶּ֔לֶךְ אִם־תִּתֶּן־לִי֙ אֶת־חֲצִ֣י בֵיתֶ֔ךָ לֹ֥א אָבֹ֖א עִמָּ֑ךְ וְלֹא־אֹ֤כַל לֶ֙חֶם֙ וְלֹ֣א אֶשְׁתֶּה־מַּ֔יִם בַּמָּק֖וֹם הַזֶּֽה׃",
+    "transliteration": "vayo'mer 'iysh-ha'elohiym 'el-hamelekhe 'im-titen-liy 'et-hatsiy veytekha lo' 'avo' 'imakhe velo'-'okhal lehem velo' 'esheteh-mayim vamakvom hazeh.",
     "translation": "E disse o homem de Deus ao rei: Se me deres metade da tua casa, não irei contigo, e nem comerás pão nem beberás água neste lugar."
   },
   {
     "verse": 9,
     "original": "כִּי־כֵ֣ן&thinsp;<b>׀</b> צִוָּ֣ה אֹתִ֗י בִּדְבַ֤ר יְהֹוָה֙ לֵאמֹ֔ר לֹא־תֹ֥אכַל לֶ֖חֶם וְלֹ֣א תִשְׁתֶּה־מָּ֑יִם וְלֹ֣א תָשׁ֔וּב בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתָּ׃",
+    "transliteration": "khiy-khen&thinsp;<b>|</b> tsivah 'otiy videvar yehovah le'mor lo'-to'khal lehem velo' tisheteh-mayim velo' tashvv vaderekhe 'asher halakheta.",
     "translation": "Pois assim me ordenou a palavra do Senhor, dizendo: Não comerás pão e não beberás água; nem voltarás pelo caminho pelo qual viestes."
   },
   {
     "verse": 10,
     "original": "וַיֵּ֖לֶךְ בְּדֶ֣רֶךְ אַחֵ֑ר וְלֹא־שָׁ֣ב בַּדֶּ֔רֶךְ אֲשֶׁ֛ר בָּ֥א בָ֖הּ אֶל־בֵּֽית־אֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayelekhe vederekhe 'aher velo'-shav vaderekhe 'asher va' vah 'el-veyt-'el.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E seguiu por outro caminho, e não retornou pelo caminho pelo qual havia vindo a Betel."
   },
   {
     "verse": 11,
     "original": "וְנָבִ֤יא אֶחָד֙ זָקֵ֔ן יֹשֵׁ֖ב בְּבֵֽית־אֵ֑ל וַיָּב֣וֹא בְנ֡וֹ וַיְסַפֶּר־ל֣וֹ אֶת־כׇּל־הַמַּעֲשֶׂ֣ה אֲשֶׁר־עָשָׂה֩ אִישׁ־הָאֱלֹהִ֨ים&thinsp;<small>׀</small>&thinsp;הַיּ֜וֹם בְּבֵֽית־אֵ֗ל אֶת־הַדְּבָרִים֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֶל־הַמֶּ֔לֶךְ וַֽיְסַפְּר֖וּם לַאֲבִיהֶֽם׃",
+    "transliteration": "venaviy' 'ehad zaken yoshev veveyt-'el vayavvo' venvo vayesafer-lvo 'et-khol-hama'aseh 'asher-'asah 'iysh-ha'elohiym&thinsp;<small>|</small>&thinsp;hayvom veveyt-'el 'et-hadevariym 'asher diver 'el-hamelekhe vayesafervm la'aviyhem.",
     "translation": "E um profeta idoso habitava em Betel, e veio seu filho e lhe relatou toda a obra que o homem de Deus havia feito naquele dia em Betel, as palavras que ele falara ao rei, e as contaram a seu pai."
   },
   {
     "verse": 12,
     "original": "וַיְדַבֵּ֤ר אֲלֵהֶם֙ אֲבִיהֶ֔ם אֵי־זֶ֥ה הַדֶּ֖רֶךְ הָלָ֑ךְ וַיִּרְא֣וּ בָנָ֗יו אֶת־הַדֶּ֙רֶךְ֙ אֲשֶׁ֤ר הָלַךְ֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֲשֶׁר־בָּ֖א מִיהוּדָֽה׃",
+    "transliteration": "vayedaver 'alehem 'aviyhem 'ey-zeh haderekhe halakhe vayire'v vanayv 'et-haderekhe 'asher halakhe 'iysh ha'elohiym 'asher-va' miyhvdah.",
     "translation": "E seu pai lhes falou dizendo qual era o caminho por onde havia ido; então seus filhos viram o caminho pelo qual o homem de Deus havia passado, que vinha de Judá."
   },
   {
     "verse": 13,
     "original": "וַיֹּ֙אמֶר֙ אֶל־בָּנָ֔יו חִבְשׁוּ־לִ֖י הַחֲמ֑וֹר וַיַּחְבְּשׁוּ־ל֣וֹ הַחֲמ֔וֹר וַיִּרְכַּ֖ב עָלָֽיו׃",
+    "transliteration": "vayo'mer 'el-vanayv hiveshv-liy hahamvor vayaheveshv-lvo hahamvor vayirekhav 'alayv.",
     "translation": "E disse aos seus filhos: Apreparem-me o jumento. E prepararam-lhe o jumento, e ele montou nele."
   },
   {
     "verse": 14,
     "original": "וַיֵּ֗לֶךְ אַֽחֲרֵי֙ אִ֣ישׁ הָאֱלֹהִ֔ים וַיִּ֨מְצָאֵ֔הוּ יֹשֵׁ֖ב תַּ֣חַת הָאֵלָ֑ה וַיֹּ֣אמֶר אֵלָ֗יו הַאַתָּ֧ה אִישׁ־הָאֱלֹהִ֛ים אֲשֶׁר־בָּ֥אתָ מִיהוּדָ֖ה וַיֹּ֥אמֶר אָֽנִי׃",
+    "transliteration": "vayelekhe 'aharey 'iysh ha'elohiym vayimetsa'ehv yoshev tahat ha'elah vayo'mer 'elayv ha'atah 'iysh-ha'elohiym 'asher-va'ta miyhvdah vayo'mer 'aniy.",
     "translation": "E foi atrás do homem de Deus e o encontrou sentado debaixo da árvore de carvalho. E disse-lhe: \"Tu és o homem de Deus que veio de Judá?\" Ele respondeu: \"Sou eu.\""
   },
   {
     "verse": 15,
     "original": "וַיֹּ֣אמֶר אֵלָ֔יו לֵ֥ךְ אִתִּ֖י הַבָּ֑יְתָה וֶאֱכֹ֖ל לָֽחֶם׃",
+    "transliteration": "vayo'mer 'elayv lekhe 'itiy havayetah ve'ekhol lahem.",
     "translation": "E disse-lhe: Vem comigo à casa e come pão."
   },
   {
     "verse": 16,
     "original": "וַיֹּ֗אמֶר לֹ֥א אוּכַ֛ל לָשׁ֥וּב אִתָּ֖ךְ וְלָב֣וֹא אִתָּ֑ךְ וְלֹא־אֹ֣כַל לֶ֗חֶם וְלֹֽא־אֶשְׁתֶּ֤ה אִתְּךָ֙ מַ֔יִם בַּמָּק֖וֹם הַזֶּֽה׃",
+    "transliteration": "vayo'mer lo' 'vkhal lashvv 'itakhe velavvo' 'itakhe velo'-'okhal lehem velo'-'esheteh 'itekha mayim vamakvom hazeh.",
     "translation": "E disse: Não posso voltar contigo, nem entrar contigo; não comerei pão e não beberei água contigo neste lugar."
   },
   {
     "verse": 17,
     "original": "כִּֽי־דָבָ֤ר אֵלַי֙ בִּדְבַ֣ר יְהֹוָ֔ה לֹא־תֹאכַ֣ל לֶ֔חֶם וְלֹא־תִשְׁתֶּ֥ה שָׁ֖ם מָ֑יִם לֹא־תָשׁ֣וּב לָלֶ֔כֶת בַּדֶּ֖רֶךְ אֲשֶׁר־הָלַ֥כְתָּ בָּֽהּ׃",
+    "transliteration": "khiy-davar 'elay videvar yehovah lo'-to'khal lehem velo'-tisheteh sham mayim lo'-tashvv lalekhet vaderekhe 'asher-halakheta vah.",
     "translation": "Pois a palavra do Senhor veio-me dizendo: Não comerás pão, nem beberás água naquele lugar; não voltarás pelo caminho por onde viestes."
   },
   {
     "verse": 18,
     "original": "וַיֹּ֣אמֶר ל֗וֹ גַּם־אֲנִ֣י נָבִיא֮ כָּמ֒וֹךָ֒ וּמַלְאָ֡ךְ דִּבֶּ֣ר אֵלַי֩ בִּדְבַ֨ר יְהֹוָ֜ה לֵאמֹ֗ר הֲשִׁבֵ֤הוּ אִתְּךָ֙ אֶל־בֵּיתֶ֔ךָ וְיֹ֥אכַל לֶ֖חֶם וְיֵ֣שְׁתְּ מָ֑יִם כִּחֵ֖שׁ לֽוֹ׃",
+    "transliteration": "vayo'mer lvo gam-'aniy naviy' khamvokha vmale'akhe diver 'elay videvar yehovah le'mor hashivehv 'itekha 'el-veytekha veyo'khal lehem veyeshete mayim khihesh lvo.",
     "translation": "E ele lhe disse: Também eu sou profeta como tu, e um anjo me falou em nome do Senhor, dizendo: Faze-o voltar contigo para tua casa; que coma pão e beba água. Ele hesitou."
   },
   {
     "verse": 19,
     "original": "וַיָּ֣שׇׁב אִתּ֗וֹ וַיֹּ֥אכַל לֶ֛חֶם בְּבֵית֖וֹ וַיֵּ֥שְׁתְּ מָֽיִם׃",
+    "transliteration": "vayashov 'itvo vayo'khal lehem veveytvo vayeshete mayim.",
     "translation": "E retornou com ele, e comeu pão em sua casa, e bebeu água."
   },
   {
     "verse": 20,
     "original": "וַיְהִ֕י הֵ֥ם יֹשְׁבִ֖ים אֶל־הַשֻּׁלְחָ֑ן&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־הַנָּבִ֖יא אֲשֶׁ֥ר הֱשִׁיבֽוֹ׃",
+    "transliteration": "vayehiy hem yosheviym 'el-hashulehan&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>vayehiy devar-yehovah 'el-hanaviy' 'asher heshiyvvo.",
     "translation": "Eles estavam sentados à mesa,\ne veio a palavra do Senhor ao profeta que haviam enviado."
   },
   {
     "verse": 21,
     "original": "וַיִּקְרָ֞א אֶל־אִ֣ישׁ הָאֱלֹהִ֗ים אֲשֶׁר־בָּ֤א מִֽיהוּדָה֙ לֵאמֹ֔ר כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה יַ֗עַן כִּ֤י מָרִ֙יתָ֙ פִּ֣י יְהֹוָ֔ה וְלֹ֤א שָׁמַ֙רְתָּ֙ אֶת־הַמִּצְוָ֔ה אֲשֶׁ֥ר צִוְּךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+    "transliteration": "vayikera' 'el-'iysh ha'elohiym 'asher-va' miyhvdah le'mor khoh 'amar yehovah ya'an khiy mariyta fiy yehovah velo' shamareta 'et-hamitsevah 'asher tsivekha yehovah 'eloheykha.",
     "translation": "E chamou ao homem de Deus que vinha de Judá, dizendo: Assim diz o Senhor: Porquanto rebellestes contra a palavra do Senhor e não guardastes o mandamento com que vos ordenou o Senhor, vosso Deus."
   },
   {
     "verse": 22,
     "original": "וַתָּ֗שׇׁב וַתֹּ֤אכַל לֶ֙חֶם֙ וַתֵּ֣שְׁתְּ מַ֔יִם בַּמָּקוֹם֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־תֹּ֥אכַל לֶ֖חֶם וְאַל־תֵּ֣שְׁתְּ מָ֑יִם לֹא־תָב֥וֹא נִבְלָתְךָ֖ אֶל־קֶ֥בֶר אֲבֹתֶֽיךָ׃",
+    "transliteration": "vatashov vato'khal lehem vateshete mayim vamakvom 'asher diver 'eleykha 'al-to'khal lehem ve'al-teshete mayim lo'-tavvo' nivelatekha 'el-kever 'avoteykha.",
     "translation": "E comeu pão e bebeu água no lugar sobre o qual Ele te falou: 'Não comas pão nem bebas água'. Não irás buscar os mortos ao sepulcro de teus pais."
   },
   {
     "verse": 23,
     "original": "וַיְהִ֗י אַחֲרֵ֛י אׇכְל֥וֹ לֶ֖חֶם וְאַחֲרֵ֣י שְׁתוֹת֑וֹ וַיַּחֲבׇשׁ־ל֣וֹ הַחֲמ֔וֹר לַנָּבִ֖יא אֲשֶׁ֥ר הֱשִׁיבֽוֹ׃",
+    "transliteration": "vayehiy 'aharey 'okhelvo lehem ve'aharey shetvotvo vayahavosh-lvo hahamvor lanaviy' 'asher heshiyvvo.",
     "translation": "E aconteceu depois de ele comer pão e beber, que o homem providenciou a jumenta para o profeta que havia trazido de volta."
   },
   {
     "verse": 24,
     "original": "וַיֵּ֕לֶךְ וַיִּמְצָאֵ֧הוּ אַרְיֵ֛ה בַּדֶּ֖רֶךְ וַיְמִיתֵ֑הוּ וַתְּהִ֤י נִבְלָתוֹ֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְהַֽחֲמוֹר֙ עֹמֵ֣ד אֶצְלָ֔הּ וְהָ֣אַרְיֵ֔ה עֹמֵ֖ד אֵ֥צֶל הַנְּבֵלָֽה׃",
+    "transliteration": "vayelekhe vayimetsa'ehv 'areyeh vaderekhe vayemiytehv vatehiy nivelatvo mushelekhet vaderekhe vehahamvor 'omed 'etselah veha'areyeh 'omed 'etsel hanevelah.",
     "translation": "E foi, e achou-o um leão no caminho e o matou; e sua carcaça jazia no caminho, e o jumento estava junto a ela, e o leão ficava perto do cadáver."
   },
   {
     "verse": 25,
     "original": "וְהִנֵּ֧ה אֲנָשִׁ֣ים עֹבְרִ֗ים וַיִּרְא֤וּ אֶת־הַנְּבֵלָה֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְאֶת־הָ֣אַרְיֵ֔ה עֹמֵ֖ד אֵ֣צֶל הַנְּבֵלָ֑ה וַיָּבֹ֙אוּ֙ וַיְדַבְּר֣וּ בָעִ֔יר אֲשֶׁ֛ר הַנָּבִ֥יא הַזָּקֵ֖ן יֹשֵׁ֥ב בָּֽהּ׃",
+    "transliteration": "vehineh 'anashiym 'overiym vayire'v 'et-hanevelah mushelekhet vaderekhe ve'et-ha'areyeh 'omed 'etsel hanevelah vayavo'v vayedaverv va'iyr 'asher hanaviy' hazaken yoshev vah.",
     "translation": "Eis que homens vinham pelo caminho, e viram a carcaça lançada no campo, com o leão parado junto à carcaça. E vieram anunciar na cidade onde residia o velho profeta."
   },
   {
     "verse": 26,
     "original": "וַיִּשְׁמַ֣ע הַנָּבִיא֮ אֲשֶׁ֣ר הֱשִׁיב֣וֹ מִן־הַדֶּ֒רֶךְ֒ וַיֹּ֙אמֶר֙ אִ֣ישׁ הָאֱלֹהִ֣ים ה֔וּא אֲשֶׁ֥ר מָרָ֖ה אֶת־פִּ֣י יְהֹוָ֑ה וַיִּתְּנֵ֨הוּ יְהֹוָ֜ה לָאַרְיֵ֗ה וַֽיִּשְׁבְּרֵ֙הוּ֙ וַיְמִתֵ֔הוּ כִּדְבַ֥ר יְהֹוָ֖ה אֲשֶׁ֥ר דִּבֶּר־לֽוֹ׃",
+    "transliteration": "vayishema' hanaviy' 'asher heshiyvvo min-haderekhe vayo'mer 'iysh ha'elohiym hv' 'asher marah 'et-fiy yehovah vayitenehv yehovah la'areyeh vayisheverehv vayemitehv khidevar yehovah 'asher diver-lvo.",
     "translation": "E o profeta que haviam enviado de volta do caminho ouviu e disse: \"Este é homem de Deus, que se rebelou contra a palavra do Senhor\", e o Senhor o entregou ao leão, que o mordeu e matou, conforme a palavra do Senhor falada por ele."
   },
   {
     "verse": 27,
     "original": "וַיְדַבֵּ֤ר אֶל־בָּנָיו֙ לֵאמֹ֔ר חִבְשׁוּ־לִ֖י אֶֽת־הַחֲמ֑וֹר וַֽיַּחֲבֹֽשׁוּ׃",
+    "transliteration": "vayedaver 'el-vanayv le'mor hiveshv-liy 'et-hahamvor vayahavoshv.",
     "translation": "E falou aos seus filhos dizendo: Saddai-me o jumento. E o selaram."
   },
   {
     "verse": 28,
     "original": "וַיֵּ֗לֶךְ וַיִּמְצָ֤א אֶת־נִבְלָתוֹ֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וַֽחֲמוֹר֙ וְהָ֣אַרְיֵ֔ה עֹמְדִ֖ים אֵ֣צֶל הַנְּבֵלָ֑ה לֹֽא־אָכַ֤ל הָֽאַרְיֵה֙ אֶת־הַנְּבֵלָ֔ה וְלֹ֥א שָׁבַ֖ר אֶֽת־הַחֲמֽוֹר׃",
+    "transliteration": "vayelekhe vayimetsa' 'et-nivelatvo mushelekhet vaderekhe vahamvor veha'areyeh 'omediym 'etsel hanevelah lo'-'akhal ha'areyeh 'et-hanevelah velo' shavar 'et-hahamvor.",
     "translation": "E foi e achou sua carcaça jogada no caminho, com um jumento e o leão parados ao lado da carcaça. O leão não comeu a carcaça e também não partiu o jumento."
   },
   {
     "verse": 29,
     "original": "וַיִּשָּׂ֨א הַנָּבִ֜יא אֶת־נִבְלַ֧ת אִישׁ־הָאֱלֹהִ֛ים וַיַּנִּחֵ֥הוּ אֶֽל־הַחֲמ֖וֹר וַיְשִׁיבֵ֑הוּ וַיָּבֹ֗א אֶל־עִיר֙ הַנָּבִ֣יא הַזָּקֵ֔ן לִסְפֹּ֖ד וּלְקׇבְרֽוֹ׃",
+    "transliteration": "vayisa' hanaviy' 'et-nivelat 'iysh-ha'elohiym vayanihehv 'el-hahamvor vayeshiyvehv vayavo' 'el-'iyr hanaviy' hazaken lisefod vlekovervo.",
     "translation": "E o profeta levou a carcaça do homem de Deus, colocou-a sobre um jumento e o trouxe de volta. Chegando à cidade do profeta idoso, sepultou-o e lamentou por ele."
   },
   {
     "verse": 30,
     "original": "וַיַּנַּ֥ח אֶת־נִבְלָת֖וֹ בְּקִבְר֑וֹ וַיִּסְפְּד֥וּ עָלָ֖יו ה֥וֹי אָחִֽי׃",
+    "transliteration": "vayanah 'et-nivelatvo vekivervo vayisefedv 'alayv hvoy 'ahiy.",
     "translation": "Depois deitar sua carcaça no sepulcro, prantearam por ele: Oh, meu irmão!"
   },
   {
     "verse": 31,
     "original": "וַיְהִי֮ אַחֲרֵ֣י קׇבְר֣וֹ אֹתוֹ֒ וַיֹּ֤אמֶר אֶל־בָּנָיו֙ לֵאמֹ֔ר בְּמוֹתִי֙ וּקְבַרְתֶּ֣ם אֹתִ֔י בַּקֶּ֕בֶר אֲשֶׁ֛ר אִ֥ישׁ הָאֱלֹהִ֖ים קָב֣וּר בּ֑וֹ אֵ֚צֶל עַצְמֹתָ֔יו הַנִּ֖יחוּ אֶת־עַצְמֹתָֽי׃",
+    "transliteration": "vayehiy 'aharey kovervo 'otvo vayo'mer 'el-vanayv le'mor vemvotiy vkevaretem 'otiy vakever 'asher 'iysh ha'elohiym kavvr vvo 'etsel 'atsemotayv haniyhv 'et-'atsemotay.",
     "translation": "E aconteceu depois de sepultá-lo, e disse aos seus filhos dizendo: Na minha morte, sepultai-me no túmulo em que o homem de Deus está sepultado; ao lado das suas ossadas, depositai as minhas ossadas."
   },
   {
     "verse": 32,
     "original": "כִּי֩ הָיֹ֨ה יִֽהְיֶ֜ה הַדָּבָ֗ר אֲשֶׁ֤ר קָרָא֙ בִּדְבַ֣ר יְהֹוָ֔ה עַל־הַמִּזְבֵּ֖חַ אֲשֶׁ֣ר בְּבֵֽית־אֵ֑ל וְעַל֙ כׇּל־בָּתֵּ֣י הַבָּמ֔וֹת אֲשֶׁ֖ר בְּעָרֵ֥י שֹׁמְרֽוֹן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy hayoh yiheyeh hadavar 'asher kara' videvar yehovah 'al-hamizeveha 'asher veveyt-'el ve'al khol-vatey havamvot 'asher ve'arey shomervon.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Porque acontecerá a palavra que o Senhor proferiu contra o altar que está em Betel, e sobre todos os lares dos altos que estão nas cidades de Samaria."
   },
   {
     "verse": 33,
     "original": "אַחַר֙ הַדָּבָ֣ר הַזֶּ֔ה לֹא־שָׁ֥ב יָרׇבְעָ֖ם מִדַּרְכּ֣וֹ הָרָעָ֑ה וַ֠יָּ֠שׇׁב וַיַּ֜עַשׂ מִקְצ֤וֹת הָעָם֙ כֹּהֲנֵ֣י בָמ֔וֹת הֶֽחָפֵץ֙ יְמַלֵּ֣א אֶת־יָד֔וֹ וִיהִ֖י כֹּהֲנֵ֥י בָמֽוֹת׃",
+    "transliteration": "'ahar hadavar hazeh lo'-shav yarove'am midarekhvo hara'ah vayashov vaya'as miketsvot ha'am khohaney vamvot hehafets yemale' 'et-yadvo viyhiy khohaney vamvot.",
     "translation": "Depois desta coisa, Jeroboão não se desviou do seu caminho mau; reuniu e formou sacerdotes para os altos lugares. Quem quer que preenchesse a sua mão ele o tornava sacerdote dos altos lugares.\n\nNota: A tradução fornecida embora esteja próxima, houve necessidade de pequenas alterações para maior fidelidade e estilo acadêmico solicitado:\n\nDepois desta coisa, Jeroboão não se desviou do seu caminho mau; voltou e formou sacerdotes dos altares. Quem quer que enchesse a sua mão ele o tornava sacerdote dos altares."
   },
   {
     "verse": 34,
     "original": "וַֽיְהִי֙ בַּדָּבָ֣ר הַזֶּ֔ה לְחַטַּ֖את בֵּ֣ית יָרׇבְעָ֑ם וּלְהַכְחִיד֙ וּלְהַשְׁמִ֔יד מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayehiy vadavar hazeh lehata't veyt yarove'am vlehakhehiyd vlehashemiyd me'al feney ha'adamah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E foi por causa desta palavra que a casa de Jeroboam se tornou pecadora para ser exterminada e destruída da face da terra."
   }
 ]

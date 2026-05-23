@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "מַשָּׂ֖א דַּמָּ֑שֶׂק הִנֵּ֤ה דַמֶּ֙שֶׂק֙ מוּסָ֣ר מֵעִ֔יר וְהָיְתָ֖ה מְעִ֥י מַפָּלָֽה׃",
+    "transliteration": "masa' damasek hineh damesek mvsar me'iyr vehayetah me'iy mafalah.",
     "translation": "Oráculo sobre Damasco: Eis que Damasco se tornará uma cidade em ruínas, para ser um montão de escombros."
   },
   {
     "verse": 2,
     "original": "עֲזֻב֖וֹת עָרֵ֣י עֲרֹעֵ֑ר לַעֲדָרִ֣ים תִּֽהְיֶ֔ינָה וְרָבְצ֖וּ וְאֵ֥ין מַחֲרִֽיד׃",
+    "transliteration": "'azuvvot 'arey 'aro'er la'adariym tiheyeynah veravetsv ve'eyn mahariyd.",
     "translation": "As cidades desoladas de Aroer serão pastos; ali se estenderão, sem quem os atemorize."
   },
   {
     "verse": 3,
     "original": "וְנִשְׁבַּ֤ת מִבְצָר֙ מֵאֶפְרַ֔יִם וּמַמְלָכָ֥ה מִדַּמֶּ֖שֶׂק וּשְׁאָ֣ר אֲרָ֑ם כִּכְב֤וֹד בְּנֵֽי־יִשְׂרָאֵל֙ יִֽהְי֔וּ נְאֻ֖ם יְהֹוָ֥ה צְבָאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "venishevat mivetsar me'eferayim vmamelakhah midamesek vshe'ar 'aram khikhevvod veney-yisera'el yiheyv ne'um yehovah tseva'vot.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E cessará o assento de fortaleza de Efraim, e o reino de Damasco e o restante da Síria; será como a glória dos filhos de Israel, diz o Senhor dos Exércitos."
   },
   {
     "verse": 4,
     "original": "וְהָיָה֙ בַּיּ֣וֹם הַה֔וּא יִדַּ֖ל כְּב֣וֹד יַעֲקֹ֑ב וּמִשְׁמַ֥ן בְּשָׂר֖וֹ יֵרָזֶֽה׃",
+    "transliteration": "vehayah vayvom hahv' yidal khevvod ya'akov vmisheman vesarvo yerazeh.",
     "translation": "E acontecerá naquele dia que se apartará a glória de Jacó e a gordura de sua carne será emagrecida."
   },
   {
     "verse": 5,
     "original": "וְהָיָ֗ה כֶּֽאֱסֹף֙ קָצִ֣יר קָמָ֔ה וּזְרֹע֖וֹ שִׁבֳּלִ֣ים יִקְצ֑וֹר וְהָיָ֛ה כִּמְלַקֵּ֥ט שִׁבֳּלִ֖ים בְּעֵ֥מֶק רְפָאִֽים׃",
+    "transliteration": "vehayah khe'esof katsiyr kamah vzero'vo shivoliym yiketsvor vehayah khimelaket shivoliym ve'emek refa'iym.",
     "translation": "E acontecerá como na colheita do trigo, a sua mão ceifará os gajos, e será como quem recolhe espigas no Vale dos Refaím."
   },
   {
     "verse": 6,
     "original": "וְנִשְׁאַר־בּ֤וֹ עֽוֹלֵלֹת֙ כְּנֹ֣קֶף זַ֔יִת שְׁנַ֧יִם שְׁלֹשָׁ֛ה גַּרְגְּרִ֖ים בְּרֹ֣אשׁ אָמִ֑יר אַרְבָּעָ֣ה חֲמִשָּׁ֗ה בִּסְעִפֶ֙יהָ֙ פֹּֽרִיָּ֔ה נְאֻם־יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "venishe'ar-vvo 'volelot khenokef zayit shenayim sheloshah garegeriym vero'sh 'amiyr 'areva'ah hamishah vise'ifeyha foriyah ne'um-yehovah 'elohey yisera'el.",
     "translation": "E nele permanecerão rebentos como aglomerados de azeites, dois ou três nos ponteiros do amir; quatro ou cinco nas suas ramagens, sendo frutífera, diz o Senhor, Deus de Israel."
   },
   {
     "verse": 7,
     "original": "בַּיּ֣וֹם הַה֔וּא יִשְׁעֶ֥ה הָאָדָ֖ם עַל־עֹשֵׂ֑הוּ וְעֵינָ֕יו אֶל־קְד֥וֹשׁ יִשְׂרָאֵ֖ל תִּרְאֶֽינָה׃",
+    "transliteration": "vayvom hahv' yishe'eh ha'adam 'al-'osehv ve'eynayv 'el-kedvosh yisera'el tire'eynah.",
     "translation": "Nesse dia, o homem se apoiará no que o fez, e seus olhos contemplarão ao Santo de Israel."
   },
   {
     "verse": 8,
     "original": "וְלֹ֣א יִשְׁעֶ֔ה אֶל־הַֽמִּזְבְּח֖וֹת מַעֲשֵׂ֣ה יָדָ֑יו וַאֲשֶׁ֨ר עָשׂ֤וּ אֶצְבְּעֹתָיו֙ לֹ֣א יִרְאֶ֔ה וְהָאֲשֵׁרִ֖ים וְהָחַמָּנִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "velo' yishe'eh 'el-hamizevehvot ma'aseh yadayv va'asher 'asv 'etseve'otayv lo' yire'eh veha'asheriym vehahamaniym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E não se apoiará nos altares das suas próprias mãos; nem verá o que os seus dedos fizeram; e os ídolos e encantamentos serão destruídos."
   },
   {
     "verse": 9,
     "original": "בַּיּ֨וֹם הַה֜וּא יִהְי֣וּ&thinsp;<b>׀</b> עָרֵ֣י מָעוּזּ֗וֹ כַּעֲזוּבַ֤ת הַחֹ֙רֶשׁ֙ וְהָ֣אָמִ֔יר אֲשֶׁ֣ר עָֽזְב֔וּ מִפְּנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָיְתָ֖ה שְׁמָמָֽה׃",
+    "transliteration": "vayvom hahv' yiheyv&thinsp;<b>|</b> 'arey ma'vzvo kha'azvvat hahoresh veha'amiyr 'asher 'azevv mifeney veney yisera'el vehayetah shemamah.",
     "translation": "Naquele dia, serão suas cidades fortalezas como o deserto abandonado e a colina sem água que foram deixadas por causa dos filhos de Israel; e se tornarão um desolamento."
   },
   {
     "verse": 10,
     "original": "כִּ֤י שָׁכַ֙חַתְּ֙ אֱלֹהֵ֣י יִשְׁעֵ֔ךְ וְצ֥וּר מָעֻזֵּ֖ךְ לֹ֣א זָכָ֑רְתְּ עַל־כֵּ֗ן תִּטְּעִי֙ נִטְעֵ֣י נַעֲמָנִ֔ים וּזְמֹ֥רַת זָ֖ר תִּזְרָעֶֽנּוּ׃",
+    "transliteration": "khiy shakhahate 'elohey yishe'ekhe vetsvr ma'uzekhe lo' zakharete 'al-khen tite'iy nite'ey na'amaniym vzemorat zar tizera'env.",
     "translation": "Pois tu esqueceste o Deus da tua salvação, e não lembraste a rocha da tua fortaleza; por isso plantarás plantas de delícias e cevares árvores estrangeiras."
   },
   {
     "verse": 11,
     "original": "בְּי֤וֹם נִטְעֵךְ֙ תְּשַׂגְשֵׂ֔גִי וּבַבֹּ֖קֶר זַרְעֵ֣ךְ תַּפְרִ֑יחִי נֵ֥ד קָצִ֛יר בְּי֥וֹם נַחֲלָ֖ה וּכְאֵ֥ב אָנֽוּשׁ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veyvom nite'ekhe tesagesegiy vvavoker zare'ekhe taferiyhiy ned katsiyr veyvom nahalah vkhe'ev 'anvsh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "No dia em que fores plantada, florirás, e pela manhã tuas sementes se alegrarão. Apressa-te no tempo da colheita, no dia da herança, como o sofrimento do parto."
   },
   {
     "verse": 12,
     "original": "ה֗וֹי הֲמוֹן֙ עַמִּ֣ים רַבִּ֔ים כַּהֲמ֥וֹת יַמִּ֖ים יֶהֱמָי֑וּן וּשְׁא֣וֹן לְאֻמִּ֔ים כִּשְׁא֛וֹן מַ֥יִם כַּבִּירִ֖ים יִשָּׁאֽוּן׃",
+    "transliteration": "hvoy hamvon 'amiym raviym khahamvot yamiym yehemayvn vshe'von le'umiym khishe'von mayim khaviyriym yisha'vn.",
     "translation": "Ai, a multidão de povos numerosos, como os mugidos das ondas do mar se fazem ouvir; e o rumor das nações semelhante ao ruído das águas impetuosas ressoa."
   },
   {
     "verse": 13,
     "original": "לְאֻמִּ֗ים כִּשְׁא֞וֹן מַ֤יִם רַבִּים֙ יִשָּׁא֔וּן וְגָ֥עַר בּ֖וֹ וְנָ֣ס מִמֶּרְחָ֑ק וְרֻדַּ֗ף כְּמֹ֤ץ הָרִים֙ לִפְנֵי־ר֔וּחַ וּכְגַלְגַּ֖ל לִפְנֵ֥י סוּפָֽה׃",
+    "transliteration": "le'umiym khishe'von mayim raviym yisha'vn vega'ar vvo venas mimerehak verudaf khemots hariym lifeney-rvha vkhegalegal lifeney svfah.",
     "translation": "Para as nações, como o gemido dos muitos águas ele rugirá e repreenderá-o, e fugirá da distância; será perseguido como poeira dos montes diante do vento, e como roda de palha diante da tempestade."
   },
   {
     "verse": 14,
     "original": "לְעֵ֥ת עֶ֙רֶב֙ וְהִנֵּ֣ה בַלָּהָ֔ה בְּטֶ֥רֶם בֹּ֖קֶר אֵינֶ֑נּוּ זֶ֚ה חֵ֣לֶק שׁוֹסֵ֔ינוּ וְגוֹרָ֖ל לְבֹזְזֵֽינוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "le'et 'erev vehineh valahah veterem voker 'eynenv zeh helek shvoseynv vegvoral levozezeynv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Às vesperas, eis que desaparece; antes do raiar da alvorada, ele não existe mais. Esta é a porção dos nossos opressores, este o destino de nossos adversários."
   }
 ]

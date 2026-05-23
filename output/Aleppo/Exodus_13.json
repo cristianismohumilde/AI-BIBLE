@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
     "original": "קַדֶּשׁ־לִ֨י כׇל־בְּכ֜וֹר פֶּ֤טֶר כׇּל־רֶ֙חֶם֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל בָּאָדָ֖ם וּבַבְּהֵמָ֑ה לִ֖י הֽוּא׃",
+    "transliteration": "kadesh-liy khol-vekhvor feter khol-rehem viveney yisera'el va'adam vvavehemah liy hv'.",
     "translation": "Santifica-me todo primogênito, o primeiro-fruto de toda matriz entre os filhos de Israel, tanto do homem como do animal; é meu."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־הָעָ֗ם זָכ֞וֹר אֶת־הַיּ֤וֹם הַזֶּה֙ אֲשֶׁ֨ר יְצָאתֶ֤ם מִמִּצְרַ֙יִם֙ מִבֵּ֣ית עֲבָדִ֔ים כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִ֧יא יְהֹוָ֛ה אֶתְכֶ֖ם מִזֶּ֑ה וְלֹ֥א יֵאָכֵ֖ל חָמֵֽץ׃",
+    "transliteration": "vayo'mer mosheh 'el-ha'am zakhvor 'et-hayvom hazeh 'asher yetsa'tem mimitserayim miveyt 'avadiym khiy vehozek yad hvotsiy' yehovah 'etekhem mizeh velo' ye'akhel hamets.",
     "translation": "E Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egito, da casa da servidão; pois com mão forte vos tirou o Senhor daqui. E não se comerá fermentado nenhum."
   },
   {
     "verse": 4,
     "original": "הַיּ֖וֹם אַתֶּ֣ם יֹצְאִ֑ים בְּחֹ֖דֶשׁ הָאָבִֽיב׃",
+    "transliteration": "hayvom 'atem yotse'iym vehodesh ha'aviyv.",
     "translation": "Hoje vós saireis no mês da abibe."
   },
   {
     "verse": 5,
     "original": "וְהָיָ֣ה כִֽי־יְבִיאֲךָ֣ יְהֹוָ֡ה אֶל־אֶ֣רֶץ הַֽ֠כְּנַעֲנִ֠י וְהַחִתִּ֨י וְהָאֱמֹרִ֜י וְהַחִוִּ֣י וְהַיְבוּסִ֗י אֲשֶׁ֨ר נִשְׁבַּ֤ע לַאֲבֹתֶ֙יךָ֙ לָ֣תֶת לָ֔ךְ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ וְעָבַדְתָּ֛ אֶת־הָעֲבֹדָ֥ה הַזֹּ֖את בַּחֹ֥דֶשׁ הַזֶּֽה׃",
+    "transliteration": "vehayah khiy-yeviy'akha yehovah 'el-'erets hakhena'aniy vehahitiy veha'emoriy vehahiviy vehayevvsiy 'asher nisheva' la'avoteykha latet lakhe 'erets zavat halav vdevash ve'avadeta 'et-ha'avodah hazo't vahodesh hazeh.",
     "translation": "E sucederá que, quando o Senhor te conduzir à terra dos cananeus e hititas, amorreus e heveus e jebuseus, de quem jurou a teus pais que te daria uma terra fluente de leite e mel, então prestarás esta servidão neste mês."
   },
   {
     "verse": 6,
     "original": "שִׁבְעַ֥ת יָמִ֖ים תֹּאכַ֣ל מַצֹּ֑ת וּבַיּוֹם֙ הַשְּׁבִיעִ֔י חַ֖ג לַיהֹוָֽה׃",
+    "transliteration": "shive'at yamiym to'khal matsot vvayvom hasheviy'iy hag layhovah.",
     "translation": "Sete dias comerás pães ázimos, e no sétimo dia haverá festa ao Senhor."
   },
   {
     "verse": 7,
     "original": "מַצּוֹת֙ יֵֽאָכֵ֔ל אֵ֖ת שִׁבְעַ֣ת הַיָּמִ֑ים וְלֹֽא־יֵרָאֶ֨ה לְךָ֜ חָמֵ֗ץ וְלֹֽא־יֵרָאֶ֥ה לְךָ֛ שְׂאֹ֖ר בְּכׇל־גְּבֻלֶֽךָ׃",
+    "transliteration": "matsvot ye'akhel 'et shive'at hayamiym velo'-yera'eh lekha hamets velo'-yera'eh lekha se'or vekhol-gevulekha.",
     "translation": "Comer-se-ão pães ázimos durante sete dias; não se fará aparecer fermento diante de ti, nem se deixará ver levedura em todo o teu território."
   },
   {
     "verse": 8,
     "original": "וְהִגַּדְתָּ֣ לְבִנְךָ֔ בַּיּ֥וֹם הַה֖וּא לֵאמֹ֑ר בַּעֲב֣וּר זֶ֗ה עָשָׂ֤ה יְהֹוָה֙ לִ֔י בְּצֵאתִ֖י מִמִּצְרָֽיִם׃",
+    "transliteration": "vehigadeta levinekha vayvom hahv' le'mor va'avvr zeh 'asah yehovah liy vetse'tiy mimitserayim.",
     "translation": "E dirás ao teu filho naquele dia, dizendo: Por isso fez o Senhor por mim quando saí da terra do Egito."
   },
   {
     "verse": 9,
     "original": "וְהָיָה֩ לְךָ֨ לְא֜וֹת עַל־יָדְךָ֗ וּלְזִכָּרוֹן֙ בֵּ֣ין עֵינֶ֔יךָ לְמַ֗עַן תִּהְיֶ֛ה תּוֹרַ֥ת יְהֹוָ֖ה בְּפִ֑יךָ כִּ֚י בְּיָ֣ד חֲזָקָ֔ה הוֹצִֽאֲךָ֥ יְהֹוָ֖ה מִמִּצְרָֽיִם׃",
+    "transliteration": "vehayah lekha le'vot 'al-yadekha vlezikharvon veyn 'eyneykha lema'an tiheyeh tvorat yehovah vefiykha khiy veyad hazakah hvotsi'akha yehovah mimitserayim.",
     "translation": "E será para ti por sinal na tua mão e por memorial entre os teus olhos, para que seja a lei do Senhor em tua boca; porque com mão forte te tirou o Senhor de terra do Egito."
   },
   {
     "verse": 10,
     "original": "וְשָׁמַרְתָּ֛ אֶת־הַחֻקָּ֥ה הַזֹּ֖את לְמוֹעֲדָ֑הּ מִיָּמִ֖ים יָמִֽימָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veshamareta 'et-hahukah hazo't lemvo'adah miyamiym yamiymah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E guardará esta estatuição em sua devida ocasião, dia após dia."
   },
   {
     "verse": 11,
     "original": "וְהָיָ֞ה כִּֽי־יְבִאֲךָ֤ יְהֹוָה֙ אֶל־אֶ֣רֶץ הַֽכְּנַעֲנִ֔י כַּאֲשֶׁ֛ר נִשְׁבַּ֥ע לְךָ֖ וְלַֽאֲבֹתֶ֑יךָ וּנְתָנָ֖הּ לָֽךְ׃",
+    "transliteration": "vehayah khiy-yevi'akha yehovah 'el-'erets hakhena'aniy kha'asher nisheva' lekha vela'avoteykha vnetanah lakhe.",
     "translation": "E sucederá que, quando o Senhor te trouxer à terra dos cananeus, como jurou a ti e a teus pais, ele te dará essa terra."
   },
   {
     "verse": 12,
     "original": "וְהַעֲבַרְתָּ֥ כׇל־פֶּֽטֶר־רֶ֖חֶם לַֽיהֹוָ֑ה וְכׇל־פֶּ֣טֶר&thinsp;<b>׀</b> שֶׁ֣גֶר בְּהֵמָ֗ה אֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ הַזְּכָרִ֖ים לַיהֹוָֽה׃",
+    "transliteration": "veha'avareta khol-feter-rehem layhovah vekhol-feter&thinsp;<b>|</b> sheger vehemah 'asher yiheyeh lekha hazekhariym layhovah.",
     "translation": "E passarás todo primogênito do ventre à Yahweh, e todo primogênito da fêmea do rebanho que for teu, os machos, ao Yahweh."
   },
   {
     "verse": 13,
     "original": "וְכׇל־פֶּ֤טֶר חֲמֹר֙ תִּפְדֶּ֣ה בְשֶׂ֔ה וְאִם־לֹ֥א תִפְדֶּ֖ה וַעֲרַפְתּ֑וֹ וְכֹ֨ל בְּכ֥וֹר אָדָ֛ם בְּבָנֶ֖יךָ תִּפְדֶּֽה׃",
+    "transliteration": "vekhol-feter hamor tifedeh veseh ve'im-lo' tifedeh va'arafetvo vekhol vekhvor 'adam vevaneykha tifedeh.",
     "translation": "E toda primogenitura de jumento redimirás com cordeiro, e se não redimires, então o quebrarás; toda primogenitura de homem entre teus filhos redimirás."
   },
   {
     "verse": 14,
     "original": "וְהָיָ֞ה כִּֽי־יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֣ר מַה־זֹּ֑את וְאָמַרְתָּ֣ אֵלָ֔יו בְּחֹ֣זֶק יָ֗ד הוֹצִיאָ֧נוּ יְהֹוָ֛ה מִמִּצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃",
+    "transliteration": "vehayah khiy-yishe'alekha vinekha mahar le'mor mah-zo't ve'amareta 'elayv vehozek yad hvotsiy'anv yehovah mimitserayim miveyt 'avadiym.",
     "translation": "E acontecerá que quando teu filho te perguntar amanhã, dizendo: O que é isto? Tu lhe dirás: Com mão forte nos tirou o Senhor do Egito, da casa da servidão."
   },
   {
     "verse": 15,
     "original": "וַיְהִ֗י כִּֽי־הִקְשָׁ֣ה פַרְעֹה֮ לְשַׁלְּחֵ֒נוּ֒ וַיַּהֲרֹ֨ג יְהֹוָ֤ה כׇּל־בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מִבְּכֹ֥ר אָדָ֖ם וְעַד־בְּכ֣וֹר בְּהֵמָ֑ה עַל־כֵּן֩ אֲנִ֨י זֹבֵ֜חַ לַֽיהֹוָ֗ה כׇּל־פֶּ֤טֶר רֶ֙חֶם֙ הַזְּכָרִ֔ים וְכׇל־בְּכ֥וֹר בָּנַ֖י אֶפְדֶּֽה׃",
+    "transliteration": "vayehiy khiy-hikeshah fare'oh leshalehenv vayaharog yehovah khol-vekhvor ve'erets mitserayim mivekhor 'adam ve'ad-vekhvor vehemah 'al-khen 'aniy zoveha layhovah khol-feter rehem hazekhariym vekhol-vekhvor vanay 'efedeh.",
     "translation": "E aconteceu que, quando o Faraó endureceu o seu coração para nos deixar ir, o Senhor matou todos os primogênitos na terra do Egito, desde o primogênito do homem até ao primogênito dos animais. Por isso, eu imolo ao Senhor todo primogênito macho, seja de gado ou de rebanho, e redimo todos os primogênitos dos meus filhos."
   },
   {
     "verse": 16,
     "original": "וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehayah le'vot 'al-yadekhah vletvotafot veyn 'eyneykha khiy vehozek yad hvotsiy'anv yehovah mimitserayim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E será como um sinal na tua mão e como frontais entre os teus olhos, pois com mão forte nos tirou o Senhor do Egito."
   },
   {
     "verse": 17,
     "original": "וַיְהִ֗י בְּשַׁלַּ֣ח פַּרְעֹה֮ אֶת־הָעָם֒ וְלֹא־נָחָ֣ם אֱלֹהִ֗ים דֶּ֚רֶךְ אֶ֣רֶץ פְּלִשְׁתִּ֔ים כִּ֥י קָר֖וֹב ה֑וּא כִּ֣י&thinsp;<b>׀</b> אָמַ֣ר אֱלֹהִ֗ים פֶּֽן־יִנָּחֵ֥ם הָעָ֛ם בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְשָׁ֥בוּ מִצְרָֽיְמָה׃",
+    "transliteration": "vayehiy veshalah fare'oh 'et-ha'am velo'-naham 'elohiym derekhe 'erets felishetiym khiy karvov hv' khiy&thinsp;<b>|</b> 'amar 'elohiym fen-yinahem ha'am vire'otam milehamah veshavv mitserayemah.",
     "translation": "E foi quando Faraó despediu o povo que Deus não levou-os pelo caminho da terra dos filisteus, por ser mais curto; porque Deus disse: Para que o povo, ao verem guerra, não se arrependam e voltem ao Egito."
   },
   {
     "verse": 18,
     "original": "וַיַּסֵּ֨ב אֱלֹהִ֧ים&thinsp;<small>׀</small>&thinsp;אֶת־הָעָ֛ם דֶּ֥רֶךְ הַמִּדְבָּ֖ר יַם־ס֑וּף וַחֲמֻשִׁ֛ים עָל֥וּ בְנֵי־יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "vayasev 'elohiym&thinsp;<small>|</small>&thinsp;'et-ha'am derekhe hamidevar yam-svf vahamushiym 'alv veney-yisera'el me'erets mitserayim.",
     "translation": "E Deus virou o povo pelo caminho do deserto do Mar Vermelho, e os filhos de Israel subiram armados da terra do Egito."
   },
   {
     "verse": 19,
     "original": "וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־עַצְמ֥וֹת יוֹסֵ֖ף עִמּ֑וֹ כִּי֩ הַשְׁבֵּ֨עַ הִשְׁבִּ֜יעַ אֶת־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם וְהַעֲלִיתֶ֧ם אֶת־עַצְמֹתַ֛י מִזֶּ֖ה אִתְּכֶֽם׃",
+    "transliteration": "vayikah mosheh 'et-'atsemvot yvosef 'imvo khiy hasheve'a hisheviy'a 'et-veney yisera'el le'mor fakod yifekod 'elohiym 'etekhem veha'aliytem 'et-'atsemotay mizeh 'itekhem.",
     "translation": "E Moisés tomou os ossos de José consigo, pois este havia feito jurar aos filhos de Israel, dizendo: Certamente Deus vos visitará e então subireis daqui, levando convosco meus ossos."
   },
   {
     "verse": 20,
     "original": "וַיִּסְע֖וּ מִסֻּכֹּ֑ת וַיַּחֲנ֣וּ בְאֵתָ֔ם בִּקְצֵ֖ה הַמִּדְבָּֽר׃",
+    "transliteration": "vayise'v misukhot vayahanv ve'etam viketseh hamidevar.",
     "translation": "E partiram de Sucot e acamparam em Etam, no extremo do deserto."
   },
   {
     "verse": 21,
     "original": "וַֽיהֹוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה בְּעַמּ֥וּד אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה׃",
+    "transliteration": "vayhovah holekhe lifeneyhem yvomam ve'amvd 'anan lanehotam haderekhe velayelah ve'amvd 'esh leha'iyr lahem lalekhet yvomam valayelah.",
     "translation": "E o Senhor ia à frente deles de dia em uma coluna de nuvem para os guiar pelo caminho, e de noite em uma coluna de fogo para iluminá-los, a fim de que pudessem marchar de dia e de noite."
   },
   {
     "verse": 22,
     "original": "לֹֽא־יָמִ֞ישׁ עַמּ֤וּד הֶֽעָנָן֙ יוֹמָ֔ם וְעַמּ֥וּד הָאֵ֖שׁ לָ֑יְלָה לִפְנֵ֖י הָעָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lo'-yamiysh 'amvd he'anan yvomam ve'amvd ha'esh layelah lifeney ha'am.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Não se movia o pilar da nuvem de dia, nem o pilar do fogo de noite, diante do povo."
   }
 ]

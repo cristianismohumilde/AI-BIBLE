@@ -2,881 +2,1057 @@
   {
     "verse": 1,
     "original": "αλληλουια α# αλφ μακάριοι οἱ ἄμωμοι ἐν ὁδῷ οἱ πορευόμενοι ἐν νόμῳ κυρίου ",
+    "transliteration": "alliloyia a# alf makarioi ohi amomoi en hodo ohi poreyomenoi en nomo kyrioy ",
     "translation": "Aleluia. Bem-aventurados os íntegros no caminho, que andam na lei do Senhor."
   },
   {
     "verse": 2,
     "original": "μακάριοι οἱ ἐξερευνῶντες τὰ μαρτύρια αὐτοῦ ἐν ὅλῃ καρδίᾳ ἐκζητήσουσιν αὐτόν ",
+    "transliteration": "makarioi ohi exereynontes ta martyria aytoy en holi kardia ekzitisoysin ayton ",
     "translation": "Bem-aventurados os que investigam seus testemunhos com toda o coração, buscam-no."
   },
   {
     "verse": 3,
     "original": "οὐ γὰρ οἱ ἐργαζόμενοι τὴν ἀνομίαν ἐν ταῖς ὁδοῖς αὐτοῦ ἐπορεύθησαν ",
+    "transliteration": "oy gar ohi ergazomenoi tin anomian en tais hodois aytoy eporeythisan ",
     "translation": "Pois não os que praticam a iniqüidade caminharam em seus caminhos."
   },
   {
     "verse": 4,
     "original": "σὺ ἐνετείλω τὰς ἐντολάς σου φυλάξασθαι σφόδρα ",
+    "transliteration": "sy eneteilo tas entolas soy fylaxasthai sfodra ",
     "translation": "Tu ordenaste que guardássemos muito diligentemente os Teus mandamentos."
   },
   {
     "verse": 5,
     "original": "ὄφελον κατευθυνθείησαν αἱ ὁδοί μου τοῦ φυλάξασθαι τὰ δικαιώματά σου ",
+    "transliteration": "ofelon kateythyntheiisan ahi hodoi moy toy fylaxasthai ta dikaiomata soy ",
     "translation": "Sejam retas as minhas sendas para guardar os teus preceitos."
   },
   {
     "verse": 6,
     "original": "τότε οὐ μὴ ἐπαισχυνθῶ ἐν τῷ με ἐπιβλέπειν ἐπὶ πάσας τὰς ἐντολάς σου ",
+    "transliteration": "tote oy mi epaischyntho en to me epivlepein epi pasas tas entolas soy ",
     "translation": "Então não me envergonharei ao olhar para todas as tuas ordens."
   },
   {
     "verse": 7,
     "original": "ἐξομολογήσομαί σοι κύριε ἐν εὐθύτητι καρδίας ἐν τῷ μεμαθηκέναι με τὰ κρίματα τῆς δικαιοσύνης σου ",
+    "transliteration": "exomologisomai soi kyrie en eythytiti kardias en to memathikenai me ta krimata tis dikaiosynis soy ",
     "translation": "Confessarei a ti, Senhor, com retidão de coração, quando compreendi os juízos da tua justiça."
   },
   {
     "verse": 8,
     "original": "τὰ δικαιώματά σου φυλάξω μή με ἐγκαταλίπῃς ἕως σφόδρα ",
+    "transliteration": "ta dikaiomata soy fylaxo mi me egkatalipis heos sfodra ",
     "translation": "Guardarei teus preceitos, não me deixes completamente."
   },
   {
     "verse": 9,
     "original": "β# βηθ ἐν τίνι κατορθώσει ὁ νεώτερος τὴν ὁδὸν αὐτοῦ ἐν τῷ φυλάσσεσθαι τοὺς λόγους σου ",
+    "transliteration": "v# vith en tini katorthosei ho neoteros tin hodon aytoy en to fylassesthai toys logoys soy ",
     "translation": "Em que me auxiliarão os jovens para guardar teus preceitos?"
   },
   {
     "verse": 10,
     "original": "ἐν ὅλῃ καρδίᾳ μου ἐξεζήτησά σε μὴ ἀπώσῃ με ἀπὸ τῶν ἐντολῶν σου ",
+    "transliteration": "en holi kardia moy exezitisa se mi aposi me apo ton entolon soy ",
     "translation": "Com todo o meu coração busquei-te; não me afastes das tuas leis."
   },
   {
     "verse": 11,
     "original": "ἐν τῇ καρδίᾳ μου ἔκρυψα τὰ λόγιά σου ὅπως ἂν μὴ ἁμάρτω σοι ",
+    "transliteration": "en ti kardia moy ekrypsa ta logia soy hopos an mi hamarto soi ",
     "translation": "No meu coração escondi tuas palavras para que não peque contra ti."
   },
   {
     "verse": 12,
     "original": "εὐλογητὸς εἶ κύριε δίδαξόν με τὰ δικαιώματά σου ",
+    "transliteration": "eylogitos ei kyrie didaxon me ta dikaiomata soy ",
     "translation": "Bendito és, Senhor; ensina-me os teus preceitos."
   },
   {
     "verse": 13,
     "original": "ἐν τοῖς χείλεσίν μου ἐξήγγειλα πάντα τὰ κρίματα τοῦ στόματός σου ",
+    "transliteration": "en tois cheilesin moy exiggeila panta ta krimata toy stomatos soy ",
     "translation": "Com os meus lábios proclamei todos os juízos da tua boca."
   },
   {
     "verse": 14,
     "original": "ἐν τῇ ὁδῷ τῶν μαρτυρίων σου ἐτέρφθην ὡς ἐπὶ παντὶ πλούτῳ ",
+    "transliteration": "en ti hodo ton martyrion soy eterfthin hos epi panti ployto ",
     "translation": "Na senda dos teus testemunhos me regalei, como em todo o tesouro."
   },
   {
     "verse": 15,
     "original": "ἐν ταῖς ἐντολαῖς σου ἀδολεσχήσω καὶ κατανοήσω τὰς ὁδούς σου ",
+    "transliteration": "en tais entolais soy adoleschiso kai katanoiso tas hodoys soy ",
     "translation": "Na tua lei meditarei e atentarei para os teus caminhos."
   },
   {
     "verse": 16,
     "original": "ἐν τοῖς δικαιώμασίν σου μελετήσω οὐκ ἐπιλήσομαι τῶν λόγων σου ",
+    "transliteration": "en tois dikaiomasin soy meletiso oyk epilisomai ton logon soy ",
     "translation": "Nas tuas justiças meditarei; não me esquecerei das tuas palavras."
   },
   {
     "verse": 17,
     "original": "γ# γιμαλ ἀνταπόδος τῷ δούλῳ σου ζήσομαι καὶ φυλάξω τοὺς λόγους σου ",
+    "transliteration": "g# gimal antapodos to doylo soy zisomai kai fylaxo toys logoys soy ",
     "translation": "Recompensei o seu servo e viverei; guardarei os seus mandamentos."
   },
   {
     "verse": 18,
     "original": "ἀποκάλυψον τοὺς ὀφθαλμούς μου καὶ κατανοήσω τὰ θαυμάσιά σου ἐκ τοῦ νόμου σου ",
+    "transliteration": "apokalypson toys ofthalmoys moy kai katanoiso ta thaymasia soy ek toy nomoy soy ",
     "translation": "Revela meus olhos, e contemplarei as maravilhas de tua lei."
   },
   {
     "verse": 19,
     "original": "πάροικος ἐγώ εἰμι ἐν τῇ γῇ μὴ ἀποκρύψῃς ἀπ’ ἐμοῦ τὰς ἐντολάς σου ",
+    "transliteration": "paroikos ego eimi en ti gi mi apokrypsis ap' emoy tas entolas soy ",
     "translation": "Estrangeiro sou eu na terra; não me escondas os teus preceitos."
   },
   {
     "verse": 20,
     "original": "ἐπεπόθησεν ἡ ψυχή μου τοῦ ἐπιθυμῆσαι τὰ κρίματά σου ἐν παντὶ καιρῷ ",
+    "transliteration": "epepothisen hi psychi moy toy epithymisai ta krimata soy en panti kairo ",
     "translation": "A minha alma ansiou desejando os teus juízos em todo tempo."
   },
   {
     "verse": 21,
     "original": "ἐπετίμησας ὑπερηφάνοις ἐπικατάρατοι οἱ ἐκκλίνοντες ἀπὸ τῶν ἐντολῶν σου ",
+    "transliteration": "epetimisas hyperifanois epikataratoi ohi ekklinontes apo ton entolon soy ",
     "translation": "repreendeste os soberbos, amaldiçoado quem se desvia dos teus mandamentos"
   },
   {
     "verse": 22,
     "original": "περίελε ἀπ’ ἐμοῦ ὄνειδος καὶ ἐξουδένωσιν ὅτι τὰ μαρτύριά σου ἐξεζήτησα ",
+    "transliteration": "periele ap' emoy oneidos kai exoydenosin hoti ta martyria soy exezitisa ",
     "translation": "Livrai-me da vergonha e do opróbrio, porque tenho buscado os teus testemunhos."
   },
   {
     "verse": 23,
     "original": "καὶ γὰρ ἐκάθισαν ἄρχοντες καὶ κατ’ ἐμοῦ κατελάλουν ὁ δὲ δοῦλός σου ἠδολέσχει ἐν τοῖς δικαιώμασίν σου ",
+    "transliteration": "kai gar ekathisan archontes kai kat' emoy katelaloyn ho de doylos soy idoleschei en tois dikaiomasin soy ",
     "translation": "Pois os príncipes se assentaram contra mim, mas o teu servo meditava nos teus preceitos."
   },
   {
     "verse": 24,
     "original": "καὶ γὰρ τὰ μαρτύριά σου μελέτη μού ἐστιν καὶ αἱ συμβουλίαι μου τὰ δικαιώματά σου ",
+    "transliteration": "kai gar ta martyria soy meleti moy estin kai ahi symvoyliai moy ta dikaiomata soy ",
     "translation": "Pois teus testemunhos são o objeto de minha meditação, e tuas leis são o guia dos meus passos."
   },
   {
     "verse": 25,
     "original": "δ# δελθ ἐκολλήθη τῷ ἐδάφει ἡ ψυχή μου ζῆσόν με κατὰ τὸν λόγον σου ",
+    "transliteration": "d# delth ekollithi to edafei hi psychi moy zison me kata ton logon soy ",
     "translation": "δ# minha alma se apega à terra, vivifica-me segundo a tua palavra."
   },
   {
     "verse": 26,
     "original": "τὰς ὁδούς μου ἐξήγγειλα καὶ ἐπήκουσάς μου δίδαξόν με τὰ δικαιώματά σου ",
+    "transliteration": "tas hodoys moy exiggeila kai epikoysas moy didaxon me ta dikaiomata soy ",
     "translation": "Os teus caminhos anunciei, e tu me ouviste; ensina-me os teus estatutos."
   },
   {
     "verse": 27,
     "original": "ὁδὸν δικαιωμάτων σου συνέτισόν με καὶ ἀδολεσχήσω ἐν τοῖς θαυμασίοις σου ",
+    "transliteration": "hodon dikaiomaton soy synetison me kai adoleschiso en tois thaymasiois soy ",
     "translation": "Ensina-me o caminho das tuas justiças, e eu meditarei sobre os teus prodígios."
   },
   {
     "verse": 28,
     "original": "ἔσταξεν ἡ ψυχή μου ἀπὸ ἀκηδίας βεβαίωσόν με ἐν τοῖς λόγοις σου ",
+    "transliteration": "estaxen hi psychi moy apo akidias vevaioson me en tois logois soy ",
     "translation": "A minha alma está desfalecida de tristeza; fortalece-me com as tuas palavras."
   },
   {
     "verse": 29,
     "original": "ὁδὸν ἀδικίας ἀπόστησον ἀπ’ ἐμοῦ καὶ τῷ νόμῳ σου ἐλέησόν με ",
+    "transliteration": "hodon adikias apostison ap' emoy kai to nomo soy eleison me ",
     "translation": "O caminho da iniqüidade afasta de mim e com a tua lei tem misericórdia de mim."
   },
   {
     "verse": 30,
     "original": "ὁδὸν ἀληθείας ᾑρετισάμην τὰ κρίματά σου οὐκ ἐπελαθόμην ",
+    "transliteration": "hodon alitheias hiretisamin ta krimata soy oyk epelathomin ",
     "translation": "Segui o caminho da verdade, não me esqueci dos teus juízos."
   },
   {
     "verse": 31,
     "original": "ἐκολλήθην τοῖς μαρτυρίοις σου κύριε μή με καταισχύνῃς ",
+    "transliteration": "ekollithin tois martyriois soy kyrie mi me kataischynis ",
     "translation": "Collei-me aos teus testemunhos, Senhor; não me envergonhes."
   },
   {
     "verse": 32,
     "original": "ὁδὸν ἐντολῶν σου ἔδραμον ὅταν ἐπλάτυνας τὴν καρδίαν μου ",
+    "transliteration": "hodon entolon soy edramon hotan eplatynas tin kardian moy ",
     "translation": "Caminho de teus mandamentos corri quando alargaste meu coração."
   },
   {
     "verse": 33,
     "original": "ε# η νομοθέτησόν με κύριε τὴν ὁδὸν τῶν δικαιωμάτων σου καὶ ἐκζητήσω αὐτὴν διὰ παντός ",
+    "transliteration": "e# i nomothetison me kyrie tin hodon ton dikaiomaton soy kai ekzitiso aytin dia pantos ",
     "translation": "Ensina-me, Senhor, o caminho das tuas justiças e nele buscarei perseverantemente."
   },
   {
     "verse": 34,
     "original": "συνέτισόν με καὶ ἐξερευνήσω τὸν νόμον σου καὶ φυλάξω αὐτὸν ἐν ὅλῃ καρδίᾳ μου ",
+    "transliteration": "synetison me kai exereyniso ton nomon soy kai fylaxo ayton en holi kardia moy ",
     "translation": "Instrui-me e examinarei tua lei, e cumprirei-a com todo o meu coração."
   },
   {
     "verse": 35,
     "original": "ὁδήγησόν με ἐν τρίβῳ τῶν ἐντολῶν σου ὅτι αὐτὴν ἠθέλησα ",
+    "transliteration": "hodigison me en trivo ton entolon soy hoti aytin ithelisa ",
     "translation": "Guia-me no caminho dos teus mandamentos, pois nisso pus o meu desejo."
   },
   {
     "verse": 36,
     "original": "κλῖνον τὴν καρδίαν μου εἰς τὰ μαρτύριά σου καὶ μὴ εἰς πλεονεξίαν ",
+    "transliteration": "klinon tin kardian moy eis ta martyria soy kai mi eis pleonexian ",
     "translation": "Inclina meu coração para os teus testemunhos e não para a avareza."
   },
   {
     "verse": 37,
     "original": "ἀπόστρεψον τοὺς ὀφθαλμούς μου τοῦ μὴ ἰδεῖν ματαιότητα ἐν τῇ ὁδῷ σου ζῆσόν με ",
+    "transliteration": "apostrepson toys ofthalmoys moy toy mi idein mataiotita en ti hodo soy zison me ",
     "translation": "Volta os meus olhos para que não veja vaidade no teu caminho; vivifica-me."
   },
   {
     "verse": 38,
     "original": "στῆσον τῷ δούλῳ σου τὸ λόγιόν σου εἰς τὸν φόβον σου ",
+    "transliteration": "stison to doylo soy to logion soy eis ton fovon soy ",
     "translation": "Estabelece tua lei ao teu servo, no temor de ti."
   },
   {
     "verse": 39,
     "original": "περίελε τὸν ὀνειδισμόν μου ὃν ὑπώπτευσα τὰ γὰρ κρίματά σου χρηστά ",
+    "transliteration": "periele ton oneidismon moy hon hypopteysa ta gar krimata soy christa ",
     "translation": "Tira de mim o opróbrio que sinto, pois os teus juízos são bons."
   },
   {
     "verse": 40,
     "original": "ἰδοὺ ἐπεθύμησα τὰς ἐντολάς σου ἐν τῇ δικαιοσύνῃ σου ζῆσόν με ",
+    "transliteration": "idoy epethymisa tas entolas soy en ti dikaiosyni soy zison me ",
     "translation": "Eis que eu desejei os teus mandamentos na tua justiça; vive-me."
   },
   {
     "verse": 41,
     "original": "Ϝ# ουαυ καὶ ἔλθοι ἐπ’ ἐμὲ τὸ ἔλεός σου κύριε τὸ σωτήριόν σου κατὰ τὸ λόγιόν σου ",
+    "transliteration": "W# oyay kai elthoi ep' eme to eleos soy kyrie to sotirion soy kata to logion soy ",
     "translation": "Eis-me, e venha sobre mim o teu amor, ó Senhor; a tua salvação, conforme a tua palavra."
   },
   {
     "verse": 42,
     "original": "καὶ ἀποκριθήσομαι τοῖς ὀνειδίζουσί με λόγον ὅτι ἤλπισα ἐπὶ τοὺς λόγους σου ",
+    "transliteration": "kai apokrithisomai tois oneidizoysi me logon hoti ilpisa epi toys logoys soy ",
     "translation": "E responderei aos que me escarnecem, porque confiei nas tuas palavras."
   },
   {
     "verse": 43,
     "original": "καὶ μὴ περιέλῃς ἐκ τοῦ στόματός μου λόγον ἀληθείας ἕως σφόδρα ὅτι ἐπὶ τὰ κρίματά σου ἐπήλπισα ",
+    "transliteration": "kai mi perielis ek toy stomatos moy logon alitheias heos sfodra hoti epi ta krimata soy epilpisa ",
     "translation": "E não retires de minha boca a palavra da verdade, porque sobre teus juízos esperei."
   },
   {
     "verse": 44,
     "original": "καὶ φυλάξω τὸν νόμον σου διὰ παντός εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος ",
+    "transliteration": "kai fylaxo ton nomon soy dia pantos eis ton aiona kai eis ton aiona toy aionos ",
     "translation": "E guardarei a tua lei perpetuamente, para sempre e mais além."
   },
   {
     "verse": 45,
     "original": "καὶ ἐπορευόμην ἐν πλατυσμῷ ὅτι τὰς ἐντολάς σου ἐξεζήτησα ",
+    "transliteration": "kai eporeyomin en platysmo hoti tas entolas soy exezitisa ",
     "translation": "E caminhava em largueza, porque busquei os teus preceitos."
   },
   {
     "verse": 46,
     "original": "καὶ ἐλάλουν ἐν τοῖς μαρτυρίοις σου ἐναντίον βασιλέων καὶ οὐκ ᾐσχυνόμην ",
+    "transliteration": "kai elaloyn en tois martyriois soy enantion vasileon kai oyk ischynomin ",
     "translation": "E falaram nas tuas testemunhas diante dos reis, e não foram envergonhados."
   },
   {
     "verse": 47,
     "original": "καὶ ἐμελέτων ἐν ταῖς ἐντολαῖς σου αἷς ἠγάπησα σφόδρα ",
+    "transliteration": "kai emeleton en tais entolais soy ahis igapisa sfodra ",
     "translation": "E meditei nas tuas leis, as quais amei intensamente."
   },
   {
     "verse": 48,
     "original": "καὶ ἦρα τὰς χεῖράς μου πρὸς τὰς ἐντολάς σου ἃς ἠγάπησα καὶ ἠδολέσχουν ἐν τοῖς δικαιώμασίν σου ",
+    "transliteration": "kai ira tas cheiras moy pros tas entolas soy has igapisa kai idoleschoyn en tois dikaiomasin soy ",
     "translation": "E levantei as minhas mãos para os teus mandamentos que amei, e meditei nas tuas justiças."
   },
   {
     "verse": 49,
     "original": "ζ# ζαι μνήσθητι τὸν λόγον σου τῷ δούλῳ σου ᾧ ἐπήλπισάς με ",
+    "transliteration": "z# zai mnisthiti ton logon soy to doylo soy ho epilpisas me ",
     "translation": "Lembra-te da tua palavra ao teu servo, nele pus a minha esperança."
   },
   {
     "verse": 50,
     "original": "αὕτη με παρεκάλεσεν ἐν τῇ ταπεινώσει μου ὅτι τὸ λόγιόν σου ἔζησέν με ",
+    "transliteration": "ahyti me parekalesen en ti tapeinosei moy hoti to logion soy ezisen me ",
     "translation": "Esta me consolou na minha humilhação, porque a tua palavra me vivificou."
   },
   {
     "verse": 51,
     "original": "ὑπερήφανοι παρηνόμουν ἕως σφόδρα ἀπὸ δὲ τοῦ νόμου σου οὐκ ἐξέκλινα ",
+    "transliteration": "hyperifanoi parinomoyn heos sfodra apo de toy nomoy soy oyk exeklina ",
     "translation": "Orgulhosos transgrediam muito, mas da tua lei não me desviei."
   },
   {
     "verse": 52,
     "original": "ἐμνήσθην τῶν κριμάτων σου ἀπ’ αἰῶνος κύριε καὶ παρεκλήθην ",
+    "transliteration": "emnisthin ton krimaton soy ap' aionos kyrie kai pareklithin ",
     "translation": "Lembrei-me dos teus juízos desde a antiguidade, Senhor, e consolei-me."
   },
   {
     "verse": 53,
     "original": "ἀθυμία κατέσχεν με ἀπὸ ἁμαρτωλῶν τῶν ἐγκαταλιμπανόντων τὸν νόμον σου ",
+    "transliteration": "athymia kateschen me apo hamartolon ton egkatalimpanonton ton nomon soy ",
     "translation": "A tristeza me dominou diante dos pecadores que desconsideram a tua lei."
   },
   {
     "verse": 54,
     "original": "ψαλτὰ ἦσάν μοι τὰ δικαιώματά σου ἐν τόπῳ παροικίας μου ",
+    "transliteration": "psalta isan moi ta dikaiomata soy en topo paroikias moy ",
     "translation": "Os teus preceitos foram para mim cânticos no lugar da minha peregrinação."
   },
   {
     "verse": 55,
     "original": "ἐμνήσθην ἐν νυκτὶ τοῦ ὀνόματός σου κύριε καὶ ἐφύλαξα τὸν νόμον σου ",
+    "transliteration": "emnisthin en nykti toy onomatos soy kyrie kai efylaxa ton nomon soy ",
     "translation": "Lembrei-me de teu nome, Senhor, na noite, e guardei tua lei."
   },
   {
     "verse": 56,
     "original": "αὕτη ἐγενήθη μοι ὅτι τὰ δικαιώματά σου ἐξεζήτησα ",
+    "transliteration": "ahyti egenithi moi hoti ta dikaiomata soy exezitisa ",
     "translation": "Isso me aconteceu porque busquei os teus preceitos."
   },
   {
     "verse": 57,
     "original": "η# ηθ μερίς μου κύριε εἶπα φυλάξασθαι τὸν νόμον σου ",
+    "transliteration": "i# ith meris moy kyrie eipa fylaxasthai ton nomon soy ",
     "translation": "é tua, ó SENHOR, a recompensa; disse eu, guardarei teu mandamento."
   },
   {
     "verse": 58,
     "original": "ἐδεήθην τοῦ προσώπου σου ἐν ὅλῃ καρδίᾳ μου ἐλέησόν με κατὰ τὸ λόγιόν σου ",
+    "transliteration": "edeithin toy prosopoy soy en holi kardia moy eleison me kata to logion soy ",
     "translation": "Clamei ao teu rosto com todo o meu coração; sê misericordioso para comigo conforme a tua palavra."
   },
   {
     "verse": 59,
     "original": "διελογισάμην τὰς ὁδούς σου καὶ ἐπέστρεψα τοὺς πόδας μου εἰς τὰ μαρτύριά σου ",
+    "transliteration": "dielogisamin tas hodoys soy kai epestrepsa toys podas moy eis ta martyria soy ",
     "translation": "Meditei sobre os teus caminhos e voltei meus pés para as tuas testemunhas."
   },
   {
     "verse": 60,
     "original": "ἡτοιμάσθην καὶ οὐκ ἐταράχθην τοῦ φυλάξασθαι τὰς ἐντολάς σου ",
+    "transliteration": "hitoimasthin kai oyk etarachthin toy fylaxasthai tas entolas soy ",
     "translation": "Preparado fui e não me perturbei para guardar teus preceitos."
   },
   {
     "verse": 61,
     "original": "σχοινία ἁμαρτωλῶν περιεπλάκησάν μοι καὶ τοῦ νόμου σου οὐκ ἐπελαθόμην ",
+    "transliteration": "schoinia hamartolon perieplakisan moi kai toy nomoy soy oyk epelathomin ",
     "translation": "Cordas de iniquidade me cercaram, mas não me esqueci da tua lei."
   },
   {
     "verse": 62,
     "original": "μεσονύκτιον ἐξηγειρόμην τοῦ ἐξομολογεῖσθαί σοι ἐπὶ τὰ κρίματα τῆς δικαιοσύνης σου ",
+    "transliteration": "mesonyktion exigeiromin toy exomologeisthai soi epi ta krimata tis dikaiosynis soy ",
     "translation": "Na metade da noite, levantei-me para confessar-te os julgamentos da tua justiça."
   },
   {
     "verse": 63,
     "original": "μέτοχος ἐγώ εἰμι πάντων τῶν φοβουμένων σε καὶ τῶν φυλασσόντων τὰς ἐντολάς σου ",
+    "transliteration": "metochos ego eimi panton ton fovoymenon se kai ton fylassonton tas entolas soy ",
     "translation": "Sou participante de todos os que temem a ti e guardam teus mandamentos."
   },
   {
     "verse": 64,
     "original": "τοῦ ἐλέους σου κύριε πλήρης ἡ γῆ τὰ δικαιώματά σου δίδαξόν με ",
+    "transliteration": "toy eleoys soy kyrie pliris hi gi ta dikaiomata soy didaxon me ",
     "translation": "Cheia é a terra da tua misericórdia, ó Senhor; ensina-me os teus estatutos."
   },
   {
     "verse": 65,
     "original": "θ# τηθ χρηστότητα ἐποίησας μετὰ τοῦ δούλου σου κύριε κατὰ τὸν λόγον σου ",
+    "transliteration": "th# tith christotita epoiisas meta toy doyloy soy kyrie kata ton logon soy ",
     "translation": "Fizeste com que a tua bondade se manifestasse para com o teu servo, Senhor, conforme à tua palavra."
   },
   {
     "verse": 66,
     "original": "χρηστότητα καὶ παιδείαν καὶ γνῶσιν δίδαξόν με ὅτι ταῖς ἐντολαῖς σου ἐπίστευσα ",
+    "transliteration": "christotita kai paideian kai gnosin didaxon me hoti tais entolais soy episteysa ",
     "translation": "boaça e doutrina e conhecimento ensina-me porque em teus preceitos confiei\n\nCorreção:\nensina-me a boaça, a doutrina e o conhecimento, pois em teus mandamentos confiei"
   },
   {
     "verse": 67,
     "original": "πρὸ τοῦ με ταπεινωθῆναι ἐγὼ ἐπλημμέλησα διὰ τοῦτο τὸ λόγιόν σου ἐφύλαξα ",
+    "transliteration": "pro toy me tapeinothinai ego eplimmelisa dia toyto to logion soy efylaxa ",
     "translation": "Antes de me humilhar, andava desviado; por isso guardei a tua palavra."
   },
   {
     "verse": 68,
     "original": "χρηστὸς εἶ σύ κύριε καὶ ἐν τῇ χρηστότητί σου δίδαξόν με τὰ δικαιώματά σου ",
+    "transliteration": "christos ei sy kyrie kai en ti christotiti soy didaxon me ta dikaiomata soy ",
     "translation": "Bom és tu, Senhor, e pela tua bondade ensina-me os teus estatutos."
   },
   {
     "verse": 69,
     "original": "ἐπληθύνθη ἐπ’ ἐμὲ ἀδικία ὑπερηφάνων ἐγὼ δὲ ἐν ὅλῃ καρδίᾳ μου ἐξερευνήσω τὰς ἐντολάς σου ",
+    "transliteration": "eplithynthi ep' eme adikia hyperifanon ego de en holi kardia moy exereyniso tas entolas soy ",
     "translation": "A injustiça dos soberbos multiplicou-se sobre mim, mas eu, com todo o meu coração, examinarei os teus preceitos."
   },
   {
     "verse": 70,
     "original": "ἐτυρώθη ὡς γάλα ἡ καρδία αὐτῶν ἐγὼ δὲ τὸν νόμον σου ἐμελέτησα ",
+    "transliteration": "etyrothi hos gala hi kardia ayton ego de ton nomon soy emeletisa ",
     "translation": "O seu coração derreteu como leite, mas eu meditei na sua lei."
   },
   {
     "verse": 71,
     "original": "ἀγαθόν μοι ὅτι ἐταπείνωσάς με ὅπως ἂν μάθω τὰ δικαιώματά σου ",
+    "transliteration": "agathon moi hoti etapeinosas me hopos an matho ta dikaiomata soy ",
     "translation": "Bom para mim que me humilhaste, para que aprenda os teus preceitos."
   },
   {
     "verse": 72,
     "original": "ἀγαθόν μοι ὁ νόμος τοῦ στόματός σου ὑπὲρ χιλιάδας χρυσίου καὶ ἀργυρίου ",
+    "transliteration": "agathon moi ho nomos toy stomatos soy hyper chiliadas chrysioy kai argyrioy ",
     "translation": "Bom-me é a lei da tua boca acima de milhares de ouro e prata."
   },
   {
     "verse": 73,
     "original": "ι# ιωθ αἱ χεῖρές σου ἐποίησάν με καὶ ἔπλασάν με συνέτισόν με καὶ μαθήσομαι τὰς ἐντολάς σου ",
+    "transliteration": "i# ioth ahi cheires soy epoiisan me kai eplasan me synetison me kai mathisomai tas entolas soy ",
     "translation": "As tuas mãos me fizeram e me formaram; sonda-me e eu aprenderei os teus mandamentos."
   },
   {
     "verse": 74,
     "original": "οἱ φοβούμενοί σε ὄψονταί με καὶ εὐφρανθήσονται ὅτι εἰς τοὺς λόγους σου ἐπήλπισα ",
+    "transliteration": "ohi fovoymenoi se opsontai me kai eyfranthisontai hoti eis toys logoys soy epilpisa ",
     "translation": "Os que temem a ti verão em mim e se regozijarão, porque em tuas palavras eu esperava."
   },
   {
     "verse": 75,
     "original": "ἔγνων κύριε ὅτι δικαιοσύνη τὰ κρίματά σου καὶ ἀληθείᾳ ἐταπείνωσάς με ",
+    "transliteration": "egnon kyrie hoti dikaiosyni ta krimata soy kai alitheia etapeinosas me ",
     "translation": "Conheci, Senhor, que a tua justiça é reta e pela verdade me humilhaste."
   },
   {
     "verse": 76,
     "original": "γενηθήτω δὴ τὸ ἔλεός σου τοῦ παρακαλέσαι με κατὰ τὸ λόγιόν σου τῷ δούλῳ σου ",
+    "transliteration": "genithito di to eleos soy toy parakalesai me kata to logion soy to doylo soy ",
     "translation": "Seja feito, pois, o teu amor para me consolar conforme a tua palavra ao teu servo."
   },
   {
     "verse": 77,
     "original": "ἐλθέτωσάν μοι οἱ οἰκτιρμοί σου καὶ ζήσομαι ὅτι ὁ νόμος σου μελέτη μού ἐστιν ",
+    "transliteration": "elthetosan moi ohi oiktirmoi soy kai zisomai hoti ho nomos soy meleti moy estin ",
     "translation": "Cheguem a mim as tuas misericórdias e viverei, pois a tua lei é o objeto da minha meditação."
   },
   {
     "verse": 78,
     "original": "αἰσχυνθήτωσαν ὑπερήφανοι ὅτι ἀδίκως ἠνόμησαν εἰς ἐμέ ἐγὼ δὲ ἀδολεσχήσω ἐν ταῖς ἐντολαῖς σου ",
+    "transliteration": "aischynthitosan hyperifanoi hoti adikos inomisan eis eme ego de adoleschiso en tais entolais soy ",
     "translation": "Sejam envergonhados os soberbos, pois injustamente me transgrediram; eu, porém, meditarei nas tuas leis."
   },
   {
     "verse": 79,
     "original": "ἐπιστρεψάτωσάν μοι οἱ φοβούμενοί σε καὶ οἱ γινώσκοντες τὰ μαρτύριά σου ",
+    "transliteration": "epistrepsatosan moi ohi fovoymenoi se kai ohi ginoskontes ta martyria soy ",
     "translation": "Voltem para mim os que temem a ti e os que conhecem os teus testemunhos."
   },
   {
     "verse": 80,
     "original": "γενηθήτω ἡ καρδία μου ἄμωμος ἐν τοῖς δικαιώμασίν σου ὅπως ἂν μὴ αἰσχυνθῶ ",
+    "transliteration": "genithito hi kardia moy amomos en tois dikaiomasin soy hopos an mi aischyntho ",
     "translation": "Seja o meu coração íntegro nos teus preceitos, para que não seja envergonhado."
   },
   {
     "verse": 81,
     "original": "ια# χαφ ἐκλείπει εἰς τὸ σωτήριόν σου ἡ ψυχή μου καὶ εἰς τὸν λόγον σου ἐπήλπισα ",
+    "transliteration": "ia# chaf ekleipei eis to sotirion soy hi psychi moy kai eis ton logon soy epilpisa ",
     "translation": "A minha alma desfalece pela tua salvação e esperou na tua palavra."
   },
   {
     "verse": 82,
     "original": "ἐξέλιπον οἱ ὀφθαλμοί μου εἰς τὸ λόγιόν σου λέγοντες πότε παρακαλέσεις με ",
+    "transliteration": "exelipon ohi ofthalmoi moy eis to logion soy legontes pote parakaleseis me ",
     "translation": "Meus olhos se consumiram pela tua palavra, dizendo: Quando me visitarás?"
   },
   {
     "verse": 83,
     "original": "ὅτι ἐγενήθην ὡς ἀσκὸς ἐν πάχνῃ τὰ δικαιώματά σου οὐκ ἐπελαθόμην ",
+    "transliteration": "hoti egenithin hos askos en pachni ta dikaiomata soy oyk epelathomin ",
     "translation": "Porque fui como um odre no escarninho, mas não me esqueci de teus preceitos."
   },
   {
     "verse": 84,
     "original": "πόσαι εἰσὶν αἱ ἡμέραι τοῦ δούλου σου πότε ποιήσεις μοι ἐκ τῶν καταδιωκόντων με κρίσιν ",
+    "transliteration": "posai eisin ahi himerai toy doyloy soy pote poiiseis moi ek ton katadiokonton me krisin ",
     "translation": "Quantos dias ainda permanecerão para que faças justiça a teu servo contra os que me perseguem?"
   },
   {
     "verse": 85,
     "original": "διηγήσαντό μοι παράνομοι ἀδολεσχίας ἀλλ’ οὐχ ὡς ὁ νόμος σου κύριε ",
+    "transliteration": "diigisanto moi paranomoi adoleschias all' oych hos ho nomos soy kyrie ",
     "translation": "Perversos me contaram futilidades, mas não conforme a tua lei, Senhor."
   },
   {
     "verse": 86,
     "original": "πᾶσαι αἱ ἐντολαί σου ἀλήθεια ἀδίκως κατεδίωξάν με βοήθησόν μοι ",
+    "transliteration": "pasai ahi entolai soy alitheia adikos katedioxan me voithison moi ",
     "translation": "Todas as tuas ordenanças são verdade; injustamente me perseguiram, socorre-me."
   },
   {
     "verse": 87,
     "original": "παρὰ βραχὺ συνετέλεσάν με ἐν τῇ γῇ ἐγὼ δὲ οὐκ ἐγκατέλιπον τὰς ἐντολάς σου ",
+    "transliteration": "para vrachy synetelesan me en ti gi ego de oyk egkatelipon tas entolas soy ",
     "translation": "Por pouco não me consumiram na terra; eu, porém, não deixei as tuas leis."
   },
   {
     "verse": 88,
     "original": "κατὰ τὸ ἔλεός σου ζῆσόν με καὶ φυλάξω τὰ μαρτύρια τοῦ στόματός σου ",
+    "transliteration": "kata to eleos soy zison me kai fylaxo ta martyria toy stomatos soy ",
     "translation": "Pela tua misericórdia, vivifica-me e guardarei os testemunhos da tua boca."
   },
   {
     "verse": 89,
     "original": "ιβ# λαβδ εἰς τὸν αἰῶνα κύριε ὁ λόγος σου διαμένει ἐν τῷ οὐρανῷ ",
+    "transliteration": "iv# lavd eis ton aiona kyrie ho logos soy diamenei en to oyrano ",
     "translation": "por toda a eternidade, ó SENHOR, tua palavra permanece nos céus"
   },
   {
     "verse": 90,
     "original": "εἰς γενεὰν καὶ γενεὰν ἡ ἀλήθειά σου ἐθεμελίωσας τὴν γῆν καὶ διαμένει ",
+    "transliteration": "eis genean kai genean hi alitheia soy ethemeliosas tin gin kai diamenei ",
     "translation": "De geração em geração, tua verdade permanece firme; tu alicerçaste a terra e ela permanece."
   },
   {
     "verse": 91,
     "original": "τῇ διατάξει σου διαμένει ἡ ἡμέρα ὅτι τὰ σύμπαντα δοῦλα σά ",
+    "transliteration": "ti diataxei soy diamenei hi himera hoti ta sympanta doyla sa ",
     "translation": "Na tua ordem permanece o dia, pois todas as coisas são teus servos."
   },
   {
     "verse": 92,
     "original": "εἰ μὴ ὅτι ὁ νόμος σου μελέτη μού ἐστιν τότε ἂν ἀπωλόμην ἐν τῇ ταπεινώσει μου ",
+    "transliteration": "ei mi hoti ho nomos soy meleti moy estin tote an apolomin en ti tapeinosei moy ",
     "translation": "Se não fosse que a tua lei é o meu cuidado, então teria perecido na minha humilhação."
   },
   {
     "verse": 93,
     "original": "εἰς τὸν αἰῶνα οὐ μὴ ἐπιλάθωμαι τῶν δικαιωμάτων σου ὅτι ἐν αὐτοῖς ἔζησάς με κύριε ",
+    "transliteration": "eis ton aiona oy mi epilathomai ton dikaiomaton soy hoti en aytois ezisas me kyrie ",
     "translation": "Para sempre não te esquecerei dos teus direitos, porque em eles me fizeste viver, Senhor."
   },
   {
     "verse": 94,
     "original": "σός εἰμι ἐγώ σῶσόν με ὅτι τὰ δικαιώματά σου ἐξεζήτησα ",
+    "transliteration": "sos eimi ego soson me hoti ta dikaiomata soy exezitisa ",
     "translation": "Sou eu, salva-me, pois busquei os teus preceitos."
   },
   {
     "verse": 95,
     "original": "ἐμὲ ὑπέμειναν ἁμαρτωλοὶ τοῦ ἀπολέσαι με τὰ μαρτύριά σου συνῆκα ",
+    "transliteration": "eme hypemeinan hamartoloi toy apolesai me ta martyria soy synika ",
     "translation": "Pecadores me esperaram para me destruir, mas eu guardei os teus testemunhos."
   },
   {
     "verse": 96,
     "original": "πάσης συντελείας εἶδον πέρας πλατεῖα ἡ ἐντολή σου σφόδρα ",
+    "transliteration": "pasis synteleias eidon peras plateia hi entoli soy sfodra ",
     "translation": "Vi o fim de toda perfeição; tua lei é ampla."
   },
   {
     "verse": 97,
     "original": "ιγ# μημ ὡς ἠγάπησα τὸν νόμον σου κύριε ὅλην τὴν ἡμέραν μελέτη μού ἐστιν ",
+    "transliteration": "ig# mim hos igapisa ton nomon soy kyrie holin tin himeran meleti moy estin ",
     "translation": "Oh Senhor, quão amo Teu mandamento; todo o dia é a minha meditação. \n\nCorreções aplicadas:\n- Ajuste da capitalização de \"Teu\" para maior formalidade e respeito teológico.\n- O restante do texto mantém-se conforme os critérios estabelecidos, sem erros gramaticais ou numéricos, tradução literal inadequada ou imprecisão contextual."
   },
   {
     "verse": 98,
     "original": "ὑπὲρ τοὺς ἐχθρούς μου ἐσόφισάς με τὴν ἐντολήν σου ὅτι εἰς τὸν αἰῶνά μοί ἐστιν ",
+    "transliteration": "hyper toys echthroys moy esofisas me tin entolin soy hoti eis ton aiona moi estin ",
     "translation": "Por sobre os meus inimigos me ensinaste a tua lei, pois para sempre ela é minha."
   },
   {
     "verse": 99,
     "original": "ὑπὲρ πάντας τοὺς διδάσκοντάς με συνῆκα ὅτι τὰ μαρτύριά σου μελέτη μού ἐστιν ",
+    "transliteration": "hyper pantas toys didaskontas me synika hoti ta martyria soy meleti moy estin ",
     "translation": "Sobre todos os que me ensinam, compreendi que os teus testemunhos são a minha meditação."
   },
   {
     "verse": 100,
     "original": "ὑπὲρ πρεσβυτέρους συνῆκα ὅτι τὰς ἐντολάς σου ἐξεζήτησα ",
+    "transliteration": "hyper presvyteroys synika hoti tas entolas soy exezitisa ",
     "translation": "Honrei os anciãos, porque busquei as tuas ordens."
   },
   {
     "verse": 101,
     "original": "ἐκ πάσης ὁδοῦ πονηρᾶς ἐκώλυσα τοὺς πόδας μου ὅπως ἂν φυλάξω τοὺς λόγους σου ",
+    "transliteration": "ek pasis hodoy poniras ekolysa toys podas moy hopos an fylaxo toys logoys soy ",
     "translation": "De toda senda má apartei os meus pés para guardar as tuas palavras."
   },
   {
     "verse": 102,
     "original": "ἀπὸ τῶν κριμάτων σου οὐκ ἐξέκλινα ὅτι σὺ ἐνομοθέτησάς μοι ",
+    "transliteration": "apo ton krimaton soy oyk exeklina hoti sy enomothetisas moi ",
     "translation": "Das tuas sentenças não me desviei, pois tu me ensinaste."
   },
   {
     "verse": 103,
     "original": "ὡς γλυκέα τῷ λάρυγγί μου τὰ λόγιά σου ὑπὲρ μέλι καὶ κηρίον τῷ στόματί μου ",
+    "transliteration": "hos glykea to laryggi moy ta logia soy hyper meli kai kirion to stomati moy ",
     "translation": "Como doces são para a minha garganta as tuas palavras acima do mel e do ungüento para a minha boca."
   },
   {
     "verse": 104,
     "original": "ἀπὸ τῶν ἐντολῶν σου συνῆκα διὰ τοῦτο ἐμίσησα πᾶσαν ὁδὸν ἀδικίας ὅτι σὺ ἐνομοθέτησάς μοι ",
+    "transliteration": "apo ton entolon soy synika dia toyto emisisa pasan hodon adikias hoti sy enomothetisas moi ",
     "translation": "Das tuas ordenanças entendi, por isso abominei todo caminho de iniquidade, pois tu me ensinaste."
   },
   {
     "verse": 105,
     "original": "ιδ# νουν λύχνος τοῖς ποσίν μου ὁ λόγος σου καὶ φῶς ταῖς τρίβοις μου ",
+    "transliteration": "id# noyn lychnos tois posin moy ho logos soy kai fos tais trivois moy ",
     "translation": "A tua palavra é uma lanterna para os meus pés e uma luz para os meus caminhos."
   },
   {
     "verse": 106,
     "original": "ὀμώμοκα καὶ ἔστησα τοῦ φυλάξασθαι τὰ κρίματα τῆς δικαιοσύνης σου ",
+    "transliteration": "omomoka kai estisa toy fylaxasthai ta krimata tis dikaiosynis soy ",
     "translation": "Jurei e pus em prática guardar os juízos da tua justiça."
   },
   {
     "verse": 107,
     "original": "ἐταπεινώθην ἕως σφόδρα κύριε ζῆσόν με κατὰ τὸν λόγον σου ",
+    "transliteration": "etapeinothin heos sfodra kyrie zison me kata ton logon soy ",
     "translation": "Abati-me até muito, Senhor; vivifica-me conforme à tua palavra."
   },
   {
     "verse": 108,
     "original": "τὰ ἑκούσια τοῦ στόματός μου εὐδόκησον δή κύριε καὶ τὰ κρίματά σου δίδαξόν με ",
+    "transliteration": "ta hekoysia toy stomatos moy eydokison di kyrie kai ta krimata soy didaxon me ",
     "translation": "As palavras voluntárias da minha boca agradeças, Senhor, e ensina-me os teus juízos."
   },
   {
     "verse": 109,
     "original": "ἡ ψυχή μου ἐν ταῖς χερσίν μου διὰ παντός καὶ τοῦ νόμου σου οὐκ ἐπελαθόμην ",
+    "transliteration": "hi psychi moy en tais chersin moy dia pantos kai toy nomoy soy oyk epelathomin ",
     "translation": "A minha alma tem guardado as tuas leis constantemente, e do teu mandamento nunca me esqueci."
   },
   {
     "verse": 110,
     "original": "ἔθεντο ἁμαρτωλοὶ παγίδα μοι καὶ ἐκ τῶν ἐντολῶν σου οὐκ ἐπλανήθην ",
+    "transliteration": "ethento hamartoloi pagida moi kai ek ton entolon soy oyk eplanithin ",
     "translation": "Pecadores armaram laços para mim, mas não me desviei das tuas ordens."
   },
   {
     "verse": 111,
     "original": "ἐκληρονόμησα τὰ μαρτύριά σου εἰς τὸν αἰῶνα ὅτι ἀγαλλίαμα τῆς καρδίας μού εἰσιν ",
+    "transliteration": "eklironomisa ta martyria soy eis ton aiona hoti agalliama tis kardias moy eisin ",
     "translation": "Herdei os teus testemunhos para sempre, porque são a alegria do meu coração."
   },
   {
     "verse": 112,
     "original": "ἔκλινα τὴν καρδίαν μου τοῦ ποιῆσαι τὰ δικαιώματά σου εἰς τὸν αἰῶνα δῑ ἀντάμειψιν ",
+    "transliteration": "eklina tin kardian moy toy poiisai ta dikaiomata soy eis ton aiona di antameipsin ",
     "translation": "Inclinei meu coração para fazer teus preceitos para sempre, ó DEUS, em retribuição."
   },
   {
     "verse": 113,
     "original": "ιε# σαμχ παρανόμους ἐμίσησα καὶ τὸν νόμον σου ἠγάπησα ",
+    "transliteration": "ie# samch paranomoys emisisa kai ton nomon soy igapisa ",
     "translation": "Ó Senhor, abominava os transgressores e amava a tua lei."
   },
   {
     "verse": 114,
     "original": "βοηθός μου καὶ ἀντιλήμπτωρ μου εἶ σύ εἰς τὸν λόγον σου ἐπήλπισα ",
+    "transliteration": "voithos moy kai antilimptor moy ei sy eis ton logon soy epilpisa ",
     "translation": "Refúgio meu e protetor tu és; em tua palavra pus minha esperança."
   },
   {
     "verse": 115,
     "original": "ἐκκλίνατε ἀπ’ ἐμοῦ πονηρευόμενοι καὶ ἐξερευνήσω τὰς ἐντολὰς τοῦ θεοῦ μου ",
+    "transliteration": "ekklinate ap' emoy ponireyomenoi kai exereyniso tas entolas toy theoy moy ",
     "translation": "Afastei-vos de mim, vós que praticais o mal, e eu investigarei os mandamentos do meu Deus."
   },
   {
     "verse": 116,
     "original": "ἀντιλαβοῦ μου κατὰ τὸ λόγιόν σου καὶ ζήσομαι καὶ μὴ καταισχύνῃς με ἀπὸ τῆς προσδοκίας μου ",
+    "transliteration": "antilavoy moy kata to logion soy kai zisomai kai mi kataischynis me apo tis prosdokias moy ",
     "translation": "Livra-me conforme a tua palavra e viverei, e não me envergonhes da minha esperança."
   },
   {
     "verse": 117,
     "original": "βοήθησόν μοι καὶ σωθήσομαι καὶ μελετήσω ἐν τοῖς δικαιώμασίν σου διὰ παντός ",
+    "transliteration": "voithison moi kai sothisomai kai meletiso en tois dikaiomasin soy dia pantos ",
     "translation": "Livre-me e serei salvo, e meditarei nos teus preceitos para sempre."
   },
   {
     "verse": 118,
     "original": "ἐξουδένωσας πάντας τοὺς ἀποστατοῦντας ἀπὸ τῶν δικαιωμάτων σου ὅτι ἄδικον τὸ ἐνθύμημα αὐτῶν ",
+    "transliteration": "exoydenosas pantas toys apostatoyntas apo ton dikaiomaton soy hoti adikon to enthymima ayton ",
     "translation": "Aniquilaste todos os que se desviaram dos teus preceitos, pois perverso é o seu pensamento."
   },
   {
     "verse": 119,
     "original": "παραβαίνοντας ἐλογισάμην πάντας τοὺς ἁμαρτωλοὺς τῆς γῆς διὰ τοῦτο ἠγάπησα τὰ μαρτύριά σου διὰ παντός ",
+    "transliteration": "paravainontas elogisamin pantas toys hamartoloys tis gis dia toyto igapisa ta martyria soy dia pantos ",
     "translation": "Transgredindo, compreendi que todos os pecadores da terra, por isso amei os teus testemunhos perpetuamente."
   },
   {
     "verse": 120,
     "original": "καθήλωσον ἐκ τοῦ φόβου σου τὰς σάρκας μου ἀπὸ γὰρ τῶν κριμάτων σου ἐφοβήθην ",
+    "transliteration": "kathiloson ek toy fovoy soy tas sarkas moy apo gar ton krimaton soy efovithin ",
     "translation": "Entenebro-me do teu temor; das tuas sentenças fui tomado de tremor."
   },
   {
     "verse": 121,
     "original": "ιV# αιν ἐποίησα κρίμα καὶ δικαιοσύνην μὴ παραδῷς με τοῖς ἀδικοῦσίν με ",
+    "transliteration": "iV# ain epoiisa krima kai dikaiosynin mi parados me tois adikoysin me ",
     "translation": "Louvor fiz; administrei juízo e justiça, não me entregues aos que me fazem iniquidade."
   },
   {
     "verse": 122,
     "original": "ἔκδεξαι τὸν δοῦλόν σου εἰς ἀγαθόν μὴ συκοφαντησάτωσάν με ὑπερήφανοι ",
+    "transliteration": "ekdexai ton doylon soy eis agathon mi sykofantisatosan me hyperifanoi ",
     "translation": "Aceita o teu servo para o bem, não deixes que os soberbos me preguem ciladas."
   },
   {
     "verse": 123,
     "original": "οἱ ὀφθαλμοί μου ἐξέλιπον εἰς τὸ σωτήριόν σου καὶ εἰς τὸ λόγιον τῆς δικαιοσύνης σου ",
+    "transliteration": "ohi ofthalmoi moy exelipon eis to sotirion soy kai eis to logion tis dikaiosynis soy ",
     "translation": "Os meus olhos se consumiram esperando o teu salvamento e a palavra da tua justiça."
   },
   {
     "verse": 124,
     "original": "ποίησον μετὰ τοῦ δούλου σου κατὰ τὸ ἔλεός σου καὶ τὰ δικαιώματά σου δίδαξόν με ",
+    "transliteration": "poiison meta toy doyloy soy kata to eleos soy kai ta dikaiomata soy didaxon me ",
     "translation": "Faze com teu servo conforme tua misericórdia e ensina-me tuas justiças."
   },
   {
     "verse": 125,
     "original": "δοῦλός σού εἰμι ἐγώ συνέτισόν με καὶ γνώσομαι τὰ μαρτύριά σου ",
+    "transliteration": "doylos soy eimi ego synetison me kai gnosomai ta martyria soy ",
     "translation": "Teu servo sou eu, ensina-me e conhecerei teus testemunhos."
   },
   {
     "verse": 126,
     "original": "καιρὸς τοῦ ποιῆσαι τῷ κυρίῳ διεσκέδασαν τὸν νόμον σου ",
+    "transliteration": "kairos toy poiisai to kyrio dieskedasan ton nomon soy ",
     "translation": "É tempo de agir para com o Senhor; despedaçaram a tua lei."
   },
   {
     "verse": 127,
     "original": "διὰ τοῦτο ἠγάπησα τὰς ἐντολάς σου ὑπὲρ χρυσίον καὶ τοπάζιον ",
+    "transliteration": "dia toyto igapisa tas entolas soy hyper chrysion kai topazion ",
     "translation": "Por isso amei tuas ordens mais do que ouro e topázio."
   },
   {
     "verse": 128,
     "original": "διὰ τοῦτο πρὸς πάσας τὰς ἐντολάς σου κατωρθούμην πᾶσαν ὁδὸν ἄδικον ἐμίσησα ",
+    "transliteration": "dia toyto pros pasas tas entolas soy katorthoymin pasan hodon adikon emisisa ",
     "translation": "Por isso, em relação a todas as tuas ordens me esforcei; toda senda perversa aborreci."
   },
   {
     "verse": 129,
     "original": "ιζ# φη θαυμαστὰ τὰ μαρτύριά σου διὰ τοῦτο ἐξηρεύνησεν αὐτὰ ἡ ψυχή μου ",
+    "transliteration": "iz# fi thaymasta ta martyria soy dia toyto exireynisen ayta hi psychi moy ",
     "translation": "Maravilhosos são os teus testemunhos; por isso a minha alma os tem buscado."
   },
   {
     "verse": 130,
     "original": "ἡ δήλωσις τῶν λόγων σου φωτιεῖ καὶ συνετιεῖ νηπίους ",
+    "transliteration": "hi dilosis ton logon soy fotiei kai synetiei nipioys ",
     "translation": "A manifestação das tuas palavras ilumina e faz inteligentes os jovens."
   },
   {
     "verse": 131,
     "original": "τὸ στόμα μου ἤνοιξα καὶ εἵλκυσα πνεῦμα ὅτι τὰς ἐντολάς σου ἐπεπόθουν ",
+    "transliteration": "to stoma moy inoixa kai ehilkysa pneyma hoti tas entolas soy epepothoyn ",
     "translation": "Abri minha boca e respirei profundamente porque desejava ardorosamente os teus mandamentos."
   },
   {
     "verse": 132,
     "original": "ἐπίβλεψον ἐπ’ ἐμὲ καὶ ἐλέησόν με κατὰ τὸ κρίμα τῶν ἀγαπώντων τὸ ὄνομά σου ",
+    "transliteration": "epivlepson ep' eme kai eleison me kata to krima ton agaponton to onoma soy ",
     "translation": "Olha para mim e tem misericórdia de mim, conforme o juízo dos que amam o teu nome."
   },
   {
     "verse": 133,
     "original": "τὰ διαβήματά μου κατεύθυνον κατὰ τὸ λόγιόν σου καὶ μὴ κατακυριευσάτω μου πᾶσα ἀνομία ",
+    "transliteration": "ta diavimata moy kateythynon kata to logion soy kai mi katakyrieysato moy pasa anomia ",
     "translation": "Minhas passadas direi conforme a tua palavra, e não me domine toda iniqüidade.\n\nCorreção:\nMinhas passadas direcione conforme a tua palavra, e não me domine toda iniqüidade."
   },
   {
     "verse": 134,
     "original": "λύτρωσαί με ἀπὸ συκοφαντίας ἀνθρώπων καὶ φυλάξω τὰς ἐντολάς σου ",
+    "transliteration": "lytrosai me apo sykofantias anthropon kai fylaxo tas entolas soy ",
     "translation": "Livre-me da calúnia dos homens, e guardarei os teus mandamentos."
   },
   {
     "verse": 135,
     "original": "τὸ πρόσωπόν σου ἐπίφανον ἐπὶ τὸν δοῦλόν σου καὶ δίδαξόν με τὰ δικαιώματά σου ",
+    "transliteration": "to prosopon soy epifanon epi ton doylon soy kai didaxon me ta dikaiomata soy ",
     "translation": "Tua face resplandeça sobre teu servo, e ensina-me tuas justiças."
   },
   {
     "verse": 136,
     "original": "διεξόδους ὑδάτων κατέβησαν οἱ ὀφθαλμοί μου ἐπεὶ οὐκ ἐφύλαξαν τὸν νόμον σου ",
+    "transliteration": "diexodoys hydaton katevisan ohi ofthalmoi moy epei oyk efylaxan ton nomon soy ",
     "translation": "As lágrimas desceram sobre os meus olhos, pois não guardei a tua lei."
   },
   {
     "verse": 137,
     "original": "ιη# σαδη δίκαιος εἶ κύριε καὶ εὐθὴς ἡ κρίσις σου ",
+    "transliteration": "ii# sadi dikaios ei kyrie kai eythis hi krisis soy ",
     "translation": "Justo és tu, Senhor, e reta é a tua sentença."
   },
   {
     "verse": 138,
     "original": "ἐνετείλω δικαιοσύνην τὰ μαρτύριά σου καὶ ἀλήθειαν σφόδρα ",
+    "transliteration": "eneteilo dikaiosynin ta martyria soy kai alitheian sfodra ",
     "translation": "Ensinei tua justiça aos teus testemunhos e com grande verdade."
   },
   {
     "verse": 139,
     "original": "ἐξέτηξέν με ὁ ζῆλος τοῦ οἴκου σου ὅτι ἐπελάθοντο τῶν λόγων σου οἱ ἐχθροί μου ",
+    "transliteration": "exetixen me ho zilos toy oikoy soy hoti epelathonto ton logon soy ohi echthroi moy ",
     "translation": "O zelo pela tua casa me consumiu, porque os meus inimigos esqueceram as tuas palavras."
   },
   {
     "verse": 140,
     "original": "πεπυρωμένον τὸ λόγιόν σου σφόδρα καὶ ὁ δοῦλός σου ἠγάπησεν αὐτό ",
+    "transliteration": "pepyromenon to logion soy sfodra kai ho doylos soy igapisen ayto ",
     "translation": "Tua palavra ardeu muito, e teu servo a amou."
   },
   {
     "verse": 141,
     "original": "νεώτερός εἰμι ἐγὼ καὶ ἐξουδενωμένος τὰ δικαιώματά σου οὐκ ἐπελαθόμην ",
+    "transliteration": "neoteros eimi ego kai exoydenomenos ta dikaiomata soy oyk epelathomin ",
     "translation": "Sou jovem e insignificante, mas não me esqueci de teus preceitos."
   },
   {
     "verse": 142,
     "original": "ἡ δικαιοσύνη σου δικαιοσύνη εἰς τὸν αἰῶνα καὶ ὁ νόμος σου ἀλήθεια ",
+    "transliteration": "hi dikaiosyni soy dikaiosyni eis ton aiona kai ho nomos soy alitheia ",
     "translation": "A tua justiça é justiça eterna, e a tua lei é verdade."
   },
   {
     "verse": 143,
     "original": "θλῖψις καὶ ἀνάγκη εὕροσάν με αἱ ἐντολαί σου μελέτη μου ",
+    "transliteration": "thlipsis kai anagki ehyrosan me ahi entolai soy meleti moy ",
     "translation": "Angústia e necessidade me acharam, mas as tuas leis foram o objeto da minha meditação."
   },
   {
     "verse": 144,
     "original": "δικαιοσύνη τὰ μαρτύριά σου εἰς τὸν αἰῶνα συνέτισόν με καὶ ζήσομαι ",
+    "transliteration": "dikaiosyni ta martyria soy eis ton aiona synetison me kai zisomai ",
     "translation": "A tua justiça é para sempre, ensina-me e viverei."
   },
   {
     "verse": 145,
     "original": "ιθ# κωφ ἐκέκραξα ἐν ὅλῃ καρδίᾳ μου ἐπάκουσόν μου κύριε τὰ δικαιώματά σου ἐκζητήσω ",
+    "transliteration": "ith# kof ekekraxa en holi kardia moy epakoyson moy kyrie ta dikaiomata soy ekzitiso ",
     "translation": "clamei com toda a minha coração, ouve-me, Senhor; buscarei os teus juízos. \n\nObservação: O texto original em grego antigo (Septuaginta) não contém nomes próprios que poderiam ser erroneamente traduzidos como sugerido no critério 4. Além disso, o rascunho de tradução está em conformidade com os outros critérios estabelecidos, mantendo a solenidade e formalidade necessárias para textos teológicos e bíblicos. No entanto, uma correção gramatical é necessária: \"coração\" deve ser no plural (\"corações\") para manter o paralelo com o grego original que usa o substantivo em número plural.\n\nclamei com todos os meus corações, ouve-me, Senhor; buscarei os teus juízos."
   },
   {
     "verse": 146,
     "original": "ἐκέκραξά σε σῶσόν με καὶ φυλάξω τὰ μαρτύριά σου ",
+    "transliteration": "ekekraxa se soson me kai fylaxo ta martyria soy ",
     "translation": "Clamei por ti, salva-me e guardarei os teus testemunhos."
   },
   {
     "verse": 147,
     "original": "προέφθασα ἐν ἀωρίᾳ καὶ ἐκέκραξα εἰς τοὺς λόγους σου ἐπήλπισα ",
+    "transliteration": "proefthasa en aoria kai ekekraxa eis toys logoys soy epilpisa ",
     "translation": "Antes do alvorecer, eu clamei pelos teus mandamentos; neles pus minha esperança."
   },
   {
     "verse": 148,
     "original": "προέφθασαν οἱ ὀφθαλμοί μου πρὸς ὄρθρον τοῦ μελετᾶν τὰ λόγιά σου ",
+    "transliteration": "proefthasan ohi ofthalmoi moy pros orthron toy meletan ta logia soy ",
     "translation": "Os meus olhos anteciparam-se ao amanhecer para meditar nos teus preceitos."
   },
   {
     "verse": 149,
     "original": "τῆς φωνῆς μου ἄκουσον κύριε κατὰ τὸ ἔλεός σου κατὰ τὸ κρίμα σου ζῆσόν με ",
+    "transliteration": "tis fonis moy akoyson kyrie kata to eleos soy kata to krima soy zison me ",
     "translation": "Óuve-me, ó Senhor, segundo a tua misericórdia e conforme o teu juízo; vivifica-me."
   },
   {
     "verse": 150,
     "original": "προσήγγισαν οἱ καταδιώκοντές με ἀνομίᾳ ἀπὸ δὲ τοῦ νόμου σου ἐμακρύνθησαν ",
+    "transliteration": "prosiggisan ohi katadiokontes me anomia apo de toy nomoy soy emakrynthisan ",
     "translation": "Os que me perseguem com iniqüidade afastaram-se da tua lei."
   },
   {
     "verse": 151,
     "original": "ἐγγὺς εἶ σύ κύριε καὶ πᾶσαι αἱ ἐντολαί σου ἀλήθεια ",
+    "transliteration": "eggys ei sy kyrie kai pasai ahi entolai soy alitheia ",
     "translation": "Tu és próximo, Senhor, e todas as tuas ordenanças são verdade."
   },
   {
     "verse": 152,
     "original": "κατ’ ἀρχὰς ἔγνων ἐκ τῶν μαρτυρίων σου ὅτι εἰς τὸν αἰῶνα ἐθεμελίωσας αὐτά ",
+    "transliteration": "kat' archas egnon ek ton martyrion soy hoti eis ton aiona ethemeliosas ayta ",
     "translation": "Cedo compreendi dos teus testemunhos que os fundamentaste para sempre."
   },
   {
     "verse": 153,
     "original": "κ# ρης ἰδὲ τὴν ταπείνωσίν μου καὶ ἐξελοῦ με ὅτι τὸν νόμον σου οὐκ ἐπελαθόμην ",
+    "transliteration": "k# ris ide tin tapeinosin moy kai exeloy me hoti ton nomon soy oyk epelathomin ",
     "translation": "Ó Senhor, vê a minha humilhação e livra-me, pois não me esqueci da tua lei."
   },
   {
     "verse": 154,
     "original": "κρῖνον τὴν κρίσιν μου καὶ λύτρωσαί με διὰ τὸν λόγον σου ζῆσόν με ",
+    "transliteration": "krinon tin krisin moy kai lytrosai me dia ton logon soy zison me ",
     "translation": "Julga a minha causa e livra-me pela tua palavra; dá-me vida."
   },
   {
     "verse": 155,
     "original": "μακρὰν ἀπὸ ἁμαρτωλῶν σωτηρία ὅτι τὰ δικαιώματά σου οὐκ ἐξεζήτησαν ",
+    "transliteration": "makran apo hamartolon sotiria hoti ta dikaiomata soy oyk exezitisan ",
     "translation": "Salvação está longe dos pecadores, pois eles não buscaram os teus juízos."
   },
   {
     "verse": 156,
     "original": "οἱ οἰκτιρμοί σου πολλοί κύριε κατὰ τὸ κρίμα σου ζῆσόν με ",
+    "transliteration": "ohi oiktirmoi soy polloi kyrie kata to krima soy zison me ",
     "translation": "Os teus misericórdias são muitos, Senhor; conforme o teu juízo, vivifica-me."
   },
   {
     "verse": 157,
     "original": "πολλοὶ οἱ ἐκδιώκοντές με καὶ ἐκθλίβοντές με ἐκ τῶν μαρτυρίων σου οὐκ ἐξέκλινα ",
+    "transliteration": "polloi ohi ekdiokontes me kai ekthlivontes me ek ton martyrion soy oyk exeklina ",
     "translation": "Muitos me perseguem e oprimem, mas eu não desvio dos teus testemunhos."
   },
   {
     "verse": 158,
     "original": "εἶδον ἀσυνθετοῦντας καὶ ἐξετηκόμην ὅτι τὰ λόγιά σου οὐκ ἐφυλάξαντο ",
+    "transliteration": "eidon asynthetoyntas kai exetikomin hoti ta logia soy oyk efylaxanto ",
     "translation": "Vi os rebeldes e me entristeci porque as tuas palavras eles não guardaram."
   },
   {
     "verse": 159,
     "original": "ἰδὲ ὅτι τὰς ἐντολάς σου ἠγάπησα κύριε ἐν τῷ ἐλέει σου ζῆσόν με ",
+    "transliteration": "ide hoti tas entolas soy igapisa kyrie en to eleei soy zison me ",
     "translation": "Ó Senhor, veja que amo os Teus mandamentos; em Tua misericórdia vivifica-me."
   },
   {
     "verse": 160,
     "original": "ἀρχὴ τῶν λόγων σου ἀλήθεια καὶ εἰς τὸν αἰῶνα πάντα τὰ κρίματα τῆς δικαιοσύνης σου ",
+    "transliteration": "archi ton logon soy alitheia kai eis ton aiona panta ta krimata tis dikaiosynis soy ",
     "translation": "O início das tuas palavras é a verdade, e até ao sempre todas as sentenças da tua justiça."
   },
   {
     "verse": 161,
     "original": "κα# σεν ἄρχοντες κατεδίωξάν με δωρεάν καὶ ἀπὸ τῶν λόγων σου ἐδειλίασεν ἡ καρδία μου ",
+    "transliteration": "ka# sen archontes katedioxan me dorean kai apo ton logon soy edeiliasen hi kardia moy ",
     "translation": "e no entanto, príncipes, me perseguiram gratuitamente; mas o meu coração tremeu pelos teus juízos.\n\nNota: O texto fornecido não contém nomes próprios ou números que necessitem correção conforme as instruções recebidas. A tradução dada é uma versão aceitável do texto original em grego para português, mantendo o estilo solene e formal desejado, sem cometer os erros enumerados nas instruções específicas de revisão.\n\nNo entanto, a referência ao versículo 'Psalms', capítulo '118', versículo '161' não existe. O Salmo 118 tem apenas 29 versículos no texto hebraico e na Septuaginta. Isso pode ser uma informação incorreta ou um erro de digitação, mas como instruído para não fornecer explicações adicionais, essa observação é meramente informativa neste contexto de revisão."
   },
   {
     "verse": 162,
     "original": "ἀγαλλιάσομαι ἐγὼ ἐπὶ τὰ λόγιά σου ὡς ὁ εὑρίσκων σκῦλα πολλά ",
+    "transliteration": "agalliasomai ego epi ta logia soy hos ho ehyriskon skyla polla ",
     "translation": "Exultarei sobre teus preceitos como quem encontra tesouros muitos."
   },
   {
     "verse": 163,
     "original": "ἀδικίαν ἐμίσησα καὶ ἐβδελυξάμην τὸν δὲ νόμον σου ἠγάπησα ",
+    "transliteration": "adikian emisisa kai evdelyxamin ton de nomon soy igapisa ",
     "translation": "odi a injustiça e abomino-a, mas amo a tua lei."
   },
   {
     "verse": 164,
     "original": "ἑπτάκις τῆς ἡμέρας ᾔνεσά σοι ἐπὶ τὰ κρίματα τῆς δικαιοσύνης σου ",
+    "transliteration": "heptakis tis himeras inesa soi epi ta krimata tis dikaiosynis soy ",
     "translation": "Sete vezes ao dia te cantarei louvores pelas justiças dos teus juízos."
   },
   {
     "verse": 165,
     "original": "εἰρήνη πολλὴ τοῖς ἀγαπῶσιν τὸν νόμον σου καὶ οὐκ ἔστιν αὐτοῖς σκάνδαλον ",
+    "transliteration": "eirini polli tois agaposin ton nomon soy kai oyk estin aytois skandalon ",
     "translation": "Muita paz para os que amam a tua lei; e sobre eles não há tropeço."
   },
   {
     "verse": 166,
     "original": "προσεδόκων τὸ σωτήριόν σου κύριε καὶ τὰς ἐντολάς σου ἠγάπησα ",
+    "transliteration": "prosedokon to sotirion soy kyrie kai tas entolas soy igapisa ",
     "translation": "Esperava o teu salvamento, Senhor, e amei as tuas leis."
   },
   {
     "verse": 167,
     "original": "ἐφύλαξεν ἡ ψυχή μου τὰ μαρτύριά σου καὶ ἠγάπησεν αὐτὰ σφόδρα ",
+    "transliteration": "efylaxen hi psychi moy ta martyria soy kai igapisen ayta sfodra ",
     "translation": "A minha alma guardou os teus testemunhos e amou-os extremamente."
   },
   {
     "verse": 168,
     "original": "ἐφύλαξα τὰς ἐντολάς σου καὶ τὰ μαρτύριά σου ὅτι πᾶσαι αἱ ὁδοί μου ἐναντίον σου κύριε ",
+    "transliteration": "efylaxa tas entolas soy kai ta martyria soy hoti pasai ahi hodoi moy enantion soy kyrie ",
     "translation": "Cuidei de teus preceitos e de teus testemunhos, pois todas as minhas veredas estão diante de ti, Senhor."
   },
   {
     "verse": 169,
     "original": "κβ# θαυ ἐγγισάτω ἡ δέησίς μου ἐνώπιόν σου κύριε κατὰ τὸ λόγιόν σου συνέτισόν με ",
+    "transliteration": "kv# thay eggisato hi deisis moy enopion soy kyrie kata to logion soy synetison me ",
     "translation": "Eis minha súplica diante de ti, Senhor; conforme tua palavra, dá-me entendimento."
   },
   {
     "verse": 170,
     "original": "εἰσέλθοι τὸ ἀξίωμά μου ἐνώπιόν σου κατὰ τὸ λόγιόν σου ῥῦσαί με ",
+    "transliteration": "eiselthoi to axioma moy enopion soy kata to logion soy rhysai me ",
     "translation": "Entre o meu louvor diante de ti conforme a tua palavra; livra-me."
   },
   {
     "verse": 171,
     "original": "ἐξερεύξαιντο τὰ χείλη μου ὕμνον ὅταν διδάξῃς με τὰ δικαιώματά σου ",
+    "transliteration": "exereyxainto ta cheili moy hymnon hotan didaxis me ta dikaiomata soy ",
     "translation": "Abriam-se os meus lábios em cântico quando me ensinavas os teus preceitos."
   },
   {
     "verse": 172,
     "original": "φθέγξαιτο ἡ γλῶσσά μου τὸ λόγιόν σου ὅτι πᾶσαι αἱ ἐντολαί σου δικαιοσύνη ",
+    "transliteration": "fthegxaito hi glossa moy to logion soy hoti pasai ahi entolai soy dikaiosyni ",
     "translation": "Que a minha língua proclame o teu decreto, pois todas as tuas ordens são justiça."
   },
   {
     "verse": 173,
     "original": "γενέσθω ἡ χείρ σου τοῦ σῶσαί με ὅτι τὰς ἐντολάς σου ᾑρετισάμην ",
+    "transliteration": "genestho hi cheir soy toy sosai me hoti tas entolas soy hiretisamin ",
     "translation": "Seja tua mão para me salvar, pois escolhi teus preceitos."
   },
   {
     "verse": 174,
     "original": "ἐπεπόθησα τὸ σωτήριόν σου κύριε καὶ ὁ νόμος σου μελέτη μού ἐστιν ",
+    "transliteration": "epepothisa to sotirion soy kyrie kai ho nomos soy meleti moy estin ",
     "translation": "Ansiei pela tua salvação, Senhor, e a tua lei é objeto da minha meditação."
   },
   {
     "verse": 175,
     "original": "ζήσεται ἡ ψυχή μου καὶ αἰνέσει σε καὶ τὰ κρίματά σου βοηθήσει μοι ",
+    "transliteration": "zisetai hi psychi moy kai ainesei se kai ta krimata soy voithisei moi ",
     "translation": "Viverá a minha alma e te louvará, e os teus juízos me ajudarão."
   },
   {
     "verse": 176,
     "original": "ἐπλανήθην ὡς πρόβατον ἀπολωλός ζήτησον τὸν δοῦλόν σου ὅτι τὰς ἐντολάς σου οὐκ ἐπελαθόμην ",
+    "transliteration": "eplanithin hos provaton apololos zitison ton doylon soy hoti tas entolas soy oyk epelathomin ",
     "translation": "Ergui-me como um cordeiro desgarrado; busca o teu servo, pois não me esqueci das tuas leis."
   }
 ]

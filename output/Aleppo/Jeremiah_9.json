@@ -2,126 +2,151 @@
   {
     "verse": 1,
     "original": "מִֽי־יִתְּנֵ֣נִי בַמִּדְבָּ֗ר מְלוֹן֙ אֹֽרְחִ֔ים וְאֶֽעֶזְבָה֙ אֶת־עַמִּ֔י וְאֵלְכָ֖ה מֵאִתָּ֑ם כִּ֤י כֻלָּם֙ מְנָ֣אֲפִ֔ים עֲצֶ֖רֶת בֹּגְדִֽים׃",
+    "transliteration": "miy-yiteneniy vamidevar melvon 'orehiym ve'e'ezevah 'et-'amiy ve'elekhah me'itam khiy khulam mena'afiym 'atseret vogediym.",
     "translation": "Quem me daria um lodge de viajantes no deserto, para que eu deixasse meu povo e partisse dele, pois todos são adúlteros, uma turba rebelde?"
   },
   {
     "verse": 2,
     "original": "וַֽיַּדְרְכ֤וּ אֶת־לְשׁוֹנָם֙ קַשְׁתָּ֣ם שֶׁ֔קֶר וְלֹ֥א לֶאֱמוּנָ֖ה גָּבְר֣וּ בָאָ֑רֶץ כִּי֩ מֵרָעָ֨ה אֶל־רָעָ֧ה&thinsp;<small>׀</small>&thinsp;יָצָ֛אוּ וְאֹתִ֥י לֹא־יָדָ֖עוּ נְאֻם־יְהֹוָֽה׃",
+    "transliteration": "vayaderekhv 'et-leshvonam kashetam sheker velo' le'emvnah gaverv va'arets khiy mera'ah 'el-ra'ah&thinsp;<small>|</small>&thinsp;yatsa'v ve'otiy lo'-yada'v ne'um-yehovah.",
     "translation": "E dirigiram sua língua como arco para mentir, e não na fidelidade deram força na terra; pois do mal para o mal eles saíram, e a mim não me conheceram, diz o Senhor."
   },
   {
     "verse": 3,
     "original": "אִ֤ישׁ מֵרֵעֵ֙הוּ֙ הִשָּׁמֵ֔רוּ וְעַל־כׇּל־אָ֖ח אַל־תִּבְטָ֑חוּ כִּ֤י כׇל־אָח֙ עָק֣וֹב יַעְקֹ֔ב וְכׇל־רֵ֖עַ רָכִ֥יל יַהֲלֹֽךְ׃",
+    "transliteration": "'iysh mere'ehv hishamerv ve'al-khol-'ah 'al-tivetahv khiy khol-'ah 'akvov ya'ekov vekhol-re'a rakhiyl yahalokhe.",
     "translation": "Guarda-te do teu amigo, e não confies em qualquer irmão; porque todo irmão é traído e todo amigo fala caluniosamente."
   },
   {
     "verse": 4,
     "original": "וְאִ֤ישׁ בְּרֵעֵ֙הוּ֙ יְהָתֵ֔לּוּ וֶאֱמֶ֖ת לֹ֣א יְדַבֵּ֑רוּ לִמְּד֧וּ לְשׁוֹנָ֛ם דַּבֶּר־שֶׁ֖קֶר הַעֲוֵ֥ה נִלְאֽוּ׃",
+    "transliteration": "ve'iysh vere'ehv yehatelv ve'emet lo' yedaverv limedv leshvonam daver-sheker ha'aveh nile'v.",
     "translation": "E o homem age com falsidade para com seu amigo; não fala a verdade; ensinam sua língua a falar mentira, se cansam de perversão."
   },
   {
     "verse": 5,
     "original": "שִׁבְתְּךָ֖ בְּת֣וֹךְ מִרְמָ֑ה בְּמִרְמָ֛ה מֵאֲנ֥וּ דַעַת־אוֹתִ֖י נְאֻם־יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "shivetekha vetvokhe miremah vemiremah me'anv da'at-'votiy ne'um-yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Teu assentar-te está no meio da astúcia; com astúcia pensas conhecer-me, diz o Senhor."
   },
   {
     "verse": 6,
     "original": "לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הִנְנִ֥י צוֹרְפָ֖ם וּבְחַנְתִּ֑ים כִּי־אֵ֣יךְ אֶֽעֱשֶׂ֔ה מִפְּנֵ֖י בַּת־עַמִּֽי׃",
+    "transliteration": "lakhen khoh 'amar yehovah tseva'vot hineniy tsvorefam vvehanetiym khiy-'eykhe 'e'eseh mifeney vat-'amiy.",
     "translation": "Portanto, assim diz o Senhor dos Exércitos: Eis que os purgarei e os provarei; pois como agir em razão da filha do meu povo?"
   },
   {
     "verse": 7,
     "original": "חֵ֥ץ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(שוחט)</span> <span class=\"mam-kq-q\">[שָׁח֛וּט]</span></span> לְשׁוֹנָ֖ם מִרְמָ֣ה דִבֵּ֑ר בְּפִ֗יו שָׁל֤וֹם אֶת־רֵעֵ֙הוּ֙ יְדַבֵּ֔ר וּבְקִרְבּ֖וֹ יָשִׂ֥ים אׇרְבּֽוֹ׃",
+    "transliteration": "hets <span class=\"mam-kq\"><span class=\"mam-kq-k\">(svht)</span> <span class=\"mam-kq-q\">[shahvt]</span></span> leshvonam miremah diver vefiyv shalvom 'et-re'ehv yedaver vvekirevvo yasiym 'orevvo.",
     "translation": "A seta mortífera é sua língua; suas palavras são engano; em seus lábios há paz, mas no seu coração está a armadilha."
   },
   {
     "verse": 8,
     "original": "הַעַל־אֵ֥לֶּה לֹא־אֶפְקׇד־בָּ֖ם נְאֻם־יְהֹוָ֑ה אִ֚ם בְּג֣וֹי אֲשֶׁר־כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ha'al-'eleh lo'-'efekod-vam ne'um-yehovah 'im vegvoy 'asher-khazeh lo' titenakem nafeshiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Por estas não guardarei silêncio sobre eles, diz o Senhor. Se entre as nações há semelhante a esta, porventura minha alma não se vingará de tal nação?"
   },
   {
     "verse": 9,
     "original": "עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי וְעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙ מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָׁמְע֖וּ ק֣וֹל מִקְנֶ֑ה מֵע֤וֹף הַשָּׁמַ֙יִם֙ וְעַד־בְּהֵמָ֔ה נָדְד֖וּ הָלָֽכוּ׃",
+    "transliteration": "'al-hehariym 'esa' vekhiy vanehiy ve'al-ne'vot midevar kiynah khiy nitsetv miveliy-'iysh 'over velo' shame'v kvol mikeneh me'vof hashamayim ve'ad-vehemah nadedv halakhv.",
     "translation": "Nos montes levantarei choro e pranto, e sobre as colinas do deserto cantarei lamentação; porque queimaram-se todos, não havendo quem passe, e não ouviram a voz dos gados; desde os céus até à besta, tudo fugiu e se foi."
   },
   {
     "verse": 10,
     "original": "וְנָתַתִּ֧י אֶת־יְרוּשָׁלַ֛͏ִם לְגַלִּ֖ים מְע֣וֹן תַּנִּ֑ים וְאֶת־עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן שְׁמָמָ֖ה מִבְּלִ֥י יוֹשֵֽׁב׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "venatatiy 'et-yervshalaim legaliym me'von taniym ve'et-'arey yehvdah 'eten shemamah miveliy yvoshev.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E darei a Jerusalém como montes de abandono, morada de chacais, e às cidades de Judá darei como desolação, sem habitante."
   },
   {
     "verse": 11,
     "original": "מִֽי־הָאִ֤ישׁ הֶחָכָם֙ וְיָבֵ֣ן אֶת־זֹ֔את וַאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְהֹוָ֛ה אֵלָ֖יו וְיַגִּדָ֑הּ עַל־מָה֙ אָבְדָ֣ה הָאָ֔רֶץ נִצְּתָ֥ה כַמִּדְבָּ֖ר מִבְּלִ֥י עֹבֵֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "miy-ha'iysh hehakham veyaven 'et-zo't va'asher diver fiy-yehovah 'elayv veyagidah 'al-mah 'avedah ha'arets nitsetah khamidevar miveliy 'over.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Quem é o sábio que entende isso e ao qual a palavra do Senhor foi dirigida para declarar? Sobre o quê se perdeu a terra, secou como deserto por falta de quem passeie?"
   },
   {
     "verse": 12,
     "original": "וַיֹּ֣אמֶר יְהֹוָ֔ה עַל־עׇזְבָם֙ אֶת־תּ֣וֹרָתִ֔י אֲשֶׁ֥ר נָתַ֖תִּי לִפְנֵיהֶ֑ם וְלֹא־שָׁמְע֥וּ בְקוֹלִ֖י וְלֹא־הָ֥לְכוּ בָֽהּ׃",
+    "transliteration": "vayo'mer yehovah 'al-'ozevam 'et-tvoratiy 'asher natatiy lifeneyhem velo'-shame'v vekvoliy velo'-halekhv vah.",
     "translation": "E disse o Senhor: Porque me deixaram a minha lei que dei diante deles, e não ouviram a minha voz e não andaram nela."
   },
   {
     "verse": 13,
     "original": "וַיֵּ֣לְכ֔וּ אַחֲרֵ֖י שְׁרִר֣וּת לִבָּ֑ם וְאַֽחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁ֥ר לִמְּד֖וּם אֲבוֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayelekhv 'aharey sherirvt livam ve'aharey have'aliym 'asher limedvm 'avvotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eles seguiram a teimosia de seus corações e os baalins que seus pais os ensinaram."
   },
   {
     "verse": 14,
     "original": "לָכֵ֗ן כֹּה־אָמַ֞ר יְהֹוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י מַאֲכִילָ֛ם אֶת־הָעָ֥ם הַזֶּ֖ה לַעֲנָ֑ה וְהִשְׁקִיתִ֖ים מֵי־רֹֽאשׁ׃",
+    "transliteration": "lakhen khoh-'amar yehovah tseva'vot 'elohey yisera'el hineniy ma'akhiylam 'et-ha'am hazeh la'anah vehishekiytiym mey-ro'sh.",
     "translation": "Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que farei deste povo comer coisas amargas e beber água amarga."
   },
   {
     "verse": 15,
     "original": "וַהֲפִֽצוֹתִים֙ בַּגּוֹיִ֔ם אֲשֶׁר֙ לֹ֣א יָדְע֔וּ הֵ֖מָּה וַאֲבוֹתָ֑ם וְשִׁלַּחְתִּ֤י אַֽחֲרֵיהֶם֙ אֶת־הַחֶ֔רֶב עַ֥ד כַּלּוֹתִ֖י אוֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vahafitsvotiym vagvoyim 'asher lo' yade'v hemah va'avvotam veshilahetiy 'ahareyhem 'et-haherev 'ad khalvotiy 'votam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os espalharei entre as nações que eles e seus pais não conheciam, e enviarei a espada atrás deles até consumi-los."
   },
   {
     "verse": 16,
     "original": "כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הִתְבּ֥וֹנְנ֛וּ וְקִרְא֥וּ לַמְקוֹנְנ֖וֹת וּתְבוֹאֶ֑ינָה וְאֶל־הַחֲכָמ֥וֹת שִׁלְח֖וּ וְתָבֽוֹאנָה׃",
+    "transliteration": "khoh 'amar yehovah tseva'vot hitevvonenv vekire'v lamekvonenvot vtevvo'eynah ve'el-hahakhamvot shilehv vetavvo'nah.",
     "translation": "Assim diz o Senhor dos Exércitos: Considerai e chamai as adivinhas, que venham; às sábias enviareis, e elas virão."
   },
   {
     "verse": 17,
     "original": "וּתְמַהֵ֕רְנָה וְתִשֶּׂ֥נָה עָלֵ֖ינוּ נֶ֑הִי וְתֵרַ֤דְנָה עֵינֵ֙ינוּ֙ דִּמְעָ֔ה וְעַפְעַפֵּ֖ינוּ יִזְּלוּ־מָֽיִם׃",
+    "transliteration": "vtemaherenah vetisenah 'aleynv nehiy veteradenah 'eyneynv dime'ah ve'afe'afeynv yizelv-mayim.",
     "translation": "E apressar-nos-ão e derramarão sobre nós lágrimas, e nossos olhos transbordarão água, e nossas pálpebras deslizarão águas."
   },
   {
     "verse": 18,
     "original": "כִּ֣י ק֥וֹל נְהִ֛י נִשְׁמַ֥ע מִצִּיּ֖וֹן אֵ֣יךְ שֻׁדָּ֑דְנוּ בֹּ֤שְׁנֽוּ מְאֹד֙ כִּֽי־עָזַ֣בְנוּ אָ֔רֶץ כִּ֥י הִשְׁלִ֖יכוּ מִשְׁכְּנוֹתֵֽינוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy kvol nehiy nishema' mitsiyvon 'eykhe shudadenv voshenv me'od khiy-'azavenv 'arets khiy hisheliykhv mishekhenvoteynv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Pois ouve-se um grito de desolação de Sião: \"Fomos devastados! Muito nos envergonhamos, pois abandonamos a terra e lançaram às ruínas as nossas moradas.\""
   },
   {
     "verse": 19,
     "original": "כִּֽי־שְׁמַ֤עְנָה נָשִׁים֙ דְּבַר־יְהֹוָ֔ה וְתִקַּ֥ח אׇזְנְכֶ֖ם דְּבַר־פִּ֑יו וְלַמֵּ֤דְנָה בְנֽוֹתֵיכֶם֙ נֶ֔הִי וְאִשָּׁ֥ה רְעוּתָ֖הּ קִינָֽה׃",
+    "transliteration": "khiy-shema'enah nashiym devar-yehovah vetikah 'ozenekhem devar-fiyv velamedenah venvoteykhem nehiy ve'ishah re'vtah kiynah.",
     "translation": "Pois as mulheres ouviram a palavra do Senhor, e atendei à palavra de seus lábios; ensinai vossas filhas canção e cada mulher seu companheiro lamentação."
   },
   {
     "verse": 20,
     "original": "כִּי־עָ֤לָֽה מָ֙וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ בַּחוּרִ֖ים מֵרְחֹבֽוֹת׃",
+    "transliteration": "khiy-'alah mavet vehalvoneynv va' ve'aremenvoteynv lehakheriyt 'volal mihvts vahvriym merehovvot.",
     "translation": "Pois subiu a morte pelas nossas janelas, entrou nos nossos palácios para ceifar os órfãos lá fora, os jovens nas praças."
   },
   {
     "verse": 21,
     "original": "דַּבֵּ֗ר כֹּ֚ה נְאֻם־יְהֹוָ֔ה וְנָֽפְלָה֙ נִבְלַ֣ת הָאָדָ֔ם כְּדֹ֖מֶן עַל־פְּנֵ֣י הַשָּׂדֶ֑ה וּכְעָמִ֛יר מֵאַחֲרֵ֥י הַקֹּצֵ֖ר וְאֵ֥ין מְאַסֵּֽף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "daver khoh ne'um-yehovah venafelah nivelat ha'adam khedomen 'al-feney hasadeh vkhe'amiyr me'aharey hakotser ve'eyn me'asef.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Fala, assim diz o Senhor: e cairá a carniça do homem como monturo sobre a face do campo, e como gomo após o ceifeiro e não haverá que ajunte."
   },
   {
     "verse": 22,
     "original": "כֹּ֣ה&thinsp;<b>׀</b> אָמַ֣ר יְהֹוָ֗ה אַל־יִתְהַלֵּ֤ל חָכָם֙ בְּחׇכְמָת֔וֹ וְאַל־יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבוּרָת֑וֹ אַל־יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעׇשְׁרֽוֹ׃",
+    "transliteration": "khoh&thinsp;<b>|</b> 'amar yehovah 'al-yitehalel hakham vehokhematvo ve'al-yitehalel hagivvor vigevvratvo 'al-yitehalel 'ashiyr ve'oshervo.",
     "translation": "Assim diz o Senhor: Não se glorie o sábio em sua sabedoria, não se exalte o forte em sua força, não se vanglorie o rico em sua riqueza."
   },
   {
     "verse": 23,
     "original": "כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהֹוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy 'im-vezo't yitehalel hamitehalel hasekhel veyado'a 'votiy khiy 'aniy yehovah 'oseh hesed mishefat vtsedakah va'arets khiy-ve'eleh hafatsetiy ne'um-yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Porém, neste se gloriará o que se gloria: que entenda e conheça-me, pois eu sou o Senhor, que faço misericórdia, juízo e justiça na terra; porquanto nestas coisas tenho prazer, diz o Senhor."
   },
   {
     "verse": 24,
     "original": "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהֹוָ֑ה וּפָ֣קַדְתִּ֔י עַל־כׇּל־מ֖וּל בְּעׇרְלָֽה׃",
+    "transliteration": "hineh yamiym va'iym ne'um-yehovah vfakadetiy 'al-khol-mvl ve'orelah.",
     "translation": "Eis, dias vêm, diz o Senhor, e visitarei sobre todos os incircuncisos."
   },
   {
     "verse": 25,
     "original": "עַל־מִצְרַ֣יִם וְעַל־יְהוּדָ֗ה וְעַל־אֱד֞וֹם וְעַל־בְּנֵ֤י עַמּוֹן֙ וְעַל־מוֹאָ֔ב וְעַל֙ כׇּל־קְצוּצֵ֣י פֵאָ֔ה הַיֹּשְׁבִ֖ים בַּמִּדְבָּ֑ר כִּ֤י כׇל־הַגּוֹיִם֙ עֲרֵלִ֔ים וְכׇל־בֵּ֥ית יִשְׂרָאֵ֖ל עַרְלֵי־לֵֽב׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al-mitserayim ve'al-yehvdah ve'al-'edvom ve'al-veney 'amvon ve'al-mvo'av ve'al khol-ketsvtsey fe'ah hayosheviym vamidevar khiy khol-hagvoyim 'areliym vekhol-veyt yisera'el 'areley-lev.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Sobre o Egito e sobre Judá, sobre Edom e sobre os filhos de Amom, sobre Moabe e sobre todos os que têm as extremidades cortadas, que habitam no deserto; pois todos os povos são incircuncisos, e toda a casa de Israel é incircuncisa de coração."
   }
 ]

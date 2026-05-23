@@ -2,91 +2,109 @@
   {
     "verse": 1,
     "original": " καὶ Τωβιτ ἔγραψεν προσευχὴν εἰς ἀγαλλίασιν καὶ εἶπεν   καὶ εἶπεν ",
+    "transliteration": " kai Tovit egrapsen proseychin eis agalliasin kai eipen   kai eipen ",
     "translation": "E Tobias escreveu uma oração para alegria e disse:"
   },
   {
     "verse": 2,
     "original": " εὐλογητὸς ὁ θεὸς ὁ ζῶν εἰς τοὺς αἰῶνας καὶ ἡ βασιλεία αὐτοῦ ὅτι αὐτὸς μαστιγοῖ καὶ ἐλεᾷ κατάγει εἰς ᾅδην καὶ ἀνάγει καὶ οὐκ ἔστιν ὃς ἐκφεύξεται τὴν χεῖρα αὐτοῦ   εὐλογητὸς ὁ θεὸς ὁ ζῶν εἰς τὸν αἰῶνα καὶ ἡ βασιλεία αὐτοῦ ὅτι αὐτὸς μαστιγοῖ καὶ ἐλεᾷ κατάγει ἕως ᾅδου κατωτάτω τῆς γῆς καὶ αὐτὸς ἀνάγει ἐκ τῆς ἀπωλείας τῆς μεγάλης καὶ οὐκ ἔστιν οὐδέν ὃ ἐκφεύξεται τὴν χεῖρα αὐτοῦ ",
+    "transliteration": " eylogitos ho theos ho zon eis toys aionas kai hi vasileia aytoy hoti aytos mastigoi kai elea katagei eis hadin kai anagei kai oyk estin hos ekfeyxetai tin cheira aytoy   eylogitos ho theos ho zon eis ton aiona kai hi vasileia aytoy hoti aytos mastigoi kai elea katagei heos hadoy katotato tis gis kai aytos anagei ek tis apoleias tis megalis kai oyk estin oyden ho ekfeyxetai tin cheira aytoy ",
     "translation": "Bendito seja o Deus vivo para sempre e seu reino, pois ele mesmo castiga e tem misericórdia; conduz ao inferno e ressuscita, e não há quem escape de sua mão. Bendito seja o Deus vivo para sempre e seu reino, pois ele mesmo castiga e tem misericórdia; desce com alguém até os abismos da terra mais profunda e novamente o eleva da grande perdição, e nada escapa à sua mão."
   },
   {
     "verse": 3,
     "original": " ἐξομολογεῖσθε αὐτῷ οἱ υἱοὶ Ισραηλ ἐνώπιον τῶν ἐθνῶν ὅτι αὐτὸς διέσπειρεν ἡμᾶς ἐν αὐτοῖς   ἐξομολογεῖσθε αὐτῷ οἱ υἱοὶ Ισραηλ ἐνώπιον τῶν ἐθνῶν ὅτι αὐτὸς διέσπειρεν ὑμᾶς ἐν αὐτοῖς ",
+    "transliteration": " exomologeisthe ayto ohi yhioi Israil enopion ton ethnon hoti aytos diespeiren himas en aytois   exomologeisthe ayto ohi yhioi Israil enopion ton ethnon hoti aytos diespeiren hymas en aytois ",
     "translation": "Confessem-lhe, ó filhos de Israel, diante das nações, que Ele mesmo vos dispersou entre elas."
   },
   {
     "verse": 4,
     "original": " ἐκεῖ ὑποδείξατε τὴν μεγαλωσύνην αὐτοῦ ὑψοῦτε αὐτὸν ἐνώπιον παντὸς ζῶντος καθότι αὐτὸς κύριος ἡμῶν καὶ θεός αὐτὸς πατὴρ ἡμῶν εἰς πάντας τοὺς αἰῶνας   καὶ ἐκεῖ ὑπέδειξεν ὑμῖν τὴν μεγαλωσύνην αὐτοῦ καὶ ὑψοῦτε αὐτὸν ἐνώπιον παντὸς ζῶντος καθότι αὐτὸς ἡμῶν κύριός ἐστιν καὶ αὐτὸς θεὸς ἡμῶν καὶ αὐτὸς πατὴρ ἡμῶν καὶ αὐτὸς θεὸς εἰς πάντας τοὺς αἰῶνας ",
+    "transliteration": " ekei hypodeixate tin megalosynin aytoy hypsoyte ayton enopion pantos zontos kathoti aytos kyrios himon kai theos aytos patir himon eis pantas toys aionas   kai ekei hypedeixen hymin tin megalosynin aytoy kai hypsoyte ayton enopion pantos zontos kathoti aytos himon kyrios estin kai aytos theos himon kai aytos patir himon kai aytos theos eis pantas toys aionas ",
     "translation": "Ali Ele manifestou Sua grandeza e exaltai-O diante de todo ser vivo, pois Ele é nosso Senhor e Deus, nosso Pai para todos os séculos. E ali Ele vos manifestou Sua grandeza e exaltai-O diante de todo ser vivo, pois Ele mesmo é nosso Senhor e Ele mesmo é nosso Deus, nosso Pai e Deus por todos os séculos."
   },
   {
     "verse": 5,
     "original": " καὶ μαστιγώσει ἡμᾶς ἐν ταῖς ἀδικίαις ἡμῶν καὶ πάλιν ἐλεήσει καὶ συνάξει ἡμᾶς ἐκ πάντων τῶν ἐθνῶν οὗ ἐὰν σκορπισθῆτε ἐν αὐτοῖς   μαστιγώσει ὑμᾶς ἐπὶ ταῖς ἀδικίαις ὑμῶν καὶ πάντας ὑμᾶς ἐλεήσει ἐκ πάντων τῶν ἐθνῶν ὅπου ἂν διασκορπισθῆτε ἐν αὐτοῖς ",
+    "transliteration": " kai mastigosei himas en tais adikiais himon kai palin eleisei kai synaxei himas ek panton ton ethnon ohy ean skorpisthite en aytois   mastigosei hymas epi tais adikiais hymon kai pantas hymas eleisei ek panton ton ethnon hopoy an diaskorpisthite en aytois ",
     "translation": "E ele nos castigará pelas nossas iniqüidades, e depois terá misericórdia de nós e nos reunirá de todos os povos entre os quais forem dispersos; castigará-vos pelas vossas iniqüidades, e terá misericórdia de todos vós de todos os povos entre os quais fordes dispersados."
   },
   {
     "verse": 6,
     "original": " ἐὰν ἐπιστρέψητε πρὸς αὐτὸν ἐν ὅλῃ καρδίᾳ ὑμῶν καὶ ἐν ὅλῃ τῇ ψυχῇ ποιῆσαι ἐνώπιον αὐτοῦ ἀλήθειαν τότε ἐπιστρέψει πρὸς ὑμᾶς καὶ οὐ μὴ κρύψῃ τὸ πρόσωπον αὐτοῦ ἀφ’ ὑμῶν   ὅταν ἐπιστρέψητε πρὸς αὐτὸν ἐν ὅλῃ τῇ καρδίᾳ ὑμῶν καὶ ἐν ὅλῃ τῇ ψυχῇ ὑμῶν ποιῆσαι ἐνώπιον αὐτοῦ ἀλήθειαν τότε ἐπιστρέψει πρὸς ὑμᾶς καὶ οὐ μὴ κρύψῃ τὸ πρόσωπον αὐτοῦ ἀφ’ ὑμῶν οὐκέτι ",
+    "transliteration": " ean epistrepsite pros ayton en holi kardia hymon kai en holi ti psychi poiisai enopion aytoy alitheian tote epistrepsei pros hymas kai oy mi krypsi to prosopon aytoy af' hymon   hotan epistrepsite pros ayton en holi ti kardia hymon kai en holi ti psychi hymon poiisai enopion aytoy alitheian tote epistrepsei pros hymas kai oy mi krypsi to prosopon aytoy af' hymon oyketi ",
     "translation": "Se vos converterdes a ele com todo o coração e toda a alma para fazer diante dele verdade, então ele se voltará para vós e não ocultará mais seu rosto de vós. Quando vos converterdes a ele com todo o coração e toda a alma para fazer diante dele verdade, então ele se voltará para vós e não esconderá mais seu rosto de vós."
   },
   {
     "verse": 7,
     "original": " καὶ θεάσασθε ἃ ποιήσει μεθ’ ὑμῶν καὶ ἐξομολογήσασθε αὐτῷ ἐν ὅλῳ τῷ στόματι ὑμῶν καὶ εὐλογήσατε τὸν κύριον τῆς δικαιοσύνης καὶ ὑψώσατε τὸν βασιλέα τῶν αἰώνων   καὶ νῦν θεάσασθε ἃ ἐποίησεν μεθ’ ὑμῶν καὶ ἐξομολογήσασθε αὐτῷ ἐν ὅλῳ τῷ στόματι ὑμῶν καὶ εὐλογήσατε τὸν κύριον τῆς δικαιοσύνης καὶ ὑψώσατε τὸν βασιλέα τῶν αἰώνων ",
+    "transliteration": " kai theasasthe ha poiisei meth' hymon kai exomologisasthe ayto en holo to stomati hymon kai eylogisate ton kyrion tis dikaiosynis kai hypsosate ton vasilea ton aionon   kai nyn theasasthe ha epoiisen meth' hymon kai exomologisasthe ayto en holo to stomati hymon kai eylogisate ton kyrion tis dikaiosynis kai hypsosate ton vasilea ton aionon ",
     "translation": "E agora vede o que Ele fez com vocês e confessem-lhe com toda a boca, e bendizam o Senhor da justiça e exaltem o Rei dos séculos. Vede o que Ele fará convosco e confessem-lhe com toda a boca, e bendizam o Senhor da justiça e exaltem o Rei dos séculos."
   },
   {
     "verse": 8,
     "original": " ἐγὼ ἐν τῇ γῇ τῆς αἰχμαλωσίας μου ἐξομολογοῦμαι αὐτῷ καὶ δεικνύω τὴν ἰσχὺν καὶ τὴν μεγαλωσύνην αὐτοῦ ἔθνει ἁμαρτωλῶν ἐπιστρέψατε ἁμαρτωλοί καὶ ποιήσατε δικαιοσύνην ἐνώπιον αὐτοῦ τίς γινώσκει εἰ θελήσει ὑμᾶς καὶ ποιήσει ἐλεημοσύνην ὑμῖν  ",
+    "transliteration": " ego en ti gi tis aichmalosias moy exomologoymai ayto kai deiknyo tin ischyn kai tin megalosynin aytoy ethnei hamartolon epistrepsate hamartoloi kai poiisate dikaiosynin enopion aytoy tis ginoskei ei thelisei hymas kai poiisei eleimosynin hymin  ",
     "translation": "Na terra da minha cativeira, confesso a ele e manifesto sua força e grandeza entre as nações pecadoras. Ó pecadores, convertam-se e pratiquem justiça diante dele; quem sabe se ele desejará vos aceitar e fazer-vos misericórdia?"
   },
   {
     "verse": 9,
     "original": " τὸν θεόν μου ὑψῶ καὶ ἡ ψυχή μου τὸν βασιλέα τοῦ οὐρανοῦ καὶ ἀγαλλιάσεται τὴν μεγαλωσύνην αὐτοῦ  ",
+    "transliteration": " ton theon moy hypso kai hi psychi moy ton vasilea toy oyranoy kai agalliasetai tin megalosynin aytoy  ",
     "translation": "Exaltei ao meu Deus, e minha alma se regozija com a majestade do rei dos céus."
   },
   {
     "verse": 10,
     "original": " λεγέτωσαν πάντες καὶ ἐξομολογείσθωσαν αὐτῷ ἐν Ιεροσολύμοις Ιεροσόλυμα πόλις ἁγία μαστιγώσει ἐπὶ τὰ ἔργα τῶν υἱῶν σου καὶ πάλιν ἐλεήσει τοὺς υἱοὺς τῶν δικαίων  ",
+    "transliteration": " legetosan pantes kai exomologeisthosan ayto en Ierosolymois Ierosolyma polis hagia mastigosei epi ta erga ton yhion soy kai palin eleisei toys yhioys ton dikaion  ",
     "translation": "Declararão todos e confissão farão a Ele em Jerusalém; Jerusalém, cidade santa, castigará pelas obras dos teus filhos, e novamente misericórdia terá pelos filhos dos justos."
   },
   {
     "verse": 11,
     "original": " ἐξομολογοῦ τῷ κυρίῳ ἀγαθῶς καὶ εὐλόγει τὸν βασιλέα τῶν αἰώνων ἵνα πάλιν ἡ σκηνὴ αὐτοῦ οἰκοδομηθῇ σοι μετὰ χαρᾶς   καὶ πάλιν ἡ σκηνή σου οἰκοδομηθήσεταί σοι μετὰ χαρᾶς ",
+    "transliteration": " exomologoy to kyrio agathos kai eylogei ton vasilea ton aionon hina palin hi skini aytoy oikodomithi soi meta charas   kai palin hi skini soy oikodomithisetai soi meta charas ",
     "translation": "Confessa ao Senhor com bondade e bendiz o Rei dos séculos, para que novamente a sua tenda seja edificada para ti com alegria e novamente a tua tenda será edificada para ti com alegria."
   },
   {
     "verse": 12,
     "original": " καὶ εὐφράναι ἐν σοὶ τοὺς αἰχμαλώτους καὶ ἀγαπήσαι ἐν σοὶ τοὺς ταλαιπώρους εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος   καὶ εὐφράναι ἐν σοὶ πάντας τοὺς αἰχμαλώτους καὶ ἀγαπήσαι ἐν σοὶ πάντας τοὺς ταλαιπώρους εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος ",
+    "transliteration": " kai eyfranai en soi toys aichmalotoys kai agapisai en soi toys talaiporoys eis pasas tas geneas toy aionos   kai eyfranai en soi pantas toys aichmalotoys kai agapisai en soi pantas toys talaiporoys eis pasas tas geneas toy aionos ",
     "translation": "E alegrar em ti os cativos e amar em ti os aflitos por todas as gerações eternas, e alegrar em ti a todos os cativos e amar em ti a todos os aflitos por todas as gerações eternas."
   },
   {
     "verse": 13,
     "original": " ἔθνη πολλὰ μακρόθεν ἥξει πρὸς τὸ ὄνομα κυρίου τοῦ θεοῦ δῶρα ἐν χερσὶν ἔχοντες καὶ δῶρα τῷ βασιλεῖ τοῦ οὐρανοῦ γενεαὶ γενεῶν δώσουσίν σοι ἀγαλλίαμα   φῶς λαμπρὸν λάμψει εἰς πάντα τὰ πέρατα τῆς γῆς ἔθνη πολλὰ μακρόθεν ἥξει σοι καὶ κάτοικοι πάντων τῶν ἐσχάτων τῆς γῆς πρὸς τὸ ὄνομα τὸ ἅγιόν σου καὶ τὰ δῶρα αὐτῶν ἐν ταῖς χερσὶν αὐτῶν ἔχοντες τῷ βασιλεῖ τοῦ οὐρανοῦ γενεαὶ γενεῶν δώσουσιν ἐν σοὶ ἀγαλλίαμα καὶ ὄνομα τῆς ἐκλεκτῆς εἰς τὰς γενεὰς τοῦ αἰῶνος ",
+    "transliteration": " ethni polla makrothen hixei pros to onoma kyrioy toy theoy dora en chersin echontes kai dora to vasilei toy oyranoy geneai geneon dosoysin soi agalliama   fos lampron lampsei eis panta ta perata tis gis ethni polla makrothen hixei soi kai katoikoi panton ton eschaton tis gis pros to onoma to hagion soy kai ta dora ayton en tais chersin ayton echontes to vasilei toy oyranoy geneai geneon dosoysin en soi agalliama kai onoma tis eklektis eis tas geneas toy aionos ",
     "translation": "Muitas nações de longe virão ao nome do Senhor Deus, trazendo ofertas em suas mãos e darão presentes ao Rei dos céus; gerações de gerações te darão alegria. Uma luz brilhante resplandecerá para todos os confins da terra, muitas nações de longe virão a ti e habitantes de todas as extremidades da terra se dirão ao nome santo que tens; trarão ofertas em suas mãos e gerações de gerações te darão alegria neles, e o nome da eleita ressoará para as gerações eternas."
   },
   {
     "verse": 14,
     "original": " ἐπικατάρατοι πάντες οἱ μισοῦντές σε εὐλογημένοι ἔσονται πάντες οἱ ἀγαπῶντές σε εἰς τὸν αἰῶνα   ἐπικατάρατοι πάντες οἳ ἐροῦσιν λόγον σκληρόν ἐπικατάρατοι ἔσονται πάντες οἱ καθαιροῦντές σε καὶ κατασπῶντες τὰ τείχη σου καὶ πάντες οἱ ἀνατρέποντες τοὺς πύργους σου καὶ ἐμπυρίζοντες τὰς οἰκήσεις σου καὶ εὐλογητοὶ ἔσονται πάντες εἰς τὸν αἰῶνα οἱ φοβούμενοί σε ",
+    "transliteration": " epikataratoi pantes ohi misoyntes se eylogimenoi esontai pantes ohi agapontes se eis ton aiona   epikataratoi pantes ohi eroysin logon skliron epikataratoi esontai pantes ohi kathairoyntes se kai kataspontes ta teichi soy kai pantes ohi anatrepontes toys pyrgoys soy kai empyrizontes tas oikiseis soy kai eylogitoi esontai pantes eis ton aiona ohi fovoymenoi se ",
     "translation": "Amaldiçoado seja todo aquele que te odeia; bendito será todo aquele que te ama para sempre. Amaldiçoado seja todo aquele que fala palavras duras contra ti; amaldiçoado será todo aquele que destrói e arrasa as tuas muralhas, que derruba os teus torreões e incendeia as tuas casas; bendito será para sempre todo aquele que tem medo de ti."
   },
   {
     "verse": 15,
     "original": " χάρηθι καὶ ἀγαλλίασαι ἐπὶ τοῖς υἱοῖς τῶν δικαίων ὅτι συναχθήσονται καὶ εὐλογήσουσιν τὸν κύριον τῶν δικαίων ὦ μακάριοι οἱ ἀγαπῶντές σε χαρήσονται ἐπὶ τῇ εἰρήνῃ σου   τότε πορεύθητι καὶ ἀγαλλίασαι πρὸς τοὺς υἱοὺς τῶν δικαίων ὅτι πάντες ἐπισυναχθήσονται καὶ εὐλογήσουσιν τὸν κύριον τοῦ αἰῶνος μακάριοι οἱ ἀγαπῶντές σε καὶ μακάριοι οἳ χαρήσονται ἐπὶ τῇ εἰρήνῃ σου ",
+    "transliteration": " charithi kai agalliasai epi tois yhiois ton dikaion hoti synachthisontai kai eylogisoysin ton kyrion ton dikaion o makarioi ohi agapontes se charisontai epi ti eirini soy   tote poreythiti kai agalliasai pros toys yhioys ton dikaion hoti pantes episynachthisontai kai eylogisoysin ton kyrion toy aionos makarioi ohi agapontes se kai makarioi ohi charisontai epi ti eirini soy ",
     "translation": "Seja grato e alegrai-vos com os filhos dos justos, pois se reunirão e bendizerão o Senhor dos justos. Oh, bem-aventurados aqueles que vos amam! Alegrar-se-ão na vossa paz. Nesse momento, ide e alegrai-vos com os filhos dos justos, porque todos se juntarão e bendirão ao Senhor do mundo. Bem-aventurados os que vos amam e bem-aventurados aqueles que se regozijarão na vossa paz."
   },
   {
     "verse": 16,
     "original": " μακάριοι ὅσοι ἐλυπήθησαν ἐπὶ πάσαις ταῖς μάστιξίν σου ὅτι ἐπὶ σοὶ χαρήσονται θεασάμενοι πᾶσαν τὴν δόξαν σου καὶ εὐφρανθήσονται εἰς τὸν αἰῶνα ἡ ψυχή μου εὐλογείτω τὸν θεὸν τὸν βασιλέα τὸν μέγαν   καὶ μακάριοι πάντες οἱ ἄνθρωποι οἳ ἐπὶ σοὶ λυπηθήσονται ἐπὶ πάσαις ταῖς μάστιξίν σου ὅτι ἐν σοὶ χαρήσονται καὶ ὄψονται πᾶσαν τὴν χαράν σου εἰς τὸν αἰῶνα ἡ ψυχή μου εὐλόγει τὸν κύριον τὸν βασιλέα τὸν μέγαν ",
+    "transliteration": " makarioi hosoi elypithisan epi pasais tais mastixin soy hoti epi soi charisontai theasamenoi pasan tin doxan soy kai eyfranthisontai eis ton aiona hi psychi moy eylogeito ton theon ton vasilea ton megan   kai makarioi pantes ohi anthropoi ohi epi soi lypithisontai epi pasais tais mastixin soy hoti en soi charisontai kai opsontai pasan tin charan soy eis ton aiona hi psychi moy eylogei ton kyrion ton vasilea ton megan ",
     "translation": "Bem-aventurados quantos se entristeceram por todas as tuas disciplinas, porque em ti se alegrarão, vendo toda a tua glória; e a minha alma exultará para sempre. Bendito seja Deus, o grande Rei! E bem-aventurados todos os homens que por ti se entristecerem pelas tuas disciplinas, pois em ti se regozijarão e verão toda a tua alegria para sempre; bendiga a minha alma ao Senhor, o grande Rei."
   },
   {
     "verse": 17,
     "original": " ὅτι οἰκοδομηθήσεται Ιερουσαλημ σαπφείρῳ καὶ σμαράγδῳ καὶ λίθῳ ἐντίμῳ τὰ τείχη σου καὶ οἱ πύργοι καὶ οἱ προμαχῶνες ἐν χρυσίῳ καθαρῷ καὶ αἱ πλατεῖαι Ιερουσαλημ βηρύλλῳ καὶ ἄνθρακι καὶ λίθῳ ἐκ Σουφιρ ψηφολογηθήσονται   ὅτι Ιερουσαλημ οἰκοδομηθήσεται τῇ πόλει οἶκος αὐτοῦ εἰς πάντας τοὺς αἰῶνας μακάριος ἔσομαι ἂν γένηται τὸ κατάλειμμα τοῦ σπέρματός μου ἰδεῖν τὴν δόξαν σου καὶ ἐξομολογήσασθαι τῷ βασιλεῖ τοῦ οὐρανοῦ καὶ αἱ θύραι Ιερουσαλημ σαπφείρῳ καὶ σμαράγδῳ οἰκοδομηθήσονται καὶ λίθῳ τιμίῳ πάντα τὰ τείχη σου οἱ πύργοι Ιερουσαλημ χρυσίῳ οἰκοδομηθήσονται καὶ οἱ προμαχῶνες αὐτῶν χρυσίῳ καθαρῷ αἱ πλατεῖαι Ιερουσαλημ ἄνθρακι ψηφολογηθήσονται καὶ λίθῳ Σουφιρ ",
+    "transliteration": " hoti oikodomithisetai Ieroysalim sapfeiro kai smaragdo kai litho entimo ta teichi soy kai ohi pyrgoi kai ohi promachones en chrysio katharo kai ahi plateiai Ieroysalim viryllo kai anthraki kai litho ek Soyfir psifologithisontai   hoti Ieroysalim oikodomithisetai ti polei oikos aytoy eis pantas toys aionas makarios esomai an genitai to kataleimma toy spermatos moy idein tin doxan soy kai exomologisasthai to vasilei toy oyranoy kai ahi thyrai Ieroysalim sapfeiro kai smaragdo oikodomithisontai kai litho timio panta ta teichi soy ohi pyrgoi Ieroysalim chrysio oikodomithisontai kai ohi promachones ayton chrysio katharo ahi plateiai Ieroysalim anthraki psifologithisontai kai litho Soyfir ",
     "translation": "Porque Jerusalém será edificada com safira e esmeralda e pedra preciosa as tuas muralhas e torres e baluartes em ouro puro e as ruas de Jerusalém serão de berilo e carvão e pedra da Sufir. Porque Jerusalém será edificada como a cidade, sua casa para todos os séculos; serei feliz se ficar algum remanescente do meu semente para ver tua glória e louvar ao rei dos céus. As portas de Jerusalém serão edificadas com safira e esmeralda e pedra preciosa, todas as tuas muralhas; as torres de Jerusalém serão construídas em ouro puro e os baluartes dela em ouro puro. As ruas de Jerusalém serão de carvão e pedra da Sufir."
   },
   {
     "verse": 18,
     "original": " καὶ ἐροῦσιν πᾶσαι αἱ ῥῦμαι αὐτῆς αλληλουια καὶ αἰνέσουσιν λέγοντες εὐλογητὸς ὁ θεός ὃς ὕψωσεν πάντας τοὺς αἰῶνας   καὶ αἱ θύραι Ιερουσαλημ ᾠδὰς ἀγαλλιάματος ἐροῦσιν καὶ πᾶσαι αἱ οἰκίαι αὐτῆς ἐροῦσιν αλληλουια εὐλογητὸς ὁ θεὸς τοῦ Ισραηλ καὶ εὐλογητοὶ εὐλογήσουσιν τὸ ὄνομα τὸ ἅγιον εἰς τὸν αἰῶνα καὶ ἔτι ",
+    "transliteration": " kai eroysin pasai ahi rhymai aytis alliloyia kai ainesoysin legontes eylogitos ho theos hos hypsosen pantas toys aionas   kai ahi thyrai Ieroysalim odas agalliamatos eroysin kai pasai ahi oikiai aytis eroysin alliloyia eylogitos ho theos toy Israil kai eylogitoi eylogisoysin to onoma to hagion eis ton aiona kai eti ",
     "translation": "E dirão todas as suas fileiras aleluia e louvarão dizendo bendito seja Deus que exaltou todos os séculos e as portas de Jerusalém cantarão hinos de alegria e todas as suas casas dirão aleluia bendito seja o Deus de Israel e os benditos bendirão o nome santo para sempre e ainda"
   }
 ]

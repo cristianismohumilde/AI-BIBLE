@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים מִצְרָ֑יְמָה אֵ֣ת יַעֲקֹ֔ב אִ֥ישׁ וּבֵית֖וֹ בָּֽאוּ׃",
+    "transliteration": "ve'eleh shemvot veney yisera'el hava'iym mitserayemah 'et ya'akov 'iysh vveytvo va'v.",
     "translation": "E estes são os nomes dos filhos de Israel que vieram ao Egito com Jacó; cada um veio com sua casa."
   },
   {
     "verse": 2,
     "original": "רְאוּבֵ֣ן שִׁמְע֔וֹן לֵוִ֖י וִיהוּדָֽה׃",
+    "transliteration": "re'vven shime'von leviy viyhvdah.",
     "translation": "Rúbem, Simeão, Levi e Judá."
   },
   {
     "verse": 3,
     "original": "יִשָּׂשכָ֥ר זְבוּלֻ֖ן וּבִנְיָמִֽן׃",
+    "transliteration": "yisaskhar zevvlun vvineyamin.",
     "translation": "Issacar, Zebulom e Benjamim."
   },
   {
     "verse": 4,
     "original": "דָּ֥ן וְנַפְתָּלִ֖י גָּ֥ד וְאָשֵֽׁר׃",
+    "transliteration": "dan venafetaliy gad ve'asher.",
     "translation": "Dan e Naftali, Gad e Aser."
   },
   {
     "verse": 5,
     "original": "וַֽיְהִ֗י כׇּל־נֶ֛פֶשׁ יֹצְאֵ֥י יֶֽרֶךְ־יַעֲקֹ֖ב שִׁבְעִ֣ים נָ֑פֶשׁ וְיוֹסֵ֖ף הָיָ֥ה בְמִצְרָֽיִם׃",
+    "transliteration": "vayehiy khol-nefesh yotse'ey yerekhe-ya'akov shive'iym nafesh veyvosef hayah vemitserayim.",
     "translation": "E foi que toda a alma saída do flanco de Jacó era setenta almas, e José estava no Egito."
   },
   {
     "verse": 6,
     "original": "וַיָּ֤מׇת יוֹסֵף֙ וְכׇל־אֶחָ֔יו וְכֹ֖ל הַדּ֥וֹר הַהֽוּא׃",
+    "transliteration": "vayamot yvosef vekhol-'ehayv vekhol hadvor hahv'.",
     "translation": "E José e todos os seus irmãos, e toda aquela geração, morreram."
   },
   {
     "verse": 7,
     "original": "וּבְנֵ֣י יִשְׂרָאֵ֗ל פָּר֧וּ וַֽיִּשְׁרְצ֛וּ וַיִּרְבּ֥וּ וַיַּֽעַצְמ֖וּ בִּמְאֹ֣ד מְאֹ֑ד וַתִּמָּלֵ֥א הָאָ֖רֶץ אֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vveney yisera'el farv vayisheretsv vayirevv vaya'atsemv vime'od me'od vatimale' ha'arets 'otam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os filhos de Israel se multiplicaram e se espalharam, cresceram e fortaleceram-se em grande abundância, de modo que a terra foi preenchida por eles."
   },
   {
     "verse": 8,
     "original": "וַיָּ֥קׇם מֶֽלֶךְ־חָדָ֖שׁ עַל־מִצְרָ֑יִם אֲשֶׁ֥ר לֹֽא־יָדַ֖ע אֶת־יוֹסֵֽף׃",
+    "transliteration": "vayakom melekhe-hadash 'al-mitserayim 'asher lo'-yada' 'et-yvosef.",
     "translation": "Ergueu-se um novo rei sobre o Egito, que não conhecia a José."
   },
   {
     "verse": 9,
     "original": "וַיֹּ֖אמֶר אֶל־עַמּ֑וֹ הִנֵּ֗ה עַ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְעָצ֖וּם מִמֶּֽנּוּ׃",
+    "transliteration": "vayo'mer 'el-'amvo hineh 'am veney yisera'el rav ve'atsvm mimenv.",
     "translation": "E disse ao seu povo: Eis que o povo, os filhos de Israel, é numeroso e forte."
   },
   {
     "verse": 10,
     "original": "הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן־יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם־הוּא֙ עַל־שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־בָּ֖נוּ וְעָלָ֥ה מִן־הָאָֽרֶץ׃",
+    "transliteration": "havah nitehakhemah lvo fen-yireveh vehayah khiy-tikere'nah milehamah venvosaf gam-hv' 'al-sone'eynv venileham-vanv ve'alah min-ha'arets.",
     "translation": "Vinde, hajamos-lhe mal; antes que se multiplique, e aconteça que, quando for declarada guerra, ele também se alie aos nossos inimigos e suba contra a terra."
   },
   {
     "verse": 11,
     "original": "וַיָּשִׂ֤ימוּ עָלָיו֙ שָׂרֵ֣י מִסִּ֔ים לְמַ֥עַן עַנֹּת֖וֹ בְּסִבְלֹתָ֑ם וַיִּ֜בֶן עָרֵ֤י מִסְכְּנוֹת֙ לְפַרְעֹ֔ה אֶת־פִּתֹ֖ם וְאֶת־רַעַמְסֵֽס׃",
+    "transliteration": "vayasiymv 'alayv sarey misiym lema'an 'anotvo vesivelotam vayiven 'arey misekhenvot lefare'oh 'et-fitom ve'et-ra'ameses.",
     "translation": "E colocaram sobre ele chefes de obras para lhe causar trabalho pesado com suas cargas. E edificaram cidades de armazenamento para Faraó, Pithom e Raamsés."
   },
   {
     "verse": 12,
     "original": "וְכַאֲשֶׁר֙ יְעַנּ֣וּ אֹת֔וֹ כֵּ֥ן יִרְבֶּ֖ה וְכֵ֣ן יִפְרֹ֑ץ וַיָּקֻ֕צוּ מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vekha'asher ye'anv 'otvo khen yireveh vekhen yiferots vayakutsv mifeney veney yisera'el.",
     "translation": "E conforme os oprimiam, assim proliferavam e cresciam; e os egípcios temiam diante dos filhos de Israel."
   },
   {
     "verse": 13,
     "original": "וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ׃",
+    "transliteration": "vaya'avidv mitserayim 'et-veney yisera'el vefarekhe.",
     "translation": "E os egípcios escravizaram os filhos de Israel com crueldade."
   },
   {
     "verse": 14,
     "original": "וַיְמָרְר֨וּ אֶת־חַיֵּיהֶ֜ם בַּעֲבֹדָ֣ה קָשָׁ֗ה בְּחֹ֙מֶר֙ וּבִלְבֵנִ֔ים וּבְכׇל־עֲבֹדָ֖ה בַּשָּׂדֶ֑ה אֵ֚ת כׇּל־עֲבֹ֣דָתָ֔ם אֲשֶׁר־עָבְד֥וּ בָהֶ֖ם בְּפָֽרֶךְ׃",
+    "transliteration": "vayemarerv 'et-hayeyhem va'avodah kashah vehomer vvileveniym vvekhol-'avodah vasadeh 'et khol-'avodatam 'asher-'avedv vahem vefarekhe.",
     "translation": "E amarguraram suas vidas com trabalho árduo, em tijolos e argamassa, e em toda obra no campo; todo o trabalho que fizeram foi com rigor extremo."
   },
   {
     "verse": 15,
     "original": "וַיֹּ֙אמֶר֙ מֶ֣לֶךְ מִצְרַ֔יִם לַֽמְיַלְּדֹ֖ת הָֽעִבְרִיֹּ֑ת אֲשֶׁ֨ר שֵׁ֤ם הָֽאַחַת֙ שִׁפְרָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פּוּעָֽה׃",
+    "transliteration": "vayo'mer melekhe mitserayim lameyaledot ha'iveriyot 'asher shem ha'ahat shiferah veshem hasheniyt fv'ah.",
     "translation": "E disse o faraó às midwives dos hebreus, cujo nome da uma era Shifrah e do segundo Puá.\n\nE disse o faraó às obstetrizes hebráicas, cujo nome de uma era Shifrah e do segundo Puá."
   },
   {
     "verse": 16,
     "original": "וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת־הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל־הָאׇבְנָ֑יִם אִם־בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃",
+    "transliteration": "vayo'mer veyaledekhen 'et-ha'iveriyvot vre'iyten 'al-ha'ovenayim 'im-ven hv' vahamiten 'otvo ve'im-vat hiv' vahayah.",
     "translation": "E disse: quando derdes à luz as hebreias, olhai na laje; se for menino, matai-o; e se for menina, que viva."
   },
   {
     "verse": 17,
     "original": "וַתִּירֶ֤אןָ הַֽמְיַלְּדֹת֙ אֶת־הָ֣אֱלֹהִ֔ים וְלֹ֣א עָשׂ֔וּ כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃",
+    "transliteration": "vatiyre'na hameyaledot 'et-ha'elohiym velo' 'asv kha'asher diver 'aleyhen melekhe mitserayim vatehayeyna 'et-hayeladiym.",
     "translation": "E as parteiras temeram a Deus e não fizeram como o rei do Egito ordenara-lhes, conservando vivos os meninos."
   },
   {
     "verse": 18,
     "original": "וַיִּקְרָ֤א מֶֽלֶךְ־מִצְרַ֙יִם֙ לַֽמְיַלְּדֹ֔ת וַיֹּ֣אמֶר לָהֶ֔ן מַדּ֥וּעַ עֲשִׂיתֶ֖ן הַדָּבָ֣ר הַזֶּ֑ה וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃",
+    "transliteration": "vayikera' melekhe-mitserayim lameyaledot vayo'mer lahen madv'a 'asiyten hadavar hazeh vatehayeyna 'et-hayeladiym.",
     "translation": "E o rei do Egito chamou as parteiras e lhes disse: Por que fizestes tal coisa, dando vida aos meninos?"
   },
   {
     "verse": 19,
     "original": "וַתֹּאמַ֤רְןָ הַֽמְיַלְּדֹת֙ אֶל־פַּרְעֹ֔ה כִּ֣י לֹ֧א כַנָּשִׁ֛ים הַמִּצְרִיֹּ֖ת הָֽעִבְרִיֹּ֑ת כִּֽי־חָי֣וֹת הֵ֔נָּה בְּטֶ֨רֶם תָּב֧וֹא אֲלֵהֶ֛ן<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בכתר ארם צובה היה כתוב אֲלֵיהֶ֛ן)</i> הַמְיַלֶּ֖דֶת וְיָלָֽדוּ׃",
+    "transliteration": "vato'marena hameyaledot 'el-fare'oh khiy lo' khanashiym hamitseriyot ha'iveriyot khiy-hayvot henah veterem tavvo' 'alehen<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(vkhtr 'rm tsvvh hyh khtvv 'aleyhen)</i> hameyaledet veyaladv.",
     "translation": "E as paridas disseram a Faraó: Porque não como as egípcias são as hebreias; pois elas mesmas são hábeis, antes de chegar a elas a parida, já deram à luz."
   },
   {
     "verse": 20,
     "original": "וַיֵּ֥יטֶב אֱלֹהִ֖ים לַֽמְיַלְּדֹ֑ת וַיִּ֧רֶב הָעָ֛ם וַיַּֽעַצְמ֖וּ מְאֹֽד׃",
+    "transliteration": "vayeytev 'elohiym lameyaledot vayirev ha'am vaya'atsemv me'od.",
     "translation": "E Deus foi bem para as parturientes e o povo se multiplicou muito, e fortaleceram-se em grande medida."
   },
   {
     "verse": 21,
     "original": "וַיְהִ֕י כִּֽי־יָרְא֥וּ הַֽמְיַלְּדֹ֖ת אֶת־הָאֱלֹהִ֑ים וַיַּ֥עַשׂ לָהֶ֖ם בָּתִּֽים׃",
+    "transliteration": "vayehiy khiy-yare'v hameyaledot 'et-ha'elohiym vaya'as lahem vatiym.",
     "translation": "E sucedeu que as parturientes viram a Deus, e ele lhes fez casas."
   },
   {
     "verse": 22,
     "original": "וַיְצַ֣ו פַּרְעֹ֔ה לְכׇל־עַמּ֖וֹ לֵאמֹ֑ר כׇּל־הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֙רָה֙ תַּשְׁלִיכֻ֔הוּ וְכׇל־הַבַּ֖ת תְּחַיּֽוּן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayetsav fare'oh lekhol-'amvo le'mor khol-haven hayilvod haye'orah tasheliykhuhv vekhol-havat tehayvn.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E deu Faraó ordem a todo o seu povo, dizendo: Todo menino que nascer, no Nilo lançai-o; e toda menina conservai-a viva."
   }
 ]

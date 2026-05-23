@@ -2,116 +2,139 @@
   {
     "verse": 1,
     "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E veio a palavra do Senhor para mim, dizendo:"
   },
   {
     "verse": 2,
     "original": "בֶּן־אָדָ֗ם שִׂ֤ים פָּנֶ֙יךָ֙ אֶל־גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א עָלָֽיו׃",
+    "transliteration": "ven-'adam siym faneykha 'el-gvog 'erets hamagvog nesiy' ro'sh meshekhe vetuval vehinave' 'alayv.",
     "translation": "Filho do homem, volta-te para Gog, da terra de Magogue, príncipe de Meseque e Túbal, e profetiza contra ele."
   },
   {
     "verse": 3,
     "original": "וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה הִנְנִ֤י אֵלֶ֙יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל׃",
+    "transliteration": "ve'amareta khoh 'amar 'adonay yehovih hineniy 'eleykha gvog nesiy' ro'sh meshekhe vetuval.",
     "translation": "E dirás: Assim diz o Senhor Jehovah: Eis que venho contra ti, Gog, chefe de Mesec e Tuval."
   },
   {
     "verse": 4,
     "original": "וְשׁ֣וֹבַבְתִּ֔יךָ וְנָתַתִּ֥י חַחִ֖ים בִּלְחָיֶ֑יךָ וְהוֹצֵאתִי֩ אוֹתְךָ֨ וְאֶת־כׇּל־חֵילֶ֜ךָ סוּסִ֣ים וּפָרָשִׁ֗ים לְבֻשֵׁ֤י מִכְלוֹל֙ כֻּלָּ֔ם קָהָ֥ל רָב֙ צִנָּ֣ה וּמָגֵ֔ן תֹּפְשֵׂ֥י חֲרָב֖וֹת כֻּלָּֽם׃",
+    "transliteration": "veshvovavetiykha venatatiy hahiym vilehayeykha vehvotse'tiy 'votekha ve'et-khol-heylekha svsiym vfarashiym levushey mikhelvol khulam kahal rav tsinah vmagen tofesey haravvot khulam.",
     "translation": "E eu te farei voltar, e porei corredores entre tuas costelas; e te tirarei com todo o teu exército, cavalos e carros, todos vestidos de couraças, um povo numeroso empunhando escudos e lanças, segurando espadas, todos eles."
   },
   {
     "verse": 5,
     "original": "פָּרַ֛ס כּ֥וּשׁ וּפ֖וּט אִתָּ֑ם כֻּלָּ֖ם מָגֵ֥ן וְכוֹבָֽע׃",
+    "transliteration": "faras khvsh vfvt 'itam khulam magen vekhvova'.",
     "translation": "Cush e Put se uniram com eles, todos com escudo e elmo."
   },
   {
     "verse": 6,
     "original": "גֹּ֚מֶר וְכׇל־אֲגַפֶּ֔יהָ בֵּ֚ית תּֽוֹגַרְמָ֔ה יַרְכְּתֵ֥י צָפ֖וֹן וְאֶת־כׇּל־אֲגַפָּ֑יו עַמִּ֥ים רַבִּ֖ים אִתָּֽךְ׃",
+    "transliteration": "gomer vekhol-'agafeyha veyt tvogaremah yarekhetey tsafvon ve'et-khol-'agafayv 'amiym raviym 'itakhe.",
     "translation": "Gomer e todas as suas alianças, a casa de Togarma, os confins do norte com todos os seus aliados, muitas nações contigo."
   },
   {
     "verse": 7,
     "original": "הִכֹּן֙ וְהָכֵ֣ן לְךָ֔ אַתָּ֕ה וְכׇל־קְהָלֶ֖ךָ הַנִּקְהָלִ֣ים עָלֶ֑יךָ וְהָיִ֥יתָ לָהֶ֖ם לְמִשְׁמָֽר׃",
+    "transliteration": "hikhon vehakhen lekha 'atah vekhol-kehalekha hanikehaliym 'aleykha vehayiyta lahem lemishemar.",
     "translation": "Prepara-te e prepara para ti, tu e toda a congregação que se ajunta sobre ti, e serás para eles um guardião."
   },
   {
     "verse": 8,
     "original": "מִיָּמִ֣ים רַבִּים֮ תִּפָּקֵד֒ בְּאַחֲרִ֨ית הַשָּׁנִ֜ים תָּב֣וֹא&thinsp;<b>׀</b> אֶל־אֶ֣רֶץ&thinsp;<b>׀</b> מְשׁוֹבֶ֣בֶת מֵחֶ֗רֶב מְקֻבֶּ֙צֶת֙ מֵעַמִּ֣ים רַבִּ֔ים עַ֚ל הָרֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־הָי֥וּ לְחׇרְבָּ֖ה תָּמִ֑יד וְהִיא֙ מֵעַמִּ֣ים הוּצָ֔אָה וְיָשְׁב֥וּ לָבֶ֖טַח כֻּלָּֽם׃",
+    "transliteration": "miyamiym raviym tifaked ve'ahariyt hashaniym tavvo'&thinsp;<b>|</b> 'el-'erets&thinsp;<b>|</b> meshvovevet meherev mekuvetset me'amiym raviym 'al harey yisera'el 'asher-hayv lehorevah tamiyd vehiy' me'amiym hvtsa'ah veyashevv lavetah khulam.",
     "translation": "De tempos longínquos serás guardada; no fim dos anos virás a uma terra que fora devastada pela espada, reunida de entre muitas nações; sobre os montes de Israel, que foram sempre um deserto, e que agora será redimida das nações, onde todos repousarão em segurança."
   },
   {
     "verse": 9,
     "original": "וְעָלִ֙יתָ֙ כַּשֹּׁאָ֣ה תָב֔וֹא כֶּעָנָ֛ן לְכַסּ֥וֹת הָאָ֖רֶץ תִּֽהְיֶ֑ה אַתָּה֙ וְכׇל־אֲגַפֶּ֔יךָ וְעַמִּ֥ים רַבִּ֖ים אוֹתָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'aliyta khasho'ah tavvo' khe'anan lekhasvot ha'arets tiheyeh 'atah vekhol-'agafeykha ve'amiym raviym 'votakhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E subirás como fumaça que vem, como nuvem para cobrir a terra tu serás, tu e todo o teu exército, e sobre ti haverá multidões de povos."
   },
   {
     "verse": 10,
     "original": "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה וְהָיָ֣ה&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא יַעֲל֤וּ דְבָרִים֙ עַל־לְבָבֶ֔ךָ וְחָשַׁבְתָּ֖ מַחֲשֶׁ֥בֶת רָעָֽה׃",
+    "transliteration": "khoh 'amar 'adonay yehovih vehayah&thinsp;<b>|</b> vayvom hahv' ya'alv devariym 'al-levavekha vehashaveta mahashevet ra'ah.",
     "translation": "Assim diz o Senhor, o SENHOR: E naquele dia subirão pensamentos ao teu coração, e conceberás pensamento mau."
   },
   {
     "verse": 11,
     "original": "וְאָמַרְתָּ֗ אֶֽעֱלֶה֙ עַל־אֶ֣רֶץ פְּרָז֔וֹת אָבוֹא֙ הַשֹּׁ֣קְטִ֔ים יֹשְׁבֵ֖י לָבֶ֑טַח כֻּלָּ֗ם יֹֽשְׁבִים֙ בְּאֵ֣ין חוֹמָ֔ה וּבְרִ֥יחַ וּדְלָתַ֖יִם אֵ֥ין לָהֶֽם׃",
+    "transliteration": "ve'amareta 'e'eleh 'al-'erets ferazvot 'avvo' hashoketiym yoshevey lavetah khulam yosheviym ve'eyn hvomah vveriyha vdelatayim 'eyn lahem.",
     "translation": "E dirás: Subirei sobre a terra de desolados, irei aos que descansam tranquilos, habitantes da segurança. Todos eles habitam sem muralhas e nem portões têm, nem trancas."
   },
   {
     "verse": 12,
     "original": "לִשְׁלֹ֥ל שָׁלָ֖ל וְלָבֹ֣ז בַּ֑ז לְהָשִׁ֨יב יָדְךָ֜ עַל־חֳרָב֣וֹת נוֹשָׁב֗וֹת וְאֶל־עַם֙ מְאֻסָּ֣ף מִגּוֹיִ֔ם עֹשֶׂה֙ מִקְנֶ֣ה וְקִנְיָ֔ן יֹשְׁבֵ֖י עַל־טַבּ֥וּר הָאָֽרֶץ׃",
+    "transliteration": "lishelol shalal velavoz vaz lehashiyv yadekha 'al-horavvot nvoshavvot ve'el-'am me'usaf migvoyim 'oseh mikeneh vekineyan yoshevey 'al-tavvr ha'arets.",
     "translation": "Para saquear o despojo e espoliar o desolado, para estender tua mão sobre as ruínas devastadas e a um povo reunido de nações, que faz adquirir possessões aos habitantes do fundo da terra."
   },
   {
     "verse": 13,
     "original": "שְׁבָ֡א וּ֠דְדָ֠ן וְסֹחֲרֵ֨י תַרְשִׁ֤ישׁ וְכׇל־כְּפִירֶ֙יהָ֙ יֹאמְר֣וּ לְךָ֔ הֲלִשְׁלֹ֤ל שָׁלָל֙ אַתָּ֣ה בָ֔א הֲלָבֹ֥ז בַּ֖ז הִקְהַ֣לְתָּ קְהָלֶ֑ךָ לָשֵׂ֣את&thinsp;<b>׀</b> כֶּ֣סֶף וְזָהָ֗ב לָקַ֙חַת֙ מִקְנֶ֣ה וְקִנְיָ֔ן לִשְׁלֹ֖ל שָׁלָ֥ל גָּדֽוֹל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "sheva' vdedan vesoharey tareshiysh vekhol-khefiyreyha yo'merv lekha halishelol shalal 'atah va' halavoz vaz hikehaleta kehalekha lase't&thinsp;<b>|</b> khesef vezahav lakahat mikeneh vekineyan lishelol shalal gadvol.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Seba e Dedã, e os comerciantes de Tarsis e todos os seus leões dirão a ti: É para saquear o despojo que vens? É para arrasar com violência que ajuntas a tua multidão? Para levar prata e ouro, para arrebatar gado e riquezas, para tomar um grande despojo?"
   },
   {
     "verse": 14,
     "original": "לָכֵן֙ הִנָּבֵ֣א בֶן־אָדָ֔ם וְאָמַרְתָּ֣ לְג֔וֹג כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה הֲל֣וֹא&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא בְּשֶׁ֨בֶת עַמִּ֧י יִשְׂרָאֵ֛ל לָבֶ֖טַח תֵּדָֽע׃",
+    "transliteration": "lakhen hinave' ven-'adam ve'amareta legvog khoh 'amar 'adonay yehovih halvo'&thinsp;<b>|</b> vayvom hahv' veshevet 'amiy yisera'el lavetah teda'.",
     "translation": "Portanto, profetiza, ó filho do homem, e dize a Gog: Assim diz o Senhor Deus: Porventura no dia em que o meu povo Israel habitará em segurança não&thinsp;<b>׀</b> saberás?"
   },
   {
     "verse": 15,
     "original": "וּבָ֤אתָ מִמְּקֽוֹמְךָ֙ מִיַּרְכְּתֵ֣י צָפ֔וֹן אַתָּ֕ה וְעַמִּ֥ים רַבִּ֖ים אִתָּ֑ךְ רֹכְבֵ֤י סוּסִים֙ כֻּלָּ֔ם קָהָ֥ל גָּד֖וֹל וְחַ֥יִל רָֽב׃",
+    "transliteration": "vva'ta mimekvomekha miyarekhetey tsafvon 'atah ve'amiym raviym 'itakhe rokhevey svsiym khulam kahal gadvol vehayil rav.",
     "translation": "E tu virás do teu lugar, das regiões do norte, tu e muitas multidões contigo; cavaleiros montados em cavalos, uma grande assembleia e força abundante."
   },
   {
     "verse": 16,
     "original": "וְעָלִ֙יתָ֙ עַל־עַמִּ֣י יִשְׂרָאֵ֔ל כֶּעָנָ֖ן לְכַסּ֣וֹת הָאָ֑רֶץ בְּאַחֲרִ֨ית הַיָּמִ֜ים תִּהְיֶ֗ה וַהֲבִאוֹתִ֙יךָ֙ עַל־אַרְצִ֔י לְמַ֩עַן֩ דַּ֨עַת הַגּוֹיִ֜ם אֹתִ֗י בְּהִקָּדְשִׁ֥י בְךָ֛ לְעֵינֵיהֶ֖ם גּֽוֹג׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'aliyta 'al-'amiy yisera'el khe'anan lekhasvot ha'arets ve'ahariyt hayamiym tiheyeh vahavi'votiykha 'al-'aretsiy lema'an da'at hagvoyim 'otiy vehikadeshiy vekha le'eyneyhem gvog.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E subirás sobre o meu povo Israel como nuvem para cobrir a terra. Nos últimos dias, isso acontecerá, e te farei chegar à minha terra, para que as nações me conheçam, quando eu me santificar em ti diante delas, ó Gog."
   },
   {
     "verse": 17,
     "original": "כֹּה־אָמַ֞ר אֲדֹנָ֣י יֱהֹוִ֗ה הַאַתָּה־ה֨וּא אֲשֶׁר־דִּבַּ֜רְתִּי בְּיָמִ֣ים קַדְמוֹנִ֗ים בְּיַד֙ עֲבָדַי֙ נְבִיאֵ֣י יִשְׂרָאֵ֔ל הַֽנִּבְּאִ֛ים בַּיָּמִ֥ים הָהֵ֖ם שָׁנִ֑ים לְהָבִ֥יא אֹתְךָ֖ עֲלֵיהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khoh-'amar 'adonay yehovih ha'atah-hv' 'asher-divaretiy veyamiym kademvoniym veyad 'avaday neviy'ey yisera'el hanive'iym vayamiym hahem shaniym lehaviy' 'otekha 'aleyhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Assim diz o Senhor Deus: és tu aquele sobre quem falei nos dias antigos, por intermédio dos meus servos os profetas de Israel, que profetizaram naqueles dias, para trazer-te sobre eles?"
   },
   {
     "verse": 18,
     "original": "וְהָיָ֣ה&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא בְּי֨וֹם בּ֥וֹא גוֹג֙ עַל־אַדְמַ֣ת יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה תַּעֲלֶ֥ה חֲמָתִ֖י בְּאַפִּֽי׃",
+    "transliteration": "vehayah&thinsp;<b>|</b> vayvom hahv' veyvom vvo' gvog 'al-'ademat yisera'el ne'um 'adonay yehovih ta'aleh hamatiy ve'afiy.",
     "translation": "E acontecerá naquele dia, no dia em que Gog subir sobre a terra de Israel, palavra do Senhor Deus: minha ira se acenderá com fúria."
   },
   {
     "verse": 19,
     "original": "וּבְקִנְאָתִ֥י בְאֵשׁ־עֶבְרָתִ֖י דִּבַּ֑רְתִּי אִם־לֹ֣א&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא יִֽהְיֶה֙ רַ֣עַשׁ גָּד֔וֹל עַ֖ל אַדְמַ֥ת יִשְׂרָאֵֽל׃",
+    "transliteration": "vvekine'atiy ve'esh-'everatiy divaretiy 'im-lo'&thinsp;<b>|</b> vayvom hahv' yiheyeh ra'ash gadvol 'al 'ademat yisera'el.",
     "translation": "E na ciúme ardente eu falei: se não, então naquele dia haverá grande tremor na terra de Israel.\n\nDeve ser corrigida para:\n\nE na minha ciúme ardente eu falei: se não, então naquele dia haverá grande tremor sobre a terra de Israel."
   },
   {
     "verse": 20,
     "original": "וְרָעֲשׁ֣וּ מִפָּנַ֡י דְּגֵ֣י הַיָּם֩ וְע֨וֹף הַשָּׁמַ֜יִם וְחַיַּ֣ת הַשָּׂדֶ֗ה וְכׇל־הָרֶ֙מֶשׂ֙ הָרֹמֵ֣שׂ עַל־הָאֲדָמָ֔ה וְכֹל֙ הָאָדָ֔ם אֲשֶׁ֖ר עַל־פְּנֵ֣י הָאֲדָמָ֑ה וְנֶהֶרְס֣וּ הֶהָרִ֗ים וְנָֽפְלוּ֙ הַמַּדְרֵג֔וֹת וְכׇל־חוֹמָ֖ה לָאָ֥רֶץ תִּפּֽוֹל׃",
+    "transliteration": "vera'ashv mifanay degey hayam ve'vof hashamayim vehayat hasadeh vekhol-haremes haromes 'al-ha'adamah vekhol ha'adam 'asher 'al-feney ha'adamah veneheresv hehariym venafelv hamaderegvot vekhol-hvomah la'arets tifvol.",
     "translation": "E tremerão diante de mim os peixes do mar e as aves dos céus, a fera do campo e todo réptil que se move sobre a terra, e todos os homens que estão sobre o rosto da terra; e serão abatidos os montes e cairão as escadarias e toda muralha desabará para a terra."
   },
   {
     "verse": 21,
     "original": "וְקָרָ֨אתִי עָלָ֤יו לְכׇל־הָרַי֙ חֶ֔רֶב נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה חֶ֥רֶב אִ֖ישׁ בְּאָחִ֥יו תִּהְיֶֽה׃",
+    "transliteration": "vekara'tiy 'alayv lekhol-haray herev ne'um 'adonay yehovih herev 'iysh ve'ahiyv tiheyeh.",
     "translation": "E clamarei contra ele com todas as montanhas, espada; diz o Senhor Jehovah; a espada será de um homem ao seu irmão."
   },
   {
     "verse": 22,
     "original": "וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ וְגׇפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל־אֲגַפָּ֔יו וְעַל־עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃",
+    "transliteration": "venishefatetiy 'itvo vedever vvedam vegeshem shvotef ve'aveney 'elegaviysh 'esh vegoferiyt 'ametiyr 'alayv ve'al-'agafayv ve'al-'amiym raviym 'asher 'itvo.",
     "translation": "E julgarei com ele pela peste e pelo sangue, pela chuva impetuosa e pelas pedras de fogo e enxofre que farei cair sobre ele e sobre seus auxiliares e sobre as multidões que estão com ele."
   },
   {
     "verse": 23,
     "original": "וְהִתְגַּדִּלְתִּי֙ וְהִתְקַדִּשְׁתִּ֔י וְנ֣וֹדַעְתִּ֔י לְעֵינֵ֖י גּוֹיִ֣ם רַבִּ֑ים וְיָדְע֖וּ כִּֽי־אֲנִ֥י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehitegadiletiy vehitekadishetiy venvoda'etiy le'eyney gvoyim raviym veyade'v khiy-'aniy yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E me engrandecerei e me santificarei, e serei conhecido diante das nações muitas, e saberão que eu sou o Senhor."
   }
 ]

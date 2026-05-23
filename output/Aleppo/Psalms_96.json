@@ -2,66 +2,79 @@
   {
     "verse": 1,
     "original": "שִׁ֣ירוּ לַ֭יהֹוָה שִׁ֣יר חָדָ֑שׁ שִׁ֥ירוּ לַ֝יהֹוָ֗ה כׇּל־הָאָֽרֶץ׃",
+    "transliteration": "shiyrv layhovah shiyr hadash shiyrv layhovah khol-ha'arets.",
     "translation": "Cantai ao Senhor um cântico novo; cantai ao Senhor, toda a terra."
   },
   {
     "verse": 2,
     "original": "שִׁ֣ירוּ לַ֭יהֹוָה בָּרְכ֣וּ שְׁמ֑וֹ בַּשְּׂר֥וּ מִיּֽוֹם־לְ֝י֗וֹם יְשׁוּעָתֽוֹ׃",
+    "transliteration": "shiyrv layhovah varekhv shemvo vaserv miyvom-leyvom yeshv'atvo.",
     "translation": "Cantai ao Senhor, bendizei o seu nome; anunciai de dia em dia a sua salvação."
   },
   {
     "verse": 3,
     "original": "סַפְּר֣וּ בַגּוֹיִ֣ם כְּבוֹד֑וֹ בְּכׇל־הָ֝עַמִּ֗ים נִפְלְאוֹתָֽיו׃",
+    "transliteration": "saferv vagvoyim khevvodvo vekhol-ha'amiym nifele'votayv.",
     "translation": "Proclamai entre as nações sua glória, entre todos os povos suas maravilhas."
   },
   {
     "verse": 4,
     "original": "כִּ֥י<span class=\"mam-implicit-maqaf\">־</span>גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד נוֹרָ֥א ה֝֗וּא עַל־כׇּל־אֱלֹהִֽים׃",
+    "transliteration": "khiy<span class=\"mam-implicit-maqaf\">-</span>gadvol yehovah vmehulal me'od nvora' hv' 'al-khol-'elohiym.",
     "translation": "Pois o SENHOR é grande e muito louvado, temível acima de todos os deuses."
   },
   {
     "verse": 5,
     "original": "כִּ֤י&thinsp;<b>׀</b> כׇּל־אֱלֹהֵ֣י הָעַמִּ֣ים אֱלִילִ֑ים וַ֝יהֹוָ֗ה שָׁמַ֥יִם עָשָֽׂה׃",
+    "transliteration": "khiy&thinsp;<b>|</b> khol-'elohey ha'amiym 'eliyliym vayhovah shamayim 'asah.",
     "translation": "Pois todos os deuses dos povos são ídolos, mas o Senhor fez os céus."
   },
   {
     "verse": 6,
     "original": "הוֹד־וְהָדָ֥ר לְפָנָ֑יו עֹ֥ז וְ֝תִפְאֶ֗רֶת בְּמִקְדָּשֽׁוֹ׃",
+    "transliteration": "hvod-vehadar lefanayv 'oz vetife'eret vemikedashvo.",
     "translation": "Glória e majestade diante dele, força e esplendor em seu santuário."
   },
   {
     "verse": 7,
     "original": "הָב֣וּ לַ֭יהֹוָה מִשְׁפְּח֣וֹת עַמִּ֑ים הָב֥וּ לַ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז׃",
+    "transliteration": "havv layhovah mishefehvot 'amiym havv layhovah khavvod va'oz.",
     "translation": "Dai ao Senhor, famílias das nações, dai ao Senhor glória e poder."
   },
   {
     "verse": 8,
     "original": "הָב֣וּ לַ֭יהֹוָה כְּב֣וֹד שְׁמ֑וֹ שְׂאֽוּ־מִ֝נְחָ֗ה וּבֹ֥אוּ לְחַצְרוֹתָֽיו׃",
+    "transliteration": "havv layhovah khevvod shemvo se'v-minehah vvo'v lehatservotayv.",
     "translation": "Dai ao Senhor a glória do seu nome; trazei oferta e entrai em seus pátios."
   },
   {
     "verse": 9,
     "original": "הִשְׁתַּחֲו֣וּ לַ֭יהֹוָה בְּהַדְרַת־קֹ֑דֶשׁ חִ֥ילוּ מִ֝פָּנָ֗יו כׇּל־הָאָֽרֶץ׃",
+    "transliteration": "hishetahavv layhovah vehaderat-kodesh hiylv mifanayv khol-ha'arets.",
     "translation": "Prostrai-vos diante do Senhor em adoração solene, tremei perante Ele, toda a terra."
   },
   {
     "verse": 10,
     "original": "אִמְר֤וּ בַגּוֹיִ֨ם&thinsp;<b>׀</b> יְ֘הֹוָ֤ה מָלָ֗ךְ אַף־תִּכּ֣וֹן תֵּ֭בֵל בַּל־תִּמּ֑וֹט יָדִ֥ין עַ֝מִּ֗ים בְּמֵישָׁרִֽים׃",
+    "transliteration": "'imerv vagvoyim&thinsp;<b>|</b> yehovah malakhe 'af-tikhvon tevel val-timvot yadiyn 'amiym vemeyshariym.",
     "translation": "Dizei entre as nações: o Senhor reina; sim, a terra se firmará, não vacilará. Ele julgará os povos com retidão."
   },
   {
     "verse": 11,
     "original": "יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ׃",
+    "transliteration": "yisemehv hashamayim vetagel ha'arets yire'am hayam vmelo'vo.",
     "translation": "Alegrem-se os céus, e exulte a terra; rebrilhe o mar, e tudo o que nele há."
   },
   {
     "verse": 12,
     "original": "יַעֲלֹ֣ז שָׂ֭דַי וְכׇל־אֲשֶׁר־בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כׇּל־עֲצֵי־יָֽעַר׃",
+    "transliteration": "ya'aloz saday vekhol-'asher-vvo 'az yeranenv khol-'atsey-ya'ar.",
     "translation": "Exultará o campo, e tudo que nele há; então cantarão todas as árvores do bosque."
   },
   {
     "verse": 13,
     "original": "לִפְנֵ֤י יְהֹוָ֨ה&thinsp;<b>׀</b> כִּ֬י בָ֗א כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בֶּאֱמוּנָתֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lifeney yehovah&thinsp;<b>|</b> khiy va' khiy va' lishefot ha'arets yishefot-tevel vetsedek ve'amiym ve'emvnatvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Diante do Senhor, pois ele vem; sim, ele vem para julgar a terra. Ele julgará o mundo com justiça e os povos com a sua fidelidade."
   }
 ]

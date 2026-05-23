@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "תֶּאְשַׁם֙ שֹׁמְר֔וֹן כִּ֥י מָרְתָ֖ה בֵּאלֹהֶ֑יהָ בַּחֶ֣רֶב יִפֹּ֔לוּ עֹלְלֵיהֶ֣ם יְרֻטָּ֔שׁוּ וְהָרִיּוֹתָ֖יו יְבֻקָּֽעוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "te'esham shomervon khiy maretah ve'loheyha vaherev yifolv 'oleleyhem yerutashv vehariyvotayv yevuka'v.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Samaria será envergonhada, pois se rebelou contra seu Deus; cairão pela espada, seus jovens serão despedaçados, e suas colinas serão abertas em valas."
   },
   {
     "verse": 2,
     "original": "שׁ֚וּבָה יִשְׂרָאֵ֔ל עַ֖ד יְהֹוָ֣ה אֱלֹהֶ֑יךָ כִּ֥י כָשַׁ֖לְתָּ בַּעֲוֺנֶֽךָ׃",
+    "transliteration": "shvvah yisera'el 'ad yehovah 'eloheykha khiy khashaleta va'avonekha.",
     "translation": "Volta, Israel, para o Senhor teu Deus, pois tropeçaste na tua iniquidade."
   },
   {
     "verse": 3,
     "original": "קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהֹוָ֑ה אִמְר֣וּ אֵלָ֗יו כׇּל־תִּשָּׂ֤א עָוֺן֙ וְקַח־ט֔וֹב וּֽנְשַׁלְּמָ֥ה פָרִ֖ים שְׂפָתֵֽינוּ׃",
+    "transliteration": "kehv 'imakhem devariym veshvvv 'el-yehovah 'imerv 'elayv khol-tisa' 'avon vekah-tvov vneshalemah fariym sefateynv.",
     "translation": "Levem palavras e voltem para o Senhor; digam-lhe: Toda ofensa tu perdoas e aceitas o que é bom; nossos lábios pagarão por novilhos."
   },
   {
     "verse": 4,
     "original": "אַשּׁ֣וּר&thinsp;<b>׀</b> לֹ֣א יוֹשִׁיעֵ֗נוּ עַל־סוּס֙ לֹ֣א נִרְכָּ֔ב וְלֹא־נֹ֥אמַר ע֛וֹד אֱלֹהֵ֖ינוּ לְמַעֲשֵׂ֣ה יָדֵ֑ינוּ אֲשֶׁר־בְּךָ֖ יְרֻחַ֥ם יָתֽוֹם׃",
+    "transliteration": "'ashvr&thinsp;<b>|</b> lo' yvoshiy'env 'al-svs lo' nirekhav velo'-no'mar 'vod 'eloheynv lema'aseh yadeynv 'asher-vekha yeruham yatvom.",
     "translation": "Assur não nos salvará, sobre o cavalo não montaremos e não diremos mais: “Deus nosso é obra das nossas mãos; em ti será Misericórdia para órfão.”"
   },
   {
     "verse": 5,
     "original": "אֶרְפָּא֙ מְשׁ֣וּבָתָ֔ם אֹהֲבֵ֖ם נְדָבָ֑ה כִּ֛י שָׁ֥ב אַפִּ֖י מִמֶּֽנּוּ׃",
+    "transliteration": "'erefa' meshvvatam 'ohavem nedavah khiy shav 'afiy mimenv.",
     "translation": "Curarei sua volta; amá-los com generosidade, pois minha ira se apartou dele."
   },
   {
     "verse": 6,
     "original": "אֶהְיֶ֤ה כַטַּל֙ לְיִשְׂרָאֵ֔ל יִפְרַ֖ח כַּשּׁוֹשַׁנָּ֑ה וְיַ֥ךְ שׇׁרָשָׁ֖יו כַּלְּבָנֽוֹן׃",
+    "transliteration": "'eheyeh khatal leyisera'el yiferah khashvoshanah veyakhe shorashayv khalevanvon.",
     "translation": "Serei como o orvalho para Israel; ele florescerá como a shoshanah, e dará raízes como no Líbano. \n\nNota: A palavra \"shoshanah\" foi mantida em hebraico pois se refere especificamente à flor do lótus ou da áglutina na tradição bíblica, cuja tradução direta pode não captar completamente o significado teológico e simbólico original."
   },
   {
     "verse": 7,
     "original": "יֵֽלְכוּ֙ יֹֽנְקוֹתָ֔יו וִיהִ֥י כַזַּ֖יִת הוֹד֑וֹ וְרֵ֥יחַֽ ל֖וֹ כַּלְּבָנֽוֹן׃",
+    "transliteration": "yelekhv yonekvotayv viyhiy khazayit hvodvo vereyha lvo khalevanvon.",
     "translation": "Vão, seus filhotes, e seja como o zimbro da glória, e seu perfume será como o de cânfora."
   },
   {
     "verse": 8,
     "original": "יָשֻׁ֙בוּ֙ יֹשְׁבֵ֣י בְצִלּ֔וֹ יְחַיּ֥וּ דָגָ֖ן וְיִפְרְח֣וּ כַגָּ֑פֶן זִכְר֖וֹ כְּיֵ֥ין לְבָנֽוֹן׃",
+    "transliteration": "yashuvv yoshevey vetsilvo yehayv dagan veyiferehv khagafen zikhervo kheyeyn levanvon.",
     "translation": "Voltem os habitantes de sua sombra; vivifiquem o trigo e floresçam como a vide, seu memorial será como o vinho de Líbano."
   },
   {
     "verse": 9,
     "original": "אֶפְרַ֕יִם מַה־לִּ֥י ע֖וֹד לָעֲצַבִּ֑ים אֲנִ֧י עָנִ֣יתִי וַאֲשׁוּרֶ֗נּוּ אֲנִי֙ כִּבְר֣וֹשׁ רַעֲנָ֔ן מִמֶּ֖נִּי פֶּרְיְךָ֥ נִמְצָֽא׃",
+    "transliteration": "'eferayim mah-liy 'vod la'atsaviym 'aniy 'aniytiy va'ashvrenv 'aniy khivervosh ra'anan mimeniy fereyekha nimetsa'.",
     "translation": "Efraim, que mais tenho eu com ídolos? Eu o castiguei e o ensinei; ele é como um freixo verde, de seus frutos se encontrará proveito."
   },
   {
     "verse": 10,
     "original": "מִ֤י חָכָם֙ וְיָ֣בֵֽן אֵ֔לֶּה נָב֖וֹן וְיֵדָעֵ֑ם כִּֽי־יְשָׁרִ֞ים דַּרְכֵ֣י יְהֹוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃",
+    "transliteration": "miy hakham veyaven 'eleh navvon veyeda'em khiy-yeshariym darekhey yehovah vetsadikiym yelekhv vam vfoshe'iym yikhashelv vam.",
     "translation": "Quem é sábio e entenderá isso? Quem tem entendimento compreenderá. Pois retos são os caminhos do Senhor; os justos neles andarão, mas os transgressores neles tropeçarão."
   }
 ]

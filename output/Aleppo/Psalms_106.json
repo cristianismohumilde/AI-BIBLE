@@ -2,241 +2,289 @@
   {
     "verse": 1,
     "original": "הַ֥לְלוּ<span class=\"mam-implicit-maqaf\">־</span>יָ֨הּ&thinsp;<b>׀</b> הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+    "transliteration": "halelv<span class=\"mam-implicit-maqaf\">-</span>yah&thinsp;<b>|</b> hvodv layhovah khiy-tvov khiy le'volam hasedvo.",
     "translation": "Louvai ao Senhor, louvem ao Senhor, pois é bom; pois seu amor durará para sempre."
   },
   {
     "verse": 2,
     "original": "מִ֗י יְ֭מַלֵּל גְּבוּר֣וֹת יְהֹוָ֑ה יַ֝שְׁמִ֗יעַ כׇּל־תְּהִלָּתֽוֹ׃",
+    "transliteration": "miy yemalel gevvrvot yehovah yashemiy'a khol-tehilatvo.",
     "translation": "Quem declarará as grandezas do Senhor? Quem anunciará toda a sua glória?"
   },
   {
     "verse": 3,
     "original": "אַ֭שְׁרֵי שֹׁמְרֵ֣י מִשְׁפָּ֑ט עֹשֵׂ֖ה צְדָקָ֣ה בְכׇל־עֵֽת׃",
+    "transliteration": "'asherey shomerey mishefat 'oseh tsedakah vekhol-'et.",
     "translation": "Bem-aventurados os guardiões da justiça, que praticam a retidão em todo o tempo."
   },
   {
     "verse": 4,
     "original": "זׇכְרֵ֣נִי יְ֭הֹוָה בִּרְצ֣וֹן עַמֶּ֑ךָ פׇּ֝קְדֵ֗נִי בִּישׁוּעָתֶֽךָ׃",
+    "transliteration": "zokhereniy yehovah viretsvon 'amekha fokedeniy viyshv'atekha.",
     "translation": "Lembra-te de mim, Senhor, conforme a tua benignidade para com o teu povo; visita-me com a tua salvação."
   },
   {
     "verse": 5,
     "original": "לִרְא֤וֹת&thinsp;<b>׀</b> בְּט֘וֹבַ֤ת בְּחִירֶ֗יךָ לִ֭שְׂמֹחַ בְּשִׂמְחַ֣ת גּוֹיֶ֑ךָ לְ֝הִתְהַלֵּ֗ל עִם־נַחֲלָתֶֽךָ׃",
+    "transliteration": "lire'vot&thinsp;<b>|</b> vetvovat vehiyreykha lisemoha vesimehat gvoyekha lehitehalel 'im-nahalatekha.",
     "translation": "Para ver a bondade dos teus escolhidos, para alegrar-se na alegria do teu povo, para louvar contigo tua herança."
   },
   {
     "verse": 6,
     "original": "חָטָ֥אנוּ עִם־אֲבוֹתֵ֗ינוּ הֶעֱוִ֥ינוּ הִרְשָֽׁעְנוּ׃",
+    "transliteration": "hata'nv 'im-'avvoteynv he'eviynv hiresha'env.",
     "translation": "Pecamos com nossos pais; transgredimos, agimos perversamente."
   },
   {
     "verse": 7,
     "original": "אֲב֘וֹתֵ֤ינוּ בְמִצְרַ֨יִם&thinsp;<b>׀</b> לֹא־הִשְׂכִּ֬ילוּ נִפְלְאוֹתֶ֗יךָ לֹ֣א זָ֭כְרוּ אֶת־רֹ֣ב חֲסָדֶ֑יךָ וַיַּמְר֖וּ עַל־יָ֣ם בְּיַם־סֽוּף׃",
+    "transliteration": "'avvoteynv vemitserayim&thinsp;<b>|</b> lo'-hisekhiylv nifele'voteykha lo' zakherv 'et-rov hasadeykha vayamerv 'al-yam veyam-svf.",
     "translation": "Nossos pais no Egito não compreenderam teus prodígios; não se lembraram da multidão de tuas misericórdias, e rebeldes se tornaram junto ao mar, no Mar Vermelho."
   },
   {
     "verse": 8,
     "original": "וַֽ֭יּוֹשִׁיעֵם לְמַ֣עַן שְׁמ֑וֹ לְ֝הוֹדִ֗יעַ אֶת־גְּבוּרָתֽוֹ׃",
+    "transliteration": "vayvoshiy'em lema'an shemvo lehvodiy'a 'et-gevvratvo.",
     "translation": "E os livrou por causa do seu nome, para manifestar a sua força."
   },
   {
     "verse": 9,
     "original": "וַיִּגְעַ֣ר בְּיַם־ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר׃",
+    "transliteration": "vayige'ar veyam-svf vayeherav vayvoliykhem vatehomvot khamidevar.",
     "translation": "E repreendeu o Mar Vermelho, e ele se dividiu; guiou-os pelos abismos como por um deserto."
   },
   {
     "verse": 10,
     "original": "וַֽ֭יּוֹשִׁיעֵם מִיַּ֣ד שׂוֹנֵ֑א וַ֝יִּגְאָלֵ֗ם מִיַּ֥ד אוֹיֵֽב׃",
+    "transliteration": "vayvoshiy'em miyad svone' vayige'alem miyad 'voyev.",
     "translation": "E livrou-os da mão do inimigo, e os redimiu da mão do adversário."
   },
   {
     "verse": 11,
     "original": "וַיְכַסּוּ־מַ֥יִם צָרֵיהֶ֑ם אֶחָ֥ד מֵ֝הֶ֗ם לֹ֣א נוֹתָֽר׃",
+    "transliteration": "vayekhasv-mayim tsareyhem 'ehad mehem lo' nvotar.",
     "translation": "Águas os cobriram, nem um deles permaneceu."
   },
   {
     "verse": 12,
     "original": "וַיַּאֲמִ֥ינוּ בִדְבָרָ֑יו יָ֝שִׁ֗ירוּ תְּהִלָּתֽוֹ׃",
+    "transliteration": "vaya'amiynv videvarayv yashiyrv tehilatvo.",
     "translation": "Eles creram em suas palavras; cantaram louvores a ele."
   },
   {
     "verse": 13,
     "original": "מִ֭הֲרוּ שָׁכְח֣וּ מַעֲשָׂ֑יו לֹא־חִ֝כּ֗וּ לַעֲצָתֽוֹ׃",
+    "transliteration": "miharv shakhehv ma'asayv lo'-hikhv la'atsatvo.",
     "translation": "Apressem-se, esqueceram seus atos; não se aconselharam sobre sua vontade."
   },
   {
     "verse": 14,
     "original": "וַיִּתְאַוּ֣וּ תַ֭אֲוָה בַּמִּדְבָּ֑ר וַיְנַסּוּ־אֵ֝֗ל בִּישִׁימֽוֹן׃",
+    "transliteration": "vayite'avv ta'avah vamidevar vayenasv-'el viyshiymvon.",
     "translation": "E suscitaram cobiças no deserto, e o provaram nos vales áridos."
   },
   {
     "verse": 15,
     "original": "וַיִּתֵּ֣ן לָ֭הֶם שֶׁאֱלָתָ֑ם וַיְשַׁלַּ֖ח רָז֣וֹן בְּנַפְשָֽׁם׃",
+    "transliteration": "vayiten lahem she'elatam vayeshalah razvon venafesham.",
     "translation": "E deu-lhes a solicitação do seu coração, e enviou o desejo nas suas almas."
   },
   {
     "verse": 16,
     "original": "וַיְקַנְא֣וּ לְ֭מֹשֶׁה בַּֽמַּחֲנֶ֑ה לְ֝אַהֲרֹ֗ן קְד֣וֹשׁ יְהֹוָֽה׃",
+    "transliteration": "vayekane'v lemosheh vamahaneh le'aharon kedvosh yehovah.",
     "translation": "E invejaram Moisés no acampamento; Aharon, porém, era santo do Senhor."
   },
   {
     "verse": 17,
     "original": "תִּפְתַּח־אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל־עֲדַ֥ת אֲבִירָֽם׃",
+    "transliteration": "tifetah-'erets vativela' datan vatekhas 'al-'adat 'aviyram.",
     "translation": "Se abriu a terra e engoliu Dã, cobrindo a congregação de Abirão."
   },
   {
     "verse": 18,
     "original": "וַתִּבְעַר־אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים׃",
+    "transliteration": "vative'ar-'esh va'adatam lehavah telahet resha'iym.",
     "translation": "E uma chama se acendeu entre eles, uma labareda que consumiu os pecadores."
   },
   {
     "verse": 19,
     "original": "יַעֲשׂוּ־עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה׃",
+    "transliteration": "ya'asv-'egel vehorev vayishetahavv lemasekhah.",
     "translation": "Fizeram um bezerro em Horebe e se prostraram diante da imagem fundida."
   },
   {
     "verse": 20,
     "original": "וַיָּמִ֥ירוּ אֶת־כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב׃",
+    "transliteration": "vayamiyrv 'et-khevvodam vetaveniyt shvor 'okhel 'esev.",
     "translation": "Eles mudaram sua glória em imagem de touro que come feno."
   },
   {
     "verse": 21,
     "original": "שָׁ֭כְחוּ אֵ֣ל מוֹשִׁיעָ֑ם עֹשֶׂ֖ה גְדֹל֣וֹת בְּמִצְרָֽיִם׃",
+    "transliteration": "shakhehv 'el mvoshiy'am 'oseh gedolvot vemitserayim.",
     "translation": "Esqueceram-se de Deus, seu Salvador, que faz maravilhas na terra do Egito."
   },
   {
     "verse": 22,
     "original": "נִ֭פְלָאוֹת בְּאֶ֣רֶץ חָ֑ם נ֝וֹרָא֗וֹת עַל־יַם־סֽוּף׃",
+    "transliteration": "nifela'vot ve'erets ham nvora'vot 'al-yam-svf.",
     "translation": "Maravilhas na terra de Ham, terríveis coisas sobre o Mar Vermelho."
   },
   {
     "verse": 23,
     "original": "וַיֹּ֗אמֶר לְֽהַשְׁמִ֫ידָ֥ם לוּלֵ֡י מֹ֘שֶׁ֤ה בְחִיר֗וֹ עָמַ֣ד בַּפֶּ֣רֶץ לְפָנָ֑יו לְהָשִׁ֥יב חֲ֝מָת֗וֹ מֵהַשְׁחִֽית׃",
+    "transliteration": "vayo'mer lehashemiydam lvley mosheh vehiyrvo 'amad vaferets lefanayv lehashiyv hamatvo mehashehiyt.",
     "translation": "E disse para destruí-los, se não fosse Moisés, seu eleito, que se interpôs na brecha diante dele, para desviar sua ira de destruí-los."
   },
   {
     "verse": 24,
     "original": "וַֽ֭יִּמְאֲסוּ בְּאֶ֣רֶץ חֶמְדָּ֑ה לֹא־הֶ֝אֱמִ֗ינוּ לִדְבָרֽוֹ׃",
+    "transliteration": "vayime'asv ve'erets hemedah lo'-he'emiynv lidevarvo.",
     "translation": "E aborreceram-se na terra desejável, não creram na sua palavra."
   },
   {
     "verse": 25,
     "original": "וַיֵּרָגְנ֥וּ בְאׇהֳלֵיהֶ֑ם לֹ֥א שָׁ֝מְע֗וּ בְּק֣וֹל יְהֹוָֽה׃",
+    "transliteration": "vayeragenv ve'oholeyhem lo' shame'v vekvol yehovah.",
     "translation": "E se rebelaram nos seus acampamentos, não ouviram a voz do Senhor."
   },
   {
     "verse": 26,
     "original": "וַיִּשָּׂ֣א יָד֣וֹ לָהֶ֑ם לְהַפִּ֥יל א֝וֹתָ֗ם בַּמִּדְבָּֽר׃",
+    "transliteration": "vayisa' yadvo lahem lehafiyl 'votam vamidevar.",
     "translation": "Elevou sua mão sobre eles para os destruir no deserto."
   },
   {
     "verse": 27,
     "original": "וּלְהַפִּ֣יל זַ֭רְעָם בַּגּוֹיִ֑ם וּ֝לְזָרוֹתָ֗ם בָּאֲרָצֽוֹת׃",
+    "transliteration": "vlehafiyl zare'am vagvoyim vlezarvotam va'aratsvot.",
     "translation": "E para lançar suas sementes entre as nações e seus descendentes pelas terras."
   },
   {
     "verse": 28,
     "original": "וַ֭יִּצָּ֣מְדוּ לְבַ֣עַל פְּע֑וֹר וַ֝יֹּאכְל֗וּ זִבְחֵ֥י מֵתִֽים׃",
+    "transliteration": "vayitsamedv leva'al fe'vor vayo'khelv zivehey metiym.",
     "translation": "E associaram-se a Baal-Peor, e comeram sacrifícios de mortos."
   },
   {
     "verse": 29,
     "original": "וַ֭יַּכְעִיסוּ בְּמַ֥עַלְלֵיהֶ֑ם וַתִּפְרׇץ־בָּ֝֗ם מַגֵּפָֽה׃",
+    "transliteration": "vayakhe'iysv vema'aleleyhem vatiferots-vam magefah.",
     "translation": "Eles se irritaram com seus atos, e a praga os envolveu."
   },
   {
     "verse": 30,
     "original": "וַיַּעֲמֹ֣ד פִּֽ֭ינְחָס וַיְפַלֵּ֑ל וַ֝תֵּעָצַ֗ר הַמַּגֵּפָֽה׃",
+    "transliteration": "vaya'amod fiynehas vayefalel vate'atsar hamagefah.",
     "translation": "E Pinhas se levantou e intercedeu, e a peste cessou."
   },
   {
     "verse": 31,
     "original": "וַתֵּחָ֣שֶׁב ל֭וֹ לִצְדָקָ֑ה לְדֹ֥ר וָ֝דֹ֗ר עַד־עוֹלָֽם׃",
+    "transliteration": "vatehashev lvo litsedakah ledor vador 'ad-'volam.",
     "translation": "E ela o considerou como justiça, de geração em geração para sempre."
   },
   {
     "verse": 32,
     "original": "וַ֭יַּקְצִיפוּ עַל־מֵ֥י מְרִיבָ֑ה וַיֵּ֥רַע לְ֝מֹשֶׁ֗ה בַּעֲבוּרָֽם׃",
+    "transliteration": "vayaketsiyfv 'al-mey meriyvah vayera' lemosheh va'avvram.",
     "translation": "E irritaram-se com as águas de Meribá; e Moshe teve mau testemunho por causa deles."
   },
   {
     "verse": 33,
     "original": "כִּי־הִמְר֥וּ אֶת־רוּח֑וֹ וַ֝יְבַטֵּ֗א בִּשְׂפָתָֽיו׃",
+    "transliteration": "khiy-himerv 'et-rvhvo vayevate' visefatayv.",
     "translation": "Pois eles endureceram seu espírito contra ele, e falaram insolentemente com seus lábios."
   },
   {
     "verse": 34,
     "original": "לֹֽא־הִ֭שְׁמִידוּ אֶת־הָעַמִּ֑ים אֲשֶׁ֤ר אָמַ֖ר יְהֹוָ֣ה לָהֶֽם׃",
+    "transliteration": "lo'-hishemiydv 'et-ha'amiym 'asher 'amar yehovah lahem.",
     "translation": "Não destruíram os povos aos quais o Senhor havia ordenado."
   },
   {
     "verse": 35,
     "original": "וַיִּתְעָרְב֥וּ בַגּוֹיִ֑ם וַֽ֝יִּלְמְד֗וּ מַעֲשֵׂיהֶֽם׃",
+    "transliteration": "vayite'arevv vagvoyim vayilemedv ma'aseyhem.",
     "translation": "E se misturaram com as nações e aprenderam suas obras."
   },
   {
     "verse": 36,
     "original": "וַיַּעַבְד֥וּ אֶת־עֲצַבֵּיהֶ֑ם וַיִּהְי֖וּ לָהֶ֣ם לְמוֹקֵֽשׁ׃",
+    "transliteration": "vaya'avedv 'et-'atsaveyhem vayiheyv lahem lemvokesh.",
     "translation": "E serviram a seus ídolos, que se tornaram laços para eles."
   },
   {
     "verse": 37,
     "original": "וַיִּזְבְּח֣וּ אֶת־בְּ֭נֵיהֶם וְאֶת־בְּנוֹתֵיהֶ֗ם לַשֵּׁדִֽים׃",
+    "transliteration": "vayizevehv 'et-veneyhem ve'et-venvoteyhem lashediym.",
     "translation": "E imolaram seus filhos e suas filhas aos demônios."
   },
   {
     "verse": 38,
     "original": "וַיִּ֥שְׁפְּכ֨וּ דָ֪ם נָקִ֡י דַּם־בְּנֵ֘יהֶ֤ם וּֽבְנוֹתֵיהֶ֗ם אֲשֶׁ֣ר זִ֭בְּחוּ לַעֲצַבֵּ֣י כְנָ֑עַן וַתֶּחֱנַ֥ף הָ֝אָ֗רֶץ בַּדָּמִֽים׃",
+    "transliteration": "vayishefekhv dam nakiy dam-veneyhem vvenvoteyhem 'asher zivehv la'atsavey khena'an vatehenaf ha'arets vadamiym.",
     "translation": "E derramaram sangue inocente, o sangue de seus filhos e suas filhas, que sacrificaram aos ídolos da Canaã; assim a terra foi contaminada com sangues."
   },
   {
     "verse": 39,
     "original": "וַיִּטְמְא֥וּ בְמַעֲשֵׂיהֶ֑ם וַ֝יִּזְנ֗וּ בְּמַ֥עַלְלֵיהֶֽם׃",
+    "transliteration": "vayiteme'v vema'aseyhem vayizenv vema'aleleyhem.",
     "translation": "E se contaminaram em suas obras, e se prostituiram em seus atos."
   },
   {
     "verse": 40,
     "original": "וַיִּחַר־אַ֣ף יְהֹוָ֣ה בְּעַמּ֑וֹ וַ֝יְתָעֵ֗ב אֶת־נַחֲלָתֽוֹ׃",
+    "transliteration": "vayihar-'af yehovah ve'amvo vayeta'ev 'et-nahalatvo.",
     "translation": "E se acendeu a ira do Senhor contra seu povo, e ele abominou sua herança."
   },
   {
     "verse": 41,
     "original": "וַיִּתְּנֵ֥ם בְּיַד־גּוֹיִ֑ם וַֽיִּמְשְׁל֥וּ בָ֝הֶ֗ם שֹׂנְאֵיהֶֽם׃",
+    "transliteration": "vayitenem veyad-gvoyim vayimeshelv vahem sone'eyhem.",
     "translation": "E os entregou nas mãos das nações; seus inimigos os dominaram."
   },
   {
     "verse": 42,
     "original": "וַיִּלְחָצ֥וּם אוֹיְבֵיהֶ֑ם וַ֝יִּכָּנְע֗וּ תַּ֣חַת יָדָֽם׃",
+    "transliteration": "vayilehatsvm 'voyeveyhem vayikhane'v tahat yadam.",
     "translation": "E seus inimigos osprimiram, e eles se curvaram sob suas mãos.\n\nCorreção:\nE seus inimigos osprimiram, e eles se curvaram diante deles."
   },
   {
     "verse": 43,
     "original": "פְּעָמִ֥ים רַבּ֗וֹת יַצִּ֫ילֵ֥ם וְ֭הֵמָּה יַמְר֣וּ בַעֲצָתָ֑ם וַ֝יָּמֹ֗כּוּ בַּעֲוֺנָֽם׃",
+    "transliteration": "fe'amiym ravvot yatsiylem vehemah yamerv va'atsatam vayamokhv va'avonam.",
     "translation": "Muitas vezes livra-os, mas ainda assim rebelam-se nos seus conselhos; e perecem na sua iniquidade."
   },
   {
     "verse": 44,
     "original": "וַ֭יַּרְא בַּצַּ֣ר לָהֶ֑ם בְּ֝שׇׁמְע֗וֹ אֶת־רִנָּתָֽם׃",
+    "transliteration": "vayare' vatsar lahem veshome'vo 'et-rinatam.",
     "translation": "E viu em sua angústia, ao ouvir seu clamor."
   },
   {
     "verse": 45,
     "original": "וַיִּזְכֹּ֣ר לָהֶ֣ם בְּרִית֑וֹ וַ֝יִּנָּחֵ֗ם כְּרֹ֣ב <span class=\"mam-kq-trivial\">חֲסָדָֽו</span>׃",
+    "transliteration": "vayizekhor lahem veriytvo vayinahem kherov <span class=\"mam-kq-trivial\">hasadav</span>.",
     "translation": "E lembrou-lhes da sua aliança, e se compadeceu deles conforme a multidão dos seus afetuosos favores."
   },
   {
     "verse": 46,
     "original": "וַיִּתֵּ֣ן אוֹתָ֣ם לְרַחֲמִ֑ים לִ֝פְנֵ֗י כׇּל־שׁוֹבֵיהֶֽם׃",
+    "transliteration": "vayiten 'votam lerahamiym lifeney khol-shvoveyhem.",
     "translation": "E deu-os à misericórdia, diante de todos os que os aprisionavam."
   },
   {
     "verse": 47,
     "original": "הֽוֹשִׁיעֵ֨נוּ&thinsp;<b>׀</b> יְ֘הֹוָ֤ה אֱלֹהֵ֗ינוּ וְקַבְּצֵנוּ֮ מִֽן־הַגּ֫וֹיִ֥ם לְ֭הֹדוֹת לְשֵׁ֣ם קׇדְשֶׁ֑ךָ לְ֝הִשְׁתַּבֵּ֗חַ בִּתְהִלָּתֶֽךָ׃",
+    "transliteration": "hvoshiy'env&thinsp;<b>|</b> yehovah 'eloheynv vekavetsenv min-hagvoyim lehodvot leshem kodeshekha lehishetaveha vitehilatekha.",
     "translation": "Salva-nos, Senhor nosso Deus, e reúne-nos dos povos para louvar o nome do teu santo, para nos gloriarmos em tua glória."
   },
   {
     "verse": 48,
     "original": "בָּ֤רֽוּךְ<span class=\"mam-implicit-maqaf\">־</span>יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל מִן־הָ֤עוֹלָ֨ם&thinsp;<b>׀</b> וְעַ֬ד הָעוֹלָ֗ם וְאָמַ֖ר כׇּל־הָעָ֥ם אָמֵ֗ן הַֽלְלוּ־יָֽהּ׃",
+    "transliteration": "varvkhe<span class=\"mam-implicit-maqaf\">-</span>yehovah 'elohey yisera'el min-ha'volam&thinsp;<b>|</b> ve'ad ha'volam ve'amar khol-ha'am 'amen halelv-yah.",
     "translation": "Bendito seja o Senhor, Deus de Israel, desde a eternidade e até a eternidade. E todo o povo diz: Amém. Louvem o Senhor."
   }
 ]

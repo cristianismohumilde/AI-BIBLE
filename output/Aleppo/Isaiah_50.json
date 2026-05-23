@@ -2,56 +2,67 @@
   {
     "verse": 1,
     "original": "כֹּ֣ה&thinsp;<b>׀</b> אָמַ֣ר יְהֹוָ֗ה אֵ֣י זֶ֠ה סֵ֣פֶר כְּרִית֤וּת אִמְּכֶם֙ אֲשֶׁ֣ר שִׁלַּחְתִּ֔יהָ א֚וֹ מִ֣י מִנּוֹשַׁ֔י אֲשֶׁר־מָכַ֥רְתִּי אֶתְכֶ֖ם ל֑וֹ הֵ֤ן בַּעֲוֺנֹֽתֵיכֶם֙ נִמְכַּרְתֶּ֔ם וּבְפִשְׁעֵיכֶ֖ם שֻׁלְּחָ֥ה אִמְּכֶֽם׃",
+    "transliteration": "khoh&thinsp;<b>|</b> 'amar yehovah 'ey zeh sefer kheriytvt 'imekhem 'asher shilahetiyha 'vo miy minvoshay 'asher-makharetiy 'etekhem lvo hen va'avonoteykhem nimekharetem vvefishe'eykhem shulehah 'imekhem.",
     "translation": "Assim diz o Senhor: Qual é o livro da aliança de vossa mãe que a mandei embora? Ou quem dentre Meus credores me vendeu a vós? Por vossos pecados fostes vendidos e, por causa das vossas transgressões, foi mandada embora vossa mãe."
   },
   {
     "verse": 2,
     "original": "מַדּ֨וּעַ בָּ֜אתִי וְאֵ֣ין אִ֗ישׁ קָרָ֘אתִי֮ וְאֵ֣ין עוֹנֶה֒ הֲקָצ֨וֹר קָצְרָ֤ה יָדִי֙ מִפְּד֔וּת וְאִם־אֵֽין־בִּ֥י כֹ֖חַ לְהַצִּ֑יל הֵ֣ן בְּגַעֲרָתִ֞י אַחֲרִ֣יב יָ֗ם אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר תִּבְאַ֤שׁ דְּגָתָם֙ מֵאֵ֣ין מַ֔יִם וְתָמֹ֖ת בַּצָּמָֽא׃",
+    "transliteration": "madv'a va'tiy ve'eyn 'iysh kara'tiy ve'eyn 'voneh hakatsvor katserah yadiy mifedvt ve'im-'eyn-viy khoha lehatsiyl hen vega'aratiy 'ahariyv yam 'asiym neharvot midevar tive'ash degatam me'eyn mayim vetamot vatsama'.",
     "translation": "Por que vim e não há quem esteja? Clamo e ninguém responde. Acaso minha mão está curta para redimir? Ou me falta o poder de salvar? Eis que, com minha repreensão, consumirei os mares; tornarei os rios em deserto, secará o seu peixe pela falta d'água, e morrerá por sedentarismo."
   },
   {
     "verse": 3,
     "original": "אַלְבִּ֥ישׁ שָׁמַ֖יִם קַדְר֑וּת וְשַׂ֖ק אָשִׂ֥ים כְּסוּתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'aleviysh shamayim kadervt vesak 'asiym khesvtam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Vestei-vos de escuridão, ó céus, e eu me vestirei com saco como roupa."
   },
   {
     "verse": 4,
     "original": "אֲדֹנָ֣י יֱהֹוִ֗ה נָ֤תַן לִי֙ לְשׁ֣וֹן לִמּוּדִ֔ים לָדַ֛עַת לָע֥וּת אֶת־יָעֵ֖ף דָּבָ֑ר יָעִ֣יר&thinsp;<b>׀</b> בַּבֹּ֣קֶר בַּבֹּ֗קֶר יָעִ֥יר לִי֙ אֹ֔זֶן לִשְׁמֹ֖עַ כַּלִּמּוּדִֽים׃",
+    "transliteration": "'adonay yehovih natan liy leshvon limvdiym lada'at la'vt 'et-ya'ef davar ya'iyr&thinsp;<b>|</b> vavoker vavoker ya'iyr liy 'ozen lishemo'a khalimvdiym.",
     "translation": "Senhor Jehovah me deu uma língua disciplinada para conhecer como socorrer o cansado; desperta a cada manhã, desperta minha orelha para ouvir como quem é ensinado."
   },
   {
     "verse": 5,
     "original": "אֲדֹנָ֤י יֱהֹוִה֙ פָּתַֽח־לִ֣י אֹ֔זֶן וְאָנֹכִ֖י לֹ֣א מָרִ֑יתִי אָח֖וֹר לֹ֥א נְסוּגֹֽתִי׃",
+    "transliteration": "'adonay yehovih fatah-liy 'ozen ve'anokhiy lo' mariytiy 'ahvor lo' nesvgotiy.",
     "translation": "O Senhor Jehovah abriu-me o ouvido, e eu não resisti; nem me virei para trás."
   },
   {
     "verse": 6,
     "original": "גֵּוִי֙ נָתַ֣תִּי לְמַכִּ֔ים וּלְחָיַ֖י לְמֹֽרְטִ֑ים פָּנַי֙ לֹ֣א הִסְתַּ֔רְתִּי מִכְּלִמּ֖וֹת וָרֹֽק׃",
+    "transliteration": "geviy natatiy lemakhiym vlehayay lemoretiym fanay lo' hisetaretiy mikhelimvot varok.",
     "translation": "Corpo entregue aos açoitamentos e ossos aos esmigalhadores; face não ocultei das escarificações e cusparadas."
   },
   {
     "verse": 7,
     "original": "וַאדֹנָ֤י יֱהֹוִה֙ יַֽעֲזׇר־לִ֔י עַל־כֵּ֖ן לֹ֣א נִכְלָ֑מְתִּי עַל־כֵּ֞ן שַׂ֤מְתִּי פָנַי֙ כַּחַלָּמִ֔ישׁ וָאֵדַ֖ע כִּי־לֹ֥א אֵבֽוֹשׁ׃",
+    "transliteration": "va'donay yehovih ya'azor-liy 'al-khen lo' nikhelametiy 'al-khen sametiy fanay khahalamiysh va'eda' khiy-lo' 'evvosh.",
     "translation": "E o Senhor meu Deus será minha ajuda, por isso não serei abatido; por isso endurci meu rosto como pedra polida e sei que não serei envergonhado."
   },
   {
     "verse": 8,
     "original": "קָרוֹב֙ מַצְדִּיקִ֔י מִֽי־יָרִ֥יב אִתִּ֖י נַ֣עַמְדָה יָּ֑חַד מִי־בַ֥עַל מִשְׁפָּטִ֖י יִגַּ֥שׁ אֵלָֽי׃",
+    "transliteration": "karvov matsediykiy miy-yariyv 'itiy na'amedah yahad miy-va'al mishefatiy yigash 'elay.",
     "translation": "Meus justos estão próximos; quem contenderá comigo? Vamos comparecer juntos. Quem é o senhor da minha causa que se aproxime de mim."
   },
   {
     "verse": 9,
     "original": "הֵ֣ן אֲדֹנָ֤י יֱהֹוִה֙ יַעֲזׇר־לִ֔י מִי־ה֖וּא יַרְשִׁיעֵ֑נִי הֵ֤ן כֻּלָּם֙ כַּבֶּ֣גֶד יִבְל֔וּ עָ֖שׁ יֹאכְלֵֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hen 'adonay yehovih ya'azor-liy miy-hv' yareshiy'eniy hen khulam khaveged yivelv 'ash yo'khelem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eis que o Senhor Deus é minha ajuda; quem me condenará? Eis que todos se desvanecem como a roupa, os devoradores a consumirão."
   },
   {
     "verse": 10,
     "original": "מִ֤י בָכֶם֙ יְרֵ֣א יְהֹוָ֔ה שֹׁמֵ֖עַ בְּק֣וֹל עַבְדּ֑וֹ אֲשֶׁ֣ר&thinsp;<b>׀</b> הָלַ֣ךְ חֲשֵׁכִ֗ים וְאֵ֥ין נֹ֙גַהּ֙ ל֔וֹ יִבְטַח֙ בְּשֵׁ֣ם יְהֹוָ֔ה וְיִשָּׁעֵ֖ן בֵּאלֹהָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "miy vakhem yere' yehovah shome'a vekvol 'avedvo 'asher&thinsp;<b>|</b> halakhe hashekhiym ve'eyn nogah lvo yivetah veshem yehovah veyisha'en ve'lohayv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Quem dentre vós teme ao Senhor, ouve a voz de seu servo? Quem anda nas trevas e não há esplendor para ele, confia no nome do Senhor e põe sua esperança em Deus?"
   },
   {
     "verse": 11,
     "original": "הֵ֧ן כֻּלְּכֶ֛ם קֹ֥דְחֵי אֵ֖שׁ מְאַזְּרֵ֣י זִיק֑וֹת לְכ֣וּ&thinsp;<b>׀</b> בְּא֣וּר אֶשְׁכֶ֗ם וּבְזִיקוֹת֙ בִּֽעַרְתֶּ֔ם מִיָּדִי֙ הָיְתָה־זֹּ֣את לָכֶ֔ם לְמַעֲצֵבָ֖ה תִּשְׁכָּבֽוּן׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hen khulekhem kodehey 'esh me'azerey ziykvot lekhv&thinsp;<b>|</b> ve'vr 'eshekhem vveziykvot vi'aretem miyadiy hayetah-zo't lakhem lema'atsevah tishekhavvn.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eis vós todos, acesos em fogo, vestidos de brasas. Ide com o ardor do vosso fogo e com as brasas purgareis. Isso procedeu da minha mão para vós; sobre um bezerro ireis deitar-vos."
   }
 ]

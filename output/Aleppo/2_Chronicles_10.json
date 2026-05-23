@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "וַיֵּ֥לֶךְ רְחַבְעָ֖ם שְׁכֶ֑מָה כִּ֥י שְׁכֶ֛ם בָּ֥אוּ כׇל־יִשְׂרָאֵ֖ל לְהַמְלִ֥יךְ אֹתֽוֹ׃",
+    "transliteration": "vayelekhe rehave'am shekhemah khiy shekhem va'v khol-yisera'el lehameliykhe 'otvo.",
     "translation": "E Roboão foi a Siquém, pois todo Israel veio a Siquém para fazê-lo rei."
   },
   {
     "verse": 2,
     "original": "וַיְהִ֞י כִּשְׁמֹ֨עַ יָרׇבְעָ֤ם בֶּן־נְבָט֙ וְה֣וּא בְמִצְרַ֔יִם אֲשֶׁ֣ר בָּרַ֔ח מִפְּנֵ֖י שְׁלֹמֹ֣ה הַמֶּ֑לֶךְ וַיָּ֥שׇׁב יָרׇבְעָ֖ם מִמִּצְרָֽיִם׃",
+    "transliteration": "vayehiy khishemo'a yarove'am ven-nevat vehv' vemitserayim 'asher varah mifeney shelomoh hamelekhe vayashov yarove'am mimitserayim.",
     "translation": "E aconteceu que, quando Jeroboão, filho de Nebate, estava no Egito para onde fugira da presença do rei Salomão, ouviu isso e retornou do Egito."
   },
   {
     "verse": 3,
     "original": "וַֽיִּשְׁלְחוּ֙ וַיִּקְרְאוּ־ל֔וֹ וַיָּבֹ֥א יָרׇבְעָ֖ם וְכׇל־יִשְׂרָאֵ֑ל וַֽיְדַבְּר֔וּ אֶל־רְחַבְעָ֖ם לֵאמֹֽר׃",
+    "transliteration": "vayishelehv vayikere'v-lvo vayavo' yarove'am vekhol-yisera'el vayedaverv 'el-rehave'am le'mor.",
     "translation": "E eles o enviaram a chamar, e Roboão veio com todo Israel; e disseram a Roboão, dizendo:"
   },
   {
     "verse": 4,
     "original": "אָבִ֖יךָ הִקְשָׁ֣ה אֶת־עֻלֵּ֑נוּ וְעַתָּ֡ה הָקֵל֩ מֵעֲבוֹדַ֨ת אָבִ֜יךָ הַקָּשָׁ֗ה וּמֵעֻלּ֧וֹ הַכָּבֵ֛ד אֲשֶׁר־נָתַ֥ן עָלֵ֖ינוּ וְנַעַבְדֶֽךָּ׃",
+    "transliteration": "'aviykha hikeshah 'et-'ulenv ve'atah hakel me'avvodat 'aviykha hakashah vme'ulvo hakhaved 'asher-natan 'aleynv vena'avedekha.",
     "translation": "Teu pai nos agravou o jugo, e agora alivia-nos do serviço pesado que teu pai impôs sobre nós e das cargas pesadas que ele colocou em nossos ombros, para que sirvamos a ti."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם ע֛וֹד שְׁלֹ֥שֶׁת יָמִ֖ים וְשׁ֣וּבוּ אֵלָ֑י וַיֵּ֖לֶךְ הָעָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer 'alehem 'vod sheloshet yamiym veshvvv 'elay vayelekhe ha'am.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse-lhes: \"Ainda três dias e voltem a mim\". E o povo se retirou."
   },
   {
     "verse": 6,
     "original": "וַיִּוָּעַ֞ץ הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־הַזְּקֵנִים֙ אֲשֶׁר־הָי֣וּ עֹמְדִ֗ים לִפְנֵי֙ שְׁלֹמֹ֣ה אָבִ֔יו בִּהְיֹת֥וֹ חַ֖י לֵאמֹ֑ר אֵ֚יךְ אַתֶּ֣ם נֽוֹעָצִ֔ים לְהָשִׁ֥יב לָעָם־הַזֶּ֖ה דָּבָֽר׃",
+    "transliteration": "vayiva'ats hamelekhe rehave'am 'et-hazekeniym 'asher-hayv 'omediym lifeney shelomoh 'aviyv viheyotvo hay le'mor 'eykhe 'atem nvo'atsiym lehashiyv la'am-hazeh davar.",
     "translation": "E o rei Roboão consultou os anciãos que haviam estado diante de Salomão, seu pai, enquanto ele viveu, dizendo: Como aconselhareis para responder a este povo?"
   },
   {
     "verse": 7,
     "original": "וַיְדַבְּר֨וּ אֵלָ֜יו לֵאמֹ֗ר אִם־תִּהְיֶ֨ה לְט֜וֹב לְהָעָ֤ם הַזֶּה֙ וּרְצִיתָ֔ם וְדִבַּרְתָּ֥ אֲלֵהֶ֖ם דְּבָרִ֣ים טוֹבִ֑ים וְהָי֥וּ לְךָ֛ עֲבָדִ֖ים כׇּל־הַיָּמִֽים׃",
+    "transliteration": "vayedaverv 'elayv le'mor 'im-tiheyeh letvov leha'am hazeh vretsiytam vedivareta 'alehem devariym tvoviym vehayv lekha 'avadiym khol-hayamiym.",
     "translation": "Eles lhe disseram: \"Se for de bom agrado para este povo e se os agradares, fala-lhes palavras favoráveis, e eles serão teus servos por todos os dias.\""
   },
   {
     "verse": 8,
     "original": "וַֽיַּעֲזֹ֛ב אֶת־עֲצַ֥ת הַזְּקֵנִ֖ים אֲשֶׁ֣ר יְעָצֻ֑הוּ וַיִּוָּעַ֗ץ אֶת־הַיְלָדִים֙ אֲשֶׁ֣ר גָּדְל֣וּ אִתּ֔וֹ הָעֹמְדִ֖ים לְפָנָֽיו׃",
+    "transliteration": "vaya'azov 'et-'atsat hazekeniym 'asher ye'atsuhv vayiva'ats 'et-hayeladiym 'asher gadelv 'itvo ha'omediym lefanayv.",
     "translation": "E abandonou o conselho dos anciãos que o aconselhavam, e consultou os jovens que haviam crescido com ele, os que estavam diante dele."
   },
   {
     "verse": 9,
     "original": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם מָ֚ה אַתֶּ֣ם נֽוֹעָצִ֔ים וְנָשִׁ֥יב דָּבָ֖ר אֶת־הָעָ֣ם הַזֶּ֑ה אֲשֶׁ֨ר דִּבְּר֤וּ אֵלַי֙ לֵאמֹ֔ר הָקֵל֙ מִן־הָעֹ֔ל אֲשֶׁר־נָתַ֥ן אָבִ֖יךָ עָלֵֽינוּ׃",
+    "transliteration": "vayo'mer 'alehem mah 'atem nvo'atsiym venashiyv davar 'et-ha'am hazeh 'asher diverv 'elay le'mor hakel min-ha'ol 'asher-natan 'aviykha 'aleynv.",
     "translation": "E disse-lhes: Que é que vós conspirais e com qual palavra pretendes responder ao povo deste modo, dizendo-me: Alivia a carga que vosso pai nos impôs?"
   },
   {
     "verse": 10,
     "original": "וַיְדַבְּר֣וּ אִתּ֗וֹ הַיְלָדִים֙ אֲשֶׁ֨ר גָּדְל֣וּ אִתּוֹ֮ לֵאמֹר֒ כֹּה־תֹאמַ֡ר לָעָם֩ אֲשֶׁר־דִּבְּר֨וּ אֵלֶ֜יךָ לֵאמֹ֗ר אָבִ֙יךָ֙ הִכְבִּ֣יד אֶת־עֻלֵּ֔נוּ וְאַתָּ֖ה הָקֵ֣ל מֵעָלֵ֑ינוּ כֹּ֚ה תֹּאמַ֣ר אֲלֵהֶ֔ם קָֽטׇנִּ֥י עָבָ֖ה מִמׇּתְנֵ֥י אָבִֽי׃",
+    "transliteration": "vayedaverv 'itvo hayeladiym 'asher gadelv 'itvo le'mor khoh-to'mar la'am 'asher-diverv 'eleykha le'mor 'aviykha hikheviyd 'et-'ulenv ve'atah hakel me'aleynv khoh to'mar 'alehem katoniy 'avah mimoteney 'aviy.",
     "translation": "E falaram com ele os jovens que foram criados com ele, dizendo: Assim dirás ao povo que te falou, dizendo: Nosso pai nos pesou com carga pesada; mas tu alivia de nós. Dize-lhes assim: O pequeno é mais pesado do que as coxas do meu pai."
   },
   {
     "verse": 11,
     "original": "וְעַתָּ֗ה אָבִי֙ הֶעְמִ֤יס עֲלֵיכֶם֙ עֹ֣ל כָּבֵ֔ד וַאֲנִ֖י אֹסִ֣יף עַֽל־עֻלְּכֶ֑ם אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֖י בָּעַקְרַבִּֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'atah 'aviy he'emiys 'aleykhem 'ol khaved va'aniy 'osiyf 'al-'ulekhem 'aviy yisar 'etekhem vashvotiym va'aniy va'akeraviym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E agora, meu pai vos impôs um fardo pesado e eu acrescentarei ao vosso jugo; meu pai vos castigou com chicotes, e eu o farei com escorpiões."
   },
   {
     "verse": 12,
     "original": "וַיָּבֹ֨א יָרׇבְעָ֧ם וְכׇל־הָעָ֛ם אֶל־רְחַבְעָ֖ם בַּיּ֣וֹם הַשְּׁלִשִׁ֑י כַּאֲשֶׁ֨ר דִּבֶּ֤ר הַמֶּ֙לֶךְ֙ לֵאמֹ֔ר שׁ֥וּבוּ אֵלַ֖י בַּיּ֥וֹם הַשְּׁלִשִֽׁי׃",
+    "transliteration": "vayavo' yarove'am vekhol-ha'am 'el-rehave'am vayvom hashelishiy kha'asher diver hamelekhe le'mor shvvv 'elay vayvom hashelishiy.",
     "translation": "E Roboão e todo o povo vieram a Reoboão no terceiro dia, conforme o rei ordenara: \"Voltem até mim no terceiro dia.\""
   },
   {
     "verse": 13,
     "original": "וַיַּעֲנֵ֥ם הַמֶּ֖לֶךְ קָשָׁ֑ה וַֽיַּעֲזֹב֙ הַמֶּ֣לֶךְ רְחַבְעָ֔ם אֵ֖ת עֲצַ֥ת הַזְּקֵנִֽים׃",
+    "transliteration": "vaya'anem hamelekhe kashah vaya'azov hamelekhe rehave'am 'et 'atsat hazekeniym.",
     "translation": "E o rei lhes respondeu com dureza, e o rei Roboão abandonou o conselho dos anciãos."
   },
   {
     "verse": 14,
     "original": "וַיְדַבֵּ֣ר אֲלֵהֶ֗ם כַּעֲצַ֤ת הַיְלָדִים֙ לֵאמֹ֔ר אַכְבִּיד֙ אֶֽת־עֻלְּכֶ֔ם וַאֲנִ֖י אֹסִ֣יף עָלָ֑יו אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֖י בָּעַקְרַבִּֽים׃",
+    "transliteration": "vayedaver 'alehem kha'atsat hayeladiym le'mor 'akheviyd 'et-'ulekhem va'aniy 'osiyf 'alayv 'aviy yisar 'etekhem vashvotiym va'aniy va'akeraviym.",
     "translation": "E falou-lhes conforme a vontade dos jovens, dizendo: Ampliarei vosso fardo e eu mesmo acrescentarei sobre ele; meu pai vos castigou com chicotes, mas eu o farei com escorpiões."
   },
   {
     "verse": 15,
     "original": "וְלֹא־שָׁמַ֥ע הַמֶּ֖לֶךְ אֶל־הָעָ֑ם כִּֽי־הָיְתָ֤ה נְסִבָּה֙ מֵעִ֣ם הָאֱלֹהִ֔ים לְמַ֩עַן֩ הָקִ֨ים יְהֹוָ֜ה אֶת־דְּבָר֗וֹ אֲשֶׁ֤ר דִּבֶּר֙ בְּיַד֙ אֲחִיָּ֣הוּ הַשִּׁלוֹנִ֔י אֶל־יָרׇבְעָ֖ם בֶּן־נְבָֽט׃",
+    "transliteration": "velo'-shama' hamelekhe 'el-ha'am khiy-hayetah nesivah me'im ha'elohiym lema'an hakiym yehovah 'et-devarvo 'asher diver veyad 'ahiyahv hashilvoniy 'el-yarove'am ven-nevat.",
     "translation": "E o rei não escutou o povo, pois Deus havia posto obstáculo diante dele, a fim de cumprir a palavra que pronunciara por intermédio de Ahias, filho de Safate, contra Jeroboão, filho de Nebat."
   },
   {
     "verse": 16,
     "original": "וְכׇל־יִשְׂרָאֵ֗ל כִּ֠י לֹא־שָׁמַ֣ע הַמֶּ֘לֶךְ֮ לָהֶם֒ וַיָּשִׁ֣יבוּ הָעָ֣ם אֶת־הַמֶּ֣לֶךְ&thinsp;<small>׀</small>&thinsp;לֵאמֹ֡ר מַה־לָּ֩נוּ֩ חֵ֨לֶק בְּדָוִ֜יד וְלֹא־נַחֲלָ֣ה בְּבֶן־יִשַׁ֗י אִ֤ישׁ לְאֹהָלֶ֙יךָ֙ יִשְׂרָאֵ֔ל עַתָּ֕ה רְאֵ֥ה בֵיתְךָ֖ דָּוִ֑יד וַיֵּ֥לֶךְ כׇּל־יִשְׂרָאֵ֖ל לְאֹהָלָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vekhol-yisera'el khiy lo'-shama' hamelekhe lahem vayashiyvv ha'am 'et-hamelekhe&thinsp;<small>|</small>&thinsp;le'mor mah-lanv helek vedaviyd velo'-nahalah veven-yishay 'iysh le'ohaleykha yisera'el 'atah re'eh veytekha daviyd vayelekhe khol-yisera'el le'ohalayv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E todo Israel, porque o rei não lhes atendeu, voltou-se do rei dizendo: Que parte temos nós com Davi? Nenhuma herança nos é devida em filho de Jessé. Cada um a suas tendas, ó Israel! Agora vê tua casa, ó Davi. E todo Israel se retirou para suas tendas."
   },
   {
     "verse": 17,
     "original": "וּבְנֵ֣י יִשְׂרָאֵ֔ל הַיֹּשְׁבִ֖ים בְּעָרֵ֣י יְהוּדָ֑ה וַיִּמְלֹ֥ךְ עֲלֵיהֶ֖ם רְחַבְעָֽם׃",
+    "transliteration": "vveney yisera'el hayosheviym ve'arey yehvdah vayimelokhe 'aleyhem rehave'am.",
     "translation": "E os filhos de Israel que habitavam nas cidades de Judá, e Reavama reinou sobre eles."
   },
   {
     "verse": 18,
     "original": "וַיִּשְׁלַ֞ח הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־הֲדֹרָם֙ אֲשֶׁ֣ר עַל־הַמַּ֔ס וַיִּרְגְּמוּ־ב֧וֹ בְנֵי־יִשְׂרָאֵ֛ל אֶ֖בֶן וַיָּמֹ֑ת&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְהַמֶּ֣לֶךְ רְחַבְעָ֗ם הִתְאַמֵּץ֙ לַעֲל֣וֹת בַּמֶּרְכָּבָ֔ה לָנ֖וּס יְרוּשָׁלָֽ͏ִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayishelah hamelekhe rehave'am 'et-hadoram 'asher 'al-hamas vayiregemv-vvo veney-yisera'el 'even vayamot&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vehamelekhe rehave'am hite'amets la'alvot vamerekhavah lanvs yervshalaim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o rei Roboão enviou Hadar-goa, que estava sobre a impostação, e os filhos de Israel o apedrejaram, e ele morreu. E o rei Roboão apressou-se para subir ao seu carro, a fim de fugir a Jerusalém."
   },
   {
     "verse": 19,
     "original": "וַיִּפְשְׁע֤וּ יִשְׂרָאֵל֙ בְּבֵ֣ית דָּוִ֔יד עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+    "transliteration": "vayifeshe'v yisera'el veveyt daviyd 'ad hayvom hazeh.",
     "translation": "E Israel se rebelou contra a casa de Davi até o dia de hoje."
   }
 ]

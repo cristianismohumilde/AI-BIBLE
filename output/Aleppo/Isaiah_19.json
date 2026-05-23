@@ -2,126 +2,151 @@
   {
     "verse": 1,
     "original": "מַשָּׂ֖א מִצְרָ֑יִם הִנֵּ֨ה יְהֹוָ֜ה רֹכֵ֨ב עַל־עָ֥ב קַל֙ וּבָ֣א מִצְרַ֔יִם וְנָע֞וּ אֱלִילֵ֤י מִצְרַ֙יִם֙ מִפָּנָ֔יו וּלְבַ֥ב מִצְרַ֖יִם יִמַּ֥ס בְּקִרְבּֽוֹ׃",
+    "transliteration": "masa' mitserayim hineh yehovah rokhev 'al-'av kal vva' mitserayim vena'v 'eliyley mitserayim mifanayv vlevav mitserayim yimas vekirevvo.",
     "translation": "O fardo de Egito. Eis que o Senhor cavalga sobre uma nuvem leve e vem ao Egito, e os ídolos do Egito se envergonharão diante dele, e o coração dos egípcios derreterá dentro deles."
   },
   {
     "verse": 2,
     "original": "וְסִכְסַכְתִּ֤י מִצְרַ֙יִם֙ בְּמִצְרַ֔יִם וְנִלְחֲמ֥וּ אִישׁ־בְּאָחִ֖יו וְאִ֣ישׁ בְּרֵעֵ֑הוּ עִ֣יר בְּעִ֔יר מַמְלָכָ֖ה בְּמַמְלָכָֽה׃",
+    "transliteration": "vesikhesakhetiy mitserayim vemitserayim venilehamv 'iysh-ve'ahiyv ve'iysh vere'ehv 'iyr ve'iyr mamelakhah vemamelakhah.",
     "translation": "E perturbações surgirão no Egito contra o próprio Egito, e lutarão um irmão contra o outro e um amigo contra seu companheiro; cidade contra cidade, reino contra reino."
   },
   {
     "verse": 3,
     "original": "וְנָבְקָ֤ה רוּחַ־מִצְרַ֙יִם֙ בְּקִרְבּ֔וֹ וַעֲצָת֖וֹ אֲבַלֵּ֑עַ וְדָרְשׁ֤וּ אֶל־הָֽאֱלִילִים֙ וְאֶל־הָ֣אִטִּ֔ים וְאֶל־הָאֹב֖וֹת וְאֶל־הַיִּדְּעֹנִֽים׃",
+    "transliteration": "venavekah rvha-mitserayim vekirevvo va'atsatvo 'avale'a vedareshv 'el-ha'eliyliym ve'el-ha'itiym ve'el-ha'ovvot ve'el-hayide'oniym.",
     "translation": "E desfalecerá o espírito do Egito dentro dele; sua fortaleza se desvanecerá. Recorrerão aos ídolos, aos encantadores, aos mancebos indagadores e aos adivinhos."
   },
   {
     "verse": 4,
     "original": "וְסִכַּרְתִּי֙ אֶת־מִצְרַ֔יִם בְּיַ֖ד אֲדֹנִ֣ים קָשֶׁ֑ה וּמֶ֤לֶךְ עַז֙ יִמְשׇׁל־בָּ֔ם נְאֻ֥ם הָאָד֖וֹן יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "transliteration": "vesikharetiy 'et-mitserayim veyad 'adoniym kasheh vmelekhe 'az yimeshol-vam ne'um ha'advon yehovah tseva'vot.",
     "translation": "E eu endurecerei o coração do Egito mediante a mão de um senhor forte, e um rei feroz dominará sobre eles, diz o Senhor dos Exércitos."
   },
   {
     "verse": 5,
     "original": "וְנִשְּׁתוּ־מַ֖יִם מֵֽהַיָּ֑ם וְנָהָ֖ר יֶחֱרַ֥ב וְיָבֵֽשׁ׃",
+    "transliteration": "venishetv-mayim mehayam venahar yeherav veyavesh.",
     "translation": "E as águas do mar secarão, e o rio se secará e desaparecerá."
   },
   {
     "verse": 6,
     "original": "וְהֶאֶזְנִ֣יחוּ נְהָר֔וֹת דָּלְל֥וּ וְחָרְב֖וּ יְאֹרֵ֣י מָצ֑וֹר קָנֶ֥ה וָס֖וּף קָמֵֽלוּ׃",
+    "transliteration": "vehe'ezeniyhv neharvot dalelv veharevv ye'orey matsvor kaneh vasvf kamelv.",
     "translation": "E ouvirão os rios; murcharão e secar-se-ão os canais de Matsuor; o junco e o bulrush murcham."
   },
   {
     "verse": 7,
     "original": "עָר֥וֹת עַל־יְא֖וֹר עַל־פִּ֣י יְא֑וֹר וְכֹל֙ מִזְרַ֣ע יְא֔וֹר יִיבַ֥שׁ נִדַּ֖ף וְאֵינֶֽנּוּ׃",
+    "transliteration": "'arvot 'al-ye'vor 'al-fiy ye'vor vekhol mizera' ye'vor yiyvash nidaf ve'eynenv.",
     "translation": "Os pântanos junto ao rio, à beira do rio, e todo o cultivo do rio secarão, serão empurrados embora e não existirão mais."
   },
   {
     "verse": 8,
     "original": "וְאָנוּ֙ הַדַּיָּגִ֔ים וְאָ֣בְל֔וּ כׇּל־מַשְׁלִיכֵ֥י בַיְא֖וֹר חַכָּ֑ה וּפֹרְשֵׂ֥י מִכְמֹ֛רֶת עַל־פְּנֵי־מַ֖יִם אֻמְלָֽלוּ׃",
+    "transliteration": "ve'anv hadayagiym ve'avelv khol-masheliykhey vaye'vor hakhah vforesey mikhemoret 'al-feney-mayim 'umelalv.",
     "translation": "E nós, os pescadores, lamentamos; todos os que lançam à torrente enlouquecem, e os espalhadores de redes sobre a face das águas ficam confusos."
   },
   {
     "verse": 9,
     "original": "וּבֹ֛שׁוּ עֹבְדֵ֥י פִשְׁתִּ֖ים שְׂרִיק֑וֹת וְאֹרְגִ֖ים חוֹרָֽי׃",
+    "transliteration": "vvoshv 'ovedey fishetiym seriykvot ve'oregiym hvoray.",
     "translation": "E envergonhar-se-ão os servos de Pashthim, os cantores, e os tocadores de harpa."
   },
   {
     "verse": 10,
     "original": "וְהָי֥וּ שָׁתֹתֶ֖יהָ מְדֻכָּאִ֑ים כׇּל־עֹ֥שֵׂי שֶׂ֖כֶר אַגְמֵי־נָֽפֶשׁ׃",
+    "transliteration": "vehayv shatoteyha medukha'iym khol-'osey sekher 'agemey-nafesh.",
     "translation": "E serão seus poços despedaçados, toda fabricante de bebidas forte um amontoado de tristeza."
   },
   {
     "verse": 11,
     "original": "אַךְ־אֱוִלִים֙ שָׂ֣רֵי צֹ֔עַן חַכְמֵי֙ יֹעֲצֵ֣י פַרְעֹ֔ה עֵצָ֖ה נִבְעָרָ֑ה אֵ֚יךְ תֹּאמְר֣וּ אֶל־פַּרְעֹ֔ה בֶּן־חֲכָמִ֥ים אֲנִ֖י בֶּן־מַלְכֵי־קֶֽדֶם׃",
+    "transliteration": "'akhe-'eviliym sarey tso'an hakhemey yo'atsey fare'oh 'etsah nive'arah 'eykhe to'merv 'el-fare'oh ven-hakhamiym 'aniy ven-malekhey-kedem.",
     "translation": "Contudo, tolos são os príncipes de Zoã; vazia é a sabedoria dos conselheiros do Faraó. Como ainda ousam dizer ao Faraó: \"Somos filhos da sabedoria, descendentes de reis antigos\"?"
   },
   {
     "verse": 12,
     "original": "אַיָּם֙ אֵפ֣וֹא חֲכָמֶ֔יךָ וְיַגִּ֥ידוּ נָ֖א לָ֑ךְ וְיֵ֣דְע֔וּ מַה־יָּעַ֛ץ יְהֹוָ֥ה צְבָא֖וֹת עַל־מִצְרָֽיִם׃",
+    "transliteration": "'ayam 'efvo' hakhameykha veyagiydv na' lakhe veyede'v mah-ya'ats yehovah tseva'vot 'al-mitserayim.",
     "translation": "Eis pois, os teus sábios; que eles venham e te instruam, e tomem conhecimento do conselho que o Senhor dos Exércitos tem sobre o Egito."
   },
   {
     "verse": 13,
     "original": "נֽוֹאֲלוּ֙ שָׂ֣רֵי צֹ֔עַן נִשְּׁא֖וּ שָׂ֣רֵי נֹ֑ף הִתְע֥וּ אֶת־מִצְרַ֖יִם פִּנַּ֥ת שְׁבָטֶֽיהָ׃",
+    "transliteration": "nvo'alv sarey tso'an nishe'v sarey nof hite'v 'et-mitserayim finat shevateyha.",
     "translation": "Os governadores de Zoã se enlouqueceram, os líderes de Nafoz foram tomados de pânico; a nação do Egito vacilou em sua mente."
   },
   {
     "verse": 14,
     "original": "יְהֹוָ֛ה מָסַ֥ךְ בְּקִרְבָּ֖הּ ר֣וּחַ עִוְעִ֑ים וְהִתְע֤וּ אֶת־מִצְרַ֙יִם֙ בְּכׇֽל־מַעֲשֵׂ֔הוּ כְּהִתָּע֥וֹת שִׁכּ֖וֹר בְּקִיאֽוֹ׃",
+    "transliteration": "yehovah masakhe vekirevah rvha 'ive'iym vehite'v 'et-mitserayim vekhol-ma'asehv khehita'vot shikhvor vekiy'vo.",
     "translation": "Javé encobriu seu coração com espíritos perversos, e os fez errar em toda a sua empresa, como se o embriagado erregesse na sua expulsão."
   },
   {
     "verse": 15,
     "original": "וְלֹא־יִהְיֶ֥ה לְמִצְרַ֖יִם מַעֲשֶׂ֑ה אֲשֶׁ֧ר יַעֲשֶׂ֛ה רֹ֥אשׁ וְזָנָ֖ב כִּפָּ֥ה וְאַגְמֽוֹן׃",
+    "transliteration": "velo'-yiheyeh lemitserayim ma'aseh 'asher ya'aseh ro'sh vezanav khifah ve'agemvon.",
     "translation": "E não haverá no Egito obra alguma que faça, nem comece nem acabe, nem planeje nem execute."
   },
   {
     "verse": 16,
     "original": "בַּיּ֣וֹם הַה֔וּא יִהְיֶ֥ה מִצְרַ֖יִם כַּנָּשִׁ֑ים וְחָרַ֣ד&thinsp;<b>׀</b> וּפָחַ֗ד מִפְּנֵי֙ תְּנוּפַת֙ יַד־יְהֹוָ֣ה צְבָא֔וֹת אֲשֶׁר־ה֖וּא מֵנִ֥יף עָלָֽיו׃",
+    "transliteration": "vayvom hahv' yiheyeh mitserayim khanashiym veharad&thinsp;<b>|</b> vfahad mifeney tenvfat yad-yehovah tseva'vot 'asher-hv' meniyf 'alayv.",
     "translation": "Nesse dia, o Egito será como uma mulher desanimada; assustar-se-á e temerá por causa da sacudidura de mão do Senhor dos Exércitos, que ele brandirá sobre ele."
   },
   {
     "verse": 17,
     "original": "וְ֠הָיְתָ֠ה אַדְמַ֨ת יְהוּדָ֤ה לְמִצְרַ֙יִם֙ לְחׇגָּ֔א כֹּל֩ אֲשֶׁ֨ר יַזְכִּ֥יר אֹתָ֛הּ אֵלָ֖יו יִפְחָ֑ד מִפְּנֵ֗י עֲצַת֙ יְהֹוָ֣ה צְבָא֔וֹת אֲשֶׁר־ה֖וּא יוֹעֵ֥ץ עָלָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehayetah 'ademat yehvdah lemitserayim lehoga' khol 'asher yazekhiyr 'otah 'elayv yifehad mifeney 'atsat yehovah tseva'vot 'asher-hv' yvo'ets 'alayv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E será que a terra de Judá será para o Egito como festa de arroz; todo aquele que se lembrar dela por ele lamentará; pois pela determinação do Senhor dos Exércitos isso lhe acontecerá."
   },
   {
     "verse": 18,
     "original": "בַּיּ֣וֹם הַה֡וּא יִהְיוּ֩ חָמֵ֨שׁ עָרִ֜ים בְּאֶ֣רֶץ מִצְרַ֗יִם מְדַבְּרוֹת֙ שְׂפַ֣ת כְּנַ֔עַן וְנִשְׁבָּע֖וֹת לַיהֹוָ֣ה צְבָא֑וֹת עִ֣יר הַהֶ֔רֶס יֵאָמֵ֖ר לְאֶחָֽת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayvom hahv' yiheyv hamesh 'ariym ve'erets mitserayim medavervot sefat khena'an venisheva'vot layhovah tseva'vot 'iyr haheres ye'amer le'ehat.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Naquele dia haverão cinco cidades na terra do Egito que falarão a língua de Canaã e jurarão lealdade ao Senhor dos Exércitos. A cidade será chamada de Aborrecimento.&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   },
   {
     "verse": 19,
     "original": "בַּיּ֣וֹם הַה֗וּא יִֽהְיֶ֤ה מִזְבֵּ֙חַ֙ לַֽיהֹוָ֔ה בְּת֖וֹךְ אֶ֣רֶץ מִצְרָ֑יִם וּמַצֵּבָ֥ה אֵצֶל־גְּבוּלָ֖הּ לַֽיהֹוָֽה׃",
+    "transliteration": "vayvom hahv' yiheyeh mizeveha layhovah vetvokhe 'erets mitserayim vmatsevah 'etsel-gevvlah layhovah.",
     "translation": "Nesse dia haverá um altar ao Senhor no meio da terra do Egito, e uma coluna ao lado de sua fronteira para o Senhor."
   },
   {
     "verse": 20,
     "original": "וְהָיָ֨ה לְא֥וֹת וּלְעֵ֛ד לַיהֹוָ֥ה צְבָא֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם כִּֽי־יִצְעֲק֤וּ אֶל־יְהֹוָה֙ מִפְּנֵ֣י לֹחֲצִ֔ים וְיִשְׁלַ֥ח לָהֶ֛ם מוֹשִׁ֥יעַ וָרָ֖ב וְהִצִּילָֽם׃",
+    "transliteration": "vehayah le'vot vle'ed layhovah tseva'vot ve'erets mitserayim khiy-yitse'akv 'el-yehovah mifeney lohatsiym veyishelah lahem mvoshiy'a varav vehitsiylam.",
     "translation": "E será um sinal e uma testemunha ao Senhor dos Exércitos na terra do Egito, pois clamarão ao Senhor diante de seus opressores, e ele lhes enviará um salvador e libertador que os livrará."
   },
   {
     "verse": 21,
     "original": "וְנוֹדַ֤ע יְהֹוָה֙ לְמִצְרַ֔יִם וְיָדְע֥וּ מִצְרַ֛יִם אֶת־יְהֹוָ֖ה בַּיּ֣וֹם הַה֑וּא וְעָֽבְדוּ֙ זֶ֣בַח וּמִנְחָ֔ה וְנָדְרוּ־נֵ֥דֶר לַיהֹוָ֖ה וְשִׁלֵּֽמוּ׃",
+    "transliteration": "venvoda' yehovah lemitserayim veyade'v mitserayim 'et-yehovah vayvom hahv' ve'avedv zevah vminehah venaderv-neder layhovah veshilemv.",
     "translation": "E o Senhor será conhecido pelo Egito, e os egípcios conhecerão ao Senhor naquele dia, e oferecerão sacrifício e oferta, e cumprirão seu voto ao Senhor."
   },
   {
     "verse": 22,
     "original": "וְנָגַ֧ף יְהֹוָ֛ה אֶת־מִצְרַ֖יִם נָגֹ֣ף וְרָפ֑וֹא וְשָׁ֙בוּ֙ עַד־יְהֹוָ֔ה וְנֶעְתַּ֥ר לָהֶ֖ם וּרְפָאָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "venagaf yehovah 'et-mitserayim nagof verafvo' veshavv 'ad-yehovah vene'etar lahem vrefa'am.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o SENHOR ferirá os egípcios com ferimento e cura, e eles se voltarão para o SENHOR, e ele responderá a seu clamor e os curará."
   },
   {
     "verse": 23,
     "original": "בַּיּ֣וֹם הַה֗וּא תִּהְיֶ֨ה מְסִלָּ֤ה מִמִּצְרַ֙יִם֙ אַשּׁ֔וּרָה וּבָא־אַשּׁ֥וּר בְּמִצְרַ֖יִם וּמִצְרַ֣יִם בְּאַשּׁ֑וּר וְעָבְד֥וּ מִצְרַ֖יִם אֶת־אַשּֽׁוּר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayvom hahv' tiheyeh mesilah mimitserayim 'ashvrah vva'-'ashvr vemitserayim vmitserayim ve'ashvr ve'avedv mitserayim 'et-'ashvr.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Nesse dia haverá um caminho do Egito até Assur, e Assur entrará no Egito e o Egito em Assur, e os egípcios servirão a Assur."
   },
   {
     "verse": 24,
     "original": "בַּיּ֣וֹם הַה֗וּא יִהְיֶ֤ה יִשְׂרָאֵל֙ שְׁלִ֣ישִׁיָּ֔ה לְמִצְרַ֖יִם וּלְאַשּׁ֑וּר בְּרָכָ֖ה בְּקֶ֥רֶב הָאָֽרֶץ׃",
+    "transliteration": "vayvom hahv' yiheyeh yisera'el sheliyshiyah lemitserayim vle'ashvr verakhah vekerev ha'arets.",
     "translation": "Naquele dia, Israel será uma terceira parte com Egito e Assíria, uma bênção no meio da terra."
   },
   {
     "verse": 25,
     "original": "אֲשֶׁ֧ר בֵּרְכ֛וֹ יְהֹוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר בָּר֨וּךְ עַמִּ֜י מִצְרַ֗יִם וּמַעֲשֵׂ֤ה יָדַי֙ אַשּׁ֔וּר וְנַחֲלָתִ֖י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'asher verekhvo yehovah tseva'vot le'mor varvkhe 'amiy mitserayim vma'aseh yaday 'ashvr venahalatiy yisera'el.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Que o Senhor dos Exércitos abençoou, dizendo: Bendito seja o meu povo do Egito e a obra das minhas mãos, os assírios, e a minha herança, Israel."
   }
 ]

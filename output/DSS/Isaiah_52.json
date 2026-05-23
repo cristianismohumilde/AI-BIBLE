@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "עורי עורי לבשי עוז ציון לבשי בגדי תפארתך ירושלם עיר הקודש כיא לוא יוסיף ויבוא בך ערל וטמא",
+    "transliteration": "'vry 'vry lvsy 'vz tsyvn lvsy vgdy tf'rtkh yrvslm 'yr hkvds khy' lv' yvsyf vyvv' vkh 'rl vtm'",
     "translation": "Ergue-te, ergue-te, veste a tua força, Sião; veste os teus vestidos de esplendor, Jerusalém, cidade santa; pois jamais mais entrará em ti o impuro e o abominável."
   },
   {
     "verse": 2,
     "original": "התנערי מעפר וקומי ושבי ירושלים התפתחו מוסרי צורך שביה",
+    "transliteration": "htn'ry m'fr vkvmy vsvy yrvslym htfthv mvsry tsvrkh svyh",
     "translation": "Sacudi-te do pó e levanta-te, Jerusalém; rompe as tuas cadeias, ó cativa."
   },
   {
     "verse": 3,
     "original": "בת ציון כיא כוה אמר יהוה חנם נמכרתםה ולוא בכסף תגאלו כיא כוה",
+    "transliteration": "vt tsyvn khy' khvh 'mr yhvh hnm nmkhrtmh vlv' vkhsf tg'lv khy' khvh",
     "translation": "Filha de Sião, assim diz o Senhor: Gratuitamente fostes vendidas, e não por dinheiro sereis redimidas; assim fala."
   },
   {
     "verse": 4,
     "original": "אמר יהוה מצרים ירד עמי ברישונה לגור שמה ואשור באפס עשקו ועתה מה לי פה נואם יהוה כי",
+    "transliteration": "'mr yhvh mtsrym yrd 'my vrysvnh lgvr smh v'svr v'fs 'skv v'th mh ly fh nv'm yhvh khy",
     "translation": "Disse o Senhor: “Egito, meu povo desceu a ti no princípio para habitar ali; e Assur veio [e] te oprimiu... E agora, que tenho eu aqui? — declara o Senhor.”"
   },
   {
     "verse": 5,
     "original": "לוקח עמיא חנם משלו והוללו נואם ותמיד כול היום שמי מנואץ",
+    "transliteration": "lvkh 'my' hnm mslv vhvllv nv'm vtmyd khvl hyvm smy mnv'ts",
     "translation": "Povos estrangeiros tomaram Meu povo gratuitamente, e Ele é objeto de maldição; Seu nome é insultado sem cessar durante todo o dia."
   },
   {
     "verse": 6,
     "original": "לכן ידע עמיא שמי ביום ההואה כי אני הואה המדבר הנני מה נאוו",
+    "transliteration": "lkhn yd' 'my' smy vyvm hhv'h khy 'ny hv'h hmdvr hnny mh n'vv",
     "translation": "Portanto, saberão os povos o meu nome no dia daquele tempo, porque eu sou aquele que fala; eis-me aqui..."
   },
   {
     "verse": 7,
     "original": "על ההרים רגלי מבשר מבשר שלום משמיע טוב משמיע ישועה אומר לציון מלך אלוהיך",
+    "transliteration": "'l hhrym rgly mvsr mvsr slvm msmy' tvv msmy' ysv'h 'vmr ltsyvn mlkh 'lvhykh",
     "translation": "Sobre os montes, pés que trazem boas-novas, que anunciam a paz; que proclamam o bem, que publicam a salvação: dizendo a Sião: O teu rei divino vem."
   },
   {
     "verse": 8,
     "original": "קול צפיך נשאו קול יחדיו ירננו כי עין בעין יראו בשב יהוה ציון",
+    "transliteration": "kvl tsfykh ns'v kvl yhdyv yrnnv khy 'yn v'yn yr'v vsv yhvh tsyvn",
     "translation": "Voz dos teus vigias! Eleva-se sua voz juntos cantarão, pois olho a olho verão no retorno ao SENHOR Sião."
   },
   {
     "verse": 9,
     "original": "ברחמים פצחו רונה יחדיו חרבות ירושלים כיא נחמ יהוה עמו וגאל",
+    "transliteration": "vrhmym ftshv rvnh yhdyv hrvvt yrvslym khy' nhm yhvh 'mv vg'l",
     "translation": "No regaço se romperam em pranto juntos os que cortejavam Jerusalém; porque nele há consolo do Senhor seu Deus e redentor..."
   },
   {
     "verse": 10,
     "original": "את ירושלים חשף יהוה את זרוע קודשו לעיני כול הגואים וראו כול אפסי הארץ את ישועת אלוהינו",
+    "transliteration": "'t yrvslym hsf yhvh 't zrv' kvdsv l'yny khvl hgv'ym vr'v khvl 'fsy h'rts 't ysv't 'lvhynv",
     "translation": "O Senhor descobriu Jerusalém; revelou a força de sua santidade diante de todos os povos; e todas as extremidades da terra viram a salvação do nosso Deus."
   },
   {
     "verse": 11,
     "original": "סורו סורו צאו משםה בטמה אל תגעו צאו מתוכה הברו נושאי כלי",
+    "transliteration": "svrv svrv ts'v msmh vtmh 'l tg'v ts'v mtvkhh hvrv nvs'y khly",
     "translation": "Afastei-vos, afastei-vos, saí dai-lhe, ó puros, não vos toqueis, saí do seu meio e purificai-vos, vós que levais os utensílios da santidade."
   },
   {
     "verse": 12,
     "original": "יהוה כי לא בחפזון תצאו ובמנסה לא תלכון כי הולך לפניכם יהוה ומאספכם אלהי ישראל",
+    "transliteration": "yhvh khy l' vhfzvn tts'v vvmnsh l' tlkhvn khy hvlkh lfnykhm yhvh vm'sfkhm 'lhy ysr'l",
     "translation": "Porque Yahweh diz: não saireis apressadamente, nem ireis em trevas; porque o Eterno vos precede, e o Deus de Israel é vosso redentor."
   },
   {
     "verse": 13,
     "original": "הנה ישכיל עבדי ירום וגבה ונשא מאד",
+    "transliteration": "hnh yskhyl 'vdy yrvm vgvh vns' m'd",
     "translation": "Eis que meu servo prosperará; será elevado e exaltado, e será muito engrandecido."
   },
   {
     "verse": 14,
     "original": "כאשר שממו עליו רבים כן משחת מאיש מראהו ותרו מבני אדם כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו",
+    "transliteration": "kh'sr smmv 'lyv rvym khn msht m'ys mr'hv vtrv mvny 'dm khn yzh gvym rvym 'lyv ykftsv mlkhym fyhm khy 'sr l' sfr lhm r'v v'sr l' sm'v htvvnnv",
     "translation": "Assim como o seu aspecto estava desfigurado mais do que qualquer homem e o seu rosto mais do que os filhos dos homens, assim será ele para destruir muitas gentes; reis fecharão a boca por ele, porque nunca lhes foi contada coisa semelhante, nem ouviram com seus ouvidos."
   }
 ]

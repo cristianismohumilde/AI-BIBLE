@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "נָֽקְטָ֥ה נַפְשִׁ֗י בְּחַ֫יָּ֥י אֶעֶזְבָ֣ה עָלַ֣י שִׂיחִ֑י אֲ֝דַבְּרָ֗ה בְּמַ֣ר נַפְשִֽׁי׃",
+    "transliteration": "naketah nafeshiy vehayay 'e'ezevah 'alay siyhiy 'adaverah vemar nafeshiy.",
     "translation": "Guardará minha alma na vida; abandonarei qualquer discurso em mim; falarei com amargura no meu espírito."
   },
   {
     "verse": 2,
     "original": "אֹמַ֣ר אֶל־אֱ֭לוֹהַּ אַל־תַּרְשִׁיעֵ֑נִי ה֝וֹדִיעֵ֗נִי עַ֣ל מַה־תְּרִיבֵֽנִי׃",
+    "transliteration": "'omar 'el-'elvoha 'al-tareshiy'eniy hvodiy'eniy 'al mah-teriyveniy.",
     "translation": "Direi ao Deus: Não me condene. Revele-me sobre com quê contende comigo."
   },
   {
     "verse": 3,
     "original": "הֲט֤וֹב לְךָ֨&thinsp;<b>׀</b> כִּֽי־תַעֲשֹׁ֗ק כִּֽי־תִ֭מְאַס יְגִ֣יעַ כַּפֶּ֑יךָ וְעַל־עֲצַ֖ת רְשָׁעִ֣ים הוֹפָֽעְתָּ׃",
+    "transliteration": "hatvov lekha&thinsp;<b>|</b> khiy-ta'ashok khiy-time'as yegiy'a khafeykha ve'al-'atsat resha'iym hvofa'eta.",
     "translation": "É melhor para ti não oprimir, não rejeitar a obra de tuas mãos, e que os conselhos dos ímpios não prevaleçam."
   },
   {
     "verse": 4,
     "original": "הַעֵינֵ֣י בָשָׂ֣ר לָ֑ךְ אִם־כִּרְא֖וֹת אֱנ֣וֹשׁ תִּרְאֶֽה׃",
+    "transliteration": "ha'eyney vasar lakhe 'im-khire'vot 'envosh tire'eh.",
     "translation": "Os olhos de carne te são dados; se vê o homem, verá."
   },
   {
     "verse": 5,
     "original": "הֲכִימֵ֣י אֱנ֣וֹשׁ יָמֶ֑יךָ אִם־שְׁ֝נוֹתֶ֗יךָ כִּ֣ימֵי גָֽבֶר׃",
+    "transliteration": "hakhiymey 'envosh yameykha 'im-shenvoteykha khiymey gaver.",
     "translation": "Os dias do homem são como os do ano de um mês, ou seus anos como os da vida breve de um mortal."
   },
   {
     "verse": 6,
     "original": "כִּֽי־תְבַקֵּ֥שׁ לַעֲוֺנִ֑י וּֽלְחַטָּאתִ֥י תִדְרֽוֹשׁ׃",
+    "transliteration": "khiy-tevakesh la'avoniy vlehata'tiy tidervosh.",
     "translation": "Pois tu buscas a minha iniquidade e ao meu pecado me examinas."
   },
   {
     "verse": 7,
     "original": "עַֽל־דַּ֭עְתְּךָ כִּֽי־לֹ֣א אֶרְשָׁ֑ע וְאֵ֖ין מִיָּדְךָ֣ מַצִּֽיל׃",
+    "transliteration": "'al-da'etekha khiy-lo' 'eresha' ve'eyn miyadekha matsiyl.",
     "translation": "Porque em tua ciência estou inocente, e ninguém me pode livrar da tua mão."
   },
   {
     "verse": 8,
     "original": "יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי׃",
+    "transliteration": "yadeykha 'itsevvniy vaya'asvniy yahad saviyv vatevale'eniy.",
     "translation": "Tua mão me formou e me fez; juntamente me cercou, e me devorou."
   },
   {
     "verse": 9,
     "original": "זְכׇר־נָ֭א כִּי־כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל־עָפָ֥ר תְּשִׁיבֵֽנִי׃",
+    "transliteration": "zekhor-na' khiy-khahomer 'asiytaniy ve'el-'afar teshiyveniy.",
     "translation": "Lembra-te, pois, de que me fizeste como o barro e à poeira me retornarás."
   },
   {
     "verse": 10,
     "original": "הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי׃",
+    "transliteration": "halo' khehalav tatiykheniy vekhagevinah takefiy'eniy.",
     "translation": "Não como leite me enganaste, e como queijo me fortaleceste."
   },
   {
     "verse": 11,
     "original": "ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּשֹׂכְכֵֽנִי׃",
+    "transliteration": "'vor vvasar taleviysheniy vva'atsamvot vegiydiym tesokhekheniy.",
     "translation": "Pele e carne me revestiram, e com ossos e tendões me estruturaram."
   },
   {
     "verse": 12,
     "original": "חַיִּ֣ים וָ֭חֶסֶד עָשִׂ֣יתָ עִמָּדִ֑י וּ֝פְקֻדָּתְךָ֗ שָֽׁמְרָ֥ה רוּחִֽי׃",
+    "transliteration": "hayiym vahesed 'asiyta 'imadiy vfekudatekha shamerah rvhiy.",
     "translation": "Vida e amor fizeste comigo, e a tua misericórdia guardará minha alma."
   },
   {
     "verse": 13,
     "original": "וְ֭אֵלֶּה צָפַ֣נְתָּ בִלְבָבֶ֑ךָ יָ֝דַ֗עְתִּי כִּי־זֹ֥את עִמָּֽךְ׃",
+    "transliteration": "ve'eleh tsafaneta vilevavekha yada'etiy khiy-zo't 'imakhe.",
     "translation": "E estes são os tesouros que guardaste no teu coração; eu sei que isso está contigo."
   },
   {
     "verse": 14,
     "original": "אִם־חָטָ֥אתִי וּשְׁמַרְתָּ֑נִי וּ֝מֵעֲוֺנִ֗י לֹ֣א תְנַקֵּֽנִי׃",
+    "transliteration": "'im-hata'tiy vshemaretaniy vme'avoniy lo' tenakeniy.",
     "translation": "Se pequei e você me observou, então do pecado não me purifique."
   },
   {
     "verse": 15,
     "original": "אִם־רָשַׁ֡עְתִּי אַלְלַ֬י לִ֗י וְ֭צָדַקְתִּי לֹא־אֶשָּׂ֣א רֹאשִׁ֑י שְׂבַ֥ע קָ֝ל֗וֹן וּרְאֵ֥ה עׇנְיִֽי׃",
+    "transliteration": "'im-rasha'etiy 'alelay liy vetsadaketiy lo'-'esa' ro'shiy seva' kalvon vre'eh 'oneyiy.",
     "translation": "Se pequei, contra mim está a culpa; se sou justo, não levantarei minha cabeça. Satisfeito com o opróbrio e vê o meu sofrimento."
   },
   {
     "verse": 16,
     "original": "וְ֭יִגְאֶה כַּשַּׁ֣חַל תְּצוּדֵ֑נִי וְ֝תָשֹׁ֗ב תִּתְפַּלָּא־בִֽי׃",
+    "transliteration": "veyige'eh khashahal tetsvdeniy vetashov titefala'-viy.",
     "translation": "E ele se regozijará como um leão que me caça, e me retorcerá com suas garras."
   },
   {
     "verse": 17,
     "original": "תְּחַדֵּ֬שׁ עֵדֶ֨יךָ&thinsp;<b>׀</b> נֶגְדִּ֗י וְתֶ֣רֶב כַּ֭עַשְׂךָ עִמָּדִ֑י חֲלִיפ֖וֹת וְצָבָ֣א עִמִּֽי׃",
+    "transliteration": "tehadesh 'edeykha&thinsp;<b>|</b> negediy veterev kha'asekha 'imadiy haliyfvot vetsava' 'imiy.",
     "translation": "Renova os teus atos diante de mim e multiplica as tuas obras comigo; troca-as e guerreia comigo."
   },
   {
     "verse": 18,
     "original": "וְלָ֣מָּה מֵ֭רֶחֶם הֹצֵאתָ֑נִי אֶ֝גְוַ֗ע וְעַ֣יִן לֹֽא־תִרְאֵֽנִי׃",
+    "transliteration": "velamah merehem hotse'taniy 'egeva' ve'ayin lo'-tire'eniy.",
     "translation": "E por que me tiraste do ventre materno? Morrerei e os olhos não me verão mais."
   },
   {
     "verse": 19,
     "original": "כַּאֲשֶׁ֣ר לֹא־הָיִ֣יתִי אֶהְיֶ֑ה מִ֝בֶּ֗טֶן לַקֶּ֥בֶר אוּבָֽל׃",
+    "transliteration": "kha'asher lo'-hayiytiy 'eheyeh miveten lakever 'vval.",
     "translation": "Como não fui, serei; do ventre ao túmulo, serei levado."
   },
   {
     "verse": 20,
     "original": "הֲלֹֽא־מְעַ֣ט יָמַ֣י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(יחדל)</span> <span class=\"mam-kq-q\">[וַחֲדָ֑ל]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ישית)</span> <span class=\"mam-kq-q\">[וְשִׁ֥ית]</span></span> מִ֝מֶּ֗נִּי וְאַבְלִ֥יגָה מְּעָֽט׃",
+    "transliteration": "halo'-me'at yamay <span class=\"mam-kq\"><span class=\"mam-kq-k\">(yhdl)</span> <span class=\"mam-kq-q\">[vahadal]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ysyt)</span> <span class=\"mam-kq-q\">[veshiyt]</span></span> mimeniy ve'aveliygah me'at.",
     "translation": "Não são poucos os meus dias? Deixa-me, e eu descansarei um pouco."
   },
   {
     "verse": 21,
     "original": "בְּטֶ֣רֶם אֵ֭לֵךְ וְלֹ֣א אָשׁ֑וּב אֶל־אֶ֖רֶץ חֹ֣שֶׁךְ וְצַלְמָֽוֶת׃",
+    "transliteration": "veterem 'elekhe velo' 'ashvv 'el-'erets hoshekhe vetsalemavet.",
     "translation": "Antes que eu parta e não volte, à terra das trevas e da sombra da morte."
   },
   {
     "verse": 22,
     "original": "אֶ֤רֶץ עֵפָ֨תָה&thinsp;<b>׀</b> כְּמ֥וֹ אֹ֗פֶל צַ֭לְמָוֶת וְלֹ֥א סְדָרִ֗ים וַתֹּ֥פַע כְּמוֹ־אֹֽפֶל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'erets 'efatah&thinsp;<b>|</b> khemvo 'ofel tsalemavet velo' sedariym vatofa' khemvo-'ofel.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Terra obscurecida como o mais profundo ocultamento, sombras e desordem, e sua aparência é como o mais profundo ocultamento."
   }
 ]

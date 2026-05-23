@@ -2,66 +2,79 @@
   {
     "verse": 1,
     "original": "מִזְמ֡וֹר שִׁיר־חֲנֻכַּ֖ת הַבַּ֣יִת לְדָוִֽד׃",
+    "transliteration": "mizemvor shiyr-hanukhat havayit ledavid.",
     "translation": "Cântico de louvor para a dedicação da casa, de Davi."
   },
   {
     "verse": 2,
     "original": "אֲרוֹמִמְךָ֣ יְ֭הֹוָה כִּ֣י דִלִּיתָ֑נִי וְלֹֽא־שִׂמַּ֖חְתָּ אֹיְבַ֣י לִֽי׃",
+    "transliteration": "'arvomimekha yehovah khiy diliytaniy velo'-simaheta 'oyevay liy.",
     "translation": "Exaltarei-te, Senhor, porque me exaltaste e não alegraste os meus inimigos contra mim."
   },
   {
     "verse": 3,
     "original": "יְהֹוָ֥ה אֱלֹהָ֑י שִׁוַּ֥עְתִּי אֵ֝לֶ֗יךָ וַתִּרְפָּאֵֽנִי׃",
+    "transliteration": "yehovah 'elohay shiva'etiy 'eleykha vatirefa'eniy.",
     "translation": "Senhor, meu Deus, a ti clamei, e tu me saraste."
   },
   {
     "verse": 4,
     "original": "יְֽהֹוָ֗ה הֶעֱלִ֣יתָ מִן־שְׁא֣וֹל נַפְשִׁ֑י חִ֝יִּיתַ֗נִי <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מיורדי)</span> <span class=\"mam-kq-q\">[מִיׇּֽרְדִי־]</span></span>בֽוֹר׃",
+    "transliteration": "yehovah he'eliyta min-she'vol nafeshiy hiyiytaniy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(myvrdy)</span> <span class=\"mam-kq-q\">[miyorediy-]</span></span>vvor.",
     "translation": "Senhor, me elevaste da sepultura, vivificaste-me dos abismos do poço."
   },
   {
     "verse": 5,
     "original": "זַמְּר֣וּ לַיהֹוָ֣ה חֲסִידָ֑יו וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃",
+    "transliteration": "zamerv layhovah hasiydayv vehvodv lezekher kodeshvo.",
     "translation": "Cantai ao Senhor os seus fiéis, e deem graças ao seu santo nome."
   },
   {
     "verse": 6,
     "original": "כִּ֤י רֶ֨גַע&thinsp;<b>׀</b> בְּאַפּוֹ֮ חַיִּ֢ים בִּרְצ֫וֹנ֥וֹ בָּ֭עֶרֶב יָלִ֥ין בֶּ֗כִי וְלַבֹּ֥קֶר רִנָּֽה׃",
+    "transliteration": "khiy rega'&thinsp;<b>|</b> ve'afvo hayiym viretsvonvo va'erev yaliyn vekhiy velavoker rinah.",
     "translation": "Pois em seu furor há vida; no seu desejo há luz. À noite se deita chorando, mas pela manhã canta alegremente."
   },
   {
     "verse": 7,
     "original": "וַ֭אֲנִי אָמַ֣רְתִּי בְשַׁלְוִ֑י בַּל־אֶמּ֥וֹט לְעוֹלָֽם׃",
+    "transliteration": "va'aniy 'amaretiy veshaleviy val-'emvot le'volam.",
     "translation": "E eu disse em minha tranquilidade: Não serei abalado para sempre."
   },
   {
     "verse": 8,
     "original": "יְֽהֹוָ֗ה בִּרְצוֹנְךָ֮ הֶעֱמַ֢דְתָּה לְֽהַרְרִ֫י<span class=\"mam-implicit-maqaf\">־</span>עֹ֥ז הִסְתַּ֥רְתָּ פָנֶ֗יךָ הָיִ֥יתִי נִבְהָֽל׃",
+    "transliteration": "yehovah viretsvonekha he'emadetah lehareriy<span class=\"mam-implicit-maqaf\">-</span>'oz hisetareta faneykha hayiytiy nivehal.",
     "translation": "Senhor, por teu desejo eu fui estabelecido como um monte firme; ao ocultares tua face, fiquei aterrorizado."
   },
   {
     "verse": 9,
     "original": "אֵלֶ֣יךָ יְהֹוָ֣ה אֶקְרָ֑א וְאֶל־אֲ֝דֹנָ֗י אֶתְחַנָּֽן׃",
+    "transliteration": "'eleykha yehovah 'ekera' ve'el-'adonay 'etehanan.",
     "translation": "A ti, Senhor, clamo; e a ti, meu Senhor, suplico misericórdia."
   },
   {
     "verse": 10,
     "original": "מַה־בֶּ֥צַע בְּדָמִי֮ בְּרִדְתִּ֢י אֶ֫ל<span class=\"mam-implicit-maqaf\">־</span>שָׁ֥חַת הֲיוֹדְךָ֥ עָפָ֑ר הֲיַגִּ֥יד אֲמִתֶּֽךָ׃",
+    "transliteration": "mah-vetsa' vedamiy veridetiy 'el<span class=\"mam-implicit-maqaf\">-</span>shahat hayvodekha 'afar hayagiyd 'amitekha.",
     "translation": "Qual proveito há em meu sangue, se desço à cova? pó és tu; a tua verdade confessarei."
   },
   {
     "verse": 11,
     "original": "שְׁמַע־יְהֹוָ֥ה וְחׇנֵּ֑נִי יְ֝הֹוָ֗ה הֱֽיֵה־עֹזֵ֥ר לִֽי׃",
+    "transliteration": "shema'-yehovah vehoneniy yehovah heyeh-'ozer liy.",
     "translation": "Ouve-me, Senhor, e compadece-te; ó Senhor, seja tu o meu auxílio."
   },
   {
     "verse": 12,
     "original": "הָפַ֣כְתָּ מִסְפְּדִי֮ לְמָח֢וֹל לִ֥֫י פִּתַּ֥חְתָּ שַׂקִּ֑י וַֽתְּאַזְּרֵ֥נִי שִׂמְחָֽה׃",
+    "transliteration": "hafakheta misefediy lemahvol liy fitaheta sakiy vate'azereniy simehah.",
     "translation": "Transformaste o meu luto em dança; desfizeste o meu manto de cilício e me ceintiste com alegria."
   },
   {
     "verse": 13,
     "original": "לְמַ֤עַן&thinsp;<b>׀</b> יְזַמֶּרְךָ֣ כָ֭בוֹד וְלֹ֣א יִדֹּ֑ם יְהֹוָ֥ה אֱ֝לֹהַ֗י לְעוֹלָ֥ם אוֹדֶֽךָּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lema'an&thinsp;<b>|</b> yezamerekha khavvod velo' yidom yehovah 'elohay le'volam 'vodekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para que te louve a minha glória, e não se cale; ó Jehovah meu Deus, para sempre Te darei graças."
   }
 ]

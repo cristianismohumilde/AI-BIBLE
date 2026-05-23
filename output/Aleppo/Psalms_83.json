@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "שִׁ֖יר מִזְמ֣וֹר לְאָסָֽף׃",
+    "transliteration": "shiyr mizemvor le'asaf.",
     "translation": "Cântico. Salmo de Asafe."
   },
   {
     "verse": 2,
     "original": "אֱלֹהִ֥ים אַל־דֳּמִי־לָ֑ךְ אַל־תֶּחֱרַ֖שׁ וְאַל־תִּשְׁקֹ֣ט אֵֽל׃",
+    "transliteration": "'elohiym 'al-domiy-lakhe 'al-teherash ve'al-tishekot 'el.",
     "translation": "Deus, não te compares a ele; não te calzes e não te aquietes, ó Deus.\n\nCorreção:\nDeus, não te compares a isso; não te calces e não te aquietes, ó Deus."
   },
   {
     "verse": 3,
     "original": "כִּֽי־הִנֵּ֣ה א֭וֹיְבֶיךָ יֶהֱמָי֑וּן וּ֝מְשַׂנְאֶ֗יךָ נָ֣שְׂאוּ רֹֽאשׁ׃",
+    "transliteration": "khiy-hineh 'voyeveykha yehemayvn vmesane'eykha nase'v ro'sh.",
     "translation": "Pois eis que teus inimigos rugem, e os que te odeiam levantam a cabeça."
   },
   {
     "verse": 4,
     "original": "עַֽל־עַ֭מְּךָ יַעֲרִ֣ימוּ ס֑וֹד וְ֝יִתְיָעֲצ֗וּ עַל־צְפוּנֶֽיךָ׃",
+    "transliteration": "'al-'amekha ya'ariymv svod veyiteya'atsv 'al-tsefvneykha.",
     "translation": "Sobre o teu povo eles tramam um plano maligno; e conselham-se sobre os teus esconderijos."
   },
   {
     "verse": 5,
     "original": "אָמְר֗וּ לְ֭כוּ וְנַכְחִידֵ֣ם מִגּ֑וֹי וְלֹֽא־יִזָּכֵ֖ר שֵֽׁם־יִשְׂרָאֵ֣ל עֽוֹד׃",
+    "transliteration": "'amerv lekhv venakhehiydem migvoy velo'-yizakher shem-yisera'el 'vod.",
     "translation": "Disseram: Vamos exterminá-los do povo, e o nome de Israel não mais será lembrado."
   },
   {
     "verse": 6,
     "original": "כִּ֤י נוֹעֲצ֣וּ לֵ֣ב יַחְדָּ֑ו עָ֝לֶ֗יךָ בְּרִ֣ית יִכְרֹֽתוּ׃",
+    "transliteration": "khiy nvo'atsv lev yahedav 'aleykha veriyt yikherotv.",
     "translation": "Pois uniram o seu coração em conjunto, contigo fizeram pacto."
   },
   {
     "verse": 7,
     "original": "אׇהֳלֵ֣י אֱ֭דוֹם וְיִשְׁמְעֵאלִ֗ים מוֹאָ֥ב וְהַגְרִֽים׃",
+    "transliteration": "'oholey 'edvom veyisheme'e'liym mvo'av vehageriym.",
     "translation": "Cortinados de Edom e Ismael, Moabe e os estrangeiros."
   },
   {
     "verse": 8,
     "original": "גְּבָ֣ל וְ֭עַמּוֹן וַעֲמָלֵ֑ק פְּ֝לֶ֗שֶׁת עִם־יֹ֥שְׁבֵי צֽוֹר׃",
+    "transliteration": "geval ve'amvon va'amalek feleshet 'im-yoshevey tsvor.",
     "translation": "Gábl e Amom e Amaleque, Filisteus com os habitantes de Tiro."
   },
   {
     "verse": 9,
     "original": "גַּם־אַ֭שּׁוּר נִלְוָ֣ה עִמָּ֑ם הָ֤יֽוּ<span class=\"mam-implicit-maqaf\">־</span>זְר֖וֹעַ לִבְנֵי־ל֣וֹט סֶֽלָה׃",
+    "transliteration": "gam-'ashvr nilevah 'imam hayv<span class=\"mam-implicit-maqaf\">-</span>zervo'a liveney-lvot selah.",
     "translation": "Assim também, Assur se uniu a eles; foram como um braço para os filhos de Ló. Selá."
   },
   {
     "verse": 10,
     "original": "עֲשֵֽׂה־לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֽׁוֹן׃",
+    "transliteration": "'aseh-lahem khemideyan khesiysera' kheyaviyn venahal kiyshvon.",
     "translation": "Fazei-lhes como a Madian, como Siisrá, como Yabin, junto ao ribeiro de Qison."
   },
   {
     "verse": 11,
     "original": "נִשְׁמְד֥וּ בְֽעֵין־דֹּ֑אר הָ֥יוּ דֹ֝֗מֶן לָאֲדָמָֽה׃",
+    "transliteration": "nishemedv ve'eyn-do'r hayv domen la'adamah.",
     "translation": "Foram destruídos em En-Dor, tornaram-se como a terra."
   },
   {
     "verse": 12,
     "original": "שִׁיתֵ֣מוֹ נְ֭דִיבֵימוֹ כְּעֹרֵ֣ב וְכִזְאֵ֑ב וּֽכְזֶ֥בַח וּ֝כְצַלְמֻנָּ֗ע כׇּל־נְסִיכֵֽימוֹ׃",
+    "transliteration": "shiytemvo nediyveymvo khe'orev vekhize'ev vkhezevah vkhetsalemuna' khol-nesiykheymvo.",
     "translation": "Põe em seu orgulho como gralha e como mocho; como corça e como leão, todos os seus príncipes."
   },
   {
     "verse": 13,
     "original": "אֲשֶׁ֣ר אָ֭מְרוּ נִ֣ירְשָׁה לָּ֑נוּ אֵ֝֗ת נְא֣וֹת אֱלֹהִֽים׃",
+    "transliteration": "'asher 'amerv niyreshah lanv 'et ne'vot 'elohiym.",
     "translation": "Que disseram: Vamos nos apossar delas, as pastagens de Deus."
   },
   {
     "verse": 14,
     "original": "אֱֽלֹהַ֗י שִׁיתֵ֥מוֹ כַגַּלְגַּ֑ל כְּ֝קַ֗שׁ לִפְנֵי־רֽוּחַ׃",
+    "transliteration": "'elohay shiytemvo khagalegal khekash lifeney-rvha.",
     "translation": "Meu Deus, torna-o como o redemoinho, como a palha diante do vento."
   },
   {
     "verse": 15,
     "original": "כְּאֵ֥שׁ תִּבְעַר־יָ֑עַר וּ֝כְלֶהָבָ֗ה תְּלַהֵ֥ט הָרִֽים׃",
+    "transliteration": "khe'esh tive'ar-ya'ar vkhelehavah telahet hariym.",
     "translation": "Como fogo arde a floresta, e como labareda consome os montes."
   },
   {
     "verse": 16,
     "original": "כֵּ֭ן תִּרְדְּפֵ֣ם בְּסַעֲרֶ֑ךָ וּבְסוּפָתְךָ֥ תְבַהֲלֵֽם׃",
+    "transliteration": "khen tiredefem vesa'arekha vvesvfatekha tevahalem.",
     "translation": "Assim os perseguirá tua tempestade, e em teu furacão serão atemorizados."
   },
   {
     "verse": 17,
     "original": "מַלֵּ֣א פְנֵיהֶ֣ם קָל֑וֹן וִיבַקְשׁ֖וּ שִׁמְךָ֣ יְהֹוָֽה׃",
+    "transliteration": "male' feneyhem kalvon viyvakeshv shimekha yehovah.",
     "translation": "Seus rostos estão cheios de vergonha, e buscarão o teu nome, Senhor."
   },
   {
     "verse": 18,
     "original": "יֵבֹ֖שׁוּ וְיִבָּהֲל֥וּ עֲדֵי־עַ֗ד וְֽיַחְפְּר֥וּ וְיֹאבֵֽדוּ׃",
+    "transliteration": "yevoshv veyivahalv 'adey-'ad veyaheferv veyo'vedv.",
     "translation": "Envergonhem-se e tremam perpetuamente; procurem e se percam."
   },
   {
     "verse": 19,
     "original": "וְֽיֵדְע֗וּ כִּי־אַתָּ֬ה שִׁמְךָ֣ יְהֹוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־כׇּל־הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veyede'v khiy-'atah shimekha yehovah levadekha 'eleyvon 'al-khol-ha'arets.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E saberão que tu és o Único cujo nome é Jeová, o Altíssimo sobre toda a terra."
   }
 ]

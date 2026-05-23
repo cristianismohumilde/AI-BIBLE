@@ -2,41 +2,49 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
     "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אִשָּׁה֙ כִּ֣י תַזְרִ֔יעַ וְיָלְדָ֖ה זָכָ֑ר וְטָֽמְאָה֙ שִׁבְעַ֣ת יָמִ֔ים כִּימֵ֛י נִדַּ֥ת דְּוֺתָ֖הּ תִּטְמָֽא׃",
+    "transliteration": "daver 'el-veney yisera'el le'mor 'ishah khiy tazeriy'a veyaledah zakhar vetame'ah shive'at yamiym khiymey nidat devotah titema'.",
     "translation": "Fala aos filhos de Israel, dizendo: Se uma mulher conceber e der à luz um menino, ela ficará impura sete dias, conforme os dias da sua menstruação; será impura."
   },
   {
     "verse": 3,
     "original": "וּבַיּ֖וֹם הַשְּׁמִינִ֑י יִמּ֖וֹל בְּשַׂ֥ר עׇרְלָתֽוֹ׃",
+    "transliteration": "vvayvom hashemiyniy yimvol vesar 'orelatvo.",
     "translation": "E no oitavo dia será circuncidado a carne da sua prepuício."
   },
   {
     "verse": 4,
     "original": "וּשְׁלֹשִׁ֥ים יוֹם֙ וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טׇהֳרָ֑הֿ בְּכׇל־קֹ֣דֶשׁ לֹֽא־תִגָּ֗ע וְאֶל־הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־מְלֹ֖את יְמֵ֥י טׇהֳרָֽהּ׃",
+    "transliteration": "vsheloshiym yvom vsheloshet yamiym teshev videmey tohorah vekhol-kodesh lo'-tiga' ve'el-hamikedash lo' tavo' 'ad-melo't yemey tohorah.",
     "translation": "Trinta dias e três dias, assentar-te-ás sobre os sangues da tua purificação; em todo santo não tocarás, nem ao santuário irás até que se completem os dias da tua purificação."
   },
   {
     "verse": 5,
     "original": "וְאִם־נְקֵבָ֣ה תֵלֵ֔ד וְטָמְאָ֥ה שְׁבֻעַ֖יִם כְּנִדָּתָ֑הּ וְשִׁשִּׁ֥ים יוֹם֙ וְשֵׁ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב עַל־דְּמֵ֥י טׇהֳרָֽהֿ׃",
+    "transliteration": "ve'im-nekevah teled vetame'ah shevu'ayim khenidatah veshishiym yvom vesheshet yamiym teshev 'al-demey tohorah.",
     "translation": "E se ela der à luz uma fêmea, será impura duas semanas como na menstruação, e passará sessenta e seis dias no estado de impureza por causa do fluxo de purificação."
   },
   {
     "verse": 6,
     "original": "וּבִמְלֹ֣את&thinsp;<b>׀</b> יְמֵ֣י טׇהֳרָ֗הּ לְבֵן֮ א֣וֹ לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד אֶל־הַכֹּהֵֽן׃",
+    "transliteration": "vvimelo't&thinsp;<b>|</b> yemey tohorah leven 'vo levat taviy' kheves ven-shenatvo le'olah vven-yvonah 'vo-tor lehata't 'el-fetah 'ohel-mvo'ed 'el-hakhohen.",
     "translation": "E ao completarem os dias da sua purificação, para filho ou filha, trará um cordeiro de um ano como oferta pelo holocausto e uma rolinha ou um pombinho como oferta pelo pecado, à porta da tenda do encontro, ao sacerdote."
   },
   {
     "verse": 7,
     "original": "וְהִקְרִיב֞וֹ לִפְנֵ֤י יְהֹוָה֙ וְכִפֶּ֣ר עָלֶ֔יהָ וְטָהֲרָ֖הֿ מִמְּקֹ֣ר דָּמֶ֑יהָ זֹ֤את תּוֹרַת֙ הַיֹּלֶ֔דֶת לַזָּכָ֖ר א֥וֹ לַנְּקֵבָֽה׃",
+    "transliteration": "vehikeriyvvo lifeney yehovah vekhifer 'aleyha vetaharah mimekor dameyha zo't tvorat hayoledet lazakhar 'vo lanekevah.",
     "translation": "E o apresentará perante o Senhor, e Ele fará expiação por ela; purificar-se-á de seu fluxo sanguíneo. Esta é a lei da que dá à luz, quer seja menino ou menina."
   },
   {
     "verse": 8,
     "original": "וְאִם־לֹ֨א תִמְצָ֣א יָדָהּ֮ דֵּ֣י שֶׂה֒ וְלָקְחָ֣ה שְׁתֵּֽי־תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֶחָ֥ד לְעֹלָ֖ה וְאֶחָ֣ד לְחַטָּ֑את וְכִפֶּ֥ר עָלֶ֛יהָ הַכֹּהֵ֖ן וְטָהֵֽרָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-lo' timetsa' yadah dey seh velakehah shetey-toriym 'vo sheney veney yvonah 'ehad le'olah ve'ehad lehata't vekhifer 'aleyha hakhohen vetaherah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se a sua mão não alcançar suficiente para um cordeiro, então tomará duas rolas ou dois pombinhos, um para holocausto e outro para oferta pelo pecado; e o sacerdote fará expiação por ela e ela será pura."
   }
 ]

@@ -2,201 +2,241 @@
   {
     "verse": 1,
     "original": "וּבְכׇל־זֹ֕את אֲנַ֛חְנוּ כֹּרְתִ֥ים אֲמָנָ֖ה וְכֹתְבִ֑ים וְעַל֙ הֶֽחָת֔וּם שָׂרֵ֥ינוּ לְוִיֵּ֖נוּ כֹּהֲנֵֽינוּ׃",
+    "transliteration": "vvekhol-zo't 'anahenv khoretiym 'amanah vekhoteviym ve'al hehatvm sareynv leviyenv khohaneynv.",
     "translation": "E ainda assim, nós fazemos aliança e escrevemo-la; e sobre o sellado, nossos príncipes, levitas e sacerdotes."
   },
   {
     "verse": 2,
     "original": "וְעַ֖ל הַחֲתוּמִ֑ים נְחֶמְיָ֧ה הַתִּרְשָׁ֛תָא בֶּן־חֲכַלְיָ֖ה וְצִדְקִיָּֽה׃",
+    "transliteration": "ve'al hahatvmiym nehemeyah hatireshata' ven-hakhaleyah vetsidekiyah.",
     "translation": "E sobre os que selaram, Neemias o Tirshata, filho de Queneias e Zedequias."
   },
   {
     "verse": 3,
     "original": "שְׂרָיָ֥ה עֲזַרְיָ֖ה יִרְמְיָֽה׃",
+    "transliteration": "serayah 'azareyah yiremeyah.",
     "translation": "Saraia Azarias Jeremias."
   },
   {
     "verse": 4,
     "original": "פַּשְׁח֥וּר אֲמַרְיָ֖ה מַלְכִּיָּֽה׃",
+    "transliteration": "fashehvr 'amareyah malekhiyah.",
     "translation": "Paschur Amariah Malquias."
   },
   {
     "verse": 5,
     "original": "חַטּ֥וּשׁ שְׁבַנְיָ֖ה מַלּֽוּךְ׃",
+    "transliteration": "hatvsh shevaneyah malvkhe.",
     "translation": "Os anéis de Shebaniah foram exaltados."
   },
   {
     "verse": 6,
     "original": "חָרִ֥ם מְרֵמ֖וֹת עֹֽבַדְיָֽה׃",
+    "transliteration": "harim meremvot 'ovadeyah.",
     "translation": "Arrasarei as elevações de Obadias."
   },
   {
     "verse": 7,
     "original": "דָּנִיֵּ֥אל גִּנְּת֖וֹן בָּרֽוּךְ׃",
+    "transliteration": "daniye'l ginetvon varvkhe.",
     "translation": "Daniel benedito no jardim."
   },
   {
     "verse": 8,
     "original": "מְשֻׁלָּ֥ם אֲבִיָּ֖ה מִיָּמִֽן׃",
+    "transliteration": "meshulam 'aviyah miyamin.",
     "translation": "Salomão, filho de Abias, de Judá."
   },
   {
     "verse": 9,
     "original": "מַֽעַזְיָ֥ה בִלְגַּ֖י שְׁמַֽעְיָ֑ה אֵ֖לֶּה הַכֹּהֲנִֽים׃",
+    "transliteration": "ma'azeyah vilegay shema'eyah 'eleh hakhohaniym.",
     "translation": "Maazias, Bilgai e Shemaia, estes são os sacerdotes."
   },
   {
     "verse": 10,
     "original": "וְֽהַלְוִיִּ֑ם וְיֵשׁ֙וּעַ֙ בֶּן־אֲזַנְיָ֔ה בִּנּ֕וּי מִבְּנֵ֥י חֵנָדָ֖ד קַדְמִיאֵֽל׃",
+    "transliteration": "vehaleviyim veyeshv'a ven-'azaneyah vinvy miveney henadad kademiy'el.",
     "translation": "E os levitas, Jesuá, filho de Azanias, Binui, dos filhos de Henadade, Kadmiel."
   },
   {
     "verse": 11,
     "original": "וַאֲחֵיהֶ֑ם שְׁבַנְיָ֧ה הֽוֹדִיָּ֛ה קְלִיטָ֖א פְּלָאיָ֥ה חָנָֽן׃",
+    "transliteration": "va'aheyhem shevaneyah hvodiyah keliyta' fela'yah hanan.",
     "translation": "E seus irmãos: Shibaniá, Hodijah, Qeletá, Phelayá, Hanan."
   },
   {
     "verse": 12,
     "original": "מִיכָ֥א רְח֖וֹב חֲשַׁבְיָֽה׃",
+    "transliteration": "miykha' rehvov hashaveyah.",
     "translation": "Miqueias de Rocabiahu."
   },
   {
     "verse": 13,
     "original": "זַכּ֥וּר שֵׁרֵֽבְיָ֖ה שְׁבַנְיָֽה׃",
+    "transliteration": "zakhvr shereveyah shevaneyah.",
     "translation": "Lembrai-vos de Serubeus e Shibnias."
   },
   {
     "verse": 14,
     "original": "הוֹדִיָּ֥ה בָנִ֖י בְּנִֽינוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hvodiyah vaniy veniynv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Confessa-me, meu filho, confessa-nos."
   },
   {
     "verse": 15,
     "original": "רָאשֵׁ֖י הָעָ֑ם פַּרְעֹשׁ֙ פַּחַ֣ת מוֹאָ֔ב עֵילָ֥ם זַתּ֖וּא בָּנִֽי׃",
+    "transliteration": "ra'shey ha'am fare'osh fahat mvo'av 'eylam zatv' vaniy.",
     "translation": "Cabeças do povo, Parosh filho de Joab, Pahath-moab, Eila, Zattu filhos."
   },
   {
     "verse": 16,
     "original": "בֻּנִּ֥י עַזְגָּ֖ד בֵּבָֽי׃",
+    "transliteration": "vuniy 'azegad vevay.",
     "translation": "Filho valente, fortaleza dos meus dias."
   },
   {
     "verse": 17,
     "original": "אֲדֹנִיָּ֥ה בִגְוַ֖י עָדִֽין׃",
+    "transliteration": "'adoniyah vigevay 'adiyn.",
     "translation": "Meu senhor, com a força do meu rosto ainda."
   },
   {
     "verse": 18,
     "original": "אָטֵ֥ר חִזְקִיָּ֖ה עַזּֽוּר׃",
+    "transliteration": "'ater hizekiyah 'azvr.",
     "translation": "Esterqueceram-se os auxílios de Ezequias."
   },
   {
     "verse": 19,
     "original": "הוֹדִיָּ֥ה חָשֻׁ֖ם בֵּצָֽי׃",
+    "transliteration": "hvodiyah hashum vetsay.",
     "translation": "Confessa-me no alto dos céus."
   },
   {
     "verse": 20,
     "original": "חָרִ֥יף עֲנָת֖וֹת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(נובי)</span> <span class=\"mam-kq-q\">[נֵיבָֽי]</span></span>׃",
+    "transliteration": "hariyf 'anatvot <span class=\"mam-kq\"><span class=\"mam-kq-k\">(nvvy)</span> <span class=\"mam-kq-q\">[neyvay]</span></span>.",
     "translation": "Acutas são as suas respostas."
   },
   {
     "verse": 21,
     "original": "מַגְפִּיעָ֥שׁ מְשֻׁלָּ֖ם חֵזִֽיר׃",
+    "transliteration": "magefiy'ash meshulam heziyr.",
     "translation": "O porco perfeito será esmagado."
   },
   {
     "verse": 22,
     "original": "מְשֵׁיזַבְאֵ֥ל צָד֖וֹק יַדּֽוּעַ׃",
+    "transliteration": "mesheyzave'el tsadvok yadv'a.",
     "translation": "Mesezabel, sacerdotisa de Zadoque, é conhecida."
   },
   {
     "verse": 23,
     "original": "פְּלַטְיָ֥ה חָנָ֖ן עֲנָיָֽה׃",
+    "transliteration": "felateyah hanan 'anayah.",
     "translation": "Platia, Hanan, Anaiá."
   },
   {
     "verse": 24,
     "original": "הוֹשֵׁ֥עַ חֲנַנְיָ֖ה חַשּֽׁוּב׃",
+    "transliteration": "hvoshe'a hananeyah hashvv.",
     "translation": "Salva Hananias, o importante."
   },
   {
     "verse": 25,
     "original": "הַלּוֹחֵ֥שׁ פִּלְחָ֖א שׁוֹבֵֽק׃",
+    "transliteration": "halvohesh fileha' shvovek.",
     "translation": "O que sussurra, Pilecha, desiste."
   },
   {
     "verse": 26,
     "original": "רְח֥וּם חֲשַׁבְנָ֖ה מַעֲשֵׂיָֽה׃",
+    "transliteration": "rehvm hashavenah ma'aseyah.",
     "translation": "Comiseração consideramos os Seus feitos."
   },
   {
     "verse": 27,
     "original": "וַאֲחִיָּ֥ה חָנָ֖ן עָנָֽן׃",
+    "transliteration": "va'ahiyah hanan 'anan.",
     "translation": "E Achiyah Hanan Anã."
   },
   {
     "verse": 28,
     "original": "מַלּ֥וּךְ חָרִ֖ם בַּעֲנָֽה׃",
+    "transliteration": "malvkhe harim va'anah.",
     "translation": "Reinado de Harém em Aná."
   },
   {
     "verse": 29,
     "original": "וּשְׁאָ֣ר הָעָ֡ם הַכֹּהֲנִ֣ים הַ֠לְוִיִּ֠ם הַשּׁוֹעֲרִ֨ים הַמְשֹׁרְרִ֜ים הַנְּתִינִ֗ים וְֽכׇל־הַנִּבְדָּ֞ל מֵעַמֵּ֤י הָאֲרָצוֹת֙ אֶל־תּוֹרַ֣ת הָאֱלֹהִ֔ים נְשֵׁיהֶ֖ם בְּנֵיהֶ֣ם וּבְנֹתֵיהֶ֑ם כֹּ֖ל יוֹדֵ֥עַ מֵבִֽין׃",
+    "transliteration": "vshe'ar ha'am hakhohaniym haleviyim hashvo'ariym hameshoreriym hanetiyniym vekhol-hanivedal me'amey ha'aratsvot 'el-tvorat ha'elohiym nesheyhem veneyhem vvenoteyhem khol yvode'a meviyn.",
     "translation": "E o restante do povo, os sacerdotes, os levitas, os porteiros, os cantores, os netinins e todos os que se separaram das nações da terra à lei de Deus, suas mulheres, seus filhos e suas filhas, todos aqueles que sabem e entendem."
   },
   {
     "verse": 30,
     "original": "מַחֲזִיקִ֣ים עַל־אֲחֵיהֶם֮ אַדִּירֵיהֶם֒ וּבָאִ֞ים בְּאָלָ֣ה וּבִשְׁבוּעָ֗ה לָלֶ֙כֶת֙ בְּתוֹרַ֣ת הָאֱלֹהִ֔ים אֲשֶׁ֣ר נִתְּנָ֔ה בְּיַ֖ד מֹשֶׁ֣ה עֶֽבֶד־הָֽאֱלֹהִ֑ים וְלִשְׁמ֣וֹר וְלַעֲשׂ֗וֹת אֶת־כׇּל־מִצְוֺת֙ יְהֹוָ֣ה אֲדֹנֵ֔ינוּ וּמִשְׁפָּטָ֖יו וְחֻקָּֽיו׃",
+    "transliteration": "mahaziykiym 'al-'aheyhem 'adiyreyhem vva'iym ve'alah vvishevv'ah lalekhet vetvorat ha'elohiym 'asher nitenah veyad mosheh 'eved-ha'elohiym velishemvor vela'asvot 'et-khol-mitsevot yehovah 'adoneynv vmishefatayv vehukayv.",
     "translation": "Os que se firmam em seus irmãos, seus nobres, e vêm com juramento solene para andar na lei de Deus, que foi dada pela mão de Moisés, servo de Deus, e guardar e cumprir todos os mandamentos do Senhor nosso Deus, e suas leis e seus estatutos."
   },
   {
     "verse": 31,
     "original": "וַאֲשֶׁ֛ר לֹא־נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת־בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ׃",
+    "transliteration": "va'asher lo'-niten venoteynv le'amey ha'arets ve'et-venoteyhem lo' nikah levaneynv.",
     "translation": "E não demos nossas filhas aos povos da terra, e suas filhas não tomamos para nossos filhos."
   },
   {
     "verse": 32,
     "original": "וְעַמֵּ֣י הָאָ֡רֶץ הַֽמְבִיאִים֩ אֶת־הַמַּקָּח֨וֹת וְכׇל־שֶׁ֜בֶר בְּי֤וֹם הַשַּׁבָּת֙ לִמְכּ֔וֹר לֹא־נִקַּ֥ח מֵהֶ֛ם בַּשַּׁבָּ֖ת וּבְי֣וֹם קֹ֑דֶשׁ וְנִטֹּ֛שׁ אֶת־הַשָּׁנָ֥ה הַשְּׁבִיעִ֖ית וּמַשָּׁ֥א כׇל־יָֽד׃",
+    "transliteration": "ve'amey ha'arets hameviy'iym 'et-hamakahvot vekhol-shever veyvom hashavat limekhvor lo'-nikah mehem vashavat vveyvom kodesh venitosh 'et-hashanah hasheviy'iyt vmasha' khol-yad.",
     "translation": "E as nações da terra que trazem suas mercadorias e toda espécie de carga no dia do sábado para vender, não as compraremos nelas no sábado nem em dia santo; e abandonaremos o ano sétimo e a dívida de cada mão."
   },
   {
     "verse": 33,
     "original": "וְהֶעֱמַ֤דְנוּ עָלֵ֙ינוּ֙ מִצְוֺ֔ת לָתֵ֥ת עָלֵ֛ינוּ שְׁלִישִׁ֥ית הַשֶּׁ֖קֶל בַּשָּׁנָ֑ה לַעֲבֹדַ֖ת בֵּ֥ית אֱלֹהֵֽינוּ׃",
+    "transliteration": "vehe'emadenv 'aleynv mitsevot latet 'aleynv sheliyshiyt hashekel vashanah la'avodat veyt 'eloheynv.",
     "translation": "E estabeleceram sobre nós preceitos para nos impor o terço do siclo por ano, pelo serviço da casa do nosso Deus."
   },
   {
     "verse": 34,
     "original": "לְלֶ֣חֶם הַֽמַּעֲרֶ֡כֶת וּמִנְחַ֣ת הַתָּמִ֣יד וּלְעוֹלַ֣ת הַ֠תָּמִ֠יד הַשַּׁבָּת֨וֹת הֶחֳדָשִׁ֜ים לַמּוֹעֲדִ֗ים וְלַקֳּדָשִׁים֙ וְלַ֣חַטָּא֔וֹת לְכַפֵּ֖ר עַל־יִשְׂרָאֵ֑ל וְכֹ֖ל מְלֶ֥אכֶת בֵּית־אֱלֹהֵֽינוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "lelehem hama'arekhet vminehat hatamiyd vle'volat hatamiyd hashavatvot hehodashiym lamvo'adiym velakodashiym velahata'vot lekhafer 'al-yisera'el vekhol mele'khet veyt-'eloheynv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Para o pão da disposição e a oferta contínua, e para a queima contínua dos sábados, das novas luas, das festividades, e para os santuários, e pelos pecados, para fazer expiação por Israel, e toda a obra da casa do nosso Deus."
   },
   {
     "verse": 35,
     "original": "וְהַגּוֹרָל֨וֹת הִפַּ֜לְנוּ עַל־קֻרְבַּ֣ן הָעֵצִ֗ים הַכֹּהֲנִ֣ים הַלְוִיִּם֮ וְהָעָם֒ לְ֠הָבִ֠יא לְבֵ֨ית אֱלֹהֵ֧ינוּ לְבֵית־אֲבֹתֵ֛ינוּ לְעִתִּ֥ים מְזֻמָּנִ֖ים שָׁנָ֣ה בְשָׁנָ֑ה לְבַעֵ֗ר עַל־מִזְבַּח֙ יְהֹוָ֣ה אֱלֹהֵ֔ינוּ כַּכָּת֖וּב בַּתּוֹרָֽה׃",
+    "transliteration": "vehagvoralvot hifalenv 'al-kurevan ha'etsiym hakhohaniym haleviyim veha'am lehaviy' leveyt 'eloheynv leveyt-'avoteynv le'itiym mezumaniym shanah veshanah leva'er 'al-mizevah yehovah 'eloheynv khakhatvv vatvorah.",
     "translation": "E as sortes para o tributo de lenha caíram sobre os sacerdotes, os levitas e o povo, para trazerem a nosso templo divino, à casa dos nossos pais, em tempos designados, ano após ano, para queimarem no altar do Senhor, nosso Deus, conforme está escrito na Lei."
   },
   {
     "verse": 36,
     "original": "וּלְהָבִ֞יא אֶת־בִּכּוּרֵ֣י אַדְמָתֵ֗נוּ וּבִכּוּרֵ֛י כׇּל־פְּרִ֥י כׇל־עֵ֖ץ שָׁנָ֣ה בְשָׁנָ֑ה לְבֵ֖ית יְהֹוָֽה׃",
+    "transliteration": "vlehaviy' 'et-vikhvrey 'adematenv vvikhvrey khol-feriy khol-'ets shanah veshanah leveyt yehovah.",
     "translation": "E para trazer os primogênitos da nossa terra e os primogênitos de todo fruto de toda árvore ano após ano à casa do Senhor."
   },
   {
     "verse": 37,
     "original": "וְאֶת־בְּכֹר֤וֹת בָּנֵ֙ינוּ֙ וּבְהֶמְתֵּ֔נוּ כַּכָּת֖וּב בַּתּוֹרָ֑ה וְאֶת־בְּכוֹרֵ֨י בְקָרֵ֜ינוּ וְצֹאנֵ֗ינוּ לְהָבִיא֙ לְבֵ֣ית אֱלֹהֵ֔ינוּ לַכֹּ֣הֲנִ֔ים הַמְשָׁרְתִ֖ים בְּבֵ֥ית אֱלֹהֵֽינוּ׃",
+    "transliteration": "ve'et-vekhorvot vaneynv vvehemetenv khakhatvv vatvorah ve'et-vekhvorey vekareynv vetso'neynv lehaviy' leveyt 'eloheynv lakhohaniym hamesharetiym veveyt 'eloheynv.",
     "translation": "E as primogenitas de nossos filhos e de nosso gado, conforme está escrito na Torá, e as primogenitas dos nossos bois e ovelhas para trazermos à casa do nosso Deus aos sacerdotes que servem na casa do nosso Deus."
   },
   {
     "verse": 38,
     "original": "וְאֶת־רֵאשִׁ֣ית עֲרִיסֹתֵ֣ינוּ וּ֠תְרוּמֹתֵ֠ינוּ וּפְרִ֨י כׇל־עֵ֜ץ תִּיר֣וֹשׁ וְיִצְהָ֗ר נָבִ֤יא לַכֹּהֲנִים֙ אֶל־לִשְׁכ֣וֹת בֵּית־אֱלֹהֵ֔ינוּ וּמַעְשַׂ֥ר אַדְמָתֵ֖נוּ לַלְוִיִּ֑ם וְהֵם֙ הַלְוִיִּ֔ם הַֽמְעַשְּׂרִ֔ים בְּכֹ֖ל עָרֵ֥י עֲבֹדָתֵֽנוּ׃",
+    "transliteration": "ve'et-re'shiyt 'ariysoteynv vtervmoteynv vferiy khol-'ets tiyrvosh veyitsehar naviy' lakhohaniym 'el-lishekhvot veyt-'eloheynv vma'esar 'adematenv laleviyim vehem haleviyim hame'aseriym vekhol 'arey 'avodatenv.",
     "translation": "E a primeira porção de nossas ofertas e as primícias das mesmas, bem como o fruto de toda árvore, do vinho novo e da azeitona nova, os entregamos aos sacerdotes que habitam nas câmaras do templo do nosso Deus; e a décima parte de nossa terra é dada aos levitas, pois são eles, os levitas, que recebem o dízimo em todas as cidades onde nos dedicamos ao trabalho."
   },
   {
     "verse": 39,
     "original": "וְהָיָ֨ה הַכֹּהֵ֧ן בֶּֽן־אַהֲרֹ֛ן עִם־הַלְוִיִּ֖ם בַּעְשֵׂ֣ר הַלְוִיִּ֑ם וְהַלְוִיִּ֞ם יַעֲל֨וּ אֶת־מַעֲשַׂ֤ר הַֽמַּעֲשֵׂר֙ לְבֵ֣ית אֱלֹהֵ֔ינוּ אֶל־הַלְּשָׁכ֖וֹת לְבֵ֥ית הָאוֹצָֽר׃",
+    "transliteration": "vehayah hakhohen ven-'aharon 'im-haleviyim va'eser haleviyim vehaleviyim ya'alv 'et-ma'asar hama'aser leveyt 'eloheynv 'el-haleshakhvot leveyt ha'votsar.",
     "translation": "E o sacerdote, filho de Arão, estará com os levitas; por cada dez levitas, um será encarregado, e os levitas levarão a décima da décima ao templo do nosso Deus, para as câmaras do tesouro."
   },
   {
     "verse": 40,
     "original": "כִּ֣י אֶל־הַ֠לְּשָׁכ֠וֹת יָבִ֨יאוּ בְנֵי־יִשְׂרָאֵ֜ל וּבְנֵ֣י הַלֵּוִ֗י אֶת־תְּרוּמַ֣ת הַדָּגָן֮ הַתִּיר֣וֹשׁ וְהַיִּצְהָר֒ וְשָׁם֙ כְּלֵ֣י הַמִּקְדָּ֔שׁ וְהַכֹּהֲנִים֙ הַמְשָׁ֣רְתִ֔ים וְהַשּׁוֹעֲרִ֖ים וְהַמְשֹׁרְרִ֑ים וְלֹ֥א נַעֲזֹ֖ב אֶת־בֵּ֥ית אֱלֹהֵֽינוּ׃",
+    "transliteration": "khiy 'el-haleshakhvot yaviy'v veney-yisera'el vveney haleviy 'et-tervmat hadagan hatiyrvosh vehayitsehar vesham kheley hamikedash vehakhohaniym hamesharetiym vehashvo'ariym vehameshoreriym velo' na'azov 'et-veyt 'eloheynv.",
     "translation": "Porque às câmaras os filhos de Israel e os filhos de Levi trarão a oferta do grão, o vinho, o óleo e a romã; e ali estarão os vasos do santuário, e os sacerdotes que ministram, e os porteiros e os cantores; e não deixaremos a casa do nosso Deus."
   }
 ]

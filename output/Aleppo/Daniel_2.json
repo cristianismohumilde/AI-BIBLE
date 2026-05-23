@@ -2,246 +2,295 @@
   {
     "verse": 1,
     "original": "וּבִשְׁנַ֣ת שְׁתַּ֗יִם לְמַלְכוּת֙ נְבֻֽכַדְנֶצַּ֔ר חָלַ֥ם נְבֻֽכַדְנֶצַּ֖ר חֲלֹמ֑וֹת וַתִּתְפָּ֣עֶם רוּח֔וֹ וּשְׁנָת֖וֹ נִהְיְתָ֥ה עָלָֽיו׃",
+    "transliteration": "vvishenat shetayim lemalekhvt nevukhadenetsar halam nevukhadenetsar halomvot vatitefa'em rvhvo vshenatvo niheyetah 'alayv.",
     "translation": "E no segundo ano do reinado de Nabucodonosor, sonhou Nabucodonosor sonhos; perturbou-se seu espírito, e o sono se lhe tornou amargo."
   },
   {
     "verse": 2,
     "original": "וַיֹּ֣אמֶר הַ֠מֶּ֠לֶךְ לִקְרֹ֨א לַֽחַרְטֻמִּ֜ים וְלָֽאַשָּׁפִ֗ים וְלַֽמְכַשְּׁפִים֙ וְלַכַּשְׂדִּ֔ים לְהַגִּ֥יד לַמֶּ֖לֶךְ חֲלֹמֹתָ֑יו וַיָּבֹ֕אוּ וַיַּֽעַמְד֖וּ לִפְנֵ֥י הַמֶּֽלֶךְ׃",
+    "transliteration": "vayo'mer hamelekhe likero' laharetumiym vela'ashafiym velamekhashefiym velakhasediym lehagiyd lamelekhe halomotayv vayavo'v vaya'amedv lifeney hamelekhe.",
     "translation": "E o rei ordenou que se chamasse os encantadores, os adivinhos e os magos caldeus para interpretarem-lhe seus sonhos. E eles vieram e se postaram diante do rei."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֧אמֶר לָהֶ֛ם הַמֶּ֖לֶךְ חֲל֣וֹם חָלָ֑מְתִּי וַתִּפָּ֣עֶם רוּחִ֔י לָדַ֖עַת אֶֽת־הַחֲלֽוֹם׃",
+    "transliteration": "vayo'mer lahem hamelekhe halvom halametiy vatifa'em rvhiy lada'at 'et-hahalvom.",
     "translation": "E disse-lhes o rei: Tive um sonho, e meu espírito se perturbou para saber o sonho."
   },
   {
     "verse": 4,
     "original": "וַֽיְדַבְּר֧וּ הַכַּשְׂדִּ֛ים לַמֶּ֖לֶךְ אֲרָמִ֑ית מַלְכָּא֙ לְעָלְמִ֣ין חֱיִ֔י אֱמַ֥ר חֶלְמָ֛א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לעבדיך)</span> <span class=\"mam-kq-q\">[לְעַבְדָ֖ךְ]</span></span> וּפִשְׁרָ֥א נְחַוֵּֽא׃",
+    "transliteration": "vayedaverv hakhasediym lamelekhe 'aramiyt malekha' le'alemiyn heyiy 'emar helema' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(l'vdykh)</span> <span class=\"mam-kq-q\">[le'avedakhe]</span></span> vfishera' nehave'.",
     "translation": "Falaram os caldeus ao rei em aramaico: \"Ó rei dos séculos, vive para sempre; diz o sonho a teu servo e revela-lhe sua interpretação.\""
   },
   {
     "verse": 5,
     "original": "עָנֵ֤ה מַלְכָּא֙ וְאָמַ֣ר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לכשדיא)</span> <span class=\"mam-kq-q\">[לְכַשְׂדָּאֵ֔י]</span></span> מִלְּתָ֖ה מִנִּ֣י אַזְדָּ֑א הֵ֣ן לָ֤א תְהֽוֹדְעוּנַּ֙נִי֙ חֶלְמָ֣א וּפִשְׁרֵ֔הּ הַדָּמִין֙ תִּתְעַבְד֔וּן וּבָתֵּיכ֖וֹן נְוָלִ֥י יִתְּשָׂמֽוּן׃",
+    "transliteration": "'aneh malekha' ve'amar <span class=\"mam-kq\"><span class=\"mam-kq-k\">(lkhsdy')</span> <span class=\"mam-kq-q\">[lekhaseda'ey]</span></span> miletah miniy 'azeda' hen la' tehvode'vnaniy helema' vfishereh hadamiyn tite'avedvn vvateykhvon nevaliy yitesamvn.",
     "translation": "Respondeu o rei e disse aos caldeus: Palavra do rei! Se não me fizerdes saber a visão e sua interpretação, sereis despedaçados e vossas casas serão transformadas em ruínas."
   },
   {
     "verse": 6,
     "original": "וְהֵ֨ן חֶלְמָ֤א וּפִשְׁרֵהּ֙ תְּֽהַחֲוֺ֔ן מַתְּנָ֤ן וּנְבִזְבָּה֙ וִיקָ֣ר שַׂגִּ֔יא תְּקַבְּל֖וּן מִן־קֳדָמָ֑י לָהֵ֕ן חֶלְמָ֥א וּפִשְׁרֵ֖הּ הַחֲוֺֽנִי׃",
+    "transliteration": "vehen helema' vfishereh tehahavon matenan vnevizevah viykar sagiy' tekavelvn min-kodamay lahen helema' vfishereh hahavoniy.",
     "translation": ""
   },
   {
     "verse": 7,
     "original": "עֲנ֥וֹ תִנְיָנ֖וּת וְאָמְרִ֑ין מַלְכָּ֕א חֶלְמָ֛א יֵאמַ֥ר לְעַבְד֖וֹהִי וּפִשְׁרָ֥ה נְהַחֲוֵֽה׃",
+    "transliteration": "'anvo tineyanvt ve'ameriyn malekha' helema' ye'mar le'avedvohiy vfisherah nehahaveh.",
     "translation": "Humildade e dirão: Rei, o sonho foi revelado ao teu servo, e sua interpretação daremos."
   },
   {
     "verse": 8,
     "original": "עָנֵ֤ה מַלְכָּא֙ וְאָמַ֔ר מִן־יַצִּיב֙ יָדַ֣ע אֲנָ֔ה דִּ֥י עִדָּנָ֖א אַנְתּ֣וּן זָבְנִ֑ין כׇּל־קֳבֵל֙ דִּ֣י חֲזֵית֔וֹן דִּ֥י אַזְדָּ֖א מִנִּ֥י מִלְּתָֽא׃",
+    "transliteration": "'aneh malekha' ve'amar min-yatsiyv yada' 'anah diy 'idana' 'anetvn zaveniyn khol-kovel diy hazeytvon diy 'azeda' miniy mileta'.",
     "translation": "Responde o rei e diz: \"Quem é aquele que sabe de onde provém, que me informará sobre a visão que tivestes, visto que vosso sonho se apartou de vós?\""
   },
   {
     "verse": 9,
     "original": "דִּ֣י הֵן־חֶלְמָא֩ לָ֨א תְהֽוֹדְעֻנַּ֜נִי חֲדָה־הִ֣יא דָֽתְכ֗וֹן וּמִלָּ֨ה כִדְבָ֤ה וּשְׁחִיתָה֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הזמנתון)</span> <span class=\"mam-kq-q\">[הִזְדְּמִנְתּוּן֙]</span></span> לְמֵאמַ֣ר קׇֽדָמַ֔י עַ֛ד דִּ֥י עִדָּנָ֖א יִשְׁתַּנֵּ֑א לָהֵ֗ן חֶלְמָא֙ אֱמַ֣רוּ לִ֔י וְֽאִנְדַּ֕ע דִּ֥י פִשְׁרֵ֖הּ תְּהַחֲוֻנַּֽנִי׃",
+    "transliteration": "diy hen-helema' la' tehvode'unaniy hadah-hiy' datekhvon vmilah khidevah vshehiytah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hzmntvn)</span> <span class=\"mam-kq-q\">[hizedeminetvn]</span></span> leme'mar kodamay 'ad diy 'idana' yishetane' lahen helema' 'emarv liy ve'ineda' diy fishereh tehahavunaniy.",
     "translation": "Pois, se me revelassem um sonho, sua doutrina seria uma só, e falaríam comigo em linguagem corrupta e confusa, até que o tempo mudasse. Por isso, dizei-me o sonho, para que eu saiba interpretá-lo."
   },
   {
     "verse": 10,
     "original": "עֲנ֨וֹ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(כשדיא)</span> <span class=\"mam-kq-q\">[כַשְׂדָּאֵ֤י]</span></span> קֳדָם־מַלְכָּא֙ וְאָ֣מְרִ֔ין לָֽא־אִיתַ֤י אֱנָשׁ֙ עַל־יַבֶּשְׁתָּ֔א דִּ֚י מִלַּ֣ת מַלְכָּ֔א יוּכַ֖ל לְהַחֲוָיָ֑ה כׇּל־קֳבֵ֗ל דִּ֚י כׇּל־מֶ֙לֶךְ֙ רַ֣ב וְשַׁלִּ֔יט מִלָּ֤ה כִדְנָה֙ לָ֣א שְׁאֵ֔ל לְכׇל־חַרְטֹ֖ם וְאָשַׁ֥ף וְכַשְׂדָּֽי׃",
+    "transliteration": "'anvo <span class=\"mam-kq\"><span class=\"mam-kq-k\">(khsdy')</span> <span class=\"mam-kq-q\">[khaseda'ey]</span></span> kodam-malekha' ve'ameriyn la'-'iytay 'enash 'al-yavesheta' diy milat malekha' yvkhal lehahavayah khol-kovel diy khol-melekhe rav veshaliyt milah khidenah la' she'el lekhol-haretom ve'ashaf vekhaseday.",
     "translation": "Os caldeus se apresentaram diante do rei e disseram: Não há homem capaz de revelar ao rei o significado da interpretação, pois a palavra do rei excede toda consulta à qual nenhum grande e poderoso monarca recorreria a todos os astrólogos, encantadores e caldeus."
   },
   {
     "verse": 11,
     "original": "וּמִלְּתָ֨א דִֽי־מַלְכָּ֤ה שָׁאֵל֙ יַקִּירָ֔ה וְאׇחֳרָן֙ לָ֣א אִיתַ֔י דִּ֥י יְחַוִּנַּ֖הּ קֳדָ֣ם מַלְכָּ֑א לָהֵ֣ן אֱלָהִ֔ין דִּ֚י מְדָ֣רְה֔וֹן עִם־בִּשְׂרָ֖א לָ֥א אִיתֽוֹהִי׃",
+    "transliteration": "vmileta' diy-malekhah sha'el yakiyrah ve'ohoran la' 'iytay diy yehavinah kodam malekha' lahen 'elahiyn diy medarehvon 'im-visera' la' 'iytvohiy.",
     "translation": "E a palavra que a rainha perguntou era valiosa, e ninguém mais havia que pudesse interpretá-la diante do rei; portanto, os deuses em cuja presença ela se inclinava não puderam revelá-la."
   },
   {
     "verse": 12,
     "original": "כׇּל־קֳבֵ֣ל דְּנָ֔ה מַלְכָּ֕א בְּנַ֖ס וּקְצַ֣ף שַׂגִּ֑יא וַאֲמַר֙ לְה֣וֹבָדָ֔ה לְכֹ֖ל חַכִּימֵ֥י בָבֶֽל׃",
+    "transliteration": "khol-kovel denah malekha' venas vketsaf sagiy' va'amar lehvovadah lekhol hakhiymey vavel.",
     "translation": "Toda a sabedoria do rei foi tomada, e seu rosto se encheu de grande ira; disse então aos que buscavam, a todos os sábios da Babilônia."
   },
   {
     "verse": 13,
     "original": "וְדָתָ֣א נֶפְקַ֔ת וְחַכִּֽימַיָּ֖א מִֽתְקַטְּלִ֑ין וּבְע֛וֹ דָּנִיֵּ֥אל וְחַבְר֖וֹהִי לְהִתְקְטָלָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vedata' nefekat vehakhiymaya' mitekateliyn vve'vo daniye'l vehavervohiy lehiteketalah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E a lei foi quebrada, e os sábios estavam em contenda. E então Daniel e seus companheiros se prepararam para serem mortos."
   },
   {
     "verse": 14,
     "original": "בֵּאדַ֣יִן דָּנִיֵּ֗אל הֲתִיב֙ עֵטָ֣א וּטְעֵ֔ם לְאַרְי֕וֹךְ רַב־טַבָּחַיָּ֖א דִּ֣י מַלְכָּ֑א דִּ֚י נְפַ֣ק לְקַטָּלָ֔ה לְחַכִּימֵ֖י בָּבֶֽל׃",
+    "transliteration": "ve'dayin daniye'l hatiyv 'eta' vte'em le'areyvokhe rav-tavahaya' diy malekha' diy nefak lekatalah lehakhiymey vavel.",
     "translation": "Então Daniel deliberou com cuidado, para Arioch, chefe dos guardas do rei, que saiu para matar os sábios da Babilônia."
   },
   {
     "verse": 15,
     "original": "עָנֵ֣ה וְאָמַ֗ר לְאַרְיוֹךְ֙ שַׁלִּיטָ֣א דִֽי־מַלְכָּ֔א עַל־מָ֥ה דָתָ֛א מְהַחְצְפָ֖ה מִן־קֳדָ֣ם מַלְכָּ֑א אֱדַ֣יִן מִלְּתָ֔א הוֹדַ֥ע אַרְי֖וֹךְ לְדָנִיֵּֽאל׃",
+    "transliteration": "'aneh ve'amar le'areyvokhe shaliyta' diy-malekha' 'al-mah data' mehahetsefah min-kodam malekha' 'edayin mileta' hvoda' 'areyvokhe ledaniye'l.",
     "translation": "Respondeu e disse a Aríoco, chefe do rei: \"Por que a lei está apressando-se diante do rei? Naquele momento, Daniel foi informado por Aríoco.\""
   },
   {
     "verse": 16,
     "original": "וְדָ֣נִיֵּ֔אל עַ֖ל וּבְעָ֣ה מִן־מַלְכָּ֑א דִּ֚י זְמָ֣ן יִנְתִּן־לֵ֔הּ וּפִשְׁרָ֖א לְהַֽחֲוָיָ֥ה לְמַלְכָּֽא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vedaniye'l 'al vve'ah min-malekha' diy zeman yinetin-leh vfishera' lehahavayah lemalekha'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Daniel, ao ser consultado pelo rei, recebeu tempo para lhe dar a interpretação e anunciar o significado ao rei."
   },
   {
     "verse": 17,
     "original": "אֱדַ֥יִן דָּנִיֵּ֖אל לְבַיְתֵ֣הּ אֲזַ֑ל וְ֠לַחֲנַנְיָ֠ה מִֽישָׁאֵ֧ל וַעֲזַרְיָ֛ה חַבְר֖וֹהִי מִלְּתָ֥א הוֹדַֽע׃",
+    "transliteration": "'edayin daniye'l levayeteh 'azal velahananeyah miysha'el va'azareyah havervohiy mileta' hvoda'.",
     "translation": "Então Daniel para sua casa se foi, e Hananyah, Mishael e Azariah seus companheiros a coisa revelaram."
   },
   {
     "verse": 18,
     "original": "וְרַחֲמִ֗ין לְמִבְעֵא֙ מִן־קֳדָם֙ אֱלָ֣הּ שְׁמַיָּ֔א עַל־רָזָ֖א דְּנָ֑ה דִּ֣י לָ֤א יְהֽוֹבְדוּן֙ דָּנִיֵּ֣אל וְחַבְר֔וֹהִי עִם־שְׁאָ֖ר חַכִּימֵ֥י בָבֶֽל׃",
+    "transliteration": "verahamiyn lemive'e' min-kodam 'elah shemaya' 'al-raza' denah diy la' yehvovedvn daniye'l vehavervohiy 'im-she'ar hakhiymey vavel.",
     "translation": "E misericordioso, peça diante do Deus dos céus sobre o mistério deste, que Daniel e seus companheiros não foram como os demais sábios da Babilônia."
   },
   {
     "verse": 19,
     "original": "אֱדַ֗יִן לְדָנִיֵּ֛אל בְּחֶזְוָ֥א דִֽי־לֵילְיָ֖א רָזָ֣א גְלִ֑י אֱדַ֙יִן֙ דָּֽנִיֵּ֔אל בָּרִ֖ךְ לֶאֱלָ֥הּ שְׁמַיָּֽא׃",
+    "transliteration": "'edayin ledaniye'l vehezeva' diy-leyleya' raza' geliy 'edayin daniye'l varikhe le'elah shemaya'.",
     "translation": "Então foi revelado a Daniel em uma visão noturna; então Daniel bendisse ao Deus dos céus."
   },
   {
     "verse": 20,
     "original": "עָנֵ֤ה דָֽנִיֵּאל֙ וְאָמַ֔ר לֶהֱוֵ֨א שְׁמֵ֤הּ דִּֽי־אֱלָהָא֙ מְבָרַ֔ךְ מִן־עָלְמָ֖א וְעַ֣ד עָלְמָ֑א דִּ֧י חׇכְמְתָ֛א וּגְבוּרְתָ֖א דִּ֥י לֵֽהּ־הִֽיא׃",
+    "transliteration": "'aneh daniye'l ve'amar leheve' shemeh diy-'elaha' mevarakhe min-'alema' ve'ad 'alema' diy hokhemeta' vgevvreta' diy leh-hiy'.",
     "translation": "Respondeu Daniel e disse: Seja engrandecido o nome de Deus, que vive desde a eternidade e até a eternidade, pois a sabedoria e a força são dele."
   },
   {
     "verse": 21,
     "original": "וְ֠ה֠וּא מְהַשְׁנֵ֤א עִדָּנַיָּא֙ וְזִמְנַיָּ֔א מְהַעְדֵּ֥ה מַלְכִ֖ין וּמְהָקֵ֣ים מַלְכִ֑ין יָהֵ֤ב חׇכְמְתָא֙ לְחַכִּימִ֔ין וּמַנְדְּעָ֖א לְיָדְעֵ֥י בִינָֽה׃",
+    "transliteration": "vehv' mehashene' 'idanaya' vezimenaya' meha'edeh malekhiyn vmehakeym malekhiyn yahev hokhemeta' lehakhiymiyn vmanede'a' leyade'ey viynah.",
     "translation": "E ele muda as estações e os tempos, depõe reis e erige reis, dá sabedoria aos sábios e conhecimento aos que entendem."
   },
   {
     "verse": 22,
     "original": "ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ונהירא)</span> <span class=\"mam-kq-q\">[וּנְהוֹרָ֖א]</span></span> עִמֵּ֥הּ שְׁרֵֽא׃",
+    "transliteration": "hv' gale' 'amiykata' vmesaterata' yada' mah vahashvokha' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnhyr')</span> <span class=\"mam-kq-q\">[vnehvora']</span></span> 'imeh shere'.",
     "translation": "Ele revela as profundezas e os segredos, conhece o que está nas trevas e na luz com ele."
   },
   {
     "verse": 23,
     "original": "לָ֣ךְ&thinsp;<b>׀</b> אֱלָ֣הּ אֲבָהָתִ֗י מְהוֹדֵ֤א וּמְשַׁבַּח֙ אֲנָ֔ה דִּ֧י חׇכְמְתָ֛א וּגְבוּרְתָ֖א יְהַ֣בְתְּ לִ֑י וּכְעַ֤ן הֽוֹדַעְתַּ֙נִי֙ דִּֽי־בְעֵ֣ינָא מִנָּ֔ךְ דִּֽי־מִלַּ֥ת מַלְכָּ֖א הוֹדַעְתֶּֽנָא׃",
+    "transliteration": "lakhe&thinsp;<b>|</b> 'elah 'avahatiy mehvode' vmeshavah 'anah diy hokhemeta' vgevvreta' yehavete liy vkhe'an hvoda'etaniy diy-ve'eyna' minakhe diy-milat malekha' hvoda'etena'.",
     "translation": "A ti, ó Deus, meu Pai, dou graças e louvores, pois concedeste-me sabedoria e poder, e me revelaste que tudo vem de ti, e que a interpretação do rei me foi dada por ti."
   },
   {
     "verse": 24,
     "original": "כׇּל־קֳבֵ֣ל דְּנָ֗ה דָּֽנִיֵּאל֙ עַ֣ל עַל־אַרְי֔וֹךְ דִּ֚י מַנִּ֣י מַלְכָּ֔א לְהוֹבָדָ֖ה לְחַכִּימֵ֣י בָבֶ֑ל אֲזַ֣ל&thinsp;<b>׀</b> וְכֵ֣ן אֲמַר־לֵ֗הּ לְחַכִּימֵ֤י בָבֶל֙ אַל־תְּהוֹבֵ֔ד הַעֵ֙לְנִי֙ קֳדָ֣ם מַלְכָּ֔א וּפִשְׁרָ֖א לְמַלְכָּ֥א אֲחַוֵּֽא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khol-kovel denah daniye'l 'al 'al-'areyvokhe diy maniy malekha' lehvovadah lehakhiymey vavel 'azal&thinsp;<b>|</b> vekhen 'amar-leh lehakhiymey vavel 'al-tehvoved ha'eleniy kodam malekha' vfishera' lemalekha' 'ahave'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Todas as palavras que Daniel recebeu sobre Ariaque, que o rei nomeou para levar os sábios da Babilônia a ele, foram assim: foi e disse aos sábios da Babilônia: \"Não sejam levados; trarei eu mesmo à presença do rei a interpretação para ele.\""
   },
   {
     "verse": 25,
     "original": "אֱדַ֤יִן אַרְיוֹךְ֙ בְּהִתְבְּהָלָ֔ה הַנְעֵ֥ל לְדָנִיֵּ֖אל קֳדָ֣ם מַלְכָּ֑א וְכֵ֣ן אֲמַר־לֵ֗הּ דִּֽי־הַשְׁכַּ֤חַת גְּבַר֙ מִן־בְּנֵ֤י גָֽלוּתָא֙ דִּ֣י יְה֔וּד דִּ֥י פִשְׁרָ֖א לְמַלְכָּ֥א יְהוֹדַֽע׃",
+    "transliteration": "'edayin 'areyvokhe vehitevehalah hane'el ledaniye'l kodam malekha' vekhen 'amar-leh diy-hashekhahat gevar min-veney galvta' diy yehvd diy fishera' lemalekha' yehvoda'.",
     "translation": "Então, Aríoco, em sua perplexidade, trouxe Daniel diante do rei e disse assim: \"Encontrei um homem entre os exilados de Judá que pode interpretar o significado para o rei.\""
   },
   {
     "verse": 26,
     "original": "עָנֵ֤ה מַלְכָּא֙ וְאָמַ֣ר לְדָנִיֵּ֔אל דִּ֥י שְׁמֵ֖הּ בֵּלְטְשַׁאצַּ֑ר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(האיתיך)</span> <span class=\"mam-kq-q\">[הַֽאִיתָ֣ךְ]</span></span> כָּהֵ֗ל לְהוֹדָעֻתַ֛נִי חֶלְמָ֥א דִֽי־חֲזֵ֖ית וּפִשְׁרֵֽהּ׃",
+    "transliteration": "'aneh malekha' ve'amar ledaniye'l diy shemeh veletesha'tsar <span class=\"mam-kq\"><span class=\"mam-kq-k\">(h'ytykh)</span> <span class=\"mam-kq-q\">[ha'iytakhe]</span></span> khahel lehvoda'utaniy helema' diy-hazeyt vfishereh.",
     "translation": "Respondeu o rei e disse a Daniel, cujo nome era Beltessazar: Estás aqui para anunciar-me a visão que tive e sua interpretação."
   },
   {
     "verse": 27,
     "original": "עָנֵ֧ה דָנִיֵּ֛אל קֳדָ֥ם מַלְכָּ֖א וְאָמַ֑ר רָזָא֙ דִּֽי־מַלְכָּ֣א שָׁאֵ֔ל לָ֧א חַכִּימִ֣ין אָֽשְׁפִ֗ין חַרְטֻמִּין֙ גָּזְרִ֔ין יָכְלִ֖ין לְהַֽחֲוָיָ֥ה לְמַלְכָּֽא׃",
+    "transliteration": "'aneh daniye'l kodam malekha' ve'amar raza' diy-malekha' sha'el la' hakhiymiyn 'ashefiyn haretumiyn gazeriyn yakheliyn lehahavayah lemalekha'.",
     "translation": "Respondeu Daniel ao rei e disse: O segredo que o rei perguntou não pode ser revelado aos sábios, aos encantadores, aos adivinhos ou aos astrólogos."
   },
   {
     "verse": 28,
     "original": "בְּרַ֡ם אִיתַ֞י אֱלָ֤הּ בִּשְׁמַיָּא֙ גָּלֵ֣א רָזִ֔ין וְהוֹדַ֗ע לְמַלְכָּא֙ נְבֽוּכַדְנֶצַּ֔ר מָ֛ה דִּ֥י לֶהֱוֵ֖א בְּאַחֲרִ֣ית יוֹמַיָּ֑א חֶלְמָ֨ךְ וְחֶזְוֵ֥י רֵאשָׁ֛ךְ עַֽל־מִשְׁכְּבָ֖ךְ דְּנָ֥ה הֽוּא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veram 'iytay 'elah vishemaya' gale' raziyn vehvoda' lemalekha' nevvkhadenetsar mah diy leheve' ve'ahariyt yvomaya' helemakhe vehezevey re'shakhe 'al-mishekhevakhe denah hv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Contudo, há um Deus nos céus que revela segredos e fez conhecer ao rei Nabucodonosor o que haverá de acontecer nos últimos dias. Eis teu sonho e as visões de tua cabeça ao repousar em tua cama; isto é."
   },
   {
     "verse": 29,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(אנתה)</span> <span class=\"mam-kq-q\">[אַ֣נְתְּ]</span></span> מַלְכָּ֗א רַעְיוֹנָךְ֙ עַל־מִשְׁכְּבָ֣ךְ סְלִ֔קוּ מָ֛ה דִּ֥י לֶהֱוֵ֖א אַחֲרֵ֣י דְנָ֑ה וְגָלֵ֧א רָזַיָּ֛א הוֹדְעָ֖ךְ מָה־דִ֥י לֶהֱוֵֽא׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">('nth)</span> <span class=\"mam-kq-q\">['anete]</span></span> malekha' ra'eyvonakhe 'al-mishekhevakhe selikv mah diy leheve' 'aharey denah vegale' razaya' hvode'akhe mah-diy leheve'.",
     "translation": "Ó rei, a tua visão sobre o teu leito foi desviada para revelar-te o que há de acontecer depois e para fazer conhecidos os segredos e anunciar o que há de vir."
   },
   {
     "verse": 30,
     "original": "וַאֲנָ֗ה לָ֤א בְחׇכְמָה֙ דִּֽי־אִיתַ֥י בִּי֙ מִן־כׇּל־חַיַּיָּ֔א רָזָ֥א דְנָ֖ה גֱּלִ֣י לִ֑י לָהֵ֗ן עַל־דִּבְרַת֙ דִּ֤י פִשְׁרָא֙ לְמַלְכָּ֣א יְהוֹדְע֔וּן וְרַעְיוֹנֵ֥י לִבְבָ֖ךְ תִּנְדַּֽע׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'anah la' vehokhemah diy-'iytay viy min-khol-hayaya' raza' denah geliy liy lahen 'al-diverat diy fishera' lemalekha' yehvode'vn vera'eyvoney livevakhe tineda'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E eis que não há sabedoria em mim mais do que a de todos os viventes; revelai-me pois este segredo, para que eu saiba a interpretação que se dê ao rei, e conheça as intenções dos teus pensamentos."
   },
   {
     "verse": 31,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(אנתה)</span> <span class=\"mam-kq-q\">[אַ֣נְתְּ]</span></span> מַלְכָּ֗א חָזֵ֤ה הֲוַ֙יְתָ֙ וַאֲל֨וּ צְלֵ֥ם חַד֙ שַׂגִּ֔יא צַלְמָ֨א דִכֵּ֥ן רַ֛ב וְזִיוֵ֥הּ יַתִּ֖יר קָאֵ֣ם לְקׇבְלָ֑ךְ וְרֵוֵ֖הּ דְּחִֽיל׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">('nth)</span> <span class=\"mam-kq-q\">['anete]</span></span> malekha' hazeh havayeta va'alv tselem had sagiy' tsalema' dikhen rav veziyveh yatiyr ka'em lekovelakhe vereveh dehiyl.",
     "translation": "Ó rei, tu tiveste visões e diante de ti se ergueu uma imagem de grandeza, cuja aparência era grandiosa e sua forma radiante, com um esplendor extraordinário."
   },
   {
     "verse": 32,
     "original": "ה֣וּא צַלְמָ֗א רֵאשֵׁהּ֙ דִּֽי־דְהַ֣ב טָ֔ב חֲד֥וֹהִי וּדְרָע֖וֹהִי דִּ֣י כְסַ֑ף מְע֥וֹהִי וְיַרְכָתֵ֖הּ דִּ֥י נְחָֽשׁ׃",
+    "transliteration": "hv' tsalema' re'sheh diy-dehav tav hadvohiy vdera'vohiy diy khesaf me'vohiy veyarekhateh diy nehash.",
     "translation": "Ele é uma estátua cuja cabeça era de ouro puro, seu peito e seus braços eram de prata, sua cintura e suas coxas de bronze."
   },
   {
     "verse": 33,
     "original": "שָׁק֖וֹהִי דִּ֣י פַרְזֶ֑ל רַגְל֕וֹהִי <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מנהון)</span> <span class=\"mam-kq-q\">[מִנְּהֵין֙]</span></span> דִּ֣י פַרְזֶ֔ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ומנהון)</span> <span class=\"mam-kq-q\">[וּמִנְּהֵ֖ין]</span></span> דִּ֥י חֲסַֽף׃",
+    "transliteration": "shakvohiy diy farezel ragelvohiy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mnhvn)</span> <span class=\"mam-kq-q\">[mineheyn]</span></span> diy farezel <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vmnhvn)</span> <span class=\"mam-kq-q\">[vmineheyn]</span></span> diy hasaf.",
     "translation": "Seu vaso é de ferro, suas pernas são de ferro e barro."
   },
   {
     "verse": 34,
     "original": "חָזֵ֣ה הֲוַ֗יְתָ עַ֠ד דִּ֣י הִתְגְּזֶ֤רֶת אֶ֙בֶן֙ דִּי־לָ֣א בִידַ֔יִן וּמְחָ֤ת לְצַלְמָא֙ עַל־רַגְל֔וֹהִי דִּ֥י פַרְזְלָ֖א וְחַסְפָּ֑א וְהַדֵּ֖קֶת הִמּֽוֹן׃",
+    "transliteration": "hazeh havayeta 'ad diy hitegezeret 'even diy-la' viydayin vmehat letsalema' 'al-ragelvohiy diy farezela' vehasefa' vehadeket himvon.",
     "translation": "Viste até que foi cortada uma pedra que não foram as mãos que tocaram, e se esmagou a imagem sobre o seu pé de ferro e barro, e se misturou com a poeira."
   },
   {
     "verse": 35,
     "original": "בֵּאדַ֣יִן דָּ֣קוּ כַחֲדָ֡ה פַּרְזְלָא֩ חַסְפָּ֨א נְחָשָׁ֜א כַּסְפָּ֣א וְדַהֲבָ֗א וַהֲווֹ֙ כְּע֣וּר מִן־אִדְּרֵי־קַ֔יִט וּנְשָׂ֤א הִמּוֹן֙ רוּחָ֔א וְכׇל־אֲתַ֖ר לָא־הִשְׁתְּכַ֣ח לְה֑וֹן וְאַבְנָ֣א&thinsp;<b>׀</b> דִּֽי־מְחָ֣ת לְצַלְמָ֗א הֲוָ֛ת לְט֥וּר רַ֖ב וּמְלָ֥את כׇּל־אַרְעָֽא׃",
+    "transliteration": "ve'dayin dakv khahadah farezela' hasefa' nehasha' khasefa' vedahava' vahavvo khe'vr min-'iderey-kayit vnesa' himvon rvha' vekhol-'atar la'-hishetekhah lehvon ve'avena'&thinsp;<b>|</b> diy-mehat letsalema' havat letvr rav vmela't khol-'are'a'.",
     "translation": "Naquele tempo, buscavam-se ferro, cobre, prata e ouro; eram extraídos da sombra escura e das profundezas da morte. Eram como fios unidos de entre as trevas, e o seu peso enchia a alma, e em todo lugar não se reconhecia o caminho para eles. E a pedra preciosa que poliam para imagem era uma coluna alta que enche toda a terra."
   },
   {
     "verse": 36,
     "original": "דְּנָ֣ה חֶלְמָ֔א וּפִשְׁרֵ֖הּ נֵאמַ֥ר קֳדָם־מַלְכָּֽא׃",
+    "transliteration": "denah helema' vfishereh ne'mar kodam-malekha'.",
     "translation": ""
   },
   {
     "verse": 37,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(אנתה)</span> <span class=\"mam-kq-q\">[אַ֣נְתְּ]</span></span> מַלְכָּ֔א מֶ֖לֶךְ מַלְכַיָּ֑א דִּ֚י אֱלָ֣הּ שְׁמַיָּ֔א מַלְכוּתָ֥א חִסְנָ֛א וְתׇקְפָּ֥א וִֽיקָרָ֖א יְהַב־לָֽךְ׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">('nth)</span> <span class=\"mam-kq-q\">['anete]</span></span> malekha' melekhe malekhaya' diy 'elah shemaya' malekhvta' hisena' vetokefa' viykara' yehav-lakhe.",
     "translation": "Tu, ó rei dos céus, a quem o Deus dos céus outorgou o domínio, poder, força e majestade."
   },
   {
     "verse": 38,
     "original": "וּבְכׇל־דִּ֣י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(דארין)</span> <span class=\"mam-kq-q\">[דָֽיְרִ֣ין]</span></span> בְּֽנֵי־אֲ֠נָשָׁ֠א חֵיוַ֨ת בָּרָ֤א וְעוֹף־שְׁמַיָּא֙ יְהַ֣ב בִּידָ֔ךְ וְהַשְׁלְטָ֖ךְ בְּכׇלְּה֑וֹן <span class=\"mam-kq\"><span class=\"mam-kq-k\">(אנתה)</span> <span class=\"mam-kq-q\">[אַ֨נְתְּ־]</span></span>ה֔וּא רֵאשָׁ֖ה דִּ֥י דַהֲבָֽא׃",
+    "transliteration": "vvekhol-diy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(d'ryn)</span> <span class=\"mam-kq-q\">[dayeriyn]</span></span> veney-'anasha' heyvat vara' ve'vof-shemaya' yehav viydakhe vehasheletakhe vekholehvon <span class=\"mam-kq\"><span class=\"mam-kq-k\">('nth)</span> <span class=\"mam-kq-q\">['anete-]</span></span>hv' re'shah diy dahava'.",
     "translation": "E em toda a terra criou a vida e deu nas tuas mãos as aves dos céus, e sobre todos eles te fez reinar; tu és a cabeça dourada."
   },
   {
     "verse": 39,
     "original": "וּבָתְרָ֗ךְ תְּק֛וּם מַלְכ֥וּ אׇחֳרִ֖י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ארעא)</span> <span class=\"mam-kq-q\">[אֲרַ֣ע]</span></span> מִנָּ֑ךְ וּמַלְכ֨וּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(תליתיא)</span> <span class=\"mam-kq-q\">[תְלִיתָאָ֤ה]</span></span> אׇחֳרִי֙ דִּ֣י נְחָשָׁ֔א דִּ֥י תִשְׁלַ֖ט בְּכׇל־אַרְעָֽא׃",
+    "transliteration": "vvaterakhe tekvm malekhv 'ohoriy <span class=\"mam-kq\"><span class=\"mam-kq-k\">('r'')</span> <span class=\"mam-kq-q\">['ara']</span></span> minakhe vmalekhv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tlyty')</span> <span class=\"mam-kq-q\">[teliyta'ah]</span></span> 'ohoriy diy nehasha' diy tishelat vekhol-'are'a'.",
     "translation": "E depois de ti se levantará um reino, e depois dele um terceiro, no qual o rei será uma serpente que dominará sobre toda a terra."
   },
   {
     "verse": 40,
     "original": "וּמַלְכוּ֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(רביעיה)</span> <span class=\"mam-kq-q\">[רְבִ֣יעָאָ֔ה]</span></span> תֶּהֱוֵ֥א תַקִּיפָ֖ה כְּפַרְזְלָ֑א כׇּל־קֳבֵ֗ל דִּ֤י פַרְזְלָא֙ מְהַדֵּ֤ק וְחָשֵׁל֙ כֹּ֔לָּא וּֽכְפַרְזְלָ֛א דִּֽי־מְרָעַ֥ע כׇּל־אִלֵּ֖ן תַּדִּ֥ק וְתֵרֹֽעַ׃",
+    "transliteration": "vmalekhv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(rvy'yh)</span> <span class=\"mam-kq-q\">[reviy'a'ah]</span></span> teheve' takiyfah khefarezela' khol-kovel diy farezela' mehadek vehashel khola' vkhefarezela' diy-mera'a' khol-'ilen tadik vetero'a.",
     "translation": "E o quarto reino será forte como ferro; pois, como o ferro que moe e quebra tudo, assim ele moerá e quebrará todos estes."
   },
   {
     "verse": 41,
     "original": "וְדִֽי־חֲזַ֜יְתָה רַגְלַיָּ֣א וְאֶצְבְּעָתָ֗א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מנהון)</span> <span class=\"mam-kq-q\">[מִנְּהֵ֞ן]</span></span> חֲסַ֤ף דִּֽי־פֶחָר֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ומנהון)</span> <span class=\"mam-kq-q\">[וּמִנְּהֵ֣ין]</span></span> פַּרְזֶ֔ל מַלְכ֤וּ פְלִיגָה֙ תֶּהֱוֵ֔ה וּמִן־נִצְבְּתָ֥א דִֽי־פַרְזְלָ֖א לֶֽהֱוֵא־בַ֑הּ כׇּל־קֳבֵל֙ דִּ֣י חֲזַ֔יְתָה פַּ֨רְזְלָ֔א מְעָרַ֖ב בַּחֲסַ֥ף טִינָֽא׃",
+    "transliteration": "vediy-hazayetah ragelaya' ve'etseve'ata' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mnhvn)</span> <span class=\"mam-kq-q\">[minehen]</span></span> hasaf diy-fehar <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vmnhvn)</span> <span class=\"mam-kq-q\">[vmineheyn]</span></span> farezel malekhv feliygah teheveh vmin-nitseveta' diy-farezela' leheve'-vah khol-kovel diy hazayetah farezela' me'arav vahasaf tiyna'.",
     "translation": "E vendo os pés e as unhas [deles] como bronze, o reino se dividirá; mas da rocha de ferro sairá um, que por toda a extensão do qual viste o ferro misturado com barro."
   },
   {
     "verse": 42,
     "original": "וְאֶצְבְּעָת֙ רַגְלַיָּ֔א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מנהון)</span> <span class=\"mam-kq-q\">[מִנְּהֵ֥ין]</span></span> פַּרְזֶ֖ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ומנהון)</span> <span class=\"mam-kq-q\">[וּמִנְּהֵ֣ין]</span></span> חֲסַ֑ף מִן־קְצָ֤ת מַלְכוּתָא֙ תֶּהֱוֵ֣ה תַקִּיפָ֔ה וּמִנַּ֖הּ תֶּהֱוֵ֥א תְבִירָֽה׃",
+    "transliteration": "ve'etseve'at ragelaya' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mnhvn)</span> <span class=\"mam-kq-q\">[mineheyn]</span></span> farezel <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vmnhvn)</span> <span class=\"mam-kq-q\">[vmineheyn]</span></span> hasaf min-ketsat malekhvta' teheveh takiyfah vminah teheve' teviyrah.",
     "translation": "E a unha da minha perna de ferro e de bronze; deste reino será parte forte, mas dele se originará parte fraca."
   },
   {
     "verse": 43,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(די)</span> <span class=\"mam-kq-q\">[וְדִ֣י]</span></span> חֲזַ֗יְתָ פַּרְזְלָא֙ מְעָרַב֙ בַּחֲסַ֣ף טִינָ֔א מִתְעָרְבִ֤ין לֶהֱוֺן֙ בִּזְרַ֣ע אֲנָשָׁ֔א וְלָֽא־לֶהֱוֺ֥ן דָּבְקִ֖ין דְּנָ֣ה עִם־דְּנָ֑ה הֵֽא־כְדִ֣י פַרְזְלָ֔א לָ֥א מִתְעָרַ֖ב עִם־חַסְפָּֽא׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(dy)</span> <span class=\"mam-kq-q\">[vediy]</span></span> hazayeta farezela' me'arav vahasaf tiyna' mite'areviyn lehevon vizera' 'anasha' vela'-lehevon davekiyn denah 'im-denah he'-khediy farezela' la' mite'arav 'im-hasefa'.",
     "translation": "E vi um metal misturado com barro, mesclando-se para se tornarem como o grão do homem, mas não se unindo uma com a outra; pois assim como o ferro não se mistura com o barro."
   },
   {
     "verse": 44,
     "original": "וּֽבְיוֹמֵיה֞וֹן דִּ֧י מַלְכַיָּ֣א אִנּ֗וּן יְקִים֩ אֱלָ֨הּ שְׁמַיָּ֤א מַלְכוּ֙ דִּ֤י לְעָלְמִין֙ לָ֣א תִתְחַבַּ֔ל וּמַ֨לְכוּתָ֔ה לְעַ֥ם אׇחֳרָ֖ן לָ֣א תִשְׁתְּבִ֑ק תַּדִּ֤ק וְתָסֵיף֙ כׇּל־אִלֵּ֣ין מַלְכְוָתָ֔א וְהִ֖יא תְּק֥וּם לְעָלְמַיָּֽא׃",
+    "transliteration": "vveyvomeyhvon diy malekhaya' 'invn yekiym 'elah shemaya' malekhv diy le'alemiyn la' titehaval vmalekhvtah le'am 'ohoran la' tishetevik tadik vetaseyf khol-'ileyn malekhevata' vehiy' tekvm le'alemaya'.",
     "translation": "E nos seus dias, quando os reis eram poderosos, Deus dos céus estabeleceu seu reino eterno que não será destronado, e seu domínio sobre outro povo não será entregue; ele confirmará e aumentará todos esses reinos, e subsistirá para sempre."
   },
   {
     "verse": 45,
     "original": "כׇּל־קֳבֵ֣ל דִּֽי־חֲזַ֡יְתָ דִּ֣י מִטּוּרָא֩ אִתְגְּזֶ֨רֶת אֶ֜בֶן דִּי־לָ֣א בִידַ֗יִן וְ֠הַדֵּ֠קֶת פַּרְזְלָ֨א נְחָשָׁ֤א חַסְפָּא֙ כַּסְפָּ֣א וְדַהֲבָ֔א אֱלָ֥הּ רַב֙ הוֹדַ֣ע לְמַלְכָּ֔א מָ֛ה דִּ֥י לֶהֱוֵ֖א אַחֲרֵ֣י דְנָ֑ה וְיַצִּ֥יב חֶלְמָ֖א וּמְהֵימַ֥ן פִּשְׁרֵֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khol-kovel diy-hazayeta diy mitvra' 'itegezeret 'even diy-la' viydayin vehadeket farezela' nehasha' hasefa' khasefa' vedahava' 'elah rav hvoda' lemalekha' mah diy leheve' 'aharey denah veyatsiyv helema' vmeheyman fishereh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eis tudo que viste, como uma grande rocha foi cortada e caiu sem mãos, e esmiuçou o bronze, o ferro, a prata e o ouro. Deus Altíssimo manifestou ao rei o que há de suceder depois disso; e os sonhos e suas interpretações foram confirmados."
   },
   {
     "verse": 46,
     "original": "בֵּ֠אדַ֠יִן מַלְכָּ֤א נְבֽוּכַדְנֶצַּר֙ נְפַ֣ל עַל־אַנְפּ֔וֹהִי וּלְדָנִיֵּ֖אל סְגִ֑ד וּמִנְחָה֙ וְנִ֣יחֹחִ֔ין אֲמַ֖ר לְנַסָּ֥כָה לֵֽהּ׃",
+    "transliteration": "ve'dayin malekha' nevvkhadenetsar nefal 'al-'anefvohiy vledaniye'l segid vminehah veniyhohiyn 'amar lenasakhah leh.",
     "translation": "Então, o rei Nabucodonosor caiu sobre seu rosto e adorou a Daniel; ordenou que lhe fossem oferecidos sacrifícios e incenso."
   },
   {
     "verse": 47,
     "original": "עָנֵה֩ מַלְכָּ֨א לְדָנִיֵּ֜אל וְאָמַ֗ר מִן־קְשֹׁט֙ דִּ֣י אֱלָהֲכ֗וֹן ה֣וּא אֱלָ֧הּ אֱלָהִ֛ין וּמָרֵ֥א מַלְכִ֖ין וְגָלֵ֣ה רָזִ֑ין דִּ֣י יְכֵ֔לְתָּ לְמִגְלֵ֖א רָזָ֥א דְנָֽה׃",
+    "transliteration": "'aneh malekha' ledaniye'l ve'amar min-keshot diy 'elahakhvon hv' 'elah 'elahiyn vmare' malekhiyn vegaleh raziyn diy yekheleta lemigele' raza' denah.",
     "translation": "Respondeu o rei a Daniel: Com certeza, vosso Deus é o Deus dos deuses e Senhor dos reis, que revela os mistérios, pois pôde revelar este mistério."
   },
   {
     "verse": 48,
     "original": "אֱדַ֨יִן מַלְכָּ֜א לְדָנִיֵּ֣אל רַבִּ֗י וּמַתְּנָ֨ן רַבְרְבָ֤ן שַׂגִּיאָן֙ יְהַב־לֵ֔הּ וְהַ֨שְׁלְטֵ֔הּ עַ֖ל כׇּל־מְדִינַ֣ת בָּבֶ֑ל וְרַ֨ב־סִגְנִ֔ין עַ֖ל כׇּל־חַכִּימֵ֥י בָבֶֽל׃",
+    "transliteration": "'edayin malekha' ledaniye'l raviy vmatenan raverevan sagiy'an yehav-leh vehasheleteh 'al khol-mediynat vavel verav-sigeniyn 'al khol-hakhiymey vavel.",
     "translation": "Então o rei concedeu a Daniel grandes dádivas, e pôs-no sobre toda a província da Babilônia, e chefe dos magos em toda a Babilônia."
   },
   {
     "verse": 49,
     "original": "וְדָנִיֵּאל֙ בְּעָ֣א מִן־מַלְכָּ֔א וּמַנִּ֗י עַ֤ל עֲבִֽידְתָּא֙ דִּ֚י מְדִינַ֣ת בָּבֶ֔ל לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ וְדָנִיֵּ֖אל בִּתְרַ֥ע מַלְכָּֽא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vedaniye'l ve'a' min-malekha' vmaniy 'al 'aviydeta' diy mediynat vavel leshaderakhe meyshakhe va'aved negvo vedaniye'l vitera' malekha'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Daniel pediu ao rei e recebeu a administração da província da Babilônia para Sadrac, Mesac e Abênegoque. E Daniel estava na corte do rei."
   }
 ]

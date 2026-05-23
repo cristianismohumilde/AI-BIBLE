@@ -2,91 +2,109 @@
   {
     "verse": 1,
     "original": "ܡܫܪܝܢܢ ܠܢ ܬܘܒ ܡܢ ܕܪܝܫ ܕܢܚܘܝܟܘܢ ܡܢܐ ܚܢܢ ܐܘ ܕܠܡܐ ܤܢܝܩܝܢܢ ܐܝܟ ܐܚܪܢܐ ܕܐܓܪܬܐ ܕܦܘܩܕܐ ܢܬܟܬܒܢ ܠܟܘܢ ܥܠܝܢ ܐܘ ܕܐܢܬܘܢ ܬܟܬܒܘܢ ܬܦܩܕܘܢ ܥܠܝܢ ܀ ",
+    "transliteration": "mshrynn ln twb mn drysh dnhwykwn mn' hnn 'w dlm' snyqynn 'yk 'hrn' d'grt' dpwqd' ntktbn lkwn `lyn 'w d'ntwn tktbwn tpqdwn `lyn * ",
     "translation": "Testemunhamos com vocês de Deus, do qual nos constituiu fiéis, e como somos, escrevemos, não como a outros, mas o testamento encarregado se escreve sobre nossas almas para vós, ou vós mesmos o escreveis em vosso coração?"
   },
   {
     "verse": 2,
     "original": "ܐܓܪܬܢ ܕܝܢ ܕܝܠܢ ܐܢܬܘܢ ܐܢܘܢ ܕܟܬܝܒܐ ܒܠܒܢ ܘܝܕܝܥܐ ܘܡܬܩܪܝܐ ܡܢ ܟܠܢܫ ܀ ",
+    "transliteration": "'grtn dyn dyln 'ntwn 'nwn dktyb' blbn wydy`' wmtqry' mn klnsh * ",
     "translation": "Esta carta é nossa, escrita em vossos corações, para ser conhecida e lida por todos."
   },
   {
     "verse": 3,
     "original": "ܝܕܥܝܬܘܢ ܓܝܪ ܕܐܓܪܬܗ ܐܢܬܘܢ ܕܡܫܝܚܐ ܕܐܫܬܡܫܬ ܡܢܢ ܕܟܬܝܒܐ ܠܐ ܒܕܝܘܬܐ ܐܠܐ ܒܪܘܚܐ ܕܐܠܗܐ ܚܝܐ ܠܐ ܒܠܘܚܐ ܕܟܐܦܐ ܐܠܐ ܒܠܘܚܐ ܕܠܒܐ ܕܒܤܪܐ ܀ ",
+    "transliteration": "yd`ytwn gyr d'grth 'ntwn dmshyh' d'shtmsht mnn dktyb' l' bdywt' 'l' brwh' d'lh' hy' l' blwh' dk'p' 'l' blwh' dlb' dbsr' * ",
     "translation": "Sabereis que sois epístola de Cristo, escrita não com tinta, mas pelo Espírito de Deus vivo; não em tábuas de pedra, mas em tábuas de carne, coração."
   },
   {
     "verse": 4,
     "original": "ܬܘܟܠܢܐ ܕܝܢ ܗܟܢܐ ܐܝܬ ܠܢ ܒܡܫܝܚܐ ܠܘܬ ܐܠܗܐ ܀ ",
+    "transliteration": "twkln' dyn hkn' 'yt ln bmshyh' lwt 'lh' * ",
     "translation": "Esta força é que reside em nós, por meio de Cristo, como dom de Deus."
   },
   {
     "verse": 5,
     "original": "ܠܘ ܕܚܢܢ ܤܦܩܝܢܢ ܕܢܬܪܥܐ ܡܕܡ ܐܝܟ ܕܡܢ ܢܦܫܢ ܐܠܐ ܚܝܠܢ ܡܢ ܐܠܗܐ ܗܘ ܀ ",
+    "transliteration": "lw dhnn spqynn dntr`' mdm 'yk dmn npshn 'l' hyln mn 'lh' hw * ",
     "translation": "Porque não pregamos nós mesmos, mas Cristo Jesus como Senhor, e somos servos por amor dele. Mas a nossa força vem de Deus."
   },
   {
     "verse": 6,
     "original": "ܗܘ ܕܐܫܘܝܢ ܕܢܗܘܐ ܡܫܡܫܢܐ ܕܕܝܬܩܐ ܚܕܬܐ ܠܐ ܒܟܬܒܐ ܐܠܐ ܒܪܘܚܐ ܟܬܒܐ ܓܝܪ ܩܛܠ ܪܘܚܐ ܕܝܢ ܡܚܝܐ ܀ ",
+    "transliteration": "hw d'shwyn dnhw' mshmshn' ddytq' hdt' l' bktb' 'l' brwh' ktb' gyr qtl rwh' dyn mhy' * ",
     "translation": "Pois aqueles que somos, somos ministros de uma nova aliança, não da letra que mata, mas do Espírito; pois a letra mata, mas o Espírito vivifica."
   },
   {
     "verse": 7,
     "original": "ܐܢ ܕܝܢ ܬܫܡܫܬܐ ܕܡܘܬܐ ܒܟܬܒܐ ܐܬܪܫܡܬ ܒܟܐܦܐ ܘܗܘܬ ܒܬܫܒܘܚܬܐ ܐܝܟܢܐ ܕܠܐ ܢܫܟܚܘܢ ܒܢܝ ܐܝܤܪܝܠ ܠܡܚܪ ܒܦܪܨܘܦܗ ܕܡܘܫܐ ܡܛܠ ܫܘܒܚܐ ܕܦܪܨܘܦܗ ܗܘ ܕܐܬܒܛܠ ܀ ",
+    "transliteration": "'n dyn tshmsht' dmwt' bktb' 'trshmt bk'p' whwt btshbwht' 'ykn' dl' nshkhwn bny 'ysryl lmhr bprswph dmwsh' mtl shwbh' dprswph hw d'tbtl * ",
     "translation": "Se a administração da morte, em letra esculpida, se glorificava e era de tal maneira venerada que os filhos de Israel não podiam fixar seus olhares sobre o rosto de Moisés por causa da glória do seu rosto, que havia sido mitigado;"
   },
   {
     "verse": 8,
     "original": "ܐܝܟܢܐ ܗܟܝܠ ܬܫܡܫܬܐ ܕܪܘܚܐ ܠܐ ܝܬܝܪܐܝܬ ܬܗܘܐ ܒܫܘܒܚܐ ܀ ",
+    "transliteration": "'ykn' hkyl tshmsht' drwh' l' ytyr'yt thw' bshwbh' * ",
     "translation": "Assim também a ministração do Espírito não será com menor glória."
   },
   {
     "verse": 9,
     "original": "ܐܢ ܓܝܪ ܠܬܫܡܫܬܐ ܕܚܘܝܒܐ ܗܘܐ ܫܘܒܚܐ ܚܕ ܟܡܐ ܬܬܝܬܪ ܬܫܡܫܬܐ ܕܙܕܝܩܘܬܐ ܒܫܘܒܚܐ ܀ ",
+    "transliteration": "'n gyr ltshmsht' dhwyb' hw' shwbh' hd km' ttytr tshmsht' dzdyqwt' bshwbh' * ",
     "translation": "Se a glória do ministério da condenação foi glória, quanto mais excede em glória o ministério da justificação!"
   },
   {
     "verse": 10,
     "original": "ܐܝܟ ܗܘ ܓܝܪ ܕܐܦܠܐ ܡܫܒܚܐ ܗܝ ܕܐܫܬܒܚܬ ܒܦܘܚܡܐ ܕܗܢܐ ܫܘܒܚܐ ܡܝܬܪܐ ܀ ",
+    "transliteration": "'yk hw gyr d'pl' mshbh' hy d'shtbht bpwhm' dhn' shwbh' mytr' * ",
     "translation": "Como é resplandecente a glória que se tornou vã, por causa da glória que superabunda."
   },
   {
     "verse": 11,
     "original": "ܐܢ ܓܝܪ ܡܕܡ ܕܐܬܒܛܠ ܒܫܘܒܚܐ ܗܘܐ ܝܬܝܪܐܝܬ ܐܝܢܐ ܕܡܩܘܐ ܒܫܘܒܚܐ ܢܗܘܐ ܀ ",
+    "transliteration": "'n gyr mdm d'tbtl bshwbh' hw' ytyr'yt 'yn' dmqw' bshwbh' nhw' * ",
     "translation": "Se o que se desvanece é com glória, muito mais excelente é o que permanece em glória."
   },
   {
     "verse": 12,
     "original": "ܡܛܠ ܕܐܝܬ ܠܢ ܗܟܝܠ ܗܢܐ ܤܒܪܐ ܝܬܝܪܐܝܬ ܒܓܠܐ ܥܝܢ ܡܬܕܒܪܝܢܢ ܀ ",
+    "transliteration": "mtl d'yt ln hkyl hn' sbr' ytyr'yt bgl' `yn mtdbrynn * ",
     "translation": "Porque temos tal confiança em Deus, as almas livres e firmes, como que olhando em um espelho, refletimos atentamente."
   },
   {
     "verse": 13,
     "original": "ܘܠܐ ܐܝܟ ܡܘܫܐ ܕܪܡܐ ܗܘܐ ܬܚܦܝܬܐ ܥܠ ܐܦܘܗܝ ܕܠܐ ܢܚܘܪܘܢ ܒܢܝ ܐܝܤܪܝܠ ܒܫܘܠܡܗ ܕܗܘ ܕܡܬܒܛܠ ܀ ",
+    "transliteration": "wl' 'yk mwsh' drm' hw' thpyt' `l 'pwhy dl' nhwrwn bny 'ysryl bshwlmh dhw dmtbtl * ",
     "translation": "E como Moisés, quando tirou o véu, era resplandecente, de tal maneira que os filhos de Israel não podiam fixar nele o olhar, por causa da glória do seu rosto, a qual se tornava vã."
   },
   {
     "verse": 14,
     "original": "ܐܠܐ ܐܬܥܘܪܘ ܒܡܕܥܝܗܘܢ ܥܕܡܐ ܓܝܪ ܠܝܘܡܢܐ ܐܡܬܝ ܕܕܝܬܩܐ ܥܬܝܩܬܐ ܡܬܩܪܝܐ ܗܝ ܗܝ ܬܚܦܝܬܐ ܩܝܡܐ ܥܠܝܗܘܢ ܘܠܐ ܡܬܓܠܝܐ ܕܒܡܫܝܚܐ ܗܘ ܡܬܒܛܠܐ ܀ ",
+    "transliteration": "'l' 't`wrw bmd`yhwn `dm' gyr lywmn' 'mty ddytq' `tyqt' mtqry' hy hy thpyt' qym' `lyhwn wl' mtgly' dbmshyh' hw mtbtl' * ",
     "translation": "Mas seus entendimentos foram obscurecidos, pois até o presente dia permanece inalterado o véu que não se levanta quando se lê a parte do Antigo Testamento; e este véu subsiste sobre eles, não sendo revelada a glória do Cristo que desvanece."
   },
   {
     "verse": 15,
     "original": "ܘܥܕܡܐ ܠܝܘܡܢܐ ܐܡܬܝ ܕܡܬܩܪܐ ܡܘܫܐ ܬܚܦܝܬܐ ܥܠ ܠܒܗܘܢ ܪܡܝܐ ܀ ",
+    "transliteration": "w`dm' lywmn' 'mty dmtqr' mwsh' thpyt' `l lbhwn rmy' * ",
     "translation": "E até o dia de hoje permanece o véu não levantado quando se lê do antigo testamento, pelo qual os mesmos israelitas não dirigem o seu entendimento à circunstância."
   },
   {
     "verse": 16,
     "original": "ܘܐܡܬܝ ܕܐܢܫ ܡܢܗܘܢ ܢܬܦܢܐ ܠܘܬ ܡܪܝܐ ܡܫܬܩܠܐ ܡܢܗ ܬܚܦܝܬܐ ܀ ",
+    "transliteration": "w'mty d'nsh mnhwn ntpn' lwt mry' mshtql' mnh thpyt' * ",
     "translation": "Mas até o presente momento, se a ministração da morte em letras esculpidas foi com glória, assim que os filhos de Israel não podiam olhar firmemente para o rosto de Moisés por causa da glória do seu rosto, que estava sendo extinguido:"
   },
   {
     "verse": 17,
     "original": "ܡܪܝܐ ܕܝܢ ܗܘܝܘ ܪܘܚܐ ܘܐܬܪ ܕܪܘܚܗ ܕܡܪܝܐ ܚܐܪܘܬܐ ܗܝ ܀ ",
+    "transliteration": "mry' dyn hwyw rwh' w'tr drwhh dmry' h'rwt' hy * ",
     "translation": "O Senhor é espírito, e onde estiver o Espírito do Senhor, há liberdade."
   },
   {
     "verse": 18,
     "original": "ܚܢܢ ܕܝܢ ܟܠܢ ܒܐܦܐ ܓܠܝܬܐ ܬܫܒܘܚܬܗ ܕܡܪܝܐ ܐܝܟ ܕܒܡܚܙܝܬܐ ܚܙܝܢܢ ܘܠܗ ܠܕܡܘܬܐ ܡܫܬܚܠܦܝܢܢ ܡܢ ܫܘܒܚܐ ܠܫܘܒܚܐ ܐܝܟ ܕܡܢ ܡܪܝܐ ܪܘܚܐ ܀  ",
+    "transliteration": "hnn dyn kln b'p' glyt' tshbwhth dmry' 'yk dbmhzyt' hzynn wlh ldmwt' mshthlpynn mn shwbh' lshwbh' 'yk dmn mry' rwh' *  ",
     "translation": "E assim, todos nós, com rosto descoberto, refletimos a glória do Senhor, e somos transformados em sua imagem com resplendor glorioso, como pelo Espírito do Senhor."
   }
 ]

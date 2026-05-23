@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "אֵלֶּה הֵם סִדְרֵי הַמִּלְחָמָה",
+    "transliteration": "'eleh hem siderey hamilehamah",
     "translation": "Estes são os ordenamentos da guerra."
   },
   {
     "verse": 2,
     "original": "לְפִי גּוֹרָל הָרֹאשׁ",
+    "transliteration": "lefiy gvoral haro'sh",
     "translation": "Segundo o sorteio da cabeça"
   },
   {
     "verse": 3,
     "original": "אַנְשֵׁי הַמִּלְחָמָה",
+    "transliteration": "'anesehy hamilehamah",
     "translation": "Homens da guerra"
   },
   {
     "verse": 4,
     "original": "בְּנֵי שְׁלֹשִׁים עַד בֶּן",
+    "transliteration": "veney sehlosihym 'ad ven",
     "translation": "Filhos de trinta até o filho..."
   },
   {
     "verse": 5,
     "original": "חֲמִישִּׁים שָׁנָה",
+    "transliteration": "hamiysihym sahnah",
     "translation": "Cinquenta anos"
   },
   {
     "verse": 6,
     "original": "שָׂרֵי הַמַּחֲנוֹת",
+    "transliteration": "sarey hamahanvot",
     "translation": "Líderes dos acampamentos"
   },
   {
     "verse": 7,
     "original": "בֶּן חֲמִישִּׁים וּבֶן",
+    "transliteration": "ven hamiysihym vven",
     "translation": "filho de cinquenta anos e filho..."
   },
   {
     "verse": 8,
     "original": "שִׁשִּׁים שָׁנָה",
+    "transliteration": "sihsihym sahnah",
     "translation": "sessenta anos"
   },
   {
     "verse": 9,
     "original": "וְהַמֻּקְדָּשִׁים לַקֹּדֶשׁ",
+    "transliteration": "vehamukedasihym lakodesh",
     "translation": "E os santificados para a santidade"
   },
   {
     "verse": 10,
     "original": "לֹא יַחֲנוּ בַּמַּחֲנוֹת",
+    "transliteration": "lo' yahanv vamahanvot",
     "translation": "Não acamparão nos acampamentos"
   }
 ]

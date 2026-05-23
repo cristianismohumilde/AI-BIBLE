@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "מַשָּׂ֥א דְבַר־יְהֹוָ֖ה אֶל־יִשְׂרָאֵ֑ל בְּיַ֖ד מַלְאָכִֽי׃",
+    "transliteration": "masa' devar-yehovah 'el-yisera'el veyad male'akhiy.",
     "translation": "O fardo da palavra do Senhor contra Israel, pela mão do meu mensageiro."
   },
   {
     "verse": 2,
     "original": "אָהַ֤בְתִּי אֶתְכֶם֙ אָמַ֣ר יְהֹוָ֔ה וַאֲמַרְתֶּ֖ם בַּמָּ֣ה אֲהַבְתָּ֑נוּ הֲלוֹא־אָ֨ח עֵשָׂ֤ו לְיַֽעֲקֹב֙ נְאֻם־יְהֹוָ֔ה וָאֹהַ֖ב אֶֽת־יַעֲקֹֽב׃",
+    "transliteration": "'ahavetiy 'etekhem 'amar yehovah va'amaretem vamah 'ahavetanv halvo'-'ah 'esav leya'akov ne'um-yehovah va'ohav 'et-ya'akov.",
     "translation": "Amo-vos, disse o Senhor, e vós respondestes: Em que nos amastes? Acaso não é Esaú irmão de Jacó? Diz o Senhor. Contudo, amei a Jacó."
   },
   {
     "verse": 3,
     "original": "וְאֶת־עֵשָׂ֖ו שָׂנֵ֑אתִי וָאָשִׂ֤ים אֶת־הָרָיו֙ שְׁמָמָ֔ה וְאֶת־נַחֲלָת֖וֹ לְתַנּ֥וֹת מִדְבָּֽר׃",
+    "transliteration": "ve'et-'esav sane'tiy va'asiym 'et-harayv shemamah ve'et-nahalatvo letanvot midevar.",
     "translation": "E odiei a Esau; fiz suas montanhas uma desolação, e sua herança um domínio do deserto."
   },
   {
     "verse": 4,
     "original": "כִּי־תֹאמַ֨ר אֱד֜וֹם רֻשַּׁ֗שְׁנוּ וְנָשׁוּב֙ וְנִבְנֶ֣ה חֳרָב֔וֹת כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הֵ֥מָּה יִבְנ֖וּ וַאֲנִ֣י אֶהֱר֑וֹס וְקָרְא֤וּ לָהֶם֙ גְּב֣וּל רִשְׁעָ֔ה וְהָעָ֛ם אֲשֶׁר־זָעַ֥ם יְהֹוָ֖ה עַד־עוֹלָֽם׃",
+    "transliteration": "khiy-to'mar 'edvom rushashenv venashvv veniveneh horavvot khoh 'amar yehovah tseva'vot hemah yivenv va'aniy 'ehervos vekare'v lahem gevvl rishe'ah veha'am 'asher-za'am yehovah 'ad-'volam.",
     "translation": "Porque direis: Seremos devassos, e nos desviaremos; nós mesmos edificaremos as suas ruínas. Assim diz o Senhor dos Exércitos: Eles edificarão, mas eu farei desmoronar; e será chamado-lhes a fronteira da maldade, e o povo sobre o qual ardeu a ira do Senhor para sempre."
   },
   {
     "verse": 5,
     "original": "וְעֵינֵיכֶ֖ם תִּרְאֶ֑ינָה וְאַתֶּ֤ם תֹּֽאמְרוּ֙ יִגְדַּ֣ל יְהֹוָ֔ה מֵעַ֖ל לִגְב֥וּל יִשְׂרָאֵֽל׃",
+    "transliteration": "ve'eyneykhem tire'eynah ve'atem to'merv yigedal yehovah me'al ligevvl yisera'el.",
     "translation": "E vossos olhos verão, e direis: Exalta-se o Senhor acima dos confins de Israel."
   },
   {
     "verse": 6,
     "original": "בֵּ֛ן יְכַבֵּ֥ד אָ֖ב וְעֶ֣בֶד אֲדֹנָ֑יו וְאִם־אָ֣ב אָ֣נִי אַיֵּ֣ה כְבוֹדִ֡י וְאִם־אֲדוֹנִ֣ים אָ֩נִי֩ אַיֵּ֨ה מוֹרָאִ֜י אָמַ֣ר&thinsp;<b>׀</b> יְהֹוָ֣ה צְבָא֗וֹת לָכֶם֙ הַכֹּֽהֲנִים֙ בּוֹזֵ֣י שְׁמִ֔י וַאֲמַרְתֶּ֕ם בַּמֶּ֥ה בָזִ֖ינוּ אֶת־שְׁמֶֽךָ׃",
+    "transliteration": "ven yekhaved 'av ve'eved 'adonayv ve'im-'av 'aniy 'ayeh khevvodiy ve'im-'advoniym 'aniy 'ayeh mvora'iy 'amar&thinsp;<b>|</b> yehovah tseva'vot lakhem hakhohaniym vvozey shemiy va'amaretem vameh vaziynv 'et-shemekha.",
     "translation": "Filho honra pai e servo seu senhor; mas se eu sou pai, onde está minha honra? E se eu sou Senhor, onde está meu temor? Diz o SENHOR dos Exércitos aos sacerdotes que profanam o meu nome: Vós dizeis: Em quê profanamos o teu nome?"
   },
   {
     "verse": 7,
     "original": "מַגִּישִׁ֤ים עַֽל־מִזְבְּחִי֙ לֶ֣חֶם מְגֹאָ֔ל וַאֲמַרְתֶּ֖ם בַּמֶּ֣ה גֵאַלְנ֑וּךָ בֶּאֱמׇרְכֶ֕ם שֻׁלְחַ֥ן יְהֹוָ֖ה נִבְזֶ֥ה הֽוּא׃",
+    "transliteration": "magiyshiym 'al-mizevehiy lehem mego'al va'amaretem vameh ge'alenvkha ve'emorekhem shulehan yehovah nivezeh hv'.",
     "translation": "Tragam sobre o meu altar pão nobre, e direis: Com que te nobilitamos? Ao dizereis: O pavimento do Senhor é desprezado."
   },
   {
     "verse": 8,
     "original": "וְכִי־תַגִּישׁ֨וּן עִוֵּ֤ר לִזְבֹּ֙חַ֙ אֵ֣ין רָ֔ע וְכִ֥י תַגִּ֛ישׁוּ פִּסֵּ֥חַ וְחֹלֶ֖ה אֵ֣ין רָ֑ע הַקְרִיבֵ֨הוּ נָ֜א לְפֶחָתֶ֗ךָ הֲיִרְצְךָ֙ א֚וֹ הֲיִשָּׂ֣א פָנֶ֔יךָ אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "transliteration": "vekhiy-tagiyshvn 'iver lizevoha 'eyn ra' vekhiy tagiyshv fiseha veholeh 'eyn ra' hakeriyvehv na' lefehatekha hayiretsekha 'vo hayisa' faneykha 'amar yehovah tseva'vot.",
     "translation": "E se oferecerdes um cego para imolar, não é mal; e se oferecerdes o que é manco ou doente, não é mal; ofertai-o agora ao vosso governante. Será agradável a ele, ou subirá a vossa face? disse o Senhor dos Exércitos."
   },
   {
     "verse": 9,
     "original": "וְעַתָּ֛ה חַלּוּ־נָ֥א פְנֵי־אֵ֖ל וִֽיחׇנֵּ֑נוּ מִיֶּדְכֶם֙ הָ֣יְתָה זֹּ֔את הֲיִשָּׂ֤א מִכֶּם֙ פָּנִ֔ים אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "transliteration": "ve'atah halv-na' feney-'el viyhonenv miyedekhem hayetah zo't hayisa' mikhem faniym 'amar yehovah tseva'vot.",
     "translation": "E agora, mostrai-vos favoráveis diante de Deus e ele nos ajudará; por vossa causa isso aconteceu; pode-se Ele, portanto, voltar o rosto em face de vós? Assim diz o Senhor dos Exércitos."
   },
   {
     "verse": 10,
     "original": "מִ֤י גַם־בָּכֶם֙ וְיִסְגֹּ֣ר דְּלָתַ֔יִם וְלֹא־תָאִ֥ירוּ מִזְבְּחִ֖י חִנָּ֑ם אֵֽין־לִ֨י חֵ֜פֶץ בָּכֶ֗ם אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וּמִנְחָ֖ה לֹא־אֶרְצֶ֥ה מִיֶּדְכֶֽם׃",
+    "transliteration": "miy gam-vakhem veyisegor delatayim velo'-ta'iyrv mizevehiy hinam 'eyn-liy hefets vakhem 'amar yehovah tseva'vot vminehah lo'-'eretseh miyedekhem.",
     "translation": "Quem é que entre vós fecha as portas e não acende gratuitamente o meu altar? Não tenho prazer em vós, diz o Senhor dos Exércitos, e a oferta de manjares não aceitarei da vossa mão."
   },
   {
     "verse": 11,
     "original": "כִּ֣י מִמִּזְרַח־שֶׁ֜מֶשׁ וְעַד־מְבוֹא֗וֹ גָּד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם וּבְכׇל־מָק֗וֹם מֻקְטָ֥ר מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה כִּֽי־גָד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃",
+    "transliteration": "khiy mimizerah-shemesh ve'ad-mevvo'vo gadvol shemiy vagvoyim vvekhol-makvom muketar mugash lishemiy vminehah tehvorah khiy-gadvol shemiy vagvoyim 'amar yehovah tseva'vot.",
     "translation": "Pois desde o nascer do sol até seu ocultar, grande é meu nome entre as nações; e em todo lugar se oferece a mim incenso e sacrifício puro, pois grande é meu nome entre as nações, diz o Senhor dos Exércitos."
   },
   {
     "verse": 12,
     "original": "וְאַתֶּ֖ם מְחַלְּלִ֣ים אוֹת֑וֹ בֶּאֱמׇרְכֶ֗ם שֻׁלְחַ֤ן אֲדֹנָי֙ מְגֹאָ֣ל ה֔וּא וְנִיב֖וֹ נִבְזֶ֥ה אׇכְלֽוֹ׃",
+    "transliteration": "ve'atem mehaleliym 'votvo ve'emorekhem shulehan 'adonay mego'al hv' veniyvvo nivezeh 'okhelvo.",
     "translation": "E vós o profanais, dizendo: O tabernáculo do Senhor é contaminado, e a sua comida desprezada."
   },
   {
     "verse": 13,
     "original": "וַאֲמַרְתֶּם֩ הִנֵּ֨ה מַתְּלָאָ֜ה וְהִפַּחְתֶּ֣ם אוֹת֗וֹ אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וַהֲבֵאתֶ֣ם גָּז֗וּל וְאֶת־הַפִּסֵּ֙חַ֙ וְאֶת־הַ֣חוֹלֶ֔ה וַהֲבֵאתֶ֖ם אֶת־הַמִּנְחָ֑ה הַאֶרְצֶ֥ה אוֹתָ֛הּ מִיֶּדְכֶ֖ם אָמַ֥ר יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'amaretem hineh matela'ah vehifahetem 'votvo 'amar yehovah tseva'vot vahave'tem gazvl ve'et-hafiseha ve'et-hahvoleh vahave'tem 'et-haminehah ha'eretseh 'votah miyedekhem 'amar yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E direis: Eis uma mesa, e a enchesseis. Diz o Senhor dos Exércitos; e trazeis o despojo, e o refúgio, e o destituído, e trazeis a oferta de manjares. A terra vos a desampara, diz o Senhor."
   },
   {
     "verse": 14,
     "original": "וְאָר֣וּר נוֹכֵ֗ל וְיֵ֤שׁ בְּעֶדְרוֹ֙ זָכָ֔ר וְנֹדֵ֛ר וְזֹבֵ֥חַ מׇשְׁחָ֖ת לַאדֹנָ֑י כִּי֩ מֶ֨לֶךְ גָּד֜וֹל אָ֗נִי אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וּשְׁמִ֖י נוֹרָ֥א בַגּוֹיִֽם׃",
+    "transliteration": "ve'arvr nvokhel veyesh ve'edervo zakhar venoder vezoveha moshehat la'donay khiy melekhe gadvol 'aniy 'amar yehovah tseva'vot vshemiy nvora' vagvoyim.",
     "translation": "E amaldiçoado seja quem come e tem macho em seu rebanho, e que vowe e imole na minha honra; pois eu sou um grande rei, diz o Senhor dos Exércitos, e meu nome é temido entre as nações."
   }
 ]

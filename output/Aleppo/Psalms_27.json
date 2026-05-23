@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "לְדָוִ֨ד&thinsp;<b>׀</b> יְהֹוָ֤ה&thinsp;<b>׀</b> אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהֹוָ֥ה מָעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃",
+    "transliteration": "ledavid&thinsp;<b>|</b> yehovah&thinsp;<b>|</b> 'voriy veyishe'iy mimiy 'iyra' yehovah ma'voz-hayay mimiy 'efehad.",
     "translation": "Para Davi: Jeová é minha luz e meu salvador; de quem terei medo? Jeová é o refúgio da minha vida; de quem temerei?"
   },
   {
     "verse": 2,
     "original": "בִּקְרֹ֤ב עָלַ֨י&thinsp;<b>׀</b> מְרֵעִים֮ לֶאֱכֹ֢ל אֶת־בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ׃",
+    "transliteration": "vikerov 'alay&thinsp;<b>|</b> mere'iym le'ekhol 'et-vesariy tsaray ve'oyevay liy hemah khashelv venafalv.",
     "translation": "Perto de mim se aproximaram os ímpios para me devorar; meus adversários e inimigos caíram e foram precipitados."
   },
   {
     "verse": 3,
     "original": "אִם־תַּחֲנֶ֬ה עָלַ֨י&thinsp;<b>׀</b> מַחֲנֶה֮ לֹא־יִירָ֢א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י בוֹטֵֽחַ׃",
+    "transliteration": "'im-tahaneh 'alay&thinsp;<b>|</b> mahaneh lo'-yiyra' liviy 'im-takvm 'alay milehamah vezo't 'aniy vvoteha.",
     "translation": "Se me acampares em batalha, não temerei; se contra mim se levantar guerra, nisso confio."
   },
   {
     "verse": 4,
     "original": "אַחַ֤ת&thinsp;<b>׀</b> שָׁאַ֣לְתִּי מֵאֵת־יְהֹוָה֮ אוֹתָ֢הּ אֲבַ֫קֵּ֥שׁ שִׁבְתִּ֣י בְּבֵית־יְ֭הֹוָה כׇּל־יְמֵ֣י חַיַּ֑י לַחֲז֥וֹת בְּנֹעַם־יְ֝הֹוָ֗ה וּלְבַקֵּ֥ר בְּהֵֽיכָלֽוֹ׃",
+    "transliteration": "'ahat&thinsp;<b>|</b> sha'aletiy me'et-yehovah 'votah 'avakesh shivetiy veveyt-yehovah khol-yemey hayay lahazvot veno'am-yehovah vlevaker veheykhalvo.",
     "translation": "Uma coisa peço ao Senhor, isso buscarei: que possa habitar na casa do Senhor todos os dias da minha vida, para contemplar a beleza do Senhor e para visitar seu templo."
   },
   {
     "verse": 5,
     "original": "כִּ֤י יִצְפְּנֵ֨נִי&thinsp;<b>׀</b> בְּסֻכֹּה֮ בְּי֢וֹם רָ֫עָ֥ה יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אׇהֳל֑וֹ בְּ֝צ֗וּר יְרוֹמְמֵֽנִי׃",
+    "transliteration": "khiy yitsefeneniy&thinsp;<b>|</b> vesukhoh veyvom ra'ah yasetireniy veseter 'oholvo vetsvr yervomemeniy.",
     "translation": "Pois me esconderá na sua tenda no dia da adversidade; no segredo de seu tabernáculo me ocultará, sobre uma rocha me exaltará."
   },
   {
     "verse": 6,
     "original": "וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹיְבַ֬י סְֽבִיבוֹתַ֗י וְאֶזְבְּחָ֣ה בְ֭אׇהֳלוֹ זִבְחֵ֣י תְרוּעָ֑ה אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה לַֽיהֹוָֽה׃",
+    "transliteration": "ve'atah yarvm ro'shiy 'al 'oyevay seviyvvotay ve'ezevehah ve'oholvo zivehey terv'ah 'ashiyrah va'azamerah layhovah.",
     "translation": "E agora exaltarei minha cabeça acima dos meus inimigos que estão ao redor; na tenda farei sacrifícios de júbilo; cantarei e louvarei ao Senhor."
   },
   {
     "verse": 7,
     "original": "שְׁמַע־יְהֹוָ֖ה קוֹלִ֥י אֶקְרָ֗א וְחׇנֵּ֥נִי וַעֲנֵֽנִי׃",
+    "transliteration": "shema'-yehovah kvoliy 'ekera' vehoneniy va'aneniy.",
     "translation": "Ouve-me, Senhor; atende à minha voz. Eis a minha súplica: tem misericórdia e responde-me."
   },
   {
     "verse": 8,
     "original": "לְךָ֤&thinsp;<b>׀</b> אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י אֶת־פָּנֶ֖יךָ יְהֹוָ֣ה אֲבַקֵּֽשׁ׃",
+    "transliteration": "lekha&thinsp;<b>|</b> 'amar liviy vakeshv fanay 'et-faneykha yehovah 'avakesh.",
     "translation": "A ti, meu coração disse: busca o teu rosto. A tua face, Senhor, buscarei."
   },
   {
     "verse": 9,
     "original": "אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ&thinsp;<b>׀</b> מִמֶּנִּי֮ אַ֥ל תַּט־בְּאַ֗ף עַ֫בְדֶּ֥ךָ עֶזְרָתִ֥י הָיִ֑יתָ אַֽל־תִּטְּשֵׁ֥נִי וְאַל־תַּ֝עַזְבֵ֗נִי אֱלֹהֵ֥י יִשְׁעִֽי׃",
+    "transliteration": "'al-taseter faneykha&thinsp;<b>|</b> mimeniy 'al tat-ve'af 'avedekha 'ezeratiy hayiyta 'al-titesheniy ve'al-ta'azeveniy 'elohey yishe'iy.",
     "translation": "Não escondas teu rosto de mim, não me rejeites com ira; tu és meu auxílio. Não me abandones nem me desampares, ó Deus da minha salvação."
   },
   {
     "verse": 10,
     "original": "כִּֽי־אָבִ֣י וְאִמִּ֣י עֲזָב֑וּנִי וַֽיהֹוָ֣ה יַאַסְפֵֽנִי׃",
+    "transliteration": "khiy-'aviy ve'imiy 'azavvniy vayhovah ya'asefeniy.",
     "translation": "Pois meu pai e minha mãe me abandonaram, mas o Senhor me tomou para si."
   },
   {
     "verse": 11,
     "original": "ה֤וֹרֵ֥נִי יְהֹוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שֽׁוֹרְרָֽי׃",
+    "transliteration": "hvoreniy yehovah darekhekha vneheniy ve'orah miyshvor lema'an shvoreray.",
     "translation": "Ensina-me, Senhor, o teu caminho e guia-me no caminho reto por amor dos meus inimigos."
   },
   {
     "verse": 12,
     "original": "אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָמוּ־בִ֥י עֵדֵי־שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃",
+    "transliteration": "'al-titeneniy venefesh tsaray khiy kamv-viy 'edey-sheker viyfeha hamas.",
     "translation": "Não me entregues à minha alma aos meus inimigos, pois se levantaram contra mim testemunhas de mentira e falam com violência."
   },
   {
     "verse": 13,
     "original": "לׅׄוּׅׄלֵׅ֗ׄאׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהֹוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃",
+    "transliteration": "l``v``le``'`` he'emanetiy lire'vot vetvv-yehovah ve'erets hayiym.",
     "translation": "Nele confiei para ver na bondade do Senhor, na terra dos vivos."
   },
   {
     "verse": 14,
     "original": "קַוֵּ֗ה אֶל־יְ֫הֹוָ֥ה חֲ֭זַק וְיַאֲמֵ֣ץ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "kaveh 'el-yehovah hazak veya'amets livekha vekaveh 'el-yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Espera no Senhor, fortalece-te, e ele fortalecerá o teu coração; espera tu também no Senhor."
   }
 ]

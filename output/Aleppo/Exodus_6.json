@@ -2,151 +2,181 @@
   {
     "verse": 1,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה עַתָּ֣ה תִרְאֶ֔ה אֲשֶׁ֥ר אֶֽעֱשֶׂ֖ה לְפַרְעֹ֑ה כִּ֣י בְיָ֤ד חֲזָקָה֙ יְשַׁלְּחֵ֔ם וּבְיָ֣ד חֲזָקָ֔ה יְגָרְשֵׁ֖ם מֵאַרְצֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer yehovah 'el-mosheh 'atah tire'eh 'asher 'e'eseh lefare'oh khiy veyad hazakah yeshalehem vveyad hazakah yegareshem me'aretsvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse o Senhor a Moisés: Agora verás o que farei a Faraó; pois com mão forte ele vos enviará e com mão forte os lançará fora do seu país."
   },
   {
     "verse": 2,
     "original": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־מֹשֶׁ֑ה וַיֹּ֥אמֶר אֵלָ֖יו אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "vayedaver 'elohiym 'el-mosheh vayo'mer 'elayv 'aniy yehovah.",
     "translation": "E Deus falou a Moisés, dizendo: Eu sou o Senhor."
   },
   {
     "verse": 3,
     "original": "וָאֵרָ֗א אֶל־אַבְרָהָ֛ם אֶל־יִצְחָ֥ק וְאֶֽל־יַעֲקֹ֖ב בְּאֵ֣ל שַׁדָּ֑י וּשְׁמִ֣י יְהֹוָ֔ה לֹ֥א נוֹדַ֖עְתִּי לָהֶֽם׃",
+    "transliteration": "va'era' 'el-'averaham 'el-yitsehak ve'el-ya'akov ve'el shaday vshemiy yehovah lo' nvoda'etiy lahem.",
     "translation": "E me manifestei a Abraão, a Isaque e a Jacó como El-Shaddai, e meu nome YHWH não lhes foi revelado."
   },
   {
     "verse": 4,
     "original": "וְגַ֨ם הֲקִמֹ֤תִי אֶת־בְּרִיתִי֙ אִתָּ֔ם לָתֵ֥ת לָהֶ֖ם אֶת־אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻרֵיהֶ֖ם אֲשֶׁר־גָּ֥רוּ בָֽהּ׃",
+    "transliteration": "vegam hakimotiy 'et-veriytiy 'itam latet lahem 'et-'erets khena'an 'et 'erets megureyhem 'asher-garv vah.",
     "translation": "E também confirmarei minha aliança com eles, para lhes dar a terra de Canaã, a terra dos seus acampamentos, onde eles acamparam."
   },
   {
     "verse": 5,
     "original": "וְגַ֣ם&thinsp;<b>׀</b> אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת־נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַעֲבִדִ֣ים אֹתָ֑ם וָאֶזְכֹּ֖ר אֶת־בְּרִיתִֽי׃",
+    "transliteration": "vegam&thinsp;<b>|</b> 'aniy shama'etiy 'et-na'akat veney yisera'el 'asher mitserayim ma'avidiym 'otam va'ezekhor 'et-veriytiy.",
     "translation": "E também eu ouvi o clamor dos filhos de Israel, que os egípcios os fazem sofrer como escravos, e me lembrei da minha aliança."
   },
   {
     "verse": 6,
     "original": "לָכֵ֞ן אֱמֹ֥ר לִבְנֵֽי־יִשְׂרָאֵל֮ אֲנִ֣י יְהֹוָה֒ וְהוֹצֵאתִ֣י אֶתְכֶ֗ם מִתַּ֙חַת֙ סִבְלֹ֣ת מִצְרַ֔יִם וְהִצַּלְתִּ֥י אֶתְכֶ֖ם מֵעֲבֹדָתָ֑ם וְגָאַלְתִּ֤י אֶתְכֶם֙ בִּזְר֣וֹעַ נְטוּיָ֔ה וּבִשְׁפָטִ֖ים גְּדֹלִֽים׃",
+    "transliteration": "lakhen 'emor liveney-yisera'el 'aniy yehovah vehvotse'tiy 'etekhem mitahat sivelot mitserayim vehitsaletiy 'etekhem me'avodatam vega'aletiy 'etekhem vizervo'a netvyah vvishefatiym gedoliym.",
     "translation": "Portanto, dize aos filhos de Israel: Eu sou o Senhor; e farei sair de vós dos jugos dos egípcios, e vos livrarei da servidão a eles, e os redimirei com braço estendido e juízos grandiosos."
   },
   {
     "verse": 7,
     "original": "וְלָקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃",
+    "transliteration": "velakahetiy 'etekhem liy le'am vehayiytiy lakhem le'lohiym viyda'etem khiy 'aniy yehovah 'eloheykhem hamvotsiy' 'etekhem mitahat sivelvot mitserayim.",
     "translation": "E vos tomarei para mim por povo e serei eu vosso Deus, e conhecereis que eu sou o Senhor vosso Deus, que vos faz sair dos fardos do Egito."
   },
   {
     "verse": 8,
     "original": "וְהֵבֵאתִ֤י אֶתְכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־יָדִ֔י לָתֵ֣ת אֹתָ֔הּ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב וְנָתַתִּ֨י אֹתָ֥הּ לָכֶ֛ם מוֹרָשָׁ֖ה אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "veheve'tiy 'etekhem 'el-ha'arets 'asher nasa'tiy 'et-yadiy latet 'otah le'averaham leyitsehak vleya'akov venatatiy 'otah lakhem mvorashah 'aniy yehovah.",
     "translation": "E eu vos trarei à terra que levantei a minha mão para dar a Abraão, a Isaque e a Jacó, e eu a darei a vós por herança; sou o Senhor."
   },
   {
     "verse": 9,
     "original": "וַיְדַבֵּ֥ר מֹשֶׁ֛ה כֵּ֖ן אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֤א שָֽׁמְעוּ֙ אֶל־מֹשֶׁ֔ה מִקֹּ֣צֶר ר֔וּחַ וּמֵעֲבֹדָ֖ה קָשָֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayedaver mosheh khen 'el-veney yisera'el velo' shame'v 'el-mosheh mikotser rvha vme'avodah kashah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Moisés falou assim aos filhos de Israel, mas eles não deram ouvidos a Moisés por causa da angústia e do trabalho árduo."
   },
   {
     "verse": 10,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 11,
     "original": "בֹּ֣א דַבֵּ֔ר אֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם וִֽישַׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃",
+    "transliteration": "vo' daver 'el-fare'oh melekhe mitserayim viyshalah 'et-veney-yisera'el me'aretsvo.",
     "translation": "Vem falar com Faraó, rei do Egito, e ele deixará partir os filhos de Israel da sua terra."
   },
   {
     "verse": 12,
     "original": "וַיְדַבֵּ֣ר מֹשֶׁ֔ה לִפְנֵ֥י יְהֹוָ֖ה לֵאמֹ֑ר הֵ֤ן בְּנֵֽי־יִשְׂרָאֵל֙ לֹֽא־שָׁמְע֣וּ אֵלַ֔י וְאֵיךְ֙ יִשְׁמָעֵ֣נִי פַרְעֹ֔ה וַאֲנִ֖י עֲרַ֥ל שְׂפָתָֽיִם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayedaver mosheh lifeney yehovah le'mor hen veney-yisera'el lo'-shame'v 'elay ve'eykhe yishema'eniy fare'oh va'aniy 'aral sefatayim.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Moisés falou diante do Senhor, dizendo: Eis que os filhos de Israel não me ouviram e como Faraó me ouvirá? Porque eu sou de lábios incircuncisos."
   },
   {
     "verse": 13,
     "original": "וַיְדַבֵּ֣ר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayedaver yehovah 'el-mosheh ve'el-'aharon vayetsavem 'el-veney yisera'el ve'el-fare'oh melekhe mitserayim lehvotsiy' 'et-veney-yisera'el me'erets mitserayim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o Senhor falou a Moisés e a Arão, e lhes ordenou sobre os filhos de Israel e a Faraó, rei do Egito, para fazer saírem os filhos de Israel da terra do Egito."
   },
   {
     "verse": 14,
     "original": "אֵ֖לֶּה רָאשֵׁ֣י בֵית־אֲבֹתָ֑ם בְּנֵ֨י רְאוּבֵ֜ן בְּכֹ֣ר יִשְׂרָאֵ֗ל חֲנ֤וֹךְ וּפַלּוּא֙ חֶצְרֹ֣ן וְכַרְמִ֔י אֵ֖לֶּה מִשְׁפְּחֹ֥ת רְאוּבֵֽן׃",
+    "transliteration": "'eleh ra'shey veyt-'avotam veney re'vven vekhor yisera'el hanvokhe vfalv' hetseron vekharemiy 'eleh mishefehot re'vven.",
     "translation": "Estes são os chefes das suas casas; filhos de Reuven, primogênito de Israel: Hanoc, Palaú, Hetzrôn e Carmi. Estes são as famílias de Reuven."
   },
   {
     "verse": 15,
     "original": "וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֨ל וְיָמִ֤ין וְאֹ֙הַד֙ וְיָכִ֣ין וְצֹ֔חַר וְשָׁא֖וּל בֶּן־הַֽכְּנַעֲנִ֑ית אֵ֖לֶּה מִשְׁפְּחֹ֥ת שִׁמְעֽוֹן׃",
+    "transliteration": "vveney shime'von yemv'el veyamiyn ve'ohad veyakhiyn vetsohar vesha'vl ven-hakhena'aniyt 'eleh mishefehot shime'von.",
     "translation": "E os filhos de Simeão foram Jemuel, Yamim, Ohad, Jakin, Zohar e Saul, filho da cananeia. Estes são os clãs de Simeão."
   },
   {
     "verse": 16,
     "original": "וְאֵ֨לֶּה שְׁמ֤וֹת בְּנֵֽי־לֵוִי֙ לְתֹ֣לְדֹתָ֔ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִ֑י וּשְׁנֵי֙ חַיֵּ֣י לֵוִ֔י שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "transliteration": "ve'eleh shemvot veney-leviy letoledotam gereshvon vkehat vmerariy vsheney hayey leviy sheva' vsheloshiym vme'at shanah.",
     "translation": "E estes são os nomes dos filhos de Levi, segundo as suas gerações: Gerison, Quate e Merari; e a vida de Levi foi de cento e trinta e sete anos."
   },
   {
     "verse": 17,
     "original": "בְּנֵ֥י גֵרְשׁ֛וֹן לִבְנִ֥י וְשִׁמְעִ֖י לְמִשְׁפְּחֹתָֽם׃",
+    "transliteration": "veney gereshvon liveniy veshime'iy lemishefehotam.",
     "translation": "Os filhos de Gérson: Libni e Siméi, segundo suas famílias."
   },
   {
     "verse": 18,
     "original": "וּבְנֵ֣י קְהָ֔ת עַמְרָ֣ם וְיִצְהָ֔ר וְחֶבְר֖וֹן וְעֻזִּיאֵ֑ל וּשְׁנֵי֙ חַיֵּ֣י קְהָ֔ת שָׁלֹ֧שׁ וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "transliteration": "vveney kehat 'ameram veyitsehar vehevervon ve'uziy'el vsheney hayey kehat shalosh vsheloshiym vme'at shanah.",
     "translation": "E os filhos de Querete foram Amram, Izar, Hebron e Uziel. E os dias da vida de Querete foram cem e trinta e três anos."
   },
   {
     "verse": 19,
     "original": "וּבְנֵ֥י מְרָרִ֖י מַחְלִ֣י וּמוּשִׁ֑י אֵ֛לֶּה מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְתֹלְדֹתָֽם׃",
+    "transliteration": "vveney merariy maheliy vmvshiy 'eleh mishefehot haleviy letoledotam.",
     "translation": "E os filhos de Merari foram Malziel e Musi. Estes são os clãs do levitas, conforme suas gerações."
   },
   {
     "verse": 20,
     "original": "וַיִּקַּ֨ח עַמְרָ֜ם אֶת־יוֹכֶ֤בֶד דֹּֽדָתוֹ֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֣לֶד ל֔וֹ אֶֽת־אַהֲרֹ֖ן וְאֶת־מֹשֶׁ֑ה וּשְׁנֵי֙ חַיֵּ֣י עַמְרָ֔ם שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+    "transliteration": "vayikah 'ameram 'et-yvokheved dodatvo lvo le'ishah vateled lvo 'et-'aharon ve'et-mosheh vsheney hayey 'ameram sheva' vsheloshiym vme'at shanah.",
     "translation": "E Amram tomou Jocabé, sua tia, como mulher, e ela lhe deu à luz a Arão e Moisés. E os anos da vida de Amram foram cento e trinta e sete."
   },
   {
     "verse": 21,
     "original": "וּבְנֵ֖י יִצְהָ֑ר קֹ֥רַח וָנֶ֖פֶג וְזִכְרִֽי׃",
+    "transliteration": "vveney yitsehar korah vanefeg vezikheriy.",
     "translation": "E os filhos de Isaque foram Corá, Necef e Zecer.\n\nDeve ser corrigido para:\n\nE os filhos de Issacar foram Corá, Necef e Zecer.\n\nEntretanto, de acordo com a instrução de fornecer apenas o texto final corrigido sem introduções ou explicações, aqui está a correção adequada ao contexto bíblico:\n\nE os filhos de Isaque foram Corá, Nefeg e Zecer."
   },
   {
     "verse": 22,
     "original": "וּבְנֵ֖י עֻזִּיאֵ֑ל מִֽישָׁאֵ֥ל וְאֶלְצָפָ֖ן וְסִתְרִֽי׃",
+    "transliteration": "vveney 'uziy'el miysha'el ve'eletsafan vesiteriy.",
     "translation": "E os filhos de Uzziel foram Misael, Elisafã e Sitri."
   },
   {
     "verse": 23,
     "original": "וַיִּקַּ֨ח אַהֲרֹ֜ן אֶת־אֱלִישֶׁ֧בַע בַּת־עַמִּינָדָ֛ב אֲח֥וֹת נַחְשׁ֖וֹן ל֣וֹ לְאִשָּׁ֑ה וַתֵּ֣לֶד ל֗וֹ אֶת־נָדָב֙ וְאֶת־אֲבִיה֔וּא אֶת־אֶלְעָזָ֖ר וְאֶת־אִֽיתָמָֽר׃",
+    "transliteration": "vayikah 'aharon 'et-'eliysheva' vat-'amiynadav 'ahvot naheshvon lvo le'ishah vateled lvo 'et-nadav ve'et-'aviyhv' 'et-'ele'azar ve'et-'iytamar.",
     "translation": "E tomou Arão Elisheba, filha de Amínadabe, irmã de Naassom, por mulher; e ela lhe deu à luz a Nadabe e Abiú, a Eleazar e Itamar."
   },
   {
     "verse": 24,
     "original": "וּבְנֵ֣י קֹ֔רַח אַסִּ֥יר וְאֶלְקָנָ֖ה וַאֲבִיאָסָ֑ף אֵ֖לֶּה מִשְׁפְּחֹ֥ת הַקׇּרְחִֽי׃",
+    "transliteration": "vveney korah 'asiyr ve'elekanah va'aviy'asaf 'eleh mishefehot hakorehiy.",
     "translation": "E os filhos de Corá são Asir, Elcana e Abiasafe; estes são as famílias dos coráitas."
   },
   {
     "verse": 25,
     "original": "וְאֶלְעָזָ֨ר בֶּֽן־אַהֲרֹ֜ן לָקַֽח־ל֨וֹ מִבְּנ֤וֹת פּֽוּטִיאֵל֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֥לֶד ל֖וֹ אֶת־פִּֽינְחָ֑ס אֵ֗לֶּה רָאשֵׁ֛י אֲב֥וֹת הַלְוִיִּ֖ם לְמִשְׁפְּחֹתָֽם׃",
+    "transliteration": "ve'ele'azar ven-'aharon lakah-lvo mivenvot fvtiy'el lvo le'ishah vateled lvo 'et-fiynehas 'eleh ra'shey 'avvot haleviyim lemishefehotam.",
     "translation": "E Elazar, filho de Aarão, tomou para si uma das filhas de Putiel como esposa, e ela lhe deu à luz a Finéias. Estes são os chefes dos pais dos levitas, conforme suas famílias."
   },
   {
     "verse": 26,
     "original": "ה֥וּא אַהֲרֹ֖ן וּמֹשֶׁ֑ה אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לָהֶ֔ם הוֹצִ֜יאוּ אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם׃",
+    "transliteration": "hv' 'aharon vmosheh 'asher 'amar yehovah lahem hvotsiy'v 'et-veney yisera'el me'erets mitserayim 'al-tsive'otam.",
     "translation": "Ele é Aarão e Moisés, aos quais o Senhor ordenou: “Façam sair os filhos de Israel da terra do Egito, em suas companhias.”"
   },
   {
     "verse": 27,
     "original": "הֵ֗ם הַֽמְדַבְּרִים֙ אֶל־פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם ה֥וּא מֹשֶׁ֖ה וְאַהֲרֹֽן׃",
+    "transliteration": "hem hamedaveriym 'el-fare'oh melekhe-mitserayim lehvotsiy' 'et-veney-yisera'el mimitserayim hv' mosheh ve'aharon.",
     "translation": "Eles são os que falam com Faraó, rei do Egito, para fazer sair os filhos de Israel do Egito; ele é Moisés e Aarão."
   },
   {
     "verse": 28,
     "original": "וַיְהִ֗י בְּי֨וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayehiy veyvom diver yehovah 'el-mosheh ve'erets mitserayim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E foi no dia em que o Senhor falava com Moisés na terra do Egito."
   },
   {
     "verse": 29,
     "original": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה לֵּאמֹ֖ר אֲנִ֣י יְהֹוָ֑ה דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor 'aniy yehovah daver 'el-fare'oh melekhe mitserayim 'et khol-'asher 'aniy dover 'eleykha.",
     "translation": "E o Senhor falou a Moisés, dizendo: Eu sou o Senhor; fala a Faraó, rei do Egito, tudo quanto eu te ordeno dizer."
   },
   {
     "verse": 30,
     "original": "וַיֹּ֥אמֶר מֹשֶׁ֖ה לִפְנֵ֣י יְהֹוָ֑ה הֵ֤ן אֲנִי֙ עֲרַ֣ל שְׂפָתַ֔יִם וְאֵ֕יךְ יִשְׁמַ֥ע אֵלַ֖י פַּרְעֹֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayo'mer mosheh lifeney yehovah hen 'aniy 'aral sefatayim ve'eykhe yishema' 'elay fare'oh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Moisés disse perante o Senhor: Eis que sou de lábios torpes, e como ouvirá Faraó a minha voz?"
   }
 ]

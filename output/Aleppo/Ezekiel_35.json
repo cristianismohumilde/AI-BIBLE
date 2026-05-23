@@ -2,76 +2,91 @@
   {
     "verse": 1,
     "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E foi a palavra do Senhor para mim dizendo:"
   },
   {
     "verse": 2,
     "original": "בֶּן־אָדָ֕ם שִׂ֥ים פָּנֶ֖יךָ עַל־הַ֣ר שֵׂעִ֑יר וְהִנָּבֵ֖א עָלָֽיו׃",
+    "transliteration": "ven-'adam siym faneykha 'al-har se'iyr vehinave' 'alayv.",
     "translation": "Filho do homem, volta-te para o monte Seir e profetiza contra ele."
   },
   {
     "verse": 3,
     "original": "וְאָמַ֣רְתָּ לּ֗וֹ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה הִנְנִ֥י אֵלֶ֖יךָ הַר־שֵׂעִ֑יר וְנָטִ֤יתִי יָדִי֙ עָלֶ֔יךָ וּנְתַתִּ֖יךָ שְׁמָמָ֥ה וּמְשַׁמָּֽה׃",
+    "transliteration": "ve'amareta lvo khoh 'amar 'adonay yehovih hineniy 'eleykha har-se'iyr venatiytiy yadiy 'aleykha vnetatiykha shemamah vmeshamah.",
     "translation": "E dirás a ele: Assim diz o Senhor Jehovah: Eis que venho contra ti, montanha de Seir; e estenderei minha mão sobre ti, e te farei desolação e devastação."
   },
   {
     "verse": 4,
     "original": "עָרֶ֙יךָ֙ חׇרְבָּ֣ה אָשִׂ֔ים וְאַתָּ֖ה שְׁמָמָ֣ה תִֽהְיֶ֑ה וְיָדַעְתָּ֖ כִּֽי־אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "'areykha horevah 'asiym ve'atah shemamah tiheyeh veyada'eta khiy-'aniy yehovah.",
     "translation": "Teus altos-lugares destruirei com a espada, e tu serás uma desolação. E saberás que eu sou o Senhor."
   },
   {
     "verse": 5,
     "original": "יַ֗עַן הֱי֤וֹת לְךָ֙ אֵיבַ֣ת עוֹלָ֔ם וַתַּגֵּ֥ר אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל עַל־יְדֵי־חָ֑רֶב בְּעֵ֣ת אֵידָ֔ם בְּעֵ֖ת עֲוֺ֥ן קֵֽץ׃",
+    "transliteration": "ya'an heyvot lekha 'eyvat 'volam vatager 'et-veney-yisera'el 'al-yedey-harev ve'et 'eydam ve'et 'avon kets.",
     "translation": "Pois foste inimiga eterna, e fizeste habitar os filhos de Israel por causa da espada na hora de sua aflição, no tempo do pecado do fim."
   },
   {
     "verse": 6,
     "original": "לָכֵ֣ן חַי־אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה כִּֽי־לְדָ֥ם אֶעֶשְׂךָ֖ וְדָ֣ם יִרְדְּפֶ֑ךָ אִם־לֹ֥א דָ֛ם שָׂנֵ֖אתָ וְדָ֥ם יִרְדְּפֶֽךָ׃",
+    "transliteration": "lakhen hay-'aniy ne'um 'adonay yehovih khiy-ledam 'e'esekha vedam yiredefekha 'im-lo' dam sane'ta vedam yiredefekha.",
     "translation": "Portanto, vivo eu, diz o Senhor Deus, que te farei como sangue e sangue te perseguirá; pois o sangue amaste e ele te perseguirá."
   },
   {
     "verse": 7,
     "original": "וְנָֽתַתִּי֙ אֶת־הַ֣ר שֵׂעִ֔יר לְשִֽׁמְמָ֖ה וּשְׁמָמָ֑ה וְהִכְרַתִּ֥י מִמֶּ֖נּוּ עֹבֵ֥ר וָשָֽׁב׃",
+    "transliteration": "venatatiy 'et-har se'iyr leshimemah vshemamah vehikheratiy mimenv 'over vashav.",
     "translation": "E porei o monte Seir em desolação e devastação, e extirparei dele quem passa e volta."
   },
   {
     "verse": 8,
     "original": "וּמִלֵּאתִ֥י אֶת־הָרָ֖יו חֲלָלָ֑יו גִּבְעוֹתֶ֤יךָ וְגֵיאוֹתֶ֙יךָ֙ וְכׇל־אֲפִיקֶ֔יךָ חַלְלֵי־חֶ֖רֶב יִפְּל֥וּ בָהֶֽם׃",
+    "transliteration": "vmile'tiy 'et-harayv halalayv give'voteykha vegey'voteykha vekhol-'afiykeykha haleley-herev yifelv vahem.",
     "translation": "E encherei teus montes com teus cadáveres; sobre tuas colinas, vales e torrentes despenhar-se-ão os mortos da espada."
   },
   {
     "verse": 9,
     "original": "שִֽׁמְמ֤וֹת עוֹלָם֙ אֶתֶּנְךָ֔ וְעָרֶ֖יךָ לֹ֣א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(תישבנה)</span> <span class=\"mam-kq-q\">[תָשֹׁ֑בְנָה]</span></span> וִידַעְתֶּ֖ם כִּֽי־אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "shimemvot 'volam 'etenekha ve'areykha lo' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tysvnh)</span> <span class=\"mam-kq-q\">[tashovenah]</span></span> viyda'etem khiy-'aniy yehovah.",
     "translation": "Desolados para sempre te deixarei, e tuas cidades não serão habitadas; então conhecerás que eu sou o Senhor."
   },
   {
     "verse": 10,
     "original": "יַ֣עַן אֲ֠מׇרְךָ֠ אֶת־שְׁנֵ֨י הַגּוֹיִ֜ם וְאֶת־שְׁתֵּ֧י הָאֲרָצ֛וֹת לִ֥י תִהְיֶ֖ינָה וִֽירַשְׁנ֑וּהָ וַיהֹוָ֖ה שָׁ֥ם הָיָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ya'an 'amorekha 'et-sheney hagvoyim ve'et-shetey ha'aratsvot liy tiheyeynah viyrashenvha vayhovah sham hayah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Porque disseste que dois povos e duas terras me seriam, e eu as heranhei. E o Senhor ali estava."
   },
   {
     "verse": 11,
     "original": "לָכֵ֣ן חַי־אָ֗נִי נְאֻם֮ אֲדֹנָ֣י יֱהֹוִה֒ וְעָשִׂ֗יתִי כְּאַפְּךָ֙ וּכְקִנְאָ֣תְךָ֔ אֲשֶׁ֣ר עָשִׂ֔יתָה מִשִּׂנְאָתֶ֖יךָ בָּ֑ם וְנוֹדַ֥עְתִּי בָ֖ם כַּאֲשֶׁ֥ר אֶשְׁפְּטֶֽךָ׃",
+    "transliteration": "lakhen hay-'aniy ne'um 'adonay yehovih ve'asiytiy khe'afekha vkhekine'atekha 'asher 'asiytah misine'ateykha vam venvoda'etiy vam kha'asher 'eshefetekha.",
     "translation": "Portanto, vivo eu, diz o Senhor Deus, e farei conforme tua ira e conforme teu ciúme com que agiste por causa de teu ódio contra eles; e serei conhecido entre eles quando os julgar."
   },
   {
     "verse": 12,
     "original": "וְֽיָדַעְתָּ֮ כִּ֣י אֲנִ֣י יְהֹוָה֒ שָׁמַ֣עְתִּי&thinsp;<b>׀</b> אֶת־כׇּל־נָאָֽצוֹתֶ֗יךָ אֲשֶׁ֥ר אָמַ֛רְתָּ עַל־הָרֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֣ר&thinsp;<small>׀</small>&thinsp;<span class=\"mam-kq\"><span class=\"mam-kq-q\">[שָׁמֵ֑מוּ]</span> <span class=\"mam-kq-k\">(שממה)</span></span> לָ֥נוּ נִתְּנ֖וּ לְאׇכְלָֽה׃",
+    "transliteration": "veyada'eta khiy 'aniy yehovah shama'etiy&thinsp;<b>|</b> 'et-khol-na'atsvoteykha 'asher 'amareta 'al-harey yisera'el le'mor&thinsp;<small>|</small>&thinsp;<span class=\"mam-kq\"><span class=\"mam-kq-q\">[shamemv]</span> <span class=\"mam-kq-k\">(smmh)</span></span> lanv nitenv le'okhelah.",
     "translation": "E saberás que eu sou o SENHOR; ouvi todas as tuas maledicências que proferiste contra os montes de Israel, dizendo: Estão desolados, entregues a nós para o saque."
   },
   {
     "verse": 13,
     "original": "וַתַּגְדִּ֤ילוּ עָלַי֙ בְּפִיכֶ֔ם וְהַעְתַּרְתֶּ֥ם עָלַ֖י דִּבְרֵיכֶ֑ם אֲנִ֖י שָׁמָֽעְתִּי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vatagediylv 'alay vefiykhem veha'etaretem 'alay divereykhem 'aniy shama'etiy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E exaltastes contra mim com vossos lábios e com vossas palavras me fustigastes; eu ouvi."
   },
   {
     "verse": 14,
     "original": "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה כִּשְׂמֹ֙חַ֙ כׇּל־הָאָ֔רֶץ שְׁמָמָ֖ה אֶעֱשֶׂה־לָּֽךְ׃",
+    "transliteration": "khoh 'amar 'adonay yehovih khisemoha khol-ha'arets shemamah 'e'eseh-lakhe.",
     "translation": "Assim diz o Senhor Deus: Como toda a terra se alegra, assim farei desolação sobre ti."
   },
   {
     "verse": 15,
     "original": "כְּשִׂמְחָ֨תְךָ֜ לְנַחֲלַ֧ת בֵּֽית־יִשְׂרָאֵ֛ל עַ֥ל אֲשֶׁר־שָׁמֵ֖מָה כֵּ֣ן אֶעֱשֶׂה־לָּ֑ךְ שְׁמָמָ֨ה תִהְיֶ֤ה הַר־שֵׂעִיר֙ וְכׇל־אֱד֣וֹם כֻּלָּ֔הּ וְיָדְע֖וּ כִּי־אֲנִ֥י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khesimehatekha lenahalat veyt-yisera'el 'al 'asher-shamemah khen 'e'eseh-lakhe shemamah tiheyeh har-se'iyr vekhol-'edvom khulah veyade'v khiy-'aniy yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Como tua alegria foi sobre a herança da casa de Israel, porque foram desolados assim farei contigo; desolada será o monte de Seir e toda Edom inteira, e conhecerão que Eu sou o Senhor."
   }
 ]

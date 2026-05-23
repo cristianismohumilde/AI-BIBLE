@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "הֵ֥ן לְצֶ֖דֶק יִמְלׇךְ־מֶ֑לֶךְ וּלְשָׂרִ֖ים לְמִשְׁפָּ֥ט יָשֹֽׂרוּ׃",
+    "transliteration": "hen letsedek yimelokhe-melekhe vlesariym lemishefat yasorv.",
     "translation": "Eis que um rei reinará com justiça, e os príncipes governarão com retidão."
   },
   {
     "verse": 2,
     "original": "וְהָיָה־אִ֥ישׁ כְּמַחֲבֵא־ר֖וּחַ וְסֵ֣תֶר זָ֑רֶם כְּפַלְגֵי־מַ֣יִם בְּצָי֔וֹן כְּצֵ֥ל סֶלַע־כָּבֵ֖ד בְּאֶ֥רֶץ עֲיֵפָֽה׃",
+    "transliteration": "vehayah-'iysh khemahave'-rvha veseter zarem khefalegey-mayim vetsayvon khetsel sela'-khaved ve'erets 'ayefah.",
     "translation": "E será como um escondido pela tempestade e refúgio da torrente; como riachos de águas em Sião, sombra de uma rocha protetora na terra de fadiga."
   },
   {
     "verse": 3,
     "original": "וְלֹ֥א תִשְׁעֶ֖ינָה עֵינֵ֣י רֹאִ֑ים וְאׇזְנֵ֥י שֹׁמְעִ֖ים תִּקְשַֽׁבְנָה׃",
+    "transliteration": "velo' tishe'eynah 'eyney ro'iym ve'ozeney shome'iym tikeshavenah.",
     "translation": "E não se abaterão os olhos dos que veem, e as orelhas dos que ouvem atentamente se abrirão."
   },
   {
     "verse": 4,
     "original": "וּלְבַ֥ב נִמְהָרִ֖ים יָבִ֣ין לָדָ֑עַת וּלְשׁ֣וֹן עִלְּגִ֔ים תְּמַהֵ֖ר לְדַבֵּ֥ר צָחֽוֹת׃",
+    "transliteration": "vlevav nimehariym yaviyn lada'at vleshvon 'ilegiym temaher ledaver tsahvot.",
     "translation": "E o coração dos prudentes compreenderá para discernir, e a língua dos eloquentes se apressará em falar claramente."
   },
   {
     "verse": 5,
     "original": "לֹא־יִקָּרֵ֥א ע֛וֹד לְנָבָ֖ל נָדִ֑יב וּלְכִילַ֕י לֹ֥א יֵאָמֵ֖ר שֽׁוֹעַ׃",
+    "transliteration": "lo'-yikare' 'vod lenaval nadiyv vlekhiylay lo' ye'amer shvo'a.",
     "translation": "Não será mais chamado avarento o que era antes generoso, e ao desonesto não se dirá benfeitor."
   },
   {
     "verse": 6,
     "original": "כִּ֤י נָבָל֙ נְבָלָ֣ה יְדַבֵּ֔ר וְלִבּ֖וֹ יַעֲשֶׂה־אָ֑וֶן לַעֲשׂ֣וֹת חֹ֗נֶף וּלְדַבֵּ֤ר אֶל־יְהֹוָה֙ תּוֹעָ֔ה לְהָרִיק֙ נֶ֣פֶשׁ רָעֵ֔ב וּמַשְׁקֶ֥ה צָמֵ֖א יַחְסִֽיר׃",
+    "transliteration": "khiy naval nevalah yedaver velivvo ya'aseh-'aven la'asvot honef vledaver 'el-yehovah tvo'ah lehariyk nefesh ra'ev vmashekeh tsame' yahesiyr.",
     "translation": "Porque a vaidade fala perversão, e o seu coração trabalha a maldade para executar iniqüidade e proferir erro contra o Senhor; para desviar da alma o faminto e negar ao sedento a bebida."
   },
   {
     "verse": 7,
     "original": "וְכֵלַ֖י כֵּלָ֣יו רָעִ֑ים ה֚וּא זִמּ֣וֹת יָעָ֔ץ לְחַבֵּ֤ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ענוים)</span> <span class=\"mam-kq-q\">[עֲנִיִּים֙]</span></span> בְּאִמְרֵי־שֶׁ֔קֶר וּבְדַבֵּ֥ר אֶבְי֖וֹן מִשְׁפָּֽט׃",
+    "transliteration": "vekhelay khelayv ra'iym hv' zimvot ya'ats lehavel <span class=\"mam-kq\"><span class=\"mam-kq-k\">('nvym)</span> <span class=\"mam-kq-q\">['aniyiym]</span></span> ve'imerey-sheker vvedaver 'eveyvon mishefat.",
     "translation": "E seus vasos são maus; ele tramou fraudes, a fim de prejudicar os pobres com palavras falsas e julgar injustamente o indigente."
   },
   {
     "verse": 8,
     "original": "וְנָדִ֖יב נְדִיב֣וֹת יָעָ֑ץ וְה֖וּא עַל־נְדִיב֥וֹת יָקֽוּם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "venadiyv nediyvvot ya'ats vehv' 'al-nediyvvot yakvm.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E liberal nas ofertas aconselhou, e sobre as ofertas ele se levantará."
   },
   {
     "verse": 9,
     "original": "נָשִׁים֙ שַׁאֲנַנּ֔וֹת קֹ֖מְנָה שְׁמַ֣עְנָה קוֹלִ֑י בָּנוֹת֙ בֹּֽטְח֔וֹת הַאְזֵ֖נָּה אִמְרָתִֽי׃",
+    "transliteration": "nashiym sha'ananvot komenah shema'enah kvoliy vanvot votehvot ha'ezenah 'imeratiy.",
     "translation": "Mulheres tranquilas, levantai-vos, ouvi minha voz; filhas confiantes, prestai atenção às minhas palavras."
   },
   {
     "verse": 10,
     "original": "יָמִים֙ עַל־שָׁנָ֔ה תִּרְגַּ֖זְנָה בֹּטְח֑וֹת כִּ֚י כָּלָ֣ה בָצִ֔יר אֹ֖סֶף בְּלִ֥י יָבֽוֹא׃",
+    "transliteration": "yamiym 'al-shanah tiregazenah votehvot khiy khalah vatsiyr 'osef veliy yavvo'.",
     "translation": "Dias sobre ano se turbarão as seguras, pois acabou a ceifa, a colheita não chegou."
   },
   {
     "verse": 11,
     "original": "חִרְדוּ֙ שַֽׁאֲנַנּ֔וֹת רְגָ֖זָה בֹּטְח֑וֹת פְּשֹׁ֣טָֽה וְעֹ֔רָה וַחֲג֖וֹרָה עַל־חֲלָצָֽיִם׃",
+    "transliteration": "hiredv sha'ananvot regazah votehvot feshotah ve'orah vahagvorah 'al-halatsayim.",
     "translation": "Tremei, tranquilas, ó seguras, despojai-vos e vesti cilícios."
   },
   {
     "verse": 12,
     "original": "עַל־שָׁדַ֖יִם סֹפְדִ֑ים עַל־שְׂדֵי־חֶ֕מֶד עַל־גֶּ֖פֶן פֹּרִיָּֽה׃",
+    "transliteration": "'al-shadayim sofediym 'al-sedey-hemed 'al-gefen foriyah.",
     "translation": "Sobre os cumes das montanhas, sobre os campos desejados, sobre a videira frutífera."
   },
   {
     "verse": 13,
     "original": "עַ֚ל אַדְמַ֣ת עַמִּ֔י ק֥וֹץ שָׁמִ֖יר תַּעֲלֶ֑ה כִּ֚י עַל־כׇּל־בָּתֵּ֣י מָשׂ֔וֹשׂ קִרְיָ֖ה עַלִּיזָֽה׃",
+    "transliteration": "'al 'ademat 'amiy kvots shamiyr ta'aleh khiy 'al-khol-vatey masvos kireyah 'aliyzah.",
     "translation": "Sobre a terra do meu povo, espinhos crescerão; pois sobre todas as casas de folguedo, está a cidade da alegria."
   },
   {
     "verse": 14,
     "original": "כִּֽי־אַרְמ֣וֹן נֻטָּ֔שׁ הֲמ֥וֹן עִ֖יר עֻזָּ֑ב עֹ֣פֶל וָבַ֜חַן הָיָ֨ה בְעַ֤ד מְעָרוֹת֙ עַד־עוֹלָ֔ם מְשׂ֥וֹשׂ פְּרָאִ֖ים מִרְעֵ֥ה עֲדָרִֽים׃",
+    "transliteration": "khiy-'aremvon nutash hamvon 'iyr 'uzav 'ofel vavahan hayah ve'ad me'arvot 'ad-'volam mesvos fera'iym mire'eh 'adariym.",
     "translation": "Pois o palácio foi abandonado, a cidade robusta tornou-se escombros; O Ofel e o Bahã se tornaram como cavernas eternas, onde se alegram as cabras selvagens, pastos para rebanhos."
   },
   {
     "verse": 15,
     "original": "עַד־יֵ֨עָרֶ֥ה עָלֵ֛ינוּ ר֖וּחַ מִמָּר֑וֹם וְהָיָ֤ה מִדְבָּר֙ לַכַּרְמֶ֔ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וכרמל)</span> <span class=\"mam-kq-q\">[וְהַכַּרְמֶ֖ל]</span></span> לַיַּ֥עַר יֵחָשֵֽׁב׃",
+    "transliteration": "'ad-ye'areh 'aleynv rvha mimarvom vehayah midevar lakharemel <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vkhrml)</span> <span class=\"mam-kq-q\">[vehakharemel]</span></span> laya'ar yehashev.",
     "translation": "Até que nos assombre um vento dos altos, e o deserto se torne como vinhedo, e o vinhedo será contado como selva."
   },
   {
     "verse": 16,
     "original": "וְשָׁכַ֥ן בַּמִּדְבָּ֖ר מִשְׁפָּ֑ט וּצְדָקָ֖ה בַּכַּרְמֶ֥ל תֵּשֵֽׁב׃",
+    "transliteration": "veshakhan vamidevar mishefat vtsedakah vakharemel teshev.",
     "translation": "E habitará no deserto a justiça, e a retidão repousará na colina frondosa."
   },
   {
     "verse": 17,
     "original": "וְהָיָ֛ה מַעֲשֵׂ֥ה הַצְּדָקָ֖ה שָׁל֑וֹם וַֽעֲבֹדַת֙ הַצְּדָקָ֔ה הַשְׁקֵ֥ט וָבֶ֖טַח עַד־עוֹלָֽם׃",
+    "transliteration": "vehayah ma'aseh hatsedakah shalvom va'avodat hatsedakah hasheket vavetah 'ad-'volam.",
     "translation": "E será que a obra da justiça é paz, e o serviço da justiça é sossego e segurança para sempre."
   },
   {
     "verse": 18,
     "original": "וְיָשַׁ֥ב עַמִּ֖י בִּנְוֵ֣ה שָׁל֑וֹם וּֽבְמִשְׁכְּנוֹת֙ מִבְטַחִ֔ים וּבִמְנוּחֹ֖ת שַׁאֲנַנּֽוֹת׃",
+    "transliteration": "veyashav 'amiy vineveh shalvom vvemishekhenvot mivetahiym vvimenvhot sha'ananvot.",
     "translation": "E meu povo habitará em moradas de paz, e em tendas de segurança, e em repousos tranquilos."
   },
   {
     "verse": 19,
     "original": "וּבָרַ֖ד בְּרֶ֣דֶת הַיָּ֑עַר וּבַשִּׁפְלָ֖ה תִּשְׁפַּ֥ל הָעִֽיר׃",
+    "transliteration": "vvarad veredet haya'ar vvashifelah tishefal ha'iyr.",
     "translation": "E o granizo na queda do bosque, e na depressão se humilha a cidade."
   },
   {
     "verse": 20,
     "original": "אַשְׁרֵיכֶ֕ם זֹרְעֵ֖י עַל־כׇּל־מָ֑יִם מְשַׁלְּחֵ֥י רֶגֶל־הַשּׁ֖וֹר וְהַחֲמֽוֹר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'ashereykhem zore'ey 'al-khol-mayim meshalehey regel-hashvor vehahamvor.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Felizes vós, que ao redor de toda água cultivais, enviando o boi e o jumento livremente."
   }
 ]

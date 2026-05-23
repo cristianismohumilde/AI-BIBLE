@@ -2,276 +2,331 @@
   {
     "verse": 1,
     "original": "אֵ֖לֶּה בְּנֵ֣י יִשְׂרָאֵ֑ל רְאוּבֵ֤ן שִׁמְעוֹן֙ לֵוִ֣י וִיהוּדָ֔ה יִשָּׂשכָ֖ר וּזְבֻלֽוּן׃",
+    "transliteration": "'eleh veney yisera'el re'vven shime'von leviy viyhvdah yisaskhar vzevulvn.",
     "translation": "Estes são os filhos de Israel: Rúben, Simeão, Levi e Judá, Issacar e Zebulom."
   },
   {
     "verse": 2,
     "original": "דָּ֚ן יוֹסֵ֣ף וּבִנְיָמִ֔ן נַפְתָּלִ֖י גָּ֥ד וְאָשֵֽׁר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "dan yvosef vvineyamin nafetaliy gad ve'asher.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Dan, José e Benjamim, Naftali, Gad e Asher."
   },
   {
     "verse": 3,
     "original": "בְּנֵ֣י יְהוּדָ֗ה עֵ֤ר וְאוֹנָן֙ וְשֵׁלָ֔ה שְׁלוֹשָׁה֙ נ֣וֹלַד ל֔וֹ מִבַּת־שׁ֖וּעַ הַֽכְּנַעֲנִ֑ית וַיְהִ֞י עֵ֣ר&thinsp;<b>׀</b> בְּכ֣וֹר יְהוּדָ֗ה רַ֛ע בְּעֵינֵ֥י יְהֹוָ֖ה וַיְמִיתֵֽהוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veney yehvdah 'er ve'vonan veshelah shelvoshah nvolad lvo mivat-shv'a hakhena'aniyt vayehiy 'er&thinsp;<b>|</b> vekhvor yehvdah ra' ve'eyney yehovah vayemiytehv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Os filhos de Judá: Er, Onã e Selá. Três lhe nasceram de Bat-Suá, a cananeia. E era Er, o primogênito de Judá, mau aos olhos do Senhor, pelo que Ele o fez morrer."
   },
   {
     "verse": 4,
     "original": "וְתָמָר֙ כַּלָּת֔וֹ יָ֥לְדָה לּ֖וֹ אֶת־פֶּ֣רֶץ וְאֶת־זָ֑רַח כׇּל־בְּנֵ֥י יְהוּדָ֖ה חֲמִשָּֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vetamar khalatvo yaledah lvo 'et-ferets ve'et-zarah khol-veney yehvdah hamishah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Tamar, sua nora, lhe deu à luz Perez e Zera. Todos os filhos de Judá foram cinco."
   },
   {
     "verse": 5,
     "original": "בְּנֵי־פֶ֖רֶץ חֶצְר֥וֹן וְחָמֽוּל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veney-ferets hetservon vehamvl.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Filhos de Péres: Hetrom e Hamul."
   },
   {
     "verse": 6,
     "original": "וּבְנֵ֣י זֶ֗רַח זִ֠מְרִ֠י וְאֵיתָ֧ן וְהֵימָ֛ן וְכַלְכֹּ֥ל וָדָ֖רַע כֻּלָּ֥ם חֲמִשָּֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vveney zerah zimeriy ve'eytan veheyman vekhalekhol vadara' khulam hamishah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os filhos de Zerah foram Zimmeri, Ethan, Heiman, Calcol e Dara; todos estes cinco."
   },
   {
     "verse": 7,
     "original": "וּבְנֵ֖י כַּרְמִ֑י עָכָר֙ עוֹכֵ֣ר יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מָעַ֖ל בַּחֵֽרֶם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vveney kharemiy 'akhar 'vokher yisera'el 'asher ma'al vaherem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os filhos de Carmi, Aquer, que desencadeou Israel, pois transgrediu a proibição sagrada."
   },
   {
     "verse": 8,
     "original": "וּבְנֵ֥י אֵיתָ֖ן עֲזַרְיָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vveney 'eytan 'azareyah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os filhos de Eitã, Azarías."
   },
   {
     "verse": 9,
     "original": "וּבְנֵ֥י חֶצְר֖וֹן אֲשֶׁ֣ר נֽוֹלַד־ל֑וֹ אֶת־יְרַחְמְאֵ֥ל וְאֶת־רָ֖ם וְאֶת־כְּלוּבָֽי׃",
+    "transliteration": "vveney hetservon 'asher nvolad-lvo 'et-yeraheme'el ve'et-ram ve'et-khelvvay.",
     "translation": "E os filhos de Querom que lhe nasceram foram: Jeremeel, Ram e Queluai."
   },
   {
     "verse": 10,
     "original": "וְרָ֖ם הוֹלִ֣יד אֶת־עַמִּֽינָדָ֑ב וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת־נַחְשׁ֔וֹן נְשִׂ֖יא בְּנֵ֥י יְהוּדָֽה׃",
+    "transliteration": "veram hvoliyd 'et-'amiynadav ve'amiynadav hvoliyd 'et-naheshvon nesiy' veney yehvdah.",
     "translation": "E Ram gerou Amínadabe, e Amínadabe gerou Natanael, príncipe dos filhos de Judá."
   },
   {
     "verse": 11,
     "original": "וְנַחְשׁוֹן֙ הוֹלִ֣יד אֶת־שַׂלְמָ֔א וְשַׂלְמָ֖א הוֹלִ֥יד אֶת־בֹּֽעַז׃",
+    "transliteration": "venaheshvon hvoliyd 'et-salema' vesalema' hvoliyd 'et-vo'az.",
     "translation": "E Naasson gerou Salma, e Salma gerou Boaz."
   },
   {
     "verse": 12,
     "original": "וּבֹ֙עַז֙ הוֹלִ֣יד אֶת־עוֹבֵ֔ד וְעוֹבֵ֖ד הוֹלִ֥יד אֶת־יִשָֽׁי׃",
+    "transliteration": "vvo'az hvoliyd 'et-'voved ve'voved hvoliyd 'et-yishay.",
     "translation": "E Boaz gerou a Obed, e Obed gerou Jessé."
   },
   {
     "verse": 13,
     "original": "וְאִישַׁ֛י הוֹלִ֥יד אֶת־בְּכֹר֖וֹ אֶת־אֱלִיאָ֑ב וַאֲבִֽינָדָב֙ הַשֵּׁנִ֔י וְשִׁמְעָ֖א הַשְּׁלִשִֽׁי׃",
+    "transliteration": "ve'iyshay hvoliyd 'et-vekhorvo 'et-'eliy'av va'aviynadav hasheniy veshime'a' hashelishiy.",
     "translation": "E Isai gerou seu primogênito Eliab; Abinadabe foi o segundo, e Shimea o terceiro."
   },
   {
     "verse": 14,
     "original": "נְתַנְאֵל֙ הָרְבִיעִ֔י רַדַּ֖י הַחֲמִישִֽׁי׃",
+    "transliteration": "netane'el hareviy'iy raday hahamiyshiy.",
     "translation": "Netanéel o quarto, Radai o quinto."
   },
   {
     "verse": 15,
     "original": "אֹ֚צֶם הַשִּׁשִּׁ֔י דָּוִ֖יד הַשְּׁבִעִֽי׃",
+    "transliteration": "'otsem hashishiy daviyd hashevi'iy.",
     "translation": "O sétimo do sexto, Davi o sétimo."
   },
   {
     "verse": 16,
     "original": "וְאַחְיֹתֵיהֶ֖ם צְרוּיָ֣ה וַאֲבִיגָ֑יִל וּבְנֵ֣י צְרוּיָ֗ה אַבְשַׁ֛י וְיוֹאָ֥ב וַעֲשָׂהאֵ֖ל שְׁלֹשָֽׁה׃",
+    "transliteration": "ve'aheyoteyhem tservyah va'aviygayil vveney tservyah 'aveshay veyvo'av va'asah'el sheloshah.",
     "translation": "E suas irmãs eram Zeruia e Abigail; e os filhos de Zeruia foram Abisai, Joabe e Asael, três."
   },
   {
     "verse": 17,
     "original": "וַאֲבִיגַ֕יִל יָלְדָ֖ה אֶת־עֲמָשָׂ֑א וַאֲבִ֣י עֲמָשָׂ֔א יֶ֖תֶר הַיִּשְׁמְעֵאלִֽי׃",
+    "transliteration": "va'aviygayil yaledah 'et-'amasa' va'aviy 'amasa' yeter hayisheme'e'liy.",
     "translation": "E Abigail deu à luz a Amasa, e o pai de Amasa era Jeter o ismaelita."
   },
   {
     "verse": 18,
     "original": "וְכָלֵ֣ב בֶּן־חֶצְר֗וֹן הוֹלִ֛יד אֶת־עֲזוּבָ֥ה אִשָּׁ֖ה וְאֶת־יְרִיע֑וֹת וְאֵ֣לֶּה בָנֶ֔יהָ יֵ֥שֶׁר וְשׁוֹבָ֖ב וְאַרְדּֽוֹן׃",
+    "transliteration": "vekhalev ven-hetservon hvoliyd 'et-'azvvah 'ishah ve'et-yeriy'vot ve'eleh vaneyha yesher veshvovav ve'aredvon.",
     "translation": "E Caleb, filho de Hetsrôn, gerou Azuba, sua mulher, e Yeriota; e estes são seus filhos: Jeser, Sobav e Ardão."
   },
   {
     "verse": 19,
     "original": "וַתָּ֖מׇת עֲזוּבָ֑ה וַיִּֽקַּֽח־ל֤וֹ כָלֵב֙ אֶת־אֶפְרָ֔ת וַתֵּ֥לֶד ל֖וֹ אֶת־חֽוּר׃",
+    "transliteration": "vatamot 'azvvah vayikah-lvo khalev 'et-'eferat vateled lvo 'et-hvr.",
     "translation": "E Azuba morreu, e Caléve tomou Efráta, que lhe deu Hur."
   },
   {
     "verse": 20,
     "original": "וְחוּר֙ הוֹלִ֣יד אֶת־אוּרִ֔י וְאוּרִ֖י הוֹלִ֥יד אֶת־בְּצַלְאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehvr hvoliyd 'et-'vriy ve'vriy hvoliyd 'et-vetsale'el.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Chur gerou a Uzzi, e Uzzi gerou Bezalel."
   },
   {
     "verse": 21,
     "original": "וְאַחַ֗ר בָּ֤א חֶצְרוֹן֙ אֶל־בַּת־מָכִיר֙ אֲבִ֣י גִלְעָ֔ד וְה֣וּא לְקָחָ֔הּ וְה֖וּא בֶּן־שִׁשִּׁ֣ים שָׁנָ֑ה וַתֵּ֥לֶד ל֖וֹ אֶת־שְׂגֽוּב׃",
+    "transliteration": "ve'ahar va' hetservon 'el-vat-makhiyr 'aviy gile'ad vehv' lekahah vehv' ven-shishiym shanah vateled lvo 'et-segvv.",
     "translation": "E depois Chezron veio à filha de Maquir, pai de Giléade; e ele a tomou, e ele tinha sessenta anos; e ela lhe deu à luz Ségube."
   },
   {
     "verse": 22,
     "original": "וּשְׂג֖וּב הוֹלִ֣יד אֶת־יָאִ֑יר וַֽיְהִי־ל֗וֹ עֶשְׂרִ֤ים וְשָׁלוֹשׁ֙ עָרִ֔ים בְּאֶ֖רֶץ הַגִּלְעָֽד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vsegvv hvoliyd 'et-ya'iyr vayehiy-lvo 'eseriym veshalvosh 'ariym ve'erets hagile'ad.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Segub gerou Jair, e lhe foram dadas vinte e três cidades na terra de Gileade."
   },
   {
     "verse": 23,
     "original": "וַיִּקַּ֣ח גְּשֽׁוּר־וַ֠אֲרָ֠ם אֶת־חַוֺּ֨ת יָאִ֧יר מֵאִתָּ֛ם אֶת־קְנָ֥ת וְאֶת־בְּנֹתֶ֖יהָ שִׁשִּׁ֣ים עִ֑יר כׇּל־אֵ֕לֶּה בְּנֵ֖י מָכִ֥יר אֲבִֽי־גִלְעָֽד׃",
+    "transliteration": "vayikah geshvr-va'aram 'et-havot ya'iyr me'itam 'et-kenat ve'et-venoteyha shishiym 'iyr khol-'eleh veney makhiyr 'aviy-gile'ad.",
     "translation": "E Geshur e Arã tomaram as cidades de Jair, Kénat com suas filhas, sessenta cidades. Todos estes são descendentes de Makhir, pai de Giléade."
   },
   {
     "verse": 24,
     "original": "וְאַחַ֥ר מוֹת־חֶצְר֖וֹן בְּכָלֵ֣ב אֶפְרָ֑תָה וְאֵ֤שֶׁת חֶצְרוֹן֙ אֲבִיָּ֔ה וַתֵּ֣לֶד ל֔וֹ אֶת־אַשְׁח֖וּר אֲבִ֥י תְקֽוֹעַ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'ahar mvot-hetservon vekhalev 'eferatah ve'eshet hetservon 'aviyah vateled lvo 'et-'ashehvr 'aviy tekvo'a.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E depois da morte de Hetrom, Efrata foi para Calebe; e a esposa de Hetrom era Abia, que lhe deu à luz a Asur, pai de Tkoa."
   },
   {
     "verse": 25,
     "original": "וַיִּהְי֧וּ בְנֵי־יְרַחְמְאֵ֛ל בְּכ֥וֹר חֶצְר֖וֹן הַבְּכ֣וֹר&thinsp;<small>׀</small>&thinsp;רָ֑ם וּבוּנָ֥ה וָאֹ֛רֶן וָאֹ֖צֶם אֲחִיָּֽה׃",
+    "transliteration": "vayiheyv veney-yeraheme'el vekhvor hetservon havekhvor&thinsp;<small>|</small>&thinsp;ram vvvnah va'oren va'otsem 'ahiyah.",
     "translation": "Eram filhos de Jerameel, primogênito de Queret, o primogênito: Ram e Bunã, Urén e Otsém e AQUIÁ."
   },
   {
     "verse": 26,
     "original": "וַתְּהִ֨י אִשָּׁ֥ה אַחֶ֛רֶת לִֽירַחְמְאֵ֖ל וּשְׁמָ֣הּ עֲטָרָ֑ה הִ֖יא אֵ֥ם אוֹנָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vatehiy 'ishah 'aheret liyraheme'el vshemah 'atarah hiy' 'em 'vonam.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E foi uma outra mulher para Iracém e seu nome era Atara, ela é mãe de Onã."
   },
   {
     "verse": 27,
     "original": "וַיִּהְי֥וּ בְנֵי־רָ֖ם בְּכ֣וֹר יְרַחְמְאֵ֑ל מַ֥עַץ וְיָמִ֖ין וָעֵֽקֶר׃",
+    "transliteration": "vayiheyv veney-ram vekhvor yeraheme'el ma'ats veyamiyn va'eker.",
     "translation": "Eram filhos de Rão, primogênito de Jerameel: Maate e Jamin e Equer."
   },
   {
     "verse": 28,
     "original": "וַיִּהְי֥וּ בְנֵי־אוֹנָ֖ם שַׁמַּ֣י וְיָדָ֑ע וּבְנֵ֣י שַׁמַּ֔י נָדָ֖ב וַאֲבִישֽׁוּר׃",
+    "transliteration": "vayiheyv veney-'vonam shamay veyada' vveney shamay nadav va'aviyshvr.",
     "translation": "E foram filhos de Ônã, Shamá e Yadá; e os filhos de Shamá foram Nadab e Abissor."
   },
   {
     "verse": 29,
     "original": "וְשֵׁ֛ם אֵ֥שֶׁת אֲבִישׁ֖וּר אֲבִיהָ֑יִל וַתֵּ֣לֶד ל֔וֹ אֶת־אַחְבָּ֖ן וְאֶת־מוֹלִֽיד׃",
+    "transliteration": "veshem 'eshet 'aviyshvr 'aviyhayil vateled lvo 'et-'ahevan ve'et-mvoliyd.",
     "translation": "E o nome da esposa de Abisur, seu pai, foi Avihaile; e ela lhe deu à luz a Acbã e a Molide."
   },
   {
     "verse": 30,
     "original": "וּבְנֵ֥י נָדָ֖ב סֶ֣לֶד וְאַפָּ֑יִם וַיָּ֥מׇת סֶ֖לֶד לֹ֥א בָנִֽים׃",
+    "transliteration": "vveney nadav seled ve'afayim vayamot seled lo' vaniym.",
     "translation": "E os filhos de Nadabe são Seléd e Appaijm, e Seléd morreu sem ter tido filhos."
   },
   {
     "verse": 31,
     "original": "וּבְנֵ֥י אַפַּ֖יִם יִשְׁעִ֑י וּבְנֵ֤י יִשְׁעִי֙ שֵׁשָׁ֔ן וּבְנֵ֥י שֵׁשָׁ֖ן אַחְלָֽי׃",
+    "transliteration": "vveney 'afayim yishe'iy vveney yishe'iy sheshan vveney sheshan 'ahelay.",
     "translation": "E os filhos de Apyim foram Isí; e os filhos de Isí foram Sesã, e os filhos de Sesã foram Ahlay."
   },
   {
     "verse": 32,
     "original": "וּבְנֵ֤י יָדָע֙ אֲחִ֣י שַׁמַּ֔י יֶ֖תֶר וְיוֹנָתָ֑ן וַיָּ֥מׇת יֶ֖תֶר לֹ֥א בָנִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vveney yada' 'ahiy shamay yeter veyvonatan vayamot yeter lo' vaniym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os filhos de Yadá, irmão de Shammá: Yeter e Jonatã. E morreu Yeter, que não teve filhos."
   },
   {
     "verse": 33,
     "original": "וּבְנֵ֥י יוֹנָתָ֖ן פֶּ֣לֶת וְזָזָ֑א אֵ֥לֶּה הָי֖וּ בְּנֵ֥י יְרַחְמְאֵֽל׃",
+    "transliteration": "vveney yvonatan felet vezaza' 'eleh hayv veney yeraheme'el.",
     "translation": "E os filhos de Jonatã foram Pelet e Zazá; estes foram os filhos de Jeremiel."
   },
   {
     "verse": 34,
     "original": "וְלֹא־הָיָ֧ה לְשֵׁשָׁ֛ן בָּנִ֖ים כִּ֣י אִם־בָּנ֑וֹת וּלְשֵׁשָׁ֛ן עֶ֥בֶד מִצְרִ֖י וּשְׁמ֥וֹ יַרְחָֽע׃",
+    "transliteration": "velo'-hayah lesheshan vaniym khiy 'im-vanvot vlesheshan 'eved mitseriy vshemvo yareha'.",
     "translation": "E Sheshan não tinha filhos, somente filhas; e Sheshan tinha um servo egípcio, cujo nome era Jarha."
   },
   {
     "verse": 35,
     "original": "וַיִּתֵּ֨ן שֵׁשָׁ֧ן אֶת־בִּתּ֛וֹ לְיַרְחָ֥ע עַבְדּ֖וֹ לְאִשָּׁ֑ה וַתֵּ֥לֶד ל֖וֹ אֶת־עַתָּֽי׃",
+    "transliteration": "vayiten sheshan 'et-vitvo leyareha' 'avedvo le'ishah vateled lvo 'et-'atay.",
     "translation": "E Sesã deu sua filha a Jaroa, seu servo, por esposa, e ela lhe deu à luz Atai."
   },
   {
     "verse": 36,
     "original": "וְעַתַּי֙ הֹלִ֣יד אֶת־נָתָ֔ן וְנָתָ֖ן הוֹלִ֥יד אֶת־זָבָֽד׃",
+    "transliteration": "ve'atay holiyd 'et-natan venatan hvoliyd 'et-zavad.",
     "translation": "E agora eu gerei a Natan, e Natan gerou a Zabad."
   },
   {
     "verse": 37,
     "original": "וְזָבָד֙ הוֹלִ֣יד אֶת־אֶפְלָ֔ל וְאֶפְלָ֖ל הוֹלִ֥יד אֶת־עוֹבֵֽד׃",
+    "transliteration": "vezavad hvoliyd 'et-'efelal ve'efelal hvoliyd 'et-'voved.",
     "translation": "E Zabad gerou Eflaal, e Eflaal gerou Obed."
   },
   {
     "verse": 38,
     "original": "וְעוֹבֵד֙ הוֹלִ֣יד אֶת־יֵה֔וּא וְיֵה֖וּא הֹלִ֥יד אֶת־עֲזַרְיָֽה׃",
+    "transliteration": "ve'voved hvoliyd 'et-yehv' veyehv' holiyd 'et-'azareyah.",
     "translation": "E Obadias gerou a Júah, e Júah gerou a Azarias."
   },
   {
     "verse": 39,
     "original": "וַֽעֲזַרְיָה֙ הֹלִ֣יד אֶת־חָ֔לֶץ וְחֶ֖לֶץ הֹלִ֥יד אֶת־אֶלְעָשָֽׂה׃",
+    "transliteration": "va'azareyah holiyd 'et-halets vehelets holiyd 'et-'ele'asah.",
     "translation": "E Azarias gerou Halец, e Halец gerou Elás."
   },
   {
     "verse": 40,
     "original": "וְאֶלְעָשָׂה֙ הֹלִ֣יד אֶת־סִֽסְמָ֔י וְסִסְמַ֖י הֹלִ֥יד אֶת־שַׁלּֽוּם׃",
+    "transliteration": "ve'ele'asah holiyd 'et-sisemay vesisemay holiyd 'et-shalvm.",
     "translation": "E Ela-sá gerou a Sismai, e Sismai gerou a Salum."
   },
   {
     "verse": 41,
     "original": "וְשַׁלּוּם֙ הוֹלִ֣יד אֶת־יְקַמְיָ֔ה וִיקַמְיָ֖ה הֹלִ֥יד אֶת־אֱלִישָׁמָֽע׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veshalvm hvoliyd 'et-yekameyah viykameyah holiyd 'et-'eliyshama'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Salum gerou a Jeqamiá, e Jeqamiá gerou a Eliseama."
   },
   {
     "verse": 42,
     "original": "וּבְנֵ֤י כָלֵב֙ אֲחִ֣י יְרַחְמְאֵ֔ל מֵישָׁ֥ע בְּכֹר֖וֹ ה֣וּא אֲבִי־זִ֑יף וּבְנֵ֥י מָרֵשָׁ֖ה אֲבִ֥י חֶבְרֽוֹן׃",
+    "transliteration": "vveney khalev 'ahiy yeraheme'el meysha' vekhorvo hv' 'aviy-ziyf vveney mareshah 'aviy hevervon.",
     "translation": "E os filhos de Caleb, irmão de Jeremuel: Mesha, seu primogênito, é pai de Zife; e os filhos de Merete, pais de Hebrom."
   },
   {
     "verse": 43,
     "original": "וּבְנֵ֖י חֶבְר֑וֹן קֹ֥רַח וְתַפֻּ֖חַ וְרֶ֥קֶם וָשָֽׁמַע׃",
+    "transliteration": "vveney hevervon korah vetafuha verekem vashama'.",
     "translation": "E os filhos de Querom foram Coré, Tafuá, Requem e Shimá."
   },
   {
     "verse": 44,
     "original": "וְשֶׁ֣מַע הוֹלִ֔יד אֶת־רַ֖חַם אֲבִ֣י יׇרְקְעָ֑ם וְרֶ֖קֶם הוֹלִ֥יד אֶת־שַׁמָּֽי׃",
+    "transliteration": "veshema' hvoliyd 'et-raham 'aviy yoreke'am verekem hvoliyd 'et-shamay.",
     "translation": "E Semau gerou Raquã, pai de Jaquémão; e Requem gerou Samá."
   },
   {
     "verse": 45,
     "original": "וּבֶן־שַׁמַּ֖י מָע֑וֹן וּמָע֖וֹן אֲבִ֥י בֵֽית־צֽוּר׃",
+    "transliteration": "vven-shamay ma'von vma'von 'aviy veyt-tsvr.",
     "translation": "E Ben-Semay foi o lar, e Maon pai de Beit-Zur."
   },
   {
     "verse": 46,
     "original": "וְעֵיפָה֙ פִּילֶ֣גֶשׁ כָּלֵ֔ב יָ֥לְדָ֛ה אֶת־חָרָ֥ן וְאֶת־מוֹצָ֖א וְאֶת־גָּזֵ֑ז וְחָרָ֖ן הֹלִ֥יד אֶת־גָּזֵֽז׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'eyfah fiylegesh khalev yaledah 'et-haran ve'et-mvotsa' ve'et-gazez veharan holiyd 'et-gazez.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Efa, a concubina de Caleb, deu à luz Cran, Motza e Gazez; e Cran gerou Gazez."
   },
   {
     "verse": 47,
     "original": "וּבְנֵ֖י יׇהְדָּ֑י רֶ֧גֶם וְיוֹתָ֛ם וְגֵישָׁ֥ן וָפֶ֖לֶט וְעֵיפָ֥ה וָשָֽׁעַף׃",
+    "transliteration": "vveney yoheday regem veyvotam vegeyshan vafelet ve'eyfah vasha'af.",
     "translation": "E os filhos de Jadai: Regem, Jotam, Gesã, Pelate, Eifa e Shaaf."
   },
   {
     "verse": 48,
     "original": "פִּילֶ֤גֶשׁ כָּלֵב֙ מַֽעֲכָ֔ה יָ֥לַד שֶׁ֖בֶר וְאֶֽת־תִּרְחֲנָֽה׃",
+    "transliteration": "fiylegesh khalev ma'akhah yalad shever ve'et-tirehanah.",
     "translation": "A concubina de Caleb, Maacá, deu à luz Seber e Tirna."
   },
   {
     "verse": 49,
     "original": "וַתֵּ֗לֶד שַׁ֚עַף אֲבִ֣י מַדְמַנָּ֔ה אֶת־שְׁוָ֛א אֲבִ֥י מַכְבֵּנָ֖ה וַאֲבִ֣י גִבְעָ֑א וּבַת־כָּלֵ֖ב עַכְסָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vateled sha'af 'aviy mademanah 'et-sheva' 'aviy makhevenah va'aviy give'a' vvat-khalev 'akhesah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E deu à luz Shaaf, mãe de Madmanná; a quem nasceu Sheva, pai de Makbená e de Gibea, e Achsa, filha de Qualeb."
   },
   {
     "verse": 50,
     "original": "אֵ֤לֶּה הָיוּ֙ בְּנֵ֣י כָלֵ֔ב בֶּן־ח֖וּר בְּכ֣וֹר אֶפְרָ֑תָה שׁוֹבָ֕ל אֲבִ֖י קִרְיַ֥ת יְעָרִֽים׃",
+    "transliteration": "'eleh hayv veney khalev ven-hvr vekhvor 'eferatah shvoval 'aviy kireyat ye'ariym.",
     "translation": "Estes foram os filhos de Caleb, filho de Hur, o primogênito de Efrata: Sobal, pai de Quiriate-Jearim."
   },
   {
     "verse": 51,
     "original": "שַׂלְמָא֙ אֲבִ֣י בֵֽית־לָ֔חֶם חָרֵ֖ף אֲבִ֥י בֵית־גָּדֵֽר׃",
+    "transliteration": "salema' 'aviy veyt-lahem haref 'aviy veyt-gader.",
     "translation": "Salmos, meu pai de Belém, zomba do meu pai de Bet-Gade."
   },
   {
     "verse": 52,
     "original": "וַיִּהְי֤וּ בָנִים֙ לְשׁוֹבָ֔ל אֲבִ֖י קִרְיַ֣ת יְעָרִ֑ים הָרֹאֶ֖ה חֲצִ֥י הַמְּנֻחֽוֹת׃",
+    "transliteration": "vayiheyv vaniym leshvoval 'aviy kireyat ye'ariym haro'eh hatsiy hamenuhvot.",
     "translation": "E foram filhos de Shobal, pai de Quiriate-Jearim, aquele que observa metade das repousas."
   },
   {
     "verse": 53,
     "original": "וּמִשְׁפְּחוֹת֙ קִרְיַ֣ת יְעָרִ֔ים הַיִּתְרִי֙ וְהַפּוּתִ֔י וְהַשֻּׁמָתִ֖י וְהַמִּשְׁרָעִ֑י מֵאֵ֗לֶּה יָֽצְאוּ֙ הַצָּ֣רְעָתִ֔י וְהָאֶשְׁתָּ֖אֻֽלִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vmishefehvot kireyat ye'ariym hayiteriy vehafvtiy vehashumatiy vehamishera'iy me'eleh yatse'v hatsare'atiy veha'esheta'uliy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E das famílias de Cariote-Iarim, os itreus e os futis e os sumateus e os misrateus, saíram os cazriteus e os esteolitas."
   },
   {
     "verse": 54,
     "original": "בְּנֵ֣י שַׂלְמָ֗א בֵּ֥ית לֶ֙חֶם֙ וּנְט֣וֹפָתִ֔י עַטְר֖וֹת בֵּ֣ית יוֹאָ֑ב וַחֲצִ֥י הַמָּנַחְתִּ֖י הַצׇּרְעִֽי׃",
+    "transliteration": "veney salema' veyt lehem vnetvofatiy 'atervot veyt yvo'av vahatsiy hamanahetiy hatsore'iy.",
     "translation": "Filhos de Salma, Belém e Netofáti, Atarote-Betejoabe, e metade da Manacate-Zareiti."
   },
   {
     "verse": 55,
     "original": "וּמִשְׁפְּח֤וֹת סֹֽפְרִים֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ישבו)</span> <span class=\"mam-kq-q\">[יֹשְׁבֵ֣י]</span></span> יַעְבֵּ֔ץ תִּרְעָתִ֥ים שִׁמְעָתִ֖ים שׂוּכָתִ֑ים הֵ֚מָּה הַקִּינִ֣ים הַבָּאִ֔ים מֵחַמַּ֖ת אֲבִ֥י בֵית־רֵכָֽב׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vmishefehvot soferiym <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ysvv)</span> <span class=\"mam-kq-q\">[yoshevey]</span></span> ya'evets tire'atiym shime'atiym svkhatiym hemah hakiyniym hava'iym mehamat 'aviy veyt-rekhav.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E as famílias dos escribas, os habitantes de Yaabez, Tiraat, Simaat e Sukkatim. Estes são os Quinitas que vieram de Hamate, pai de Beetracab."
   }
 ]

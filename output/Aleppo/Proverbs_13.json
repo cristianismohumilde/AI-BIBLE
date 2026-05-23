@@ -2,126 +2,151 @@
   {
     "verse": 1,
     "original": "בֵּ֣ן חָ֭כָם מ֣וּסַר אָ֑ב וְ֝לֵ֗ץ לֹא־שָׁמַ֥ע גְּעָרָֽה׃",
+    "transliteration": "ven hakham mvsar 'av velets lo'-shama' ge'arah.",
     "translation": "Filho sábio recebe a instrução do pai, mas o escarnecedor não ouve repreensão."
   },
   {
     "verse": 2,
     "original": "מִפְּרִ֣י פִי־אִ֭ישׁ יֹ֣אכַל ט֑וֹב וְנֶ֖פֶשׁ בֹּגְדִ֣ים חָמָֽס׃",
+    "transliteration": "miferiy fiy-'iysh yo'khal tvov venefesh vogediym hamas.",
     "translation": "Do fruto da boca do homem se come o bem, e a alma dos traidores é violenta."
   },
   {
     "verse": 3,
     "original": "נֹצֵ֣ר פִּ֭יו שֹׁמֵ֣ר נַפְשׁ֑וֹ פֹּשֵׂ֥ק שְׂ֝פָתָ֗יו מְחִתָּה־לֽוֹ׃",
+    "transliteration": "notser fiyv shomer nafeshvo fosek sefatayv mehitah-lvo.",
     "translation": "Que guarda a sua boca preserva a alma; quem freia os seus lábios protege-se da calamidade."
   },
   {
     "verse": 4,
     "original": "מִתְאַוָּ֣ה וָ֭אַיִן נַפְשׁ֣וֹ עָצֵ֑ל וְנֶ֖פֶשׁ חָרֻצִ֣ים תְּדֻשָּֽׁן׃",
+    "transliteration": "mite'avah va'ayin nafeshvo 'atsel venefesh harutsiym tedushan.",
     "translation": "Anelava e não tinha a alma preguiçosa, mas a alma dos diligentes prosperará."
   },
   {
     "verse": 5,
     "original": "דְּבַר־שֶׁ֭קֶר יִשְׂנָ֣א צַדִּ֑יק וְ֝רָשָׁ֗ע יַבְאִ֥ישׁ וְיַחְפִּֽיר׃",
+    "transliteration": "devar-sheker yisena' tsadiyk verasha' yave'iysh veyahefiyr.",
     "translation": "A mentira o justo abomina, e o perverso age com ignomínia e vergonha."
   },
   {
     "verse": 6,
     "original": "צְ֭דָקָה תִּצֹּ֣ר תׇּם־דָּ֑רֶךְ וְ֝רִשְׁעָ֗ה תְּסַלֵּ֥ף חַטָּֽאת׃",
+    "transliteration": "tsedakah titsor tom-darekhe verishe'ah tesalef hata't.",
     "translation": "A justiça preparará o caminho íntegro, e a perversidade assentará a culpa."
   },
   {
     "verse": 7,
     "original": "יֵ֣שׁ מִ֭תְעַשֵּׁר וְאֵ֣ין כֹּ֑ל מִ֝תְרוֹשֵׁ֗שׁ וְה֣וֹן רָֽב׃",
+    "transliteration": "yesh mite'asher ve'eyn khol mitervoshesh vehvon rav.",
     "translation": "Há quem enriqueça e não tem nada; há quem poupe e acumula grande fortuna."
   },
   {
     "verse": 8,
     "original": "כֹּ֣פֶר נֶפֶשׁ־אִ֣ישׁ עׇשְׁר֑וֹ וְ֝רָ֗שׁ לֹא־שָׁמַ֥ע גְּעָרָֽה׃",
+    "transliteration": "khofer nefesh-'iysh 'oshervo verash lo'-shama' ge'arah.",
     "translation": "Quem paga o resgate da vida preserva os bens; mas o pobre não ouve a repreensão."
   },
   {
     "verse": 9,
     "original": "אוֹר־צַדִּיקִ֥ים יִשְׂמָ֑ח וְנֵ֖ר רְשָׁעִ֣ים יִדְעָֽךְ׃",
+    "transliteration": "'vor-tsadiykiym yisemah vener resha'iym yide'akhe.",
     "translation": "A luz dos retos se regozija, e a lâmpada dos perversos se apaga."
   },
   {
     "verse": 10,
     "original": "רַק־בְּ֭זָדוֹן יִתֵּ֣ן מַצָּ֑ה וְאֶת־נ֖וֹעָצִ֣ים חׇכְמָֽה׃",
+    "transliteration": "rak-vezadvon yiten matsah ve'et-nvo'atsiym hokhemah.",
     "translation": "Só na vaidade dará pão, e aos que planejam o que fazem, dará sabedoria."
   },
   {
     "verse": 11,
     "original": "ה֭וֹן מֵהֶ֣בֶל יִמְעָ֑ט וְקֹבֵ֖ץ עַל־יָ֣ד יַרְבֶּֽה׃",
+    "transliteration": "hvon mehevel yime'at vekovets 'al-yad yareveh.",
     "translation": "A riqueza da vaidade diminui, mas o que ajunta com a mão aumenta."
   },
   {
     "verse": 12,
     "original": "תּוֹחֶ֣לֶת מְ֭מֻשָּׁכָה מַחֲלָה־לֵ֑ב וְעֵ֥ץ חַ֝יִּ֗ים תַּאֲוָ֥ה בָאָֽה׃",
+    "transliteration": "tvohelet memushakhah mahalah-lev ve'ets hayiym ta'avah va'ah.",
     "translation": "O desejo da impiedade é doença do coração, mas o anelo pelo árbore da vida traz a salvação.\n\nCorreção:\nO desejo da impiedade é doença do coração, mas o anelo pela árvore da vida traz a salvação."
   },
   {
     "verse": 13,
     "original": "בָּ֣ז לְ֭דָבָר יֵחָ֣בֶל ל֑וֹ וִירֵ֥א מִ֝צְוָ֗ה ה֣וּא יְשֻׁלָּֽם׃",
+    "transliteration": "vaz ledavar yehavel lvo viyre' mitsevah hv' yeshulam.",
     "translation": "No erro está aquele que se entrelaça com uma causa; mas quem teme o mandamento será recompensado."
   },
   {
     "verse": 14,
     "original": "תּוֹרַ֣ת חָ֭כָם מְק֣וֹר חַיִּ֑ים לָ֝ס֗וּר מִמֹּ֥קְשֵׁי מָֽוֶת׃",
+    "transliteration": "tvorat hakham mekvor hayiym lasvr mimokeshey mavet.",
     "translation": "A doutrina do sábio é fonte de vida, para se afastar dos laços da morte."
   },
   {
     "verse": 15,
     "original": "שֵֽׂכֶל־ט֭וֹב יִתֶּן־חֵ֑ן וְדֶ֖רֶךְ בֹּגְדִ֣ים אֵיתָֽן׃",
+    "transliteration": "sekhel-tvov yiten-hen vederekhe vogediym 'eytan.",
     "translation": "Um espírito sábio concede graça, mas o caminho dos traidores é firme."
   },
   {
     "verse": 16,
     "original": "כׇּל־עָ֭רוּם יַעֲשֶׂ֣ה בְדָ֑עַת וּ֝כְסִ֗יל יִפְרֹ֥שׂ אִוֶּֽלֶת׃",
+    "transliteration": "khol-'arvm ya'aseh veda'at vkhesiyl yiferos 'ivelet.",
     "translation": "Toda astúcia se faz com discernimento, mas o tolo espalha loucura."
   },
   {
     "verse": 17,
     "original": "מַלְאָ֣ךְ רָ֭שָׁע יִפֹּ֣ל בְּרָ֑ע וְצִ֖יר אֱמוּנִ֣ים מַרְפֵּֽא׃",
+    "transliteration": "male'akhe rasha' yifol vera' vetsiyr 'emvniym marefe'.",
     "translation": "Malaquias perversos cairão no mal, e o fruto dos fiéis é cura.\n\nCorreção:\nAnjo perverso cairá no mal, e a obra dos fiéis é cura."
   },
   {
     "verse": 18,
     "original": "רֵ֣ישׁ וְ֭קָלוֹן פּוֹרֵ֣עַ מוּסָ֑ר וְשֹׁמֵ֖ר תּוֹכַ֣חַת יְכֻבָּֽד׃",
+    "transliteration": "reysh vekalvon fvore'a mvsar veshomer tvokhahat yekhuvad.",
     "translation": "Cabeça e loucura são pagas com castigo, mas quem guarda a repreensão será honrado."
   },
   {
     "verse": 19,
     "original": "תַּאֲוָ֣ה נִ֭הְיָה תֶּעֱרַ֣ב לְנָ֑פֶשׁ וְתוֹעֲבַ֥ת כְּ֝סִילִ֗ים ס֣וּר מֵרָֽע׃",
+    "transliteration": "ta'avah niheyah te'erav lenafesh vetvo'avat khesiyliym svr mera'.",
     "translation": "Desejo se tornou amargura para a alma, e do ódio dos tolos, afaste-se do mal."
   },
   {
     "verse": 20,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(הלוך)</span> <span class=\"mam-kq-q\">[הוֹלֵ֣ךְ]</span></span> אֶת־חֲכָמִ֣ים <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וחכם)</span> <span class=\"mam-kq-q\">[יֶחְכָּ֑ם]</span></span> וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(hlvkh)</span> <span class=\"mam-kq-q\">[hvolekhe]</span></span> 'et-hakhamiym <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vhkhm)</span> <span class=\"mam-kq-q\">[yehekham]</span></span> vero'eh khesiyliym yervo'a.",
     "translation": "Que caminha com sábios se torna sábio, e quem pastoreia loucos será destruído."
   },
   {
     "verse": 21,
     "original": "חַ֭טָּאִים תְּרַדֵּ֣ף רָעָ֑ה וְאֶת־צַ֝דִּיקִ֗ים יְשַׁלֶּם־טֽוֹב׃",
+    "transliteration": "hata'iym teradef ra'ah ve'et-tsadiykiym yeshalem-tvov.",
     "translation": "Os pecadores perseguirá a maldade, e aos justos recompensará o bem."
   },
   {
     "verse": 22,
     "original": "ט֗וֹב יַנְחִ֥יל בְּנֵֽי־בָנִ֑ים וְצָפ֥וּן לַ֝צַּדִּ֗יק חֵ֣יל חוֹטֵֽא׃",
+    "transliteration": "tvov yanehiyl veney-vaniym vetsafvn latsadiyk heyl hvote'.",
     "translation": "Bom é deixar herança para os filhos dos filhos, e o tesouro dos ímpios está guardado para o justo."
   },
   {
     "verse": 23,
     "original": "רׇב־אֹ֭כֶל נִ֣יר רָאשִׁ֑ים וְיֵ֥שׁ נִ֝סְפֶּ֗ה בְּלֹ֣א מִשְׁפָּֽט׃",
+    "transliteration": "rov-'okhel niyr ra'shiym veyesh nisefeh velo' mishefat.",
     "translation": "Muito alimento é preparado para as cabeças, e há quem tenha fome sem justiça."
   },
   {
     "verse": 24,
     "original": "חוֹשֵׂ֣ךְ שִׁ֭בְטוֹ שׂוֹנֵ֣א בְנ֑וֹ וְ֝אֹהֲב֗וֹ שִׁחֲר֥וֹ מוּסָֽר׃",
+    "transliteration": "hvosekhe shivetvo svone' venvo ve'ohavvo shiharvo mvsar.",
     "translation": "Que guarda a vara odeia o filho, mas aquele que o ama não descuida da sua disciplina."
   },
   {
     "verse": 25,
     "original": "צַדִּ֗יק אֹ֭כֵֽל לְשֹׂ֣בַע נַפְשׁ֑וֹ וּבֶ֖טֶן רְשָׁעִ֣ים תֶּחְסָֽר׃",
+    "transliteration": "tsadiyk 'okhel lesova' nafeshvo vveten resha'iym tehesar.",
     "translation": "O justo come e se sacia sua alma, mas o ventre dos perversos terá fome."
   }
 ]

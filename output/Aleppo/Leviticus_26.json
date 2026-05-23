@@ -2,231 +2,277 @@
   {
     "verse": 1,
     "original": "לֹֽא־תַעֲשׂ֨וּ לָכֶ֜ם אֱלִילִ֗ם וּפֶ֤סֶל וּמַצֵּבָה֙ לֹֽא־תָקִ֣ימוּ לָכֶ֔ם וְאֶ֣בֶן מַשְׂכִּ֗ית לֹ֤א תִתְּנוּ֙ בְּאַרְצְכֶ֔ם לְהִֽשְׁתַּחֲוֺ֖ת עָלֶ֑יהָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "lo'-ta'asv lakhem 'eliylim vfesel vmatsevah lo'-takiymv lakhem ve'even masekhiyt lo' titenv ve'aretsekhem lehishetahavot 'aleyha khiy 'aniy yehovah 'eloheykhem.",
     "translation": "Não fareis para vós ídolos vazios, nem ergueremos para vós estátuas ou colunas, e não poreis pedra esculpida em vosso país para adorardes sobre ela; porque eu sou o Senhor vosso Deus."
   },
   {
     "verse": 2,
     "original": "אֶת־שַׁבְּתֹתַ֣י תִּשְׁמֹ֔רוּ וּמִקְדָּשִׁ֖י תִּירָ֑אוּ אֲנִ֖י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'et-shavetotay tishemorv vmikedashiy tiyra'v 'aniy yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Guardareis os meus sábados e temereis o meu santuário; Eu sou o Senhor."
   },
   {
     "verse": 3,
     "original": "אִם־בְּחֻקֹּתַ֖י תֵּלֵ֑כוּ וְאֶת־מִצְוֺתַ֣י תִּשְׁמְר֔וּ וַעֲשִׂיתֶ֖ם אֹתָֽם׃",
+    "transliteration": "'im-vehukotay telekhv ve'et-mitsevotay tishemerv va'asiytem 'otam.",
     "translation": "Se andardes nos meus estatutos e guardardes os meus mandamentos, e os cumpriredes,"
   },
   {
     "verse": 4,
     "original": "וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֙רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן פִּרְיֽוֹ׃",
+    "transliteration": "venatatiy gishemeykhem ve'itam venatenah ha'arets yevvlah ve'ets hasadeh yiten fireyvo.",
     "translation": "E darei as vossas chuvas na sua devida estação, e a terra dará o seu fruto, e a árvore do campo produzirá o seu fruto."
   },
   {
     "verse": 5,
     "original": "וְהִשִּׂ֨יג לָכֶ֥ם דַּ֙יִשׁ֙ אֶת־בָּצִ֔יר וּבָצִ֖יר יַשִּׂ֣יג אֶת־זָ֑רַע וַאֲכַלְתֶּ֤ם לַחְמְכֶם֙ לָשֹׂ֔בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח בְּאַרְצְכֶֽם׃",
+    "transliteration": "vehisiyg lakhem dayish 'et-vatsiyr vvatsiyr yasiyg 'et-zara' va'akhaletem lahemekhem lasova' viyshavetem lavetah ve'aretsekhem.",
     "translation": "E a seiva alcançará o trigo, e o trigo alcançará a semente; e comerão vós vosso pão fartamente, e habitarão seguros em vossa terra."
   },
   {
     "verse": 6,
     "original": "וְנָתַתִּ֤י שָׁלוֹם֙ בָּאָ֔רֶץ וּשְׁכַבְתֶּ֖ם וְאֵ֣ין מַחֲרִ֑יד וְהִשְׁבַּתִּ֞י חַיָּ֤ה רָעָה֙ מִן־הָאָ֔רֶץ וְחֶ֖רֶב לֹא־תַעֲבֹ֥ר בְּאַרְצְכֶֽם׃",
+    "transliteration": "venatatiy shalvom va'arets vshekhavetem ve'eyn mahariyd vehishevatiy hayah ra'ah min-ha'arets veherev lo'-ta'avor ve'aretsekhem.",
     "translation": "E darei paz na terra, e dormireis, e ninguém vos perturbará; e farei cessar a fera voraz da terra, e a espada não passará mais pela vossa terra."
   },
   {
     "verse": 7,
     "original": "וּרְדַפְתֶּ֖ם אֶת־אֹיְבֵיכֶ֑ם וְנָפְל֥וּ לִפְנֵיכֶ֖ם לֶחָֽרֶב׃",
+    "transliteration": "vredafetem 'et-'oyeveykhem venafelv lifeneykhem leharev.",
     "translation": "E perseguireis vossos inimigos, e eles cairão diante de vós à espada."
   },
   {
     "verse": 8,
     "original": "וְרָדְפ֨וּ מִכֶּ֤ם חֲמִשָּׁה֙ מֵאָ֔ה וּמֵאָ֥ה מִכֶּ֖ם רְבָבָ֣ה יִרְדֹּ֑פוּ וְנָפְל֧וּ אֹיְבֵיכֶ֛ם לִפְנֵיכֶ֖ם לֶחָֽרֶב׃",
+    "transliteration": "veradefv mikhem hamishah me'ah vme'ah mikhem revavah yiredofv venafelv 'oyeveykhem lifeneykhem leharev.",
     "translation": "E cem de vocês perseguirão cinco mil, e cem dos seus inimigos fugirão diante de vocês; os vossos adversários cairão à espada diante de vós."
   },
   {
     "verse": 9,
     "original": "וּפָנִ֣יתִי אֲלֵיכֶ֔ם וְהִפְרֵיתִ֣י אֶתְכֶ֔ם וְהִרְבֵּיתִ֖י אֶתְכֶ֑ם וַהֲקִימֹתִ֥י אֶת־בְּרִיתִ֖י אִתְּכֶֽם׃",
+    "transliteration": "vfaniytiy 'aleykhem vehifereytiy 'etekhem vehireveytiy 'etekhem vahakiymotiy 'et-veriytiy 'itekhem.",
     "translation": "E me voltarei para vós, e multiplicarei-vos, e farei convosco um pacto eterno."
   },
   {
     "verse": 10,
     "original": "וַאֲכַלְתֶּ֥ם יָשָׁ֖ן נוֹשָׁ֑ן וְיָשָׁ֕ן מִפְּנֵ֥י חָדָ֖שׁ תּוֹצִֽיאוּ׃",
+    "transliteration": "va'akhaletem yashan nvoshan veyashan mifeney hadash tvotsiy'v.",
     "translation": "E comereis o velho guardado, e por causa do novo lançareis fora o velho."
   },
   {
     "verse": 11,
     "original": "וְנָתַתִּ֥י מִשְׁכָּנִ֖י בְּתוֹכְכֶ֑ם וְלֹֽא־תִגְעַ֥ל נַפְשִׁ֖י אֶתְכֶֽם׃",
+    "transliteration": "venatatiy mishekhaniy vetvokhekhem velo'-tige'al nafeshiy 'etekhem.",
     "translation": "E porei minha morada no meio de vós, e a minha alma não vos abominará."
   },
   {
     "verse": 12,
     "original": "וְהִתְהַלַּכְתִּי֙ בְּת֣וֹכְכֶ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וְאַתֶּ֖ם תִּהְיוּ־לִ֥י לְעָֽם׃",
+    "transliteration": "vehitehalakhetiy vetvokhekhem vehayiytiy lakhem le'lohiym ve'atem tiheyv-liy le'am.",
     "translation": "E caminharei no meio de vós, e serei vosso Deus, e vós sereis meu povo."
   },
   {
     "verse": 13,
     "original": "אֲנִ֞י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִֽהְיֹ֥ת לָהֶ֖ם עֲבָדִ֑ים וָאֶשְׁבֹּר֙ מֹטֹ֣ת עֻלְּכֶ֔ם וָאוֹלֵ֥ךְ אֶתְכֶ֖ם קֽוֹמְמִיּֽוּת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'aniy yehovah 'eloheykhem 'asher hvotse'tiy 'etekhem me'erets mitserayim miheyot lahem 'avadiym va'eshevor motot 'ulekhem va'volekhe 'etekhem kvomemiyvt.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito para não serdes mais seus servos; quebrei o jugo de vosso opróbrio e vos fiz andar ereto."
   },
   {
     "verse": 14,
     "original": "וְאִם־לֹ֥א תִשְׁמְע֖וּ לִ֑י וְלֹ֣א תַעֲשׂ֔וּ אֵ֥ת כׇּל־הַמִּצְוֺ֖ת הָאֵֽלֶּה׃",
+    "transliteration": "ve'im-lo' tisheme'v liy velo' ta'asv 'et khol-hamitsevot ha'eleh.",
     "translation": "E se não me ouvirdes e não fizerdes todos estes mandamentos:"
   },
   {
     "verse": 15,
     "original": "וְאִם־בְּחֻקֹּתַ֣י תִּמְאָ֔סוּ וְאִ֥ם אֶת־מִשְׁפָּטַ֖י תִּגְעַ֣ל נַפְשְׁכֶ֑ם לְבִלְתִּ֤י עֲשׂוֹת֙ אֶת־כׇּל־מִצְוֺתַ֔י לְהַפְרְכֶ֖ם אֶת־בְּרִיתִֽי׃",
+    "transliteration": "ve'im-vehukotay time'asv ve'im 'et-mishefatay tige'al nafeshekhem leviletiy 'asvot 'et-khol-mitsevotay lehaferekhem 'et-veriytiy.",
     "translation": "E, se abominardes os meus estatutos e desgostardes as minhas ordenanças, de modo que não cumprirdes todos os meus preceitos, para quebreis a minha aliança."
   },
   {
     "verse": 16,
     "original": "אַף־אֲנִ֞י אֶֽעֱשֶׂה־זֹּ֣את לָכֶ֗ם וְהִפְקַדְתִּ֨י עֲלֵיכֶ֤ם בֶּֽהָלָה֙ אֶת־הַשַּׁחֶ֣פֶת וְאֶת־הַקַּדַּ֔חַת מְכַלּ֥וֹת עֵינַ֖יִם וּמְדִיבֹ֣ת נָ֑פֶשׁ וּזְרַעְתֶּ֤ם לָרִיק֙ זַרְעֲכֶ֔ם וַאֲכָלֻ֖הוּ אֹיְבֵיכֶֽם׃",
+    "transliteration": "'af-'aniy 'e'eseh-zo't lakhem vehifekadetiy 'aleykhem vehalah 'et-hashahefet ve'et-hakadahat mekhalvot 'eynayim vmediyvot nafesh vzera'etem lariyk zare'akhem va'akhaluhv 'oyeveykhem.",
     "translation": "Também farei isso com vocês, e porei sobre vocês um manto de peste e de queimadura, cegando vosso olhar e desgastando vossas almas; e semeareis em vão vossa semente, e ela será consumida por vossos inimigos."
   },
   {
     "verse": 17,
     "original": "וְנָתַתִּ֤י פָנַי֙ בָּכֶ֔ם וְנִגַּפְתֶּ֖ם לִפְנֵ֣י אֹיְבֵיכֶ֑ם וְרָד֤וּ בָכֶם֙ שֹֽׂנְאֵיכֶ֔ם וְנַסְתֶּ֖ם וְאֵין־רֹדֵ֥ף אֶתְכֶֽם׃",
+    "transliteration": "venatatiy fanay vakhem venigafetem lifeney 'oyeveykhem veradv vakhem sone'eykhem venasetem ve'eyn-rodef 'etekhem.",
     "translation": "E porei minha face contra vós, e sereis derrotados diante dos vossos inimigos; e os que vos odeiam se sobrepujarão a vós, e fugireis, não havendo quem vos perseguirá."
   },
   {
     "verse": 18,
     "original": "וְאִ֨ם־עַד־אֵ֔לֶּה לֹ֥א תִשְׁמְע֖וּ לִ֑י וְיָסַפְתִּי֙ לְיַסְּרָ֣ה אֶתְכֶ֔ם שֶׁ֖בַע עַל־חַטֹּאתֵיכֶֽם׃",
+    "transliteration": "ve'im-'ad-'eleh lo' tisheme'v liy veyasafetiy leyaserah 'etekhem sheva' 'al-hato'teykhem.",
     "translation": "E ainda que não ouvis meus avisos, multiplicarei sobre vós os castigos sete vezes, conforme a vossa iniquidade."
   },
   {
     "verse": 19,
     "original": "וְשָׁבַרְתִּ֖י אֶת־גְּא֣וֹן עֻזְּכֶ֑ם וְנָתַתִּ֤י אֶת־שְׁמֵיכֶם֙ כַּבַּרְזֶ֔ל וְאֶֽת־אַרְצְכֶ֖ם כַּנְּחֻשָֽׁה׃",
+    "transliteration": "veshavaretiy 'et-ge'von 'uzekhem venatatiy 'et-shemeykhem khavarezel ve'et-'aretsekhem khanehushah.",
     "translation": "E quebrarei a soberba do vosso poder, e darei o nome de vós como ferro, e a vossa terra como cobre."
   },
   {
     "verse": 20,
     "original": "וְתַ֥ם לָרִ֖יק כֹּחֲכֶ֑ם וְלֹֽא־תִתֵּ֤ן אַרְצְכֶם֙ אֶת־יְבוּלָ֔הּ וְעֵ֣ץ הָאָ֔רֶץ לֹ֥א יִתֵּ֖ן פִּרְיֽוֹ׃",
+    "transliteration": "vetam lariyk khohakhem velo'-titen 'aretsekhem 'et-yevvlah ve'ets ha'arets lo' yiten fireyvo.",
     "translation": "E vazio se tornará o vosso vigor, e a vossa terra não dará o seu fruto; nem a árvore da terra dará o seu produto."
   },
   {
     "verse": 21,
     "original": "וְאִם־תֵּֽלְכ֤וּ עִמִּי֙ קֶ֔רִי וְלֹ֥א תֹאב֖וּ לִשְׁמֹ֣עַֽ לִ֑י וְיָסַפְתִּ֤י עֲלֵיכֶם֙ מַכָּ֔ה שֶׁ֖בַע כְּחַטֹּאתֵיכֶֽם׃",
+    "transliteration": "ve'im-telekhv 'imiy keriy velo' to'vv lishemo'a liy veyasafetiy 'aleykhem makhah sheva' khehato'teykhem.",
     "translation": "E se andardes comigo de rebelião, e não quiserdes ouvir a minha voz, acrescentarei sobre vós pragas sete vezes maiores conforme as vossas culpas."
   },
   {
     "verse": 22,
     "original": "וְהִשְׁלַחְתִּ֨י בָכֶ֜ם אֶת־חַיַּ֤ת הַשָּׂדֶה֙ וְשִׁכְּלָ֣ה אֶתְכֶ֔ם וְהִכְרִ֙יתָה֙ אֶת־בְּהֶמְתְּכֶ֔ם וְהִמְעִ֖יטָה אֶתְכֶ֑ם וְנָשַׁ֖מּוּ דַּרְכֵיכֶֽם׃",
+    "transliteration": "vehishelahetiy vakhem 'et-hayat hasadeh veshikhelah 'etekhem vehikheriytah 'et-vehemetekhem vehime'iytah 'etekhem venashamv darekheykhem.",
     "translation": "E enviarei sobre vós os animais da campina, e eles vos consumirão e exterminarão as vossas bestas, e vos diminuirão; e as vossas estradas se tornarão desertas."
   },
   {
     "verse": 23,
     "original": "וְאִ֨ם־בְּאֵ֔לֶּה לֹ֥א תִוָּסְר֖וּ לִ֑י וַהֲלַכְתֶּ֥ם עִמִּ֖י קֶֽרִי׃",
+    "transliteration": "ve'im-ve'eleh lo' tivaserv liy vahalakhetem 'imiy keriy.",
     "translation": "E se mesmo com isso não Me ouvirdes e andardes comigo relutantes,"
   },
   {
     "verse": 24,
     "original": "וְהָלַכְתִּ֧י אַף־אֲנִ֛י עִמָּכֶ֖ם בְּקֶ֑רִי וְהִכֵּיתִ֤י אֶתְכֶם֙ גַּם־אָ֔נִי שֶׁ֖בַע עַל־חַטֹּאתֵיכֶֽם׃",
+    "transliteration": "vehalakhetiy 'af-'aniy 'imakhem vekeriy vehikheytiy 'etekhem gam-'aniy sheva' 'al-hato'teykhem.",
     "translation": "E também eu caminharei contra vós em minha ira, e também vos ferirei sete vezes por causa das vossas transgressões."
   },
   {
     "verse": 25,
     "original": "וְהֵבֵאתִ֨י עֲלֵיכֶ֜ם חֶ֗רֶב נֹקֶ֙מֶת֙ נְקַם־בְּרִ֔ית וְנֶאֱסַפְתֶּ֖ם אֶל־עָרֵיכֶ֑ם וְשִׁלַּ֤חְתִּי דֶ֙בֶר֙ בְּת֣וֹכְכֶ֔ם וְנִתַּתֶּ֖ם בְּיַד־אוֹיֵֽב׃",
+    "transliteration": "veheve'tiy 'aleykhem herev nokemet nekam-veriyt vene'esafetem 'el-'areykhem veshilahetiy dever vetvokhekhem venitatem veyad-'voyev.",
     "translation": "E trarei sobre vós a espada daquele que cumpre a vingança da aliança, e sereis reunidos para as vossas cidades; lançarei a peste no meio de vós, e sereis entregues na mão do inimigo."
   },
   {
     "verse": 26,
     "original": "בְּשִׁבְרִ֣י לָכֶם֮ מַטֵּה־לֶ֒חֶם֒ וְ֠אָפ֠וּ עֶ֣שֶׂר נָשִׁ֤ים לַחְמְכֶם֙ בְּתַנּ֣וּר אֶחָ֔ד וְהֵשִׁ֥יבוּ לַחְמְכֶ֖ם בַּמִּשְׁקָ֑ל וַאֲכַלְתֶּ֖ם וְלֹ֥א תִשְׂבָּֽעוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veshiveriy lakhem mateh-lehem ve'afv 'eser nashiym lahemekhem vetanvr 'ehad veheshiyvv lahemekhem vamishekal va'akhaletem velo' tiseva'v.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Quebrarei para vós o pau do pão, e dez mulheres vos assarão o pão num único forno e restituí-lo-vos-ão pela medida; e comereis e não vos fartareis."
   },
   {
     "verse": 27,
     "original": "וְאִ֨ם־בְּזֹ֔את לֹ֥א תִשְׁמְע֖וּ לִ֑י וַהֲלַכְתֶּ֥ם עִמִּ֖י בְּקֶֽרִי׃",
+    "transliteration": "ve'im-vezo't lo' tisheme'v liy vahalakhetem 'imiy vekeriy.",
     "translation": "E se não ouvirdes a mim e andardes com rebeldia contra mim:"
   },
   {
     "verse": 28,
     "original": "וְהָלַכְתִּ֥י עִמָּכֶ֖ם בַּחֲמַת־קֶ֑רִי וְיִסַּרְתִּ֤י אֶתְכֶם֙ אַף־אָ֔נִי שֶׁ֖בַע עַל־חַטֹּאתֵיכֶֽם׃",
+    "transliteration": "vehalakhetiy 'imakhem vahamat-keriy veyisaretiy 'etekhem 'af-'aniy sheva' 'al-hato'teykhem.",
     "translation": "E caminharei convosco na fúria da ira, e castigarei também a vós sete vezes por vossas transgressões."
   },
   {
     "verse": 29,
     "original": "וַאֲכַלְתֶּ֖ם בְּשַׂ֣ר בְּנֵיכֶ֑ם וּבְשַׂ֥ר בְּנֹתֵיכֶ֖ם תֹּאכֵֽלוּ׃",
+    "transliteration": "va'akhaletem vesar veneykhem vvesar venoteykhem to'khelv.",
     "translation": "E comerdes a carne dos vossos filhos, e a carne das vossas filhas comereis."
   },
   {
     "verse": 30,
     "original": "וְהִשְׁמַדְתִּ֞י אֶת־בָּמֹֽתֵיכֶ֗ם וְהִכְרַתִּי֙ אֶת־חַמָּ֣נֵיכֶ֔ם וְנָֽתַתִּי֙ אֶת־פִּגְרֵיכֶ֔ם עַל־פִּגְרֵ֖י גִּלּוּלֵיכֶ֑ם וְגָעֲלָ֥ה נַפְשִׁ֖י אֶתְכֶֽם׃",
+    "transliteration": "vehishemadetiy 'et-vamoteykhem vehikheratiy 'et-hamaneykhem venatatiy 'et-figereykhem 'al-figerey gilvleykhem vega'alah nafeshiy 'etekhem.",
     "translation": "E destruirei vossos altos, e cortarei vossos incensários, e porei vossos cadáveres sobre os cadáveres dos vossos ídolos; e minha alma vos abominará."
   },
   {
     "verse": 31,
     "original": "וְנָתַתִּ֤י אֶת־עָֽרֵיכֶם֙ חׇרְבָּ֔ה וַהֲשִׁמּוֹתִ֖י אֶת־מִקְדְּשֵׁיכֶ֑ם וְלֹ֣א אָרִ֔יחַ בְּרֵ֖יחַ נִיחֹֽחֲכֶֽם׃",
+    "transliteration": "venatatiy 'et-'areykhem horevah vahashimvotiy 'et-mikedesheykhem velo' 'ariyha vereyha niyhohakhem.",
     "translation": "E darei às vossas cidades à espada e destruirei os vossos santuários, e não farei prazer ao perfume dos vossos incensos."
   },
   {
     "verse": 32,
     "original": "וַהֲשִׁמֹּתִ֥י אֲנִ֖י אֶת־הָאָ֑רֶץ וְשָֽׁמְמ֤וּ עָלֶ֙יהָ֙ אֹֽיְבֵיכֶ֔ם הַיֹּשְׁבִ֖ים בָּֽהּ׃",
+    "transliteration": "vahashimotiy 'aniy 'et-ha'arets veshamemv 'aleyha 'oyeveykhem hayosheviym vah.",
     "translation": "E eu desolarei a terra, e seus inimigos que nela habitam ficarão desolados."
   },
   {
     "verse": 33,
     "original": "וְאֶתְכֶם֙ אֱזָרֶ֣ה בַגּוֹיִ֔ם וַהֲרִיקֹתִ֥י אַחֲרֵיכֶ֖ם חָ֑רֶב וְהָיְתָ֤ה אַרְצְכֶם֙ שְׁמָמָ֔ה וְעָרֵיכֶ֖ם יִהְי֥וּ חׇרְבָּֽה׃",
+    "transliteration": "ve'etekhem 'ezareh vagvoyim vahariykotiy 'ahareykhem harev vehayetah 'aretsekhem shemamah ve'areykhem yiheyv horevah.",
     "translation": "E vos espalharei entre as nações, e após vós lançarei a espada, e será desolada a vossa terra, e vossas cidades se tornarão em ruínas."
   },
   {
     "verse": 34,
     "original": "אָז֩ תִּרְצֶ֨ה הָאָ֜רֶץ אֶת־שַׁבְּתֹתֶ֗יהָ כֹּ֚ל יְמֵ֣י הׇשַּׁמָּ֔הֿ וְאַתֶּ֖ם בְּאֶ֣רֶץ אֹיְבֵיכֶ֑ם אָ֚ז תִּשְׁבַּ֣ת הָאָ֔רֶץ וְהִרְצָ֖ת אֶת־שַׁבְּתֹתֶֽיהָ׃",
+    "transliteration": "'az tiretseh ha'arets 'et-shavetoteyha khol yemey hoshamah ve'atem ve'erets 'oyeveykhem 'az tishevat ha'arets vehiretsat 'et-shavetoteyha.",
     "translation": "Então a terra descansará os seus sábados, todos os anos da sua desolação, enquanto estareis na terra dos vossos inimigos; então a terra descansará e cumprirá os seus sábados."
   },
   {
     "verse": 35,
     "original": "כׇּל־יְמֵ֥י הׇשַּׁמָּ֖הֿ תִּשְׁבֹּ֑ת אֵ֣ת אֲשֶׁ֧ר לֹֽא־שָׁבְתָ֛ה בְּשַׁבְּתֹתֵיכֶ֖ם בְּשִׁבְתְּכֶ֥ם עָלֶֽיהָ׃",
+    "transliteration": "khol-yemey hoshamah tishevot 'et 'asher lo'-shavetah veshavetoteykhem veshivetekhem 'aleyha.",
     "translation": "Todos os dias da desolação você permanecerá com aquele que não descansou nos vossos sábados ao vos estabelecerdes sobre ela."
   },
   {
     "verse": 36,
     "original": "וְהַנִּשְׁאָרִ֣ים בָּכֶ֔ם וְהֵבֵ֤אתִי מֹ֙רֶךְ֙ בִּלְבָבָ֔ם בְּאַרְצֹ֖ת אֹיְבֵיהֶ֑ם וְרָדַ֣ף אֹתָ֗ם ק֚וֹל עָלֶ֣ה נִדָּ֔ף וְנָס֧וּ מְנֻֽסַת־חֶ֛רֶב וְנָפְל֖וּ וְאֵ֥ין רֹדֵֽף׃",
+    "transliteration": "vehanishe'ariym vakhem veheve'tiy morekhe vilevavam ve'aretsot 'oyeveyhem veradaf 'otam kvol 'aleh nidaf venasv menusat-herev venafelv ve'eyn rodef.",
     "translation": "E os que restarem de vós farei endurecer o coração em seus corações nas terras dos vossos inimigos; e com o rumor da espada, por detrás, eles fugirão, como quem foge à espada, e cairão sem perseguidor."
   },
   {
     "verse": 37,
     "original": "וְכָשְׁל֧וּ אִישׁ־בְּאָחִ֛יו כְּמִפְּנֵי־חֶ֖רֶב וְרֹדֵ֣ף אָ֑יִן וְלֹא־תִֽהְיֶ֤ה לָכֶם֙ תְּקוּמָ֔ה לִפְנֵ֖י אֹֽיְבֵיכֶֽם׃",
+    "transliteration": "vekhashelv 'iysh-ve'ahiyv khemifeney-herev verodef 'ayin velo'-tiheyeh lakhem tekvmah lifeney 'oyeveykhem.",
     "translation": "E tropeçará um homem no seu irmão como diante da espada, e não haverá quem os alcance; vocês não terão força alguma contra seus inimigos."
   },
   {
     "verse": 38,
     "original": "וַאֲבַדְתֶּ֖ם בַּגּוֹיִ֑ם וְאָכְלָ֣ה אֶתְכֶ֔ם אֶ֖רֶץ אֹיְבֵיכֶֽם׃",
+    "transliteration": "va'avadetem vagvoyim ve'akhelah 'etekhem 'erets 'oyeveykhem.",
     "translation": "E sereis aniquilados entre as nações, e a terra dos vossos inimigos vos consumirá."
   },
   {
     "verse": 39,
     "original": "וְהַנִּשְׁאָרִ֣ים בָּכֶ֗ם יִמַּ֙קּוּ֙ בַּֽעֲוֺנָ֔ם בְּאַרְצֹ֖ת אֹיְבֵיכֶ֑ם וְאַ֛ף בַּעֲוֺנֹ֥ת אֲבֹתָ֖ם אִתָּ֥ם יִמָּֽקּוּ׃",
+    "transliteration": "vehanishe'ariym vakhem yimakv va'avonam ve'aretsot 'oyeveykhem ve'af va'avonot 'avotam 'itam yimakv.",
     "translation": "E os que restarem de vós serão consumidos pelos seus pecados na terra dos vossos inimigos, e também pelos pecados de vossos pais eles serão consumidos."
   },
   {
     "verse": 40,
     "original": "וְהִתְוַדּ֤וּ אֶת־עֲוֺנָם֙ וְאֶת־עֲוֺ֣ן אֲבֹתָ֔ם בְּמַעֲלָ֖ם אֲשֶׁ֣ר מָֽעֲלוּ־בִ֑י וְאַ֕ף אֲשֶׁר־הָֽלְכ֥וּ עִמִּ֖י בְּקֶֽרִי׃",
+    "transliteration": "vehitevadv 'et-'avonam ve'et-'avon 'avotam vema'alam 'asher ma'alv-viy ve'af 'asher-halekhv 'imiy vekeriy.",
     "translation": "E confessarão seu pecado e o pecado de seus pais, pela sua traição com que me traíram, e também por terem andado contra mim com obstinação."
   },
   {
     "verse": 41,
     "original": "אַף־אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ־אָ֣ז יִכָּנַ֗ע לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת־עֲוֺנָֽם׃",
+    "transliteration": "'af-'aniy 'elekhe 'imam vekeriy veheve'tiy 'otam ve'erets 'oyeveyhem 'vo-'az yikhana' levavam he'arel ve'az yiretsv 'et-'avonam.",
     "translation": "Também eu irei com eles em sua angústia e os farei chegar à terra dos seus inimigos; então se submeterá o coração do incircunciso, e então haverão prazer na expiação dos seus pecados."
   },
   {
     "verse": 42,
     "original": "וְזָכַרְתִּ֖י אֶת־בְּרִיתִ֣י יַעֲק֑וֹב וְאַף֩ אֶת־בְּרִיתִ֨י יִצְחָ֜ק וְאַ֨ף אֶת־בְּרִיתִ֧י אַבְרָהָ֛ם אֶזְכֹּ֖ר וְהָאָ֥רֶץ אֶזְכֹּֽר׃",
+    "transliteration": "vezakharetiy 'et-veriytiy ya'akvov ve'af 'et-veriytiy yitsehak ve'af 'et-veriytiy 'averaham 'ezekhor veha'arets 'ezekhor.",
     "translation": "E me lembrarei da minha aliança com Jacó, e também da minha aliança com Isaque, e igualmente da minha aliança com Abraão me recordarei; sim, a terra me será lembrada."
   },
   {
     "verse": 43,
     "original": "וְהָאָ֩רֶץ֩ תֵּעָזֵ֨ב מֵהֶ֜ם וְתִ֣רֶץ אֶת־שַׁבְּתֹתֶ֗יהָ בׇּהְשַׁמָּהֿ֙ מֵהֶ֔ם וְהֵ֖ם יִרְצ֣וּ אֶת־עֲוֺנָ֑ם יַ֣עַן וּבְיַ֔עַן בְּמִשְׁפָּטַ֣י מָאָ֔סוּ וְאֶת־חֻקֹּתַ֖י גָּעֲלָ֥ה נַפְשָֽׁם׃",
+    "transliteration": "veha'arets te'azev mehem vetirets 'et-shavetoteyha voheshamah mehem vehem yiretsv 'et-'avonam ya'an vveya'an vemishefatay ma'asv ve'et-hukotay ga'alah nafesham.",
     "translation": "E a terra descansará deles e cumprirá suas sábias pausas; na sua desolação por eles, e eles compensarão seu pecado. Porquanto desprezaram os meus juízos, e o espírito deles abominou as minhas leis."
   },
   {
     "verse": 44,
     "original": "וְאַף־גַּם־זֹ֠את בִּֽהְיוֹתָ֞ם בְּאֶ֣רֶץ אֹֽיְבֵיהֶ֗ם לֹֽא־מְאַסְתִּ֤ים וְלֹֽא־גְעַלְתִּים֙ לְכַלֹּתָ֔ם לְהָפֵ֥ר בְּרִיתִ֖י אִתָּ֑ם כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיהֶֽם׃",
+    "transliteration": "ve'af-gam-zo't viheyvotam ve'erets 'oyeveyhem lo'-me'asetiym velo'-ge'aletiym lekhalotam lehafer veriytiy 'itam khiy 'aniy yehovah 'eloheyhem.",
     "translation": "E mesmo assim, quando eles estiveram na terra dos seus inimigos, eu não os desprezei nem os abandonei para aniquilá-los, para quebrar minha aliança com eles; pois eu sou o Senhor seu Deus."
   },
   {
     "verse": 45,
     "original": "וְזָכַרְתִּ֥י לָהֶ֖ם בְּרִ֣ית רִאשֹׁנִ֑ים אֲשֶׁ֣ר הוֹצֵֽאתִי־אֹתָם֩ מֵאֶ֨רֶץ מִצְרַ֜יִם לְעֵינֵ֣י הַגּוֹיִ֗ם לִהְי֥וֹת לָהֶ֛ם לֵאלֹהִ֖ים אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "vezakharetiy lahem veriyt ri'shoniym 'asher hvotse'tiy-'otam me'erets mitserayim le'eyney hagvoyim liheyvot lahem le'lohiym 'aniy yehovah.",
     "translation": "E me lembrarei para eles da aliança dos primeiros, que os tirei da terra do Egito à vista das nações, para ser eu o seu Deus; eu sou o Senhor."
   },
   {
     "verse": 46,
     "original": "אֵ֠לֶּה הַֽחֻקִּ֣ים וְהַמִּשְׁפָּטִים֮ וְהַתּוֹרֹת֒ אֲשֶׁר֙ נָתַ֣ן יְהֹוָ֔ה בֵּינ֕וֹ וּבֵ֖ין בְּנֵ֣י יִשְׂרָאֵ֑ל בְּהַ֥ר סִינַ֖י בְּיַד־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'eleh hahukiym vehamishefatiym vehatvorot 'asher natan yehovah veynvo vveyn veney yisera'el vehar siynay veyad-mosheh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Estes são os estatutos e os juízos e as leis que o Senhor deu entre ele e os filhos de Israel no monte Sinai pela mão de Moisés."
   }
 ]

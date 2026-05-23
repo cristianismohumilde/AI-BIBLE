@@ -2,146 +2,175 @@
   {
     "verse": 1,
     "original": "תְּ֭פִלָּה לְעָנִ֣י כִֽי־יַעֲטֹ֑ף וְלִפְנֵ֥י יְ֝הֹוָ֗ה יִשְׁפֹּ֥ךְ שִׂיחֽוֹ׃",
+    "transliteration": "tefilah le'aniy khiy-ya'atof velifeney yehovah yishefokhe siyhvo.",
     "translation": "Oração do aflito, quando se desfalece; e ele derrama seu queixume perante o Senhor."
   },
   {
     "verse": 2,
     "original": "יְ֭הֹוָה שִׁמְעָ֣ה תְפִלָּתִ֑י וְ֝שַׁוְעָתִ֗י אֵלֶ֥יךָ תָבֽוֹא׃",
+    "transliteration": "yehovah shime'ah tefilatiy veshave'atiy 'eleykha tavvo'.",
     "translation": "Senhor, ouve minha oração; que minha súplica chegue até ti."
   },
   {
     "verse": 3,
     "original": "אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ&thinsp;<b>׀</b> מִמֶּנִּי֮ בְּי֢וֹם צַ֫ר<span class=\"mam-implicit-maqaf\">־</span>לִ֥י הַטֵּֽה־אֵלַ֥י אׇזְנֶ֑ךָ בְּי֥וֹם אֶ֝קְרָ֗א מַהֵ֥ר עֲנֵֽנִי׃",
+    "transliteration": "'al-taseter faneykha&thinsp;<b>|</b> mimeniy veyvom tsar<span class=\"mam-implicit-maqaf\">-</span>liy hateh-'elay 'ozenekha veyvom 'ekera' maher 'aneniy.",
     "translation": "Não escondas o teu rosto de mim, no dia da angústia. Inclina para mim os teus ouvidos; no dia em que clamo, apressa-te a responder-me."
   },
   {
     "verse": 4,
     "original": "כִּֽי־כָל֣וּ בְעָשָׁ֣ן יָמָ֑י וְ֝עַצְמוֹתַ֗י כְּמוֹקֵ֥ד נִחָֽרוּ׃",
+    "transliteration": "khiy-khalv ve'ashan yamay ve'atsemvotay khemvoked niharv.",
     "translation": "Porque meus dias se consumiram em fumaça, e minhas entranhas se calcinaram como carvão."
   },
   {
     "verse": 5,
     "original": "הוּכָּה־כָעֵ֣שֶׂב וַיִּבַ֣שׁ לִבִּ֑י כִּֽי־שָׁ֝כַ֗חְתִּי מֵאֲכֹ֥ל לַחְמִֽי׃",
+    "transliteration": "hvkhah-kha'esev vayivash liviy khiy-shakhahetiy me'akhol lahemiy.",
     "translation": "Foi ferido como o joio, e meu coração se secou, porque me esqueci de comer o meu pão."
   },
   {
     "verse": 6,
     "original": "מִקּ֥וֹל אַנְחָתִ֑י דָּבְקָ֥ה עַ֝צְמִ֗י לִבְשָׂרִֽי׃",
+    "transliteration": "mikvol 'anehatiy davekah 'atsemiy livesariy.",
     "translation": "Do som do meu gemido, minha carne se agarra aos meus ossos."
   },
   {
     "verse": 7,
     "original": "דָּ֭מִיתִי לִקְאַ֣ת מִדְבָּ֑ר הָ֝יִ֗יתִי כְּכ֣וֹס חֳרָבֽוֹת׃",
+    "transliteration": "damiytiy like'at midevar hayiytiy khekhvos horavvot.",
     "translation": "Comparei-me a um gafanhoto do deserto, tornei-me como uma sombra que passa."
   },
   {
     "verse": 8,
     "original": "שָׁקַ֥דְתִּי וָאֶהְיֶ֑ה כְּ֝צִפּ֗וֹר בּוֹדֵ֥ד עַל־גָּֽג׃",
+    "transliteration": "shakadetiy va'eheyeh khetsifvor vvoded 'al-gag.",
     "translation": "Fiquei vigilante e ali estava eu, como uma ave solitária sobre o telhado."
   },
   {
     "verse": 9,
     "original": "כׇּל־הַ֭יּוֹם חֵרְפ֣וּנִי אוֹיְבָ֑י מְ֝הוֹלָלַ֗י בִּ֣י נִשְׁבָּֽעוּ׃",
+    "transliteration": "khol-hayvom herefvniy 'voyevay mehvolalay viy nisheva'v.",
     "translation": "Todo o dia me insultam os meus inimigos; jurando contra mim, são meus adversários."
   },
   {
     "verse": 10,
     "original": "כִּי־אֵ֭פֶר כַּלֶּ֣חֶם אָכָ֑לְתִּי וְ֝שִׁקֻּוַ֗י בִּבְכִ֥י מָסָֽכְתִּי׃",
+    "transliteration": "khiy-'efer khalehem 'akhaletiy veshikuvay vivekhiy masakhetiy.",
     "translation": "Pois eu comi cinzas como pão e misturei lágrimas com minha bebida."
   },
   {
     "verse": 11,
     "original": "מִפְּנֵֽי־זַעַמְךָ֥ וְקִצְפֶּ֑ךָ כִּ֥י נְ֝שָׂאתַ֗נִי וַתַּשְׁלִיכֵֽנִי׃",
+    "transliteration": "mifeney-za'amekha vekitsefekha khiy nesa'taniy vatasheliykheniy.",
     "translation": "Por causa de tua ira e teu furor, pois me elevaste e depois me lançaste fora."
   },
   {
     "verse": 12,
     "original": "יָ֭מַי כְּצֵ֣ל נָט֑וּי וַ֝אֲנִ֗י כָּעֵ֥שֶׂב אִיבָֽשׁ׃",
+    "transliteration": "yamay khetsel natvy va'aniy kha'esev 'iyvash.",
     "translation": "Meus dias são como a sombra que se inclina, e eu sou como o feno secado."
   },
   {
     "verse": 13,
     "original": "וְאַתָּ֣ה יְ֭הֹוָה לְעוֹלָ֣ם תֵּשֵׁ֑ב וְ֝זִכְרְךָ֗ לְדֹ֣ר וָדֹֽר׃",
+    "transliteration": "ve'atah yehovah le'volam teshev vezikherekha ledor vador.",
     "translation": "E tu, Senhor, assentar-te-ás para sempre, e a tua memória durará de geração em geração."
   },
   {
     "verse": 14,
     "original": "אַתָּ֣ה תָ֭קוּם תְּרַחֵ֣ם צִיּ֑וֹן כִּי־עֵ֥ת לְ֝חֶֽנְנָ֗הּ כִּי־בָ֥א מוֹעֵֽד׃",
+    "transliteration": "'atah takvm terahem tsiyvon khiy-'et lehenenah khiy-va' mvo'ed.",
     "translation": "Tu te levantarás para ter misericórdia de Sião, pois é tempo de favorecê-la, pois chegou o seu momento."
   },
   {
     "verse": 15,
     "original": "כִּי־רָצ֣וּ עֲ֭בָדֶיךָ אֶת־אֲבָנֶ֑יהָ וְֽאֶת־עֲפָרָ֥הּ יְחֹנֵֽנוּ׃",
+    "transliteration": "khiy-ratsv 'avadeykha 'et-'avaneyha ve'et-'afarah yehonenv.",
     "translation": "Pois teus servos desejam sua pedra, e em seu pó se alegram."
   },
   {
     "verse": 16,
     "original": "וְיִֽירְא֣וּ ג֭וֹיִם אֶת־שֵׁ֣ם יְהֹוָ֑ה וְֽכׇל־מַלְכֵ֥י הָ֝אָ֗רֶץ אֶת־כְּבוֹדֶֽךָ׃",
+    "transliteration": "veyiyre'v gvoyim 'et-shem yehovah vekhol-malekhey ha'arets 'et-khevvodekha.",
     "translation": "E as nações temerão o nome do Senhor, e todos os reis da terra a tua glória."
   },
   {
     "verse": 17,
     "original": "כִּי־בָנָ֣ה יְהֹוָ֣ה צִיּ֑וֹן נִ֝רְאָ֗ה בִּכְבוֹדֽוֹ׃",
+    "transliteration": "khiy-vanah yehovah tsiyvon nire'ah vikhevvodvo.",
     "translation": "Pois o Senhor construirá Zion; nele será manifesta a sua glória."
   },
   {
     "verse": 18,
     "original": "פָּ֭נָה אֶל־תְּפִלַּ֣ת הָעַרְעָ֑ר וְלֹא־בָ֝זָ֗ה אֶת־תְּפִלָּתָֽם׃",
+    "transliteration": "fanah 'el-tefilat ha'are'ar velo'-vazah 'et-tefilatam.",
     "translation": "Virou-se para a oração do necessitado e não desprezou suas súplicas."
   },
   {
     "verse": 19,
     "original": "תִּכָּ֣תֶב זֹ֭את לְד֣וֹר אַחֲר֑וֹן וְעַ֥ם נִ֝בְרָ֗א יְהַלֶּל־יָֽהּ׃",
+    "transliteration": "tikhatev zo't ledvor 'aharvon ve'am nivera' yehalel-yah.",
     "translation": "Grava isto para a geração futura, e o povo que for criado louvará ao Senhor."
   },
   {
     "verse": 20,
     "original": "כִּֽי־הִ֭שְׁקִיף מִמְּר֣וֹם קׇדְשׁ֑וֹ יְ֝הֹוָ֗ה מִשָּׁמַ֤יִם&thinsp;<b>׀</b> אֶל־אֶ֬רֶץ הִבִּֽיט׃",
+    "transliteration": "khiy-hishekiyf mimervom kodeshvo yehovah mishamayim&thinsp;<b>|</b> 'el-'erets hiviyt.",
     "translation": "Pois do alto de seu santo recinto ele olha; dos céus, o Senhor observa a terra."
   },
   {
     "verse": 21,
     "original": "לִ֭שְׁמֹעַ אֶנְקַ֣ת אָסִ֑יר לְ֝פַתֵּ֗חַ בְּנֵ֣י תְמוּתָֽה׃",
+    "transliteration": "lishemo'a 'enekat 'asiyr lefateha veney temvtah.",
     "translation": "Para ouvir o gemido do prisioneiro, para libertar os destinados à morte."
   },
   {
     "verse": 22,
     "original": "לְסַפֵּ֣ר בְּ֭צִיּוֹן שֵׁ֣ם יְהֹוָ֑ה וּ֝תְהִלָּת֗וֹ בִּירוּשָׁלָֽ͏ִם׃",
+    "transliteration": "lesafer vetsiyvon shem yehovah vtehilatvo viyrvshalaim.",
     "translation": "Para anunciar em Sião o nome do Senhor e sua glória em Jerusalém."
   },
   {
     "verse": 23,
     "original": "בְּהִקָּבֵ֣ץ עַמִּ֣ים יַחְדָּ֑ו וּ֝מַמְלָכ֗וֹת לַעֲבֹ֥ד אֶת־יְהֹוָֽה׃",
+    "transliteration": "vehikavets 'amiym yahedav vmamelakhvot la'avod 'et-yehovah.",
     "translation": "Quando ajuntar os povos em conjunto e as nações para servir ao Senhor."
   },
   {
     "verse": 24,
     "original": "עִנָּ֖ה בַדֶּ֥רֶךְ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(כחו)</span> <span class=\"mam-kq-q\">[כֹּחִ֗י]</span></span> קִצַּ֥ר יָמָֽי׃",
+    "transliteration": "'inah vaderekhe <span class=\"mam-kq\"><span class=\"mam-kq-k\">(khhv)</span> <span class=\"mam-kq-q\">[khohiy]</span></span> kitsar yamay.",
     "translation": "Inclina-te no caminho do meu poder, abrevia meus dias."
   },
   {
     "verse": 25,
     "original": "אֹמַ֗ר אֵלִ֗י אַֽל־תַּ֭עֲלֵנִי בַּחֲצִ֣י יָמָ֑י בְּד֖וֹר דּוֹרִ֣ים שְׁנוֹתֶֽיךָ׃",
+    "transliteration": "'omar 'eliy 'al-ta'aleniy vahatsiy yamay vedvor dvoriym shenvoteykha.",
     "translation": "Digo, ó meu Deus: não me arrebates na metade dos meus dias; que os teus anos se estendam sobre mim."
   },
   {
     "verse": 26,
     "original": "לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם׃",
+    "transliteration": "lefaniym ha'arets yasadeta vma'aseh yadeykha shamayim.",
     "translation": "Antes de toda a terra fundaste, e os céus são o trabalho de tuas mãos."
   },
   {
     "verse": 27,
     "original": "הֵ֤מָּה&thinsp;<b>׀</b> יֹאבֵדוּ֮ וְאַתָּ֢ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם וְֽיַחֲלֹֽפוּ׃",
+    "transliteration": "hemah&thinsp;<b>|</b> yo'vedv ve'atah ta'amod vekhulam khaveged yivelv khalevvsh tahaliyfem veyahalofv.",
     "translation": "Eles se consumirão, e tu permanecerás; todos eles se desgastarão como uma vestimenta, como um manto os mudarás, e eles serão mudados."
   },
   {
     "verse": 28,
     "original": "וְאַתָּה־ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ׃",
+    "transliteration": "ve'atah-hv' vshenvoteykha lo' yitamv.",
     "translation": "E tu és ele, e os teus anos não terão fim."
   },
   {
     "verse": 29,
     "original": "בְּנֵֽי־עֲבָדֶ֥יךָ יִשְׁכּ֑וֹנוּ וְ֝זַרְעָ֗ם לְפָנֶ֥יךָ יִכּֽוֹן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veney-'avadeykha yishekhvonv vezare'am lefaneykha yikhvon.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Os filhos de teus servos habitarão, e a sua semente será estabelecida diante de ti."
   }
 ]

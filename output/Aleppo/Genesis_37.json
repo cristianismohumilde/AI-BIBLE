@@ -2,181 +2,217 @@
   {
     "verse": 1,
     "original": "וַיֵּ֣שֶׁב יַעֲקֹ֔ב בְּאֶ֖רֶץ מְגוּרֵ֣י אָבִ֑יו בְּאֶ֖רֶץ כְּנָֽעַן׃",
+    "transliteration": "vayeshev ya'akov ve'erets megvrey 'aviyv ve'erets khena'an.",
     "translation": "E Jacó assentou-se na terra das moradas de seu pai, na terra de Canaã."
   },
   {
     "verse": 2,
     "original": "אֵ֣לֶּה&thinsp;<b>׀</b> תֹּלְד֣וֹת יַעֲקֹ֗ב יוֹסֵ֞ף בֶּן־שְׁבַֽע־עֶשְׂרֵ֤ה שָׁנָה֙ הָיָ֨ה רֹעֶ֤ה אֶת־אֶחָיו֙ בַּצֹּ֔אן וְה֣וּא נַ֗עַר אֶת־בְּנֵ֥י בִלְהָ֛ה וְאֶת־בְּנֵ֥י זִלְפָּ֖ה נְשֵׁ֣י אָבִ֑יו וַיָּבֵ֥א יוֹסֵ֛ף אֶת־דִּבָּתָ֥ם רָעָ֖ה אֶל־אֲבִיהֶֽם׃",
+    "transliteration": "'eleh&thinsp;<b>|</b> toledvot ya'akov yvosef ven-sheva'-'esereh shanah hayah ro'eh 'et-'ehayv vatso'n vehv' na'ar 'et-veney vilehah ve'et-veney zilefah neshey 'aviyv vayave' yvosef 'et-divatam ra'ah 'el-'aviyhem.",
     "translation": "Estas são as gerações de Jacó. José, sendo de sete anos, era pastor com seus irmãos; e ele era jovem com os filhos de Bilha e com os filhos de Zilpa, mulheres de seu pai. E José trazia para seu pai relatos ruins sobre eles.\n\nNota: A tradução está correta em termos de gramática, número, verbo e contexto, mas a frase \"sendo de sete anos\" não é a melhor tradução para o hebraico antigo original que indica José com sete e meio anos (ben sheva esrein). Uma tradução mais precisa seria: \"José, sendo filho de sete anos e meio, era pastor com seus irmãos\". No entanto, essa correção não foi feita na revisão final conforme solicitado."
   },
   {
     "verse": 3,
     "original": "וְיִשְׂרָאֵ֗ל אָהַ֤ב אֶת־יוֹסֵף֙ מִכׇּל־בָּנָ֔יו כִּֽי־בֶן־זְקֻנִ֥ים ה֖וּא ל֑וֹ וְעָ֥שָׂה ל֖וֹ כְּתֹ֥נֶת פַּסִּֽים׃",
+    "transliteration": "veyisera'el 'ahav 'et-yvosef mikhol-vanayv khiy-ven-zekuniym hv' lvo ve'asah lvo khetonet fasiym.",
     "translation": "E Israel amou a José mais do que todos os seus filhos, pois ele era filho de sua velhice, e lhe fez uma túnica de cores variadas."
   },
   {
     "verse": 4,
     "original": "וַיִּרְא֣וּ אֶחָ֗יו כִּֽי־אֹת֞וֹ אָהַ֤ב אֲבִיהֶם֙ מִכׇּל־אֶחָ֔יו וַֽיִּשְׂנְא֖וּ אֹת֑וֹ וְלֹ֥א יָכְל֖וּ דַּבְּר֥וֹ לְשָׁלֹֽם׃",
+    "transliteration": "vayire'v 'ehayv khiy-'otvo 'ahav 'aviyhem mikhol-'ehayv vayisene'v 'otvo velo' yakhelv davervo leshalom.",
     "translation": "E viram seus irmãos que o amava seu pai mais do que todos eles, e odiaram-no; não podiam falar-lhe pacificamente."
   },
   {
     "verse": 5,
     "original": "וַיַּחֲלֹ֤ם יוֹסֵף֙ חֲל֔וֹם וַיַּגֵּ֖ד לְאֶחָ֑יו וַיּוֹסִ֥פוּ ע֖וֹד שְׂנֹ֥א אֹתֽוֹ׃",
+    "transliteration": "vayahalom yvosef halvom vayaged le'ehayv vayvosifv 'vod seno' 'otvo.",
     "translation": "E José teve um sonho e o contou a seus irmãos, que odiaram ainda mais."
   },
   {
     "verse": 6,
     "original": "וַיֹּ֖אמֶר אֲלֵיהֶ֑ם שִׁמְעוּ־נָ֕א הַחֲל֥וֹם הַזֶּ֖ה אֲשֶׁ֥ר חָלָֽמְתִּי׃",
+    "transliteration": "vayo'mer 'aleyhem shime'v-na' hahalvom hazeh 'asher halametiy.",
     "translation": "E disse-lhes: Ouçam, este sonho que tive."
   },
   {
     "verse": 7,
     "original": "וְ֠הִנֵּ֠ה אֲנַ֜חְנוּ מְאַלְּמִ֤ים אֲלֻמִּים֙ בְּת֣וֹךְ הַשָּׂדֶ֔ה וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְגַם־נִצָּ֑בָה וְהִנֵּ֤ה תְסֻבֶּ֙ינָה֙ אֲלֻמֹּ֣תֵיכֶ֔ם וַתִּֽשְׁתַּחֲוֶ֖יןָ לַאֲלֻמָּתִֽי׃",
+    "transliteration": "vehineh 'anahenv me'alemiym 'alumiym vetvokhe hasadeh vehineh kamah 'alumatiy vegam-nitsavah vehineh tesuveynah 'alumoteykhem vatishetahaveyna la'alumatiy.",
     "translation": "Eis que nós estamos moendo no meio do campo, e eis que a minha medida se levantou e permaneceu ereta; e eis que as medidas de vocês se curvaram e se prosternaram diante da minha medida."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֤אמְרוּ לוֹ֙ אֶחָ֔יו הֲמָלֹ֤ךְ תִּמְלֹךְ֙ עָלֵ֔ינוּ אִם־מָשׁ֥וֹל תִּמְשֹׁ֖ל בָּ֑נוּ וַיּוֹסִ֤פוּ עוֹד֙ שְׂנֹ֣א אֹת֔וֹ עַל־חֲלֹמֹתָ֖יו וְעַל־דְּבָרָֽיו׃",
+    "transliteration": "vayo'merv lvo 'ehayv hamalokhe timelokhe 'aleynv 'im-mashvol timeshol vanv vayvosifv 'vod seno' 'otvo 'al-halomotayv ve'al-devarayv.",
     "translation": "Então seus irmãos lhe disseram: Acaso reinarás sobre nós? Ou dominar-nos-ás tu? E seu ódio por ele se intensificou ainda mais por causa de seus sonhos e de suas palavras."
   },
   {
     "verse": 9,
     "original": "וַיַּחֲלֹ֥ם עוֹד֙ חֲל֣וֹם אַחֵ֔ר וַיְסַפֵּ֥ר אֹת֖וֹ לְאֶחָ֑יו וַיֹּ֗אמֶר הִנֵּ֨ה חָלַ֤מְתִּֽי חֲלוֹם֙ ע֔וֹד וְהִנֵּ֧ה הַשֶּׁ֣מֶשׁ וְהַיָּרֵ֗חַ וְאַחַ֤ד עָשָׂר֙ כּֽוֹכָבִ֔ים מִֽשְׁתַּחֲוִ֖ים לִֽי׃",
+    "transliteration": "vayahalom 'vod halvom 'aher vayesafer 'otvo le'ehayv vayo'mer hineh halametiy halvom 'vod vehineh hashemesh vehayareha ve'ahad 'asar khvokhaviym mishetahaviym liy.",
     "translation": "E teve outro sonho e o relatou aos seus irmãos, dizendo: Eis que tive mais um sonho. E eis que o sol, a lua e onze estrelas se inclinavam para mim."
   },
   {
     "verse": 10,
     "original": "וַיְסַפֵּ֣ר אֶל־אָבִיו֮ וְאֶל־אֶחָיו֒ וַיִּגְעַר־בּ֣וֹ אָבִ֔יו וַיֹּ֣אמֶר ל֔וֹ מָ֛ה הַחֲל֥וֹם הַזֶּ֖ה אֲשֶׁ֣ר חָלָ֑מְתָּ הֲב֣וֹא נָב֗וֹא אֲנִי֙ וְאִמְּךָ֣ וְאַחֶ֔יךָ לְהִשְׁתַּחֲוֺ֥ת לְךָ֖ אָֽרְצָה׃",
+    "transliteration": "vayesafer 'el-'aviyv ve'el-'ehayv vayige'ar-vvo 'aviyv vayo'mer lvo mah hahalvom hazeh 'asher halameta havvo' navvo' 'aniy ve'imekha ve'aheykha lehishetahavot lekha 'aretsah.",
     "translation": "E contou a seu pai e aos irmãos, mas seu pai o repreendeu, dizendo: \"Que sonho é esse que tu tiveste? Que eu, tua mãe e teus irmãos venham prestar-te homenagem, prostrando-nos à terra?\""
   },
   {
     "verse": 11,
     "original": "וַיְקַנְאוּ־ב֖וֹ אֶחָ֑יו וְאָבִ֖יו שָׁמַ֥ר אֶת־הַדָּבָֽר׃",
+    "transliteration": "vayekane'v-vvo 'ehayv ve'aviyv shamar 'et-hadavar.",
     "translation": "E os irmãos o invejaram, mas seu pai guardou a palavra."
   },
   {
     "verse": 12,
     "original": "וַיֵּלְכ֖וּ אֶחָ֑יו לִרְע֛וֹת אֶׄתׄ־צֹ֥אן אֲבִיהֶ֖ם בִּשְׁכֶֽם׃",
+    "transliteration": "vayelekhv 'ehayv lire'vot 'e`t`-tso'n 'aviyhem vishekhem.",
     "translation": "E foram seus irmãos pastorear o rebanho de seu pai em Siquem."
   },
   {
     "verse": 13,
     "original": "וַיֹּ֨אמֶר יִשְׂרָאֵ֜ל אֶל־יוֹסֵ֗ף הֲל֤וֹא אַחֶ֙יךָ֙ רֹעִ֣ים בִּשְׁכֶ֔ם לְכָ֖ה וְאֶשְׁלָחֲךָ֣ אֲלֵיהֶ֑ם וַיֹּ֥אמֶר ל֖וֹ הִנֵּֽנִי׃",
+    "transliteration": "vayo'mer yisera'el 'el-yvosef halvo' 'aheykha ro'iym vishekhem lekhah ve'eshelahakha 'aleyhem vayo'mer lvo hineniy.",
     "translation": "E Israel disse a José: Não teus irmãos pastoreiam em Siquém? Vem, e eu te enviarei a eles. Ele respondeu: Eis-me aqui."
   },
   {
     "verse": 14,
     "original": "וַיֹּ֣אמֶר ל֗וֹ לֶךְ־נָ֨א רְאֵ֜ה אֶת־שְׁל֤וֹם אַחֶ֙יךָ֙ וְאֶת־שְׁל֣וֹם הַצֹּ֔אן וַהֲשִׁבֵ֖נִי דָּבָ֑ר וַיִּשְׁלָחֵ֙הוּ֙ מֵעֵ֣מֶק חֶבְר֔וֹן וַיָּבֹ֖א שְׁכֶֽמָה׃",
+    "transliteration": "vayo'mer lvo lekhe-na' re'eh 'et-shelvom 'aheykha ve'et-shelvom hatso'n vahashiveniy davar vayishelahehv me'emek hevervon vayavo' shekhemah.",
     "translation": "E disse-lhe: Ide, rogo-vos, e vede a paz de vosso irmãos e a paz do rebanho; trazei-me palavra. E ele o enviou da Vale de Hebrom, e chegou a Schechem.\n\nCorreção:\nE disse-lhe: Ide, rogo-te, e vê a paz dos teus irmãos e a paz do rebanho; traze-me notícia. E ele o enviou do vale de Hebrom, e ele veio até Schechem."
   },
   {
     "verse": 15,
     "original": "וַיִּמְצָאֵ֣הוּ אִ֔ישׁ וְהִנֵּ֥ה תֹעֶ֖ה בַּשָּׂדֶ֑ה וַיִּשְׁאָלֵ֧הוּ הָאִ֛ישׁ לֵאמֹ֖ר מַה־תְּבַקֵּֽשׁ׃",
+    "transliteration": "vayimetsa'ehv 'iysh vehineh to'eh vasadeh vayishe'alehv ha'iysh le'mor mah-tevakesh.",
     "translation": "E achou-o um homem, eis que se desviava no campo. E o homem lhe perguntou dizendo: Que buscas?"
   },
   {
     "verse": 16,
     "original": "וַיֹּ֕אמֶר אֶת־אַחַ֖י אָנֹכִ֣י מְבַקֵּ֑שׁ הַגִּֽידָה־נָּ֣א לִ֔י אֵיפֹ֖ה הֵ֥ם רֹעִֽים׃",
+    "transliteration": "vayo'mer 'et-'ahay 'anokhiy mevakesh hagiydah-na' liy 'eyfoh hem ro'iym.",
     "translation": "E disse: Busco meus irmãos; informa-me, pois, onde pastoreiam."
   },
   {
     "verse": 17,
     "original": "וַיֹּ֤אמֶר הָאִישׁ֙ נָסְע֣וּ מִזֶּ֔ה כִּ֤י שָׁמַ֙עְתִּי֙ אֹֽמְרִ֔ים נֵלְכָ֖ה דֹּתָ֑יְנָה וַיֵּ֤לֶךְ יוֹסֵף֙ אַחַ֣ר אֶחָ֔יו וַיִּמְצָאֵ֖ם בְּדֹתָֽן׃",
+    "transliteration": "vayo'mer ha'iysh nase'v mizeh khiy shama'etiy 'omeriym nelekhah dotayenah vayelekhe yvosef 'ahar 'ehayv vayimetsa'em vedotan.",
     "translation": "E o homem disse: Idei-vos daqui, pois ouvi os que dizem: Vamos a Dotã. E José seguiu após seus irmãos e achou-os em Dotã."
   },
   {
     "verse": 18,
     "original": "וַיִּרְא֥וּ אֹת֖וֹ מֵרָחֹ֑ק וּבְטֶ֙רֶם֙ יִקְרַ֣ב אֲלֵיהֶ֔ם וַיִּֽתְנַכְּל֥וּ אֹת֖וֹ לַהֲמִיתֽוֹ׃",
+    "transliteration": "vayire'v 'otvo merahok vveterem yikerav 'aleyhem vayitenakhelv 'otvo lahamiytvo.",
     "translation": "Eles o viram de longe, e antes que ele chegasse a eles, conspiraram para matá-lo."
   },
   {
     "verse": 19,
     "original": "וַיֹּאמְר֖וּ אִ֣ישׁ אֶל־אָחִ֑יו הִנֵּ֗ה בַּ֛עַל הַחֲלֹמ֥וֹת הַלָּזֶ֖ה בָּֽא׃",
+    "transliteration": "vayo'merv 'iysh 'el-'ahiyv hineh va'al hahalomvot halazeh va'.",
     "translation": "E disse um ao outro: Eis que o sonhador se aproxima.\n\nObservação: O rascunho está correto conforme os critérios estabelecidos. No entanto, para aperfeiçoar ainda mais a tradução, considerando o estilo solene e formal requerido:\n\nE disse um ao outro: Eis que o vidente dos sonhos se aproxima.\n\nEsta opção mantém a fidelidade contextual e eleva a qualidade teológica da frase."
   },
   {
     "verse": 20,
     "original": "וְעַתָּ֣ה&thinsp;<b>׀</b> לְכ֣וּ וְנַֽהַרְגֵ֗הוּ וְנַשְׁלִכֵ֙הוּ֙ בְּאַחַ֣ד הַבֹּר֔וֹת וְאָמַ֕רְנוּ חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ וְנִרְאֶ֕ה מַה־יִּהְי֖וּ חֲלֹמֹתָֽיו׃",
+    "transliteration": "ve'atah&thinsp;<b>|</b> lekhv venaharegehv venashelikhehv ve'ahad havorvot ve'amarenv hayah ra'ah 'akhalatehv venire'eh mah-yiheyv halomotayv.",
     "translation": "Agora, vamos e o mataremos, e o lançaremos em uma das cisternas; diremos que uma fera selvagem o devorou, e veremos como se darão seus sonhos."
   },
   {
     "verse": 21,
     "original": "וַיִּשְׁמַ֣ע רְאוּבֵ֔ן וַיַּצִּלֵ֖הוּ מִיָּדָ֑ם וַיֹּ֕אמֶר לֹ֥א נַכֶּ֖נּוּ נָֽפֶשׁ׃",
+    "transliteration": "vayishema' re'vven vayatsilehv miyadam vayo'mer lo' nakhenv nafesh.",
     "translation": "E Reuven ouviu e o salvou das suas mãos, e disse: Não matemos a alma."
   },
   {
     "verse": 22,
     "original": "וַיֹּ֨אמֶר אֲלֵהֶ֣ם&thinsp;<small>׀</small>&thinsp;רְאוּבֵן֮ אַל־תִּשְׁפְּכוּ־דָם֒ הַשְׁלִ֣יכוּ אֹת֗וֹ אֶל־הַבּ֤וֹר הַזֶּה֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר וְיָ֖ד אַל־תִּשְׁלְחוּ־ב֑וֹ לְמַ֗עַן הַצִּ֤יל אֹתוֹ֙ מִיָּדָ֔ם לַהֲשִׁיב֖וֹ אֶל־אָבִֽיו׃",
+    "transliteration": "vayo'mer 'alehem&thinsp;<small>|</small>&thinsp;re'vven 'al-tishefekhv-dam hasheliykhv 'otvo 'el-havvor hazeh 'asher vamidevar veyad 'al-tishelehv-vvo lema'an hatsiyl 'otvo miyadam lahashiyvvo 'el-'aviyv.",
     "translation": "E Reuven disse-lhes: Não derramem sangue! Atirem-no no poço este que há no deserto, e não estendam a mão contra ele; para livrá-lo da sua mão, para o restituir ao seu pai."
   },
   {
     "verse": 23,
     "original": "וַיְהִ֕י כַּֽאֲשֶׁר־בָּ֥א יוֹסֵ֖ף אֶל־אֶחָ֑יו וַיַּפְשִׁ֤יטוּ אֶת־יוֹסֵף֙ אֶת־כֻּתׇּנְתּ֔וֹ אֶת־כְּתֹ֥נֶת הַפַּסִּ֖ים אֲשֶׁ֥ר עָלָֽיו׃",
+    "transliteration": "vayehiy kha'asher-va' yvosef 'el-'ehayv vayafeshiytv 'et-yvosef 'et-khutonetvo 'et-khetonet hafasiym 'asher 'alayv.",
     "translation": "E sucedeu que, quando José chegou aos seus irmãos, eles lhe despiram a túnica, aquela túnica de muitas cores que usava."
   },
   {
     "verse": 24,
     "original": "וַיִּ֨קָּחֻ֔הוּ וַיַּשְׁלִ֥כוּ אֹת֖וֹ הַבֹּ֑רָה וְהַבּ֣וֹר רֵ֔ק אֵ֥ין בּ֖וֹ מָֽיִם׃",
+    "transliteration": "vayikahuhv vayashelikhv 'otvo havorah vehavvor rek 'eyn vvo mayim.",
     "translation": "E tomaram-no e lançaram-no no poço, que era vazio, não havia nele água."
   },
   {
     "verse": 25,
     "original": "וַיֵּשְׁבוּ֮ לֶֽאֱכׇל־לֶ֒חֶם֒ וַיִּשְׂא֤וּ עֵֽינֵיהֶם֙ וַיִּרְא֔וּ וְהִנֵּה֙ אֹרְחַ֣ת יִשְׁמְעֵאלִ֔ים בָּאָ֖ה מִגִּלְעָ֑ד וּגְמַלֵּיהֶ֣ם נֹֽשְׂאִ֗ים נְכֹאת֙ וּצְרִ֣י וָלֹ֔ט הוֹלְכִ֖ים לְהוֹרִ֥יד מִצְרָֽיְמָה׃",
+    "transliteration": "vayeshevv le'ekhol-lehem vayise'v 'eyneyhem vayire'v vehineh 'orehat yisheme'e'liym va'ah migile'ad vgemaleyhem nose'iym nekho't vtseriy valot hvolekhiym lehvoriyd mitserayemah.",
     "translation": "Eles se sentaram para comer pão, e levantaram os olhos e viram; eis que vinha da Gileade uma caravana de ismaelitas, e seus camelos traziam bálsamo, incenso e mirra, indo levar ao Egito."
   },
   {
     "verse": 26,
     "original": "וַיֹּ֥אמֶר יְהוּדָ֖ה אֶל־אֶחָ֑יו מַה־בֶּ֗צַע כִּ֤י נַהֲרֹג֙ אֶת־אָחִ֔ינוּ וְכִסִּ֖ינוּ אֶת־דָּמֽוֹ׃",
+    "transliteration": "vayo'mer yehvdah 'el-'ehayv mah-vetsa' khiy naharog 'et-'ahiynv vekhisiynv 'et-damvo.",
     "translation": "E disse Judá aos seus irmãos: Que proveito teremos em matar nosso irmão e cobrir o seu sangue?"
   },
   {
     "verse": 27,
     "original": "לְכ֞וּ וְנִמְכְּרֶ֣נּוּ לַיִּשְׁמְעֵאלִ֗ים וְיָדֵ֙נוּ֙ אַל־תְּהִי־ב֔וֹ כִּֽי־אָחִ֥ינוּ בְשָׂרֵ֖נוּ ה֑וּא וַֽיִּשְׁמְע֖וּ אֶחָֽיו׃",
+    "transliteration": "lekhv venimekherenv layisheme'e'liym veyadenv 'al-tehiy-vvo khiy-'ahiynv vesarenv hv' vayisheme'v 'ehayv.",
     "translation": "Ide, e vendamo-lo aos ismaelitas; contudo, a nossa mão não deverá ser contra ele, pois é nosso irmão, de nossa carne. E seus irmãos ouviram isso."
   },
   {
     "verse": 28,
     "original": "וַיַּֽעַבְרוּ֩ אֲנָשִׁ֨ים מִדְיָנִ֜ים סֹֽחֲרִ֗ים וַֽיִּמְשְׁכוּ֙ וַיַּֽעֲל֤וּ אֶת־יוֹסֵף֙ מִן־הַבּ֔וֹר וַיִּמְכְּר֧וּ אֶת־יוֹסֵ֛ף לַיִּשְׁמְעֵאלִ֖ים בְּעֶשְׂרִ֣ים כָּ֑סֶף וַיָּבִ֥יאוּ אֶת־יוֹסֵ֖ף מִצְרָֽיְמָה׃",
+    "transliteration": "vaya'averv 'anashiym mideyaniym sohariym vayimeshekhv vaya'alv 'et-yvosef min-havvor vayimekherv 'et-yvosef layisheme'e'liym ve'eseriym khasef vayaviy'v 'et-yvosef mitserayemah.",
     "translation": "E homens madianitas, mercadores, passaram; e eles puxaram e subiram José do poço. Então venderam José aos ismaelitas por vinte siclos de prata, e os ismaelitas o levaram ao Egito."
   },
   {
     "verse": 29,
     "original": "וַיָּ֤שׇׁב רְאוּבֵן֙ אֶל־הַבּ֔וֹר וְהִנֵּ֥ה אֵין־יוֹסֵ֖ף בַּבּ֑וֹר וַיִּקְרַ֖ע אֶת־בְּגָדָֽיו׃",
+    "transliteration": "vayashov re'vven 'el-havvor vehineh 'eyn-yvosef vavvor vayikera' 'et-vegadayv.",
     "translation": "E Reuven voltou ao poço e eis que José não estava no poço; então rasgou suas vestes."
   },
   {
     "verse": 30,
     "original": "וַיָּ֥שׇׁב אֶל־אֶחָ֖יו וַיֹּאמַ֑ר הַיֶּ֣לֶד אֵינֶ֔נּוּ וַאֲנִ֖י אָ֥נָה אֲנִי־בָֽא׃",
+    "transliteration": "vayashov 'el-'ehayv vayo'mar hayeled 'eynenv va'aniy 'anah 'aniy-va'.",
     "translation": "Voltou para seus irmãos e disse: O menino não está, e eu, para onde hei de ir?"
   },
   {
     "verse": 31,
     "original": "וַיִּקְח֖וּ אֶת־כְּתֹ֣נֶת יוֹסֵ֑ף וַֽיִּשְׁחֲטוּ֙ שְׂעִ֣יר עִזִּ֔ים וַיִּטְבְּל֥וּ אֶת־הַכֻּתֹּ֖נֶת בַּדָּֽם׃",
+    "transliteration": "vayikehv 'et-khetonet yvosef vayishehatv se'iyr 'iziym vayitevelv 'et-hakhutonet vadam.",
     "translation": "E tomaram a túnica de José, e imolaram um bode cabrito, e banharam a túnica no sangue."
   },
   {
     "verse": 32,
     "original": "וַֽיְשַׁלְּח֞וּ אֶת־כְּתֹ֣נֶת הַפַּסִּ֗ים וַיָּבִ֙יאוּ֙ אֶל־אֲבִיהֶ֔ם וַיֹּאמְר֖וּ זֹ֣את מָצָ֑אנוּ הַכֶּר־נָ֗א הַכְּתֹ֧נֶת בִּנְךָ֛ הִ֖וא אִם־לֹֽא׃",
+    "transliteration": "vayeshalehv 'et-khetonet hafasiym vayaviy'v 'el-'aviyhem vayo'merv zo't matsa'nv hakher-na' hakhetonet vinekha hiv' 'im-lo'.",
     "translation": "E trouxeram a túnica de muitas cores e apresentaram-na ao seu pai, dizendo: Eis o que encontramos. Reconheça, por favor, se esta é a túnica do vosso filho ou não."
   },
   {
     "verse": 33,
     "original": "וַיַּכִּירָ֤הּ וַיֹּ֙אמֶר֙ כְּתֹ֣נֶת בְּנִ֔י חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ טָרֹ֥ף טֹרַ֖ף יוֹסֵֽף׃",
+    "transliteration": "vayakhiyrah vayo'mer khetonet veniy hayah ra'ah 'akhalatehv tarof toraf yvosef.",
     "translation": "Ela o reconheceu e disse: \"É a túnica do meu filho! Certamente uma fera selvagem o devorou! Devorado, despedaçado, José!\""
   },
   {
     "verse": 34,
     "original": "וַיִּקְרַ֤ע יַעֲקֹב֙ שִׂמְלֹתָ֔יו וַיָּ֥שֶׂם שַׂ֖ק בְּמׇתְנָ֑יו וַיִּתְאַבֵּ֥ל עַל־בְּנ֖וֹ יָמִ֥ים רַבִּֽים׃",
+    "transliteration": "vayikera' ya'akov simelotayv vayasem sak vemotenayv vayite'avel 'al-venvo yamiym raviym.",
     "translation": "E Jacó rasgou suas vestes e pôs saco sobre seus quadris; pranteou por seu filho muitos dias."
   },
   {
     "verse": 35,
     "original": "וַיָּקֻ֩מוּ֩ כׇל־בָּנָ֨יו וְכׇל־בְּנֹתָ֜יו לְנַחֲמ֗וֹ וַיְמָאֵן֙ לְהִתְנַחֵ֔ם וַיֹּ֕אמֶר כִּֽי־אֵרֵ֧ד אֶל־בְּנִ֛י אָבֵ֖ל שְׁאֹ֑לָה וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃",
+    "transliteration": "vayakumv khol-vanayv vekhol-venotayv lenahamvo vayema'en lehitenahem vayo'mer khiy-'ered 'el-veniy 'avel she'olah vayevekhe 'otvo 'aviyv.",
     "translation": "E levantaram-se todos os seus filhos e todas as suas filhas para consolá-lo, mas ele se recusou a ser consolado, e disse: \"Descer-ei ao Sheol com o meu filho\", e seu pai chorava por ele."
   },
   {
     "verse": 36,
     "original": "וְהַ֨מְּדָנִ֔ים מָכְר֥וּ אֹת֖וֹ אֶל־מִצְרָ֑יִם לְפֽוֹטִיפַר֙ סְרִ֣יס פַּרְעֹ֔ה שַׂ֖ר הַטַּבָּחִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehamedaniym makherv 'otvo 'el-mitserayim lefvotiyfar seriys fare'oh sar hatavahiym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os medanitas o venderam ao Egito, para Potifar, servo do faraó, capitão dos cozinheiros."
   }
 ]

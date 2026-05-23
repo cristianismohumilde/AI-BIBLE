@@ -2,66 +2,79 @@
   {
     "verse": 1,
     "original": "εἰς τὸ τέλος ὑπὲρ Ιδιθουν ψαλμὸς τῷ Δαυιδ ",
+    "transliteration": "eis to telos hyper Idithoyn psalmos to Dayid ",
     "translation": "Até ao fim para Idítumom, salmo de Davi"
   },
   {
     "verse": 2,
     "original": "οὐχὶ τῷ θεῷ ὑποταγήσεται ἡ ψυχή μου παρ’ αὐτοῦ γὰρ τὸ σωτήριόν μου ",
+    "transliteration": "oychi to theo hypotagisetai hi psychi moy par' aytoy gar to sotirion moy ",
     "translation": "Não será minha alma submissa ao Deus? Pois dele vem a minha salvação."
   },
   {
     "verse": 3,
     "original": "καὶ γὰρ αὐτὸς θεός μου καὶ σωτήρ μου ἀντιλήμπτωρ μου οὐ μὴ σαλευθῶ ἐπὶ πλεῖον ",
+    "transliteration": "kai gar aytos theos moy kai sotir moy antilimptor moy oy mi saleytho epi pleion ",
     "translation": "Pois ele mesmo é meu Deus e meu Salvador, minha fortaleza; não serei abalado mais."
   },
   {
     "verse": 4,
     "original": "ἕως πότε ἐπιτίθεσθε ἐπ’ ἄνθρωπον φονεύετε πάντες ὡς τοίχῳ κεκλιμένῳ καὶ φραγμῷ ὠσμένῳ ",
+    "transliteration": "heos pote epitithesthe ep' anthropon foneyete pantes hos toicho keklimeno kai fragmo osmeno ",
     "translation": "Até quando vos lançais sobre o homem, matais todos como um muro inclinado e uma barreira empurrada?"
   },
   {
     "verse": 5,
     "original": "πλὴν τὴν τιμήν μου ἐβουλεύσαντο ἀπώσασθαι ἔδραμον ἐν ψεύδει τῷ στόματι αὐτῶν εὐλογοῦσαν καὶ τῇ καρδίᾳ αὐτῶν κατηρῶντο διάψαλμα ",
+    "transliteration": "plin tin timin moy evoyleysanto aposasthai edramon en pseydei to stomati ayton eylogoysan kai ti kardia ayton katironto diapsalma ",
     "translation": "No entanto, quiseram afastar a minha glória; correram com mentiras na boca, bendizendo, mas no coração odiavam. Diápsalma."
   },
   {
     "verse": 6,
     "original": "πλὴν τῷ θεῷ ὑποτάγηθι ἡ ψυχή μου ὅτι παρ’ αὐτοῦ ἡ ὑπομονή μου ",
+    "transliteration": "plin to theo hypotagithi hi psychi moy hoti par' aytoy hi hypomoni moy ",
     "translation": "Mas, ó minha alma, sujeita-te a Deus, pois dele é o meu auxílio."
   },
   {
     "verse": 7,
     "original": "ὅτι αὐτὸς θεός μου καὶ σωτήρ μου ἀντιλήμπτωρ μου οὐ μὴ μεταναστεύσω ",
+    "transliteration": "hoti aytos theos moy kai sotir moy antilimptor moy oy mi metanasteyso ",
     "translation": "pois ele é o meu Deus e o meu Salvador, o meu refúgio; não me desviarei."
   },
   {
     "verse": 8,
     "original": "ἐπὶ τῷ θεῷ τὸ σωτήριόν μου καὶ ἡ δόξα μου ὁ θεὸς τῆς βοηθείας μου καὶ ἡ ἐλπίς μου ἐπὶ τῷ θεῷ ",
+    "transliteration": "epi to theo to sotirion moy kai hi doxa moy ho theos tis voitheias moy kai hi elpis moy epi to theo ",
     "translation": "Sobre Deus é a minha salvação, e a minha glória; Deus é a ajuda do meu triunfo e a minha esperança está em Deus."
   },
   {
     "verse": 9,
     "original": "ἐλπίσατε ἐπ’ αὐτόν πᾶσα συναγωγὴ λαοῦ ἐκχέετε ἐνώπιον αὐτοῦ τὰς καρδίας ὑμῶν ὁ θεὸς βοηθὸς ἡμῶν διάψαλμα ",
+    "transliteration": "elpisate ep' ayton pasa synagogi laoy ekcheete enopion aytoy tas kardias hymon ho theos voithos himon diapsalma ",
     "translation": "põe esperança nele, toda congregação do povo; despejam diante dele os vossos corações, Deus é o nosso auxílio."
   },
   {
     "verse": 10,
     "original": "πλὴν μάταιοι οἱ υἱοὶ τῶν ἀνθρώπων ψευδεῖς οἱ υἱοὶ τῶν ἀνθρώπων ἐν ζυγοῖς τοῦ ἀδικῆσαι αὐτοὶ ἐκ ματαιότητος ἐπὶ τὸ αὐτό ",
+    "transliteration": "plin mataioi ohi yhioi ton anthropon pseydeis ohi yhioi ton anthropon en zygois toy adikisai aytoi ek mataiotitos epi to ayto ",
     "translation": "Mas vãos são os filhos dos homens, mentirosos os filhos dos homens; com laços de iniqüidade eles se unem, vaidade sobre vaidade."
   },
   {
     "verse": 11,
     "original": "μὴ ἐλπίζετε ἐπὶ ἀδικίαν καὶ ἐπὶ ἅρπαγμα μὴ ἐπιποθεῖτε πλοῦτος ἐὰν ῥέῃ μὴ προστίθεσθε καρδίαν ",
+    "transliteration": "mi elpizete epi adikian kai epi harpagma mi epipotheite ploytos ean rhei mi prostithesthe kardian ",
     "translation": "Não vos aproveiteis da iniqüidade, nem codiciemos o despojo; se a riqueza flui, não lhe deis vossa coração. \n\nObservação: O texto original está em Grego Antigo (Septuaginta), e há um erro no número gramatical na tradução para o português. A forma correta seria:\n\nNão vos aproveiteis da iniqüidade, nem codiciéis o despojo; se a riqueza flui, não lhe deis vossos corações."
   },
   {
     "verse": 12,
     "original": "ἅπαξ ἐλάλησεν ὁ θεός δύο ταῦτα ἤκουσα ",
+    "transliteration": "hapax elalisen ho theos dyo tayta ikoysa ",
     "translation": "Uma vez falou Deus, duas vezes ouvi isso."
   },
   {
     "verse": 13,
     "original": "ὅτι τὸ κράτος τοῦ θεοῦ καὶ σοί κύριε τὸ ἔλεος ὅτι σὺ ἀποδώσεις ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ ",
+    "transliteration": "hoti to kratos toy theoy kai soi kyrie to eleos hoti sy apodoseis hekasto kata ta erga aytoy ",
     "translation": "porque o poder do Deus e a misericórdia, ó Senhor, tu recompensarás cada um conforme as suas obras."
   }
 ]

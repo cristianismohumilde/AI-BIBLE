@@ -2,216 +2,259 @@
   {
     "verse": 1,
     "original": "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו ה֥וּא אֱדֽוֹם׃",
+    "transliteration": "ve'eleh toledvot 'esav hv' 'edvom.",
     "translation": "E estas são as gerações de Esaú; ele é Edom."
   },
   {
     "verse": 2,
     "original": "עֵשָׂ֛ו לָקַ֥ח אֶת־נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־עָדָ֗ה בַּת־אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־אׇהֳלִֽיבָמָה֙ בַּת־עֲנָ֔ה בַּת־צִבְע֖וֹן הַֽחִוִּֽי׃",
+    "transliteration": "'esav lakah 'et-nashayv mivenvot khena'an 'et-'adah vat-'eylvon hahitiy ve'et-'oholiyvamah vat-'anah vat-tsive'von hahiviy.",
     "translation": "Esaú tomou suas mulheres dentre as filhas de Canaã: Adá, filha de Eilon o heteu, e Aholibama, filha de Aná, filha de Zibeão o hivita."
   },
   {
     "verse": 3,
     "original": "וְאֶת־בָּשְׂמַ֥ת בַּת־יִשְׁמָעֵ֖אל אֲח֥וֹת נְבָיֽוֹת׃",
+    "transliteration": "ve'et-vasemat vat-yishema'e'l 'ahvot nevayvot.",
     "translation": "E a casa de Ismael, irmã de Nevoá."
   },
   {
     "verse": 4,
     "original": "וַתֵּ֧לֶד עָדָ֛ה לְעֵשָׂ֖ו אֶת־אֱלִיפָ֑ז וּבָ֣שְׂמַ֔ת יָלְדָ֖ה אֶת־רְעוּאֵֽל׃",
+    "transliteration": "vateled 'adah le'esav 'et-'eliyfaz vvasemat yaledah 'et-re'v'el.",
     "translation": "E Adá deu a Esaú Elifaz, e Basemat lhe deu Reuel."
   },
   {
     "verse": 5,
     "original": "וְאׇהֳלִֽיבָמָה֙ יָֽלְדָ֔ה אֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[יְע֥וּשׁ]</span> <span class=\"mam-kq-k\">(יעיש)</span></span> וְאֶת־יַעְלָ֖ם וְאֶת־קֹ֑רַח אֵ֚לֶּה בְּנֵ֣י עֵשָׂ֔ו אֲשֶׁ֥ר יֻלְּדוּ־ל֖וֹ בְּאֶ֥רֶץ כְּנָֽעַן׃",
+    "transliteration": "ve'oholiyvamah yaledah 'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ye'vsh]</span> <span class=\"mam-kq-k\">(y'ys)</span></span> ve'et-ya'elam ve'et-korah 'eleh veney 'esav 'asher yuledv-lvo ve'erets khena'an.",
     "translation": "E Aholibama gerou a Jaush, e a Jaalam, e a Korah. Estes são os filhos de Esaú, que lhe foram gerados na terra de Canaã."
   },
   {
     "verse": 6,
     "original": "וַיִּקַּ֣ח עֵשָׂ֡ו אֶת־נָ֠שָׁ֠יו וְאֶת־בָּנָ֣יו וְאֶת־בְּנֹתָיו֮ וְאֶת־כׇּל־נַפְשׁ֣וֹת בֵּיתוֹ֒ וְאֶת־מִקְנֵ֣הוּ וְאֶת־כׇּל־בְּהֶמְתּ֗וֹ וְאֵת֙ כׇּל־קִנְיָנ֔וֹ אֲשֶׁ֥ר רָכַ֖שׁ בְּאֶ֣רֶץ כְּנָ֑עַן וַיֵּ֣לֶךְ אֶל־אֶ֔רֶץ מִפְּנֵ֖י יַעֲקֹ֥ב אָחִֽיו׃",
+    "transliteration": "vayikah 'esav 'et-nashayv ve'et-vanayv ve'et-venotayv ve'et-khol-nafeshvot veytvo ve'et-mikenehv ve'et-khol-vehemetvo ve'et khol-kineyanvo 'asher rakhash ve'erets khena'an vayelekhe 'el-'erets mifeney ya'akov 'ahiyv.",
     "translation": "E tomou Esaú suas mulheres, e seus filhos, e suas filhas, e todas as almas de sua casa, e seu gado, e toda a sua possessão que havia adquirido na terra de Canaã; e partiu para a terra, diante de Jacó, seu irmão."
   },
   {
     "verse": 7,
     "original": "כִּֽי־הָיָ֧ה רְכוּשָׁ֛ם רָ֖ב מִשֶּׁ֣בֶת יַחְדָּ֑ו וְלֹ֨א יָֽכְלָ֜ה אֶ֤רֶץ מְגֽוּרֵיהֶם֙ לָשֵׂ֣את אֹתָ֔ם מִפְּנֵ֖י מִקְנֵיהֶֽם׃",
+    "transliteration": "khiy-hayah rekhvsham rav mishevet yahedav velo' yakhelah 'erets megvreyhem lase't 'otam mifeney mikeneyhem.",
     "translation": "Porque o seu rebanho era numeroso demais para habitarem juntos, e a terra dos seus pastos não podia suportá-los por causa do gado."
   },
   {
     "verse": 8,
     "original": "וַיֵּ֤שֶׁב עֵשָׂו֙ בְּהַ֣ר שֵׂעִ֔יר עֵשָׂ֖ו ה֥וּא אֱדֽוֹם׃",
+    "transliteration": "vayeshev 'esav vehar se'iyr 'esav hv' 'edvom.",
     "translation": "Esaú habitou na montanha de Seir; Esaú é Edom."
   },
   {
     "verse": 9,
     "original": "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו אֲבִ֣י אֱד֑וֹם בְּהַ֖ר שֵׂעִֽיר׃",
+    "transliteration": "ve'eleh toledvot 'esav 'aviy 'edvom vehar se'iyr.",
     "translation": "E estes são os descendentes de Esaú, pai dos edomitas, na montanha de Seir."
   },
   {
     "verse": 10,
     "original": "אֵ֖לֶּה שְׁמ֣וֹת בְּנֵֽי־עֵשָׂ֑ו אֱלִיפַ֗ז בֶּן־עָדָה֙ אֵ֣שֶׁת עֵשָׂ֔ו רְעוּאֵ֕ל בֶּן־בָּשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "transliteration": "'eleh shemvot veney-'esav 'eliyfaz ven-'adah 'eshet 'esav re'v'el ven-vasemat 'eshet 'esav.",
     "translation": "Estes são os nomes dos filhos de Esaú: Elifaz, filho de Adá, mulher de Esaú; Reuel, filho de Basemat, mulher de Esaú."
   },
   {
     "verse": 11,
     "original": "וַיִּהְי֖וּ בְּנֵ֣י אֱלִיפָ֑ז תֵּימָ֣ן אוֹמָ֔ר צְפ֥וֹ וְגַעְתָּ֖ם וּקְנַֽז׃",
+    "transliteration": "vayiheyv veney 'eliyfaz teyman 'vomar tsefvo vega'etam vkenaz.",
     "translation": "E os filhos de Elifaz foram Téman, Omar, Zefão, Gaatã e Quenez."
   },
   {
     "verse": 12,
     "original": "וְתִמְנַ֣ע&thinsp;<b>׀</b> הָיְתָ֣ה פִילֶ֗גֶשׁ לֶֽאֱלִיפַז֙ בֶּן־עֵשָׂ֔ו וַתֵּ֥לֶד לֶאֱלִיפַ֖ז אֶת־עֲמָלֵ֑ק אֵ֕לֶּה בְּנֵ֥י עָדָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃",
+    "transliteration": "vetimena'&thinsp;<b>|</b> hayetah fiylegesh le'eliyfaz ven-'esav vateled le'eliyfaz 'et-'amalek 'eleh veney 'adah 'eshet 'esav.",
     "translation": "E Timna foi concubina de Elifaz, filho de Esaú; e ela lhe deu à luz Amaleque. Estes são os filhos de Adá, mulher de Esaú."
   },
   {
     "verse": 13,
     "original": "וְאֵ֙לֶּה֙ בְּנֵ֣י רְעוּאֵ֔ל נַ֥חַת וָזֶ֖רַח שַׁמָּ֣ה וּמִזָּ֑ה אֵ֣לֶּה הָי֔וּ בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "transliteration": "ve'eleh veney re'v'el nahat vazerah shamah vmizah 'eleh hayv veney vasemat 'eshet 'esav.",
     "translation": "E estes são os filhos de Reuel: Naate, Zera, Shine e Miza. Estes foram os filhos de Básamat, esposa de Esaú."
   },
   {
     "verse": 14,
     "original": "וְאֵ֣לֶּה הָי֗וּ בְּנֵ֨י אׇהֳלִיבָמָ֧ה בַת־עֲנָ֛ה בַּת־צִבְע֖וֹן אֵ֣שֶׁת עֵשָׂ֑ו וַתֵּ֣לֶד לְעֵשָׂ֔ו אֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[יְע֥וּשׁ]</span> <span class=\"mam-kq-k\">(יעיש)</span></span> וְאֶת־יַעְלָ֖ם וְאֶת־קֹֽרַח׃",
+    "transliteration": "ve'eleh hayv veney 'oholiyvamah vat-'anah vat-tsive'von 'eshet 'esav vateled le'esav 'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ye'vsh]</span> <span class=\"mam-kq-k\">(y'ys)</span></span> ve'et-ya'elam ve'et-korah.",
     "translation": "E estes foram os filhos de Aholibama, filha de Ana, filha de Zibeão; ela foi mulher de Esaú. Ela lhe deu à luz Jeús, Jaalam e Corá."
   },
   {
     "verse": 15,
     "original": "אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־עֵשָׂ֑ו בְּנֵ֤י אֱלִיפַז֙ בְּכ֣וֹר עֵשָׂ֔ו אַלּ֤וּף תֵּימָן֙ אַלּ֣וּף אוֹמָ֔ר אַלּ֥וּף צְפ֖וֹ אַלּ֥וּף קְנַֽז׃",
+    "transliteration": "'eleh 'alvfey veney-'esav veney 'eliyfaz vekhvor 'esav 'alvf teyman 'alvf 'vomar 'alvf tsefvo 'alvf kenaz.",
     "translation": "Estes são os chefes dos filhos de Esaú; filhos de Elifaz, primogênito de Esaú: chefe Temã, chefe Omar, chefe Zefão, chefe Qenez."
   },
   {
     "verse": 16,
     "original": "אַלּֽוּף־קֹ֛רַח אַלּ֥וּף גַּעְתָּ֖ם אַלּ֣וּף עֲמָלֵ֑ק אֵ֣לֶּה אַלּוּפֵ֤י אֱלִיפַז֙ בְּאֶ֣רֶץ אֱד֔וֹם אֵ֖לֶּה בְּנֵ֥י עָדָֽה׃",
+    "transliteration": "'alvf-korah 'alvf ga'etam 'alvf 'amalek 'eleh 'alvfey 'eliyfaz ve'erets 'edvom 'eleh veney 'adah.",
     "translation": "Líder de Corá, líder de Gaatãm, líder de Amaleque; estes são os líderes de Elifaz na terra de Edom; estes são os filhos de Adá."
   },
   {
     "verse": 17,
     "original": "וְאֵ֗לֶּה בְּנֵ֤י רְעוּאֵל֙ בֶּן־עֵשָׂ֔ו אַלּ֥וּף נַ֙חַת֙ אַלּ֣וּף זֶ֔רַח אַלּ֥וּף שַׁמָּ֖ה אַלּ֣וּף מִזָּ֑ה אֵ֣לֶּה אַלּוּפֵ֤י רְעוּאֵל֙ בְּאֶ֣רֶץ אֱד֔וֹם אֵ֕לֶּה בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+    "transliteration": "ve'eleh veney re'v'el ven-'esav 'alvf nahat 'alvf zerah 'alvf shamah 'alvf mizah 'eleh 'alvfey re'v'el ve'erets 'edvom 'eleh veney vasemat 'eshet 'esav.",
     "translation": "E estes são os filhos de Reuel, filho de Esaú: Aluf Naat, Aluf Zerah, Aluf Shamá, Aluf Miza. Estes são os alufes de Reuel na terra de Edom; estes são os filhos de Básamat, mulher de Esaú."
   },
   {
     "verse": 18,
     "original": "וְאֵ֗לֶּה בְּנֵ֤י אׇהֳלִֽיבָמָה֙ אֵ֣שֶׁת עֵשָׂ֔ו אַלּ֥וּף יְע֛וּשׁ אַלּ֥וּף יַעְלָ֖ם אַלּ֣וּף קֹ֑רַח אֵ֣לֶּה אַלּוּפֵ֞י אׇהֳלִֽיבָמָ֛ה בַּת־עֲנָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃",
+    "transliteration": "ve'eleh veney 'oholiyvamah 'eshet 'esav 'alvf ye'vsh 'alvf ya'elam 'alvf korah 'eleh 'alvfey 'oholiyvamah vat-'anah 'eshet 'esav.",
     "translation": "E estes são os filhos de Aholibama, mulher de Esaú: Aluf Jeús, Aluf Jaalam, Aluf Corá. Estes são os alufes de Aholibama, filha de Ana, mulher de Esaú."
   },
   {
     "verse": 19,
     "original": "אֵ֧לֶּה בְנֵי־עֵשָׂ֛ו וְאֵ֥לֶּה אַלּוּפֵיהֶ֖ם ה֥וּא אֱדֽוֹם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'eleh veney-'esav ve'eleh 'alvfeyhem hv' 'edvom.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Estes são os filhos de Esaú e estes são seus chefes; ele é Edom."
   },
   {
     "verse": 20,
     "original": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֥וֹן וַעֲנָֽה׃",
+    "transliteration": "'eleh veney-se'iyr hahoriy yoshevey ha'arets lvotan veshvoval vetsive'von va'anah.",
     "translation": "Estes são os filhos de Seir, o horita, habitantes da terra: Lotã, e Shobal, e Tzibôn, e Aná."
   },
   {
     "verse": 21,
     "original": "וְדִשׁ֥וֹן וְאֵ֖צֶר וְדִישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י בְּנֵ֥י שֵׂעִ֖יר בְּאֶ֥רֶץ אֱדֽוֹם׃",
+    "transliteration": "vedishvon ve'etser vediyshan 'eleh 'alvfey hahoriy veney se'iyr ve'erets 'edvom.",
     "translation": "E Disom e Ezer e Dishon, estes são os chefes dos horitas, filhos de Seir na terra de Edom."
   },
   {
     "verse": 22,
     "original": "וַיִּהְי֥וּ בְנֵי־לוֹטָ֖ן חֹרִ֣י וְהֵימָ֑ם וַאֲח֥וֹת לוֹטָ֖ן תִּמְנָֽע׃",
+    "transliteration": "vayiheyv veney-lvotan horiy veheymam va'ahvot lvotan timena'.",
     "translation": "E os filhos de Lotã foram Hori e Hemam, e a irmã de Lotã foi Timna."
   },
   {
     "verse": 23,
     "original": "וְאֵ֙לֶּה֙ בְּנֵ֣י שׁוֹבָ֔ל עַלְוָ֥ן וּמָנַ֖חַת וְעֵיבָ֑ל שְׁפ֖וֹ וְאוֹנָֽם׃",
+    "transliteration": "ve'eleh veney shvoval 'alevan vmanahat ve'eyval shefvo ve'vonam.",
     "translation": "E estes são os filhos de Shoval: Alvã, Manachat e Eibal, Sefo e Onam."
   },
   {
     "verse": 24,
     "original": "וְאֵ֥לֶּה בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם֙ בַּמִּדְבָּ֔ר בִּרְעֹת֥וֹ אֶת־הַחֲמֹרִ֖ים לְצִבְע֥וֹן אָבִֽיו׃",
+    "transliteration": "ve'eleh veney-tsive'von ve'ayah va'anah hv' 'anah 'asher matsa' 'et-hayemim vamidevar vire'otvo 'et-hahamoriym letsive'von 'aviyv.",
     "translation": "E estes são os filhos de Tsiboa: Ayá e Ana. Este Ana foi quem descobriu as águas no deserto, quando apascentava jumentos para seu pai Tsiboa."
   },
   {
     "verse": 25,
     "original": "וְאֵ֥לֶּה בְנֵֽי־עֲנָ֖ה דִּשֹׁ֑ן וְאׇהֳלִיבָמָ֖ה בַּת־עֲנָֽה׃",
+    "transliteration": "ve'eleh veney-'anah dishon ve'oholiyvamah vat-'anah.",
     "translation": "E estes são os filhos de Aná, Dison; e Aóliva, a filha de Aná."
   },
   {
     "verse": 26,
     "original": "וְאֵ֖לֶּה בְּנֵ֣י דִישָׁ֑ן חֶמְדָּ֥ן וְאֶשְׁבָּ֖ן וְיִתְרָ֥ן וּכְרָֽן׃",
+    "transliteration": "ve'eleh veney diyshan hemedan ve'eshevan veyiteran vkheran.",
     "translation": "E estes são os filhos de Dissen: Hemdan, Eshban, Itrã e Keren."
   },
   {
     "verse": 27,
     "original": "אֵ֖לֶּה בְּנֵי־אֵ֑צֶר בִּלְהָ֥ן וְזַעֲוָ֖ן וַעֲקָֽן׃",
+    "transliteration": "'eleh veney-'etser vilehan veza'avan va'akan.",
     "translation": "Estes são os filhos de Azer: Bilhã, Zaavan e Aakan."
   },
   {
     "verse": 28,
     "original": "אֵ֥לֶּה בְנֵֽי־דִישָׁ֖ן ע֥וּץ וַאֲרָֽן׃",
+    "transliteration": "'eleh veney-diyshan 'vts va'aran.",
     "translation": "Estes são os filhos de Dissen: Uz e Arã."
   },
   {
     "verse": 29,
     "original": "אֵ֖לֶּה אַלּוּפֵ֣י הַחֹרִ֑י אַלּ֤וּף לוֹטָן֙ אַלּ֣וּף שׁוֹבָ֔ל אַלּ֥וּף צִבְע֖וֹן אַלּ֥וּף עֲנָֽה׃",
+    "transliteration": "'eleh 'alvfey hahoriy 'alvf lvotan 'alvf shvoval 'alvf tsive'von 'alvf 'anah.",
     "translation": "Estes são os chefes dos horitas: chefe Lotã, chefe Sóval, chefe Tsíbon, chefe Aná."
   },
   {
     "verse": 30,
     "original": "אַלּ֥וּף דִּשֹׁ֛ן אַלּ֥וּף אֵ֖צֶר אַלּ֣וּף דִּישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י לְאַלֻּפֵיהֶ֖ם בְּאֶ֥רֶץ שֵׂעִֽיר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'alvf dishon 'alvf 'etser 'alvf diyshan 'eleh 'alvfey hahoriy le'alufeyhem ve'erets se'iyr.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Aluf de Dishom, Aluf de Etzer, Aluf de Disã. Estes são os alufim dos horitas conforme seus clãs na terra de Seir."
   },
   {
     "verse": 31,
     "original": "וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "ve'eleh hamelakhiym 'asher malekhv ve'erets 'edvom lifeney melokhe-melekhe liveney yisera'el.",
     "translation": "E estes são os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel."
   },
   {
     "verse": 32,
     "original": "וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן־בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה׃",
+    "transliteration": "vayimelokhe ve'edvom vela' ven-ve'vor veshem 'iyrvo dinehavah.",
     "translation": "E reinou em Edom Bela, filho de Beor, e o nome da sua cidade era Dinhabá."
   },
   {
     "verse": 33,
     "original": "וַיָּ֖מׇת בָּ֑לַע וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו יוֹבָ֥ב בֶּן־זֶ֖רַח מִבׇּצְרָֽה׃",
+    "transliteration": "vayamot vala' vayimelokhe tahetayv yvovav ven-zerah mivotserah.",
     "translation": "E Balá morreu, e depois dele reinou Jóvav, filho de Zerá, de Betsur."
   },
   {
     "verse": 34,
     "original": "וַיָּ֖מׇת יוֹבָ֑ב וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו חֻשָׁ֖ם מֵאֶ֥רֶץ הַתֵּימָנִֽי׃",
+    "transliteration": "vayamot yvovav vayimelokhe tahetayv husham me'erets hateymaniy.",
     "translation": "E Jóvab morreu, e depois dele reinou Chúsam, da terra de Temã."
   },
   {
     "verse": 35,
     "original": "וַיָּ֖מׇת חֻשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־בְּדַ֗ד הַמַּכֶּ֤ה אֶת־מִדְיָן֙ בִּשְׂדֵ֣ה מוֹאָ֔ב וְשֵׁ֥ם עִיר֖וֹ עֲוִֽית׃",
+    "transliteration": "vayamot husham vayimelokhe tahetayv hadad ven-vedad hamakheh 'et-mideyan visedeh mvo'av veshem 'iyrvo 'aviyt.",
     "translation": "E morreu Husam, e em seu lugar reinou Hadadezer, filho de Benhadad, que feriu os midianitas no campo de Moabe; e o nome da sua cidade era Avé."
   },
   {
     "verse": 36,
     "original": "וַיָּ֖מׇת הֲדָ֑ד וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שַׂמְלָ֖ה מִמַּשְׂרֵקָֽה׃",
+    "transliteration": "vayamot hadad vayimelokhe tahetayv samelah mimaserekah.",
     "translation": "E Hador morreu, e em seu lugar reinou Semla de Masreka."
   },
   {
     "verse": 37,
     "original": "וַיָּ֖מׇת שַׂמְלָ֑ה וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שָׁא֖וּל מֵרְחֹב֥וֹת הַנָּהָֽר׃",
+    "transliteration": "vayamot samelah vayimelokhe tahetayv sha'vl merehovvot hanahar.",
     "translation": "E Samlá morreu, e em seu lugar reinou Saul de Ribotas do rio."
   },
   {
     "verse": 38,
     "original": "וַיָּ֖מׇת שָׁא֑וּל וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו בַּ֥עַל חָנָ֖ן בֶּן־עַכְבּֽוֹר׃",
+    "transliteration": "vayamot sha'vl vayimelokhe tahetayv va'al hanan ven-'akhevvor.",
     "translation": "E Saul morreu, e reinou em seu lugar Baal-Hanan, filho de Akbor."
   },
   {
     "verse": 39,
     "original": "וַיָּ֘מׇת֮ בַּ֣עַל חָנָ֣ן בֶּן־עַכְבּוֹר֒ וַיִּמְלֹ֤ךְ תַּחְתָּיו֙ הֲדַ֔ר וְשֵׁ֥ם עִיר֖וֹ פָּ֑עוּ וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵֽיטַבְאֵל֙ בַּת־מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב׃",
+    "transliteration": "vayamot va'al hanan ven-'akhevvor vayimelokhe tahetayv hadar veshem 'iyrvo fa'v veshem 'ishetvo meheytave'el vat-matered vat mey zahav.",
     "translation": "E morreu Baal-Hanan, filho de Aqbôr; e reinou em seu lugar Hadade; e o nome da sua cidade era Pai; e o nome de sua mãe era Mehete-Abel, filha de Matred, filha de Mezi-zá-hab."
   },
   {
     "verse": 40,
     "original": "וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙ לְמִשְׁפְּחֹתָ֔ם לִמְקֹמֹתָ֖ם בִּשְׁמֹתָ֑ם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת׃",
+    "transliteration": "ve'eleh shemvot 'alvfey 'esav lemishefehotam limekomotam vishemotam 'alvf timena' 'alvf 'alevah 'alvf yetet.",
     "translation": "E estes são os nomes dos chefes de Esaú por suas famílias, segundo seus lugares pelas suas denominações: chefe Temna, chefe Alvá, chefe Jete."
   },
   {
     "verse": 41,
     "original": "אַלּ֧וּף אׇהֳלִיבָמָ֛ה אַלּ֥וּף אֵלָ֖ה אַלּ֥וּף פִּינֹֽן׃",
+    "transliteration": "'alvf 'oholiyvamah 'alvf 'elah 'alvf fiynon.",
     "translation": "Senhor de Aholibama, Senhor de Ela, Senhor de Pinom."
   },
   {
     "verse": 42,
     "original": "אַלּ֥וּף קְנַ֛ז אַלּ֥וּף תֵּימָ֖ן אַלּ֥וּף מִבְצָֽר׃",
+    "transliteration": "'alvf kenaz 'alvf teyman 'alvf mivetsar.",
     "translation": "Senhor de Quenez, Senhor de Teiman, Senhor de Mibtsar."
   },
   {
     "verse": 43,
     "original": "אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה&thinsp;<b>׀</b> אַלּוּפֵ֣י אֱד֗וֹם לְמֹֽשְׁבֹתָם֙ בְּאֶ֣רֶץ אֲחֻזָּתָ֔ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֽוֹם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'alvf magediy'el 'alvf 'iyram 'eleh&thinsp;<b>|</b> 'alvfey 'edvom lemoshevotam ve'erets 'ahuzatam hv' 'esav 'aviy 'edvom.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Chefe Magdiel, chefe de Iram. Estes são os chefes de Edom, segundo suas moradas na terra da sua possessão; ele é Esau, pai dos edomitas."
   }
 ]

@@ -2,91 +2,109 @@
   {
     "verse": 1,
     "original": "וַתֹּ֥אמֶר לָ֖הּ נׇעֳמִ֣י חֲמוֹתָ֑הּ בִּתִּ֕י הֲלֹ֧א אֲבַקֶּשׁ־לָ֛ךְ מָנ֖וֹחַ אֲשֶׁ֥ר יִֽיטַב־לָֽךְ׃",
+    "transliteration": "vato'mer lah no'omiy hamvotah vitiy halo' 'avakesh-lakhe manvoha 'asher yiytav-lakhe.",
     "translation": "E disse-lhe Noemi, sua sogra: Filha, por acaso não procurarei descanso para ti, que seja bom para ti?"
   },
   {
     "verse": 2,
     "original": "וְעַתָּ֗ה הֲלֹ֥א בֹ֙עַז֙ מֹֽדַעְתָּ֔נוּ אֲשֶׁ֥ר הָיִ֖ית אֶת־נַעֲרוֹתָ֑יו הִנֵּה־ה֗וּא זֹרֶ֛ה אֶת־גֹּ֥רֶן הַשְּׂעֹרִ֖ים הַלָּֽיְלָה׃",
+    "transliteration": "ve'atah halo' vo'az moda'etanv 'asher hayiyt 'et-na'arvotayv hineh-hv' zoreh 'et-goren hase'oriym halayelah.",
     "translation": "E agora, não foi Boaz informado de que estavas com as jovens? Eis que ele está espalhando a cevada nesta noite."
   },
   {
     "verse": 3,
     "original": "וְרָחַ֣צְתְּ&thinsp;<b>׀</b> וָסַ֗כְתְּ וְשַׂ֧מְתְּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(שמלתך)</span> <span class=\"mam-kq-q\">[שִׂמְלֹתַ֛יִךְ]</span></span> עָלַ֖יִךְ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וירדתי)</span> <span class=\"mam-kq-q\">[וְיָרַ֣דְתְּ]</span></span> הַגֹּ֑רֶן אַל־תִּוָּדְעִ֣י לָאִ֔ישׁ עַ֥ד כַּלֹּת֖וֹ לֶאֱכֹ֥ל וְלִשְׁתּֽוֹת׃",
+    "transliteration": "verahatsete&thinsp;<b>|</b> vasakhete vesamete <span class=\"mam-kq\"><span class=\"mam-kq-k\">(smltkh)</span> <span class=\"mam-kq-q\">[simelotayikhe]</span></span> 'alayikhe <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vyrdty)</span> <span class=\"mam-kq-q\">[veyaradete]</span></span> hagoren 'al-tivade'iy la'iysh 'ad khalotvo le'ekhol velishetvot.",
     "translation": "E tu te lavarás e ungirás, e colocarás tua veste sobre ti, e descerás ao celeiro; não serás conhecida até que ele termine de comer e beber."
   },
   {
     "verse": 4,
     "original": "וִיהִ֣י בְשׇׁכְב֗וֹ וְיָדַ֙עַתְּ֙ אֶת־הַמָּקוֹם֙ אֲשֶׁ֣ר יִשְׁכַּב־שָׁ֔ם וּבָ֛את וְגִלִּ֥ית מַרְגְּלֹתָ֖יו <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ושכבתי)</span> <span class=\"mam-kq-q\">[וְשָׁכָ֑בְתְּ]</span></span> וְהוּא֙ יַגִּ֣יד לָ֔ךְ אֵ֖ת אֲשֶׁ֥ר תַּעֲשִֽׂין׃",
+    "transliteration": "viyhiy veshokhevvo veyada'ate 'et-hamakvom 'asher yishekhav-sham vva't vegiliyt maregelotayv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vskhvty)</span> <span class=\"mam-kq-q\">[veshakhavete]</span></span> vehv' yagiyd lakhe 'et 'asher ta'asiyn.",
     "translation": "E aconteça em sua deita e saibas o lugar onde ele dormirá, e venhas e descubras os pés dele [e deitaste], e ele te dirá o que tu farás.\n\nCorreção:\nE suceda em sua deita e conheças o lugar onde se deitará; e venhas e descubras as bordas de seu leito [e deitaste-te], e ele te dirá o que tu farás."
   },
   {
     "verse": 5,
     "original": "וַתֹּ֖אמֶר אֵלֶ֑יהָ כֹּ֛ל אֲשֶׁר־תֹּאמְרִ֥י <span class=\"mam-kq-q\">[אֵלַ֖י]</span> אֶעֱשֶֽׂה׃",
+    "transliteration": "vato'mer 'eleyha khol 'asher-to'meriy <span class=\"mam-kq-q\">['elay]</span> 'e'eseh.",
     "translation": "E ela lhe disse: Tudo o que me disseres farei."
   },
   {
     "verse": 6,
     "original": "וַתֵּ֖רֶד הַגֹּ֑רֶן וַתַּ֕עַשׂ כְּכֹ֥ל אֲשֶׁר־צִוַּ֖תָּה חֲמוֹתָֽהּ׃",
+    "transliteration": "vatered hagoren vata'as khekhol 'asher-tsivatah hamvotah.",
     "translation": "E desceu ao celeiro, e fez conforme tudo o que sua sogra lhe ordenara."
   },
   {
     "verse": 7,
     "original": "וַיֹּ֨אכַל בֹּ֤עַז וַיֵּשְׁתְּ֙ וַיִּיטַ֣ב לִבּ֔וֹ וַיָּבֹ֕א לִשְׁכַּ֖ב בִּקְצֵ֣ה הָעֲרֵמָ֑ה וַתָּבֹ֣א בַלָּ֔ט וַתְּגַ֥ל מַרְגְּלֹתָ֖יו וַתִּשְׁכָּֽב׃",
+    "transliteration": "vayo'khal vo'az vayeshete vayiytav livvo vayavo' lishekhav viketseh ha'aremah vatavo' valat vategal maregelotayv vatishekhav.",
     "translation": "Comeu Boaz, bebeu e seu coração se alegraram; então foi deitar-se no fim do monturo. Ela veio cautelosamente, descobriu seus pés e deitou-se."
   },
   {
     "verse": 8,
     "original": "וַֽיְהִי֙ בַּחֲצִ֣י הַלַּ֔יְלָה וַיֶּחֱרַ֥ד הָאִ֖ישׁ וַיִּלָּפֵ֑ת וְהִנֵּ֣ה אִשָּׁ֔ה שֹׁכֶ֖בֶת מַרְגְּלֹתָֽיו׃",
+    "transliteration": "vayehiy vahatsiy halayelah vayeherad ha'iysh vayilafet vehineh 'ishah shokhevet maregelotayv.",
     "translation": "E foi na metade da noite, e o homem se assustou e estremeceu; e eis que uma mulher estava deitada aos seus pés."
   },
   {
     "verse": 9,
     "original": "וַיֹּ֖אמֶר מִי־אָ֑תְּ וַתֹּ֗אמֶר אָֽנֹכִי֙ ר֣וּת אֲמָתֶ֔ךָ וּפָרַשְׂתָּ֤ כְנָפֶ֙ךָ֙ עַל־אֲמָ֣תְךָ֔ כִּ֥י גֹאֵ֖ל אָֽתָּה׃",
+    "transliteration": "vayo'mer miy-'ate vato'mer 'anokhiy rvt 'amatekha vfaraseta khenafekha 'al-'amatekha khiy go'el 'atah.",
     "translation": "E ele disse: “Quem és tu?”. E ela respondeu: “Eu sou Rute, tua serva. Estende tua asa sobre a tua serva, pois tu és o redentor.”"
   },
   {
     "verse": 10,
     "original": "וַיֹּ֗אמֶר בְּרוּכָ֨ה אַ֤תְּ לַֽיהֹוָה֙ בִּתִּ֔י הֵיטַ֛בְתְּ חַסְדֵּ֥ךְ הָאַחֲר֖וֹן מִן־הָרִאשׁ֑וֹן לְבִלְתִּי־לֶ֗כֶת אַֽחֲרֵי֙ הַבַּ֣חוּרִ֔ים אִם־דַּ֖ל וְאִם־עָשִֽׁיר׃",
+    "transliteration": "vayo'mer vervkhah 'ate layhovah vitiy heytavete hasedekhe ha'aharvon min-hari'shvon leviletiy-lekhet 'aharey havahvriym 'im-dal ve'im-'ashiyr.",
     "translation": "E disse: Bendita és tu ao Senhor, minha filha; aumentaste a tua bondade, e melhor foi o teu último ato do que o primeiro, não tendo ido atrás dos jovens, quer seja pobre ou rico."
   },
   {
     "verse": 11,
     "original": "וְעַתָּ֗ה בִּתִּי֙ אַל־תִּ֣ירְאִ֔י כֹּ֥ל אֲשֶׁר־תֹּאמְרִ֖י אֶעֱשֶׂה־לָּ֑ךְ כִּ֤י יוֹדֵ֙עַ֙ כׇּל־שַׁ֣עַר עַמִּ֔י כִּ֛י אֵ֥שֶׁת חַ֖יִל אָֽתְּ׃",
+    "transliteration": "ve'atah vitiy 'al-tiyre'iy khol 'asher-to'meriy 'e'eseh-lakhe khiy yvode'a khol-sha'ar 'amiy khiy 'eshet hayil 'ate.",
     "translation": "E agora, minha filha, não temas; tudo o que disseres farei por ti, pois todo o povo do meu país sabe que tu és uma mulher valente."
   },
   {
     "verse": 12,
     "original": "וְעַתָּה֙ כִּ֣י אׇמְנָ֔ם כִּ֥י <span class=\"mam-kq-k\">(אם)</span> גֹאֵ֖ל אָנֹ֑כִי וְגַ֛ם יֵ֥שׁ גֹּאֵ֖ל קָר֥וֹב מִמֶּֽנִּי׃",
+    "transliteration": "ve'atah khiy 'omenam khiy <span class=\"mam-kq-k\">('m)</span> go'el 'anokhiy vegam yesh go'el karvov mimeniy.",
     "translation": "E agora, de fato, se eu for redentor, e também houver um redentor mais próximo do que eu."
   },
   {
     "verse": 13,
     "original": "לִ֣י<big>נִ</big>י&thinsp;<b>׀</b> הַלַּ֗יְלָה וְהָיָ֤ה בַבֹּ֙קֶר֙ אִם־יִגְאָלֵ֥ךְ טוֹב֙ יִגְאָ֔ל וְאִם־לֹ֨א יַחְפֹּ֧ץ לְגׇאֳלֵ֛ךְ וּגְאַלְתִּ֥יךְ אָנֹ֖כִי חַי־יְהֹוָ֑ה שִׁכְבִ֖י עַד־הַבֹּֽקֶר׃",
+    "transliteration": "liy<big>ni</big>y&thinsp;<b>|</b> halayelah vehayah vavoker 'im-yige'alekhe tvov yige'al ve'im-lo' yahefots lego'olekhe vge'aletiykhe 'anokhiy hay-yehovah shikheviy 'ad-havoker.",
     "translation": "A mim pertence esta noite, e acontecerá pela manhã: se te redimir for bom, ele te resgatará; mas se não quiser resgatá-la, então eu te resgatarei, vive o Senhor! Fica deitada até a manhã."
   },
   {
     "verse": 14,
     "original": "וַתִּשְׁכַּ֤ב <span class=\"mam-kq-trivial\">מַרְגְּלוֹתָו֙</span> עַד־הַבֹּ֔קֶר וַתָּ֕קׇם <span class=\"mam-kq\"><span class=\"mam-kq-k\">(בטרום)</span> <span class=\"mam-kq-q\">[בְּטֶ֛רֶם]</span></span> יַכִּ֥יר אִ֖ישׁ אֶת־רֵעֵ֑הוּ וַיֹּ֙אמֶר֙ אַל־יִוָּדַ֔ע כִּי־בָ֥אָה הָאִשָּׁ֖ה הַגֹּֽרֶן׃",
+    "transliteration": "vatishekhav <span class=\"mam-kq-trivial\">maregelvotav</span> 'ad-havoker vatakom <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vtrvm)</span> <span class=\"mam-kq-q\">[veterem]</span></span> yakhiyr 'iysh 'et-re'ehv vayo'mer 'al-yivada' khiy-va'ah ha'ishah hagoren.",
     "translation": "E deitou-se à beira dele até pela manhã; levantou-se antes que um homem pudesse conhecer o seu amigo, e disse: Não se faça conhecido que a mulher veio ao celeiro."
   },
   {
     "verse": 15,
     "original": "וַיֹּ֗אמֶר הָ֠בִ֠י הַמִּטְפַּ֧חַת אֲשֶׁר־עָלַ֛יִךְ וְאֶחֳזִי־בָ֖הּ וַתֹּ֣אחֶז בָּ֑הּ וַיָּ֤מׇד שֵׁשׁ־שְׂעֹרִים֙ וַיָּ֣שֶׁת עָלֶ֔יהָ וַיָּבֹ֖א הָעִֽיר׃",
+    "transliteration": "vayo'mer haviy hamitefahat 'asher-'alayikhe ve'ehoziy-vah vato'hez vah vayamod shesh-se'oriym vayashet 'aleyha vayavo' ha'iyr.",
     "translation": "E disse: dai-me o manto que tens sobre ti e agarrei nele. Ela estendeu-o, ele aferrou seis seahs de cevada e os colocou sobre ela, depois entrou na cidade."
   },
   {
     "verse": 16,
     "original": "וַתָּבוֹא֙ אֶל־חֲמוֹתָ֔הּ וַתֹּ֖אמֶר מִי־אַ֣תְּ בִּתִּ֑י וַתַּ֨גֶּד־לָ֔הּ אֵ֛ת כׇּל־אֲשֶׁ֥ר עָשָׂה־לָ֖הּ הָאִֽישׁ׃",
+    "transliteration": "vatavvo' 'el-hamvotah vato'mer miy-'ate vitiy vataged-lah 'et khol-'asher 'asah-lah ha'iysh.",
     "translation": "Ela veio até sua sogra, e disse: Quem és tu, minha filha? Ela contou a ela tudo o que o homem havia feito com ela."
   },
   {
     "verse": 17,
     "original": "וַתֹּ֕אמֶר שֵׁשׁ־הַשְּׂעֹרִ֥ים הָאֵ֖לֶּה נָ֣תַן לִ֑י כִּ֚י אָמַ֣ר <span class=\"mam-kq-q\">[אֵלַ֔י]</span> אַל־תָּב֥וֹאִי רֵיקָ֖ם אֶל־חֲמוֹתֵֽךְ׃",
+    "transliteration": "vato'mer shesh-hase'oriym ha'eleh natan liy khiy 'amar <span class=\"mam-kq-q\">['elay]</span> 'al-tavvo'iy reykam 'el-hamvotekhe.",
     "translation": "E disse: Estes seis montes de cevada me foram dados; pois ele me disse: Não venhas sem nada à tua sogra."
   },
   {
     "verse": 18,
     "original": "וַתֹּ֙אמֶר֙ שְׁבִ֣י בִתִּ֔י עַ֚ד אֲשֶׁ֣ר תֵּֽדְעִ֔ין אֵ֖יךְ יִפֹּ֣ל דָּבָ֑ר כִּ֣י לֹ֤א יִשְׁקֹט֙ הָאִ֔ישׁ כִּֽי־אִם־כִּלָּ֥ה הַדָּבָ֖ר הַיּֽוֹם׃",
+    "transliteration": "vato'mer sheviy vitiy 'ad 'asher tede'iyn 'eykhe yifol davar khiy lo' yishekot ha'iysh khiy-'im-khilah hadavar hayvom.",
     "translation": "E disse: Fica, minha filha, até que saibas como se dará o caso; pois o homem não descansará até que tenha completado a coisa hoje."
   }
 ]

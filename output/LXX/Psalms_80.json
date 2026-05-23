@@ -2,86 +2,103 @@
   {
     "verse": 1,
     "original": "εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν τῷ Ασαφ ψαλμός ",
+    "transliteration": "eis to telos hyper ton linon to Asaf psalmos ",
     "translation": "Até o fim, para os lagares, um salmo de Asafe"
   },
   {
     "verse": 2,
     "original": "ἀγαλλιᾶσθε τῷ θεῷ τῷ βοηθῷ ἡμῶν ἀλαλάξατε τῷ θεῷ Ιακωβ ",
+    "transliteration": "agalliasthe to theo to voitho himon alalaxate to theo Iakov ",
     "translation": "Alegrai-vos com Deus, nosso socorro, aclamai a Deus, o Deus de Jacó."
   },
   {
     "verse": 3,
     "original": "λάβετε ψαλμὸν καὶ δότε τύμπανον ψαλτήριον τερπνὸν μετὰ κιθάρας ",
+    "transliteration": "lavete psalmon kai dote tympanon psaltirion terpnon meta kitharas ",
     "translation": "Tomai o salmo e dai o tamborim, a cetra com sons doces."
   },
   {
     "verse": 4,
     "original": "σαλπίσατε ἐν νεομηνίᾳ σάλπιγγι ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ἡμῶν ",
+    "transliteration": "salpisate en neominia salpiggi en eysimo himera heortis himon ",
     "translation": "Toca-se na nova lua a trombeta, no dia santo da nossa festa."
   },
   {
     "verse": 5,
     "original": "ὅτι πρόσταγμα τῷ Ισραηλ ἐστὶν καὶ κρίμα τῷ θεῷ Ιακωβ ",
+    "transliteration": "hoti prostagma to Israil estin kai krima to theo Iakov ",
     "translation": "Pois é uma ordem para Israel e um julgamento para Deus de Jacó."
   },
   {
     "verse": 6,
     "original": "μαρτύριον ἐν τῷ Ιωσηφ ἔθετο αὐτὸν ἐν τῷ ἐξελθεῖν αὐτὸν ἐκ γῆς Αἰγύπτου γλῶσσαν ἣν οὐκ ἔγνω ἤκουσεν ",
+    "transliteration": "martyrion en to Iosif etheto ayton en to exelthein ayton ek gis Aigyptoy glossan hin oyk egno ikoysen ",
     "translation": "Fez testemunho nele, em José, quando saiu da terra do Egito; língua que não conheceu, ouviu."
   },
   {
     "verse": 7,
     "original": "ἀπέστησεν ἀπὸ ἄρσεων τὸν νῶτον αὐτοῦ αἱ χεῖρες αὐτοῦ ἐν τῷ κοφίνῳ ἐδούλευσαν ",
+    "transliteration": "apestisen apo arseon ton noton aytoy ahi cheires aytoy en to kofino edoyleysan ",
     "translation": "Voltou-se de suas colinas o cordeiro dele, as mãos dele estavam no cesto, serviram. \n\nNota: O rascunho foi mantido pois não contém erros gramaticais, de número ou tradução literal que violem os requisitos estabelecidos. No entanto, é importante notar que \"νῶτον\" pode ser melhor traduzido como \"costas\", e \"cordeiro\" pode não capturar plenamente a intenção do original em grego. Para maior fidelidade ao texto original e considerando as diretrizes fornecidas, esta seria uma versão alternativa corrigida:\n\nVoltou-se de suas colinas suas costas, as mãos dele estavam no cesto, serviram."
   },
   {
     "verse": 8,
     "original": "ἐν θλίψει ἐπεκαλέσω με καὶ ἐρρυσάμην σε ἐπήκουσά σου ἐν ἀποκρύφῳ καταιγίδος ἐδοκίμασά σε ἐπὶ ὕδατος ἀντιλογίας διάψαλμα ",
+    "transliteration": "en thlipsei epekaleso me kai errysamin se epikoysa soy en apokryfo kataigidos edokimasa se epi hydatos antilogias diapsalma ",
     "translation": "Na angústia clamei a ti, e foste tu quem me livrou; ouviste-me no esconderijo da tormenta; proveitaste-me junto às águas de contenda. Selá."
   },
   {
     "verse": 9,
     "original": "ἄκουσον λαός μου καὶ διαμαρτύρομαί σοι Ισραηλ ἐὰν ἀκούσῃς μου ",
+    "transliteration": "akoyson laos moy kai diamartyromai soi Israil ean akoysis moy ",
     "translation": "Ouve-me, ó meu povo; testifico contra ti, Israel; se me ouvires."
   },
   {
     "verse": 10,
     "original": "οὐκ ἔσται ἐν σοὶ θεὸς πρόσφατος οὐδὲ προσκυνήσεις θεῷ ἀλλοτρίῳ ",
+    "transliteration": "oyk estai en soi theos prosfatos oyde proskyniseis theo allotrio ",
     "translation": "Não haverá em ti deus estranho, nem adorarás divindade alheia."
   },
   {
     "verse": 11,
     "original": "ἐγὼ γάρ εἰμι κύριος ὁ θεός σου ὁ ἀναγαγών σε ἐκ γῆς Αἰγύπτου πλάτυνον τὸ στόμα σου καὶ πληρώσω αὐτό ",
+    "transliteration": "ego gar eimi kyrios ho theos soy ho anagagon se ek gis Aigyptoy platynon to stoma soy kai pliroso ayto ",
     "translation": "Pois eu sou o Senhor, teu Deus, que te tirei da terra do Egito; abre largamente a tua boca e eu a encherei."
   },
   {
     "verse": 12,
     "original": "καὶ οὐκ ἤκουσεν ὁ λαός μου τῆς φωνῆς μου καὶ Ισραηλ οὐ προσέσχεν μοι ",
+    "transliteration": "kai oyk ikoysen ho laos moy tis fonis moy kai Israil oy proseschen moi ",
     "translation": "E o meu povo não ouviu a minha voz, e Israel não se aproximou de mim."
   },
   {
     "verse": 13,
     "original": "καὶ ἐξαπέστειλα αὐτοὺς κατὰ τὰ ἐπιτηδεύματα τῶν καρδιῶν αὐτῶν πορεύσονται ἐν τοῖς ἐπιτηδεύμασιν αὐτῶν ",
+    "transliteration": "kai exapesteila aytoys kata ta epitideymata ton kardion ayton poreysontai en tois epitideymasin ayton ",
     "translation": "E os despedi conforme os trabalhos de seus corações; seguiram cada um nos seus próprios designios. \n\nCorreção necessária:\nE os despedi conforme os intentos de seus corações; seguirão cada um nos seus próprios intentos."
   },
   {
     "verse": 14,
     "original": "εἰ ὁ λαός μου ἤκουσέν μου Ισραηλ ταῖς ὁδοῖς μου εἰ ἐπορεύθη ",
+    "transliteration": "ei ho laos moy ikoysen moy Israil tais hodois moy ei eporeythi ",
     "translation": "Se o meu povo me ouvisse, se Israel andasse pelos meus caminhos."
   },
   {
     "verse": 15,
     "original": "ἐν τῷ μηδενὶ ἂν τοὺς ἐχθροὺς αὐτῶν ἐταπείνωσα καὶ ἐπὶ τοὺς θλίβοντας αὐτοὺς ἐπέβαλον τὴν χεῖρά μου ",
+    "transliteration": "en to mideni an toys echthroys ayton etapeinosa kai epi toys thlivontas aytoys epevalon tin cheira moy ",
     "translation": "Que nenhum inimigo os humilhe e que nenhuma adversidade caia sobre eles; minha mão esteja sobre os que os oprimem."
   },
   {
     "verse": 16,
     "original": "οἱ ἐχθροὶ κυρίου ἐψεύσαντο αὐτῷ καὶ ἔσται ὁ καιρὸς αὐτῶν εἰς τὸν αἰῶνα ",
+    "transliteration": "ohi echthroi kyrioy epseysanto ayto kai estai ho kairos ayton eis ton aiona ",
     "translation": "Os inimigos do Senhor mentiram contra ele, e haverá seu tempo eternamente."
   },
   {
     "verse": 17,
     "original": "καὶ ἐψώμισεν αὐτοὺς ἐκ στέατος πυροῦ καὶ ἐκ πέτρας μέλι ἐχόρτασεν αὐτούς ",
+    "transliteration": "kai epsomisen aytoys ek steatos pyroy kai ek petras meli echortasen aytoys ",
     "translation": "E os alimentou com o sebo do trigo e os fartou com o mel da rocha."
   }
 ]

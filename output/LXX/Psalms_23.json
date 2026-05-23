@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "ψαλμὸς τῷ Δαυιδ τῆς μιᾶς σαββάτων τοῦ κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς ἡ οἰκουμένη καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ ",
+    "transliteration": "psalmos to Dayid tis mias savvaton toy kyrioy hi gi kai to pliroma aytis hi oikoymeni kai pantes ohi katoikoyntes en ayti ",
     "translation": "Salmo de Davi. Do primeiro dos sábados do Senhor: a terra e o plenitude dela, o mundo e todos os que nele habitam. \n\nCorreção:\nSalmo de Davi. Do primeiro dos sábados do Senhor: a terra e o seu plenitude, o mundo e todos os que nele habitam.\n\nNova correção após reconsideração:\nSalmo de Davi. Do primeiro dos sábados do Senhor: a terra e o seu pleno, o mundo e todos os que nele habitam."
   },
   {
     "verse": 2,
     "original": "αὐτὸς ἐπὶ θαλασσῶν ἐθεμελίωσεν αὐτὴν καὶ ἐπὶ ποταμῶν ἡτοίμασεν αὐτήν ",
+    "transliteration": "aytos epi thalasson ethemeliosen aytin kai epi potamon hitoimasen aytin ",
     "translation": "Ele a estabeleceu sobre os mares e a preparou sobre os rios."
   },
   {
     "verse": 3,
     "original": "τίς ἀναβήσεται εἰς τὸ ὄρος τοῦ κυρίου καὶ τίς στήσεται ἐν τόπῳ ἁγίῳ αὐτοῦ ",
+    "transliteration": "tis anavisetai eis to oros toy kyrioy kai tis stisetai en topo hagio aytoy ",
     "translation": "Quem subirá ao monte do Senhor e quem permanecerá no lugar santo dele?"
   },
   {
     "verse": 4,
     "original": "ἀθῷος χερσὶν καὶ καθαρὸς τῇ καρδίᾳ ὃς οὐκ ἔλαβεν ἐπὶ ματαίῳ τὴν ψυχὴν αὐτοῦ καὶ οὐκ ὤμοσεν ἐπὶ δόλῳ τῷ πλησίον αὐτοῦ ",
+    "transliteration": "athoos chersin kai katharos ti kardia hos oyk elaven epi mataio tin psychin aytoy kai oyk omosen epi dolo to plision aytoy ",
     "translation": "Inocente de mãos e puro de coração, quem não recebeu a sua alma por vaidade e não jurou falso ao seu próximo."
   },
   {
     "verse": 5,
     "original": "οὗτος λήμψεται εὐλογίαν παρὰ κυρίου καὶ ἐλεημοσύνην παρὰ θεοῦ σωτῆρος αὐτοῦ ",
+    "transliteration": "ohytos limpsetai eylogian para kyrioy kai eleimosynin para theoy sotiros aytoy ",
     "translation": "Este receberá bênção do Senhor e misericórdia do Deus seu Salvador."
   },
   {
     "verse": 6,
     "original": "αὕτη ἡ γενεὰ ζητούντων αὐτόν ζητούντων τὸ πρόσωπον τοῦ θεοῦ Ιακωβ διάψαλμα ",
+    "transliteration": "ahyti hi genea zitoynton ayton zitoynton to prosopon toy theoy Iakov diapsalma ",
     "translation": "Esta é a geração daqueles que buscavam a face de Deus; Jacó. Selá."
   },
   {
     "verse": 7,
     "original": "ἄρατε πύλας οἱ ἄρχοντες ὑμῶν καὶ ἐπάρθητε πύλαι αἰώνιοι καὶ εἰσελεύσεται ὁ βασιλεὺς τῆς δόξης ",
+    "transliteration": "arate pylas ohi archontes hymon kai eparthite pylai aionioi kai eiseleysetai ho vasileys tis doxis ",
     "translation": "Levai as portas, vós que sois os principais dela; levantai-vos, portas eternas, e entrará o Rei da glória."
   },
   {
     "verse": 8,
     "original": "τίς ἐστιν οὗτος ὁ βασιλεὺς τῆς δόξης κύριος κραταιὸς καὶ δυνατός κύριος δυνατὸς ἐν πολέμῳ ",
+    "transliteration": "tis estin ohytos ho vasileys tis doxis kyrios krataios kai dynatos kyrios dynatos en polemo ",
     "translation": "Quem é este rei da glória? O Senhor, forte e poderoso; o Senhor, poderoso em batalha."
   },
   {
     "verse": 9,
     "original": "ἄρατε πύλας οἱ ἄρχοντες ὑμῶν καὶ ἐπάρθητε πύλαι αἰώνιοι καὶ εἰσελεύσεται ὁ βασιλεὺς τῆς δόξης ",
+    "transliteration": "arate pylas ohi archontes hymon kai eparthite pylai aionioi kai eiseleysetai ho vasileys tis doxis ",
     "translation": "Levai as portas, vós, seus principais; levantai-vos, vós, portas eternas, e entrará o Rei da Glória."
   },
   {
     "verse": 10,
     "original": "τίς ἐστιν οὗτος ὁ βασιλεὺς τῆς δόξης κύριος τῶν δυνάμεων αὐτός ἐστιν ὁ βασιλεὺς τῆς δόξης ",
+    "transliteration": "tis estin ohytos ho vasileys tis doxis kyrios ton dynameon aytos estin ho vasileys tis doxis ",
     "translation": "Quem é este rei da glória? O Senhor dos Exércitos, ele mesmo é o rei da glória."
   }
 ]

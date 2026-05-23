@@ -2,881 +2,1057 @@
   {
     "verse": 1,
     "original": "אַשְׁרֵ֥י תְמִֽימֵי־דָ֑רֶךְ הַ֝הֹלְכִ֗ים בְּתוֹרַ֥ת יְהֹוָֽה׃",
+    "transliteration": "'asherey temiymey-darekhe haholekhiym vetvorat yehovah.",
     "translation": "Bem-aventurados os perfeitos de caminho, que andam na lei do Senhor."
   },
   {
     "verse": 2,
     "original": "אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו בְּכׇל־לֵ֥ב יִדְרְשֽׁוּהוּ׃",
+    "transliteration": "'asherey notserey 'edotayv vekhol-lev yidereshvhv.",
     "translation": "Bem-aventurados os que guardam as suas leis, aqueles que nele buscam de todo o coração."
   },
   {
     "verse": 3,
     "original": "אַ֭ף לֹא־פָעֲל֣וּ עַוְלָ֑ה בִּדְרָכָ֥יו הָלָֽכוּ׃",
+    "transliteration": "'af lo'-fa'alv 'avelah viderakhayv halakhv.",
     "translation": "Também não praticaram iniquidade; nos seus caminhos andaram."
   },
   {
     "verse": 4,
     "original": "אַ֭תָּה צִוִּ֥יתָה פִקֻּדֶ֗יךָ לִשְׁמֹ֥ר מְאֹֽד׃",
+    "transliteration": "'atah tsiviytah fikudeykha lishemor me'od.",
     "translation": "Tu ordenaste os Teus preceitos para que os guarde com muito cuidado."
   },
   {
     "verse": 5,
     "original": "אַ֭חֲלַי יִכֹּ֥נוּ דְרָכָ֗י לִשְׁמֹ֥ר חֻקֶּֽיךָ׃",
+    "transliteration": "'ahalay yikhonv derakhay lishemor hukeykha.",
     "translation": "Ah, que os meus caminhos fossem confirmados em guardar os teus preceitos!"
   },
   {
     "verse": 6,
     "original": "אָ֥ז לֹא־אֵב֑וֹשׁ בְּ֝הַבִּיטִ֗י אֶל־כׇּל־מִצְוֺתֶֽיךָ׃",
+    "transliteration": "'az lo'-'evvosh vehaviytiy 'el-khol-mitsevoteykha.",
     "translation": "Então não me envergonharei ao contemplar todos os teus preceitos."
   },
   {
     "verse": 7,
     "original": "א֭וֹדְךָ בְּיֹ֣שֶׁר לֵבָ֑ב בְּ֝לׇמְדִ֗י מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+    "transliteration": "'vodekha veyosher levav velomediy mishefetey tsidekekha.",
     "translation": "Te louvarei com integridade de coração, ensinando-me tuas sentenças de justiça."
   },
   {
     "verse": 8,
     "original": "אֶת־חֻקֶּ֥יךָ אֶשְׁמֹ֑ר אַֽל־תַּעַזְבֵ֥נִי עַד־מְאֹֽד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'et-hukeykha 'eshemor 'al-ta'azeveniy 'ad-me'od.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Teus preceitos guardarei, não me abandones muito."
   },
   {
     "verse": 9,
     "original": "בַּמֶּ֣ה יְזַכֶּה־נַּ֭עַר אֶת־אׇרְח֑וֹ לִ֝שְׁמֹ֗ר כִּדְבָרֶֽךָ׃",
+    "transliteration": "vameh yezakheh-na'ar 'et-'orehvo lishemor khidevarekha.",
     "translation": "Como se purificará o jovem a sua conduta? Observando conforme a tua palavra."
   },
   {
     "verse": 10,
     "original": "בְּכׇל־לִבִּ֥י דְרַשְׁתִּ֑יךָ אַל־תַּ֝שְׁגֵּ֗נִי מִמִּצְוֺתֶֽיךָ׃",
+    "transliteration": "vekhol-liviy derashetiykha 'al-tashegeniy mimitsevoteykha.",
     "translation": "Com todo o meu coração busquei os teus preceitos; não me afastes das tuas leis."
   },
   {
     "verse": 11,
     "original": "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶחֱטָא־לָֽךְ׃",
+    "transliteration": "veliviy tsafanetiy 'imeratekha lema'an lo' 'eheta'-lakhe.",
     "translation": "No meu coração escondi tua palavra para que não peque contra ti."
   },
   {
     "verse": 12,
     "original": "בָּר֖וּךְ אַתָּ֥ה יְהֹוָ֗ה לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+    "transliteration": "varvkhe 'atah yehovah lamedeniy hukeykha.",
     "translation": "Bendito Tu és, Senhor; ensina-me os Teus estatutos."
   },
   {
     "verse": 13,
     "original": "בִּשְׂפָתַ֥י סִפַּ֑רְתִּי כֹּ֝֗ל מִשְׁפְּטֵי־פִֽיךָ׃",
+    "transliteration": "visefatay sifaretiy khol mishefetey-fiykha.",
     "translation": "Com meus lábios proclamei tudo, ó SENHOR, os juízos da tua boca."
   },
   {
     "verse": 14,
     "original": "בְּדֶ֖רֶךְ עֵדְוֺתֶ֥יךָ שַּׂ֗שְׂתִּי כְּעַ֣ל כׇּל־הֽוֹן׃",
+    "transliteration": "vederekhe 'edevoteykha sasetiy khe'al khol-hvon.",
     "translation": "No caminho de teus testemunhos me regalei como quem possui riquezas."
   },
   {
     "verse": 15,
     "original": "בְּפִקּוּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹֽרְחֹתֶֽיךָ׃",
+    "transliteration": "vefikvdeykha 'asiyhah ve'aviytah 'orehoteykha.",
     "translation": "Em teus preceitos meditarei, e atentarei para tuas veredas."
   },
   {
     "verse": 16,
     "original": "בְּחֻקֹּתֶ֥יךָ אֶֽשְׁתַּעֲשָׁ֑ע לֹ֖א אֶשְׁכַּ֣ח דְּבָרֶֽךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehukoteykha 'esheta'asha' lo' 'eshekhah devarekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Em Teus preceitos me deleito, não esquecerei a Tua palavra."
   },
   {
     "verse": 17,
     "original": "גְּמֹ֖ל עַל־עַבְדְּךָ֥ אֶחְיֶ֗ה וְאֶשְׁמְרָ֥ה דְבָרֶֽךָ׃",
+    "transliteration": "gemol 'al-'avedekha 'eheyeh ve'eshemerah devarekha.",
     "translation": "Recompensa a teu servo, Êxi, e guardarei tua palavra."
   },
   {
     "verse": 18,
     "original": "גַּל־עֵינַ֥י וְאַבִּ֑יטָה נִ֝פְלָא֗וֹת מִתּוֹרָתֶֽךָ׃",
+    "transliteration": "gal-'eynay ve'aviytah nifela'vot mitvoratekha.",
     "translation": "Abre meus olhos, para que eu possa contemplar as maravilhas contidas em tua lei."
   },
   {
     "verse": 19,
     "original": "גֵּ֣ר אָנֹכִ֣י בָאָ֑רֶץ אַל־תַּסְתֵּ֥ר מִ֝מֶּ֗נִּי מִצְוֺתֶֽיךָ׃",
+    "transliteration": "ger 'anokhiy va'arets 'al-taseter mimeniy mitsevoteykha.",
     "translation": "Estrangeiro sou na terra; não me escondas os teus preceitos."
   },
   {
     "verse": 20,
     "original": "גָּרְסָ֣ה נַפְשִׁ֣י לְתַאֲבָ֑ה אֶֽל־מִשְׁפָּטֶ֥יךָ בְכׇל־עֵֽת׃",
+    "transliteration": "garesah nafeshiy leta'avah 'el-mishefateykha vekhol-'et.",
     "translation": "Ama minha alma as tuas leis; em todo o tempo."
   },
   {
     "verse": 21,
     "original": "גָּ֭עַרְתָּ זֵדִ֣ים אֲרוּרִ֑ים הַ֝שֹּׁגִ֗ים מִמִּצְוֺתֶֽיךָ׃",
+    "transliteration": "ga'areta zediym 'arvriym hashogiym mimitsevoteykha.",
     "translation": "Repreendeste os rebeldes amaldiçoados, os que se desviaram dos teus preceitos."
   },
   {
     "verse": 22,
     "original": "גַּ֣ל מֵ֭עָלַי חֶרְפָּ֣ה וָב֑וּז כִּ֖י עֵדֹתֶ֣יךָ נָצָֽרְתִּי׃",
+    "transliteration": "gal me'alay herefah vavvz khiy 'edoteykha natsaretiy.",
     "translation": "Rola de cima de mim a vergonha e o opróbio, pois guardei teus testemunhos."
   },
   {
     "verse": 23,
     "original": "גַּ֤ם יָשְׁב֣וּ שָׂ֭רִים בִּ֣י נִדְבָּ֑רוּ עַ֝בְדְּךָ֗ יָשִׂ֥יחַ בְּחֻקֶּֽיךָ׃",
+    "transliteration": "gam yashevv sariym viy nidevarv 'avedekha yasiyha vehukeykha.",
     "translation": "Também se assentaram os príncipes e falaram; o teu servo, porém, medita nos teus preceitos."
   },
   {
     "verse": 24,
     "original": "גַּֽם־עֵ֭דֹתֶיךָ שַׁעֲשֻׁעָ֗י אַנְשֵׁ֥י עֲצָתִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "gam-'edoteykha sha'ashu'ay 'aneshey 'atsatiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Também as tuas leis são a alegria da minha alma, como os meus conselheiros."
   },
   {
     "verse": 25,
     "original": "דָּבְקָ֣ה לֶעָפָ֣ר נַפְשִׁ֑י חַ֝יֵּ֗נִי כִּדְבָרֶֽךָ׃",
+    "transliteration": "davekah le'afar nafeshiy hayeniy khidevarekha.",
     "translation": "Minha alma se apega à poeira; vivifica-me conforme tua palavra."
   },
   {
     "verse": 26,
     "original": "דְּרָכַ֣י סִ֭פַּרְתִּי וַֽתַּעֲנֵ֗נִי לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+    "transliteration": "derakhay sifaretiy vata'aneniy lamedeniy hukeykha.",
     "translation": "Meus caminhos declarei, e tu me respondes; ensina-me teus preceitos."
   },
   {
     "verse": 27,
     "original": "דֶּרֶךְ־פִּקּוּדֶ֥יךָ הֲבִינֵ֑נִי וְ֝אָשִׂ֗יחָה בְּנִפְלְאוֹתֶֽיךָ׃",
+    "transliteration": "derekhe-fikvdeykha haviyneniy ve'asiyhah venifele'voteykha.",
     "translation": "Pelos teus preceitos farei entender-me, e meditarei nas tuas maravilhas."
   },
   {
     "verse": 28,
     "original": "דָּלְפָ֣ה נַ֭פְשִׁי מִתּוּגָ֑ה קַ֝יְּמֵ֗נִי כִּדְבָרֶֽךָ׃",
+    "transliteration": "dalefah nafeshiy mitvgah kayemeniy khidevarekha.",
     "translation": "Minha alma derrete-se de angústia; mantém-me com tua palavra."
   },
   {
     "verse": 29,
     "original": "דֶּֽרֶךְ־שֶׁ֭קֶר הָסֵ֣ר מִמֶּ֑נִּי וְֽתוֹרָתְךָ֥ חׇנֵּֽנִי׃",
+    "transliteration": "derekhe-sheker haser mimeniy vetvoratekha honeniy.",
     "translation": "Desvia-me do caminho da falsidade e concede-me a tua lei."
   },
   {
     "verse": 30,
     "original": "דֶּֽרֶךְ־אֱמוּנָ֥ה בָחָ֑רְתִּי מִשְׁפָּטֶ֥יךָ שִׁוִּֽיתִי׃",
+    "transliteration": "derekhe-'emvnah vaharetiy mishefateykha shiviytiy.",
     "translation": "Caminho de fidelidade escolhi, teus preceitos pus por patrimônio."
   },
   {
     "verse": 31,
     "original": "דָּבַ֥קְתִּי בְעֵדְוֺתֶ֑יךָ יְ֝הֹוָ֗ה אַל־תְּבִישֵֽׁנִי׃",
+    "transliteration": "davaketiy ve'edevoteykha yehovah 'al-teviysheniy.",
     "translation": "Apeguei-me às tuas testemunhas, Senhor; não me envergonhes."
   },
   {
     "verse": 32,
     "original": "דֶּֽרֶךְ־מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "derekhe-mitsevoteykha 'arvts khiy tarehiyv liviy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pela senda de teus preceitos correrá o meu coração, pois Tu a abres largamente ao meu espírito."
   },
   {
     "verse": 33,
     "original": "הוֹרֵ֣נִי יְ֭הֹוָה דֶּ֥רֶךְ חֻקֶּ֗יךָ וְאֶצְּרֶ֥נָּה עֵֽקֶב׃",
+    "transliteration": "hvoreniy yehovah derekhe hukeykha ve'etserenah 'ekev.",
     "translation": "Ensina-me, Senhor, o caminho das tuas leis e eu o guardarei com todo o meu coração."
   },
   {
     "verse": 34,
     "original": "הֲ֭בִינֵנִי וְאֶצְּרָ֥ה תוֹרָתֶ֗ךָ וְאֶשְׁמְרֶ֥נָּה בְכׇל־לֵֽב׃",
+    "transliteration": "haviyneniy ve'etserah tvoratekha ve'eshemerenah vekhol-lev.",
     "translation": "Entende-me e guardarei os teus preceitos; observá-los-ei com todo o meu coração."
   },
   {
     "verse": 35,
     "original": "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֺתֶ֑יךָ כִּי־ב֥וֹ חָפָֽצְתִּי׃",
+    "transliteration": "haderiykheniy vinetiyv mitsevoteykha khiy-vvo hafatsetiy.",
     "translation": "Ensina-me os caminhos dos teus mandamentos, pois neles ponho meu desejo."
   },
   {
     "verse": 36,
     "original": "הַט־לִ֭בִּי אֶל־עֵדְוֺתֶ֗יךָ וְאַ֣ל אֶל־בָּֽצַע׃",
+    "transliteration": "hat-liviy 'el-'edevoteykha ve'al 'el-vatsa'.",
     "translation": "Inclina meu coração para os teus testemunhos e não para o lucro vil."
   },
   {
     "verse": 37,
     "original": "הַעֲבֵ֣ר עֵ֭ינַי מֵרְא֣וֹת שָׁ֑וְא בִּדְרָכֶ֥ךָ חַיֵּֽנִי׃",
+    "transliteration": "ha'aver 'eynay mere'vot shave' viderakhekha hayeniy.",
     "translation": "Põe ante meus olhos não o que é falso; vivifica-me na tua senda."
   },
   {
     "verse": 38,
     "original": "הָקֵ֣ם לְ֭עַבְדְּךָ אִמְרָתֶ֑ךָ אֲ֝שֶׁ֗ר לְיִרְאָתֶֽךָ׃",
+    "transliteration": "hakem le'avedekha 'imeratekha 'asher leyire'atekha.",
     "translation": "Ergue a palavra do teu servo para o temor diante de ti."
   },
   {
     "verse": 39,
     "original": "הַעֲבֵ֣ר חֶ֭רְפָּתִי אֲשֶׁ֣ר יָגֹ֑רְתִּי כִּ֖י מִשְׁפָּטֶ֣יךָ טוֹבִֽים׃",
+    "transliteration": "ha'aver herefatiy 'asher yagoretiy khiy mishefateykha tvoviym.",
     "translation": "Transpõe minha reprovação que se acumulou, pois teus juízos são bons."
   },
   {
     "verse": 40,
     "original": "הִ֭נֵּה תָּאַ֣בְתִּי לְפִקֻּדֶ֑יךָ בְּצִדְקָתְךָ֥ חַיֵּֽנִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hineh ta'avetiy lefikudeykha vetsidekatekha hayeniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eis que anseio por teus preceitos; com tua justiça vivifica-me."
   },
   {
     "verse": 41,
     "original": "וִיבֹאֻ֣נִי חֲסָדֶ֣ךָ יְהֹוָ֑ה תְּ֝שׁ֥וּעָתְךָ֗ כְּאִמְרָתֶֽךָ׃",
+    "transliteration": "viyvo'uniy hasadekha yehovah teshv'atekha khe'imeratekha.",
     "translation": "E teus misericórdias me envolverão, Senhor, tua salvação, como a palavra da tua boca."
   },
   {
     "verse": 42,
     "original": "וְאֶעֱנֶ֣ה חֹרְפִ֣י דָבָ֑ר כִּֽי־בָ֝טַ֗חְתִּי בִּדְבָרֶֽךָ׃",
+    "transliteration": "ve'e'eneh horefiy davar khiy-vatahetiy videvarekha.",
     "translation": "E responderei ao que me zomba com uma palavra, pois confiei em tuas palavras."
   },
   {
     "verse": 43,
     "original": "וְֽאַל־תַּצֵּ֬ל מִפִּ֣י דְבַר־אֱמֶ֣ת עַד־מְאֹ֑ד כִּ֖י לְמִשְׁפָּטֶ֣ךָ יִחָֽלְתִּי׃",
+    "transliteration": "ve'al-tatsel mifiy devar-'emet 'ad-me'od khiy lemishefatekha yihaletiy.",
     "translation": "E não afastes da tua boca a palavra de verdade, pois em teu juízo confio."
   },
   {
     "verse": 44,
     "original": "וְאֶשְׁמְרָ֖ה תוֹרָתְךָ֥ תָמִ֗יד לְעוֹלָ֥ם וָעֶֽד׃",
+    "transliteration": "ve'eshemerah tvoratekha tamiyd le'volam va'ed.",
     "translation": "E guardarei tua lei eternamente, para sempre."
   },
   {
     "verse": 45,
     "original": "וְאֶתְהַלְּכָ֥ה בָרְחָבָ֑ה כִּ֖י פִקֻּדֶ֣יךָ דָרָֽשְׁתִּי׃",
+    "transliteration": "ve'etehalekhah varehavah khiy fikudeykha darashetiy.",
     "translation": "E caminharei em largueza, porque busquei tuas ordenanças."
   },
   {
     "verse": 46,
     "original": "וַאֲדַבְּרָ֣ה בְ֭עֵדֹתֶיךָ נֶ֥גֶד מְלָכִ֗ים וְלֹ֣א אֵבֽוֹשׁ׃",
+    "transliteration": "va'adaverah ve'edoteykha neged melakhiym velo' 'evvosh.",
     "translation": "E falarei de teus testemunhos diante dos reis, e não me envergonharei."
   },
   {
     "verse": 47,
     "original": "וְאֶשְׁתַּעֲשַׁ֥ע בְּמִצְוֺתֶ֗יךָ אֲשֶׁ֣ר אָהָֽבְתִּי׃",
+    "transliteration": "ve'esheta'asha' vemitsevoteykha 'asher 'ahavetiy.",
     "translation": "E me regalarei com os teus mandamentos que amo."
   },
   {
     "verse": 48,
     "original": "וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֺתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְאָשִׂ֥יחָה בְחֻקֶּֽיךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'esa'-khafay 'el-mitsevoteykha 'asher 'ahavetiy ve'asiyhah vehukeykha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E levantarei as minhas mãos às tuas ordenanças que amo, e meditarei nos teus preceitos."
   },
   {
     "verse": 49,
     "original": "זְכֹר־דָּבָ֥ר לְעַבְדֶּ֑ךָ עַ֝֗ל אֲשֶׁ֣ר יִחַלְתָּֽנִי׃",
+    "transliteration": "zekhor-davar le'avedekha 'al 'asher yihaletaniy.",
     "translation": "Lembra-te da tua palavra ao teu servo, pela qual me fizeste esperar."
   },
   {
     "verse": 50,
     "original": "זֹ֣את נֶחָמָתִ֣י בְעׇנְיִ֑י כִּ֖י אִמְרָתְךָ֣ חִיָּֽתְנִי׃",
+    "transliteration": "zo't nehamatiy ve'oneyiy khiy 'imeratekha hiyateniy.",
     "translation": "Esta é a minha consolação na angústia, pois tua palavra me vivifica."
   },
   {
     "verse": 51,
     "original": "זֵ֭דִים הֱלִיצֻ֣נִי עַד־מְאֹ֑ד מִ֝תּ֥וֹרָתְךָ֗ לֹ֣א נָטִֽיתִי׃",
+    "transliteration": "zediym heliytsuniy 'ad-me'od mitvoratekha lo' natiytiy.",
     "translation": "Os rebeldes me provocaram intensamente, mas eu não desviei dos Teus mandamentos."
   },
   {
     "verse": 52,
     "original": "זָ֘כַ֤רְתִּי מִשְׁפָּטֶ֖יךָ מֵעוֹלָ֥ם&thinsp;<small>׀</small>&thinsp;יְהֹוָ֗ה וָאֶתְנֶחָֽם׃",
+    "transliteration": "zakharetiy mishefateykha me'volam&thinsp;<small>|</small>&thinsp;yehovah va'eteneham.",
     "translation": "Lembranças dos teus juízos desde a antiguidade, Senhor, e as guardo."
   },
   {
     "verse": 53,
     "original": "זַלְעָפָ֣ה אֲ֭חָזַתְנִי מֵרְשָׁעִ֑ים עֹ֝זְבֵ֗י תּוֹרָתֶֽךָ׃",
+    "transliteration": "zale'afah 'ahazateniy meresha'iym 'ozevey tvoratekha.",
     "translation": "Fúria me apoderou dos malfeitores, os que abandonam a tua lei."
   },
   {
     "verse": 54,
     "original": "זְ֭מִרוֹת הָיוּ־לִ֥י חֻקֶּ֗יךָ בְּבֵ֣ית מְגוּרָֽי׃",
+    "transliteration": "zemirvot hayv-liy hukeykha veveyt megvray.",
     "translation": "Cantos são os teus preceitos na casa dos meus exílios."
   },
   {
     "verse": 55,
     "original": "זָ֘כַ֤רְתִּי בַלַּ֣יְלָה שִׁמְךָ֣ יְהֹוָ֑ה וָ֝אֶשְׁמְרָ֗ה תּוֹרָתֶֽךָ׃",
+    "transliteration": "zakharetiy valayelah shimekha yehovah va'eshemerah tvoratekha.",
     "translation": "Lembranças da noite, teu nome, Senhor; e guardei tua lei."
   },
   {
     "verse": 56,
     "original": "זֹ֥את הָיְתָה־לִּ֑י כִּ֖י פִקֻּדֶ֣יךָ נָצָֽרְתִּי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "zo't hayetah-liy khiy fikudeykha natsaretiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Isto me foi favorável, pois guardei teus preceitos."
   },
   {
     "verse": 57,
     "original": "חֶלְקִ֖י יְהֹוָ֥ה אָמַ֗רְתִּי לִשְׁמֹ֥ר דְּבָרֶֽיךָ׃",
+    "transliteration": "helekiy yehovah 'amaretiy lishemor devareykha.",
     "translation": "A porção do Senhor eu disse guardar as tuas palavras."
   },
   {
     "verse": 58,
     "original": "חִלִּ֣יתִי פָנֶ֣יךָ בְכׇל־לֵ֑ב חׇ֝נֵּ֗נִי כְּאִמְרָתֶֽךָ׃",
+    "transliteration": "hiliytiy faneykha vekhol-lev honeniy khe'imeratekha.",
     "translation": "Amei as tuas aparições com todo o meu coração; socorre-me conforme a tua palavra."
   },
   {
     "verse": 59,
     "original": "חִשַּׁ֥בְתִּי דְרָכָ֑י וָאָשִׁ֥יבָה רַ֝גְלַ֗י אֶל־עֵדֹתֶֽיךָ׃",
+    "transliteration": "hishavetiy derakhay va'ashiyvah ragelay 'el-'edoteykha.",
     "translation": "Pesei meus caminhos e voltei meus pés para os teus testemunhos."
   },
   {
     "verse": 60,
     "original": "חַ֭שְׁתִּי וְלֹ֣א הִתְמַהְמָ֑הְתִּי לִ֝שְׁמֹ֗ר מִצְוֺתֶֽיךָ׃",
+    "transliteration": "hashetiy velo' hitemahemahetiy lishemor mitsevoteykha.",
     "translation": "Percebi e não me adiei para guardar teus mandamentos."
   },
   {
     "verse": 61,
     "original": "חֶבְלֵ֣י רְשָׁעִ֣ים עִוְּדֻ֑נִי תּ֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+    "transliteration": "heveley resha'iym 'iveduniy tvoratekha lo' shakhahetiy.",
     "translation": "As dores dos ímpios me cercam, mas tua lei não esqueci."
   },
   {
     "verse": 62,
     "original": "חֲצֽוֹת־לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+    "transliteration": "hatsvot-layelah 'akvm lehvodvot lakhe 'al mishefetey tsidekekha.",
     "translation": "Metade da noite me levanto para te louvar, pelas ordenanças da tua justiça."
   },
   {
     "verse": 63,
     "original": "חָבֵ֣ר אָ֭נִי לְכׇל־אֲשֶׁ֣ר יְרֵא֑וּךָ וּ֝לְשֹׁמְרֵ֗י פִּקּוּדֶֽיךָ׃",
+    "transliteration": "haver 'aniy lekhol-'asher yere'vkha vleshomerey fikvdeykha.",
     "translation": "Amigo sou de todos os que te temem e guardam os teus preceitos."
   },
   {
     "verse": 64,
     "original": "חַסְדְּךָ֣ יְ֭הֹוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hasedekha yehovah male'ah ha'arets hukeykha lamedeniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Teus misericórdias, Senhor, enchem a terra; ensina-me os teus preceitos."
   },
   {
     "verse": 65,
     "original": "ט֭וֹב עָשִׂ֣יתָ עִֽם־עַבְדְּךָ֑ יְ֝הֹוָ֗ה כִּדְבָרֶֽךָ׃",
+    "transliteration": "tvov 'asiyta 'im-'avedekha yehovah khidevarekha.",
     "translation": "Bem fizeste com teu servo, Senhor; conforme tua palavra."
   },
   {
     "verse": 66,
     "original": "ט֤וּב טַ֣עַם וָדַ֣עַת לַמְּדֵ֑נִי כִּ֖י בְמִצְוֺתֶ֣יךָ הֶאֱמָֽנְתִּי׃",
+    "transliteration": "tvv ta'am vada'at lamedeniy khiy vemitsevoteykha he'emanetiy.",
     "translation": "Boa doutrina e conhecimento ensina-me, pois em teus preceitos confiei."
   },
   {
     "verse": 67,
     "original": "טֶ֣רֶם אֶ֭עֱנֶה אֲנִ֣י שֹׁגֵ֑ג וְ֝עַתָּ֗ה אִמְרָתְךָ֥ שָׁמָֽרְתִּי׃",
+    "transliteration": "terem 'e'eneh 'aniy shogeg ve'atah 'imeratekha shamaretiy.",
     "translation": "Antes de responder, eu transgredo, e agora guardo a tua palavra."
   },
   {
     "verse": 68,
     "original": "טוֹב־אַתָּ֥ה וּמֵטִ֗יב לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+    "transliteration": "tvov-'atah vmetiyv lamedeniy hukeykha.",
     "translation": "Bom és tu, e bom fazes; ensina-me teus preceitos."
   },
   {
     "verse": 69,
     "original": "טָפְל֬וּ עָלַ֣י שֶׁ֣קֶר זֵדִ֑ים אֲ֝נִ֗י בְּכׇל־לֵ֤ב&thinsp;<b>׀</b> אֶצֹּ֬ר פִּקּוּדֶֽיךָ׃",
+    "transliteration": "tafelv 'alay sheker zediym 'aniy vekhol-lev&thinsp;<b>|</b> 'etsor fikvdeykha.",
     "translation": "Mentirosos se acumularam contra mim, mas guardo todos os teus mandamentos com todo o meu coração."
   },
   {
     "verse": 70,
     "original": "טָפַ֣שׁ כַּחֵ֣לֶב לִבָּ֑ם אֲ֝נִ֗י תּוֹרָתְךָ֥ שִׁעֲשָֽׁעְתִּי׃",
+    "transliteration": "tafash khahelev livam 'aniy tvoratekha shi'asha'etiy.",
     "translation": "Insensato como a gordura está seu coração; eu, porém, me regalei com a tua lei."
   },
   {
     "verse": 71,
     "original": "טֽוֹב־לִ֥י כִי־עֻנֵּ֑יתִי לְ֝מַ֗עַן אֶלְמַ֥ד חֻקֶּֽיךָ׃",
+    "transliteration": "tvov-liy khiy-'uneytiy lema'an 'elemad hukeykha.",
     "translation": "Bom-me que fui afligido, para que aprenda teus preceitos."
   },
   {
     "verse": 72,
     "original": "טֽוֹב־לִ֥י תוֹרַת־פִּ֑יךָ מֵ֝אַלְפֵ֗י זָהָ֥ב וָכָֽסֶף׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "tvov-liy tvorat-fiykha me'alefey zahav vakhasef.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Melhor para mim é a lei da tua boca do que milhares de ouro e prata."
   },
   {
     "verse": 73,
     "original": "יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ׃",
+    "transliteration": "yadeykha 'asvniy vayekhvonenvniy haviyneniy ve'elemedah mitsevoteykha.",
     "translation": "Tus mãos me fizeram e me constituíram; ensina-me, e eu aprenderei teus mandamentos."
   },
   {
     "verse": 74,
     "original": "יְ֭רֵאֶיךָ יִרְא֣וּנִי וְיִשְׂמָ֑חוּ כִּ֖י לִדְבָרְךָ֣ יִחָֽלְתִּי׃",
+    "transliteration": "yere'eykha yire'vniy veyisemahv khiy lidevarekha yihaletiy.",
     "translation": "Temeu-te eu, e neles se alegrarão os que te temem, porque as tuas palavras sobre as quais ansiei."
   },
   {
     "verse": 75,
     "original": "יָדַ֣עְתִּי יְ֭הֹוָה כִּי־צֶ֣דֶק מִשְׁפָּטֶ֑יךָ וֶ֝אֱמוּנָ֗ה עִנִּיתָֽנִי׃",
+    "transliteration": "yada'etiy yehovah khiy-tsedek mishefateykha ve'emvnah 'iniytaniy.",
     "translation": "Conheço, SENHOR, que tua justiça é reta e em verdade me tens provado."
   },
   {
     "verse": 76,
     "original": "יְהִי־נָ֣א חַסְדְּךָ֣ לְנַחֲמֵ֑נִי כְּאִמְרָתְךָ֥ לְעַבְדֶּֽךָ׃",
+    "transliteration": "yehiy-na' hasedekha lenahameniy khe'imeratekha le'avedekha.",
     "translation": "Seja, oh, teu favor para me consolar, conforme falaste ao teu servo."
   },
   {
     "verse": 77,
     "original": "יְבֹא֣וּנִי רַחֲמֶ֣יךָ וְאֶחְיֶ֑ה כִּי־ת֥֝וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
+    "transliteration": "yevo'vniy rahameykha ve'eheyeh khiy-tvoratekha sha'ashu'ay.",
     "translation": "Entrem em mim, tuas misericórdias, e viverei; pois a tua lei é o meu gozo."
   },
   {
     "verse": 78,
     "original": "יֵבֹ֣שׁוּ זֵ֭דִים כִּי־שֶׁ֣קֶר עִוְּת֑וּנִי אֲ֝נִ֗י אָשִׂ֥יחַ בְּפִקּוּדֶֽיךָ׃",
+    "transliteration": "yevoshv zediym khiy-sheker 'ivetvniy 'aniy 'asiyha vefikvdeykha.",
     "translation": "Envergonhem-se os soberbos, pois me enganaram em falso; eu, porém, meditarei nos teus preceitos."
   },
   {
     "verse": 79,
     "original": "יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וידעו)</span> <span class=\"mam-kq-q\">[וְ֝יֹדְעֵ֗י]</span></span> עֵדֹתֶֽיךָ׃",
+    "transliteration": "yashvvv liy yere'eykha <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vyd'v)</span> <span class=\"mam-kq-q\">[veyode'ey]</span></span> 'edoteykha.",
     "translation": "Voltem a mim, vossos temerosos, e conheced vossas leis."
   },
   {
     "verse": 80,
     "original": "יְהִי־לִבִּ֣י תָמִ֣ים בְּחֻקֶּ֑יךָ לְ֝מַ֗עַן לֹ֣א אֵבֽוֹשׁ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yehiy-liviy tamiym vehukeykha lema'an lo' 'evvosh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Seja o meu coração íntegro nos Teus preceitos, para que eu não seja envergonhado."
   },
   {
     "verse": 81,
     "original": "כָּלְתָ֣ה לִתְשׁוּעָתְךָ֣ נַפְשִׁ֑י לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
+    "transliteration": "khaletah liteshv'atekha nafeshiy lidevarekha yihaletiy.",
     "translation": "A minha alma anseia pela tua salvação; na tua palavra eu tenho esperança."
   },
   {
     "verse": 82,
     "original": "כָּל֣וּ עֵ֭ינַי לְאִמְרָתֶ֑ךָ לֵ֝אמֹ֗ר מָתַ֥י תְּֽנַחֲמֵֽנִי׃",
+    "transliteration": "khalv 'eynay le'imeratekha le'mor matay tenahameniy.",
     "translation": "Consumiram-se os meus olhos pela tua palavra, dizendo: Quando me consolarás?"
   },
   {
     "verse": 83,
     "original": "כִּֽי־הָ֭יִיתִי כְּנֹ֣אד בְּקִיט֑וֹר חֻ֝קֶּ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
+    "transliteration": "khiy-hayiytiy kheno'd vekiytvor hukeykha lo' shakhahetiy.",
     "translation": "Pois fui como um pilão no incenso; teus preceitos não esqueci."
   },
   {
     "verse": 84,
     "original": "כַּמָּ֥ה יְמֵֽי־עַבְדֶּ֑ךָ מָתַ֬י תַּעֲשֶׂ֖ה בְרֹדְפַ֣י מִשְׁפָּֽט׃",
+    "transliteration": "khamah yemey-'avedekha matay ta'aseh verodefay mishefat.",
     "translation": "Quantos são os dias do teu servo? Quando farás justiça aos que me perseguem?"
   },
   {
     "verse": 85,
     "original": "כָּרוּ־לִ֣י זֵדִ֣ים שִׁיח֑וֹת אֲ֝שֶׁ֗ר לֹ֣א כְתוֹרָתֶֽךָ׃",
+    "transliteration": "kharv-liy zediym shiyhvot 'asher lo' khetvoratekha.",
     "translation": "Perversos me cavaram fossas, onde não há tua lei."
   },
   {
     "verse": 86,
     "original": "כׇּל־מִצְוֺתֶ֥יךָ אֱמוּנָ֑ה שֶׁ֖קֶר רְדָפ֣וּנִי עׇזְרֵֽנִי׃",
+    "transliteration": "khol-mitsevoteykha 'emvnah sheker redafvniy 'ozereniy.",
     "translation": "Todas as tuas ordens são verdade; enganos me perseguem, ajuda-me."
   },
   {
     "verse": 87,
     "original": "כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃",
+    "transliteration": "khime'at khilvniy va'arets va'aniy lo'-'azavetiy fikudeykha.",
     "translation": "Como me afligiram na terra, mas não desamparei teus preceitos."
   },
   {
     "verse": 88,
     "original": "כְּחַסְדְּךָ֥ חַיֵּ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵד֥וּת פִּֽיךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khehasedekha hayeniy ve'eshemerah 'edvt fiykha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pela tua misericórdia vivifica-me, e guardarei o testemunho da tua boca."
   },
   {
     "verse": 89,
     "original": "לְעוֹלָ֥ם יְהֹוָ֑ה דְּ֝בָרְךָ֗ נִצָּ֥ב בַּשָּׁמָֽיִם׃",
+    "transliteration": "le'volam yehovah devarekha nitsav vashamayim.",
     "translation": "Senhor, para sempre, tua palavra se erige nos céus."
   },
   {
     "verse": 90,
     "original": "לְדֹ֣ר וָ֭דֹר אֱמוּנָתֶ֑ךָ כּוֹנַ֥נְתָּֽ אֶ֝֗רֶץ וַֽתַּעֲמֹֽד׃",
+    "transliteration": "ledor vador 'emvnatekha khvonaneta 'erets vata'amod.",
     "translation": "De geração em geração a tua fidelidade, tu fundaste a terra e ela permaneceu."
   },
   {
     "verse": 91,
     "original": "לְֽ֭מִשְׁפָּטֶיךָ עָמְד֣וּ הַיּ֑וֹם כִּ֖י הַכֹּ֣ל עֲבָדֶֽיךָ׃",
+    "transliteration": "lemishefateykha 'amedv hayvom khiy hakhol 'avadeykha.",
     "translation": "Pelos teus juízos se erguem os dias, pois todos são teus servos."
   },
   {
     "verse": 92,
     "original": "לוּלֵ֣י ת֭וֹרָתְךָ שַׁעֲשֻׁעָ֑י אָ֝֗ז אָבַ֥דְתִּי בְעׇנְיִֽי׃",
+    "transliteration": "lvley tvoratekha sha'ashu'ay 'az 'avadetiy ve'oneyiy.",
     "translation": "Se não fosse tua lei o meu gozo, nessa angústia já perecera."
   },
   {
     "verse": 93,
     "original": "לְ֭עוֹלָם לֹא־אֶשְׁכַּ֣ח פִּקּוּדֶ֑יךָ כִּ֥י בָ֝֗ם חִיִּיתָֽנִי׃",
+    "transliteration": "le'volam lo'-'eshekhah fikvdeykha khiy vam hiyiytaniy.",
     "translation": "Para sempre não esquecerei teus mandamentos, pois por eles me fizeste viver."
   },
   {
     "verse": 94,
     "original": "לְֽךָ־אֲ֭נִי הוֹשִׁיעֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ דָרָֽשְׁתִּי׃",
+    "transliteration": "lekha-'aniy hvoshiy'eniy khiy fikvdeykha darashetiy.",
     "translation": "Para ti sou, livra-me, pois busquei os teus mandamentos."
   },
   {
     "verse": 95,
     "original": "לִ֤י קִוּ֣וּ רְשָׁעִ֣ים לְאַבְּדֵ֑נִי עֵ֝דֹתֶ֗יךָ אֶתְבּוֹנָֽן׃",
+    "transliteration": "liy kivv resha'iym le'avedeniy 'edoteykha 'etevvonan.",
     "translation": "Perversos me esperam para destruir-me; mas eu atento cuidadosamente à tua lei."
   },
   {
     "verse": 96,
     "original": "לְֽכׇל־תִּ֭כְלָה רָאִ֣יתִי קֵ֑ץ רְחָבָ֖ה מִצְוָתְךָ֣ מְאֹֽד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lekhol-tikhelah ra'iytiy kets rehavah mitsevatekha me'od.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para toda consumação vi um fim; a amplitude de teus mandamentos é muito grande."
   },
   {
     "verse": 97,
     "original": "מָה־אָהַ֥בְתִּי תוֹרָתֶ֑ךָ כׇּל־הַ֝יּ֗וֹם הִ֣יא שִׂיחָתִֽי׃",
+    "transliteration": "mah-'ahavetiy tvoratekha khol-hayvom hiy' siyhatiy.",
     "translation": "Quanto amei tua lei! Todo o dia ela é a minha meditação."
   },
   {
     "verse": 98,
     "original": "מֵֽ֭אֹיְבַי תְּחַכְּמֵ֣נִי מִצְוֺתֶ֑ךָ כִּ֖י לְעוֹלָ֣ם הִיא־לִֽי׃",
+    "transliteration": "me'oyevay tehakhemeniy mitsevotekha khiy le'volam hiy'-liy.",
     "translation": "De meus inimigos, ensina-me os teus preceitos, pois eles são para sempre a minha herança."
   },
   {
     "verse": 99,
     "original": "מִכׇּל־מְלַמְּדַ֥י הִשְׂכַּ֑לְתִּי כִּ֥י עֵ֝דְוֺתֶ֗יךָ שִׂ֣יחָה לִֽי׃",
+    "transliteration": "mikhol-melameday hisekhaletiy khiy 'edevoteykha siyhah liy.",
     "translation": "De todos os meus mestres tomei discernimento, pois tuas testemunhas são a minha conversação."
   },
   {
     "verse": 100,
     "original": "מִזְּקֵנִ֥ים אֶתְבּוֹנָ֑ן כִּ֖י פִקּוּדֶ֣יךָ נָצָֽרְתִּי׃",
+    "transliteration": "mizekeniym 'etevvonan khiy fikvdeykha natsaretiy.",
     "translation": "De velhos me delicio, pois guardei os teus preceitos."
   },
   {
     "verse": 101,
     "original": "מִכׇּל־אֹ֣רַח רָ֭ע כָּלִ֣אתִי רַגְלָ֑י לְ֝מַ֗עַן אֶשְׁמֹ֥ר דְּבָרֶֽךָ׃",
+    "transliteration": "mikhol-'orah ra' khali'tiy ragelay lema'an 'eshemor devarekha.",
     "translation": "De todo caminho mau fechei meus pés, para guardar tua palavra."
   },
   {
     "verse": 102,
     "original": "מִמִּשְׁפָּטֶ֥יךָ לֹא־סָ֑רְתִּי כִּי־אַ֝תָּ֗ה הוֹרֵתָֽנִי׃",
+    "transliteration": "mimishefateykha lo'-saretiy khiy-'atah hvoretaniy.",
     "translation": "De teus preceitos não me desviei, pois tu me ensinaste."
   },
   {
     "verse": 103,
     "original": "מַה־נִּמְלְצ֣וּ לְ֭חִכִּי אִמְרָתֶ֗ךָ מִדְּבַ֥שׁ לְפִֽי׃",
+    "transliteration": "mah-nimeletsv lehikhiy 'imeratekha midevash lefiy.",
     "translation": "Quão doces são as tuas palavras para a minha boca, mais doce que o mel aos meus lábios."
   },
   {
     "verse": 104,
     "original": "מִפִּקּוּדֶ֥יךָ אֶתְבּוֹנָ֑ן עַל־כֵּ֝֗ן שָׂנֵ֤אתִי&thinsp;<b>׀</b> כׇּל־אֹ֬רַח שָֽׁקֶר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "mifikvdeykha 'etevvonan 'al-khen sane'tiy&thinsp;<b>|</b> khol-'orah shaker.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "De teus mandamentos medito; por isso aborreço todo caminho falso."
   },
   {
     "verse": 105,
     "original": "נֵר־לְרַגְלִ֥י דְבָרֶ֑ךָ וְ֝א֗וֹר לִנְתִיבָתִֽי׃",
+    "transliteration": "ner-lerageliy devarekha ve'vor linetiyvatiy.",
     "translation": "Lanterna para meus pés é tua palavra, e luz para meu caminho."
   },
   {
     "verse": 106,
     "original": "נִשְׁבַּ֥עְתִּי וָאֲקַיֵּ֑מָה לִ֝שְׁמֹ֗ר מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+    "transliteration": "nisheva'etiy va'akayemah lishemor mishefetey tsidekekha.",
     "translation": "Juramente e o cumpri para guardar os juízos da tua justiça."
   },
   {
     "verse": 107,
     "original": "נַעֲנֵ֥יתִי עַד־מְאֹ֑ד יְ֝הֹוָ֗ה חַיֵּ֥נִי כִדְבָרֶֽךָ׃",
+    "transliteration": "na'aneytiy 'ad-me'od yehovah hayeniy khidevarekha.",
     "translation": "Ouvi com muita atenção, SENHOR; vivifica-me conforme tua palavra."
   },
   {
     "verse": 108,
     "original": "נִדְב֣וֹת פִּ֭י רְצֵה־נָ֣א יְהֹוָ֑ה וּֽמִשְׁפָּטֶ֥יךָ לַמְּדֵֽנִי׃",
+    "transliteration": "nidevvot fiy retseh-na' yehovah vmishefateykha lamedeniy.",
     "translation": "Ofertas de meus lábios, aceita, Senhor, e ensina-me os teus juízos."
   },
   {
     "verse": 109,
     "original": "נַפְשִׁ֣י בְכַפִּ֣י תָמִ֑יד וְ֝ת֥וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+    "transliteration": "nafeshiy vekhafiy tamiyd vetvoratekha lo' shakhahetiy.",
     "translation": "Minha alma está na minha palma continuamente, e tua lei não esqueci."
   },
   {
     "verse": 110,
     "original": "נָתְנ֬וּ רְשָׁעִ֣ים פַּ֣ח לִ֑י וּ֝מִפִּקּוּדֶ֗יךָ לֹ֣א תָעִֽיתִי׃",
+    "transliteration": "natenv resha'iym fah liy vmifikvdeykha lo' ta'iytiy.",
     "translation": "Os perversos me cavaram uma cova, mas de teus preceitos não me desviei."
   },
   {
     "verse": 111,
     "original": "נָחַ֣לְתִּי עֵדְוֺתֶ֣יךָ לְעוֹלָ֑ם כִּֽי־שְׂשׂ֖וֹן לִבִּ֣י הֵֽמָּה׃",
+    "transliteration": "nahaletiy 'edevoteykha le'volam khiy-sesvon liviy hemah.",
     "translation": "Herdei os teus testemunhos para sempre, porque neles há regozijo para o meu coração."
   },
   {
     "verse": 112,
     "original": "נָטִ֣יתִי לִ֭בִּי לַעֲשׂ֥וֹת חֻקֶּ֗יךָ לְעוֹלָ֥ם עֵֽקֶב׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "natiytiy liviy la'asvot hukeykha le'volam 'ekev.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Inclini meu coração para fazer tuas leis; eternamente serei teu seguidor."
   },
   {
     "verse": 113,
     "original": "סֵעֲפִ֥ים שָׂנֵ֑אתִי וְֽתוֹרָתְךָ֥ אָהָֽבְתִּי׃",
+    "transliteration": "se'afiym sane'tiy vetvoratekha 'ahavetiy.",
     "translation": "Aborreço as ramificações, mas amo a tua lei."
   },
   {
     "verse": 114,
     "original": "סִתְרִ֣י וּמָגִנִּ֣י אָ֑תָּה לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
+    "transliteration": "siteriy vmaginiy 'atah lidevarekha yihaletiy.",
     "translation": "Tu és meu esconderijo e meu escudo; em tuas palavras me deleito."
   },
   {
     "verse": 115,
     "original": "סוּרוּ־מִמֶּ֥נִּי מְרֵעִ֑ים וְ֝אֶצְּרָ֗ה מִצְוֺ֥ת אֱלֹהָֽי׃",
+    "transliteration": "svrv-mimeniy mere'iym ve'etserah mitsevot 'elohay.",
     "translation": "Afastei-me dos perversos e guardei os preceitos do meu Deus."
   },
   {
     "verse": 116,
     "original": "סׇמְכֵ֣נִי כְאִמְרָתְךָ֣ וְאֶחְיֶ֑ה וְאַל־תְּ֝בִישֵׁ֗נִי מִשִּׂבְרִֽי׃",
+    "transliteration": "somekheniy khe'imeratekha ve'eheyeh ve'al-teviysheniy misiveriy.",
     "translation": "Sustém-me conforme tua palavra, e viverei; não me envergonhes da minha expectativa."
   },
   {
     "verse": 117,
     "original": "סְעָדֵ֥נִי וְאִוָּשֵׁ֑עָה וְאֶשְׁעָ֖ה בְחֻקֶּ֣יךָ תָמִֽיד׃",
+    "transliteration": "se'adeniy ve'ivashe'ah ve'eshe'ah vehukeykha tamiyd.",
     "translation": "Sustenta-me e serei salvo, e guardarei teus preceitos constantemente."
   },
   {
     "verse": 118,
     "original": "סָ֭לִיתָ כׇּל־שׁוֹגִ֣ים מֵחֻקֶּ֑יךָ כִּי־שֶׁ֝֗קֶר תַּרְמִיתָֽם׃",
+    "transliteration": "saliyta khol-shvogiym mehukeykha khiy-sheker taremiytam.",
     "translation": "Separaste todos os desviados de teus preceitos, pois a sua falsidade se tornou em mentira."
   },
   {
     "verse": 119,
     "original": "סִגִ֗ים הִשְׁבַּ֥תָּ כׇל־רִשְׁעֵי־אָ֑רֶץ לָ֝כֵ֗ן אָהַ֥בְתִּי עֵדֹתֶֽיךָ׃",
+    "transliteration": "sigiym hishevata khol-rishe'ey-'arets lakhen 'ahavetiy 'edoteykha.",
     "translation": "Calaram-se todos os perversos da terra; por isso amei teus mandamentos."
   },
   {
     "verse": 120,
     "original": "סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "samar mifahedekha vesariy vmimishefateykha yare'tiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Dormi pelo teu temor, ó Deus, e dos teus juízos tive medo."
   },
   {
     "verse": 121,
     "original": "עָ֭שִׂיתִי מִשְׁפָּ֣ט וָצֶ֑דֶק בַּל־תַּ֝נִּיחֵ֗נִי לְעֹשְׁקָֽי׃",
+    "transliteration": "'asiytiy mishefat vatsedek val-taniyheniy le'oshekay.",
     "translation": "Fiz justiça e retidão; não me abandones aos meus opressores."
   },
   {
     "verse": 122,
     "original": "עֲרֹ֣ב עַבְדְּךָ֣ לְט֑וֹב אַֽל־יַעַשְׁקֻ֥נִי זֵדִֽים׃",
+    "transliteration": "'arov 'avedekha letvov 'al-ya'ashekuniy zediym.",
     "translation": "Seu servo se apegue ao bem; não permita que os insolentes me dominem."
   },
   {
     "verse": 123,
     "original": "עֵ֭ינַי כָּל֣וּ לִישׁוּעָתֶ֑ךָ וּלְאִמְרַ֥ת צִדְקֶֽךָ׃",
+    "transliteration": "'eynay khalv liyshv'atekha vle'imerat tsidekekha.",
     "translation": "Meus olhos se consumiram pela tua salvação, e pela palavra da tua justiça."
   },
   {
     "verse": 124,
     "original": "עֲשֵׂ֖ה עִם־עַבְדְּךָ֥ כְחַסְדֶּ֗ךָ וְחֻקֶּ֥יךָ לַמְּדֵֽנִי׃",
+    "transliteration": "'aseh 'im-'avedekha khehasedekha vehukeykha lamedeniy.",
     "translation": "Faze com teu servo conforme a tua bondade e ensina-me os teus estatutos."
   },
   {
     "verse": 125,
     "original": "עַבְדְּךָ־אָ֥נִי הֲבִינֵ֑נִי וְ֝אֵדְעָ֗ה עֵדֹתֶֽיךָ׃",
+    "transliteration": "'avedekha-'aniy haviyneniy ve'ede'ah 'edoteykha.",
     "translation": "Teu servo sou eu; ensina-me, e conhecerei os teus testemunhos."
   },
   {
     "verse": 126,
     "original": "עֵ֭ת לַעֲשׂ֣וֹת לַיהֹוָ֑ה הֵ֝פֵ֗רוּ תּוֹרָתֶֽךָ׃",
+    "transliteration": "'et la'asvot layhovah heferv tvoratekha.",
     "translation": "Tempo de agir para o Senhor; anularam tua lei."
   },
   {
     "verse": 127,
     "original": "עַל־כֵּ֭ן אָהַ֣בְתִּי מִצְוֺתֶ֑יךָ מִזָּהָ֥ב וּמִפָּֽז׃",
+    "transliteration": "'al-khen 'ahavetiy mitsevoteykha mizahav vmifaz.",
     "translation": "Portanto, amei tuas ordenanças mais do que o ouro, até do que o fulvo ouro."
   },
   {
     "verse": 128,
     "original": "עַל־כֵּ֤ן&thinsp;<b>׀</b> כׇּל־פִּקּ֣וּדֵי כֹ֣ל יִשָּׁ֑רְתִּי כׇּל־אֹ֖רַח שֶׁ֣קֶר שָׂנֵֽאתִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al-khen&thinsp;<b>|</b> khol-fikvdey khol yisharetiy khol-'orah sheker sane'tiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Portanto, guardei todas as prescrições justas; odeio o caminho da falsidade."
   },
   {
     "verse": 129,
     "original": "פְּלָא֥וֹת עֵדְוֺתֶ֑יךָ עַל־כֵּ֝֗ן נְצָרָ֥תַם נַפְשִֽׁי׃",
+    "transliteration": "fela'vot 'edevoteykha 'al-khen netsaratam nafeshiy.",
     "translation": "Maravilhas de teus testemunhos; por isso, minha alma guardá-losá."
   },
   {
     "verse": 130,
     "original": "פֵּ֖תַח דְּבָרֶ֥יךָ יָאִ֗יר מֵבִ֥ין פְּתָיִֽים׃",
+    "transliteration": "fetah devareykha ya'iyr meviyn fetayiym.",
     "translation": "A abertura de tuas palavras ilumina, dá entendimento aos simples."
   },
   {
     "verse": 131,
     "original": "פִּֽי־פָ֭עַרְתִּי וָאֶשְׁאָ֑פָה כִּ֖י לְמִצְוֺתֶ֣יךָ יָאָֽבְתִּי׃",
+    "transliteration": "fiy-fa'aretiy va'eshe'afah khiy lemitsevoteykha ya'avetiy.",
     "translation": "Abri a minha boca e suspirei, pois anseio pelas tuas ordenanças."
   },
   {
     "verse": 132,
     "original": "פְּנֵה־אֵלַ֥י וְחׇנֵּ֑נִי כְּ֝מִשְׁפָּ֗ט לְאֹהֲבֵ֥י שְׁמֶֽךָ׃",
+    "transliteration": "feneh-'elay vehoneniy khemishefat le'ohavey shemekha.",
     "translation": "Volve-te para mim e misericordia-te de mim conforme a tua justiça para os que amam o teu nome."
   },
   {
     "verse": 133,
     "original": "פְּ֭עָמַי הָכֵ֣ן בְּאִמְרָתֶ֑ךָ וְֽאַל־תַּשְׁלֶט־בִּ֥י כׇל־אָֽוֶן׃",
+    "transliteration": "fe'amay hakhen ve'imeratekha ve'al-tashelet-viy khol-'aven.",
     "translation": "Meus passos são firmes em tua palavra, e não domine sobre mim todo perverso."
   },
   {
     "verse": 134,
     "original": "פְּ֭דֵנִי מֵעֹ֣שֶׁק אָדָ֑ם וְ֝אֶשְׁמְרָ֗ה פִּקּוּדֶֽיךָ׃",
+    "transliteration": "fedeniy me'oshek 'adam ve'eshemerah fikvdeykha.",
     "translation": "Livra-me do laço humano, e guardarei teus mandamentos."
   },
   {
     "verse": 135,
     "original": "פָּ֭נֶיךָ הָאֵ֣ר בְּעַבְדֶּ֑ךָ וְ֝לַמְּדֵ֗נִי אֶת־חֻקֶּֽיךָ׃",
+    "transliteration": "faneykha ha'er ve'avedekha velamedeniy 'et-hukeykha.",
     "translation": "Teu rosto resplandeça sobre teu servo, e ensina-me tuas leis."
   },
   {
     "verse": 136,
     "original": "פַּלְגֵי־מַ֭יִם יָרְד֣וּ עֵינָ֑י עַ֝֗ל לֹא־שָׁמְר֥וּ תוֹרָתֶֽךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "falegey-mayim yaredv 'eynay 'al lo'-shamerv tvoratekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Rios de água desceram dos meus olhos, pois não guardaram a tua lei."
   },
   {
     "verse": 137,
     "original": "צַדִּ֣יק אַתָּ֣ה יְהֹוָ֑ה וְ֝יָשָׁ֗ר מִשְׁפָּטֶֽיךָ׃",
+    "transliteration": "tsadiyk 'atah yehovah veyashar mishefateykha.",
     "translation": "Justo és tu, Senhor, e retos são os teus juízos."
   },
   {
     "verse": 138,
     "original": "צִ֭וִּיתָ צֶ֣דֶק עֵדֹתֶ֑יךָ וֶאֱמוּנָ֥ה מְאֹֽד׃",
+    "transliteration": "tsiviyta tsedek 'edoteykha ve'emvnah me'od.",
     "translation": "Ordenaste a justiça, teus testemunhos, e grande fidelidade."
   },
   {
     "verse": 139,
     "original": "צִמְּתַ֥תְנִי קִנְאָתִ֑י כִּֽי־שָׁכְח֖וּ דְבָרֶ֣יךָ צָרָֽי׃",
+    "transliteration": "tsimetateniy kine'atiy khiy-shakhehv devareykha tsaray.",
     "translation": "Aveguem minha alma, ó meu Deus, pela tua ciência; porque os teus inimigos esqueceram as tuas palavras."
   },
   {
     "verse": 140,
     "original": "צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד וְֽעַבְדְּךָ֥ אֲהֵבָֽהּ׃",
+    "transliteration": "tservfah 'imeratekha me'od ve'avedekha 'ahevah.",
     "translation": "Formosa está tua palavra em muito, e teu servo a ama."
   },
   {
     "verse": 141,
     "original": "צָעִ֣יר אָנֹכִ֣י וְנִבְזֶ֑ה פִּ֝קֻּדֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
+    "transliteration": "tsa'iyr 'anokhiy venivezeh fikudeykha lo' shakhahetiy.",
     "translation": "Sou pequeno e desdenhado, mas não esqueci os teus mandamentos."
   },
   {
     "verse": 142,
     "original": "צִדְקָתְךָ֣ צֶ֣דֶק לְעוֹלָ֑ם וְֽתוֹרָתְךָ֥ אֱמֶֽת׃",
+    "transliteration": "tsidekatekha tsedek le'volam vetvoratekha 'emet.",
     "translation": "Tua justiça é justiça eterna, e tua lei é verdade."
   },
   {
     "verse": 143,
     "original": "צַר־וּמָצ֥וֹק מְצָא֑וּנִי מִ֝צְוֺתֶ֗יךָ שַׁעֲשֻׁעָֽי׃",
+    "transliteration": "tsar-vmatsvok metsa'vniy mitsevoteykha sha'ashu'ay.",
     "translation": "Angustiado e aflito encontrei-me, mas nos teus preceitos há minha alegria."
   },
   {
     "verse": 144,
     "original": "צֶ֖דֶק עֵדְוֺתֶ֥יךָ לְעוֹלָ֗ם הֲבִינֵ֥נִי וְאֶחְיֶֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "tsedek 'edevoteykha le'volam haviyneniy ve'eheyeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Tua justiça é eterna, ó Senhor; dá-me entendimento, e viverei."
   },
   {
     "verse": 145,
     "original": "קָרָ֣אתִי בְכׇל־לֵ֭ב עֲנֵ֥נִי יְהֹוָ֗ה חֻקֶּ֥יךָ אֶצֹּֽרָה׃",
+    "transliteration": "kara'tiy vekhol-lev 'aneniy yehovah hukeykha 'etsorah.",
     "translation": "Clamei com todo o coração, atende-me, Senhor; guardo os Teus preceitos."
   },
   {
     "verse": 146,
     "original": "קְרָאתִ֥יךָ הוֹשִׁיעֵ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵדֹתֶֽיךָ׃",
+    "transliteration": "kera'tiykha hvoshiy'eniy ve'eshemerah 'edoteykha.",
     "translation": "Te clamei, livra-me e guardarei teus testemunhos."
   },
   {
     "verse": 147,
     "original": "קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לדבריך)</span> <span class=\"mam-kq-q\">[לִדְבָרְךָ֥]</span></span> יִחָֽלְתִּי׃",
+    "transliteration": "kidametiy vaneshef va'ashave'ah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ldvrykh)</span> <span class=\"mam-kq-q\">[lidevarekha]</span></span> yihaletiy.",
     "translation": "Antes do alvorecer me apresentei e esperei; ansiei por teus mandamentos."
   },
   {
     "verse": 148,
     "original": "קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ׃",
+    "transliteration": "kidemv 'eynay 'ashemurvot lasiyha ve'imeratekha.",
     "translation": "Minha alma desperta antes do amanhecer; anseia meditar nas tuas palavras."
   },
   {
     "verse": 149,
     "original": "ק֭וֹלִי שִׁמְעָ֣ה כְחַסְדֶּ֑ךָ יְ֝הֹוָ֗ה כְּֽמִשְׁפָּטֶ֥ךָ חַיֵּֽנִי׃",
+    "transliteration": "kvoliy shime'ah khehasedekha yehovah khemishefatekha hayeniy.",
     "translation": "Ouve-me conforme a tua bondade, ó Jehovah; pela justiça dos teus juízos vivifica-me."
   },
   {
     "verse": 150,
     "original": "קָ֭רְבוּ רֹדְפֵ֣י זִמָּ֑ה מִתּוֹרָתְךָ֥ רָחָֽקוּ׃",
+    "transliteration": "karevv rodefey zimah mitvoratekha rahakv.",
     "translation": "Aproximam-se os perseguidores da maldade, afastando-se da tua lei."
   },
   {
     "verse": 151,
     "original": "קָר֣וֹב אַתָּ֣ה יְהֹוָ֑ה וְֽכׇל־מִצְוֺתֶ֥יךָ אֱמֶֽת׃",
+    "transliteration": "karvov 'atah yehovah vekhol-mitsevoteykha 'emet.",
     "translation": "Próximo tu és, Senhor, e todas as tuas ordenanças são verdade."
   },
   {
     "verse": 152,
     "original": "קֶ֣דֶם יָ֭דַעְתִּי מֵעֵדֹתֶ֑יךָ כִּ֖י לְעוֹלָ֣ם יְסַדְתָּֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "kedem yada'etiy me'edoteykha khiy le'volam yesadetam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Antes conheci teus testemunhos, pois os estabeleceste para sempre."
   },
   {
     "verse": 153,
     "original": "רְאֵה־עׇנְיִ֥י וְחַלְּצֵ֑נִי כִּי־ת֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+    "transliteration": "re'eh-'oneyiy vehaletseniy khiy-tvoratekha lo' shakhahetiy.",
     "translation": "Vê a minha aflição e livra-me, pois não esqueci tua lei."
   },
   {
     "verse": 154,
     "original": "רִיבָ֣ה רִ֭יבִי וּגְאָלֵ֑נִי לְאִמְרָתְךָ֥ חַיֵּֽנִי׃",
+    "transliteration": "riyvah riyviy vge'aleniy le'imeratekha hayeniy.",
     "translation": "Contenda minha causa e livra-me; pela tua palavra me faço vivo."
   },
   {
     "verse": 155,
     "original": "רָח֣וֹק מֵרְשָׁעִ֣ים יְשׁוּעָ֑ה כִּי־חֻ֝קֶּ֗יךָ לֹ֣א דָרָֽשׁוּ׃",
+    "transliteration": "rahvok meresha'iym yeshv'ah khiy-hukeykha lo' darashv.",
     "translation": "Salvação está longe dos perversos, pois não buscaram os teus decretos."
   },
   {
     "verse": 156,
     "original": "רַחֲמֶ֖יךָ רַבִּ֥ים&thinsp;<small>׀</small>&thinsp;יְהֹוָ֑ה כְּֽמִשְׁפָּטֶ֥יךָ חַיֵּֽנִי׃",
+    "transliteration": "rahameykha raviym&thinsp;<small>|</small>&thinsp;yehovah khemishefateykha hayeniy.",
     "translation": "Tus misericórdias, Senhor, são muitas; vivifica-me conforme os teus juízos."
   },
   {
     "verse": 157,
     "original": "רַ֭בִּים רֹדְפַ֣י וְצָרָ֑י מֵ֝עֵדְוֺתֶ֗יךָ לֹ֣א נָטִֽיתִי׃",
+    "transliteration": "raviym rodefay vetsaray me'edevoteykha lo' natiytiy.",
     "translation": "Muitos me perseguem e são meus inimigos; eu não desviei de teus testemunhos."
   },
   {
     "verse": 158,
     "original": "רָאִ֣יתִי בֹ֭גְדִים וָאֶתְקוֹטָ֑טָה אֲשֶׁ֥ר אִ֝מְרָתְךָ֗ לֹ֣א שָׁמָֽרוּ׃",
+    "transliteration": "ra'iytiy vogediym va'etekvotatah 'asher 'imeratekha lo' shamarv.",
     "translation": "Vi os traidores e aborreci-me, porque a tua palavra eles não guardaram."
   },
   {
     "verse": 159,
     "original": "רְ֭אֵה כִּי־פִקּוּדֶ֣יךָ אָהָ֑בְתִּי יְ֝הֹוָ֗ה כְּֽחַסְדְּךָ֥ חַיֵּֽנִי׃",
+    "transliteration": "re'eh khiy-fikvdeykha 'ahavetiy yehovah khehasedekha hayeniy.",
     "translation": "Vê, pois amo teus preceitos, ó Yahweh; conforme tua misericórdia, vivifica-me."
   },
   {
     "verse": 160,
     "original": "רֹאשׁ־דְּבָרְךָ֥ אֱמֶ֑ת וּ֝לְעוֹלָ֗ם כׇּל־מִשְׁפַּ֥ט צִדְקֶֽךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ro'sh-devarekha 'emet vle'volam khol-mishefat tsidekekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Cabeça da tua palavra é a verdade, e para sempre todo teu juízo de retidão."
   },
   {
     "verse": 161,
     "original": "שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ומדבריך)</span> <span class=\"mam-kq-q\">[וּ֝מִדְּבָרְךָ֗]</span></span> פָּחַ֥ד לִבִּֽי׃",
+    "transliteration": "sariym redafvniy hinam <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vmdvrykh)</span> <span class=\"mam-kq-q\">[vmidevarekha]</span></span> fahad liviy.",
     "translation": "Príncipes me perseguem sem motivo, e de teus ditos vem o temor ao meu coração."
   },
   {
     "verse": 162,
     "original": "שָׂ֣שׂ אָ֭נֹכִי עַל־אִמְרָתֶ֑ךָ כְּ֝מוֹצֵ֗א שָׁלָ֥ל רָֽב׃",
+    "transliteration": "sas 'anokhiy 'al-'imeratekha khemvotse' shalal rav.",
     "translation": "Exulto pela tua palavra como quem acha um tesouro em grande quantidade."
   },
   {
     "verse": 163,
     "original": "שֶׁ֣קֶר שָׂ֭נֵאתִי וַאֲתַעֵ֑בָה תּוֹרָתְךָ֥ אָהָֽבְתִּי׃",
+    "transliteration": "sheker sane'tiy va'ata'evah tvoratekha 'ahavetiy.",
     "translation": "Engano abomino e odeio; mas amo tua lei."
   },
   {
     "verse": 164,
     "original": "שֶׁ֣בַע בַּ֭יּוֹם הִלַּלְתִּ֑יךָ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+    "transliteration": "sheva' vayvom hilaletiykha 'al mishefetey tsidekekha.",
     "translation": "Sete vezes ao dia te louvei, ó Senhor, pelas leis de tua justiça."
   },
   {
     "verse": 165,
     "original": "שָׁל֣וֹם רָ֭ב לְאֹהֲבֵ֣י תוֹרָתֶ֑ךָ וְאֵֽין־לָ֥מוֹ מִכְשֽׁוֹל׃",
+    "transliteration": "shalvom rav le'ohavey tvoratekha ve'eyn-lamvo mikheshvol.",
     "translation": "Paz em abundância para os que amam a tua lei; e não há para eles tropeço."
   },
   {
     "verse": 166,
     "original": "שִׂבַּ֣רְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וּֽמִצְוֺתֶ֥יךָ עָשִֽׂיתִי׃",
+    "transliteration": "sivaretiy liyshv'atekha yehovah vmitsevoteykha 'asiytiy.",
     "translation": "Espero que tua salvação, Senhor, e tuas leis pratiquei."
   },
   {
     "verse": 167,
     "original": "שָֽׁמְרָ֣ה נַ֭פְשִׁי עֵדֹתֶ֑יךָ וָאֹהֲבֵ֥ם מְאֹֽד׃",
+    "transliteration": "shamerah nafeshiy 'edoteykha va'ohavem me'od.",
     "translation": "Guarda minha alma pelas tuas leis; e eu as amo muito."
   },
   {
     "verse": 168,
     "original": "שָׁמַ֣רְתִּי פִ֭קּוּדֶיךָ וְעֵדֹתֶ֑יךָ כִּ֖י כׇל־דְּרָכַ֣י נֶגְדֶּֽךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "shamaretiy fikvdeykha ve'edoteykha khiy khol-derakhay negedekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Cuidei de teus mandamentos e de tuas testemunhas, pois todos os meus caminhos estão diante de ti."
   },
   {
     "verse": 169,
     "original": "תִּקְרַ֤ב רִנָּתִ֣י לְפָנֶ֣יךָ יְהֹוָ֑ה כִּדְבָרְךָ֥ הֲבִינֵֽנִי׃",
+    "transliteration": "tikerav rinatiy lefaneykha yehovah khidevarekha haviyneniy.",
     "translation": "Aproxima-se minha oração diante de ti, Senhor; conforme tua palavra, entende-me."
   },
   {
     "verse": 170,
     "original": "תָּב֣וֹא תְחִנָּתִ֣י לְפָנֶ֑יךָ כְּ֝אִמְרָתְךָ֗ הַצִּילֵֽנִי׃",
+    "transliteration": "tavvo' tehinatiy lefaneykha khe'imeratekha hatsiyleniy.",
     "translation": "Que minha súplica venha diante de ti como tu dizes; livra-me."
   },
   {
     "verse": 171,
     "original": "תַּבַּ֣עְנָה שְׂפָתַ֣י תְּהִלָּ֑ה כִּ֖י תְלַמְּדֵ֣נִי חֻקֶּֽיךָ׃",
+    "transliteration": "tava'enah sefatay tehilah khiy telamedeniy hukeykha.",
     "translation": "Minhas lábios proclamarão louvor, pois tu me ensinaste teus preceitos."
   },
   {
     "verse": 172,
     "original": "תַּ֣עַן לְ֭שׁוֹנִי אִמְרָתֶ֑ךָ כִּ֖י כׇל־מִצְוֺתֶ֣יךָ צֶּֽדֶק׃",
+    "transliteration": "ta'an leshvoniy 'imeratekha khiy khol-mitsevoteykha tsedek.",
     "translation": "Que a minha língua guarde a tua palavra, pois todos os teus preceitos são justiça."
   },
   {
     "verse": 173,
     "original": "תְּהִי־יָדְךָ֥ לְעׇזְרֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ בָחָֽרְתִּי׃",
+    "transliteration": "tehiy-yadekha le'ozereniy khiy fikvdeykha vaharetiy.",
     "translation": "Seja meu auxílio em minha mão direita, pois escolhi teus mandamentos."
   },
   {
     "verse": 174,
     "original": "תָּאַ֣בְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וְ֝ת֥וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
+    "transliteration": "ta'avetiy liyshv'atekha yehovah vetvoratekha sha'ashu'ay.",
     "translation": "Desejei a tua salvação, Senhor, e a tua lei é o meu gozo."
   },
   {
     "verse": 175,
     "original": "תְּֽחִי־נַ֭פְשִׁי וּֽתְהַלְלֶ֑ךָּ וּֽמִשְׁפָּטֶ֥ךָ יַעְזְרֻֽנִי׃",
+    "transliteration": "tehiy-nafeshiy vtehalelekha vmishefatekha ya'ezeruniy.",
     "translation": "Viva minha alma e se alegra Nele, e no Seu juízo seja meu auxílio."
   },
   {
     "verse": 176,
     "original": "תָּעִ֗יתִי כְּשֶׂ֣ה אֹ֭בֵד בַּקֵּ֣שׁ עַבְדֶּ֑ךָ כִּ֥י מִ֝צְוֺתֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ta'iytiy kheseh 'oved vakesh 'avedekha khiy mitsevoteykha lo' shakhahetiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Perdi-me como rebanho que erra, mas o teu servo busca-te; porque não esqueci das tuas ordenanças."
   }
 ]

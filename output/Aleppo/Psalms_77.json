@@ -2,106 +2,127 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֥חַ עַֽל־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[יְדוּת֗וּן]</span> <span class=\"mam-kq-k\">(ידיתון)</span></span> לְאָסָ֥ף מִזְמֽוֹר׃",
+    "transliteration": "lamenatseha 'al-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[yedvtvn]</span> <span class=\"mam-kq-k\">(ydytvn)</span></span> le'asaf mizemvor.",
     "translation": "Ao encantador sobre Jeduthun, para Asafe, salmo."
   },
   {
     "verse": 2,
     "original": "קוֹלִ֣י אֶל־אֱלֹהִ֣ים וְאֶצְעָ֑קָה קוֹלִ֥י אֶל־אֱ֝לֹהִ֗ים וְהַאֲזִ֥ין אֵלָֽי׃",
+    "transliteration": "kvoliy 'el-'elohiym ve'etse'akah kvoliy 'el-'elohiym veha'aziyn 'elay.",
     "translation": "Minha voz a Deus clamo; minha voz a Deus elevo, que me escute."
   },
   {
     "verse": 3,
     "original": "בְּי֥וֹם צָרָתִי֮ אֲדֹנָ֢י דָּ֫רָ֥שְׁתִּי יָדִ֤י&thinsp;<b>׀</b> לַ֣יְלָה נִ֭גְּרָה וְלֹ֣א תָפ֑וּג מֵאֲנָ֖ה הִנָּחֵ֣ם נַפְשִֽׁי׃",
+    "transliteration": "veyvom tsaratiy 'adonay darashetiy yadiy&thinsp;<b>|</b> layelah nigerah velo' tafvg me'anah hinahem nafeshiy.",
     "translation": "No dia da minha angústia, Senhor, busquei-vos; minh'alma estendeu-se pela noite e não cessou. Nessa aflição, vós me consolastes a alma."
   },
   {
     "verse": 4,
     "original": "אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶהֱמָ֑יָה אָשִׂ֓יחָה&thinsp;<b>׀</b> וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃",
+    "transliteration": "'ezekherah 'elohiym ve'ehemayah 'asiyhah&thinsp;<b>|</b> vetite'atef rvhiy selah.",
     "translation": "Lembrarei de Deus e cantarei, meditarei e meu espírito se envolverá Sela."
   },
   {
     "verse": 5,
     "original": "אָ֭חַזְתָּ שְׁמֻר֣וֹת עֵינָ֑י נִ֝פְעַ֗מְתִּי וְלֹ֣א אֲדַבֵּֽר׃",
+    "transliteration": "'ahazeta shemurvot 'eynay nife'ametiy velo' 'adaver.",
     "translation": "Apreendi a guardar silêncio; calaram-se os meus olhos. Sofri e não falei."
   },
   {
     "verse": 6,
     "original": "חִשַּׁ֣בְתִּי יָמִ֣ים מִקֶּ֑דֶם שְׁ֝נ֗וֹת עוֹלָמִֽים׃",
+    "transliteration": "hishavetiy yamiym mikedem shenvot 'volamiym.",
     "translation": "Pus-me a medir os dias de antigamente, as gerações passadas."
   },
   {
     "verse": 7,
     "original": "אֶ֥זְכְּרָ֥ה נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃",
+    "transliteration": "'ezekherah negiynatiy valayelah 'im-levaviy 'asiyhah vayehafes rvhiy.",
     "translation": "Recordarei minha canção na noite; com meu coração meditarei, e minha alma busca."
   },
   {
     "verse": 8,
     "original": "הַֽ֭לְעוֹלָמִים יִזְנַ֥ח&thinsp;<small>׀</small>&thinsp;אֲדֹנָ֑י וְלֹא־יֹסִ֖יף לִרְצ֣וֹת עֽוֹד׃",
+    "transliteration": "hale'volamiym yizenah&thinsp;<small>|</small>&thinsp;'adonay velo'-yosiyf liretsvot 'vod.",
     "translation": "Para os séculos, o Senhor será um refúgio, e não mais aumentará a sua satisfação."
   },
   {
     "verse": 9,
     "original": "הֶאָפֵ֣ס לָנֶ֣צַח חַסְדּ֑וֹ גָּ֥מַר אֹ֝֗מֶר לְדֹ֣ר וָדֹֽר׃",
+    "transliteration": "he'afes lanetsah hasedvo gamar 'omer ledor vador.",
     "translation": "Sua benignidade durará para sempre; ele estabeleceu seu pacto por gerações."
   },
   {
     "verse": 10,
     "original": "הֲשָׁכַ֣ח חַנּ֣וֹת אֵ֑ל אִם־קָפַ֥ץ בְּ֝אַ֗ף רַחֲמָ֥יו סֶֽלָה׃",
+    "transliteration": "hashakhah hanvot 'el 'im-kafats ve'af rahamayv selah.",
     "translation": "Esqueceu-se o Senhor da misericórdia, ou reprimiu com severidade o amor que tem? Selá."
   },
   {
     "verse": 11,
     "original": "וָ֭אֹמַר חַלּ֣וֹתִי הִ֑יא שְׁ֝נ֗וֹת יְמִ֣ין עֶלְיֽוֹן׃",
+    "transliteration": "va'omar halvotiy hiy' shenvot yemiyn 'eleyvon.",
     "translation": "E disse: Secou-se-me a alma, os anos da direita do Altíssimo."
   },
   {
     "verse": 12,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(אזכיר)</span> <span class=\"mam-kq-q\">[אֶזְכּ֥וֹר]</span></span> מַעַלְלֵי־יָ֑הּ כִּֽי־אֶזְכְּרָ֖ה מִקֶּ֣דֶם פִּלְאֶֽךָ׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">('zkhyr)</span> <span class=\"mam-kq-q\">['ezekhvor]</span></span> ma'aleley-yah khiy-'ezekherah mikedem file'ekha.",
     "translation": "Recordarei as obras do Senhor, pois lembrarei de teus prodígios desde antigamente."
   },
   {
     "verse": 13,
     "original": "וְהָגִ֥יתִי בְכׇל־פׇּעֳלֶ֑ךָ וּֽבַעֲלִ֖ילוֹתֶ֣יךָ אָשִֽׂיחָה׃",
+    "transliteration": "vehagiytiy vekhol-fo'olekha vva'aliylvoteykha 'asiyhah.",
     "translation": "E meditarei sobre todos os teus atos e em teus feitos recordarei."
   },
   {
     "verse": 14,
     "original": "אֱ֭לֹהִים בַּקֹּ֣דֶשׁ דַּרְכֶּ֑ךָ מִי־אֵ֥ל גָּ֝ד֗וֹל כֵּאלֹהִֽים׃",
+    "transliteration": "'elohiym vakodesh darekhekha miy-'el gadvol khe'lohiym.",
     "translation": "Deus, os teus caminhos estão no santuário; quem é Deus tão grande?"
   },
   {
     "verse": 15,
     "original": "אַתָּ֣ה הָ֭אֵל עֹ֣שֵׂה פֶ֑לֶא הוֹדַ֖עְתָּ בָעַמִּ֣ים עֻזֶּֽךָ׃",
+    "transliteration": "'atah ha'el 'oseh fele' hvoda'eta va'amiym 'uzekha.",
     "translation": "Tu és o Deus que faz maravilhas, revelaste entre as nações o teu poder."
   },
   {
     "verse": 16,
     "original": "גָּאַ֣לְתָּ בִּזְר֣וֹעַ עַמֶּ֑ךָ בְּנֵֽי־יַעֲקֹ֖ב וְיוֹסֵ֣ף סֶֽלָה׃",
+    "transliteration": "ga'aleta vizervo'a 'amekha veney-ya'akov veyvosef selah.",
     "translation": "Redimiste o teu povo com o braço, os filhos de Jacó e José. Sela."
   },
   {
     "verse": 17,
     "original": "רָ֘א֤וּךָ מַּ֨יִם&thinsp;<b>׀</b> אֱֽלֹהִ֗ים רָא֣וּךָ מַּ֣יִם יָחִ֑ילוּ אַ֝֗ף יִרְגְּז֥וּ תְהֹמֽוֹת׃",
+    "transliteration": "ra'vkha mayim&thinsp;<b>|</b> 'elohiym ra'vkha mayim yahiylv 'af yiregezv tehomvot.",
     "translation": "Viram-te as águas, Deus, viram-te as águas se apavoraram; também se abalaram os abismos."
   },
   {
     "verse": 18,
     "original": "זֹ֤רְמוּ מַ֨יִם&thinsp;<b>׀</b> עָב֗וֹת ק֭וֹל נָתְנ֣וּ שְׁחָקִ֑ים אַף־חֲ֝צָצֶ֗יךָ יִתְהַלָּֽכוּ׃",
+    "transliteration": "zoremv mayim&thinsp;<b>|</b> 'avvot kvol natenv shehakiym 'af-hatsatseykha yitehalakhv.",
     "translation": "Erguem-se as águas, as nuvens dão voz, até que os raios do teu arco percorram a terra."
   },
   {
     "verse": 19,
     "original": "ק֤וֹל רַעַמְךָ֨&thinsp;<b>׀</b> בַּגַּלְגַּ֗ל הֵאִ֣ירוּ בְרָקִ֣ים תֵּבֵ֑ל רָגְזָ֖ה וַתִּרְעַ֣שׁ הָאָֽרֶץ׃",
+    "transliteration": "kvol ra'amekha&thinsp;<b>|</b> vagalegal he'iyrv verakiym tevel ragezah vatire'ash ha'arets.",
     "translation": "A voz do teu trovão se faz ouvir em Galgal; os relâmpagos iluminam o mundo, a terra se agitou e tremeu."
   },
   {
     "verse": 20,
     "original": "בַּיָּ֤ם דַּרְכֶּ֗ךָ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ושביליך)</span> <span class=\"mam-kq-q\">[וּֽ֭שְׁבִילְךָ]</span></span> בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ׃",
+    "transliteration": "vayam darekhekha <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vsvylykh)</span> <span class=\"mam-kq-q\">[vsheviylekha]</span></span> vemayim raviym ve'ikevvoteykha lo' noda'v.",
     "translation": "Nos mares tuas veredas, e teus caminhos nas águas profundas; e ninguém conhece os passos de teus pés."
   },
   {
     "verse": 21,
     "original": "נָחִ֣יתָ כַצֹּ֣אן עַמֶּ֑ךָ בְּֽיַד־מֹשֶׁ֥ה וְאַהֲרֹֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "nahiyta khatso'n 'amekha veyad-mosheh ve'aharon.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Desceram como rebanho o teu povo, à mão de Moisés e Arão."
   }
 ]

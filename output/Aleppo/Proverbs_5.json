@@ -2,116 +2,139 @@
   {
     "verse": 1,
     "original": "בְּ֭נִי לְחׇכְמָתִ֣י הַקְשִׁ֑יבָה לִ֝תְבוּנָתִ֗י הַט־אׇזְנֶֽךָ׃",
+    "transliteration": "veniy lehokhematiy hakeshiyvah litevvnatiy hat-'ozenekha.",
     "translation": "Filho, presta atenção à minha sabedoria; inclina o teu ouvido para a minha inteligência."
   },
   {
     "verse": 2,
     "original": "לִשְׁמֹ֥ר מְזִמּ֑וֹת וְ֝דַ֗עַת שְׂפָתֶ֥יךָ יִנְצֹֽרוּ׃",
+    "transliteration": "lishemor mezimvot veda'at sefateykha yinetsorv.",
     "translation": "Para guardar os desígnios e conhecer o que fazem os teus lábios será cuidadosamente observado."
   },
   {
     "verse": 3,
     "original": "כִּ֤י נֹ֣פֶת תִּ֭טֹּפְנָה שִׂפְתֵ֣י זָרָ֑ה וְחָלָ֖ק מִשֶּׁ֣מֶן חִכָּֽהּ׃",
+    "transliteration": "khiy nofet titofenah sifetey zarah vehalak mishemen hikhah.",
     "translation": "Pois a gota que pinga das lábios da estrangeira é suave, e sua boca é mais perfumada do que o óleo."
   },
   {
     "verse": 4,
     "original": "וְֽ֭אַחֲרִיתָהּ מָרָ֣ה כַֽלַּעֲנָ֑ה חַ֝דָּ֗ה כְּחֶ֣רֶב פִּיּֽוֹת׃",
+    "transliteration": "ve'ahariytah marah khala'anah hadah kheherev fiyvot.",
     "translation": "E sua extremidade é amarga como a da maldita; aguda como uma espada afiada."
   },
   {
     "verse": 5,
     "original": "רַ֭גְלֶיהָ יֹרְד֣וֹת מָ֑וֶת שְׁ֝א֗וֹל צְעָדֶ֥יהָ יִתְמֹֽכוּ׃",
+    "transliteration": "rageleyha yoredvot mavet she'vol tse'adeyha yitemokhv.",
     "translation": "Seus pés descem à morte, seus passos se apegam ao abismo."
   },
   {
     "verse": 6,
     "original": "אֹ֣רַח חַ֭יִּים פֶּן־תְּפַלֵּ֑ס נָע֥וּ מַ֝עְגְּלֹתֶ֗יהָ לֹ֣א תֵדָֽע׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'orah hayiym fen-tefales na'v ma'egeloteyha lo' teda'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Caminho da vida, para que não tropeces; seus caminhos se desviaram, tu não o sabes."
   },
   {
     "verse": 7,
     "original": "וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י וְאַל־תָּ֝ס֗וּרוּ מֵאִמְרֵי־פִֽי׃",
+    "transliteration": "ve'atah vaniym shime'v-liy ve'al-tasvrv me'imerey-fiy.",
     "translation": "E agora, filhos, ouvi-me e não vos desvieis das palavras da minha boca."
   },
   {
     "verse": 8,
     "original": "הַרְחֵ֣ק מֵעָלֶ֣יהָ דַרְכֶּ֑ךָ וְאַל־תִּ֝קְרַ֗ב אֶל־פֶּ֥תַח בֵּיתָֽהּ׃",
+    "transliteration": "harehek me'aleyha darekhekha ve'al-tikerav 'el-fetah veytah.",
     "translation": "Afaste-se do seu caminho e não se aproxime da porta de sua casa."
   },
   {
     "verse": 9,
     "original": "פֶּן־תִּתֵּ֣ן לַאֲחֵרִ֣ים הוֹדֶ֑ךָ וּ֝שְׁנֹתֶ֗יךָ לְאַכְזָרִֽי׃",
+    "transliteration": "fen-titen la'aheriym hvodekha vshenoteykha le'akhezariy.",
     "translation": "Pois não darás tua glória a outrem, nem teus anos ao opressor."
   },
   {
     "verse": 10,
     "original": "פֶּֽן־יִשְׂבְּע֣וּ זָרִ֣ים כֹּחֶ֑ךָ וַ֝עֲצָבֶ֗יךָ בְּבֵ֣ית נׇכְרִֽי׃",
+    "transliteration": "fen-yiseve'v zariym khohekha va'atsaveykha veveyt nokheriy.",
     "translation": "Que os estrangeiros não se encham do teu poder, e que os teus trabalhos não estejam na casa alheia."
   },
   {
     "verse": 11,
     "original": "וְנָהַמְתָּ֥ בְאַחֲרִיתֶ֑ךָ בִּכְל֥וֹת בְּ֝שָׂרְךָ֗ וּשְׁאֵרֶֽךָ׃",
+    "transliteration": "venahameta ve'ahariytekha vikhelvot vesarekha vshe'erekha.",
     "translation": "E gemerás no fim de tua vida, quando a carne e o que te resta vierem a faltar."
   },
   {
     "verse": 12,
     "original": "וְֽאָמַרְתָּ֗ אֵ֭יךְ שָׂנֵ֣אתִי מוּסָ֑ר וְ֝תוֹכַ֗חַת נָאַ֥ץ לִבִּֽי׃",
+    "transliteration": "ve'amareta 'eykhe sane'tiy mvsar vetvokhahat na'ats liviy.",
     "translation": "E dirás: Como aborreci a disciplina e rejeitei a repreensão o meu coração."
   },
   {
     "verse": 13,
     "original": "וְֽלֹא־שָׁ֭מַעְתִּי בְּק֣וֹל מוֹרָ֑י וְ֝לִֽמְלַמְּדַ֗י לֹא־הִטִּ֥יתִי אׇזְנִֽי׃",
+    "transliteration": "velo'-shama'etiy vekvol mvoray velimelameday lo'-hitiytiy 'ozeniy.",
     "translation": "E não ouvi a voz do meu mestre, nem inclinei as minhas orelhas para os que me ensinavam."
   },
   {
     "verse": 14,
     "original": "כִּ֭מְעַט הָיִ֣יתִי בְכׇל־רָ֑ע בְּת֖וֹךְ קָהָ֣ל וְעֵדָֽה׃",
+    "transliteration": "khime'at hayiytiy vekhol-ra' vetvokhe kahal ve'edah.",
     "translation": "Quase fui consumido por todo mal, no meio da assembleia e congregação."
   },
   {
     "verse": 15,
     "original": "שְׁתֵה־מַ֥יִם מִבּוֹרֶ֑ךָ וְ֝נֹזְלִ֗ים מִתּ֥וֹךְ בְּאֵרֶֽךָ׃",
+    "transliteration": "sheteh-mayim mivvorekha venozeliym mitvokhe ve'erekha.",
     "translation": "Bebe da água do teu poço e das águas que fluem do meio da tua cisterna."
   },
   {
     "verse": 16,
     "original": "יָפ֣וּצוּ מַעְיְנֹתֶ֣יךָ ח֑וּצָה בָּ֝רְחֹב֗וֹת פַּלְגֵי־מָֽיִם׃",
+    "transliteration": "yafvtsv ma'eyenoteykha hvtsah varehovvot falegey-mayim.",
     "translation": "Derramaram-se os teus mananciais para fora; nos largos correm riachos de água."
   },
   {
     "verse": 17,
     "original": "יִֽהְיוּ־לְךָ֥ לְבַדֶּ֑ךָ וְאֵ֖ין לְזָרִ֣ים אִתָּֽךְ׃",
+    "transliteration": "yiheyv-lekha levadekha ve'eyn lezariym 'itakhe.",
     "translation": "Sejam somente para ti, e não haja estranhos contigo."
   },
   {
     "verse": 18,
     "original": "יְהִֽי־מְקוֹרְךָ֥ בָר֑וּךְ וּ֝שְׂמַ֗ח מֵאֵ֥שֶׁת נְעוּרֶֽךָ׃",
+    "transliteration": "yehiy-mekvorekha varvkhe vsemah me'eshet ne'vrekha.",
     "translation": "Seja a tua fonte abençoada, e rejubile com a mulher da tua mocidade."
   },
   {
     "verse": 19,
     "original": "אַיֶּ֥לֶת אֲהָבִ֗ים וְֽיַ֫עֲלַת־חֵ֥ן דַּ֭דֶּיהָ יְרַוֻּ֣ךָ בְכׇל־עֵ֑ת בְּ֝אַהֲבָתָ֗הּ תִּשְׁגֶּ֥ה תָמִֽיד׃",
+    "transliteration": "'ayelet 'ahaviym veya'alat-hen dadeyha yeravukha vekhol-'et ve'ahavatah tishegeh tamiyd.",
     "translation": "Corça amada e gazela graciosa, seus seios te saciarão sempre; no amor dela estarás sempre embriagado."
   },
   {
     "verse": 20,
     "original": "וְלָ֤מָּה תִשְׁגֶּ֣ה בְנִ֣י בְזָרָ֑ה וּ֝תְחַבֵּ֗ק חֵ֣ק נׇכְרִיָּֽה׃",
+    "transliteration": "velamah tishegeh veniy vezarah vtehavek hek nokheriyah.",
     "translation": "Por que te desvias, meu filho, pelo caminho da perversidade e abraças o seio de uma estranha?"
   },
   {
     "verse": 21,
     "original": "כִּ֤י נֹ֨כַח&thinsp;<b>׀</b> עֵינֵ֣י יְ֭הֹוָה דַּרְכֵי־אִ֑ישׁ וְֽכׇל־מַעְגְּלֹתָ֥יו מְפַלֵּֽס׃",
+    "transliteration": "khiy nokhah&thinsp;<b>|</b> 'eyney yehovah darekhey-'iysh vekhol-ma'egelotayv mefales.",
     "translation": "Pois os caminhos do homem estão diante dos olhos do Senhor, e ele aplaina todos os seus passos."
   },
   {
     "verse": 22,
     "original": "עֲֽווֹנֹתָ֗יו יִלְכְּדֻנ֥וֹ אֶת־הָרָשָׁ֑ע וּבְחַבְלֵ֥י חַ֝טָּאת֗וֹ יִתָּמֵֽךְ׃",
+    "transliteration": "'avvonotayv yilekhedunvo 'et-harasha' vvehaveley hata'tvo yitamekhe.",
     "translation": "Os pecados dele o prenderão, e no laço de suas transgressões o maligno será retido."
   },
   {
     "verse": 23,
     "original": "ה֗וּא יָ֭מוּת בְּאֵ֣ין מוּסָ֑ר וּבְרֹ֖ב אִוַּלְתּ֣וֹ יִשְׁגֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hv' yamvt ve'eyn mvsar vverov 'ivaletvo yishegeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Ele morrerá por falta de disciplina, e em abundância de perversidade será levado."
   }
 ]

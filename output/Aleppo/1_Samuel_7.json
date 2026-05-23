@@ -2,86 +2,103 @@
   {
     "verse": 1,
     "original": "וַיָּבֹ֜אוּ אַנְשֵׁ֣י&thinsp;<b>׀</b> קִרְיַ֣ת יְעָרִ֗ים וַֽיַּעֲלוּ֙ אֶת־אֲר֣וֹן יְהֹוָ֔ה וַיָּבִ֣אוּ אֹת֔וֹ אֶל־בֵּ֥ית אֲבִינָדָ֖ב בַּגִּבְעָ֑ה וְאֶת־אֶלְעָזָ֤ר בְּנוֹ֙ קִדְּשׁ֔וּ לִשְׁמֹ֖ר אֶת־אֲר֥וֹן יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayavo'v 'aneshey&thinsp;<b>|</b> kireyat ye'ariym vaya'alv 'et-'arvon yehovah vayavi'v 'otvo 'el-veyt 'aviynadav vagive'ah ve'et-'ele'azar venvo kideshv lishemor 'et-'arvon yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E vieram os homens de Quitrite-Yaarin, e subiram o arco de Jehovah; e trouxeram-no à casa de Abinadabe, em Gibeá; e santificaram a Eleazar, seu filho, para guardar o arco de Jehovah.\n\nCorreção:\nE vieram os homens de Quitrite-Yaarin, e subiram com o arca de Jeová; e trouxeram-na à casa de Abinadabe, em Gibeá; e santificaram a Eleazar, seu filho, para guardar o arca de Jeová."
   },
   {
     "verse": 2,
     "original": "וַיְהִ֗י מִיּ֞וֹם שֶׁ֤בֶת הָאָרוֹן֙ בְּקִרְיַ֣ת יְעָרִ֔ים וַיִּרְבּוּ֙ הַיָּמִ֔ים וַיִּהְי֖וּ עֶשְׂרִ֣ים שָׁנָ֑ה וַיִּנָּה֛וּ כׇּל־בֵּ֥ית יִשְׂרָאֵ֖ל אַחֲרֵ֥י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayehiy miyvom shevet ha'arvon vekireyat ye'ariym vayirevv hayamiym vayiheyv 'eseriym shanah vayinahv khol-veyt yisera'el 'aharey yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E foi no dia em que o arão repousou em Quiriate-Jearim, e os dias se multiplicaram; foram vinte anos; então toda a casa de Israel se inclinou para o Senhor."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֣אמֶר שְׁמוּאֵ֗ל אֶל־כׇּל־בֵּ֣ית יִשְׂרָאֵל֮ לֵאמֹר֒ אִם־בְּכׇל־לְבַבְכֶ֗ם אַתֶּ֤ם שָׁבִים֙ אֶל־יְהֹוָ֔ה הָסִ֜ירוּ אֶת־אֱלֹהֵ֧י הַנֵּכָ֛ר מִתּוֹכְכֶ֖ם וְהָעַשְׁתָּר֑וֹת וְהָכִ֨ינוּ לְבַבְכֶ֤ם אֶל־יְהֹוָה֙ וְעִבְדֻ֣הוּ לְבַדּ֔וֹ וְיַצֵּ֥ל אֶתְכֶ֖ם מִיַּ֥ד פְּלִשְׁתִּֽים׃",
+    "transliteration": "vayo'mer shemv'el 'el-khol-veyt yisera'el le'mor 'im-vekhol-levavekhem 'atem shaviym 'el-yehovah hasiyrv 'et-'elohey hanekhar mitvokhekhem veha'ashetarvot vehakhiynv levavekhem 'el-yehovah ve'iveduhv levadvo veyatsel 'etekhem miyad felishetiym.",
     "translation": "E Samuel disse a toda casa de Israel: Se com todo o vosso coração voltareis ao Senhor, então tirai dos vossos meios os deuses estrangeiros e as Astarotes; preparai vossos corações para o Senhor e servi-o somente, e ele vos livrará da mão dos filisteus."
   },
   {
     "verse": 4,
     "original": "וַיָּסִ֙ירוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶת־הַבְּעָלִ֖ים וְאֶת־הָעַשְׁתָּרֹ֑ת וַיַּעַבְד֥וּ אֶת־יְהֹוָ֖ה לְבַדּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayasiyrv veney yisera'el 'et-have'aliym ve'et-ha'ashetarot vaya'avedv 'et-yehovah levadvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os filhos de Israel tiraram os Baalins e as Astartes, e serviram somente ao Senhor."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֣אמֶר שְׁמוּאֵ֔ל קִבְצ֥וּ אֶת־כׇּל־יִשְׂרָאֵ֖ל הַמִּצְפָּ֑תָה וְאֶתְפַּלֵּ֥ל בַּעַדְכֶ֖ם אֶל־יְהֹוָֽה׃",
+    "transliteration": "vayo'mer shemv'el kivetsv 'et-khol-yisera'el hamitsefatah ve'etefalel va'adekhem 'el-yehovah.",
     "translation": "E Samuel disse: Reúnam-se todos os israelitas em Mizpá, e eu orarei por vós diante do Senhor."
   },
   {
     "verse": 6,
     "original": "וַיִּקָּבְצ֣וּ הַ֠מִּצְפָּ֠תָה וַיִּֽשְׁאֲבוּ־מַ֜יִם וַֽיִּשְׁפְּכ֣וּ&thinsp;<b>׀</b> לִפְנֵ֣י יְהֹוָ֗ה וַיָּצ֙וּמוּ֙ בַּיּ֣וֹם הַה֔וּא וַיֹּ֣אמְרוּ שָׁ֔ם חָטָ֖אנוּ לַֽיהֹוָ֑ה וַיִּשְׁפֹּ֧ט שְׁמוּאֵ֛ל אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בַּמִּצְפָּֽה׃",
+    "transliteration": "vayikavetsv hamitsefatah vayishe'avv-mayim vayishefekhv&thinsp;<b>|</b> lifeney yehovah vayatsvmv vayvom hahv' vayo'merv sham hata'nv layhovah vayishefot shemv'el 'et-veney yisera'el vamitsefah.",
     "translation": "E ajuntaram-se em Mizpa e despejaram água diante do Senhor, e jejuaram naquele dia; e disseram ali: Pecamos contra o Senhor. E Samuel juiz de Israel julgou em Mizpa."
   },
   {
     "verse": 7,
     "original": "וַיִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּֽי־הִתְקַבְּצ֤וּ בְנֵֽי־יִשְׂרָאֵל֙ הַמִּצְפָּ֔תָה וַיַּעֲל֥וּ סַרְנֵֽי־פְלִשְׁתִּ֖ים אֶל־יִשְׂרָאֵ֑ל וַֽיִּשְׁמְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּֽרְא֖וּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃",
+    "transliteration": "vayisheme'v felishetiym khiy-hitekavetsv veney-yisera'el hamitsefatah vaya'alv sareney-felishetiym 'el-yisera'el vayisheme'v veney yisera'el vayire'v mifeney felishetiym.",
     "translation": "E ouviram os filisteus que os filhos de Israel se haviam congregado em Mizpá, e subiram os príncipes dos filisteus contra Israel. E os filhos de Israel ouviram e temeram diante dos filisteus."
   },
   {
     "verse": 8,
     "original": "וַיֹּאמְר֤וּ בְנֵֽי־יִשְׂרָאֵל֙ אֶל־שְׁמוּאֵ֔ל אַל־תַּחֲרֵ֣שׁ מִמֶּ֔נּוּ מִזְּעֹ֖ק אֶל־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ וְיֹשִׁעֵ֖נוּ מִיַּ֥ד פְּלִשְׁתִּֽים׃",
+    "transliteration": "vayo'merv veney-yisera'el 'el-shemv'el 'al-taharesh mimenv mize'ok 'el-yehovah 'eloheynv veyoshi'env miyad felishetiym.",
     "translation": "E disseram os filhos de Israel a Samuel: Não te calasses diante de nós; clama ao Senhor, Deus nosso, e nos livrará da mão dos filisteus."
   },
   {
     "verse": 9,
     "original": "וַיִּקַּ֣ח שְׁמוּאֵ֗ל טְלֵ֤ה חָלָב֙ אֶחָ֔ד <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויעלה)</span> <span class=\"mam-kq-q\">[וַיַּֽעֲלֵ֧הוּ]</span></span> עוֹלָ֛ה כָּלִ֖יל לַיהֹוָ֑ה וַיִּזְעַ֨ק שְׁמוּאֵ֤ל אֶל־יְהֹוָה֙ בְּעַ֣ד יִשְׂרָאֵ֔ל וַֽיַּעֲנֵ֖הוּ יְהֹוָֽה׃",
+    "transliteration": "vayikah shemv'el teleh halav 'ehad <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vy'lh)</span> <span class=\"mam-kq-q\">[vaya'alehv]</span></span> 'volah khaliyl layhovah vayize'ak shemv'el 'el-yehovah ve'ad yisera'el vaya'anehv yehovah.",
     "translation": "E Samuel tomou um cordeiro de leite, e o ofereceu em holocausto inteiriço ao SENHOR. Então Samuel clamou ao SENHOR a favor de Israel, e o SENHOR lhe respondeu."
   },
   {
     "verse": 10,
     "original": "וַיְהִ֤י שְׁמוּאֵל֙ מַעֲלֶ֣ה הָעוֹלָ֔ה וּפְלִשְׁתִּ֣ים נִגְּשׁ֔וּ לַמִּלְחָמָ֖ה בְּיִשְׂרָאֵ֑ל וַיַּרְעֵ֣ם יְהֹוָ֣ה בְּקוֹל־גָּ֠ד֠וֹל בַּיּ֨וֹם הַה֤וּא עַל־פְּלִשְׁתִּים֙ וַיְהֻמֵּ֔ם וַיִּנָּגְפ֖וּ לִפְנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vayehiy shemv'el ma'aleh ha'volah vfelishetiym nigeshv lamilehamah veyisera'el vayare'em yehovah vekvol-gadvol vayvom hahv' 'al-felishetiym vayehumem vayinagefv lifeney yisera'el.",
     "translation": "E Samuel subia a oferta de holocausto, e os filisteus se aproximavam para fazer guerra contra Israel. Mas o Senhor rugiu com um estrondo violento naquele dia sobre os filisteus e perturbou-os, e eles ficaram atordoados. E foram massacrados diante de Israel."
   },
   {
     "verse": 11,
     "original": "וַיֵּ֨צְא֜וּ אַנְשֵׁ֤י יִשְׂרָאֵל֙ מִן־הַמִּצְפָּ֔ה וַֽיִּרְדְּפ֖וּ אֶת־פְּלִשְׁתִּ֑ים וַיַּכּ֕וּם עַד־מִתַּ֖חַת לְבֵ֥ית כָּֽר׃",
+    "transliteration": "vayetse'v 'aneshey yisera'el min-hamitsefah vayiredefv 'et-felishetiym vayakhvm 'ad-mitahat leveyt khar.",
     "translation": "E saíram os homens de Israel da Mizpá e perseguiram os filisteus, ferindo-os até debaixo de Beor."
   },
   {
     "verse": 12,
     "original": "וַיִּקַּ֨ח שְׁמוּאֵ֜ל אֶ֣בֶן אַחַ֗ת וַיָּ֤שֶׂם בֵּֽין־הַמִּצְפָּה֙ וּבֵ֣ין הַשֵּׁ֔ן וַיִּקְרָ֥א אֶת־שְׁמָ֖הּ אֶ֣בֶן הָעָ֑זֶר וַיֹּאמַ֕ר עַד־הֵ֖נָּה עֲזָרָ֥נוּ יְהֹוָֽה׃",
+    "transliteration": "vayikah shemv'el 'even 'ahat vayasem veyn-hamitsefah vveyn hashen vayikera' 'et-shemah 'even ha'azer vayo'mar 'ad-henah 'azaranv yehovah.",
     "translation": "E tomou Samuel uma pedra, e a pôs entre Mizpá e Shen, e chamou-lhe nome Pedra do Socorro; e disse: Até aqui nos ajudou o Senhor."
   },
   {
     "verse": 13,
     "original": "וַיִּכָּֽנְעוּ֙ הַפְּלִשְׁתִּ֔ים וְלֹֽא־יָסְפ֣וּ ע֔וֹד לָב֖וֹא בִּגְב֣וּל יִשְׂרָאֵ֑ל וַתְּהִ֤י יַד־יְהֹוָה֙ בַּפְּלִשְׁתִּ֔ים כֹּ֖ל יְמֵ֥י שְׁמוּאֵֽל׃",
+    "transliteration": "vayikhane'v hafelishetiym velo'-yasefv 'vod lavvo' vigevvl yisera'el vatehiy yad-yehovah vafelishetiym khol yemey shemv'el.",
     "translation": "E os filisteus se curvaram, e não vieram mais atentar contra a fronteira de Israel; porque a mão do Senhor estava pesada sobre os filisteus todos os dias de Samuel."
   },
   {
     "verse": 14,
     "original": "וַתָּשֹׁ֣בְנָה הֶעָרִ֡ים אֲשֶׁ֣ר לָֽקְחוּ־פְלִשְׁתִּים֩ מֵאֵ֨ת יִשְׂרָאֵ֤ל&thinsp;<small>׀</small>&thinsp;לְיִשְׂרָאֵל֙ מֵעֶקְר֣וֹן וְעַד־גַּ֔ת וְאֶ֨ת־גְּבוּלָ֔ן הִצִּ֥יל יִשְׂרָאֵ֖ל מִיַּ֣ד פְּלִשְׁתִּ֑ים וַיְהִ֣י שָׁל֔וֹם בֵּ֥ין יִשְׂרָאֵ֖ל וּבֵ֥ין הָאֱמֹרִֽי׃",
+    "transliteration": "vatashovenah he'ariym 'asher lakehv-felishetiym me'et yisera'el&thinsp;<small>|</small>&thinsp;leyisera'el me'ekervon ve'ad-gat ve'et-gevvlan hitsiyl yisera'el miyad felishetiym vayehiy shalvom veyn yisera'el vveyn ha'emoriy.",
     "translation": "E as cidades que os filisteus haviam tomado de Israel, desde Ecrom até Gate, com o território de Geba, foram restauradas a Israel. E livraram-se dos filisteus. Havia paz entre Israel e os amorreus."
   },
   {
     "verse": 15,
     "original": "וַיִּשְׁפֹּ֤ט שְׁמוּאֵל֙ אֶת־יִשְׂרָאֵ֔ל כֹּ֖ל יְמֵ֥י חַיָּֽיו׃",
+    "transliteration": "vayishefot shemv'el 'et-yisera'el khol yemey hayayv.",
     "translation": "E Samuel julgou Israel por todos os dias de sua vida."
   },
   {
     "verse": 16,
     "original": "וְהָלַ֗ךְ מִדֵּ֤י שָׁנָה֙ בְּשָׁנָ֔ה וְסָבַב֙ בֵּֽית־אֵ֔ל וְהַגִּלְגָּ֖ל וְהַמִּצְפָּ֑ה וְשָׁפַט֙ אֶת־יִשְׂרָאֵ֔ל אֵ֥ת כׇּל־הַמְּקוֹמ֖וֹת הָאֵֽלֶּה׃",
+    "transliteration": "vehalakhe midey shanah veshanah vesavav veyt-'el vehagilegal vehamitsefah veshafat 'et-yisera'el 'et khol-hamekvomvot ha'eleh.",
     "translation": "E andava de ano em ano, circulando entre Betel e Gilgal e Mizpá, e julgava a Israel em todos esses lugares."
   },
   {
     "verse": 17,
     "original": "וּתְשֻׁבָת֤וֹ הָרָמָ֙תָה֙ כִּֽי־שָׁ֣ם בֵּית֔וֹ וְשָׁ֖ם שָׁפָ֣ט אֶת־יִשְׂרָאֵ֑ל וַיִּבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַיהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vteshuvatvo haramatah khiy-sham veytvo vesham shafat 'et-yisera'el vayiven-sham mizeveha layhovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E sua resposta foi alta, pois lá está sua casa e ali julgará Israel; ali edificou um altar ao Senhor."
   }
 ]

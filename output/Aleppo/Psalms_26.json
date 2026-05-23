@@ -2,61 +2,73 @@
   {
     "verse": 1,
     "original": "לְדָוִ֨ד&thinsp;<b>׀</b> שׇׁפְטֵ֤נִי יְהֹוָ֗ה כִּֽי־אֲ֭נִי בְּתֻמִּ֣י הָלַ֑כְתִּי וּבַיהֹוָ֥ה בָּ֝טַ֗חְתִּי לֹ֣א אֶמְעָֽד׃",
+    "transliteration": "ledavid&thinsp;<b>|</b> shofeteniy yehovah khiy-'aniy vetumiy halakhetiy vvayhovah vatahetiy lo' 'eme'ad.",
     "translation": "Para Davi: Julga-me, Senhor, pois caminhei na minha integridade; em Ti confiei, não vacilei."
   },
   {
     "verse": 2,
     "original": "בְּחָנֵ֣נִי יְהֹוָ֣ה וְנַסֵּ֑נִי <span class=\"mam-kq\"><span class=\"mam-kq-k\">(צרופה)</span> <span class=\"mam-kq-q\">[צׇרְפָ֖ה]</span></span> כִלְיוֹתַ֣י וְלִבִּֽי׃",
+    "transliteration": "vehaneniy yehovah venaseniy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tsrvfh)</span> <span class=\"mam-kq-q\">[tsorefah]</span></span> khileyvotay veliviy.",
     "translation": "Examine-me, Senhor, e ponha-me à prova; assome o meu coração e o meu espírito."
   },
   {
     "verse": 3,
     "original": "כִּֽי־חַ֭סְדְּךָ לְנֶ֣גֶד עֵינָ֑י וְ֝הִתְהַלַּ֗כְתִּי בַּאֲמִתֶּֽךָ׃",
+    "transliteration": "khiy-hasedekha leneged 'eynay vehitehalakhetiy va'amitekha.",
     "translation": "Pois o teu amor está diante dos meus olhos, e ando em tua verdade."
   },
   {
     "verse": 4,
     "original": "לֹֽא־יָ֭שַׁבְתִּי עִם־מְתֵי־שָׁ֑וְא וְעִ֥ם נַ֝עֲלָמִ֗ים לֹ֣א אָבֽוֹא׃",
+    "transliteration": "lo'-yashavetiy 'im-metey-shave' ve'im na'alamiym lo' 'avvo'.",
     "translation": "Não me assentei com os mortos ao absurdo, e com os ocultos não vim.\n\nCorreção:\nNão me assentei com os mortos em mentiras, e com os falsários não andei."
   },
   {
     "verse": 5,
     "original": "שָׂ֭נֵאתִי קְהַ֣ל מְרֵעִ֑ים וְעִם־רְ֝שָׁעִ֗ים לֹ֣א אֵשֵֽׁב׃",
+    "transliteration": "sane'tiy kehal mere'iym ve'im-resha'iym lo' 'eshev.",
     "translation": "Odeio a congregação dos perversos e com os malfeitores não me sentarei."
   },
   {
     "verse": 6,
     "original": "אֶרְחַ֣ץ בְּנִקָּי֣וֹן כַּפָּ֑י וַאֲסֹבְבָ֖ה אֶת־מִזְבַּחֲךָ֣ יְהֹוָֽה׃",
+    "transliteration": "'erehats venikayvon khafay va'asovevah 'et-mizevahakha yehovah.",
     "translation": "Lavarei as minhas mãos em inocência e rodearei o teu altar, Senhor."
   },
   {
     "verse": 7,
     "original": "לַ֭שְׁמִעַ בְּק֣וֹל תּוֹדָ֑ה וּ֝לְסַפֵּ֗ר כׇּל־נִפְלְאוֹתֶֽיךָ׃",
+    "transliteration": "lashemi'a vekvol tvodah vlesafer khol-nifele'voteykha.",
     "translation": "Para ouvir com voz de gratidão e para contar todos os teus maravilhosos feitos."
   },
   {
     "verse": 8,
     "original": "יְֽהֹוָ֗ה אָ֭הַבְתִּי מְע֣וֹן בֵּיתֶ֑ךָ וּ֝מְק֗וֹם מִשְׁכַּ֥ן כְּבוֹדֶֽךָ׃",
+    "transliteration": "yehovah 'ahavetiy me'von veytekha vmekvom mishekhan khevvodekha.",
     "translation": "Senhor, amei o lugar da tua casa e o lugar do pavilhão da tua glória."
   },
   {
     "verse": 9,
     "original": "אַל־תֶּאֱסֹ֣ף עִם־חַטָּאִ֣ים נַפְשִׁ֑י וְעִם־אַנְשֵׁ֖י דָמִ֣ים חַיָּֽי׃",
+    "transliteration": "'al-te'esof 'im-hata'iym nafeshiy ve'im-'aneshey damiym hayay.",
     "translation": "Não ajunte minha alma com os pecadores, nem minha vida com os homens de sangue."
   },
   {
     "verse": 10,
     "original": "אֲשֶׁר־בִּידֵיהֶ֥ם זִמָּ֑ה וִ֝ימִינָ֗ם מָ֣לְאָה שֹּֽׁחַד׃",
+    "transliteration": "'asher-viydeyhem zimah viymiynam male'ah shohad.",
     "translation": "cuja mão está cheia de iniquidade e cujo braço direito está repleto de suborno."
   },
   {
     "verse": 11,
     "original": "וַ֭אֲנִי בְּתֻמִּ֥י אֵלֵ֗ךְ פְּדֵ֣נִי וְחׇנֵּֽנִי׃",
+    "transliteration": "va'aniy vetumiy 'elekhe fedeniy vehoneniy.",
     "translation": "E eu, na minha integridade, caminharei; livra-me e tem misericórdia de mim."
   },
   {
     "verse": 12,
     "original": "רַ֭גְלִי עָמְדָ֣ה בְמִישׁ֑וֹר בְּ֝מַקְהֵלִ֗ים אֲבָרֵ֥ךְ יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "rageliy 'amedah vemiyshvor vemakeheliym 'avarekhe yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Meus pés se firmaram no caminho reto; nos assemblies bendirei o Senhor.\n\nNota: Corrigir \"assemblies\" para \"assembleias\". Assim, a versão final ficará:\n\nMeus pés se firmaram no caminho reto; nas assembleias bendirei o Senhor."
   }
 ]

@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "שִׁמְע֥וּ דְבַר־יְהֹוָ֖ה בְּנֵ֣י יִשְׂרָאֵ֑ל כִּ֣י רִ֤יב לַֽיהֹוָה֙ עִם־יוֹשְׁבֵ֣י הָאָ֔רֶץ כִּ֠י אֵין־אֱמֶ֧ת וְֽאֵין־חֶ֛סֶד וְאֵֽין־דַּ֥עַת אֱלֹהִ֖ים בָּאָֽרֶץ׃",
+    "transliteration": "shime'v devar-yehovah veney yisera'el khiy riyv layhovah 'im-yvoshevey ha'arets khiy 'eyn-'emet ve'eyn-hesed ve'eyn-da'at 'elohiym va'arets.",
     "translation": "Ouvi, ó filhos de Israel, a palavra do Senhor; pois o Senhor tem contenda com os habitantes da terra, porque não há verdade nem misericórdia e não há conhecimento de Deus na terra."
   },
   {
     "verse": 2,
     "original": "אָלֹ֣ה וְכַחֵ֔שׁ וְרָצֹ֥חַ וְגָנֹ֖ב וְנָאֹ֑ף פָּרָ֕צוּ וְדָמִ֥ים בְּדָמִ֖ים נָגָֽעוּ׃",
+    "transliteration": "'aloh vekhahesh veratsoha veganov vena'of faratsv vedamiym vedamiym naga'v.",
     "translation": "Alo e mentem, roubam e matam, cometem adultério, rompem laços e tocam em sangue com sangue."
   },
   {
     "verse": 3,
     "original": "עַל־כֵּ֣ן&thinsp;<b>׀</b> תֶּאֱבַ֣ל הָאָ֗רֶץ וְאֻמְלַל֙ כׇּל־יוֹשֵׁ֣ב בָּ֔הּ בְּחַיַּ֥ת הַשָּׂדֶ֖ה וּבְע֣וֹף הַשָּׁמָ֑יִם וְגַם־דְּגֵ֥י הַיָּ֖ם יֵאָסֵֽפוּ׃",
+    "transliteration": "'al-khen&thinsp;<b>|</b> te'eval ha'arets ve'umelal khol-yvoshev vah vehayat hasadeh vve'vof hashamayim vegam-degey hayam ye'asefv.",
     "translation": "Portanto, a terra lamentará, e todos os que nela habitam murmurarão; sim, todas as feras do campo e todas as aves dos céus morrerão, e até os peixes do mar se acumularão."
   },
   {
     "verse": 4,
     "original": "אַ֥ךְ אִ֛ישׁ אַל־יָרֵ֖ב וְאַל־יוֹכַ֣ח אִ֑ישׁ וְעַמְּךָ֖ כִּמְרִיבֵ֥י כֹהֵֽן׃",
+    "transliteration": "'akhe 'iysh 'al-yarev ve'al-yvokhah 'iysh ve'amekha khimeriyvey khohen.",
     "translation": "Contudo, ninguém dispute ou repreenda; o teu povo é como quem discute com sacerdote."
   },
   {
     "verse": 5,
     "original": "וְכָשַׁלְתָּ֣ הַיּ֔וֹם וְכָשַׁ֧ל גַּם־נָבִ֛יא עִמְּךָ֖ לָ֑יְלָה וְדָמִ֖יתִי אִמֶּֽךָ׃",
+    "transliteration": "vekhashaleta hayvom vekhashal gam-naviy' 'imekha layelah vedamiytiy 'imekha.",
     "translation": "E tu tropeçarás hoje, e com ti tropeçará o profeta de noite; e eu me compararei à tua mãe."
   },
   {
     "verse": 6,
     "original": "נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּי־אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ואמאסאך)</span> <span class=\"mam-kq-q\">[וְאֶמְאָֽסְךָ֙]</span></span> מִכַּהֵ֣ן לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם־אָֽנִי׃",
+    "transliteration": "nidemv 'amiy miveliy hada'at khiy-'atah hada'at ma'aseta <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'm's'kh)</span> <span class=\"mam-kq-q\">[ve'eme'asekha]</span></span> mikhahen liy vatishekhah tvorat 'eloheykha 'eshekhah vaneykha gam-'aniy.",
     "translation": "Meu povo se perdeu por falta de conhecimento, pois tu rejeitaste o conhecimento; e porque tu rejeitaste a correção, foi esquecida a lei do teu Deus; também eu me esquecerei dos teus filhos."
   },
   {
     "verse": 7,
     "original": "כְּרֻבָּ֖ם כֵּ֣ן חָטְאוּ־לִ֑י כְּבוֹדָ֖ם בְּקָל֥וֹן אָמִֽיר׃",
+    "transliteration": "kheruvam khen hate'v-liy khevvodam vekalvon 'amiyr.",
     "translation": "Assim os querubins me pecaram, sua glória foi transformada em desonra e murmuração."
   },
   {
     "verse": 8,
     "original": "חַטַּ֥את עַמִּ֖י יֹאכֵ֑לוּ וְאֶל־עֲוֺנָ֖ם יִשְׂא֥וּ נַפְשֽׁוֹ׃",
+    "transliteration": "hata't 'amiy yo'khelv ve'el-'avonam yise'v nafeshvo.",
     "translation": "A iniquidade do meu povo comerá, e sobre seus pecados carregarão suas almas."
   },
   {
     "verse": 9,
     "original": "וְהָיָ֥ה כָעָ֖ם כַּכֹּהֵ֑ן וּפָקַדְתִּ֤י עָלָיו֙ דְּרָכָ֔יו וּמַעֲלָלָ֖יו אָשִׁ֥יב לֽוֹ׃",
+    "transliteration": "vehayah kha'am khakhohen vfakadetiy 'alayv derakhayv vma'alalayv 'ashiyv lvo.",
     "translation": "E será como o povo como o sacerdote, e porei sobre ele suas obras, e seus feitos retribuirei a ele."
   },
   {
     "verse": 10,
     "original": "וְאָֽכְלוּ֙ וְלֹ֣א יִשְׂבָּ֔עוּ הִזְנ֖וּ וְלֹ֣א יִפְרֹ֑צוּ כִּֽי־אֶת־יְהֹוָ֥ה עָזְב֖וּ לִשְׁמֹֽר׃",
+    "transliteration": "ve'akhelv velo' yiseva'v hizenv velo' yiferotsv khiy-'et-yehovah 'azevv lishemor.",
     "translation": "E comerão e não se fartarão; prostituem-se, e não prosperarão, pois abandonaram o Senhor, seu Deus, para não lhe guardar a lei."
   },
   {
     "verse": 11,
     "original": "זְנ֛וּת וְיַ֥יִן וְתִיר֖וֹשׁ יִֽקַּֽח־לֵֽב׃",
+    "transliteration": "zenvt veyayin vetiyrvosh yikah-lev.",
     "translation": "Prostituição e vinho e mosto tomam o coração."
   },
   {
     "verse": 12,
     "original": "עַמִּי֙ בְּעֵצ֣וֹ יִשְׁאָ֔ל וּמַקְל֖וֹ יַגִּ֣יד ל֑וֹ כִּ֣י ר֤וּחַ זְנוּנִים֙ הִתְעָ֔ה וַיִּזְנ֖וּ מִתַּ֥חַת אֱלֹהֵיהֶֽם׃",
+    "transliteration": "'amiy ve'etsvo yishe'al vmakelvo yagiyd lvo khiy rvha zenvniym hite'ah vayizenv mitahat 'eloheyhem.",
     "translation": "Meu povo consulta madeira de divinação, e o cajado lhe revela oráculos; pois espírito de prostituição os enganou, e se desviaram sob seu Deus."
   },
   {
     "verse": 13,
     "original": "עַל־רָאשֵׁ֨י הֶהָרִ֜ים יְזַבֵּ֗חוּ וְעַל־הַגְּבָעוֹת֙ יְקַטֵּ֔רוּ תַּ֣חַת אַלּ֧וֹן וְלִבְנֶ֛ה וְאֵלָ֖ה כִּ֣י ט֣וֹב צִלָּ֑הּ עַל־כֵּ֗ן תִּזְנֶ֙ינָה֙ בְּנ֣וֹתֵיכֶ֔ם וְכַלּוֹתֵיכֶ֖ם תְּנָאַֽפְנָה׃",
+    "transliteration": "'al-ra'shey hehariym yezavehv ve'al-hageva'vot yekaterv tahat 'alvon veliveneh ve'elah khiy tvov tsilah 'al-khen tizeneynah venvoteykhem vekhalvoteykhem tena'afenah.",
     "translation": "Nos cimos dos montes eles sacrificarão e nas colinas queimarão incenso, debaixo do terebinto, da figueira e da almez, porque é bom a sua sombra; por isso, suas filhas se prostituem e suas noras se entregam à fornicação."
   },
   {
     "verse": 14,
     "original": "לֹא־אֶפְק֨וֹד עַל־בְּנוֹתֵיכֶ֜ם כִּ֣י תִזְנֶ֗ינָה וְעַל־כַּלּֽוֹתֵיכֶם֙ כִּ֣י תְנָאַ֔פְנָה כִּי־הֵם֙ עִם־הַזֹּנ֣וֹת יְפָרֵ֔דוּ וְעִם־הַקְּדֵשׁ֖וֹת יְזַבֵּ֑חוּ וְעָ֥ם לֹֽא־יָבִ֖ין יִלָּבֵֽט׃",
+    "transliteration": "lo'-'efekvod 'al-venvoteykhem khiy tizeneynah ve'al-khalvoteykhem khiy tena'afenah khiy-hem 'im-hazonvot yefaredv ve'im-hakedeshvot yezavehv ve'am lo'-yaviyn yilavet.",
     "translation": "Não serei indulgente com suas filhas quando forem adúlteras, nem com suas noras quando faltarem à fidelidade; pois elas se associam às prostitutas e sacrificam aos templos das abominações. Esse povo não compreende, será consumido e destruído."
   },
   {
     "verse": 15,
     "original": "אִם־זֹנֶ֤ה אַתָּה֙ יִשְׂרָאֵ֔ל אַל־יֶאְשַׁ֖ם יְהוּדָ֑ה וְאַל־תָּבֹ֣אוּ הַגִּלְגָּ֗ל וְאַֽל־תַּעֲלוּ֙ בֵּ֣ית אָ֔וֶן וְאַל־תִּשָּׁבְע֖וּ חַי־יְהֹוָֽה׃",
+    "transliteration": "'im-zoneh 'atah yisera'el 'al-ye'esham yehvdah ve'al-tavo'v hagilegal ve'al-ta'alv veyt 'aven ve'al-tishave'v hay-yehovah.",
     "translation": "Se tu, Israel, és um zonha, não te envergonhes, Judá; e não vades a Gilgal, nem subais a Bet-Aven, e não jureis: Vive o Eterno."
   },
   {
     "verse": 16,
     "original": "כִּ֚י כְּפָרָ֣ה סֹרֵרָ֔ה סָרַ֖ר יִשְׂרָאֵ֑ל עַתָּה֙ יִרְעֵ֣ם יְהֹוָ֔ה כְּכֶ֖בֶשׂ בַּמֶּרְחָֽב׃",
+    "transliteration": "khiy khefarah sorerah sarar yisera'el 'atah yire'em yehovah khekheves vamerehav.",
     "translation": "Pois Israel se rebelou como um rebanho que não pode ser purgado; agora o Senhor os apascentará como cordeiros no extenso campo."
   },
   {
     "verse": 17,
     "original": "חֲב֧וּר עֲצַבִּ֛ים אֶפְרָ֖יִם הַֽנַּֽח־לֽוֹ׃",
+    "transliteration": "havvr 'atsaviym 'eferayim hanah-lvo.",
     "translation": "Efraim é como um ídolo esculpido; deixe-o, pois."
   },
   {
     "verse": 18,
     "original": "סָ֖ר סׇבְאָ֑ם הַזְנֵ֣ה הִזְנ֔וּ אָהֲב֥וּ הֵב֛וּ קָל֖וֹן מָגִנֶּֽיהָ׃",
+    "transliteration": "sar sove'am hazeneh hizenv 'ahavv hevv kalvon magineyha.",
     "translation": "Desviaram-se seus fundamentos, prostituíram-se, amaram a vergonha; são eles os seus escudos."
   },
   {
     "verse": 19,
     "original": "צָרַ֥ר ר֛וּחַ אוֹתָ֖הּ בִּכְנָפֶ֑יהָ וְיֵבֹ֖שׁוּ מִזִּבְחוֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "tsarar rvha 'votah vikhenafeyha veyevoshv mizivehvotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Apreendeu-a com as penas de sua asa, e confundidos ficarão diante de seus altares."
   }
 ]

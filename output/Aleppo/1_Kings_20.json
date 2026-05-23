@@ -2,216 +2,259 @@
   {
     "verse": 1,
     "original": "וּבֶן־הֲדַ֣ד מֶלֶךְ־אֲרָ֗ם קָבַץ֙ אֶת־כׇּל־חֵיל֔וֹ וּשְׁלֹשִׁ֨ים וּשְׁנַ֥יִם מֶ֛לֶךְ אִתּ֖וֹ וְס֣וּס וָרָ֑כֶב וַיַּ֗עַל וַיָּ֙צַר֙ עַל־שֹׁ֣מְר֔וֹן וַיִּלָּ֖חֶם בָּֽהּ׃",
+    "transliteration": "vven-hadad melekhe-'aram kavats 'et-khol-heylvo vsheloshiym vshenayim melekhe 'itvo vesvs varakhev vaya'al vayatsar 'al-shomervon vayilahem vah.",
     "translation": "E Ben-Hadade, rei de Aram, juntou todo o seu exército e trinta e dois reis com ele, além de cavalos e carroças. Subiu e sitiou Samaria e fez guerra contra ela."
   },
   {
     "verse": 2,
     "original": "וַיִּשְׁלַ֧ח מַלְאָכִ֛ים אֶל־אַחְאָ֥ב מֶלֶךְ־יִשְׂרָאֵ֖ל הָעִֽירָה׃",
+    "transliteration": "vayishelah male'akhiym 'el-'ahe'av melekhe-yisera'el ha'iyrah.",
     "translation": "E ele enviou mensageiros a Acabe, rei de Israel, na cidade."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֣אמֶר ל֗וֹ כֹּ֚ה אָמַ֣ר בֶּן־הֲדַ֔ד כַּסְפְּךָ֥ וּֽזְהָבְךָ֖ לִי־ה֑וּא וְנָשֶׁ֧יךָ וּבָנֶ֛יךָ הַטּוֹבִ֖ים לִי־הֵֽם׃",
+    "transliteration": "vayo'mer lvo khoh 'amar ven-hadad khasefekha vzehavekha liy-hv' venasheykha vvaneykha hatvoviym liy-hem.",
     "translation": "Disse-lhe: Assim diz Ben-Hadade: A tua prata e o teu ouro são meus, e as tuas mulheres e os teus filhos melhores também são meus.\n\nNota: Em hebraico antigo, \"silver\" (כֶּסֶף) geralmente é usado no singular em contextos como esse. Entretanto, para manter a solenidade e a formalidade da tradução ao português, mantive \"prata\" no singular e \"ouro\" no singular, como feito originalmente no rascunho de tradução."
   },
   {
     "verse": 4,
     "original": "וַיַּ֤עַן מֶֽלֶךְ־יִשְׂרָאֵל֙ וַיֹּ֔אמֶר כִּדְבָרְךָ֖ אֲדֹנִ֣י הַמֶּ֑לֶךְ לְךָ֥ אֲנִ֖י וְכׇל־אֲשֶׁר־לִֽי׃",
+    "transliteration": "vaya'an melekhe-yisera'el vayo'mer khidevarekha 'adoniy hamelekhe lekha 'aniy vekhol-'asher-liy.",
     "translation": "E respondeu o rei de Israel e disse: Como a tua palavra, meu senhor o rei; eu e tudo que é meu somos teus."
   },
   {
     "verse": 5,
     "original": "וַיָּשֻׁ֙בוּ֙ הַמַּלְאָכִ֔ים וַיֹּ֣אמְר֔וּ כֹּה־אָמַ֥ר בֶּן־הֲדַ֖ד לֵאמֹ֑ר כִּֽי־שָׁלַ֤חְתִּי אֵלֶ֙יךָ֙ לֵאמֹ֔ר כַּסְפְּךָ֧ וּֽזְהָבְךָ֛ וְנָשֶׁ֥יךָ וּבָנֶ֖יךָ לִ֥י תִתֵּֽן׃",
+    "transliteration": "vayashuvv hamale'akhiym vayo'merv khoh-'amar ven-hadad le'mor khiy-shalahetiy 'eleykha le'mor khasefekha vzehavekha venasheykha vvaneykha liy titen.",
     "translation": "E os mensageiros voltaram e disseram: Assim diz Ben-Hadade, dizendo: Porque enviaste a mim dizendo: O teu prata e o teu ouro, e as tuas mulheres e os teus filhos, darás a mim."
   },
   {
     "verse": 6,
     "original": "כִּ֣י&thinsp;<b>׀</b> אִם־כָּעֵ֣ת מָחָ֗ר אֶשְׁלַ֤ח אֶת־עֲבָדַי֙ אֵלֶ֔יךָ וְחִפְּשׂוּ֙ אֶת־בֵּ֣יתְךָ֔ וְאֵ֖ת בָּתֵּ֣י עֲבָדֶ֑יךָ וְהָיָה֙ כׇּל־מַחְמַ֣ד עֵינֶ֔יךָ יָשִׂ֥ימוּ בְיָדָ֖ם וְלָקָֽחוּ׃",
+    "transliteration": "khiy&thinsp;<b>|</b> 'im-kha'et mahar 'eshelah 'et-'avaday 'eleykha vehifesv 'et-veytekha ve'et vatey 'avadeykha vehayah khol-mahemad 'eyneykha yasiymv veyadam velakahv.",
     "translation": "Porque agora, se eu enviar meus servos à tua casa e às casas dos teus servos, e apanharem todos os tesouros que te são desejáveis, porão em suas mãos e tomarão."
   },
   {
     "verse": 7,
     "original": "וַיִּקְרָ֤א מֶֽלֶךְ־יִשְׂרָאֵל֙ לְכׇל־זִקְנֵ֣י הָאָ֔רֶץ וַיֹּ֙אמֶר֙ דְּעוּ־נָ֣א וּרְא֔וּ כִּ֥י רָעָ֖ה זֶ֣ה מְבַקֵּ֑שׁ כִּֽי־שָׁלַ֨ח אֵלַ֜י לְנָשַׁ֤י וּלְבָנַי֙ וּלְכַסְפִּ֣י וְלִזְהָבִ֔י וְלֹ֥א מָנַ֖עְתִּי מִמֶּֽנּוּ׃",
+    "transliteration": "vayikera' melekhe-yisera'el lekhol-zikeney ha'arets vayo'mer de'v-na' vre'v khiy ra'ah zeh mevakesh khiy-shalah 'elay lenashay vlevanay vlekhasefiy velizehaviy velo' mana'etiy mimenv.",
     "translation": "E o rei de Israel convocou todos os anciãos da terra e disse: \"Conheceis bem e vede que este homem busca mal, pois enviou a mim por minhas mulheres, meus filhos, meu ouro e minha prata, e eu não lhe neguei nada.\""
   },
   {
     "verse": 8,
     "original": "וַיֹּאמְר֥וּ אֵלָ֛יו כׇּל־הַזְּקֵנִ֖ים וְכׇל־הָעָ֑ם אַל־תִּשְׁמַ֖ע וְל֥וֹא תֹאבֶֽה׃",
+    "transliteration": "vayo'merv 'elayv khol-hazekeniym vekhol-ha'am 'al-tishema' velvo' to'veh.",
     "translation": "Então todos os anciãos e todo o povo lhe disseram: Não ouças e não consintas."
   },
   {
     "verse": 9,
     "original": "וַיֹּ֜אמֶר לְמַלְאֲכֵ֣י בֶן־הֲדַ֗ד אִמְר֞וּ לַאדֹנִ֤י הַמֶּ֙לֶךְ֙ כֹּל֩ אֲשֶׁר־שָׁלַ֨חְתָּ אֶל־עַבְדְּךָ֤ בָרִֽאשֹׁנָה֙ אֶעֱשֶׂ֔ה וְהַדָּבָ֣ר הַזֶּ֔ה לֹ֥א אוּכַ֖ל לַעֲשׂ֑וֹת וַיֵּֽלְכוּ֙ הַמַּלְאָכִ֔ים וַיְשִׁבֻ֖הוּ דָּבָֽר׃",
+    "transliteration": "vayo'mer lemale'akhey ven-hadad 'imerv la'doniy hamelekhe khol 'asher-shalaheta 'el-'avedekha vari'shonah 'e'eseh vehadavar hazeh lo' 'vkhal la'asvot vayelekhv hamale'akhiym vayeshivuhv davar.",
     "translation": "E disse aos mensageiros de Ben-Hadade: Dizei ao vosso senhor, o rei: Tudo quanto me enviastes no princípio farei; mas esta coisa não posso fazer. Os mensageiros foram e lhe trouxeram a palavra."
   },
   {
     "verse": 10,
     "original": "וַיִּשְׁלַ֤ח אֵלָיו֙ בֶּן־הֲדַ֔ד וַיֹּ֕אמֶר כֹּה־יַעֲשׂ֥וּן לִ֛י אֱלֹהִ֖ים וְכֹ֣ה יוֹסִ֑פוּ אִם־יִשְׂפֹּק֙ עֲפַ֣ר שֹׁמְר֔וֹן לִשְׁעָלִ֕ים לְכׇל־הָעָ֖ם אֲשֶׁ֥ר בְּרַגְלָֽי׃",
+    "transliteration": "vayishelah 'elayv ven-hadad vayo'mer khoh-ya'asvn liy 'elohiym vekhoh yvosifv 'im-yisefok 'afar shomervon lishe'aliym lekhol-ha'am 'asher veragelay.",
     "translation": "E enviou-lhe Ben-Hadade, e disse: Assim faça-me Deus e assim mais, se a poeira de Samaria for suficiente para os punhos de todos os que andam aos meus pés."
   },
   {
     "verse": 11,
     "original": "וַיַּ֤עַן מֶֽלֶךְ־יִשְׂרָאֵל֙ וַיֹּ֣אמֶר דַּבְּר֔וּ אַל־יִתְהַלֵּ֥ל חֹגֵ֖ר כִּמְפַתֵּֽחַ׃",
+    "transliteration": "vaya'an melekhe-yisera'el vayo'mer daverv 'al-yitehalel hoger khimefateha.",
     "translation": "Então respondeu o rei de Israel e disse: Fala, por que se gloria aquele que cinge como um cadeado?"
   },
   {
     "verse": 12,
     "original": "וַיְהִ֗י כִּשְׁמֹ֙עַ֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה וְה֥וּא שֹׁתֶ֛ה ה֥וּא וְהַמְּלָכִ֖ים בַּסֻּכּ֑וֹת וַיֹּ֤אמֶר אֶל־עֲבָדָיו֙ שִׂ֔ימוּ וַיָּשִׂ֖ימוּ עַל־הָעִֽיר׃",
+    "transliteration": "vayehiy khishemo'a 'et-hadavar hazeh vehv' shoteh hv' vehamelakhiym vasukhvot vayo'mer 'el-'avadayv siymv vayasiymv 'al-ha'iyr.",
     "translation": "E sucedeu que, ao ouvir essa palavra, ele e os seus oficiais estavam bebendo nas suas tendas; então disse aos seus servos: \"Coloquem\", e eles colocaram sobre a cidade."
   },
   {
     "verse": 13,
     "original": "וְהִנֵּ֣ה&thinsp;<b>׀</b> נָבִ֣יא אֶחָ֗ד נִגַּשׁ֮ אֶל־אַחְאָ֣ב מֶלֶךְ־יִשְׂרָאֵל֒ וַיֹּ֗אמֶר כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה הֲֽרָאִ֔יתָ אֵ֛ת כׇּל־הֶהָמ֥וֹן הַגָּד֖וֹל הַזֶּ֑ה הִנְנִ֨י נֹתְנ֤וֹ בְיָֽדְךָ֙ הַיּ֔וֹם וְיָדַעְתָּ֖ כִּֽי־אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "vehineh&thinsp;<b>|</b> naviy' 'ehad nigash 'el-'ahe'av melekhe-yisera'el vayo'mer khoh 'amar yehovah hara'iyta 'et khol-hehamvon hagadvol hazeh hineniy notenvo veyadekha hayvom veyada'eta khiy-'aniy yehovah.",
     "translation": "Eis que um profeta chegou a Acab, rei de Israel, e disse: Assim diz o Senhor: Viste toda essa grande multidão? Eis que te entrego isso hoje, e saberás que eu sou o Senhor."
   },
   {
     "verse": 14,
     "original": "וַיֹּ֤אמֶר אַחְאָב֙ בְּמִ֔י וַיֹּ֙אמֶר֙ כֹּה־אָמַ֣ר יְהֹוָ֔ה בְּנַעֲרֵ֖י שָׂרֵ֣י הַמְּדִינ֑וֹת וַיֹּ֛אמֶר מִי־יֶאְסֹ֥ר הַמִּלְחָמָ֖ה וַיֹּ֥אמֶר אָֽתָּה׃",
+    "transliteration": "vayo'mer 'ahe'av vemiy vayo'mer khoh-'amar yehovah vena'arey sarey hamediynvot vayo'mer miy-ye'esor hamilehamah vayo'mer 'atah.",
     "translation": "E Acab perguntou: \"Por quem?\", e ele respondeu: \"Assim diz o Senhor: Por meio dos jovens servos das autoridades da província.\" Então, Acab perguntou: \"Quem dominará a batalha?\", e ele respondeu: \"Tu.\""
   },
   {
     "verse": 15,
     "original": "וַיִּפְקֹ֗ד אֶֽת־נַעֲרֵי֙ שָׂרֵ֣י הַמְּדִינ֔וֹת וַיִּהְי֕וּ מָאתַ֖יִם שְׁנַ֣יִם וּשְׁלֹשִׁ֑ים וְאַחֲרֵיהֶ֗ם פָּקַ֧ד אֶת־כׇּל־הָעָ֛ם כׇּל־בְּנֵ֥י יִשְׂרָאֵ֖ל שִׁבְעַ֥ת אֲלָפִֽים׃",
+    "transliteration": "vayifekod 'et-na'arey sarey hamediynvot vayiheyv ma'tayim shenayim vsheloshiym ve'ahareyhem fakad 'et-khol-ha'am khol-veney yisera'el shive'at 'alafiym.",
     "translation": "E contou os jovens dos oficiais das províncias, e foram duzentos e trinta e dois. Depois deles, contou todo o povo, todos os filhos de Israel, sete mil."
   },
   {
     "verse": 16,
     "original": "וַיֵּצְא֖וּ בַּֽצׇּהֳרָ֑יִם וּבֶן־הֲדַד֩ שֹׁתֶ֨ה שִׁכּ֜וֹר בַּסֻּכּ֗וֹת ה֧וּא וְהַמְּלָכִ֛ים שְׁלֹשִֽׁים־וּשְׁנַ֥יִם מֶ֖לֶךְ עֹזֵ֥ר אֹתֽוֹ׃",
+    "transliteration": "vayetse'v vatsohorayim vven-hadad shoteh shikhvor vasukhvot hv' vehamelakhiym sheloshiym-vshenayim melekhe 'ozer 'otvo.",
     "translation": "E saíram ao meio-dia, e Ben-Hadade estava bebendo na sua tenda ele e os reis, em número de trinta e dois, prestando-lhe auxílio."
   },
   {
     "verse": 17,
     "original": "וַיֵּצְא֗וּ נַעֲרֵ֛י שָׂרֵ֥י הַמְּדִינ֖וֹת בָּרִֽאשֹׁנָ֑ה וַיִּשְׁלַ֣ח בֶּן־הֲדַ֗ד וַיַּגִּ֤ידוּ לוֹ֙ לֵאמֹ֔ר אֲנָשִׁ֕ים יָצְא֖וּ מִשֹּׁמְרֽוֹן׃",
+    "transliteration": "vayetse'v na'arey sarey hamediynvot vari'shonah vayishelah ven-hadad vayagiydv lvo le'mor 'anashiym yatse'v mishomervon.",
     "translation": "E saíram os jovens dos oficiais das cidades primeiramente; e Ben-Hadade enviou para lhe darem a notícia, dizendo: Saíram homens de Samaria."
   },
   {
     "verse": 18,
     "original": "וַיֹּ֛אמֶר אִם־לְשָׁל֥וֹם יָצָ֖אוּ תִּפְשׂ֣וּם חַיִּ֑ים וְאִ֧ם לְמִלְחָמָ֛ה יָצָ֖אוּ חַיִּ֥ים תִּפְשֽׂוּם׃",
+    "transliteration": "vayo'mer 'im-leshalvom yatsa'v tifesvm hayiym ve'im lemilehamah yatsa'v hayiym tifesvm.",
     "translation": "E disse: Se saírem em paz, pegai vidas; e se saírem para a guerra, vidas pegareis."
   },
   {
     "verse": 19,
     "original": "וְאֵ֙לֶּה֙ יָצְא֣וּ מִן־הָעִ֔יר נַעֲרֵ֖י שָׂרֵ֣י הַמְּדִינ֑וֹת וְהַחַ֖יִל אֲשֶׁ֥ר אַחֲרֵיהֶֽם׃",
+    "transliteration": "ve'eleh yatse'v min-ha'iyr na'arey sarey hamediynvot vehahayil 'asher 'ahareyhem.",
     "translation": "E estes saíram da cidade: os jovens dos oficiais das províncias e o exército que vinha atrás deles."
   },
   {
     "verse": 20,
     "original": "וַיַּכּוּ֙ אִ֣ישׁ אִישׁ֔וֹ וַיָּנֻ֣סֽוּ אֲרָ֔ם וַֽיִּרְדְּפֵ֖ם יִשְׂרָאֵ֑ל וַיִּמָּלֵ֗ט בֶּן־הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם עַל־ס֖וּס וּפָרָשִֽׁים׃",
+    "transliteration": "vayakhv 'iysh 'iyshvo vayanusv 'aram vayiredefem yisera'el vayimalet ven-hadad melekhe 'aram 'al-svs vfarashiym.",
     "translation": "E feriu cada um o seu próximo, e os arameus fugiram; Israel os perseguia, e Ben-Hadade, rei da Arã, escapou montado em cavalo com seus carros de guerra."
   },
   {
     "verse": 21,
     "original": "וַיֵּצֵא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וַיַּ֥ךְ אֶת־הַסּ֖וּס וְאֶת־הָרָ֑כֶב וְהִכָּ֥ה בַאֲרָ֖ם מַכָּ֥ה גְדוֹלָֽה׃",
+    "transliteration": "vayetse' melekhe yisera'el vayakhe 'et-hasvs ve'et-harakhev vehikhah va'aram makhah gedvolah.",
     "translation": "E saiu o rei de Israel e feriu o cavalo e seu carro, e atingiu os arameus com uma grande derrota."
   },
   {
     "verse": 22,
     "original": "וַיִּגַּ֤שׁ הַנָּבִיא֙ אֶל־מֶ֣לֶךְ יִשְׂרָאֵ֔ל וַיֹּ֤אמֶר לוֹ֙ לֵ֣ךְ הִתְחַזַּ֔ק וְדַ֥ע וּרְאֵ֖ה אֵ֣ת אֲשֶׁר־תַּעֲשֶׂ֑ה כִּ֚י לִתְשׁוּבַ֣ת הַשָּׁנָ֔ה מֶ֥לֶךְ אֲרָ֖ם עֹלֶ֥ה עָלֶֽיךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayigash hanaviy' 'el-melekhe yisera'el vayo'mer lvo lekhe hitehazak veda' vre'eh 'et 'asher-ta'aseh khiy liteshvvat hashanah melekhe 'aram 'oleh 'aleykha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o profeta se aproximou do rei de Israel e lhe disse: Vai, fortalece-te e vê bem o que vais fazer; pois no próximo ano o rei da Síria subirá contra ti."
   },
   {
     "verse": 23,
     "original": "וְעַבְדֵ֨י מֶלֶךְ־אֲרָ֜ם אָמְר֣וּ אֵלָ֗יו אֱלֹהֵ֤י הָרִים֙ אֱלֹ֣הֵיהֶ֔ם עַל־כֵּ֖ן חָזְק֣וּ מִמֶּ֑נּוּ וְאוּלָ֗ם נִלָּחֵ֤ם אִתָּם֙ בַּמִּישׁ֔וֹר אִם־לֹ֥א נֶחֱזַ֖ק מֵהֶֽם׃",
+    "transliteration": "ve'avedey melekhe-'aram 'amerv 'elayv 'elohey hariym 'eloheyhem 'al-khen hazekv mimenv ve'vlam nilahem 'itam vamiyshvor 'im-lo' nehezak mehem.",
     "translation": "E os servos do rei da Síria lhe disseram: \"Deus dos montes é o seu Deus; por isso, são fortes contra nós. Mas se combatermos com eles na planície, certamente seremos mais fortes que eles.\""
   },
   {
     "verse": 24,
     "original": "וְאֶת־הַדָּבָ֥ר הַזֶּ֖ה עֲשֵׂ֑ה הָסֵ֤ר הַמְּלָכִים֙ אִ֣ישׁ מִמְּקֹמ֔וֹ וְשִׂ֥ים פַּח֖וֹת תַּחְתֵּיהֶֽם׃",
+    "transliteration": "ve'et-hadavar hazeh 'aseh haser hamelakhiym 'iysh mimekomvo vesiym fahvot taheteyhem.",
     "translation": "E isto farás: remove os reis dos seus lugares e põe tesoureiros em seu lugar."
   },
   {
     "verse": 25,
     "original": "וְאַתָּ֣ה תִֽמְנֶֽה־לְךָ֣&thinsp;<small>׀</small>&thinsp;חַ֡יִל כַּחַ֩יִל֩ הַנֹּפֵ֨ל מֵאוֹתָ֜ךְ וְס֥וּס כַּסּ֣וּס&thinsp;<b>׀</b> וְרֶ֣כֶב כָּרֶ֗כֶב וְנִֽלָּחֲמָ֤ה אוֹתָם֙ בַּמִּישׁ֔וֹר אִם־לֹ֥א נֶחֱזַ֖ק מֵהֶ֑ם וַיִּשְׁמַ֥ע לְקֹלָ֖ם וַיַּ֥עַשׂ כֵּֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'atah timeneh-lekha&thinsp;<small>|</small>&thinsp;hayil khahayil hanofel me'votakhe vesvs khasvs&thinsp;<b>|</b> verekhev kharekhev venilahamah 'votam vamiyshvor 'im-lo' nehezak mehem vayishema' lekolam vaya'as khen.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E tu te armarás com força como a força que cai de ti, e cavalo como o cavalo, e carro como o carro; e lutaremos contra eles no vale. Se não nos fortalecermos mais do que eles, ele ouviu sua voz e fez assim."
   },
   {
     "verse": 26,
     "original": "וַֽיְהִי֙ לִתְשׁוּבַ֣ת הַשָּׁנָ֔ה וַיִּפְקֹ֥ד בֶּן־הֲדַ֖ד אֶת־אֲרָ֑ם וַיַּ֣עַל אֲפֵ֔קָה לַמִּלְחָמָ֖ה עִם־יִשְׂרָאֵֽל׃",
+    "transliteration": "vayehiy liteshvvat hashanah vayifekod ven-hadad 'et-'aram vaya'al 'afekah lamilehamah 'im-yisera'el.",
     "translation": "E sucedeu no retorno do ano, que o filho de Hadade contou a Arã; e subiu a Afeca para a guerra contra Israel."
   },
   {
     "verse": 27,
     "original": "וּבְנֵ֣י יִשְׂרָאֵ֗ל הׇתְפָּקְדוּ֙ וְכׇלְכְּל֔וּ וַיֵּלְכ֖וּ לִקְרָאתָ֑ם וַיַּחֲנ֨וּ בְנֵי־יִשְׂרָאֵ֜ל נֶגְדָּ֗ם כִּשְׁנֵי֙ חֲשִׂפֵ֣י עִזִּ֔ים וַאֲרָ֖ם מִלְא֥וּ אֶת־הָאָֽרֶץ׃",
+    "transliteration": "vveney yisera'el hotefakedv vekholekhelv vayelekhv likera'tam vayahanv veney-yisera'el negedam khisheney hasifey 'iziym va'aram mile'v 'et-ha'arets.",
     "translation": "E os filhos de Israel se prepararam e se fortaleceram, e foram encontrá-los, e os filhos de Israel acamparam diante deles como dois grupos de cabras desprotegidas, e Aram encheu a terra."
   },
   {
     "verse": 28,
     "original": "וַיִּגַּ֞שׁ אִ֣ישׁ הָאֱלֹהִ֗ים וַיֹּ֘אמֶר֮ אֶל־מֶ֣לֶךְ יִשְׂרָאֵל֒ וַיֹּ֜אמֶר כֹּֽה־אָמַ֣ר יְהֹוָ֗ה יַ֠עַן אֲשֶׁ֨ר אָמְר֤וּ אֲרָם֙ אֱלֹהֵ֤י הָרִים֙ יְהֹוָ֔ה וְלֹֽא־אֱלֹהֵ֥י עֲמָקִ֖ים ה֑וּא וְ֠נָתַתִּ֠י אֶת־כׇּל־הֶהָמ֨וֹן הַגָּד֤וֹל הַזֶּה֙ בְּיָדֶ֔ךָ וִידַעְתֶּ֖ם כִּֽי־אֲנִ֥י יְהֹוָֽה׃",
+    "transliteration": "vayigash 'iysh ha'elohiym vayo'mer 'el-melekhe yisera'el vayo'mer khoh-'amar yehovah ya'an 'asher 'amerv 'aram 'elohey hariym yehovah velo'-'elohey 'amakiym hv' venatatiy 'et-khol-hehamvon hagadvol hazeh veyadekha viyda'etem khiy-'aniy yehovah.",
     "translation": "E aproximou-se o homem de Deus e disse ao rei de Israel: Assim diz o Senhor: Porque disseram os arameus que o Senhor é o Deus dos montes, mas não o Deus das vales; pois entregarei em tuas mãos toda essa grande multidão, e conhecereis que eu sou o Senhor."
   },
   {
     "verse": 29,
     "original": "וַֽיַּחֲנ֧וּ אֵ֦לֶּה נֹֽכַח־אֵ֖לֶּה שִׁבְעַ֣ת יָמִ֑ים וַיְהִ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַשְּׁבִיעִ֗י וַתִּקְרַב֙ הַמִּלְחָמָ֔ה וַיַּכּ֨וּ בְנֵי־יִשְׂרָאֵ֧ל אֶת־אֲרָ֛ם מֵאָה־אֶ֥לֶף רַגְלִ֖י בְּי֥וֹם אֶחָֽד׃",
+    "transliteration": "vayahanv 'eleh nokhah-'eleh shive'at yamiym vayehiy&thinsp;<b>|</b> vayvom hasheviy'iy vatikerav hamilehamah vayakhv veney-yisera'el 'et-'aram me'ah-'elef rageliy veyvom 'ehad.",
     "translation": "E acamparam face a face durante sete dias, e no sétimo dia se aproximou a guerra. E os filhos de Israel feriram aos arameus cem mil homens a pé num único dia."
   },
   {
     "verse": 30,
     "original": "וַיָּנֻ֨סוּ הַנּוֹתָרִ֥ים&thinsp;<small>׀</small>&thinsp;אֲפֵ֘קָה֮ אֶל־הָעִיר֒ וַתִּפֹּל֙ הַחוֹמָ֔ה עַל־עֶשְׂרִ֨ים וְשִׁבְעָ֥ה אֶ֛לֶף אִ֖ישׁ הַנּוֹתָרִ֑ים וּבֶן־הֲדַ֣ד נָ֔ס וַיָּבֹ֥א אֶל־הָעִ֖יר חֶ֥דֶר בְּחָֽדֶר׃",
+    "transliteration": "vayanusv hanvotariym&thinsp;<small>|</small>&thinsp;'afekah 'el-ha'iyr vatifol hahvomah 'al-'eseriym veshive'ah 'elef 'iysh hanvotariym vven-hadad nas vayavo' 'el-ha'iyr heder vehader.",
     "translation": "E os que restaram fugiram a Afeque, à cidade, e a muralha desabou sobre vinte e sete mil homens dos que sobraram. E Ben-Hadade escapou e se refugiou na câmara interior da cidade."
   },
   {
     "verse": 31,
     "original": "וַיֹּאמְר֣וּ אֵלָיו֮ עֲבָדָיו֒ הִנֵּה־נָ֣א שָׁמַ֔עְנוּ כִּ֗י מַלְכֵי֙ בֵּ֣ית יִשְׂרָאֵ֔ל כִּֽי־מַלְכֵ֥י חֶ֖סֶד הֵ֑ם נָשִׂ֣ימָה נָּא֩ שַׂקִּ֨ים בְּמׇתְנֵ֜ינוּ וַחֲבָלִ֣ים בְּרֹאשֵׁ֗נוּ וְנֵצֵא֙ אֶל־מֶ֣לֶךְ יִשְׂרָאֵ֔ל אוּלַ֖י יְחַיֶּ֥ה אֶת־נַפְשֶֽׁךָ׃",
+    "transliteration": "vayo'merv 'elayv 'avadayv hineh-na' shama'env khiy malekhey veyt yisera'el khiy-malekhey hesed hem nasiymah na' sakiym vemoteneynv vahavaliym vero'shenv venetse' 'el-melekhe yisera'el 'vlay yehayeh 'et-nafeshekha.",
     "translation": "E seus servos lhe disseram: Eis que ouvimos que os reis de Israel são reis de misericórdia. Põamos sacos sobre nossas nádegas e cordas em nossas cabeças, e sairemos ao rei de Israel; talvez ele dê vida à tua alma."
   },
   {
     "verse": 32,
     "original": "וַיַּחְגְּרוּ֩ שַׂקִּ֨ים בְּמׇתְנֵיהֶ֜ם וַחֲבָלִ֣ים בְּרָאשֵׁיהֶ֗ם וַיָּבֹ֙אוּ֙ אֶל־מֶ֣לֶךְ יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ עַבְדְּךָ֧ בֶן־הֲדַ֛ד אָמַ֖ר תְּחִי־נָ֣א נַפְשִׁ֑י וַיֹּ֛אמֶר הַעוֹדֶ֥נּוּ חַ֖י אָחִ֥י הֽוּא׃",
+    "transliteration": "vayahegerv sakiym vemoteneyhem vahavaliym vera'sheyhem vayavo'v 'el-melekhe yisera'el vayo'merv 'avedekha ven-hadad 'amar tehiy-na' nafeshiy vayo'mer ha'vodenv hay 'ahiy hv'.",
     "translation": "E cingiram túnicas de saco sobre seus quadris e cordas em suas cabeças, e vieram ao rei de Israel. E disseram: Teu servo Ben-Hadade diz: Porventura viva a tua alma? E ele disse: Ele ainda vive? É meu irmão!"
   },
   {
     "verse": 33,
     "original": "וְהָאֲנָשִׁים֩ יְנַחֲשׁ֨וּ וַֽיְמַהֲר֜וּ וַיַּחְלְט֣וּ הֲמִמֶּ֗נּוּ וַיֹּֽאמְרוּ֙ אָחִ֣יךָ בֶן־הֲדַ֔ד וַיֹּ֖אמֶר בֹּ֣אוּ קָחֻ֑הוּ וַיֵּצֵ֤א אֵלָיו֙ בֶּן־הֲדַ֔ד וַֽיַּעֲלֵ֖הוּ עַל־הַמֶּרְכָּבָֽה׃",
+    "transliteration": "veha'anashiym yenahashv vayemaharv vayaheletv hamimenv vayo'merv 'ahiykha ven-hadad vayo'mer vo'v kahuhv vayetse' 'elayv ven-hadad vaya'alehv 'al-hamerekhavah.",
     "translation": "E os homens lançaram sortes e apressaram-se, decidindo se separar dele; disseram: “É teu irmão Ben-hadade”. E ele ordenou: “Tragam-no a mim”. Então, Ben-hadade veio ao seu encontro, subiu para o carro."
   },
   {
     "verse": 34,
     "original": "וַיֹּ֣אמֶר אֵלָ֡יו הֶעָרִ֣ים אֲשֶׁר־לָֽקַח־אָבִי֩ מֵאֵ֨ת אָבִ֜יךָ אָשִׁ֗יב וְ֠חֻצ֠וֹת תָּשִׂ֨ים לְךָ֤ בְדַמֶּ֙שֶׂק֙ כַּֽאֲשֶׁר־שָׂ֤ם אָבִי֙ בְּשֹׁ֣מְר֔וֹן וַאֲנִ֖י בַּבְּרִ֣ית אֲשַׁלְּחֶ֑ךָּ וַיִּכְרׇת־ל֥וֹ בְרִ֖ית וַֽיְשַׁלְּחֵֽהוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer 'elayv he'ariym 'asher-lakah-'aviy me'et 'aviykha 'ashiyv vehutsvot tasiym lekha vedamesek kha'asher-sam 'aviy veshomervon va'aniy vaveriyt 'ashalehekha vayikherot-lvo veriyt vayeshalehehv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse-lhe: \"As cidades que meu pai tomou do seu pai, eu lhe devolverei; além disso, farei para ti em Damasco como meu pai fez em Samaria. Enviá-lo-ei com uma aliança\". Assim, fez uma aliança com ele e o enviou."
   },
   {
     "verse": 35,
     "original": "וְאִ֨ישׁ אֶחָ֜ד מִבְּנֵ֣י הַנְּבִיאִ֗ים אָמַ֧ר אֶל־רֵעֵ֛הוּ בִּדְבַ֥ר יְהֹוָ֖ה הַכֵּ֣ינִי נָ֑א וַיְמָאֵ֥ן הָאִ֖ישׁ לְהַכֹּתֽוֹ׃",
+    "transliteration": "ve'iysh 'ehad miveney haneviy'iym 'amar 'el-re'ehv videvar yehovah hakheyniy na' vayema'en ha'iysh lehakhotvo.",
     "translation": "E um dos filhos dos profetas disse ao seu companheiro, pela palavra do Senhor: Atinge-me, por favor. Mas o homem se recusou a feri-lo."
   },
   {
     "verse": 36,
     "original": "וַיֹּ֣אמֶר ל֗וֹ יַ֚עַן אֲשֶׁ֤ר לֹא־שָׁמַ֙עְתָּ֙ בְּק֣וֹל יְהֹוָ֔ה הִנְּךָ֤ הוֹלֵךְ֙ מֵֽאִתִּ֔י וְהִכְּךָ֖ הָאַרְיֵ֑ה וַיֵּ֙לֶךְ֙ מֵֽאֶצְל֔וֹ וַיִּמְצָאֵ֥הוּ הָאַרְיֵ֖ה וַיַּכֵּֽהוּ׃",
+    "transliteration": "vayo'mer lvo ya'an 'asher lo'-shama'eta vekvol yehovah hinekha hvolekhe me'itiy vehikhekha ha'areyeh vayelekhe me'etselvo vayimetsa'ehv ha'areyeh vayakhehv.",
     "translation": "E disse-lhe: Porquanto não atendeste à voz do Senhor, eis que te apartas de mim; o leão te ferirá. E partiu-se dele, e o leão o encontrou e o feriu."
   },
   {
     "verse": 37,
     "original": "וַיִּמְצָא֙ אִ֣ישׁ אַחֵ֔ר וַיֹּ֖אמֶר הַכֵּ֣ינִי נָ֑א וַיַּכֵּ֥הוּ הָאִ֖ישׁ הַכֵּ֥ה וּפָצֹֽעַ׃",
+    "transliteration": "vayimetsa' 'iysh 'aher vayo'mer hakheyniy na' vayakhehv ha'iysh hakheh vfatso'a.",
     "translation": "E encontrou outro homem, o qual disse: Deixa-me ir, pois ainda está claro. Mas o homem feriu-o e deslocou-lhe a mandíbula."
   },
   {
     "verse": 38,
     "original": "וַיֵּ֙לֶךְ֙ הַנָּבִ֔יא וַיַּעֲמֹ֥ד לַמֶּ֖לֶךְ עַל־הַדָּ֑רֶךְ וַיִּתְחַפֵּ֥שׂ בָּאֲפֵ֖ר עַל־עֵינָֽיו׃",
+    "transliteration": "vayelekhe hanaviy' vaya'amod lamelekhe 'al-hadarekhe vayitehafes va'afer 'al-'eynayv.",
     "translation": "E o profeta foi e tomou posição diante do rei na estrada, então se cobriu de cinzas sobre os olhos."
   },
   {
     "verse": 39,
     "original": "וַיְהִ֤י הַמֶּ֙לֶךְ֙ עֹבֵ֔ר וְה֖וּא צָעַ֣ק אֶל־הַמֶּ֑לֶךְ וַיֹּ֜אמֶר עַבְדְּךָ֣&thinsp;<b>׀</b> יָצָ֣א בְקֶרֶב־הַמִּלְחָמָ֗ה וְהִנֵּֽה־אִ֨ישׁ סָ֜ר וַיָּבֵ֧א אֵלַ֣י אִ֗ישׁ וַיֹּ֙אמֶר֙ שְׁמֹר֙ אֶת־הָאִ֣ישׁ הַזֶּ֔ה אִם־הִפָּקֵד֙ יִפָּקֵ֔ד וְהָיְתָ֤ה נַפְשְׁךָ֙ תַּ֣חַת נַפְשׁ֔וֹ א֥וֹ כִכַּר־כֶּ֖סֶף תִּשְׁקֽוֹל׃",
+    "transliteration": "vayehiy hamelekhe 'over vehv' tsa'ak 'el-hamelekhe vayo'mer 'avedekha&thinsp;<b>|</b> yatsa' vekerev-hamilehamah vehineh-'iysh sar vayave' 'elay 'iysh vayo'mer shemor 'et-ha'iysh hazeh 'im-hifaked yifaked vehayetah nafeshekha tahat nafeshvo 'vo khikhar-khesef tishekvol.",
     "translation": "E o rei passava, e ele clamou ao rei, dizendo: Teu servo saiu no meio da batalha; e eis que um homem se apartara, e este homem trouxe a mim outro homem, dizendo: Guarda este homem, pois se for encontrado faltoso, morrerás tu em seu lugar, ou pesarás um carate de prata."
   },
   {
     "verse": 40,
     "original": "וַיְהִ֣י עַבְדְּךָ֗ עֹשֵׂ֥ה הֵ֛נָּה וָהֵ֖נָּה וְה֣וּא אֵינֶ֑נּוּ וַיֹּ֨אמֶר אֵלָ֧יו מֶלֶךְ־יִשְׂרָאֵ֛ל כֵּ֥ן מִשְׁפָּטֶ֖ךָ אַתָּ֥ה חָרָֽצְתָּ׃",
+    "transliteration": "vayehiy 'avedekha 'oseh henah vahenah vehv' 'eynenv vayo'mer 'elayv melekhe-yisera'el khen mishefatekha 'atah haratseta.",
     "translation": "Era servo teu este, fazendo ora isto ora aquilo, e não estava ele? E disse-lhe o rei de Israel: Assim seja a tua sentença; tu a quiseste."
   },
   {
     "verse": 41,
     "original": "וַיְמַהֵ֕ר וַיָּ֙סַר֙ אֶת־הָ֣אֲפֵ֔ר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מעל)</span> <span class=\"mam-kq-q\">[מֵעֲלֵ֖י]</span></span> עֵינָ֑יו וַיַּכֵּ֤ר אֹתוֹ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל כִּ֥י מֵהַנְּבִיאִ֖ים הֽוּא׃",
+    "transliteration": "vayemaher vayasar 'et-ha'afer <span class=\"mam-kq\"><span class=\"mam-kq-k\">(m'l)</span> <span class=\"mam-kq-q\">[me'aley]</span></span> 'eynayv vayakher 'otvo melekhe yisera'el khiy mehaneviy'iym hv'.",
     "translation": "E apressou-se e tirou a cinza que estava sobre os seus olhos, e o rei de Israel o reconheceu como sendo um dos profetas."
   },
   {
     "verse": 42,
     "original": "וַיֹּ֣אמֶר אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה יַ֛עַן שִׁלַּ֥חְתָּ אֶת־אִישׁ־חֶרְמִ֖י מִיָּ֑ד וְהָיְתָ֤ה נַפְשְׁךָ֙ תַּ֣חַת נַפְשׁ֔וֹ וְעַמְּךָ֖ תַּ֥חַת עַמּֽוֹ׃",
+    "transliteration": "vayo'mer 'elayv khoh 'amar yehovah ya'an shilaheta 'et-'iysh-heremiy miyad vehayetah nafeshekha tahat nafeshvo ve'amekha tahat 'amvo.",
     "translation": "E disse-lhe: Assim diz o Senhor: Porquanto lançaste ao homem do cercado, tua vida será em troca da sua vida e teu povo pelo seu povo."
   },
   {
     "verse": 43,
     "original": "וַיֵּ֧לֶךְ מֶלֶךְ־יִשְׂרָאֵ֛ל עַל־בֵּית֖וֹ סַ֣ר וְזָעֵ֑ף וַיָּבֹ֖א שֹׁמְרֽוֹנָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayelekhe melekhe-yisera'el 'al-veytvo sar veza'ef vayavo' shomervonah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o rei de Israel foi contra sua casa em fúria e zanga, e veio a Samaria."
   }
 ]

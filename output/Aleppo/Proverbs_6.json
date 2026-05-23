@@ -2,176 +2,211 @@
   {
     "verse": 1,
     "original": "בְּ֭נִי אִם־עָרַ֣בְתָּ לְרֵעֶ֑ךָ תָּקַ֖עְתָּ לַזָּ֣ר כַּפֶּֽיךָ׃",
+    "transliteration": "veniy 'im-'araveta lere'ekha taka'eta lazar khafeykha.",
     "translation": "Filho, se tu tens feito pacto com o teu amigo, as tuas mãos estão ligadas ao estranho."
   },
   {
     "verse": 2,
     "original": "נוֹקַ֥שְׁתָּ בְאִמְרֵי־פִ֑יךָ נִ֝לְכַּ֗דְתָּ בְּאִמְרֵי־פִֽיךָ׃",
+    "transliteration": "nvokasheta ve'imerey-fiykha nilekhadeta ve'imerey-fiykha.",
     "translation": "Aceraste com as palavras da tua boca; prendeu-te com as palavras da tua boca."
   },
   {
     "verse": 3,
     "original": "עֲשֵׂ֨ה זֹ֥את אֵפ֪וֹא&thinsp;<small>׀</small>&thinsp;בְּנִ֡י וְֽהִנָּצֵ֗ל כִּ֘י<span class=\"mam-implicit-maqaf\">־</span>בָ֤אתָ בְכַף־רֵעֶ֑ךָ לֵ֥ךְ הִ֝תְרַפֵּ֗ס וּרְהַ֥ב רֵעֶֽיךָ׃",
+    "transliteration": "'aseh zo't 'efvo'&thinsp;<small>|</small>&thinsp;veniy vehinatsel khiy<span class=\"mam-implicit-maqaf\">-</span>va'ta vekhaf-re'ekha lekhe hiterafes vrehav re'eykha.",
     "translation": "Faze isto, pois, meu filho, e te livrarás; porque viste a nudez de teu amigo. Recupera-te, e tornar-se-á teu amigo dócil."
   },
   {
     "verse": 4,
     "original": "אַל־תִּתֵּ֣ן שֵׁנָ֣ה לְעֵינֶ֑יךָ וּ֝תְנוּמָ֗ה לְעַפְעַפֶּֽיךָ׃",
+    "transliteration": "'al-titen shenah le'eyneykha vtenvmah le'afe'afeykha.",
     "translation": "Não dês descanso aos teus olhos, nem repouso às suas pálpebras."
   },
   {
     "verse": 5,
     "original": "הִ֭נָּצֵל כִּצְבִ֣י מִיָּ֑ד וּ֝כְצִפּ֗וֹר מִיַּ֥ד יָקֽוּשׁ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hinatsel khitseviy miyad vkhetsifvor miyad yakvsh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eis-se-lhe livrado como o cervo da mão, e como a pomba da rede do arqueiro."
   },
   {
     "verse": 6,
     "original": "לֵֽךְ־אֶל־נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם׃",
+    "transliteration": "lekhe-'el-nemalah 'atsel re'eh derakheyha vahakham.",
     "translation": "Vai à formiga, ó preguiçoso; observa as suas vias e sê-sábio."
   },
   {
     "verse": 7,
     "original": "אֲשֶׁ֖ר אֵֽין־לָ֥הּ קָצִ֗ין שֹׁטֵ֥ר וּמֹשֵֽׁל׃",
+    "transliteration": "'asher 'eyn-lah katsiyn shoter vmoshel.",
     "translation": "que não tem governante, juiz e controlador."
   },
   {
     "verse": 8,
     "original": "תָּכִ֣ין בַּקַּ֣יִץ לַחְמָ֑הּ אָגְרָ֥ה בַ֝קָּצִ֗יר מַאֲכָלָֽהּ׃",
+    "transliteration": "takhiyn vakayits lahemah 'agerah vakatsiyr ma'akhalah.",
     "translation": "Prepara no verão o pão seu, ajunta na sega o mantimento dela."
   },
   {
     "verse": 9,
     "original": "עַד־מָתַ֖י עָצֵ֥ל&thinsp;<small>׀</small>&thinsp;תִּשְׁכָּ֑ב מָ֝תַ֗י תָּק֥וּם מִשְּׁנָתֶֽךָ׃",
+    "transliteration": "'ad-matay 'atsel&thinsp;<small>|</small>&thinsp;tishekhav matay takvm mishenatekha.",
     "translation": "Até quando, ó preguiçoso, te deitarás? Quando te levantarás da tua cama?"
   },
   {
     "verse": 10,
     "original": "מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט&thinsp;<b>׀</b> חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃",
+    "transliteration": "me'at shenvot me'at tenvmvot me'at&thinsp;<b>|</b> hivuk yadayim lishekhav.",
     "translation": "Poucas são as noites de sono, poucas as ocasiões de repouso; raro é o abraçar-se das mãos para descansar."
   },
   {
     "verse": 11,
     "original": "וּבָֽא־כִמְהַלֵּ֥ךְ רֵאשֶׁ֑ךָ וּ֝מַחְסֹרְךָ֗ כְּאִ֣ישׁ מָגֵֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vva'-khimehalekhe re'shekha vmahesorekha khe'iysh magen.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E virá como um valente no teu rebanho, e tua pobreza como a de quem usa escudo."
   },
   {
     "verse": 12,
     "original": "אָדָ֣ם בְּ֭לִיַּעַל אִ֣ישׁ אָ֑וֶן ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת פֶּֽה׃",
+    "transliteration": "'adam veliya'al 'iysh 'aven hvolekhe 'ikeshvt feh.",
     "translation": "Homem de maldade, homem de iniquidade, que segue a perversão da boca."
   },
   {
     "verse": 13,
     "original": "קֹרֵ֣ץ <span class=\"mam-kq-trivial\">בְּ֭עֵינָו</span> מֹלֵ֣ל <span class=\"mam-kq-trivial\">בְּרַגְלָ֑ו</span> מֹ֝רֶ֗ה בְּאֶצְבְּעֹתָֽיו׃",
+    "transliteration": "korets <span class=\"mam-kq-trivial\">ve'eynav</span> molel <span class=\"mam-kq-trivial\">veragelav</span> moreh ve'etseve'otayv.",
     "translation": "Cortando com os olhos, caluniando com os pés, conspirando com os dedos."
   },
   {
     "verse": 14,
     "original": "תַּ֥הְפֻּכ֨וֹת&thinsp;<b>׀</b> בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכׇל־עֵ֑ת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מדנים)</span> <span class=\"mam-kq-q\">[מִדְיָנִ֥ים]</span></span> יְשַׁלֵּֽחַ׃",
+    "transliteration": "tahefukhvot&thinsp;<b>|</b> velivvo horesh ra' vekhol-'et <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mdnym)</span> <span class=\"mam-kq-q\">[mideyaniym]</span></span> yeshaleha.",
     "translation": "Inversões em seu coração, urdindo malícia a todo tempo, enviará midianitas."
   },
   {
     "verse": 15,
     "original": "עַל־כֵּ֗ן פִּ֭תְאֹם יָב֣וֹא אֵיד֑וֹ פֶּ֥תַע יִ֝שָּׁבֵ֗ר וְאֵ֣ין מַרְפֵּֽא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al-khen fite'om yavvo' 'eydvo feta' yishaver ve'eyn marefe'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Portanto, a desgraça virá sobre ele de repente, e instantaneamente será quebrado, sem remédio."
   },
   {
     "verse": 16,
     "original": "שֶׁשׁ־הֵ֭נָּה שָׂנֵ֣א יְהֹוָ֑ה וְ֝שֶׁ֗בַע <span class=\"mam-kq\"><span class=\"mam-kq-k\">(תועבות)</span> <span class=\"mam-kq-q\">[תּוֹעֲבַ֥ת]</span></span> נַפְשֽׁוֹ׃",
+    "transliteration": "shesh-henah sane' yehovah vesheva' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tv'vvt)</span> <span class=\"mam-kq-q\">[tvo'avat]</span></span> nafeshvo.",
     "translation": "Seisisas odeia Yahweh e sete abominações seu espírito."
   },
   {
     "verse": 17,
     "original": "עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם־נָקִֽי׃",
+    "transliteration": "'eynayim ramvot leshvon shaker veyadayim shofekhvot dam-nakiy.",
     "translation": "Olhos altivos, língua de mentira, e mãos derramadoras de sangue inocente."
   },
   {
     "verse": 18,
     "original": "לֵ֗ב חֹ֭רֵשׁ מַחְשְׁב֣וֹת אָ֑וֶן רַגְלַ֥יִם מְ֝מַהֲר֗וֹת לָר֥וּץ לָרָעָֽה׃",
+    "transliteration": "lev horesh maheshevvot 'aven ragelayim memaharvot larvts lara'ah.",
     "translation": "Coração que concebe pensamentos de maldade, pés que se apressam a correr para o mal."
   },
   {
     "verse": 19,
     "original": "יָפִ֣יחַ כְּ֭זָבִים עֵ֣ד שָׁ֑קֶר וּמְשַׁלֵּ֥חַ מְ֝דָנִ֗ים בֵּ֣ין אַחִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yafiyha khezaviym 'ed shaker vmeshaleha medaniym veyn 'ahiym.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Exala mentiras um testemunho falso, e espalha contendas entre irmãos."
   },
   {
     "verse": 20,
     "original": "נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל־תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃",
+    "transliteration": "netsor veniy mitsevat 'aviykha ve'al-titosh tvorat 'imekha.",
     "translation": "Guarda, filho, o mandamento de teu pai e não abandones a lei de tua mãe."
   },
   {
     "verse": 21,
     "original": "קׇשְׁרֵ֣ם עַל־לִבְּךָ֣ תָמִ֑יד עׇ֝נְדֵ֗ם עַל־גַּרְגְּרֹתֶֽךָ׃",
+    "transliteration": "kosherem 'al-livekha tamiyd 'onedem 'al-garegerotekha.",
     "translation": "Ligá-los sobre teu coração; atá-los como uma marca ao redor de teus pescoço."
   },
   {
     "verse": 22,
     "original": "בְּהִתְהַלֶּכְךָ֨&thinsp;<b>׀</b> תַּנְחֶ֬ה אֹתָ֗ךְ בְּֽ֭שׇׁכְבְּךָ תִּשְׁמֹ֣ר עָלֶ֑יךָ וַ֝הֲקִיצ֗וֹתָ הִ֣יא תְשִׂיחֶֽךָ׃",
+    "transliteration": "vehitehalekhekha&thinsp;<b>|</b> taneheh 'otakhe veshokhevekha tishemor 'aleykha vahakiytsvota hiy' tesiyhekha.",
     "translation": "Ao andares, ela te guiará; ao deitares, ela te guardará; ao despertares, ela te falará."
   },
   {
     "verse": 23,
     "original": "כִּ֤י נֵ֣ר מִ֭צְוָה וְת֣וֹרָה א֑וֹר וְדֶ֥רֶךְ חַ֝יִּ֗ים תּוֹכְח֥וֹת מוּסָֽר׃",
+    "transliteration": "khiy ner mitsevah vetvorah 'vor vederekhe hayiym tvokhehvot mvsar.",
     "translation": "Porque o mandamento é uma lanterna e a Torá, luz; as repreensões da disciplina conduzem ao caminho da vida."
   },
   {
     "verse": 24,
     "original": "לִ֭שְׁמׇרְךָ מֵאֵ֣שֶׁת רָ֑ע מֵ֝חֶלְקַ֗ת לָשׁ֥וֹן נׇכְרִיָּֽה׃",
+    "transliteration": "lishemorekha me'eshet ra' mehelekat lashvon nokheriyah.",
     "translation": "Para te guardar da mulher má, da porção da língua estranha."
   },
   {
     "verse": 25,
     "original": "אַל־תַּחְמֹ֣ד יׇ֭פְיָהּ בִּלְבָבֶ֑ךָ וְאַל־תִּ֝קָּחֲךָ֗ בְּעַפְעַפֶּֽיהָ׃",
+    "transliteration": "'al-tahemod yofeyah vilevavekha ve'al-tikahakha ve'afe'afeyha.",
     "translation": "Não desejes a sua beleza em teu coração, nem te deixes encantar por seus olhares."
   },
   {
     "verse": 26,
     "original": "כִּ֤י בְעַד־אִשָּׁ֥ה זוֹנָ֗ה עַֽד־כִּכַּ֫ר<span class=\"mam-implicit-maqaf\">־</span>לָ֥חֶם וְאֵ֥שֶׁת אִ֑ישׁ נֶ֖פֶשׁ יְקָרָ֣ה תָצֽוּד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy ve'ad-'ishah zvonah 'ad-khikhar<span class=\"mam-implicit-maqaf\">-</span>lahem ve'eshet 'iysh nefesh yekarah tatsvd.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois por causa de uma mulher meretriz, até um pedaço de pão, e a esposa de outro homem, uma alma preciosa ele busca."
   },
   {
     "verse": 27,
     "original": "הֲיַחְתֶּ֤ה אִ֓ישׁ אֵ֬שׁ בְּחֵיק֑וֹ וּ֝בְגָדָ֗יו לֹ֣א תִשָּׂרַֽפְנָה׃",
+    "transliteration": "hayaheteh 'iysh 'esh veheykvo vvegadayv lo' tisarafenah.",
     "translation": "Acaso alguém acende fogo em seu seio, e suas vestes não são queimadas?"
   },
   {
     "verse": 28,
     "original": "אִם־יְהַלֵּ֣ךְ אִ֭ישׁ עַל־הַגֶּחָלִ֑ים וְ֝רַגְלָ֗יו לֹ֣א תִכָּוֶֽינָה׃",
+    "transliteration": "'im-yehalekhe 'iysh 'al-hagehaliym veragelayv lo' tikhaveynah.",
     "translation": "Se um homem andar sobre brasas ardentes, suas plantas dos pés não serão consumidas."
   },
   {
     "verse": 29,
     "original": "כֵּ֗ן הַ֭בָּא אֶל־אֵ֣שֶׁת רֵעֵ֑הוּ לֹ֥א יִ֝נָּקֶ֗ה כׇּֽל־הַנֹּגֵ֥עַ בָּֽהּ׃",
+    "transliteration": "khen hava' 'el-'eshet re'ehv lo' yinakeh khol-hanoge'a vah.",
     "translation": "Assim, aquele que chega à mulher do seu próximo não será absolvido; todoaquele que nela tocar."
   },
   {
     "verse": 30,
     "original": "לֹא־יָב֣וּזוּ לַ֭גַּנָּב כִּ֣י יִגְנ֑וֹב לְמַלֵּ֥א נַ֝פְשׁ֗וֹ כִּ֣י יִרְעָֽב׃",
+    "transliteration": "lo'-yavvzv laganav khiy yigenvov lemale' nafeshvo khiy yire'av.",
     "translation": "Não zombem do ladrão porque ele rouba; para encher sua alma, pois tem fome."
   },
   {
     "verse": 31,
     "original": "וְ֭נִמְצָא יְשַׁלֵּ֣ם שִׁבְעָתָ֑יִם אֶת־כׇּל־ה֖וֹן בֵּית֣וֹ יִתֵּֽן׃",
+    "transliteration": "venimetsa' yeshalem shive'atayim 'et-khol-hvon veytvo yiten.",
     "translation": "E seja encontrado, pagará sete vezes, entregando todo o patrimônio de sua casa."
   },
   {
     "verse": 32,
     "original": "נֹאֵ֣ף אִשָּׁ֣ה חֲסַר־לֵ֑ב מַֽשְׁחִ֥ית נַ֝פְשׁ֗וֹ ה֣וּא יַעֲשֶֽׂנָּה׃",
+    "transliteration": "no'ef 'ishah hasar-lev mashehiyt nafeshvo hv' ya'asenah.",
     "translation": "Aquele que adultera com uma mulher é de espírito insensato; ele arruína sua própria alma, nisso ele se entrega."
   },
   {
     "verse": 33,
     "original": "נֶגַע־וְקָל֥וֹן יִמְצָ֑א וְ֝חֶרְפָּת֗וֹ לֹ֣א תִמָּחֶֽה׃",
+    "transliteration": "nega'-vekalvon yimetsa' veherefatvo lo' timaheh.",
     "translation": "Achatará a peste e a vergonha, e seu opróbio não será apagado."
   },
   {
     "verse": 34,
     "original": "כִּֽי־קִנְאָ֥ה חֲמַת־גָּ֑בֶר וְלֹא־יַ֝חְמ֗וֹל בְּי֣וֹם נָקָֽם׃",
+    "transliteration": "khiy-kine'ah hamat-gaver velo'-yahemvol veyvom nakam.",
     "translation": "Pois o ciúme de um homem é feroz, e ele não se compadecerá no dia da vingança."
   },
   {
     "verse": 35,
     "original": "לֹֽא־יִ֭שָּׂא פְּנֵ֣י כׇל־כֹּ֑פֶר וְלֹא־יֹ֝אבֶ֗ה כִּ֣י תַרְבֶּה־שֹּֽׁחַד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lo'-yisa' feney khol-khofer velo'-yo'veh khiy tareveh-shohad.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Não levantará o rosto para qualquer que ofereça presente, e não se compraz porque aumenta o suborno."
   }
 ]

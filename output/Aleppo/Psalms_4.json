@@ -2,46 +2,55 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֥חַ בִּנְגִינ֗וֹת מִזְמ֥וֹר לְדָוִֽד׃",
+    "transliteration": "lamenatseha vinegiynvot mizemvor ledavid.",
     "translation": "Ao encantador com instrumentos musicais, salmo de Davi."
   },
   {
     "verse": 2,
     "original": "בְּקׇרְאִ֡י עֲנֵ֤נִי&thinsp;<b>׀</b> אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חׇ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי׃",
+    "transliteration": "vekore'iy 'aneniy&thinsp;<b>|</b> 'elohey tsidekiy vatsar hirehaveta liy honeniy vshema' tefilatiy.",
     "translation": "Ó meu Deus, a quem invoquei, responde-me; Deus da minha justiça, no angustiar-te ampliaste para mim. Tende piedade de mim e ouvi a minha oração."
   },
   {
     "verse": 3,
     "original": "בְּנֵ֥י אִ֡ישׁ עַד־מֶ֬ה כְבוֹדִ֣י לִ֭כְלִמָּה תֶּאֱהָב֣וּן רִ֑יק תְּבַקְשׁ֖וּ כָזָ֣ב סֶֽלָה׃",
+    "transliteration": "veney 'iysh 'ad-meh khevvodiy likhelimah te'ehavvn riyk tevakeshv khazav selah.",
     "translation": "Filhos do homem, até quando o meu Glory será por escárnio? Amareis vaidade e busca fareis mentira selá.\n\nNota: O termo \"Glory\" foi mantido em inglês pois a tradução direta para glória em português não captura toda a profundidade teológica do original hebraico \"כְבוֹדִי\". Entretanto, se preferir uma versão mais fluida em português, a sugestão seria:\n\nFilhos do homem, até quando o meu louvor será por escárnio? Amareis vaidade e busca fareis mentira selá."
   },
   {
     "verse": 4,
     "original": "וּדְע֗וּ כִּֽי־הִפְלָ֣ה יְ֭הֹוָה חָסִ֣יד ל֑וֹ יְהֹוָ֥ה יִ֝שְׁמַ֗ע בְּקׇרְאִ֥י אֵלָֽיו׃",
+    "transliteration": "vde'v khiy-hifelah yehovah hasiyd lvo yehovah yishema' vekore'iy 'elayv.",
     "translation": "E conhecei que o Senhor separa seu piedoso; o Senhor ouve quando a ele clamamos."
   },
   {
     "verse": 5,
     "original": "רִגְז֗וּ וְֽאַל־תֶּ֫חֱטָ֥אוּ אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ סֶֽלָה׃",
+    "transliteration": "rigezv ve'al-teheta'v 'imerv vilevavekhem 'al-mishekhavekhem vedomv selah.",
     "translation": "Irritai-vos e não pequeis; ponderai em vossos corações sobre os vossos leitos, e calareis-vos, selá."
   },
   {
     "verse": 6,
     "original": "זִבְח֥וּ זִבְחֵי־צֶ֑דֶק וּ֝בִטְח֗וּ אֶל־יְהֹוָֽה׃",
+    "transliteration": "zivehv zivehey-tsedek vvitehv 'el-yehovah.",
     "translation": "Sacrificai sacrifícios de justiça e confiai no Senhor."
   },
   {
     "verse": 7,
     "original": "רַבִּ֥ים אֹמְרִים֮ מִֽי־יַרְאֵ֢נ֫וּ ט֥וֹב נְֽסָה־עָ֭לֵינוּ א֨וֹר פָּנֶ֬יךָ יְהֹוָֽה׃",
+    "transliteration": "raviym 'omeriym miy-yare'env tvov nesah-'aleynv 'vor faneykha yehovah.",
     "translation": "Muitos dizem: quem nos mostrará o bem? Que sobre nós resplandeça a luz de tua face, Senhor."
   },
   {
     "verse": 8,
     "original": "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִירוֹשָׁ֣ם רָֽבּוּ׃",
+    "transliteration": "natatah simehah veliviy me'et deganam vetiyrvosham ravv.",
     "translation": "Dás alegria ao meu coração, desde o tempo em que abunda seu trigo e vinho."
   },
   {
     "verse": 9,
     "original": "בְּשָׁל֣וֹם יַחְדָּו֮ אֶשְׁכְּבָ֢ה וְאִ֫ישָׁ֥ן כִּֽי־אַתָּ֣ה יְהֹוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תּוֹשִׁיבֵֽנִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veshalvom yahedav 'eshekhevah ve'iyshan khiy-'atah yehovah levadad lavetah tvoshiyveniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Em paz juntos me deitarei e adormecerei, pois Tu, Senhor, em segurança só me farás habitar."
   }
 ]

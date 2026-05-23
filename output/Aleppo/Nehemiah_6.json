@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "וַיְהִ֣י כַאֲשֶׁ֣ר נִשְׁמַ֣ע לְסַנְבַלַּ֣ט וְ֠טוֹבִיָּ֠ה וּלְגֶ֨שֶׁם הָֽעַרְבִ֜י וּלְיֶ֣תֶר אֹֽיְבֵ֗ינוּ כִּ֤י בָנִ֙יתִי֙ אֶת־הַ֣חוֹמָ֔ה וְלֹא־נ֥וֹתַר בָּ֖הּ פָּ֑רֶץ גַּ֚ם עַד־הָעֵ֣ת הַהִ֔יא דְּלָת֖וֹת לֹא־הֶעֱמַ֥דְתִּי בַשְּׁעָרִֽים׃",
+    "transliteration": "vayehiy kha'asher nishema' lesanevalat vetvoviyah vlegeshem ha'areviy vleyeter 'oyeveynv khiy vaniytiy 'et-hahvomah velo'-nvotar vah farets gam 'ad-ha'et hahiy' delatvot lo'-he'emadetiy vashe'ariym.",
     "translation": "E sucedeu que quando Sanbalá, Tobias e Gesem o árabe, com todos os nossos inimigos, ouviram que eu tinha construído a muralha e não havia mais brechas nela; ainda então, até aquela hora, não tinha posto as portas nas porteiras."
   },
   {
     "verse": 2,
     "original": "וַיִּשְׁלַ֨ח סַנְבַלַּ֤ט וְגֶ֙שֶׁם֙ אֵלַ֣י לֵאמֹ֔ר לְכָ֞ה וְנִֽוָּעֲדָ֥ה יַחְדָּ֛ו בַּכְּפִירִ֖ים בְּבִקְעַ֣ת אוֹנ֑וֹ וְהֵ֙מָּה֙ חֹֽשְׁבִ֔ים לַעֲשׂ֥וֹת לִ֖י רָעָֽה׃",
+    "transliteration": "vayishelah sanevalat vegeshem 'elay le'mor lekhah veniva'adah yahedav vakhefiyriym vevike'at 'vonvo vehemah hosheviym la'asvot liy ra'ah.",
     "translation": "E Sansilat e Geshem me enviaram dizendo: Vem, vamos nos encontrar juntos em Kefirim, no vale de Ono. E eles tramavam fazer-me mal."
   },
   {
     "verse": 3,
     "original": "וָאֶשְׁלְחָ֨ה עֲלֵיהֶ֤ם מַלְאָכִים֙ לֵאמֹ֔ר מְלָאכָ֤ה גְדוֹלָה֙ אֲנִ֣י עֹשֶׂ֔ה וְלֹ֥א אוּכַ֖ל לָרֶ֑דֶת לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙ כַּאֲשֶׁ֣ר אַרְפֶּ֔הָ וְיָרַדְתִּ֖י אֲלֵיכֶֽם׃",
+    "transliteration": "va'eshelehah 'aleyhem male'akhiym le'mor mela'khah gedvolah 'aniy 'oseh velo' 'vkhal laredet lamah tishevat hamela'khah kha'asher 'arefeha veyaradetiy 'aleykhem.",
     "translation": "Eis que enviei sobre eles anjos dizendo: Uma grande obra estou fazendo e não posso descer. Por que deveria interromper a obra como se eu a estivesse atando, e descer até vós?"
   },
   {
     "verse": 4,
     "original": "וַיִּשְׁלְח֥וּ אֵלַ֛י כַּדָּבָ֥ר הַזֶּ֖ה אַרְבַּ֣ע פְּעָמִ֑ים וָאָשִׁ֥יב אוֹתָ֖ם כַּדָּבָ֥ר הַזֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayishelehv 'elay khadavar hazeh 'areva' fe'amiym va'ashiyv 'votam khadavar hazeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E me enviaram com esta mensagem quatro vezes, e eu os reenviei com estas mesmas palavras."
   },
   {
     "verse": 5,
     "original": "וַיִּשְׁלַח֩ אֵלַ֨י סַנְבַלַּ֜ט כַּדָּבָ֥ר הַזֶּ֛ה פַּ֥עַם חֲמִישִׁ֖ית אֶֽת־נַעֲר֑וֹ וְאִגֶּ֥רֶת פְּתוּחָ֖ה בְּיָדֽוֹ׃",
+    "transliteration": "vayishelah 'elay sanevalat khadavar hazeh fa'am hamiyshiyt 'et-na'arvo ve'igeret fetvhah veyadvo.",
     "translation": "E Sanbalat me enviou com estas palavras pela quinta vez o seu jovem, e uma carta aberta na sua mão."
   },
   {
     "verse": 6,
     "original": "כָּת֣וּב בָּ֗הּ בַּגּוֹיִ֤ם נִשְׁמָע֙ וְגַשְׁמ֣וּ אֹמֵ֔ר אַתָּ֤ה וְהַיְּהוּדִים֙ חֹשְׁבִ֣ים לִמְר֔וֹד עַל־כֵּ֛ן אַתָּ֥ה בוֹנֶ֖ה הַחוֹמָ֑ה וְאַתָּ֗ה הֹוֶ֤ה לָהֶם֙ לְמֶ֔לֶךְ כַּדְּבָרִ֖ים הָאֵֽלֶּה׃",
+    "transliteration": "khatvv vah vagvoyim nishema' vegashemv 'omer 'atah vehayehvdiym hosheviym limervod 'al-khen 'atah vvoneh hahvomah ve'atah hoveh lahem lemelekhe khadevariym ha'eleh.",
     "translation": "Está escrito nele: entre os povos foi ouvido, e Geshem o árabe diz: Tu e os judeus planejais a rebelião; por isso tu edificas a muralha, e tu pretendes ser rei para eles, conforme essas palavras."
   },
   {
     "verse": 7,
     "original": "וְגַם־נְבִיאִ֡ים הֶעֱמַ֣דְתָּ לִקְרֹא֩ עָלֶ֨יךָ בִֽירוּשָׁלַ֜͏ִם לֵאמֹ֗ר מֶ֚לֶךְ בִּֽיהוּדָ֔ה וְעַתָּה֙ יִשָּׁמַ֣ע לַמֶּ֔לֶךְ כַּדְּבָרִ֖ים הָאֵ֑לֶּה וְעַתָּ֣ה לְכָ֔ה וְנִֽוָּעֲצָ֖ה יַחְדָּֽו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vegam-neviy'iym he'emadeta likero' 'aleykha viyrvshalaim le'mor melekhe viyhvdah ve'atah yishama' lamelekhe khadevariym ha'eleh ve'atah lekhah veniva'atsah yahedav.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E também profetas estabelecera para proclamar contra ti em Jerusalém, dizendo: \"Rei de Judá\", e agora o rei ouvirá estas palavras; e agora vai, e tomemos conselho juntos."
   },
   {
     "verse": 8,
     "original": "וָאֶשְׁלְחָ֤ה אֵלָיו֙ לֵאמֹ֔ר לֹ֤א נִֽהְיָה֙ כַּדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֖ר אַתָּ֣ה אוֹמֵ֑ר כִּ֥י מִֽלִּבְּךָ֖ אַתָּ֥ה בוֹדָֽאם׃",
+    "transliteration": "va'eshelehah 'elayv le'mor lo' niheyah khadevariym ha'eleh 'asher 'atah 'vomer khiy milivekha 'atah vvoda'm.",
     "translation": "E eu lhe enviei dizendo: Não acontecerá como estas palavras que tu dizes, pois de teu coração tu as inventas."
   },
   {
     "verse": 9,
     "original": "כִּ֣י כֻלָּ֗ם מְיָֽרְאִ֤ים אוֹתָ֙נוּ֙ לֵאמֹ֔ר יִרְפּ֧וּ יְדֵיהֶ֛ם מִן־הַמְּלָאכָ֖ה וְלֹ֣א תֵעָשֶׂ֑ה וְעַתָּ֖ה חַזֵּ֥ק אֶת־יָדָֽי׃",
+    "transliteration": "khiy khulam meyare'iym 'votanv le'mor yirefv yedeyhem min-hamela'khah velo' te'aseh ve'atah hazek 'et-yaday.",
     "translation": "Pois todos nos temem, dizendo: Suas mãos se enfraquecerão para a obra e não será concluída; agora, fortalece as tuas mãos."
   },
   {
     "verse": 10,
     "original": "וַאֲנִי־בָ֗אתִי בֵּ֣ית שְֽׁמַֽעְיָ֧ה בֶן־דְּלָיָ֛ה בֶּן־מְהֵֽיטַבְאֵ֖ל וְה֣וּא עָצ֑וּר וַיֹּ֡אמֶר נִוָּעֵד֩ אֶל־בֵּ֨ית הָאֱלֹהִ֜ים אֶל־תּ֣וֹךְ הַֽהֵיכָ֗ל וְנִסְגְּרָה֙ דַּלְת֣וֹת הַהֵיכָ֔ל כִּ֚י בָּאִ֣ים לְהׇרְגֶ֔ךָ וְלַ֖יְלָה בָּאִ֥ים לְהׇרְגֶֽךָ׃",
+    "transliteration": "va'aniy-va'tiy veyt shema'eyah ven-delayah ven-meheytave'el vehv' 'atsvr vayo'mer niva'ed 'el-veyt ha'elohiym 'el-tvokhe haheykhal venisegerah daletvot haheykhal khiy va'iym lehoregekha velayelah va'iym lehoregekha.",
     "translation": "E eu vim à casa de Semaiá, filho de Delaías, filho de Maitabel, e ele estava confinado; e ele disse: \"Vamos esconder-nos na casa do Deus, para o interior do santuário, e fechar-se-ão as portas do santuário, pois vieram para te matar, e à noite vieram para te matar.\""
   },
   {
     "verse": 11,
     "original": "וָאֹמְרָ֗ה הַאִ֤ישׁ כָּמ֙וֹנִי֙ יִבְרָ֔ח וּמִ֥י כָמ֛וֹנִי אֲשֶׁר־יָבֹ֥א אֶל־הַהֵיכָ֖ל וָחָ֑י לֹ֖א אָבֽוֹא׃",
+    "transliteration": "va'omerah ha'iysh khamvoniy yiverah vmiy khamvoniy 'asher-yavo' 'el-haheykhal vahay lo' 'avvo'.",
     "translation": "E eu disse: Poderá escapar o homem como eu? E quem como eu poderia entrar no santuário e viver? Não entrarei!"
   },
   {
     "verse": 12,
     "original": "וָאַכִּ֕ירָה וְהִנֵּ֥ה לֹֽא־אֱלֹהִ֖ים שְׁלָח֑וֹ כִּ֤י הַנְּבוּאָה֙ דִּבֶּ֣ר עָלַ֔י וְטוֹבִיָּ֥ה וְסַנְבַלַּ֖ט שְׂכָרֽוֹ׃",
+    "transliteration": "va'akhiyrah vehineh lo'-'elohiym shelahvo khiy hanevv'ah diver 'alay vetvoviyah vesanevalat sekharvo.",
     "translation": "E reconheci, e eis que não foi Deus quem o enviou; pois ele profetizava a meu respeito por dinheiro, e Tobias e Sansbé prepararam-lhe o salário."
   },
   {
     "verse": 13,
     "original": "לְמַ֤עַן שָׂכוּר֙ ה֔וּא לְמַֽעַן־אִירָ֥א וְאֶֽעֱשֶׂה־כֵּ֖ן וְחָטָ֑אתִי וְהָיָ֤ה לָהֶם֙ לְשֵׁ֣ם רָ֔ע לְמַ֖עַן יְחָֽרְפֽוּנִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lema'an sakhvr hv' lema'an-'iyra' ve'e'eseh-khen vehata'tiy vehayah lahem leshem ra' lema'an yeharefvniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Para ser recompensado, para que eu tema e assim peque; e isso se tornará um mau nome para eles, para que me amaldiçoem."
   },
   {
     "verse": 14,
     "original": "זׇכְרָ֧ה אֱלֹהַ֛י לְטוֹבִיָּ֥ה וּלְסַנְבַלַּ֖ט כְּמַעֲשָׂ֣יו אֵ֑לֶּה וְגַ֨ם לְנוֹעַדְיָ֤ה הַנְּבִיאָה֙ וּלְיֶ֣תֶר הַנְּבִיאִ֔ים אֲשֶׁ֥ר הָי֖וּ מְיָֽרְאִ֥ים אוֹתִֽי׃",
+    "transliteration": "zokherah 'elohay letvoviyah vlesanevalat khema'asayv 'eleh vegam lenvo'adeyah haneviy'ah vleyeter haneviy'iym 'asher hayv meyare'iym 'votiy.",
     "translation": "Lembra-te, ó meu Deus, de Tobia e de Sansãlato conforme fizeram isto, e também de Noadías a profetisa e dos demais profetas que me causaram temor."
   },
   {
     "verse": 15,
     "original": "וַתִּשְׁלַם֙ הַֽחוֹמָ֔ה בְּעֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה לֶאֱל֑וּל לַחֲמִשִּׁ֥ים וּשְׁנַ֖יִם יֽוֹם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vatishelam hahvomah ve'eseriym vahamishah le'elvl lahamishiym vshenayim yvom.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E a muralha foi concluída no dia vinte e cinco de Elul, em cinquenta e dois dias."
   },
   {
     "verse": 16,
     "original": "וַיְהִ֗י כַּאֲשֶׁ֤ר שָֽׁמְעוּ֙ כׇּל־א֣וֹיְבֵ֔ינוּ וַיִּֽרְא֗וּ כׇּל־הַגּוֹיִם֙ אֲשֶׁ֣ר סְבִֽיבֹתֵ֔ינוּ וַיִּפְּל֥וּ מְאֹ֖ד בְּעֵינֵיהֶ֑ם וַיֵּ֣דְע֔וּ כִּ֚י מֵאֵ֣ת אֱלֹהֵ֔ינוּ נֶעֶשְׂתָ֖ה הַמְּלָאכָ֥ה הַזֹּֽאת׃",
+    "transliteration": "vayehiy kha'asher shame'v khol-'voyeveynv vayire'v khol-hagvoyim 'asher seviyvoteynv vayifelv me'od ve'eyneyhem vayede'v khiy me'et 'eloheynv ne'esetah hamela'khah hazo't.",
     "translation": "E aconteceu que, quando todos os nossos inimigos ouviram e todas as nações ao nosso redor viram, caíram em grande desânimo diante de seus olhos; e reconheceram que esta obra foi realizada pelo nosso Deus."
   },
   {
     "verse": 17,
     "original": "גַּ֣ם&thinsp;<b>׀</b> בַּיָּמִ֣ים הָהֵ֗ם מַרְבִּ֞ים חֹרֵ֤י יְהוּדָה֙ אִגְּרֹ֣תֵיהֶ֔ם הוֹלְכ֖וֹת עַל־טוֹבִיָּ֑ה וַאֲשֶׁ֥ר לְטוֹבִיָּ֖ה בָּא֥וֹת אֲלֵיהֶֽם׃",
+    "transliteration": "gam&thinsp;<b>|</b> vayamiym hahem mareviym horey yehvdah 'igeroteyhem hvolekhvot 'al-tvoviyah va'asher letvoviyah va'vot 'aleyhem.",
     "translation": "Também naqueles dias, muitos escribas de Judá redigiam cartas que iam a Tobiá, e as notícias de Tobiá chegavam até eles."
   },
   {
     "verse": 18,
     "original": "כִּי־רַבִּ֣ים בִּֽיהוּדָ֗ה בַּעֲלֵ֤י שְׁבוּעָה֙ ל֔וֹ כִּי־חָתָ֥ן ה֖וּא לִשְׁכַנְיָ֣ה בֶן־אָרַ֑ח וִֽיהוֹחָנָ֣ן בְּנ֔וֹ לָקַ֕ח אֶת־בַּת־מְשֻׁלָּ֖ם בֶּ֥ן בֶּֽרֶכְיָֽה׃",
+    "transliteration": "khiy-raviym viyhvdah va'aley shevv'ah lvo khiy-hatan hv' lishekhaneyah ven-'arah viyhvohanan venvo lakah 'et-vat-meshulam ven verekheyah.",
     "translation": "Pois muitos em Judá são fiéis a ele, pois é genro de Shacanias, filho de Arac; e Joaquim, seu filho, tomou por esposa a filha de Mesulão, filho de Berquías."
   },
   {
     "verse": 19,
     "original": "גַּ֣ם טוֹבֹתָ֗יו הָי֤וּ אֹמְרִים֙ לְפָנַ֔י וּדְבָרַ֕י הָי֥וּ מוֹצִיאִ֖ים ל֑וֹ אִגְּר֛וֹת שָׁלַ֥ח טוֹבִיָּ֖ה לְיָֽרְאֵֽנִי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "gam tvovotayv hayv 'omeriym lefanay vdevaray hayv mvotsiy'iym lvo 'igervot shalah tvoviyah leyare'eniy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Também suas boas ações falavam diante de mim, e meus próprios discursos os elevavam; cartas enviou Tobias para me assustar."
   }
 ]

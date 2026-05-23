@@ -2,86 +2,103 @@
   {
     "verse": 1,
     "original": "פְּתַ֥ח לְבָנ֖וֹן דְּלָתֶ֑יךָ וְתֹאכַ֥ל אֵ֖שׁ בַּאֲרָזֶֽיךָ׃",
+    "transliteration": "fetah levanvon delateykha veto'khal 'esh va'arazeykha.",
     "translation": "Abre as portas de Líbano, e o fogo consumirá os teus cedros."
   },
   {
     "verse": 2,
     "original": "הֵילֵ֤ל בְּרוֹשׁ֙ כִּֽי־נָ֣פַל אֶ֔רֶז אֲשֶׁ֥ר אַדִּרִ֖ים שֻׁדָּ֑דוּ הֵילִ֙ילוּ֙ אַלּוֹנֵ֣י בָשָׁ֔ן כִּ֥י יָרַ֖ד יַ֥עַר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הבצור)</span> <span class=\"mam-kq-q\">[הַבָּצִֽיר]</span></span>׃",
+    "transliteration": "heylel vervosh khiy-nafal 'erez 'asher 'adiriym shudadv heyliylv 'alvoney vashan khiy yarad ya'ar <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hvtsvr)</span> <span class=\"mam-kq-q\">[havatsiyr]</span></span>.",
     "translation": "Heilal, oh cedro do Líbano! Pois tu caíste; os cedros foram despedaçados. Alegrai-vos, vós pinheiros de Basã, pois foi derrubado o bosque do esplendor."
   },
   {
     "verse": 3,
     "original": "ק֚וֹל יִֽלְלַ֣ת הָרֹעִ֔ים כִּ֥י שֻׁדְּדָ֖ה אַדַּרְתָּ֑ם ק֚וֹל שַׁאֲגַ֣ת כְּפִירִ֔ים כִּ֥י שֻׁדַּ֖ד גְּא֥וֹן הַיַּרְדֵּֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "kvol yilelat haro'iym khiy shudedah 'adaretam kvol sha'agat khefiyriym khiy shudad ge'von hayareden.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Voz do lamento dos pastores, pois despojada está sua glória; voz do rugido dos leões, pois devastado está o orgulho do Jordão."
   },
   {
     "verse": 4,
     "original": "כֹּ֥ה אָמַ֖ר יְהֹוָ֣ה אֱלֹהָ֑י רְעֵ֖ה אֶת־צֹ֥אן הַהֲרֵגָֽה׃",
+    "transliteration": "khoh 'amar yehovah 'elohay re'eh 'et-tso'n haharegah.",
     "translation": "Assim diz o Senhor, o Deus: Apascenta as ovelhas que estão para morrer."
   },
   {
     "verse": 5,
     "original": "אֲשֶׁ֨ר קֹנֵיהֶ֤ן יַֽהַרְגֻן֙ וְלֹ֣א יֶאְשָׁ֔מוּ וּמֹכְרֵיהֶ֣ן יֹאמַ֔ר בָּר֥וּךְ יְהֹוָ֖ה וַאעְשִׁ֑ר וְרֹ֣עֵיהֶ֔ם לֹ֥א יַחְמ֖וֹל עֲלֵיהֶֽן׃",
+    "transliteration": "'asher koneyhen yaharegun velo' ye'eshamv vmokhereyhen yo'mar varvkhe yehovah va''eshir vero'eyhem lo' yahemvol 'aleyhen.",
     "translation": "Os que as comprarem as matarão e não serão culpados, e os que as venderem dirão: 'Abençoado seja o Senhor; enriqueci', e seus pastores não terão compaixão delas."
   },
   {
     "verse": 6,
     "original": "כִּ֠י לֹ֣א אֶחְמ֥וֹל ע֛וֹד עַל־יֹשְׁבֵ֥י הָאָ֖רֶץ נְאֻם־יְהֹוָ֑ה וְהִנֵּ֨ה אָנֹכִ֜י מַמְצִ֣יא אֶת־הָאָדָ֗ם אִ֤ישׁ בְּיַד־רֵעֵ֙הוּ֙ וּבְיַ֣ד מַלְכּ֔וֹ וְכִתְּתוּ֙ אֶת־הָאָ֔רֶץ וְלֹ֥א אַצִּ֖יל מִיָּדָֽם׃",
+    "transliteration": "khiy lo' 'ehemvol 'vod 'al-yoshevey ha'arets ne'um-yehovah vehineh 'anokhiy mametsiy' 'et-ha'adam 'iysh veyad-re'ehv vveyad malekhvo vekhitetv 'et-ha'arets velo' 'atsiyl miyadam.",
     "translation": "Porque não terei mais piedade dos habitantes da terra, diz o Senhor. Eis que ponho os homens uns nas mãos dos outros e nos poderes de seus reis; e se ferirão a terra, e não os livrarei de suas mãos."
   },
   {
     "verse": 7,
     "original": "וָֽאֶרְעֶה֙ אֶת־צֹ֣אן הַהֲרֵגָ֔ה לָכֵ֖ן עֲנִיֵּ֣י הַצֹּ֑אן וָאֶקַּֽח־לִ֞י שְׁנֵ֣י מַקְל֗וֹת לְאַחַ֞ד קָרָ֤אתִֽי נֹ֙עַם֙ וּלְאַחַד֙ קָרָ֣אתִי חֹֽבְלִ֔ים וָֽאֶרְעֶ֖ה אֶת־הַצֹּֽאן׃",
+    "transliteration": "va'ere'eh 'et-tso'n haharegah lakhen 'aniyey hatso'n va'ekah-liy sheney makelvot le'ahad kara'tiy no'am vle'ahad kara'tiy hoveliym va'ere'eh 'et-hatso'n.",
     "translation": "E apascentei o rebanho da morte; por isso, cuidei dos humildes do rebanho. Tomei para mim dois cajados; a um chamei de Benevolência e ao outro chamei de Rigores, e apascentava o rebanho."
   },
   {
     "verse": 8,
     "original": "וָאַכְחִ֛ד אֶת־שְׁלֹ֥שֶׁת הָרֹעִ֖ים בְּיֶ֣רַח אֶחָ֑ד וַתִּקְצַ֤ר נַפְשִׁי֙ בָּהֶ֔ם וְגַם־נַפְשָׁ֖ם בָּחֲלָ֥ה בִֽי׃",
+    "transliteration": "va'akhehid 'et-sheloshet haro'iym veyerah 'ehad vatiketsar nafeshiy vahem vegam-nafesham vahalah viy.",
     "translation": "E eu exterminei os três pastores em um mês, e a minha alma se tornou abominável para eles, e também a sua alma me abomina."
   },
   {
     "verse": 9,
     "original": "וָאֹמַ֕ר לֹ֥א אֶרְעֶ֖ה אֶתְכֶ֑ם הַמֵּתָ֣ה תָמ֗וּת וְהַנִּכְחֶ֙דֶת֙ תִּכָּחֵ֔ד וְהַ֨נִּשְׁאָר֔וֹת תֹּאכַ֕לְנָה אִשָּׁ֖ה אֶת־בְּשַׂ֥ר רְעוּתָֽהּ׃",
+    "transliteration": "va'omar lo' 'ere'eh 'etekhem hametah tamvt vehanikhehedet tikhahed vehanishe'arvot to'khalenah 'ishah 'et-vesar re'vtah.",
     "translation": "E disse: Não vos serei pastor; o que morrerá, morrerá, e o que for entregue à destruição, será destruído, e as restantes comerão a carne de suas amigas."
   },
   {
     "verse": 10,
     "original": "וָאֶקַּ֤ח אֶת־מַקְלִי֙ אֶת־נֹ֔עַם וָאֶגְדַּ֖ע אֹת֑וֹ לְהָפֵיר֙ אֶת־בְּרִיתִ֔י אֲשֶׁ֥ר כָּרַ֖תִּי אֶת־כׇּל־הָעַמִּֽים׃",
+    "transliteration": "va'ekah 'et-makeliy 'et-no'am va'egeda' 'otvo lehafeyr 'et-veriytiy 'asher kharatiy 'et-khol-ha'amiym.",
     "translation": "E tomei minha vara, Noam, e a parti para romper o pacto que fiz com todos os povos."
   },
   {
     "verse": 11,
     "original": "וַתֻּפַ֖ר בַּיּ֣וֹם הַה֑וּא וַיֵּדְע֨וּ כֵ֜ן עֲנִיֵּ֤י הַצֹּאן֙ הַשֹּׁמְרִ֣ים אֹתִ֔י כִּ֥י דְבַר־יְהֹוָ֖ה הֽוּא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vatufar vayvom hahv' vayede'v khen 'aniyey hatso'n hashomeriym 'otiy khiy devar-yehovah hv'.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E foi rasgada naquele dia, e os pobres que guardavam as ovelhas souberam que era palavra do Senhor."
   },
   {
     "verse": 12,
     "original": "וָאֹמַ֣ר אֲלֵיהֶ֗ם אִם־ט֧וֹב בְּעֵינֵיכֶ֛ם הָב֥וּ שְׂכָרִ֖י וְאִם־לֹ֣א&thinsp;<small>׀</small>&thinsp;חֲדָ֑לוּ וַיִּשְׁקְל֥וּ אֶת־שְׂכָרִ֖י שְׁלֹשִׁ֥ים כָּֽסֶף׃",
+    "transliteration": "va'omar 'aleyhem 'im-tvov ve'eyneykhem havv sekhariy ve'im-lo'&thinsp;<small>|</small>&thinsp;hadalv vayishekelv 'et-sekhariy sheloshiym khasef.",
     "translation": "E disse-lhes: Se é bom aos vossos olhos, dai-me o meu salário; se não, deixai-o. E pesaram o meu salário, trinta de prata."
   },
   {
     "verse": 13,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י הַשְׁלִיכֵ֙הוּ֙ אֶל־הַיּוֹצֵ֔ר אֶ֣דֶר הַיְקָ֔ר אֲשֶׁ֥ר יָקַ֖רְתִּי מֵעֲלֵיהֶ֑ם וָֽאֶקְחָה֙ שְׁלֹשִׁ֣ים הַכֶּ֔סֶף וָאַשְׁלִ֥יךְ אֹת֛וֹ בֵּ֥ית יְהֹוָ֖ה אֶל־הַיּוֹצֵֽר׃",
+    "transliteration": "vayo'mer yehovah 'elay hasheliykhehv 'el-hayvotser 'eder hayekar 'asher yakaretiy me'aleyhem va'ekehah sheloshiym hakhesef va'asheliykhe 'otvo veyt yehovah 'el-hayvotser.",
     "translation": "E disse o Senhor para mim: Lança-o ao oleiro, aquele darde precioso que valorizei sobre eles. E tomei os trinta siclos de prata e lancei-os na casa do Senhor, junto ao oleiro."
   },
   {
     "verse": 14,
     "original": "וָֽאֶגְדַּע֙ אֶת־מַקְלִ֣י הַשֵּׁנִ֔י אֵ֖ת הַחֹֽבְלִ֑ים לְהָפֵר֙ אֶת־הָאַֽחֲוָ֔ה בֵּ֥ין יְהוּדָ֖ה וּבֵ֥ין יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "va'egeda' 'et-makeliy hasheniy 'et hahoveliym lehafer 'et-ha'ahavah veyn yehvdah vveyn yisera'el.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E eu quebrei o meu cajado de segundo, chamado \"Afeição\", para anular a aliança entre Judá e Israel."
   },
   {
     "verse": 15,
     "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלָ֑י ע֣וֹד קַח־לְךָ֔ כְּלִ֖י רֹעֶ֥ה אֱוִלִֽי׃",
+    "transliteration": "vayo'mer yehovah 'elay 'vod kah-lekha kheliy ro'eh 'eviliy.",
     "translation": "E disse o Senhor para mim: Toma ainda os utensílios do pastor insensato."
   },
   {
     "verse": 16,
     "original": "כִּ֣י הִנֵּֽה־אָנֹכִי֩ מֵקִ֨ים רֹעֶ֜ה בָּאָ֗רֶץ הַנִּכְחָד֤וֹת לֹֽא־יִפְקֹד֙ הַנַּ֣עַר לֹֽא־יְבַקֵּ֔שׁ וְהַנִּשְׁבֶּ֖רֶת לֹ֣א יְרַפֵּ֑א הַנִּצָּבָה֙ לֹ֣א יְכַלְכֵּ֔ל וּבְשַׂ֤ר הַבְּרִיאָה֙ יֹאכַ֔ל וּפַרְסֵיהֶ֖ן יְפָרֵֽק׃",
+    "transliteration": "khiy hineh-'anokhiy mekiym ro'eh va'arets hanikhehadvot lo'-yifekod hana'ar lo'-yevakesh vehanisheveret lo' yerafe' hanitsavah lo' yekhalekhel vvesar haveriy'ah yo'khal vfareseyhen yefarek.",
     "translation": "Porque eis que levanto um pastor na terra, o qual não visitará os desvalidos, não buscará as dispersas, não curará as feridas, mas pastoreará somente as fortes; com a carne das apascentadas se fartará, mas suas próprias partes ele quebrará."
   },
   {
     "verse": 17,
     "original": "ה֣וֹי רֹעִ֤י הָאֱלִיל֙ עֹזְבִ֣י הַצֹּ֔אן חֶ֥רֶב עַל־זְרוֹע֖וֹ וְעַל־עֵ֣ין יְמִינ֑וֹ זְרֹעוֹ֙ יָב֣וֹשׁ תִּיבָ֔שׁ וְעֵ֥ין יְמִינ֖וֹ כָּהֹ֥ה תִכְהֶֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hvoy ro'iy ha'eliyl 'ozeviy hatso'n herev 'al-zervo'vo ve'al-'eyn yemiynvo zero'vo yavvosh tiyvash ve'eyn yemiynvo khahoh tikheheh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Ai, pastor da vaidade, que abandona o rebanho! Uma espada sobre seu braço e sobre o olho direito; seu braço se envergonhará de fraquejar, e seu olho direito se obscurecerá de deslumbre."
   }
 ]

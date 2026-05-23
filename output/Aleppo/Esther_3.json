@@ -2,76 +2,91 @@
   {
     "verse": 1,
     "original": "אַחַ֣ר&thinsp;<b>׀</b> הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת־הָמָ֧ן בֶּֽן־הַמְּדָ֛תָא הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֙שֶׂם֙ אֶת־כִּסְא֔וֹ מֵעַ֕ל כׇּל־הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃",
+    "transliteration": "'ahar&thinsp;<b>|</b> hadevariym ha'eleh gidal hamelekhe 'ahashevervosh 'et-haman ven-hamedata' ha'agagiy vayenase'ehv vayasem 'et-khise'vo me'al khol-hasariym 'asher 'itvo.",
     "translation": "Depois dessas coisas, o rei Assuero engrandeceu a Hamã, filho de Hamdata, o agagita, e exaltou-o; e lhe ergueu seu trono acima de todos os príncipes que com ele estavam."
   },
   {
     "verse": 2,
     "original": "וְכׇל־עַבְדֵ֨י הַמֶּ֜לֶךְ אֲשֶׁר־בְּשַׁ֣עַר הַמֶּ֗לֶךְ כֹּרְעִ֤ים וּמִֽשְׁתַּחֲוִים֙ לְהָמָ֔ן כִּי־כֵ֖ן צִוָּה־ל֣וֹ הַמֶּ֑לֶךְ וּמׇ֨רְדֳּכַ֔י לֹ֥א יִכְרַ֖ע וְלֹ֥א יִֽשְׁתַּחֲוֶֽה׃",
+    "transliteration": "vekhol-'avedey hamelekhe 'asher-vesha'ar hamelekhe khore'iym vmishetahaviym lehaman khiy-khen tsivah-lvo hamelekhe vmoredokhay lo' yikhera' velo' yishetahaveh.",
     "translation": "E todos os servos do rei que estavam à porta do rei se prostravam e se inclinavam perante Hamã, pois assim o rei ordenara; contudo, Mardoqueu não se prostrava nem lhe prestava homenagem."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֨אמְר֜וּ עַבְדֵ֥י הַמֶּ֛לֶךְ אֲשֶׁר־בְּשַׁ֥עַר הַמֶּ֖לֶךְ לְמׇרְדֳּכָ֑י מַדּ֙וּעַ֙ אַתָּ֣ה עוֹבֵ֔ר אֵ֖ת מִצְוַ֥ת הַמֶּֽלֶךְ׃",
+    "transliteration": "vayo'merv 'avedey hamelekhe 'asher-vesha'ar hamelekhe lemoredokhay madv'a 'atah 'vover 'et mitsevat hamelekhe.",
     "translation": "E disseram os servos do rei que estavam à porta do rei a Mardoqueu: Por que transgrides o mandamento do rei?"
   },
   {
     "verse": 4,
     "original": "וַיְהִ֗י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(באמרם)</span> <span class=\"mam-kq-q\">[כְּאׇמְרָ֤ם]</span></span> אֵלָיו֙ י֣וֹם וָי֔וֹם וְלֹ֥א שָׁמַ֖ע אֲלֵיהֶ֑ם וַיַּגִּ֣ידוּ לְהָמָ֗ן לִרְאוֹת֙ הֲיַֽעַמְדוּ֙ דִּבְרֵ֣י מׇרְדֳּכַ֔י כִּֽי־הִגִּ֥יד לָהֶ֖ם אֲשֶׁר־ה֥וּא יְהוּדִֽי׃",
+    "transliteration": "vayehiy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'mrm)</span> <span class=\"mam-kq-q\">[khe'omeram]</span></span> 'elayv yvom vayvom velo' shama' 'aleyhem vayagiydv lehaman lire'vot haya'amedv diverey moredokhay khiy-higiyd lahem 'asher-hv' yehvdiy.",
     "translation": "E aconteceu que, dia após dia, lhe falavam; e ele não atendia a eles. Então informaram a Hamã para ver se as palavras de Mordecai permaneciam firmes, pois ele lhes havia dito que era judeu."
   },
   {
     "verse": 5,
     "original": "וַיַּ֣רְא הָמָ֔ן כִּי־אֵ֣ין מׇרְדֳּכַ֔י כֹּרֵ֥עַ וּמִֽשְׁתַּחֲוֶ֖ה ל֑וֹ וַיִּמָּלֵ֥א הָמָ֖ן חֵמָֽה׃",
+    "transliteration": "vayare' haman khiy-'eyn moredokhay khore'a vmishetahaveh lvo vayimale' haman hemah.",
     "translation": "E Hamã viu que Mardoqueu não se prostrava nem lhe fazia reverência, e foi tomado de ira."
   },
   {
     "verse": 6,
     "original": "וַיִּ֣בֶז בְּעֵינָ֗יו לִשְׁלֹ֤חַ יָד֙ בְּמׇרְדֳּכַ֣י לְבַדּ֔וֹ כִּֽי־הִגִּ֥ידוּ ל֖וֹ אֶת־עַ֣ם מׇרְדֳּכָ֑י וַיְבַקֵּ֣שׁ הָמָ֗ן לְהַשְׁמִ֧יד אֶת־כׇּל־הַיְּהוּדִ֛ים אֲשֶׁ֛ר בְּכׇל־מַלְכ֥וּת אֲחַשְׁוֵר֖וֹשׁ עַ֥ם מׇרְדֳּכָֽי׃",
+    "transliteration": "vayivez ve'eynayv lisheloha yad vemoredokhay levadvo khiy-higiydv lvo 'et-'am moredokhay vayevakesh haman lehashemiyd 'et-khol-hayehvdiym 'asher vekhol-malekhvt 'ahashevervosh 'am moredokhay.",
     "translation": "E foi desprezível aos seus olhos ferir somente a Mardoché, pois lhe haviam revelado a nação de Mardoché; assim, Hamã buscou destruir todo o povo judeu que estava em todo o reino de Assuero, o povo de Mardoché."
   },
   {
     "verse": 7,
     "original": "בַּחֹ֤דֶשׁ הָרִאשׁוֹן֙ הוּא־חֹ֣דֶשׁ נִיסָ֔ן בִּשְׁנַת֙ שְׁתֵּ֣ים עֶשְׂרֵ֔ה לַמֶּ֖לֶךְ אֲחַשְׁוֵר֑וֹשׁ הִפִּ֣יל פּוּר֩ ה֨וּא הַגּוֹרָ֜ל לִפְנֵ֣י הָמָ֗ן מִיּ֧וֹם&thinsp;<small>׀</small>&thinsp;לְי֛וֹם וּמֵחֹ֛דֶשׁ לְחֹ֥דֶשׁ שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֥דֶשׁ אֲדָֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vahodesh hari'shvon hv'-hodesh niysan vishenat sheteym 'esereh lamelekhe 'ahashevervosh hifiyl fvr hv' hagvoral lifeney haman miyvom&thinsp;<small>|</small>&thinsp;leyvom vmehodesh lehodesh sheneym-'asar hv'-hodesh 'adar.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "No mês primeiro, que é o mês de Nisã, no ano duodécimo do rei Assuero, lançou-se a sorte, isto é, o goral, diante de Haman, desde o dia até ao dia e do mês para o mês, dos doze meses, que é o mês de Adar."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֤אמֶר הָמָן֙ לַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ יֶשְׁנ֣וֹ עַם־אֶחָ֗ד מְפֻזָּ֤ר וּמְפֹרָד֙ בֵּ֣ין הָֽעַמִּ֔ים בְּכֹ֖ל מְדִינ֣וֹת מַלְכוּתֶ֑ךָ וְדָתֵיהֶ֞ם שֹׁנ֣וֹת מִכׇּל־עָ֗ם וְאֶת־דָּתֵ֤י הַמֶּ֙לֶךְ֙ אֵינָ֣ם עֹשִׂ֔ים וְלַמֶּ֥לֶךְ אֵין־שֹׁוֶ֖ה לְהַנִּיחָֽם׃",
+    "transliteration": "vayo'mer haman lamelekhe 'ahashevervosh yeshenvo 'am-'ehad mefuzar vmeforad veyn ha'amiym vekhol mediynvot malekhvtekha vedateyhem shonvot mikhol-'am ve'et-datey hamelekhe 'eynam 'osiym velamelekhe 'eyn-shoveh lehaniyham.",
     "translation": "Haman disse ao rei Assuero: Há um povo disperso e separado entre as nações, em todas as províncias do teu reino; suas leis são diferentes de todos os povos, e não cumprem os estatutos do rei. É prejudicial ao rei permitir-lhes que permaneçam."
   },
   {
     "verse": 9,
     "original": "אִם־עַל־הַמֶּ֣לֶךְ ט֔וֹב יִכָּתֵ֖ב לְאַבְּדָ֑ם וַעֲשֶׂ֨רֶת אֲלָפִ֜ים כִּכַּר־כֶּ֗סֶף אֶשְׁקוֹל֙ עַל־יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה לְהָבִ֖יא אֶל־גִּנְזֵ֥י הַמֶּֽלֶךְ׃",
+    "transliteration": "'im-'al-hamelekhe tvov yikhatev le'avedam va'aseret 'alafiym khikhar-khesef 'eshekvol 'al-yedey 'osey hamela'khah lehaviy' 'el-ginezey hamelekhe.",
     "translation": "Se for do agrado do rei, que se escreva para aniquilá-los; e eu pesarei dez mil talentos de prata na mão dos encarregados da obra, para serem trazidos aos tesouros do rei."
   },
   {
     "verse": 10,
     "original": "וַיָּ֧סַר הַמֶּ֛לֶךְ אֶת־טַבַּעְתּ֖וֹ מֵעַ֣ל יָד֑וֹ וַֽיִּתְּנָ֗הּ לְהָמָ֧ן בֶּֽן־הַמְּדָ֛תָא הָאֲגָגִ֖י צֹרֵ֥ר הַיְּהוּדִֽים׃",
+    "transliteration": "vayasar hamelekhe 'et-tava'etvo me'al yadvo vayitenah lehaman ven-hamedata' ha'agagiy tsorer hayehvdiym.",
     "translation": "E o rei removeu seu selo de seu dedo e deu para Hamã, filho de Hamedata, o agagita, inimigo dos judeus."
   },
   {
     "verse": 11,
     "original": "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ לְהָמָ֔ן הַכֶּ֖סֶף נָת֣וּן לָ֑ךְ וְהָעָ֕ם לַעֲשׂ֥וֹת בּ֖וֹ כַּטּ֥וֹב בְּעֵינֶֽיךָ׃",
+    "transliteration": "vayo'mer hamelekhe lehaman hakhesef natvn lakhe veha'am la'asvot vvo khatvov ve'eyneykha.",
     "translation": "E disse o rei a Hamã: O dinheiro te é dado, e o povo está à tua disposição para fazeres com ele como bem entenderes."
   },
   {
     "verse": 12,
     "original": "וַיִּקָּרְאוּ֩ סֹפְרֵ֨י הַמֶּ֜לֶךְ בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בִּשְׁלוֹשָׁ֨ה עָשָׂ֣ר יוֹם֮ בּוֹ֒ וַיִּכָּתֵ֣ב כְּֽכׇל־אֲשֶׁר־צִוָּ֣ה הָמָ֡ן אֶ֣ל אֲחַשְׁדַּרְפְּנֵֽי־הַ֠מֶּ֠לֶךְ וְֽאֶל־הַפַּח֞וֹת אֲשֶׁ֣ר&thinsp;<b>׀</b> עַל־מְדִינָ֣ה וּמְדִינָ֗ה וְאֶל־שָׂ֤רֵי עַם֙ וָעָ֔ם מְדִינָ֤ה וּמְדִינָה֙ כִּכְתָבָ֔הּ וְעַ֥ם וָעָ֖ם כִּלְשׁוֹנ֑וֹ בְּשֵׁ֨ם הַמֶּ֤לֶךְ אֲחַשְׁוֵרֹשׁ֙ נִכְתָּ֔ב וְנֶחְתָּ֖ם בְּטַבַּ֥עַת הַמֶּֽלֶךְ׃",
+    "transliteration": "vayikare'v soferey hamelekhe vahodesh hari'shvon vishelvoshah 'asar yvom vvo vayikhatev khekhol-'asher-tsivah haman 'el 'ahashedarefeney-hamelekhe ve'el-hafahvot 'asher&thinsp;<b>|</b> 'al-mediynah vmediynah ve'el-sarey 'am va'am mediynah vmediynah khikhetavah ve'am va'am khileshvonvo veshem hamelekhe 'ahasheverosh nikhetav venehetam vetava'at hamelekhe.",
     "translation": "E foram chamados os escribas do rei no primeiro mês, no dia treze dele; e tudo o que Hamã ordenou foi escrito para os sátrapas do rei e aos oficiais de cada província e a todos os povos de cada província, escritos em cada caligrafia e anunciados em cada língua, no nome do rei Assuero, sendo carimbado com o selo do rei."
   },
   {
     "verse": 13,
     "original": "וְנִשְׁל֨וֹחַ סְפָרִ֜ים בְּיַ֣ד הָרָצִים֮ אֶל־כׇּל־מְדִינ֣וֹת הַמֶּ֒לֶךְ֒ לְהַשְׁמִ֡יד לַהֲרֹ֣ג וּלְאַבֵּ֣ד אֶת־כׇּל־הַ֠יְּהוּדִ֠ים מִנַּ֨עַר וְעַד־זָקֵ֜ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם אֶחָ֔ד בִּשְׁלוֹשָׁ֥ה עָשָׂ֛ר לְחֹ֥דֶשׁ שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ אֲדָ֑ר וּשְׁלָלָ֖ם לָבֽוֹז׃",
+    "transliteration": "venishelvoha sefariym veyad haratsiym 'el-khol-mediynvot hamelekhe lehashemiyd laharog vle'aved 'et-khol-hayehvdiym mina'ar ve'ad-zaken taf venashiym veyvom 'ehad vishelvoshah 'asar lehodesh sheneym-'asar hv'-hodesh 'adar vshelalam lavvoz.",
     "translation": "E livros serão enviados pela mão dos mensageiros a todas as províncias do rei, para destruir, matar e aniquilar todos os judeus, desde o mais jovem até o mais velho, crianças e mulheres, num mesmo dia, no dia treze do duodécimo mês, que é o mês de Adar, e para despojar suas possessões."
   },
   {
     "verse": 14,
     "original": "פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכׇל־מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכׇל־הָֽעַמִּ֑ים לִהְי֥וֹת עֲתִדִ֖ים לַיּ֥וֹם הַזֶּֽה׃",
+    "transliteration": "fateshegen hakhetav lehinaten dat vekhol-mediynah vmediynah galvy lekhol-ha'amiym liheyvot 'atidiym layvom hazeh.",
     "translation": "O selo do decreto para estabelecer leis em cada província e nação, tornando-o claro a todos os povos, para serem preparados para este dia."
   },
   {
     "verse": 15,
     "original": "הָֽרָצִ֞ים יָצְא֤וּ דְחוּפִים֙ בִּדְבַ֣ר הַמֶּ֔לֶךְ וְהַדָּ֥ת נִתְּנָ֖ה בְּשׁוּשַׁ֣ן הַבִּירָ֑ה וְהַמֶּ֤לֶךְ וְהָמָן֙ יָשְׁב֣וּ לִשְׁתּ֔וֹת וְהָעִ֥יר שׁוּשָׁ֖ן נָבֽוֹכָה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "haratsiym yatse'v dehvfiym videvar hamelekhe vehadat nitenah veshvshan haviyrah vehamelekhe vehaman yashevv lishetvot veha'iyr shvshan navvokhah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Os mensageiros saíram apressados pela ordem do rei, e a lei foi dada em Susã, a fortaleza. O rei e Haman sentaram-se para beber, e a cidade de Susã estava perplexa."
   }
 ]

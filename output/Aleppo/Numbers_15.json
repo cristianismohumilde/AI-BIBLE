@@ -2,206 +2,247 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 2,
     "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם כִּ֣י תָבֹ֗אוּ אֶל־אֶ֙רֶץ֙ מוֹשְׁבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֥ן לָכֶֽם׃",
+    "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem khiy tavo'v 'el-'erets mvoshevoteykhem 'asher 'aniy noten lakhem.",
     "translation": "Fala aos filhos de Israel e diz-lhes: Quando entrardes na terra da vossa morada que eu vos dou;"
   },
   {
     "verse": 3,
     "original": "וַעֲשִׂיתֶ֨ם אִשֶּׁ֤ה לַֽיהֹוָה֙ עֹלָ֣ה אוֹ־זֶ֔בַח לְפַלֵּא־נֶ֙דֶר֙ א֣וֹ בִנְדָבָ֔ה א֖וֹ בְּמֹעֲדֵיכֶ֑ם לַעֲשׂ֞וֹת רֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה מִן־הַבָּקָ֖ר א֥וֹ מִן־הַצֹּֽאן׃",
+    "transliteration": "va'asiytem 'isheh layhovah 'olah 'vo-zevah lefale'-neder 'vo vinedavah 'vo vemo'adeykhem la'asvot reyha niyhoha layhovah min-havakar 'vo min-hatso'n.",
     "translation": "E fareis um fogo-oferta ao Senhor, seja em holocausto ou sacrifício, por voto solene, ou espontaneamente, ou nos vossos festivais, para fazerdes cheiro agradável ao Senhor, seja do gado ou da ovelha."
   },
   {
     "verse": 4,
     "original": "וְהִקְרִ֛יב הַמַּקְרִ֥יב קׇרְבָּנ֖וֹ לַֽיהֹוָ֑ה מִנְחָה֙ סֹ֣לֶת עִשָּׂר֔וֹן בָּל֕וּל בִּרְבִעִ֥ית הַהִ֖ין שָֽׁמֶן׃",
+    "transliteration": "vehikeriyv hamakeriyv korevanvo layhovah minehah solet 'isarvon valvl virevi'iyt hahiyn shamen.",
     "translation": "E o que traz ofertas trará a sua oferta ao Senhor: uma oferta de cereal, dezéia de farinha temperada com quarto de him de azeite."
   },
   {
     "verse": 5,
     "original": "וְיַ֤יִן לַנֶּ֙סֶךְ֙ רְבִיעִ֣ית הַהִ֔ין תַּעֲשֶׂ֥ה עַל־הָעֹלָ֖ה א֣וֹ לַזָּ֑בַח לַכֶּ֖בֶשׂ הָאֶחָֽד׃",
+    "transliteration": "veyayin lanesekhe reviy'iyt hahiyn ta'aseh 'al-ha'olah 'vo lazavah lakheves ha'ehad.",
     "translation": "E vinho para a libação, um quarto do hin, farás sobre a oferta queimada ou sobre o sacrifício; para cada cordeiro."
   },
   {
     "verse": 6,
     "original": "א֤וֹ לָאַ֙יִל֙ תַּעֲשֶׂ֣ה מִנְחָ֔ה סֹ֖לֶת שְׁנֵ֣י עֶשְׂרֹנִ֑ים בְּלוּלָ֥ה בַשֶּׁ֖מֶן שְׁלִשִׁ֥ית הַהִֽין׃",
+    "transliteration": "'vo la'ayil ta'aseh minehah solet sheney 'eseroniym velvlah vashemen shelishiyt hahiyn.",
     "translation": "Ou farás a oferta do carneiro como minhava, dois ephahs de flor de farinha, temperada com terço de hin de azeite."
   },
   {
     "verse": 7,
     "original": "וְיַ֥יִן לַנֶּ֖סֶךְ שְׁלִשִׁ֣ית הַהִ֑ין תַּקְרִ֥יב רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+    "transliteration": "veyayin lanesekhe shelishiyt hahiyn takeriyv reyha-niyhoha layhovah.",
     "translation": "E vinho em terço de him para libação, oferta de suave odor ao Senhor."
   },
   {
     "verse": 8,
     "original": "וְכִֽי־תַעֲשֶׂ֥ה בֶן־בָּקָ֖ר עֹלָ֣ה אוֹ־זָ֑בַח לְפַלֵּא־נֶ֥דֶר אֽוֹ־שְׁלָמִ֖ים לַֽיהֹוָֽה׃",
+    "transliteration": "vekhiy-ta'aseh ven-vakar 'olah 'vo-zavah lefale'-neder 'vo-shelamiym layhovah.",
     "translation": "E quando fizer filho do boi em holocausto ou sacrifício, para cumprir voto ou oferta de paz ao Senhor."
   },
   {
     "verse": 9,
     "original": "וְהִקְרִ֤יב עַל־בֶּן־הַבָּקָר֙ מִנְחָ֔ה סֹ֖לֶת שְׁלֹשָׁ֣ה עֶשְׂרֹנִ֑ים בָּל֥וּל בַּשֶּׁ֖מֶן חֲצִ֥י הַהִֽין׃",
+    "transliteration": "vehikeriyv 'al-ven-havakar minehah solet sheloshah 'eseroniym valvl vashemen hatsiy hahiyn.",
     "translation": "E oferecerá sobre o touro uma oferta de cereal: trigo moído finamente, três efes, temperado com azeite, metade do him."
   },
   {
     "verse": 10,
     "original": "וְיַ֛יִן תַּקְרִ֥יב לַנֶּ֖סֶךְ חֲצִ֣י הַהִ֑ין אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+    "transliteration": "veyayin takeriyv lanesekhe hatsiy hahiyn 'isheh reyha-niyhoha layhovah.",
     "translation": "E vinho trarás para a oferta da libação meio do hin, fumaça de cheiro agradável ao SENHOR."
   },
   {
     "verse": 11,
     "original": "כָּ֣כָה יֵעָשֶׂ֗ה לַשּׁוֹר֙ הָֽאֶחָ֔ד א֖וֹ לָאַ֣יִל הָאֶחָ֑ד אֽוֹ־לַשֶּׂ֥ה בַכְּבָשִׂ֖ים א֥וֹ בָעִזִּֽים׃",
+    "transliteration": "khakhah ye'aseh lashvor ha'ehad 'vo la'ayil ha'ehad 'vo-laseh vakhevasiym 'vo va'iziym.",
     "translation": "Assim será feito para o touro único, ou para o carneiro único, seja para um cordeiro dos carneiros, seja para uma cabra."
   },
   {
     "verse": 12,
     "original": "כַּמִּסְפָּ֖ר אֲשֶׁ֣ר תַּעֲשׂ֑וּ כָּ֛כָה תַּעֲשׂ֥וּ לָאֶחָ֖ד כְּמִסְפָּרָֽם׃",
+    "transliteration": "khamisefar 'asher ta'asv khakhah ta'asv la'ehad khemisefaram.",
     "translation": "Como o número que fizerdes, assim fareis ao um conforme o seu número.\n\nNota Interna: O rascunho original em português mantém a estrutura e os elementos do texto hebraico antigo com precisão. No entanto, para aprimorar a qualidade teológica e formal da tradução, aqui está uma versão ligeiramente ajustada:\n\nComo o número que fizerdes, assim fareis ao um conforme aquele número."
   },
   {
     "verse": 13,
     "original": "כׇּל־הָאֶזְרָ֥ח יַעֲשֶׂה־כָּ֖כָה אֶת־אֵ֑לֶּה לְהַקְרִ֛יב אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַֽיהֹוָֽה׃",
+    "transliteration": "khol-ha'ezerah ya'aseh-khakhah 'et-'eleh lehakeriyv 'isheh reyha-niyhoha layhovah.",
     "translation": "Todo o cidadão fará assim estas coisas, para oferecer fumaça de aroma agradável ao Senhor."
   },
   {
     "verse": 14,
     "original": "וְכִֽי־יָגוּר֩ אִתְּכֶ֨ם גֵּ֜ר א֤וֹ אֲשֶׁר־בְּתֽוֹכְכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם וְעָשָׂ֛ה אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָ֑ה כַּאֲשֶׁ֥ר תַּעֲשׂ֖וּ כֵּ֥ן יַעֲשֶֽׂה׃",
+    "transliteration": "vekhiy-yagvr 'itekhem ger 'vo 'asher-vetvokhekhem ledoroteykhem ve'asah 'isheh reyha-niyhoha layhovah kha'asher ta'asv khen ya'aseh.",
     "translation": "E quando houver entre vós um estrangeiro ou alguém que estiver no meio de vós por gerações, e fizer uma oferta de aroma agradável ao Senhor, conforme vós fazeis, assim ele fará."
   },
   {
     "verse": 15,
     "original": "הַקָּהָ֕ל חֻקָּ֥ה אַחַ֛ת לָכֶ֖ם וְלַגֵּ֣ר הַגָּ֑ר חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם כָּכֶ֛ם כַּגֵּ֥ר יִהְיֶ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+    "transliteration": "hakahal hukah 'ahat lakhem velager hagar hukat 'volam ledoroteykhem khakhem khager yiheyeh lifeney yehovah.",
     "translation": "Uma lei única vos será e ao estrangeiro que se assenta entre vós, um estatuto eterno para as vossas gerações; como sois, assim também o estrangeiro será diante do Senhor."
   },
   {
     "verse": 16,
     "original": "תּוֹרָ֥ה אַחַ֛ת וּמִשְׁפָּ֥ט אֶחָ֖ד יִהְיֶ֣ה לָכֶ֑ם וְלַגֵּ֖ר הַגָּ֥ר אִתְּכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "tvorah 'ahat vmishefat 'ehad yiheyeh lakhem velager hagar 'itekhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Uma lei única e um juízo uniforme haverá para vós, e para o estrangeiro que peregrina entre vós."
   },
   {
     "verse": 17,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 18,
     "original": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם בְּבֹֽאֲכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֛י מֵבִ֥יא אֶתְכֶ֖ם שָֽׁמָּה׃",
+    "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem vevo'akhem 'el-ha'arets 'asher 'aniy meviy' 'etekhem shamah.",
     "translation": "Fala aos filhos de Israel e lhes dirás: Quando entrardes na terra que vos hei de conduzir lá."
   },
   {
     "verse": 19,
     "original": "וְהָיָ֕ה בַּאֲכׇלְכֶ֖ם מִלֶּ֣חֶם הָאָ֑רֶץ תָּרִ֥ימוּ תְרוּמָ֖ה לַיהֹוָֽה׃",
+    "transliteration": "vehayah va'akholekhem milehem ha'arets tariymv tervmah layhovah.",
     "translation": "E será que, ao comereis do pão da terra, oferecereis uma porção ao Senhor."
   },
   {
     "verse": 20,
     "original": "רֵאשִׁית֙ עֲרִסֹ֣תֵכֶ֔ם חַלָּ֖ה תָּרִ֣ימוּ תְרוּמָ֑ה כִּתְרוּמַ֣ת גֹּ֔רֶן כֵּ֖ן תָּרִ֥ימוּ אֹתָֽהּ׃",
+    "transliteration": "re'shiyt 'arisotekhem halah tariymv tervmah khitervmat goren khen tariymv 'otah.",
     "translation": "Primeiro dos vossos assentamentos, uma porção de oferta elevai; como a oferta do moedor assim ela será elevada."
   },
   {
     "verse": 21,
     "original": "מֵרֵאשִׁית֙ עֲרִסֹ֣תֵיכֶ֔ם תִּתְּנ֥וּ לַיהֹוָ֖ה תְּרוּמָ֑ה לְדֹרֹ֖תֵיכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "mere'shiyt 'arisoteykhem titenv layhovah tervmah ledoroteykhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Desde o princípio das vossas tendências, oferecereis ao Senhor ofertas elevadas; por gerações vos será."
   },
   {
     "verse": 22,
     "original": "וְכִ֣י תִשְׁגּ֔וּ וְלֹ֣א תַעֲשׂ֔וּ אֵ֥ת כׇּל־הַמִּצְוֺ֖ת הָאֵ֑לֶּה אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה אֶל־מֹשֶֽׁה׃",
+    "transliteration": "vekhiy tishegv velo' ta'asv 'et khol-hamitsevot ha'eleh 'asher-diver yehovah 'el-mosheh.",
     "translation": "E, se errardes e não fizerdes todos estes mandamentos que o Senhor falou a Moisés."
   },
   {
     "verse": 23,
     "original": "אֵת֩ כׇּל־אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֲלֵיכֶ֖ם בְּיַד־מֹשֶׁ֑ה מִן־הַיּ֞וֹם אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה וָהָ֖לְאָה לְדֹרֹתֵיכֶֽם׃",
+    "transliteration": "'et khol-'asher tsivah yehovah 'aleykhem veyad-mosheh min-hayvom 'asher tsivah yehovah vahale'ah ledoroteykhem.",
     "translation": "Todas as coisas que o Senhor vos ordenou por intermédio de Moisés, desde o dia em que o Senhor ordenou e para sempre, por gerações."
   },
   {
     "verse": 24,
     "original": "וְהָיָ֗ה אִ֣ם מֵעֵינֵ֣י הָעֵדָה֮ נֶעֶשְׂתָ֣ה לִשְׁגָגָה֒ וְעָשׂ֣וּ כׇל־הָעֵדָ֡ה פַּ֣ר בֶּן־בָּקָר֩ אֶחָ֨ד לְעֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה וּמִנְחָת֥וֹ וְנִסְכּ֖וֹ כַּמִּשְׁפָּ֑ט וּשְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽת׃",
+    "transliteration": "vehayah 'im me'eyney ha'edah ne'esetah lishegagah ve'asv khol-ha'edah far ven-vakar 'ehad le'olah lereyha niyhoha layhovah vminehatvo venisekhvo khamishefat vse'iyr-'iziym 'ehad lehatat.",
     "translation": "E será que, se for feita por engano diante dos olhos da congregação e toda a congregação oferecer um bezerro como oferta de holocausto para satisfação ao Senhor, com sua oferta e libação conforme o estatuto, e um bode para expiação."
   },
   {
     "verse": 25,
     "original": "וְכִפֶּ֣ר הַכֹּהֵ֗ן עַֽל־כׇּל־עֲדַ֛ת בְּנֵ֥י יִשְׂרָאֵ֖ל וְנִסְלַ֣ח לָהֶ֑ם כִּֽי־שְׁגָגָ֣ה הִ֔וא וְהֵם֩ הֵבִ֨יאוּ אֶת־קׇרְבָּנָ֜ם אִשֶּׁ֣ה לַֽיהֹוָ֗ה וְחַטָּאתָ֛ם לִפְנֵ֥י יְהֹוָ֖ה עַל־שִׁגְגָתָֽם׃",
+    "transliteration": "vekhifer hakhohen 'al-khol-'adat veney yisera'el veniselah lahem khiy-shegagah hiv' vehem heviy'v 'et-korevanam 'isheh layhovah vehata'tam lifeney yehovah 'al-shigegatam.",
     "translation": "E o sacerdote fará expiação por toda a congregação dos filhos de Israel, e lhes será perdoado, pois foi por erro; trarão sua oferta queimada ao Senhor, e seu pecado será remitido diante do Senhor pelo seu engano."
   },
   {
     "verse": 26,
     "original": "וְנִסְלַ֗ח לְכׇל־עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְלַגֵּ֖ר הַגָּ֣ר בְּתוֹכָ֑ם כִּ֥י לְכׇל־הָעָ֖ם בִּשְׁגָגָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veniselah lekhol-'adat veney yisera'el velager hagar vetvokham khiy lekhol-ha'am vishegagah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E será perdoado toda a congregação dos filhos de Israel e o estrangeiro que se ajunta no meio deles, pois à toda a multidão foi por equívoco."
   },
   {
     "verse": 27,
     "original": "וְאִם־נֶ֥פֶשׁ אַחַ֖ת תֶּחֱטָ֣א בִשְׁגָגָ֑ה וְהִקְרִ֛יבָה עֵ֥ז בַּת־שְׁנָתָ֖הּ לְחַטָּֽאת׃",
+    "transliteration": "ve'im-nefesh 'ahat teheta' vishegagah vehikeriyvah 'ez vat-shenatah lehata't.",
     "translation": "E se uma alma pecar por ignorância, oferecerá uma cabra de um ano como oferta pelo pecado."
   },
   {
     "verse": 28,
     "original": "וְכִפֶּ֣ר הַכֹּהֵ֗ן עַל־הַנֶּ֧פֶשׁ הַשֹּׁגֶ֛גֶת בְּחֶטְאָ֥הֿ בִשְׁגָגָ֖ה לִפְנֵ֣י יְהֹוָ֑ה לְכַפֵּ֥ר עָלָ֖יו וְנִסְלַ֥ח לֽוֹ׃",
+    "transliteration": "vekhifer hakhohen 'al-hanefesh hashogeget vehete'ah vishegagah lifeney yehovah lekhafer 'alayv veniselah lvo.",
     "translation": "E o sacerdote fará expiação pela alma que pecou por ignorância, diante do Senhor, para fazê-la pura e obter-lhe perdão."
   },
   {
     "verse": 29,
     "original": "הָֽאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל וְלַגֵּ֖ר הַגָּ֣ר בְּתוֹכָ֑ם תּוֹרָ֤ה אַחַת֙ יִהְיֶ֣ה לָכֶ֔ם לָעֹשֶׂ֖ה בִּשְׁגָגָֽה׃",
+    "transliteration": "ha'ezerah viveney yisera'el velager hagar vetvokham tvorah 'ahat yiheyeh lakhem la'oseh vishegagah.",
     "translation": "O cidadão entre os filhos de Israel e o estrangeiro que peregrina no meio deles terá uma mesma lei; para aquele que pecar por erro."
   },
   {
     "verse": 30,
     "original": "וְהַנֶּ֜פֶשׁ אֲשֶֽׁר־תַּעֲשֶׂ֣ה&thinsp;<b>׀</b> בְּיָ֣ד רָמָ֗ה מִן־הָֽאֶזְרָח֙ וּמִן־הַגֵּ֔ר אֶת־יְהֹוָ֖ה ה֣וּא מְגַדֵּ֑ף וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃",
+    "transliteration": "vehanefesh 'asher-ta'aseh&thinsp;<b>|</b> veyad ramah min-ha'ezerah vmin-hager 'et-yehovah hv' megadef venikheretah hanefesh hahiv' mikerev 'amah.",
     "translation": "E a alma que fizer alguma coisa com mão leviana, seja de entre o povo ou do estrangeiro, blasfema ao Senhor; e essa alma será cortada do meio do seu povo."
   },
   {
     "verse": 31,
     "original": "כִּ֤י דְבַר־יְהֹוָה֙ בָּזָ֔ה וְאֶת־מִצְוָת֖וֹ הֵפַ֑ר הִכָּרֵ֧ת&thinsp;<small>׀</small>&thinsp;תִּכָּרֵ֛ת הַנֶּ֥פֶשׁ הַהִ֖וא עֲוֺנָ֥הֿ בָֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy devar-yehovah vazah ve'et-mitsevatvo hefar hikharet&thinsp;<small>|</small>&thinsp;tikharet hanefesh hahiv' 'avonah vah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois menosprezou a palavra do Senhor e violou seu mandamento; essa alma será cortada, pois nela há pecado."
   },
   {
     "verse": 32,
     "original": "וַיִּהְי֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וַֽיִּמְצְא֗וּ אִ֛ישׁ מְקֹשֵׁ֥שׁ עֵצִ֖ים בְּי֥וֹם הַשַּׁבָּֽת׃",
+    "transliteration": "vayiheyv veney-yisera'el vamidevar vayimetse'v 'iysh mekoshesh 'etsiym veyvom hashavat.",
     "translation": "E os filhos de Israel estavam no deserto, e encontraram um homem que recolhia lenha no dia do sábado."
   },
   {
     "verse": 33,
     "original": "וַיַּקְרִ֣יבוּ אֹת֔וֹ הַמֹּצְאִ֥ים אֹת֖וֹ מְקֹשֵׁ֣שׁ עֵצִ֑ים אֶל־מֹשֶׁה֙ וְאֶֽל־אַהֲרֹ֔ן וְאֶ֖ל כׇּל־הָעֵדָֽה׃",
+    "transliteration": "vayakeriyvv 'otvo hamotse'iym 'otvo mekoshesh 'etsiym 'el-mosheh ve'el-'aharon ve'el khol-ha'edah.",
     "translation": "Eles o trouxeram, os que o haviam encontrado colhendo lenha, a Moisés e a Aarão, e a toda a congregação."
   },
   {
     "verse": 34,
     "original": "וַיַּנִּ֥יחוּ אֹת֖וֹ בַּמִּשְׁמָ֑ר כִּ֚י לֹ֣א פֹרַ֔שׁ מַה־יֵּעָשֶׂ֖ה לֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayaniyhv 'otvo vamishemar khiy lo' forash mah-ye'aseh lvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o deixaram na custódia, pois não se havia determinado o que lhe fosse feito."
   },
   {
     "verse": 35,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה מ֥וֹת יוּמַ֖ת הָאִ֑ישׁ רָג֨וֹם אֹת֤וֹ בָֽאֲבָנִים֙ כׇּל־הָ֣עֵדָ֔ה מִח֖וּץ לַֽמַּחֲנֶֽה׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh mvot yvmat ha'iysh ragvom 'otvo va'avaniym khol-ha'edah mihvts lamahaneh.",
     "translation": "E disse o Senhor a Moisés: Morrerá o homem; apedreiem-no com pedras toda a congregação fora do arraial."
   },
   {
     "verse": 36,
     "original": "וַיֹּצִ֨יאוּ אֹת֜וֹ כׇּל־הָעֵדָ֗ה אֶל־מִחוּץ֙ לַֽמַּחֲנֶ֔ה וַיִּרְגְּמ֥וּ אֹת֛וֹ בָּאֲבָנִ֖ים וַיָּמֹ֑ת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayotsiy'v 'otvo khol-ha'edah 'el-mihvts lamahaneh vayiregemv 'otvo va'avaniym vayamot kha'asher tsivah yehovah 'et-mosheh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o levaram todos fora do arraial, e apedrejaram-no, e morreu; como o Senhor ordenara a Moisés."
   },
   {
     "verse": 37,
     "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor disse a Moisés:"
   },
   {
     "verse": 38,
     "original": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹרֹתָ֑ם וְנָ֥תְנ֛וּ עַל־צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת׃",
+    "transliteration": "daver 'el-veney yisera'el ve'amareta 'alehem ve'asv lahem tsiytsit 'al-khanefey vigedeyhem ledorotam venatenv 'al-tsiytsit hakhanaf fetiyl tekhelet.",
     "translation": "Fala aos filhos de Israel e dize-lhes: Fazei-vos franjas nos cantos das vossas vestes, por gerações; e tende sobre a franja do canto uma corda azul."
   },
   {
     "verse": 39,
     "original": "וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כׇּל־מִצְוֺ֣ת יְהֹוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָת֜וּרוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃",
+    "transliteration": "vehayah lakhem letsiytsit vre'iytem 'otvo vzekharetem 'et-khol-mitsevot yehovah va'asiytem 'otam velo'-tatvrv 'aharey levavekhem ve'aharey 'eyneykhem 'asher-'atem zoniym 'ahareyhem.",
     "translation": "E será para vocês um fio de franja, e verão isso e lembrar-se-ão de todos os mandamentos do Senhor, e os cumprirão; e não se desviarão após o vosso coração e após os vossos olhos, pelos quais vocês se prostituem."
   },
   {
     "verse": 40,
     "original": "לְמַ֣עַן תִּזְכְּר֔וּ וַעֲשִׂיתֶ֖ם אֶת־כׇּל־מִצְוֺתָ֑י וִהְיִיתֶ֥ם קְדֹשִׁ֖ים לֵאלֹֽהֵיכֶֽם׃",
+    "transliteration": "lema'an tizekherv va'asiytem 'et-khol-mitsevotay viheyiytem kedoshiym le'loheykhem.",
     "translation": "Para que vos lembreis e cumprais todas as minhas ordens, e sejais santos ao vosso Deus."
   },
   {
     "verse": 41,
     "original": "אֲנִ֞י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'aniy yehovah 'eloheykhem 'asher hvotse'tiy 'etekhem me'erets mitserayim liheyvot lakhem le'lohiym 'aniy yehovah 'eloheykhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito para ser eu vosso Deus; eu sou o Senhor, vosso Deus."
   }
 ]

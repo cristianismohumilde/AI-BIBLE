@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "ψαλμὸς τῷ Δαυιδ πρὸς σέ κύριε ἦρα τὴν ψυχήν μου ὁ θεός μου ",
+    "transliteration": "psalmos to Dayid pros se kyrie ira tin psychin moy ho theos moy ",
     "translation": "Ao Senhor pertence a terra e o seu pleno domínio, os fundamentos do mundo e sua solidez."
   },
   {
     "verse": 2,
     "original": "ἐπὶ σοὶ πέποιθα μὴ καταισχυνθείην μηδὲ καταγελασάτωσάν μου οἱ ἐχθροί μου ",
+    "transliteration": "epi soi pepoitha mi kataischyntheiin mide katagelasatosan moy ohi echthroi moy ",
     "translation": "Nele confio, não serei envergonhado; nem meus inimigos zombarão de mim."
   },
   {
     "verse": 3,
     "original": "καὶ γὰρ πάντες οἱ ὑπομένοντές σε οὐ μὴ καταισχυνθῶσιν αἰσχυνθήτωσαν πάντες οἱ ἀνομοῦντες διὰ κενῆς ",
+    "transliteration": "kai gar pantes ohi hypomenontes se oy mi kataischynthosin aischynthitosan pantes ohi anomoyntes dia kenis ",
     "translation": "Pois todos os que te esperam não serão envergonhados, mas sim envergonhar-se-ão todos os transgressores por vaidade."
   },
   {
     "verse": 4,
     "original": "τὰς ὁδούς σου κύριε γνώρισόν μοι καὶ τὰς τρίβους σου δίδαξόν με ",
+    "transliteration": "tas hodoys soy kyrie gnorison moi kai tas trivoys soy didaxon me ",
     "translation": "Ensina-me, Senhor, os teus caminhos e ensinar-me-ás as tuas veredas."
   },
   {
     "verse": 5,
     "original": "ὁδήγησόν με ἐπὶ τὴν ἀλήθειάν σου καὶ δίδαξόν με ὅτι σὺ εἶ ὁ θεὸς ὁ σωτήρ μου καὶ σὲ ὑπέμεινα ὅλην τὴν ἡμέραν ",
+    "transliteration": "hodigison me epi tin alitheian soy kai didaxon me hoti sy ei ho theos ho sotir moy kai se hypemeina holin tin himeran ",
     "translation": "Guia-me para a tua verdade e ensina-me, pois tu és o Deus meu Salvador, e em ti confiei toda a minha vida."
   },
   {
     "verse": 6,
     "original": "μνήσθητι τῶν οἰκτιρμῶν σου κύριε καὶ τὰ ἐλέη σου ὅτι ἀπὸ τοῦ αἰῶνός εἰσιν ",
+    "transliteration": "mnisthiti ton oiktirmon soy kyrie kai ta elei soy hoti apo toy aionos eisin ",
     "translation": "Lembra-te, Senhor, dos teus compaixões e das tuas misericórdias, porque desde a eternidade elas existem."
   },
   {
     "verse": 7,
     "original": "ἁμαρτίας νεότητός μου καὶ ἀγνοίας μου μὴ μνησθῇς κατὰ τὸ ἔλεός σου μνήσθητί μου σὺ ἕνεκα τῆς χρηστότητός σου κύριε ",
+    "transliteration": "hamartias neotitos moy kai agnoias moy mi mnisthis kata to eleos soy mnisthiti moy sy heneka tis christotitos soy kyrie ",
     "translation": "põe não em mente a iniquidade da minha mocidade, nem a ignorância dos meus pecados; conforme a tua misericórdia lembra-te de mim, por causa da tua bondade, Senhor."
   },
   {
     "verse": 8,
     "original": "χρηστὸς καὶ εὐθὴς ὁ κύριος διὰ τοῦτο νομοθετήσει ἁμαρτάνοντας ἐν ὁδῷ ",
+    "transliteration": "christos kai eythis ho kyrios dia toyto nomothetisei hamartanontas en hodo ",
     "translation": "Bom e reto é o Senhor, por isso ordenará os pecadores no caminho."
   },
   {
     "verse": 9,
     "original": "ὁδηγήσει πραεῖς ἐν κρίσει διδάξει πραεῖς ὁδοὺς αὐτοῦ ",
+    "transliteration": "hodigisei praeis en krisei didaxei praeis hodoys aytoy ",
     "translation": "Guia os humildes na justiça, ensina aos mansos o seu caminho."
   },
   {
     "verse": 10,
     "original": "πᾶσαι αἱ ὁδοὶ κυρίου ἔλεος καὶ ἀλήθεια τοῖς ἐκζητοῦσιν τὴν διαθήκην αὐτοῦ καὶ τὰ μαρτύρια αὐτοῦ ",
+    "transliteration": "pasai ahi hodoi kyrioy eleos kai alitheia tois ekzitoysin tin diathikin aytoy kai ta martyria aytoy ",
     "translation": "Todas as veredas do Senhor são misericórdia e verdade para os que buscam a aliança dele e seus testemunhos."
   },
   {
     "verse": 11,
     "original": "ἕνεκα τοῦ ὀνόματός σου κύριε καὶ ἱλάσῃ τῇ ἁμαρτίᾳ μου πολλὴ γάρ ἐστιν ",
+    "transliteration": "heneka toy onomatos soy kyrie kai hilasi ti hamartia moy polli gar estin ",
     "translation": "por causa do teu nome, Senhor, perdoarás a minha iniqüidade, pois ela é grande."
   },
   {
     "verse": 12,
     "original": "τίς ἐστιν ἄνθρωπος ὁ φοβούμενος τὸν κύριον νομοθετήσει αὐτῷ ἐν ὁδῷ ᾗ ᾑρετίσατο ",
+    "transliteration": "tis estin anthropos ho fovoymenos ton kyrion nomothetisei ayto en hodo hi hiretisato ",
     "translation": "Quem é o homem que teme ao Senhor, a ele ordenará no caminho em que escolheu."
   },
   {
     "verse": 13,
     "original": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται καὶ τὸ σπέρμα αὐτοῦ κληρονομήσει γῆν ",
+    "transliteration": "hi psychi aytoy en agathois aylisthisetai kai to sperma aytoy klironomisei gin ",
     "translation": "A sua alma habitará nos lugares de benção, e a sua descendência herdará a terra."
   },
   {
     "verse": 14,
     "original": "κραταίωμα κύριος τῶν φοβουμένων αὐτόν καὶ τὸ ὄνομα κυρίου τῶν φοβουμένων αὐτόν καὶ ἡ διαθήκη αὐτοῦ τοῦ δηλῶσαι αὐτοῖς ",
+    "transliteration": "krataioma kyrios ton fovoymenon ayton kai to onoma kyrioy ton fovoymenon ayton kai hi diathiki aytoy toy dilosai aytois ",
     "translation": "O fortalecimento do Senhor é para os que nele temem, e o seu nome é a proteção deles; sua aliança revela-se a eles."
   },
   {
     "verse": 15,
     "original": "οἱ ὀφθαλμοί μου διὰ παντὸς πρὸς τὸν κύριον ὅτι αὐτὸς ἐκσπάσει ἐκ παγίδος τοὺς πόδας μου ",
+    "transliteration": "ohi ofthalmoi moy dia pantos pros ton kyrion hoti aytos ekspasei ek pagidos toys podas moy ",
     "translation": "Os meus olhos estão sempre voltados para o Senhor, pois ele me livrará das laças que aprisionam os meus pés."
   },
   {
     "verse": 16,
     "original": "ἐπίβλεψον ἐπ’ ἐμὲ καὶ ἐλέησόν με ὅτι μονογενὴς καὶ πτωχός εἰμι ἐγώ ",
+    "transliteration": "epivlepson ep' eme kai eleison me hoti monogenis kai ptochos eimi ego ",
     "translation": "Olha para mim e tem misericórdia de mim, pois sou único e pobre. \n\nA tradução apresenta uma imprecisão teológica no uso do termo \"único\", que não captura a profundidade do termo grego μονογενὴς, que frequentemente é usado para indicar unicidade ou exclusividade em relação à parentela. Uma tradução mais precisa seria:\n\nOlha para mim e tem misericórdia de mim, pois sou filho único e pobre."
   },
   {
     "verse": 17,
     "original": "αἱ θλίψεις τῆς καρδίας μου ἐπλατύνθησαν ἐκ τῶν ἀναγκῶν μου ἐξάγαγέ με ",
+    "transliteration": "ahi thlipseis tis kardias moy eplatynthisan ek ton anagkon moy exagage me ",
     "translation": "A angústia do meu coração se alargou por causa das minhas aflições; livra-me."
   },
   {
     "verse": 18,
     "original": "ἰδὲ τὴν ταπείνωσίν μου καὶ τὸν κόπον μου καὶ ἄφες πάσας τὰς ἁμαρτίας μου ",
+    "transliteration": "ide tin tapeinosin moy kai ton kopon moy kai afes pasas tas hamartias moy ",
     "translation": "Vede a minha humildade e o meu trabalho árduo, e perdoai todas as minhas faltas."
   },
   {
     "verse": 19,
     "original": "ἰδὲ τοὺς ἐχθρούς μου ὅτι ἐπληθύνθησαν καὶ μῖσος ἄδικον ἐμίσησάν με ",
+    "transliteration": "ide toys echthroys moy hoti eplithynthisan kai misos adikon emisisan me ",
     "translation": "Eis os meus inimigos, porque se multiplicaram; e com ódio injusto me odeiam."
   },
   {
     "verse": 20,
     "original": "φύλαξον τὴν ψυχήν μου καὶ ῥῦσαί με μὴ καταισχυνθείην ὅτι ἤλπισα ἐπὶ σέ ",
+    "transliteration": "fylaxon tin psychin moy kai rhysai me mi kataischyntheiin hoti ilpisa epi se ",
     "translation": "Guarda a minha alma e livra-me, para que não seja envergonhado, porque nele pus a minha esperança."
   },
   {
     "verse": 21,
     "original": "ἄκακοι καὶ εὐθεῖς ἐκολλῶντό μοι ὅτι ὑπέμεινά σε κύριε ",
+    "transliteration": "akakoi kai eytheis ekollonto moi hoti hypemeina se kyrie ",
     "translation": "Os sem mácula e retos se uniram a mim porque perseveraste comigo, Senhor."
   },
   {
     "verse": 22,
     "original": "λύτρωσαι ὁ θεός τὸν Ισραηλ ἐκ πασῶν τῶν θλίψεων αὐτοῦ ",
+    "transliteration": "lytrosai ho theos ton Israil ek pason ton thlipseon aytoy ",
     "translation": "Livre, ó Deus, Israel de todas as suas angústias."
   }
 ]

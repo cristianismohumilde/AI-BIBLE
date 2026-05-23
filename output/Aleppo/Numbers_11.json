@@ -2,176 +2,211 @@
   {
     "verse": 1,
     "original": "וַיְהִ֤י הָעָם֙ כְּמִתְאֹ֣נְנִ֔ים רַ֖ע בְּאׇזְנֵ֣י יְהֹוָ֑ה וַיִּשְׁמַ֤ע יְהֹוָה֙ וַיִּ֣חַר אַפּ֔וֹ וַתִּבְעַר־בָּם֙ אֵ֣שׁ יְהֹוָ֔ה וַתֹּ֖אכַל בִּקְצֵ֥ה הַֽמַּחֲנֶֽה׃",
+    "transliteration": "vayehiy ha'am khemite'oneniym ra' ve'ozeney yehovah vayishema' yehovah vayihar 'afvo vative'ar-vam 'esh yehovah vato'khal viketseh hamahaneh.",
     "translation": "E o povo tornou-se como que murmurando mal perante o Senhor, e o Senhor ouviu e ardeu de ira; e uma chama do Senhor consumiu-os, atingindo a extremidade do arraial."
   },
   {
     "verse": 2,
     "original": "וַיִּצְעַ֥ק הָעָ֖ם אֶל־מֹשֶׁ֑ה וַיִּתְפַּלֵּ֤ל מֹשֶׁה֙ אֶל־יְהֹוָ֔ה וַתִּשְׁקַ֖ע הָאֵֽשׁ׃",
+    "transliteration": "vayitse'ak ha'am 'el-mosheh vayitefalel mosheh 'el-yehovah vatisheka' ha'esh.",
     "translation": "E o povo clamou a Moisés, e Moisés orou ao Senhor, e a chama cessou."
   },
   {
     "verse": 3,
     "original": "וַיִּקְרָ֛א שֵֽׁם־הַמָּק֥וֹם הַה֖וּא תַּבְעֵרָ֑ה כִּֽי־בָעֲרָ֥ה בָ֖ם אֵ֥שׁ יְהֹוָֽה׃",
+    "transliteration": "vayikera' shem-hamakvom hahv' tave'erah khiy-va'arah vam 'esh yehovah.",
     "translation": "E deu aquele lugar o nome Taberah, pois ali se acendeu sobre eles fogo do Senhor."
   },
   {
     "verse": 4,
     "original": "וְהָֽאסַפְסֻף֙ אֲשֶׁ֣ר בְּקִרְבּ֔וֹ הִתְאַוּ֖וּ תַּאֲוָ֑ה וַיָּשֻׁ֣בוּ וַיִּבְכּ֗וּ גַּ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ מִ֥י יַאֲכִלֵ֖נוּ בָּשָֽׂר׃",
+    "transliteration": "veha'safesuf 'asher vekirevvo hite'avv ta'avah vayashuvv vayivekhv gam veney yisera'el vayo'merv miy ya'akhilenv vasar.",
     "translation": "E o conjunto que estava no meio deles teve desejos ardentes e voltaram a chorar, também os filhos de Israel, e disseram: Quem nos dará carne para comer?"
   },
   {
     "verse": 5,
     "original": "זָכַ֙רְנוּ֙ אֶת־הַדָּגָ֔ה אֲשֶׁר־נֹאכַ֥ל בְּמִצְרַ֖יִם חִנָּ֑ם אֵ֣ת הַקִּשֻּׁאִ֗ים וְאֵת֙ הָֽאֲבַטִּחִ֔ים וְאֶת־הֶחָצִ֥יר וְאֶת־הַבְּצָלִ֖ים וְאֶת־הַשּׁוּמִֽים׃",
+    "transliteration": "zakharenv 'et-hadagah 'asher-no'khal vemitserayim hinam 'et hakishu'iym ve'et ha'avatihiym ve'et-hehatsiyr ve'et-havetsaliym ve'et-hashvmiym.",
     "translation": "Lembramos do peixe que comíamos gratuitamente no Egito, as cucurbitáceas, os alfaceiros, os feijões e os cebos e os alhos."
   },
   {
     "verse": 6,
     "original": "וְעַתָּ֛ה נַפְשֵׁ֥נוּ יְבֵשָׁ֖ה אֵ֣ין כֹּ֑ל בִּלְתִּ֖י אֶל־הַמָּ֥ן עֵינֵֽינוּ׃",
+    "transliteration": "ve'atah nafeshenv yeveshah 'eyn khol viletiy 'el-haman 'eyneynv.",
     "translation": "E agora nossa alma está seca; não há nada além do maná diante de nossos olhos."
   },
   {
     "verse": 7,
     "original": "וְהַמָּ֕ן כִּזְרַע־גַּ֖ד ה֑וּא וְעֵינ֖וֹ כְּעֵ֥ין הַבְּדֹֽלַח׃",
+    "transliteration": "vehaman khizera'-gad hv' ve'eynvo khe'eyn havedolah.",
     "translation": "E o maná era como semente de corianda, e seu aspecto como o do bdelloide."
   },
   {
     "verse": 8,
     "original": "שָׁ֩טוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם א֤וֹ דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹת֖וֹ עֻג֑וֹת וְהָיָ֣ה טַעְמ֔וֹ כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃",
+    "transliteration": "shatv ha'am velaketv vetahanv varehayim 'vo dakhv vamedokhah vvishelv vafarvr ve'asv 'otvo 'ugvot vehayah ta'emvo kheta'am leshad hashamen.",
     "translation": "O povo andou e colheu, moendo nos mós ou esmagando na prensa e cozinhando nas panelas, fazendo-o em pães; e o seu sabor era como o de bolo frito no azeite."
   },
   {
     "verse": 9,
     "original": "וּבְרֶ֧דֶת הַטַּ֛ל עַל־הַֽמַּחֲנֶ֖ה לָ֑יְלָה יֵרֵ֥ד הַמָּ֖ן עָלָֽיו׃",
+    "transliteration": "vveredet hatal 'al-hamahaneh layelah yered haman 'alayv.",
     "translation": "E na descida do orvalho sobre o acampamento de noite, descia o maná sobre ele."
   },
   {
     "verse": 10,
     "original": "וַיִּשְׁמַ֨ע מֹשֶׁ֜ה אֶת־הָעָ֗ם בֹּכֶה֙ לְמִשְׁפְּחֹתָ֔יו אִ֖ישׁ לְפֶ֣תַח אׇהֳל֑וֹ וַיִּֽחַר־אַ֤ף יְהֹוָה֙ מְאֹ֔ד וּבְעֵינֵ֥י מֹשֶׁ֖ה רָֽע׃",
+    "transliteration": "vayishema' mosheh 'et-ha'am vokheh lemishefehotayv 'iysh lefetah 'oholvo vayihar-'af yehovah me'od vve'eyney mosheh ra'.",
     "translation": "E ouviu Moisés o povo chorando por suas famílias, cada um junto à entrada de sua tenda; e enfureceu-se muito o Senhor, e a coisa pareceu mal aos olhos de Moisés."
   },
   {
     "verse": 11,
     "original": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־יְהֹוָ֗ה לָמָ֤ה הֲרֵעֹ֙תָ֙ לְעַבְדֶּ֔ךָ וְלָ֛מָּה לֹא־מָצָ֥תִי חֵ֖ן בְּעֵינֶ֑יךָ לָשׂ֗וּם אֶת־מַשָּׂ֛א כׇּל־הָעָ֥ם הַזֶּ֖ה עָלָֽי׃",
+    "transliteration": "vayo'mer mosheh 'el-yehovah lamah hare'ota le'avedekha velamah lo'-matsatiy hen ve'eyneykha lasvm 'et-masa' khol-ha'am hazeh 'alay.",
     "translation": "E Moisés disse ao Senhor: Por que te fazes tão mal com o teu servo? E por que não achei graça aos teus olhos, para que ponhas sobre mim a carga de todo este povo?"
   },
   {
     "verse": 12,
     "original": "הֶאָנֹכִ֣י הָרִ֗יתִי אֵ֚ת כׇּל־הָעָ֣ם הַזֶּ֔ה אִם־אָנֹכִ֖י יְלִדְתִּ֑יהוּ כִּֽי־תֹאמַ֨ר אֵלַ֜י שָׂאֵ֣הוּ בְחֵיקֶ֗ךָ כַּאֲשֶׁ֨ר יִשָּׂ֤א הָאֹמֵן֙ אֶת־הַיֹּנֵ֔ק עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֖עְתָּ לַאֲבֹתָֽיו׃",
+    "transliteration": "he'anokhiy hariytiy 'et khol-ha'am hazeh 'im-'anokhiy yelidetiyhv khiy-to'mar 'elay sa'ehv veheykekha kha'asher yisa' ha'omen 'et-hayonek 'al ha'adamah 'asher nisheva'eta la'avotayv.",
     "translation": "Acaso eu concebi toda esta multidão ou os dei à luz, para que me digas: Carrega-o no teu seio, como a ama carrega o lactente? Até à terra que juraste aos seus antepassados?"
   },
   {
     "verse": 13,
     "original": "מֵאַ֤יִן לִי֙ בָּשָׂ֔ר לָתֵ֖ת לְכׇל־הָעָ֣ם הַזֶּ֑ה כִּֽי־יִבְכּ֤וּ עָלַי֙ לֵאמֹ֔ר תְּנָה־לָּ֥נוּ בָשָׂ֖ר וְנֹאכֵֽלָה׃",
+    "transliteration": "me'ayin liy vasar latet lekhol-ha'am hazeh khiy-yivekhv 'alay le'mor tenah-lanv vasar veno'khelah.",
     "translation": "De onde me virá carne para dar a todo este povo, pois eles choram sobre mim dizendo: Dê-nos carne e comeremos?"
   },
   {
     "verse": 14,
     "original": "לֹֽא־אוּכַ֤ל אָנֹכִי֙ לְבַדִּ֔י לָשֵׂ֖את אֶת־כׇּל־הָעָ֣ם הַזֶּ֑ה כִּ֥י כָבֵ֖ד מִמֶּֽנִּי׃",
+    "transliteration": "lo'-'vkhal 'anokhiy levadiy lase't 'et-khol-ha'am hazeh khiy khaved mimeniy.",
     "translation": "Não posso suportar sozinho todo esse povo, pois é muito pesado para mim."
   },
   {
     "verse": 15,
     "original": "וְאִם־כָּ֣כָה&thinsp;<b>׀</b> אַתְּ־עֹ֣שֶׂה לִּ֗י הׇרְגֵ֤נִי נָא֙ הָרֹ֔ג אִם־מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ וְאַל־אֶרְאֶ֖ה בְּרָעָתִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-khakhah&thinsp;<b>|</b> 'ate-'oseh liy horegeniy na' harog 'im-matsa'tiy hen ve'eyneykha ve'al-'ere'eh vera'atiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se assim fizeres comigo, mata-me, te suplico, mata-me; pois achado achei graça aos teus olhos, e não permitas que eu veja a minha ruína."
   },
   {
     "verse": 16,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה אֶסְפָה־לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ אֲשֶׁ֣ר יָדַ֔עְתָּ כִּי־הֵ֛ם זִקְנֵ֥י הָעָ֖ם וְשֹׁטְרָ֑יו וְלָקַחְתָּ֤ אֹתָם֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד וְהִֽתְיַצְּב֥וּ שָׁ֖ם עִמָּֽךְ׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh 'esefah-liy shive'iym 'iysh mizikeney yisera'el 'asher yada'eta khiy-hem zikeney ha'am veshoterayv velakaheta 'otam 'el-'ohel mvo'ed vehiteyatsevv sham 'imakhe.",
     "translation": "E disse o Senhor a Moisés: Reúne-me setenta homens dentre os anciãos de Israel, dos quais tu sabes que são os cabeças do povo e seus oficiais; e os farás vir ao Tabernáculo da Congregação, para ali se apresentarem contigo."
   },
   {
     "verse": 17,
     "original": "וְיָרַדְתִּ֗י וְדִבַּרְתִּ֣י עִמְּךָ֮ שָׁם֒ וְאָצַלְתִּ֗י מִן־הָר֛וּחַ אֲשֶׁ֥ר עָלֶ֖יךָ וְשַׂמְתִּ֣י עֲלֵיהֶ֑ם וְנָשְׂא֤וּ אִתְּךָ֙ בְּמַשָּׂ֣א הָעָ֔ם וְלֹא־תִשָּׂ֥א אַתָּ֖ה לְבַדֶּֽךָ׃",
+    "transliteration": "veyaradetiy vedivaretiy 'imekha sham ve'atsaletiy min-harvha 'asher 'aleykha vesametiy 'aleyhem venase'v 'itekha vemasa' ha'am velo'-tisa' 'atah levadekha.",
     "translation": "E descerei e falarei contigo ali, e separarei do espírito que está sobre ti e o porei sobre eles; e eles te ajudarão a levar a carga do povo, de modo que tu não carregues sozinho."
   },
   {
     "verse": 18,
     "original": "וְאֶל־הָעָ֨ם תֹּאמַ֜ר הִתְקַדְּשׁ֣וּ לְמָחָר֮ וַאֲכַלְתֶּ֣ם בָּשָׂר֒ כִּ֡י בְּכִיתֶם֩ בְּאׇזְנֵ֨י יְהֹוָ֜ה לֵאמֹ֗ר מִ֤י יַאֲכִלֵ֙נוּ֙ בָּשָׂ֔ר כִּי־ט֥וֹב לָ֖נוּ בְּמִצְרָ֑יִם וְנָתַ֨ן יְהֹוָ֥ה לָכֶ֛ם בָּשָׂ֖ר וַאֲכַלְתֶּֽם׃",
+    "transliteration": "ve'el-ha'am to'mar hitekadeshv lemahar va'akhaletem vasar khiy vekhiytem ve'ozeney yehovah le'mor miy ya'akhilenv vasar khiy-tvov lanv vemitserayim venatan yehovah lakhem vasar va'akhaletem.",
     "translation": "E ao povo dirás: Santificai-vos para amanhã, e comereis carne; pois chorastes perante o Senhor dizendo: Quem nos daria carne para comer? Pois era bom para nós no Egito. O Senhor dará a vós carne, e comereis."
   },
   {
     "verse": 19,
     "original": "לֹ֣א י֥וֹם אֶחָ֛ד תֹּאכְל֖וּן וְלֹ֣א יוֹמָ֑יִם וְלֹ֣א&thinsp;<b>׀</b> חֲמִשָּׁ֣ה יָמִ֗ים וְלֹא֙ עֲשָׂרָ֣ה יָמִ֔ים וְלֹ֖א עֶשְׂרִ֥ים יֽוֹם׃",
+    "transliteration": "lo' yvom 'ehad to'khelvn velo' yvomayim velo'&thinsp;<b>|</b> hamishah yamiym velo' 'asarah yamiym velo' 'eseriym yvom.",
     "translation": "Não um dia comerão, nem dois dias, e não cinco dias, nem dez dias, e não vinte dias."
   },
   {
     "verse": 20,
     "original": "עַ֣ד&thinsp;<b>׀</b> חֹ֣דֶשׁ יָמִ֗ים עַ֤ד אֲשֶׁר־יֵצֵא֙ מֵֽאַפְּכֶ֔ם וְהָיָ֥ה לָכֶ֖ם לְזָרָ֑א יַ֗עַן כִּֽי־מְאַסְתֶּ֤ם אֶת־יְהֹוָה֙ אֲשֶׁ֣ר בְּקִרְבְּכֶ֔ם וַתִּבְכּ֤וּ לְפָנָיו֙ לֵאמֹ֔ר לָ֥מָּה זֶּ֖ה יָצָ֥אנוּ מִמִּצְרָֽיִם׃",
+    "transliteration": "'ad&thinsp;<b>|</b> hodesh yamiym 'ad 'asher-yetse' me'afekhem vehayah lakhem lezara' ya'an khiy-me'asetem 'et-yehovah 'asher vekirevekhem vativekhv lefanayv le'mor lamah zeh yatsa'nv mimitserayim.",
     "translation": "Até o mês de dias, até que saia dos vossos fornos, e será para vós como semeadura; porque desdenhastes do Senhor, vosso Deus, que está no meio de vós, e chorastes diante dele, dizendo: Por que é que saímos do Egito?"
   },
   {
     "verse": 21,
     "original": "וַיֹּ֘אמֶר֮ מֹשֶׁה֒ שֵׁשׁ־מֵא֥וֹת אֶ֙לֶף֙ רַגְלִ֔י הָעָ֕ם אֲשֶׁ֥ר אָנֹכִ֖י בְּקִרְבּ֑וֹ וְאַתָּ֣ה אָמַ֗רְתָּ בָּשָׂר֙ אֶתֵּ֣ן לָהֶ֔ם וְאָכְל֖וּ חֹ֥דֶשׁ יָמִֽים׃",
+    "transliteration": "vayo'mer mosheh shesh-me'vot 'elef rageliy ha'am 'asher 'anokhiy vekirevvo ve'atah 'amareta vasar 'eten lahem ve'akhelv hodesh yamiym.",
     "translation": "E Moisés disse: Seiscentos mil pés é o povo que estou no meio dele; e tu dizes: Carne darei a eles, e comerão um mês inteiro."
   },
   {
     "verse": 22,
     "original": "הֲצֹ֧אן וּבָקָ֛ר יִשָּׁחֵ֥ט לָהֶ֖ם וּמָצָ֣א לָהֶ֑ם אִ֣ם אֶֽת־כׇּל־דְּגֵ֥י הַיָּ֛ם יֵאָסֵ֥ף לָהֶ֖ם וּמָצָ֥א לָהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hatso'n vvakar yishahet lahem vmatsa' lahem 'im 'et-khol-degey hayam ye'asef lahem vmatsa' lahem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Ovelhas e bois lhes serão abatidos, e os encontrará; se todos os peixes do mar lhes for reunido, e os achará."
   },
   {
     "verse": 23,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הֲיַ֥ד יְהֹוָ֖ה תִּקְצָ֑ר עַתָּ֥ה תִרְאֶ֛ה הֲיִקְרְךָ֥ דְבָרִ֖י אִם־לֹֽא׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh hayad yehovah tiketsar 'atah tire'eh hayikerekha devariy 'im-lo'.",
     "translation": "E disse o Senhor a Moisés: Será curta a mão do Senhor? Agora verás se as minhas palavras se cumprem ou não."
   },
   {
     "verse": 24,
     "original": "וַיֵּצֵ֣א מֹשֶׁ֔ה וַיְדַבֵּר֙ אֶל־הָעָ֔ם אֵ֖ת דִּבְרֵ֣י יְהֹוָ֑ה וַיֶּאֱסֹ֞ף שִׁבְעִ֥ים אִישׁ֙ מִזִּקְנֵ֣י הָעָ֔ם וַֽיַּעֲמֵ֥ד אֹתָ֖ם סְבִיבֹ֥ת הָאֹֽהֶל׃",
+    "transliteration": "vayetse' mosheh vayedaver 'el-ha'am 'et diverey yehovah vaye'esof shive'iym 'iysh mizikeney ha'am vaya'amed 'otam seviyvot ha'ohel.",
     "translation": "E saiu Moisés e falou ao povo as palavras do SENHOR, e reuniu setenta homens dos anciãos do povo e os fez ficar em redor da tenda."
   },
   {
     "verse": 25,
     "original": "וַיֵּ֨רֶד יְהֹוָ֥ה&thinsp;<small>׀</small>&thinsp;בֶּעָנָן֮ וַיְדַבֵּ֣ר אֵלָיו֒ וַיָּ֗אצֶל מִן־הָר֙וּחַ֙ אֲשֶׁ֣ר עָלָ֔יו וַיִּתֵּ֕ן עַל־שִׁבְעִ֥ים אִ֖ישׁ הַזְּקֵנִ֑ים וַיְהִ֗י כְּנ֤וֹחַ עֲלֵיהֶם֙ הָר֔וּחַ וַיִּֽתְנַבְּא֖וּ וְלֹ֥א יָסָֽפוּ׃",
+    "transliteration": "vayered yehovah&thinsp;<small>|</small>&thinsp;ve'anan vayedaver 'elayv vaya'tsel min-harvha 'asher 'alayv vayiten 'al-shive'iym 'iysh hazekeniym vayehiy khenvoha 'aleyhem harvha vayitenave'v velo' yasafv.",
     "translation": "E o Senhor desceu na nuvem e falou com ele; tirou do espírito que estava sobre ele e o colocou sobre os setenta anciãos. Veio sobre eles o espírito, e profetizaram, mas não continuaram."
   },
   {
     "verse": 26,
     "original": "וַיִּשָּׁאֲר֣וּ שְׁנֵֽי־אֲנָשִׁ֣ים&thinsp;<small>׀</small>&thinsp;בַּֽמַּחֲנֶ֡ה שֵׁ֣ם הָאֶחָ֣ד&thinsp;<small>׀</small>&thinsp;אֶלְדָּ֡ד וְשֵׁם֩ הַשֵּׁנִ֨י מֵידָ֜ד וַתָּ֧נַח עֲלֵהֶ֣ם הָר֗וּחַ וְהֵ֙מָּה֙ בַּכְּתֻבִ֔ים וְלֹ֥א יָצְא֖וּ הָאֹ֑הֱלָה וַיִּֽתְנַבְּא֖וּ בַּֽמַּחֲנֶֽה׃",
+    "transliteration": "vayisha'arv sheney-'anashiym&thinsp;<small>|</small>&thinsp;vamahaneh shem ha'ehad&thinsp;<small>|</small>&thinsp;'eledad veshem hasheniy meydad vatanah 'alehem harvha vehemah vakhetuviym velo' yatse'v ha'ohelah vayitenave'v vamahaneh.",
     "translation": "E restaram dois homens no acampamento, o nome de um era Eldad e o nome do outro Medade; e sobre eles descansou o Espírito, e eles profetizavam no acampamento, embora não tivessem saído à tenda."
   },
   {
     "verse": 27,
     "original": "וַיָּ֣רׇץ הַנַּ֔עַר וַיַּגֵּ֥ד לְמֹשֶׁ֖ה וַיֹּאמַ֑ר אֶלְדָּ֣ד וּמֵידָ֔ד מִֽתְנַבְּאִ֖ים בַּֽמַּחֲנֶֽה׃",
+    "transliteration": "vayarots hana'ar vayaged lemosheh vayo'mar 'eledad vmeydad mitenave'iym vamahaneh.",
     "translation": "E o jovem correu e anunciou a Moisés, dizendo: Eldade e Medade estão profetizando no acampamento."
   },
   {
     "verse": 28,
     "original": "וַיַּ֜עַן יְהוֹשֻׁ֣עַ בִּן־נ֗וּן מְשָׁרֵ֥ת מֹשֶׁ֛ה מִבְּחֻרָ֖יו וַיֹּאמַ֑ר אֲדֹנִ֥י מֹשֶׁ֖ה כְּלָאֵֽם׃",
+    "transliteration": "vaya'an yehvoshu'a vin-nvn mesharet mosheh mivehurayv vayo'mar 'adoniy mosheh khela'em.",
     "translation": "E Josué, filho de Nun, servo de Moisés, entre seus jovens, respondeu e disse: Meu senhor, Moisés, fecha suas mãos sobre eles."
   },
   {
     "verse": 29,
     "original": "וַיֹּ֤אמֶר לוֹ֙ מֹשֶׁ֔ה הַֽמְקַנֵּ֥א אַתָּ֖ה לִ֑י וּמִ֨י יִתֵּ֜ן כׇּל־עַ֤ם יְהֹוָה֙ נְבִיאִ֔ים כִּי־יִתֵּ֧ן יְהֹוָ֛ה אֶת־רוּח֖וֹ עֲלֵיהֶֽם׃",
+    "transliteration": "vayo'mer lvo mosheh hamekane' 'atah liy vmiy yiten khol-'am yehovah neviy'iym khiy-yiten yehovah 'et-rvhvo 'aleyhem.",
     "translation": "E disse-lhe Moisés: Estás ciumento de mim? E quem daria que todo o povo do Senhor fosse profeta, se o Senhor desse o seu Espírito sobre eles?"
   },
   {
     "verse": 30,
     "original": "וַיֵּאָסֵ֥ף מֹשֶׁ֖ה אֶל־הַֽמַּחֲנֶ֑ה ה֖וּא וְזִקְנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vaye'asef mosheh 'el-hamahaneh hv' vezikeney yisera'el.",
     "translation": "E Moisés se juntou ao acampamento, ele e os anciãos de Israel."
   },
   {
     "verse": 31,
     "original": "וְר֜וּחַ נָסַ֣ע&thinsp;<b>׀</b> מֵאֵ֣ת יְהֹוָ֗ה וַיָּ֣גׇז שַׂלְוִים֮ מִן־הַיָּם֒ וַיִּטֹּ֨שׁ עַל־הַֽמַּחֲנֶ֜ה כְּדֶ֧רֶךְ י֣וֹם כֹּ֗ה וּכְדֶ֤רֶךְ יוֹם֙ כֹּ֔ה סְבִיב֖וֹת הַֽמַּחֲנֶ֑ה וּכְאַמָּתַ֖יִם עַל־פְּנֵ֥י הָאָֽרֶץ׃",
+    "transliteration": "vervha nasa'&thinsp;<b>|</b> me'et yehovah vayagoz saleviym min-hayam vayitosh 'al-hamahaneh khederekhe yvom khoh vkhederekhe yvom khoh seviyvvot hamahaneh vkhe'amatayim 'al-feney ha'arets.",
     "translation": "E o Espírito de Jeová removeu e fez avançar uma nuvem de gafanhotos sobre o acampamento; pelo espaço de um dia deste lado, e pelo espaço de um dia daquele lado, ao redor do acampamento; e eram como duas côvados sobre a superfície da terra."
   },
   {
     "verse": 32,
     "original": "וַיָּ֣קׇם הָעָ֡ם כׇּל־הַיּוֹם֩ הַה֨וּא וְכׇל־הַלַּ֜יְלָה וְכֹ֣ל&thinsp;<b>׀</b> י֣וֹם הַֽמׇּחֳרָ֗ת וַיַּֽאַסְפוּ֙ אֶת־הַשְּׂלָ֔ו הַמַּמְעִ֕יט אָסַ֖ף עֲשָׂרָ֣ה חֳמָרִ֑ים וַיִּשְׁטְח֤וּ לָהֶם֙ שָׁט֔וֹחַ סְבִיב֖וֹת הַֽמַּחֲנֶֽה׃",
+    "transliteration": "vayakom ha'am khol-hayvom hahv' vekhol-halayelah vekhol&thinsp;<b>|</b> yvom hamohorat vaya'asefv 'et-haselav hamame'iyt 'asaf 'asarah homariym vayishetehv lahem shatvoha seviyvvot hamahaneh.",
     "translation": "E levantou-se o povo todo aquele dia e toda aquela noite, até ao dia seguinte, e ajuntaram a resina. O que menos colheu, ajuntou dez carregamentos; e ambos estenderam-na em torno do arraial."
   },
   {
     "verse": 33,
     "original": "הַבָּשָׂ֗ר עוֹדֶ֙נּוּ֙ בֵּ֣ין שִׁנֵּיהֶ֔ם טֶ֖רֶם יִכָּרֵ֑ת וְאַ֤ף יְהֹוָה֙ חָרָ֣ה בָעָ֔ם וַיַּ֤ךְ יְהֹוָה֙ בָּעָ֔ם מַכָּ֖ה רַבָּ֥ה מְאֹֽד׃",
+    "transliteration": "havasar 'vodenv veyn shineyhem terem yikharet ve'af yehovah harah va'am vayakhe yehovah va'am makhah ravah me'od.",
     "translation": "A carne ainda estava entre seus dentes, não havia sido cortada, e o Senhor se irou contra o povo, e o Senhor feriu o povo com grande praga."
   },
   {
     "verse": 34,
     "original": "וַיִּקְרָ֛א אֶת־שֵֽׁם־הַמָּק֥וֹם הַה֖וּא קִבְר֣וֹת הַֽתַּאֲוָ֑ה כִּי־שָׁם֙ קָֽבְר֔וּ אֶת־הָעָ֖ם הַמִּתְאַוִּֽים׃",
+    "transliteration": "vayikera' 'et-shem-hamakvom hahv' kivervot hata'avah khiy-sham kaverv 'et-ha'am hamite'aviym.",
     "translation": "E chamou o nome do lugar Quibrot Hataavah, pois ali foram sepultados os que tinham cobiçado."
   },
   {
     "verse": 35,
     "original": "מִקִּבְר֧וֹת הַֽתַּאֲוָ֛ה נָסְע֥וּ הָעָ֖ם חֲצֵר֑וֹת וַיִּהְי֖וּ בַּחֲצֵרֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "mikivervot hata'avah nase'v ha'am hatservot vayiheyv vahatservot.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Do abismo das suas aves de rapina, o povo partiu para as tendas e ali permaneceram nas tendas."
   }
 ]

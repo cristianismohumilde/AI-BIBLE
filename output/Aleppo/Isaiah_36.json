@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "וַיְהִ֡י בְּאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה לַמֶּ֣לֶךְ חִזְקִיָּ֗הוּ עָלָ֞ה סַנְחֵרִ֤יב מֶֽלֶךְ־אַשּׁוּר֙ עַ֣ל כׇּל־עָרֵ֧י יְהוּדָ֛ה הַבְּצֻר֖וֹת וַֽיִּתְפְּשֵֽׂם׃",
+    "transliteration": "vayehiy ve'areva' 'esereh shanah lamelekhe hizekiyahv 'alah saneheriyv melekhe-'ashvr 'al khol-'arey yehvdah havetsurvot vayitefesem.",
     "translation": "E sucedeu que no quatorze ano do reinado de Ezequias, Senequeribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá e tomou-as."
   },
   {
     "verse": 2,
     "original": "וַיִּשְׁלַ֥ח מֶֽלֶךְ־אַשּׁ֣וּר&thinsp;<b>׀</b> אֶת־רַבְשָׁקֵ֨ה מִלָּכִ֧ישׁ יְרוּשָׁלַ֛͏ְמָה אֶל־הַמֶּ֥לֶךְ חִזְקִיָּ֖הוּ בְּחֵ֣יל כָּבֵ֑ד וַֽיַּעֲמֹ֗ד בִּתְעָלַת֙ הַבְּרֵכָ֣ה הָעֶלְיוֹנָ֔ה בִּמְסִלַּ֖ת שְׂדֵ֥ה כוֹבֵֽס׃",
+    "transliteration": "vayishelah melekhe-'ashvr&thinsp;<b>|</b> 'et-raveshakeh milakhiysh yervshalaemah 'el-hamelekhe hizekiyahv veheyl khaved vaya'amod vite'alat haverekhah ha'eleyvonah vimesilat sedeh khvoves.",
     "translation": "E o rei da Assíria enviou Rabsaqué de Láquis a Jerusalém, ao rei Ezequias, com um exército poderoso. Ele parou no alto da escada que conduzia à cisterna superior, na estrada do campo do Tecelão."
   },
   {
     "verse": 3,
     "original": "וַיֵּצֵ֥א אֵלָ֛יו אֶלְיָקִ֥ים בֶּן־חִלְקִיָּ֖הוּ אֲשֶׁ֣ר עַל־הַבָּ֑יִת וְשֶׁבְנָא֙ הַסֹּפֵ֔ר וְיוֹאָ֥ח בֶּן־אָסָ֖ף הַמַּזְכִּֽיר׃",
+    "transliteration": "vayetse' 'elayv 'eleyakiym ven-hilekiyahv 'asher 'al-havayit veshevena' hasofer veyvo'ah ven-'asaf hamazekhiyr.",
     "translation": "E saiu-lhe ao encontro Eliacim, filho de Hilquias, que estava encarregado da casa, e Sebná, o escriba, e Joaquim, filho de Asafe, o oficial."
   },
   {
     "verse": 4,
     "original": "וַיֹּ֤אמֶר אֲלֵיהֶם֙ רַבְשָׁקֵ֔ה אִמְרוּ־נָ֖א אֶל־חִזְקִיָּ֑הוּ כֹּֽה־אָמַ֞ר הַמֶּ֤לֶךְ הַגָּדוֹל֙ מֶ֣לֶךְ אַשּׁ֔וּר מָ֧ה הַבִּטָּח֛וֹן הַזֶּ֖ה אֲשֶׁ֥ר בָּטָֽחְתָּ׃",
+    "transliteration": "vayo'mer 'aleyhem raveshakeh 'imerv-na' 'el-hizekiyahv khoh-'amar hamelekhe hagadvol melekhe 'ashvr mah havitahvon hazeh 'asher vataheta.",
     "translation": "E disse-lhes Rabshakeh: Dizei, por favor, a Ezequias: Assim diz o rei grande, o rei da Assíria: Qual é essa segurança em que tu confias?"
   },
   {
     "verse": 5,
     "original": "אָמַ֙רְתִּי֙ אַךְ־דְּבַר־שְׂפָתַ֔יִם עֵצָ֥ה וּגְבוּרָ֖ה לַמִּלְחָמָ֑ה עַתָּה֙ עַל־מִ֣י בָטַ֔חְתָּ כִּ֥י מָרַ֖דְתָּ בִּֽי׃",
+    "transliteration": "'amaretiy 'akhe-devar-sefatayim 'etsah vgevvrah lamilehamah 'atah 'al-miy vataheta khiy maradeta viy.",
     "translation": "Disse eu: Só a palavra dos meus lábios, conselho e força para a guerra; agora, em quem confiaste que te rebelaste contra mim?"
   },
   {
     "verse": 6,
     "original": "הִנֵּ֣ה בָטַ֡חְתָּ עַל־מִשְׁעֶ֩נֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל־מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶלֶךְ־מִצְרַ֔יִם לְכׇֽל־הַבֹּטְחִ֖ים עָלָֽיו׃",
+    "transliteration": "hineh vataheta 'al-mishe'enet hakaneh haratsvts hazeh 'al-mitserayim 'asher yisamekhe 'iysh 'alayv vva' vekhafvo vnekavah khen fare'oh melekhe-mitserayim lekhol-havotehiym 'alayv.",
     "translation": "Eis que te confiaste no bordão quebrado do Egito, que ferirá e lacerará a todos os que nele se apoiarem; tal é o faraó, rei do Egito, para todos quantos nEle confiam."
   },
   {
     "verse": 7,
     "original": "וְכִֽי־תֹאמַ֣ר אֵלַ֔י אֶל־יְהֹוָ֥ה אֱלֹהֵ֖ינוּ בָּטָ֑חְנוּ הֲלוֹא־ה֗וּא אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֙הוּ֙ אֶת־בָּמֹתָ֣יו וְאֶת־מִזְבְּחֹתָ֔יו וַיֹּ֤אמֶר לִיהוּדָה֙ וְלִיר֣וּשָׁלַ֔͏ִם לִפְנֵ֛י הַמִּזְבֵּ֥חַ הַזֶּ֖ה תִּֽשְׁתַּחֲוֽוּ׃",
+    "transliteration": "vekhiy-to'mar 'elay 'el-yehovah 'eloheynv vatahenv halvo'-hv' 'asher hesiyr hizekiyahv 'et-vamotayv ve'et-mizevehotayv vayo'mer liyhvdah veliyrvshalaim lifeney hamizeveha hazeh tishetahavv.",
     "translation": "E quando disseste a mim: No Senhor, o nosso Deus, confiamos. Porventura não foi ele que removeu as alturas de Ezequias e seus altares? Ele disse a Judá e a Jerusalém: Diante deste altar vos inclinareis."
   },
   {
     "verse": 8,
     "original": "וְעַתָּה֙ הִתְעָ֣רֶב נָ֔א אֶת־אֲדֹנִ֖י הַמֶּ֣לֶךְ אַשּׁ֑וּר וְאֶתְּנָ֤ה לְךָ֙ אַלְפַּ֣יִם סוּסִ֔ים אִם־תּוּכַ֕ל לָ֥תֶת לְךָ֖ רֹכְבִ֥ים עֲלֵיהֶֽם׃",
+    "transliteration": "ve'atah hite'arev na' 'et-'adoniy hamelekhe 'ashvr ve'etenah lekha 'alefayim svsiym 'im-tvkhal latet lekha rokheviym 'aleyhem.",
     "translation": "E agora, suplica-te, intercede com o teu senhor, o rei Assur, e eu lhe darei dois mil cavalos, se puderes fornecer-lhe também cavaleiros sobre eles."
   },
   {
     "verse": 9,
     "original": "וְאֵ֣יךְ תָּשִׁ֗יב אֵ֠ת פְּנֵ֨י פַחַ֥ת אַחַ֛ד עַבְדֵ֥י אֲדֹנִ֖י הַקְּטַנִּ֑ים וַתִּבְטַ֤ח לְךָ֙ עַל־מִצְרַ֔יִם לְרֶ֖כֶב וּלְפָרָשִֽׁים׃",
+    "transliteration": "ve'eykhe tashiyv 'et feney fahat 'ahad 'avedey 'adoniy haketaniym vativetah lekha 'al-mitserayim lerekhev vlefarashiym.",
     "translation": "E como poderás tu resistir a um mero servo dos teus senhores? Porventura confias em Egito para cavalos e carros?"
   },
   {
     "verse": 10,
     "original": "וְעַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהֹוָ֔ה עָלִ֛יתִי עַל־הָאָ֥רֶץ הַזֹּ֖את לְהַשְׁחִיתָ֑הּ יְהֹוָה֙ אָמַ֣ר אֵלַ֔י עֲלֵ֛ה אֶל־הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'atah hamivale'adey yehovah 'aliytiy 'al-ha'arets hazo't lehashehiytah yehovah 'amar 'elay 'aleh 'el-ha'arets hazo't vehashehiytah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E agora, além do Senhor, subi sobre esta terra para destruí-la? O Senhor me disse: Suba a essa terra e destrua-a."
   },
   {
     "verse": 11,
     "original": "וַיֹּ֣אמֶר אֶלְיָקִים֩ וְשֶׁבְנָ֨א וְיוֹאָ֜ח אֶל־רַבְשָׁקֵ֗ה דַּבֶּר־נָ֤א אֶל־עֲבָדֶ֙יךָ֙ אֲרָמִ֔ית כִּ֥י שֹׁמְעִ֖ים אֲנָ֑חְנוּ וְאַל־תְּדַבֵּ֤ר אֵלֵ֙ינוּ֙ יְהוּדִ֔ית בְּאׇזְנֵ֣י הָעָ֔ם אֲשֶׁ֖ר עַל־הַחוֹמָֽה׃",
+    "transliteration": "vayo'mer 'eleyakiym veshevena' veyvo'ah 'el-raveshakeh daver-na' 'el-'avadeykha 'aramiyt khiy shome'iym 'anahenv ve'al-tedaver 'eleynv yehvdiyt ve'ozeney ha'am 'asher 'al-hahvomah.",
     "translation": "E Eliacim, Shebna e Joaá disseram a Rabshake: Fala-nos agora em aramaico, pois compreendemos; não fale conosco na língua judaica, à orelha do povo que está sobre o muro."
   },
   {
     "verse": 12,
     "original": "וַיֹּ֣אמֶר רַבְשָׁקֵ֗ה הַאֶ֨ל אֲדֹנֶ֤יךָ וְאֵלֶ֙יךָ֙ שְׁלָחַ֣נִי אֲדֹנִ֔י לְדַבֵּ֖ר אֶת־הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲלֹ֣א עַל־הָאֲנָשִׁ֗ים הַיֹּֽשְׁבִים֙ עַל־הַ֣חוֹמָ֔ה לֶאֱכֹ֣ל אֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[צוֹאָתָ֗ם]</span> <span class=\"mam-kq-k\">(חראיהם)</span></span> וְלִשְׁתּ֛וֹת אֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[מֵימֵ֥י רַגְלֵיהֶ֖ם]</span> <span class=\"mam-kq-k\">(שיניהם)</span></span> עִמָּכֶֽם׃",
+    "transliteration": "vayo'mer raveshakeh ha'el 'adoneykha ve'eleykha shelahaniy 'adoniy ledaver 'et-hadevariym ha'eleh halo' 'al-ha'anashiym hayosheviym 'al-hahvomah le'ekhol 'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[tsvo'atam]</span> <span class=\"mam-kq-k\">(hr'yhm)</span></span> velishetvot 'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[meymey rageleyhem]</span> <span class=\"mam-kq-k\">(synyhm)</span></span> 'imakhem.",
     "translation": "E disse Rabshakeh: Ouvi, portanto, as palavras que enviou o meu senhor ao teu senhor e a ti. Não é por acaso que ele fala para os homens assentados sobre o muro? Que eles comam as suas próprias imundícies e bebam a água de seus pés entre vós?"
   },
   {
     "verse": 13,
     "original": "וַֽיַּעֲמֹד֙ רַבְשָׁקֵ֔ה וַיִּקְרָ֥א בְקוֹל־גָּד֖וֹל יְהוּדִ֑ית וַיֹּ֕אמֶר שִׁמְע֗וּ אֶת־דִּבְרֵ֛י הַמֶּ֥לֶךְ הַגָּד֖וֹל מֶ֥לֶךְ אַשּֽׁוּר׃",
+    "transliteration": "vaya'amod raveshakeh vayikera' vekvol-gadvol yehvdiyt vayo'mer shime'v 'et-diverey hamelekhe hagadvol melekhe 'ashvr.",
     "translation": "Estando Ravshakê em pé, gritou em língua judaica: Ouvi as palavras do grande rei, o rei da Assíria!"
   },
   {
     "verse": 14,
     "original": "כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ אַל־יַשִּׁ֥א לָכֶ֖ם חִזְקִיָּ֑הוּ כִּ֥י לֹֽא־יוּכַ֖ל לְהַצִּ֥יל אֶתְכֶֽם׃",
+    "transliteration": "khoh 'amar hamelekhe 'al-yashi' lakhem hizekiyahv khiy lo'-yvkhal lehatsiyl 'etekhem.",
     "translation": "Assim diz o rei: Não vos engane Heziquias, pois ele não pode livrar-vos."
   },
   {
     "verse": 15,
     "original": "וְאַל־יַבְטַ֨ח אֶתְכֶ֤ם חִזְקִיָּ֙הוּ֙ אֶל־יְהֹוָ֣ה לֵאמֹ֔ר הַצֵּ֥ל יַצִּילֵ֖נוּ יְהֹוָ֑ה לֹ֤א תִנָּתֵן֙ הָעִ֣יר הַזֹּ֔את בְּיַ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃",
+    "transliteration": "ve'al-yavetah 'etekhem hizekiyahv 'el-yehovah le'mor hatsel yatsiylenv yehovah lo' tinaten ha'iyr hazo't veyad melekhe 'ashvr.",
     "translation": "E não confie em vós Hezquias, dizendo: \"Certamente nos livrará o Senhor; certamente nessa elevação nos salvaremos\". Certamente esta cidade não será entregue na mão do rei da Assíria."
   },
   {
     "verse": 16,
     "original": "אַֽל־תִּשְׁמְע֖וּ אֶל־חִזְקִיָּ֑הוּ&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>כִּי֩ כֹ֨ה אָמַ֜ר הַמֶּ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ־אִתִּ֤י בְרָכָה֙ וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ־גַּפְנוֹ֙ וְאִ֣ישׁ תְּאֵנָת֔וֹ וּשְׁת֖וּ אִ֥ישׁ מֵי־בוֹרֽוֹ׃",
+    "transliteration": "'al-tisheme'v 'el-hizekiyahv&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>khiy khoh 'amar hamelekhe 'ashvr 'asv-'itiy verakhah vtse'v 'elay ve'ikhelv 'iysh-gafenvo ve'iysh te'enatvo vshetv 'iysh mey-vvorvo.",
     "translation": "Não ouçais a Ezéquias, pois assim diz o rei da Assíria: Fazei comigo aliança e saí para junto de mim; comei cada um do vinho da sua videira e das figos da sua árvore e bebei cada um da água do seu poço."
   },
   {
     "verse": 17,
     "original": "עַד־בֹּאִ֕י וְלָקַחְתִּ֥י אֶתְכֶ֖ם אֶל־אֶ֣רֶץ כְּאַרְצְכֶ֑ם אֶ֤רֶץ דָּגָן֙ וְתִיר֔וֹשׁ אֶ֥רֶץ לֶ֖חֶם וּכְרָמִֽים׃",
+    "transliteration": "'ad-vo'iy velakahetiy 'etekhem 'el-'erets khe'aretsekhem 'erets dagan vetiyrvosh 'erets lehem vkheramiym.",
     "translation": "Até que eu venha e vos tire para uma terra como a vossa, terra de trigo e uvas, terra de pão e vinhas."
   },
   {
     "verse": 18,
     "original": "פֶּן־יַסִּ֨ית אֶתְכֶ֤ם חִזְקִיָּ֙הוּ֙ לֵאמֹ֔ר יְהֹוָ֖ה יַצִּילֵ֑נוּ הַהִצִּ֜ילוּ אֱלֹהֵ֤י הַגּוֹיִם֙ אִ֣ישׁ אֶת־אַרְצ֔וֹ מִיַּ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃",
+    "transliteration": "fen-yasiyt 'etekhem hizekiyahv le'mor yehovah yatsiylenv hahitsiylv 'elohey hagvoyim 'iysh 'et-'aretsvo miyad melekhe 'ashvr.",
     "translation": "Para que Hezekias não vos seduza, dizendo: O Senhor nos livrará. Acaso os deuses das nações livram cada um a sua terra da mão do rei da Assíria?"
   },
   {
     "verse": 19,
     "original": "אַיֵּ֞ה אֱלֹהֵ֤י חֲמָת֙ וְאַרְפָּ֔ד אַיֵּ֖ה אֱלֹהֵ֣י סְפַרְוָ֑יִם וְכִֽי־הִצִּ֥ילוּ אֶת־שֹׁמְר֖וֹן מִיָּדִֽי׃",
+    "transliteration": "'ayeh 'elohey hamat ve'arefad 'ayeh 'elohey sefarevayim vekhiy-hitsiylv 'et-shomervon miyadiy.",
     "translation": "Onde estão os deuses de Hamate e Arfad? Onde estão os deuses de Sefarvaim? Podiam eles salvar Samaria da minha mão?"
   },
   {
     "verse": 20,
     "original": "מִ֗י בְּכׇל־אֱלֹהֵ֤י הָאֲרָצוֹת֙ הָאֵ֔לֶּה אֲשֶׁר־הִצִּ֥ילוּ אֶת־אַרְצָ֖ם מִיָּדִ֑י כִּֽי־יַצִּ֧יל יְהֹוָ֛ה אֶת־יְרוּשָׁלַ֖͏ִם מִיָּדִֽי׃",
+    "transliteration": "miy vekhol-'elohey ha'aratsvot ha'eleh 'asher-hitsiylv 'et-'aretsam miyadiy khiy-yatsiyl yehovah 'et-yervshalaim miyadiy.",
     "translation": "Quem entre todos os deuses das nações livrou suas terras da minha mão? Pois o Senhor libertará Jerusalém da minha mão."
   },
   {
     "verse": 21,
     "original": "וַֽיַּחֲרִ֔ישׁוּ וְלֹא־עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּֽי־מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א תַעֲנֻֽהוּ׃",
+    "transliteration": "vayahariyshv velo'-'anv 'otvo davar khiy-mitsevat hamelekhe hiy' le'mor lo' ta'anuhv.",
     "translation": "E calaram-se e não responderam palavra, pois era o mandamento do rei que se dissesse: Não lhe respondereis."
   },
   {
     "verse": 22,
     "original": "וַיָּבֹ֣א אֶלְיָקִ֣ים בֶּן־חִלְקִיָּ֣הוּ אֲשֶׁר־עַל־הַ֠בַּ֠יִת וְשֶׁבְנָ֨א הַסֹּפֵ֜ר וְיוֹאָ֨ח בֶּן־אָסָ֧ף הַמַּזְכִּ֛יר אֶל־חִזְקִיָּ֖הוּ קְרוּעֵ֣י בְגָדִ֑ים וַיַּגִּ֣ידוּ ל֔וֹ אֵ֖ת דִּבְרֵ֥י רַבְשָׁקֵֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayavo' 'eleyakiym ven-hilekiyahv 'asher-'al-havayit veshevena' hasofer veyvo'ah ven-'asaf hamazekhiyr 'el-hizekiyahv kerv'ey vegadiym vayagiydv lvo 'et diverey raveshakeh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eliacim, filho de Hilquias, que estava sobre a casa, e Sebna, o escriba, e Joaum, filho de Asafe, o encarregado, vieram a Ezequias com as vestes rasgadas e lhe deram conta das palavras de Rabsaque."
   }
 ]

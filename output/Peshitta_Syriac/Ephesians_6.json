@@ -2,121 +2,145 @@
   {
     "verse": 1,
     "original": "ܒܢܝܐ ܐܫܬܡܥܘ ܠܐܒܗܝܟܘܢ ܒܡܪܢ ܗܕܐ ܓܝܪ ܟܐܢܐ ܀ ",
+    "transliteration": "bny' 'shtm`w l'bhykwn bmrn hd' gyr k'n' * ",
     "translation": "Filhos, obedecei aos vossos pais no Senhor; pois isto é regra justa."
   },
   {
     "verse": 2,
     "original": "ܘܗܢܘ ܦܘܩܕܢܐ ܩܕܡܝܐ ܕܡܠܝܟ ܝܩܪ ܠܐܒܘܟ ܘܠܐܡܟ ܀ ",
+    "transliteration": "whnw pwqdn' qdmy' dmlyk yqr l'bwk wl'mk * ",
     "translation": "Honra teu pai e tua mãe."
   },
   {
     "verse": 3,
     "original": "ܕܢܗܘܐ ܠܟ ܕܫܦܝܪ ܘܢܐܪܟܘܢ ܚܝܝܟ ܥܠ ܐܪܥܐ ܀ ",
+    "transliteration": "dnhw' lk dshpyr wn'rkwn hyyk `l 'r`' * ",
     "translation": "Seja-lhes assim agradável, e prolonguem-se os teus dias sobre a terra."
   },
   {
     "verse": 4,
     "original": "ܐܒܗܐ ܠܐ ܬܪܓܙܘܢ ܒܢܝܟܘܢ ܐܠܐ ܪܒܘ ܐܢܘܢ ܒܡܪܕܘܬܐ ܘܒܝܘܠܦܢܐ ܕܡܪܢ ܀ ",
+    "transliteration": "'bh' l' trgzwn bnykwn 'l' rbw 'nwn bmrdwt' wbywlpn' dmrn * ",
     "translation": "Pai, não irriteis vossos filhos, mas criai-os na disciplina e no aviso do Senhor."
   },
   {
     "verse": 5,
     "original": "ܥܒܕܐ ܐܫܬܡܥܘ ܠܡܪܝܟܘܢ ܕܒܒܤܪ ܒܕܚܠܬܐ ܘܒܪܬܝܬܐ ܘܒܦܫܝܛܘܬ ܠܒܐ ܐܝܟ ܕܠܡܫܝܚܐ ܀ ",
+    "transliteration": "`bd' 'shtm`w lmrykwn dbbsr bdhlt' wbrtyt' wbpshytwt lb' 'yk dlmshyh' * ",
     "translation": "Servos, obedecei a vossos senhores aqui na carne com temor e tremor e em verdade de coração como a Cristo."
   },
   {
     "verse": 6,
     "original": "ܠܐ ܒܡܚܙܐ ܥܝܢܐ ܐܝܟ ܗܘ ܕܠܒܢܝܢܫܐ ܫܦܪܝܢ ܐܢܬܘܢ ܐܠܐ ܐܝܟ ܥܒܕܐ ܕܡܫܝܚܐ ܕܥܒܕܝܢ ܨܒܝܢܐ ܕܐܠܗܐ ܀ ",
+    "transliteration": "l' bmhz' `yn' 'yk hw dlbnynsh' shpryn 'ntwn 'l' 'yk `bd' dmshyh' d`bdyn sbyn' d'lh' * ",
     "translation": "Não na vista dos homens como para agradar aos filhos dos homens, mas como servos de Cristo fazendo o serviço de Deus."
   },
   {
     "verse": 7,
     "original": "ܘܫܡܫܘ ܐܢܘܢ ܡܢ ܟܠܗ ܢܦܫܟܘܢ ܒܚܘܒܐ ܐܝܟ ܕܠܡܪܢ ܘܠܐ ܐܝܟ ܕܠܒܢܝܢܫܐ ܀ ",
+    "transliteration": "wshmshw 'nwn mn klh npshkwn bhwb' 'yk dlmrn wl' 'yk dlbnynsh' * ",
     "translation": "Servirão com todo o coração em amor, como ao Senhor e não como aos homens."
   },
   {
     "verse": 8,
     "original": "ܟܕ ܝܕܥܝܬܘܢ ܕܗܘ ܡܕܡ ܕܥܒܕ ܐܢܫ ܕܫܦܝܪ ܗܘ ܡܬܦܪܥ ܡܢ ܡܪܢ ܐܢ ܥܒܕܐ ܗܘ ܘܐܢ ܒܪ ܚܐܪܐ ܀ ",
+    "transliteration": "kd yd`ytwn dhw mdm d`bd 'nsh dshpyr hw mtpr` mn mrn 'n `bd' hw w'n br h'r' * ",
     "translation": "Quando eles perceberem que, sendo servos, vós mostrais bom senso, recebendo assim recompensa do Senhor, sede fiéis e filhos de boa vontade."
   },
   {
     "verse": 9,
     "original": "ܐܦ ܐܢܬܘܢ ܡܪܝܐ ܗܟܢܐ ܗܘܝܬܘܢ ܥܒܕܝܢ ܠܥܒܕܝܟܘܢ ܗܘܝܬܘܢ ܫܒܩܝܢ ܠܗܘܢ ܤܟܠܘܬܐ ܡܛܠ ܕܝܕܥܝܢ ܐܢܬܘܢ ܕܐܦ ܡܪܟܘܢ ܕܝܠܟܘܢ ܐܝܬܘܗܝ ܒܫܡܝܐ ܘܡܤܒ ܒܐܦܐ ܠܝܬ ܠܘܬܗ ܀ ",
+    "transliteration": "'p 'ntwn mry' hkn' hwytwn `bdyn l`bdykwn hwytwn shbqyn lhwn sklwt' mtl dyd`yn 'ntwn d'p mrkwn dylkwn 'ytwhy bshmy' wmsb b'p' lyt lwth * ",
     "translation": "Também vós, senhores, agi de maneira justa e igual para com vosso servos, sabendo que vós também tendes no céu um Senhor que não faz acepção de pessoas."
   },
   {
     "verse": 10,
     "original": "ܡܟܝܠ ܐܚܝ ܐܬܚܝܠܘ ܒܡܪܢ ܘܒܬܘܩܦܐ ܕܚܝܠܗ ܀ ",
+    "transliteration": "mkyl 'hy 'thylw bmrn wbtwqp' dhylh * ",
     "translation": "Fortalecei-vos, pois, no Senhor e na força do seu poder."
   },
   {
     "verse": 11,
     "original": "ܘܠܒܫܘ ܟܠܗ ܙܝܢܐ ܕܐܠܗܐ ܐܝܟܢܐ ܕܬܫܟܚܘܢ ܠܡܩܡ ܠܘܩܒܠ ܨܢܥܬܗ ܕܐܟܠ ܩܪܨܐ ܀ ",
+    "transliteration": "wlbshw klh zyn' d'lh' 'ykn' dtshkhwn lmqm lwqbl sn`th d'kl qrs' * ",
     "translation": "Vistam todo o armamento de Deus, para que possais resistir no dia mau e estar preparados para enfrentar as ciladas do diabo."
   },
   {
     "verse": 12,
     "original": "ܡܛܠ ܕܬܟܬܘܫܟܘܢ ܠܐ ܗܘܐ ܥܡ ܒܤܪܐ ܘܕܡܐ ܐܠܐ ܥܡ ܐܪܟܘܤ ܘܥܡ ܫܠܝܛܢܐ ܘܥܡ ܐܚܝܕܝ ܥܠܡܐ ܕܗܢܐ ܚܫܘܟܐ ܘܥܡ ܪܘܚܐ ܒܝܫܬܐ ܕܬܚܝܬ ܫܡܝܐ ܀ ",
+    "transliteration": "mtl dtktwshkwn l' hw' `m bsr' wdm' 'l' `m 'rkws w`m shlytn' w`m 'hydy `lm' dhn' hshwk' w`m rwh' bysht' dthyt shmy' * ",
     "translation": "Pois não combatemos contra sangue e carne, mas sim contra principados, contra potestades, contra dominadores deste mundo tenebroso, contra as hordas espirituais da maldade nos céus."
   },
   {
     "verse": 13,
     "original": "ܡܛܠ ܗܢܐ ܠܒܫܘ ܟܠܗ ܙܝܢܐ ܕܐܠܗܐ ܕܬܫܟܚܘܢ ܬܐܪܥܘܢ ܒܝܫܐ ܘܟܕ ܡܥܬܕܝܢ ܐܢܬܘܢ ܒܟܠܡܕܡ ܬܩܘܡܘܢ ܀ ",
+    "transliteration": "mtl hn' lbshw klh zyn' d'lh' dtshkhwn t'r`wn bysh' wkd m`tdyn 'ntwn bklmdm tqwmwn * ",
     "translation": "Portanto, vesti-vos com toda a armadura de Deus para que possais resistir no dia mau e, depois de terdes tudo feito, permaneceis firmes."
   },
   {
     "verse": 14,
     "original": "ܩܘܡܘ ܗܟܝܠ ܘܚܙܘܩܘ ܚܨܝܟܘܢ ܒܩܘܫܬܐ ܘܠܒܫܘ ܫܪܝܢܐ ܕܙܕܝܩܘܬܐ ܀ ",
+    "transliteration": "qwmw hkyl whzwqw hsykwn bqwsht' wlbshw shryn' dzdyqwt' * ",
     "translation": "Levantai-vos firmes e fortalecei o vosso cinto com a verdade, e revestei-vos do couraço da justiça."
   },
   {
     "verse": 15,
     "original": "ܘܤܐܢܘ ܒܪܓܠܝܟܘܢ ܛܘܝܒܗ ܕܐܘܢܓܠܝܘܢ ܕܫܠܡܐ ܀ ",
+    "transliteration": "ws'nw brglykwn twybh d'wnglywn dshlm' * ",
     "translation": "Calcei em vossos pés o preparo excelente do Evangelho da paz."
   },
   {
     "verse": 16,
     "original": "ܘܥܡ ܗܠܝܢ ܤܒܘ ܠܟܘܢ ܤܟܪܐ ܕܗܝܡܢܘܬܐ ܕܒܗ ܬܬܡܨܘܢ ܚܝܠܐ ܠܡܕܥܟܘ ܟܠܗܘܢ ܓܐܪܘܗܝ ܝܩܕܐ ܕܒܝܫܐ ܀ ",
+    "transliteration": "w`m hlyn sbw lkwn skr' dhymnwt' dbh ttmswn hyl' lmd`kw klhwn g'rwhy yqd' dbysh' * ",
     "translation": "E com aqueles, tomai o escudo da fé, nele podereis apagar todos os dardos do maligno."
   },
   {
     "verse": 17,
     "original": "ܘܤܝܡܘ ܤܢܘܪܬܐ ܕܦܘܪܩܢܐ ܘܐܚܘܕܘ ܤܝܦܐ ܕܪܘܚܐ ܕܐܝܬܘܗܝ ܡܠܬܐ ܕܐܠܗܐ ܀ ",
+    "transliteration": "wsymw snwrt' dpwrqn' w'hwdw syp' drwh' d'ytwhy mlt' d'lh' * ",
     "translation": "E equipai-vos com o capacete da salvação, e tomai a espada do Espírito, que é a palavra de Deus."
   },
   {
     "verse": 18,
     "original": "ܘܒܟܠ ܨܠܘܢ ܘܒܟܠ ܒܥܘܢ ܨܠܘ ܒܟܠܙܒܢ ܒܪܘܚ ܘܒܗ ܒܨܠܘܬܐ ܗܘܝܬܘܢ ܫܗܪܝܢ ܒܟܠܥܕܢ ܟܕ ܡܨܠܝܬܘܢ ܐܡܝܢܐܝܬ ܘܡܬܟܫܦܝܢ ܥܠ ܐܦܝ ܟܠܗܘܢ ܩܕܝܫܐ ܀ ",
+    "transliteration": "wbkl slwn wbkl b`wn slw bklzbn brwh wbh bslwt' hwytwn shhryn bkl`dn kd mslytwn 'myn'yt wmtkshpyn `l 'py klhwn qdysh' * ",
     "translation": "E em toda oração e súplica, orejão em todo o tempo no Espírito, vigilante com isso na oração, por todos os santos, enquanto oram juntos, agradecem e pedem sabedoria sobre todas as coisas."
   },
   {
     "verse": 19,
     "original": "ܐܦ ܥܠܝ ܕܬܬܝܗܒ ܠܝ ܡܠܬܐ ܒܡܦܬܚ ܦܘܡܝ ܕܥܝܢ ܒܓܠܐ ܐܟܪܙ ܐܪܙܐ ܕܤܒܪܬܐ ܀ ",
+    "transliteration": "'p `ly dttyhb ly mlt' bmpth pwmy d`yn bgl' 'krz 'rz' dsbrt' * ",
     "translation": "E também sobre mim, para que me seja dada palavra na abertura dos lábios, com ousadia anuncie o mistério do Evangelho,"
   },
   {
     "verse": 20,
     "original": "ܗܘ ܕܐܢܐ ܐܝܙܓܕܗ ܒܫܫܠܬܐ ܕܒܦܪܗܤܝܐ ܐܡܠܠܝܘܗܝ ܐܝܟ ܕܘܠܐ ܠܝ ܠܡܡܠܠܘܬܗ ܀ ",
+    "transliteration": "hw d'n' 'yzgdh bshshlt' dbprhsy' 'mllywhy 'yk dwl' ly lmmllwth * ",
     "translation": "Que eu anuncie com toda confiança e sem temor a mensagem, como me é concedido pregar."
   },
   {
     "verse": 21,
     "original": "ܕܬܕܥܘܢ ܕܝܢ ܐܦ ܐܢܬܘܢ ܡܕܡ ܕܠܘܬܝ ܘܡܕܡ ܕܤܥܪ ܐܢܐ ܗܐ ܡܘܕܥ ܠܟܘܢ ܛܘܟܝܩܘܤ ܐܚܐ ܚܒܝܒܐ ܘܡܫܡܫܢܐ ܡܗܝܡܢܐ ܒܡܪܢ ܀ ",
+    "transliteration": "dtd`wn dyn 'p 'ntwn mdm dlwty wmdm ds`r 'n' h' mwd` lkwn twkyqws 'h' hbyb' wmshmshn' mhymn' bmrn * ",
     "translation": "E saibam que também eu, como Tíquico, irmão amado e fiel ministro no Senhor, vos enviarei notícias."
   },
   {
     "verse": 22,
     "original": "ܕܠܗ ܫܕܪܬ ܠܘܬܟܘܢ ܥܠܝܗ ܥܠ ܗܕܐ ܕܬܕܥܘܢ ܡܐ ܕܠܘܬܝ ܘܢܒܝܐ ܠܒܘܬܟܘܢ ܀ ",
+    "transliteration": "dlh shdrt lwtkwn `lyh `l hd' dtd`wn m' dlwty wnby' lbwtkwn * ",
     "translation": "Nele está encerrada a instrução que vocês aprenderão a conhecer, seja da minha instrução ou dos profetas, para o seu bem."
   },
   {
     "verse": 23,
     "original": "ܫܠܡܐ ܥܡ ܐܚܝܢ ܘܚܘܒܐ ܥܡ ܗܝܡܢܘܬܐ ܡܢ ܐܠܗܐ ܐܒܐ ܘܡܢ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܀ ",
+    "transliteration": "shlm' `m 'hyn whwb' `m hymnwt' mn 'lh' 'b' wmn mrn yshw` mshyh' * ",
     "translation": "A paz com os irmãos e o amor com a fé, do Deus Pai e de nosso Senhor Jesus Cristo."
   },
   {
     "verse": 24,
     "original": "ܛܝܒܘܬܐ ܥܡ ܟܠܗܘܢ ܐܝܠܝܢ ܕܡܚܒܝܢ ܠܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܠܐ ܚܒܠ ܐܡܝܢ ܀   ",
+    "transliteration": "tybwt' `m klhwn 'ylyn dmhbyn lmrn yshw` mshyh' dl' hbl 'myn *   ",
     "translation": "Saúde com todos vós que amais ao Senhor Jesus Cristo. Amém."
   }
 ]

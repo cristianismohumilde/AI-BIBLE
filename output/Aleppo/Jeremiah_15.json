@@ -2,106 +2,127 @@
   {
     "verse": 1,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל־הָעָ֣ם הַזֶּ֑ה שַׁלַּ֥ח מֵעַל־פָּנַ֖י וְיֵצֵֽאוּ׃",
+    "transliteration": "vayo'mer yehovah 'elay 'im-ya'amod mosheh vshemv'el lefanay 'eyn nafeshiy 'el-ha'am hazeh shalah me'al-fanay veyetse'v.",
     "translation": "E disse o Senhor a mim: Mesmo que Moisés e Samuel se apresentassem diante de Mim, não teria Meu espírito por este povo; faze-os sair do Meu rosto, para que partam."
   },
   {
     "verse": 2,
     "original": "וְהָיָ֛ה כִּי־יֹאמְר֥וּ אֵלֶ֖יךָ אָ֣נָה נֵצֵ֑א וְאָמַרְתָּ֨ אֲלֵיהֶ֜ם כֹּה־אָמַ֣ר יְהֹוָ֗ה אֲשֶׁ֨ר לַמָּ֤וֶת לַמָּ֙וֶת֙ וַאֲשֶׁ֤ר לַחֶ֙רֶב֙ לַחֶ֔רֶב וַאֲשֶׁ֤ר לָרָעָב֙ לָרָעָ֔ב וַאֲשֶׁ֥ר לַשְּׁבִ֖י לַשֶּֽׁבִי׃",
+    "transliteration": "vehayah khiy-yo'merv 'eleykha 'anah netse' ve'amareta 'aleyhem khoh-'amar yehovah 'asher lamavet lamavet va'asher laherev laherev va'asher lara'av lara'av va'asher lasheviy lasheviy.",
     "translation": "E será que, quando eles te disserem: “Para onde sairemos?”, tu lhes responderás assim: Assim diz o Senhor: Aquele ao qual é destinada a morte, para a morte irá; aquele a quem é designada a espada, pela espada cairá; aquele que está fadado à fome, por fome perecerá; e aquele cujo destino é o exílio, ao exílio será entregue."
   },
   {
     "verse": 3,
     "original": "וּפָקַדְתִּ֨י עֲלֵיהֶ֜ם אַרְבַּ֤ע מִשְׁפָּחוֹת֙ נְאֻם־יְהֹוָ֔ה אֶת־הַחֶ֣רֶב לַהֲרֹ֔ג וְאֶת־הַכְּלָבִ֖ים לִסְחֹ֑ב וְאֶת־ע֧וֹף הַשָּׁמַ֛יִם וְאֶת־בֶּהֱמַ֥ת הָאָ֖רֶץ לֶאֱכֹ֥ל וּלְהַשְׁחִֽית׃",
+    "transliteration": "vfakadetiy 'aleyhem 'areva' mishefahvot ne'um-yehovah 'et-haherev laharog ve'et-hakhelaviym lisehov ve'et-'vof hashamayim ve'et-vehemat ha'arets le'ekhol vlehashehiyt.",
     "translation": "E eu designarei contra eles quatro companhias, diz o Senhor: a espada para matar, os cães para despedaçar, as aves dos céus e os animais da terra para comer e destruir."
   },
   {
     "verse": 4,
     "original": "וּנְתַתִּ֣ים <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לזועה)</span> <span class=\"mam-kq-q\">[לְזַעֲוָ֔ה]</span></span> לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ בִּ֠גְלַ֠ל מְנַשֶּׁ֤ה בֶן־יְחִזְקִיָּ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה עַ֥ל אֲשֶׁר־עָשָׂ֖ה בִּירוּשָׁלָֽ͏ִם׃",
+    "transliteration": "vnetatiym <span class=\"mam-kq\"><span class=\"mam-kq-k\">(lzv'h)</span> <span class=\"mam-kq-q\">[leza'avah]</span></span> lekhol mamelekhvot ha'arets vigelal menasheh ven-yehizekiyahv melekhe yehvdah 'al 'asher-'asah viyrvshalaim.",
     "translation": "E os entregarei ao espanto de todas as monarquias da terra, por causa de Manassés, filho de Ezequias, rei de Judá, pelo que ele fez em Jerusalém."
   },
   {
     "verse": 5,
     "original": "כִּ֠י מִֽי־יַחְמֹ֤ל עָלַ֙יִךְ֙ יְר֣וּשָׁלַ֔͏ִם וּמִ֖י יָנ֣וּד לָ֑ךְ וּמִ֣י יָס֔וּר לִשְׁאֹ֥ל לְשָׁלֹ֖ם לָֽךְ׃",
+    "transliteration": "khiy miy-yahemol 'alayikhe yervshalaim vmiy yanvd lakhe vmiy yasvr lishe'ol leshalom lakhe.",
     "translation": "Pois quem se compadecerá de ti, Jerusalém? Quem te lamentará? Quem parará para perguntar por tua paz?"
   },
   {
     "verse": 6,
     "original": "אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛י נְאֻם־יְהֹוָ֖ה אָח֣וֹר תֵּלֵ֑כִי וָאַ֨ט אֶת־יָדִ֤י עָלַ֙יִךְ֙ וָֽאַשְׁחִיתֵ֔ךְ נִלְאֵ֖יתִי הִנָּחֵֽם׃",
+    "transliteration": "'ate natashete 'otiy ne'um-yehovah 'ahvor telekhiy va'at 'et-yadiy 'alayikhe va'ashehiytekhe nile'eytiy hinahem.",
     "translation": "Tu me abandonaste, diz o Senhor; por isso, para trás irás. Estendi sobre ti a minha mão e te destruí, e ardo em ciúmes, apesar de querer ter compaixão."
   },
   {
     "verse": 7,
     "original": "וָאֶזְרֵ֥ם בְּמִזְרֶ֖ה בְּשַׁעֲרֵ֣י הָאָ֑רֶץ שִׁכַּ֤לְתִּי אִבַּ֙דְתִּי֙ אֶת־עַמִּ֔י מִדַּרְכֵיהֶ֖ם לוֹא־שָֽׁבוּ׃",
+    "transliteration": "va'ezerem vemizereh vesha'arey ha'arets shikhaletiy 'ivadetiy 'et-'amiy midarekheyhem lvo'-shavv.",
     "translation": "E eu estremeci no interior, junto às portas da cidade; havia exterminado meu povo, e eles não retornaram aos seus caminhos."
   },
   {
     "verse": 8,
     "original": "עָֽצְמוּ־לִ֤י <span class=\"mam-kq-trivial\">אַלְמְנוֹתָו֙</span> מֵח֣וֹל יַמִּ֔ים הֵבֵ֨אתִי לָהֶ֥ם עַל־אֵ֛ם בָּח֖וּר שֹׁדֵ֣ד בַּֽצׇּהֳרָ֑יִם הִפַּ֤לְתִּי עָלֶ֙יהָ֙ פִּתְאֹ֔ם עִ֖יר וּבֶהָלֽוֹת׃",
+    "transliteration": "'atsemv-liy <span class=\"mam-kq-trivial\">'alemenvotav</span> mehvol yamiym heve'tiy lahem 'al-'em vahvr shoded vatsohorayim hifaletiy 'aleyha fite'om 'iyr vvehalvot.",
     "translation": "Fortalecei-lhes as almas dos mortos do meio dos mares. Tragaram-nas para ela, mais que a mãe, um jovem ladrão ao meio-dia. Repentinamente, lancei sobre ela uma cidade e desordens."
   },
   {
     "verse": 9,
     "original": "אֻמְלְלָ֞ה יֹלֶ֣דֶת הַשִּׁבְעָ֗ה נָפְחָ֥ה נַפְשָׁ֛הּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(באה)</span> <span class=\"mam-kq-q\">[בָּ֥א]</span></span> שִׁמְשָׁ֛הּ בְּעֹ֥ד יוֹמָ֖ם בּ֣וֹשָׁה וְחָפֵ֑רָה וּשְׁאֵרִיתָ֗ם לַחֶ֧רֶב אֶתֵּ֛ן לִפְנֵ֥י אֹיְבֵיהֶ֖ם נְאֻם־יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'umelelah yoledet hashive'ah nafehah nafeshah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'h)</span> <span class=\"mam-kq-q\">[va']</span></span> shimeshah ve'od yvomam vvoshah vehaferah vshe'eriytam laherev 'eten lifeney 'oyeveyhem ne'um-yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A mutilada dá à luz sete, expira sua alma; enquanto ainda é dia, envergonha-se e esconde-se. E a remanescente entregarei à espada diante de seus inimigos, diz o Senhor."
   },
   {
     "verse": 10,
     "original": "אֽוֹי־לִ֣י אִמִּ֔י כִּ֣י יְלִדְתִּ֗נִי אִ֥ישׁ רִ֛יב וְאִ֥ישׁ מָד֖וֹן לְכׇל־הָאָ֑רֶץ לֹֽא־נָשִׁ֥יתִי וְלֹא־נָֽשׁוּ־בִ֖י כֻּלֹּ֥ה מְקַֽלְלַֽוְנִי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'voy-liy 'imiy khiy yelidetiniy 'iysh riyv ve'iysh madvon lekhol-ha'arets lo'-nashiytiy velo'-nashv-viy khuloh mekalelaveniy.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Ai de mim, minha mãe, que me deste à luz homem de contendas e homem de discórdia em toda a terra; não pus fim ao casamento nem fui posto no matrimônio, todos me amaldiçoam."
   },
   {
     "verse": 11,
     "original": "אָמַ֣ר יְהֹוָ֔ה אִם־לֹ֥א <span class=\"mam-kq\"><span class=\"mam-kq-k\">(שרותך)</span> <span class=\"mam-kq-q\">[שֵׁרִיתִ֖יךָ]</span></span> לְט֑וֹב אִם־ל֣וֹא&thinsp;<b>׀</b> הִפְגַּ֣עְתִּֽי בְךָ֗ בְּעֵ֥ת רָעָ֛ה וּבְעֵ֥ת צָרָ֖ה אֶת־הָאֹיֵֽב׃",
+    "transliteration": "'amar yehovah 'im-lo' <span class=\"mam-kq\"><span class=\"mam-kq-k\">(srvtkh)</span> <span class=\"mam-kq-q\">[sheriytiykha]</span></span> letvov 'im-lvo'&thinsp;<b>|</b> hifega'etiy vekha ve'et ra'ah vve'et tsarah 'et-ha'oyev.",
     "translation": "Disse o Senhor: Se não fui eu quem te guardei para bem? Ou se não te feri em tempo de adversidade e em dia de calamidade contra os teus inimigos?"
   },
   {
     "verse": 12,
     "original": "הֲיָרֹ֨עַ בַּרְזֶ֧ל&thinsp;<small>׀</small>&thinsp;בַּרְזֶ֛ל מִצָּפ֖וֹן וּנְחֹֽשֶׁת׃",
+    "transliteration": "hayaro'a varezel&thinsp;<small>|</small>&thinsp;varezel mitsafvon vnehoshet.",
     "translation": "O ferro se mistura com ferro do norte, e com bronze."
   },
   {
     "verse": 13,
     "original": "חֵילְךָ֧ וְאוֹצְרוֹתֶ֛יךָ לָבַ֥ז אֶתֵּ֖ן לֹ֣א בִמְחִ֑יר וּבְכׇל־חַטֹּאותֶ֖יךָ וּבְכׇל־גְּבוּלֶֽיךָ׃",
+    "transliteration": "heylekha ve'votservoteykha lavaz 'eten lo' vimehiyr vvekhol-hato'vteykha vvekhol-gevvleykha.",
     "translation": "Teu poder e teus tesouros darei em troca, não por preço, e com todos os teus pecados e em toda a tua fronteira."
   },
   {
     "verse": 14,
     "original": "וְהַֽעֲבַרְתִּי֙ אֶת־אֹ֣יְבֶ֔יךָ בְּאֶ֖רֶץ לֹ֣א יָדָ֑עְתָּ כִּי־אֵ֛שׁ קָדְחָ֥ה בְאַפִּ֖י עֲלֵיכֶ֥ם תּוּקָֽד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veha'avaretiy 'et-'oyeveykha ve'erets lo' yada'eta khiy-'esh kadehah ve'afiy 'aleykhem tvkad.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E passarei os teus inimigos em terra que tu não conheces, pois fogo devorador aceso no meu zelo será acendido contra vós."
   },
   {
     "verse": 15,
     "original": "אַתָּ֧ה יָדַ֣עְתָּ יְהֹוָ֗ה זׇכְרֵ֤נִי וּפׇקְדֵ֙נִי֙ וְהִנָּ֤קֶם לִי֙ מֵרֹ֣דְפַ֔י אַל־לְאֶ֥רֶךְ אַפְּךָ֖ תִּקָּחֵ֑נִי דַּ֕ע שְׂאֵתִ֥י עָלֶ֖יךָ חֶרְפָּֽה׃",
+    "transliteration": "'atah yada'eta yehovah zokhereniy vfokedeniy vehinakem liy merodefay 'al-le'erekhe 'afekha tikaheniy da' se'etiy 'aleykha herefah.",
     "translation": "Tu sabes, Senhor, lembra-te de mim e visita-me, e vinga-me dos meus perseguidores; não tomes para ti o meu espírito em tua ira. Sabe que fui injuriado pela afronta lançada contra ti."
   },
   {
     "verse": 16,
     "original": "נִמְצְא֤וּ דְבָרֶ֙יךָ֙ וָאֹ֣כְלֵ֔ם וַיְהִ֤י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(דבריך)</span> <span class=\"mam-kq-q\">[דְבָֽרְךָ֙]</span></span> לִ֔י לְשָׂשׂ֖וֹן וּלְשִׂמְחַ֣ת לְבָבִ֑י כִּֽי־נִקְרָ֤א שִׁמְךָ֙ עָלַ֔י יְהֹוָ֖ה אֱלֹהֵ֥י צְבָאֽוֹת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "nimetse'v devareykha va'okhelem vayehiy <span class=\"mam-kq\"><span class=\"mam-kq-k\">(dvrykh)</span> <span class=\"mam-kq-q\">[devarekha]</span></span> liy lesasvon vlesimehat levaviy khiy-nikera' shimekha 'alay yehovah 'elohey tseva'vot.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Encontrei teu discurso e o devorei; ele se tornou para mim de alegria e regozijo no meu coração, porque o teu nome foi invocado sobre mim, Senhor Deus dos Exércitos."
   },
   {
     "verse": 17,
     "original": "לֹא־יָשַׁ֥בְתִּי בְסוֹד־מְשַׂחֲקִ֖ים וָאֶעְלֹ֑ז מִפְּנֵ֤י יָֽדְךָ֙ בָּדָ֣ד יָשַׁ֔בְתִּי כִּי־זַ֖עַם מִלֵּאתָֽנִי׃",
+    "transliteration": "lo'-yashavetiy vesvod-mesahakiym va'e'eloz mifeney yadekha vadad yashavetiy khiy-za'am mile'taniy.",
     "translation": "Não me assentei com os escarnecedores, nem me juntei aos riadores; em vez disso, habituei-me à solidão por tua causa, pois enches-te meu ser de indignação."
   },
   {
     "verse": 18,
     "original": "לָ֣מָּה הָיָ֤ה כְאֵבִי֙ נֶ֔צַח וּמַכָּתִ֖י אֲנוּשָׁ֑ה מֵֽאֲנָה֙ הֵרָפֵ֔א הָי֨וֹ תִהְיֶ֥ה לִי֙ כְּמ֣וֹ אַכְזָ֔ב מַ֖יִם לֹ֥א נֶאֱמָֽנוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "lamah hayah khe'eviy netsah vmakhatiy 'anvshah me'anah herafe' hayvo tiheyeh liy khemvo 'akhezav mayim lo' ne'emanv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Por que meu sofrimento é eterno e minha ferida incurável? Sê fiel e serei salvo; pois a minha esperança se tornou como águas não confiáveis."
   },
   {
     "verse": 19,
     "original": "לָכֵ֞ן כֹּה־אָמַ֣ר יְהֹוָ֗ה אִם־תָּשׁ֤וּב וַאֲשִֽׁיבְךָ֙ לְפָנַ֣י תַּעֲמֹ֔ד וְאִם־תּוֹצִ֥יא יָקָ֛ר מִזּוֹלֵ֖ל כְּפִ֣י תִֽהְיֶ֑ה יָשֻׁ֤בוּ הֵ֙מָּה֙ אֵלֶ֔יךָ וְאַתָּ֖ה לֹא־תָשׁ֥וּב אֲלֵיהֶֽם׃",
+    "transliteration": "lakhen khoh-'amar yehovah 'im-tashvv va'ashiyvekha lefanay ta'amod ve'im-tvotsiy' yakar mizvolel khefiy tiheyeh yashuvv hemah 'eleykha ve'atah lo'-tashvv 'aleyhem.",
     "translation": "Portanto, assim diz o Senhor: Se você se voltar e eu o farei retornar à minha presença, você permanecerá firme. Mas se você retirar o que é precioso do que é vil, então eles voltarão a você, mas você não voltará a eles."
   },
   {
     "verse": 20,
     "original": "וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֙שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא־י֣וּכְלוּ לָ֑ךְ כִּֽי־אִתְּךָ֥ אֲנִ֛י לְהוֹשִׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם־יְהֹוָֽה׃",
+    "transliteration": "vnetatiykha la'am hazeh lehvomat nehoshet vetsvrah venilehamv 'eleykha velo'-yvkhelv lakhe khiy-'itekha 'aniy lehvoshiy'akha vlehatsiylekha ne'um-yehovah.",
     "translation": "E porei-te neste povo como muralha de bronze, e eles lutarão contra ti, mas não te poderão ferir; pois estou com ti para te salvar e te livrar, diz o Senhor."
   },
   {
     "verse": 21,
     "original": "וְהִצַּלְתִּ֖יךָ מִיַּ֣ד רָעִ֑ים וּפְדִתִ֖יךָ מִכַּ֥ף עָרִצִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehitsaletiykha miyad ra'iym vfeditiykha mikhaf 'aritsiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E te livrarei da mão dos malvados e te resgatarei do poder dos violentos."
   }
 ]

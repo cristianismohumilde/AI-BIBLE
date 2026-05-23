@@ -2,81 +2,97 @@
   {
     "verse": 1,
     "original": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־יוֹנָ֥ה בֶן־אֲמִתַּ֖י לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'el-yvonah ven-'amitay le'mor.",
     "translation": "E veio a palavra do Senhor a Jônas, filho de Amathi, dizendo:"
   },
   {
     "verse": 2,
     "original": "ק֠וּם לֵ֧ךְ אֶל־נִֽינְוֵ֛ה הָעִ֥יר הַגְּדוֹלָ֖ה וּקְרָ֣א עָלֶ֑יהָ כִּֽי־עָלְתָ֥ה רָעָתָ֖ם לְפָנָֽי׃",
+    "transliteration": "kvm lekhe 'el-niyneveh ha'iyr hagedvolah vkera' 'aleyha khiy-'aletah ra'atam lefanay.",
     "translation": "Levanta-te, vai para Nínive, a grande cidade, e clama contra ela; pois subiu o seu mal diante de mim."
   },
   {
     "verse": 3,
     "original": "וַיָּ֤קׇם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהֹוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א אֳנִיָּ֣ה&thinsp;<b>׀</b> בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהֹוָֽה׃",
+    "transliteration": "vayakom yvonah liveroha tareshiyshah milifeney yehovah vayered yafvo vayimetsa' 'oniyah&thinsp;<b>|</b> va'ah tareshiysh vayiten sekharah vayered vah lavvo' 'imahem tareshiyshah milifeney yehovah.",
     "translation": "E Jonas levantou-se para fugir à Tarshish, diante do YHWH, e desceu a Jafa e encontrou uma nau que ia a Tarshish; pagou o frete e embarcou nela para ir com eles a Tarshish, diante de YHWH."
   },
   {
     "verse": 4,
     "original": "וַֽיהֹוָ֗ה הֵטִ֤יל רֽוּחַ־גְּדוֹלָה֙ אֶל־הַיָּ֔ם וַיְהִ֥י סַֽעַר־גָּד֖וֹל בַּיָּ֑ם וְהָ֣אֳנִיָּ֔ה חִשְּׁבָ֖ה לְהִשָּׁבֵֽר׃",
+    "transliteration": "vayhovah hetiyl rvha-gedvolah 'el-hayam vayehiy sa'ar-gadvol vayam veha'oniyah hishevah lehishaver.",
     "translation": "E o Senhor enviou um vento forte sobre o mar, e houve um grande temporal no mar, e a embarcação ameaçava se despedaçar."
   },
   {
     "verse": 5,
     "original": "וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל־אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת־הַכֵּלִ֜ים אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל־הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל־יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם׃",
+    "transliteration": "vayiyre'v hamalahiym vayize'akv 'iysh 'el-'elohayv vayatilv 'et-hakheliym 'asher va'oniyah 'el-hayam lehakel me'aleyhem veyvonah yarad 'el-yarekhetey hasefiynah vayishekhav vayeradam.",
     "translation": "Os marinheiros ficaram cheios de medo e cada um clamou ao seu deus; lançaram as cargas da nave ao mar para aliviar-se. E Jonas desceu até os porões do navio, deitou-se e caiu em sono profundo."
   },
   {
     "verse": 6,
     "original": "וַיִּקְרַ֤ב אֵלָיו֙ רַ֣ב הַחֹבֵ֔ל וַיֹּ֥אמֶר ל֖וֹ מַה־לְּךָ֣ נִרְדָּ֑ם ק֚וּם קְרָ֣א אֶל־אֱלֹהֶ֔יךָ אוּלַ֞י יִתְעַשֵּׁ֧ת הָאֱלֹהִ֛ים לָ֖נוּ וְלֹ֥א נֹאבֵֽד׃",
+    "transliteration": "vayikerav 'elayv rav hahovel vayo'mer lvo mah-lekha niredam kvm kera' 'el-'eloheykha 'vlay yite'ashet ha'elohiym lanv velo' no'ved.",
     "translation": "E aproximou-se dele o grande marinheiro e lhe disse: Que te acontece, dormes? Levanta-te, clama ao teu Deus; talvez o Deus se compadeça de nós e não pereçamos."
   },
   {
     "verse": 7,
     "original": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ וַיַּפִּ֙לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל־יוֹנָֽה׃",
+    "transliteration": "vayo'merv 'iysh 'el-re'ehv lekhv venafiylah gvoralvot venede'ah veshelemiy hara'ah hazo't lanv vayafilv gvoralvot vayifol hagvoral 'al-yvonah.",
     "translation": "E disse um ao seu companheiro: Vamos lançar sortes e descobriremos por cuja culpa nos sobrevém esta calamidade. Lançaram as sortes, e a sorte recaiu sobre Jonas."
   },
   {
     "verse": 8,
     "original": "וַיֹּאמְר֣וּ אֵלָ֔יו הַגִּידָה־נָּ֣א לָ֔נוּ בַּאֲשֶׁ֛ר לְמִי־הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ מַה־מְּלַאכְתְּךָ֙ וּמֵאַ֣יִן תָּב֔וֹא מָ֣ה אַרְצֶ֔ךָ וְאֵֽי־מִזֶּ֥ה עַ֖ם אָֽתָּה׃",
+    "transliteration": "vayo'merv 'elayv hagiydah-na' lanv va'asher lemiy-hara'ah hazo't lanv mah-mela'khetekha vme'ayin tavvo' mah 'aretsekha ve'ey-mizeh 'am 'atah.",
     "translation": "E disseram a ele: Conta-nos, por favor, para quem pertence este mal? Qual é o teu ofício e de onde vieste? De que terra és e de qual povo provens?"
   },
   {
     "verse": 9,
     "original": "וַיֹּ֥אמֶר אֲלֵיהֶ֖ם עִבְרִ֣י אָנֹ֑כִי וְאֶת־יְהֹוָ֞ה אֱלֹהֵ֤י הַשָּׁמַ֙יִם֙ אֲנִ֣י יָרֵ֔א אֲשֶׁר־עָשָׂ֥ה אֶת־הַיָּ֖ם וְאֶת־הַיַּבָּשָֽׁה׃",
+    "transliteration": "vayo'mer 'aleyhem 'iveriy 'anokhiy ve'et-yehovah 'elohey hashamayim 'aniy yare' 'asher-'asah 'et-hayam ve'et-hayavashah.",
     "translation": "E disse-lhes: Sou hebreu, e temo ao Senhor, Deus dos céus, que fez o mar e a terra firme."
   },
   {
     "verse": 10,
     "original": "וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדוֹלָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה־זֹּ֣את עָשִׂ֑יתָ כִּֽי־יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי־מִלִּפְנֵ֤י יְהֹוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם׃",
+    "transliteration": "vayiyre'v ha'anashiym yire'ah gedvolah vayo'merv 'elayv mah-zo't 'asiyta khiy-yade'v ha'anashiym khiy-milifeney yehovah hv' voreha khiy higiyd lahem.",
     "translation": "Então os homens tiveram grande medo e lhe disseram: Que fizeste? Pois eles sabiam que diante do Senhor ele fugia, pois ele havia informado a eles."
   },
   {
     "verse": 11,
     "original": "וַיֹּאמְר֤וּ אֵלָיו֙ מַה־נַּ֣עֲשֶׂה לָּ֔ךְ וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעָלֵ֑ינוּ כִּ֥י הַיָּ֖ם הוֹלֵ֥ךְ וְסֹעֵֽר׃",
+    "transliteration": "vayo'merv 'elayv mah-na'aseh lakhe veyishetok hayam me'aleynv khiy hayam hvolekhe veso'er.",
     "translation": "E disseram-lhe: Que faremos contigo para que o mar se aquiete sobre nós? Pois o mar está em constante agitação."
   },
   {
     "verse": 12,
     "original": "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֙וּנִי֙ וַהֲטִילֻ֣נִי אֶל־הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם כִּ֚י יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם׃",
+    "transliteration": "vayo'mer 'aleyhem sa'vniy vahatiyluniy 'el-hayam veyishetok hayam me'aleykhem khiy yvode'a 'aniy khiy vesheliy hasa'ar hagadvol hazeh 'aleykhem.",
     "translation": "E disse-lhes: Levantai-me e lançai-me ao mar, e o mar cessará de vosmaguar. Pois bem sei que por minha causa este grande temporal veio sobre vós."
   },
   {
     "verse": 13,
     "original": "וַיַּחְתְּר֣וּ הָאֲנָשִׁ֗ים לְהָשִׁ֛יב אֶל־הַיַּבָּשָׁ֖ה וְלֹ֣א יָכֹ֑לוּ כִּ֣י הַיָּ֔ם הוֹלֵ֥ךְ וְסֹעֵ֖ר עֲלֵיהֶֽם׃",
+    "transliteration": "vayaheterv ha'anashiym lehashiyv 'el-hayavashah velo' yakholv khiy hayam hvolekhe veso'er 'aleyhem.",
     "translation": "E os homens se esforçaram para retornar à terra firme, mas não conseguiram, pois o mar continuava a arremessá-los violentamente."
   },
   {
     "verse": 14,
     "original": "וַיִּקְרְא֨וּ אֶל־יְהֹוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהֹוָה֙ אַל־נָ֣א נֹאבְדָ֗ה בְּנֶ֙פֶשׁ֙ הָאִ֣ישׁ הַזֶּ֔ה וְאַל־תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי־אַתָּ֣ה יְהֹוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ׃",
+    "transliteration": "vayikere'v 'el-yehovah vayo'merv 'anah yehovah 'al-na' no'vedah venefesh ha'iysh hazeh ve'al-titen 'aleynv dam nakiy' khiy-'atah yehovah kha'asher hafatseta 'asiyta.",
     "translation": "E clamaram ao Senhor, dizendo: Ah, Senhor! Não permitas que pereçamos por causa da vida deste homem e não nos imputes sangue inocente; porque tu, Senhor, fizeste conforme te aprazias."
   },
   {
     "verse": 15,
     "original": "וַיִּשְׂאוּ֙ אֶת־יוֹנָ֔ה וַיְטִלֻ֖הוּ אֶל־הַיָּ֑ם וַיַּעֲמֹ֥ד הַיָּ֖ם מִזַּעְפּֽוֹ׃",
+    "transliteration": "vayise'v 'et-yvonah vayetiluhv 'el-hayam vaya'amod hayam miza'efvo.",
     "translation": "Elevaram a Jonã, e o lançaram ao mar; então, o mar cessou de seu furor."
   },
   {
     "verse": 16,
     "original": "וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת־יְהֹוָ֑ה וַיִּֽזְבְּחוּ־זֶ֙בַח֙ לַֽיהֹוָ֔ה וַֽיִּדְּר֖וּ נְדָרִֽים׃",
+    "transliteration": "vayiyre'v ha'anashiym yire'ah gedvolah 'et-yehovah vayizevehv-zevah layhovah vayiderv nedariym.",
     "translation": "Os homens tiveram grande temor do Senhor e ofereceram sacrifício ao Senhor, fazendo votos."
   }
 ]

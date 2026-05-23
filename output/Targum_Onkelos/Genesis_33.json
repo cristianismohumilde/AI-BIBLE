@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "וּזְקַף יַעֲקֹב עֵינוֹהִי וַחֲזָא וְהָא עֵשָׂו אֲתָא וְעִמֵּיהּ אַרְבַּע מְאָה גֻּבְרִין וּפַלִּיג יָת בְּנַיָּא עַל לֵאָה וְעַל רָחֵל וְעַל תַּרְתֵּין <b>לְחֵינָתָא</b>:",
+    "transliteration": "vzekaf ya'akov 'eynvohiy vahaza' veha' 'esav 'ata' ve'imeyh 'areva' me'ah guveriyn vfaliyg yat venaya' 'al le'ah ve'al rahel ve'al tareteyn <b>leheynata'</b>:",
     "translation": "Então, Jacó ergueu seus olhos e viu, e eis que Esaú veio, e com ele quatrocentos homens; e separou seus filhos, Léia e Raquel, e as duas concubinas."
   },
   {
     "verse": 2,
     "original": "וְשַׁוִּי יָת <b>לְחֵינָתָא</b> וְיָת בְּנֵיהֶן קַדְמָאִין וְיָת לֵאָה וּבְנָהָא בַּתְרָאִין וְיָת רָחֵל וְיָת יוֹסֵף בַּתְרָאִין:",
+    "transliteration": "veshaviy yat <b>leheynata'</b> veyat veneyhen kadema'iyn veyat le'ah vvenaha' vatera'iyn veyat rahel veyat yvosef vatera'iyn:",
     "translation": "E fez passar adiante os rebanhos e seus filhos, Leah e suas crianças vieram depois, e Rachel e José por último:\n\nNota: O termo <b>לְחֵינָתָא</b>, que se refere aos rebanhos, não foi explicitamente traduzido no rascunho fornecido. Para manter a fidelidade ao texto original do Targum Onkelos e captar as nuances exegéticas necessárias, a tradução revisada corrigida é:\n\nE fez passar adiante os rebanhos de gado e seus filhos, Leah e suas crianças vieram depois, e Rachel e José por último:"
   },
   {
     "verse": 3,
     "original": "וְהוּא עֲבַר קֳדָמֵיהוֹן וּסְגִיד עַל אַרְעָא שְׁבַע זִמְנִין עַד מִקְרְבֵיהּ עַד (<small>נ\"א</small> לְוַת) אֲחוּהִי:",
+    "transliteration": "vehv' 'avar kodameyhvon vsegiyd 'al 'are'a' sheva' zimeniyn 'ad mikereveyh 'ad (<small>n\"'</small> levat) 'ahvhiy:",
     "translation": "E ele passou adiante e se prostrou sobre a terra sete vezes até que se aproximou de seu irmão."
   },
   {
     "verse": 4,
     "original": "וּרְהַט עֵשָׂו לְקַדָּמוּתֵיהּ וְגַפְּפֵיהּ וּנְפַל עַל צַוְארֵיהּ וְנַשְּׁקֵיהּ וּבְכוֹ:",
+    "transliteration": "vrehat 'esav lekadamvteyh vegafefeyh vnefal 'al tsave'reyh venashekeyh vvekhvo:",
     "translation": "E a afeição de Esaú veio à frente dele, e ele caiu sobre seu pescoço e beijou-o, e chorou."
   },
   {
     "verse": 5,
     "original": "וּזְקַף יָת עֵינוֹהִי וַחֲזָא יָת נְשַׁיָּא וְיָת בְּנַיָּא וַאֲמַר מָן אִלֵּין לָךְ וַאֲמַר בְּנַיָּא דִּי <b>חָס</b> יְיָ יָת עַבְדָּךְ:",
+    "transliteration": "vzekaf yat 'eynvohiy vahaza' yat neshaya' veyat venaya' va'amar man 'ileyn lakhe va'amar venaya' diy <b>has</b> yeya yat 'avedakhe:",
     "translation": "E ergueu seus olhos e viu as mulheres e os filhos, e disse: \"Estes também são meus?\" E respondeu: \"São os filhos que o Senhor favoreceu ao seu servo.\""
   },
   {
     "verse": 6,
     "original": "וּקְרִיבַת <b>לְחֵינָתָא</b> אִנִּין וּבְנֵיהֵן וּסְגִידָא:",
+    "transliteration": "vkeriyvat <b>leheynata'</b> 'iniyn vveneyhen vsegiyda':",
     "translation": "E aproximou-se a face de Esaú e seus filhos, e adoraram:"
   },
   {
     "verse": 7,
     "original": "וּקְרִיבָא אַף לֵאָה וּבְנָהָא וּסְגִידוּ וּבָתַר כֵּן קְרֵיב יוֹסֵף וְרָחֵל וּסְגִידוּ:",
+    "transliteration": "vkeriyva' 'af le'ah vvenaha' vsegiydv vvatar khen kereyv yvosef verahel vsegiydv:",
     "translation": "E aproximou-se também Lea e seus filhos e prostraram-se; e depois aproximou-se José e Raquel e prostraram-se."
   },
   {
     "verse": 8,
     "original": "וַאֲמַר מָן לָךְ כָּל מַשְׁרִיתָא הָדֵין דִּי עֲרָעִית וַאֲמַר לְאַשְׁכָּחָא רַחֲמִין בְּעֵינֵי רִבּוֹנִי:",
+    "transliteration": "va'amar man lakhe khal masheriyta' hadeyn diy 'ara'iyt va'amar le'ashekhaha' rahamiyn ve'eyney rivvoniy:",
     "translation": "E disse: \"Que significam estas dádivas numerosas que você trouxe? Guarde-as como um sinal de misericórdia perante os olhos do seu Senhor.\""
   },
   {
     "verse": 9,
     "original": "וַאֲמַר עֵשָׂו אִית לִי סַגִּי אָחִי <b>אַצְלַח</b> בְּדִילָךְ:",
+    "transliteration": "va'amar 'esav 'iyt liy sagiy 'ahiy <b>'atselah</b> vediylakhe:",
     "translation": "E disse Esaú: Tenho, meu irmão, demais; sim, sobra-me."
   },
   {
     "verse": 10,
     "original": "וַאֲמַר יַעֲקֹב בְּבָעוּ אִם <b>כְּעַן</b> אַשְׁכָּחִית רַחֲמִין בְּעֵינָיךְ <b>וּתְקַבֵּל</b> תִּקְרֻבְתִּי מִן יְדִי אֲרֵי עַל כֵּן חֲזִתִּנּוּן לְאַפָּיךְ כְּחֵיזוּ אַפֵּי <b>רַבְרְבַיָּא</b> וְאִתְרְעֵית לִי:",
+    "transliteration": "va'amar ya'akov veva'v 'im <b>khe'an</b> 'ashekhahiyt rahamiyn ve'eynaykhe <b>vtekavel</b> tikeruvetiy min yediy 'arey 'al khen hazitinvn le'afaykhe kheheyzv 'afey <b>raverevaya'</b> ve'itere'eyt liy:",
     "translation": "E disse Jacó: \"Porventura, se agora achei graça em teus olhos e tu deves aceitar a oferenda que eu te dou? Pois é por isso que vi o teu rosto como se visse os rostos dos anjos, e tu foste benigno comigo.\""
   },
   {
     "verse": 11,
     "original": "קַבֵּל <b>כְּעַן</b> יָת <b>תִּקְרֻבְתִּי</b> דְּאִתּוֹתִיאַת לָךְ אֲרֵי רַחִים עֲלַי (קֳדָם) יְיָ וַאֲרֵי אִית לִי כֹלָּא וְאַתְקֵף בֵּיהּ <b>וְקַבִּיל</b>:",
+    "transliteration": "kavel <b>khe'an</b> yat <b>tikeruvetiy</b> de'itvotiy'at lakhe 'arey rahiym 'alay (kodam) yeya va'arey 'iyt liy khola' ve'atekef veyh <b>vekaviyl</b>:",
     "translation": "Receba agora a minha oferta que estou-te apresentando, pois o Senhor foi misericordioso comigo e tenho de tudo; aceite-o:"
   },
   {
     "verse": 12,
     "original": "וַאֲמַר נִטַּל וְנֵיהָךְ וְאֵיהַךְ לְקָבְלָךְ:",
+    "transliteration": "va'amar nital veneyhakhe ve'eyhakhe lekavelakhe:",
     "translation": "E disse: Levai-vos e ide, e eu irei também a vos receber."
   },
   {
     "verse": 13,
     "original": "וַאֲמַר לֵיהּ רִבּוֹנִי יְדַע אֲרֵי יָנְקַיָּא רַכִּיכִין וְעָנָא וְתוֹרֵי מֵינִקְתָּא עָלָי וּדְחוֹקִנּוּן יוֹמָא חַד וִימוּתוּן כָּל עָנָא:",
+    "transliteration": "va'amar leyh rivvoniy yeda' 'arey yanekaya' rakhiykhiyn ve'ana' vetvorey meyniketa' 'alay vdehvokinvn yvoma' had viymvtvn khal 'ana':",
     "translation": "E disse a ele: \"Senhor, sabe que os meninos são fracos e as mulheres amamentando estão sobre mim, e se apressarmos em um só dia, todos eles morrerão\"."
   },
   {
     "verse": 14,
     "original": "יְעִבַּר <b>כְּעַן</b> רִבּוֹנִי קֳדָם עַבְדֵּיהּ וַאֲנָא אֱדַבֵּר בְּנִיחַ לְרֶגֶל עוֹבַדְתָּא דִי קֳדָמַי וּלְרֶגֶל יָנְקַיָּא עַד דִּי אֵעוֹל לְוַת רִבּוֹנִי לְשֵׂעִיר:",
+    "transliteration": "ye'ivar <b>khe'an</b> rivvoniy kodam 'avedeyh va'ana' 'edaver veniyha leregel 'vovadeta' diy kodamay vleregel yanekaya' 'ad diy 'e'vol levat rivvoniy lese'iyr:",
     "translation": "Passarei, meu senhor, à tua frente com a lentidão da servidão; eu me demorarei até que venham os rebanhos e as crias deles, até que eu chegue junto ao teu servo, a Seir."
   },
   {
     "verse": 15,
     "original": "וַאֲמַר עֵשָׂו אֶשְׁבּוֹק כְּעַן עִמָּךְ מִן עַמָּא דִּעִמִּי וַאֲמַר לְמָא דְנַן אַשְׁכַּח רַחֲמִין בְּעֵינֵי רִבּוֹנִי:",
+    "transliteration": "va'amar 'esav 'eshevvok khe'an 'imakhe min 'ama' di'imiy va'amar lema' denan 'ashekhah rahamiyn ve'eyney rivvoniy:",
     "translation": "E disse Esaú: \"Deixe-me ir agora com você, pois o meu povo está comigo.\" E respondeu: \"Por que você deseja nos separar? As misericórdias do Senhor se acham diante dos nossos olhos.\""
   },
   {
     "verse": 16,
     "original": "וְתָב בְּיוֹמָא הַהוּא עֵשָׂו לְאָרְחֵיהּ לְשֵׂעִיר:",
+    "transliteration": "vetav veyvoma' hahv' 'esav le'areheyh lese'iyr:",
     "translation": "E naquele dia Esaú se afastou para o seu caminho, indo a Seir."
   },
   {
     "verse": 17,
     "original": "וְיַעֲקֹב נְטַל לְסֻכּוֹת וּבְנָא לֵיהּ בֵּיתָא וְלִבְעִירֵיהּ עֲבַד מְטַלָּן עַל כֵּן קְרָא שְׁמָא דְאַתְרָא סֻכּוֹת:",
+    "transliteration": "veya'akov netal lesukhvot vvena' leyh veyta' velive'iyreyh 'avad metalan 'al khen kera' shema' de'atera' sukhvot:",
     "translation": "E Jacó levantou tendas, e construiu uma casa, e para o seu rebanho fez abrigos; por isso chamaram ao nome do lugar Sucot."
   },
   {
     "verse": 18,
     "original": "וַאֲתָא יַעֲקֹב שְׁלִים קַרְתָּא דִשְׁכֶם דִּי בְּאַרְעָא דִכְנָעַן בְּמֵיתֵיהּ מִפַּדַּן דַּאֲרָם וּשְׁרָא לָקֳבֵל (אַפֵּי) קַרְתָּא:",
+    "transliteration": "va'ata' ya'akov sheliym kareta' dishekhem diy ve'are'a' dikhena'an vemeyteyh mifadan da'aram vshera' lakovel ('afey) kareta':",
     "translation": "E Jacó chegou incólume à cidade de Schechem, que está na terra de Canaã, vindo dos seus lares em Padã-Arã; e acampou diante da cidade."
   },
   {
     "verse": 19,
     "original": "וּזְבַן יָת <b>אַחֲסָנַת</b> חַקְלָא דִּי פְרַס תַּמָּן מַשְׁכְּנֵיהּ מִידָא דִבְנֵי חֲמוֹר אֲבוּהִי דִשְׁכֶם בְּמֵאָה <b>חוּרְפָן</b>:",
+    "transliteration": "vzevan yat <b>'ahasanat</b> hakela' diy feras taman mashekheneyh miyda' diveney hamvor 'avvhiy dishekhem veme'ah <b>hvrefan</b>:",
     "translation": "E adquiriu a porção de campo e a caverna que está nele, do lado dos filhos de Hamor, pai de Schechem, por cem moedas de prata."
   },
   {
     "verse": 20,
     "original": "וַאֲקֵם תַּמָּן מַדְבְּחָא <b>וּפְלַח עֲלוֹהִי קֳדָם</b> אֵל אֱלָהָא <b>דְ</b>יִשְׂרָאֵל:",
+    "transliteration": "va'akem taman madeveha' <b>vfelah 'alvohiy kodam</b> 'el 'elaha' <b>de</b>yisera'el:",
     "translation": "E ali erigeu um altar, e separou um pedaço de terra em frente ao Deus de Israel."
   }
 ]

@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "ᾠδὴ ψαλμοῦ τῷ Ασαφ ",
+    "transliteration": "odi psalmoy to Asaf ",
     "translation": "Cântico de salmo para Asafe"
   },
   {
     "verse": 2,
     "original": "ὁ θεός τίς ὁμοιωθήσεταί σοι μὴ σιγήσῃς μηδὲ καταπραΰνῃς ὁ θεός ",
+    "transliteration": "ho theos tis homoiothisetai soi mi sigisis mide katapraynis ho theos ",
     "translation": "Deus, quem será comparado a ti? Não te calares e não te abrandares, ó Deus."
   },
   {
     "verse": 3,
     "original": "ὅτι ἰδοὺ οἱ ἐχθροί σου ἤχησαν καὶ οἱ μισοῦντές σε ἦραν κεφαλήν ",
+    "transliteration": "hoti idoy ohi echthroi soy ichisan kai ohi misoyntes se iran kefalin ",
     "translation": "Pois eis que os teus inimigos rugiram, e os que te odeiam exaltaram-se."
   },
   {
     "verse": 4,
     "original": "ἐπὶ τὸν λαόν σου κατεπανουργεύσαντο γνώμην καὶ ἐβουλεύσαντο κατὰ τῶν ἁγίων σου ",
+    "transliteration": "epi ton laon soy katepanoyrgeysanto gnomin kai evoyleysanto kata ton hagion soy ",
     "translation": "sobre o teu povo eles tramaram dolo e aconselharam-se contra os teus santos"
   },
   {
     "verse": 5,
     "original": "εἶπαν δεῦτε καὶ ἐξολεθρεύσωμεν αὐτοὺς ἐξ ἔθνους καὶ οὐ μὴ μνησθῇ τὸ ὄνομα Ισραηλ ἔτι ",
+    "transliteration": "eipan deyte kai exolethreysomen aytoys ex ethnoys kai oy mi mnisthi to onoma Israil eti ",
     "translation": "Disseram: \"Vinde, e destruiremos-os da nação, para que o nome de Israel não seja mais lembrado\"."
   },
   {
     "verse": 6,
     "original": "ὅτι ἐβουλεύσαντο ἐν ὁμονοίᾳ ἐπὶ τὸ αὐτό κατὰ σοῦ διαθήκην διέθεντο ",
+    "transliteration": "hoti evoyleysanto en homonoia epi to ayto kata soy diathikin diethento ",
     "translation": "porque conselharam juntos contra ti uma aliança."
   },
   {
     "verse": 7,
     "original": "τὰ σκηνώματα τῶν Ιδουμαίων καὶ οἱ Ισμαηλῖται Μωαβ καὶ οἱ Αγαρηνοί ",
+    "transliteration": "ta skinomata ton Idoymaion kai ohi Ismailitai Moav kai ohi Agarinoi ",
     "translation": "As tendas dos edomitas e os ismaelitas, moabe e os agarenoíses. \n\nCorreção:\nAs tendas dos edomitas e os ismaelitas, de_moabe_e os agarenoíses."
   },
   {
     "verse": 8,
     "original": "Γεβαλ καὶ Αμμων καὶ Αμαληκ καὶ ἀλλόφυλοι μετὰ τῶν κατοικούντων Τύρον ",
+    "transliteration": "Geval kai Ammon kai Amalik kai allofyloi meta ton katoikoynton Tyron ",
     "translation": "Gebal e Amom e Amaleque, junto com os estrangeiros que habitam Tiro."
   },
   {
     "verse": 9,
     "original": "καὶ γὰρ καὶ Ασσουρ συμπαρεγένετο μετ’ αὐτῶν ἐγενήθησαν εἰς ἀντίλημψιν τοῖς υἱοῖς Λωτ διάψαλμα ",
+    "transliteration": "kai gar kai Assoyr symparegeneto met' ayton egenithisan eis antilimpsin tois yhiois Lot diapsalma ",
     "translation": "Também Assur se uniu com eles, tornando-se uma muralha contrária aos filhos de Lot. Diápsalma."
   },
   {
     "verse": 10,
     "original": "ποίησον αὐτοῖς ὡς τῇ Μαδιαμ καὶ τῷ Σισαρα ὡς ὁ Ιαβιν ἐν τῷ χειμάρρῳ Κισων ",
+    "transliteration": "poiison aytois hos ti Madiam kai to Sisara hos ho Iavin en to cheimarro Kison ",
     "translation": "Faze-lhes como a Madiã, e a Sisara, assim a Jabin no ribeiro de Cison."
   },
   {
     "verse": 11,
     "original": "ἐξωλεθρεύθησαν ἐν Αενδωρ ἐγενήθησαν ὡσεὶ κόπρος τῇ γῇ ",
+    "transliteration": "exolethreythisan en Aendor egenithisan hosei kopros ti gi ",
     "translation": "Foram eliminados em Endor, tornaram-se como esterco da terra."
   },
   {
     "verse": 12,
     "original": "θοῦ τοὺς ἄρχοντας αὐτῶν ὡς τὸν Ωρηβ καὶ Ζηβ καὶ Ζεβεε καὶ Σαλμανα πάντας τοὺς ἄρχοντας αὐτῶν ",
+    "transliteration": "thoy toys archontas ayton hos ton Oriv kai Ziv kai Zevee kai Salmana pantas toys archontas ayton ",
     "translation": "Eis vós, ó governantes, como Ôreb e Zeba, Zebi e Salmana, todos os seus príncipes."
   },
   {
     "verse": 13,
     "original": "οἵτινες εἶπαν κληρονομήσωμεν ἑαυτοῖς τὸ ἁγιαστήριον τοῦ θεοῦ ",
+    "transliteration": "ohitines eipan klironomisomen heaytois to hagiastirion toy theoy ",
     "translation": "os quais disseram: Herdemos para nós o santuário de Deus"
   },
   {
     "verse": 14,
     "original": "ὁ θεός μου θοῦ αὐτοὺς ὡς τροχόν ὡς καλάμην κατὰ πρόσωπον ἀνέμου ",
+    "transliteration": "ho theos moy thoy aytoys hos trochon hos kalamin kata prosopon anemoy ",
     "translation": "Deus meu, os destrua como roda, como palha diante do vento."
   },
   {
     "verse": 15,
     "original": "ὡσεὶ πῦρ ὃ διαφλέξει δρυμόν ὡς εἰ φλὸξ κατακαύσαι ὄρη ",
+    "transliteration": "hosei pyr ho diaflexei drymon hos ei flox katakaysai ori ",
     "translation": "Como fogo que consumirá a floresta, como chama que queimará os montes."
   },
   {
     "verse": 16,
     "original": "οὕτως καταδιώξεις αὐτοὺς ἐν τῇ καταιγίδι σου καὶ ἐν τῇ ὀργῇ σου ταράξεις αὐτούς ",
+    "transliteration": "ohytos katadioxeis aytoys en ti kataigidi soy kai en ti orgi soy taraxeis aytoys ",
     "translation": "Assim os perseguirás na tua tempestade e na tua ira perturbarás-os."
   },
   {
     "verse": 17,
     "original": "πλήρωσον τὰ πρόσωπα αὐτῶν ἀτιμίας καὶ ζητήσουσιν τὸ ὄνομά σου κύριε ",
+    "transliteration": "pliroson ta prosopa ayton atimias kai zitisoysin to onoma soy kyrie ",
     "translation": "Enche suas faces de confusão, e eles buscarão o teu nome, SENHOR."
   },
   {
     "verse": 18,
     "original": "αἰσχυνθήτωσαν καὶ ταραχθήτωσαν εἰς τὸν αἰῶνα τοῦ αἰῶνος καὶ ἐντραπήτωσαν καὶ ἀπολέσθωσαν ",
+    "transliteration": "aischynthitosan kai tarachthitosan eis ton aiona toy aionos kai entrapitosan kai apolesthosan ",
     "translation": "Sejam envergonhados e perturbados para sempre, e se voltem e pereçam."
   },
   {
     "verse": 19,
     "original": "καὶ γνώτωσαν ὅτι ὄνομά σοι κύριος σὺ μόνος ὕψιστος ἐπὶ πᾶσαν τὴν γῆν ",
+    "transliteration": "kai gnotosan hoti onoma soi kyrios sy monos hypsistos epi pasan tin gin ",
     "translation": "E saibam que o teu nome é Senhor, tu és o Altíssimo sobre toda a terra."
   }
 ]

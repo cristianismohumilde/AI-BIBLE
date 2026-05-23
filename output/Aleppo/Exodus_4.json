@@ -2,156 +2,187 @@
   {
     "verse": 1,
     "original": "וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא־יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י יֹֽאמְר֔וּ לֹֽא־נִרְאָ֥ה אֵלֶ֖יךָ יְהֹוָֽה׃",
+    "transliteration": "vaya'an mosheh vayo'mer vehen lo'-ya'amiynv liy velo' yisheme'v vekoliy khiy yo'merv lo'-nire'ah 'eleykha yehovah.",
     "translation": "E respondeu Moisés e disse: Eis que não me crerão, nem prestarão ouvidos à minha voz; pois dirão: Não nos apareceu o Senhor."
   },
   {
     "verse": 2,
     "original": "וַיֹּ֧אמֶר אֵלָ֛יו יְהֹוָ֖ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מזה)</span> <span class=\"mam-kq-q\">[מַה־זֶּ֣ה]</span></span> בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה׃",
+    "transliteration": "vayo'mer 'elayv yehovah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mzh)</span> <span class=\"mam-kq-q\">[mah-zeh]</span></span> veyadekha vayo'mer mateh.",
     "translation": "E disse-lhe o Senhor: \"Que tens na mão?\" E ele respondeu: \"Uma vara.\""
   },
   {
     "verse": 3,
     "original": "וַיֹּ֙אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נׇס מֹשֶׁ֖ה מִפָּנָֽיו׃",
+    "transliteration": "vayo'mer hasheliykhehv 'aretsah vayashelikhehv 'aretsah vayehiy lenahash vayanos mosheh mifanayv.",
     "translation": "E disse: Lança-o ao chão; e ele o lançou ao chão, e tornou-se em serpente; e Moisés fugiu dele."
   },
   {
     "verse": 4,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh shelah yadekha ve'ehoz vizenavvo vayishelah yadvo vayahazek vvo vayehiy lemateh vekhafvo.",
     "translation": "E disse o Senhor a Moisés: Estenda a sua mão e agarre-o pela cauda. Então ele estendeu a mão e segurou-o, e tornou-se um cajado na sua mão."
   },
   {
     "verse": 5,
     "original": "לְמַ֣עַן יַאֲמִ֔ינוּ כִּֽי־נִרְאָ֥ה אֵלֶ֛יךָ יְהֹוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑ם אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֥י יַעֲקֹֽב׃",
+    "transliteration": "lema'an ya'amiynv khiy-nire'ah 'eleykha yehovah 'elohey 'avotam 'elohey 'averaham 'elohey yitsehak ve'lohey ya'akov.",
     "translation": "Para que creiam, pois manifestou-se a ti o Senhor, Deus de seus pais, Deus de Abraão, Deus de Isaque e Deus de Jacó."
   },
   {
     "verse": 6,
     "original": "וַיֹּ֩אמֶר֩ יְהֹוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג׃",
+    "transliteration": "vayo'mer yehovah lvo 'vod have'-na' yadekha veheykekha vayave' yadvo veheykvo vayvotsi'ah vehineh yadvo metsora'at khashaleg.",
     "translation": "E disse o Senhor a ele mais uma vez: Estenda sua mão para dentro de seu manto. E ele estendeu sua mão para dentro de seu manto e a tirou, e eis que sua mão estava leprosa como neve."
   },
   {
     "verse": 7,
     "original": "וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל־חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל־חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ וְהִנֵּה־שָׁ֖בָה כִּבְשָׂרֽוֹ׃",
+    "transliteration": "vayo'mer hashev yadekha 'el-heykekha vayashev yadvo 'el-heykvo vayvotsi'ah meheykvo vehineh-shavah khivesarvo.",
     "translation": "E disse: \"Estende a tua mão ao teu manto\", e ele estendeu a sua mão para o seu manto; e tirou-a do seu manto, e eis que havia tornado como carne."
   },
   {
     "verse": 8,
     "original": "וְהָיָה֙ אִם־לֹ֣א יַאֲמִ֣ינוּ לָ֔ךְ וְלֹ֣א יִשְׁמְע֔וּ לְקֹ֖ל הָאֹ֣ת הָרִאשׁ֑וֹן וְהֶֽאֱמִ֔ינוּ לְקֹ֖ל הָאֹ֥ת הָאַחֲרֽוֹן׃",
+    "transliteration": "vehayah 'im-lo' ya'amiynv lakhe velo' yisheme'v lekol ha'ot hari'shvon vehe'emiynv lekol ha'ot ha'aharvon.",
     "translation": "E será que, se eles não te derem ouvidos e não acreditarem no primeiro sinal, então acreditarão no segundo sinal."
   },
   {
     "verse": 9,
     "original": "וְהָיָ֡ה אִם־לֹ֣א יַאֲמִ֡ינוּ גַּם֩ לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה וְלֹ֤א יִשְׁמְעוּן֙ לְקֹלֶ֔ךָ וְלָקַחְתָּ֙ מִמֵּימֵ֣י הַיְאֹ֔ר וְשָׁפַכְתָּ֖ הַיַּבָּשָׁ֑ה וְהָי֤וּ הַמַּ֙יִם֙ אֲשֶׁ֣ר תִּקַּ֣ח מִן־הַיְאֹ֔ר וְהָי֥וּ לְדָ֖ם בַּיַּבָּֽשֶׁת׃",
+    "transliteration": "vehayah 'im-lo' ya'amiynv gam lisheney ha'otvot ha'eleh velo' yisheme'vn lekolekha velakaheta mimeymey haye'or veshafakheta hayavashah vehayv hamayim 'asher tikah min-haye'or vehayv ledam vayavashet.",
     "translation": "E será que, se não acreditarem nem em ambos estes sinais e não derem ouvidos à tua voz, tomarás das águas do rio e as derramarás sobre a terra; e as águas que tirares do rio tornar-se-ão sangue sobre a terra."
   },
   {
     "verse": 10,
     "original": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־יְהֹוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙ גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ֖ אֶל־עַבְדֶּ֑ךָ כִּ֧י כְבַד־פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי׃",
+    "transliteration": "vayo'mer mosheh 'el-yehovah viy 'adonay lo' 'iysh devariym 'anokhiy gam mitemvol gam mishileshom gam me'az daverekha 'el-'avedekha khiy khevad-feh vkhevad lashvon 'anokhiy.",
     "translation": "E disse Moisés ao Senhor: Oh, meu Senhor! Não sou homem de palavras, nem desde ontem nem desde anteontem, e tampouco desde o momento em que falaste com teu servo; pois sou pesado de boca e pesado de língua."
   },
   {
     "verse": 11,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלָ֗יו מִ֣י שָׂ֣ם פֶּה֮ לָֽאָדָם֒ א֚וֹ מִֽי־יָשׂ֣וּם אִלֵּ֔ם א֣וֹ חֵרֵ֔שׁ א֥וֹ פִקֵּ֖חַ א֣וֹ עִוֵּ֑ר הֲלֹ֥א אָנֹכִ֖י יְהֹוָֽה׃",
+    "transliteration": "vayo'mer yehovah 'elayv miy sam feh la'adam 'vo miy-yasvm 'ilem 'vo heresh 'vo fikeha 'vo 'iver halo' 'anokhiy yehovah.",
     "translation": "E disse o Senhor a ele: Quem pôs boca no homem? Ou quem determina que seja mudo, surdo, ou vidente, ou cego? Não sou eu, o Senhor?"
   },
   {
     "verse": 12,
     "original": "וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם־פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר׃",
+    "transliteration": "ve'atah lekhe ve'anokhiy 'eheyeh 'im-fiykha vehvoreytiykha 'asher tedaver.",
     "translation": "E agora vai, e eu serei contigo na tua boca, e te ensinarei o que deves dizer."
   },
   {
     "verse": 13,
     "original": "וַיֹּ֖אמֶר בִּ֣י אֲדֹנָ֑י שְֽׁלַֽח־נָ֖א בְּיַד־תִּשְׁלָֽח׃",
+    "transliteration": "vayo'mer viy 'adonay shelah-na' veyad-tishelah.",
     "translation": "E disse: Oh, meu Senhor, envia, te rogo, por mão de outrem."
   },
   {
     "verse": 14,
     "original": "וַיִּֽחַר־אַ֨ף יְהֹוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֙אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֙יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי כִּֽי־דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה־הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ׃",
+    "transliteration": "vayihar-'af yehovah vemosheh vayo'mer halo' 'aharon 'ahiykha haleviy yada'etiy khiy-daver yedaver hv' vegam hineh-hv' yotse' likera'tekha vera'akha vesamah velivvo.",
     "translation": "E ficou irado o Senhor com Moisés, e disse: Não é Aharon teu irmão levita? Eu bem sei que ele sabe falar. Eis que ele sairá ao teu encontro, e vendo-te se alegrará no seu coração."
   },
   {
     "verse": 15,
     "original": "וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת־הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם־פִּ֙יךָ֙ וְעִם־פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן׃",
+    "transliteration": "vedivareta 'elayv vesameta 'et-hadevariym vefiyv ve'anokhiy 'eheyeh 'im-fiykha ve'im-fiyhv vehvoreytiy 'etekhem 'et 'asher ta'asvn.",
     "translation": "E falareis com ele, e poreis as palavras em sua boca; e eu estarei convosco e com ele, e vos ensinarei o que deveis fazer."
   },
   {
     "verse": 16,
     "original": "וְדִבֶּר־ה֥וּא לְךָ֖ אֶל־הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה־לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה־לּ֥וֹ לֵֽאלֹהִֽים׃",
+    "transliteration": "vediver-hv' lekha 'el-ha'am vehayah hv' yiheyeh-lekha lefeh ve'atah tiheyeh-lvo le'lohiym.",
     "translation": "E ele falará por ti ao povo, e será tua voz, e tu lhe serás em lugar de Deus."
   },
   {
     "verse": 17,
     "original": "וְאֶת־הַמַּטֶּ֥ה הַזֶּ֖ה תִּקַּ֣ח בְּיָדֶ֑ךָ אֲשֶׁ֥ר תַּעֲשֶׂה־בּ֖וֹ אֶת־הָאֹתֹֽת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'et-hamateh hazeh tikah veyadekha 'asher ta'aseh-vvo 'et-ha'otot.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E com este cajado que tens na mão farás sinais."
   },
   {
     "verse": 18,
     "original": "וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שׇׁב&thinsp;<b>׀</b> אֶל־יֶ֣תֶר חֹֽתְנ֗וֹ וַיֹּ֤אמֶר לוֹ֙ אֵ֣לְכָה נָּ֗א וְאָשׁ֙וּבָה֙ אֶל־אַחַ֣י אֲשֶׁר־בְּמִצְרַ֔יִם וְאֶרְאֶ֖ה הַעוֹדָ֣ם חַיִּ֑ים וַיֹּ֧אמֶר יִתְר֛וֹ לְמֹשֶׁ֖ה לֵ֥ךְ לְשָׁלֽוֹם׃",
+    "transliteration": "vayelekhe mosheh vayashov&thinsp;<b>|</b> 'el-yeter hotenvo vayo'mer lvo 'elekhah na' ve'ashvvah 'el-'ahay 'asher-vemitserayim ve'ere'eh ha'vodam hayiym vayo'mer yitervo lemosheh lekhe leshalvom.",
     "translation": "E Moisés foi e voltou ao seu sogro, Jeetro, e disse-lhe: \"Partirei agora e retornarei à minha gente que está no Egito, para ver se ainda estão vivos\". E Jeetro disse a Moisés: \"Vai em paz\"."
   },
   {
     "verse": 19,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ בְּמִדְיָ֔ן לֵ֖ךְ שֻׁ֣ב מִצְרָ֑יִם כִּי־מֵ֙תוּ֙ כׇּל־הָ֣אֲנָשִׁ֔ים הַֽמְבַקְשִׁ֖ים אֶת־נַפְשֶֽׁךָ׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh vemideyan lekhe shuv mitserayim khiy-metv khol-ha'anashiym hamevakeshiym 'et-nafeshekha.",
     "translation": "E disse o Senhor a Moisés em Midiã: Vai, retorna ao Egito, pois morreram todos os homens que te buscavam a vida."
   },
   {
     "verse": 20,
     "original": "וַיִּקַּ֨ח מֹשֶׁ֜ה אֶת־אִשְׁתּ֣וֹ וְאֶת־בָּנָ֗יו וַיַּרְכִּבֵם֙ עַֽל־הַחֲמֹ֔ר וַיָּ֖שׇׁב אַ֣רְצָה מִצְרָ֑יִם וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־מַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדֽוֹ׃",
+    "transliteration": "vayikah mosheh 'et-'ishetvo ve'et-vanayv vayarekhivem 'al-hahamor vayashov 'aretsah mitserayim vayikah mosheh 'et-mateh ha'elohiym veyadvo.",
     "translation": "E tomou Moisés a sua mulher e seus filhos, montou-os sobre um jumento, e retornou à terra do Egito. E Moisés tomou na mão a vara de Deus."
   },
   {
     "verse": 21,
     "original": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כׇּל־הַמֹּֽפְתִים֙ אֲשֶׁר־שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת־לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח אֶת־הָעָֽם׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh velekhetekha lashvv mitserayemah re'eh khol-hamofetiym 'asher-sametiy veyadekha va'asiytam lifeney fare'oh va'aniy 'ahazek 'et-livvo velo' yeshalah 'et-ha'am.",
     "translation": "E disse o Senhor a Moisés: Ao ir-te de volta ao Egito, vê todos os prodígios que pus na tua mão e faze-os diante do faraó; porém endurecerei seu coração e ele não deixará ir o povo."
   },
   {
     "verse": 22,
     "original": "וְאָמַרְתָּ֖ אֶל־פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל׃",
+    "transliteration": "ve'amareta 'el-fare'oh khoh 'amar yehovah veniy vekhoriy yisera'el.",
     "translation": "E dirás a Faraó: Assim diz o Senhor: Israel é meu primogênito."
   },
   {
     "verse": 23,
     "original": "וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת־בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּח֑וֹ הִנֵּה֙ אָנֹכִ֣י הֹרֵ֔ג אֶת־בִּנְךָ֖ בְּכֹרֶֽךָ׃",
+    "transliteration": "va'omar 'eleykha shalah 'et-veniy veya'avedeniy vatema'en leshalehvo hineh 'anokhiy horeg 'et-vinekha vekhorekha.",
     "translation": "E disseste a mim: Deixa ir meu filho, para que sirva a mim, mas tu recusaste deixá-lo ir. Eis que matarei o teu filho, o primogênito de ti."
   },
   {
     "verse": 24,
     "original": "וַיְהִ֥י בַדֶּ֖רֶךְ בַּמָּל֑וֹן וַיִּפְגְּשֵׁ֣הוּ יְהֹוָ֔ה וַיְבַקֵּ֖שׁ הֲמִיתֽוֹ׃",
+    "transliteration": "vayehiy vaderekhe vamalvon vayifegeshehv yehovah vayevakesh hamiytvo.",
     "translation": "E sucedeu que na estrada, no acampamento, o Senhor lhe apareceu e quis matá-lo."
   },
   {
     "verse": 25,
     "original": "וַתִּקַּ֨ח צִפֹּרָ֜ה צֹ֗ר וַתִּכְרֹת֙ אֶת־עׇרְלַ֣ת בְּנָ֔הּ וַתַּגַּ֖ע לְרַגְלָ֑יו וַתֹּ֕אמֶר כִּ֧י חֲתַן־דָּמִ֛ים אַתָּ֖ה לִֽי׃",
+    "transliteration": "vatikah tsiforah tsor vatikherot 'et-'orelat venah vataga' leragelayv vato'mer khiy hatan-damiym 'atah liy.",
     "translation": "E tomou Zipora uma pedra e circuncidou seu filho, e tocou seus pés, dizendo: Certamente és um genro do sangue para mim."
   },
   {
     "verse": 26,
     "original": "וַיִּ֖רֶף מִמֶּ֑נּוּ אָ֚ז אָֽמְרָ֔ה חֲתַ֥ן דָּמִ֖ים לַמּוּלֹֽת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayiref mimenv 'az 'amerah hatan damiym lamvlot.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E se afastou dele; então ela disse: \"O homem das sangrentas circuncisões.\""
   },
   {
     "verse": 27,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶֽל־אַהֲרֹ֔ן לֵ֛ךְ לִקְרַ֥את מֹשֶׁ֖ה הַמִּדְבָּ֑רָה וַיֵּ֗לֶךְ וַֽיִּפְגְּשֵׁ֛הוּ בְּהַ֥ר הָאֱלֹהִ֖ים וַיִּשַּׁק־לֽוֹ׃",
+    "transliteration": "vayo'mer yehovah 'el-'aharon lekhe likera't mosheh hamidevarah vayelekhe vayifegeshehv vehar ha'elohiym vayishak-lvo.",
     "translation": "E disse o Senhor a Aarão: Vai ao encontro de Moisés no deserto; e partiu, encontrando-o no monte de Deus, donde lhe beijou a face."
   },
   {
     "verse": 28,
     "original": "וַיַּגֵּ֤ד מֹשֶׁה֙ לְאַֽהֲרֹ֔ן אֵ֛ת כׇּל־דִּבְרֵ֥י יְהֹוָ֖ה אֲשֶׁ֣ר שְׁלָח֑וֹ וְאֵ֥ת כׇּל־הָאֹתֹ֖ת אֲשֶׁ֥ר צִוָּֽהוּ׃",
+    "transliteration": "vayaged mosheh le'aharon 'et khol-diverey yehovah 'asher shelahvo ve'et khol-ha'otot 'asher tsivahv.",
     "translation": "Moisés contou a Aarão todas as palavras do Senhor que lhe enviara e todos os sinais que lhe ordenara."
   },
   {
     "verse": 29,
     "original": "וַיֵּ֥לֶךְ מֹשֶׁ֖ה וְאַהֲרֹ֑ן וַיַּ֣אַסְפ֔וּ אֶת־כׇּל־זִקְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vayelekhe mosheh ve'aharon vaya'asefv 'et-khol-zikeney veney yisera'el.",
     "translation": "E Moisés e Arão foram e convocaram todos os anciãos de Israel."
   },
   {
     "verse": 30,
     "original": "וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כׇּל־הַדְּבָרִ֔ים אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה וַיַּ֥עַשׂ הָאֹתֹ֖ת לְעֵינֵ֥י הָעָֽם׃",
+    "transliteration": "vayedaver 'aharon 'et khol-hadevariym 'asher-diver yehovah 'el-mosheh vaya'as ha'otot le'eyney ha'am.",
     "translation": "E Aarão falou todas as palavras que Jeová havia ordenado a Moisés e fez os sinais diante do povo."
   },
   {
     "verse": 31,
     "original": "וַֽיַּאֲמֵ֖ן הָעָ֑ם וַֽיִּשְׁמְע֡וּ כִּֽי־פָקַ֨ד יְהֹוָ֜ה אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל וְכִ֤י רָאָה֙ אֶת־עׇנְיָ֔ם וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוֽוּ׃",
+    "transliteration": "vaya'amen ha'am vayisheme'v khiy-fakad yehovah 'et-veney yisera'el vekhiy ra'ah 'et-'oneyam vayikedv vayishetahavv.",
     "translation": "E o povo acreditou; ouviram que o Senhor se lembrara dos filhos de Israel e que vira a sua angústia. Então, inclinaram-se e prostraram-se em adoração."
   }
 ]

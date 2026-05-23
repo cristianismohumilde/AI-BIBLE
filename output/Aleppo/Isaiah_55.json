@@ -2,66 +2,79 @@
   {
     "verse": 1,
     "original": "ה֤וֹי כׇּל־צָמֵא֙ לְכ֣וּ לַמַּ֔יִם וַאֲשֶׁ֥ר אֵֽין־ל֖וֹ כָּ֑סֶף לְכ֤וּ שִׁבְרוּ֙ וֶאֱכֹ֔לוּ וּלְכ֣וּ שִׁבְר֗וּ בְּלוֹא־כֶ֛סֶף וּבְל֥וֹא מְחִ֖יר יַ֥יִן וְחָלָֽב׃",
+    "transliteration": "hvoy khol-tsame' lekhv lamayim va'asher 'eyn-lvo khasef lekhv shiverv ve'ekholv vlekhv shiverv velvo'-khesef vvelvo' mehiyr yayin vehalav.",
     "translation": "Ai, todo o que tem sede, vinde às águas; e vós que não tendes dinheiro, vinde, comprai e comed; sim, vinde, comprai sem dinheiro e bebei sem dar preço ao vinho e ao leite."
   },
   {
     "verse": 2,
     "original": "לָ֤מָּה תִשְׁקְלוּ־כֶ֙סֶף֙ בְּלוֹא־לֶ֔חֶם וִיגִיעֲכֶ֖ם בְּל֣וֹא לְשׇׂבְעָ֑ה שִׁמְע֨וּ שָׁמ֤וֹעַ אֵלַי֙ וְאִכְלוּ־ט֔וֹב וְתִתְעַנַּ֥ג בַּדֶּ֖שֶׁן נַפְשְׁכֶֽם׃",
+    "transliteration": "lamah tishekelv-khesef velvo'-lehem viygiy'akhem velvo' lesove'ah shime'v shamvo'a 'elay ve'ikhelv-tvov vetite'anag vadeshen nafeshekhem.",
     "translation": "Por que pesais o ouro vazio de pão, e o vosso trabalho não satisfaz? Ouvi-me atentamente e comereis do bem, e em abundância vos regalareis a alma."
   },
   {
     "verse": 3,
     "original": "הַטּ֤וּ אׇזְנְכֶם֙ וּלְכ֣וּ אֵלַ֔י שִׁמְע֖וּ וּתְחִ֣י נַפְשְׁכֶ֑ם וְאֶכְרְתָ֤ה לָכֶם֙ בְּרִ֣ית עוֹלָ֔ם חַֽסְדֵ֥י דָוִ֖ד הַנֶּאֱמָנִֽים׃",
+    "transliteration": "hatv 'ozenekhem vlekhv 'elay shime'v vtehiy nafeshekhem ve'ekheretah lakhem veriyt 'volam hasedey david hane'emaniym.",
     "translation": "Estendei vossas orelhas e vinde a mim; ouvi, e vossa alma vivirá; farei convosco uma aliança eterna, os fielmente leais de Davi."
   },
   {
     "verse": 4,
     "original": "הֵ֛ן עֵ֥ד לְאוּמִּ֖ים נְתַתִּ֑יו נָגִ֥יד וּמְצַוֵּ֖ה לְאֻמִּֽים׃",
+    "transliteration": "hen 'ed le'vmiym netatiyv nagiyd vmetsaveh le'umiym.",
     "translation": "Eis testemunho para as nações que nele ponho, um líder e instrutor para as nações."
   },
   {
     "verse": 5,
     "original": "הֵ֣ן גּ֤וֹי לֹֽא־תֵדַע֙ תִּקְרָ֔א וְג֥וֹי לֹֽא־יְדָע֖וּךָ אֵלֶ֣יךָ יָר֑וּצוּ לְמַ֙עַן֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְלִקְד֥וֹשׁ יִשְׂרָאֵ֖ל כִּ֥י פֵאֲרָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hen gvoy lo'-teda' tikera' vegvoy lo'-yeda'vkha 'eleykha yarvtsv lema'an yehovah 'eloheykha velikedvosh yisera'el khiy fe'arakhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eis, nação que não conheces tu clamas, e nação que de ti nunca ouviu se te apressará, por amor do Senhor teu Deus, e pelo Santo de Israel, pois tua glória é objeto."
   },
   {
     "verse": 6,
     "original": "דִּרְשׁ֥וּ יְהֹוָ֖ה בְּהִמָּֽצְא֑וֹ קְרָאֻ֖הוּ בִּֽהְיוֹת֥וֹ קָרֽוֹב׃",
+    "transliteration": "direshv yehovah vehimatse'vo kera'uhv viheyvotvo karvov.",
     "translation": "Buscai o Senhor quando ele se faz encontrar; invocai-o enquanto está perto."
   },
   {
     "verse": 7,
     "original": "יַעֲזֹ֤ב רָשָׁע֙ דַּרְכּ֔וֹ וְאִ֥ישׁ אָ֖וֶן מַחְשְׁבֹתָ֑יו וְיָשֹׁ֤ב אֶל־יְהֹוָה֙ וִֽירַחֲמֵ֔הוּ וְאֶל־אֱלֹהֵ֖ינוּ כִּֽי־יַרְבֶּ֥ה לִסְלֽוֹחַ׃",
+    "transliteration": "ya'azov rasha' darekhvo ve'iysh 'aven maheshevotayv veyashov 'el-yehovah viyrahamehv ve'el-'eloheynv khiy-yareveh liselvoha.",
     "translation": "Deixe o perverso a sua senda, e o homem de maldade os seus intentos; voltem ao Senhor, e ele será misericordioso com eles; voltem a Deus, que em abundância perdoará."
   },
   {
     "verse": 8,
     "original": "כִּ֣י לֹ֤א מַחְשְׁבוֹתַי֙ מַחְשְׁב֣וֹתֵיכֶ֔ם וְלֹ֥א דַרְכֵיכֶ֖ם דְּרָכָ֑י נְאֻ֖ם יְהֹוָֽה׃",
+    "transliteration": "khiy lo' maheshevvotay maheshevvoteykhem velo' darekheykhem derakhay ne'um yehovah.",
     "translation": "Pois não são os meus pensamentos os vossos pensamentos, nem o vosso caminho o meu caminho, diz o Senhor."
   },
   {
     "verse": 9,
     "original": "כִּֽי־גָבְה֥וּ שָׁמַ֖יִם מֵאָ֑רֶץ כֵּ֣ן גָּבְה֤וּ דְרָכַי֙ מִדַּרְכֵיכֶ֔ם וּמַחְשְׁבֹתַ֖י מִמַּחְשְׁבֹֽתֵיכֶֽם׃",
+    "transliteration": "khiy-gavehv shamayim me'arets khen gavehv derakhay midarekheykhem vmaheshevotay mimaheshevoteykhem.",
     "translation": "Porque como são altos os céus acima da terra, assim são altos os meus caminhos acima dos vossos e os meus pensamentos acima dos vossos."
   },
   {
     "verse": 10,
     "original": "כִּ֡י כַּאֲשֶׁ֣ר יֵרֵד֩ הַגֶּ֨שֶׁם וְהַשֶּׁ֜לֶג מִן־הַשָּׁמַ֗יִם וְשָׁ֙מָּה֙ לֹ֣א יָשׁ֔וּב כִּ֚י אִם־הִרְוָ֣ה אֶת־הָאָ֔רֶץ וְהוֹלִידָ֖הּ וְהִצְמִיחָ֑הּ וְנָ֤תַן זֶ֙רַע֙ לַזֹּרֵ֔עַ וְלֶ֖חֶם לָאֹכֵֽל׃",
+    "transliteration": "khiy kha'asher yered hageshem vehasheleg min-hashamayim veshamah lo' yashvv khiy 'im-hirevah 'et-ha'arets vehvoliydah vehitsemiyhah venatan zera' lazore'a velehem la'okhel.",
     "translation": "Pois assim como desce a chuva e a neve dos céus, e de lá não retornam, antes regam a terra e a faz germinar e brotar, produzindo semente para o que semeia e pão para o que come."
   },
   {
     "verse": 11,
     "original": "כֵּ֣ן יִהְיֶ֤ה דְבָרִי֙ אֲשֶׁ֣ר יֵצֵ֣א מִפִּ֔י לֹא־יָשׁ֥וּב אֵלַ֖י רֵיקָ֑ם כִּ֤י אִם־עָשָׂה֙ אֶת־אֲשֶׁ֣ר חָפַ֔צְתִּי וְהִצְלִ֖יחַ אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃",
+    "transliteration": "khen yiheyeh devariy 'asher yetse' mifiy lo'-yashvv 'elay reykam khiy 'im-'asah 'et-'asher hafatsetiy vehitseliyha 'asher shelahetiyv.",
     "translation": "Assim será a minha palavra que sair da minha boca; não voltará para mim vazia, antes fará o seu intento e prosperará naquilo para que foi enviada."
   },
   {
     "verse": 12,
     "original": "כִּֽי־בְשִׂמְחָ֣ה תֵצֵ֔אוּ וּבְשָׁל֖וֹם תּוּבָל֑וּן הֶהָרִ֣ים וְהַגְּבָע֗וֹת יִפְצְח֤וּ לִפְנֵיכֶם֙ רִנָּ֔ה וְכׇל־עֲצֵ֥י הַשָּׂדֶ֖ה יִמְחֲאוּ־כָֽף׃",
+    "transliteration": "khiy-vesimehah tetse'v vveshalvom tvvalvn hehariym vehageva'vot yifetsehv lifeneykhem rinah vekhol-'atsey hasadeh yimeha'v-khaf.",
     "translation": "Pois com alegria saireis e em segurança sereis levados; os montes e as colinas estourarão diante de vós em júbilo, e todos os ciprestes do campo lhe darão aplauso."
   },
   {
     "verse": 13,
     "original": "תַּ֤חַת הַֽנַּעֲצוּץ֙ יַעֲלֶ֣ה בְר֔וֹשׁ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(תחת)</span> <span class=\"mam-kq-q\">[וְתַ֥חַת]</span></span> הַסִּרְפַּ֖ד יַעֲלֶ֣ה הֲדַ֑ס וְהָיָ֤ה לַֽיהֹוָה֙ לְשֵׁ֔ם לְא֥וֹת עוֹלָ֖ם לֹ֥א יִכָּרֵֽת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "tahat hana'atsvts ya'aleh vervosh <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tht)</span> <span class=\"mam-kq-q\">[vetahat]</span></span> hasirefad ya'aleh hadas vehayah layhovah leshem le'vot 'volam lo' yikharet.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Em vez do espinheiro subirá o cedro, em lugar do urz brotará o mirto; e isso será para o Senhor como sinal eterno que não se apagará."
   }
 ]

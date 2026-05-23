@@ -2,176 +2,211 @@
   {
     "verse": 1,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה וְדִבַּרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh vo' 'el-fare'oh vedivareta 'elayv khoh-'amar yehovah 'elohey ha'iveriym shalah 'et-'amiy veya'aveduniy.",
     "translation": "E disse o Senhor a Moisés: Vai a Faraó e fala-lhe assim: Assim diz o Senhor, Deus dos hebreus: Deixa ir o meu povo para que me sirvam."
   },
   {
     "verse": 2,
     "original": "כִּ֛י אִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֑חַ וְעוֹדְךָ֖ מַחֲזִ֥יק בָּֽם׃",
+    "transliteration": "khiy 'im-ma'en 'atah leshaleha ve'vodekha mahaziyk vam.",
     "translation": "Porque, se tu negares a soltá-los, e ainda os retiveres,"
   },
   {
     "verse": 3,
     "original": "הִנֵּ֨ה יַד־יְהֹוָ֜ה הוֹיָ֗ה בְּמִקְנְךָ֙ אֲשֶׁ֣ר בַּשָּׂדֶ֔ה בַּסּוּסִ֤ים בַּֽחֲמֹרִים֙ בַּגְּמַלִּ֔ים בַּבָּקָ֖ר וּבַצֹּ֑אן דֶּ֖בֶר כָּבֵ֥ד מְאֹֽד׃",
+    "transliteration": "hineh yad-yehovah hvoyah vemikenekha 'asher vasadeh vasvsiym vahamoriym vagemaliym vavakar vvatso'n dever khaved me'od.",
     "translation": "Eis, a mão do Senhor está caindo sobre o teu gado que está no campo; sobre os cavalos, sobre os jumentos, sobre as camelas, sobre os bois e sobre as ovelhas, com uma praga muito severa."
   },
   {
     "verse": 4,
     "original": "וְהִפְלָ֣ה יְהֹוָ֔ה בֵּ֚ין מִקְנֵ֣ה יִשְׂרָאֵ֔ל וּבֵ֖ין מִקְנֵ֣ה מִצְרָ֑יִם וְלֹ֥א יָמ֛וּת מִכׇּל־לִבְנֵ֥י יִשְׂרָאֵ֖ל דָּבָֽר׃",
+    "transliteration": "vehifelah yehovah veyn mikeneh yisera'el vveyn mikeneh mitserayim velo' yamvt mikhol-liveney yisera'el davar.",
     "translation": "E Jehovah separou entre o gado dos israelitas e o gado dos egípcios, e nada de todos os filhos de Israel morreu."
   },
   {
     "verse": 5,
     "original": "וַיָּ֥שֶׂם יְהֹוָ֖ה מוֹעֵ֣ד לֵאמֹ֑ר מָחָ֗ר יַעֲשֶׂ֧ה יְהֹוָ֛ה הַדָּבָ֥ר הַזֶּ֖ה בָּאָֽרֶץ׃",
+    "transliteration": "vayasem yehovah mvo'ed le'mor mahar ya'aseh yehovah hadavar hazeh va'arets.",
     "translation": "E o Senhor estabeleceu um tempo, dizendo: Amanhã, o Senhor realizará esta palavra na terra."
   },
   {
     "verse": 6,
     "original": "וַיַּ֨עַשׂ יְהֹוָ֜ה אֶת־הַדָּבָ֤ר הַזֶּה֙ מִֽמׇּחֳרָ֔ת וַיָּ֕מׇת כֹּ֖ל מִקְנֵ֣ה מִצְרָ֑יִם וּמִמִּקְנֵ֥ה בְנֵֽי־יִשְׂרָאֵ֖ל לֹא־מֵ֥ת אֶחָֽד׃",
+    "transliteration": "vaya'as yehovah 'et-hadavar hazeh mimohorat vayamot khol mikeneh mitserayim vmimikeneh veney-yisera'el lo'-met 'ehad.",
     "translation": "E o Senhor fez isso no dia seguinte, e morreu todo o gado do Egito; mas do gado dos filhos de Israel nenhum morreu."
   },
   {
     "verse": 7,
     "original": "וַיִּשְׁלַ֣ח פַּרְעֹ֔ה וְהִנֵּ֗ה לֹא־מֵ֛ת מִמִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד־אֶחָ֑ד וַיִּכְבַּד֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת־הָעָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayishelah fare'oh vehineh lo'-met mimikeneh yisera'el 'ad-'ehad vayikhevad lev fare'oh velo' shilah 'et-ha'am.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Faraó enviou, e eis que nenhum dos rebanhos de Israel havia morrido, nem um único; mas o coração de Faraó se endureceu, e ele não os deixou ir."
   },
   {
     "verse": 8,
     "original": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ קְח֤וּ לָכֶם֙ מְלֹ֣א חׇפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן וּזְרָק֥וֹ מֹשֶׁ֛ה הַשָּׁמַ֖יְמָה לְעֵינֵ֥י פַרְעֹֽה׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh ve'el-'aharon kehv lakhem melo' hofeneykhem fiyha khiveshan vzerakvo mosheh hashamayemah le'eyney fare'oh.",
     "translation": "E disse o Senhor a Moisés e a Arão: Tomai cada um uma pigna cheia da cinza do forno, e espalha-a Moisés nos céus à vista de Faraó."
   },
   {
     "verse": 9,
     "original": "וְהָיָ֣ה לְאָבָ֔ק עַ֖ל כׇּל־אֶ֣רֶץ מִצְרָ֑יִם וְהָיָ֨ה עַל־הָאָדָ֜ם וְעַל־הַבְּהֵמָ֗ה לִשְׁחִ֥ין פֹּרֵ֛חַ אֲבַעְבֻּעֹ֖ת בְּכׇל־אֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "vehayah le'avak 'al khol-'erets mitserayim vehayah 'al-ha'adam ve'al-havehemah lishehiyn foreha 'ava'evu'ot vekhol-'erets mitserayim.",
     "translation": "E será pó sobre toda a terra do Egito, e haverá no homem e no animal pústulas purulentas em toda a terra do Egito."
   },
   {
     "verse": 10,
     "original": "וַיִּקְח֞וּ אֶת־פִּ֣יחַ הַכִּבְשָׁ֗ן וַיַּֽעַמְדוּ֙ לִפְנֵ֣י פַרְעֹ֔ה וַיִּזְרֹ֥ק אֹת֛וֹ מֹשֶׁ֖ה הַשָּׁמָ֑יְמָה וַיְהִ֗י שְׁחִין֙ אֲבַעְבֻּעֹ֔ת פֹּרֵ֕חַ בָּאָדָ֖ם וּבַבְּהֵמָֽה׃",
+    "transliteration": "vayikehv 'et-fiyha hakhiveshan vaya'amedv lifeney fare'oh vayizerok 'otvo mosheh hashamayemah vayehiy shehiyn 'ava'evu'ot foreha va'adam vvavehemah.",
     "translation": "E tomaram a cinza do forno, e se puseram diante de Faraó; e Moisés a arremessou aos céus, e tornou-se em úlceras purulentas em homens e animais."
   },
   {
     "verse": 11,
     "original": "וְלֹֽא־יָכְל֣וּ הַֽחַרְטֻמִּ֗ים לַעֲמֹ֛ד לִפְנֵ֥י מֹשֶׁ֖ה מִפְּנֵ֣י הַשְּׁחִ֑ין כִּֽי־הָיָ֣ה הַשְּׁחִ֔ין בַּֽחַרְטֻמִּ֖ם וּבְכׇל־מִצְרָֽיִם׃",
+    "transliteration": "velo'-yakhelv haharetumiym la'amod lifeney mosheh mifeney hashehiyn khiy-hayah hashehiyn vaharetumim vvekhol-mitserayim.",
     "translation": "E os encantadores não puderam comparecer diante de Moisés por causa da piolhice, pois a piolhice estava sobre os encantadores e sobre toda a terra do Egito."
   },
   {
     "verse": 12,
     "original": "וַיְחַזֵּ֤ק יְהֹוָה֙ אֶת־לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהֹוָ֖ה אֶל־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayehazek yehovah 'et-lev fare'oh velo' shama' 'alehem kha'asher diver yehovah 'el-mosheh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E fortaleceu o Senhor o coração de Faraó, e ele não os escutou como o Senhor havia dito a Moisés."
   },
   {
     "verse": 13,
     "original": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְהִתְיַצֵּ֖ב לִפְנֵ֣י פַרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh hashekhem vavoker vehiteyatsev lifeney fare'oh ve'amareta 'elayv khoh-'amar yehovah 'elohey ha'iveriym shalah 'et-'amiy veya'aveduniy.",
     "translation": "E disse o Senhor a Moisés: Levanta-te de madrugada, apresenta-te diante de Faraó e dize-lhe: Assim diz o Senhor, Deus dos hebreus: Deixa ir o meu povo, para que me sirvam."
   },
   {
     "verse": 14,
     "original": "כִּ֣י&thinsp;<b>׀</b> בַּפַּ֣עַם הַזֹּ֗את אֲנִ֨י שֹׁלֵ֜חַ אֶת־כׇּל־מַגֵּפֹתַי֙ אֶֽל־לִבְּךָ֔ וּבַעֲבָדֶ֖יךָ וּבְעַמֶּ֑ךָ בַּעֲב֣וּר תֵּדַ֔ע כִּ֛י אֵ֥ין כָּמֹ֖נִי בְּכׇל־הָאָֽרֶץ׃",
+    "transliteration": "khiy&thinsp;<b>|</b> vafa'am hazo't 'aniy sholeha 'et-khol-magefotay 'el-livekha vva'avadeykha vve'amekha va'avvr teda' khiy 'eyn khamoniy vekhol-ha'arets.",
     "translation": "Porque desta vez eu enviarei todas as minhas plagas ao teu coração e aos teus servos e ao teu povo, para que saibas que não há quem seja como eu em toda a terra."
   },
   {
     "verse": 15,
     "original": "כִּ֤י עַתָּה֙ שָׁלַ֣חְתִּי אֶת־יָדִ֔י וָאַ֥ךְ אוֹתְךָ֛ וְאֶֽת־עַמְּךָ֖ בַּדָּ֑בֶר וַתִּכָּחֵ֖ד מִן־הָאָֽרֶץ׃",
+    "transliteration": "khiy 'atah shalahetiy 'et-yadiy va'akhe 'votekha ve'et-'amekha vadaver vatikhahed min-ha'arets.",
     "translation": "Porque agora estendi minha mão e te toquei, a ti e ao teu povo, para que sejais separados da terra."
   },
   {
     "verse": 16,
     "original": "וְאוּלָ֗ם בַּעֲב֥וּר זֹאת֙ הֶעֱמַדְתִּ֔יךָ בַּעֲב֖וּר הַרְאֹתְךָ֣ אֶת־כֹּחִ֑י וּלְמַ֛עַן סַפֵּ֥ר שְׁמִ֖י בְּכׇל־הָאָֽרֶץ׃",
+    "transliteration": "ve'vlam va'avvr zo't he'emadetiykha va'avvr hare'otekha 'et-khohiy vlema'an safer shemiy vekhol-ha'arets.",
     "translation": "Mas por isso te estabeleci para mostrar-te o meu poder e para que anuncies o meu nome em toda a terra."
   },
   {
     "verse": 17,
     "original": "עוֹדְךָ֖ מִסְתּוֹלֵ֣ל בְּעַמִּ֑י לְבִלְתִּ֖י שַׁלְּחָֽם׃",
+    "transliteration": "'vodekha misetvolel ve'amiy leviletiy shaleham.",
     "translation": "Ainda te divirtes com o meu povo, não os fazendo partir."
   },
   {
     "verse": 18,
     "original": "הִנְנִ֤י מַמְטִיר֙ כָּעֵ֣ת מָחָ֔ר בָּרָ֖ד כָּבֵ֣ד מְאֹ֑ד אֲשֶׁ֨ר לֹא־הָיָ֤ה כָמֹ֙הוּ֙ בְּמִצְרַ֔יִם לְמִן־הַיּ֥וֹם הִוָּסְדָ֖הֿ וְעַד־עָֽתָּה׃",
+    "transliteration": "hineniy mametiyr kha'et mahar varad khaved me'od 'asher lo'-hayah khamohv vemitserayim lemin-hayvom hivasedah ve'ad-'atah.",
     "translation": "Eis que amanhã farei chover granizo severo mais do que jamais houve no Egito desde o seu estabelecimento até hoje."
   },
   {
     "verse": 19,
     "original": "וְעַתָּ֗ה שְׁלַ֤ח הָעֵז֙ אֶֽת־מִקְנְךָ֔ וְאֵ֛ת כׇּל־אֲשֶׁ֥ר לְךָ֖ בַּשָּׂדֶ֑ה כׇּל־הָאָדָ֨ם וְהַבְּהֵמָ֜ה אֲשֶֽׁר־יִמָּצֵ֣א בַשָּׂדֶ֗ה וְלֹ֤א יֵֽאָסֵף֙ הַבַּ֔יְתָה וְיָרַ֧ד עֲלֵהֶ֛ם הַבָּרָ֖ד וָמֵֽתוּ׃",
+    "transliteration": "ve'atah shelah ha'ez 'et-mikenekha ve'et khol-'asher lekha vasadeh khol-ha'adam vehavehemah 'asher-yimatse' vasadeh velo' ye'asef havayetah veyarad 'alehem havarad vametv.",
     "translation": "E agora, envia para o campo todo o teu gado e tudo o que tens no campo; pois todo o homem e toda a fera que for achada ao ar livre, não se recolher à casa, sobre eles descerá o granizo e morrerão."
   },
   {
     "verse": 20,
     "original": "הַיָּרֵא֙ אֶת־דְּבַ֣ר יְהֹוָ֔ה מֵֽעַבְדֵ֖י פַּרְעֹ֑ה הֵנִ֛יס אֶת־עֲבָדָ֥יו וְאֶת־מִקְנֵ֖הוּ אֶל־הַבָּתִּֽים׃",
+    "transliteration": "hayare' 'et-devar yehovah me'avedey fare'oh heniys 'et-'avadayv ve'et-mikenehv 'el-havatiym.",
     "translation": "O que temia a palavra do Senhor entre os servos de Faraó fez entrar seus servos e seu gado nas casas."
   },
   {
     "verse": 21,
     "original": "וַאֲשֶׁ֥ר לֹא־שָׂ֛ם לִבּ֖וֹ אֶל־דְּבַ֣ר יְהֹוָ֑ה וַֽיַּעֲזֹ֛ב אֶת־עֲבָדָ֥יו וְאֶת־מִקְנֵ֖הוּ בַּשָּׂדֶֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "va'asher lo'-sam livvo 'el-devar yehovah vaya'azov 'et-'avadayv ve'et-mikenehv vasadeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E aquele que não pôs seu coração na palavra do Senhor, e deixou seus servos e seu gado no campo."
   },
   {
     "verse": 22,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֤ה אֶת־יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִיהִ֥י בָרָ֖ד בְּכׇל־אֶ֣רֶץ מִצְרָ֑יִם עַל־הָאָדָ֣ם וְעַל־הַבְּהֵמָ֗ה וְעַ֛ל כׇּל־עֵ֥שֶׂב הַשָּׂדֶ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "vayo'mer yehovah 'el-mosheh neteh 'et-yadekha 'al-hashamayim viyhiy varad vekhol-'erets mitserayim 'al-ha'adam ve'al-havehemah ve'al khol-'esev hasadeh ve'erets mitserayim.",
     "translation": "E disse o Senhor a Moisés: Estende a tua mão sobre os céus, e haja granizo em toda a terra do Egito, sobre os homens e sobre os animais e sobre todo o cereal dos campos da terra do Egito."
   },
   {
     "verse": 23,
     "original": "וַיֵּ֨ט מֹשֶׁ֣ה אֶת־מַטֵּ֘הוּ֮ עַל־הַשָּׁמַ֒יִם֒ וַֽיהֹוָ֗ה נָתַ֤ן קֹלֹת֙ וּבָרָ֔ד וַתִּ֥הֲלַךְ אֵ֖שׁ אָ֑רְצָה וַיַּמְטֵ֧ר יְהֹוָ֛ה בָּרָ֖ד עַל־אֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "vayet mosheh 'et-matehv 'al-hashamayim vayhovah natan kolot vvarad vatihalakhe 'esh 'aretsah vayameter yehovah varad 'al-'erets mitserayim.",
     "translation": "E Moisés estendeu sua vara para os céus, e o Senhor enviou trovões e granizo, e a chama correu pela terra; e o Senhor despejou granizo sobre toda a terra do Egito."
   },
   {
     "verse": 24,
     "original": "וַיְהִ֣י בָרָ֔ד וְאֵ֕שׁ מִתְלַקַּ֖חַת בְּת֣וֹךְ הַבָּרָ֑ד כָּבֵ֣ד מְאֹ֔ד אֲ֠שֶׁ֠ר לֹֽא־הָיָ֤ה כָמֹ֙הוּ֙ בְּכׇל־אֶ֣רֶץ מִצְרַ֔יִם מֵאָ֖ז הָיְתָ֥ה לְגֽוֹי׃",
+    "transliteration": "vayehiy varad ve'esh mitelakahat vetvokhe havarad khaved me'od 'asher lo'-hayah khamohv vekhol-'erets mitserayim me'az hayetah legvoy.",
     "translation": "E caiu o granizo e fogo que se misturava com o granizo, muito severo, como nunca houve na terra do Egito desde que ali chegou a gente."
   },
   {
     "verse": 25,
     "original": "וַיַּ֨ךְ הַבָּרָ֜ד בְּכׇל־אֶ֣רֶץ מִצְרַ֗יִם אֵ֚ת כׇּל־אֲשֶׁ֣ר בַּשָּׂדֶ֔ה מֵאָדָ֖ם וְעַד־בְּהֵמָ֑ה וְאֵ֨ת כׇּל־עֵ֤שֶׂב הַשָּׂדֶה֙ הִכָּ֣ה הַבָּרָ֔ד וְאֶת־כׇּל־עֵ֥ץ הַשָּׂדֶ֖ה שִׁבֵּֽר׃",
+    "transliteration": "vayakhe havarad vekhol-'erets mitserayim 'et khol-'asher vasadeh me'adam ve'ad-vehemah ve'et khol-'esev hasadeh hikhah havarad ve'et-khol-'ets hasadeh shiver.",
     "translation": "E o granizo feriu toda a terra do Egito, tudo que havia no campo, desde homem até gado; e o granizo feriu todo o vegetal do campo, e todas as árvores do campo ele partiu."
   },
   {
     "verse": 26,
     "original": "רַ֚ק בְּאֶ֣רֶץ גֹּ֔שֶׁן אֲשֶׁר־שָׁ֖ם בְּנֵ֣י יִשְׂרָאֵ֑ל לֹ֥א הָיָ֖ה בָּרָֽד׃",
+    "transliteration": "rak ve'erets goshen 'asher-sham veney yisera'el lo' hayah varad.",
     "translation": "Somente na terra de Gósn, onde estavam os filhos de Israel, não houve granizo."
   },
   {
     "verse": 27,
     "original": "וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם יְהֹוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים׃",
+    "transliteration": "vayishelah fare'oh vayikera' lemosheh vle'aharon vayo'mer 'alehem hata'tiy hafa'am yehovah hatsadiyk va'aniy ve'amiy haresha'iym.",
     "translation": "E Faraó enviou e chamou a Moisés e Arão; disse-lhes: Pecamos desta vez, o Senhor é justo, e eu e meu povo somos os pecadores."
   },
   {
     "verse": 28,
     "original": "הַעְתִּ֙ירוּ֙ אֶל־יְהֹוָ֔ה וְרַ֕ב מִֽהְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּבָרָ֑ד וַאֲשַׁלְּחָ֣ה אֶתְכֶ֔ם וְלֹ֥א תֹסִפ֖וּן לַעֲמֹֽד׃",
+    "transliteration": "ha'etiyrv 'el-yehovah verav miheyot kolot 'elohiym vvarad va'ashalehah 'etekhem velo' tosifvn la'amod.",
     "translation": "Invocai ao Senhor, e seja muito mais do que o som dos trovões divinos e da tempestade de granizo; e vos enviarei embora, e não permanecereis mais."
   },
   {
     "verse": 29,
     "original": "וַיֹּ֤אמֶר אֵלָיו֙ מֹשֶׁ֔ה כְּצֵאתִי֙ אֶת־הָעִ֔יר אֶפְרֹ֥שׂ אֶת־כַּפַּ֖י אֶל־יְהֹוָ֑ה הַקֹּל֣וֹת יֶחְדָּל֗וּן וְהַבָּרָד֙ לֹ֣א יִֽהְיֶה־ע֔וֹד לְמַ֣עַן תֵּדַ֔ע כִּ֥י לַיהֹוָ֖ה הָאָֽרֶץ׃",
+    "transliteration": "vayo'mer 'elayv mosheh khetse'tiy 'et-ha'iyr 'eferos 'et-khafay 'el-yehovah hakolvot yehedalvn vehavarad lo' yiheyeh-'vod lema'an teda' khiy layhovah ha'arets.",
     "translation": "E disse-lhe Moisés: Assim que sair da cidade, levantarei as minhas mãos ao Senhor; cessarão os trovões e não haverá mais granizo; para que saibas que a terra é do Senhor."
   },
   {
     "verse": 30,
     "original": "וְאַתָּ֖ה וַעֲבָדֶ֑יךָ יָדַ֕עְתִּי כִּ֚י טֶ֣רֶם תִּֽירְא֔וּן מִפְּנֵ֖י יְהֹוָ֥ה אֱלֹהִֽים׃",
+    "transliteration": "ve'atah va'avadeykha yada'etiy khiy terem tiyre'vn mifeney yehovah 'elohiym.",
     "translation": "E tu e teus servos conhecem que ainda não temeram a presença do Senhor, vosso Deus."
   },
   {
     "verse": 31,
     "original": "וְהַפִּשְׁתָּ֥ה וְהַשְּׂעֹרָ֖ה נֻכָּ֑תָה כִּ֤י הַשְּׂעֹרָה֙ אָבִ֔יב וְהַפִּשְׁתָּ֖ה גִּבְעֹֽל׃",
+    "transliteration": "vehafishetah vehase'orah nukhatah khiy hase'orah 'aviyv vehafishetah give'ol.",
     "translation": "E a pista e a cevada foram cortadas, pois a cevada estava no seu início de florescimento e a pista já formava botões."
   },
   {
     "verse": 32,
     "original": "וְהַחִטָּ֥ה וְהַכֻּסֶּ֖מֶת לֹ֣א נֻכּ֑וּ כִּ֥י אֲפִילֹ֖ת הֵֽנָּה׃",
+    "transliteration": "vehahitah vehakhusemet lo' nukhv khiy 'afiylot henah.",
     "translation": "E a cevada e o trigo não foram tostados, pois estavam ainda verdes."
   },
   {
     "verse": 33,
     "original": "וַיֵּצֵ֨א מֹשֶׁ֜ה מֵעִ֤ם פַּרְעֹה֙ אֶת־הָעִ֔יר וַיִּפְרֹ֥שׂ כַּפָּ֖יו אֶל־יְהֹוָ֑ה וַֽיַּחְדְּל֤וּ הַקֹּלוֹת֙ וְהַבָּרָ֔ד וּמָטָ֖ר לֹא־נִתַּ֥ךְ אָֽרְצָה׃",
+    "transliteration": "vayetse' mosheh me'im fare'oh 'et-ha'iyr vayiferos khafayv 'el-yehovah vayahedelv hakolvot vehavarad vmatar lo'-nitakhe 'aretsah.",
     "translation": "E saiu Moisés de junto a Faraó para fora da cidade, e espalhou as mãos para o Senhor; cessaram então os trovões e a granizada, e a chuva não caiu mais sobre a terra."
   },
   {
     "verse": 34,
     "original": "וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי־חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו׃",
+    "transliteration": "vayare' fare'oh khiy-hadal hamatar vehavarad vehakolot vayosef lahato' vayakheved livvo hv' va'avadayv.",
     "translation": "E viu Faraó que cessara a chuva e o granizo e os trovões, e ele se endureceu ainda mais no seu pecado; seu coração e o de seus servos se endureceram."
   },
   {
     "verse": 35,
     "original": "וַיֶּֽחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayehezak lev fare'oh velo' shilah 'et-veney yisera'el kha'asher diver yehovah veyad-mosheh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E endureceu o coração de Faraó, e ele não libertou os filhos de Israel, conforme falou o Senhor por meio de Moisés."
   }
 ]

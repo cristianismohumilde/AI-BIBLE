@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "שלחו כר משל ארץ מסלע מדברה",
+    "transliteration": "slhv khr msl 'rts msl' mdvrh",
     "translation": "Envia, ó rocha, um cordeiro da terra, dos rochedos da aridez."
   },
   {
     "verse": 2,
     "original": "אל הר בת ציון והי א כעופ נודד קן משלח תהינה בנות מואב מעברת לארנון הביו עצה עשו פלילה שיתי כליל צלך בתוך צהרים סתרי נדחים נודד אל תגלי יגורו בכ נדחי מואב הוי סתר",
+    "transliteration": "'l hr vt tsyvn vhy ' kh'vf nvdd kn mslh thynh vnvt mv'v m'vrt l'rnvn hvyv 'tsh 'sv flylh syty khlyl tslkh vtvkh tshrym stry ndhym nvdd 'l tgly ygvrv vkh ndhy mv'v hvy str",
     "translation": "Subi, ó montanha, à filha de Sião; como uma andorinha errante, envia-te. As filhas de Moabe passam além do Arnom; dêem conselho, façam-se refúgio à noite que se torna dia. Esconde a tua sombra entre o meio-dia; oculta os fugitivos, esconde os errantes; não descubras os que habitam nos esconderijos do fugitivo de Moabe. Ó sê um abrigo."
   },
   {
     "verse": 3,
     "original": "היה כעוף נודד קן משלח תהיינה בנות מואב מעברת לארנון הביאו עצה עשו פלילה שיתי כליל צלך בתוך צהרים סתרי נדחים נדד אל תגלי",
+    "transliteration": "hyh kh'vf nvdd kn mslh thyynh vnvt mv'v m'vrt l'rnvn hvy'v 'tsh 'sv flylh syty khlyl tslkh vtvkh tshrym stry ndhym ndd 'l tgly",
     "translation": "Seja como um pássaro errante, sem ninho que o abrigue; sejam as filhas de Moabe passagens além do Arnom. Consigam conselhos, façam-se sombras de noite, escondam a sua solidão sob a tarde; ocultem os fugitivos, não os descubram."
   },
   {
     "verse": 4,
     "original": "יגורו בך",
+    "transliteration": "ygvrv vkh",
     "translation": "Esconder-se-ão em ti..."
   },
   {
     "verse": 5,
     "original": "שפט ודרש משפט ומהר צדק",
+    "transliteration": "sft vdrs msft vmhr tsdk",
     "translation": "Juza e busca justiça, e apressa a retidão."
   },
   {
     "verse": 6,
     "original": "שמענו גאון מואב גאה מאד גאותו וגאון ועברתו לא כן בדיו",
+    "transliteration": "sm'nv g'vn mv'v g'h m'd g'vtv vg'vn v'vrtv l' khn vdyv",
     "translation": "Ouvimos a vaidade de Moabe, que se exalta demais; sua altivez e seu orgulho não são retos em seu interior."
   },
   {
     "verse": 7,
     "original": "לכן ייליל מואב למואב כלה ייליל לאשישי קיר חרשת תהגו",
+    "transliteration": "lkhn yylyl mv'v lmv'v khlh yylyl l'sysy kyr hrst thgv",
     "translation": "Portanto, lamentará Moabe por Moabe; todo lamento gemerão os filhos de Quir-Hareseth."
   },
   {
     "verse": 8,
     "original": "אך נכאים כי שדמות חשבון אמלל גפן שבמה בעלי גוים הלמו שרוקיה עד יעזר נגעו תעו מדבר שלחותיה נטשו עברו ים",
+    "transliteration": "'kh nkh'ym khy sdmvt hsvvn 'mll gfn svmh v'ly gvym hlmv srvkyh 'd y'zr ng'v t'v mdvr slhvtyh ntsv 'vrv ym",
     "translation": "Contudo, devastados porque as plantações de uvas se tornaram ruínas; os que a protegiam foram dispersos entre as nações. Suas aves de rapina [reticências] até Ye'azer... abandonaram-na, transpassaram-na; ultrapassaram o mar."
   },
   {
     "verse": 9,
     "original": "על כן אבכה בבכי יעזר גפן שבמה אר ך דמעתי חשבון ואלעלה כי על קיצך ועל קצירך הידד נפל",
+    "transliteration": "'l khn 'vkhh vvkhy y'zr gfn svmh 'r kh dm'ty hsvvn v'l'lh khy 'l kytskh v'l ktsyrkh hydd nfl",
     "translation": "Portanto, chorarei em prantos por Jazer; sim, as videiras de Sibmá até teus juízos farei lamentar. Quem subirá contigo? Pois a tua estação e o teu ceifeiro caíram."
   },
   {
     "verse": 10,
     "original": "ירועע יין ביקבים לוא ידרוך הדורך הידד השבתי",
+    "transliteration": "yrv'' yyn vykvym lv' ydrvkh hdvrkh hydd hsvty",
     "translation": "Não haverá gritos de júbilo sobre o vinho nos sarneys, não se celebrará festa alguma; derramou-se a ceifa do meu povo."
   },
   {
     "verse": 11,
     "original": "על כן מעי למואב ככנור יהמו וקרבי לקיר חרש",
+    "transliteration": "'l khn m'y lmv'v khkhnvr yhmv vkrvy lkyr hrs",
     "translation": "Portanto, as entranhas de Moabe zumbem como uma harpa, e o seu coração [está] mudo como um alaúde."
   },
   {
     "verse": 12,
     "original": "יהיה כי נראה כי בא מואב על הבמה ובא אל מקדשיו להתפלל ולוא יוכל",
+    "transliteration": "yhyh khy nr'h khy v' mv'v 'l hvmh vv' 'l mkdsyv lhtfll vlv' yvkhl",
     "translation": "Será que se manifestará, pois veio de Moabe ao altar e chegou aos seus santuários para orar, mas não poderá."
   },
   {
     "verse": 13,
     "original": "זה הדבר אשר",
+    "transliteration": "zh hdvr 'sr",
     "translation": "Esta é a palavra que"
   },
   {
     "verse": 14,
     "original": "דבר יהוה אל מואב מאז ועתה דבר יהוה לאמור בשלוש שנים כשני שכיר ונקלה כבוד מואב בכול ההמון הרב ושאר מעט מזצער ולוא כבוד",
+    "transliteration": "dvr yhvh 'l mv'v m'z v'th dvr yhvh l'mvr vslvs snym khsny skhyr vnklh khvvd mv'v vkhvl hhmvn hrv vs'r m't mzts'r vlv' khvvd",
     "translation": "Palavra do Senhor contra Moabe, desde agora e para sempre: palavra do Senhor dizendo: em três anos, como o tempo de um trabalhador, desaparecerá a glória de Moabe com todo seu grande povo; sobrará apenas muito pouco, e não haverá glória."
   }
 ]

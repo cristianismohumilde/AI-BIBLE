@@ -2,91 +2,109 @@
   {
     "verse": 1,
     "original": "וַֽיְהִ֗י אַחֲרֵ֛י מ֥וֹת מֹשֶׁ֖ה עֶ֣בֶד יְהֹוָ֑ה וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־יְהוֹשֻׁ֣עַ בִּן־נ֔וּן מְשָׁרֵ֥ת מֹשֶׁ֖ה לֵאמֹֽר׃",
+    "transliteration": "vayehiy 'aharey mvot mosheh 'eved yehovah vayo'mer yehovah 'el-yehvoshu'a vin-nvn mesharet mosheh le'mor.",
     "translation": "E foi depois da morte de Moisés, servo do Senhor, que o Senhor disse a Josué, filho de Num, ministro de Moisés:"
   },
   {
     "verse": 2,
     "original": "מֹשֶׁ֥ה עַבְדִּ֖י מֵ֑ת וְעַתָּה֩ ק֨וּם עֲבֹ֜ר אֶת־הַיַּרְדֵּ֣ן הַזֶּ֗ה אַתָּה֙ וְכׇל־הָעָ֣ם הַזֶּ֔ה אֶל־הָאָ֕רֶץ אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לָהֶ֖ם לִבְנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "mosheh 'avediy met ve'atah kvm 'avor 'et-hayareden hazeh 'atah vekhol-ha'am hazeh 'el-ha'arets 'asher 'anokhiy noten lahem liveney yisera'el.",
     "translation": "Moisés, meu servo, morreu. Agora levanta-te e passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel."
   },
   {
     "verse": 3,
     "original": "כׇּל־מָק֗וֹם אֲשֶׁ֨ר תִּדְרֹ֧ךְ כַּֽף־רַגְלְכֶ֛ם בּ֖וֹ לָכֶ֣ם נְתַתִּ֑יו כַּאֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־מֹשֶֽׁה׃",
+    "transliteration": "khol-makvom 'asher tiderokhe khaf-ragelekhem vvo lakhem netatiyv kha'asher divaretiy 'el-mosheh.",
     "translation": "Todo lugar para onde pisar a planta do vosso pé, eu o dou a vós; como falei a Moisés."
   },
   {
     "verse": 4,
     "original": "מֵהַמִּדְבָּר֩ וְהַלְּבָנ֨וֹן הַזֶּ֜ה וְֽעַד־הַנָּהָ֧ר הַגָּד֣וֹל נְהַר־פְּרָ֗ת כֹּ֚ל אֶ֣רֶץ הַֽחִתִּ֔ים וְעַד־הַיָּ֥ם הַגָּד֖וֹל מְב֣וֹא הַשָּׁ֑מֶשׁ יִֽהְיֶ֖ה גְּבוּלְכֶֽם׃",
+    "transliteration": "mehamidevar vehalevanvon hazeh ve'ad-hanahar hagadvol nehar-ferat khol 'erets hahitiym ve'ad-hayam hagadvol mevvo' hashamesh yiheyeh gevvlekhem.",
     "translation": "Do deserto e deste Líbano, até o grande rio Eufrates, toda a terra dos heteus e até ao grande mar, entrada do sol, será vosso território."
   },
   {
     "verse": 5,
     "original": "לֹא־יִתְיַצֵּ֥ב אִישׁ֙ לְפָנֶ֔יךָ כֹּ֖ל יְמֵ֣י חַיֶּ֑יךָ כַּאֲשֶׁ֨ר הָיִ֤יתִי עִם־מֹשֶׁה֙ אֶהְיֶ֣ה עִמָּ֔ךְ לֹ֥א אַרְפְּךָ֖ וְלֹ֥א אֶעֶזְבֶֽךָּ׃",
+    "transliteration": "lo'-yiteyatsev 'iysh lefaneykha khol yemey hayeykha kha'asher hayiytiy 'im-mosheh 'eheyeh 'imakhe lo' 'arefekha velo' 'e'ezevekha.",
     "translation": "Nenhum homem se firmará diante de ti todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei nem te abandonarei."
   },
   {
     "verse": 6,
     "original": "חֲזַ֖ק וֶאֱמָ֑ץ כִּ֣י אַתָּ֗ה תַּנְחִיל֙ אֶת־הָעָ֣ם הַזֶּ֔ה אֶת־הָאָ֕רֶץ אֲשֶׁר־נִשְׁבַּ֥עְתִּי לַאֲבוֹתָ֖ם לָתֵ֥ת לָהֶֽם׃",
+    "transliteration": "hazak ve'emats khiy 'atah tanehiyl 'et-ha'am hazeh 'et-ha'arets 'asher-nisheva'etiy la'avvotam latet lahem.",
     "translation": "Fortalece-te e anima-te, porque tu lhes darás esta terra ao povo, que juraste aos seus pais que lhes darias."
   },
   {
     "verse": 7,
     "original": "רַק֩ חֲזַ֨ק וֶאֱמַ֜ץ מְאֹ֗ד לִשְׁמֹ֤ר לַֽעֲשׂוֹת֙ כְּכׇל־הַתּוֹרָ֔ה אֲשֶׁ֤ר צִוְּךָ֙ מֹשֶׁ֣ה עַבְדִּ֔י אַל־תָּס֥וּר מִמֶּ֖נּוּ יָמִ֣ין וּשְׂמֹ֑אול לְמַ֣עַן תַּשְׂכִּ֔יל בְּכֹ֖ל אֲשֶׁ֥ר תֵּלֵֽךְ׃",
+    "transliteration": "rak hazak ve'emats me'od lishemor la'asvot khekhol-hatvorah 'asher tsivekha mosheh 'avediy 'al-tasvr mimenv yamiyn vsemo'vl lema'an tasekhiyl vekhol 'asher telekhe.",
     "translation": "Só fortalece-te e tem muito ânimo para guardares e cumprires toda a Torá que meu servo Moisés te ordenou; não te desvies dela, nem à direita nem à esquerda, para que tenhas êxito por onde quer que andes."
   },
   {
     "verse": 8,
     "original": "לֹֽא־יָמ֡וּשׁ סֵ֩פֶר֩ הַתּוֹרָ֨ה הַזֶּ֜ה מִפִּ֗יךָ וְהָגִ֤יתָ בּוֹ֙ יוֹמָ֣ם וָלַ֔יְלָה לְמַ֙עַן֙ תִּשְׁמֹ֣ר לַעֲשׂ֔וֹת כְּכׇל־הַכָּת֖וּב בּ֑וֹ כִּי־אָ֛ז תַּצְלִ֥יחַ אֶת־דְּרָכֶ֖ךָ וְאָ֥ז תַּשְׂכִּֽיל׃",
+    "transliteration": "lo'-yamvsh sefer hatvorah hazeh mifiykha vehagiyta vvo yvomam valayelah lema'an tishemor la'asvot khekhol-hakhatvv vvo khiy-'az tatseliyha 'et-derakhekha ve'az tasekhiyl.",
     "translation": "Não deixará o livro da Torá este sair de tua boca, e nele meditarás de dia e de noite, para que guardes e faças conforme tudo quanto nele está escrito; então farás prosperar teu caminho, e então terás sucesso."
   },
   {
     "verse": 9,
     "original": "הֲל֤וֹא צִוִּיתִ֙יךָ֙ חֲזַ֣ק וֶאֱמָ֔ץ אַֽל־תַּעֲרֹ֖ץ וְאַל־תֵּחָ֑ת כִּ֤י עִמְּךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תֵּלֵֽךְ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "halvo' tsiviytiykha hazak ve'emats 'al-ta'arots ve'al-tehat khiy 'imekha yehovah 'eloheykha vekhol 'asher telekhe.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Não te ordenei que fosses forte e corajoso? Não temas nem te desesperes, pois o Senhor teu Deus está contigo por toda a terra para onde andares."
   },
   {
     "verse": 10,
     "original": "וַיְצַ֣ו יְהוֹשֻׁ֔עַ אֶת־שֹׁטְרֵ֥י הָעָ֖ם לֵאמֹֽר׃",
+    "transliteration": "vayetsav yehvoshu'a 'et-shoterey ha'am le'mor.",
     "translation": "E Josué deu ordem aos oficiais do povo, dizendo:"
   },
   {
     "verse": 11,
     "original": "עִבְר֣וּ&thinsp;<b>׀</b> בְּקֶ֣רֶב הַֽמַּחֲנֶ֗ה וְצַוּ֤וּ אֶת־הָעָם֙ לֵאמֹ֔ר הָכִ֥ינוּ לָכֶ֖ם צֵידָ֑ה כִּ֞י בְּע֣וֹד&thinsp;<b>׀</b> שְׁלֹ֣שֶׁת יָמִ֗ים אַתֶּם֙ עֹֽבְרִים֙ אֶת־הַיַּרְדֵּ֣ן הַזֶּ֔ה לָבוֹא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם נֹתֵ֥ן לָכֶ֖ם לְרִשְׁתָּֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'iverv&thinsp;<b>|</b> vekerev hamahaneh vetsavv 'et-ha'am le'mor hakhiynv lakhem tseydah khiy ve'vod&thinsp;<b>|</b> sheloshet yamiym 'atem 'overiym 'et-hayareden hazeh lavvo' lareshet 'et-ha'arets 'asher yehovah 'eloheykhem noten lakhem lerishetah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Passai pelo meio do arraial e ordenai ao povo, dizendo: Preparai-vos vossas provisões, pois dentro de três dias passareis este Jordão para entrar a possuir a terra que o Senhor vosso Deus vos dá em possessão."
   },
   {
     "verse": 12,
     "original": "וְלָרֽאוּבֵנִי֙ וְלַגָּדִ֔י וְלַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה אָמַ֥ר יְהוֹשֻׁ֖עַ לֵאמֹֽר׃",
+    "transliteration": "velar'vveniy velagadiy velahatsiy shevet hamenasheh 'amar yehvoshu'a le'mor.",
     "translation": "E para os rubenitas, e aos gaditas, e à metade da tribo de Manassés, disse Josué:"
   },
   {
     "verse": 13,
     "original": "זָכוֹר֙ אֶת־הַדָּבָ֔ר אֲשֶׁ֨ר צִוָּ֥ה אֶתְכֶ֛ם מֹשֶׁ֥ה עֶבֶד־יְהֹוָ֖ה לֵאמֹ֑ר יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ מֵנִ֣יחַ לָכֶ֔ם וְנָתַ֥ן לָכֶ֖ם אֶת־הָאָ֥רֶץ הַזֹּֽאת׃",
+    "transliteration": "zakhvor 'et-hadavar 'asher tsivah 'etekhem mosheh 'eved-yehovah le'mor yehovah 'eloheykhem meniyha lakhem venatan lakhem 'et-ha'arets hazo't.",
     "translation": "Lembrai-vos da palavra que vos ordenou Moisés, servo do Senhor, dizendo: O Senhor, vosso Deus, vos dará repouso e vos concederá esta terra."
   },
   {
     "verse": 14,
     "original": "נְשֵׁיכֶ֣ם טַפְּכֶם֮ וּמִקְנֵיכֶם֒ יֵשְׁב֕וּ בָּאָ֕רֶץ אֲשֶׁ֨ר נָתַ֥ן לָכֶ֛ם מֹשֶׁ֖ה בְּעֵ֣בֶר הַיַּרְדֵּ֑ן וְאַתֶּם֩ תַּעַבְר֨וּ חֲמֻשִׁ֜ים לִפְנֵ֣י אֲחֵיכֶ֗ם כֹּ֚ל גִּבּוֹרֵ֣י הַחַ֔יִל וַעֲזַרְתֶּ֖ם אוֹתָֽם׃",
+    "transliteration": "nesheykhem tafekhem vmikeneykhem yeshevv va'arets 'asher natan lakhem mosheh ve'ever hayareden ve'atem ta'averv hamushiym lifeney 'aheykhem khol givvorey hahayil va'azaretem 'votam.",
     "translation": "Vossos mulheres, vossos filhos e vosso gado permanecerão na terra que Moisés vos deu além do rio Jordão; vós passareis armados diante de vossos irmãos, todos os valentes em batalha, para os auxiliar."
   },
   {
     "verse": 15,
     "original": "עַ֠ד אֲשֶׁר־יָנִ֨יחַ יְהֹוָ֥ה&thinsp;<small>׀</small>&thinsp;לַאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־הֵ֔מָּה אֶת־הָאָ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם נֹתֵ֣ן לָהֶ֑ם וְשַׁבְתֶּ֞ם לְאֶ֤רֶץ יְרֻשַּׁתְכֶם֙ וִירִשְׁתֶּ֣ם אוֹתָ֔הּ אֲשֶׁ֣ר&thinsp;<b>׀</b> נָתַ֣ן לָכֶ֗ם מֹשֶׁה֙ עֶ֣בֶד יְהֹוָ֔ה בְּעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃",
+    "transliteration": "'ad 'asher-yaniyha yehovah&thinsp;<small>|</small>&thinsp;la'aheykhem khakhem veyareshv gam-hemah 'et-ha'arets 'asher-yehovah 'eloheykhem noten lahem veshavetem le'erets yerushatekhem viyrishetem 'votah 'asher&thinsp;<b>|</b> natan lakhem mosheh 'eved yehovah ve'ever hayareden mizerah hashamesh.",
     "translation": "Até que o Senhor dê repouso para vossos irmãos, como a vós, e também eles possuam a terra que o Senhor Deus vos dará; então voltareis à herança da qual sois donos, e possuireis aquela que Moisés, servo do Senhor, vos deu além do Jordão, ao oriente."
   },
   {
     "verse": 16,
     "original": "וַֽיַּעֲנ֔וּ אֶת־יְהוֹשֻׁ֖עַ לֵאמֹ֑ר כֹּ֤ל אֲשֶׁר־צִוִּיתָ֙נוּ֙ נַעֲשֶׂ֔ה וְאֶֽל־כׇּל־אֲשֶׁ֥ר תִּשְׁלָחֵ֖נוּ נֵלֵֽךְ׃",
+    "transliteration": "vaya'anv 'et-yehvoshu'a le'mor khol 'asher-tsiviytanv na'aseh ve'el-khol-'asher tishelahenv nelekhe.",
     "translation": "E responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos, e a todo lugar para o qual nos enviares iremos."
   },
   {
     "verse": 17,
     "original": "כְּכֹ֤ל אֲשֶׁר־שָׁמַ֙עְנוּ֙ אֶל־מֹשֶׁ֔ה כֵּ֖ן נִשְׁמַ֣ע אֵלֶ֑יךָ רַ֠ק יִֽהְיֶ֞ה יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־מֹשֶֽׁה׃",
+    "transliteration": "khekhol 'asher-shama'env 'el-mosheh khen nishema' 'eleykha rak yiheyeh yehovah 'eloheykha 'imakhe kha'asher hayah 'im-mosheh.",
     "translation": "Como ouvimos a Moisés, assim ouviremos a ti; apenas que o Senhor teu Deus esteja contigo como esteve com Moisés."
   },
   {
     "verse": 18,
     "original": "כׇּל־אִ֞ישׁ אֲשֶׁר־יַמְרֶ֣ה אֶת־פִּ֗יךָ וְלֹֽא־יִשְׁמַ֧ע אֶת־דְּבָרֶ֛יךָ לְכֹ֥ל אֲשֶׁר־תְּצַוֶּ֖נּוּ יוּמָ֑ת רַ֖ק חֲזַ֥ק וֶאֱמָֽץ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khol-'iysh 'asher-yamereh 'et-fiykha velo'-yishema' 'et-devareykha lekhol 'asher-tetsavenv yvmat rak hazak ve'emats.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Todo homem que se rebelar contra ti, e não ouvir as tuas palavras a tudo quanto tu ordenares, seja morto; somente fortalece-te e tem coragem."
   }
 ]

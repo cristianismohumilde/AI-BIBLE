@@ -2,236 +2,283 @@
   {
     "verse": 1,
     "original": "וְאֵ֙לֶּה֙ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם אֲשֶׁ֥ר עָל֛וּ עִם־זְרֻבָּבֶ֥ל בֶּן־שְׁאַלְתִּיאֵ֖ל וְיֵשׁ֑וּעַ שְׂרָיָ֥ה יִרְמְיָ֖ה עֶזְרָֽא׃",
+    "transliteration": "ve'eleh hakhohaniym vehaleviyim 'asher 'alv 'im-zeruvavel ven-she'aletiy'el veyeshv'a serayah yiremeyah 'ezera'.",
     "translation": "E estes são os sacerdotes e levitas que subiram com Zorobabel, filho de Salatiel, e Jessua: Saraja, Jeremias, Ezras."
   },
   {
     "verse": 2,
     "original": "אֲמַרְיָ֥ה מַלּ֖וּךְ חַטּֽוּשׁ׃",
+    "transliteration": "'amareyah malvkhe hatvsh.",
     "translation": "Amarías foi coroado rei no lugar de Hatus."
   },
   {
     "verse": 3,
     "original": "שְׁכַנְיָ֥ה רְחֻ֖ם מְרֵמֹֽת׃",
+    "transliteration": "shekhaneyah rehum meremot.",
     "translation": "Shacanayah, refúgio compassivo, elevado."
   },
   {
     "verse": 4,
     "original": "עִדּ֥וֹא גִנְּת֖וֹי אֲבִיָּֽה׃",
+    "transliteration": "'idvo' ginetvoy 'aviyah.",
     "translation": "Eis-me, a vinha de meu pai."
   },
   {
     "verse": 5,
     "original": "מִיָּמִ֥ין מַֽעַדְיָ֖ה בִּלְגָּֽה׃",
+    "transliteration": "miyamiyn ma'adeyah vilegah.",
     "translation": "De direita, Maadá, Bilga."
   },
   {
     "verse": 6,
     "original": "שְׁמַֽעְיָ֥ה וְיוֹיָרִ֖יב יְדַֽעְיָֽה׃",
+    "transliteration": "shema'eyah veyvoyariyv yeda'eyah.",
     "translation": "Shemaia e Joiaribe, Yedaiá."
   },
   {
     "verse": 7,
     "original": "סַלּ֣וּ עָמ֔וֹק חִלְקִיָּ֖ה יְדַֽעְיָ֑ה אֵ֣לֶּה רָאשֵׁ֧י הַכֹּהֲנִ֛ים וַאֲחֵיהֶ֖ם בִּימֵ֥י יֵשֽׁוּעַ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "salv 'amvok hilekiyah yeda'eyah 'eleh ra'shey hakhohaniym va'aheyhem viymey yeshv'a.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Preparai um abismo profundo, Hilquias, Yedajá; estes são os cabeças dos sacerdotes e seus irmãos no tempo de Jesus."
   },
   {
     "verse": 8,
     "original": "וְהַלְוִיִּ֗ם יֵשׁ֧וּעַ בִּנּ֛וּי קַדְמִיאֵ֥ל שֵׁרֵבְיָ֖ה יְהוּדָ֣ה מַתַּנְיָ֑ה עַֽל־הֻיְּד֖וֹת ה֥וּא וְאֶחָֽיו׃",
+    "transliteration": "vehaleviyim yeshv'a vinvy kademiy'el shereveyah yehvdah mataneyah 'al-huyedvot hv' ve'ehayv.",
     "translation": "E os levitas: Jessu, filho de Buni, Kadmiel, Serevia, Judá, Matanias; estes e seus irmãos estavam encarregados dos cânticos do acampamento do DEUS de Israel."
   },
   {
     "verse": 9,
     "original": "וּבַקְבֻּֽקְיָ֨ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וענו)</span> <span class=\"mam-kq-q\">[וְעֻנִּ֧י]</span></span> אֲחֵיהֶ֛ם לְנֶגְדָּ֖ם לְמִשְׁמָרֽוֹת׃",
+    "transliteration": "vvakevukeyah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'nv)</span> <span class=\"mam-kq-q\">[ve'uniy]</span></span> 'aheyhem lenegedam lemishemarvot.",
     "translation": "E com Bucquiyah, e seus irmãos Ohni, diante deles para as guardas."
   },
   {
     "verse": 10,
     "original": "וְיֵשׁ֖וּעַ הוֹלִ֣יד אֶת־יֽוֹיָקִ֑ים וְיֽוֹיָקִים֙ הוֹלִ֣יד אֶת־אֶלְיָשִׁ֔יב וְאֶלְיָשִׁ֖יב אֶת־יוֹיָדָֽע׃",
+    "transliteration": "veyeshv'a hvoliyd 'et-yvoyakiym veyvoyakiym hvoliyd 'et-'eleyashiyv ve'eleyashiyv 'et-yvoyada'.",
     "translation": "E Jesus gerou Joiacim, e Joiacim gerou Eleazaras, e Eleazaras gerou Joiaquim."
   },
   {
     "verse": 11,
     "original": "וְיוֹיָדָע֙ הוֹלִ֣יד אֶת־יוֹנָתָ֔ן וְיוֹנָתָ֖ן הוֹלִ֥יד אֶת־יַדּֽוּעַ׃",
+    "transliteration": "veyvoyada' hvoliyd 'et-yvonatan veyvonatan hvoliyd 'et-yadv'a.",
     "translation": "E Yoiau gerou a Jonatã, e Jonatã gerou a Jadua."
   },
   {
     "verse": 12,
     "original": "וּבִימֵי֙ יֽוֹיָקִ֔ים הָי֥וּ כֹהֲנִ֖ים רָאשֵׁ֣י הָאָב֑וֹת לִשְׂרָיָ֣ה מְרָיָ֔ה לְיִרְמְיָ֖ה חֲנַנְיָֽה׃",
+    "transliteration": "vviymey yvoyakiym hayv khohaniym ra'shey ha'avvot liserayah merayah leyiremeyah hananeyah.",
     "translation": "E nos dias de Joiakim, os sacerdotes, cabeças das casas paternas, foram Seraías Meraiote e Jeremias Hananias."
   },
   {
     "verse": 13,
     "original": "לְעֶזְרָ֣א מְשֻׁלָּ֔ם לַאֲמַרְיָ֖ה יְהוֹחָנָֽן׃",
+    "transliteration": "le'ezera' meshulam la'amareyah yehvohanan.",
     "translation": "Para Esdras, fielmente entregue, para Amaryá, Joaquim."
   },
   {
     "verse": 14,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(למלוכי)</span> <span class=\"mam-kq-q\">[לִמְלִ֙יכוּ֙]</span></span> יֽוֹנָתָ֔ן לִשְׁבַנְיָ֖ה יוֹסֵֽף׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(lmlvkhy)</span> <span class=\"mam-kq-q\">[limeliykhv]</span></span> yvonatan lishevaneyah yvosef.",
     "translation": "Jonathan, consagre Shbaneia e José."
   },
   {
     "verse": 15,
     "original": "לְחָרִ֣ם עַדְנָ֔א לִמְרָי֖וֹת חֶלְקָֽי׃",
+    "transliteration": "leharim 'adena' limerayvot helekay.",
     "translation": "Para consagrar até Adna por causa das contendas da minha herança."
   },
   {
     "verse": 16,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(לעדיא)</span> <span class=\"mam-kq-q\">[לְעִדּ֥וֹא]</span></span> זְכַרְיָ֖ה לְגִנְּת֥וֹן מְשֻׁלָּֽם׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(l'dy')</span> <span class=\"mam-kq-q\">[le'idvo']</span></span> zekhareyah leginetvon meshulam.",
     "translation": "Ezéias por ocasião de sua oferta, para o coral dirigido por Gedalías; um salmo de Zacarias, filho de Beeri."
   },
   {
     "verse": 17,
     "original": "לַאֲבִיָּ֖ה זִכְרִ֑י לְמִ֨נְיָמִ֔ין לְמוֹעַדְיָ֖ה פִּלְטָֽי׃",
+    "transliteration": "la'aviyah zikheriy lemineyamiyn lemvo'adeyah filetay.",
     "translation": "Para Abiá, lembra-te; para Minjamim, para Moadiá, Filtei."
   },
   {
     "verse": 18,
     "original": "לְבִלְגָּ֣ה שַׁמּ֔וּעַ לִֽשְׁמַעְיָ֖ה יְהוֹנָתָֽן׃",
+    "transliteration": "levilegah shamv'a lishema'eyah yehvonatan.",
     "translation": "Para Belga, Shamua, para Shimaya, Yonatã."
   },
   {
     "verse": 19,
     "original": "וּלְיוֹיָרִ֣יב מַתְּנַ֔י לִֽידַֽעְיָ֖ה עֻזִּֽי׃",
+    "transliteration": "vleyvoyariyv matenay liyda'eyah 'uziy.",
     "translation": "E para Yojarib, Matnai; Liidyaia, Uzi."
   },
   {
     "verse": 20,
     "original": "לְסַלַּ֥י קַלָּ֖י לְעָמ֥וֹק עֵֽבֶר׃",
+    "transliteration": "lesalay kalay le'amvok 'ever.",
     "translation": "Para Salomão, para a profundidade do Além."
   },
   {
     "verse": 21,
     "original": "לְחִלְקִיָּ֣ה חֲשַׁבְיָ֔ה לִֽידַֽעְיָ֖ה נְתַנְאֵֽל׃",
+    "transliteration": "lehilekiyah hashaveyah liyda'eyah netane'el.",
     "translation": "Lecíta, Casviá, Lidgaía, Netanéel."
   },
   {
     "verse": 22,
     "original": "הַלְוִיִּם֩ בִּימֵ֨י אֶלְיָשִׁ֜יב יוֹיָדָ֤ע וְיוֹחָנָן֙ וְיַדּ֔וּעַ כְּתוּבִ֖ים רָאשֵׁ֣י אָב֑וֹת וְהַכֹּ֣הֲנִ֔ים עַל־מַלְכ֖וּת דָּרְיָ֥וֶשׁ הַפָּֽרְסִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "haleviyim viymey 'eleyashiyv yvoyada' veyvohanan veyadv'a khetvviym ra'shey 'avvot vehakhohaniym 'al-malekhvt dareyavesh hafaresiy.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Os levitas, nos dias de Eliашив, Joiодá e Joanan, foram registrados como chefes de famílias; e os sacerdotes governavam durante o reino de Dариевеś, o persa.\n\nNota: Os caracteres \"ashiв\" e \"Dariвeś\" parecem ser parcialmente substituídos por caracteres que não refletem a transliteração correta do hebraico antigo. No entanto, segui as instruções de fornecer apenas a tradução revisada sem explicações ou justificativas adicionais."
   },
   {
     "verse": 23,
     "original": "בְּנֵ֤י לֵוִי֙ רָאשֵׁ֣י הָֽאָב֔וֹת כְּתוּבִ֕ים עַל־סֵ֖פֶר דִּבְרֵ֣י הַיָּמִ֑ים וְעַד־יְמֵ֖י יֽוֹחָנָ֥ן בֶּן־אֶלְיָשִֽׁיב׃",
+    "transliteration": "veney leviy ra'shey ha'avvot khetvviym 'al-sefer diverey hayamiym ve'ad-yemey yvohanan ven-'eleyashiyv.",
     "translation": "Filhos de Levi, chefes de suas casas, foram registrados no Livro dos Diários, e até os dias de Joaquim filho de Eliasibo."
   },
   {
     "verse": 24,
     "original": "וְרָאשֵׁ֣י הַ֠לְוִיִּ֠ם חֲשַׁבְיָ֨ה שֵֽׁרֵבְיָ֜ה וְיֵשׁ֤וּעַ בֶּן־קַדְמִיאֵל֙ וַאֲחֵיהֶ֣ם לְנֶגְדָּ֔ם לְהַלֵּ֣ל לְהוֹד֔וֹת בְּמִצְוַ֖ת דָּוִ֣יד אִישׁ־הָאֱלֹהִ֑ים מִשְׁמָ֖ר לְעֻמַּ֥ת מִשְׁמָֽר׃",
+    "transliteration": "vera'shey haleviyim hashaveyah shereveyah veyeshv'a ven-kademiy'el va'aheyhem lenegedam lehalel lehvodvot vemitsevat daviyd 'iysh-ha'elohiym mishemar le'umat mishemar.",
     "translation": "E as cabeças dos levitas, Hasavia, Seravia, Josué filho de Qadmiele e seus irmãos, diante deles, para louvar e agradecer conforme o mandamento de Davi, homem de Deus, turno por turno."
   },
   {
     "verse": 25,
     "original": "מַתַּנְיָ֧ה וּבַקְבֻּֽקְיָ֛ה עֹבַדְיָ֥ה מְשֻׁלָּ֖ם טַלְמ֣וֹן עַקּ֑וּב שֹׁמְרִ֤ים שֽׁוֹעֲרִים֙ מִשְׁמָ֔ר בַּאֲסֻפֵּ֖י הַשְּׁעָרִֽים׃",
+    "transliteration": "mataneyah vvakevukeyah 'ovadeyah meshulam talemvon 'akvv shomeriym shvo'ariym mishemar va'asufey hashe'ariym.",
     "translation": "Matatias, Bаккyаh, Obadias, Mesulam, Talmon, Aкuv, guardas que vigiam as portas nas congregações das portas."
   },
   {
     "verse": 26,
     "original": "אֵ֕לֶּה בִּימֵ֛י יוֹיָקִ֥ים בֶּן־יֵשׁ֖וּעַ בֶּן־יוֹצָדָ֑ק וּבִימֵי֙ נְחֶמְיָ֣ה הַפֶּחָ֔ה וְעֶזְרָ֥א הַכֹּהֵ֖ן הַסּוֹפֵֽר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'eleh viymey yvoyakiym ven-yeshv'a ven-yvotsadak vviymey nehemeyah hafehah ve'ezera' hakhohen hasvofer.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Estes foram os dias de Joiakim, filho de Jesua, filho de Joadá, e nos dias de Neemias, o governador, e de Esdras, o sacerdote escriba."
   },
   {
     "verse": 27,
     "original": "וּבַחֲנֻכַּ֞ת חוֹמַ֣ת יְרוּשָׁלַ֗͏ִם בִּקְשׁ֤וּ אֶת־הַלְוִיִּם֙ מִכׇּל־מְק֣וֹמֹתָ֔ם לַהֲבִיאָ֖ם לִֽירוּשָׁלָ֑͏ִם לַעֲשֹׂ֨ת חֲנֻכָּ֤ה וְשִׂמְחָה֙ וּבְתוֹד֣וֹת וּבְשִׁ֔יר מְצִלְתַּ֖יִם נְבָלִ֥ים וּבְכִנֹּרֽוֹת׃",
+    "transliteration": "vvahanukhat hvomat yervshalaim vikeshv 'et-haleviyim mikhol-mekvomotam lahaviy'am liyrvshalaim la'asot hanukhah vesimehah vvetvodvot vveshiyr metsiletayim nevaliym vvekhinorvot.",
     "translation": "E na consagração da muralha de Jerusalém, buscaram os levitas de todos os seus lugares para trazê-los a Jerusalém, para fazerem a dedicação com alegria e louvores e cânticos com instrumentos de melodia, alaúdes e harpas."
   },
   {
     "verse": 28,
     "original": "וַיֵּאָ֣סְפ֔וּ בְּנֵ֖י הַמְשֹׁרְרִ֑ים וּמִן־הַכִּכָּר֙ סְבִיב֣וֹת יְרוּשָׁלַ֔͏ִם וּמִן־חַצְרֵ֖י נְטֹפָתִֽי׃",
+    "transliteration": "vaye'asefv veney hameshoreriym vmin-hakhikhar seviyvvot yervshalaim vmin-hatserey netofatiy.",
     "translation": "E ajuntaram-se os filhos dos cantores, vindos das campinas ao redor de Jerusalém e dos seus átrios."
   },
   {
     "verse": 29,
     "original": "וּמִבֵּית֙ הַגִּלְגָּ֔ל וּמִשְּׂד֥וֹת גֶּ֖בַע וְעַזְמָ֑וֶת כִּ֣י חֲצֵרִ֗ים בָּנ֤וּ לָהֶם֙ הַמְשֹׁ֣רְרִ֔ים סְבִיב֖וֹת יְרוּשָׁלָֽ͏ִם׃",
+    "transliteration": "vmiveyt hagilegal vmisedvot geva' ve'azemavet khiy hatseriym vanv lahem hameshoreriym seviyvvot yervshalaim.",
     "translation": "E de Beit Gilgal e dos campos de Geba e Azmavet, pois os cantores edificaram cortiços ao redor de Jerusalém."
   },
   {
     "verse": 30,
     "original": "וַיִּֽטַּהֲר֔וּ הַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם וַֽיְטַהֲרוּ֙ אֶת־הָעָ֔ם וְאֶת־הַשְּׁעָרִ֖ים וְאֶת־הַחוֹמָֽה׃",
+    "transliteration": "vayitaharv hakhohaniym vehaleviyim vayetaharv 'et-ha'am ve'et-hashe'ariym ve'et-hahvomah.",
     "translation": "E os sacerdotes e os levitas se purgaram, e purificaram o povo, as portas e a muralha."
   },
   {
     "verse": 31,
     "original": "וָאַעֲלֶה֙ אֶת־שָׂרֵ֣י יְהוּדָ֔ה מֵעַ֖ל לַחוֹמָ֑ה וָאַעֲמִ֡ידָה שְׁתֵּ֣י תוֹדֹת֩ גְּדוֹלֹ֨ת וְתַהֲלֻכֹ֤ת לַיָּמִין֙ מֵעַ֣ל לַחוֹמָ֔ה לְשַׁ֖עַר הָאַשְׁפֹּֽת׃",
+    "transliteration": "va'a'aleh 'et-sarey yehvdah me'al lahvomah va'a'amiydah shetey tvodot gedvolot vetahalukhot layamiyn me'al lahvomah lesha'ar ha'ashefot.",
     "translation": "E subi os príncipes de Judá da muralha e estabeleci duas linhagens grandes e caminhos à direita acima da muralha, até a porta das Carvoarias."
   },
   {
     "verse": 32,
     "original": "וַיֵּ֤לֶךְ אַחֲרֵיהֶם֙ הוֹשַׁ֣עְיָ֔ה וַחֲצִ֖י שָׂרֵ֥י יְהוּדָֽה׃",
+    "transliteration": "vayelekhe 'ahareyhem hvosha'eyah vahatsiy sarey yehvdah.",
     "translation": "E Hosseias foi atrás deles, juntamente com metade dos oficiais de Judá."
   },
   {
     "verse": 33,
     "original": "וַעֲזַרְיָ֥ה עֶזְרָ֖א וּמְשֻׁלָּֽם׃",
+    "transliteration": "va'azareyah 'ezera' vmeshulam.",
     "translation": "Azarias, Ezrá e Mesulão."
   },
   {
     "verse": 34,
     "original": "יְהוּדָה֙ וּבִנְיָמִ֔ן וּֽשְׁמַֽעְיָ֖ה וְיִרְמְיָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yehvdah vvineyamin vshema'eyah veyiremeyah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Judá e Benjamim, e Semayá e Jeremias."
   },
   {
     "verse": 35,
     "original": "וּמִבְּנֵ֥י הַכֹּהֲנִ֖ים בַּחֲצֹצְר֑וֹת זְכַרְיָ֨ה בֶן־יֽוֹנָתָ֜ן בֶּן־שְׁמַֽעְיָ֗ה בֶּן־מַתַּנְיָה֙ בֶּן־מִ֣יכָיָ֔ה בֶּן־זַכּ֖וּר בֶּן־אָסָֽף׃",
+    "transliteration": "vmiveney hakhohaniym vahatsotservot zekhareyah ven-yvonatan ven-shema'eyah ven-mataneyah ven-miykhayah ven-zakhvr ven-'asaf.",
     "translation": "E dos filhos dos sacerdotes que tocavam as trombetas, Zacarias, filho de Jonatã, filho de Shimayá, filho de Matanya, filho de Miquiá, filho de Zacur, filho de Asafe."
   },
   {
     "verse": 36,
     "original": "וְֽאֶחָ֡יו שְֽׁמַעְיָ֡ה וַעֲזַרְאֵ֡ל מִֽלְלַ֡י גִּֽלְלַ֡י מָעַ֞י נְתַנְאֵ֤ל וִֽיהוּדָה֙ חֲנָ֔נִי בִּכְלֵי־שִׁ֥יר דָּוִ֖יד אִ֣ישׁ הָאֱלֹהִ֑ים וְעֶזְרָ֥א הַסּוֹפֵ֖ר לִפְנֵיהֶֽם׃",
+    "transliteration": "ve'ehayv shema'eyah va'azare'el milelay gilelay ma'ay netane'el viyhvdah hananiy vikheley-shiyr daviyd 'iysh ha'elohiym ve'ezera' hasvofer lifeneyhem.",
     "translation": "E seus irmãos Shamayá e Azaréel, Milalai, Gillalai, Maavi, Netanéel, Judá, Hanani, nos instrumentos de canto de Davi, o homem de Deus, e Ezrá, o escriba, diante deles."
   },
   {
     "verse": 37,
     "original": "וְעַל֩ שַׁ֨עַר הָעַ֜יִן וְנֶגְדָּ֗ם עָלוּ֙ עַֽל־מַעֲלוֹת֙ עִ֣יר דָּוִ֔יד בַּֽמַּעֲלֶ֖ה לַחוֹמָ֑ה מֵעַל֙ לְבֵ֣ית דָּוִ֔יד וְעַ֛ד שַׁ֥עַר הַמַּ֖יִם מִזְרָֽח׃",
+    "transliteration": "ve'al sha'ar ha'ayin venegedam 'alv 'al-ma'alvot 'iyr daviyd vama'aleh lahvomah me'al leveyt daviyd ve'ad sha'ar hamayim mizerah.",
     "translation": "E sobre a porta do olho e opostas subiam pelas escadas da cidade de Davi, no elevado até ao muro, acima da casa de Davi, e até à porta das águas para o leste. \n\nCorreção necessária:\nE sobre a porta do olho e as opostas subiam pela escadaria da cidade de Davi, no elevado até ao muro, acima da casa de Davi, e até à porta das águas para o leste."
   },
   {
     "verse": 38,
     "original": "וְהַתּוֹדָ֧ה הַשֵּׁנִ֛ית הַהוֹלֶ֥כֶת לְמ֖וֹאל וַאֲנִ֣י אַחֲרֶ֑יהָ וַחֲצִ֨י הָעָ֜ם מֵעַ֣ל לְהַחוֹמָ֗ה מֵעַל֙ לְמִגְדַּ֣ל הַתַּנּוּרִ֔ים וְעַ֖ד הַחוֹמָ֥ה הָרְחָבָֽה׃",
+    "transliteration": "vehatvodah hasheniyt hahvolekhet lemvo'l va'aniy 'ahareyha vahatsiy ha'am me'al lehahvomah me'al lemigedal hatanvriym ve'ad hahvomah harehavah.",
     "translation": "E a segunda porção marchava para Moabe, e eu segui atrás dela. Metade do povo estava sobre o muro, desde cima do torreão dos fornos até à muralha larga."
   },
   {
     "verse": 39,
     "original": "וּמֵעַ֣ל לְשַֽׁעַר־אֶ֠פְרַ֠יִם וְעַל־שַׁ֨עַר הַיְשָׁנָ֜ה וְעַל־שַׁ֣עַר הַדָּגִ֗ים וּמִגְדַּ֤ל חֲנַנְאֵל֙ וּמִגְדַּ֣ל הַמֵּאָ֔ה וְעַ֖ד שַׁ֣עַר הַצֹּ֑אן וְעָ֣מְד֔וּ בְּשַׁ֖עַר הַמַּטָּרָֽה׃",
+    "transliteration": "vme'al lesha'ar-'eferayim ve'al-sha'ar hayeshanah ve'al-sha'ar hadagiym vmigedal hanane'el vmigedal hame'ah ve'ad sha'ar hatso'n ve'amedv vesha'ar hamatarah.",
     "translation": "E desde a porta de Efraim, e da porta antiga, e da porta dos peixes, e da torre de Hananeel, e da torre das cem, até à porta das ovelhas; e ficarão na porta da chuva."
   },
   {
     "verse": 40,
     "original": "וַֽתַּעֲמֹ֛דְנָה שְׁתֵּ֥י הַתּוֹדֹ֖ת בְּבֵ֣ית הָאֱלֹהִ֑ים וַאֲנִ֕י וַחֲצִ֥י הַסְּגָנִ֖ים עִמִּֽי׃",
+    "transliteration": "vata'amodenah shetey hatvodot veveyt ha'elohiym va'aniy vahatsiy haseganiym 'imiy.",
     "translation": "E as duas confissões permaneceram na casa de Deus, e eu com metade dos oficiais estava ali."
   },
   {
     "verse": 41,
     "original": "וְהַכֹּהֲנִ֡ים אֶלְיָקִ֡ים מַעֲשֵׂיָ֡ה מִ֠נְיָמִ֠ין מִיכָיָ֧ה אֶלְיוֹעֵינַ֛י זְכַרְיָ֥ה חֲנַנְיָ֖ה בַּחֲצֹצְרֽוֹת׃",
+    "transliteration": "vehakhohaniym 'eleyakiym ma'aseyah mineyamiyn miykhayah 'eleyvo'eynay zekhareyah hananeyah vahatsotservot.",
     "translation": "E os sacerdotes Elcín, Maaséias, Minyamim, Micá, Elioenai, Zacarias e Hananias com as trombetas."
   },
   {
     "verse": 42,
     "original": "וּמַעֲשֵׂיָ֨ה וּֽשְׁמַֽעְיָ֜ה וְאֶלְעָזָ֧ר וְעֻזִּ֛י וִֽיהוֹחָנָ֥ן וּמַלְכִּיָּ֖ה וְעֵילָ֣ם וָעָ֑זֶר וַיַּשְׁמִ֙יעוּ֙ הַמְשֹׁ֣רְרִ֔ים וְיִֽזְרַחְיָ֖ה הַפָּקִֽיד׃",
+    "transliteration": "vma'aseyah vshema'eyah ve'ele'azar ve'uziy viyhvohanan vmalekhiyah ve'eylam va'azer vayashemiy'v hameshoreriym veyizeraheyah hafakiyd.",
     "translation": "E Maaséia e Shemaia, Elazar, Uzzi, Jôanan, Malquias, Elioenai e Azar. Os cantores deram o sinal, e Izrahias era o responsável."
   },
   {
     "verse": 43,
     "original": "וַיִּזְבְּח֣וּ בַיּוֹם־הַ֠ה֠וּא זְבָחִ֨ים גְּדוֹלִ֜ים וַיִּשְׂמָ֗חוּ כִּ֤י הָאֱלֹהִים֙ שִׂמְּחָם֙ שִׂמְחָ֣ה גְדוֹלָ֔ה וְגַ֧ם הַנָּשִׁ֛ים וְהַיְלָדִ֖ים שָׂמֵ֑חוּ וַתִּשָּׁמַ֛ע שִׂמְחַ֥ת יְרוּשָׁלַ֖͏ִם מֵרָחֽוֹק׃",
+    "transliteration": "vayizevehv vayvom-hahv' zevahiym gedvoliym vayisemahv khiy ha'elohiym simeham simehah gedvolah vegam hanashiym vehayeladiym samehv vatishama' simehat yervshalaim merahvok.",
     "translation": "E no dia daquele sacrificaram grandes ofertas de paz, e alegraram-se, pois Deus lhes pôs alegria grande; as mulheres também e os meninos se regalaram; sim, a alegria de Jerusalém foi ouvida longe."
   },
   {
     "verse": 44,
     "original": "וַיִּפָּקְד֣וּ בַיּוֹם֩ הַה֨וּא אֲנָשִׁ֜ים עַל־הַנְּשָׁכ֗וֹת לָא֨וֹצָר֥וֹת לַתְּרוּמוֹת֮ לָרֵאשִׁ֣ית וְלַמַּֽעַשְׂרוֹת֒ לִכְנ֨וֹס בָּהֶ֜ם לִשְׂדֵ֤י הֶעָרִים֙ מְנָא֣וֹת הַתּוֹרָ֔ה לַכֹּהֲנִ֖ים וְלַלְוִיִּ֑ם כִּ֚י שִׂמְחַ֣ת יְהוּדָ֔ה עַל־הַכֹּהֲנִ֥ים וְעַל־הַלְוִיִּ֖ם הָעֹמְדִֽים׃",
+    "transliteration": "vayifakedv vayvom hahv' 'anashiym 'al-haneshakhvot la'votsarvot latervmvot lare'shiyt velama'aservot likhenvos vahem lisedey he'ariym mena'vot hatvorah lakhohaniym velaleviyim khiy simehat yehvdah 'al-hakhohaniym ve'al-haleviyim ha'omediym.",
     "translation": "E no dia daquele mês, os homens foram designados para cuidar das câmaras dos tesouros das primícias e das dízimas, para que trouxessem as porções estabelecidas pela Lei nos campos das cidades, aos sacerdotes e levitas, pois alegria de Judá era sobre os sacerdotes e sobre os levitas que permaneciam."
   },
   {
     "verse": 45,
     "original": "וַֽיִּשְׁמְר֞וּ מִשְׁמֶ֤רֶת אֱלֹֽהֵיהֶם֙ וּמִשְׁמֶ֣רֶת הַֽטׇּהֳרָ֔ה וְהַמְשֹׁרְרִ֖ים וְהַשֹּׁעֲרִ֑ים כְּמִצְוַ֥ת דָּוִ֖יד שְׁלֹמֹ֥ה בְנֽוֹ׃",
+    "transliteration": "vayishemerv mishemeret 'eloheyhem vmishemeret hatohorah vehameshoreriym vehasho'ariym khemitsevat daviyd shelomoh venvo.",
     "translation": "E guardaram a guarda de seu Deus e a guarda da pureza, e os cantores e os porteiros, conforme o mandamento de Davi, seu pai Salomão."
   },
   {
     "verse": 46,
     "original": "כִּֽי־בִימֵ֥י דָוִ֛יד וְאָסָ֖ף מִקֶּ֑דֶם <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ראש)</span> <span class=\"mam-kq-q\">[רָאשֵׁי֙]</span></span> הַמְשֹׁ֣רְרִ֔ים וְשִׁיר־תְּהִלָּ֥ה וְהֹד֖וֹת לֵֽאלֹהִֽים׃",
+    "transliteration": "khiy-viymey daviyd ve'asaf mikedem <span class=\"mam-kq\"><span class=\"mam-kq-k\">(r's)</span> <span class=\"mam-kq-q\">[ra'shey]</span></span> hameshoreriym veshiyr-tehilah vehodvot le'lohiym.",
     "translation": "Porque nos dias de Davi e de Asafe desde o início, os chefes dos cantores e cânticos de louvor e ação de graças a Deus."
   },
   {
     "verse": 47,
     "original": "וְכׇל־יִשְׂרָאֵל֩ בִּימֵ֨י זְרֻבָּבֶ֜ל וּבִימֵ֣י נְחֶמְיָ֗ה נֹ֥תְנִ֛ים מְנָי֛וֹת הַמְשֹׁרְרִ֥ים וְהַשֹּׁעֲרִ֖ים דְּבַר־י֣וֹם בְּיוֹמ֑וֹ וּמַקְדִּשִׁים֙ לַלְוִיִּ֔ם וְהַ֨לְוִיִּ֔ם מַקְדִּשִׁ֖ים לִבְנֵ֥י אַהֲרֹֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vekhol-yisera'el viymey zeruvavel vviymey nehemeyah noteniym menayvot hameshoreriym vehasho'ariym devar-yvom veyvomvo vmakedishiym laleviyim vehaleviyim makedishiym liveney 'aharon.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E todo Israel, nos dias de Zorobabel e nos dias de Neemias, davam as porções aos cantores e porteiros, dia a dia; e os levitas santificavam a oferta aos filhos de Arão."
   }
 ]

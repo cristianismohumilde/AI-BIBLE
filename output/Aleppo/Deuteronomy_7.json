@@ -2,131 +2,157 @@
   {
     "verse": 1,
     "original": "כִּ֤י יְבִֽיאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּ֑הּ וְנָשַׁ֣ל גּֽוֹיִם־רַבִּ֣ים&thinsp;<small>׀</small>&thinsp;מִפָּנֶ֡יךָ הַֽחִתִּי֩ וְהַגִּרְגָּשִׁ֨י וְהָאֱמֹרִ֜י וְהַכְּנַעֲנִ֣י וְהַפְּרִזִּ֗י וְהַֽחִוִּי֙ וְהַיְבוּסִ֔י שִׁבְעָ֣ה גוֹיִ֔ם רַבִּ֥ים וַעֲצוּמִ֖ים מִמֶּֽךָּ׃",
+    "transliteration": "khiy yeviy'akha yehovah 'eloheykha 'el-ha'arets 'asher-'atah va'-shamah lerishetah venashal gvoyim-raviym&thinsp;<small>|</small>&thinsp;mifaneykha hahitiy vehagiregashiy veha'emoriy vehakhena'aniy vehaferiziy vehahiviy vehayevvsiy shive'ah gvoyim raviym va'atsvmiym mimekha.",
     "translation": "Porque o Senhor teu Deus te levará à terra para a qual tu vais possuí-la, e varrerá diante de ti sete nações maiores e mais poderosas do que tu: os hititas e os girgases, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus."
   },
   {
     "verse": 2,
     "original": "וּנְתָנָ֞ם יְהֹוָ֧ה אֱלֹהֶ֛יךָ לְפָנֶ֖יךָ וְהִכִּיתָ֑ם הַחֲרֵ֤ם תַּחֲרִים֙ אֹתָ֔ם לֹא־תִכְרֹ֥ת לָהֶ֛ם בְּרִ֖ית וְלֹ֥א תְחׇנֵּֽם׃",
+    "transliteration": "vnetanam yehovah 'eloheykha lefaneykha vehikhiytam haharem tahariym 'otam lo'-tikherot lahem veriyt velo' tehonem.",
     "translation": "E o Senhor, teu Deus, os entregará diante de ti, e tu os ferirás; deles farás um anátema, não farás com eles pacto algum, nem mostrarás misericórdia a eles."
   },
   {
     "verse": 3,
     "original": "וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא־תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא־תִקַּ֥ח לִבְנֶֽךָ׃",
+    "transliteration": "velo' titehaten vam vitekha lo'-titen livenvo vvitvo lo'-tikah livenekha.",
     "translation": "E não te unirás a eles; tua filha não darás ao seu filho, nem tomarás sua filha para teu filho."
   },
   {
     "verse": 4,
     "original": "כִּֽי־יָסִ֤יר אֶת־בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף־יְהֹוָה֙ בָּכֶ֔ם וְהִשְׁמִידְךָ֖ מַהֵֽר׃",
+    "transliteration": "khiy-yasiyr 'et-vinekha me'aharay ve'avedv 'elohiym 'aheriym veharah 'af-yehovah vakhem vehishemiydekha maher.",
     "translation": "Pois ele desviará teu filho dos meus mandamentos, e eles servirão a deuses estranhos; assim se acenderá a ira do Senhor contra vós, e logo vos destruirá."
   },
   {
     "verse": 5,
     "original": "כִּֽי־אִם־כֹּ֤ה תַעֲשׂוּ֙ לָהֶ֔ם מִזְבְּחֹתֵיהֶ֣ם תִּתֹּ֔צוּ וּמַצֵּבֹתָ֖ם תְּשַׁבֵּ֑רוּ וַאֲשֵֽׁירֵהֶם֙ תְּגַדֵּע֔וּן וּפְסִילֵיהֶ֖ם תִּשְׂרְפ֥וּן בָּאֵֽשׁ׃",
+    "transliteration": "khiy-'im-khoh ta'asv lahem mizevehoteyhem titotsv vmatsevotam teshaverv va'asheyrehem tegade'vn vfesiyleyhem tiserefvn va'esh.",
     "translation": "Pois assim fareis com eles: seus altares destruireis, suas colunas quebrareis, e seus asherins cortareis, e suas imagens derretereis no fogo."
   },
   {
     "verse": 6,
     "original": "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהֹוָ֖ה אֱלֹהֶ֑יךָ בְּךָ֞ בָּחַ֣ר&thinsp;<b>׀</b> יְהֹוָ֣ה אֱלֹהֶ֗יךָ לִהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־פְּנֵ֥י הָאֲדָמָֽה׃",
+    "transliteration": "khiy 'am kadvosh 'atah layhovah 'eloheykha vekha vahar&thinsp;<b>|</b> yehovah 'eloheykha liheyvot lvo le'am segulah mikhol ha'amiym 'asher 'al-feney ha'adamah.",
     "translation": "Pois tu és um povo santo para o Senhor teu Deus, ele escolheu-te para ser seu povo especial dentre todos os povos da face da terra."
   },
   {
     "verse": 7,
     "original": "לֹ֣א מֵֽרֻבְּכֶ֞ם מִכׇּל־הָֽעַמִּ֗ים חָשַׁ֧ק יְהֹוָ֛ה בָּכֶ֖ם וַיִּבְחַ֣ר בָּכֶ֑ם כִּֽי־אַתֶּ֥ם הַמְעַ֖ט מִכׇּל־הָעַמִּֽים׃",
+    "transliteration": "lo' meruvekhem mikhol-ha'amiym hashak yehovah vakhem vayivehar vakhem khiy-'atem hame'at mikhol-ha'amiym.",
     "translation": "Não por vosso número entre todas as nações escolheu o Senhor-vós, nem porque fostes numerosos dentre todos os povos; antes, foi por amar-vos e escolher-vos, vós que sois o menos numeroso de todos os povos."
   },
   {
     "verse": 8,
     "original": "כִּי֩ מֵאַהֲבַ֨ת יְהֹוָ֜ה אֶתְכֶ֗ם וּמִשׇּׁמְר֤וֹ אֶת־הַשְּׁבֻעָה֙ אֲשֶׁ֤ר נִשְׁבַּע֙ לַאֲבֹ֣תֵיכֶ֔ם הוֹצִ֧יא יְהֹוָ֛ה אֶתְכֶ֖ם בְּיָ֣ד חֲזָקָ֑ה וַֽיִּפְדְּךָ֙ מִבֵּ֣ית עֲבָדִ֔ים מִיַּ֖ד פַּרְעֹ֥ה מֶֽלֶךְ־מִצְרָֽיִם׃",
+    "transliteration": "khiy me'ahavat yehovah 'etekhem vmishomervo 'et-hashevu'ah 'asher nisheva' la'avoteykhem hvotsiy' yehovah 'etekhem veyad hazakah vayifedekha miveyt 'avadiym miyad fare'oh melekhe-mitserayim.",
     "translation": "Pois do amor do Senhor a vós e da guarda que Ele fez à Sua promessa que jurou aos vossos pais, o Senhor vos tirou com mão forte e vos redimiu da casa de servidão, da mão de Faraó, rei do Egito."
   },
   {
     "verse": 9,
     "original": "וְיָ֣דַעְתָּ֔ כִּֽי־יְהֹוָ֥ה אֱלֹהֶ֖יךָ ה֣וּא הָֽאֱלֹהִ֑ים הָאֵל֙ הַֽנֶּאֱמָ֔ן שֹׁמֵ֧ר הַבְּרִ֣ית וְהַחֶ֗סֶד לְאֹהֲבָ֛יו וּלְשֹׁמְרֵ֥י <span class=\"mam-kq-trivial\">מִצְוֺתָ֖ו</span> לְאֶ֥לֶף דּֽוֹר׃",
+    "transliteration": "veyada'eta khiy-yehovah 'eloheykha hv' ha'elohiym ha'el hane'eman shomer haveriyt vehahesed le'ohavayv vleshomerey <span class=\"mam-kq-trivial\">mitsevotav</span> le'elef dvor.",
     "translation": "E saberás que o Senhor, teu Deus, ele é o Deus, o fiel, guardião da aliança e da misericórdia para com os que nele amam e guardam seus mandamentos por mil gerações."
   },
   {
     "verse": 10,
     "original": "וּמְשַׁלֵּ֧ם לְשֹׂנְאָ֛יו אֶל־פָּנָ֖יו לְהַאֲבִיד֑וֹ לֹ֤א יְאַחֵר֙ לְשֹׂ֣נְא֔וֹ אֶל־פָּנָ֖יו יְשַׁלֶּם־לֽוֹ׃",
+    "transliteration": "vmeshalem lesone'ayv 'el-fanayv leha'aviydvo lo' ye'aher lesone'vo 'el-fanayv yeshalem-lvo.",
     "translation": "E paga ao seu inimigo na sua presença para destruí-lo; não demora com o seu adversário, perante ele retribui-lhe."
   },
   {
     "verse": 11,
     "original": "וְשָׁמַרְתָּ֨ אֶת־הַמִּצְוָ֜ה וְאֶת־הַֽחֻקִּ֣ים וְאֶת־הַמִּשְׁפָּטִ֗ים אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לַעֲשׂוֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "veshamareta 'et-hamitsevah ve'et-hahukiym ve'et-hamishefatiym 'asher 'anokhiy metsavekha hayvom la'asvotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E guardará o mandamento e os estatutos e os juízos que eu te mando hoje para fazeres."
   },
   {
     "verse": 12,
     "original": "וְהָיָ֣ה&thinsp;<b>׀</b> עֵ֣קֶב תִּשְׁמְע֗וּן אֵ֤ת הַמִּשְׁפָּטִים֙ הָאֵ֔לֶּה וּשְׁמַרְתֶּ֥ם וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְשָׁמַר֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ לְךָ֗ אֶֽת־הַבְּרִית֙ וְאֶת־הַחֶ֔סֶד אֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶֽיךָ׃",
+    "transliteration": "vehayah&thinsp;<b>|</b> 'ekev tisheme'vn 'et hamishefatiym ha'eleh vshemaretem va'asiytem 'otam veshamar yehovah 'eloheykha lekha 'et-haveriyt ve'et-hahesed 'asher nisheva' la'avoteykha.",
     "translation": "E será que, se atentardes a estes juízos e os guardardes e fizerdes, o Senhor vosso Deus guardará para vós a aliança e a misericórdia que jurou aos vossos pais."
   },
   {
     "verse": 13,
     "original": "וַאֲהֵ֣בְךָ֔ וּבֵרַכְךָ֖ וְהִרְבֶּ֑ךָ וּבֵרַ֣ךְ פְּרִֽי־בִטְנְךָ֣ וּפְרִֽי־אַ֠דְמָתֶ֠ךָ דְּגָ֨נְךָ֜ וְתִירֹשְׁךָ֣ וְיִצְהָרֶ֗ךָ שְׁגַר־אֲלָפֶ֙יךָ֙ וְעַשְׁתְּרֹ֣ת צֹאנֶ֔ךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃",
+    "transliteration": "va'ahevekha vverakhekha vehirevekha vverakhe feriy-vitenekha vferiy-'adematekha deganekha vetiyroshekha veyitseharekha shegar-'alafeykha ve'asheterot tso'nekha 'al ha'adamah 'asher-nisheva' la'avoteykha latet lakhe.",
     "translation": "E te amará, te abençoará e multiplicará tua semente. Abençoará o fruto de teu ventre e a terra que pisares; teu trigo e teu vinho, óleo e cordeiros dos teus rebanhos, e bezerras de teus bois no país que jurou a teus pais dar-te."
   },
   {
     "verse": 14,
     "original": "בָּר֥וּךְ תִּֽהְיֶ֖ה מִכׇּל־הָעַמִּ֑ים לֹא־יִהְיֶ֥ה בְךָ֛ עָקָ֥ר וַֽעֲקָרָ֖ה וּבִבְהֶמְתֶּֽךָ׃",
+    "transliteration": "varvkhe tiheyeh mikhol-ha'amiym lo'-yiheyeh vekha 'akar va'akarah vvivehemetekha.",
     "translation": "Bendito serás entre todos os povos; não haverá em ti estéril nem infecundo, nem entre os teus animais."
   },
   {
     "verse": 15,
     "original": "וְהֵסִ֧יר יְהֹוָ֛ה מִמְּךָ֖ כׇּל־חֹ֑לִי וְכׇל־מַדְוֵי֩ מִצְרַ֨יִם הָרָעִ֜ים אֲשֶׁ֣ר יָדַ֗עְתָּ לֹ֤א יְשִׂימָם֙ בָּ֔ךְ וּנְתָנָ֖ם בְּכׇל־שֹׂנְאֶֽיךָ׃",
+    "transliteration": "vehesiyr yehovah mimekha khol-holiy vekhol-madevey mitserayim hara'iym 'asher yada'eta lo' yesiymam vakhe vnetanam vekhol-sone'eykha.",
     "translation": "E o Senhor removerá de ti toda doença, e todos os maus males do Egito que conheceste ele não porá em ti, mas os colocará em todos os teus inimigos."
   },
   {
     "verse": 16,
     "original": "וְאָכַלְתָּ֣ אֶת־כׇּל־הָֽעַמִּ֗ים אֲשֶׁ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ נֹתֵ֣ן לָ֔ךְ לֹא־תָח֥וֹס עֵֽינְךָ֖ עֲלֵיהֶ֑ם וְלֹ֤א תַעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־מוֹקֵ֥שׁ ה֖וּא לָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'akhaleta 'et-khol-ha'amiym 'asher yehovah 'eloheykha noten lakhe lo'-tahvos 'eynekha 'aleyhem velo' ta'avod 'et-'eloheyhem khiy-mvokesh hv' lakhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E comerás todos os povos que o Senhor, teu Deus, te der; não terás piedade deles, e não servirás a seus deuses, pois isso seria uma armadilha para ti."
   },
   {
     "verse": 17,
     "original": "כִּ֤י תֹאמַר֙ בִּלְבָ֣בְךָ֔ רַבִּ֛ים הַגּוֹיִ֥ם הָאֵ֖לֶּה מִמֶּ֑נִּי אֵיכָ֥ה אוּכַ֖ל לְהוֹרִישָֽׁם׃",
+    "transliteration": "khiy to'mar vilevavekha raviym hagvoyim ha'eleh mimeniy 'eykhah 'vkhal lehvoriysham.",
     "translation": "Porque dirás no teu coração: Estes povos são mais numerosos do que eu; como poderei expulsá-los?"
   },
   {
     "verse": 18,
     "original": "לֹ֥א תִירָ֖א מֵהֶ֑ם זָכֹ֣ר תִּזְכֹּ֗ר אֵ֤ת אֲשֶׁר־עָשָׂה֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְפַרְעֹ֖ה וּלְכׇל־מִצְרָֽיִם׃",
+    "transliteration": "lo' tiyra' mehem zakhor tizekhor 'et 'asher-'asah yehovah 'eloheykha lefare'oh vlekhol-mitserayim.",
     "translation": "Não temas deles; lembra-te do que o Senhor teu Deus fez a Faraó e a todo o Egito."
   },
   {
     "verse": 19,
     "original": "הַמַּסֹּ֨ת הַגְּדֹלֹ֜ת אֲשֶׁר־רָא֣וּ עֵינֶ֗יךָ וְהָאֹתֹ֤ת וְהַמֹּֽפְתִים֙ וְהַיָּ֤ד הַחֲזָקָה֙ וְהַזְּרֹ֣עַ הַנְּטוּיָ֔ה אֲשֶׁ֥ר הוֹצִֽאֲךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ כֵּֽן־יַעֲשֶׂ֞ה יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְכׇל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה יָרֵ֖א מִפְּנֵיהֶֽם׃",
+    "transliteration": "hamasot hagedolot 'asher-ra'v 'eyneykha veha'otot vehamofetiym vehayad hahazakah vehazero'a hanetvyah 'asher hvotsi'akha yehovah 'eloheykha khen-ya'aseh yehovah 'eloheykha lekhol-ha'amiym 'asher-'atah yare' mifeneyhem.",
     "translation": "As grandes provas que viram os teus olhos e os sinais e as maravilhas e a mão forte e o braço estendido que tirou YHWH, teu Deus, a ti; assim fará YHWH, teu Deus, aos todos os povos diante dos quais tu temes."
   },
   {
     "verse": 20,
     "original": "וְגַם֙ אֶת־הַצִּרְעָ֔ה יְשַׁלַּ֛ח יְהֹוָ֥ה אֱלֹהֶ֖יךָ בָּ֑ם עַד־אֲבֹ֗ד הַנִּשְׁאָרִ֛ים וְהַנִּסְתָּרִ֖ים מִפָּנֶֽיךָ׃",
+    "transliteration": "vegam 'et-hatsire'ah yeshalah yehovah 'eloheykha vam 'ad-'avod hanishe'ariym vehanisetariym mifaneykha.",
     "translation": "E também a ferida enviaria o SENHOR teu Deus neles, até que se lhe entreguem os restantes e os ocultos."
   },
   {
     "verse": 21,
     "original": "לֹ֥א תַעֲרֹ֖ץ מִפְּנֵיהֶ֑ם כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בְּקִרְבֶּ֔ךָ אֵ֥ל גָּד֖וֹל וְנוֹרָֽא׃",
+    "transliteration": "lo' ta'arots mifeneyhem khiy-yehovah 'eloheykha vekirevekha 'el gadvol venvora'.",
     "translation": "Não temas diante deles, pois o Senhor teu Deus está no meio de ti, um Deus grande e temível."
   },
   {
     "verse": 22,
     "original": "וְנָשַׁל֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ אֶת־הַגּוֹיִ֥ם הָאֵ֛ל מִפָּנֶ֖יךָ מְעַ֣ט מְעָ֑ט לֹ֤א תוּכַל֙ כַּלֹּתָ֣ם מַהֵ֔ר פֶּן־תִּרְבֶּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃",
+    "transliteration": "venashal yehovah 'eloheykha 'et-hagvoyim ha'el mifaneykha me'at me'at lo' tvkhal khalotam maher fen-tireveh 'aleykha hayat hasadeh.",
     "translation": "E o Senhor, teu Deus, os lançará de diante de ti, pouco a pouco; não poderás apressar sua completa destruição, para que não se multiplique sobre ti a fera do campo."
   },
   {
     "verse": 23,
     "original": "וּנְתָנָ֛ם יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְפָנֶ֑יךָ וְהָמָם֙ מְהוּמָ֣ה גְדֹלָ֔ה עַ֖ד הִשָּׁמְדָֽם׃",
+    "transliteration": "vnetanam yehovah 'eloheykha lefaneykha vehamam mehvmah gedolah 'ad hishamedam.",
     "translation": "E o Senhor, teu Deus, os entregará diante de ti e causará neles uma grande perturbação até sua extermínio."
   },
   {
     "verse": 24,
     "original": "וְנָתַ֤ן מַלְכֵיהֶם֙ בְּיָדֶ֔ךָ וְהַאֲבַדְתָּ֣ אֶת־שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם לֹֽא־יִתְיַצֵּ֥ב אִישׁ֙ בְּפָנֶ֔יךָ עַ֥ד הִשְׁמִֽדְךָ֖ אֹתָֽם׃",
+    "transliteration": "venatan malekheyhem veyadekha veha'avadeta 'et-shemam mitahat hashamayim lo'-yiteyatsev 'iysh vefaneykha 'ad hishemidekha 'otam.",
     "translation": "Então seus reis serão entregues na tua mão, e tu os destruirás, apagando seu nome debaixo dos céus; nenhum homem resistirá a ti, até que os tenhas aniquilado."
   },
   {
     "verse": 25,
     "original": "פְּסִילֵ֥י אֱלֹהֵיהֶ֖ם תִּשְׂרְפ֣וּן בָּאֵ֑שׁ לֹֽא־תַחְמֹד֩ כֶּ֨סֶף וְזָהָ֤ב עֲלֵיהֶם֙ וְלָקַחְתָּ֣ לָ֔ךְ פֶּ֚ן תִּוָּקֵ֣שׁ בּ֔וֹ כִּ֧י תוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ הֽוּא׃",
+    "transliteration": "fesiyley 'eloheyhem tiserefvn va'esh lo'-tahemod khesef vezahav 'aleyhem velakaheta lakhe fen tivakesh vvo khiy tvo'avat yehovah 'eloheykha hv'.",
     "translation": "Queimai em fogo os ídolos de seus deuses; não desejeis o ouro e a prata sobre eles, para que não sejais tentados a pegá-los, pois abominação ao Senhor, vosso Deus, são eles."
   },
   {
     "verse": 26,
     "original": "וְלֹא־תָבִ֤יא תֽוֹעֵבָה֙ אֶל־בֵּיתֶ֔ךָ וְהָיִ֥יתָ חֵ֖רֶם כָּמֹ֑הוּ שַׁקֵּ֧ץ&thinsp;<small>׀</small>&thinsp;תְּשַׁקְּצֶ֛נּוּ וְתַעֵ֥ב&thinsp;<small>׀</small>&thinsp;תְּֽתַעֲבֶ֖נּוּ כִּי־חֵ֥רֶם הֽוּא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "velo'-taviy' tvo'evah 'el-veytekha vehayiyta herem khamohv shakets&thinsp;<small>|</small>&thinsp;teshaketsenv veta'ev&thinsp;<small>|</small>&thinsp;teta'avenv khiy-herem hv'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E não trarás abominação alguma à tua casa, e serás extermínio como ele. Abominá-lo-ás e o aborrecerás; pois extermínio é ele."
   }
 ]

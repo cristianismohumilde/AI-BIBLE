@@ -2,31 +2,37 @@
   {
     "verse": 1,
     "original": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת בְּשׁ֣וּב יְ֭הֹוָה אֶת־שִׁיבַ֣ת צִיּ֑וֹן הָ֝יִ֗ינוּ כְּחֹלְמִֽים׃",
+    "transliteration": "shiyr hama'alvot veshvv yehovah 'et-shiyvat tsiyvon hayiynv kheholemiym.",
     "translation": "Cântico dos degraus. Ao retornar o Senhor a fazer resplandecer Sião, nós éramos como que sonhando."
   },
   {
     "verse": 2,
     "original": "אָ֤ז יִמָּלֵ֪א שְׂח֡וֹק פִּינוּ֮ וּלְשׁוֹנֵ֢נוּ רִ֫נָּ֥ה אָ֭ז יֹאמְר֣וּ בַגּוֹיִ֑ם הִגְדִּ֥יל יְ֝הֹוָ֗ה לַעֲשׂ֥וֹת עִם־אֵֽלֶּה׃",
+    "transliteration": "'az yimale' sehvok fiynv vleshvonenv rinah 'az yo'merv vagvoyim higediyl yehovah la'asvot 'im-'eleh.",
     "translation": "Então se encherá de riso a nossa boca e a nossa língua de cântico; então dirão entre as nações: Grandioso fez o Senhor com estes."
   },
   {
     "verse": 3,
     "original": "הִגְדִּ֣יל יְ֭הֹוָה לַעֲשׂ֥וֹת עִמָּ֗נוּ הָיִ֥ינוּ שְׂמֵחִֽים׃",
+    "transliteration": "higediyl yehovah la'asvot 'imanv hayiynv semehiym.",
     "translation": "O Senhor ampliou Suas obras conosco; fomos cheios de alegria."
   },
   {
     "verse": 4,
     "original": "שׁוּבָ֣ה יְ֭הֹוָה אֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[שְׁבִיתֵ֑נוּ]</span> <span class=\"mam-kq-k\">(שבותנו)</span></span> כַּאֲפִיקִ֥ים בַּנֶּֽגֶב׃",
+    "transliteration": "shvvah yehovah 'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[sheviytenv]</span> <span class=\"mam-kq-k\">(svvtnv)</span></span> kha'afiykiym vanegev.",
     "translation": "Volta, Senhor, os nossos prisioneirosComo regatos no Neguebe."
   },
   {
     "verse": 5,
     "original": "הַזֹּרְעִ֥ים בְּדִמְעָ֗ה בְּרִנָּ֥ה יִקְצֹֽרוּ׃",
+    "transliteration": "hazore'iym vedime'ah verinah yiketsorv.",
     "translation": "Os que semeiam com lágrimas colherão com alegria."
   },
   {
     "verse": 6,
     "original": "הָ֘ל֤וֹךְ יֵלֵ֨ךְ&thinsp;<b>׀</b> וּבָכֹה֮ נֹשֵׂ֢א מֶשֶׁךְ־הַ֫זָּ֥רַע בֹּא־יָבֹ֥א בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "halvokhe yelekhe&thinsp;<b>|</b> vvakhoh nose' meshekhe-hazara' vo'-yavo' verinah nose' 'alumotayv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Caminhe, vá, e chore carregando o cevadeiro; então venha em alegria, trazendo os seus sacos."
   }
 ]

@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "עַל־מִשְׁמַרְתִּ֣י אֶֽעֱמֹ֔דָה וְאֶֽתְיַצְּבָ֖ה עַל־מָצ֑וֹר וַאֲצַפֶּ֗ה לִרְאוֹת֙ מַה־יְדַבֶּר־בִּ֔י וּמָ֥ה אָשִׁ֖יב עַל־תּוֹכַחְתִּֽי׃",
+    "transliteration": "'al-mishemaretiy 'e'emodah ve'eteyatsevah 'al-matsvor va'atsafeh lire'vot mah-yedaver-viy vmah 'ashiyv 'al-tvokhahetiy.",
     "translation": "Sobre minha vigília, eu me firmarei e colocarei-me na mira do cerco; e esperarei para ver o que me será dito, e com qual resposta poderei responder à repreensão."
   },
   {
     "verse": 2,
     "original": "וַיַּעֲנֵ֤נִי יְהֹוָה֙ וַיֹּ֔אמֶר כְּתֹ֣ב חָז֔וֹן וּבָאֵ֖ר עַל־הַלֻּח֑וֹת לְמַ֥עַן יָר֖וּץ ק֥וֹרֵא בֽוֹ׃",
+    "transliteration": "vaya'aneniy yehovah vayo'mer khetov hazvon vva'er 'al-haluhvot lema'an yarvts kvore' vvo.",
     "translation": "E o Senhor me respondeu e disse: Escreve a visão, esclarece sobre as tábuas, para que seja lida em pressa."
   },
   {
     "verse": 3,
     "original": "כִּ֣י ע֤וֹד חָזוֹן֙ לַמּוֹעֵ֔ד וְיָפֵ֥חַ לַקֵּ֖ץ וְלֹ֣א יְכַזֵּ֑ב אִם־יִתְמַהְמָהּ֙ חַכֵּה־ל֔וֹ כִּי־בֹ֥א יָבֹ֖א לֹ֥א יְאַחֵֽר׃",
+    "transliteration": "khiy 'vod hazvon lamvo'ed veyafeha lakets velo' yekhazev 'im-yitemahemah hakheh-lvo khiy-vo' yavo' lo' ye'aher.",
     "translation": "Pois ainda há visão para o tempo designado, e falará até ao fim; ele não falhará. Se demorar, espera por ele; certamente virá, não tardará."
   },
   {
     "verse": 4,
     "original": "הִנֵּ֣ה עֻפְּלָ֔ה לֹא־יָשְׁרָ֥ה נַפְשׁ֖וֹ בּ֑וֹ וְצַדִּ֖יק בֶּאֱמוּנָת֥וֹ יִֽחְיֶֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hineh 'ufelah lo'-yasherah nafeshvo vvo vetsadiyk ve'emvnatvo yiheyeh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": ""
   },
   {
     "verse": 5,
     "original": "וְאַף֙ כִּֽי־הַיַּ֣יִן בֹּגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל נַפְשׁ֗וֹ וְה֤וּא כַמָּ֙וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כׇּל־הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ אֵלָ֖יו כׇּל־הָעַמִּֽים׃",
+    "transliteration": "ve'af khiy-hayayin voged gever yahiyr velo' yineveh 'asher hirehiyv khishe'vol nafeshvo vehv' khamavet velo' yiseva' vaye'esof 'elayv khol-hagvoyim vayikevots 'elayv khol-ha'amiym.",
     "translation": "E também o vinho é um traidor, que faz o homem se inflar e não ser sábio; ele expande a alma como o Sheol, e é semelhante à morte, e não há saciedade. Ele reúne para si todos os povos e agrupa para si todas as nações."
   },
   {
     "verse": 6,
     "original": "הֲלוֹא־אֵ֣לֶּה כֻלָּ֗ם עָלָיו֙ מָשָׁ֣ל יִשָּׂ֔אוּ וּמְלִיצָ֖ה חִיד֣וֹת ל֑וֹ וְיֹאמַ֗ר ה֚וֹי הַמַּרְבֶּ֣ה לֹּא־ל֔וֹ עַד־מָתַ֕י וּמַכְבִּ֥יד עָלָ֖יו עַבְטִֽיט׃",
+    "transliteration": "halvo'-'eleh khulam 'alayv mashal yisa'v vmeliytsah hiydvot lvo veyo'mar hvoy hamareveh lo'-lvo 'ad-matay vmakheviyd 'alayv 'avetiyt.",
     "translation": "Acaso todos eles não lhe têm por parábola, e ato retórico em seus enigmas? E diz: Ai do que multiplica o que lhe não compete, até quando? E acrescenta pesar sobre ele, peso."
   },
   {
     "verse": 7,
     "original": "הֲל֣וֹא פֶ֗תַע יָק֙וּמוּ֙ נֹֽשְׁכֶ֔יךָ וְיִקְצ֖וּ מְזַעְזְעֶ֑יךָ וְהָיִ֥יתָ לִמְשִׁסּ֖וֹת לָֽמוֹ׃",
+    "transliteration": "halvo' feta' yakvmv noshekheykha veyiketsv meza'eze'eykha vehayiyta limeshisvot lamvo.",
     "translation": "Acaso não se levantarão de repente os que te morderam, e despertarão os que te abalavam, e tu serás um desamparo para eles?"
   },
   {
     "verse": 8,
     "original": "כִּֽי־אַתָּ֤ה שַׁלּ֙וֹתָ֙ גּוֹיִ֣ם רַבִּ֔ים יְשׇׁלּ֖וּךָ כׇּל־יֶ֣תֶר עַמִּ֑ים מִדְּמֵ֤י אָדָם֙ וַֽחֲמַס־אֶ֔רֶץ קִרְיָ֖ה וְכׇל־יֹ֥שְׁבֵי בָֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy-'atah shalvota gvoyim raviym yesholvkha khol-yeter 'amiym midemey 'adam vahamas-'erets kireyah vekhol-yoshevey vah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois tu és a colheita de muitas nações; sobre ti virão os remanescentes das gentes, por causa do teu nome; do fundo da terra Yahweh te restaurará, dizendo aos filhos do exílio: 'Sejam levantados e tornem a habitá-la'."
   },
   {
     "verse": 9,
     "original": "ה֗וֹי בֹּצֵ֛עַ בֶּ֥צַע רָ֖ע לְבֵית֑וֹ לָשׂ֤וּם בַּמָּרוֹם֙ קִנּ֔וֹ לְהִנָּצֵ֖ל מִכַּף־רָֽע׃",
+    "transliteration": "hvoy votse'a vetsa' ra' leveytvo lasvm vamarvom kinvo lehinatsel mikhaf-ra'.",
     "translation": "Ai daquele que tece um tear perverso para a sua casa, para colocar o seu ninho nas alturas, para se livrar da mão do mal."
   },
   {
     "verse": 10,
     "original": "יָעַ֥צְתָּ בֹּ֖שֶׁת לְבֵיתֶ֑ךָ קְצוֹת־עַמִּ֥ים רַבִּ֖ים וְחוֹטֵ֥א נַפְשֶֽׁךָ׃",
+    "transliteration": "ya'atseta voshet leveytekha ketsvot-'amiym raviym vehvote' nafeshekha.",
     "translation": "Conselhaste vergonha à tua casa; os extremos dos povos numerosos estão contigo e tu pecas a tua alma."
   },
   {
     "verse": 11,
     "original": "כִּי־אֶ֖בֶן מִקִּ֣יר תִּזְעָ֑ק וְכָפִ֖יס מֵעֵ֥ץ יַעֲנֶֽנָּה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy-'even mikiyr tize'ak vekhafiys me'ets ya'anenah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois pedra do muro clamará, e madeira da parede responderá."
   },
   {
     "verse": 12,
     "original": "ה֛וֹי בֹּנֶ֥ה עִ֖יר בְּדָמִ֑ים וְכוֹנֵ֥ן קִרְיָ֖ה בְּעַוְלָֽה׃",
+    "transliteration": "hvoy voneh 'iyr vedamiym vekhvonen kireyah ve'avelah.",
     "translation": "Ai, aquele que edifica uma cidade com sangue e fortifica uma vila com iniqüidade."
   },
   {
     "verse": 13,
     "original": "הֲל֣וֹא הִנֵּ֔ה מֵאֵ֖ת יְהֹוָ֣ה צְבָא֑וֹת וְיִֽיגְע֤וּ עַמִּים֙ בְּדֵי־אֵ֔שׁ וּלְאֻמִּ֖ים בְּדֵי־רִ֥יק יִעָֽפוּ׃",
+    "transliteration": "halvo' hineh me'et yehovah tseva'vot veyiyge'v 'amiym vedey-'esh vle'umiym vedey-riyk yi'afv.",
     "translation": "Eis, não vem do Senhor dos Exércitos que as nações se esforçam em fogo e os povos correm para a vaidade?"
   },
   {
     "verse": 14,
     "original": "כִּ֚י תִּמָּלֵ֣א הָאָ֔רֶץ לָדַ֖עַת אֶת־כְּב֣וֹד יְהֹוָ֑ה כַּמַּ֖יִם יְכַסּ֥וּ עַל־יָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy timale' ha'arets lada'at 'et-khevvod yehovah khamayim yekhasv 'al-yam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Porque a terra se encherá de conhecer a glória do Senhor, como os águas cobrem o mar."
   },
   {
     "verse": 15,
     "original": "ה֚וֹי מַשְׁקֵ֣ה רֵעֵ֔הוּ מְסַפֵּ֥חַ חֲמָתְךָ֖ וְאַ֣ף שַׁכֵּ֑ר לְמַ֥עַן הַבִּ֖יט עַל־מְעוֹרֵיהֶֽם׃",
+    "transliteration": "hvoy mashekeh re'ehv mesafeha hamatekha ve'af shakher lema'an haviyt 'al-me'voreyhem.",
     "translation": "Ai, tu que misturas o vinho para teu amigo e acrescentas-lhe tua ira, sendo ainda um traidor, para que olhes atentamente para seus rins."
   },
   {
     "verse": 16,
     "original": "שָׂבַ֤עְתָּ קָלוֹן֙ מִכָּב֔וֹד שְׁתֵ֥ה גַם־אַ֖תָּה וְהֵעָרֵ֑ל תִּסּ֣וֹב עָלֶ֗יךָ כּ֚וֹס יְמִ֣ין יְהֹוָ֔ה וְקִיקָל֖וֹן עַל־כְּבוֹדֶֽךָ׃",
+    "transliteration": "sava'eta kalvon mikhavvod sheteh gam-'atah vehe'arel tisvov 'aleykha khvos yemiyn yehovah vekiykalvon 'al-khevvodekha.",
     "translation": "Encheu-te a glória de grandeza, bebe também tu, e serás despojado; a taça da direita do Senhor estará em derredor, com círculos de esplendor ao teu redor."
   },
   {
     "verse": 17,
     "original": "כִּ֣י חֲמַ֤ס לְבָנוֹן֙ יְכַסֶּ֔ךָּ וְשֹׁ֥ד בְּהֵמ֖וֹת יְחִיתַ֑ן מִדְּמֵ֤י אָדָם֙ וַחֲמַס־אֶ֔רֶץ קִרְיָ֖ה וְכׇל־יֹ֥שְׁבֵי בָֽהּ׃",
+    "transliteration": "khiy hamas levanvon yekhasekha veshod vehemvot yehiytan midemey 'adam vahamas-'erets kireyah vekhol-yoshevey vah.",
     "translation": "Pois a violência de Líbano o cobrirá, e a devastação das bestas o fará calar-se; pelo sangue dos homens e pela violência da terra, cidade e todos os seus habitantes."
   },
   {
     "verse": 18,
     "original": "מָה־הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "mah-hvo'iyl fesel khiy fesalvo yotservo masekhah vmvoreh shaker khiy vatah yotser yitservo 'alayv la'asvot 'eliyliym 'ilemiym.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Qual proveito há na imagem, pois seu artífice confia nela? Fundido em metal e mestre de mentiras enganosas, pois quem cria depositará sua confiança nela para fazer ídolos mudos."
   },
   {
     "verse": 19,
     "original": "ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה־ה֗וּא תָּפוּשׂ֙ זָהָ֣ב וָכֶ֔סֶף וְכׇל־ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ׃",
+    "transliteration": "hvoy 'omer la'ets hakiytsah 'vriy le'even dvmam hv' yvoreh hineh-hv' tafvs zahav vakhesef vekhol-rvha 'eyn vekirevvo.",
     "translation": "Ai, aquele que diz à árvore desperta, acorda! A pedra muda dá ensinamento: eis ele, forja ouro e prata, mas nenhum sopro de vida há em seu interior."
   },
   {
     "verse": 20,
     "original": "וַיהֹוָ֖ה בְּהֵיכַ֣ל קׇדְשׁ֑וֹ הַ֥ס מִפָּנָ֖יו כׇּל־הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayhovah veheykhal kodeshvo has mifanayv khol-ha'arets.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o Senhor está no seu santuário; silenciosa toda a terra diante dele."
   }
 ]

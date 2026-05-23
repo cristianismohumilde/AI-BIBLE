@@ -2,181 +2,217 @@
   {
     "verse": 1,
     "original": "וַֽיְהִ֗י אַֽחֲרֵי֙ מ֣וֹת יְהוֹשֻׁ֔עַ וַֽיִּשְׁאֲלוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בַּיהֹוָ֖ה לֵאמֹ֑ר מִ֣י יַעֲלֶה־לָּ֧נוּ אֶל־הַֽכְּנַעֲנִ֛י בַּתְּחִלָּ֖ה לְהִלָּ֥חֶם בּֽוֹ׃",
+    "transliteration": "vayehiy 'aharey mvot yehvoshu'a vayishe'alv veney yisera'el vayhovah le'mor miy ya'aleh-lanv 'el-hakhena'aniy vatehilah lehilahem vvo.",
     "translation": "E foi após a morte de Josué que os filhos de Israel perguntaram ao Senhor, dizendo: Quem subirá por nós contra os cananeus em primeiro lugar para lutar contra eles?"
   },
   {
     "verse": 2,
     "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה יְהוּדָ֣ה יַעֲלֶ֑ה הִנֵּ֛ה נָתַ֥תִּי אֶת־הָאָ֖רֶץ בְּיָדֽוֹ׃",
+    "transliteration": "vayo'mer yehovah yehvdah ya'aleh hineh natatiy 'et-ha'arets veyadvo.",
     "translation": "E disse o Senhor: Judá subirá; eis que tenho dado a terra em sua mão."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֣אמֶר יְהוּדָה֩ לְשִׁמְע֨וֹן אָחִ֜יו עֲלֵ֧ה אִתִּ֣י בְגֹרָלִ֗י וְנִֽלָּחֲמָה֙ בַּֽכְּנַעֲנִ֔י וְהָלַכְתִּ֧י גַם־אֲנִ֛י אִתְּךָ֖ בְּגוֹרָלֶ֑ךָ וַיֵּ֥לֶךְ אִתּ֖וֹ שִׁמְעֽוֹן׃",
+    "transliteration": "vayo'mer yehvdah leshime'von 'ahiyv 'aleh 'itiy vegoraliy venilahamah vakhena'aniy vehalakhetiy gam-'aniy 'itekha vegvoralekha vayelekhe 'itvo shime'von.",
     "translation": "E Judá disse a seu irmão Simeão: \"Suba comigo na minha sorte, e lutemos contra os cananeus; também eu subirei com você na sua sorte.\" E Simeão foi com ele."
   },
   {
     "verse": 4,
     "original": "וַיַּ֣עַל יְהוּדָ֔ה וַיִּתֵּ֧ן יְהֹוָ֛ה אֶת־הַכְּנַעֲנִ֥י וְהַפְּרִזִּ֖י בְּיָדָ֑ם וַיַּכּ֣וּם בְּבֶ֔זֶק עֲשֶׂ֥רֶת אֲלָפִ֖ים אִֽישׁ׃",
+    "transliteration": "vaya'al yehvdah vayiten yehovah 'et-hakhena'aniy vehaferiziy veyadam vayakhvm vevezek 'aseret 'alafiym 'iysh.",
     "translation": "E Judá subiu, e o Senhor entregou na sua mão os cananeus e os perizeus, e feriram dez mil homens em Besec."
   },
   {
     "verse": 5,
     "original": "וַֽ֠יִּמְצְא֠וּ אֶת־אֲדֹנִ֥י בֶ֙זֶק֙ בְּבֶ֔זֶק וַיִּֽלָּחֲמ֖וּ בּ֑וֹ וַיַּכּ֕וּ אֶת־הַֽכְּנַעֲנִ֖י וְאֶת־הַפְּרִזִּֽי׃",
+    "transliteration": "vayimetse'v 'et-'adoniy vezek vevezek vayilahamv vvo vayakhv 'et-hakhena'aniy ve'et-haferiziy.",
     "translation": "E encontraram Adoni-bezek em Bezek, e lutaram contra ele ali. E derrotaram os cananeus e os ferezeus."
   },
   {
     "verse": 6,
     "original": "וַיָּ֙נׇס֙ אֲדֹ֣נִי בֶ֔זֶק וַֽיִּרְדְּפ֖וּ אַחֲרָ֑יו וַיֹּאחֲז֣וּ אוֹת֔וֹ וַֽיְקַצְּצ֔וּ אֶת־בְּהֹנ֥וֹת יָדָ֖יו וְרַגְלָֽיו׃",
+    "transliteration": "vayanos 'adoniy vezek vayiredefv 'aharayv vayo'hazv 'votvo vayekatsetsv 'et-vehonvot yadayv veragelayv.",
     "translation": "E Adoni-Bezeque fugiu, mas eles o perseguiram e o prenderam. Então, cortaram os polegares de suas mãos e pés."
   },
   {
     "verse": 7,
     "original": "וַיֹּ֣אמֶר אֲדֹֽנִי־בֶ֗זֶק שִׁבְעִ֣ים&thinsp;<small>׀</small>&thinsp;מְלָכִ֡ים בְּֽהֹנוֹת֩ יְדֵיהֶ֨ם וְרַגְלֵיהֶ֜ם מְקֻצָּצִ֗ים הָי֤וּ מְלַקְּטִים֙ תַּ֣חַת שֻׁלְחָנִ֔י כַּאֲשֶׁ֣ר עָשִׂ֔יתִי כֵּ֥ן שִׁלַּם־לִ֖י אֱלֹהִ֑ים וַיְבִיאֻ֥הוּ יְרֽוּשָׁלַ֖͏ִם וַיָּ֥מׇת שָֽׁם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayo'mer 'adoniy-vezek shive'iym&thinsp;<small>|</small>&thinsp;melakhiym vehonvot yedeyhem verageleyhem mekutsatsiym hayv melaketiym tahat shulehaniy kha'asher 'asiytiy khen shilam-liy 'elohiym vayeviy'uhv yervshalaim vayamot sham.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E disse Adoni-bezec: Setenta reis tiveram as mãos e os pés cortados para que fossem recolhendo grãos debaixo da minha mesa; assim como fiz, Deus me pagou. Levaram-no a Jerusalém, e ali morreu."
   },
   {
     "verse": 8,
     "original": "וַיִּלָּחֲמ֤וּ בְנֵֽי־יְהוּדָה֙ בִּיר֣וּשָׁלַ֔͏ִם וַיִּלְכְּד֣וּ אוֹתָ֔הּ וַיַּכּ֖וּהָ לְפִי־חָ֑רֶב וְאֶת־הָעִ֖יר שִׁלְּח֥וּ בָאֵֽשׁ׃",
+    "transliteration": "vayilahamv veney-yehvdah viyrvshalaim vayilekhedv 'votah vayakhvha lefiy-harev ve'et-ha'iyr shilehv va'esh.",
     "translation": "E lutaram os filhos de Judá em Jerusalém, e a conquistaram; e feriram-na à espada, e incendiaram a cidade."
   },
   {
     "verse": 9,
     "original": "וְאַחַ֗ר יָֽרְדוּ֙ בְּנֵ֣י יְהוּדָ֔ה לְהִלָּחֵ֖ם בַּֽכְּנַעֲנִ֑י יוֹשֵׁ֣ב הָהָ֔ר וְהַנֶּ֖גֶב וְהַשְּׁפֵלָֽה׃",
+    "transliteration": "ve'ahar yaredv veney yehvdah lehilahem vakhena'aniy yvoshev hahar vehanegev vehashefelah.",
     "translation": "E depois desciam os filhos de Judá para lutar contra o cananeu que habitava na montanha, no Neguebe e na planície."
   },
   {
     "verse": 10,
     "original": "וַיֵּ֣לֶךְ יְהוּדָ֗ה אֶל־הַֽכְּנַעֲנִי֙ הַיּוֹשֵׁ֣ב בְּחֶבְר֔וֹן וְשֵׁם־חֶבְר֥וֹן לְפָנִ֖ים קִרְיַ֣ת אַרְבַּ֑ע וַיַּכּ֛וּ אֶת־שֵׁשַׁ֥י וְאֶת־אֲחִימַ֖ן וְאֶת־תַּלְמָֽי׃",
+    "transliteration": "vayelekhe yehvdah 'el-hakhena'aniy hayvoshev vehevervon veshem-hevervon lefaniym kireyat 'areva' vayakhv 'et-sheshay ve'et-'ahiyman ve'et-talemay.",
     "translation": "E Judá foi ao cananeu que habitava em Hebrom, e o nome de Hebrom antes era Quiriate-Arba; ele então feriu a Seisai, a Aquisai e a Talemai."
   },
   {
     "verse": 11,
     "original": "וַיֵּ֣לֶךְ מִשָּׁ֔ם אֶל־יוֹשְׁבֵ֖י דְּבִ֑יר וְשֵׁם־דְּבִ֥יר לְפָנִ֖ים קִרְיַת־סֵֽפֶר׃",
+    "transliteration": "vayelekhe misham 'el-yvoshevey deviyr veshem-deviyr lefaniym kireyat-sefer.",
     "translation": "E ele partiu dali para os habitantes de Debir; e o nome de Debir antes era Kiriate-Sefer."
   },
   {
     "verse": 12,
     "original": "וַיֹּ֣אמֶר כָּלֵ֔ב אֲשֶׁר־יַכֶּ֥ה אֶת־קִרְיַת־סֵ֖פֶר וּלְכָדָ֑הּ וְנָתַ֥תִּי ל֛וֹ אֶת־עַכְסָ֥ה בִתִּ֖י לְאִשָּֽׁה׃",
+    "transliteration": "vayo'mer khalev 'asher-yakheh 'et-kireyat-sefer vlekhadah venatatiy lvo 'et-'akhesah vitiy le'ishah.",
     "translation": "E Calebe disse: Quem ferir e tomar Cat ref, darei em casamento minha filha Acsa a ele."
   },
   {
     "verse": 13,
     "original": "וַֽיִּלְכְּדָהּ֙ עׇתְנִיאֵ֣ל בֶּן־קְנַ֔ז אֲחִ֥י כָלֵ֖ב הַקָּטֹ֣ן מִמֶּ֑נּוּ וַיִּתֶּן־ל֛וֹ אֶת־עַכְסָ֥ה בִתּ֖וֹ לְאִשָּֽׁה׃",
+    "transliteration": "vayilekhedah 'oteniy'el ven-kenaz 'ahiy khalev hakaton mimenv vayiten-lvo 'et-'akhesah vitvo le'ishah.",
     "translation": "E a prendeu Otniél, filho de Kenaz, irmão mais jovem de Caleb, e deu-lhe sua filha Acsá por esposa."
   },
   {
     "verse": 14,
     "original": "וַיְהִ֣י בְּבוֹאָ֗הּ וַתְּסִיתֵ֙הוּ֙ לִשְׁאֹ֤ל מֵֽאֵת־אָבִ֙יהָ֙ הַשָּׂדֶ֔ה וַתִּצְנַ֖ח מֵעַ֣ל הַחֲמ֑וֹר וַיֹּֽאמֶר־לָ֥הּ כָּלֵ֖ב מַה־לָּֽךְ׃",
+    "transliteration": "vayehiy vevvo'ah vatesiytehv lishe'ol me'et-'aviyha hasadeh vatitsenah me'al hahamvor vayo'mer-lah khalev mah-lakhe.",
     "translation": "E sucedeu, ao entrar ela, que persuadiu a pedir a seu pai o campo; e desceu do jumento, e Calebe lhe disse: O que te pertence?"
   },
   {
     "verse": 15,
     "original": "וַתֹּ֨אמֶר ל֜וֹ הָֽבָה־לִּ֣י בְרָכָ֗ה כִּ֣י אֶ֤רֶץ הַנֶּ֙גֶב֙ נְתַתָּ֔נִי וְנָתַתָּ֥ה לִ֖י גֻּלֹּ֣ת מָ֑יִם וַיִּתֶּן־לָ֣הּ כָּלֵ֗ב אֵ֚ת גֻּלֹּ֣ת עִלִּ֔ית וְאֵ֖ת גֻּלֹּ֥ת תַּחְתִּֽית׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vato'mer lvo havah-liy verakhah khiy 'erets hanegev netataniy venatatah liy gulot mayim vayiten-lah khalev 'et gulot 'iliyt ve'et gulot tahetiyt.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E disse a ele: Dá-me bênção, pois terra do Neguebe me deste, e darás-me cisternas de água. Então Calebe lhe deu as cisternas superiores e as inferiores."
   },
   {
     "verse": 16,
     "original": "וּבְנֵ֣י קֵינִי֩ חֹתֵ֨ן מֹשֶׁ֜ה עָל֨וּ מֵעִ֤יר הַתְּמָרִים֙ אֶת־בְּנֵ֣י יְהוּדָ֔ה מִדְבַּ֣ר יְהוּדָ֔ה אֲשֶׁ֖ר בְּנֶ֣גֶב עֲרָ֑ד וַיֵּ֖לֶךְ וַיֵּ֥שֶׁב אֶת־הָעָֽם׃",
+    "transliteration": "vveney keyniy hoten mosheh 'alv me'iyr hatemariym 'et-veney yehvdah midevar yehvdah 'asher venegev 'arad vayelekhe vayeshev 'et-ha'am.",
     "translation": "E os filhos de Cineu, sogro de Moisés, subiram da cidade dos tamarindos com os filhos de Judá; entraram no deserto de Judá que está junto ao Neguebe, perto de Arade; e habitou com o povo."
   },
   {
     "verse": 17,
     "original": "וַיֵּ֤לֶךְ יְהוּדָה֙ אֶת־שִׁמְע֣וֹן אָחִ֔יו וַיַּכּ֕וּ אֶת־הַֽכְּנַעֲנִ֖י יוֹשֵׁ֣ב צְפַ֑ת וַיַּחֲרִ֣ימוּ אוֹתָ֔הּ וַיִּקְרָ֥א אֶת־שֵׁם־הָעִ֖יר חׇרְמָֽה׃",
+    "transliteration": "vayelekhe yehvdah 'et-shime'von 'ahiyv vayakhv 'et-hakhena'aniy yvoshev tsefat vayahariymv 'votah vayikera' 'et-shem-ha'iyr horemah.",
     "translation": "E Judá foi com Semão, seu irmão, e feriu o cananeu que habitava em Zefate, e a consagraram ao aniquilamento, e chamaram o nome da cidade Hormá."
   },
   {
     "verse": 18,
     "original": "וַיִּלְכֹּ֤ד יְהוּדָה֙ אֶת־עַזָּ֣ה וְאֶת־גְּבוּלָ֔הּ וְאֶֽת־אַשְׁקְל֖וֹן וְאֶת־גְּבוּלָ֑הּ וְאֶת־עֶקְר֖וֹן וְאֶת־גְּבוּלָֽהּ׃",
+    "transliteration": "vayilekhod yehvdah 'et-'azah ve'et-gevvlah ve'et-'ashekelvon ve'et-gevvlah ve'et-'ekervon ve'et-gevvlah.",
     "translation": "E Judá capturou Gaza e seu território, Ashquelom com sua região, e Ekrom juntamente com seu distrito."
   },
   {
     "verse": 19,
     "original": "וַיְהִ֤י יְהֹוָה֙ אֶת־יְהוּדָ֔ה וַיֹּ֖רֶשׁ אֶת־הָהָ֑ר כִּ֣י לֹ֤א לְהוֹרִישׁ֙ אֶת־יֹשְׁבֵ֣י הָעֵ֔מֶק כִּי־רֶ֥כֶב בַּרְזֶ֖ל לָהֶֽם׃",
+    "transliteration": "vayehiy yehovah 'et-yehvdah vayoresh 'et-hahar khiy lo' lehvoriysh 'et-yoshevey ha'emek khiy-rekhev varezel lahem.",
     "translation": "E o SENHOR foi com Judá, e ele possuiu a montanha; pois não pôde desalojar os habitantes do vale, porque tinham carros de ferro."
   },
   {
     "verse": 20,
     "original": "וַיִּתְּנ֤וּ לְכָלֵב֙ אֶת־חֶבְר֔וֹן כַּאֲשֶׁ֖ר דִּבֶּ֣ר מֹשֶׁ֑ה וַיּ֣וֹרֶשׁ מִשָּׁ֔ם אֶת־שְׁלֹשָׁ֖ה בְּנֵ֥י הָעֲנָֽק׃",
+    "transliteration": "vayitenv lekhalev 'et-hevervon kha'asher diver mosheh vayvoresh misham 'et-sheloshah veney ha'anak.",
     "translation": "E deram a Calebe Hebrom, conforme Moisés havia falado. Ele despossuiu dali os três filhos de Anaque."
   },
   {
     "verse": 21,
     "original": "וְאֶת־הַיְבוּסִי֙ יֹשֵׁ֣ב יְרוּשָׁלַ֔͏ִם לֹ֥א הוֹרִ֖ישׁוּ בְּנֵ֣י בִנְיָמִ֑ן וַיֵּ֨שֶׁב הַיְבוּסִ֜י אֶת־בְּנֵ֤י בִנְיָמִן֙ בִּיר֣וּשָׁלַ֔͏ִם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'et-hayevvsiy yoshev yervshalaim lo' hvoriyshv veney vineyamin vayeshev hayevvsiy 'et-veney vineyamin viyrvshalaim 'ad hayvom hazeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E aos jebuseus, habitantes de Jerusalém, os filhos de Benjamim não os extirparam; e os jebuseus habitaram com os filhos de Benjamim em Jerusalém até o dia de hoje."
   },
   {
     "verse": 22,
     "original": "וַיַּעֲל֧וּ בֵית־יוֹסֵ֛ף גַּם־הֵ֖ם בֵּֽית־אֵ֑ל וַיהֹוָ֖ה עִמָּֽם׃",
+    "transliteration": "vaya'alv veyt-yvosef gam-hem veyt-'el vayhovah 'imam.",
     "translation": "E subiu a casa de José, também eles, para Beit-El, e o Senhor estava com eles."
   },
   {
     "verse": 23,
     "original": "וַיָּתִ֥ירוּ בֵית־יוֹסֵ֖ף בְּבֵֽית־אֵ֑ל וְשֵׁם־הָעִ֥יר לְפָנִ֖ים לֽוּז׃",
+    "transliteration": "vayatiyrv veyt-yvosef veveyt-'el veshem-ha'iyr lefaniym lvz.",
     "translation": "E José ficou em Beit-El, e o nome da cidade antes era Luz."
   },
   {
     "verse": 24,
     "original": "וַיִּרְאוּ֙ הַשֹּׁ֣מְרִ֔ים אִ֖ישׁ יוֹצֵ֣א מִן־הָעִ֑יר וַיֹּ֣אמְרוּ ל֗וֹ הַרְאֵ֤נוּ נָא֙ אֶת־מְב֣וֹא הָעִ֔יר וְעָשִׂ֥ינוּ עִמְּךָ֖ חָֽסֶד׃",
+    "transliteration": "vayire'v hashomeriym 'iysh yvotse' min-ha'iyr vayo'merv lvo hare'env na' 'et-mevvo' ha'iyr ve'asiynv 'imekha hased.",
     "translation": "E os guardas viram um homem saindo da cidade e lhe disseram: \"Mostra-nos, por favor, a entrada da cidade, e faremos contigo misericórdia.\""
   },
   {
     "verse": 25,
     "original": "וַיַּרְאֵם֙ אֶת־מְב֣וֹא הָעִ֔יר וַיַּכּ֥וּ אֶת־הָעִ֖יר לְפִי־חָ֑רֶב וְאֶת־הָאִ֥ישׁ וְאֶת־כׇּל־מִשְׁפַּחְתּ֖וֹ שִׁלֵּֽחוּ׃",
+    "transliteration": "vayare'em 'et-mevvo' ha'iyr vayakhv 'et-ha'iyr lefiy-harev ve'et-ha'iysh ve'et-khol-mishefahetvo shilehv.",
     "translation": "E ele lhes mostrou a entrada da cidade; e feriram a cidade à espada; ao homem e a toda a sua família, porém, fizeram sair."
   },
   {
     "verse": 26,
     "original": "וַיֵּ֣לֶךְ הָאִ֔ישׁ אֶ֖רֶץ הַחִתִּ֑ים וַיִּ֣בֶן עִ֗יר וַיִּקְרָ֤א שְׁמָהּ֙ ל֔וּז ה֣וּא שְׁמָ֔הּ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayelekhe ha'iysh 'erets hahitiym vayiven 'iyr vayikera' shemah lvz hv' shemah 'ad hayvom hazeh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o homem foi à terra dos heteus e edificou uma cidade, chamando-lhe Luz; esse é o seu nome até o dia de hoje."
   },
   {
     "verse": 27,
     "original": "וְלֹֽא־הוֹרִ֣ישׁ מְנַשֶּׁ֗ה אֶת־בֵּית־שְׁאָ֣ן וְאֶת־בְּנוֹתֶ֘יהָ֮ וְאֶת־תַּעְנַ֣ךְ וְאֶת־בְּנֹתֶ֒יהָ֒ וְאֶת־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[יוֹשְׁבֵ֨י]</span> <span class=\"mam-kq-k\">(יושב)</span></span> ד֜וֹר וְאֶת־בְּנוֹתֶ֗יהָ וְאֶת־יוֹשְׁבֵ֤י יִבְלְעָם֙ וְאֶת־בְּנֹתֶ֔יהָ וְאֶת־יוֹשְׁבֵ֥י מְגִדּ֖וֹ וְאֶת־בְּנוֹתֶ֑יהָ וַיּ֙וֹאֶל֙ הַֽכְּנַעֲנִ֔י לָשֶׁ֖בֶת בָּאָ֥רֶץ הַזֹּֽאת׃",
+    "transliteration": "velo'-hvoriysh menasheh 'et-veyt-she'an ve'et-venvoteyha ve'et-ta'enakhe ve'et-venoteyha ve'et-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[yvoshevey]</span> <span class=\"mam-kq-k\">(yvsv)</span></span> dvor ve'et-venvoteyha ve'et-yvoshevey yivele'am ve'et-venoteyha ve'et-yvoshevey megidvo ve'et-venvoteyha vayvo'el hakhena'aniy lashevet va'arets hazo't.",
     "translation": "E Manassés não expulsou os habitantes de Beit-Sãan e suas filhas, nem os de Taanac e suas filhas, nem os que habitavam em Dor e suas filhas, nem os que habitavam em Ibneam e suas filhas, nem os que habitavam em Megido e suas filhas; o cananeu persistiu habitando na terra."
   },
   {
     "verse": 28,
     "original": "וַֽיְהִי֙ כִּֽי־חָזַ֣ק יִשְׂרָאֵ֔ל וַיָּ֥שֶׂם אֶת־הַֽכְּנַעֲנִ֖י לָמַ֑ס וְהוֹרֵ֖ישׁ לֹ֥א הוֹרִישֽׁוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayehiy khiy-hazak yisera'el vayasem 'et-hakhena'aniy lamas vehvoreysh lo' hvoriyshvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E aconteceu que Israel se fortaleceu e submeteu os cananeus à contribuição, mas não os expulsou completamente."
   },
   {
     "verse": 29,
     "original": "וְאֶפְרַ֙יִם֙ לֹ֣א הוֹרִ֔ישׁ אֶת־הַֽכְּנַעֲנִ֖י הַיּוֹשֵׁ֣ב בְּגָ֑זֶר וַיֵּ֧שֶׁב הַֽכְּנַעֲנִ֛י בְּקִרְבּ֖וֹ בְּגָֽזֶר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "ve'eferayim lo' hvoriysh 'et-hakhena'aniy hayvoshev vegazer vayeshev hakhena'aniy vekirevvo vegazer.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Efraim não expulsou os cananeus que habitavam em Besezor, e os cananeus moraram no meio dele em Besezor."
   },
   {
     "verse": 30,
     "original": "זְבוּלֻ֗ן לֹ֤א הוֹרִישׁ֙ אֶת־יוֹשְׁבֵ֣י קִטְר֔וֹן וְאֶת־יוֹשְׁבֵ֖י נַהֲלֹ֑ל וַיֵּ֤שֶׁב הַֽכְּנַעֲנִי֙ בְּקִרְבּ֔וֹ וַיִּֽהְי֖וּ לָמַֽס׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "zevvlun lo' hvoriysh 'et-yvoshevey kitervon ve'et-yvoshevey nahalol vayeshev hakhena'aniy vekirevvo vayiheyv lamas.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Zebulom não despossuiu os habitantes de Kitron, nem os que viviam em Nahalol. O cananeu permaneceu em seu meio, e se tornou seu trabalhador tributário."
   },
   {
     "verse": 31,
     "original": "אָשֵׁ֗ר לֹ֤א הוֹרִישׁ֙ אֶת־יֹשְׁבֵ֣י עַכּ֔וֹ וְאֶת־יוֹשְׁבֵ֖י צִיד֑וֹן וְאֶת־אַחְלָ֤ב וְאֶת־אַכְזִיב֙ וְאֶת־חֶלְבָּ֔ה וְאֶת־אֲפִ֖יק וְאֶת־רְחֹֽב׃",
+    "transliteration": "'asher lo' hvoriysh 'et-yoshevey 'akhvo ve'et-yvoshevey tsiydvon ve'et-'ahelav ve'et-'akheziyv ve'et-helevah ve'et-'afiyk ve'et-rehov.",
     "translation": "que não despossuiu os habitantes de Acó, nem os moradores de Sidônia, nem Ahlav e Achzib e Helba, nem Afec e Roabo."
   },
   {
     "verse": 32,
     "original": "וַיֵּ֙שֶׁב֙ הָאָ֣שֵׁרִ֔י בְּקֶ֥רֶב הַֽכְּנַעֲנִ֖י יֹשְׁבֵ֣י הָאָ֑רֶץ כִּ֖י לֹ֥א הֽוֹרִישֽׁוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayeshev ha'asheriy vekerev hakhena'aniy yoshevey ha'arets khiy lo' hvoriyshvo.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o que se assentou no meio dos cananeus, habitantes da terra, foi o feliz, porque não os havia despossuído."
   },
   {
     "verse": 33,
     "original": "נַפְתָּלִ֗י לֹֽא־הוֹרִ֞ישׁ אֶת־יֹשְׁבֵ֤י בֵֽית־שֶׁ֙מֶשׁ֙ וְאֶת־יֹשְׁבֵ֣י בֵית־עֲנָ֔ת וַיֵּ֕שֶׁב בְּקֶ֥רֶב הַֽכְּנַעֲנִ֖י יֹשְׁבֵ֣י הָאָ֑רֶץ וְיֹשְׁבֵ֤י בֵֽית־שֶׁ֙מֶשׁ֙ וּבֵ֣ית עֲנָ֔ת הָי֥וּ לָהֶ֖ם לָמַֽס׃",
+    "transliteration": "nafetaliy lo'-hvoriysh 'et-yoshevey veyt-shemesh ve'et-yoshevey veyt-'anat vayeshev vekerev hakhena'aniy yoshevey ha'arets veyoshevey veyt-shemesh vveyt 'anat hayv lahem lamas.",
     "translation": "Naftali não expulsou os habitantes de Bet-Semes e os habitantes de Beit-Anat, e habitou no meio dos cananeus que moravam na terra; os habitantes de Bet-Semes e Beit-Anat foram para eles um laço."
   },
   {
     "verse": 34,
     "original": "וַיִּלְחֲצ֧וּ הָאֱמֹרִ֛י אֶת־בְּנֵי־דָ֖ן הָהָ֑רָה כִּי־לֹ֥א נְתָנ֖וֹ לָרֶ֥דֶת לָעֵֽמֶק׃",
+    "transliteration": "vayilehatsv ha'emoriy 'et-veney-dan haharah khiy-lo' netanvo laredet la'emek.",
     "translation": "E os amoritas apertaram os filhos de Dan na montanha, pois não permitiram que descessem ao vale."
   },
   {
     "verse": 35,
     "original": "וַיּ֤וֹאֶל הָאֱמֹרִי֙ לָשֶׁ֣בֶת בְּהַר־חֶ֔רֶס בְּאַיָּל֖וֹן וּבְשַׁעַלְבִ֑ים וַתִּכְבַּד֙ יַ֣ד בֵּית־יוֹסֵ֔ף וַיִּהְי֖וּ לָמַֽס׃",
+    "transliteration": "vayvo'el ha'emoriy lashevet vehar-heres ve'ayalvon vvesha'aleviym vatikhevad yad veyt-yvosef vayiheyv lamas.",
     "translation": "E o amorreo se dispôs a habitar no monte Cherés, em Ayalon e em Shaalbim; mas a mão da casa de José pesou sobre ele, e ele se tornou tributário."
   },
   {
     "verse": 36,
     "original": "וּגְבוּל֙ הָאֱמֹרִ֔י מִֽמַּעֲלֵ֖ה עַקְרַבִּ֑ים מֵהַסֶּ֖לַע וָמָֽעְלָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vgevvl ha'emoriy mima'aleh 'akeraviym mehasela' vama'elah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o limite dos amorreus é desde Maale Akrabim, da Sela para cima."
   }
 ]

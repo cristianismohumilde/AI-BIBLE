@@ -2,161 +2,193 @@
   {
     "verse": 1,
     "original": "וַיַּ֖עַן יְהֹוָ֥ה אֶת־אִיּ֗וֹב וַיֹּאמַֽר׃",
+    "transliteration": "vaya'an yehovah 'et-'iyvov vayo'mar.",
     "translation": "E respondeu o Senhor a Ióv, dizendo:"
   },
   {
     "verse": 2,
     "original": "הֲ֭רֹב עִם־שַׁדַּ֣י יִסּ֑וֹר מוֹכִ֖יחַ אֱל֣וֹהַּ יַעֲנֶֽנָּה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "harov 'im-shaday yisvor mvokhiyha 'elvoha ya'anenah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Muitos se rebelarão contra o Todo-Poderoso; Deus repreenderá e responderá."
   },
   {
     "verse": 3,
     "original": "וַיַּ֖עַן אִיּ֥וֹב אֶת־יְהֹוָ֗ה וַיֹּאמַֽר׃",
+    "transliteration": "vaya'an 'iyvov 'et-yehovah vayo'mar.",
     "translation": "E respondeu Jó ao Senhor e disse:"
   },
   {
     "verse": 4,
     "original": "הֵ֣ן קַ֭לֹּתִי מָ֣ה אֲשִׁיבֶ֑ךָּ יָ֝דִ֗י שַׂ֣מְתִּי לְמוֹ־פִֽי׃",
+    "transliteration": "hen kalotiy mah 'ashiyvekha yadiy sametiy lemvo-fiy.",
     "translation": "Eis que as minhas palavras são poucas; como poderei retribuir-te? A minha mão está sobre a boca."
   },
   {
     "verse": 5,
     "original": "אַחַ֣ת דִּ֭בַּרְתִּי וְלֹ֣א אֶעֱנֶ֑ה וּ֝שְׁתַּ֗יִם וְלֹ֣א אוֹסִֽיף׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'ahat divaretiy velo' 'e'eneh vshetayim velo' 'vosiyf.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Uma coisa tenho falado e não hei de ser ouvido; duas vezes, mas nada mais acrescentarei."
   },
   {
     "verse": 6,
     "original": "וַיַּעַן־יְהֹוָ֣ה אֶת־אִ֭יּוֹב <span class=\"mam-kq\"><span class=\"mam-kq-k\">(מנסערה)</span> <span class=\"mam-kq-q\">[מִ֥ן&thinsp;<small>׀</small>&thinsp;סְעָרָ֗ה]</span></span> וַיֹּאמַֽר׃",
+    "transliteration": "vaya'an-yehovah 'et-'iyvov <span class=\"mam-kq\"><span class=\"mam-kq-k\">(mns'rh)</span> <span class=\"mam-kq-q\">[min&thinsp;<small>|</small>&thinsp;se'arah]</span></span> vayo'mar.",
     "translation": "E respondeu o Senhor a Jó do meio da tempestade, e disse:"
   },
   {
     "verse": 7,
     "original": "אֱזׇר־נָ֣א כְגֶ֣בֶר חֲלָצֶ֑יךָ אֶ֝שְׁאָלְךָ֗ וְהוֹדִיעֵֽנִי׃",
+    "transliteration": "'ezor-na' khegever halatseykha 'eshe'alekha vehvodiy'eniy.",
     "translation": "Amarra agora como um homem tuas armaduras, questionarei-te e manifesta-me."
   },
   {
     "verse": 8,
     "original": "הַ֭אַף תָּפֵ֣ר מִשְׁפָּטִ֑י תַּ֝רְשִׁיעֵ֗נִי לְמַ֣עַן תִּצְדָּֽק׃",
+    "transliteration": "ha'af tafer mishefatiy tareshiy'eniy lema'an titsedak.",
     "translation": "Ou te corrigirão os meus juízos? Condenar-me-ás para que sejas justo?"
   },
   {
     "verse": 9,
     "original": "וְאִם־זְר֖וֹעַ כָּאֵ֥ל&thinsp;<small>׀</small>&thinsp;לָ֑ךְ וּ֝בְק֗וֹל כָּמֹ֥הוּ תַרְעֵֽם׃",
+    "transliteration": "ve'im-zervo'a kha'el&thinsp;<small>|</small>&thinsp;lakhe vvekvol khamohv tare'em.",
     "translation": "E se tua força for como a de Deus, e com voz semelhante à sua, farás retinir?"
   },
   {
     "verse": 10,
     "original": "עֲדֵ֥ה נָ֣א גָא֣וֹן וָגֹ֑בַהּ וְה֖וֹד וְהָדָ֣ר תִּלְבָּֽשׁ׃",
+    "transliteration": "'adeh na' ga'von vagovah vehvod vehadar tilevash.",
     "translation": "Enfeita-te de majestade e esplendor, e veste-te de glória e beleza."
   },
   {
     "verse": 11,
     "original": "הָ֭פֵץ עֶבְר֣וֹת אַפֶּ֑ךָ וּרְאֵ֥ה כׇל־גֵּ֝אֶ֗ה וְהַשְׁפִּילֵֽהוּ׃",
+    "transliteration": "hafets 'evervot 'afekha vre'eh khol-ge'eh vehashefiylehv.",
     "translation": "Derrama o furor da tua ira e vê; todo orgulhoso, humilha-o."
   },
   {
     "verse": 12,
     "original": "רְאֵ֣ה כׇל־גֵּ֭אֶה הַכְנִיעֵ֑הוּ וַהֲדֹ֖ךְ רְשָׁעִ֣ים תַּחְתָּֽם׃",
+    "transliteration": "re'eh khol-ge'eh hakheniy'ehv vahadokhe resha'iym tahetam.",
     "translation": "Vê, todo soberbo, humilha-o; e pisa os ímpios em seu lugar."
   },
   {
     "verse": 13,
     "original": "טׇמְנֵ֣ם בֶּעָפָ֣ר יָ֑חַד פְּ֝נֵיהֶ֗ם חֲבֹ֣שׁ בַּטָּמֽוּן׃",
+    "transliteration": "tomenem ve'afar yahad feneyhem havosh vatamvn.",
     "translation": "Enterrem-nos juntamente com o pó, suas faces são cobertas de escuridão."
   },
   {
     "verse": 14,
     "original": "וְגַם־אֲנִ֥י אוֹדֶ֑ךָּ כִּֽי־תוֹשִׁ֖עַ לְךָ֣ יְמִינֶֽךָ׃",
+    "transliteration": "vegam-'aniy 'vodekha khiy-tvoshi'a lekha yemiynekha.",
     "translation": "E também eu te louvarei, pois com tua direita me livraste."
   },
   {
     "verse": 15,
     "original": "הִנֵּה־נָ֣א בְ֭הֵמוֹת אֲשֶׁר־עָשִׂ֣יתִי עִמָּ֑ךְ חָ֝צִ֗יר כַּבָּקָ֥ר יֹאכֵֽל׃",
+    "transliteration": "hineh-na' vehemvot 'asher-'asiytiy 'imakhe hatsiyr khavakar yo'khel.",
     "translation": ""
   },
   {
     "verse": 16,
     "original": "הִנֵּה־נָ֣א כֹח֣וֹ בְמׇתְנָ֑יו וְ֝אוֹנ֗וֹ בִּשְׁרִירֵ֥י בִטְנֽוֹ׃",
+    "transliteration": "hineh-na' khohvo vemotenayv ve'vonvo visheriyrey vitenvo.",
     "translation": "Eis que seu poder está em suas nádegas, e sua força nos músculos de seu ventre."
   },
   {
     "verse": 17,
     "original": "יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ־אָ֑רֶז גִּידֵ֖י <span class=\"mam-kq-trivial\">פַחֲדָ֣ו</span> יְשֹׂרָֽגוּ׃",
+    "transliteration": "yahefots zenavvo khemvo-'arez giydey <span class=\"mam-kq-trivial\">fahadav</span> yesoragv.",
     "translation": "Deleita-se a cauda como o cedro, os tendões do seu pavor se endurecem."
   },
   {
     "verse": 18,
     "original": "עֲ֭צָמָיו אֲפִיקֵ֣י נְחֻשָׁ֑ה גְּ֝רָמָ֗יו כִּמְטִ֥יל בַּרְזֶֽל׃",
+    "transliteration": "'atsamayv 'afiykey nehushah geramayv khimetiyl varezel.",
     "translation": "Suas entranhas são como tubulações de cobre, seus fundamentos como laminados de ferro."
   },
   {
     "verse": 19,
     "original": "ה֭וּא רֵאשִׁ֣ית דַּרְכֵי־אֵ֑ל הָ֝עֹשׂ֗וֹ יַגֵּ֥שׁ חַרְבּֽוֹ׃",
+    "transliteration": "hv' re'shiyt darekhey-'el ha'osvo yagesh harevvo.",
     "translation": "Ele é o princípio dos caminhos de Deus; quem o faz chegará à sua espada."
   },
   {
     "verse": 20,
     "original": "כִּי־ב֭וּל הָרִ֣ים יִשְׂאוּ־ל֑וֹ וְֽכׇל־חַיַּ֥ת הַ֝שָּׂדֶ֗ה יְשַׂחֲקוּ־שָֽׁם׃",
+    "transliteration": "khiy-vvl hariym yise'v-lvo vekhol-hayat hasadeh yesahakv-sham.",
     "translation": "Pois nas montanhas Ele será louvado, e toda fera do campo se regozijará ali."
   },
   {
     "verse": 21,
     "original": "תַּֽחַת־צֶאֱלִ֥ים יִשְׁכָּ֑ב בְּסֵ֖תֶר קָנֶ֣ה וּבִצָּֽה׃",
+    "transliteration": "tahat-tse'eliym yishekhav veseter kaneh vvitsah.",
     "translation": "Dormirá entre os canteiros, no esconderijo do caniço e da urtiga."
   },
   {
     "verse": 22,
     "original": "יְסֻכֻּ֣הוּ צֶאֱלִ֣ים צִֽלְל֑וֹ יְ֝סֻבּ֗וּהוּ עַרְבֵי־נָֽחַל׃",
+    "transliteration": "yesukhuhv tse'eliym tsilelvo yesuvvhv 'arevey-nahal.",
     "translation": "Sombre-o carvalhos, suas sombras o cercam; cirundem-no salgueiros do ribeiro."
   },
   {
     "verse": 23,
     "original": "הֵ֤ן יַעֲשֹׁ֣ק נָ֭הָר לֹ֣א יַחְפּ֑וֹז יִבְטַ֓ח&thinsp;<b>׀</b> כִּֽי־יָגִ֖יחַ יַרְדֵּ֣ן אֶל־פִּֽיהוּ׃",
+    "transliteration": "hen ya'ashok nahar lo' yahefvoz yivetah&thinsp;<b>|</b> khiy-yagiyha yareden 'el-fiyhv.",
     "translation": "Eis, o rio se assenhora e não se apressa; ele confia porque o Jordão corre até sua boca."
   },
   {
     "verse": 24,
     "original": "בְּעֵינָ֥יו יִקָּחֶ֑נּוּ בְּ֝מוֹקְשִׁ֗ים יִנְקׇב־אָֽף׃",
+    "transliteration": "ve'eynayv yikahenv vemvokeshiym yinekov-'af.",
     "translation": "Com seus olhos o apossa, com laços perfura a face dele."
   },
   {
     "verse": 25,
     "original": "תִּמְשֹׁ֣ךְ לִוְיָתָ֣ן בְּחַכָּ֑ה וּ֝בְחֶ֗בֶל תַּשְׁקִ֥יעַ לְשֹׁנֽוֹ׃",
+    "transliteration": "timeshokhe liveyatan vehakhah vvehevel tashekiy'a leshonvo.",
     "translation": "Manterás Leviatã com uma linha de pesca, e com corda farás descer a sua língua?"
   },
   {
     "verse": 26,
     "original": "הֲתָשִׂ֣ים אַגְמֹ֣ן בְּאַפּ֑וֹ וּ֝בְח֗וֹחַ תִּקֹּ֥ב לֶחֱיֽוֹ׃",
+    "transliteration": "hatasiym 'agemon ve'afvo vvehvoha tikov leheyvo.",
     "translation": "Poderias tu atar o redemoinho em seu furor, e amarrá-lo com cordas à asa de sua nuvem?"
   },
   {
     "verse": 27,
     "original": "הֲיַרְבֶּ֣ה אֵ֭לֶיךָ תַּחֲנוּנִ֑ים אִם־יְדַבֵּ֖ר אֵלֶ֣יךָ רַכּֽוֹת׃",
+    "transliteration": "hayareveh 'eleykha tahanvniym 'im-yedaver 'eleykha rakhvot.",
     "translation": "Multiplicar-se-ão as tuas súplicas diante de mim? Ou me falarás com suavidade?"
   },
   {
     "verse": 28,
     "original": "הֲיִכְרֹ֣ת בְּרִ֣ית עִמָּ֑ךְ תִּ֝קָּחֶ֗נּוּ לְעֶ֣בֶד עוֹלָֽם׃",
+    "transliteration": "hayikherot veriyt 'imakhe tikahenv le'eved 'volam.",
     "translation": "E selarás a aliança com ela, para ser servo eterno."
   },
   {
     "verse": 29,
     "original": "הַֽתְשַׂחֶק־בּ֭וֹ כַּצִּפּ֑וֹר וְ֝תִקְשְׁרֶ֗נּוּ לְנַעֲרוֹתֶֽיךָ׃",
+    "transliteration": "hatesahek-vvo khatsifvor vetikesherenv lena'arvoteykha.",
     "translation": "Brinca com ele como a pomba e liga-o às tuas moças."
   },
   {
     "verse": 30,
     "original": "יִכְר֣וּ עָ֭לָיו חַבָּרִ֑ים יֶ֝חֱצ֗וּהוּ בֵּ֣ין כְּֽנַעֲנִֽים׃",
+    "transliteration": "yikherv 'alayv havariym yehetsvhv veyn khena'aniym.",
     "translation": "Eis sobre ele cercado por inimigos, dividido entre os cananeus."
   },
   {
     "verse": 31,
     "original": "הַֽתְמַלֵּ֣א בְשֻׂכּ֣וֹת עוֹר֑וֹ וּבְצִלְצַ֖ל דָּגִ֣ים רֹאשֽׁוֹ׃",
+    "transliteration": "hatemale' vesukhvot 'vorvo vvetsiletsal dagiym ro'shvo.",
     "translation": "Encheu sua pele de escamas, e sua cabeça com círculos de peixes."
   },
   {
     "verse": 32,
     "original": "שִׂים־עָלָ֥יו כַּפֶּ֑ךָ זְכֹ֥ר מִ֝לְחָמָ֗ה אַל־תּוֹסַֽף׃",
+    "transliteration": "siym-'alayv khafekha zekhor milehamah 'al-tvosaf.",
     "translation": "põe sobre ele a tua mão lembra-te da guerra não acrescentes mais"
   }
 ]

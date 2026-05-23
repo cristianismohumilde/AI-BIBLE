@@ -2,126 +2,151 @@
   {
     "verse": 1,
     "original": "וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־כׇּל־יִשְׂרָאֵ֔ל הִנֵּה֙ שָׁמַ֣עְתִּי בְקֹֽלְכֶ֔ם לְכֹ֥ל אֲשֶׁר־אֲמַרְתֶּ֖ם לִ֑י וָאַמְלִ֥יךְ עֲלֵיכֶ֖ם מֶֽלֶךְ׃",
+    "transliteration": "vayo'mer shemv'el 'el-khol-yisera'el hineh shama'etiy vekolekhem lekhol 'asher-'amaretem liy va'ameliykhe 'aleykhem melekhe.",
     "translation": "E disse Samuel a todo Israel: Eis que ouvi à vossa voz em tudo quanto me disestes e pus sobre vós um rei."
   },
   {
     "verse": 2,
     "original": "וְעַתָּ֞ה הִנֵּ֥ה הַמֶּ֣לֶךְ&thinsp;<b>׀</b> מִתְהַלֵּ֣ךְ לִפְנֵיכֶ֗ם וַֽאֲנִי֙ זָקַ֣נְתִּי וָשַׂ֔בְתִּי וּבָנַ֖י הִנָּ֣ם אִתְּכֶ֑ם וַֽאֲנִי֙ הִתְהַלַּ֣כְתִּי לִפְנֵיכֶ֔ם מִנְּעֻרַ֖י עַד־הַיּ֥וֹם הַזֶּֽה׃",
+    "transliteration": "ve'atah hineh hamelekhe&thinsp;<b>|</b> mitehalekhe lifeneykhem va'aniy zakanetiy vasavetiy vvanay hinam 'itekhem va'aniy hitehalakhetiy lifeneykhem mine'uray 'ad-hayvom hazeh.",
     "translation": "E agora, eis que o rei caminha diante de vós, e eu me envelheci e fiquei cansado, e meus filhos estão convosco; e eu andei diante de vós desde a minha mocidade até ao dia de hoje."
   },
   {
     "verse": 3,
     "original": "הִנְנִ֣י עֲנ֣וּ בִי֩ נֶ֨גֶד יְהֹוָ֜ה וְנֶ֣גֶד מְשִׁיח֗וֹ אֶת־שׁוֹר֩&thinsp;<small>׀</small>&thinsp;מִ֨י לָקַ֜חְתִּי וַחֲמ֧וֹר מִ֣י לָקַ֗חְתִּי וְאֶת־מִ֤י עָשַׁ֙קְתִּי֙ אֶת־מִ֣י רַצּ֔וֹתִי וּמִיַּד־מִי֙ לָקַ֣חְתִּי כֹ֔פֶר וְאַעְלִ֥ים עֵינַ֖י בּ֑וֹ וְאָשִׁ֖יב לָכֶֽם׃",
+    "transliteration": "hineniy 'anv viy neged yehovah veneged meshiyhvo 'et-shvor&thinsp;<small>|</small>&thinsp;miy lakahetiy vahamvor miy lakahetiy ve'et-miy 'ashaketiy 'et-miy ratsvotiy vmiyad-miy lakahetiy khofer ve'a'eliym 'eynay vvo ve'ashiyv lakhem.",
     "translation": "Eis-me, testemunhai diante do Senhor e diante de seu Ungido: o boi, de quem o tomei? O jumento, de quem o roubei? Ou a quem opressei? De quem tirei resgate para encobrir meus olhos com ele? Eis que vos restituirei."
   },
   {
     "verse": 4,
     "original": "וַיֹּ֣אמְר֔וּ לֹ֥א עֲשַׁקְתָּ֖נוּ וְלֹ֣א רַצּוֹתָ֑נוּ וְלֹא־לָקַ֥חְתָּ מִיַּד־אִ֖ישׁ מְאֽוּמָה׃",
+    "transliteration": "vayo'merv lo' 'ashaketanv velo' ratsvotanv velo'-lakaheta miyad-'iysh me'vmah.",
     "translation": "E disseram: Não nos espremeu, nem nos pôs à prova, e de mão de homem algum tomou coisa alguma."
   },
   {
     "verse": 5,
     "original": "וַיֹּ֨אמֶר אֲלֵיהֶ֜ם עֵ֧ד יְהֹוָ֣ה בָּכֶ֗ם וְעֵ֤ד מְשִׁיחוֹ֙ הַיּ֣וֹם הַזֶּ֔ה כִּ֣י לֹ֧א מְצָאתֶ֛ם בְּיָדִ֖י מְא֑וּמָה וַיֹּ֖אמֶר עֵֽד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayo'mer 'aleyhem 'ed yehovah vakhem ve'ed meshiyhvo hayvom hazeh khiy lo' metsa'tem veyadiy me'vmah vayo'mer 'ed.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E disse-lhes: Testemunho do Senhor está entre vós e testemunho de seu Ungido é hoje; pois nada encontrastes em minha mão. E disse: Eis a testemunha."
   },
   {
     "verse": 6,
     "original": "וַיֹּ֥אמֶר שְׁמוּאֵ֖ל אֶל־הָעָ֑ם יְהֹוָ֗ה אֲשֶׁ֤ר עָשָׂה֙ אֶת־מֹשֶׁ֣ה וְאֶֽת־אַהֲרֹ֔ן וַאֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־אֲבֹתֵיכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "transliteration": "vayo'mer shemv'el 'el-ha'am yehovah 'asher 'asah 'et-mosheh ve'et-'aharon va'asher he'elah 'et-'avoteykhem me'erets mitserayim.",
     "translation": "E Samuel disse ao povo: Jeová é aquele que fez a Moisés e a Arão, e que elevou vossos pais da terra do Egito."
   },
   {
     "verse": 7,
     "original": "וְעַתָּ֗ה הִֽתְיַצְּב֛וּ וְאִשָּׁפְטָ֥ה אִתְּכֶ֖ם לִפְנֵ֣י יְהֹוָ֑ה אֵ֚ת כׇּל־צִדְק֣וֹת יְהֹוָ֔ה אֲשֶׁר־עָשָׂ֥ה אִתְּכֶ֖ם וְאֶת־אֲבוֹתֵיכֶֽם׃",
+    "transliteration": "ve'atah hiteyatsevv ve'ishafetah 'itekhem lifeney yehovah 'et khol-tsidekvot yehovah 'asher-'asah 'itekhem ve'et-'avvoteykhem.",
     "translation": "E agora, estai firmes, e julgarei convosco perante o Senhor, todas as justiças do Senhor que fez convosco e com vossos pais."
   },
   {
     "verse": 8,
     "original": "כַּאֲשֶׁר־בָּ֥א יַעֲקֹ֖ב מִצְרָ֑יִם וַיִּזְעֲק֤וּ אֲבֽוֹתֵיכֶם֙ אֶל־יְהֹוָ֔ה וַיִּשְׁלַ֨ח יְהֹוָ֜ה אֶת־מֹשֶׁ֣ה וְאֶֽת־אַהֲרֹ֗ן וַיּוֹצִ֤יאוּ אֶת־אֲבֹֽתֵיכֶם֙ מִמִּצְרַ֔יִם וַיֹּשִׁב֖וּם בַּמָּק֥וֹם הַזֶּֽה׃",
+    "transliteration": "kha'asher-va' ya'akov mitserayim vayize'akv 'avvoteykhem 'el-yehovah vayishelah yehovah 'et-mosheh ve'et-'aharon vayvotsiy'v 'et-'avoteykhem mimitserayim vayoshivvm vamakvom hazeh.",
     "translation": "Como Jacó veio ao Egito e vossos pais clamaram ao Senhor, e o Senhor enviou a Moisés e a Arão, que tiraram vossos pais do Egito e os fizeram habitar neste lugar."
   },
   {
     "verse": 9,
     "original": "וַֽיִּשְׁכְּח֖וּ אֶת־יְהֹוָ֣ה אֱלֹהֵיהֶ֑ם וַיִּמְכֹּ֣ר אֹתָ֡ם בְּיַ֣ד סִֽיסְרָא֩ שַׂר־צְבָ֨א חָצ֜וֹר וּבְיַד־פְּלִשְׁתִּ֗ים וּבְיַד֙ מֶ֣לֶךְ מוֹאָ֔ב וַיִּֽלָּחֲמ֖וּ בָּֽם׃",
+    "transliteration": "vayishekhehv 'et-yehovah 'eloheyhem vayimekhor 'otam veyad siysera' sar-tseva' hatsvor vveyad-felishetiym vveyad melekhe mvo'av vayilahamv vam.",
     "translation": "Eles esqueceram do Senhor, seu Deus, que os vendeu na mão de Sisera, capitão do exército de Hazor, e na mão dos filisteus, e na mão do rei de Moabe, e lutaram contra eles."
   },
   {
     "verse": 10,
     "original": "וַיִּזְעֲק֤וּ אֶל־יְהֹוָה֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויאמר)</span> <span class=\"mam-kq-q\">[וַיֹּֽאמְר֣וּ]</span></span> חָטָ֔אנוּ כִּ֤י עָזַ֙בְנוּ֙ אֶת־יְהֹוָ֔ה וַנַּעֲבֹ֥ד אֶת־הַבְּעָלִ֖ים וְאֶת־הָעַשְׁתָּר֑וֹת וְעַתָּ֗ה הַצִּילֵ֛נוּ מִיַּ֥ד אֹיְבֵ֖ינוּ וְנַעַבְדֶֽךָּ׃",
+    "transliteration": "vayize'akv 'el-yehovah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vy'mr)</span> <span class=\"mam-kq-q\">[vayo'merv]</span></span> hata'nv khiy 'azavenv 'et-yehovah vana'avod 'et-have'aliym ve'et-ha'ashetarvot ve'atah hatsiylenv miyad 'oyeveynv vena'avedekha.",
     "translation": "E clamaram ao Senhor, dizendo: Pecamos, pois deixamos o Senhor e servimos a Baal e às Astarotes; agora livra-nos da mão de nossos inimigos, e te serviremos."
   },
   {
     "verse": 11,
     "original": "וַיִּשְׁלַ֤ח יְהֹוָה֙ אֶת־יְרֻבַּ֣עַל וְאֶת־בְּדָ֔ן וְאֶת־יִפְתָּ֖ח וְאֶת־שְׁמוּאֵ֑ל וַיַּצֵּ֨ל אֶתְכֶ֜ם מִיַּ֤ד אֹֽיְבֵיכֶם֙ מִסָּבִ֔יב וַתֵּשְׁב֖וּ בֶּֽטַח׃",
+    "transliteration": "vayishelah yehovah 'et-yeruva'al ve'et-vedan ve'et-yifetah ve'et-shemv'el vayatsel 'etekhem miyad 'oyeveykhem misaviyv vateshevv vetah.",
     "translation": "E o Senhor enviou Jerubaal, Bedã, Jipe e Samuel; livrou-vos da mão dos vossos inimigos que estavam ao redor de vós, e habitastes em segurança."
   },
   {
     "verse": 12,
     "original": "וַתִּרְא֗וּ כִּֽי־נָחָ֞שׁ מֶ֣לֶךְ בְּנֵי־עַמּוֹן֮ בָּ֣א עֲלֵיכֶם֒ וַתֹּ֣אמְרוּ לִ֔י לֹ֕א כִּי־מֶ֖לֶךְ יִמְלֹ֣ךְ עָלֵ֑ינוּ וַיהֹוָ֥ה אֱלֹהֵיכֶ֖ם מַלְכְּכֶֽם׃",
+    "transliteration": "vatire'v khiy-nahash melekhe veney-'amvon va' 'aleykhem vato'merv liy lo' khiy-melekhe yimelokhe 'aleynv vayhovah 'eloheykhem malekhekhem.",
     "translation": "E vistes que o rei dos filhos de Amom era uma serpente para vós, e dissestes-me: Não, porque não queremos um rei sobre nós; porém o Senhor, vosso Deus, ele é o vosso Rei."
   },
   {
     "verse": 13,
     "original": "וְעַתָּ֗ה הִנֵּ֥ה הַמֶּ֛לֶךְ אֲשֶׁ֥ר בְּחַרְתֶּ֖ם אֲשֶׁ֣ר שְׁאֶלְתֶּ֑ם וְהִנֵּ֨ה נָתַ֧ן יְהֹוָ֛ה עֲלֵיכֶ֖ם מֶֽלֶךְ׃",
+    "transliteration": "ve'atah hineh hamelekhe 'asher veharetem 'asher she'eletem vehineh natan yehovah 'aleykhem melekhe.",
     "translation": ""
   },
   {
     "verse": 14,
     "original": "אִם־תִּֽירְא֣וּ אֶת־יְהֹוָ֗ה וַעֲבַדְתֶּ֤ם אֹתוֹ֙ וּשְׁמַעְתֶּ֣ם בְּקוֹל֔וֹ וְלֹ֥א תַמְר֖וּ אֶת־פִּ֣י יְהֹוָ֑ה וִהְיִתֶ֣ם גַּם־אַתֶּ֗ם וְגַם־הַמֶּ֙לֶךְ֙ אֲשֶׁ֣ר מָלַ֣ךְ עֲלֵיכֶ֔ם אַחַ֖ר יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+    "transliteration": "'im-tiyre'v 'et-yehovah va'avadetem 'otvo vshema'etem vekvolvo velo' tamerv 'et-fiy yehovah viheyitem gam-'atem vegam-hamelekhe 'asher malakhe 'aleykhem 'ahar yehovah 'eloheykhem.",
     "translation": "Se temerdes ao Senhor, e o servirdes, e vos inclinardes à sua voz, e não transgredisdes a face do Senhor, vós e também o rei que vos governa sereis guiados após o Senhor, vosso Deus."
   },
   {
     "verse": 15,
     "original": "וְאִם־לֹ֤א תִשְׁמְעוּ֙ בְּק֣וֹל יְהֹוָ֔ה וּמְרִיתֶ֖ם אֶת־פִּ֣י יְהֹוָ֑ה וְהָיְתָ֧ה יַד־יְהֹוָ֛ה בָּכֶ֖ם וּבַאֲבֹתֵיכֶֽם׃",
+    "transliteration": "ve'im-lo' tisheme'v vekvol yehovah vmeriytem 'et-fiy yehovah vehayetah yad-yehovah vakhem vva'avoteykhem.",
     "translation": "E se não ouvirdes a voz do Senhor, e vos rebelardes contra a boca do Senhor, então a mão do Senhor estará sobre vós e sobre vossos pais."
   },
   {
     "verse": 16,
     "original": "גַּם־עַתָּה֙ הִתְיַצְּב֣וּ וּרְא֔וּ אֶת־הַדָּבָ֥ר הַגָּד֖וֹל הַזֶּ֑ה אֲשֶׁ֣ר יְהֹוָ֔ה עֹשֶׂ֖ה לְעֵינֵיכֶֽם׃",
+    "transliteration": "gam-'atah hiteyatsevv vre'v 'et-hadavar hagadvol hazeh 'asher yehovah 'oseh le'eyneykhem.",
     "translation": "Agora, firmem-se e vejam este grande ato que o Senhor está realizando diante de vossos olhos."
   },
   {
     "verse": 17,
     "original": "הֲל֤וֹא קְצִיר־חִטִּים֙ הַיּ֔וֹם אֶקְרָא֙ אֶל־יְהֹוָ֔ה וְיִתֵּ֥ן קֹל֖וֹת וּמָטָ֑ר וּדְע֣וּ וּרְא֗וּ כִּֽי־רָעַתְכֶ֤ם רַבָּה֙ אֲשֶׁ֤ר עֲשִׂיתֶם֙ בְּעֵינֵ֣י יְהֹוָ֔ה לִשְׁא֥וֹל לָכֶ֖ם מֶֽלֶךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "halvo' ketsiyr-hitiym hayvom 'ekera' 'el-yehovah veyiten kolvot vmatar vde'v vre'v khiy-ra'atekhem ravah 'asher 'asiytem ve'eyney yehovah lishe'vol lakhem melekhe.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Não é hoje o tempo da ceifa? Chamarei, pois, ao Senhor, e ele enviará trovões e chuva; e conhecereis e vereis quanto mal fizestes aos olhos do Senhor pedindo-vos um rei."
   },
   {
     "verse": 18,
     "original": "וַיִּקְרָ֤א שְׁמוּאֵל֙ אֶל־יְהֹוָ֔ה וַיִּתֵּ֧ן יְהֹוָ֛ה קֹלֹ֥ת וּמָטָ֖ר בַּיּ֣וֹם הַה֑וּא וַיִּירָ֨א כׇל־הָעָ֥ם מְאֹ֛ד אֶת־יְהֹוָ֖ה וְאֶת־שְׁמוּאֵֽל׃",
+    "transliteration": "vayikera' shemv'el 'el-yehovah vayiten yehovah kolot vmatar vayvom hahv' vayiyra' khol-ha'am me'od 'et-yehovah ve'et-shemv'el.",
     "translation": "E Samuel clamou ao Senhor, e o Senhor fez soar trovões e cair chuva naquele dia; e todo o povo temeu grandemente ao Senhor e a Samuel."
   },
   {
     "verse": 19,
     "original": "וַיֹּאמְר֨וּ כׇל־הָעָ֜ם אֶל־שְׁמוּאֵ֗ל הִתְפַּלֵּ֧ל בְּעַד־עֲבָדֶ֛יךָ אֶל־יְהֹוָ֥ה אֱלֹהֶ֖יךָ וְאַל־נָמ֑וּת כִּֽי־יָסַ֤פְנוּ עַל־כׇּל־חַטֹּאתֵ֙ינוּ֙ רָעָ֔ה לִשְׁאֹ֥ל לָ֖נוּ מֶֽלֶךְ׃",
+    "transliteration": "vayo'merv khol-ha'am 'el-shemv'el hitefalel ve'ad-'avadeykha 'el-yehovah 'eloheykha ve'al-namvt khiy-yasafenv 'al-khol-hato'teynv ra'ah lishe'ol lanv melekhe.",
     "translation": "E todo o povo disse a Samuel: Ora por teus servos ao Senhor, teu Deus, e não morramos; porque nos pesou pedir para nós um rei em todos os nossos pecados."
   },
   {
     "verse": 20,
     "original": "וַיֹּ֨אמֶר שְׁמוּאֵ֤ל אֶל־הָעָם֙ אַל־תִּירָ֔אוּ אַתֶּ֣ם עֲשִׂיתֶ֔ם אֵ֥ת כׇּל־הָרָעָ֖ה הַזֹּ֑את אַ֗ךְ אַל־תָּס֙וּרוּ֙ מֵאַחֲרֵ֣י יְהֹוָ֔ה וַעֲבַדְתֶּ֥ם אֶת־יְהֹוָ֖ה בְּכׇל־לְבַבְכֶֽם׃",
+    "transliteration": "vayo'mer shemv'el 'el-ha'am 'al-tiyra'v 'atem 'asiytem 'et khol-hara'ah hazo't 'akhe 'al-tasvrv me'aharey yehovah va'avadetem 'et-yehovah vekhol-levavekhem.",
     "translation": "E disse Samuel ao povo: Não temais; vós fizestes toda esta maldade; porém não vos desviareis do Senhor, e servireis ao Senhor com todo o vosso coração."
   },
   {
     "verse": 21,
     "original": "וְלֹ֖א תָּס֑וּרוּ כִּ֣י&thinsp;<b>׀</b> אַחֲרֵ֣י הַתֹּ֗הוּ אֲשֶׁ֧ר לֹֽא־יוֹעִ֛ילוּ וְלֹ֥א יַצִּ֖ילוּ כִּי־תֹ֥הוּ הֵֽמָּה׃",
+    "transliteration": "velo' tasvrv khiy&thinsp;<b>|</b> 'aharey hatohv 'asher lo'-yvo'iylv velo' yatsiylv khiy-tohv hemah.",
     "translation": "E não vos desvieis, pois são vaidade, que não traz proveito e não livra; porque vaidade eles são."
   },
   {
     "verse": 22,
     "original": "כִּ֠י לֹֽא־יִטֹּ֤שׁ יְהֹוָה֙ אֶת־עַמּ֔וֹ בַּעֲב֖וּר שְׁמ֣וֹ הַגָּד֑וֹל כִּ֚י הוֹאִ֣יל יְהֹוָ֔ה לַעֲשׂ֥וֹת אֶתְכֶ֛ם ל֖וֹ לְעָֽם׃",
+    "transliteration": "khiy lo'-yitosh yehovah 'et-'amvo va'avvr shemvo hagadvol khiy hvo'iyl yehovah la'asvot 'etekhem lvo le'am.",
     "translation": "Pois o Senhor não desampará sua gente, por amor ao seu grande nome; pois ele vos formou para serdes seu povo."
   },
   {
     "verse": 23,
     "original": "גַּ֣ם אָנֹכִ֗י חָלִ֤ילָה לִּי֙ מֵחֲטֹ֣א לַיהֹוָ֔ה מֵחֲדֹ֖ל לְהִתְפַּלֵּ֣ל בַּעַדְכֶ֑ם וְהוֹרֵיתִ֣י אֶתְכֶ֔ם בְּדֶ֥רֶךְ הַטּוֹבָ֖ה וְהַיְשָׁרָֽה׃",
+    "transliteration": "gam 'anokhiy haliylah liy mehato' layhovah mehadol lehitefalel va'adekhem vehvoreytiy 'etekhem vederekhe hatvovah vehayesharah.",
     "translation": "Também eu, longe de mim pecar contra o Senhor! De deixar de orar em vosso favor e de ensinar-vos o caminho reto e justo."
   },
   {
     "verse": 24,
     "original": "אַ֣ךְ&thinsp;<b>׀</b> יְר֣אוּ אֶת־יְהֹוָ֗ה וַעֲבַדְתֶּ֥ם אֹת֛וֹ בֶּאֱמֶ֖ת בְּכׇל־לְבַבְכֶ֑ם כִּ֣י רְא֔וּ אֵ֥ת אֲשֶׁר־הִגְדִּ֖ל עִמָּכֶֽם׃",
+    "transliteration": "'akhe&thinsp;<b>|</b> yer'v 'et-yehovah va'avadetem 'otvo ve'emet vekhol-levavekhem khiy re'v 'et 'asher-higedil 'imakhem.",
     "translation": "Mas temam ao Senhor e sirvam-no com fidelidade, de todo o vosso coração, pois vedes quão grandiosamente ele agiu a vosso favor."
   },
   {
     "verse": 25,
     "original": "וְאִם־הָרֵ֖עַ תָּרֵ֑עוּ גַּם־אַתֶּ֥ם גַּֽם־מַלְכְּכֶ֖ם תִּסָּפֽוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "ve'im-hare'a tare'v gam-'atem gam-malekhekhem tisafv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E, se vocês se rebelarem, tanto vós como vosso rei sereis consumidos."
   }
 ]

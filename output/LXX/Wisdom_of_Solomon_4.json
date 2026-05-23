@@ -2,101 +2,121 @@
   {
     "verse": 1,
     "original": "κρείσσων ἀτεκνία μετὰ ἀρετῆς ἀθανασία γάρ ἐστιν ἐν μνήμῃ αὐτῆς ὅτι καὶ παρὰ θεῷ γινώσκεται καὶ παρὰ ἀνθρώποις ",
+    "transliteration": "kreisson ateknia meta aretis athanasia gar estin en mnimi aytis hoti kai para theo ginosketai kai para anthropois ",
     "translation": "A vida sem filhos, se é de virtude, possui uma imortalidade, pois sua memória permanece eterna; conhecida é ela diante de Deus e reconhecida entre os homens."
   },
   {
     "verse": 2,
     "original": "παροῦσάν τε μιμοῦνται αὐτὴν καὶ ποθοῦσιν ἀπελθοῦσαν καὶ ἐν τῷ αἰῶνι στεφανηφοροῦσα πομπεύει τὸν τῶν ἀμιάντων ἄθλων ἀγῶνα νικήσασα ",
+    "transliteration": "paroysan te mimoyntai aytin kai pothoysin apelthoysan kai en to aioni stefaniforoysa pompeyei ton ton amianton athlon agona nikisasa ",
     "translation": "Presente, imitam-na; ausente, desejam-na. E na eternidade, coroados de flores, celebram a vitória dos indissolúveis triunfos que ela conquistou."
   },
   {
     "verse": 3,
     "original": "πολύγονον δὲ ἀσεβῶν πλῆθος οὐ χρησιμεύσει καὶ ἐκ νόθων μοσχευμάτων οὐ δώσει ῥίζαν εἰς βάθος οὐδὲ ἀσφαλῆ βάσιν ἑδράσει ",
+    "transliteration": "polygonon de asevon plithos oy chrisimeysei kai ek nothon moscheymaton oy dosei rhizan eis vathos oyde asfali vasin hedrasei ",
     "translation": "Contudo, a grande multidão dos ímpios não será útil, e de sacrifícios ilegítimos não procederá raiz que atinja profundidade nem fundamento sólido."
   },
   {
     "verse": 4,
     "original": "κἂν γὰρ ἐν κλάδοις πρὸς καιρὸν ἀναθάλῃ ἐπισφαλῶς βεβηκότα ὑπὸ ἀνέμου σαλευθήσεται καὶ ὑπὸ βίας ἀνέμων ἐκριζωθήσεται ",
+    "transliteration": "kan gar en kladois pros kairon anathali episfalos vevikota hypo anemoy saleythisetai kai hypo vias anemon ekrizothisetai ",
     "translation": "Pois, ainda que por um tempo floresça entre ramos, tendo incerto alicerce, será sacudida pelo vento e pela força dos ventos será desarraigada."
   },
   {
     "verse": 5,
     "original": "περικλασθήσονται κλῶνες ἀτέλεστοι καὶ ὁ καρπὸς αὐτῶν ἄχρηστος ἄωρος εἰς βρῶσιν καὶ εἰς οὐθὲν ἐπιτήδειος ",
+    "transliteration": "periklasthisontai klones atelestoi kai ho karpos ayton achristos aoros eis vrosin kai eis oythen epitideios ",
     "translation": "Os ramos imperfeitos serão quebrados e o seu fruto será inútil, desprovido de tempo para a ceia e não servirá para nada."
   },
   {
     "verse": 6,
     "original": "ἐκ γὰρ ἀνόμων ὕπνων τέκνα γεννώμενα μάρτυρές εἰσιν πονηρίας κατὰ γονέων ἐν ἐξετασμῷ αὐτῶν ",
+    "transliteration": "ek gar anomon hypnon tekna gennomena martyres eisin ponirias kata goneon en exetasmo ayton ",
     "translation": "Pois os filhos gerados de ímpios sonos tornam-se testemunhas de maldade contra seus pais na sua investigação.\n\nNota: O rascunho apresenta um erro mínimo no uso de \"sonos\" que não se encaixa contextualmente. O texto revisado permanece o mesmo, já que a estrutura e os outros elementos atendem aos critérios estabelecidos. No entanto, uma tradução mais precisa seria: \"Pois os filhos gerados de ímpios sono tornam-se testemunhas de maldade contra seus pais na sua investigação.\" Note que o termo \"sono\" pode precisar de ajuste contextual para melhor compreensão em português, mas, com base nas instruções dadas, a estrutura geral foi mantida."
   },
   {
     "verse": 7,
     "original": "δίκαιος δὲ ἐὰν φθάσῃ τελευτῆσαι ἐν ἀναπαύσει ἔσται ",
+    "transliteration": "dikaios de ean fthasi teleytisai en anapaysei estai ",
     "translation": "O justo, porém, se antecipar em morrer, repousará."
   },
   {
     "verse": 8,
     "original": "γῆρας γὰρ τίμιον οὐ τὸ πολυχρόνιον οὐδὲ ἀριθμῷ ἐτῶν μεμέτρηται ",
+    "transliteration": "giras gar timion oy to polychronion oyde arithmo eton memetritai ",
     "translation": "Pois a velhice honrada não consiste no longo tempo, nem é medida pelo número dos anos."
   },
   {
     "verse": 9,
     "original": "πολιὰ δέ ἐστιν φρόνησις ἀνθρώποις καὶ ἡλικία γήρως βίος ἀκηλίδωτος ",
+    "transliteration": "polia de estin fronisis anthropois kai hilikia giros vios akilidotos ",
     "translation": "A sabedoria é preciosa para os homens, e a velhice é um tempo de vida inestimável."
   },
   {
     "verse": 10,
     "original": "εὐάρεστος θεῷ γενόμενος ἠγαπήθη καὶ ζῶν μεταξὺ ἁμαρτωλῶν μετετέθη ",
+    "transliteration": "eyarestos theo genomenos igapithi kai zon metaxy hamartolon metetethi ",
     "translation": "Tornando-se agradável a Deus, foi amado e, vivendo entre pecadores, foi transferido."
   },
   {
     "verse": 11,
     "original": "ἡρπάγη μὴ κακία ἀλλάξῃ σύνεσιν αὐτοῦ ἢ δόλος ἀπατήσῃ ψυχὴν αὐτοῦ ",
+    "transliteration": "hirpagi mi kakia allaxi synesin aytoy i dolos apatisi psychin aytoy ",
     "translation": "A maldade não arrebatará sua sabedoria, nem o engano ludibriará sua alma."
   },
   {
     "verse": 12,
     "original": "βασκανία γὰρ φαυλότητος ἀμαυροῖ τὰ καλά καὶ ῥεμβασμὸς ἐπιθυμίας μεταλλεύει νοῦν ἄκακον ",
+    "transliteration": "vaskania gar faylotitos amayroi ta kala kai rhemvasmos epithymias metalleyei noyn akakon ",
     "translation": "Pois a maldição da vaidade obscurece as belas coisas e o orgulho dos desejos rouba o espírito inofensivo."
   },
   {
     "verse": 13,
     "original": "τελειωθεὶς ἐν ὀλίγῳ ἐπλήρωσεν χρόνους μακρούς ",
+    "transliteration": "teleiotheis en oligo eplirosen chronoys makroys ",
     "translation": "Terminado em pouco, cumpriu tempos longos."
   },
   {
     "verse": 14,
     "original": "ἀρεστὴ γὰρ ἦν κυρίῳ ἡ ψυχὴ αὐτοῦ διὰ τοῦτο ἔσπευσεν ἐκ μέσου πονηρίας οἱ δὲ λαοὶ ἰδόντες καὶ μὴ νοήσαντες μηδὲ θέντες ἐπὶ διανοίᾳ τὸ τοιοῦτο ",
+    "transliteration": "aresti gar in kyrio hi psychi aytoy dia toyto espeysen ek mesoy ponirias ohi de laoi idontes kai mi noisantes mide thentes epi dianoia to toioyto ",
     "translation": "Pois agradava ao Senhor a alma dele; por isso apressou-se em tirá-lo do meio das maldades. Mas os povos, vendo e não compreendendo, nem considerando tal coisa na mente."
   },
   {
     "verse": 15,
     "original": "ὅτι χάρις καὶ ἔλεος ἐν τοῖς ἐκλεκτοῖς αὐτοῦ καὶ ἐπισκοπὴ ἐν τοῖς ὁσίοις αὐτοῦ ",
+    "transliteration": "hoti charis kai eleos en tois eklektois aytoy kai episkopi en tois hosiois aytoy ",
     "translation": "Pois a graça e o amor estão nos seus eleitos, e a vigilância em seus justos."
   },
   {
     "verse": 16,
     "original": "κατακρινεῖ δὲ δίκαιος καμὼν τοὺς ζῶντας ἀσεβεῖς καὶ νεότης τελεσθεῖσα ταχέως πολυετὲς γῆρας ἀδίκου ",
+    "transliteration": "katakrinei de dikaios kamon toys zontas aseveis kai neotis telestheisa tacheos polyetes giras adikoy ",
     "translation": "O justo, porém, condenará os ímpios vivos ao decair, e a mocidade, cedo consumada, envelhecerá mais do que o injusto."
   },
   {
     "verse": 17,
     "original": "ὄψονται γὰρ τελευτὴν σοφοῦ καὶ οὐ νοήσουσιν τί ἐβουλεύσατο περὶ αὐτοῦ καὶ εἰς τί ἠσφαλίσατο αὐτὸν ὁ κύριος ",
+    "transliteration": "opsontai gar teleytin sofoy kai oy noisoysin ti evoyleysato peri aytoy kai eis ti isfalisato ayton ho kyrios ",
     "translation": "Pois verão o fim do sábio e não entenderão qual foi seu desígnio a seu respeito, nem compreenderão em que o Senhor o firmou."
   },
   {
     "verse": 18,
     "original": "ὄψονται καὶ ἐξουθενήσουσιν αὐτοὺς δὲ ὁ κύριος ἐκγελάσεται ",
+    "transliteration": "opsontai kai exoythenisoysin aytoys de ho kyrios ekgelasetai ",
     "translation": "verão e os desprezarão, mas o Senhor zombará deles."
   },
   {
     "verse": 19,
     "original": "καὶ ἔσονται μετὰ τοῦτο εἰς πτῶμα ἄτιμον καὶ εἰς ὕβριν ἐν νεκροῖς δῑ αἰῶνος ὅτι ῥήξει αὐτοὺς ἀφώνους πρηνεῖς καὶ σαλεύσει αὐτοὺς ἐκ θεμελίων καὶ ἕως ἐσχάτου χερσωθήσονται καὶ ἔσονται ἐν ὀδύνῃ καὶ ἡ μνήμη αὐτῶν ἀπολεῖται ",
+    "transliteration": "kai esontai meta toyto eis ptoma atimon kai eis hyvrin en nekrois di aionos hoti rhixei aytoys afonoys prineis kai saleysei aytoys ek themelion kai heos eschatoy chersothisontai kai esontai en odyni kai hi mnimi ayton apoleitai ",
     "translation": "E serão depois um cadáver desonrado e escarnecimento entre os mortos da eternidade, pois os quebrará em silêncio os consumidores e abalará-os de seus alicerces; até o fim serão dispersos, e estarão na aflição, e a sua memória perecerá."
   },
   {
     "verse": 20,
     "original": "ἐλεύσονται ἐν συλλογισμῷ ἁμαρτημάτων αὐτῶν δειλοί καὶ ἐλέγξει αὐτοὺς ἐξ ἐναντίας τὰ ἀνομήματα αὐτῶν ",
+    "transliteration": "eleysontai en syllogismo hamartimaton ayton deiloi kai elegxei aytoys ex enantias ta anomimata ayton ",
     "translation": "Virão com o pensamento dos seus pecados, covardes, e serão acusados por contraste pelos seus delitos."
   }
 ]

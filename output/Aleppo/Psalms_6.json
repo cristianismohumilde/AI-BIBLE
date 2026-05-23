@@ -2,56 +2,67 @@
   {
     "verse": 1,
     "original": "לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־הַשְּׁמִינִ֗ית מִזְמ֥וֹר לְדָוִֽד׃",
+    "transliteration": "lamenatseha vinegiynvot 'al-hashemiyniyt mizemvor ledavid.",
     "translation": "Para o mestre do canto com instrumentos musicais, sobre a oitava, salmo de Davi."
   },
   {
     "verse": 2,
     "original": "יְֽהֹוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃",
+    "transliteration": "yehovah 'al-ve'afekha tvokhiyheniy ve'al-vahamatekha teyasereniy.",
     "translation": "Senhor, não me repreendas na tua ira, nem me castigues na tua cólera."
   },
   {
     "verse": 3,
     "original": "חׇנֵּ֥נִי יְהֹוָה֮ כִּ֤י אֻמְלַ֫ל<span class=\"mam-implicit-maqaf\">־</span>אָ֥נִי רְפָאֵ֥נִי יְהֹוָ֑ה כִּ֖י נִבְהֲל֣וּ עֲצָמָֽי׃",
+    "transliteration": "honeniy yehovah khiy 'umelal<span class=\"mam-implicit-maqaf\">-</span>'aniy refa'eniy yehovah khiy nivehalv 'atsamay.",
     "translation": "Aveigem-me, Senhor, pois estou desolado; sara-me, Senhor, pois me assombram os meus ossos."
   },
   {
     "verse": 4,
     "original": "וְ֭נַפְשִׁי נִבְהֲלָ֣ה מְאֹ֑ד <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ואת)</span> <span class=\"mam-kq-q\">[וְאַתָּ֥ה]</span></span> יְ֝הֹוָ֗ה עַד־מָתָֽי׃",
+    "transliteration": "venafeshiy nivehalah me'od <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v't)</span> <span class=\"mam-kq-q\">[ve'atah]</span></span> yehovah 'ad-matay.",
     "translation": "E a minha alma teme em extremo; e tu, Senhor, até quando?"
   },
   {
     "verse": 5,
     "original": "שׁוּבָ֣ה יְ֭הֹוָה חַלְּצָ֣ה נַפְשִׁ֑י ה֝וֹשִׁיעֵ֗נִי לְמַ֣עַן חַסְדֶּֽךָ׃",
+    "transliteration": "shvvah yehovah haletsah nafeshiy hvoshiy'eniy lema'an hasedekha.",
     "translation": "Volta, Senhor, livra minha alma; salva-me em razão de tua misericórdia."
   },
   {
     "verse": 6,
     "original": "כִּ֤י אֵ֣ין בַּמָּ֣וֶת זִכְרֶ֑ךָ בִּ֝שְׁא֗וֹל מִ֣י יֽוֹדֶה־לָּֽךְ׃",
+    "transliteration": "khiy 'eyn vamavet zikherekha vishe'vol miy yvodeh-lakhe.",
     "translation": "Pois na morte não há lembrança de ti, no Sheol quem te louvará?"
   },
   {
     "verse": 7,
     "original": "יָגַ֤עְתִּי&thinsp;<b>׀</b> בְּֽאַנְחָתִ֗י אַשְׂחֶ֣ה בְכׇל־לַ֭יְלָה מִטָּתִ֑י בְּ֝דִמְעָתִ֗י עַרְשִׂ֥י אַמְסֶֽה׃",
+    "transliteration": "yaga'etiy&thinsp;<b>|</b> ve'anehatiy 'aseheh vekhol-layelah mitatiy vedime'atiy 'aresiy 'ameseh.",
     "translation": "Cansado estou com meus gemidos; passo toda a noite em lágrimas, banho minha cama e inundo meu leito."
   },
   {
     "verse": 8,
     "original": "עָשְׁשָׁ֣ה מִכַּ֣עַס עֵינִ֑י עָ֝תְקָ֗ה בְּכׇל־צוֹרְרָֽי׃",
+    "transliteration": "'asheshah mikha'as 'eyniy 'atekah vekhol-tsvoreray.",
     "translation": "Foi obra de minha ira; foi transferida para todos os meus inimigos."
   },
   {
     "verse": 9,
     "original": "ס֣וּרוּ מִ֭מֶּנִּי כׇּל־פֹּ֣עֲלֵי אָ֑וֶן כִּֽי־שָׁמַ֥ע יְ֝הֹוָ֗ה ק֣וֹל בִּכְיִֽי׃",
+    "transliteration": "svrv mimeniy khol-fo'aley 'aven khiy-shama' yehovah kvol vikheyiy.",
     "translation": "Afastei-vos de mim, todos os operários da iniquidade, pois ouviu o Senhor a voz do meu choro."
   },
   {
     "verse": 10,
     "original": "שָׁמַ֣ע יְ֭הֹוָה תְּחִנָּתִ֑י יְ֝הֹוָ֗ה תְּֽפִלָּתִ֥י יִקָּֽח׃",
+    "transliteration": "shama' yehovah tehinatiy yehovah tefilatiy yikah.",
     "translation": "Ouviu-me o Senhor, atendeu minha súplica; o Senhor recebe minha oração."
   },
   {
     "verse": 11,
     "original": "יֵבֹ֤שׁוּ&thinsp;<b>׀</b> וְיִבָּהֲל֣וּ מְ֭אֹד כׇּל־אֹיְבָ֑י יָ֝שֻׁ֗בוּ יֵבֹ֥שׁוּ רָֽגַע׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yevoshv&thinsp;<b>|</b> veyivahalv me'od khol-'oyevay yashuvv yevoshv raga'.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Sejam envergonhados e tremam muito, todos os meus inimigos; voltem-se, sejam envergonhados em um instante."
   }
 ]

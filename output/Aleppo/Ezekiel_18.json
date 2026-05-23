@@ -2,161 +2,193 @@
   {
     "verse": 1,
     "original": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'elay le'mor.",
     "translation": "E foi a palavra do Senhor a mim, dizendo:"
   },
   {
     "verse": 2,
     "original": "מַה־לָּכֶ֗ם אַתֶּם֙ מֹֽשְׁלִים֙ אֶת־הַמָּשָׁ֣ל הַזֶּ֔ה עַל־אַדְמַ֥ת יִשְׂרָאֵ֖ל לֵאמֹ֑ר אָבוֹת֙ יֹ֣אכְלוּ בֹ֔סֶר וְשִׁנֵּ֥י הַבָּנִ֖ים תִּקְהֶֽינָה׃",
+    "transliteration": "mah-lakhem 'atem mosheliym 'et-hamashal hazeh 'al-'ademat yisera'el le'mor 'avvot yo'khelv voser veshiney havaniym tikeheynah.",
     "translation": "Que direis, vós que proferis este provérbio contra a terra de Israel: “Os pais comeram uvas verdes e os dentes dos filhos se apertaram”?"
   },
   {
     "verse": 3,
     "original": "חַי־אָ֕נִי נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה אִם־יִהְיֶ֨ה לָכֶ֜ם ע֗וֹד מְשֹׁ֛ל הַמָּשָׁ֥ל הַזֶּ֖ה בְּיִשְׂרָאֵֽל׃",
+    "transliteration": "hay-'aniy ne'um 'adonay yehovih 'im-yiheyeh lakhem 'vod meshol hamashal hazeh veyisera'el.",
     "translation": "Vivo sou, declara o Senhor Deus, não haverá mais para vós aquele provérbio em Israel."
   },
   {
     "verse": 4,
     "original": "הֵ֤ן כׇּל־הַנְּפָשׁוֹת֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי־הֵ֑נָּה הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֥יא תָמֽוּת׃",
+    "transliteration": "hen khol-hanefashvot liy henah khenefesh ha'av vkhenefesh haven liy-henah hanefesh hahote't hiy' tamvt.",
     "translation": "Eis que todas as almas são minhas; assim como a alma do pai, assim também a alma do filho é minha: a alma que pecar, essa morrerá."
   },
   {
     "verse": 5,
     "original": "וְאִ֖ישׁ כִּֽי־יִהְיֶ֣ה צַדִּ֑יק וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָֽה׃",
+    "transliteration": "ve'iysh khiy-yiheyeh tsadiyk ve'asah mishefat vtsedakah.",
     "translation": "E o homem que for justo, e fizer justiça e retidão."
   },
   {
     "verse": 6,
     "original": "אֶל־הֶֽהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל־גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל וְאֶת־אֵ֤שֶׁת רֵעֵ֙הוּ֙ לֹ֣א טִמֵּ֔א וְאֶל־אִשָּׁ֥ה נִדָּ֖ה לֹ֥א יִקְרָֽב׃",
+    "transliteration": "'el-hehariym lo' 'akhal ve'eynayv lo' nasa' 'el-gilvley veyt yisera'el ve'et-'eshet re'ehv lo' time' ve'el-'ishah nidah lo' yikerav.",
     "translation": "Não se apressou pelos montes, e os seus olhos não foram elevados para os ídolos da casa de Israel; nem contaminou-se com a mulher do seu próximo, nem se aproximou de uma mulher na sua impureza."
   },
   {
     "verse": 7,
     "original": "וְאִישׁ֙ לֹ֣א יוֹנֶ֔ה חֲבֹלָת֥וֹ חוֹב֙ יָשִׁ֔יב גְּזֵלָ֖ה לֹ֣א יִגְזֹ֑ל לַחְמוֹ֙ לְרָעֵ֣ב יִתֵּ֔ן וְעֵירֹ֖ם יְכַסֶּה־בָּֽגֶד׃",
+    "transliteration": "ve'iysh lo' yvoneh havolatvo hvov yashiyv gezelah lo' yigezol lahemvo lera'ev yiten ve'eyrom yekhaseh-vaged.",
     "translation": "E o homem não se omitirá da cobrança de suas obrigações, não roubará nem restituirá o que tomou indevidamente; dará seu pão ao faminto e vestirá o desnudo com roupa."
   },
   {
     "verse": 8,
     "original": "בַּנֶּ֣שֶׁךְ לֹֽא־יִתֵּ֗ן וְתַרְבִּית֙ לֹ֣א יִקָּ֔ח מֵעָ֖וֶל יָשִׁ֣יב יָד֑וֹ מִשְׁפַּ֤ט אֱמֶת֙ יַעֲשֶׂ֔ה בֵּ֥ין אִ֖ישׁ לְאִֽישׁ׃",
+    "transliteration": "vaneshekhe lo'-yiten vetareviyt lo' yikah me'avel yashiyv yadvo mishefat 'emet ya'aseh veyn 'iysh le'iysh.",
     "translation": "Não emprestará com juros nem tomará usura; restituirá a mão do que toma recompensa injusta e fará o juízo verdadeiro entre um homem e outro."
   },
   {
     "verse": 9,
     "original": "בְּחֻקּוֹתַ֧י יְהַלֵּ֛ךְ וּמִשְׁפָּטַ֥י שָׁמַ֖ר לַעֲשׂ֣וֹת אֱמֶ֑ת צַדִּ֥יק הוּא֙ חָיֹ֣ה יִֽחְיֶ֔ה נְאֻ֖ם אֲדֹנָ֥י יֱהֹוִֽה׃",
+    "transliteration": "vehukvotay yehalekhe vmishefatay shamar la'asvot 'emet tsadiyk hv' hayoh yiheyeh ne'um 'adonay yehovih.",
     "translation": "Na observância dos meus estatutos andará e os meus juízos guardará para fazer a verdade; justo ele é, viverá vivendo, diz o Senhor Deus."
   },
   {
     "verse": 10,
     "original": "וְהוֹלִ֥יד בֵּן־פָּרִ֖יץ שֹׁפֵ֣ךְ דָּ֑ם וְעָ֣שָׂה אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה׃",
+    "transliteration": "vehvoliyd ven-fariyts shofekhe dam ve'asah 'ah me'ahad me'eleh.",
     "translation": "E ele fará nascer um filho violento, derramador de sangue; e ele agirá assim com um desses."
   },
   {
     "verse": 11,
     "original": "וְה֕וּא אֶת־כׇּל־אֵ֖לֶּה לֹ֣א עָשָׂ֑ה כִּ֣י גַ֤ם אֶל־הֶהָרִים֙ אָכַ֔ל וְאֶת־אֵ֥שֶׁת רֵעֵ֖הוּ טִמֵּֽא׃",
+    "transliteration": "vehv' 'et-khol-'eleh lo' 'asah khiy gam 'el-hehariym 'akhal ve'et-'eshet re'ehv time'.",
     "translation": "E ele não fez todas essas coisas, pois devorou também os montes e contaminou a mulher do seu amigo."
   },
   {
     "verse": 12,
     "original": "עָנִ֤י וְאֶבְיוֹן֙ הוֹנָ֔ה גְּזֵל֣וֹת גָּזָ֔ל חֲבֹ֖ל לֹ֣א יָשִׁ֑יב וְאֶל־הַגִּלּוּלִים֙ נָשָׂ֣א עֵינָ֔יו תּוֹעֵבָ֖ה עָשָֽׂה׃",
+    "transliteration": "'aniy ve'eveyvon hvonah gezelvot gazal havol lo' yashiyv ve'el-hagilvliym nasa' 'eynayv tvo'evah 'asah.",
     "translation": "Pobre e necessitado é aquele que recebe; despoja os despossuídos, não restitui a coisa apreendida, e eleva os olhos aos ídolos; abominação comete."
   },
   {
     "verse": 13,
     "original": "בַּנֶּ֧שֶׁךְ נָתַ֛ן וְתַרְבִּ֥ית לָקַ֖ח וָחָ֑י לֹ֣א יִֽחְיֶ֗ה אֵ֣ת כׇּל־הַתּוֹעֵב֤וֹת הָאֵ֙לֶּה֙ עָשָׂ֔ה מ֣וֹת יוּמָ֔ת דָּמָ֖יו בּ֥וֹ יִֽהְיֶֽה׃",
+    "transliteration": "vaneshekhe natan vetareviyt lakah vahay lo' yiheyeh 'et khol-hatvo'evvot ha'eleh 'asah mvot yvmat damayv vvo yiheyeh.",
     "translation": "Na usura deu e tomou juros; não viverá. Praticou todas essas abominações; morrerá. Seu sangue estará sobre ele mesmo."
   },
   {
     "verse": 14,
     "original": "וְהִנֵּה֙ הוֹלִ֣יד בֵּ֔ן וַיַּ֕רְא אֶת־כׇּל־חַטֹּ֥את אָבִ֖יו אֲשֶׁ֣ר עָשָׂ֑ה וַיִּרְאֶ֕ה וְלֹ֥א יַעֲשֶׂ֖ה כָּהֵֽן׃",
+    "transliteration": "vehineh hvoliyd ven vayare' 'et-khol-hato't 'aviyv 'asher 'asah vayire'eh velo' ya'aseh khahen.",
     "translation": "E eis que ele gerou um filho, e viu todas as transgressões de seu pai que cometeu; e ao ver, não as fez assim."
   },
   {
     "verse": 15,
     "original": "עַל־הֶהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל־גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל אֶת־אֵ֥שֶׁת רֵעֵ֖הוּ לֹ֥א טִמֵּֽא׃",
+    "transliteration": "'al-hehariym lo' 'akhal ve'eynayv lo' nasa' 'el-gilvley veyt yisera'el 'et-'eshet re'ehv lo' time'.",
     "translation": "Não comeu sobre os montes, e não levantou seus olhos para as abominações da casa de Israel; não contaminou a mulher do seu próximo."
   },
   {
     "verse": 16,
     "original": "וְאִישׁ֙ לֹ֣א הוֹנָ֔ה חֲבֹל֙ לֹ֣א חָבָ֔ל וּגְזֵלָ֖ה לֹ֣א גָזָ֑ל לַחְמוֹ֙ לְרָעֵ֣ב נָתָ֔ן וְעֵר֖וֹם כִּסָּה־בָֽגֶד׃",
+    "transliteration": "ve'iysh lo' hvonah havol lo' haval vgezelah lo' gazal lahemvo lera'ev natan ve'ervom khisah-vaged.",
     "translation": "E nenhum homem desviou sua confiança, não havia quem amarrasse como fiança, e nenhuma rapina foi roubada; pão deu ao faminto, e com roupa vestiu o nu."
   },
   {
     "verse": 17,
     "original": "מֵעָנִ֞י הֵשִׁ֣יב יָד֗וֹ נֶ֤שֶׁךְ וְתַרְבִּית֙ לֹ֣א לָקָ֔ח מִשְׁפָּטַ֣י עָשָׂ֔ה בְּחֻקּוֹתַ֖י הָלָ֑ךְ ה֗וּא לֹ֥א יָמ֛וּת בַּעֲוֺ֥ן אָבִ֖יו חָיֹ֥ה יִֽחְיֶֽה׃",
+    "transliteration": "me'aniy heshiyv yadvo neshekhe vetareviyt lo' lakah mishefatay 'asah vehukvotay halakhe hv' lo' yamvt va'avon 'aviyv hayoh yiheyeh.",
     "translation": "Ele estende a mão ao necessitado; não tomou juros nem usura, guardou os meus decretos e seguiu as minhas ordens. Não morrerá por pecado do seu pai; viverá com vida própria."
   },
   {
     "verse": 18,
     "original": "אָבִ֞יו כִּֽי־עָ֣שַׁק עֹ֗שֶׁק גָּזַל֙ גֵּ֣זֶל אָ֔ח וַאֲשֶׁ֥ר לֹא־ט֛וֹב עָשָׂ֖ה בְּת֣וֹךְ עַמָּ֑יו וְהִנֵּה־מֵ֖ת בַּעֲוֺנֽוֹ׃",
+    "transliteration": "'aviyv khiy-'ashak 'oshek gazal gezel 'ah va'asher lo'-tvov 'asah vetvokhe 'amayv vehineh-met va'avonvo.",
     "translation": "Porque seu pai praticou opressão, roubou; agiu mal entre seu povo, e eis que morreu em seus pecados."
   },
   {
     "verse": 19,
     "original": "וַאֲמַרְתֶּ֕ם מַדֻּ֛עַ לֹא־נָשָׂ֥א הַבֵּ֖ן בַּעֲוֺ֣ן הָאָ֑ב וְהַבֵּ֞ן מִשְׁפָּ֧ט וּצְדָקָ֣ה עָשָׂ֗ה אֵ֣ת כׇּל־חֻקּוֹתַ֥י שָׁמַ֛ר וַיַּעֲשֶׂ֥ה אֹתָ֖ם חָיֹ֥ה יִֽחְיֶֽה׃",
+    "transliteration": "va'amaretem madu'a lo'-nasa' haven va'avon ha'av vehaven mishefat vtsedakah 'asah 'et khol-hukvotay shamar vaya'aseh 'otam hayoh yiheyeh.",
     "translation": "E direis: Por que o filho não carrega a iniquidade do pai? Pois o filho praticou justiça e retidão, guardando todos os meus estatutos, vivendo ele viverá."
   },
   {
     "verse": 20,
     "original": "הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא־יִשָּׂ֣א&thinsp;<b>׀</b> בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(רשע)</span> <span class=\"mam-kq-q\">[הָרָשָׁ֖ע]</span></span> עָלָ֥יו תִּֽהְיֶֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hanefesh hahote't hiy' tamvt ven lo'-yisa'&thinsp;<b>|</b> va'avon ha'av ve'av lo' yisa' va'avon haven tsidekat hatsadiyk 'alayv tiheyeh verishe'at <span class=\"mam-kq\"><span class=\"mam-kq-k\">(rs')</span> <span class=\"mam-kq-q\">[harasha']</span></span> 'alayv tiheyeh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "A alma que pecar, ela morrerá. O filho não arcará com a iniquidade do pai, e o pai não arcará com a iniquidade do filho. A justiça do justo será sobre ele, e a perversão do perverso será sobre ele."
   },
   {
     "verse": 21,
     "original": "וְהָרָשָׁ֗ע כִּ֤י יָשׁוּב֙ מִכׇּל־<span class=\"mam-kq-trivial\">חַטֹּאתָו֙</span> אֲשֶׁ֣ר עָשָׂ֔ה וְשָׁמַר֙ אֶת־כׇּל־חֻקּוֹתַ֔י וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָ֑ה חָיֹ֥ה יִֽחְיֶ֖ה לֹ֥א יָמֽוּת׃",
+    "transliteration": "veharasha' khiy yashvv mikhol-<span class=\"mam-kq-trivial\">hato'tav</span> 'asher 'asah veshamar 'et-khol-hukvotay ve'asah mishefat vtsedakah hayoh yiheyeh lo' yamvt.",
     "translation": "E o ímpio, quando se arrepender de toda a sua maldade que cometeu e guardar todos os meus estatutos, praticando justiça e equidade, viverá; não morrerá."
   },
   {
     "verse": 22,
     "original": "כׇּל־פְּשָׁעָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה לֹ֥א יִזָּכְר֖וּ ל֑וֹ בְּצִדְקָת֥וֹ אֲשֶׁר־עָשָׂ֖ה יִֽחְיֶֽה׃",
+    "transliteration": "khol-fesha'ayv 'asher 'asah lo' yizakherv lvo vetsidekatvo 'asher-'asah yiheyeh.",
     "translation": "Todo o seu pecado que cometeu não será lembrado para ele; na sua justiça que praticou, viverá."
   },
   {
     "verse": 23,
     "original": "הֶחָפֹ֤ץ אֶחְפֹּץ֙ מ֣וֹת רָשָׁ֔ע נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה הֲל֛וֹא בְּשׁוּב֥וֹ מִדְּרָכָ֖יו וְחָיָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hehafots 'ehefots mvot rasha' ne'um 'adonay yehovih halvo' veshvvvo miderakhayv vehayah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Pretendo acaso a morte do pecador, pergunta o Senhor Deus? Não prefere antes que ele se converta dos seus caminhos e venha a viver?"
   },
   {
     "verse": 24,
     "original": "וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקָתוֹ֙ וְעָ֣שָׂה עָ֔וֶל כְּכֹ֨ל הַתּוֹעֵב֜וֹת אֲשֶׁר־עָשָׂ֧ה הָרָשָׁ֛ע יַעֲשֶׂ֖ה וָחָ֑י כׇּל־<span class=\"mam-kq-trivial\">צִדְקֹתָ֤ו</span> אֲשֶׁר־עָשָׂה֙ לֹ֣א תִזָּכַ֔רְנָה בְּמַעֲל֧וֹ אֲשֶׁר־מָעַ֛ל וּבְחַטָּאת֥וֹ אֲשֶׁר־חָטָ֖א בָּ֥ם יָמֽוּת׃",
+    "transliteration": "vveshvv tsadiyk mitsidekatvo ve'asah 'avel khekhol hatvo'evvot 'asher-'asah harasha' ya'aseh vahay khol-<span class=\"mam-kq-trivial\">tsidekotav</span> 'asher-'asah lo' tizakharenah vema'alvo 'asher-ma'al vvehata'tvo 'asher-hata' vam yamvt.",
     "translation": "E quando o justo se desvia da sua justiça e comete iniquidade, fazendo todos os abomináveis atos que o ímpio fez, vivendo ainda assim, todas as suas obras de justiça que realizou não serão lembradas por causa da traição que praticou e pela culpa em que incorreu; nesses pecados ele morrerá."
   },
   {
     "verse": 25,
     "original": "וַאֲמַרְתֶּ֕ם לֹ֥א יִתָּכֵ֖ן דֶּ֣רֶךְ אֲדֹנָ֑י שִׁמְעוּ־נָא֙ בֵּ֣ית יִשְׂרָאֵ֔ל הֲדַרְכִּי֙ לֹ֣א יִתָּכֵ֔ן הֲלֹ֥א דַרְכֵיכֶ֖ם לֹ֥א יִתָּכֵֽנוּ׃",
+    "transliteration": "va'amaretem lo' yitakhen derekhe 'adonay shime'v-na' veyt yisera'el hadarekhiy lo' yitakhen halo' darekheykhem lo' yitakhenv.",
     "translation": "E direis: Não é possível o caminho do Senhor; ouvi, ó casa de Israel: É que o meu caminho não pode ser? Ou o vosso caminho não pode ser?"
   },
   {
     "verse": 26,
     "original": "בְּשׁוּב־צַדִּ֧יק מִצִּדְקָת֛וֹ וְעָ֥שָׂה עָ֖וֶל וּמֵ֣ת עֲלֵיהֶ֑ם בְּעַוְל֥וֹ אֲשֶׁר־עָשָׂ֖ה יָמֽוּת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "veshvv-tsadiyk mitsidekatvo ve'asah 'avel vmet 'aleyhem ve'avelvo 'asher-'asah yamvt.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Quando o justo se desvia da sua justiça e comete iniqüidade, morrendo por causa delas, será pela sua iniqüidade que ele morrerá."
   },
   {
     "verse": 27,
     "original": "וּבְשׁ֣וּב רָשָׁ֗ע מֵֽרִשְׁעָתוֹ֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיַּ֥עַשׂ מִשְׁפָּ֖ט וּצְדָקָ֑ה ה֖וּא אֶת־נַפְשׁ֥וֹ יְחַיֶּֽה׃",
+    "transliteration": "vveshvv rasha' merishe'atvo 'asher 'asah vaya'as mishefat vtsedakah hv' 'et-nafeshvo yehayeh.",
     "translation": "E quando o pecador se volta do seu pecado que cometeu e pratica justiça e retidão, ele mesmo se dará a vida."
   },
   {
     "verse": 28,
     "original": "וַיִּרְאֶ֣ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וישוב)</span> <span class=\"mam-kq-q\">[וַיָּ֔שׇׁב]</span></span> מִכׇּל־פְּשָׁעָ֖יו אֲשֶׁ֣ר עָשָׂ֑ה חָי֥וֹ יִֽחְיֶ֖ה לֹ֥א יָמֽוּת׃",
+    "transliteration": "vayire'eh <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vysvv)</span> <span class=\"mam-kq-q\">[vayashov]</span></span> mikhol-fesha'ayv 'asher 'asah hayvo yiheyeh lo' yamvt.",
     "translation": "E voltou de todos os seus pecados que cometeu; vivendo viverá, não morrerá."
   },
   {
     "verse": 29,
     "original": "וְאָֽמְרוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל לֹ֥א יִתָּכֵ֖ן דֶּ֣רֶךְ אֲדֹנָ֑י הַדְּרָכַ֞י לֹ֤א יִתָּֽכְנוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל הֲלֹ֥א דַרְכֵיכֶ֖ם לֹ֥א יִתָּכֵֽן׃",
+    "transliteration": "ve'amerv veyt yisera'el lo' yitakhen derekhe 'adonay haderakhay lo' yitakhenv veyt yisera'el halo' darekheykhem lo' yitakhen.",
     "translation": "E dirá a casa de Israel: Não se podem os caminhos do Senhor. Meus caminhos não podem ser justos diante da casa de Israel; acaso vossos caminhos são eles que não se podem?"
   },
   {
     "verse": 30,
     "original": "לָכֵן֩ אִ֨ישׁ כִּדְרָכָ֜יו אֶשְׁפֹּ֤ט אֶתְכֶם֙ בֵּ֣ית יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה שׁ֤וּבוּ וְהָשִׁ֙יבוּ֙ מִכׇּל־פִּשְׁעֵיכֶ֔ם וְלֹא־יִהְיֶ֥ה לָכֶ֛ם לְמִכְשׁ֖וֹל עָוֺֽן׃",
+    "transliteration": "lakhen 'iysh khiderakhayv 'eshefot 'etekhem veyt yisera'el ne'um 'adonay yehovih shvvv vehashiyvv mikhol-fishe'eykhem velo'-yiheyeh lakhem lemikheshvol 'avon.",
     "translation": "Portanto, ó casa de Israel, julgarei cada um conforme seus caminhos, diz o Senhor Yahweh. Arrependei-vos e desviai-vos de todos os vossos pecados; para que não se torne em vosso tropeço o pecado."
   },
   {
     "verse": 31,
     "original": "הַשְׁלִ֣יכוּ מֵעֲלֵיכֶ֗ם אֶת־כׇּל־פִּשְׁעֵיכֶם֙ אֲשֶׁ֣ר פְּשַׁעְתֶּ֣ם בָּ֔ם וַעֲשׂ֥וּ לָכֶ֛ם לֵ֥ב חָדָ֖שׁ וְר֣וּחַ חֲדָשָׁ֑ה וְלָ֥מָּה תָמֻ֖תוּ בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "transliteration": "hasheliykhv me'aleykhem 'et-khol-fishe'eykhem 'asher fesha'etem vam va'asv lakhem lev hadash vervha hadashah velamah tamutv veyt yisera'el.",
     "translation": "Lançai de vós todos os vossos pecados dos quais vos rebelastes, e fazei para vós um coração novo e um espírito novo; por que morrereis, ó casa de Israel?"
   },
   {
     "verse": 32,
     "original": "כִּ֣י לֹ֤א אֶחְפֹּץ֙ בְּמ֣וֹת הַמֵּ֔ת נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה וְהָשִׁ֖יבוּ וִֽחְיֽוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy lo' 'ehefots vemvot hamet ne'um 'adonay yehovih vehashiyvv viheyv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois não desejo a morte do que morre, oráculo do Senhor Deus; convertam-se e vivam."
   }
 ]

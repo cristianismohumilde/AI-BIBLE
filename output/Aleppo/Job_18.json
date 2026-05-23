@@ -2,106 +2,127 @@
   {
     "verse": 1,
     "original": "וַ֭יַּעַן בִּלְדַּ֥ד הַשֻּׁחִ֗י וַיֹּאמַֽר׃",
+    "transliteration": "vaya'an viledad hashuhiy vayo'mar.",
     "translation": "E respondeu Bildad, o suquita, e disse:"
   },
   {
     "verse": 2,
     "original": "עַד־אָ֤נָה&thinsp;<b>׀</b> תְּשִׂימ֣וּן קִנְצֵ֣י לְמִלִּ֑ין תָּ֝בִ֗ינוּ וְאַחַ֥ר נְדַבֵּֽר׃",
+    "transliteration": "'ad-'anah&thinsp;<b>|</b> tesiymvn kinetsey lemiliyn taviynv ve'ahar nedaver.",
     "translation": "Até quando sereis dados a palavras vãs? Tendes prazer em maldades, transformais a verdade em mentira e proferis violência e injustiça."
   },
   {
     "verse": 3,
     "original": "מַ֭דּוּעַ נֶחְשַׁ֣בְנוּ כַבְּהֵמָ֑ה נִ֝טְמִ֗ינוּ בְּעֵינֵיכֶֽם׃",
+    "transliteration": "madv'a neheshavenv khavehemah nitemiynv ve'eyneykhem.",
     "translation": "Por que somos considerados como gado, rejeitados aos vossos olhos?"
   },
   {
     "verse": 4,
     "original": "טֹרֵ֥ף נַפְשׁ֗וֹ בְּאַ֫פּ֥וֹ הַֽ֭לְמַעַנְךָ תֵּעָ֣זַב אָ֑רֶץ וְיֶעְתַּק־צ֝֗וּר מִמְּקֹמֽוֹ׃",
+    "transliteration": "toref nafeshvo ve'afvo halema'anekha te'azav 'arets veye'etak-tsvr mimekomvo.",
     "translation": "Apega sua alma em sua ira; para que abandone a terra desolada e faça tremer o monte de seu lugar."
   },
   {
     "verse": 5,
     "original": "גַּ֤ם א֣וֹר רְשָׁעִ֣ים יִדְעָ֑ךְ וְלֹא־יִ֝גַּ֗הּ שְׁבִ֣יב אִשּֽׁוֹ׃",
+    "transliteration": "gam 'vor resha'iym yide'akhe velo'-yigah sheviyv 'ishvo.",
     "translation": "Também a luz dos perversos será extinta, e não arderá a chama do seu fogo."
   },
   {
     "verse": 6,
     "original": "א֭וֹר חָשַׁ֣ךְ בְּאׇהֳל֑וֹ וְ֝נֵר֗וֹ עָלָ֥יו יִדְעָֽךְ׃",
+    "transliteration": "'vor hashakhe ve'oholvo venervo 'alayv yide'akhe.",
     "translation": "A luz se apagou em seu pavilhão, e sua lâmpada sobre ele se extinguiu."
   },
   {
     "verse": 7,
     "original": "יֵ֭צְרוּ צַעֲדֵ֣י אוֹנ֑וֹ וְֽתַשְׁלִיכֵ֥הוּ עֲצָתֽוֹ׃",
+    "transliteration": "yetserv tsa'adey 'vonvo vetasheliykhehv 'atsatvo.",
     "translation": "Que tramem seus passos e sejam lançados seus conselhos."
   },
   {
     "verse": 8,
     "original": "כִּֽי־שֻׁלַּ֣ח בְּרֶ֣שֶׁת בְּרַגְלָ֑יו וְעַל־שְׂ֝בָכָ֗ה יִתְהַלָּֽךְ׃",
+    "transliteration": "khiy-shulah vereshet veragelayv ve'al-sevakhah yitehalakhe.",
     "translation": "Pois ele lança a rede aos seus pés, e sobre a armadilha caminhará."
   },
   {
     "verse": 9,
     "original": "יֹאחֵ֣ז בְּעָקֵ֣ב פָּ֑ח יַחֲזֵ֖ק עָלָ֣יו צַמִּֽים׃",
+    "transliteration": "yo'hez ve'akev fah yahazek 'alayv tsamiym.",
     "translation": "Aprende a trapaça pelo calcanhar, e sobre ele firmam-se os opressores."
   },
   {
     "verse": 10,
     "original": "טָמ֣וּן בָּאָ֣רֶץ חַבְל֑וֹ וּ֝מַלְכֻּדְתּ֗וֹ עֲלֵ֣י נָתִֽיב׃",
+    "transliteration": "tamvn va'arets havelvo vmalekhudetvo 'aley natiyv.",
     "translation": "Enterrado na terra está seu laço, e sua armadilha sobre o caminho."
   },
   {
     "verse": 11,
     "original": "סָ֭בִיב בִּעֲתֻ֣הוּ בַלָּה֑וֹת וֶהֱפִיצֻ֥הוּ לְרַגְלָֽיו׃",
+    "transliteration": "saviyv vi'atuhv valahvot vehefiytsuhv leragelayv.",
     "translation": "O rodeou em suas iniquidades, e com pecados o dispersou aos seus pés."
   },
   {
     "verse": 12,
     "original": "יְהִי־רָעֵ֥ב אֹנ֑וֹ וְ֝אֵ֗יד נָכ֥וֹן לְצַלְעֽוֹ׃",
+    "transliteration": "yehiy-ra'ev 'onvo ve'eyd nakhvon letsale'vo.",
     "translation": "Seja fome sua companheira, e tormento esteja pronto ao seu lado."
   },
   {
     "verse": 13,
     "original": "יֹ֭אכַל בַּדֵּ֣י עוֹר֑וֹ יֹאכַ֥ל בַּ֝דָּ֗יו בְּכ֣וֹר מָֽוֶת׃",
+    "transliteration": "yo'khal vadey 'vorvo yo'khal vadayv vekhvor mavet.",
     "translation": "Comerá a solidez de sua pele; comerá os pedaços do seu corpo, o primogênito da morte."
   },
   {
     "verse": 14,
     "original": "יִנָּתֵ֣ק מֵ֭אׇהֳלוֹ מִבְטַח֑וֹ וְ֝תַצְעִדֵ֗הוּ לְמֶ֣לֶךְ בַּלָּהֽוֹת׃",
+    "transliteration": "yinatek me'oholvo mivetahvo vetatse'idehv lemelekhe valahvot.",
     "translation": "Será cortado do seu alojamento, da sua segurança, e o fará avançar para o rei das trevas."
   },
   {
     "verse": 15,
     "original": "תִּשְׁכּ֣וֹן בְּ֭אׇהֳלוֹ מִבְּלִיל֑וֹ יְזֹרֶ֖ה עַל־נָוֵ֣הוּ גׇפְרִֽית׃",
+    "transliteration": "tishekhvon ve'oholvo miveliylvo yezoreh 'al-navehv goferiyt.",
     "translation": "Habitará no seu tabernáculo para sempre; sobre o seu sítio lançará gafre."
   },
   {
     "verse": 16,
     "original": "מִ֭תַּחַת שׇׁרָשָׁ֣יו יִבָ֑שׁוּ וּ֝מִמַּ֗עַל יִמַּ֥ל קְצִירֽוֹ׃",
+    "transliteration": "mitahat shorashayv yivashv vmima'al yimal ketsiyrvo.",
     "translation": "De seus fundamentos secarão, e do alto será ceifado seu colmo."
   },
   {
     "verse": 17,
     "original": "זִֽכְרוֹ־אָ֭בַד מִנִּי־אָ֑רֶץ וְלֹא־שֵׁ֥ם ל֝֗וֹ עַל־פְּנֵי־חֽוּץ׃",
+    "transliteration": "zikhervo-'avad miniy-'arets velo'-shem lvo 'al-feney-hvts.",
     "translation": "Lembrança dele pereceu da terra, e não há nome para ele sobre a face exterior."
   },
   {
     "verse": 18,
     "original": "יֶ֭הְדְּפֻהוּ מֵא֣וֹר אֶל־חֹ֑שֶׁךְ וּֽמִתֵּבֵ֥ל יְנִדֻּֽהוּ׃",
+    "transliteration": "yehedefuhv me'vor 'el-hoshekhe vmitevel yeniduhv.",
     "translation": "Empurra-o da luz para as trevas, e da visão ele será afastado."
   },
   {
     "verse": 19,
     "original": "לֹ֘א<span class=\"mam-implicit-maqaf\">־</span>נִ֤ין ל֣וֹ וְלֹא־נֶ֣כֶד בְּעַמּ֑וֹ וְאֵ֥ין שָׂ֝רִ֗יד בִּמְגוּרָֽיו׃",
+    "transliteration": "lo'<span class=\"mam-implicit-maqaf\">-</span>niyn lvo velo'-nekhed ve'amvo ve'eyn sariyd vimegvrayv.",
     "translation": "Não há descendente para ele, nem neto entre seu povo; e não restará sobrevivente em suas habitações."
   },
   {
     "verse": 20,
     "original": "עַל־י֭וֹמוֹ נָשַׁ֣מּוּ אַחֲרֹנִ֑ים וְ֝קַדְמֹנִ֗ים אָ֣חֲזוּ שָֽׂעַר׃",
+    "transliteration": "'al-yvomvo nashamv 'aharoniym vekademoniym 'ahazv sa'ar.",
     "translation": "No seu dia, os últimos exhalarão e os primeiros agarrarão a cabeleira."
   },
   {
     "verse": 21,
     "original": "אַךְ־אֵ֭לֶּה מִשְׁכְּנ֣וֹת עַוָּ֑ל וְ֝זֶ֗ה מְק֣וֹם לֹֽא־יָדַֽע־אֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'akhe-'eleh mishekhenvot 'aval vezeh mekvom lo'-yada'-'el.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Contudo, estas são moradas da maldade e este é lugar de quem não conhece Deus."
   }
 ]

@@ -2,136 +2,163 @@
   {
     "verse": 1,
     "original": "שִׁמְע֞וּ אֶת־הַדָּבָ֣ר הַזֶּ֗ה אֲשֶׁ֨ר אָנֹכִ֜י נֹשֵׂ֧א עֲלֵיכֶ֛ם קִינָ֖ה בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "transliteration": "shime'v 'et-hadavar hazeh 'asher 'anokhiy nose' 'aleykhem kiynah veyt yisera'el.",
     "translation": "Ouvi este palavra que eu levo sobre vós, cântico fúnebre, casa de Israel.\n\nCorreção:\nOuvi esta palavra que eu canto sobre vós, lamentação, casa de Israel."
   },
   {
     "verse": 2,
     "original": "נָֽפְלָה֙ לֹא־תוֹסִ֣יף ק֔וּם בְּתוּלַ֖ת יִשְׂרָאֵ֑ל נִטְּשָׁ֥ה עַל־אַדְמָתָ֖הּ אֵ֥ין מְקִימָֽהּ׃",
+    "transliteration": "nafelah lo'-tvosiyf kvm vetvlat yisera'el niteshah 'al-'adematah 'eyn mekiymah.",
     "translation": "Caiu, não se levantará novamente; a virgem de Israel caiu e foi abandonada em sua terra, não há quem a erga."
   },
   {
     "verse": 3,
     "original": "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה הָעִ֛יר הַיֹּצֵ֥את אֶ֖לֶף תַּשְׁאִ֣יר מֵאָ֑ה וְהַיּוֹצֵ֥את מֵאָ֛ה תַּשְׁאִ֥יר עֲשָׂרָ֖ה לְבֵ֥ית יִשְׂרָאֵֽל׃",
+    "transliteration": "khiy khoh 'amar 'adonay yehovih ha'iyr hayotse't 'elef tashe'iyr me'ah vehayvotse't me'ah tashe'iyr 'asarah leveyt yisera'el.",
     "translation": "Pois assim diz o Senhor YHWH: A cidade que saiu com mil deixará cem, e a que saiu com cem deixará dez para a casa de Israel."
   },
   {
     "verse": 4,
     "original": "כִּ֣י כֹ֥ה אָמַ֛ר יְהֹוָ֖ה לְבֵ֣ית יִשְׂרָאֵ֑ל דִּרְשׁ֖וּנִי וִֽחְיֽוּ׃",
+    "transliteration": "khiy khoh 'amar yehovah leveyt yisera'el direshvniy viheyv.",
     "translation": "Porque assim diz o Senhor à casa de Israel: Buscai-me e vivereis."
   },
   {
     "verse": 5,
     "original": "וְאַֽל־תִּדְרְשׁוּ֙ בֵּֽית־אֵ֔ל וְהַגִּלְגָּל֙ לֹ֣א תָבֹ֔אוּ וּבְאֵ֥ר שֶׁ֖בַע לֹ֣א תַעֲבֹ֑רוּ כִּ֤י הַגִּלְגָּל֙ גָּלֹ֣ה יִגְלֶ֔ה וּבֵֽית־אֵ֖ל יִהְיֶ֥ה לְאָֽוֶן׃",
+    "transliteration": "ve'al-tidereshv veyt-'el vehagilegal lo' tavo'v vve'er sheva' lo' ta'avorv khiy hagilegal galoh yigeleh vveyt-'el yiheyeh le'aven.",
     "translation": "E não busqueis em Betel, nem entrai em Gilgal, e Beer-Sheba não transiteis; pois será levado embora o que é rolado em Gilgal, e Bethel se converterá em iniquidade."
   },
   {
     "verse": 6,
     "original": "דִּרְשׁ֥וּ אֶת־יְהֹוָ֖ה וִֽחְי֑וּ פֶּן־יִצְלַ֤ח כָּאֵשׁ֙ בֵּ֣ית יוֹסֵ֔ף וְאָכְלָ֥ה וְאֵין־מְכַבֶּ֖ה לְבֵֽית־אֵֽל׃",
+    "transliteration": "direshv 'et-yehovah viheyv fen-yitselah kha'esh veyt yvosef ve'akhelah ve'eyn-mekhaveh leveyt-'el.",
     "translation": "Buscai ao Senhor e vivereis, antes que ele se alastre como fogo na casa de José, e devore sem ninguém para apagá-lo na casa de Deus."
   },
   {
     "verse": 7,
     "original": "הַהֹפְכִ֥ים לְלַעֲנָ֖ה מִשְׁפָּ֑ט וּצְדָקָ֖ה לָאָ֥רֶץ הִנִּֽיחוּ׃",
+    "transliteration": "hahofekhiym lela'anah mishefat vtsedakah la'arets hiniyhv.",
     "translation": "Invertendo o juízo em maldição e abandonando a justiça à terra."
   },
   {
     "verse": 8,
     "original": "עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֙קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א לְמֵֽי־הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל־פְּנֵ֥י הָאָ֖רֶץ יְהֹוָ֥ה שְׁמֽוֹ׃",
+    "transliteration": "'oseh khiymah vkhesiyl vehofekhe lavoker tsalemavet veyvom layelah heheshiykhe hakvore' lemey-hayam vayishefekhem 'al-feney ha'arets yehovah shemvo.",
     "translation": "Fazendo Quimá e Késil, e transformando a escuridão em alvorada e o dia em trevas, ele chama as águas do mar e as derrama sobre a face da terra. Jeová é seu nome."
   },
   {
     "verse": 9,
     "original": "הַמַּבְלִ֥יג שֹׁ֖ד עַל־עָ֑ז וְשֹׁ֖ד עַל־מִבְצָ֥ר יָבֽוֹא׃",
+    "transliteration": "hamaveliyg shod 'al-'az veshod 'al-mivetsar yavvo'.",
     "translation": "O mensageiro do despojo vai sobre a fortaleza, e o despojo sobe sobre a muralha."
   },
   {
     "verse": 10,
     "original": "שָׂנְא֥וּ בַשַּׁ֖עַר מוֹכִ֑יחַ וְדֹבֵ֥ר תָּמִ֖ים יְתָעֵֽבוּ׃",
+    "transliteration": "sane'v vasha'ar mvokhiyha vedover tamiym yeta'evv.",
     "translation": "Odiavam no portão aquele que repreendia, e abominavam aquele que falava com integridade."
   },
   {
     "verse": 11,
     "original": "לָ֠כֵ֠ן יַ֣עַן בּוֹשַׁסְכֶ֞ם עַל־דָּ֗ל וּמַשְׂאַת־בַּר֙ תִּקְח֣וּ מִמֶּ֔נּוּ בָּתֵּ֥י גָזִ֛ית בְּנִיתֶ֖ם וְלֹא־תֵ֣שְׁבוּ בָ֑ם כַּרְמֵי־חֶ֣מֶד נְטַעְתֶּ֔ם וְלֹ֥א תִשְׁתּ֖וּ אֶת־יֵינָֽם׃",
+    "transliteration": "lakhen ya'an vvoshasekhem 'al-dal vmase'at-var tikehv mimenv vatey gaziyt veniytem velo'-teshevv vam kharemey-hemed neta'etem velo' tishetv 'et-yeynam.",
     "translation": "Portanto, porque esmagais o pobre e desde ele tirais ofertas de trigo, edificastes casas de pedra polida mas não as habitareis; enxertastes vinhas de videiras desejáveis, mas não bebereis do seu vinho."
   },
   {
     "verse": 12,
     "original": "כִּ֤י יָדַ֙עְתִּי֙ רַבִּ֣ים פִּשְׁעֵיכֶ֔ם וַעֲצֻמִ֖ים חַטֹּאתֵיכֶ֑ם צֹרְרֵ֤י צַדִּיק֙ לֹ֣קְחֵי כֹ֔פֶר וְאֶבְיוֹנִ֖ים בַּשַּׁ֥עַר הִטּֽוּ׃",
+    "transliteration": "khiy yada'etiy raviym fishe'eykhem va'atsumiym hato'teykhem tsorerey tsadiyk lokehey khofer ve'eveyvoniym vasha'ar hitv.",
     "translation": "Pois conheci as muitas iniqüidades de vós, e os grandes pecados vossos; oprimis o justo, aceitais suborno, e desviam os necessitados na porta."
   },
   {
     "verse": 13,
     "original": "לָכֵ֗ן הַמַּשְׂכִּ֛יל בָּעֵ֥ת הַהִ֖יא יִדֹּ֑ם כִּ֛י עֵ֥ת רָעָ֖ה הִֽיא׃",
+    "transliteration": "lakhen hamasekhiyl va'et hahiy' yidom khiy 'et ra'ah hiy'.",
     "translation": "Portanto, o prudente se calará naquele tempo, pois é um tempo mau."
   },
   {
     "verse": 14,
     "original": "דִּרְשׁוּ־ט֥וֹב וְאַל־רָ֖ע לְמַ֣עַן תִּֽחְי֑וּ וִיהִי־כֵ֞ן יְהֹוָ֧ה אֱלֹהֵֽי־צְבָא֛וֹת אִתְּכֶ֖ם כַּאֲשֶׁ֥ר אֲמַרְתֶּֽם׃",
+    "transliteration": "direshv-tvov ve'al-ra' lema'an tiheyv viyhiy-khen yehovah 'elohey-tseva'vot 'itekhem kha'asher 'amaretem.",
     "translation": "Buscai o bem e não o mal para que vivais, e assim o Senhor Deus dos Exércitos estará convosco conforme haveis dito."
   },
   {
     "verse": 15,
     "original": "שִׂנְאוּ־רָע֙ וְאֶ֣הֱבוּ ט֔וֹב וְהַצִּ֥יגוּ בַשַּׁ֖עַר מִשְׁפָּ֑ט אוּלַ֗י יֶחֱנַ֛ן יְהֹוָ֥ה אֱלֹהֵֽי־צְבָא֖וֹת שְׁאֵרִ֥ית יוֹסֵֽף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "sine'v-ra' ve'ehevv tvov vehatsiygv vasha'ar mishefat 'vlay yehenan yehovah 'elohey-tseva'vot she'eriyt yvosef.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Odeiem o mal e amem o bem; estabeleçam justiça nas portas da cidade; assim talvez se apiade do restante de José o SENHOR, Deus dos Exércitos."
   },
   {
     "verse": 16,
     "original": "לָ֠כֵ֠ן כֹּֽה־אָמַ֨ר יְהֹוָ֜ה אֱלֹהֵ֤י צְבָאוֹת֙ אֲדֹנָ֔י בְּכׇל־רְחֹב֣וֹת מִסְפֵּ֔ד וּבְכׇל־חוּצ֖וֹת יֹאמְר֣וּ הוֹ־ה֑וֹ וְקָרְא֤וּ אִכָּר֙ אֶל־אֵ֔בֶל וּמִסְפֵּ֖ד אֶל־י֥וֹדְעֵי נֶֽהִי׃",
+    "transliteration": "lakhen khoh-'amar yehovah 'elohey tseva'vot 'adonay vekhol-rehovvot misefed vvekhol-hvtsvot yo'merv hvo-hvo vekare'v 'ikhar 'el-'evel vmisefed 'el-yvode'ey nehiy.",
     "translation": "Portanto, assim diz o Senhor, Deus dos Exércitos, o Senhor: Em todas as praças haverá lamento e em todas as ruas se dirão Ai-ai, e chamar-se-á ao vinicultor ao pranto e ao funesto lamento aos conhecedores da desolação."
   },
   {
     "verse": 17,
     "original": "וּבְכׇל־כְּרָמִ֖ים מִסְפֵּ֑ד כִּֽי־אֶעֱבֹ֥ר בְּקִרְבְּךָ֖ אָמַ֥ר יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vvekhol-kheramiym misefed khiy-'e'evor vekirevekha 'amar yehovah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E em todos os vinhedos haverá lamentação, pois passarei no meio de ti, diz o Senhor."
   },
   {
     "verse": 18,
     "original": "ה֥וֹי הַמִּתְאַוִּ֖ים אֶת־י֣וֹם יְהֹוָ֑ה לָמָּה־זֶּ֥ה לָכֶ֛ם י֥וֹם יְהֹוָ֖ה הוּא־חֹ֥שֶׁךְ וְלֹא־אֽוֹר׃",
+    "transliteration": "hvoy hamite'aviym 'et-yvom yehovah lamah-zeh lakhem yvom yehovah hv'-hoshekhe velo'-'vor.",
     "translation": "Ai dos que desejam o dia do Senhor; por que para vós é o dia do Senhor escuridão e não luz?"
   },
   {
     "verse": 19,
     "original": "כַּאֲשֶׁ֨ר יָנ֥וּס אִישׁ֙ מִפְּנֵ֣י הָאֲרִ֔י וּפְגָע֖וֹ הַדֹּ֑ב וּבָ֣א הַבַּ֔יִת וְסָמַ֤ךְ יָדוֹ֙ עַל־הַקִּ֔יר וּנְשָׁכ֖וֹ הַנָּחָֽשׁ׃",
+    "transliteration": "kha'asher yanvs 'iysh mifeney ha'ariy vfega'vo hadov vva' havayit vesamakhe yadvo 'al-hakiyr vneshakhvo hanahash.",
     "translation": "Como um homem foge da fera leonina, e depara com o urso; entra em casa e apoia a mão na parede, e o áspide o morde."
   },
   {
     "verse": 20,
     "original": "הֲלֹא־חֹ֛שֶׁךְ י֥וֹם יְהֹוָ֖ה וְלֹא־א֑וֹר וְאָפֵ֖ל וְלֹא־נֹ֥גַֽהּ לֽוֹ׃",
+    "transliteration": "halo'-hoshekhe yvom yehovah velo'-'vor ve'afel velo'-nogah lvo.",
     "translation": "Acaso o dia do Senhor não é trevas, e não luz? E sombrio, e não resplandece nele?"
   },
   {
     "verse": 21,
     "original": "שָׂנֵ֥אתִי מָאַ֖סְתִּי חַגֵּיכֶ֑ם וְלֹ֥א אָרִ֖יחַ בְּעַצְּרֹתֵיכֶֽם׃",
+    "transliteration": "sane'tiy ma'asetiy hageykhem velo' 'ariyha ve'atseroteykhem.",
     "translation": "Odeio vossos festins, abomino vossos sacrifícios; não sinto prazer em vossas assembleias."
   },
   {
     "verse": 22,
     "original": "כִּ֣י אִם־תַּעֲלוּ־לִ֥י עֹל֛וֹת וּמִנְחֹתֵיכֶ֖ם לֹ֣א אֶרְצֶ֑ה וְשֶׁ֥לֶם מְרִיאֵיכֶ֖ם לֹ֥א אַבִּֽיט׃",
+    "transliteration": "khiy 'im-ta'alv-liy 'olvot vminehoteykhem lo' 'eretseh veshelem meriy'eykhem lo' 'aviyt.",
     "translation": "Porque, se vocês me oferecem holocaustos e ofertas de cereal não serei satisfeito; e o sacrifício dos seus touros eu não contemplarei."
   },
   {
     "verse": 23,
     "original": "הָסֵ֥ר מֵעָלַ֖י הֲמ֣וֹן שִׁרֶ֑יךָ וְזִמְרַ֥ת נְבָלֶ֖יךָ לֹ֥א אֶשְׁמָֽע׃",
+    "transliteration": "haser me'alay hamvon shireykha vezimerat nevaleykha lo' 'eshema'.",
     "translation": "Tira de mim a multidão de teus cânticos, e a melodia de tuas harpas não ouvirei."
   },
   {
     "verse": 24,
     "original": "וְיִגַּ֥ל כַּמַּ֖יִם מִשְׁפָּ֑ט וּצְדָקָ֖ה כְּנַ֥חַל אֵיתָֽן׃",
+    "transliteration": "veyigal khamayim mishefat vtsedakah khenahal 'eytan.",
     "translation": "E a justiça se manifestará como água, e a retidão como um rio perpétuo."
   },
   {
     "verse": 25,
     "original": "הַזְּבָחִ֨ים וּמִנְחָ֜ה הִֽגַּשְׁתֶּם־לִ֧י בַמִּדְבָּ֛ר אַרְבָּעִ֥ים שָׁנָ֖ה בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "transliteration": "hazevahiym vminehah higashetem-liy vamidevar 'areva'iym shanah veyt yisera'el.",
     "translation": "Os sacrifícios e as ofertas trouxestes-me no deserto quarenta anos, casa de Israel."
   },
   {
     "verse": 26,
     "original": "וּנְשָׂאתֶ֗ם אֵ֚ת סִכּ֣וּת מַלְכְּכֶ֔ם וְאֵ֖ת כִּיּ֣וּן צַלְמֵיכֶ֑ם כּוֹכַב֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁ֥ר עֲשִׂיתֶ֖ם לָכֶֽם׃",
+    "transliteration": "vnesa'tem 'et sikhvt malekhekhem ve'et khiyvn tsalemeykhem khvokhav 'eloheykhem 'asher 'asiytem lakhem.",
     "translation": "E levareis a tenda do vosso rei, e o ornamento das vossas imagens, a estrela do vosso deus que fizestes para vós."
   },
   {
     "verse": 27,
     "original": "וְהִגְלֵיתִ֥י אֶתְכֶ֖ם מֵהָ֣לְאָה לְדַמָּ֑שֶׂק אָמַ֛ר יְהֹוָ֥ה אֱלֹהֵֽי־צְבָא֖וֹת שְׁמֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehigeleytiy 'etekhem mehale'ah ledamasek 'amar yehovah 'elohey-tseva'vot shemvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E vos transportarei do Egito a Damasco, diz o Senhor Deus dos Exércitos cujo nome é Yahweh."
   }
 ]

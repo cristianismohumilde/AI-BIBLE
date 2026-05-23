@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "מַשָּׂ֖א נִֽינְוֵ֑ה סֵ֧פֶר חֲז֛וֹן נַח֖וּם הָאֶלְקֹשִֽׁי׃",
+    "transliteration": "masa' niyneveh sefer hazvon nahvm ha'elekoshiy.",
     "translation": "A carga contra Nínive. O livro da visão de Naum, o Elkoseu."
   },
   {
     "verse": 2,
     "original": "אֵ֣ל קַנּ֤וֹא וְנֹקֵם֙ יְהֹוָ֔ה נֹקֵ֥ם יְהֹוָ֖ה וּבַ֣עַל חֵמָ֑ה נֹקֵ֤ם יְהֹוָה֙ לְצָרָ֔יו וְנוֹטֵ֥ר ה֖וּא לְאֹיְבָֽיו׃",
+    "transliteration": "'el kanvo' venokem yehovah nokem yehovah vva'al hemah nokem yehovah letsarayv venvoter hv' le'oyevayv.",
     "translation": "Deus zeloso e vingador é o Senhor, vingador é o Senhor, e zeloso de sua ira; vingador é o Senhor contra seus adversários, e guardião está ele dos seus inimigos."
   },
   {
     "verse": 3,
     "original": "יְהֹוָ֗ה אֶ֤רֶךְ אַפַּ֙יִם֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וגדול)</span> <span class=\"mam-kq-q\">[וּגְדׇל־]</span></span>כֹּ֔חַ וְנַקֵּ֖ה לֹ֣א יְנַקֶּ֑ה יְהֹוָ֗ה בְּ<small>ס</small>וּפָ֤ה וּבִשְׂעָרָה֙ דַּרְכּ֔וֹ וְעָנָ֖ן אֲבַ֥ק רַגְלָֽיו׃",
+    "transliteration": "yehovah 'erekhe 'afayim <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vgdvl)</span> <span class=\"mam-kq-q\">[vgedol-]</span></span>khoha venakeh lo' yenakeh yehovah ve<small>s</small>vfah vvise'arah darekhvo ve'anan 'avak ragelayv.",
     "translation": "Senhor, longânimo em ira e grande em poder, nem por isso absolvente de culpa; Senhor, na calma e no turbilhão está Seu caminho, e uma nuvem de poeira segue Seus passos."
   },
   {
     "verse": 4,
     "original": "גּוֹעֵ֤ר בַּיָּם֙ וַֽיַּבְּשֵׁ֔הוּ וְכׇל־הַנְּהָר֖וֹת הֶחֱרִ֑יב אֻמְלַ֤ל בָּשָׁן֙ וְכַרְמֶ֔ל וּפֶ֥רַח לְבָנ֖וֹן אֻמְלָֽל׃",
+    "transliteration": "gvo'er vayam vayaveshehv vekhol-haneharvot heheriyv 'umelal vashan vekharemel vferah levanvon 'umelal.",
     "translation": "Tornando-se irado contra os mares e secando-os, destruindo todos os rios. O Sharon se torna árido e o carvalhal igualmente; morre a flor do Líbano."
   },
   {
     "verse": 5,
     "original": "הָרִים֙ רָעֲשׁ֣וּ מִמֶּ֔נּוּ וְהַגְּבָע֖וֹת הִתְמֹגָ֑גוּ וַתִּשָּׂ֤א הָאָ֙רֶץ֙ מִפָּנָ֔יו וְתֵבֵ֖ל וְכׇל־י֥וֹשְׁבֵי בָֽהּ׃",
+    "transliteration": "hariym ra'ashv mimenv vehageva'vot hitemogagv vatisa' ha'arets mifanayv vetevel vekhol-yvoshevey vah.",
     "translation": "Os montes tremeram diante dele, e as colinas se derreteram. A terra se ergueu diante dele; sim, o mundo e todos os que nele habitam."
   },
   {
     "verse": 6,
     "original": "לִפְנֵ֤י זַעְמוֹ֙ מִ֣י יַעֲמ֔וֹד וּמִ֥י יָק֖וּם בַּחֲר֣וֹן אַפּ֑וֹ חֲמָתוֹ֙ נִתְּכָ֣ה כָאֵ֔שׁ וְהַצֻּרִ֖ים נִתְּצ֥וּ מִמֶּֽנּוּ׃",
+    "transliteration": "lifeney za'emvo miy ya'amvod vmiy yakvm vaharvon 'afvo hamatvo nitekhah kha'esh vehatsuriym nitetsv mimenv.",
     "translation": "Antes de seu zelo, quem poderá resistir? E diante da intensidade de sua ira, quem se erguerá? Sua cólera arde como fogo, e até as rochas são quebradas por ele."
   },
   {
     "verse": 7,
     "original": "ט֣וֹב יְהֹוָ֔ה לְמָע֖וֹז בְּי֣וֹם צָרָ֑ה וְיֹדֵ֖עַ חֹ֥סֵי בֽוֹ׃",
+    "transliteration": "tvov yehovah lema'voz veyvom tsarah veyode'a hosey vvo.",
     "translation": "Bom é o Senhor, para refúgio no dia da angústia; e ele conhece os que nele confiam."
   },
   {
     "verse": 8,
     "original": "וּבְשֶׁ֣טֶף עֹבֵ֔ר כָּלָ֖ה יַעֲשֶׂ֣ה מְקוֹמָ֑הּ וְאֹיְבָ֖יו יְרַדֶּף־חֹֽשֶׁךְ׃",
+    "transliteration": "vveshetef 'over khalah ya'aseh mekvomah ve'oyevayv yeradef-hoshekhe.",
     "translation": "E na torrente passajória, ela completa seu lugar, e sobre seus inimigos se abate a escuridão."
   },
   {
     "verse": 9,
     "original": "מַה־תְּחַשְּׁבוּן֙ אֶל־יְהֹוָ֔ה כָּלָ֖ה ה֣וּא עֹשֶׂ֑ה לֹא־תָק֥וּם פַּעֲמַ֖יִם צָרָֽה׃",
+    "transliteration": "mah-tehashevvn 'el-yehovah khalah hv' 'oseh lo'-takvm fa'amayim tsarah.",
     "translation": "Que pensais vós do Senhor? Tudo ele faz; não se levantará duas vezes a calamidade."
   },
   {
     "verse": 10,
     "original": "כִּ֚י עַד־סִירִ֣ים סְבֻכִ֔ים וּכְסׇבְאָ֖ם סְבוּאִ֑ים אֻ֨כְּל֔וּ כְּקַ֥שׁ יָבֵ֖שׁ מָלֵֽא׃",
+    "transliteration": "khiy 'ad-siyriym sevukhiym vkhesove'am sevv'iym 'ukhelv khekash yavesh male'.",
     "translation": "Porque até as tinas entrelaçadas de uvas e os barris esgotados de vinho serão devorados como gravetos secos, cheios."
   },
   {
     "verse": 11,
     "original": "מִמֵּ֣ךְ יָצָ֔א חֹשֵׁ֥ב עַל־יְהֹוָ֖ה רָעָ֑ה יֹעֵ֖ץ בְּלִיָּֽעַל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "mimekhe yatsa' hoshev 'al-yehovah ra'ah yo'ets veliya'al.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "De ti saiu quem medita males contra o Senhor, conselheira de iniquidade."
   },
   {
     "verse": 12,
     "original": "כֹּ֣ה&thinsp;<b>׀</b> אָמַ֣ר יְהֹוָ֗ה אִם־שְׁלֵמִים֙ וְכֵ֣ן רַבִּ֔ים וְכֵ֥ן נָג֖וֹזּוּ וְעָבָ֑ר וְעִ֨נִּתִ֔ךְ לֹ֥א אֲעַנֵּ֖ךְ עֽוֹד׃",
+    "transliteration": "khoh&thinsp;<b>|</b> 'amar yehovah 'im-shelemiym vekhen raviym vekhen nagvozv ve'avar ve'initikhe lo' 'a'anekhe 'vod.",
     "translation": "Assim diz o Senhor: se os juramentos são numerosos e em abundância, e eles transgridem e passam além, contigo eu não me entristecerei mais."
   },
   {
     "verse": 13,
     "original": "וְעַתָּ֕ה אֶשְׁבֹּ֥ר מֹטֵ֖הוּ מֵעָלָ֑יִךְ וּמוֹסְרֹתַ֖יִךְ אֲנַתֵּֽק׃",
+    "transliteration": "ve'atah 'eshevor motehv me'alayikhe vmvoserotayikhe 'anatek.",
     "translation": "E agora quebrarei o jugo dele sobre vós e romperei as tuas ligaduras."
   },
   {
     "verse": 14,
     "original": "וְצִוָּ֤ה עָלֶ֙יךָ֙ יְהֹוָ֔ה לֹא־יִזָּרַ֥ע מִשִּׁמְךָ֖ ע֑וֹד מִבֵּ֨ית אֱלֹהֶ֜יךָ אַכְרִ֨ית פֶּ֧סֶל וּמַסֵּכָ֛ה אָשִׂ֥ים קִבְרֶ֖ךָ כִּ֥י קַלּֽוֹתָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vetsivah 'aleykha yehovah lo'-yizara' mishimekha 'vod miveyt 'eloheykha 'akheriyt fesel vmasekhah 'asiym kiverekha khiy kalvota.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o Senhor te ordenará que de ti não mais nascerá semente; do teu lar eu expulsarei ídolo e imagem, farei tua sepultura, pois tu és de pouca conta."
   }
 ]

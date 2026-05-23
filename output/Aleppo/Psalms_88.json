@@ -2,96 +2,115 @@
   {
     "verse": 1,
     "original": "שִׁ֥יר מִזְמ֗וֹר לִבְנֵ֫י<span class=\"mam-implicit-maqaf\">־</span>קֹ֥רַח לַמְנַצֵּ֣חַ עַל־מָחֲלַ֣ת לְעַנּ֑וֹת מַ֝שְׂכִּ֗יל לְהֵימָ֥ן הָאֶזְרָחִֽי׃",
+    "transliteration": "shiyr mizemvor liveney<span class=\"mam-implicit-maqaf\">-</span>korah lamenatseha 'al-mahalat le'anvot masekhiyl leheyman ha'ezerahiy.",
     "translation": "Cântico; poema para os filhos de Corá, ao músico principal, sobre machalat para entoar; um salmo daquele que dá entendimento; para Heman, o ezrahita."
   },
   {
     "verse": 2,
     "original": "יְ֭הֹוָה אֱלֹהֵ֣י יְשׁוּעָתִ֑י יוֹם־צָעַ֖קְתִּי בַלַּ֣יְלָה נֶגְדֶּֽךָ׃",
+    "transliteration": "yehovah 'elohey yeshv'atiy yvom-tsa'aketiy valayelah negedekha.",
     "translation": "Senhor, Deus da minha salvação, de dia clamei e à noite diante de ti."
   },
   {
     "verse": 3,
     "original": "תָּב֣וֹא לְ֭פָנֶיךָ תְּפִלָּתִ֑י הַטֵּ֥ה אׇ֝זְנְךָ֗ לְרִנָּתִֽי׃",
+    "transliteration": "tavvo' lefaneykha tefilatiy hateh 'ozenekha lerinatiy.",
     "translation": "Chegue diante de ti a minha oração, inclina o teu ouvido à minha voz."
   },
   {
     "verse": 4,
     "original": "כִּֽי־שָׂבְעָ֣ה בְרָע֣וֹת נַפְשִׁ֑י וְ֝חַיַּ֗י לִשְׁא֥וֹל הִגִּֽיעוּ׃",
+    "transliteration": "khiy-save'ah vera'vot nafeshiy vehayay lishe'vol higiy'v.",
     "translation": "Porque saturada está minha alma de misérias, e meus anos se chegaram à sepultura."
   },
   {
     "verse": 5,
     "original": "נֶ֭חְשַׁבְתִּי עִם־י֣וֹרְדֵי ב֑וֹר הָ֝יִ֗יתִי כְּגֶ֣בֶר אֵֽין־אֱיָֽל׃",
+    "transliteration": "neheshavetiy 'im-yvoredey vvor hayiytiy khegever 'eyn-'eyal.",
     "translation": "Pus-me entre os que descem ao poço; tornei-me como homem sem vigor."
   },
   {
     "verse": 6,
     "original": "בַּמֵּתִ֗ים חׇ֫פְשִׁ֥י כְּמ֤וֹ חֲלָלִ֨ים&thinsp;<b>׀</b> שֹׁ֥כְבֵי קֶ֗בֶר אֲשֶׁ֤ר לֹ֣א זְכַרְתָּ֣ם ע֑וֹד וְ֝הֵ֗מָּה מִיָּדְךָ֥ נִגְזָֽרוּ׃",
+    "transliteration": "vametiym hofeshiy khemvo halaliym&thinsp;<b>|</b> shokhevey kever 'asher lo' zekharetam 'vod vehemah miyadekha nigezarv.",
     "translation": "Entre os mortos, livre como os feridos&thinsp;<b>׀</b>, deitados nos túmulos, que já não te lembras mais; e eles foram desterrados da tua mão."
   },
   {
     "verse": 7,
     "original": "שַׁ֭תַּנִי בְּב֣וֹר תַּחְתִּיּ֑וֹת בְּ֝מַחֲשַׁכִּ֗ים בִּמְצֹלֽוֹת׃",
+    "transliteration": "shataniy vevvor tahetiyvot vemahashakhiym vimetsolvot.",
     "translation": "Lança-me no abismo dos vales, às profundezas escuras e angustiantes."
   },
   {
     "verse": 8,
     "original": "עָ֭לַי סָמְכָ֣ה חֲמָתֶ֑ךָ וְכׇל־מִ֝שְׁבָּרֶ֗יךָ עִנִּ֥יתָ סֶּֽלָה׃",
+    "transliteration": "'alay samekhah hamatekha vekhol-mishevareykha 'iniyta selah.",
     "translation": "Sobre mim apoiou tua mão, e todo que se despedaça tu oprimeis, selá."
   },
   {
     "verse": 9,
     "original": "הִרְחַ֥קְתָּ מְיֻדָּעַ֗י מִ֫מֶּ֥נִּי שַׁתַּ֣נִי תוֹעֵב֣וֹת לָ֑מוֹ כָּ֝לֻ֗א וְלֹ֣א אֵצֵֽא׃",
+    "transliteration": "hirehaketa meyuda'ay mimeniy shataniy tvo'evvot lamvo khalu' velo' 'etse'.",
     "translation": "Afasteu-me meus amigos; meu conselho é abominável para eles. Quero sair, mas não posso."
   },
   {
     "verse": 10,
     "original": "עֵינִ֥י דָאֲבָ֗ה מִנִּ֫י<span class=\"mam-implicit-maqaf\">־</span>עֹ֥נִי קְרָאתִ֣יךָ יְהֹוָ֣ה בְּכׇל־י֑וֹם שִׁטַּ֖חְתִּי אֵלֶ֣יךָ כַפָּֽי׃",
+    "transliteration": "'eyniy da'avah miniy<span class=\"mam-implicit-maqaf\">-</span>'oniy kera'tiykha yehovah vekhol-yvom shitahetiy 'eleykha khafay.",
     "translation": "Meus olhos se consumem de ansiedade; chamo-te, Senhor, a todo momento; estendo para ti as minhas mãos."
   },
   {
     "verse": 11,
     "original": "הֲלַמֵּתִ֥ים תַּעֲשֶׂה־פֶּ֑לֶא אִם־רְ֝פָאִ֗ים יָק֤וּמוּ&thinsp;<b>׀</b> יוֹד֬וּךָ סֶּֽלָה׃",
+    "transliteration": "halametiym ta'aseh-fele' 'im-refa'iym yakvmv&thinsp;<b>|</b> yvodvkha selah.",
     "translation": "Farão maravilhas os mortos? Levantar-se-ão os refratários para te confessar, selá."
   },
   {
     "verse": 12,
     "original": "הַיְסֻפַּ֣ר בַּקֶּ֣בֶר חַסְדֶּ֑ךָ אֱ֝מ֥וּנָתְךָ֗ בָּאֲבַדּֽוֹן׃",
+    "transliteration": "hayesufar vakever hasedekha 'emvnatekha va'avadvon.",
     "translation": "Será contado teu favor no sepulcro, tua fé no abismo."
   },
   {
     "verse": 13,
     "original": "הֲיִוָּדַ֣ע בַּחֹ֣שֶׁךְ פִּלְאֶ֑ךָ וְ֝צִדְקָתְךָ֗ בְּאֶ֣רֶץ נְשִׁיָּֽה׃",
+    "transliteration": "hayivada' vahoshekhe file'ekha vetsidekatekha ve'erets neshiyah.",
     "translation": "Será conhecido teu maravilhoso ato na escuridão, e tua justiça na terra da opressão."
   },
   {
     "verse": 14,
     "original": "וַאֲנִ֤י&thinsp;<b>׀</b> אֵלֶ֣יךָ יְהֹוָ֣ה שִׁוַּ֑עְתִּי וּ֝בַבֹּ֗קֶר תְּֽפִלָּתִ֥י תְקַדְּמֶֽךָּ׃",
+    "transliteration": "va'aniy&thinsp;<b>|</b> 'eleykha yehovah shiva'etiy vvavoker tefilatiy tekademekha.",
     "translation": "E eu a ti, Senhor, clamo; de madrugada tua face buscarei."
   },
   {
     "verse": 15,
     "original": "לָמָ֣ה יְ֭הֹוָה תִּזְנַ֣ח נַפְשִׁ֑י תַּסְתִּ֖יר פָּנֶ֣יךָ מִמֶּֽנִּי׃",
+    "transliteration": "lamah yehovah tizenah nafeshiy tasetiyr faneykha mimeniy.",
     "translation": "Por que, Senhor, me desamparas? Por que ocultas de mim o teu rosto?"
   },
   {
     "verse": 16,
     "original": "עָ֘נִ֤י אֲנִ֣י וְגֹוֵ֣עַ מִנֹּ֑עַר נָשָׂ֖אתִי אֵמֶ֣יךָ אָפֽוּנָה׃",
+    "transliteration": "'aniy 'aniy vegove'a mino'ar nasa'tiy 'emeykha 'afvnah.",
     "translation": "Pobre sou e morrendo desde a mocidade; carreguei os dias da minha mãe nos afonsos.\n\nCorreção:\nPobre sou e moribundo desde a mocidade; carreguei a dor da minha mãe."
   },
   {
     "verse": 17,
     "original": "עָ֭לַי עָבְר֣וּ חֲרוֹנֶ֑יךָ בִּ֝עוּתֶ֗יךָ צִמְּתוּתֻֽנִי׃",
+    "transliteration": "'alay 'averv harvoneykha vi'vteykha tsimetvtuniy.",
     "translation": "Sobre mim passaram teus furenses furacões; em teu deserto de ira fui reduzido a sombras."
   },
   {
     "verse": 18,
     "original": "סַבּ֣וּנִי כַ֭מַּיִם כׇּל־הַיּ֑וֹם הִקִּ֖יפוּ עָלַ֣י יָֽחַד׃",
+    "transliteration": "savvniy khamayim khol-hayvom hikiyfv 'alay yahad.",
     "translation": "Lavai-me como águas o dia inteiro; cercaram-me juntos."
   },
   {
     "verse": 19,
     "original": "הִרְחַ֣קְתָּ מִ֭מֶּנִּי אֹהֵ֣ב וָרֵ֑עַ מְֽיֻדָּעַ֥י מַחְשָֽׁךְ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hirehaketa mimeniy 'ohev vare'a meyuda'ay maheshakhe.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Afasteu-se de mim o amado e o amigo; os meus conhecidos se tornaram escuridão."
   }
 ]

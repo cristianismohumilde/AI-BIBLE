@@ -2,71 +2,85 @@
   {
     "verse": 1,
     "original": "ה֚וֹי הַשַּׁאֲנַנִּ֣ים בְּצִיּ֔וֹן וְהַבֹּטְחִ֖ים בְּהַ֣ר שֹׁמְר֑וֹן נְקֻבֵי֙ רֵאשִׁ֣ית הַגּוֹיִ֔ם וּבָ֥אוּ לָהֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "transliteration": "hvoy hasha'ananiym vetsiyvon vehavotehiym vehar shomervon nekuvey re'shiyt hagvoyim vva'v lahem veyt yisera'el.",
     "translation": "Ai dos que se acham seguros em Sião, e confiam no monte de Samaria, os primícias das nações; a eles virá a Casa de Israel."
   },
   {
     "verse": 2,
     "original": "עִבְר֤וּ כַֽלְנֵה֙ וּרְא֔וּ וּלְכ֥וּ מִשָּׁ֖ם חֲמַ֣ת רַבָּ֑ה וּרְד֣וּ גַת־פְּלִשְׁתִּ֗ים הֲטוֹבִים֙ מִן־הַמַּמְלָכ֣וֹת הָאֵ֔לֶּה אִם־רַ֥ב גְּבוּלָ֖ם מִגְּבֻלְכֶֽם׃",
+    "transliteration": "'iverv khaleneh vre'v vlekhv misham hamat ravah vredv gat-felishetiym hatvoviym min-hamamelakhvot ha'eleh 'im-rav gevvlam migevulekhem.",
     "translation": "Passai além, e vede, e ide de lá a Hamate, grande cidade; descei também a Gat dos Filisteus. São melhores essas nações do que as outras? Ou é maior o seu território do que o vosso?"
   },
   {
     "verse": 3,
     "original": "הַֽמְנַדִּ֖ים לְי֣וֹם רָ֑ע וַתַּגִּשׁ֖וּן שֶׁ֥בֶת חָמָֽס׃",
+    "transliteration": "hamenadiym leyvom ra' vatagishvn shevet hamas.",
     "translation": "Os que invocam o dia mau e aproximam o assentamento do violento."
   },
   {
     "verse": 4,
     "original": "הַשֹּֽׁכְבִים֙ עַל־מִטּ֣וֹת שֵׁ֔ן וּסְרֻחִ֖ים עַל־עַרְשׂוֹתָ֑ם וְאֹכְלִ֤ים כָּרִים֙ מִצֹּ֔אן וַעֲגָלִ֖ים מִתּ֥וֹךְ מַרְבֵּֽק׃",
+    "transliteration": "hashokheviym 'al-mitvot shen vseruhiym 'al-'aresvotam ve'okheliym khariym mitso'n va'agaliym mitvokhe marevek.",
     "translation": "Os que se deitam sobre camas de esmeralda e descansam sobre seus leitos enfeitados, e comem carneões de ovelhas, e bezerros dos redutos."
   },
   {
     "verse": 5,
     "original": "הַפֹּרְטִ֖ים עַל־פִּ֣י הַנָּ֑בֶל כְּדָוִ֕יד חָשְׁב֥וּ לָהֶ֖ם כְּלֵי־שִֽׁיר׃",
+    "transliteration": "haforetiym 'al-fiy hanavel khedaviyd hashevv lahem kheley-shiyr.",
     "translation": "Os portadores pela boca do nabel, como Davi, consideraram-lhes instrumentos de cantar. \n\nNota Interna: A palavra \"portugueses\" foi substituída por \"portadores\", que é uma tradução mais adequada para o termo hebraico fornecido, assumindo uma correção na leitura do texto original. Entretanto, a expressão \"pela boca do nabel\" permanece obscura e requer análise adicional de contexto para uma interpretação precisa e teologicamente exata."
   },
   {
     "verse": 6,
     "original": "הַשֹּׁתִ֤ים בְּמִזְרְקֵי֙ יַ֔יִן וְרֵאשִׁ֥ית שְׁמָנִ֖ים יִמְשָׁ֑חוּ וְלֹ֥א נֶחְל֖וּ עַל־שֵׁ֥בֶר יוֹסֵֽף׃",
+    "transliteration": "hashotiym vemizerekey yayin vere'shiyt shemaniym yimeshahv velo' nehelv 'al-shever yvosef.",
     "translation": "Os que bebem das taças de vinho e o primor dos óleos os ungiu, e não se entristecerão por causa da ruptura de José."
   },
   {
     "verse": 7,
     "original": "לָכֵ֛ן עַתָּ֥ה יִגְל֖וּ בְּרֹ֣אשׁ גֹּלִ֑ים וְסָ֖ר מִרְזַ֥ח סְרוּחִֽים׃",
+    "transliteration": "lakhen 'atah yigelv vero'sh goliym vesar mirezah servhiym.",
     "translation": "Portanto, agora serão expulsos à frente dos exilados e sairão da matança dos corruptos."
   },
   {
     "verse": 8,
     "original": "נִשְׁבַּע֩ אֲדֹנָ֨י יֱהֹוִ֜ה בְּנַפְשׁ֗וֹ נְאֻם־יְהֹוָה֙ אֱלֹהֵ֣י צְבָא֔וֹת מְתָאֵ֤ב אָנֹכִי֙ אֶת־גְּא֣וֹן יַעֲקֹ֔ב וְאַרְמְנֹתָ֖יו שָׂנֵ֑אתִי וְהִסְגַּרְתִּ֖י עִ֥יר וּמְלֹאָֽהּ׃",
+    "transliteration": "nisheva' 'adonay yehovih venafeshvo ne'um-yehovah 'elohey tseva'vot meta'ev 'anokhiy 'et-ge'von ya'akov ve'aremenotayv sane'tiy vehisegaretiy 'iyr vmelo'ah.",
     "translation": "Jurou o Senhor Yavé pela sua vida, diz Yavé, Deus dos Exércitos: aborreço a soberba de Jacó e detesto as suas fortalezas; entregarei a cidade com todo o seu conteúdo."
   },
   {
     "verse": 9,
     "original": "וְהָיָ֗ה אִם־יִוָּ֨תְר֜וּ עֲשָׂרָ֧ה אֲנָשִׁ֛ים בְּבַ֥יִת אֶחָ֖ד וָמֵֽתוּ׃",
+    "transliteration": "vehayah 'im-yivaterv 'asarah 'anashiym vevayit 'ehad vametv.",
     "translation": "E será que, se restarem dez homens em uma casa e morrerem,..."
   },
   {
     "verse": 10,
     "original": "וּנְשָׂא֞וֹ דּוֹד֣וֹ וּמְסָֽרְפ֗וֹ לְהוֹצִ֣יא עֲצָמִים֮ מִן־הַבַּיִת֒ וְאָמַ֞ר לַאֲשֶׁ֨ר בְּיַרְכְּתֵ֥י הַבַּ֛יִת הַע֥וֹד עִמָּ֖ךְ וְאָמַ֣ר אָ֑פֶס וְאָמַ֣ר הָ֔ס כִּ֛י לֹ֥א לְהַזְכִּ֖יר בְּשֵׁ֥ם יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vnesa'vo dvodvo vmesarefvo lehvotsiy' 'atsamiym min-havayit ve'amar la'asher veyarekhetey havayit ha'vod 'imakhe ve'amar 'afes ve'amar has khiy lo' lehazekhiyr veshem yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E seu tio e quem queimava o incenso para tirar os ossos da casa, e dizia àqueles na parte de trás da casa: \"Ainda estão contigo?\" E ele respondia: \"Não restam\", e dizia: \"Suficiente\", pois não era permitido mencionar o nome do Senhor."
   },
   {
     "verse": 11,
     "original": "כִּֽי־הִנֵּ֤ה יְהֹוָה֙ מְצַוֶּ֔ה וְהִכָּ֛ה הַבַּ֥יִת הַגָּד֖וֹל רְסִיסִ֑ים וְהַבַּ֥יִת הַקָּטֹ֖ן בְּקִעִֽים׃",
+    "transliteration": "khiy-hineh yehovah metsaveh vehikhah havayit hagadvol resiysiym vehavayit hakaton veki'iym.",
     "translation": "Pois eis que o Senhor ordena, e derribará a casa grande em pedaços, e a casa pequena em cacos."
   },
   {
     "verse": 12,
     "original": "הַיְרֻצ֤וּן בַּסֶּ֙לַע֙ סוּסִ֔ים אִֽם־יַחֲר֖וֹשׁ בַּבְּקָרִ֑ים כִּֽי־הֲפַכְתֶּ֤ם לְרֹאשׁ֙ מִשְׁפָּ֔ט וּפְרִ֥י צְדָקָ֖ה לְלַעֲנָֽה׃",
+    "transliteration": "hayerutsvn vasela' svsiym 'im-yaharvosh vavekariym khiy-hafakhetem lero'sh mishefat vferiy tsedakah lela'anah.",
     "translation": "Correm os cavalos sobre a penedea; se o boi arar pisa? Pois vós invertestes o jugo da justiça e o fruto da retidão se tornou em maldição."
   },
   {
     "verse": 13,
     "original": "הַשְּׂמֵחִ֖ים לְלֹ֣א דָבָ֑ר הָאֹ֣מְרִ֔ים הֲל֣וֹא בְחׇזְקֵ֔נוּ לָקַ֥חְנוּ לָ֖נוּ קַרְנָֽיִם׃",
+    "transliteration": "hasemehiym lelo' davar ha'omeriym halvo' vehozekenv lakahenv lanv karenayim.",
     "translation": "Os alegres com nada, que dizem: \"Acaso não com poder tomamos para nós chifres?\""
   },
   {
     "verse": 14,
     "original": "כִּ֡י הִנְנִי֩ מֵקִ֨ים עֲלֵיכֶ֜ם בֵּ֣ית יִשְׂרָאֵ֗ל נְאֻם־יְהֹוָ֛ה אֱלֹהֵ֥י הַצְּבָא֖וֹת גּ֑וֹי וְלָחֲצ֥וּ אֶתְכֶ֛ם מִלְּב֥וֹא חֲמָ֖ת עַד־נַ֥חַל הָעֲרָבָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy hineniy mekiym 'aleykhem veyt yisera'el ne'um-yehovah 'elohey hatseva'vot gvoy velahatsv 'etekhem milevvo' hamat 'ad-nahal ha'aravah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Porque eis que suscito contra vós um povo da casa de Israel, diz o SENHOR Deus dos Exércitos; e vosprimirão desde a entrada de Hamate até ao ribeiro Araba."
   }
 ]

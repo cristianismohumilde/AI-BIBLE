@@ -2,121 +2,145 @@
   {
     "verse": 1,
     "original": "וְאֵ֤לֶּה הָיוּ֙ בְּנֵ֣י דָוִ֔יד אֲשֶׁ֥ר נוֹלַד־ל֖וֹ בְּחֶבְר֑וֹן הַבְּכ֣וֹר&thinsp;<b>׀</b> אַמְנֹ֗ן לַאֲחִינֹ֙עַם֙ הַיִּזְרְעֵאלִ֔ית שֵׁנִי֙ דָּנִיֵּ֔אל לַאֲבִיגַ֖יִל הַֽכַּרְמְלִֽית׃",
+    "transliteration": "ve'eleh hayv veney daviyd 'asher nvolad-lvo vehevervon havekhvor&thinsp;<b>|</b> 'amenon la'ahiyno'am hayizere'e'liyt sheniy daniye'l la'aviygayil hakharemeliyt.",
     "translation": "E estes foram os filhos de Davi, nascidos-lhe em Hebrom: o primogênito Amnom, de Aminã, a israelita de Jizreel; o segundo, Daniel, de Abigail, a carmelita."
   },
   {
     "verse": 2,
     "original": "הַשְּׁלִשִׁי֙ לְאַבְשָׁל֣וֹם בֶּֽן־מַעֲכָ֔ה בַּת־תַּלְמַ֖י מֶ֣לֶךְ גְּשׁ֑וּר הָרְבִיעִ֖י אֲדֹנִיָּ֥ה בֶן־חַגִּֽית׃",
+    "transliteration": "hashelishiy le'aveshalvom ven-ma'akhah vat-talemay melekhe geshvr hareviy'iy 'adoniyah ven-hagiyt.",
     "translation": "O terceiro foi Absalão, filho de Maaca, filha de Talmai, rei de Geshur; o quarto foi Adonias, filho de Hagite."
   },
   {
     "verse": 3,
     "original": "הַחֲמִישִׁ֥י שְׁפַטְיָ֖ה לַאֲבִיטָ֑ל הַשִּׁשִּׁ֥י יִתְרְעָ֖ם לְעֶגְלָ֥ה אִשְׁתּֽוֹ׃",
+    "transliteration": "hahamiyshiy shefateyah la'aviytal hashishiy yitere'am le'egelah 'ishetvo.",
     "translation": "O quinto, Shafatyá, para Abital; o sexto, Yiteram, para Eglá, sua esposa."
   },
   {
     "verse": 4,
     "original": "שִׁשָּׁה֙ נוֹלַד־ל֣וֹ בְחֶבְר֔וֹן וַיִּ֨מְלׇךְ־שָׁ֔ם שֶׁ֥בַע שָׁנִ֖ים וְשִׁשָּׁ֣ה חֳדָשִׁ֑ים וּשְׁלֹשִׁ֤ים וְשָׁלוֹשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלָֽ͏ִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "shishah nvolad-lvo vehevervon vayimelokhe-sham sheva' shaniym veshishah hodashiym vsheloshiym veshalvosh shanah malakhe viyrvshalaim.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Seis anos ele reinou em Hebrom; sete anos e seis meses reinou em Jerusalém, trinta e três anos."
   },
   {
     "verse": 5,
     "original": "וְאֵ֥לֶּה נוּלְּדוּ־ל֖וֹ בִּירוּשָׁלָ֑יִם שִׁ֠מְעָ֠א וְשׁוֹבָ֞ב וְנָתָ֤ן וּשְׁלֹמֹה֙ אַרְבָּעָ֔ה לְבַת־שׁ֖וּעַ בַּת־עַמִּיאֵֽל׃",
+    "transliteration": "ve'eleh nvledv-lvo viyrvshalayim shime'a' veshvovav venatan vshelomoh 'areva'ah levat-shv'a vat-'amiy'el.",
     "translation": "E estes nasceram para ele em Jerusalém: Sima, Sova, Natã e Salomão; quatro por Bate-Seua filha de Aminiel."
   },
   {
     "verse": 6,
     "original": "וְיִבְחָ֥ר וֶאֱלִישָׁמָ֖ע וֶאֱלִיפָֽלֶט׃",
+    "transliteration": "veyivehar ve'eliyshama' ve'eliyfalet.",
     "translation": "E escolherá Elishama e Elifelete."
   },
   {
     "verse": 7,
     "original": "וְנֹ֥גַהּ וְנֶ֖פֶג וְיָפִֽיעַ׃",
+    "transliteration": "venogah venefeg veyafiy'a.",
     "translation": "E Nogá e Nepeg e Jafia."
   },
   {
     "verse": 8,
     "original": "וֶאֱלִישָׁמָ֧ע וְאֶלְיָדָ֛ע וֶאֱלִיפֶ֖לֶט תִּשְׁעָֽה׃",
+    "transliteration": "ve'eliyshama' ve'eleyada' ve'eliyfelet tishe'ah.",
     "translation": "E Elishama e Eliada e Elifelet nove."
   },
   {
     "verse": 9,
     "original": "כֹּ֖ל בְּנֵ֣י דָוִ֑יד מִלְּבַ֥ד בְּֽנֵי־פִֽילַגְשִׁ֖ים וְתָמָ֥ר אֲחוֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khol veney daviyd milevad veney-fiylageshiym vetamar 'ahvotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Todos os filhos de Davi, exceto os filhos das concubinas e Tamar, sua irmã."
   },
   {
     "verse": 10,
     "original": "וּבֶן־שְׁלֹמֹ֖ה רְחַבְעָ֑ם אֲבִיָּ֥ה בְנ֛וֹ אָסָ֥א בְנ֖וֹ יְהוֹשָׁפָ֥ט בְּנֽוֹ׃",
+    "transliteration": "vven-shelomoh rehave'am 'aviyah venvo 'asa' venvo yehvoshafat venvo.",
     "translation": "E Roboão, filho de Salomão; Abias, seu filho; Asa, seu filho; Jeússafá, seu filho."
   },
   {
     "verse": 11,
     "original": "יוֹרָ֥ם בְּנ֛וֹ אֲחַזְיָ֥הוּ בְנ֖וֹ יוֹאָ֥שׁ בְּנֽוֹ׃",
+    "transliteration": "yvoram venvo 'ahazeyahv venvo yvo'ash venvo.",
     "translation": "Jorão seu filho, Acazias seu filho, Joás seu filho."
   },
   {
     "verse": 12,
     "original": "אֲמַצְיָ֧הוּ בְנ֛וֹ עֲזַרְיָ֥ה בְנ֖וֹ יוֹתָ֥ם בְּנֽוֹ׃",
+    "transliteration": "'amatseyahv venvo 'azareyah venvo yvotam venvo.",
     "translation": "Amasias seu filho, Ozias seu filho, Jotão seu filho."
   },
   {
     "verse": 13,
     "original": "אָחָ֥ז בְּנ֛וֹ חִזְקִיָּ֥הוּ בְנ֖וֹ מְנַשֶּׁ֥ה בְנֽוֹ׃",
+    "transliteration": "'ahaz venvo hizekiyahv venvo menasheh venvo.",
     "translation": "Acaz gerou Ezequias; Ezequias gerou Manassés; Manassés gerou:"
   },
   {
     "verse": 14,
     "original": "אָמ֥וֹן בְּנ֖וֹ יֹאשִׁיָּ֥הוּ בְנֽוֹ׃",
+    "transliteration": "'amvon venvo yo'shiyahv venvo.",
     "translation": "Amon, seu filho; Josias, seu filho."
   },
   {
     "verse": 15,
     "original": "וּבְנֵי֙ יֹֽאשִׁיָּ֔הוּ הַבְּכוֹר֙ יֽוֹחָנָ֔ן הַשֵּׁנִ֖י יְהוֹיָקִ֑ים הַשְּׁלִשִׁי֙ צִדְקִיָּ֔הוּ הָרְבִיעִ֖י שַׁלּֽוּם׃",
+    "transliteration": "vveney yo'shiyahv havekhvor yvohanan hasheniy yehvoyakiym hashelishiy tsidekiyahv hareviy'iy shalvm.",
     "translation": "E os filhos de Josias, o primogênito Joaquim, o segundo Jeoacaz, o terceiro Zedequias, o quarto Salum."
   },
   {
     "verse": 16,
     "original": "וּבְנֵ֖י יְהוֹיָקִ֑ים יְכׇנְיָ֥ה בְנ֖וֹ צִדְקִיָּ֥ה בְנֽוֹ׃",
+    "transliteration": "vveney yehvoyakiym yekhoneyah venvo tsidekiyah venvo.",
     "translation": "E os filhos de Jeoiaquim foram Joaquim seu filho e Zedequel seu filho."
   },
   {
     "verse": 17,
     "original": "וּבְנֵי֙ יְכׇנְיָ֣ה אַסִּ֔ר שְׁאַלְתִּיאֵ֖ל בְּנֽוֹ׃",
+    "transliteration": "vveney yekhoneyah 'asir she'aletiy'el venvo.",
     "translation": "E os filhos de Jeconias, o cativo; Salatiel seu filho."
   },
   {
     "verse": 18,
     "original": "וּמַלְכִירָ֥ם וּפְדָיָ֖ה וְשֶׁנְאַצַּ֑ר יְקַמְיָ֥ה הוֹשָׁמָ֖ע וּנְדַבְיָֽה׃",
+    "transliteration": "vmalekhiyram vfedayah veshene'atsar yekameyah hvoshama' vnedaveyah.",
     "translation": "E Malquira, e Pedajá, e Seneczar, Jequamia, Hosema, e Nedebia."
   },
   {
     "verse": 19,
     "original": "וּבְנֵ֣י פְדָיָ֔ה זְרֻבָּבֶ֖ל וְשִׁמְעִ֑י וּבֶן־זְרֻבָּבֶל֙ מְשֻׁלָּ֣ם וַחֲנַנְיָ֔ה וּשְׁלֹמִ֖ית אֲחוֹתָֽם׃",
+    "transliteration": "vveney fedayah zeruvavel veshime'iy vven-zeruvavel meshulam vahananeyah vshelomiyt 'ahvotam.",
     "translation": "E os filhos de Pedaia foram Zorobabel e Siméi; e os filhos de Zorobabel foram Mesulão e Hananias, e Selomite era sua irmã."
   },
   {
     "verse": 20,
     "original": "וַחֲשֻׁבָ֡ה וָ֠אֹ֠הֶל וּבֶרֶכְיָ֧ה וַחֲסַדְיָ֛ה י֥וּשַׁב חֶ֖סֶד חָמֵֽשׁ׃",
+    "transliteration": "vahashuvah va'ohel vverekheyah vahasadeyah yvshav hesed hamesh.",
     "translation": "E Hashuvá, Ohel, Berécia e Hasadyá assentaram-se em Kesed; cinco."
   },
   {
     "verse": 21,
     "original": "וּבֶן־חֲנַנְיָ֖ה פְּלַטְיָ֣ה וִישַֽׁעְיָ֑ה בְּנֵ֤י רְפָיָה֙ בְּנֵ֣י אַרְנָ֔ן בְּנֵ֥י עֹבַדְיָ֖ה בְּנֵ֥י שְׁכַנְיָֽה׃",
+    "transliteration": "vven-hananeyah felateyah viysha'eyah veney refayah veney 'arenan veney 'ovadeyah veney shekhaneyah.",
     "translation": "E o filho de Hananias, Plattia e Isaias, filhos de Refaja, filhos de Arnan, filhos de Obadias, filhos de Sconias."
   },
   {
     "verse": 22,
     "original": "וּבְנֵ֥י שְׁכַנְיָ֖ה שְׁמַֽעְיָ֑ה וּבְנֵ֣י שְׁמַֽעְיָ֗ה חַטּ֡וּשׁ וְ֠יִגְאָ֠ל וּבָרִ֧יחַ וּנְעַרְיָ֛ה וְשָׁפָ֖ט שִׁשָּֽׁה׃",
+    "transliteration": "vveney shekhaneyah shema'eyah vveney shema'eyah hatvsh veyige'al vvariyha vne'areyah veshafat shishah.",
     "translation": "E os filhos de Shkaniah foram Shmaia, e os filhos de Shmaia: Chatush, Yigal, Bariah, Nearia e Safat, seis."
   },
   {
     "verse": 23,
     "original": "וּבֶן־נְעַרְיָ֗ה אֶלְיוֹעֵינַ֧י וְחִזְקִיָּ֛ה וְעַזְרִיקָ֖ם שְׁלֹשָֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vven-ne'areyah 'eleyvo'eynay vehizekiyah ve'azeriykam sheloshah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E o filho de Neariá, Elioenai, e Azicarm, três."
   },
   {
     "verse": 24,
     "original": "וּבְנֵ֣י אֶלְיוֹעֵינַ֗י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הודיוהו)</span> <span class=\"mam-kq-q\">[הוֹדַוְיָ֡הוּ]</span></span> וְאֶלְיָשִׁ֡יב וּפְלָיָ֡ה וְ֠עַקּ֠וּב וְיוֹחָנָ֧ן וּדְלָיָ֛ה וַעֲנָ֖נִי שִׁבְעָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vveney 'eleyvo'eynay <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hvdyvhv)</span> <span class=\"mam-kq-q\">[hvodaveyahv]</span></span> ve'eleyashiyv vfelayah ve'akvv veyvohanan vdelayah va'ananiy shive'ah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E os filhos de Elieinai: Hodavia, Eliásib, Feleia, Acub, Joanan, Delaia e Anaí, sete."
   }
 ]

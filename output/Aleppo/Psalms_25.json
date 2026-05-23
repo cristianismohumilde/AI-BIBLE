@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "לְדָוִ֡ד אֵלֶ֥יךָ יְ֝הֹוָ֗ה נַפְשִׁ֥י אֶשָּֽׂא׃",
+    "transliteration": "ledavid 'eleykha yehovah nafeshiy 'esa'.",
     "translation": "A ti, Senhor, levantarei a minha alma."
   },
   {
     "verse": 2,
     "original": "אֱֽלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־אֵב֑וֹשָׁה אַל־יַעַלְצ֖וּ אוֹיְבַ֣י לִֽי׃",
+    "transliteration": "'elohay vekha vatahetiy 'al-'evvoshah 'al-ya'aletsv 'voyevay liy.",
     "translation": "Ó meu Deus, em ti confiei; não me envergonhes; que os meus inimigos não se exultem contra mim."
   },
   {
     "verse": 3,
     "original": "גַּ֣ם כׇּל־קֹ֭וֶיךָ לֹ֣א יֵבֹ֑שׁוּ יֵ֝בֹ֗שׁוּ הַבּוֹגְדִ֥ים רֵיקָֽם׃",
+    "transliteration": "gam khol-koveykha lo' yevoshv yevoshv havvogediym reykam.",
     "translation": "Também todos os teus confiantes não se envergonharão; envergonhados ficarão os traidores, desvalidos."
   },
   {
     "verse": 4,
     "original": "דְּרָכֶ֣יךָ יְ֭הֹוָה הוֹדִיעֵ֑נִי אֹ֖רְחוֹתֶ֣יךָ לַמְּדֵֽנִי׃",
+    "transliteration": "derakheykha yehovah hvodiy'eniy 'orehvoteykha lamedeniy.",
     "translation": "Teus caminhos, Senhor, faze-me conhecer; Tua senda me ensina."
   },
   {
     "verse": 5,
     "original": "הַדְרִ֘יכֵ֤נִי בַאֲמִתֶּ֨ךָ&thinsp;<b>׀</b> וְֽלַמְּדֵ֗נִי כִּֽי־אַ֭תָּה אֱלֹהֵ֣י יִשְׁעִ֑י אוֹתְךָ֥ קִ֝וִּ֗יתִי כׇּל־הַיּֽוֹם׃",
+    "transliteration": "haderiykheniy va'amitekha&thinsp;<b>|</b> velamedeniy khiy-'atah 'elohey yishe'iy 'votekha kiviytiy khol-hayvom.",
     "translation": "Dirigindo-me com a tua verdade e ensinando-me, pois tu és o Deus da minha salvação; em ti tenho esperado todo o dia."
   },
   {
     "verse": 6,
     "original": "זְכֹר־רַחֲמֶ֣יךָ יְ֭הֹוָה וַחֲסָדֶ֑יךָ כִּ֖י מֵעוֹלָ֣ם הֵֽמָּה׃",
+    "transliteration": "zekhor-rahameykha yehovah vahasadeykha khiy me'volam hemah.",
     "translation": "Lembra-te dos teus misericórdias, Senhor, e da tua bondade, pois desde a antiguidade são elas."
   },
   {
     "verse": 7,
     "original": "חַטֹּ֤אות נְעוּרַ֨י&thinsp;<b>׀</b> וּפְשָׁעַ֗י אַל־תִּ֫זְכֹּ֥ר כְּחַסְדְּךָ֥ זְכׇר־לִי־אַ֑תָּה לְמַ֖עַן טוּבְךָ֣ יְהֹוָֽה׃",
+    "transliteration": "hato'vt ne'vray&thinsp;<b>|</b> vfesha'ay 'al-tizekhor khehasedekha zekhor-liy-'atah lema'an tvvekha yehovah.",
     "translation": "Pecados da minha juventude e transgressões, não os lembres; segundo tua misericórdia, tu me lembrarás, por amor do teu bom nome, Senhor."
   },
   {
     "verse": 8,
     "original": "טוֹב־וְיָשָׁ֥ר יְהֹוָ֑ה עַל־כֵּ֤ן יוֹרֶ֖ה חַטָּאִ֣ים בַּדָּֽרֶךְ׃",
+    "transliteration": "tvov-veyashar yehovah 'al-khen yvoreh hata'iym vadarekhe.",
     "translation": "Bom e reto é o Senhor, portanto instrui os pecadores no caminho."
   },
   {
     "verse": 9,
     "original": "יַדְרֵ֣ךְ עֲ֭נָוִים בַּמִּשְׁפָּ֑ט וִילַמֵּ֖ד עֲנָוִ֣ים דַּרְכּֽוֹ׃",
+    "transliteration": "yaderekhe 'anaviym vamishefat viylamed 'anaviym darekhvo.",
     "translation": "Guiará os humildes na justiça e ensinará aos modestos o seu caminho."
   },
   {
     "verse": 10,
     "original": "כׇּל־אׇרְח֣וֹת יְ֭הֹוָה חֶ֣סֶד וֶאֱמֶ֑ת לְנֹצְרֵ֥י בְ֝רִית֗וֹ וְעֵדֹתָֽיו׃",
+    "transliteration": "khol-'orehvot yehovah hesed ve'emet lenotserey veriytvo ve'edotayv.",
     "translation": "Todas as veredas do Senhor são misericórdia e verdade para os guardiões de sua aliança e seus testemunhos."
   },
   {
     "verse": 11,
     "original": "לְמַֽעַן־שִׁמְךָ֥ יְהֹוָ֑ה וְֽסָלַחְתָּ֥ לַ֝עֲוֺנִ֗י כִּ֣י רַב־הֽוּא׃",
+    "transliteration": "lema'an-shimekha yehovah vesalaheta la'avoniy khiy rav-hv'.",
     "translation": "Por amor ao teu nome, Senhor, perdoarás a minha iniquidade, pois ela é grande."
   },
   {
     "verse": 12,
     "original": "מִי־זֶ֣ה הָ֭אִישׁ יְרֵ֣א יְהֹוָ֑ה י֝וֹרֶ֗נּוּ בְּדֶ֣רֶךְ יִבְחָֽר׃",
+    "transliteration": "miy-zeh ha'iysh yere' yehovah yvorenv vederekhe yivehar.",
     "translation": "Quem é este homem que teme ao Senhor? A ele instruirá no caminho escolhido."
   },
   {
     "verse": 13,
     "original": "נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ׃",
+    "transliteration": "nafeshvo vetvov taliyn vezare'vo yiyrash 'arets.",
     "translation": "Sua alma repousa no bem, e sua descendência herda a terra."
   },
   {
     "verse": 14,
     "original": "ס֣וֹד יְ֭הֹוָה לִירֵאָ֑יו וּ֝בְרִית֗וֹ לְהוֹדִיעָֽם׃",
+    "transliteration": "svod yehovah liyre'ayv vveriytvo lehvodiy'am.",
     "translation": "O segredo do Senhor está com os que o temem, e a sua aliança lhes dará a conhecer."
   },
   {
     "verse": 15,
     "original": "עֵינַ֣י תָּ֭מִיד אֶל־יְהֹוָ֑ה כִּ֤י הֽוּא־יוֹצִ֖יא מֵרֶ֣שֶׁת רַגְלָֽי׃",
+    "transliteration": "'eynay tamiyd 'el-yehovah khiy hv'-yvotsiy' mereshet ragelay.",
     "translation": "Meus olhos estão sempre voltados para o Senhor, pois ele me livra da rede que ameaça meus pés."
   },
   {
     "verse": 16,
     "original": "פְּנֵֽה־אֵלַ֥י וְחׇנֵּ֑נִי כִּֽי־יָחִ֖יד וְעָנִ֣י אָֽנִי׃",
+    "transliteration": "feneh-'elay vehoneniy khiy-yahiyd ve'aniy 'aniy.",
     "translation": "Volve-te para mim e favorece-me, pois sou único e pobre."
   },
   {
     "verse": 17,
     "original": "צָר֣וֹת לְבָבִ֣י הִרְחִ֑יבוּ מִ֝מְּצוּקוֹתַ֗י הוֹצִיאֵֽנִי׃",
+    "transliteration": "tsarvot levaviy hirehiyvv mimetsvkvotay hvotsiy'eniy.",
     "translation": "Angústias alargaram meu coração; dos apertos, livra-me."
   },
   {
     "verse": 18,
     "original": "רְאֵ֣ה עׇ֭נְיִי וַעֲמָלִ֑י וְ֝שָׂ֗א לְכׇל־חַטֹּאותָֽי׃",
+    "transliteration": "re'eh 'oneyiy va'amaliy vesa' lekhol-hato'vtay.",
     "translation": "Vê minha aflição e meu trabalho; perdoa todos os meus pecados."
   },
   {
     "verse": 19,
     "original": "רְאֵֽה־אֹיְבַ֥י כִּי־רָ֑בּוּ וְשִׂנְאַ֖ת חָמָ֣ס שְׂנֵאֽוּנִי׃",
+    "transliteration": "re'eh-'oyevay khiy-ravv vesine'at hamas sene'vniy.",
     "translation": "Vede, meus inimigos se multiplicaram; os que amam a violência aborrecem-me."
   },
   {
     "verse": 20,
     "original": "שׇׁמְרָ֣ה נַ֭פְשִׁי וְהַצִּילֵ֑נִי אַל־אֵ֝ב֗וֹשׁ כִּֽי־חָסִ֥יתִי בָֽךְ׃",
+    "transliteration": "shomerah nafeshiy vehatsiyleniy 'al-'evvosh khiy-hasiytiy vakhe.",
     "translation": "Guarda minha alma e salva-me, não me envergonhes, pois em ti pus minha confiança."
   },
   {
     "verse": 21,
     "original": "תֹּם־וָיֹ֥שֶׁר יִצְּר֑וּנִי כִּ֝֗י קִוִּיתִֽיךָ׃",
+    "transliteration": "tom-vayosher yitservniy khiy kiviytiykha.",
     "translation": "Perfeição e retidão me formaste, pois em ti pus minha esperança."
   },
   {
     "verse": 22,
     "original": "פְּדֵ֣ה אֱ֭לֹהִים אֶת־יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל צָרוֹתָֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "fedeh 'elohiym 'et-yisera'el mikhol tsarvotayv.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Redime, ó Deus, Israel De todos os seus males.\n\nObservação: A frase original em hebraico antigo sugere um número singular para \"Israel\", e a tradução mantém essa característica. No entanto, para maior fidelidade estilística e contextual, a seguinte revisão é sugerida:\n\nRedime, ó Deus, Israel de todos os seus males.\n\nNote que removi o ponto final após \"Israel\" para manter uma estrutura mais fluida e solene na frase traduzida."
   }
 ]

@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָ֠יו יְשַֽׁעְיָ֨הוּ בֶן־אָמ֜וֹץ הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה׃",
+    "transliteration": "vayamiym hahem halah hizekiyahv lamvt vayavvo' 'elayv yesha'eyahv ven-'amvots hanaviy' vayo'mer 'elayv khoh-'amar yehovah tsav leveytekha khiy met 'atah velo' tiheyeh.",
     "translation": "Nos dias aqueles, Hizqiyyahu caiu doente até a morte; veio-lhe então Yeshayahu, filho de Amots, o profeta, e lhe disse: Assim diz יהוה: Arranja tua casa, pois morrerás e não viverás."
   },
   {
     "verse": 2,
     "original": "וַיַּסֵּ֧ב חִזְקִיָּ֛הוּ פָּנָ֖יו אֶל־הַקִּ֑יר וַיִּתְפַּלֵּ֖ל אֶל־יְהֹוָֽה׃",
+    "transliteration": "vayasev hizekiyahv fanayv 'el-hakiyr vayitefalel 'el-yehovah.",
     "translation": "Ezecias voltou seu rosto para a parede e orou ao Senhor."
   },
   {
     "verse": 3,
     "original": "וַיֹּאמַ֗ר אָנָּ֤ה יְהֹוָה֙ זְכׇר־נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵ֣ב שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mar 'anah yehovah zekhor-na' 'et 'asher hitehalakhetiy lefaneykha ve'emet vvelev shalem vehatvov ve'eyneykha 'asiytiy vayevekhe hizekiyahv vekhiy gadvol.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse: Ah, SENHOR, lembra-te de que andei diante de ti em verdade e com coração inteiro, e fiz o que era bom aos teus olhos. E Chizquiyyahu chorou abundantemente."
   },
   {
     "verse": 4,
     "original": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶֽל־יְשַֽׁעְיָ֖הוּ לֵאמֹֽר׃",
+    "transliteration": "vayehiy devar-yehovah 'el-yesha'eyahv le'mor.",
     "translation": "E veio a palavra do Senhor a Isaías, dizendo:"
   },
   {
     "verse": 5,
     "original": "הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל־חִזְקִיָּ֗הוּ כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֙עְתִּי֙ אֶת־תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת־דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל־יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃",
+    "transliteration": "halvokhe ve'amareta 'el-hizekiyahv khoh-'amar yehovah 'elohey david 'aviykha shama'etiy 'et-tefilatekha ra'iytiy 'et-dime'atekha hineniy yvosif 'al-yameykha hamesh 'esereh shanah.",
     "translation": "Vai e diz a Ezecias: Assim diz o Senhor, Deus de Davi teu pai: Ouvi tua oração, vi tuas lágrimas. Eis que eu acrescentarei quinze anos aos teus dias."
   },
   {
     "verse": 6,
     "original": "וּמִכַּ֤ף מֶֽלֶךְ־אַשּׁוּר֙ אַצִּ֣ילְךָ֔ וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִ֖י עַל־הָעִ֥יר הַזֹּֽאת׃",
+    "transliteration": "vmikhaf melekhe-'ashvr 'atsiylekha ve'et ha'iyr hazo't veganvotiy 'al-ha'iyr hazo't.",
     "translation": "E da palma da mão do rei Assur eu te libertarei, e a esta cidade, e sobre esta cidade farei proteção."
   },
   {
     "verse": 7,
     "original": "וְזֶה־לְּךָ֥ הָא֖וֹת מֵאֵ֣ת יְהֹוָ֑ה אֲשֶׁר֙ יַעֲשֶׂ֣ה יְהֹוָ֔ה אֶת־הַדָּבָ֥ר הַזֶּ֖ה אֲשֶׁ֥ר דִּבֵּֽר׃",
+    "transliteration": "vezeh-lekha ha'vot me'et yehovah 'asher ya'aseh yehovah 'et-hadavar hazeh 'asher diver.",
     "translation": "E esta será para ti a prova do Senhor, que o Senhor fará este acontecimento conforme falou."
   },
   {
     "verse": 8,
     "original": "הִנְנִ֣י מֵשִׁ֣יב אֶת־צֵ֣ל הַֽמַּעֲל֡וֹת אֲשֶׁ֣ר יָרְדָה֩ בְמַעֲל֨וֹת אָחָ֥ז בַּשֶּׁ֛מֶשׁ אֲחֹרַנִּ֖ית עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שׇׁב הַשֶּׁ֙מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר יָרָֽדָה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "hineniy meshiyv 'et-tsel hama'alvot 'asher yaredah vema'alvot 'ahaz vashemesh 'ahoraniyt 'eser ma'alvot vatashov hashemesh 'eser ma'alvot vama'alvot 'asher yaradah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Eis que eu faço voltar a sombra dos degraus que desceu no instrumento solar do rei Acaz, dez degraus para trás. E a sombra recuou dez degraus nos degraus pelos quais havia descido."
   },
   {
     "verse": 9,
     "original": "מִכְתָּ֖ב לְחִזְקִיָּ֣הוּ מֶלֶךְ־יְהוּדָ֑ה בַּחֲלֹת֕וֹ וַיְחִ֖י מֵחׇלְיֽוֹ׃",
+    "transliteration": "mikhetav lehizekiyahv melekhe-yehvdah vahalotvo vayehiy meholeyvo.",
     "translation": "Carta a Ezequias, rei de Judá, quando este adoentou-se e se restituiu da enfermidade."
   },
   {
     "verse": 10,
     "original": "אֲנִ֣י אָמַ֗רְתִּי בִּדְמִ֥י יָמַ֛י אֵלֵ֖כָה בְּשַׁעֲרֵ֣י שְׁא֑וֹל פֻּקַּ֖דְתִּי יֶ֥תֶר שְׁנוֹתָֽי׃",
+    "transliteration": "'aniy 'amaretiy videmiy yamay 'elekhah vesha'arey she'vol fukadetiy yeter shenvotay.",
     "translation": "Eu disse em meus dias de aflição: \"Caminharei pelas portas do Sheol, reduzido a cativeiro além dos anos da minha vida.\""
   },
   {
     "verse": 11,
     "original": "אָמַ֙רְתִּי֙ לֹא־אֶרְאֶ֣ה יָ֔הּ יָ֖הּ בְּאֶ֣רֶץ הַחַיִּ֑ים לֹא־אַבִּ֥יט אָדָ֛ם ע֖וֹד עִם־י֥וֹשְׁבֵי חָֽדֶל׃",
+    "transliteration": "'amaretiy lo'-'ere'eh yah yah ve'erets hahayiym lo'-'aviyt 'adam 'vod 'im-yvoshevey hadel.",
     "translation": "Disse eu: \"Não o verei mais, ó Senhor; não o verei na terra dos viventes; já não contemplarei os filhos do homem junto aos habitantes do silêncio.\""
   },
   {
     "verse": 12,
     "original": "דּוֹרִ֗י נִסַּ֧ע וְנִגְלָ֛ה מִנִּ֖י כְּאֹ֣הֶל רֹעִ֑י קִפַּ֨דְתִּי כָאֹרֵ֤ג חַיַּי֙ מִדַּלָּ֣ה יְבַצְּעֵ֔נִי מִיּ֥וֹם עַד־לַ֖יְלָה תַּשְׁלִימֵֽנִי׃",
+    "transliteration": "dvoriy nisa' venigelah miniy khe'ohel ro'iy kifadetiy kha'oreg hayay midalah yevatse'eniy miyvom 'ad-layelah tasheliymeniy.",
     "translation": "Geração minha, acampou e se revelou de mim como a tenda do pastor. Como o tecelão que conta os fios da sua vida, tu ordenas as minhas vidas; de dia até à noite me levarás."
   },
   {
     "verse": 13,
     "original": "שִׁוִּ֤יתִי עַד־בֹּ֙קֶר֙ כָּאֲרִ֔י כֵּ֥ן יְשַׁבֵּ֖ר כׇּל־עַצְמוֹתָ֑י מִיּ֥וֹם עַד־לַ֖יְלָה תַּשְׁלִימֵֽנִי׃",
+    "transliteration": "shiviytiy 'ad-voker kha'ariy khen yeshaver khol-'atsemvotay miyvom 'ad-layelah tasheliymeniy.",
     "translation": "Como leão, estabeleci minha guarda até a aurora; ele quebra todos os meus ossos, de dia e de noite me tortura."
   },
   {
     "verse": 14,
     "original": "כְּס֤וּס עָגוּר֙ כֵּ֣ן אֲצַפְצֵ֔ף אֶהְגֶּ֖ה כַּיּוֹנָ֑ה דַּלּ֤וּ עֵינַי֙ לַמָּר֔וֹם אֲדֹנָ֖י עָֽשְׁקָה־לִּ֥י עׇרְבֵֽנִי׃",
+    "transliteration": "khesvs 'agvr khen 'atsafetsef 'ehegeh khayvonah dalv 'eynay lamarvom 'adonay 'ashekah-liy 'oreveniy.",
     "translation": "Como um cavalo solitário, eu alimento meu coração; como a pomba, gemo. Meus olhos se desfazem em lágrimas para os céus altos, pois o Senhor me rejeitou, é testemunha contra mim."
   },
   {
     "verse": 15,
     "original": "מָֽה־אֲדַבֵּ֥ר וְאָֽמַר־לִ֖י וְה֣וּא עָשָׂ֑ה אֶדַּדֶּ֥ה כׇל־שְׁנוֹתַ֖י עַל־מַ֥ר נַפְשִֽׁי׃",
+    "transliteration": "mah-'adaver ve'amar-liy vehv' 'asah 'edadeh khol-shenvotay 'al-mar nafeshiy.",
     "translation": "Que direi, e que lhe responderei, quando ele mesmo age? Contarei todos os anos da minha vida com amargura no meu espírito."
   },
   {
     "verse": 16,
     "original": "אֲדֹנָ֖י עֲלֵיהֶ֣ם יִֽחְי֑וּ וּלְכׇל־בָּהֶן֙ חַיֵּ֣י רוּחִ֔י וְתַחֲלִימֵ֖נִי וְהַחֲיֵֽנִי׃",
+    "transliteration": "'adonay 'aleyhem yiheyv vlekhol-vahen hayey rvhiy vetahaliymeniy vehahayeniy.",
     "translation": "Senhor, neles vivem, e para todos eles a vida do meu espírito; e me renovarão e me farão viver."
   },
   {
     "verse": 17,
     "original": "הִנֵּ֥ה לְשָׁל֖וֹם מַר־לִ֣י מָ֑ר וְאַתָּ֞ה חָשַׁ֤קְתָּ נַפְשִׁי֙ מִשַּׁ֣חַת בְּלִ֔י כִּ֥י הִשְׁלַ֛כְתָּ אַחֲרֵ֥י גֵוְךָ֖ כׇּל־חֲטָאָֽי׃",
+    "transliteration": "hineh leshalvom mar-liy mar ve'atah hashaketa nafeshiy mishahat veliy khiy hishelakheta 'aharey gevekha khol-hata'ay.",
     "translation": "Eis que para a paz estou amargo, e tu me prendeste com toda minha alma em uma secura sem água, porque lançaste atrás de tua própria retaguarda todos os meus pecados."
   },
   {
     "verse": 18,
     "original": "כִּ֣י לֹ֥א שְׁא֛וֹל תּוֹדֶ֖ךָּ מָ֣וֶת יְהַלְלֶ֑ךָּ לֹא־יְשַׂבְּר֥וּ יוֹרְדֵי־ב֖וֹר אֶל־אֲמִתֶּֽךָ׃",
+    "transliteration": "khiy lo' she'vol tvodekha mavet yehalelekha lo'-yesaverv yvoredey-vvor 'el-'amitekha.",
     "translation": "Pois não o Sheol te louvará, nem a morte te celebrará; os que descem ao poço não confessarão a verdade sobre ti."
   },
   {
     "verse": 19,
     "original": "חַ֥י חַ֛י ה֥וּא יוֹדֶ֖ךָ כָּמ֣וֹנִי הַיּ֑וֹם אָ֣ב לְבָנִ֔ים יוֹדִ֖יעַ אֶל־אֲמִתֶּֽךָ׃",
+    "transliteration": "hay hay hv' yvodekha khamvoniy hayvom 'av levaniym yvodiy'a 'el-'amitekha.",
     "translation": "Vivo, vivo é ele que te conhece como hoje, pai de filhos, revela tua verdade."
   },
   {
     "verse": 20,
     "original": "יְהֹוָ֖ה לְהוֹשִׁיעֵ֑נִי וּנְגִנוֹתַ֧י נְנַגֵּ֛ן כׇּל־יְמֵ֥י חַיֵּ֖ינוּ עַל־בֵּ֥ית יְהֹוָֽה׃",
+    "transliteration": "yehovah lehvoshiy'eniy vneginvotay nenagen khol-yemey hayeynv 'al-veyt yehovah.",
     "translation": "Senhor, para nos salvar, e cantaremos nossos cânticos todos os dias de nossa vida na casa do Senhor."
   },
   {
     "verse": 21,
     "original": "וַיֹּ֣אמֶר יְשַֽׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל־הַשְּׁחִ֖ין וְיֶֽחִי׃",
+    "transliteration": "vayo'mer yesha'eyahv yise'v develet te'eniym veyimerehv 'al-hashehiyn veyehiy.",
     "translation": "E disse Isaías: Elevar-se-ão as cargas dos figos, e rolarão sobre o espinheiro, e vivirá."
   },
   {
     "verse": 22,
     "original": "וַיֹּ֥אמֶר חִזְקִיָּ֖הוּ מָ֣ה א֑וֹת כִּ֥י אֶעֱלֶ֖ה בֵּ֥ית יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer hizekiyahv mah 'vot khiy 'e'eleh veyt yehovah.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E Hezquias disse: Que sinal me darás para subir à casa do Senhor?"
   }
 ]

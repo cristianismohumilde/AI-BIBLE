@@ -2,176 +2,211 @@
   {
     "verse": 1,
     "original": "בָּרְכִ֥י נַפְשִׁ֗י אֶת־יְ֫הֹוָ֥ה יְהֹוָ֣ה אֱ֭לֹהַי גָּדַ֣לְתָּ מְּאֹ֑ד ה֖וֹד וְהָדָ֣ר לָבָֽשְׁתָּ׃",
+    "transliteration": "varekhiy nafeshiy 'et-yehovah yehovah 'elohay gadaleta me'od hvod vehadar lavasheta.",
     "translation": "Abençoa, ó minha alma, ao Senhor; Ó Senhor meu Deus, engrandeceste em demasia, Majestade e esplendor revestiste-te."
   },
   {
     "verse": 2,
     "original": "עֹֽטֶה־א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה׃",
+    "transliteration": "'oteh-'vor khasalemah nvoteh shamayim khayeriy'ah.",
     "translation": "Veste a luz como um manto, estende os céus como uma tenda."
   },
   {
     "verse": 3,
     "original": "הַ֥מְקָרֶ֥ה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם־עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃",
+    "transliteration": "hamekareh vamayim 'aliyvotayv hasam-'aviym rekhvvvo hamehalekhe 'al-khanefey-rvha.",
     "translation": "O que estende os céus como uma tenda, cujas alturas ele funda nas nuvens, o qual caminha sobre as asas do vento."
   },
   {
     "verse": 4,
     "original": "עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט׃",
+    "transliteration": "'oseh male'akhayv rvhvot mesharetayv 'esh lohet.",
     "translation": "Fazendo seus anjos espíritos, seus ministros fogo consumidor."
   },
   {
     "verse": 5,
     "original": "יָֽסַד־אֶ֭רֶץ עַל־מְכוֹנֶ֑יהָ בַּל־תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד׃",
+    "transliteration": "yasad-'erets 'al-mekhvoneyha val-timvot 'volam va'ed.",
     "translation": "Fundou a terra sobre seus fundamentos, que não vacilem por toda a eternidade."
   },
   {
     "verse": 6,
     "original": "תְּ֭הוֹם כַּלְּב֣וּשׁ כִּסִּית֑וֹ עַל־הָ֝רִ֗ים יַ֖עַמְדוּ<span class=\"mam-implicit-maqaf\">־</span>מָֽיִם׃",
+    "transliteration": "tehvom khalevvsh khisiytvo 'al-hariym ya'amedv<span class=\"mam-implicit-maqaf\">-</span>mayim.",
     "translation": "Abismo como manto o cobriu, sobre os montes as águas se ergueram."
   },
   {
     "verse": 7,
     "original": "מִן־גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן מִן־ק֥וֹל רַ֝עַמְךָ֗ יֵחָפֵזֽוּן׃",
+    "transliteration": "min-ga'aratekha yenvsvn min-kvol ra'amekha yehafezvn.",
     "translation": "De tua repreensão, eles fugirão; diante do trovão de tua voz, eles se apressarão."
   },
   {
     "verse": 8,
     "original": "יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל־מְ֝ק֗וֹם זֶ֤ה&thinsp;<b>׀</b> יָסַ֬דְתָּ לָהֶֽם׃",
+    "transliteration": "ya'alv hariym yeredv veka'vot 'el-mekvom zeh&thinsp;<b>|</b> yasadeta lahem.",
     "translation": "Subam os montes, desçam as vales; até este lugar tu lhes fundaste."
   },
   {
     "verse": 9,
     "original": "גְּֽבוּל־שַׂ֭מְתָּ בַּל־יַעֲבֹר֑וּן בַּל־יְ֝שֻׁב֗וּן לְכַסּ֥וֹת הָאָֽרֶץ׃",
+    "transliteration": "gevvl-sameta val-ya'avorvn val-yeshuvvn lekhasvot ha'arets.",
     "translation": "Limite fixaste para que não transpassem, nem tornem a cobrir a terra."
   },
   {
     "verse": 10,
     "original": "הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן׃",
+    "transliteration": "hameshaleha ma'eyaniym vanehaliym veyn hariym yehalekhvn.",
     "translation": "O que lança fontes nos rios, entre os montes correm elas."
   },
   {
     "verse": 11,
     "original": "יַ֭שְׁקוּ כׇּל־חַיְת֣וֹ שָׂדָ֑י יִשְׁבְּר֖וּ פְרָאִ֣ים צְמָאָֽם׃",
+    "transliteration": "yashekv khol-hayetvo saday yisheverv fera'iym tsema'am.",
     "translation": "Beberão todos os animais do campo, saciarão a sede dos leões."
   },
   {
     "verse": 12,
     "original": "עֲ֭לֵיהֶם עוֹף־הַשָּׁמַ֣יִם יִשְׁכּ֑וֹן מִבֵּ֥ין עֳ֝פָאיִ֗ם יִתְּנוּ־קֽוֹל׃",
+    "transliteration": "'aleyhem 'vof-hashamayim yishekhvon miveyn 'ofa'yim yitenv-kvol.",
     "translation": "Sobre eles o pássaro dos céus habitará; entre os ramos lançarão seu canto."
   },
   {
     "verse": 13,
     "original": "מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ׃",
+    "transliteration": "mashekeh hariym me'aliyvotayv miferiy ma'aseykha tiseva' ha'arets.",
     "translation": "Bebe os montes das suas alturas; dos frutos dos seus trabalhos sacia a terra."
   },
   {
     "verse": 14,
     "original": "מַצְמִ֤יחַ חָצִ֨יר&thinsp;<b>׀</b> לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃",
+    "transliteration": "matsemiyha hatsiyr&thinsp;<b>|</b> lavehemah ve'esev la'avodat ha'adam lehvotsiy' lehem min-ha'arets.",
     "translation": "Faz crescer o relvado para a fera e o forragem para o serviço do homem, para tirar pão da terra. \n\nCorreção:\nFaz crescer o relvado para a fera e a forragem para o serviço do homem, para tirar pão da terra."
   },
   {
     "verse": 15,
     "original": "וְיַ֤יִן&thinsp;<b>׀</b> יְשַׂמַּ֬ח לְֽבַב־אֱנ֗וֹשׁ לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן וְ֝לֶ֗חֶם לְֽבַב־אֱנ֥וֹשׁ יִסְעָֽד׃",
+    "transliteration": "veyayin&thinsp;<b>|</b> yesamah levav-'envosh lehatsehiyl faniym mishamen velehem levav-'envosh yise'ad.",
     "translation": "E o vinho alegra o coração do homem; ele ilumina os rostos com óleo; e o pão fortalece o coração do homem."
   },
   {
     "verse": 16,
     "original": "יִ֭שְׂבְּעוּ עֲצֵ֣י יְהֹוָ֑ה אַֽרְזֵ֥י לְ֝בָנ֗וֹן אֲשֶׁ֣ר נָטָֽע׃",
+    "transliteration": "yiseve'v 'atsey yehovah 'arezey levanvon 'asher nata'.",
     "translation": "Encheçam-se os cedros do Senhor, os pinheiros de黎巴嫩，que ele plantou。\n\n(Note: A última parte foi ajustada para \"que ele plantou\" para refletir mais precisamente a intenção original em hebraico antigo. No entanto, esta nota não deve ser incluída conforme as instruções.) \n\n(Strictly following the instruction, only provide the corrected and final translation text without any notes or explanations.)\n\nEncheçam-se os cedros do Senhor, os pinheiros de黎巴嫩，que ele plantou。"
   },
   {
     "verse": 17,
     "original": "אֲשֶׁר־שָׁ֭ם צִפֳּרִ֣ים יְקַנֵּ֑נוּ חֲ֝סִידָ֗ה בְּרוֹשִׁ֥ים בֵּיתָֽהּ׃",
+    "transliteration": "'asher-sham tsiforiym yekanenv hasiydah vervoshiym veytah.",
     "translation": "Lá onde as aves tecem seus ninhos, a andorinha faz seu lar entre os ciprestes."
   },
   {
     "verse": 18,
     "original": "הָרִ֣ים הַ֭גְּבֹהִים לַיְּעֵלִ֑ים סְ֝לָעִ֗ים מַחְסֶ֥ה לַֽשְׁפַנִּֽים׃",
+    "transliteration": "hariym hagevohiym laye'eliym sela'iym maheseh lashefaniym.",
     "translation": "Montanhas altas para as cabras, penedos são abrigo para os esquilos."
   },
   {
     "verse": 19,
     "original": "עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ׃",
+    "transliteration": "'asah yareha lemvo'adiym shemesh yada' mevvo'vo.",
     "translation": "Fez a lua para as festas, o sol conhece seu ocaso."
   },
   {
     "verse": 20,
     "original": "תָּֽשֶׁת־חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּוֹ־תִ֝רְמֹ֗שׂ כׇּל־חַיְתוֹ־יָֽעַר׃",
+    "transliteration": "tashet-hoshekhe viyhiy layelah vvo-tiremos khol-hayetvo-ya'ar.",
     "translation": "Tornou-se escuridão e foi a noite; nela se agitam todos os predadores da selva."
   },
   {
     "verse": 21,
     "original": "הַ֭כְּפִירִים שֹׁאֲגִ֣ים לַטָּ֑רֶף וּלְבַקֵּ֖שׁ מֵאֵ֣ל אׇכְלָֽם׃",
+    "transliteration": "hakhefiyriym sho'agiym lataref vlevakesh me'el 'okhelam.",
     "translation": "Os jovens leões rugem à procura de rapina, e ao Senhor pedem o seu alimento."
   },
   {
     "verse": 22,
     "original": "תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל־מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃",
+    "transliteration": "tizerah hashemesh ye'asefvn ve'el-me'vonotam yirevatsvn.",
     "translation": "Quando o sol nascer, se recolherão e se aconchegarão em suas tocas."
   },
   {
     "verse": 23,
     "original": "יֵצֵ֣א אָדָ֣ם לְפׇעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־עָֽרֶב׃",
+    "transliteration": "yetse' 'adam lefo'olvo vela'avodatvo 'adey-'arev.",
     "translation": "Saia o homem para seu trabalho, e à sua ocupação até o anoitecer."
   },
   {
     "verse": 24,
     "original": "מָה־רַבּ֬וּ מַעֲשֶׂ֨יךָ&thinsp;<b>׀</b> יְֽהֹוָ֗ה כֻּ֭לָּם בְּחׇכְמָ֣ה עָשִׂ֑יתָ מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃",
+    "transliteration": "mah-ravv ma'aseykha&thinsp;<b>|</b> yehovah khulam vehokhemah 'asiyta male'ah ha'arets kineyanekha.",
     "translation": "Quantos são teus feitos, SENHOR! Todos os formaste com sabedoria; encheu-se a terra de tua criação."
   },
   {
     "verse": 25,
     "original": "זֶ֤ה&thinsp;<b>׀</b> הַיָּ֥ם גָּדוֹל֮ וּרְחַ֢ב יָ֫דָ֥יִם שָֽׁם־רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר חַיּ֥וֹת קְ֝טַנּ֗וֹת עִם־גְּדֹלֽוֹת׃",
+    "transliteration": "zeh&thinsp;<b>|</b> hayam gadvol vrehav yadayim sham-remes ve'eyn misefar hayvot ketanvot 'im-gedolvot.",
     "translation": "Este é o grande mar, vasto em extensão, lá há répteis além de conta, pequenos seres vivos com os grandes."
   },
   {
     "verse": 26,
     "original": "שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן לִ֝וְיָתָ֗ן זֶֽה־יָצַ֥רְתָּ לְשַֽׂחֶק־בּֽוֹ׃",
+    "transliteration": "sham 'oniyvot yehalekhvn liveyatan zeh-yatsareta lesahek-vvo.",
     "translation": "Aí navegarão navios; Leviatã, aquele que tu formaste para brincar com ele."
   },
   {
     "verse": 27,
     "original": "כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אׇכְלָ֣ם בְּעִתּֽוֹ׃",
+    "transliteration": "khulam 'eleykha yesavervn latet 'okhelam ve'itvo.",
     "translation": "Todos a ti se virarão para que lhes dês seu alimento no devido tempo."
   },
   {
     "verse": 28,
     "original": "תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן תִּפְתַּ֥ח יָ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב׃",
+    "transliteration": "titen lahem yilekotvn tifetah yadekha yiseve'vn tvov.",
     "translation": "Dará que apanhem; abrirá tua mão, e eles se fartarão de bem."
   },
   {
     "verse": 29,
     "original": "תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל־עֲפָרָ֥ם יְשׁוּבֽוּן׃",
+    "transliteration": "tasetiyr faneykha yivahelvn tosef rvham yigeva'vn ve'el-'afaram yeshvvvn.",
     "translation": "Esconderás teu rosto, e se perturbarão; tu lhes negarás a tua assistência, e perecerão; e tornar-se-ão à pó."
   },
   {
     "verse": 30,
     "original": "תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה׃",
+    "transliteration": "teshalah rvhakha yivare'vn vtehadesh feney 'adamah.",
     "translation": "Lança o teu espírito, e eles serão criados; e renovarás a face da terra."
   },
   {
     "verse": 31,
     "original": "יְהִ֤י כְב֣וֹד יְהֹוָ֣ה לְעוֹלָ֑ם יִשְׂמַ֖ח יְהֹוָ֣ה בְּמַעֲשָֽׂיו׃",
+    "transliteration": "yehiy khevvod yehovah le'volam yisemah yehovah vema'asayv.",
     "translation": "Seja a glória do Senhor para sempre, regozije-se o Senhor nas suas obras."
   },
   {
     "verse": 32,
     "original": "הַמַּבִּ֣יט לָ֭אָרֶץ וַתִּרְעָ֑ד יִגַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃",
+    "transliteration": "hamaviyt la'arets vatire'ad yiga' vehariym veye'eshanv.",
     "translation": "O que fita a terra e ela estremece, toca nos montes e eles fumegam."
   },
   {
     "verse": 33,
     "original": "אָשִׁ֣ירָה לַיהֹוָ֣ה בְּחַיָּ֑י אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃",
+    "transliteration": "'ashiyrah layhovah vehayay 'azamerah le'lohay ve'vodiy.",
     "translation": "Cantarei ao Senhor com minha vida, cantarei hinos a meu Deus enquanto viver."
   },
   {
     "verse": 34,
     "original": "יֶעֱרַ֣ב עָלָ֣יו שִׂיחִ֑י אָ֝נֹכִ֗י אֶשְׂמַ֥ח בַּיהֹוָֽה׃",
+    "transliteration": "ye'erav 'alayv siyhiy 'anokhiy 'esemah vayhovah.",
     "translation": "Que meu discurso se misture nele; alegrar-me-ei no Senhor."
   },
   {
     "verse": 35,
     "original": "יִתַּ֤מּוּ חַטָּאִ֨ים&thinsp;<b>׀</b> מִן־הָאָ֡רֶץ וּרְשָׁעִ֤ים&thinsp;<b>׀</b> ע֤וֹד אֵינָ֗ם בָּרְכִ֣י נַ֭פְשִׁי אֶת־יְהֹוָ֗ה הַֽלְלוּ־יָֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "yitamv hata'iym&thinsp;<b>|</b> min-ha'arets vresha'iym&thinsp;<b>|</b> 'vod 'eynam varekhiy nafeshiy 'et-yehovah halelv-yah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Acabaram-se os pecadores da terra, e os malvados já não existem. Abençoe, minha alma, ao Senhor; louve-o!"
   }
 ]

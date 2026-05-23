@@ -2,51 +2,61 @@
   {
     "verse": 1,
     "original": "זֶה הַיּוֹם אֲשֶׁר קָבַע",
+    "transliteration": "zeh hayvom 'asehr kava'",
     "translation": "Este é o dia que estabeleceu"
   },
   {
     "verse": 2,
     "original": "לְמַפֶּלֶת שֵׁם בְּנֵי חֹשֶׁךְ",
+    "transliteration": "lemafelet sehm veney hosehkhe",
     "translation": "para lançar em ruína o nome dos filhos das trevas"
   },
   {
     "verse": 3,
     "original": "וּלְהַסֵּג אַנְשֵׁי גּוֹרָל בְּלִיָּעַל",
+    "transliteration": "vlehaseg 'anesehy gvoral veliya'al",
     "translation": "e para corromper os homens de sortes perversas"
   },
   {
     "verse": 4,
     "original": "הֱיֵה אַתָּה בְּעֵת מִלְחֶמֶת",
+    "transliteration": "heyeh 'atah ve'et milehemet",
     "translation": "Seja tu na hora da guerra"
   },
   {
     "verse": 5,
     "original": "עַל בְּנֵי אוֹר",
+    "transliteration": "'al veney 'vor",
     "translation": "Sobre os filhos da luz"
   },
   {
     "verse": 6,
     "original": "וּבְיָד דַּלִּים",
+    "transliteration": "vveyad daliym",
     "translation": "e na mão dos pobres"
   },
   {
     "verse": 7,
     "original": "וַיָּבֶז אֶת הָמוֹן",
+    "transliteration": "vayavez 'et hamvon",
     "translation": "e desdenhou a multidão"
   },
   {
     "verse": 8,
     "original": "נִתַּן בְּיַד גִּדְעֹן",
+    "transliteration": "nitan veyad gide'on",
     "translation": "Foi dado na mão de Gideão"
   },
   {
     "verse": 9,
     "original": "וְדָוִד עַבְדֶּךָ",
+    "transliteration": "vedavid 'avedekha",
     "translation": "e Davi, teu servo"
   },
   {
     "verse": 10,
     "original": "הִצַּלְתּוֹ מִיַּד גָּלְיַת",
+    "transliteration": "hitsaletvo miyad galeyat",
     "translation": "Livrou-o da mão de Golias..."
   }
 ]

@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "זְכֹ֤ר יְהֹוָה֙ מֶֽה־הָ֣יָה לָ֔נוּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(הביט)</span> <span class=\"mam-kq-q\">[הַבִּ֖יטָה]</span></span> וּרְאֵ֥ה אֶת־חֶרְפָּתֵֽנוּ׃",
+    "transliteration": "zekhor yehovah meh-hayah lanv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(hvyt)</span> <span class=\"mam-kq-q\">[haviytah]</span></span> vre'eh 'et-herefatenv.",
     "translation": "Lembra-te, Senhor, do que nos aconteceu; olha e vê a nossa vergonha."
   },
   {
     "verse": 2,
     "original": "נַחֲלָתֵ֙נוּ֙ נֶֽהֶפְכָ֣ה לְזָרִ֔ים בָּתֵּ֖ינוּ לְנׇכְרִֽים׃",
+    "transliteration": "nahalatenv nehefekhah lezariym vateynv lenokheriym.",
     "translation": "Nossa herança se tornou dos estranhos, nossas casas dos forasteiros."
   },
   {
     "verse": 3,
     "original": "יְתוֹמִ֤ים הָיִ֙ינוּ֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(אין)</span> <span class=\"mam-kq-q\">[וְאֵ֣ין]</span></span> אָ֔ב אִמֹּתֵ֖ינוּ כְּאַלְמָנֽוֹת׃",
+    "transliteration": "yetvomiym hayiynv <span class=\"mam-kq\"><span class=\"mam-kq-k\">('yn)</span> <span class=\"mam-kq-q\">[ve'eyn]</span></span> 'av 'imoteynv khe'alemanvot.",
     "translation": "Eram órfãos e não tínhamos pai, nossas mães eram como viúvas."
   },
   {
     "verse": 4,
     "original": "מֵימֵ֙ינוּ֙ בְּכֶ֣סֶף שָׁתִ֔ינוּ עֵצֵ֖ינוּ בִּמְחִ֥יר יָבֹֽאוּ׃",
+    "transliteration": "meymeynv vekhesef shatiynv 'etseynv vimehiyr yavo'v.",
     "translation": "Nossas águas por prata bebemos, nossos lenhes com preço adquirimos."
   },
   {
     "verse": 5,
     "original": "עַ֤ל צַוָּארֵ֙נוּ֙ נִרְדָּ֔פְנוּ יָגַ֖עְנוּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לא)</span> <span class=\"mam-kq-q\">[וְלֹ֥א]</span></span> הֽוּנַֽח־לָֽנוּ׃",
+    "transliteration": "'al tsava'renv niredafenv yaga'env <span class=\"mam-kq\"><span class=\"mam-kq-k\">(l')</span> <span class=\"mam-kq-q\">[velo']</span></span> hvnah-lanv.",
     "translation": "Fomos perseguidos sobre nossos pescoços, cansamo-nos, e não nos foi permitido descanso."
   },
   {
     "verse": 6,
     "original": "מִצְרַ֙יִם֙ נָתַ֣נּוּ יָ֔ד אַשּׁ֖וּר לִשְׂבֹּ֥עַֽ לָֽחֶם׃",
+    "transliteration": "mitserayim natanv yad 'ashvr lisevo'a lahem.",
     "translation": "Egito estendeu a mão, Assur para fartar-se de pão."
   },
   {
     "verse": 7,
     "original": "אֲבֹתֵ֤ינוּ חָֽטְאוּ֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(אינם)</span> <span class=\"mam-kq-q\">[וְאֵינָ֔ם]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">(אנחנו)</span> <span class=\"mam-kq-q\">[וַאֲנַ֖חְנוּ]</span></span> עֲוֺנֹתֵיהֶ֥ם סָבָֽלְנוּ׃",
+    "transliteration": "'avoteynv hate'v <span class=\"mam-kq\"><span class=\"mam-kq-k\">('ynm)</span> <span class=\"mam-kq-q\">[ve'eynam]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">('nhnv)</span> <span class=\"mam-kq-q\">[va'anahenv]</span></span> 'avonoteyhem savalenv.",
     "translation": "Nossos pais pecaram, e não estão mais aqui, e nós carregamos suas transgressões."
   },
   {
     "verse": 8,
     "original": "עֲבָדִים֙ מָ֣שְׁלוּ בָ֔נוּ פֹּרֵ֖ק אֵ֥ין מִיָּדָֽם׃",
+    "transliteration": "'avadiym mashelv vanv forek 'eyn miyadam.",
     "translation": "Servos nos dominaram, não há quem escape de suas mãos."
   },
   {
     "verse": 9,
     "original": "בְּנַפְשֵׁ֙נוּ֙ נָבִ֣יא לַחְמֵ֔נוּ מִפְּנֵ֖י חֶ֥רֶב הַמִּדְבָּֽר׃",
+    "transliteration": "venafeshenv naviy' lahemenv mifeney herev hamidevar.",
     "translation": "Com nossas próprias almas profetizamos nosso pão, devido à espada do deserto."
   },
   {
     "verse": 10,
     "original": "עוֹרֵ֙נוּ֙ כְּתַנּ֣וּר נִכְמָ֔רוּ מִפְּנֵ֖י זַלְעֲפ֥וֹת רָעָֽב׃",
+    "transliteration": "'vorenv khetanvr nikhemarv mifeney zale'afvot ra'av.",
     "translation": "Nossas faces estão negras como fornalhas, consumidas pelas chamas da fome."
   },
   {
     "verse": 11,
     "original": "נָשִׁים֙ בְּצִיּ֣וֹן עִנּ֔וּ בְּתֻלֹ֖ת בְּעָרֵ֥י יְהוּדָֽה׃",
+    "transliteration": "nashiym vetsiyvon 'inv vetulot ve'arey yehvdah.",
     "translation": "Mulheres de Sião se cobriram de luto, virgens das cidades de Judá."
   },
   {
     "verse": 12,
     "original": "שָׂרִים֙ בְּיָדָ֣ם נִתְל֔וּ פְּנֵ֥י זְקֵנִ֖ים לֹ֥א נֶהְדָּֽרוּ׃",
+    "transliteration": "sariym veyadam nitelv feney zekeniym lo' nehedarv.",
     "translation": "Os príncipes foram pendurados pelas mãos; os rostos dos anciãos não foram respeitados."
   },
   {
     "verse": 13,
     "original": "בַּחוּרִים֙ טְח֣וֹן נָשָׂ֔אוּ וּנְעָרִ֖ים בָּעֵ֥ץ כָּשָֽׁלוּ׃",
+    "transliteration": "vahvriym tehvon nasa'v vne'ariym va'ets khashalv.",
     "translation": "Os jovens foram esmagados, e os moços se abateram no madeiro."
   },
   {
     "verse": 14,
     "original": "זְקֵנִים֙ מִשַּׁ֣עַר שָׁבָ֔תוּ בַּחוּרִ֖ים מִנְּגִינָתָֽם׃",
+    "transliteration": "zekeniym misha'ar shavatv vahvriym minegiynatam.",
     "translation": "Os anciãos cessaram de sair da porta, os jovens de cantar juntos."
   },
   {
     "verse": 15,
     "original": "שָׁבַת֙ מְשׂ֣וֹשׂ לִבֵּ֔נוּ נֶהְפַּ֥ךְ לְאֵ֖בֶל מְחֹלֵֽנוּ׃",
+    "transliteration": "shavat mesvos livenv nehefakhe le'evel meholenv.",
     "translation": "Cessou de se alegrar o nosso coração; transformou-se em luto a nossa dança."
   },
   {
     "verse": 16,
     "original": "נָֽפְלָה֙ עֲטֶ֣רֶת רֹאשֵׁ֔נוּ אֽוֹי־נָ֥א לָ֖נוּ כִּ֥י חָטָֽאנוּ׃",
+    "transliteration": "nafelah 'ateret ro'shenv 'voy-na' lanv khiy hata'nv.",
     "translation": "Caiu a coroa da nossa cabeça, ai de nós, pois pecamos."
   },
   {
     "verse": 17,
     "original": "עַל־זֶ֗ה הָיָ֤ה דָוֶה֙ לִבֵּ֔נוּ עַל־אֵ֖לֶּה חָשְׁכ֥וּ עֵינֵֽינוּ׃",
+    "transliteration": "'al-zeh hayah daveh livenv 'al-'eleh hashekhv 'eyneynv.",
     "translation": "Por isso, nosso coração ficou triste; por essas coisas nossos olhos se encheram de trevas."
   },
   {
     "verse": 18,
     "original": "עַ֤ל הַר־צִיּוֹן֙ שֶׁשָּׁמֵ֔ם שׁוּעָלִ֖ים הִלְּכוּ־בֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al har-tsiyvon sheshamem shv'aliym hilekhv-vvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "No monte Sião, que está em ruínas, as raposas andaram por ele."
   },
   {
     "verse": 19,
     "original": "אַתָּ֤ה יְהֹוָה֙ לְעוֹלָ֣ם תֵּשֵׁ֔ב כִּסְאֲךָ֖ לְד֥וֹר וָדֽוֹר׃",
+    "transliteration": "'atah yehovah le'volam teshev khise'akha ledvor vadvor.",
     "translation": "Tu, Senhor, permanecerás para sempre; o Teu trono durará de geração em geração."
   },
   {
     "verse": 20,
     "original": "לָ֤מָּה לָנֶ֙צַח֙ תִּשְׁכָּחֵ֔נוּ תַּֽעַזְבֵ֖נוּ לְאֹ֥רֶךְ יָמִֽים׃",
+    "transliteration": "lamah lanetsah tishekhahenv ta'azevenv le'orekhe yamiym.",
     "translation": "Por que nos esquecerás eternamente, por que nos abandonarás pelos longos dias?"
   },
   {
     "verse": 21,
     "original": "הֲשִׁיבֵ֨נוּ יְהֹוָ֤ה&thinsp;<small>׀</small>&thinsp;אֵלֶ֙יךָ֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ונשוב)</span> <span class=\"mam-kq-q\">[וְֽנָשׁ֔וּבָה]</span></span> חַדֵּ֥שׁ יָמֵ֖ינוּ כְּקֶֽדֶם׃",
+    "transliteration": "hashiyvenv yehovah&thinsp;<small>|</small>&thinsp;'eleykha <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vnsvv)</span> <span class=\"mam-kq-q\">[venashvvah]</span></span> hadesh yameynv khekedem.",
     "translation": "Tornai-nos, Senhor, a ti; e nós voltaremos; renova nossos dias como antigamente."
   },
   {
     "verse": 22,
     "original": "כִּ֚י אִם־מָאֹ֣ס מְאַסְתָּ֔נוּ קָצַ֥פְתָּ עָלֵ֖ינוּ עַד־מְאֹֽד׃",
+    "transliteration": "khiy 'im-ma'os me'asetanv katsafeta 'aleynv 'ad-me'od.",
     "translation": "Pois nos rejeitaste com rejeição, sobre nós despejaste tua ira em grande medida."
   }
 ]

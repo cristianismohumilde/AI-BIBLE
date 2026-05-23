@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "תודכה",
+    "transliteration": "tvdkhh",
     "translation": "Oh, terra, levanta tua voz!"
   },
   {
     "verse": 2,
     "original": "ולוא מות יהללכה ולוא",
+    "transliteration": "vlv' mvt yhllkhh vlv'",
     "translation": "E não morrerá a sua glória, nem..."
   },
   {
     "verse": 3,
     "original": "ישברו",
+    "transliteration": "ysvrv",
     "translation": "Quebrar-se-ão..."
   },
   {
     "verse": 4,
     "original": "יורדי",
+    "transliteration": "yvrdy",
     "translation": "Desci..."
   },
   {
     "verse": 5,
     "original": "בור אל אמתכה חי חי הוא יודכה כמוני היום אב לבנים יודיע",
+    "transliteration": "vvr 'l 'mtkhh hy hy hv' yvdkhh khmvny hyvm 'v lvnym yvdy'",
     "translation": "Ó água, mantém tua fidelidade vivente; vivente Ele é; conhecê-Te-ei como hoje, pai dos tempos vindouros, anunciar-ei..."
   },
   {
     "verse": 8,
     "original": "והפרשים שת שתו השערה ויגל את מסך יהודה ותבט ביום ההוא אל נשק בית היער",
+    "transliteration": "vhfrsym st stv hs'rh vygl 't mskh yhvdh vtvt vyvm hhv' 'l nsk vyt hy'r",
     "translation": "Os cavaleiros recuaram, cessou o rumor, desapareceu a colina; ele expôs a couraça de Judá. E olhaste no dia seguinte para as armas da Casa do Bosque..."
   },
   {
     "verse": 9,
     "original": "ואת בקיעי עיר דויד ראיתמה כי רבו ותקבצו את מי הברכה התחתונה ואת",
+    "transliteration": "v't vky'y 'yr dvyd r'ytmh khy rvv vtkvtsv 't my hvrkhh hthtvnh v't",
     "translation": "E vistes os buracos da cidade de Davi, porque são muitos; e ajuntastes as águas do poço inferior..."
   },
   {
     "verse": 10,
     "original": "בתי ירושלם ספרתם ותתוצו הבתים לבצור החומה",
+    "transliteration": "vty yrvslm sfrtm vttvtsv hvtym lvtsvr hhvmh",
     "translation": "Ósias, muros de Jerusalém, contastes os palácios e derrubastes as casas para fortificar a muralha."
   },
   {
     "verse": 11,
     "original": "ומקוה עשיתם בין החמתים למי הברכה הישנה ולא הבטתם אל עשיה ויצרה מרחוק לא ראיתם",
+    "transliteration": "vmkvh 'sytm vyn hhmtym lmy hvrkhh hysnh vl' hvttm 'l 'syh vytsrh mrhvk l' r'ytm",
     "translation": "E fizestes reservatórios entre as cisternas para a água da bênção antiga, e não olhastes para sua obra e forma distante, não vistes..."
   },
   {
     "verse": 12,
     "original": "ויקרא אדוני יהוה צבאות ביום ההוא לבכי ולמספד ולקרחה ולחגור שק",
+    "transliteration": "vykr' 'dvny yhvh tsv'vt vyvm hhv' lvkhy vlmsfd vlkrhh vlhgvr sk",
     "translation": "E clamou o Senhor dos Exércitos no dia aquele para choro e luto, para rapar a cabeça e cingir saias de cilício."
   },
   {
     "verse": 13,
     "original": "כי מפני חרבות נדדו מפני חרב נטושה ומפני קשת דרוכה ומפני כבד מלחמה כי כה אמר אדני אלי בעוד שנה כשני שכיר וכלה כל כבוד קדר והנה ששון ושמחה הרג בקר ושחט צאן אכל בשר ושתה יין אכול ושתו כי מחר נמות",
+    "transliteration": "khy mfny hrvvt nddv mfny hrv ntvsh vmfny kst drvkhh vmfny khvd mlhmh khy khh 'mr 'dny 'ly v'vd snh khsny skhyr vkhlh khl khvvd kdr vhnh ssvn vsmhh hrg vkr vsht ts'n 'khl vsr vsth yyn 'khvl vstv khy mhr nmvt",
     "translation": "...porque por causa das espadas se desviaram, por causa da espada descartada e da flecha tensa e da pesada carga da guerra; porque assim diz o Senhor DEUS: “Ainda uma vez, como a duração de um ano de salário, cessará toda a glória de Kadri. Eis, porém, o gozo e a alegria, matai o bezerro e matai as ovelhas, comei carne e bebei vinho; comam e bebam, porque amanhã morreremos”."
   },
   {
     "verse": 14,
     "original": "ונגלה באזני יהוה אם יכופר העוון הזה לכם עד תמתון אמר אדני יהוה צבאות",
+    "transliteration": "vnglh v'zny yhvh 'm ykhvfr h'vvn hzh lkhm 'd tmtvn 'mr 'dny yhvh tsv'vt",
     "translation": "E será revelado aos ouvidos do SENHOR se este pecado será coberto até vossa morte, disse o Senhor, o Deus dos Exércitos."
   },
   {
     "verse": 15,
     "original": "עד תמתון אמר אדני יהוה צבאות כה אמר אדני יהוה צבאות לך בוא אל הסכן הזה על שבנא אשר על הבית מה",
+    "transliteration": "'d tmtvn 'mr 'dny yhvh tsv'vt khh 'mr 'dny yhvh tsv'vt lkh vv' 'l hskhn hzh 'l svn' 'sr 'l hvyt mh",
     "translation": "Até quando cessareis, diz o Senhor, o Senhor dos Exércitos: Assim diz o Senhor, o Senhor dos Exércitos, ide e vinde ao homem deste lugar, a Sarná, que está sobre o palácio..."
   },
   {
     "verse": 16,
     "original": "על הבית מה לך פה ומי לך פה כי חצבת לך פה קבר חצבי מרום קברו חקקי בסלע משכן לו",
+    "transliteration": "'l hvyt mh lkh fh vmy lkh fh khy htsvt lkh fh kvr htsvy mrvm kvrv hkky vsl' mskhn lv",
     "translation": "Ó da casa, que tens tu aqui e quem és tu aqui para teres esculpido para ti um sepulcro escavado em rochas altas, o teu túmulo tallado na rocha, uma morada para ti..."
   },
   {
     "verse": 17,
     "original": "הנה יהוה מטלטלך טלטלה גבר ויעטך עטה",
+    "transliteration": "hnh yhvh mtltlkh tltlh gvr vy'tkh 'th",
     "translation": "Eis que o Senhor te arremessará, arremesso de homem forte; e sobre ti lançará uma carga pesada."
   },
   {
     "verse": 18,
     "original": "צנוף יצנפך צנפה כדור אל",
+    "transliteration": "tsnvf ytsnfkh tsnfh khdvr 'l",
     "translation": "Serás arremessado, tu serás atirado como uma rolagem de bola em um monte."
   },
   {
     "verse": 20,
     "original": "לך בוא אל הסכן הזה על שבנא אשר על הבית מה לך פה ומי לך פה כי חצבת לך פה קבר חצבי מרום קברו חקקי בסלע משכן לו הנה יהוה מטלטלך טלטלה גבור ויעטך עטה צנוף יצנפך צנפה כדור אל ארץ רחבת ידים שמה תמות ושמה מרכבות כבודך קלון בית אדניך והדפתיך ממצבך וממעמדך יהרסך והיה ביום ההוא וקראתי לעבדי לאליקים",
+    "transliteration": "lkh vv' 'l hskhn hzh 'l svn' 'sr 'l hvyt mh lkh fh vmy lkh fh khy htsvt lkh fh kvr htsvy mrvm kvrv hkky vsl' mskhn lv hnh yhvh mtltlkh tltlh gvvr vy'tkh 'th tsnvf ytsnfkh tsnfh khdvr 'l 'rts rhvt ydym smh tmvt vsmh mrkhvvt khvvdkh klvn vyt 'dnykh vhdftykh mmtsvkh vmm'mdkh yhrskh vhyh vyvm hhv' vkr'ty l'vdy l'lykym",
     "translation": "Eis-vos, ide para este guardião, sobre Shebná, que está sobre a casa: Que vos compete aqui, e quem é que vos enviou aqui? Porque cavastes aqui uma sepultura com alabastro, esculpida no rochedo, morada deles. Eis que o Senhor faz voar-vos para longe, fará voar com força, e envolver-vos-á em envoltório, envolve-lo-á como um cilindro, lançando-o para a terra espaçosa de mãos; ali morrereis, e ali serão os carros da vossa glória, ó casa do vosso Senhor. E ele vos empurrará desde o vosso posto e do vosso domínio vos derrubará. Sucederá no dia aquele que eu chamei ao meu servo Eliakim."
   },
   {
     "verse": 21,
     "original": "בן חלקיהו והלבשתיו כתנתך ואבנטך אחזקנו וממשלתך אתן בידו והיה לאב ליושב ירושלם ולבית יהודה",
+    "transliteration": "vn hlkyhv vhlvstyv khtntkh v'vntkh 'hzknv vmmsltkh 'tn vydv vhyh l'v lyvsv yrvslm vlvyt yhvdh",
     "translation": "Ben Hilquias, e vestirei nele tua túnica e teu cinto fortalecê-lo-ei e entregarei em sua mão teu governo ele será pai para os moradores de Jerusalém e para a casa de Judá."
   },
   {
     "verse": 22,
     "original": "ונתתי מפתח בית דויד על שכמו ופתח ואין סוגר וסגר ואין פותח",
+    "transliteration": "vntty mfth vyt dvyd 'l skhmv vfth v'yn svgr vsgr v'yn fvth",
     "translation": "Darei a chave da Casa de Davi sobre seu ombro; abrirá e ninguém fechará, fechará e ninguém abrirá."
   },
   {
     "verse": 23,
     "original": "ותקעתיו יתד במקום נאמן והיה לכסא כבוד לבית אביו",
+    "transliteration": "vtk'tyv ytd vmkvm n'mn vhyh lkhs' khvvd lvyt 'vyv",
     "translation": "E porei-o como estandarte firme em lugar fiel, e será assento de glória para a casa de seu pai."
   },
   {
     "verse": 24,
     "original": "ותלו עליו כול כביד בית אביו הצאצאים והצפעות כול כלי קטן מכלי האגנות ועד כול כלי הנבלים",
+    "transliteration": "vtlv 'lyv khvl khvyd vyt 'vyv hts'ts'ym vhtsf'vt khvl khly ktn mkhly h'gnvt v'd khvl khly hnvlym",
     "translation": "E suspenderão nele toda a pesada carga da casa de seu pai, os descendentes e as estirpes, todo utensílio menor, desde osrecipientes até todos os instrumentos das harpas.\n\nObservação: Houve uma pequena correção na pontuação após \"osrecipientes\"."
   },
   {
     "verse": 25,
     "original": "על שכמו ופתח ואין ביום ההוא נאם אדני יהוה צבאות תמוש היתד התקועה במקום נאמן ונגדעה ונפלה ונכרת המשא אשר עליה כי יהוה דבר הנה יהוה בוקק הארץ ובולקה ועוה פניה והפיצ ישביה והיה כעם ככהן כעבד כאדניו כשפחה כגברתה כקנה כמוכר כמלוה כלוה כנשה כאשר נשא בו הבוק תבוק הארץ והבז תבז כי יהוה דבר את הדבר הזה",
+    "transliteration": "'l skhmv vfth v'yn vyvm hhv' n'm 'dny yhvh tsv'vt tmvs hytd htkv'h vmkvm n'mn vngd'h vnflh vnkhrt hms' 'sr 'lyh khy yhvh dvr hnh yhvh vvkk h'rts vvvlkh v'vh fnyh vhfyts ysvyh vhyh kh'm khkhhn kh'vd kh'dnyv khsfhh khgvrth khknh khmvkhr khmlvh khlvh khnsh kh'sr ns' vv hvvk tvvk h'rts vhvz tvz khy yhvh dvr 't hdvr hzh",
     "translation": "Eis que, como ela está em alto e sua porta foi removida no dia daquele, diz o Senhor, o Senhor dos Exércitos: será arrancada a vareta firmemente cravada no lugar forte; será quebrada, cairá e será cortado o peso que estava sobre ela. Pois o Senhor falou. Eis que o Senhor derramará sobre a terra, esvaziará-a, virará seu rosto longe dela e dispersará os habitantes dela; e acontecerá como com o sacerdote, assim será como com o servo, como com o senhor, assim será como com a serva, como com o comprador, assim será como com o vendedor, como com o emprestador, assim será como com o devedor, como com aquele que lhe cobra, assim será como com aquele que o leva à cobrança; pois é o que o Senhor falou."
   }
 ]

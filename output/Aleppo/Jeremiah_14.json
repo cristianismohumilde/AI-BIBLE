@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "אֲשֶׁ֨ר הָיָ֤ה דְבַר־יְהֹוָה֙ אֶֽל־יִרְמְיָ֔הוּ עַל־דִּבְרֵ֖י הַבַּצָּרֽוֹת׃",
+    "transliteration": "'asher hayah devar-yehovah 'el-yiremeyahv 'al-diverey havatsarvot.",
     "translation": "Que foi a palavra do Senhor a Jeremias, sobre as palavras das muralhas."
   },
   {
     "verse": 2,
     "original": "אָבְלָ֣ה יְהוּדָ֔ה וּשְׁעָרֶ֥יהָ אֻמְלְל֖וּ קָדְר֣וּ לָאָ֑רֶץ וְ<small>צִ</small>וְחַ֥ת יְרוּשָׁלַ֖͏ִם עָלָֽתָה׃",
+    "transliteration": "'avelah yehvdah vshe'areyha 'umelelv kaderv la'arets ve<small>tsi</small>vehat yervshalaim 'alatah.",
     "translation": "Lutou Judá, e as suas portas estão em luto; ela se revestiu de saco cilíndrico, e a voz da cidade de Jerusalém subiu."
   },
   {
     "verse": 3,
     "original": "וְאַדִּ֣רֵיהֶ֔ם שָׁלְח֥וּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(צעוריהם)</span> <span class=\"mam-kq-q\">[צְעִֽירֵיהֶ֖ם]</span></span> לַמָּ֑יִם בָּ֣אוּ עַל־גֵּבִ֞ים לֹא־מָ֣צְאוּ מַ֗יִם שָׁ֤בוּ כְלֵיהֶם֙ רֵיקָ֔ם בֹּ֥שׁוּ וְהׇכְלְמ֖וּ וְחָפ֥וּ רֹאשָֽׁם׃",
+    "transliteration": "ve'adireyhem shalehv <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ts'vryhm)</span> <span class=\"mam-kq-q\">[tse'iyreyhem]</span></span> lamayim va'v 'al-geviym lo'-matse'v mayim shavv kheleyhem reykam voshv vehokhelemv vehafv ro'sham.",
     "translation": "E seus nobres enviaram os jovens para as águas; subiram aos outeiros, mas não encontraram água. Voltaram com suas vasilhas vazias; confusos e envergonhados, cobriram a cabeça."
   },
   {
     "verse": 4,
     "original": "בַּעֲב֤וּר הָֽאֲדָמָה֙ חַ֔תָּה כִּ֛י לֹא־הָיָ֥ה גֶ֖שֶׁם בָּאָ֑רֶץ בֹּ֥שׁוּ אִכָּרִ֖ים חָפ֥וּ רֹאשָֽׁם׃",
+    "transliteration": "va'avvr ha'adamah hatah khiy lo'-hayah geshem va'arets voshv 'ikhariym hafv ro'sham.",
     "translation": "Porque a terra estava maldita, pois ainda não havia chuvado sobre a terra, e o homem não tinha sido feito para cultivá-la; e não brotava planta alguma da terra."
   },
   {
     "verse": 5,
     "original": "כִּ֤י גַם־אַיֶּ֙לֶת֙ בַּשָּׂדֶ֔ה יָלְדָ֖ה וְעָז֑וֹב כִּ֥י לֹֽא־הָיָ֖ה דֶּֽשֶׁא׃",
+    "transliteration": "khiy gam-'ayelet vasadeh yaledah ve'azvov khiy lo'-hayah deshe'.",
     "translation": "Pois também a gazela dos campos pariu e abandonou, pois não havia pasto."
   },
   {
     "verse": 6,
     "original": "וּפְרָאִים֙ עָמְד֣וּ עַל־שְׁפָיִ֔ם שָׁאֲפ֥וּ ר֖וּחַ כַּתַּנִּ֑ים כָּל֥וּ עֵינֵיהֶ֖ם כִּי־אֵ֥ין עֵֽשֶׂב׃",
+    "transliteration": "vfera'iym 'amedv 'al-shefayim sha'afv rvha khataniym khalv 'eyneyhem khiy-'eyn 'esev.",
     "translation": "Efraim ficou firmado sobre abismos, suspirou por alento como braseiro ardente; os seus olhos se consumiram porque não havia erva alguma."
   },
   {
     "verse": 7,
     "original": "אִם־עֲוֺנֵ֙ינוּ֙ עָ֣נוּ בָ֔נוּ יְהֹוָ֕ה עֲשֵׂ֖ה לְמַ֣עַן שְׁמֶ֑ךָ כִּי־רַבּ֥וּ מְשׁוּבֹתֵ֖ינוּ לְךָ֥ חָטָֽאנוּ׃",
+    "transliteration": "'im-'avoneynv 'anv vanv yehovah 'aseh lema'an shemekha khiy-ravv meshvvoteynv lekha hata'nv.",
     "translation": "Se nossos pecados nos deram testemunho contra nós, ó Jehovah, age por amor ao teu nome; pois em grande multidão são as nossas revoltas, contra ti pecamos."
   },
   {
     "verse": 8,
     "original": "מִקְוֵה֙ יִשְׂרָאֵ֔ל מוֹשִׁיע֖וֹ בְּעֵ֣ת צָרָ֑ה לָ֤מָּה תִֽהְיֶה֙ כְּגֵ֣ר בָּאָ֔רֶץ וּכְאֹרֵ֖חַ נָטָ֥ה לָלֽוּן׃",
+    "transliteration": "mikeveh yisera'el mvoshiy'vo ve'et tsarah lamah tiheyeh kheger va'arets vkhe'oreha natah lalvn.",
     "translation": "Fonte de esperança de Israel, seu Salvador em tempos de angústia, por que te tornas como um estrangeiro na terra e como viajante que se inclina para descansar?"
   },
   {
     "verse": 9,
     "original": "לָ֤מָּה תִֽהְיֶה֙ כְּאִ֣ישׁ נִדְהָ֔ם כְּגִבּ֖וֹר לֹא־יוּכַ֣ל לְהוֹשִׁ֑יעַ וְאַתָּ֧ה בְקִרְבֵּ֣נוּ יְהֹוָ֗ה וְשִׁמְךָ֛ עָלֵ֥ינוּ נִקְרָ֖א אַל־תַּנִּחֵֽנוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "lamah tiheyeh khe'iysh nideham khegivvor lo'-yvkhal lehvoshiy'a ve'atah vekirevenv yehovah veshimekha 'aleynv nikera' 'al-tanihenv.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Por que serás como um homem perdido, como um guerreiro incapaz de salvar? Mas tu estás conosco, Senhor, e teu nome é invocado sobre nós; não nos abandonarás."
   },
   {
     "verse": 10,
     "original": "כֹּה־אָמַ֨ר יְהֹוָ֜ה לָעָ֣ם הַזֶּ֗ה כֵּ֤ן אָֽהֲבוּ֙ לָנ֔וּעַ רַגְלֵיהֶ֖ם לֹ֣א חָשָׂ֑כוּ וַֽיהֹוָה֙ לֹ֣א רָצָ֔ם עַתָּה֙ יִזְכֹּ֣ר עֲוֺנָ֔ם וְיִפְקֹ֖ד חַטֹּאתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khoh-'amar yehovah la'am hazeh khen 'ahavv lanv'a rageleyhem lo' hasakhv vayhovah lo' ratsam 'atah yizekhor 'avonam veyifekod hato'tam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Assim diz o Senhor sobre este povo: Eles amaram andar desenfreadamente, seus pés não se contiveram. Mas o Senhor não os aprovou; agora ele recordará suas iniqüidades e punirá seus pecados."
   },
   {
     "verse": 11,
     "original": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלָ֑י אַל־תִּתְפַּלֵּ֛ל בְּעַד־הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה׃",
+    "transliteration": "vayo'mer yehovah 'elay 'al-titefalel ve'ad-ha'am hazeh letvovah.",
     "translation": "E disse o Senhor a mim: Não ores por este povo para o seu bem."
   },
   {
     "verse": 12,
     "original": "כִּ֣י יָצֻ֗מוּ אֵינֶ֤נִּי שֹׁמֵ֙עַ֙ אֶל־רִנָּתָ֔ם וְכִ֧י יַעֲל֛וּ עֹלָ֥ה וּמִנְחָ֖ה אֵינֶ֣נִּי רֹצָ֑ם כִּ֗י בַּחֶ֙רֶב֙ וּבָרָעָ֣ב וּבַדֶּ֔בֶר אָנֹכִ֖י מְכַלֶּ֥ה אוֹתָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "khiy yatsumv 'eyneniy shome'a 'el-rinatam vekhiy ya'alv 'olah vminehah 'eyneniy rotsam khiy vaherev vvara'av vvadever 'anokhiy mekhaleh 'votam.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Porque, se jejuarem, eu não ouvirei a sua voz de clamor, e, se subirem oferta holocausto e oblatação, eu não serei complacente com eles. Pois com espada e fome e peste os castigarei."
   },
   {
     "verse": 13,
     "original": "וָאֹמַ֞ר אֲהָ֣הּ&thinsp;<b>׀</b> אֲדֹנָ֣י יֱהֹוִ֗ה הִנֵּ֨ה הַנְּבִאִ֜ים אֹמְרִ֤ים לָהֶם֙ לֹא־תִרְא֣וּ חֶ֔רֶב וְרָעָ֖ב לֹֽא־יִהְיֶ֣ה לָכֶ֑ם כִּֽי־שְׁל֤וֹם אֱמֶת֙ אֶתֵּ֣ן לָכֶ֔ם בַּמָּק֖וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "va'omar 'ahah&thinsp;<b>|</b> 'adonay yehovih hineh hanevi'iym 'omeriym lahem lo'-tire'v herev vera'av lo'-yiheyeh lakhem khiy-shelvom 'emet 'eten lakhem vamakvom hazeh.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse: Ah, Senhor Deus, eis que os profetas lhes dizem: não vereis espada, nem fome tereis; pois darei sobre vós paz verdadeira neste lugar."
   },
   {
     "verse": 14,
     "original": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י שֶׁ֚קֶר הַנְּבִאִים֙ נִבְּאִ֣ים בִּשְׁמִ֔י לֹ֤א שְׁלַחְתִּים֙ וְלֹ֣א צִוִּיתִ֔ים וְלֹ֥א דִבַּ֖רְתִּי אֲלֵיהֶ֑ם חֲז֨וֹן שֶׁ֜קֶר וְקֶ֤סֶם <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ואלול ותרמות)</span> <span class=\"mam-kq-q\">[וֶאֱלִיל֙ וְתַרְמִ֣ית]</span></span> לִבָּ֔ם הֵ֖מָּה מִֽתְנַבְּאִ֥ים לָכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vayo'mer yehovah 'elay sheker hanevi'iym nive'iym vishemiy lo' shelahetiym velo' tsiviytiym velo' divaretiy 'aleyhem hazvon sheker vekesem <span class=\"mam-kq\"><span class=\"mam-kq-k\">(v'lvl vtrmvt)</span> <span class=\"mam-kq-q\">[ve'eliyl vetaremiyt]</span></span> livam hemah mitenave'iym lakhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E disse o Senhor a mim: Mentem os profetas quando profetizam em meu nome; pois não fui eu quem os enviou, nem lhes dei ordens, nem lhes falei. Eles propalaram visões falsas e enganos, divagações e abominações de seu coração; são eles que vos lançam essas profecias."
   },
   {
     "verse": 15,
     "original": "לָכֵ֞ן כֹּה־אָמַ֣ר יְהֹוָ֗ה עַֽל־הַנְּבִאִ֞ים הַנִּבְּאִ֣ים בִּשְׁמִי֮ וַאֲנִ֣י לֹֽא־שְׁלַחְתִּים֒ וְהֵ֙מָּה֙ אֹֽמְרִ֔ים חֶ֣רֶב וְרָעָ֔ב לֹ֥א יִהְיֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את בַּחֶ֤רֶב וּבָֽרָעָב֙ יִתַּ֔מּוּ הַנְּבִאִ֖ים הָהֵֽמָּה׃",
+    "transliteration": "lakhen khoh-'amar yehovah 'al-hanevi'iym hanive'iym vishemiy va'aniy lo'-shelahetiym vehemah 'omeriym herev vera'av lo' yiheyeh va'arets hazo't vaherev vvara'av yitamv hanevi'iym hahemah.",
     "translation": "Portanto, assim diz o Senhor: Sobre os profetas que profetizam em meu nome e a quem eu não enviei, eles dizem: “Não haverá espada nem fome nessa terra”. Mas pela espada e pela fome perecerão esses profetas."
   },
   {
     "verse": 16,
     "original": "וְהָעָ֣ם אֲשֶׁר־הֵ֣מָּה נִבְּאִ֣ים לָהֶ֡ם יִהְי֣וּ מֻשְׁלָכִים֩ בְּחֻצ֨וֹת יְרוּשָׁלַ֜͏ִם מִפְּנֵ֣י&thinsp;<b>׀</b> הָרָעָ֣ב וְהַחֶ֗רֶב וְאֵ֤ין מְקַבֵּר֙ לָהֵ֔מָּה הֵ֣מָּה נְשֵׁיהֶ֔ם וּבְנֵיהֶ֖ם וּבְנֹתֵיהֶ֑ם וְשָׁפַכְתִּ֥י עֲלֵיהֶ֖ם אֶת־רָעָתָֽם׃",
+    "transliteration": "veha'am 'asher-hemah nive'iym lahem yiheyv mushelakhiym vehutsvot yervshalaim mifeney&thinsp;<b>|</b> hara'av vehaherev ve'eyn mekaver lahemah hemah nesheyhem vveneyhem vvenoteyhem veshafakhetiy 'aleyhem 'et-ra'atam.",
     "translation": "E o povo para quem eles profetizam será lançado fora de Jerusalém por causa da fome e da espada, e não haverá quem os enterre: suas mulheres, seus filhos e suas filhas; e derramarei sobre eles sua maldade."
   },
   {
     "verse": 17,
     "original": "וְאָמַרְתָּ֤ אֲלֵיהֶם֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה תֵּרַ֨דְנָה עֵינַ֥י דִּמְעָ֛ה לַ֥יְלָה וְיוֹמָ֖ם וְאַל־תִּדְמֶ֑ינָה כִּי֩ שֶׁ֨בֶר גָּד֜וֹל נִשְׁבְּרָ֗ה בְּתוּלַת֙ בַּת־עַמִּ֔י מַכָּ֖ה נַחְלָ֥ה מְאֹֽד׃",
+    "transliteration": "ve'amareta 'aleyhem 'et-hadavar hazeh teradenah 'eynay dime'ah layelah veyvomam ve'al-tidemeynah khiy shever gadvol nisheverah vetvlat vat-'amiy makhah nahelah me'od.",
     "translation": "E dirás a eles esta palavra: Derramam-se minhas lágrimas, dia e noite, sem cessar; pois grande quebra se deu na virgem filha do meu povo; é ferida incurável."
   },
   {
     "verse": 18,
     "original": "אִם־יָצָ֣אתִי הַשָּׂדֶ֗ה וְהִנֵּה֙ חַלְלֵי־חֶ֔רֶב וְאִם֙ בָּ֣אתִי הָעִ֔יר וְהִנֵּ֖ה תַּחֲלוּאֵ֣י רָעָ֑ב כִּֽי־גַם־נָבִ֧יא גַם־כֹּהֵ֛ן סָחֲר֥וּ אֶל־אֶ֖רֶץ וְלֹ֥א יָדָֽעוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "'im-yatsa'tiy hasadeh vehineh haleley-herev ve'im va'tiy ha'iyr vehineh tahalv'ey ra'av khiy-gam-naviy' gam-khohen saharv 'el-'erets velo' yada'v.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "Se saí ao campo e eis cadáveres de espada, ou entrei na cidade e eis vítimas de fome, porquanto profeta e sacerdote erraram pela terra e não conhecem."
   },
   {
     "verse": 19,
     "original": "הֲמָאֹ֨ס מָאַ֜סְתָּ אֶת־יְהוּדָ֗ה אִם־בְּצִיּוֹן֙ גָּעֲלָ֣ה נַפְשֶׁ֔ךָ מַדּ֙וּעַ֙ הִכִּיתָ֔נוּ וְאֵ֥ין לָ֖נוּ מַרְפֵּ֑א קַוֵּ֤ה לְשָׁלוֹם֙ וְאֵ֣ין ט֔וֹב וּלְעֵ֥ת מַרְפֵּ֖א וְהִנֵּ֥ה בְעָתָֽה׃",
+    "transliteration": "hama'os ma'aseta 'et-yehvdah 'im-vetsiyvon ga'alah nafeshekha madv'a hikhiytanv ve'eyn lanv marefe' kaveh leshalvom ve'eyn tvov vle'et marefe' vehineh ve'atah.",
     "translation": "O repúdio, porventura rejeitaste a Judá? Ou abominou tua alma a Sião? Por que nos feriste e não há cura para nós? Esperamos pela paz e nada de bom se apresenta; à sombra da esperança de sanidade, eis que só vem tormento."
   },
   {
     "verse": 20,
     "original": "יָדַ֧עְנוּ יְהֹוָ֛ה רִשְׁעֵ֖נוּ עֲוֺ֣ן אֲבוֹתֵ֑ינוּ כִּ֥י חָטָ֖אנוּ לָֽךְ׃",
+    "transliteration": "yada'env yehovah rishe'env 'avon 'avvoteynv khiy hata'nv lakhe.",
     "translation": "Soubemos, Jehovah, nossa iniquidade, o pecado de nossos pais; pois contra ti temos pecado."
   },
   {
     "verse": 21,
     "original": "אַל־תִּנְאַץ֙ לְמַ֣עַן שִׁמְךָ֔ אַל־תְּנַבֵּ֖ל כִּסֵּ֣א כְבוֹדֶ֑ךָ זְכֹ֕ר אַל־תָּפֵ֥ר בְּרִיתְךָ֖ אִתָּֽנוּ׃",
+    "transliteration": "'al-tine'ats lema'an shimekha 'al-tenavel khise' khevvodekha zekhor 'al-tafer veriytekha 'itanv.",
     "translation": "Não rejeites por amor ao teu nome; não desonreis o trono da vossa glória; lembrai-vos, não quebreis a aliança com nós."
   },
   {
     "verse": 22,
     "original": "הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגּוֹיִם֙ מַגְשִׁמִ֔ים וְאִם־הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א אַתָּה־ה֜וּא יְהֹוָ֤ה אֱלֹהֵ֙ינוּ֙ וּנְקַוֶּה־לָּ֔ךְ כִּֽי־אַתָּ֥ה עָשִׂ֖יתָ אֶת־כׇּל־אֵֽלֶּה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hayesh vehaveley hagvoyim mageshimiym ve'im-hashamayim yitenv reviviym halo' 'atah-hv' yehovah 'eloheynv vnekaveh-lakhe khiy-'atah 'asiyta 'et-khol-'eleh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Há entre as vaidades das nações aqueles que proporcionam chuva, ou se os céus puderem dar água? Não és tu o Senhor nosso Deus, a quem esperamos, pois tu fizeste todas essas coisas?"
   }
 ]

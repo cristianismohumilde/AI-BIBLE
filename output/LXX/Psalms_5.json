@@ -2,66 +2,79 @@
   {
     "verse": 1,
     "original": "εἰς τὸ τέλος ὑπὲρ τῆς κληρονομούσης ψαλμὸς τῷ Δαυιδ ",
+    "transliteration": "eis to telos hyper tis klironomoysis psalmos to Dayid ",
     "translation": "Para o fim da herança, salmo de Davi."
   },
   {
     "verse": 2,
     "original": "τὰ ῥήματά μου ἐνώτισαι κύριε σύνες τῆς κραυγῆς μου ",
+    "transliteration": "ta rhimata moy enotisai kyrie synes tis kraygis moy ",
     "translation": "Ó Senhor, inclina os teus ouvidos às minhas palavras; atende à minha voz."
   },
   {
     "verse": 3,
     "original": "πρόσχες τῇ φωνῇ τῆς δεήσεώς μου ὁ βασιλεύς μου καὶ ὁ θεός μου ὅτι πρὸς σὲ προσεύξομαι κύριε ",
+    "transliteration": "prosches ti foni tis deiseos moy ho vasileys moy kai ho theos moy hoti pros se proseyxomai kyrie ",
     "translation": "inclina-te para a voz da minha súplica ó meu rei e meu Deus pois a ti me orarei Senhor"
   },
   {
     "verse": 4,
     "original": "τὸ πρωὶ εἰσακούσῃ τῆς φωνῆς μου τὸ πρωὶ παραστήσομαί σοι καὶ ἐπόψομαι ",
+    "transliteration": "to proi eisakoysi tis fonis moy to proi parastisomai soi kai epopsomai ",
     "translation": "De manhã ouvirás a minha voz; de manhã me apresentarei a ti e contemplarei."
   },
   {
     "verse": 5,
     "original": "ὅτι οὐχὶ θεὸς θέλων ἀνομίαν σὺ εἶ οὐδὲ παροικήσει σοι πονηρευόμενος ",
+    "transliteration": "hoti oychi theos thelon anomian sy ei oyde paroikisei soi ponireyomenos ",
     "translation": "Pois não és tu quem deseja a iniquidade, ó Deus; nem morará contigo o malvado."
   },
   {
     "verse": 6,
     "original": "οὐ διαμενοῦσιν παράνομοι κατέναντι τῶν ὀφθαλμῶν σου ἐμίσησας πάντας τοὺς ἐργαζομένους τὴν ἀνομίαν ",
+    "transliteration": "oy diamenoysin paranomoi katenanti ton ofthalmon soy emisisas pantas toys ergazomenoys tin anomian ",
     "translation": "os impíos não permanecem diante de ti, abominas todos os que praticam a iniqüidade"
   },
   {
     "verse": 7,
     "original": "ἀπολεῖς πάντας τοὺς λαλοῦντας τὸ ψεῦδος ἄνδρα αἱμάτων καὶ δόλιον βδελύσσεται κύριος ",
+    "transliteration": "apoleis pantas toys laloyntas to pseydos andra ahimaton kai dolion vdelyssetai kyrios ",
     "translation": "Desejas destruir todos os que falam mentiras, ó Deus; o Senhor abomina o homem sanguinário e enganoso."
   },
   {
     "verse": 8,
     "original": "ἐγὼ δὲ ἐν τῷ πλήθει τοῦ ἐλέους σου εἰσελεύσομαι εἰς τὸν οἶκόν σου προσκυνήσω πρὸς ναὸν ἅγιόν σου ἐν φόβῳ σου ",
+    "transliteration": "ego de en to plithei toy eleoys soy eiseleysomai eis ton oikon soy proskyniso pros naon hagion soy en fovo soy ",
     "translation": "Eu, porém, na plenitude de teu amor entrarei à tua casa; adorarei em teu santo templo com temor."
   },
   {
     "verse": 9,
     "original": "κύριε ὁδήγησόν με ἐν τῇ δικαιοσύνῃ σου ἕνεκα τῶν ἐχθρῶν μου κατεύθυνον ἐνώπιόν μου τὴν ὁδόν σου ",
+    "transliteration": "kyrie hodigison me en ti dikaiosyni soy heneka ton echthron moy kateythynon enopion moy tin hodon soy ",
     "translation": "Senhor, conduze-me na tua justiça por causa dos meus inimigos; endireita diante de mim o teu caminho."
   },
   {
     "verse": 10,
     "original": "ὅτι οὐκ ἔστιν ἐν τῷ στόματι αὐτῶν ἀλήθεια ἡ καρδία αὐτῶν ματαία τάφος ἀνεῳγμένος ὁ λάρυγξ αὐτῶν ταῖς γλώσσαις αὐτῶν ἐδολιοῦσαν ",
+    "transliteration": "hoti oyk estin en to stomati ayton alitheia hi kardia ayton mataia tafos aneogmenos ho larygx ayton tais glossais ayton edolioysan ",
     "translation": "Porque não há verdade em suas bocas; seus corações são vaidade e o fundo de seu pescoço é um sepulcro aberto, com suas línguas eles tecem engano."
   },
   {
     "verse": 11,
     "original": "κρῖνον αὐτούς ὁ θεός ἀποπεσάτωσαν ἀπὸ τῶν διαβουλίων αὐτῶν κατὰ τὸ πλῆθος τῶν ἀσεβειῶν αὐτῶν ἔξωσον αὐτούς ὅτι παρεπίκρανάν σε κύριε ",
+    "transliteration": "krinon aytoys ho theos apopesatosan apo ton diavoylion ayton kata to plithos ton aseveion ayton exoson aytoys hoti parepikranan se kyrie ",
     "translation": "Julga-os, ó Deus; que caiam fora de suas conspirações, conforme a multidão das suas iniqüidades; expulsa-os, pois endureceram o coração contra ti, Senhor."
   },
   {
     "verse": 12,
     "original": "καὶ εὐφρανθήτωσαν πάντες οἱ ἐλπίζοντες ἐπὶ σέ εἰς αἰῶνα ἀγαλλιάσονται καὶ κατασκηνώσεις ἐν αὐτοῖς καὶ καυχήσονται ἐν σοὶ πάντες οἱ ἀγαπῶντες τὸ ὄνομά σου ",
+    "transliteration": "kai eyfranthitosan pantes ohi elpizontes epi se eis aiona agalliasontai kai kataskinoseis en aytois kai kaychisontai en soi pantes ohi agapontes to onoma soy ",
     "translation": "E rejubilem todos os que esperam em ti; exultarão eternamente, e tu habitarás entre eles. E se glorificarão em ti todos os que amam o teu nome."
   },
   {
     "verse": 13,
     "original": "ὅτι σὺ εὐλογήσεις δίκαιον κύριε ὡς ὅπλῳ εὐδοκίας ἐστεφάνωσας ἡμᾶς ",
+    "transliteration": "hoti sy eylogiseis dikaion kyrie hos hoplo eydokias estefanosas himas ",
     "translation": "Pois tu, Senhor, abençoas o justo; com uma coroa de alegria como armamento nos cercaste."
   }
 ]

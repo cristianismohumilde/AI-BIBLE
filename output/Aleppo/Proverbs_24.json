@@ -2,171 +2,205 @@
   {
     "verse": 1,
     "original": "אַל־תְּ֭קַנֵּא בְּאַנְשֵׁ֣י רָעָ֑ה וְאַל־תִּ֝תְאָ֗ו לִֽהְי֥וֹת אִתָּֽם׃",
+    "transliteration": "'al-tekane' ve'aneshey ra'ah ve'al-tite'av liheyvot 'itam.",
     "translation": "Não tenhas inveja dos malfeitores, nem desejes estar com eles."
   },
   {
     "verse": 2,
     "original": "כִּי־שֹׁ֭ד יֶהְגֶּ֣ה לִבָּ֑ם וְ֝עָמָ֗ל שִׂפְתֵיהֶ֥ם תְּדַבֵּֽרְנָה׃",
+    "transliteration": "khiy-shod yehegeh livam ve'amal sifeteyhem tedaverenah.",
     "translation": "Pois destruição sussurra no seu coração, e suas lábios falam do trabalho iníquo."
   },
   {
     "verse": 3,
     "original": "בְּ֭חׇכְמָה יִבָּ֣נֶה בָּ֑יִת וּ֝בִתְבוּנָ֗ה יִתְכּוֹנָֽן׃",
+    "transliteration": "vehokhemah yivaneh vayit vvitevvnah yitekhvonan.",
     "translation": "Com sabedoria se edifica a casa, e com entendimento se estabelece."
   },
   {
     "verse": 4,
     "original": "וּ֭בְדַעַת חֲדָרִ֣ים יִמָּלְא֑וּ כׇּל־ה֖וֹן יָקָ֣ר וְנָעִֽים׃",
+    "transliteration": "vveda'at hadariym yimale'v khol-hvon yakar vena'iym.",
     "translation": "E nos recintos da sabedoria se encherão toda riqueza preciosa e agradável."
   },
   {
     "verse": 5,
     "original": "גֶּבֶר־חָכָ֥ם בַּע֑וֹז וְאִֽישׁ־דַּ֝֗עַת מְאַמֶּץ־כֹּֽחַ׃",
+    "transliteration": "gever-hakham va'voz ve'iysh-da'at me'amets-khoha.",
     "translation": "O homem sábio possui força, e o que tem conhecimento fortalece seu poder."
   },
   {
     "verse": 6,
     "original": "כִּ֣י בְ֭תַחְבֻּלוֹת תַּעֲשֶׂה־לְּךָ֣ מִלְחָמָ֑ה וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃",
+    "transliteration": "khiy vetahevulvot ta'aseh-lekha milehamah vteshv'ah verov yvo'ets.",
     "translation": "Pois na multidão de conselheiros estarás em guerra, mas vitória haverá com muitos aconselhadores."
   },
   {
     "verse": 7,
     "original": "רָאמ֣וֹת לֶאֱוִ֣יל חׇכְמ֑וֹת בַּ֝שַּׁ֗עַר לֹ֣א יִפְתַּח־פִּֽיהוּ׃",
+    "transliteration": "ra'mvot le'eviyl hokhemvot vasha'ar lo' yifetah-fiyhv.",
     "translation": "Altivas são as sabedorias do tolo; na porta não abre a boca."
   },
   {
     "verse": 8,
     "original": "מְחַשֵּׁ֥ב לְהָרֵ֑עַ ל֝֗וֹ בַּעַל־מְזִמּ֥וֹת יִקְרָֽאוּ׃",
+    "transliteration": "mehashev lehare'a lvo va'al-mezimvot yikera'v.",
     "translation": "Planeja o mal, mestre em maquinações assim lhe chamarão."
   },
   {
     "verse": 9,
     "original": "זִמַּ֣ת אִוֶּ֣לֶת חַטָּ֑את וְתוֹעֲבַ֖ת לְאָדָ֣ם לֵֽץ׃",
+    "transliteration": "zimat 'ivelet hata't vetvo'avat le'adam lets.",
     "translation": "Perversão é a obra da perversidade, e abominação do homem é o zombador."
   },
   {
     "verse": 10,
     "original": "הִ֭תְרַפִּיתָ בְּי֥וֹם צָרָ֗ה צַ֣ר כֹּחֶֽכָה׃",
+    "transliteration": "hiterafiyta veyvom tsarah tsar khohekhah.",
     "translation": "Estendeste-te no dia da angústia, enfraqueceu-se o teu vigor."
   },
   {
     "verse": 11,
     "original": "הַ֭צֵּל לְקֻחִ֣ים לַמָּ֑וֶת וּמָטִ֥ים לַ֝הֶ֗רֶג אִם־תַּחְשֽׂוֹךְ׃",
+    "transliteration": "hatsel lekuhiym lamavet vmatiym lahereg 'im-tahesvokhe.",
     "translation": "Salva os atraídos à morte e os destinados ao matador, se retires."
   },
   {
     "verse": 12,
     "original": "כִּֽי־תֹאמַ֗ר הֵן֮ לֹא־יָדַ֢עְנ֫וּ זֶ֥ה הֲֽלֹא־תֹ֘כֵ֤ן לִבּ֨וֹת&thinsp;<b>׀</b> הֽוּא־יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפׇעֳלֽוֹ׃",
+    "transliteration": "khiy-to'mar hen lo'-yada'env zeh halo'-tokhen livvot&thinsp;<b>|</b> hv'-yaviyn venotser nafeshekha hv' yeda' veheshiyv le'adam khefo'olvo.",
     "translation": "Porque dirás: Certamente não os conheceram; oh, então entenderia! Mas ele que guarda a alma sabe, e recompensará cada homem segundo suas obras."
   },
   {
     "verse": 13,
     "original": "אֱכׇל־בְּנִ֣י דְבַ֣שׁ כִּי־ט֑וֹב וְנֹ֥פֶת מָ֝ת֗וֹק עַל־חִכֶּֽךָ׃",
+    "transliteration": "'ekhol-veniy devash khiy-tvov venofet matvok 'al-hikhekha.",
     "translation": "Come, ó meu filho, o mel, pois é bom; e o favo de mel é suave nos teus lábios."
   },
   {
     "verse": 14,
     "original": "כֵּ֤ן&thinsp;<b>׀</b> דְּעֶ֥ה חׇכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם־מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khen&thinsp;<b>|</b> de'eh hokhemah lenafeshekha 'im-matsa'ta veyesh 'ahariyt vetikevatekha lo' tikharet.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Assim, conheça a sabedoria para sua alma; se você a encontrar, haverá um futuro, e sua esperança não será cortada."
   },
   {
     "verse": 15,
     "original": "אַל־תֶּאֱרֹ֣ב רָ֭שָׁע לִנְוֵ֣ה צַדִּ֑יק אַֽל־תְּשַׁדֵּ֥ד רִבְצֽוֹ׃",
+    "transliteration": "'al-te'erov rasha' lineveh tsadiyk 'al-teshaded rivetsvo.",
     "translation": "Não confundas o morado do ímpio com a habitação do justo; não os comprimais em seu descanso."
   },
   {
     "verse": 16,
     "original": "כִּ֤י שֶׁ֨בַע&thinsp;<b>׀</b> יִפּ֣וֹל צַדִּ֣יק וָקָ֑ם וּ֝רְשָׁעִ֗ים יִכָּשְׁל֥וּ בְרָעָֽה׃",
+    "transliteration": "khiy sheva'&thinsp;<b>|</b> yifvol tsadiyk vakam vresha'iym yikhashelv vera'ah.",
     "translation": "Pois o justo, embora caia sete vezes, levanta-se; mas os ímpios sucumbem no mal."
   },
   {
     "verse": 17,
     "original": "בִּנְפֹ֣ל <span class=\"mam-kq\"><span class=\"mam-kq-k\">(אויביך)</span> <span class=\"mam-kq-q\">[א֭וֹיִבְךָ]</span></span> אַל־תִּשְׂמָ֑ח וּ֝בִכָּשְׁל֗וֹ אַל־יָגֵ֥ל לִבֶּֽךָ׃",
+    "transliteration": "vinefol <span class=\"mam-kq\"><span class=\"mam-kq-k\">('vyvykh)</span> <span class=\"mam-kq-q\">['voyivekha]</span></span> 'al-tisemah vvikhashelvo 'al-yagel livekha.",
     "translation": "Quando teu inimigo cair, não te alegres; e quando tropeçar, que o teu coração não se regozije."
   },
   {
     "verse": 18,
     "original": "פֶּן־יִרְאֶ֣ה יְ֭הֹוָה וְרַ֣ע בְּעֵינָ֑יו וְהֵשִׁ֖יב מֵעָלָ֣יו אַפּֽוֹ׃",
+    "transliteration": "fen-yire'eh yehovah vera' ve'eynayv veheshiyv me'alayv 'afvo.",
     "translation": "Para que o Senhor não veja e ache mal, e volte sobre ele sua ira."
   },
   {
     "verse": 19,
     "original": "אַל־תִּתְחַ֥ר בַּמְּרֵעִ֑ים אַל־תְּ֝קַנֵּ֗א בָּֽרְשָׁעִֽים׃",
+    "transliteration": "'al-titehar vamere'iym 'al-tekane' varesha'iym.",
     "translation": "Não te juntas aos rebeldes, não associes com os malfeitores."
   },
   {
     "verse": 20,
     "original": "כִּ֤י&thinsp;<b>׀</b> לֹא־תִהְיֶ֣ה אַחֲרִ֣ית לָרָ֑ע נֵ֖ר רְשָׁעִ֣ים יִדְעָֽךְ׃",
+    "transliteration": "khiy&thinsp;<b>|</b> lo'-tiheyeh 'ahariyt lara' ner resha'iym yide'akhe.",
     "translation": "Pois não haverá fim para o mal, a luz dos perversos se apagará."
   },
   {
     "verse": 21,
     "original": "יְרָא־אֶת־יְהֹוָ֣ה בְּנִ֣י וָמֶ֑לֶךְ עִם־שׁ֝וֹנִ֗ים אַל־תִּתְעָרָֽב׃",
+    "transliteration": "yera'-'et-yehovah veniy vamelekhe 'im-shvoniym 'al-tite'arav.",
     "translation": "Teme ao Senhor, ó meu filho e rei, não te associes com os revoltosos."
   },
   {
     "verse": 22,
     "original": "כִּֽי־פִ֭תְאֹם יָק֣וּם אֵידָ֑ם וּפִ֥יד שְׁ֝נֵיהֶ֗ם מִ֣י יוֹדֵֽעַ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "khiy-fite'om yakvm 'eydam vfiyd sheneyhem miy yvode'a.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pois repentinamente se levantará a sua desolação, e quem sabe da destruição de ambos?"
   },
   {
     "verse": 23,
     "original": "גַּם־אֵ֥לֶּה לַחֲכָמִ֑ים הַֽכֵּר־פָּנִ֖ים בְּמִשְׁפָּ֣ט בַּל־טֽוֹב׃",
+    "transliteration": "gam-'eleh lahakhamiym hakher-faniym vemishefat val-tvov.",
     "translation": "Também isto notam os sábios: reconhecer faces no julgamento não é bom."
   },
   {
     "verse": 24,
     "original": "אֹ֤מֵ֨ר&thinsp;<b>׀</b> לְרָשָׁע֮ צַדִּ֢יק אָ֥֫תָּה יִקְּבֻ֥הוּ עַמִּ֑ים יִזְעָמ֥וּהוּ לְאֻמִּֽים׃",
+    "transliteration": "'omer&thinsp;<b>|</b> lerasha' tsadiyk 'atah yikevuhv 'amiym yize'amvhv le'umiym.",
     "translation": "Diz ao ímpio: \"Justo és!\" Dele se fartam povos, contra ele se irão nações."
   },
   {
     "verse": 25,
     "original": "וְלַמּוֹכִיחִ֥ים יִנְעָ֑ם וַ֝עֲלֵיהֶ֗ם תָּב֥וֹא בִרְכַּת־טֽוֹב׃",
+    "transliteration": "velamvokhiyhiym yine'am va'aleyhem tavvo' virekhat-tvov.",
     "translation": "E os que instruem encontrarão doçura, e sobre eles virá a bênção do bem."
   },
   {
     "verse": 26,
     "original": "שְׂפָתַ֥יִם יִשָּׁ֑ק מֵ֝שִׁ֗יב דְּבָרִ֥ים נְכֹחִֽים׃",
+    "transliteration": "sefatayim yishak meshiyv devariym nekhohiym.",
     "translation": "Lábios que beijam, respondendo com palavras retas."
   },
   {
     "verse": 27,
     "original": "הָ֘כֵ֤ן בַּח֨וּץ&thinsp;<b>׀</b> מְלַאכְתֶּ֗ךָ וְעַתְּדָ֣הּ בַּשָּׂדֶ֣ה לָ֑ךְ אַ֝חַ֗ר וּבָנִ֥יתָ בֵיתֶֽךָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "hakhen vahvts&thinsp;<b>|</b> mela'khetekha ve'atedah vasadeh lakhe 'ahar vvaniyta veytekha.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Assim, tua obra estará no exterior, e teu armazém será nos campos; depois, edificarás tua casa."
   },
   {
     "verse": 28,
     "original": "אַל־תְּהִ֣י עֵד־חִנָּ֣ם בְּרֵעֶ֑ךָ וַ֝הֲפִתִּ֗יתָ בִּשְׂפָתֶֽיךָ׃",
+    "transliteration": "'al-tehiy 'ed-hinam vere'ekha vahafitiyta visefateykha.",
     "translation": "Não sejas testemunha falsa contra o teu próximo, nem empreendas com os teus lábios engano algum."
   },
   {
     "verse": 29,
     "original": "אַל־תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה־לִ֭י כֵּ֤ן אֶֽעֱשֶׂה־לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפׇעֳלֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al-to'mar kha'asher 'asah-liy khen 'e'eseh-lvo 'ashiyv la'iysh khefo'olvo.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Não digas: Como me fizeram, assim farei a ele; eu retribuirei ao homem conforme sua obra."
   },
   {
     "verse": 30,
     "original": "עַל־שְׂדֵ֣ה אִישׁ־עָצֵ֣ל עָבַ֑רְתִּי וְעַל־כֶּ֝֗רֶם אָדָ֥ם חֲסַר־לֵֽב׃",
+    "transliteration": "'al-sedeh 'iysh-'atsel 'avaretiy ve'al-kherem 'adam hasar-lev.",
     "translation": "Passei pelo campo do preguiçoso e sobre o vinhal do homem sem coração."
   },
   {
     "verse": 31,
     "original": "וְהִנֵּ֨ה עָ֘לָ֤ה כֻלּ֨וֹ&thinsp;<b>׀</b> קִמְּשֹׂנִ֗ים כׇּסּ֣וּ פָנָ֣יו חֲרֻלִּ֑ים וְגֶ֖דֶר אֲבָנָ֣יו נֶהֱרָֽסָה׃",
+    "transliteration": "vehineh 'alah khulvo&thinsp;<b>|</b> kimesoniym khosv fanayv haruliym vegeder 'avanayv neherasah.",
     "translation": "Eis que subiu todo ele; selos de alabastro o cobrem, e a cerca de suas pedras foi derrubada."
   },
   {
     "verse": 32,
     "original": "וָאֶחֱזֶ֣ה אָ֭נֹכִי אָשִׁ֣ית לִבִּ֑י רָ֝אִ֗יתִי לָקַ֥חְתִּי מוּסָֽר׃",
+    "transliteration": "va'ehezeh 'anokhiy 'ashiyt liviy ra'iytiy lakahetiy mvsar.",
     "translation": "Vi e pus o meu coração; observei e tomei disciplina."
   },
   {
     "verse": 33,
     "original": "מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט&thinsp;<b>׀</b> חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃",
+    "transliteration": "me'at shenvot me'at tenvmvot me'at&thinsp;<b>|</b> hivuk yadayim lishekhav.",
     "translation": "Poucos são os meus dias, escassas as minhas noites de repouso; raramente se fecham as minhas mãos para o descanso."
   },
   {
     "verse": 34,
     "original": "וּבָֽא־מִתְהַלֵּ֥ךְ רֵישֶׁ֑ךָ וּ֝מַחְסֹרֶ֗יךָ כְּאִ֣ישׁ מָגֵֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vva'-mitehalekhe reyshekha vmahesoreykha khe'iysh magen.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E andará teu rei, e tuas redenções como aquele que salva."
   }
 ]

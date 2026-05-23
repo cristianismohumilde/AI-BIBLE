@@ -2,141 +2,169 @@
   {
     "verse": 1,
     "original": "וַיִּקָּ֨הֲל֜וּ כׇּל־עֲדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ שִׁלֹ֔ה וַיַּשְׁכִּ֥ינוּ שָׁ֖ם אֶת־אֹ֣הֶל מוֹעֵ֑ד וְהָאָ֥רֶץ נִכְבְּשָׁ֖ה לִפְנֵיהֶֽם׃",
+    "transliteration": "vayikahalv khol-'adat veney-yisera'el shiloh vayashekhiynv sham 'et-'ohel mvo'ed veha'arets nikheveshah lifeneyhem.",
     "translation": "E toda a congregação de filhos de Israel se ajuntou em Siló, e ali estabeleceram a tenda do encontro; e a terra havia sido conquistada diante deles."
   },
   {
     "verse": 2,
     "original": "וַיִּוָּֽתְרוּ֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר לֹא־חָֽלְק֖וּ אֶת־נַחֲלָתָ֑ם שִׁבְעָ֖ה שְׁבָטִֽים׃",
+    "transliteration": "vayivaterv viveney yisera'el 'asher lo'-halekv 'et-nahalatam shive'ah shevatiym.",
     "translation": "E sete tribos dos filhos de Israel não haviam recebido a sua herança."
   },
   {
     "verse": 3,
     "original": "וַיֹּ֥אמֶר יְהוֹשֻׁ֖עַ אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל עַד־אָ֙נָה֙ אַתֶּ֣ם מִתְרַפִּ֔ים לָבוֹא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהֹוָ֖ה אֱלֹהֵ֥י אֲבוֹתֵיכֶֽם׃",
+    "transliteration": "vayo'mer yehvoshu'a 'el-veney yisera'el 'ad-'anah 'atem miterafiym lavvo' lareshet 'et-ha'arets 'asher natan lakhem yehovah 'elohey 'avvoteykhem.",
     "translation": "E disse Josué aos filhos de Israel: Até quando permanecereis indolentes para entrar na posse da terra que o Senhor, Deus de vossos pais, vos dá?"
   },
   {
     "verse": 4,
     "original": "הָב֥וּ לָכֶ֛ם שְׁלֹשָׁ֥ה אֲנָשִׁ֖ים לַשָּׁ֑בֶט וְאֶשְׁלָחֵ֗ם וְיָקֻ֜מוּ וְיִֽתְהַלְּכ֥וּ בָאָ֛רֶץ וְיִכְתְּב֥וּ אוֹתָ֛הּ לְפִ֥י נַחֲלָתָ֖ם וְיָבֹ֥אוּ אֵלָֽי׃",
+    "transliteration": "havv lakhem sheloshah 'anashiym lashavet ve'eshelahem veyakumv veyitehalekhv va'arets veyikhetevv 'votah lefiy nahalatam veyavo'v 'elay.",
     "translation": "Dai-vos três homens por tribo, e os enviarei; eles se levantarão e percorrerão a terra e a descreverão conforme a sua herança; e virão até mim."
   },
   {
     "verse": 5,
     "original": "וְהִֽתְחַלְּק֥וּ אֹתָ֖הּ לְשִׁבְעָ֣ה חֲלָקִ֑ים יְהוּדָ֞ה יַעֲמֹ֤ד עַל־גְּבוּלוֹ֙ מִנֶּ֔גֶב וּבֵ֥ית יוֹסֵ֛ף יַעַמְד֥וּ עַל־גְּבוּלָ֖ם מִצָּפֽוֹן׃",
+    "transliteration": "vehitehalekv 'otah leshive'ah halakiym yehvdah ya'amod 'al-gevvlvo minegev vveyt yvosef ya'amedv 'al-gevvlam mitsafvon.",
     "translation": "E a dividam em sete partes; Judá permanecerá no seu limite do sul, e a casa de José se firmará na sua fronteira do norte."
   },
   {
     "verse": 6,
     "original": "וְאַתֶּ֞ם תִּכְתְּב֤וּ אֶת־הָאָ֙רֶץ֙ שִׁבְעָ֣ה חֲלָקִ֔ים וַהֲבֵאתֶ֥ם אֵלַ֖י הֵ֑נָּה וְיָרִ֨יתִי לָכֶ֤ם גּוֹרָל֙ פֹּ֔ה לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֵֽינוּ׃",
+    "transliteration": "ve'atem tikhetevv 'et-ha'arets shive'ah halakiym vahave'tem 'elay henah veyariytiy lakhem gvoral foh lifeney yehovah 'eloheynv.",
     "translation": "E vós escrevereis a terra em sete partes, e as trareis a mim; e eu lançarei o sorteo diante do Senhor nosso Deus."
   },
   {
     "verse": 7,
     "original": "כִּ֠י אֵֽין־חֵ֤לֶק לַלְוִיִּם֙ בְּקִרְבְּכֶ֔ם כִּֽי־כְהֻנַּ֥ת יְהֹוָ֖ה נַחֲלָת֑וֹ וְגָ֡ד וּרְאוּבֵ֡ן וַחֲצִי֩ שֵׁ֨בֶט הַֽמְנַשֶּׁ֜ה לָקְח֣וּ נַחֲלָתָ֗ם מֵעֵ֤בֶר לַיַּרְדֵּן֙ מִזְרָ֔חָה אֲשֶׁר֙ נָתַ֣ן לָהֶ֔ם מֹשֶׁ֖ה עֶ֥בֶד יְהֹוָֽה׃",
+    "transliteration": "khiy 'eyn-helek laleviyim vekirevekhem khiy-khehunat yehovah nahalatvo vegad vre'vven vahatsiy shevet hamenasheh lakehv nahalatam me'ever layareden mizerahah 'asher natan lahem mosheh 'eved yehovah.",
     "translation": "Pois não há porção para os levitas entre vós; pois a sacerdócia do Senhor é a sua herança. E Gad, Reuben e meio clã de Manassés tomaram sua herança além do Jordão, para o leste, que Moisés, servo do Senhor, lhes deu."
   },
   {
     "verse": 8,
     "original": "וַיָּקֻ֥מוּ הָאֲנָשִׁ֖ים וַיֵּלֵ֑כוּ וַיְצַ֣ו יְהוֹשֻׁ֡עַ אֶת־הַהֹלְכִים֩ לִכְתֹּ֨ב אֶת־הָאָ֜רֶץ לֵאמֹ֗ר לְ֠כ֠וּ וְהִתְהַלְּכ֨וּ בָאָ֜רֶץ וְכִתְב֤וּ אוֹתָהּ֙ וְשׁ֣וּבוּ אֵלַ֔י וּ֠פֹ֠ה אַשְׁלִ֨יךְ לָכֶ֥ם גּוֹרָ֛ל לִפְנֵ֥י יְהֹוָ֖ה בְּשִׁלֹֽה׃",
+    "transliteration": "vayakumv ha'anashiym vayelekhv vayetsav yehvoshu'a 'et-haholekhiym likhetov 'et-ha'arets le'mor lekhv vehitehalekhv va'arets vekhitevv 'votah veshvvv 'elay vfoh 'asheliykhe lakhem gvoral lifeney yehovah veshiloh.",
     "translation": "E os homens se levantaram e partiram. E Josué deu ordem aos que iam escrever a respeito da terra, dizendo: Ide e percorrei a terra e anotai-a; depois retornai para mim; e eu vos lançarei o sortilégio diante do Senhor em Siló."
   },
   {
     "verse": 9,
     "original": "וַיֵּלְכ֤וּ הָאֲנָשִׁים֙ וַיַּעַבְר֣וּ בָאָ֔רֶץ וַיִּכְתְּב֧וּהָ לֶעָרִ֛ים לְשִׁבְעָ֥ה חֲלָקִ֖ים עַל־סֵ֑פֶר וַיָּבֹ֧אוּ אֶל־יְהוֹשֻׁ֛עַ אֶל־הַֽמַּחֲנֶ֖ה שִׁלֹֽה׃",
+    "transliteration": "vayelekhv ha'anashiym vaya'averv va'arets vayikhetevvha le'ariym leshive'ah halakiym 'al-sefer vayavo'v 'el-yehvoshu'a 'el-hamahaneh shiloh.",
     "translation": "E os homens partiram, percorreram a terra e registraram-na em sete partes pelas cidades num livro. Depois retornaram a Josué ao acampamento em Siló."
   },
   {
     "verse": 10,
     "original": "וַיַּשְׁלֵךְ֩ לָהֶ֨ם יְהוֹשֻׁ֧עַ גּוֹרָ֛ל בְּשִׁלֹ֖ה לִפְנֵ֣י יְהֹוָ֑ה וַיְחַלֶּק־שָׁ֨ם יְהוֹשֻׁ֧עַ אֶת־הָאָ֛רֶץ לִבְנֵ֥י יִשְׂרָאֵ֖ל כְּמַחְלְקֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayashelekhe lahem yehvoshu'a gvoral veshiloh lifeney yehovah vayehalek-sham yehvoshu'a 'et-ha'arets liveney yisera'el khemahelekotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E Josué lançou sortes diante do Senhor em Siló; ali Josué repartiu a terra entre os filhos de Israel conforme suas divisões."
   },
   {
     "verse": 11,
     "original": "וַיַּ֗עַל גּוֹרַ֛ל מַטֵּ֥ה בְנֵֽי־בִנְיָמִ֖ן לְמִשְׁפְּחֹתָ֑ם וַיֵּצֵא֙ גְּב֣וּל גּוֹרָלָ֔ם בֵּ֚ין בְּנֵ֣י יְהוּדָ֔ה וּבֵ֖ין בְּנֵ֥י יוֹסֵֽף׃",
+    "transliteration": "vaya'al gvoral mateh veney-vineyamin lemishefehotam vayetse' gevvl gvoralam veyn veney yehvdah vveyn veney yvosef.",
     "translation": "Subiu o sorteio da tribo de Benjamim conforme suas famílias, e saiu-lhes o limite do seu território entre os filhos de Judá e entre os filhos de José."
   },
   {
     "verse": 12,
     "original": "וַיְהִ֨י לָהֶ֧ם הַגְּב֛וּל לִפְאַ֥ת צָפ֖וֹנָה מִן־הַיַּרְדֵּ֑ן וְעָלָ֣ה הַגְּבוּל֩ אֶל־כֶּ֨תֶף יְרִיח֜וֹ מִצָּפ֗וֹן וְעָלָ֤ה בָהָר֙ יָ֔מָּה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(והיה)</span> <span class=\"mam-kq-q\">[וְהָיוּ֙]</span></span> תֹּֽצְאֹתָ֔יו מִדְבַּ֖רָה בֵּ֥ית אָֽוֶן׃",
+    "transliteration": "vayehiy lahem hagevvl life'at tsafvonah min-hayareden ve'alah hagevvl 'el-khetef yeriyhvo mitsafvon ve'alah vahar yamah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vhyh)</span> <span class=\"mam-kq-q\">[vehayv]</span></span> totse'otayv midevarah veyt 'aven.",
     "translation": "E foi para eles o termo ao lado do norte do Jordão, e subia o termo até a colina de Jericó, do norte, e subia ao monte pelo lado ocidental, e saíam os seus confins no deserto da casa de Aven."
   },
   {
     "verse": 13,
     "original": "וְעָבַר֩ מִשָּׁ֨ם הַגְּב֜וּל ל֗וּזָה אֶל־כֶּ֤תֶף ל֙וּזָה֙ נֶ֔גְבָּה הִ֖יא בֵּֽית־אֵ֑ל וְיָרַ֤ד הַגְּבוּל֙ עַטְר֣וֹת אַדָּ֔ר עַל־הָהָ֕ר אֲשֶׁ֛ר מִנֶּ֥גֶב לְבֵית־חֹר֖וֹן תַּחְתּֽוֹן׃",
+    "transliteration": "ve'avar misham hagevvl lvzah 'el-khetef lvzah negevah hiy' veyt-'el veyarad hagevvl 'atervot 'adar 'al-hahar 'asher minegev leveyt-horvon tahetvon.",
     "translation": "E passará daí o limite até Luz; até a face de Luz ao sul; essa é Betel. E descerá o limite até Atarot Adara, sobre o monte que está ao sul de Baite-Corom, embaixo."
   },
   {
     "verse": 14,
     "original": "וְתָאַ֣ר הַגְּבוּל֩ וְנָסַ֨ב לִפְאַת־יָ֜ם נֶ֗גְבָּה מִן־הָהָר֙ אֲשֶׁ֨ר עַל־פְּנֵ֥י בֵית־חֹרוֹן֮ נֶ֒גְבָּה֒ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(והיה)</span> <span class=\"mam-kq-q\">[וְהָי֣וּ]</span></span> תֹצְאֹתָ֗יו אֶל־קִרְיַת־בַּ֙עַל֙ הִ֚יא קִרְיַ֣ת יְעָרִ֔ים עִ֖יר בְּנֵ֣י יְהוּדָ֑ה זֹ֖את פְּאַת־יָֽם׃",
+    "transliteration": "veta'ar hagevvl venasav life'at-yam negevah min-hahar 'asher 'al-feney veyt-horvon negevah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vhyh)</span> <span class=\"mam-kq-q\">[vehayv]</span></span> totse'otayv 'el-kireyat-va'al hiy' kireyat ye'ariym 'iyr veney yehvdah zo't fe'at-yam.",
     "translation": "E descreveu o contorno, voltando-se para a encosta do mar ao sul, partindo da montanha que está frente a Bet-Horom no sul. E suas saídas foram até Quiriate-Baal, ela é Quiriate-Jearim, cidade dos filhos de Judá. Esta é a extremidade do mar."
   },
   {
     "verse": 15,
     "original": "וּפְאַת־נֶ֕גְבָּה מִקְצֵ֖ה קִרְיַ֣ת יְעָרִ֑ים וְיָצָ֤א הַגְּבוּל֙ יָ֔מָּה וְיָצָ֕א אֶל־מַעְיַ֖ן מֵ֥י נֶפְתּֽוֹחַ׃",
+    "transliteration": "vfe'at-negevah miketseh kireyat ye'ariym veyatsa' hagevvl yamah veyatsa' 'el-ma'eyan mey nefetvoha.",
     "translation": "E a extremidade do Neguebe começa de Kiriáte-Jearim, e o limite se estende para o mar, chegando à fonte das águas de Neftoah."
   },
   {
     "verse": 16,
     "original": "וְיָרַ֨ד הַגְּב֜וּל אֶל־קְצֵ֣ה הָהָ֗ר אֲשֶׁר֙ עַל־פְּנֵי֙ גֵּ֣י בֶן־הִנֹּ֔ם אֲשֶׁ֛ר בְּעֵ֥מֶק רְפָאִ֖ים צָפ֑וֹנָה וְיָרַד֩ גֵּ֨י הִנֹּ֜ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ נֶ֔גְבָּה וְיָרַ֖ד עֵ֥ין רֹגֵֽל׃",
+    "transliteration": "veyarad hagevvl 'el-ketseh hahar 'asher 'al-feney gey ven-hinom 'asher ve'emek refa'iym tsafvonah veyarad gey hinom 'el-khetef hayevvsiy negevah veyarad 'eyn rogel.",
     "translation": "E o limite desce até a extremidade da montanha que está diante do vale de Ben-Hinom, que é no vale dos Refaim ao norte; e o vale Hinom desce até o cotovelo do jebuseu para sul, e desce à Fonte de Rogel."
   },
   {
     "verse": 17,
     "original": "וְתָאַ֣ר מִצָּפ֗וֹן וְיָצָא֙ עֵ֣ין שֶׁ֔מֶשׁ וְיָצָא֙ אֶל־גְּלִיל֔וֹת אֲשֶׁר־נֹ֖כַח מַעֲלֵ֣ה אֲדֻמִּ֑ים וְיָרַ֕ד אֶ֥בֶן בֹּ֖הַן בֶּן־רְאוּבֵֽן׃",
+    "transliteration": "veta'ar mitsafvon veyatsa' 'eyn shemesh veyatsa' 'el-geliylvot 'asher-nokhah ma'aleh 'adumiym veyarad 'even vohan ven-re'vven.",
     "translation": "E ele descreveu desde o norte e saiu o sol poente, e saiu até os cercados que estão diante do ascenso dos Edomitas; então desceu à pedra de Boã, filho de Rúben."
   },
   {
     "verse": 18,
     "original": "וְעָבַ֛ר אֶל־כֶּ֥תֶף מוּל־הָעֲרָבָ֖ה צָפ֑וֹנָה וְיָרַ֖ד הָעֲרָבָֽתָה׃",
+    "transliteration": "ve'avar 'el-khetef mvl-ha'aravah tsafvonah veyarad ha'aravatah.",
     "translation": "E passou para a encosta oposta da Arabá ao norte, e desceu pela Arabá."
   },
   {
     "verse": 19,
     "original": "וְעָבַ֨ר הַגְּב֜וּל אֶל־כֶּ֣תֶף בֵּית־חׇגְלָה֮ צָפ֒וֹנָה֒ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(והיה)</span> <span class=\"mam-kq-q\">[וְהָי֣וּ&thinsp;<b>׀</b>]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">(תצאותיו)</span> <span class=\"mam-kq-q\">[תֹּצְא֣וֹת]</span></span> הַגְּב֗וּל אֶל־לְשׁ֤וֹן יָם־הַמֶּ֙לַח֙ צָפ֔וֹנָה אֶל־קְצֵ֥ה הַיַּרְדֵּ֖ן נֶ֑גְבָּה זֶ֖ה גְּב֥וּל נֶֽגֶב׃",
+    "transliteration": "ve'avar hagevvl 'el-khetef veyt-hogelah tsafvonah <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vhyh)</span> <span class=\"mam-kq-q\">[vehayv&thinsp;<b>|</b>]</span></span> <span class=\"mam-kq\"><span class=\"mam-kq-k\">(tts'vtyv)</span> <span class=\"mam-kq-q\">[totse'vot]</span></span> hagevvl 'el-leshvon yam-hamelah tsafvonah 'el-ketseh hayareden negevah zeh gevvl negev.",
     "translation": "E passará o limite até à têmpora de Bet-Hagla para o norte; e as saídas do limite irão até a língua do Mar Salgado para o norte, até ao extremo do Jordão para o sul. Isto é o limite do sul."
   },
   {
     "verse": 20,
     "original": "וְהַיַּרְדֵּ֥ן יִגְבֹּל־אֹת֖וֹ לִפְאַת־קֵ֑דְמָה זֹ֡את נַחֲלַת֩ בְּנֵ֨י בִנְיָמִ֧ן לִגְבֽוּלֹתֶ֛יהָ סָבִ֖יב לְמִשְׁפְּחֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vehayareden yigevol-'otvo life'at-kedemah zo't nahalat veney vineyamin ligevvloteyha saviyv lemishefehotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E o rio Jordão lhe servirá de limite ao oriente. Esta é a herança dos filhos de Benjamim segundo suas fronteiras, em torno das suas famílias."
   },
   {
     "verse": 21,
     "original": "וְהָי֣וּ הֶֽעָרִ֗ים לְמַטֵּ֛ה בְּנֵ֥י בִנְיָמִ֖ן לְמִשְׁפְּחוֹתֵיהֶ֑ם יְרִיח֥וֹ וּבֵית־חׇגְלָ֖ה וְעֵ֥מֶק קְצִֽיץ׃",
+    "transliteration": "vehayv he'ariym lemateh veney vineyamin lemishefehvoteyhem yeriyhvo vveyt-hogelah ve'emek ketsiyts.",
     "translation": "E as cidades do tribu dos filhos de Benjamim, conforme suas famílias, serão Jericó e Bet-Hagla e Vale-Ketits."
   },
   {
     "verse": 22,
     "original": "וּבֵ֧ית הָעֲרָבָ֛ה וּצְמָרַ֖יִם וּבֵֽית־אֵֽל׃",
+    "transliteration": "vveyt ha'aravah vtsemarayim vveyt-'el.",
     "translation": "E a casa da Arabá e Tsemaraim e Beit-El."
   },
   {
     "verse": 23,
     "original": "וְהָעַוִּ֥ים וְהַפָּרָ֖ה וְעׇפְרָֽה׃",
+    "transliteration": "veha'aviym vehafarah ve'oferah.",
     "translation": "E os avivenses e a fértil e o pó."
   },
   {
     "verse": 24,
     "original": "וּכְפַ֧ר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(העמני)</span> <span class=\"mam-kq-q\">[הָעַמֹּנָ֛ה]</span></span> וְהָעׇפְנִ֖י וָגָ֑בַע עָרִ֥ים שְׁתֵּים־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃",
+    "transliteration": "vkhefar <span class=\"mam-kq\"><span class=\"mam-kq-k\">(h'mny)</span> <span class=\"mam-kq-q\">[ha'amonah]</span></span> veha'ofeniy vagava' 'ariym sheteym-'esereh vehatsereyhen.",
     "translation": "E a de Amon e Ophni e Gabaa, cidades em número de treze com seus pátios.\n\nNota: Embora a tradução apresente uma estrutura que se aproxima do original hebraico, houve necessidade de pequena correção para maior fidelidade e qualidade teológica. No entanto, o pedido especificava não incluir notas ou explicações, logo segue apenas a tradução corrigida sem a nota explicativa pedida no requisito.\n\nE a de Amon e Ophni e Gabaa, cidades em número de treze com seus pátios.\n\nNota suprimida conforme requisitos: A versão correta deve refletir o plural correto para 'cidades' e manter a solenidade do texto original."
   },
   {
     "verse": 25,
     "original": "גִּבְע֥וֹן וְהָרָמָ֖ה וּבְאֵרֽוֹת׃",
+    "transliteration": "give'von veharamah vve'ervot.",
     "translation": "Gibeão e Ramá e Beeroth."
   },
   {
     "verse": 26,
     "original": "וְהַמִּצְפֶּ֥ה וְהַכְּפִירָ֖ה וְהַמֹּצָֽה׃",
+    "transliteration": "vehamitsefeh vehakhefiyrah vehamotsah.",
     "translation": "E o Mitzpá e a Kefirá e o Motzá."
   },
   {
     "verse": 27,
     "original": "וְרֶ֥קֶם וְיִרְפְּאֵ֖ל וְתַרְאֲלָֽה׃",
+    "transliteration": "verekem veyirefe'el vetare'alah.",
     "translation": "E Requem e Irpael e Tarela."
   },
   {
     "verse": 28,
     "original": "וְצֵלַ֡ע הָאֶ֜לֶף וְהַיְבוּסִ֨י הִ֤יא יְרוּשָׁלַ֙͏ִם֙ גִּבְעַ֣ת קִרְיַ֔ת עָרִ֥ים אַרְבַּֽע־עֶשְׂרֵ֖ה וְחַצְרֵיהֶ֑ן זֹ֛את נַחֲלַ֥ת בְּנֵֽי־בִנְיָמִ֖ן לְמִשְׁפְּחֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vetsela' ha'elef vehayevvsiy hiy' yervshalaim give'at kireyat 'ariym 'areva'-'esereh vehatsereyhen zo't nahalat veney-vineyamin lemishefehotam.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E a extremidade do milhar e dos jebuseus é Jerusalém, Gibea, Quiriáte-Arba; quatorze cidades com seus povoados. Esta é a herança dos filhos de Benjamim segundo suas famílias."
   }
 ]

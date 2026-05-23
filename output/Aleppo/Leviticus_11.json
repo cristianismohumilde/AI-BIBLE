@@ -2,236 +2,283 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh ve'el-'aharon le'mor 'alehem.",
     "translation": "E o Senhor falou a Moisés e a Arão, dizendo-lhes:"
   },
   {
     "verse": 2,
     "original": "דַּבְּר֛וּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֤את הַֽחַיָּה֙ אֲשֶׁ֣ר תֹּאכְל֔וּ מִכׇּל־הַבְּהֵמָ֖ה אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃",
+    "transliteration": "daverv 'el-veney yisera'el le'mor zo't hahayah 'asher to'khelv mikhol-havehemah 'asher 'al-ha'arets.",
     "translation": "Falai aos filhos de Israel, dizendo: Esta é a criatura que comerdes dentre todos os animais que estão sobre a terra."
   },
   {
     "verse": 3,
     "original": "כֹּ֣ל&thinsp;<b>׀</b> מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+    "transliteration": "khol&thinsp;<b>|</b> mafereset faresah veshosa'at shesa' ferasot ma'alat gerah vavehemah 'otah to'khelv.",
     "translation": "Toda animal que tem divisão do casco em partes e rumina entre os animais da terra, esses vocês comerão."
   },
   {
     "verse": 4,
     "original": "אַ֤ךְ אֶת־זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִסֵ֖י הַפַּרְסָ֑ה אֶֽת־הַ֠גָּמָ֠ל כִּֽי־מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "transliteration": "'akhe 'et-zeh lo' to'khelv mima'aley hagerah vmimaferisey hafaresah 'et-hagamal khiy-ma'aleh gerah hv' vfaresah 'eynenv maferiys tame' hv' lakhem.",
     "translation": "Mas isto não comerão, dos que trazem a divisão e dos que separam o casco: o camelo, pois traz a divisão mas não separa o casco, lhes será imundo."
   },
   {
     "verse": 5,
     "original": "וְאֶת־הַשָּׁפָ֗ן כִּֽי־מַעֲלֵ֤ה גֵרָה֙ ה֔וּא וּפַרְסָ֖ה לֹ֣א יַפְרִ֑יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "transliteration": "ve'et-hashafan khiy-ma'aleh gerah hv' vfaresah lo' yaferiys tame' hv' lakhem.",
     "translation": "E o shafan, pois ele traz à tona sua divisão, mas a pata não divide; imundo é para vocês."
   },
   {
     "verse": 6,
     "original": "וְאֶת־הָאַרְנֶ֗בֶת כִּֽי־מַעֲלַ֤ת גֵּרָה֙ הִ֔וא וּפַרְסָ֖ה לֹ֣א הִפְרִ֑יסָה טְמֵאָ֥ה הִ֖וא לָכֶֽם׃",
+    "transliteration": "ve'et-ha'arenevet khiy-ma'alat gerah hiv' vfaresah lo' hiferiysah teme'ah hiv' lakhem.",
     "translation": "E a lebre, pois é um animal que ruma, mas não divide o casco; ela vos será impura."
   },
   {
     "verse": 7,
     "original": "וְאֶת־הַ֠חֲזִ֠יר כִּֽי־מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֙סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא־יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "transliteration": "ve'et-hahaziyr khiy-maferiys faresah hv' veshosa' shesa' faresah vehv' gerah lo'-yigar tame' hv' lakhem.",
     "translation": "E o javali, pois ele divide a pata em partes, mas não a despe; impuro é para vós."
   },
   {
     "verse": 8,
     "original": "מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃",
+    "transliteration": "mivesaram lo' to'khelv vvenivelatam lo' tiga'v teme'iym hem lakhem.",
     "translation": "Da sua carne não comerão, e das suas carcaças não tocareis; eles vos são impuros."
   },
   {
     "verse": 9,
     "original": "אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר־לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ׃",
+    "transliteration": "'et-zeh to'khelv mikhol 'asher vamayim khol 'asher-lvo senafiyr vekasekeset vamayim vayamiym vvanehaliym 'otam to'khelv.",
     "translation": "Destes comerão, de todos que estão nas águas: todo aquele que tiver nadadeiras e escamas, nos mares e nos rios, estes comerão."
   },
   {
     "verse": 10,
     "original": "וְכֹל֩ אֲשֶׁ֨ר אֵֽין־ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃",
+    "transliteration": "vekhol 'asher 'eyn-lvo senafiyr vekasekeset vayamiym vvanehaliym mikhol sherets hamayim vmikhol nefesh hahayah 'asher vamayim shekets hem lakhem.",
     "translation": "E tudo o que não tiver escamas e barbatanas nos mares e rios, de todo o repuliegas das águas e de toda a alma viva que há nas águas, abominação serão para vós.\n\n(Corrigindo apenas o termo \"repuliegas\" por ser uma imprecisão:)\n\nE tudo o que não tiver escamas e barbatanas nos mares e rios, de todo o repulsivo das águas e de toda a alma viva que há nas águas, abominação serão para vós."
   },
   {
     "verse": 11,
     "original": "וְשֶׁ֖קֶץ יִהְי֣וּ לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וְאֶת־נִבְלָתָ֖ם תְּשַׁקֵּֽצוּ׃",
+    "transliteration": "veshekets yiheyv lakhem mivesaram lo' to'khelv ve'et-nivelatam teshaketsv.",
     "translation": "E abominações serão para vocês; da sua carne não comerão, e das suas carcaças se abominarão."
   },
   {
     "verse": 12,
     "original": "כֹּ֣ל אֲשֶׁ֥ר אֵֽין־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת בַּמָּ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+    "transliteration": "khol 'asher 'eyn-lvo senafiyr vekasekeset vamayim shekets hv' lakhem.",
     "translation": "Tudo o que não tem escamas e barbatanas nas águas, abominação será para vós."
   },
   {
     "verse": 13,
     "original": "וְאֶת־אֵ֙לֶּה֙ תְּשַׁקְּצ֣וּ מִן־הָע֔וֹף לֹ֥א יֵאָכְל֖וּ שֶׁ֣קֶץ הֵ֑ם אֶת־הַנֶּ֙שֶׁר֙ וְאֶת־הַפֶּ֔רֶס וְאֵ֖ת הָעׇזְנִיָּֽה׃",
+    "transliteration": "ve'et-'eleh teshaketsv min-ha'vof lo' ye'akhelv shekets hem 'et-hanesher ve'et-haferes ve'et ha'ozeniyah.",
     "translation": "E estes vosso abominareis dos pássaros; não serão comidos, pois são abominação: águia e pomba e azorlaez."
   },
   {
     "verse": 14,
     "original": "וְאֶ֨ת־הַדָּאָ֔ה וְאֶת־הָאַיָּ֖ה לְמִינָֽהּ׃",
+    "transliteration": "ve'et-hada'ah ve'et-ha'ayah lemiynah.",
     "translation": "E a coruja e a águia-marinha, cada uma segundo o seu gênero."
   },
   {
     "verse": 15,
     "original": "אֵ֥ת כׇּל־עֹרֵ֖ב לְמִינֽוֹ׃",
+    "transliteration": "'et khol-'orev lemiynvo.",
     "translation": "Toda coruja, segundo as suas espécies;"
   },
   {
     "verse": 16,
     "original": "וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־הַתַּחְמָ֖ס וְאֶת־הַשָּׁ֑חַף וְאֶת־הַנֵּ֖ץ לְמִינֵֽהוּ׃",
+    "transliteration": "ve'et vat haya'anah ve'et-hatahemas ve'et-hashahaf ve'et-hanets lemiynehv.",
     "translation": "E a filha da coruja, e o tátsa, e o çacháf, e o netz de sua espécie."
   },
   {
     "verse": 17,
     "original": "וְאֶת־הַכּ֥וֹס וְאֶת־הַשָּׁלָ֖ךְ וְאֶת־הַיַּנְשֽׁוּף׃",
+    "transliteration": "ve'et-hakhvos ve'et-hashalakhe ve'et-hayaneshvf.",
     "translation": "E a taça e o escoadouro e as bacias."
   },
   {
     "verse": 18,
     "original": "וְאֶת־הַתִּנְשֶׁ֥מֶת וְאֶת־הַקָּאָ֖ת וְאֶת־הָרָחָֽם׃",
+    "transliteration": "ve'et-hatineshemet ve'et-haka'at ve'et-haraham.",
     "translation": "E a tinshemet e a qaath e a raham."
   },
   {
     "verse": 19,
     "original": "וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת־הַדּוּכִיפַ֖ת וְאֶת־הָעֲטַלֵּֽף׃",
+    "transliteration": "ve'et hahasiydah ha'anafah lemiynah ve'et-hadvkhiyfat ve'et-ha'atalef.",
     "translation": "e a andorinha, o corvo na sua espécie; e a alcorneba e o morcego."
   },
   {
     "verse": 20,
     "original": "כֹּ֚ל שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+    "transliteration": "khol sherets ha'vof haholekhe 'al-'areva' shekets hv' lakhem.",
     "translation": "Todo réptil dos pássaros que anda sobre quatro, abominação será para vós."
   },
   {
     "verse": 21,
     "original": "אַ֤ךְ אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּל֙ שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ל֤וֹ]</span> <span class=\"mam-kq-k\">(לא)</span></span> כְרָעַ֙יִם֙ מִמַּ֣עַל לְרַגְלָ֔יו לְנַתֵּ֥ר בָּהֵ֖ן עַל־הָאָֽרֶץ׃",
+    "transliteration": "'akhe 'et-zeh to'khelv mikhol sherets ha'vof haholekhe 'al-'areva' 'asher-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[lvo]</span> <span class=\"mam-kq-k\">(l')</span></span> khera'ayim mima'al leragelayv lenater vahen 'al-ha'arets.",
     "translation": "Mas disto comereis, de todo réptil alado que anda sobre quatro, aquele cujas coxas estão acima das patas para se saltar sobre a terra."
   },
   {
     "verse": 22,
     "original": "אֶת־אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ אֶת־הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־הַסׇּלְעָ֖ם לְמִינֵ֑הוּ וְאֶת־הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־הֶחָגָ֖ב לְמִינֵֽהוּ׃",
+    "transliteration": "'et-'eleh mehem to'khelv 'et-ha'areveh lemiynvo ve'et-hasole'am lemiynehv ve'et-haharegol lemiynehv ve'et-hehagav lemiynehv.",
     "translation": "Destes comerdes vós: o arbeh do seu gênero, e o sal'am de sua espécie, e o chargôl da sua espécie, e o chagav do seu tipo."
   },
   {
     "verse": 23,
     "original": "וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף אֲשֶׁר־ל֖וֹ אַרְבַּ֣ע רַגְלָ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+    "transliteration": "vekhol sherets ha'vof 'asher-lvo 'areva' ragelayim shekets hv' lakhem.",
     "translation": "E todo inseto alado que tem quatro pés, isso vos será abominação."
   },
   {
     "verse": 24,
     "original": "וּלְאֵ֖לֶּה תִּטַּמָּ֑אוּ כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "vle'eleh titama'v khol-hanoge'a venivelatam yitema' 'ad-ha'arev.",
     "translation": "E estes vos contaminarão; todo o que tocar nas suas carcaças se contaminará até ao anoitecer."
   },
   {
     "verse": 25,
     "original": "וְכׇל־הַנֹּשֵׂ֖א מִנִּבְלָתָ֑ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "vekhol-hanose' minivelatam yekhaves vegadayv vetame' 'ad-ha'arev.",
     "translation": "E todo o que levar das suas carcaças, lavará as suas vestes e será impuro até à tarde."
   },
   {
     "verse": 26,
     "original": "לְֽכׇל־הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע&thinsp;<b>׀</b> אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כׇּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃",
+    "transliteration": "lekhol-havehemah 'asher hiv' mafereset faresah veshesa'&thinsp;<b>|</b> 'eynenah shosa'at vegerah 'eynenah ma'alah teme'iym hem lakhem khol-hanoge'a vahem yitema'.",
     "translation": "De toda a fera cuja pata está fendida, mas que não divide totalmente, e que não rumina, estes são impuros para vós; todo o que nelas tocar se contaminará."
   },
   {
     "verse": 27,
     "original": "וְכֹ֣ל&thinsp;<b>׀</b> הוֹלֵ֣ךְ עַל־כַּפָּ֗יו בְּכׇל־הַֽחַיָּה֙ הַהֹלֶ֣כֶת עַל־אַרְבַּ֔ע טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "vekhol&thinsp;<b>|</b> hvolekhe 'al-khafayv vekhol-hahayah haholekhet 'al-'areva' teme'iym hem lakhem khol-hanoge'a venivelatam yitema' 'ad-ha'arev.",
     "translation": "E todo aquele que anda sobre as pontas dos pés entre todos os animais de quatro é impuro para vós; qualquer que tocar em suas carcaças ficará impuro até à tarde."
   },
   {
     "verse": 28,
     "original": "וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב טְמֵאִ֥ים הֵ֖מָּה לָכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vehanose' 'et-nivelatam yekhaves vegadayv vetame' 'ad-ha'arev teme'iym hemah lakhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quem carregar suas carcaças lavará as vestes e estará impuro até o anoitecer; eles vos serão impuros."
   },
   {
     "verse": 29,
     "original": "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃",
+    "transliteration": "vezeh lakhem hatame' vasherets hashorets 'al-ha'arets haholed veha'akhevar vehatsav lemiynehv.",
     "translation": "E esta é a impureza para vocês, no rastejar que rasteja sobre a terra: o camundongo e o coelho e a lagartixa de seu gênero."
   },
   {
     "verse": 30,
     "original": "וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃",
+    "transliteration": "veha'anakah vehakhoha vehaleta'ah vehahomet vehatineshamet.",
     "translation": "E a anaca, e o cocho, e a latã, e o camaleão, e a gecko."
   },
   {
     "verse": 31,
     "original": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "'eleh hateme'iym lakhem vekhol-hasharets khol-hanoge'a vahem vemotam yitema' 'ad-ha'arev.",
     "translation": "Estes são os que vos contaminam entre todos os reptis; todo aquele que neles tocar quando mortos se contaminará até à tarde."
   },
   {
     "verse": 32,
     "original": "וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם&thinsp;<small>׀</small>&thinsp;בְּמֹתָ֜ם יִטְמָ֗א מִכׇּל־כְּלִי־עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־עוֹר֙ א֣וֹ שָׂ֔ק כׇּל־כְּלִ֕י אֲשֶׁר־יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
+    "transliteration": "vekhol 'asher-yifol-'alayv mehem&thinsp;<small>|</small>&thinsp;vemotam yitema' mikhol-kheliy-'ets 'vo veged 'vo-'vor 'vo sak khol-kheliy 'asher-ye'aseh mela'khah vahem vamayim yvva' vetame' 'ad-ha'erev vetaher.",
     "translation": "E tudo o que cair sobre eles em suas mortes se contaminará: todo utensílio de madeira, ou roupa, ou couro, ou saco, qualquer utensílio feito por obra das mãos. N'água será posto e ficará impuro até a noite, depois se purificará."
   },
   {
     "verse": 33,
     "original": "וְכׇ֨ל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ כֹּ֣ל אֲשֶׁ֧ר בְּתוֹכ֛וֹ יִטְמָ֖א וְאֹת֥וֹ תִשְׁבֹּֽרוּ׃",
+    "transliteration": "vekhol-kheliy-heres 'asher-yifol mehem 'el-tvokhvo khol 'asher vetvokhvo yitema' ve'otvo tishevorv.",
     "translation": "E todo vaso de barro que cair neles, tudo o que estiver em seu interior se contaminará, e vocês os quebrarão."
   },
   {
     "verse": 34,
     "original": "מִכׇּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א וְכׇל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכׇל־כְּלִ֖י יִטְמָֽא׃",
+    "transliteration": "mikhol-ha'okhel 'asher ye'akhel 'asher yavvo' 'alayv mayim yitema' vekhol-mashekeh 'asher yishateh vekhol-kheliy yitema'.",
     "translation": "De todo alimento comido que água lhe vier sobre ele ficará impuro; e toda bebida que alguém beber em qualquer vaso também se tornará impura."
   },
   {
     "verse": 35,
     "original": "וְ֠כֹ֠ל אֲשֶׁר־יִפֹּ֨ל מִנִּבְלָתָ֥ם&thinsp;<small>׀</small>&thinsp;עָלָיו֮ יִטְמָא֒ תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃",
+    "transliteration": "vekhol 'asher-yifol minivelatam&thinsp;<small>|</small>&thinsp;'alayv yitema' tanvr vekhiyrayim yutats teme'iym hem vteme'iym yiheyv lakhem.",
     "translation": "E tudo que cair sobre suas carcaças se contaminará. Tâmar e caldeirões serão despedaçados; são impuros, e impuros vos serão."
   },
   {
     "verse": 36,
     "original": "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃",
+    "transliteration": "'akhe ma'eyan vvvor mikeveh-mayim yiheyeh tahvor venoge'a venivelatam yitema'.",
     "translation": "Contudo, uma nascente ou um poço de água permanecerá puro, mas aquele que tocar nos cadáveres neles se contaminará."
   },
   {
     "verse": 37,
     "original": "וְכִ֤י יִפֹּל֙ מִנִּבְלָתָ֔ם עַל־כׇּל־זֶ֥רַע זֵר֖וּעַ אֲשֶׁ֣ר יִזָּרֵ֑עַ טָה֖וֹר הֽוּא׃",
+    "transliteration": "vekhiy yifol minivelatam 'al-khol-zera' zerv'a 'asher yizare'a tahvor hv'.",
     "translation": "E quando cair de suas carcaças sobre qualquer semente que for plantada, essa semente permanecerá pura."
   },
   {
     "verse": 38,
     "original": "וְכִ֤י יֻתַּן־מַ֙יִם֙ עַל־זֶ֔רַע וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vekhiy yutan-mayim 'al-zera' venafal minivelatam 'alayv tame' hv' lakhem.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quando se derramarem águas sobre a semente, e alguma das suas impurezas cair sobre ela, será imunda para vós."
   },
   {
     "verse": 39,
     "original": "וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאׇכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "vekhiy yamvt min-havehemah 'asher-hiy' lakhem le'okhelah hanoge'a venivelatah yitema' 'ad-ha'arev.",
     "translation": "E quando morrer alguma das bestas que vos servem de alimento, quem tocar na carcaça delas se contaminará até ao anoitecer."
   },
   {
     "verse": 40,
     "original": "וְהָֽאֹכֵל֙ מִנִּבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+    "transliteration": "veha'okhel minivelatah yekhaves vegadayv vetame' 'ad-ha'arev vehanose' 'et-nivelatah yekhaves vegadayv vetame' 'ad-ha'arev.",
     "translation": "E o que comer da sua carcaça lavará as suas vestes e será impuro até a tarde, e quem transportar a sua carcaça lavará as suas vestes e será impuro até a tarde."
   },
   {
     "verse": 41,
     "original": "וְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא לֹ֥א יֵאָכֵֽל׃",
+    "transliteration": "vekhol-hasherets hashorets 'al-ha'arets shekets hv' lo' ye'akhel.",
     "translation": "E todo o repugnante reptil que rasteja sobre a terra, abominação é; não será comido."
   },
   {
     "verse": 42,
     "original": "כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜<big>וֹ</big>ן וְכֹ֣ל&thinsp;<b>׀</b> הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כׇּל־מַרְבֵּ֣ה רַגְלַ֔יִם לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+    "transliteration": "khol hvolekhe 'al-gah<big>vo</big>n vekhol&thinsp;<b>|</b> hvolekhe 'al-'areva' 'ad khol-mareveh ragelayim lekhol-hasherets hashorets 'al-ha'arets lo' to'khelvm khiy-shekets hem.",
     "translation": "Tudo o que anda sobre barriga e tudo o que anda sobre quatro pés, até todo aquele em multidão de pés, para todo o réptil que rasteja sobre a terra, não os comereis, pois eles são abominação."
   },
   {
     "verse": 43,
     "original": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+    "transliteration": "'al-teshaketsv 'et-nafeshoteykhem vekhol-hasherets hashorets velo' titame'v vahem venitemetem vam.",
     "translation": "Não contaminareis as vossas almas com todo o répteis que rastejam, nem vos fareis impuros por eles; pois sereis profanados por eles."
   },
   {
     "verse": 44,
     "original": "כִּ֣י אֲנִ֣י יְהֹוָה֮ אֱלֹֽהֵיכֶם֒ וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְלֹ֤א תְטַמְּאוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+    "transliteration": "khiy 'aniy yehovah 'eloheykhem vehitekadishetem viheyiytem kedoshiym khiy kadvosh 'aniy velo' tetame'v 'et-nafeshoteykhem vekhol-hasherets haromes 'al-ha'arets.",
     "translation": "Porque eu sou o Senhor vosso Deus, e santificar-vos-eis; sereis santos, porque eu sou santo. E não contaminareis as vossas almas com qualquer réptil que rasteja sobre a terra."
   },
   {
     "verse": 45,
     "original": "כִּ֣י&thinsp;<b>׀</b> אֲנִ֣י יְהֹוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃",
+    "transliteration": "khiy&thinsp;<b>|</b> 'aniy yehovah hama'aleh 'etekhem me'erets mitserayim liheyot lakhem le'lohiym viheyiytem kedoshiym khiy kadvosh 'aniy.",
     "translation": "Porque eu sou o Senhor, que vos faz subir da terra do Egito para ser vosso Deus; sereis santos, porque eu sou santo."
   },
   {
     "verse": 46,
     "original": "זֹ֣את תּוֹרַ֤ת הַבְּהֵמָה֙ וְהָע֔וֹף וְכֹל֙ נֶ֣פֶשׁ הַֽחַיָּ֔ה הָרֹמֶ֖שֶׂת בַּמָּ֑יִם וּלְכׇל־נֶ֖פֶשׁ הַשֹּׁרֶ֥צֶת עַל־הָאָֽרֶץ׃",
+    "transliteration": "zo't tvorat havehemah veha'vof vekhol nefesh hahayah haromeset vamayim vlekhol-nefesh hashoretset 'al-ha'arets.",
     "translation": "Esta é a lei do animal e da ave, e toda alma vivente que rasteja nas águas e toda alma que se move sobre a terra."
   },
   {
     "verse": 47,
     "original": "לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "lehavediyl veyn hatame' vveyn hatahor vveyn hahayah hane'ekhelet vveyn hahayah 'asher lo' te'akhel.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "para separar entre o impuro e o puro, e entre a criatura que se come e a criatura que não se deve comer."
   }
 ]

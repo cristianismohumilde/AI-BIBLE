@@ -2,141 +2,169 @@
   {
     "verse": 1,
     "original": "ט֤וֹב פַּ֣ת חֲ֭רֵבָה וְשַׁלְוָה־בָ֑הּ מִ֝בַּ֗יִת מָלֵ֥א זִבְחֵי־רִֽיב׃",
+    "transliteration": "tvov fat harevah veshalevah-vah mivayit male' zivehey-riyv.",
     "translation": "Melhor é uma tigela de legumes com tranquilidade do que uma casa cheia de sacrifícios contenciosos."
   },
   {
     "verse": 2,
     "original": "עֶֽבֶד־מַשְׂכִּ֗יל יִ֭מְשֹׁל בְּבֵ֣ן מֵבִ֑ישׁ וּבְת֥וֹךְ אַ֝חִ֗ים יַחֲלֹ֥ק נַחֲלָֽה׃",
+    "transliteration": "'eved-masekhiyl yimeshol veven meviysh vvetvokhe 'ahiym yahalok nahalah.",
     "translation": "Servo prudente governará sobre filho desonroso, e entre irmãos repartirá a herança."
   },
   {
     "verse": 3,
     "original": "מַצְרֵ֣ף לַ֭כֶּסֶף וְכ֣וּר לַזָּהָ֑ב וּבֹחֵ֖ן לִבּ֣וֹת יְהֹוָֽה׃",
+    "transliteration": "matseref lakhesef vekhvr lazahav vvohen livvot yehovah.",
     "translation": "O fogo é provação para a prata, e o forno para o ouro; assim YHWH prova os corações."
   },
   {
     "verse": 4,
     "original": "מֵ֭רַע מַקְשִׁ֣יב עַל־שְׂפַת־אָ֑וֶן שֶׁ֥קֶר מֵ֝זִ֗ין עַל־לְשׁ֥וֹן הַוֺּֽת׃",
+    "transliteration": "mera' makeshiyv 'al-sefat-'aven sheker meziyn 'al-leshvon havot.",
     "translation": "Do mal, presta atenção à boca da perversão; mentira, alinha na língua do engano."
   },
   {
     "verse": 5,
     "original": "לֹעֵ֣ג לָ֭רָשׁ חֵרֵ֣ף עֹשֵׂ֑הוּ שָׂמֵ֥חַ לְ֝אֵ֗יד לֹ֣א יִנָּקֶֽה׃",
+    "transliteration": "lo'eg larash heref 'osehv sameha le'eyd lo' yinakeh.",
     "translation": "O zombador do pobre insulta seu criador; aquele que se alegra com a adversidade não será absolvido."
   },
   {
     "verse": 6,
     "original": "עֲטֶ֣רֶת זְ֭קֵנִים בְּנֵ֣י בָנִ֑ים וְתִפְאֶ֖רֶת בָּנִ֣ים אֲבוֹתָֽם׃",
+    "transliteration": "'ateret zekeniym veney vaniym vetife'eret vaniym 'avvotam.",
     "translation": "A coroa dos anciãos são os netos, e a glória dos filhos são seus pais."
   },
   {
     "verse": 7,
     "original": "לֹא־נָאוָ֣ה לְנָבָ֣ל שְׂפַת־יֶ֑תֶר אַ֝֗ף כִּֽי־לְנָדִ֥יב שְׂפַת־שָֽׁקֶר׃",
+    "transliteration": "lo'-na'vah lenaval sefat-yeter 'af khiy-lenadiyv sefat-shaker.",
     "translation": "Não é lícito ao insensato falar com eloquência, nem ao generoso mentir."
   },
   {
     "verse": 8,
     "original": "אֶבֶן־חֵ֣ן הַ֭שֹּׁחַד בְּעֵינֵ֣י בְעָלָ֑יו אֶֽל־כׇּל־אֲשֶׁ֖ר יִפְנֶ֣ה יַשְׂכִּֽיל׃",
+    "transliteration": "'even-hen hashohad ve'eyney ve'alayv 'el-khol-'asher yifeneh yasekhiyl.",
     "translation": "Pedra preciosa é o suborno nos olhos do que o dá; para onde quer que se volte ele prospera."
   },
   {
     "verse": 9,
     "original": "מְֽכַסֶּה־פֶּ֭שַׁע מְבַקֵּ֣שׁ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף׃",
+    "transliteration": "mekhaseh-fesha' mevakesh 'ahavah veshoneh vedavar maferiyd 'alvf.",
     "translation": "Ocultando o pecado busca-se amor; mas quem age com leviana linguagem separa até mesmo os amigos mais próximos."
   },
   {
     "verse": 10,
     "original": "תֵּ֣חַת גְּעָרָ֣ה בְמֵבִ֑ין מֵהַכּ֖וֹת כְּסִ֣יל מֵאָֽה׃",
+    "transliteration": "tehat ge'arah vemeviyn mehakhvot khesiyl me'ah.",
     "translation": "A repreensão que gera entendimento é encontrada naquele que possui sabedoria; mas o tolo, mesmo com açoites, não aprende."
   },
   {
     "verse": 11,
     "original": "אַךְ־מְרִ֥י יְבַקֶּשׁ־רָ֑ע וּמַלְאָ֥ךְ אַ֝כְזָרִ֗י יְשֻׁלַּח־בּֽוֹ׃",
+    "transliteration": "'akhe-meriy yevakesh-ra' vmale'akhe 'akhezariy yeshulah-vvo.",
     "translation": "Contudo, o rebelde busca o mal, e um mensageiro cruel será enviado contra ele."
   },
   {
     "verse": 12,
     "original": "פָּג֬וֹשׁ דֹּ֣ב שַׁכּ֣וּל בְּאִ֑ישׁ וְאַל־כְּ֝סִ֗יל בְּאִוַּלְתּֽוֹ׃",
+    "transliteration": "fagvosh dov shakhvl ve'iysh ve'al-khesiyl ve'ivaletvo.",
     "translation": "Encontrar um urso despojado é melhor do que encontrar um insensato em sua própria loucura."
   },
   {
     "verse": 13,
     "original": "מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[תָמ֥וּשׁ]</span> <span class=\"mam-kq-k\">(תמיש)</span></span> רָ֝עָ֗ה מִבֵּיתֽוֹ׃",
+    "transliteration": "meshiyv ra'ah tahat tvovah lo'-<span class=\"mam-kq\"><span class=\"mam-kq-q\">[tamvsh]</span> <span class=\"mam-kq-k\">(tmys)</span></span> ra'ah miveytvo.",
     "translation": "Que retribui mal por bem, o mal não cessará de sua casa."
   },
   {
     "verse": 14,
     "original": "פּ֣וֹטֵֽר מַ֭יִם רֵאשִׁ֣ית מָד֑וֹן וְלִפְנֵ֥י הִ֝תְגַּלַּ֗ע הָרִ֥יב נְטֽוֹשׁ׃",
+    "transliteration": "fvoter mayim re'shiyt madvon velifeney hitegala' hariyv netvosh.",
     "translation": "Quem carrega água primeiro provoca contenda, e antes da poeira se levantar, a disputa é abandonada."
   },
   {
     "verse": 15,
     "original": "מַצְדִּ֣יק רָ֭שָׁע וּמַרְשִׁ֣יעַ צַדִּ֑יק תּוֹעֲבַ֥ת יְ֝הֹוָ֗ה גַּם־שְׁנֵיהֶֽם׃",
+    "transliteration": "matsediyk rasha' vmareshiy'a tsadiyk tvo'avat yehovah gam-sheneyhem.",
     "translation": "Justifica o perverso e condena o justo; abominação do Senhor são ambos."
   },
   {
     "verse": 16,
     "original": "לָמָּה־זֶּ֣ה מְחִ֣יר בְּיַד־כְּסִ֑יל לִקְנ֖וֹת חׇכְמָ֣ה וְלֶב־אָֽיִן׃",
+    "transliteration": "lamah-zeh mehiyr veyad-khesiyl likenvot hokhemah velev-'ayin.",
     "translation": "Por que um insensato possui riquezas em sua mão para adquirir sabedoria, quando falta-lhe coração?"
   },
   {
     "verse": 17,
     "original": "בְּכׇל־עֵ֭ת אֹהֵ֣ב הָרֵ֑עַ וְאָ֥ח לְ֝צָרָ֗ה יִוָּלֵֽד׃",
+    "transliteration": "vekhol-'et 'ohev hare'a ve'ah letsarah yivaled.",
     "translation": "Em toda ocasião ama o amigo, e no dia da adversidade nasce um irmão."
   },
   {
     "verse": 18,
     "original": "אָדָ֣ם חֲסַר־לֵ֭ב תּוֹקֵ֣עַ כָּ֑ף עֹרֵ֥ב עֲ֝רֻבָּ֗ה לִפְנֵ֥י רֵעֵֽהוּ׃",
+    "transliteration": "'adam hasar-lev tvoke'a khaf 'orev 'aruvah lifeney re'ehv.",
     "translation": "O homem insensato estala os punhos, oferece como garantia ao seu amigo."
   },
   {
     "verse": 19,
     "original": "אֹ֣הֵֽב פֶּ֭שַׁע אֹהֵ֣ב מַצָּ֑ה מַגְבִּ֥יהַּ פִּ֝תְח֗וֹ מְבַקֶּשׁ־שָֽׁבֶר׃",
+    "transliteration": "'ohev fesha' 'ohev matsah mageviyha fitehvo mevakesh-shaver.",
     "translation": "Amante do pecado ama a confusão, levanta a porta buscando desmoronamento."
   },
   {
     "verse": 20,
     "original": "עִקֶּשׁ־לֵ֭ב לֹ֣א יִמְצָא־ט֑וֹב וְנֶהְפָּ֥ךְ בִּ֝לְשׁוֹנ֗וֹ יִפּ֥וֹל בְּרָעָֽה׃",
+    "transliteration": "'ikesh-lev lo' yimetsa'-tvov venehefakhe vileshvonvo yifvol vera'ah.",
     "translation": "Coração torto não achará o bem, e aquele que se revira na língua cairá no mal."
   },
   {
     "verse": 21,
     "original": "יֹלֵ֣ד כְּ֭סִיל לְת֣וּגָה ל֑וֹ וְלֹא־יִ֝שְׂמַ֗ח אֲבִ֣י נָבָֽל׃",
+    "transliteration": "yoled khesiyl letvgah lvo velo'-yisemah 'aviy naval.",
     "translation": "Gera o insensato dor para si, e o pai do louco não se regozijará."
   },
   {
     "verse": 22,
     "original": "לֵ֣ב שָׂ֭מֵחַ יֵיטִ֣יב גֵּהָ֑ה וְר֥וּחַ נְ֝כֵאָ֗ה תְּיַבֶּשׁ־גָּֽרֶם׃",
+    "transliteration": "lev sameha yeytiyv gehah vervha nekhe'ah teyavesh-garem.",
     "translation": "Coração alegre faz bem ao corpo, mas espírito aflito seca os ossos."
   },
   {
     "verse": 23,
     "original": "שֹׁ֣חַד מֵ֭חֵק רָשָׁ֣ע יִקָּ֑ח לְ֝הַטּ֗וֹת אׇרְח֥וֹת מִשְׁפָּֽט׃",
+    "transliteration": "shohad mehek rasha' yikah lehatvot 'orehvot mishefat.",
     "translation": "Suborno cega os olhos do ímpio, desviando-lhe os caminhos da justiça."
   },
   {
     "verse": 24,
     "original": "אֶת־פְּנֵ֣י מֵבִ֣ין חׇכְמָ֑ה וְעֵינֵ֥י כְ֝סִ֗יל בִּקְצֵה־אָֽרֶץ׃",
+    "transliteration": "'et-feney meviyn hokhemah ve'eyney khesiyl viketseh-'arets.",
     "translation": "A face do entendimento encontra a sabedoria, e os olhos do insensato vagam até os confins da terra."
   },
   {
     "verse": 25,
     "original": "כַּ֣עַס לְ֭אָבִיו בֵּ֣ן כְּסִ֑יל וּ֝מֶ֗מֶר לְיֽוֹלַדְתּֽוֹ׃",
+    "transliteration": "kha'as le'aviyv ven khesiyl vmemer leyvoladetvo.",
     "translation": "Fúria é um filho insensato para seu pai, e opróbrio para a mãe que o deu à luz."
   },
   {
     "verse": 26,
     "original": "גַּ֤ם עֲנ֣וֹשׁ לַצַּדִּ֣יק לֹא־ט֑וֹב לְהַכּ֖וֹת נְדִיבִ֣ים עַל־יֹֽשֶׁר׃",
+    "transliteration": "gam 'anvosh latsadiyk lo'-tvov lehakhvot nediyviym 'al-yosher.",
     "translation": "Também ao homem justo não é bom ferir nobres por retidão."
   },
   {
     "verse": 27,
     "original": "חוֹשֵׂ֣ךְ אֲ֭מָרָיו יוֹדֵ֣עַ דָּ֑עַת <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וקר)</span> <span class=\"mam-kq-q\">[יְקַר־]</span></span>ר֝֗וּחַ אִ֣ישׁ תְּבוּנָֽה׃",
+    "transliteration": "hvosekhe 'amarayv yvode'a da'at <span class=\"mam-kq\"><span class=\"mam-kq-k\">(vkr)</span> <span class=\"mam-kq-q\">[yekar-]</span></span>rvha 'iysh tevvnah.",
     "translation": "Quem guarda seus lábios conhece o conhecimento, e a graça do espírito de tal homem é de bom entendimento."
   },
   {
     "verse": 28,
     "original": "גַּ֤ם אֱוִ֣יל מַ֭חֲרִישׁ חָכָ֣ם יֵחָשֵׁ֑ב אֹטֵ֖ם שְׂפָתָ֣יו נָבֽוֹן׃",
+    "transliteration": "gam 'eviyl mahariysh hakham yehashev 'otem sefatayv navvon.",
     "translation": "Também o insensato, que se cala, será contado por sábio; fechando os lábios, passará por entendido."
   }
 ]

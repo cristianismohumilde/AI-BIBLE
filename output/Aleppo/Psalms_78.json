@@ -2,361 +2,433 @@
   {
     "verse": 1,
     "original": "מַשְׂכִּ֗יל לְאָ֫סָ֥ף הַאֲזִ֣ינָה עַ֭מִּי תּוֹרָתִ֑י הַטּ֥וּ אׇ֝זְנְכֶ֗ם לְאִמְרֵי־פִֽי׃",
+    "transliteration": "masekhiyl le'asaf ha'aziynah 'amiy tvoratiy hatv 'ozenekhem le'imerey-fiy.",
     "translation": "Meditação para Asafe, Ouvi, ó meu povo, minha lei; inclinai os ouvidosvosso às palavras da minha boca."
   },
   {
     "verse": 2,
     "original": "אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי־קֶֽדֶם׃",
+    "transliteration": "'efetehah vemashal fiy 'aviy'ah hiydvot miniy-kedem.",
     "translation": "Abrirei com parábola minha boca, exprimirei enigmas antigos."
   },
   {
     "verse": 3,
     "original": "אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ־לָֽנוּ׃",
+    "transliteration": "'asher shama'env vaneda'em va'avvoteynv siferv-lanv.",
     "translation": "O qual ouvimos e conhecemos; e nossos pais nos contaram."
   },
   {
     "verse": 4,
     "original": "לֹ֤א נְכַחֵ֨ד&thinsp;<b>׀</b> מִבְּנֵיהֶ֗ם לְד֥וֹר אַחֲר֗וֹן מְֽ֭סַפְּרִים תְּהִלּ֣וֹת יְהֹוָ֑ה וֶעֱזוּז֥וֹ וְ֝נִפְלְאֹתָ֗יו אֲשֶׁ֣ר עָשָֽׂה׃",
+    "transliteration": "lo' nekhahed&thinsp;<b>|</b> miveneyhem ledvor 'aharvon mesaferiym tehilvot yehovah ve'ezvzvo venifele'otayv 'asher 'asah.",
     "translation": "Não serão esquecidos entre seus filhos, para a geração seguinte; contarão os louvores do Senhor e suas maravilhas e grandes obras que fez."
   },
   {
     "verse": 5,
     "original": "וַיָּ֤קֶם עֵד֨וּת&thinsp;<b>׀</b> בְּֽיַעֲקֹ֗ב וְתוֹרָה֮ שָׂ֤ם בְּיִשְׂרָ֫אֵ֥ל אֲשֶׁ֣ר צִ֭וָּה אֶת־אֲבוֹתֵ֑ינוּ לְ֝הוֹדִיעָ֗ם לִבְנֵיהֶֽם׃",
+    "transliteration": "vayakem 'edvt&thinsp;<b>|</b> veya'akov vetvorah sam veyisera'el 'asher tsivah 'et-'avvoteynv lehvodiy'am liveneyhem.",
     "translation": "Elevou um testemunho em Jacó e colocou a lei em Israel, encomendando aos nossos antepassados para declará-la às suas gerações."
   },
   {
     "verse": 6,
     "original": "לְמַ֤עַן יֵדְע֨וּ&thinsp;<b>׀</b> דּ֣וֹר אַ֭חֲרוֹן בָּנִ֣ים יִוָּלֵ֑דוּ יָ֝קֻ֗מוּ וִיסַפְּר֥וּ לִבְנֵיהֶֽם׃",
+    "transliteration": "lema'an yede'v&thinsp;<b>|</b> dvor 'aharvon vaniym yivaledv yakumv viysaferv liveneyhem.",
     "translation": "Para que conheçam os da geração seguinte, filhos que nascerem, levantem-se e declarem aos seus filhos."
   },
   {
     "verse": 7,
     "original": "וְיָשִׂ֥ימוּ בֵאלֹהִ֗ים כִּ֫סְלָ֥ם וְלֹ֣א יִ֭שְׁכְּחוּ מַ֥עַלְלֵי־אֵ֑ל וּמִצְוֺתָ֥יו יִנְצֹֽרוּ׃",
+    "transliteration": "veyasiymv ve'lohiym khiselam velo' yishekhehv ma'aleley-'el vmitsevotayv yinetsorv.",
     "translation": "E neles Deus será sua confiança, e não se esquecerão das obras divinas; e guardarão seus preceitos."
   },
   {
     "verse": 8,
     "original": "וְלֹ֤א יִהְי֨וּ&thinsp;<b>׀</b> כַּאֲבוֹתָ֗ם דּוֹר֮ סוֹרֵ֢ר וּמֹ֫רֶ֥ה דּ֭וֹר לֹא־הֵכִ֣ין לִבּ֑וֹ וְלֹֽא־נֶאֶמְנָ֖ה אֶת־אֵ֣ל רוּחֽוֹ׃",
+    "transliteration": "velo' yiheyv&thinsp;<b>|</b> kha'avvotam dvor svorer vmoreh dvor lo'-hekhiyn livvo velo'-ne'emenah 'et-'el rvhvo.",
     "translation": "E não serão como seus pais, uma geração rebelde e desobediente, uma geração cujo coração não se preparou, nem permaneceu fiel a Deus."
   },
   {
     "verse": 9,
     "original": "בְּֽנֵי־אֶפְרַ֗יִם נוֹשְׁקֵ֥י רֽוֹמֵי־קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב׃",
+    "transliteration": "veney-'eferayim nvoshekey rvomey-kashet hafekhv veyvom kerav.",
     "translation": "Os filhos de Efraim, que empunham o arco, voltaram-se no dia da batalha."
   },
   {
     "verse": 10,
     "original": "לֹ֣א שָׁ֭מְרוּ בְּרִ֣ית אֱלֹהִ֑ים וּ֝בְתוֹרָת֗וֹ מֵאֲנ֥וּ לָלֶֽכֶת׃",
+    "transliteration": "lo' shamerv veriyt 'elohiym vvetvoratvo me'anv lalekhet.",
     "translation": "Não guardaram a aliança de Deus, e à sua lei se recusaram a andar."
   },
   {
     "verse": 11,
     "original": "וַיִּשְׁכְּח֥וּ עֲלִילוֹתָ֑יו וְ֝נִפְלְאוֹתָ֗יו אֲשֶׁ֣ר הֶרְאָֽם׃",
+    "transliteration": "vayishekhehv 'aliylvotayv venifele'votayv 'asher here'am.",
     "translation": "E esqueceram-se das suas obras maravilhosas, dos seus prodígios que lhes mostrou."
   },
   {
     "verse": 12,
     "original": "נֶ֣גֶד אֲ֭בוֹתָם עָ֣שָׂה פֶ֑לֶא בְּאֶ֖רֶץ מִצְרַ֣יִם שְׂדֵה־צֹֽעַן׃",
+    "transliteration": "neged 'avvotam 'asah fele' ve'erets mitserayim sedeh-tso'an.",
     "translation": "Diante deles ele fez maravilhas, na terra do Egito, no campo de Zoã."
   },
   {
     "verse": 13,
     "original": "בָּ֣קַע יָ֭ם וַיַּעֲבִירֵ֑ם וַֽיַּצֶּב־מַ֥יִם כְּמוֹ־נֵֽד׃",
+    "transliteration": "vaka' yam vaya'aviyrem vayatsev-mayim khemvo-ned.",
     "translation": "O mar se rachou e os fez passar; as águas se ergueram como um muro."
   },
   {
     "verse": 14,
     "original": "וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכׇל־הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ׃",
+    "transliteration": "vayanehem ve'anan yvomam vekhol-halayelah ve'vor 'esh.",
     "translation": "E consolou-se com uma nuvem de dia, e toda a noite em luz de fogo."
   },
   {
     "verse": 15,
     "original": "יְבַקַּ֣ע צֻ֭רִים בַּמִּדְבָּ֑ר וַ֝יַּ֗שְׁקְ כִּתְהֹמ֥וֹת רַבָּֽה׃",
+    "transliteration": "yevaka' tsuriym vamidevar vayasheke khitehomvot ravah.",
     "translation": "Quebreu rochedos no deserto e fizeram brotar fontes abundantes."
   },
   {
     "verse": 16,
     "original": "וַיּוֹצִ֣א נוֹזְלִ֣ים מִסָּ֑לַע וַיּ֖וֹרֶד כַּנְּהָר֣וֹת מָֽיִם׃",
+    "transliteration": "vayvotsi' nvozeliym misala' vayvored khaneharvot mayim.",
     "translation": "E fez sair águas da rocha, e desceram como rios de água."
   },
   {
     "verse": 17,
     "original": "וַיּוֹסִ֣יפוּ ע֭וֹד לַחֲטֹא־ל֑וֹ לַֽמְר֥וֹת עֶ֝לְי֗וֹן בַּצִּיָּֽה׃",
+    "transliteration": "vayvosiyfv 'vod lahato'-lvo lamervot 'eleyvon vatsiyah.",
     "translation": "E ainda mais pecaram contra ele, provocando ao Altíssimo com sua rebeldia."
   },
   {
     "verse": 18,
     "original": "וַיְנַסּוּ־אֵ֥ל בִּלְבָבָ֑ם לִֽשְׁאׇל־אֹ֥כֶל לְנַפְשָֽׁם׃",
+    "transliteration": "vayenasv-'el vilevavam lishe'ol-'okhel lenafesham.",
     "translation": "E tentaram a Deus em seu coração, pedindo alimento para suas vidas."
   },
   {
     "verse": 19,
     "original": "וַֽיְדַבְּר֗וּ בֵּאלֹ֫הִ֥ים אָ֭מְרוּ הֲי֣וּכַל אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר׃",
+    "transliteration": "vayedaverv ve'lohiym 'amerv hayvkhal 'el la'arokhe shulehan vamidevar.",
     "translation": "Falaram de Deus, disseram: Poderá ele providenciar mesa no deserto?"
   },
   {
     "verse": 20,
     "original": "הֵ֤ן הִכָּה־צ֨וּר&thinsp;<b>׀</b> וַיָּז֣וּבוּ מַיִם֮ וּנְחָלִ֢ים יִ֫שְׁטֹ֥פוּ הֲגַם־לֶ֭חֶם י֣וּכַל תֵּ֑ת אִם־יָכִ֖ין שְׁאֵ֣ר לְעַמּֽוֹ׃",
+    "transliteration": "hen hikhah-tsvr&thinsp;<b>|</b> vayazvvv mayim vnehaliym yishetofv hagam-lehem yvkhal tet 'im-yakhiyn she'er le'amvo.",
     "translation": "Eis, feriu a rocha e saíram águas, e rios transbordaram; até pão pode ele dar, pois proveu carne para seu povo."
   },
   {
     "verse": 21,
     "original": "לָכֵ֤ן&thinsp;<b>׀</b> שָׁמַ֥ע יְהֹוָ֗ה וַֽיִּתְעַ֫בָּ֥ר וְ֭אֵשׁ נִשְּׂקָ֣ה בְיַעֲקֹ֑ב וְגַם־אַ֝֗ף עָלָ֥ה בְיִשְׂרָאֵֽל׃",
+    "transliteration": "lakhen&thinsp;<b>|</b> shama' yehovah vayite'avar ve'esh nisekah veya'akov vegam-'af 'alah veyisera'el.",
     "translation": "Portanto, ouviu o Senhor e se inflamou; e uma chama foi acendida em Jacó e sua ira subiu sobre Israel."
   },
   {
     "verse": 22,
     "original": "כִּ֤י לֹ֣א הֶ֭אֱמִינוּ בֵּאלֹהִ֑ים וְלֹ֥א בָ֝טְח֗וּ בִּישׁוּעָתֽוֹ׃",
+    "transliteration": "khiy lo' he'emiynv ve'lohiym velo' vatehv viyshv'atvo.",
     "translation": "Pois não creram em Deus, e não confiaram na sua salvação."
   },
   {
     "verse": 23,
     "original": "וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח׃",
+    "transliteration": "vayetsav shehakiym mima'al vedaletey shamayim fatah.",
     "translation": "E ordenou os céus do alto, e as portas dos céus foram abertas."
   },
   {
     "verse": 24,
     "original": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן־שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ׃",
+    "transliteration": "vayameter 'aleyhem man le'ekhol vdegan-shamayim natan lamvo.",
     "translation": "E lhes deu manna para comer, e do cereal dos céus lhes forneceu."
   },
   {
     "verse": 25,
     "original": "לֶ֣חֶם אַ֭בִּירִים אָ֣כַל אִ֑ישׁ צֵידָ֬ה שָׁלַ֖ח לָהֶ֣ם לָשֹֽׂבַע׃",
+    "transliteration": "lehem 'aviyriym 'akhal 'iysh tseydah shalah lahem lasova'.",
     "translation": "O homem comeu pão de poderosos; enviou-lhes caça em abundância."
   },
   {
     "verse": 26,
     "original": "יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזּ֣וֹ תֵימָֽן׃",
+    "transliteration": "yasa' kadiym vashamayim vayenaheg ve'uzvo teyman.",
     "translation": "Partiu para o oriente nos céus, e guiou com seu poder até o sul."
   },
   {
     "verse": 27,
     "original": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף׃",
+    "transliteration": "vayameter 'aleyhem khe'afar she'er vkhehvol yamiym 'vof khanaf.",
     "translation": "E derramou sobre eles como cinza, e como areia do mar, aves com asas."
   },
   {
     "verse": 28,
     "original": "וַ֭יַּפֵּל בְּקֶ֣רֶב מַחֲנֵ֑הוּ סָ֝בִ֗יב לְמִשְׁכְּנֹתָֽיו׃",
+    "transliteration": "vayafel vekerev mahanehv saviyv lemishekhenotayv.",
     "translation": "E derramou no meio do seu acampamento, ao redor das suas tendas."
   },
   {
     "verse": 29,
     "original": "וַיֹּאכְל֣וּ וַיִּשְׂבְּע֣וּ מְאֹ֑ד וְ֝תַאֲוָתָ֗ם יָבִ֥א לָהֶֽם׃",
+    "transliteration": "vayo'khelv vayiseve'v me'od veta'avatam yavi' lahem.",
     "translation": "E comeram e fartaram-se muito, e a sua cobiça ele lhes deu."
   },
   {
     "verse": 30,
     "original": "לֹא־זָ֥רוּ מִתַּאֲוָתָ֑ם ע֝֗וֹד אׇכְלָ֥ם בְּפִיהֶֽם׃",
+    "transliteration": "lo'-zarv mita'avatam 'vod 'okhelam vefiyhem.",
     "translation": "Não se desviaram de sua cobiça; ainda andam com a boca cheia dela."
   },
   {
     "verse": 31,
     "original": "וְאַ֤ף אֱלֹהִ֨ים&thinsp;<b>׀</b> עָ֘לָ֤ה בָהֶ֗ם וַֽ֭יַּהֲרֹג בְּמִשְׁמַנֵּיהֶ֑ם וּבַחוּרֵ֖י יִשְׂרָאֵ֣ל הִכְרִֽיעַ׃",
+    "transliteration": "ve'af 'elohiym&thinsp;<b>|</b> 'alah vahem vayaharog vemishemaneyhem vvahvrey yisera'el hikheriy'a.",
     "translation": "E Deus subiu contra eles e os matou em sua gordura, e fez prevalecer os jovens de Israel."
   },
   {
     "verse": 32,
     "original": "בְּכׇל־זֹ֥את חָֽטְאוּ־ע֑וֹד וְלֹֽא־הֶ֝אֱמִ֗ינוּ בְּנִפְלְאוֹתָֽיו׃",
+    "transliteration": "vekhol-zo't hate'v-'vod velo'-he'emiynv venifele'votayv.",
     "translation": "Em tudo isso pecaram ainda mais, e não creram em suas maravilhas."
   },
   {
     "verse": 33,
     "original": "וַיְכַל־בַּהֶ֥בֶל יְמֵיהֶ֑ם וּ֝שְׁנוֹתָ֗ם בַּבֶּהָלָֽה׃",
+    "transliteration": "vayekhal-vahevel yemeyhem vshenvotam vavehalah.",
     "translation": "E consumaram seus dias, e suas gerações na perturbação."
   },
   {
     "verse": 34,
     "original": "אִם־הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ־אֵֽל׃",
+    "transliteration": "'im-haragam vderashvhv veshavv veshiharv-'el.",
     "translation": "Se os mataram e lhes exigem contas, então voltem e busquem a Deus."
   },
   {
     "verse": 35,
     "original": "וַֽ֭יִּזְכְּרוּ כִּֽי־אֱלֹהִ֣ים צוּרָ֑ם וְאֵ֥ל עֶ֝לְי֗וֹן גֹּאֲלָֽם׃",
+    "transliteration": "vayizekherv khiy-'elohiym tsvram ve'el 'eleyvon go'alam.",
     "translation": "Eles se lembraram de que Deus é sua rocha, e o Deus Altíssimo, seu redentor."
   },
   {
     "verse": 36,
     "original": "וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ־לֽוֹ׃",
+    "transliteration": "vayefatvhv vefiyhem vvileshvonam yekhazevv-lvo.",
     "translation": "E o feriram com suas palavras, e na sua língua lhe fizeram falsas acusações."
   },
   {
     "verse": 37,
     "original": "וְ֭לִבָּם לֹא־נָכ֣וֹן עִמּ֑וֹ וְלֹ֥א נֶ֝אֶמְנ֗וּ בִּבְרִיתֽוֹ׃",
+    "transliteration": "velivam lo'-nakhvon 'imvo velo' ne'emenv viveriytvo.",
     "translation": "E seus corações não eram retos com ele, e não foram fiéis à sua aliança."
   },
   {
     "verse": 38,
     "original": "וְה֤וּא רַח֨וּם&thinsp;<b>׀</b> יְכַפֵּ֥ר עָוֺן֮ וְֽלֹא־יַֽ֫שְׁחִ֥ית וְ֭הִרְבָּה לְהָשִׁ֣יב אַפּ֑וֹ וְלֹא־יָ֝עִ֗יר כׇּל־חֲמָתֽוֹ׃",
+    "transliteration": "vehv' rahvm&thinsp;<b>|</b> yekhafer 'avon velo'-yashehiyt vehirevah lehashiyv 'afvo velo'-ya'iyr khol-hamatvo.",
     "translation": "E ele, por ser misericordioso, perdoa a transgressão e não destrói; sim, muitas vezes volta seu zelo e não desperta toda sua ira."
   },
   {
     "verse": 39,
     "original": "וַ֭יִּזְכֹּר כִּֽי־בָשָׂ֣ר הֵ֑מָּה ר֥וּחַ ה֝וֹלֵ֗ךְ וְלֹ֣א יָשֽׁוּב׃",
+    "transliteration": "vayizekhor khiy-vasar hemah rvha hvolekhe velo' yashvv.",
     "translation": "E ele se lembrou de que são carne; espírito que sopra e não retorna."
   },
   {
     "verse": 40,
     "original": "כַּ֭מָּה יַמְר֣וּהוּ בַמִּדְבָּ֑ר יַ֝עֲצִיב֗וּהוּ בִּישִׁימֽוֹן׃",
+    "transliteration": "khamah yamervhv vamidevar ya'atsiyvvhv viyshiymvon.",
     "translation": "Quanto se rebelaram contra ele no deserto, irritando-o nas planícies áridas."
   },
   {
     "verse": 41,
     "original": "וַיָּשׁ֣וּבוּ וַיְנַסּ֣וּ אֵ֑ל וּקְד֖וֹשׁ יִשְׂרָאֵ֣ל הִתְוֽוּ׃",
+    "transliteration": "vayashvvv vayenasv 'el vkedvosh yisera'el hitevv.",
     "translation": "Eles se voltaram e provaram a Deus, e o Santo de Israel foi manifestado."
   },
   {
     "verse": 42,
     "original": "לֹא־זָכְר֥וּ אֶת־יָד֑וֹ י֝֗וֹם אֲֽשֶׁר־פָּדָ֥ם מִנִּי־צָֽר׃",
+    "transliteration": "lo'-zakherv 'et-yadvo yvom 'asher-fadam miniy-tsar.",
     "translation": "Não lembraram da sua mão, do dia em que os livrou do inimigo."
   },
   {
     "verse": 43,
     "original": "אֲשֶׁר־שָׂ֣ם בְּ֭מִצְרַיִם אֹתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה־צֹֽעַן׃",
+    "transliteration": "'asher-sam vemitserayim 'otvotayv vmvofetayv visedeh-tso'an.",
     "translation": "que pôs seus sinais no Egito e suas maravilhas no campo de Tsão."
   },
   {
     "verse": 44,
     "original": "וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל־יִשְׁתָּיֽוּן׃",
+    "transliteration": "vayahafokhe ledam ye'oreyhem venozeleyhem val-yishetayvn.",
     "translation": "E transformou seus rios em sangue, e suas correntes, para que não pudessem beber."
   },
   {
     "verse": 45,
     "original": "יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם׃",
+    "transliteration": "yeshalah vahem 'arov vayo'khelem vtsefarede'a vatashehiytem.",
     "translation": "Ele os enviou; e os devoraram; as rãs, e os destruíram."
   },
   {
     "verse": 46,
     "original": "וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִ֝יגִיעָ֗ם לָאַרְבֶּֽה׃",
+    "transliteration": "vayiten lehasiyl yevvlam viygiy'am la'areveh.",
     "translation": "E deu ao destruidor sua colheita, e mesmo assim eles se voltam para o mal."
   },
   {
     "verse": 47,
     "original": "יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּחֲנָמַֽל׃",
+    "transliteration": "yaharog vavarad gafenam veshikemvotam vahanamal.",
     "translation": "Mata em seu seio as videiras e suas sarnambaias com a geada.\n\nNota: \"samambaias\" foi alterado para \"sarnambaias\", pois esta última é uma tradução mais precisa no contexto do hebraico antigo, embora seja um termo menos comum em português. Entretanto, considerando o rigor acadêmico e a fidelidade à fonte original, essa foi a decisão de tradução tomada.\n\nNota: A correção anterior contém uma imprecisão pois \"sarnambaias\" não é um termo correto para o contexto. O termo mais adequado é manter \"samambaias\". Portanto:\n\nMata em seu seio as videiras e suas samambaias com a geada."
   },
   {
     "verse": 48,
     "original": "וַיַּסְגֵּ֣ר לַבָּרָ֣ד בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים׃",
+    "transliteration": "vayaseger lavarad ve'iyram vmikeneyhem lareshafiym.",
     "translation": "E fechou o redemoinho diante dos arameus e seus rebanhos foram entregues às chamas."
   },
   {
     "verse": 49,
     "original": "יְשַׁלַּח־בָּ֨ם&thinsp;<b>׀</b> חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃",
+    "transliteration": "yeshalah-vam&thinsp;<b>|</b> harvon 'afvo 'everah vaza'am vetsarah mishelahat male'akhey ra'iym.",
     "translation": "Lançou sobre eles seu furioso ardor, indignação e ira, uma perturbação por meio dos anjos de males."
   },
   {
     "verse": 50,
     "original": "יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא־חָשַׂ֣ךְ מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר׃",
+    "transliteration": "yefales natiyv le'afvo lo'-hasakhe mimavet nafesham vehayatam ladever hisegiyr.",
     "translation": "Preparou o caminho para a sua ira; não poupou as suas almas à morte e entregou os seus viventes ao pestilento."
   },
   {
     "verse": 51,
     "original": "וַיַּ֣ךְ כׇּל־בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאׇהֳלֵי־חָֽם׃",
+    "transliteration": "vayakhe khol-vekhvor vemitserayim re'shiyt 'voniym ve'oholey-ham.",
     "translation": "E feriu todo primogênito no Egito, o primeiro-fruto de forças nos tabernáculos de Ham."
   },
   {
     "verse": 52,
     "original": "וַיַּסַּ֣ע כַּצֹּ֣אן עַמּ֑וֹ וַֽיְנַהֲגֵ֥ם כַּ֝עֵ֗דֶר בַּמִּדְבָּֽר׃",
+    "transliteration": "vayasa' khatso'n 'amvo vayenahagem kha'eder vamidevar.",
     "translation": "E ele os guiou como ovelhas, conduzindo-os como rebanho no deserto."
   },
   {
     "verse": 53,
     "original": "וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת־א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם׃",
+    "transliteration": "vayanehem lavetah velo' fahadv ve'et-'voyeveyhem khisah hayam.",
     "translation": "E encontraram descanso e não tiveram medo, pois o mar cobriu seus inimigos."
   },
   {
     "verse": 54,
     "original": "וַ֭יְבִיאֵם אֶל־גְּב֣וּל קׇדְשׁ֑וֹ הַר־זֶ֝֗ה קָנְתָ֥ה יְמִינֽוֹ׃",
+    "transliteration": "vayeviy'em 'el-gevvl kodeshvo har-zeh kanetah yemiynvo.",
     "translation": "E os trouxe até os limites de seu santo domínio; este monte ele adquiriu com sua mão direita."
   },
   {
     "verse": 55,
     "original": "וַיְגָ֤רֶשׁ מִפְּנֵיהֶ֨ם&thinsp;<b>׀</b> גּוֹיִ֗ם וַֽ֭יַּפִּילֵם בְּחֶ֣בֶל נַחֲלָ֑ה וַיַּשְׁכֵּ֥ן בְּ֝אׇהֳלֵיהֶ֗ם שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vayegaresh mifeneyhem&thinsp;<b>|</b> gvoyim vayafiylem vehevel nahalah vayashekhen ve'oholeyhem shivetey yisera'el.",
     "translation": "E afastou gentes de diante deles e os colocou no laço da herança, e fez habitar nas suas tendas as tribos de Israel."
   },
   {
     "verse": 56,
     "original": "וַיְנַסּ֣וּ וַ֭יַּמְרוּ אֶת־אֱלֹהִ֣ים עֶלְי֑וֹן וְ֝עֵדוֹתָ֗יו לֹ֣א שָׁמָֽרוּ׃",
+    "transliteration": "vayenasv vayamerv 'et-'elohiym 'eleyvon ve'edvotayv lo' shamarv.",
     "translation": "Eles o tentaram, rebelaram-se contra o Deus Altíssimo, e suas leis não guardaram."
   },
   {
     "verse": 57,
     "original": "וַיִּסֹּ֣גוּ וַֽ֭יִּבְגְּדוּ כַּאֲבוֹתָ֑ם נֶ֝הְפְּכ֗וּ כְּקֶ֣שֶׁת רְמִיָּֽה׃",
+    "transliteration": "vayisogv vayivegedv kha'avvotam nehefekhv khekeshet remiyah.",
     "translation": "Eles se desviaram e traíram como seus pais; voltaram-se como um arco enganoso."
   },
   {
     "verse": 58,
     "original": "וַיַּכְעִיס֥וּהוּ בְּבָמוֹתָ֑ם וּ֝בִפְסִילֵיהֶ֗ם יַקְנִיאֽוּהוּ׃",
+    "transliteration": "vayakhe'iysvhv vevamvotam vvifesiyleyhem yakeniy'vhv.",
     "translation": "E irritaram-no com seus altos e, com suas imagens, o provocaram."
   },
   {
     "verse": 59,
     "original": "שָׁמַ֣ע אֱ֭לֹהִים וַֽיִּתְעַבָּ֑ר וַיִּמְאַ֥ס מְ֝אֹ֗ד בְּיִשְׂרָאֵֽל׃",
+    "transliteration": "shama' 'elohiym vayite'avar vayime'as me'od veyisera'el.",
     "translation": "Ouviu Deus e se irou; com grande aversão rejeitou Israel."
   },
   {
     "verse": 60,
     "original": "וַ֭יִּטֹּשׁ מִשְׁכַּ֣ן שִׁל֑וֹ אֹ֝֗הֶל שִׁכֵּ֥ן בָּאָדָֽם׃",
+    "transliteration": "vayitosh mishekhan shilvo 'ohel shikhen va'adam.",
     "translation": "E abandonou o tabernáculo de Siló, a tenda onde habitava entre os homens."
   },
   {
     "verse": 61,
     "original": "וַיִּתֵּ֣ן לַשְּׁבִ֣י עֻזּ֑וֹ וְֽתִפְאַרְתּ֥וֹ בְיַד־צָֽר׃",
+    "transliteration": "vayiten lasheviy 'uzvo vetife'aretvo veyad-tsar.",
     "translation": "E deu ao cativo sua força, e sua glória na mão do adversário."
   },
   {
     "verse": 62,
     "original": "וַיַּסְגֵּ֣ר לַחֶ֣רֶב עַמּ֑וֹ וּ֝בְנַחֲלָת֗וֹ הִתְעַבָּֽר׃",
+    "transliteration": "vayaseger laherev 'amvo vvenahalatvo hite'avar.",
     "translation": "E fechou sua gente à espada, e em sua herança se tornou abominável."
   },
   {
     "verse": 63,
     "original": "בַּחוּרָ֥יו אָכְלָה־אֵ֑שׁ וּ֝בְתוּלֹתָ֗יו לֹ֣א הוּלָּֽלוּ׃",
+    "transliteration": "vahvrayv 'akhelah-'esh vvetvlotayv lo' hvlalv.",
     "translation": "Seus jovens foram consumidos pelo fogo, e suas virgens não se regozijaram."
   },
   {
     "verse": 64,
     "original": "כֹּ֭הֲנָיו בַּחֶ֣רֶב נָפָ֑לוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃",
+    "transliteration": "khohanayv vaherev nafalv ve'alemenotayv lo' tivekheynah.",
     "translation": "Seus sacerdotes caíram à espada, e suas viúvas não choram."
   },
   {
     "verse": 65,
     "original": "וַיִּקַ֖ץ כְּיָשֵׁ֥ן&thinsp;<small>׀</small>&thinsp;אֲדֹנָ֑י כְּ֝גִבּ֗וֹר מִתְרוֹנֵ֥ן מִיָּֽיִן׃",
+    "transliteration": "vayikats kheyashen&thinsp;<small>|</small>&thinsp;'adonay khegivvor mitervonen miyayin.",
     "translation": "E despertou como quem dormita, como guerreiro que se exalta do vinho."
   },
   {
     "verse": 66,
     "original": "וַיַּךְ־צָרָ֥יו אָח֑וֹר חֶרְפַּ֥ת ע֝וֹלָ֗ם נָ֣תַן לָֽמוֹ׃",
+    "transliteration": "vayakhe-tsarayv 'ahvor herefat 'volam natan lamvo.",
     "translation": "E feriu seus inimigos nas costas, concedeu-lhes opróbrio eterno."
   },
   {
     "verse": 67,
     "original": "וַ֭יִּמְאַס בְּאֹ֣הֶל יוֹסֵ֑ף וּֽבְשֵׁ֥בֶט אֶ֝פְרַ֗יִם לֹ֣א בָחָֽר׃",
+    "transliteration": "vayime'as ve'ohel yvosef vveshevet 'eferayim lo' vahar.",
     "translation": "E rejeitou a tenda de José e não escolheu o cetro de Efraim."
   },
   {
     "verse": 68,
     "original": "וַ֭יִּבְחַר אֶת־שֵׁ֣בֶט יְהוּדָ֑ה אֶֽת־הַ֥ר צִ֝יּ֗וֹן אֲשֶׁ֣ר אָהֵֽב׃",
+    "transliteration": "vayivehar 'et-shevet yehvdah 'et-har tsiyvon 'asher 'ahev.",
     "translation": "E escolheu a tribo de Judá, o monte Sião que ama."
   },
   {
     "verse": 69,
     "original": "וַיִּ֣בֶן כְּמֽוֹ־רָ֭מִים מִקְדָּשׁ֑וֹ כְּ֝אֶ֗רֶץ יְסָדָ֥הּ לְעוֹלָֽם׃",
+    "transliteration": "vayiven khemvo-ramiym mikedashvo khe'erets yesadah le'volam.",
     "translation": "E ele elevou seu santuário como as alturas, como a terra que foi estabelecida para sempre."
   },
   {
     "verse": 70,
     "original": "וַ֭יִּבְחַר בְּדָוִ֣ד עַבְדּ֑וֹ וַ֝יִּקָּחֵ֗הוּ מִֽמִּכְלְאֹ֥ת צֹֽאן׃",
+    "transliteration": "vayivehar vedavid 'avedvo vayikahehv mimikhele'ot tso'n.",
     "translation": "E escolheu a Davi, seu servo, tirando-o das covas das ovelhas."
   },
   {
     "verse": 71,
     "original": "מֵאַחַ֥ר עָל֗וֹת הֱבִ֫יא֥וֹ לִ֭רְעוֹת בְּיַעֲקֹ֣ב עַמּ֑וֹ וּ֝בְיִשְׂרָאֵ֗ל נַחֲלָתֽוֹ׃",
+    "transliteration": "me'ahar 'alvot heviy'vo lire'vot veya'akov 'amvo vveyisera'el nahalatvo.",
     "translation": "Depois de subir, ele o fez pastorear em Jacó seu povo e em Israel sua herança."
   },
   {
     "verse": 72,
     "original": "וַ֭יִּרְעֵם כְּתֹ֣ם לְבָב֑וֹ וּבִתְבוּנ֖וֹת כַּפָּ֣יו יַנְחֵֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayire'em khetom levavvo vvitevvnvot khafayv yanehem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os apascentará com bondade de coração, e com a sabedoria de suas mãos os guiará."
   }
 ]

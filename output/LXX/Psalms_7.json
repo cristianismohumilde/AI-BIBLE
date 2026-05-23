@@ -2,91 +2,109 @@
   {
     "verse": 1,
     "original": "ψαλμὸς τῷ Δαυιδ ὃν ᾖσεν τῷ κυρίῳ ὑπὲρ τῶν λόγων Χουσι υἱοῦ Ιεμενι ",
+    "transliteration": "psalmos to Dayid hon isen to kyrio hyper ton logon Choysi yhioy Iemeni ",
     "translation": "Salmo de Davi, que ele cantou ao Senhor por causa das palavras de Husi, filho de Jemini."
   },
   {
     "verse": 2,
     "original": "κύριε ὁ θεός μου ἐπὶ σοὶ ἤλπισα σῶσόν με ἐκ πάντων τῶν διωκόντων με καὶ ῥῦσαί με ",
+    "transliteration": "kyrie ho theos moy epi soi ilpisa soson me ek panton ton diokonton me kai rhysai me ",
     "translation": "Senhor, meu Deus, em ti pus a esperança; livra-me de todos os que me perseguem e salva-me."
   },
   {
     "verse": 3,
     "original": "μήποτε ἁρπάσῃ ὡς λέων τὴν ψυχήν μου μὴ ὄντος λυτρουμένου μηδὲ σῴζοντος ",
+    "transliteration": "mipote harpasi hos leon tin psychin moy mi ontos lytroymenoy mide sozontos ",
     "translation": "Que ele não arrebate como leão a minha alma, nem haja quem a resgate ou a salve."
   },
   {
     "verse": 4,
     "original": "κύριε ὁ θεός μου εἰ ἐποίησα τοῦτο εἰ ἔστιν ἀδικία ἐν χερσίν μου ",
+    "transliteration": "kyrie ho theos moy ei epoiisa toyto ei estin adikia en chersin moy ",
     "translation": "Senhor, Deus meu, se fiz isso, se há iniqüidade em minhas mãos."
   },
   {
     "verse": 5,
     "original": "εἰ ἀνταπέδωκα τοῖς ἀνταποδιδοῦσίν μοι κακά ἀποπέσοιν ἄρα ἀπὸ τῶν ἐχθρῶν μου κενός ",
+    "transliteration": "ei antapedoka tois antapodidoysin moi kaka apopesoin ara apo ton echthron moy kenos ",
     "translation": "Se retribuí aos que me fazem mal, certamente cairão vazios diante dos meus inimigos."
   },
   {
     "verse": 6,
     "original": "καταδιώξαι ἄρα ὁ ἐχθρὸς τὴν ψυχήν μου καὶ καταλάβοι καὶ καταπατήσαι εἰς γῆν τὴν ζωήν μου καὶ τὴν δόξαν μου εἰς χοῦν κατασκηνώσαι διάψαλμα ",
+    "transliteration": "katadioxai ara ho echthros tin psychin moy kai katalavoi kai katapatisai eis gin tin zoin moy kai tin doxan moy eis choyn kataskinosai diapsalma ",
     "translation": "Então o inimigo perseguirá minha alma e me alcançará, pisando a minha vida na terra; minha glória descerá à poeira. Selah"
   },
   {
     "verse": 7,
     "original": "ἀνάστηθι κύριε ἐν ὀργῇ σου ὑψώθητι ἐν τοῖς πέρασι τῶν ἐχθρῶν μου ἐξεγέρθητι κύριε ὁ θεός μου ἐν προστάγματι ᾧ ἐνετείλω ",
+    "transliteration": "anastithi kyrie en orgi soy hypsothiti en tois perasi ton echthron moy exegerthiti kyrie ho theos moy en prostagmati ho eneteilo ",
     "translation": "Levanta-te, Senhor, na tua ira; exalta-te sobre os inimigos que me cercam. Levanta-te, ó meu Deus, conforme à ordem com que me deste instrução."
   },
   {
     "verse": 8,
     "original": "καὶ συναγωγὴ λαῶν κυκλώσει σε καὶ ὑπὲρ ταύτης εἰς ὕψος ἐπίστρεψον ",
+    "transliteration": "kai synagogi laon kyklosei se kai hyper taytis eis hypsos epistrepson ",
     "translation": "E a congregação dos povos te cercará, e sobre isso volta para cima em altitude. \n\nObservação: O rascunho está conforme solicitado, sem erros gramaticais evidentes relacionados ao número, tradução literal de lematização ou imprecisões quantitativas notáveis. Entretanto, a tradução \"volta para cima em altitude\" pode não captar a profundidade teológica e o estilo solene do texto original. Uma possível melhoria, mantendo o rigor acadêmico solicitado, poderia ser:\n\nE a congregação dos povos te cercará, e sobre isso volta ao alto."
   },
   {
     "verse": 9,
     "original": "κύριος κρινεῖ λαούς κρῖνόν με κύριε κατὰ τὴν δικαιοσύνην μου καὶ κατὰ τὴν ἀκακίαν μου ἐπ’ ἐμοί ",
+    "transliteration": "kyrios krinei laoys krinon me kyrie kata tin dikaiosynin moy kai kata tin akakian moy ep' emoi ",
     "translation": "Senhor, julgarás os povos; julga-me, Senhor, conforme a minha justiça e a minha integridade."
   },
   {
     "verse": 10,
     "original": "συντελεσθήτω δὴ πονηρία ἁμαρτωλῶν καὶ κατευθυνεῖς δίκαιον ἐτάζων καρδίας καὶ νεφροὺς ὁ θεός ",
+    "transliteration": "syntelesthito di poniria hamartolon kai kateythyneis dikaion etazon kardias kai nefroys ho theos ",
     "translation": "Seja consumada, pois, a maldade dos pecadores e direitamente julgas o justo, porque tu examinas corações e rins, ó Deus."
   },
   {
     "verse": 11,
     "original": "δικαία ἡ βοήθειά μου παρὰ τοῦ θεοῦ τοῦ σῴζοντος τοὺς εὐθεῖς τῇ καρδίᾳ ",
+    "transliteration": "dikaia hi voitheia moy para toy theoy toy sozontos toys eytheis ti kardia ",
     "translation": "A justiça é a minha ajuda vinda de Deus, que salva os retos de coração."
   },
   {
     "verse": 12,
     "original": "ὁ θεὸς κριτὴς δίκαιος καὶ ἰσχυρὸς καὶ μακρόθυμος μὴ ὀργὴν ἐπάγων καθ’ ἑκάστην ἡμέραν ",
+    "transliteration": "ho theos kritis dikaios kai ischyros kai makrothymos mi orgin epagon kath' hekastin himeran ",
     "translation": "Deus, juiz justo e poderoso, e de longanimidade, não trazendo sua ira a cada dia."
   },
   {
     "verse": 13,
     "original": "ἐὰν μὴ ἐπιστραφῆτε τὴν ῥομφαίαν αὐτοῦ στιλβώσει τὸ τόξον αὐτοῦ ἐνέτεινεν καὶ ἡτοίμασεν αὐτὸ ",
+    "transliteration": "ean mi epistrafite tin rhomfaian aytoy stilvosei to toxon aytoy eneteinen kai hitoimasen ayto ",
     "translation": "Se não se converterem, a espada dele reluzirá; o arco foi estendido e preparado."
   },
   {
     "verse": 14,
     "original": "καὶ ἐν αὐτῷ ἡτοίμασεν σκεύη θανάτου τὰ βέλη αὐτοῦ τοῖς καιομένοις ἐξειργάσατο ",
+    "transliteration": "kai en ayto hitoimasen skeyi thanatoy ta veli aytoy tois kaiomenois exeirgasato ",
     "translation": "Nele, preparou instrumentos de morte; suas flechas para os queimados, esculpiu."
   },
   {
     "verse": 15,
     "original": "ἰδοὺ ὠδίνησεν ἀδικίαν συνέλαβεν πόνον καὶ ἔτεκεν ἀνομίαν ",
+    "transliteration": "idoy odinisen adikian synelaven ponon kai eteken anomian ",
     "translation": "Eis o parto da iniquidade, concebeu angústias e deu à luz perversão."
   },
   {
     "verse": 16,
     "original": "λάκκον ὤρυξεν καὶ ἀνέσκαψεν αὐτὸν καὶ ἐμπεσεῖται εἰς βόθρον ὃν εἰργάσατο ",
+    "transliteration": "lakkon oryxen kai aneskapsen ayton kai empeseitai eis vothron hon eirgasato ",
     "translation": "cova escavou e aprofundou-a, e cairá na cova que fez"
   },
   {
     "verse": 17,
     "original": "ἐπιστρέψει ὁ πόνος αὐτοῦ εἰς κεφαλὴν αὐτοῦ καὶ ἐπὶ κορυφὴν αὐτοῦ ἡ ἀδικία αὐτοῦ καταβήσεται ",
+    "transliteration": "epistrepsei ho ponos aytoy eis kefalin aytoy kai epi koryfin aytoy hi adikia aytoy katavisetai ",
     "translation": "O sofrimento dele voltará à sua cabeça, e a iniqüidade dele descerá sobre o seu vértice."
   },
   {
     "verse": 18,
     "original": "ἐξομολογήσομαι κυρίῳ κατὰ τὴν δικαιοσύνην αὐτοῦ καὶ ψαλῶ τῷ ὀνόματι κυρίου τοῦ ὑψίστου ",
+    "transliteration": "exomologisomai kyrio kata tin dikaiosynin aytoy kai psalo to onomati kyrioy toy hypsistoy ",
     "translation": "Confessarei ao Senhor pela sua justiça e cantarei o nome do Senhor Altíssimo."
   }
 ]

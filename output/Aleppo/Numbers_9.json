@@ -2,116 +2,139 @@
   {
     "verse": 1,
     "original": "וַיְדַבֵּ֣ר יְהֹוָ֣ה אֶל־מֹשֶׁ֣ה בְמִדְבַּר־סִ֠ינַ֠י בַּשָּׁנָ֨ה הַשֵּׁנִ֜ית לְצֵאתָ֨ם מֵאֶ֧רֶץ מִצְרַ֛יִם בַּחֹ֥דֶשׁ הָרִאשׁ֖וֹן לֵאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh vemidevar-siynay vashanah hasheniyt letse'tam me'erets mitserayim vahodesh hari'shvon le'mor.",
     "translation": "E o Senhor falou a Moisés no deserto de Sinai, no segundo ano da saída dos filhos de Israel da terra do Egito, no primeiro mês, dizendo:"
   },
   {
     "verse": 2,
     "original": "וְיַעֲשׂ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־הַפָּ֖סַח בְּמוֹעֲדֽוֹ׃",
+    "transliteration": "veya'asv veney-yisera'el 'et-hafasah vemvo'advo.",
     "translation": "E os filhos de Israel farão o Pascal em sua estação devida."
   },
   {
     "verse": 3,
     "original": "בְּאַרְבָּעָ֣ה עָשָֽׂר־י֠וֹם בַּחֹ֨דֶשׁ הַזֶּ֜ה בֵּ֧ין הָֽעַרְבַּ֛יִם תַּעֲשׂ֥וּ אֹת֖וֹ בְּמֹעֲד֑וֹ כְּכׇל־חֻקֹּתָ֥יו וּכְכׇל־מִשְׁפָּטָ֖יו תַּעֲשׂ֥וּ אֹתֽוֹ׃",
+    "transliteration": "ve'areva'ah 'asar-yvom vahodesh hazeh veyn ha'arevayim ta'asv 'otvo vemo'advo khekhol-hukotayv vkhekhol-mishefatayv ta'asv 'otvo.",
     "translation": "No quatorze do mês, entre os dois crepúsculos, fareis isso em sua devida ocasião; conforme todas as suas ordenanças e todos os seus juízos o fareis."
   },
   {
     "verse": 4,
     "original": "וַיְדַבֵּ֥ר מֹשֶׁ֛ה אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לַעֲשֹׂ֥ת הַפָּֽסַח׃",
+    "transliteration": "vayedaver mosheh 'el-veney yisera'el la'asot hafasah.",
     "translation": "E Moisés falou aos filhos de Israel para fazerem o Pascal."
   },
   {
     "verse": 5,
     "original": "וַיַּעֲשׂ֣וּ אֶת־הַפֶּ֡סַח בָּרִאשׁ֡וֹן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֥וֹם לַחֹ֛דֶשׁ בֵּ֥ין הָעַרְבַּ֖יִם בְּמִדְבַּ֣ר סִינָ֑י כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֤ה יְהֹוָה֙ אֶת־מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vaya'asv 'et-hafesah vari'shvon ve'areva'ah 'asar yvom lahodesh veyn ha'arevayim vemidevar siynay khekhol 'asher tsivah yehovah 'et-mosheh khen 'asv veney yisera'el.",
     "translation": "E fizeram a Páscoa no primeiro dia, ao crepúsculo do quatorze do mês, no deserto de Sinai, conforme ordenara o Senhor a Moisés; assim os filhos de Israel o realizaram."
   },
   {
     "verse": 6,
     "original": "וַיְהִ֣י אֲנָשִׁ֗ים אֲשֶׁ֨ר הָי֤וּ טְמֵאִים֙ לְנֶ֣פֶשׁ אָדָ֔ם וְלֹא־יָכְל֥וּ לַעֲשֹׂת־הַפֶּ֖סַח בַּיּ֣וֹם הַה֑וּא וַֽיִּקְרְב֞וּ לִפְנֵ֥י מֹשֶׁ֛ה וְלִפְנֵ֥י אַהֲרֹ֖ן בַּיּ֥וֹם הַהֽוּא׃",
+    "transliteration": "vayehiy 'anashiym 'asher hayv teme'iym lenefesh 'adam velo'-yakhelv la'asot-hafesah vayvom hahv' vayikerevv lifeney mosheh velifeney 'aharon vayvom hahv'.",
     "translation": "E havia homens que eram impuros por causa de um morto e não podiam fazer a Páscoa naquele dia; então se aproximaram perante Moisés e perante Aarão naquele dia."
   },
   {
     "verse": 7,
     "original": "וַ֠יֹּאמְר֠וּ הָאֲנָשִׁ֤ים הָהֵ֙מָּה֙ אֵלָ֔יו אֲנַ֥חְנוּ טְמֵאִ֖ים לְנֶ֣פֶשׁ אָדָ֑ם לָ֣מָּה נִגָּרַ֗ע לְבִלְתִּ֨י הַקְרִ֜יב אֶת־קׇרְבַּ֤ן יְהֹוָה֙ בְּמֹ֣עֲד֔וֹ בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vayo'merv ha'anashiym hahemah 'elayv 'anahenv teme'iym lenefesh 'adam lamah nigara' leviletiy hakeriyv 'et-korevan yehovah vemo'advo vetvokhe veney yisera'el.",
     "translation": "Os homens lhe disseram: \"Nós estamos impuros por causa de um cadáver; por que seremos privados de trazer o sacrifício do Senhor em seu tempo, entre os filhos de Israel?\""
   },
   {
     "verse": 8,
     "original": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם מֹשֶׁ֑ה עִמְד֣וּ וְאֶשְׁמְעָ֔ה מַה־יְצַוֶּ֥ה יְהֹוָ֖ה לָכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vayo'mer 'alehem mosheh 'imedv ve'esheme'ah mah-yetsaveh yehovah lakhem.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E disse-lhes Moisés: Permanecei aqui, e eu ouvirei o que o Senhor ordena a vós."
   },
   {
     "verse": 9,
     "original": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "transliteration": "vayedaver yehovah 'el-mosheh le'mor.",
     "translation": "E o Senhor falou a Moisés, dizendo:"
   },
   {
     "verse": 10,
     "original": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר אִ֣ישׁ אִ֣ישׁ כִּי־יִהְיֶֽה־טָמֵ֣א&thinsp;<small>׀</small>&thinsp;לָנֶ֡פֶשׁ אוֹ֩ בְדֶ֨רֶךְ רְחֹקָ֜הׄ לָכֶ֗ם א֚וֹ לְדֹרֹ֣תֵיכֶ֔ם וְעָ֥שָׂה פֶ֖סַח לַיהֹוָֽה׃",
+    "transliteration": "daver 'el-veney yisera'el le'mor 'iysh 'iysh khiy-yiheyeh-tame'&thinsp;<small>|</small>&thinsp;lanefesh 'vo vederekhe rehokah` lakhem 'vo ledoroteykhem ve'asah fesah layhovah.",
     "translation": "Fala aos filhos de Israel, dizendo: Se qualquer um for impuro pelo contato com morto, ou estiver em longa jornada, ainda assim fará a Páscoa do Senhor."
   },
   {
     "verse": 11,
     "original": "בַּחֹ֨דֶשׁ הַשֵּׁנִ֜י בְּאַרְבָּעָ֨ה עָשָׂ֥ר י֛וֹם בֵּ֥ין הָעַרְבַּ֖יִם יַעֲשׂ֣וּ אֹת֑וֹ עַל־מַצּ֥וֹת וּמְרֹרִ֖ים יֹאכְלֻֽהוּ׃",
+    "transliteration": "vahodesh hasheniy ve'areva'ah 'asar yvom veyn ha'arevayim ya'asv 'otvo 'al-matsvot vmeroriym yo'kheluhv.",
     "translation": "No mês segundo, no dia quatorze, entre os dois crepúsculos, farão isso; com pães ázimos e amarguras o comerão."
   },
   {
     "verse": 12,
     "original": "לֹֽא־יַשְׁאִ֤ירוּ מִמֶּ֙נּוּ֙ עַד־בֹּ֔קֶר וְעֶ֖צֶם לֹ֣א יִשְׁבְּרוּ־ב֑וֹ כְּכׇל־חֻקַּ֥ת הַפֶּ֖סַח יַעֲשׂ֥וּ אֹתֽוֹ׃",
+    "transliteration": "lo'-yashe'iyrv mimenv 'ad-voker ve'etsem lo' yisheverv-vvo khekhol-hukat hafesah ya'asv 'otvo.",
     "translation": "Não ficará dele até a manhã, nem quebrarão osso nele; conforme todo estatuto da Páscoa o farão."
   },
   {
     "verse": 13,
     "original": "וְהָאִישׁ֩ אֲשֶׁר־ה֨וּא טָה֜וֹר וּבְדֶ֣רֶךְ לֹא־הָיָ֗ה וְחָדַל֙ לַעֲשׂ֣וֹת הַפֶּ֔סַח וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּ֑יהָ כִּ֣י&thinsp;<b>׀</b> קׇרְבַּ֣ן יְהֹוָ֗ה לֹ֤א הִקְרִיב֙ בְּמֹ֣עֲד֔וֹ חֶטְא֥וֹ יִשָּׂ֖א הָאִ֥ישׁ הַהֽוּא׃",
+    "transliteration": "veha'iysh 'asher-hv' tahvor vvederekhe lo'-hayah vehadal la'asvot hafesah venikheretah hanefesh hahiv' me'ameyha khiy&thinsp;<b>|</b> korevan yehovah lo' hikeriyv vemo'advo hete'vo yisa' ha'iysh hahv'.",
     "translation": "E o homem que for puro e não estiver em viagem, e deixar de fazer a Páscoa, essa alma será cortada do seu povo; pois não ofereceu o sacrifício do Senhor no seu tempo determinado, esse homem arcará com sua culpa."
   },
   {
     "verse": 14,
     "original": "וְכִֽי־יָג֨וּר אִתְּכֶ֜ם גֵּ֗ר וְעָ֤שָֽׂה פֶ֙סַח֙ לַֽיהֹוָ֔ה כְּחֻקַּ֥ת הַפֶּ֛סַח וּכְמִשְׁפָּט֖וֹ כֵּ֣ן יַעֲשֶׂ֑ה חֻקָּ֤ה אַחַת֙ יִהְיֶ֣ה לָכֶ֔ם וְלַגֵּ֖ר וּלְאֶזְרַ֥ח הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "transliteration": "vekhiy-yagvr 'itekhem ger ve'asah fesah layhovah khehukat hafesah vkhemishefatvo khen ya'aseh hukah 'ahat yiheyeh lakhem velager vle'ezerah ha'arets.&nbsp;<span class=\"mam-spi-samekh\">{s}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     "translation": "E quando houver entre vós um estrangeiro que faça a Páscoa ao Senhor, conforme a estatuição da Páscoa e segundo seu decreto assim fará; uma mesma estatuição vos será para o estrangeiro e para o nativo da terra."
   },
   {
     "verse": 15,
     "original": "וּבְיוֹם֙ הָקִ֣ים אֶת־הַמִּשְׁכָּ֔ן כִּסָּ֤ה הֶֽעָנָן֙ אֶת־הַמִּשְׁכָּ֔ן לְאֹ֖הֶל הָעֵדֻ֑ת וּבָעֶ֜רֶב יִהְיֶ֧ה עַֽל־הַמִּשְׁכָּ֛ן כְּמַרְאֵה־אֵ֖שׁ עַד־בֹּֽקֶר׃",
+    "transliteration": "vveyvom hakiym 'et-hamishekhan khisah he'anan 'et-hamishekhan le'ohel ha'edut vva'erev yiheyeh 'al-hamishekhan khemare'eh-'esh 'ad-voker.",
     "translation": "E no dia em que erigiu o tabernáculo, a nuvem cobriu o tabernáculo, a tenda do testemunho; e à noite parecia fogo sobre o tabernáculo até de manhã."
   },
   {
     "verse": 16,
     "original": "כֵּ֚ן יִהְיֶ֣ה תָמִ֔יד הֶעָנָ֖ן יְכַסֶּ֑נּוּ וּמַרְאֵה־אֵ֖שׁ לָֽיְלָה׃",
+    "transliteration": "khen yiheyeh tamiyd he'anan yekhasenv vmare'eh-'esh layelah.",
     "translation": "Assim será perpetuamente: a nuvem o cobrirá, e a aparência do fogo pela noite."
   },
   {
     "verse": 17,
     "original": "וּלְפִ֞י הֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הָאֹ֔הֶל וְאַ֣חֲרֵי כֵ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וּבִמְק֗וֹם אֲשֶׁ֤ר יִשְׁכׇּן־שָׁם֙ הֶֽעָנָ֔ן שָׁ֥ם יַחֲנ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "transliteration": "vlefiy he'alvot he'anan me'al ha'ohel ve'aharey khen yise'v veney yisera'el vvimekvom 'asher yishekhon-sham he'anan sham yahanv veney yisera'el.",
     "translation": "E segundo a elevação da nuvem do sobre o tabernáculo, então os filhos de Israel se levantavam e caminhavam; e no lugar onde a nuvem permanecia acampada, lá acampavam os filhos de Israel."
   },
   {
     "verse": 18,
     "original": "עַל־פִּ֣י יְהֹוָ֗ה יִסְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְעַל־פִּ֥י יְהֹוָ֖ה יַחֲנ֑וּ כׇּל־יְמֵ֗י אֲשֶׁ֨ר יִשְׁכֹּ֧ן הֶעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יַחֲנֽוּ׃",
+    "transliteration": "'al-fiy yehovah yise'v veney yisera'el ve'al-fiy yehovah yahanv khol-yemey 'asher yishekhon he'anan 'al-hamishekhan yahanv.",
     "translation": "Pelos mandamentos do Senhor os filhos de Israel se moviam, e pelos mandamentos do Senhor acampavam; sempre que a nuvem permanecia sobre a habitação, acampados ficavam."
   },
   {
     "verse": 19,
     "original": "וּבְהַאֲרִ֧יךְ הֶֽעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יָמִ֣ים רַבִּ֑ים וְשָׁמְר֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־מִשְׁמֶ֥רֶת יְהֹוָ֖ה וְלֹ֥א יִסָּֽעוּ׃",
+    "transliteration": "vveha'ariykhe he'anan 'al-hamishekhan yamiym raviym veshamerv veney-yisera'el 'et-mishemeret yehovah velo' yisa'v.",
     "translation": "E prolongando-se a nuvem sobre o tabernáculo por muitos dias, os filhos de Israel guardavam a guarda do Senhor e não partiam."
   },
   {
     "verse": 20,
     "original": "וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֧ה הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל־הַמִּשְׁכָּ֑ן עַל־פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל־פִּ֥י יְהֹוָ֖ה יִסָּֽעוּ׃",
+    "transliteration": "veyesh 'asher yiheyeh he'anan yamiym misefar 'al-hamishekhan 'al-fiy yehovah yahanv ve'al-fiy yehovah yisa'v.",
     "translation": "E haverá dias em que a nuvem ficará sobre a tenda; conforme o Senhor ordenar acampamento e conforme o Senhor ordenar partida."
   },
   {
     "verse": 21,
     "original": "וְיֵ֞שׁ אֲשֶׁר־יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד־בֹּ֔קֶר וְנַעֲלָ֧ה הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ א֚וֹ יוֹמָ֣ם וָלַ֔יְלָה וְנַעֲלָ֥ה הֶעָנָ֖ן וְנָסָֽעוּ׃",
+    "transliteration": "veyesh 'asher-yiheyeh he'anan me'erev 'ad-voker vena'alah he'anan vavoker venasa'v 'vo yvomam valayelah vena'alah he'anan venasa'v.",
     "translation": "E haverá que a nuvem durará do crepúsculo à aurora, e ao romper da aurora a nuvem se elevará e eles partirão; ou de dia e de noite, e quando a nuvem ascender, eles embarcarão em sua jornada."
   },
   {
     "verse": 22,
     "original": "אֽוֹ־יֹמַ֜יִם אוֹ־חֹ֣דֶשׁ אוֹ־יָמִ֗ים בְּהַאֲרִ֨יךְ הֶעָנָ֤ן עַל־הַמִּשְׁכָּן֙ לִשְׁכֹּ֣ן עָלָ֔יו יַחֲנ֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל וְלֹ֣א יִסָּ֑עוּ וּבְהֵעָלֹת֖וֹ יִסָּֽעוּ׃",
+    "transliteration": "'vo-yomayim 'vo-hodesh 'vo-yamiym veha'ariykhe he'anan 'al-hamishekhan lishekhon 'alayv yahanv veney-yisera'el velo' yisa'v vvehe'alotvo yisa'v.",
     "translation": "Sejam dias ou meses, enquanto a nuvem se alonga sobre a tenda, assentando-se sobre ela, os filhos de Israel acamparão e não partirão; mas quando for erguida, partirão."
   },
   {
     "verse": 23,
     "original": "עַל־פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל־פִּ֥י יְהֹוָ֖ה יִסָּ֑עוּ אֶת־מִשְׁמֶ֤רֶת יְהֹוָה֙ שָׁמָ֔רוּ עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "'al-fiy yehovah yahanv ve'al-fiy yehovah yisa'v 'et-mishemeret yehovah shamarv 'al-fiy yehovah veyad-mosheh.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "Pela palavra do Senhor acamparão, e pela palavra do Senhor partirão; guardaram a guarda do Senhor, conforme a palavra do Senhor por meio de Moisés."
   }
 ]

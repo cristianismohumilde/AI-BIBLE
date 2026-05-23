@@ -2,111 +2,133 @@
   {
     "verse": 1,
     "original": "בְּ֭נִי אִם־תִּקַּ֣ח אֲמָרָ֑י וּ֝מִצְוֺתַ֗י תִּצְפֹּ֥ן אִתָּֽךְ׃",
+    "transliteration": "veniy 'im-tikah 'amaray vmitsevotay titsefon 'itakhe.",
     "translation": "Filho, se tomares as minhas palavras e os meus mandamentos guardar contigo."
   },
   {
     "verse": 2,
     "original": "לְהַקְשִׁ֣יב לַחׇכְמָ֣ה אׇזְנֶ֑ךָ תַּטֶּ֥ה לִ֝בְּךָ֗ לַתְּבוּנָֽה׃",
+    "transliteration": "lehakeshiyv lahokhemah 'ozenekha tateh livekha latevvnah.",
     "translation": "Ouça a sabedoria, incline seu ouvido; dirija seu coração para o discernimento."
   },
   {
     "verse": 3,
     "original": "כִּ֤י אִ֣ם לַבִּינָ֣ה תִקְרָ֑א לַ֝תְּבוּנָ֗ה תִּתֵּ֥ן קוֹלֶֽךָ׃",
+    "transliteration": "khiy 'im laviynah tikera' latevvnah titen kvolekha.",
     "translation": "Pois chamarás à inteligência, e darás voz à compreensão."
   },
   {
     "verse": 4,
     "original": "אִם־תְּבַקְשֶׁ֥נָּה כַכָּ֑סֶף וְֽכַמַּטְמוֹנִ֥ים תַּחְפְּשֶֽׂנָּה׃",
+    "transliteration": "'im-tevakeshenah khakhasef vekhamatemvoniym tahefesenah.",
     "translation": "Se a buscas como prata, e a procuras como tesouros ocultos;"
   },
   {
     "verse": 5,
     "original": "אָ֗ז תָּ֭בִין יִרְאַ֣ת יְהֹוָ֑ה וְדַ֖עַת אֱלֹהִ֣ים תִּמְצָֽא׃",
+    "transliteration": "'az taviyn yire'at yehovah veda'at 'elohiym timetsa'.",
     "translation": "Então compreenderás o temor do Senhor e encontrarás o conhecimento de Deus."
   },
   {
     "verse": 6,
     "original": "כִּֽי־יְ֭הֹוָה יִתֵּ֣ן חׇכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה׃",
+    "transliteration": "khiy-yehovah yiten hokhemah mifiyv da'at vtevvnah.",
     "translation": "Porque o Senhor dá sabedoria; da sua boca vêm conhecimento e entendimento."
   },
   {
     "verse": 7,
     "original": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(וצפן)</span> <span class=\"mam-kq-q\">[יִצְפֹּ֣ן]</span></span> לַ֭יְשָׁרִים תּוּשִׁיָּ֑ה מָ֝גֵ֗ן לְהֹ֣לְכֵי תֹֽם׃",
+    "transliteration": "<span class=\"mam-kq\"><span class=\"mam-kq-k\">(vtsfn)</span> <span class=\"mam-kq-q\">[yitsefon]</span></span> layeshariym tvshiyah magen leholekhey tom.",
     "translation": "Para os retos, tesouro; escudo para os que andam com integridade."
   },
   {
     "verse": 8,
     "original": "לִ֭נְצֹר אׇרְח֣וֹת מִשְׁפָּ֑ט וְדֶ֖רֶךְ חֲסִידָ֣ו יִשְׁמֹֽר׃",
+    "transliteration": "linetsor 'orehvot mishefat vederekhe hasiydav yishemor.",
     "translation": "Para guardiões dos caminhos do juízo, e a vereda de seu santo preservará."
   },
   {
     "verse": 9,
     "original": "אָ֗ז תָּ֭בִין צֶ֣דֶק וּמִשְׁפָּ֑ט וּ֝מֵישָׁרִ֗ים כׇּל־מַעְגַּל־טֽוֹב׃",
+    "transliteration": "'az taviyn tsedek vmishefat vmeyshariym khol-ma'egal-tvov.",
     "translation": "Então entenderás a justiça e o julgamento, e todas as sendas do bem."
   },
   {
     "verse": 10,
     "original": "כִּֽי־תָב֣וֹא חׇכְמָ֣ה בְלִבֶּ֑ךָ וְ֝דַ֗עַת לְֽנַפְשְׁךָ֥ יִנְעָֽם׃",
+    "transliteration": "khiy-tavvo' hokhemah velivekha veda'at lenafeshekha yine'am.",
     "translation": "Porque a sabedoria entrará no teu coração e o conhecimento será agradável à tua alma."
   },
   {
     "verse": 11,
     "original": "מְ֭זִמָּה תִּשְׁמֹ֥ר עָלֶ֗יךָ תְּבוּנָ֥ה תִנְצְרֶֽכָּה׃",
+    "transliteration": "mezimah tishemor 'aleykha tevvnah tinetserekhah.",
     "translation": "Planejamento te guardará, entendimento te protegerá."
   },
   {
     "verse": 12,
     "original": "לְ֭הַצִּ֣ילְךָ מִדֶּ֣רֶךְ רָ֑ע מֵ֝אִ֗ישׁ מְדַבֵּ֥ר תַּהְפֻּכֽוֹת׃",
+    "transliteration": "lehatsiylekha miderekhe ra' me'iysh medaver tahefukhvot.",
     "translation": "Para te salvar do caminho mau, do homem que fala perversões."
   },
   {
     "verse": 13,
     "original": "הַ֭עֹ֣זְבִים אׇרְח֣וֹת יֹ֑שֶׁר לָ֝לֶ֗כֶת בְּדַרְכֵי־חֹֽשֶׁךְ׃",
+    "transliteration": "ha'ozeviym 'orehvot yosher lalekhet vedarekhey-hoshekhe.",
     "translation": "Os que abandonam os caminhos da retidão para andar pelas veredas das trevas."
   },
   {
     "verse": 14,
     "original": "הַ֭שְּׂמֵחִים לַעֲשׂ֥וֹת רָ֑ע יָ֝גִ֗ילוּ בְּֽתַהְפֻּכ֥וֹת רָֽע׃",
+    "transliteration": "hasemehiym la'asvot ra' yagiylv vetahefukhvot ra'.",
     "translation": "Os que se alegram em fazer o mal se regozijarão nas perturbações malignas."
   },
   {
     "verse": 15,
     "original": "אֲשֶׁ֣ר אׇרְחֹתֵיהֶ֣ם עִקְּשִׁ֑ים וּ֝נְלוֹזִ֗ים בְּמַעְגְּלוֹתָֽם׃",
+    "transliteration": "'asher 'orehoteyhem 'ikeshiym vnelvoziym vema'egelvotam.",
     "translation": "cuja sendas são tortuosas, e enganados estão em seus caminhos."
   },
   {
     "verse": 16,
     "original": "לְ֭הַצִּ֣ילְךָ מֵאִשָּׁ֣ה זָרָ֑ה מִ֝נׇּכְרִיָּ֗ה אֲמָרֶ֥יהָ הֶחֱלִֽיקָה׃",
+    "transliteration": "lehatsiylekha me'ishah zarah minokheriyah 'amareyha heheliykah.",
     "translation": "Para te livrar da mulher estranha, da extrangeira cujas palavras se fazem suaves."
   },
   {
     "verse": 17,
     "original": "הַ֭עֹזֶבֶת אַלּ֣וּף נְעוּרֶ֑יהָ וְאֶת־בְּרִ֖ית אֱלֹהֶ֣יהָ שָׁכֵֽחָה׃",
+    "transliteration": "ha'ozevet 'alvf ne'vreyha ve'et-veriyt 'eloheyha shakhehah.",
     "translation": "A que se desfez do ensinamento da sua mocidade e esqueceu a aliança do seu Deus."
   },
   {
     "verse": 18,
     "original": "כִּ֤י שָׁ֣חָה אֶל־מָ֣וֶת בֵּיתָ֑הּ וְאֶל־רְ֝פָאִ֗ים מַעְגְּלֹתֶֽיהָ׃",
+    "transliteration": "khiy shahah 'el-mavet veytah ve'el-refa'iym ma'egeloteyha.",
     "translation": "Pois sua casa se curvou para a morte, e suas roldanas para os Rephaim."
   },
   {
     "verse": 19,
     "original": "כׇּל־בָּ֭אֶיהָ לֹ֣א יְשׁוּב֑וּן וְלֹֽא־יַ֝שִּׂ֗יגוּ אׇרְח֥וֹת חַיִּֽים׃",
+    "transliteration": "khol-va'eyha lo' yeshvvvn velo'-yasiygv 'orehvot hayiym.",
     "translation": "Todos os seus vêm não se voltarão, e não alcançarão os caminhos da vida."
   },
   {
     "verse": 20,
     "original": "לְמַ֗עַן תֵּ֭לֵךְ בְּדֶ֣רֶךְ טוֹבִ֑ים וְאׇרְח֖וֹת צַדִּיקִ֣ים תִּשְׁמֹֽר׃",
+    "transliteration": "lema'an telekhe vederekhe tvoviym ve'orehvot tsadiykiym tishemor.",
     "translation": "Para que andes no caminho dos bons e guardes as veredas dos justos."
   },
   {
     "verse": 21,
     "original": "כִּֽי־יְשָׁרִ֥ים יִשְׁכְּנוּ־אָ֑רֶץ וּ֝תְמִימִ֗ים יִוָּ֥תְרוּ בָֽהּ׃",
+    "transliteration": "khiy-yeshariym yishekhenv-'arets vtemiymiym yivaterv vah.",
     "translation": "Pois os retos habitarão na terra, e os íntegros permanecerão nela."
   },
   {
     "verse": 22,
     "original": "וּ֭רְשָׁעִים מֵאֶ֣רֶץ יִכָּרֵ֑תוּ וּ֝בוֹגְדִ֗ים יִסְּח֥וּ מִמֶּֽנָּה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+    "transliteration": "vresha'iym me'erets yikharetv vvvogediym yisehv mimenah.&nbsp;<span class=\"mam-spi-pe\">{f}</span><br>",
     "translation": "E os ímpios da terra serão cortados, e os traidores desaparecerão dela."
   }
 ]
